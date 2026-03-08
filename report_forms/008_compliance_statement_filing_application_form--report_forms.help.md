@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect compliance statement filing information from filers for official regulatory purposes. To ensure accuracy and completeness of the information submitted, we will be verifying the provided details through internal checks. Please ensure that all required fields are filled out correctly and that the information is up-to-date. 
-</thinking>
-
 # Compliance Statement Filing Application Form - Help Guide
 ## Purpose
 The Compliance Statement Filing Application Form is a regulatory form used to collect information from filers for official compliance statement filings.

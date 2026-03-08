@@ -1,9 +1,3 @@
-<thinking>
-
-This guide helps ensure that the form is filled out correctly and in a way that the requester's needs are met. To avoid duplication or unnecessary processing, please ensure that you've already made a similar request or have an existing request in the works. The form should take about 5-10 minutes to complete, depending on the level of detail needed.
-
-</thinking>
-
 # Budget Utilization Summary Request Form - Help Guide
 ## Purpose
 The Budget Utilization Summary Request Form is a tool used to request a budget utilization summary from our team. This form helps us understand your specific needs and requirements for the summary, allowing us to provide you with the most accurate and useful information possible.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Foreman Report Form - Help Guide
 
 ## Purpose

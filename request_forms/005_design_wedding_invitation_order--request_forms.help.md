@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Design Wedding Invitation Order - Help Guide
 ## Purpose
 The "Design Wedding Invitation Order" form is a tool used to request design services for wedding invitations. It gathers essential details to create a comprehensive wedding invitation order.

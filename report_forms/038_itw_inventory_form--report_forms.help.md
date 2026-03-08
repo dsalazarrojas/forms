@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # itw_inventory_form - Help Guide
 ## Purpose
 The ITW Inventory Form is used to gather information about inventory items. This form is used for internal tracking and reporting purposes, and is typically completed by authorized personnel. 

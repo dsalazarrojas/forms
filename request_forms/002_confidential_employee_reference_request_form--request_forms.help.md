@@ -1,5 +1,3 @@
-<thinking>As an internal tool, this form is used to collect confidential information about an employee's performance and behavior from a colleague or manager who has worked with them. This form is typically used for internal reference purposes only and not for external job applications. Before filling out this form, please ensure that the candidate is aware that you are providing a confidential reference. If you're unsure about the purpose or requirements for this form, please reach out to the relevant manager or HR representative for clarification. Please fill out the form only for the purpose of providing a genuine and accurate reference for the candidate. Do not submit the form if the candidate is not aware or has not given their consent for the reference.</thinking>
-
 # Confidential Employee Reference Request Form - Help Guide
 
 ## Purpose

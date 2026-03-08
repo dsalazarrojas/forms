@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help law enforcement officers create and manage reports and cases, ensuring that they have all the necessary information to make informed decisions and take appropriate actions. To create a comprehensive guide for users, we should focus on explaining the purpose of the form, its sections, and the meaning of each field in a clear and concise manner.
-
-To avoid duplication, we can create an internal block to check if a guide already exists for this form before generating this guide.</thinking>
-
 # Criminal Affidavit Form - Help Guide
 ## Purpose
 The Criminal Affidavit Form is used by law enforcement officers to create and manage reports and cases related to criminal activity. It captures essential information about the police case number, case date, suspect name and address, suspect contact information, police officer's name and station, description of the crime, witness statement, and the current status of the case.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to capture key information about vehicle deliveries, specifically the job number, vehicle type, and status of various vehicle lights and beams. The form aims to ensure that all necessary details are accurately recorded for each delivery event. To complete this form, please make sure that the fields accurately reflect the vehicle's condition at the time of delivery.
-</thinking>
-
 # Receiving Checklist - Help Guide
 ## Purpose
 The Receiving Checklist is a form used to document and verify the receipt and condition of delivered vehicles. It's essential for accurate and efficient processing of vehicle deliveries.

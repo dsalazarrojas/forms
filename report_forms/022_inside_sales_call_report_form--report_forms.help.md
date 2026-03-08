@@ -1,11 +1,3 @@
-<thinking>
-Inside sales calls are a crucial part of the sales process, and this form is designed to help the inside sales team track and document these calls. This form is used to record important details about the calls, including the date and time of the call, the sales representative involved, the customer's name, phone number, and email, and any follow-up actions that need to be taken. By completing this form, the inside sales team can quickly and easily reference this information and track progress on follow-up actions.
-
-Before proceeding, make sure you have a clear understanding of the call and the customer's needs. If the call is related to a previous call or report, please refer back to that report for context.
-
-To avoid duplicating reports, please ensure that the call report is only completed once for each unique call.
-</thinking>
-
 # inside_sales_call_report_form - Help Guide
 
 ## Purpose

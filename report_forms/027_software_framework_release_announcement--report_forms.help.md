@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to be used by end-users who need to fill out the "Software Framework Release Announcement" form. This form is designed to collect information about the release of a software framework, including its release date, version, and other relevant details.
-
-Before proceeding, please ensure that you have a clear understanding of the purpose of this form and that you are not duplicating efforts elsewhere. This form is intended to be used for internal and external communications regarding the release of a software framework.
-
-</thinking>
-
 # Software Framework Release Announcement - Help Guide
 ## Purpose
 The "Software Framework Release Announcement" form is used to collect and document information about the release of a software framework. This includes details such as release date, version, and impact of changes made in the release.

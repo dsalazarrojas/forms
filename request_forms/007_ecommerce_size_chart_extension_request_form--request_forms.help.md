@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ecommerce_size_chart_extension_request_form - Help Guide
 
 ## Purpose

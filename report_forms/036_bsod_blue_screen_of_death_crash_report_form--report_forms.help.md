@@ -1,11 +1,3 @@
-<thinking>
-We should first determine if this form is relevant to the user's needs. The purpose of the BSOD (Blue Screen Of Death) Crash Report Form is to collect detailed information about system crashes, which are often caused by hardware or software issues. To confirm, you are experiencing a system crash and want to report it to our team to aid in troubleshooting and resolution.
-
-Before proceeding, please ensure you are reporting the same crash, and not a different incident or issue. If you are unsure, please contact us directly.
-
-Assuming you are reporting a valid crash, let's guide you through the form completion process.
-</thinking>
-
 # BSOD (Blue Screen Of Death) Crash Report Form - Help Guide
 
 ## Purpose

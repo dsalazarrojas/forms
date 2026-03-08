@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Disclosure Agreement Request Form - Help Guide
 ## Purpose
 The Non Disclosure Agreement Request Form is designed to collect information from individuals or organizations seeking non-disclosure agreements, which are legal contracts that prevent the exchange of confidential information. This form helps us assess their request and ensure that we can provide the necessary guidance and documentation to support their needs.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to assist end-users in completing the Civic Issue Report Form. It is intended to collect information regarding civic issues, such as public safety concerns, infrastructure problems, environmental issues, public health concerns, zoning or property management matters, or other issues. Please note that this form should not be used for personal or repetitive reports. If you have already submitted a report on the same issue, you may not resubmit it. If you are unsure whether this form is suitable for your report, please contact reports-civic.gov for assistance.
-</thinking>
-
 # Civic Issue Report Form - Help Guide
 ## Purpose
 The Civic Issue Report Form is designed to allow citizens to report issues affecting their community, such as public safety concerns, infrastructure problems, environmental issues, public health concerns, and zoning or property management matters.

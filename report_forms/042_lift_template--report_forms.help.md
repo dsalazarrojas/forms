@@ -1,7 +1,3 @@
-<thinking>
-The Lift Template form is a critical component of the Lift reporting process, used to capture and document essential information related to lift operations. This form serves as a centralized hub for users to input relevant details about lift settings, parameters, and associated templates. It's essential for users to complete this form accurately to ensure that critical data is captured correctly and efficiently.
-To ensure accuracy and avoid duplication, please review each field carefully before submitting the form. If you're unsure about any field, please reach out to your supervisor or technical support team for guidance.
-</thinking>
 # Lift Template - Help Guide
 ## Purpose
 This form is used to collect and document essential information for lift operations, including settings, parameters, and templates.

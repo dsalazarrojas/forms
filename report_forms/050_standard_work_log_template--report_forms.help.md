@@ -1,5 +1,3 @@
-<thinking>...The purpose of this "Standard Work Log Template" form is to collect data on completed work orders, allowing users to log their work history and track time spent on individual tasks. This form is likely used for reporting and monitoring purposes within a team or organization. To avoid duplication of effort and ensure accurate reporting, it's essential to fill this form out correctly.</thinking>
-
 # Standard Work Log Template - Help Guide
 ## Purpose
 The "Standard Work Log Template" is a form used to record and track work orders, including the date of visit, work order ID, start and end times, work description, time spent, and update date. This form is designed to be completed by workers to provide accurate and timely information for reporting and monitoring purposes.

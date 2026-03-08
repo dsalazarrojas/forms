@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for users to report their monthly spending details. It should be completed by users to provide a clear and accurate overview of their income and expenses. This form is typically used for accounting and budgeting purposes.
-</thinking>
-
 # Monthly Spending Details Form - Help Guide
 ## Purpose
 This form is used for users to report their monthly spending details for accounting and budgeting purposes.

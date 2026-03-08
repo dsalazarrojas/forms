@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help Music Shop staff efficiently refer customers with broken or damaged instruments to the best repair technician in the shop. The form is intended for customers to report issues with their instruments and provide relevant information for the staff to assign the repair work to the most suitable technician. This ensures that customers receive timely and effective service. The form will only be visible to authorized staff members, and no duplicate submissions will be accepted.
-</thinking>
-
 # Music Instrument Repair Referral Form - Help Guide
 ## Purpose
 This form is used to refer customers with instrument repair needs to the most suitable technician at Music Shop. It provides essential information for staff to assign the repair work efficiently.

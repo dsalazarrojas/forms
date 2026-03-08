@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visitor Release And Risk Acknowledgment Form - Help Guide
 
 ## Purpose

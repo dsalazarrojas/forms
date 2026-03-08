@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information and feedback from employees on the cleanliness of the factory and its facilities. This form is used to track and report cleanliness ratings and notes for different areas of the factory. It is meant to be completed by individuals who are conducting factory cleanliness audits, such as EHS (Environment, Health, and Safety) officers, Quality Assurance (QA) personnel, or Operations personnel.
-
-To avoid any overlap or repetition in the form, ensure that you complete it for the correct factory and purpose (e.g., daily, weekly, or quarterly cleanliness audit).
-
-</thinking>
-
 # Factory Cleanliness Audit Report - Help Guide
 ## Purpose
 The Factory Cleanliness Audit Report form is used to gather information and feedback on the cleanliness of the factory and its facilities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by department administrators to request purchases for their department. The purpose of this form is to gather information about the requested purchase, including the department making the request, the reason for the request, and the details of the purchase. To ensure that the form is completed correctly, the form must be filled out in its entirety, without any missing or duplicate entries. Please check that the form meets the required fields and the form is not a duplicate of a previously submitted request.
-</thinking>
-
 # Department Purchase Request Form - Help Guide
 ## Purpose
 The Department Purchase Request Form is used by department administrators to request purchases for their department. The form gathers information about the requested purchase, including the department making the request, the reason for the request, and the details of the purchase.

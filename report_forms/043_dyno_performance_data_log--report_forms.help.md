@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a data logging system used to collect information about dyno performance. The purpose of this form is to record and track data related to the performance of a vehicle's engine, including details about the vehicle's identification and settings. This form will be used in conjunction with other data collection tools to provide a comprehensive view of the vehicle's performance over time. 
-
-This form is not intended to be filled out more than once per session, and the data collected here will be used to inform future decisions and analysis. Please take a moment to review each field carefully and ensure you are providing accurate and relevant information. </thinking>
-
 # Dyno Performance Data Log - Help Guide
 ## Purpose
 The Dyno Performance Data Log form is used to collect information about a vehicle's engine performance during a dyno session.

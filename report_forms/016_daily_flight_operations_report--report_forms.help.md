@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting on flight operations, specifically for submitting daily flight schedules and actual departure/arrival times. The form is designed for pilots, dispatchers, and flight coordinators to provide accurate and timely information on flights. The form will help track and document flight progress, allowing for better decision-making and coordination. Please ensure that the report is completed accurately and thoroughly to maintain consistency and accuracy in the flight operations records.
-</thinking>
-
 # Daily Flight Operations Report - Help Guide
 ## Purpose
 This guide will walk you through completing the Daily Flight Operations Report form, which is used to record and track flight schedules and actual departure/arrival times.

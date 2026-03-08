@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Food Intake Form - Help Guide
 
 ## Purpose

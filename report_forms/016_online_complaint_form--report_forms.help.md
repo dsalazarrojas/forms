@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Complaint Form - Help Guide
 ## Purpose
 This form is for customers to report any issues or concerns they have regarding our products or services. It will help us gather information about your complaint and assist us in addressing and resolving the issue as soon as possible.

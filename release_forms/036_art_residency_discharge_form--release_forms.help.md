@@ -1,11 +1,3 @@
-<thinking>
-To be filled in by someone with domain knowledge, this form appears to be part of a system for managing the checkout process for artists at an art residency program. The form captures various information regarding the artist's stay, including their contact details, residency duration, and condition of the space they occupied. The purpose of this form is likely to ensure a smooth checkout process, collect feedback, and assess the overall experience of the residency program. 
-
-Before filling out this form, please review the residency agreement or contract to ensure you are providing accurate information. If you have any questions or concerns, please reach out to the residency staff.
-
-This guide is intended to help you fill out the form accurately and efficiently.
-</thinking>
-
 # Art Residency Discharge Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your stay at the art residency program. This includes your contact details, residency duration, and condition of the space you occupied during your stay.

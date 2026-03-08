@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to document incidents that may have occurred at a spa, such as injuries or illnesses that affected customers or employees. This form aims to gather necessary information to understand the nature of the incident, its severity, and any actions taken to address it. It is essential to fill out this form carefully and accurately to ensure a thorough understanding of the incident and any subsequent follow-up activities. The form should not be used for any other purpose than for reporting incidents at the spa.
-
-Before filling out this form, please ensure that the incident is not already documented elsewhere. If it is, please do not fill out this form. If the incident involves sensitive or confidential information, please consult with your supervisor or a designated personnel before filling out this form.
-
-Please fill out the form according to your role and responsibility. If you are unsure about any information or field, please consult with your supervisor or a designated personnel for guidance.
-</thinking>
-
 # Spa Customer Injury Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to document incidents that may have occurred at a spa, such as injuries or illnesses that affected customers or employees.

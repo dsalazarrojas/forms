@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Motor Vehicle Accident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about a motor vehicle accident, including details about the accident, the parties involved, and the reporting person's information. The form will help you gather all the necessary information to create a comprehensive report about the incident.

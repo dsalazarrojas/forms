@@ -1,38 +1,3 @@
-<thinking>
-This form is a comprehensive case report form template designed to collect detailed information about a patient's incident or injury. The form is used to record the essential facts about the incident, including the date and time it occurred, the patient's symptoms, treatment, and outcome. This form is typically completed by a healthcare professional or a designated reporter who witnessed or reported the incident. The purpose of this form is to provide a thorough and accurate record of the incident, which can aid in medical treatment, research, or quality improvement initiatives. This form is not meant for medical billing or insurance purposes. 
-
-Please ensure this form is only used for the intended purpose and is not duplicated or used as a substitute for proper medical documentation.
-
-The following sections are required for every form submission: 
-
-* Incident Date 
-* Incident Location 
-* Incident Type
-* Patient Name 
-* Patient ID Number 
-* Date of Birth
-* Symptoms
-* When Did Symptoms Begin
-* Severity of Condition
-* Was First Aid Administered
-* Medical Attention Required
-* Follow-Up Appointment Date (if scheduled)
-
-The following sections are not required but are useful for additional context:
-
-* Patient Information (e.g., contact phone number)
-* Incident Information (e.g., detailed description)
-* Treatment Facility Name
-* Diagnosing Provider Name
-* Diagnosis
-* Prognosis
-* Work or Activity Impact
-* Time Lost from Work or Activities
-* Activity Restrictions
-
-Please ensure that all required fields are completed before submission. 
-</thinking>
-
 # Case Report Form Template - Help Guide
 ## Purpose
 This form is a comprehensive case report form template designed to collect detailed information about a patient's incident or injury. The form is used to record the essential facts about the incident, including the date and time it occurred, the patient's symptoms, treatment, and outcome.

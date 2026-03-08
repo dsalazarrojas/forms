@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about on-site teams, including team members, shift start and end times, task progress, site updates, and comments from team members and supervisors. The form is intended to be completed on-site and submitted to management for review. It's essential that this form is filled out accurately and thoroughly to ensure that team members are properly accounted for and that site updates are up-to-date. Before completing this form, please ensure that you have reviewed the guidelines and that you're filling it out in accordance with established procedures.
-</thinking>
-
 # on_site_team_report - Help Guide
 ## Purpose
 This form is designed to collect information about on-site teams, including team members, shift start and end times, task progress, site updates, and comments from team members and supervisors.

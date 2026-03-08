@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and monitoring data from students and teachers on a daily basis. The purpose of this form is to help teachers and administrators track student progress, identify areas of improvement, and provide constructive feedback to students. The form is intended to be completed by students after each lesson, and should be used to report on their attendance, engagement, and learning outcomes. This form should not be used to report on other students or teachers.
-
-</thinking>
-
 # Daily Student Self Monitoring Form - Help Guide
 ## Purpose
 The Daily Student Self Monitoring Form is a tool for students to report on their own progress and engagement with each lesson. This form helps teachers and administrators to track student attendance, note any issues or concerns, and provide feedback to students. 

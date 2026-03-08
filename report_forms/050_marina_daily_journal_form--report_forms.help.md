@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, I've analyzed the provided YAML data. The form is called "marina_daily_journal_form" which suggests it may be used for logging or reporting data related to vessels, boats, or marinas. Upon reviewing the form fields, I see a mix of fields related to vessel characteristics (e.g., boat number, type, length, draft, and hull material), as well as fields for depth and draft types. This combination of fields implies that the form might be used for recording and tracking information about boats visiting or staying at a marina or harbor. It could also be used for reporting or logging data for maintenance, inspection, or other operational purposes.
-</thinking>
-
 # marina_daily_journal_form - Help Guide
 
 ## Purpose

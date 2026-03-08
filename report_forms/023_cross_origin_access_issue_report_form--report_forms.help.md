@@ -1,5 +1,3 @@
-<thinking>...this form is designed to report issues related to cross-origin access, allowing users to provide detailed information about the problems they encounter. The form is composed of multiple fields that gather specific data about the issue, including its description, priority, type, location, and any relevant details or notes. The form is intended to be completed by users who experience difficulties accessing cross-origin resources and is a key part of our quality assurance process. Please fill out this form only if you have not reported this issue before or if the issue has changed since the last time you reported it...</thinking>
-
 # cross_origin_access_issue_report_form - Help Guide
 ## Purpose
 The cross-origin access issue report form is designed to gather detailed information about issues users encounter while accessing cross-origin resources. The purpose of this form is to report and track such issues, allowing us to improve our services and reduce the occurrence of similar issues in the future.

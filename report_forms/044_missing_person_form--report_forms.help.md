@@ -1,14 +1,3 @@
-<thinking>
-This form is used to gather information for cases involving missing persons. It is essential to have the most up-to-date and accurate information for investigations. To ensure that the form is filled out correctly, please review the fields carefully and provide the best available information. If you are unsure about any information, please contact the relevant authorities or departmental resources.
-
-This form is designed to collect biographical and demographic data about the missing person, as well as relevant case details. Please note that some fields are marked as required, which means that they must be filled out to complete the form. Required fields are necessary for accurate and efficient processing.
-
-Please make sure that you have permission from the missing person or their representatives before completing this form. If you are filling out the form as an investigation or agency, please ensure that you are acting within your scope and jurisdiction.
-
-The following guide will walk you through each field of the form to help you complete it accurately and efficiently.
-
-</thinking>
-
 # missing_person_form - Help Guide
 ## Purpose
 This form is used to gather information for cases involving missing persons, ensuring that the most up-to-date and accurate information is available for investigations.

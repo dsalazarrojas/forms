@@ -1,24 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will first provide an internal reasoning block to explain the form's purpose and relevance, followed by the final help document in Markdown.
-
-The form is designed to collect detailed information about loading issues that need to be addressed, including problem details, types, descriptions, and potential solutions. The form's purpose is to help users provide a comprehensive report of the issue, which can aid in the resolution and follow-up process.
-
-The form is intended to be used by individuals who encounter any type of loading issue, whether it's with the dock, warehouse, or shipment. The goal is to collect all necessary information to identify the root cause of the issue and determine the best course of action for resolution.
-
-The form will help users to:
-
-* Identify the problem type (e.g., issue with dock, warehouse, or shipment)
-* Describe the problem in detail
-* Provide solution steps and a solution
-* Record issue images, videos, or other relevant media (optional)
-* Gather information about the carrier and facility involved
-* Track follow-up actions, dates, and status
-
-This form will aid in efficient problem-solving and communication within teams, ensuring that all stakeholders are informed and aligned.
-
-</thinking>
-
 # Loading Issue Report - Help Guide
 
 ## Purpose

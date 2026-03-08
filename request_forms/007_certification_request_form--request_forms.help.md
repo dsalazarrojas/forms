@@ -1,7 +1,3 @@
-<thinking>
-To prevent form duplication, we should check if the user has an existing certification request pending. This form is intended for students who need to request certification of their enrollment, degree, or other educational verification. This form will guide users through the process of requesting certification from their medical school.
-</thinking>
-
 # Certification Request Form - Help Guide
 
 ## Purpose

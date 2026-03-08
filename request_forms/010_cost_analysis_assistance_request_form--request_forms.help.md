@@ -1,8 +1,3 @@
-<thinking>
-The cost analysis assistance request form is a tool used to capture project information, including project details, expected and actual completion dates, contact person, and cost-related information. It's intended for use by project managers, team leads, or cost analysts to provide input for cost analysis.
-The form is designed to be a simple and efficient way to gather relevant information from project team members or stakeholders to aid in cost analysis and decision-making.
-</thinking>
-
 # Cost Analysis Assistance Request Form - Help Guide
 ## Purpose
 This form is used to gather information for cost analysis and decision-making purposes. It captures details about a project, including expected and actual completion dates, contact person, and cost-related information.

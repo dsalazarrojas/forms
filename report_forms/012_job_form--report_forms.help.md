@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about jobs and tasks. It is intended for use by staff members to document and track job-related activities. The purpose of this form is to ensure accurate and efficient documentation of job tasks, titles, and other relevant information. This form should only be used for new job records. Repeatedly using this form for the same job may lead to data duplication and inconsistency in the database.
-</thinking>
-
 # Job Form - Help Guide
 ## Purpose
 The Job Form is designed to collect detailed information about jobs and tasks performed by staff members. It is essential for maintaining accurate records and tracking job-related activities.

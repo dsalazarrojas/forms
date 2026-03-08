@@ -1,6 +1,3 @@
-<thinking>CSI Form - Purpose and Relevance Check
-This form is designed to collect information from crime scene investigators (CSI) to document the details of a reported incident. This form should only be filled out by authorized personnel who have been assigned to investigate the incident. The form is used to provide a comprehensive report of the incident, including the summary, case details, and evidence collected. To ensure that the form is filled out correctly and accurately, please make sure you are using the most recent version of the form and that you have been properly trained on its use.</thinking>
-
 # CSI Form - Help Guide
 ## Purpose
 The CSI Form is used to document the details of a reported incident, including the summary, case details, and evidence collected. It is an essential tool for crime scene investigators to provide a comprehensive report of their findings.

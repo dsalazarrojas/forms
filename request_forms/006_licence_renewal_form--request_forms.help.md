@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # licence_renewal_form - Help Guide
 
 ## Purpose

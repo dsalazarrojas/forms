@@ -1,7 +1,3 @@
-<thinking>
-The Football Match Incident Report Form is designed to document and report incidents that occur during football matches. This form is intended for use by medical staff, coaches, or other relevant personnel to report on injuries, accidents, or other incidents that happen during or after the match. To ensure accurate and consistent reporting, this form should only be used for reporting incidents that are not already well-documented or reported. Please check to see if a similar incident has been reported before proceeding to fill out this form.
-</thinking>
-
 # Football Match Incident Report Form - Help Guide
 ## Purpose
 The Football Match Incident Report Form is designed to document and report incidents that occur during football matches. This form captures essential information about the incident, the player involved, and the medical treatment provided.

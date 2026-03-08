@@ -1,9 +1,3 @@
-<thinking>**Form Purpose and Validation**
-
-The purpose of this form is to collect information about the utilization of emergency funds. This form is used to report on the use of emergency funds, which are funds set aside for unexpected or urgent situations. The form will ask for the date of the emergency, the amount allocated, and whether supporting documents are available.
-
-Before proceeding, please ensure that this form is not a duplicate of another report you have already submitted. If you're unsure, refer to your organization's reporting policies and procedures.</thinking>
-
 # emergency_fund_utilization_report - Help Guide
 ## Purpose
 This form is used to report on the utilization of emergency funds.

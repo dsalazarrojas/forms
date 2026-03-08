@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Quality Scorecard Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 2D System Log Submission - Help Guide
 ## Purpose
 The 2D System Log Submission form is used to document and record events, issues, and incidents related to the system's operation. This form is intended to provide a standardized way of reporting and tracking system events, enabling swift identification, analysis, and resolution of problems. It captures essential details about the event, including the system's status, error code, and impact on business operations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in receiving a quote for sustainable materials or products. The form will help you get in touch with our sales team to discuss the details of your project and provide a quote for the materials you need. Before completing the form, please ensure you are not duplicating requests for the same project or product. If you have already submitted a quote request, please do not resubmit the form. This will help us manage our sales efforts efficiently and avoid duplicate work. The form is divided into several sections, each with relevant fields that will help us understand your project needs.
-</thinking>
-
 # Sustainable Materials Quote Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who are interested in receiving a quote for sustainable materials or products.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form serves as a comprehensive guide for landlords to gather essential information from potential tenants. The form helps landlords assess the suitability of potential tenants, ensuring they understand the tenant's rental history, employment status, financial stability, and other relevant factors. The form's purpose is to streamline the rental application process, ensuring landlords make informed decisions and maintain accurate records. Before proceeding, review the following steps to complete the form:
 
 # Landlord Rental Application Form - Help Guide

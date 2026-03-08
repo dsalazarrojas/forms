@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about unexpected or unusual events that occur in community care settings. The purpose of this form is to ensure that incidents are documented accurately and in a standardized format for administrative review and follow-up actions. Please ensure that this form is not used for duplicate reporting of the same incident. If you're unsure whether an incident has already been reported, please check the incident log before completing this form.
-</thinking>
-
 # Community Care Unusual Incident Report Form - Help Guide
 ## Purpose
 The Community Care Unusual Incident Report Form is designed to collect information about unexpected or unusual events that occur in community care settings. This form helps ensure that incidents are documented accurately and in a standardized format for administrative review and follow-up actions.

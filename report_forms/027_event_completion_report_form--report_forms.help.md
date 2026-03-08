@@ -1,7 +1,3 @@
-<thinking>
-The form is for event completion report, which is used to record the completion of events, including event name, date, time, location, outcomes, feedback, areas for improvement, and next steps. This form is designed to be user-friendly and straightforward, with a mix of text and date/time fields to accommodate different types of event information.
-</thinking>
-
 # Event Completion Report Form - Help Guide
 ## Purpose
 The Event Completion Report Form is a tool used to report on the completion of events, providing a concise and organized way to gather information about the event.

@@ -1,11 +1,3 @@
-<thinking>
-The internal reasoning block: 
-
-This form is designed to collect information from customers who request access to aftermarket data for a product. The form is used to capture the contact details of the requester, the reason for the request, the type of data they are looking for, and their intended use of the information. The form also allows them to specify if confidentiality is required and their preferred time to be contacted.
-
-This form is intended to ensure that the requester is aware of and agrees to the necessary steps for handling the data, and to help the team provide accurate and relevant information in a timely manner.
-</thinking>
-
 # Aftermarket Information Disclosure Form - Help Guide
 
 ## Purpose

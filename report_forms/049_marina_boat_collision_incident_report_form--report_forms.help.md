@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help marina staff report incidents involving collisions between boats at the marina. The form gathers information about the incident, including the marina staff member who reported the incident, the boat involved, the date and location of the incident, and any witness statements or supporting documents. The form also collects information about whether the boat operator was involved in the incident and whether there were any witness statements or photos/video evidence. This form is intended to be completed by marina staff members after an incident has occurred. The goal is to gather accurate and detailed information about the incident, which will help in conducting a thorough investigation and taking necessary actions.
-</thinking>
-
 # Marina Boat Collision Incident Report Form - Help Guide
 ## Purpose
 The Marina Boat Collision Incident Report Form is used to report incidents involving collisions between boats at the marina. This form helps gather information to support the investigation and response to the incident.

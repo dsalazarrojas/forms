@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to report workplace harassment incidents, and not used for other purposes. Please review the fields carefully to understand their relevance and importance. To avoid duplication of reports, please only submit reports for incidents that have not been previously reported or addressed. If you're unsure about a field, refer to this guide for clarification.
-</thinking>
-
 # Workplace Harassment Complaint Form - Help Guide
 
 ## Purpose

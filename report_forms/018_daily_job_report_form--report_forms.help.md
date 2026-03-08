@@ -1,5 +1,3 @@
-<thinking>This form is intended for employees to report their daily work activities, hours worked, and other relevant details. Its purpose is to provide an accurate and standardized record of daily job progress, which can help managers track and monitor work hours, tasks completed, and other essential metrics. This form will be used to evaluate employee performance, identify areas for improvement, and make informed decisions regarding job assignments and resource allocation. Ensure that you are only submitting this form for your daily work activities, not for any other purpose. Also, make sure that your submitted data is accurate and up-to-date, as it will be reviewed for evaluation and reference by your manager and other relevant personnel.</thinking>
-
 # daily job report form - Help Guide
 
 ## Purpose

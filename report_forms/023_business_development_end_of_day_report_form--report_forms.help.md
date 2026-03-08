@@ -1,9 +1,3 @@
-<thinking>
-
-The Business Development End Of Day Report Form is designed to capture a brief and detailed summary of a business development representative's activities and accomplishments for the day. This form aims to streamline communication and provide essential insights for management and team leaders. To ensure accurate and comprehensive reporting, the form must be filled out daily. Please ensure that your report is accurate and concise, and avoid duplicating entries.
-
-</thinking>
-
 # Business Development End Of Day Report Form - Help Guide
 
 ## Purpose

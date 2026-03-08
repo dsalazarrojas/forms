@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a property snagging inspection request. The goal is to request inspection of a rental property and gather relevant details such as inspection date, time, property status, condition, location, size, type, and other relevant information. This form will help the assigned personnel to efficiently process the inspection requests and gather necessary data for subsequent steps.
-
-The form is divided into several sections. Each field is labeled with a brief explanation to make it easier for end-users to understand what information is required.
-
-</thinking>
-
 # Property Snagging Inspection Request Form - Help Guide
 ## Purpose
 ## How To Complete This Form

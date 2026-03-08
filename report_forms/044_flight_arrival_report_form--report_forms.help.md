@@ -1,7 +1,3 @@
-<thinking>
-A form designed to gather information about flight arrivals, including flight details and arrival reports. This form is intended for reporting on flights arriving at airports. The fields collected will be used to create an arrival report. This form should not be used for other purposes. This form does not require any specific prior knowledge or skills to complete it. It's recommended that users review the form carefully and ensure they have all necessary information before submitting it.
-</thinking>
-
 # flight arrival report form - Help Guide
 ## Purpose
 This form is used to report on flight arrivals, providing details about flights that have landed at the airport. It's essential to fill out this form accurately and completely to ensure the correct creation of an arrival report.

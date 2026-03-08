@@ -1,19 +1,3 @@
-<thinking>
-This form is used to report activities performed by employees in the production department. To ensure that you're using it correctly, first, check that you're filling out this form for its intended purpose. This form might be used in conjunction with other reporting forms, such as the "shift report form." Double-check that you're not already using this form in another context or for a different task.
-
-The purpose of this form is to gather information about production department activities over a specific period. This can help management track production performance, identify areas for improvement, and make data-driven decisions.
-
-To complete this form, you'll need to provide the following information:
-
-- Start Date: The date when the activity started.
-- End Date: The date when the activity ended.
-- Employee Name: The name of the employee performing the task.
-- Task ID: The unique identifier for the task being performed.
-
-Please ensure you're accurate with the dates and task IDs to ensure that the data is properly recorded and reported.
-
-</thinking>
-
 # production_department_activity_report_form - Help Guide
 ## Purpose
 

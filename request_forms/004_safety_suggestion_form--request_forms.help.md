@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Suggestion Form - Help Guide
 
 ## Purpose

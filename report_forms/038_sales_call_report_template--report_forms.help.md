@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Call Report Template - Help Guide
 ## Purpose
 

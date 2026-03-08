@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is for gathering feedback from staff members about their manager's performance. It's essential to provide a structured and objective assessment of the manager's effectiveness. The form aims to collect data that can help in making informed decisions about the manager's development and growth. Before starting, please ensure that the feedback provided is honest and constructive, focusing on specific examples and behaviors rather than general opinions. Also, verify that you have not already submitted a similar feedback form for the same manager.</thinking>
-
 # Management Feedback Report - Help Guide
 ## Purpose
 The Management Feedback Report is a form designed to collect feedback from staff members about their manager's performance. It helps in providing a structured and objective assessment of the manager's effectiveness.

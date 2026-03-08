@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to refer their retail items for repair. When filling out this form, the customer selects the type of item that needs to be repaired and provides details about the item. They also confirm that the repair information is correct before submission.
-</thinking>
-
 # Retail Repair Service Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers about the items they want to refer for repair. This information will be used to process the repair request and ensure that the customer receives the best possible service.

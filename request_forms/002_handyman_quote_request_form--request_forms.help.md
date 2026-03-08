@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals who wish to submit a request for a handyman quote. The form is designed to collect essential information from the client to provide accurate quotes. The purpose of this guide is to help users understand how to complete the form correctly and what each field entails. Please ensure that you are submitting a genuine quote request and not a duplicate submission. 
-</thinking>
-
 # Handyman Quote Request Form - Help Guide
 ## Purpose
 The Handyman Quote Request Form is a tool for users to submit a quote request for various services such as repairs, maintenance, and other services. It helps our team understand your requirements and provide you with a detailed quote.

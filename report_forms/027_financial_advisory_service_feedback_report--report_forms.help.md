@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from clients who have received financial advisory services. The form is designed to assess the client's satisfaction with the service provided, allowing us to identify areas of improvement and ensure that our financial advisory services meet the highest standards. 
-This form should only be used once per client, so please do not submit multiple instances of this form for the same client. 
-</thinking>
-
 # Financial Advisory Service Feedback Report - Help Guide
 ## Purpose
 This form is used to gather feedback from clients who have received financial advisory services. It helps us assess their satisfaction with the service provided and identify areas for improvement.

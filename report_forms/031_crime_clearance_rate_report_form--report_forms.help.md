@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report and record the clearance rate of crimes, a measure of the rate at which crimes are solved and cleared by law enforcement agencies. The purpose of this form is to help gather and report this data in a structured manner. The form should only be used to report on crimes that have been cleared, and not crimes that are still under investigation. 
-The form is intended for use by law enforcement agencies to report on the number of crimes cleared within a specific date range. It is not intended for the general public.
-</thinking>
-
 # Crime Clearance Rate Report Form - Help Guide
 ## Purpose
 The Crime Clearance Rate Report Form is used to report and record the clearance rate of crimes by law enforcement agencies. This form helps gather and report crime clearance data in a structured manner.

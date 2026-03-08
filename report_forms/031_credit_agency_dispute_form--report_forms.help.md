@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the credit_agency_dispute_form is to report a dispute related to a credit agency. This form allows users to provide detailed information about the dispute, including their personal details, the credit agency involved, and the reason for the dispute. This form is used to initiate a formal process to resolve the dispute.
-
-When to use this form:
-This form is for individuals who have experienced issues with a credit agency and need to report the dispute. It is not intended for general feedback or inquiries.
-
-Non-duplication check: 
-Before filling out this form, please ensure that you have not already reported this dispute to the credit agency or any other relevant parties.
-
-</thinking>
-
 # credit_agency_dispute_form - Help Guide
 ## Purpose
 The credit_agency_dispute_form is used to report a dispute related to a credit agency.

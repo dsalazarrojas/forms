@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Fair Project Group Proposal - Help Guide
 ## Purpose
 The Health Fair Project Group Proposal form is designed to collect feedback and information about health-related projects from various groups. This form is part of a larger process for evaluating and improving projects within the health fair context. Please ensure that your submission is accurate and relevant to your group's project.

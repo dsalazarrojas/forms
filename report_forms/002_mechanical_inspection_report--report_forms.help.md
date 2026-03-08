@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting data on vehicle mechanical inspections. It likely serves to provide a comprehensive overview of a vehicle's condition and test results. This form is likely used by maintenance or inspection teams to report on their findings.
-</thinking>
-
 # Mechanical Inspection Report - Help Guide
 ## Purpose
 The Mechanical Inspection Report form is a standardized template used to document the results of a vehicle's mechanical inspection. This form is used to gather information on the vehicle's condition, test results, and other relevant details.

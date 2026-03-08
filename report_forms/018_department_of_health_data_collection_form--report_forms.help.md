@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Department Of Health Data Collection Form is designed to collect general information from individuals regarding their health data. The form is meant to gather data for reporting purposes. This form is not intended for personal medical diagnosis or treatment; instead, it collects demographic and medical history information that can be used for reporting and data analysis.
 
 The form is intended for general use and is not specific to any particular healthcare professional or organization.

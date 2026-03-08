@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request a video-to-text conversion service. The form is designed to be completed by users who need to convert a video into text format, such as subtitles or transcripts. The purpose of this form is to provide a simple and user-friendly way for users to request this service. 
-
-Before starting, ensure that the request is not a duplicate and that the video file has not been converted before. 
-
-Please note that the fields in this form are required for the conversion process. If any of the required fields are not filled in, the form submission will not be accepted.
-</thinking>
-
 # video_to_text_conversion_request - Help Guide
 ## Purpose
 This form is used to request a video-to-text conversion service.

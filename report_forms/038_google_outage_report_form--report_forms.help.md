@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a reported outages on Google services, such as Google Cloud, Google Workspace, Google Maps, Google Ads, and Google Search. The form is intended to gather details about the start and end time of the outage, the duration of the outage, the locations involved, and other relevant information.
-
-The form should only be filled out for legitimate outages that have occurred and should not be used to report non-existent or planned outages. If you're unsure whether an outage has occurred or not, please contact your reporting team or supervisor for clarification.
-
-When filling out this form, you are certifying that the information you provide is accurate and complete. Your input will help us to identify and resolve the issue as quickly as possible.
-</thinking>
-
 # google_outage_report_form - Help Guide
 ## Purpose
 The purpose of this form is to report outages on Google services.

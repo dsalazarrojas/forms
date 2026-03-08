@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate the submission of photos related to a tenant's move-in or move-out from a rental property. The form likely serves as a way to collect visual evidence of the property's condition at these critical junctures, helping landlords or property managers to document any necessary repairs or issues that need to be addressed. The form's purpose is likely to aid in the smooth operation and maintenance of rental properties.
-
-The form has 5 fields that need to be filled out. Please review each field carefully to ensure you provide accurate and relevant information.
-
-</thinking>
-
 # Tenant Move In/Out Photo Submission - Help Guide
 ## Purpose
 The Tenant Move In/Out Photo Submission form is designed to collect photos of a rental property at the time of a tenant's move-in or move-out. These photos will help property managers document the property's condition, identify potential issues, and ensure a smooth transition for both tenants and property owners.

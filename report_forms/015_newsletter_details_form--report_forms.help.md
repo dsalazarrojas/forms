@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to complete a "Newsletter Details Form" to provide their personal details for newsletter subscription. Before proceeding, please ensure that you haven't already completed this form, as duplicates may be rejected by the system. The form should only be completed for new subscriptions or updates to existing ones. 
-</thinking>
-
 # Newsletter Details Form - Help Guide
 ## Purpose
 The Newsletter Details Form is used to collect personal details for newsletter subscribers. This form gathers information such as name, contact, and preferences for the newsletter.

@@ -1,9 +1,3 @@
-<thinking>
-This form is a report form designed for field inspections, where field inspectors can document their findings, observations, and notes during field inspections. The form is intended to be used by field inspectors for reporting on the condition of a field, including areas inspected, dates and times of inspections, and any notable weather conditions. The form does not have any required fields, so it's up to the user to decide what information to provide. 
-
-The purpose of this form is to collect data from field inspections, which can be used for maintenance, planning, or other purposes. The form can be completed by anyone who has access to it, regardless of their role or position. 
-</thinking>
-
 # Field Inspection Report Form - Help Guide
 ## Purpose
 The Field Inspection Report Form is used to document findings, observations, and notes during field inspections.

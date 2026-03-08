@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from users about issues they have encountered with content on the platform. The purpose of this form is to provide a structured and organized way for users to report problems with content, such as outdated information, broken links, or copyright infringement. The form helps moderators and administrators to identify and address these issues in a timely and effective manner.
-
-When filling out this form, please make sure to fill out all required fields and provide as much detail as possible to help us better understand the issue.
-
-Please note that some fields are marked as "optional", but providing additional information can be helpful in resolving the issue.
-
-Before submitting the form, ensure that you have included all necessary information and screenshots that support your report, if applicable.
-</thinking>
-
 # Content Report Form - Help Guide
 
 ## Purpose

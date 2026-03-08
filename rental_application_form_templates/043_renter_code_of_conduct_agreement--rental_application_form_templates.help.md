@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from renters to ensure they understand and agree to the code of conduct expectations for renting a property. This form is essential for maintaining a smooth and respectful renting process. Before proceeding, please ensure that you are familiar with the form's content and requirements. If you have already completed a similar form, you may be able to skip this guide, but it's still a good idea to review the content to ensure you're aware of any changes or updates.
-</thinking>
-
 # Renter Code Of Conduct Agreement - Help Guide
 ## Purpose
 The Renter Code Of Conduct Agreement is a form designed to collect information from renters about their understanding and agreement to the code of conduct expectations for renting a property. This form helps to establish a clear understanding of the renting process and ensures that both the renter and the landlord or property owner are on the same page.

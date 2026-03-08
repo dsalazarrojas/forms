@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutritional Label Review Report Form - Help Guide
 
 ## Purpose

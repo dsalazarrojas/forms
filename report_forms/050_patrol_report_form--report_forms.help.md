@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from officers about their patrol activities. It is intended for law enforcement or security personnel to report on their daily patrols, providing details such as the start date, officer's name, call number, date, time, location, and any additional notes. This form does not duplicate any known public form platforms, and its creation is based on publicly available information. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even commercialize it while giving credit.
-</thinking>
-
 # Patrol Report Form - Help Guide
 ## Purpose
 The Patrol Report Form is a reporting tool for law enforcement or security personnel to document their daily patrol activities. It captures essential information such as the start date, officer's details, and location of the patrol.

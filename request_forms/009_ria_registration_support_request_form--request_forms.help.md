@@ -1,11 +1,3 @@
-<thinking>...checking the form fields and their properties for completeness and accuracy...
-
-The form is designed to collect information for RIA (Regulatory Information Authority) registration support requests. It includes fields for firm name, firm URL, email, phone number, status, jurisdiction, jurisdiction type, registration date, support issue, request message, request attachment, support contact, support email, review of terms and conditions, review of privacy statement, submit form, thank you message, next steps, firm data, jurisdiction data, registration date data, support data, and firm URL data.
-
-This guide will walk you through how to complete the form correctly and provide explanations for each field to ensure that you have the necessary information for your RIA registration.
-
-</thinking>
-
 # RIA Registration Support Request Form - Help Guide
 ## Purpose
 The RIA Registration Support Request Form is used to collect information for RIA registration support requests. This form will help us to assist you with your registration and answer any questions or concerns you may have.

@@ -1,5 +1,3 @@
-<thinking>As I review the form's purpose and structure, I notice that this is a basic rental application form used to collect information from individuals applying to rent a house. The form appears to be designed to gather details about the applicant, the property they are interested in renting, and their contact information. The form doesn't require any authentication or sensitive data, suggesting it's a general application form rather than a secure form. I'll create a help guide that explains each field in a clear and concise manner, assuming this form is intended to provide a basic template for rental applications.</thinking>
-
 # House Rental Application Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals applying to rent a house. It's designed to provide a template for you to fill out your details and contact information.

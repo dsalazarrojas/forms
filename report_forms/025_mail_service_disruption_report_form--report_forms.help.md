@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to report a service disruption that occurred at a facility, mailroom, or with a customer service team. It's meant to gather information about the nature of the disruption, its impact, and any actions taken to resolve it. This form should only be used for reporting disruptions that have already occurred, not for predicting or planning future disruptions. Please make sure to fill out the form completely and accurately to help us understand the incident and improve our services. 
-
-</thinking>
-
 # mail_service_disruption_report_form - Help Guide
 
 ## Purpose

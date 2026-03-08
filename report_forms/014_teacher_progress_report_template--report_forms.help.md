@@ -1,13 +1,3 @@
-<thinking>
-This form is a report template for tracking and reporting on teacher progress in a school setting. 
-It allows teachers to create a report that includes various fields to capture essential information about students' progress. 
-The fields are designed to provide a comprehensive overview of a student's progress, including their student name, student grade, progress level, and comments from the teacher. 
-It also includes the report date, school year, and report status (e.g., pending, submitted, completed, or cancelled). 
-This template can be used to monitor student progress and provide insights for educators to make informed decisions. 
-Please ensure you are using the correct fields and completing the form as intended, so the teacher progress report is accurate and helpful for stakeholders.
-
-</thinking>
-
 # Teacher Progress Report Template - Help Guide
 ## Purpose
 This form is designed to capture essential information about a student's progress, including their name, grade, progress level, and comments from the teacher. It also includes fields for report date, school year, and report status.

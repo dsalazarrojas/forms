@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Merchandising Request And Order Form - Help Guide
 ## Purpose
 The Merchandising Request And Order Form is designed to gather information from customers to facilitate merchandising requests and order processing. This form ensures that all necessary details are collected to create and fulfill orders with the right customers.

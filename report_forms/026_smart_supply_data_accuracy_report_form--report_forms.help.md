@@ -1,5 +1,3 @@
-<thinking>Smart Supply Data Accuracy Report Form is designed to collect information about issues that need to be addressed in the data supply process. This form is meant to be used by data suppliers to report discrepancies or inaccuracies in the data they provide. It allows them to document the issue, assign it to someone, and track its status and priority. The form also provides an opportunity to attach files related to the issue, add comments, and keep a record of comments history. The information collected in this form is used to help the data team identify and resolve the issue efficiently.</thinking>
-
 # Smart Supply Data Accuracy Report Form - Help Guide
 ## Purpose
 The Smart Supply Data Accuracy Report Form is a tool used to report issues and discrepancies in the data supply process.

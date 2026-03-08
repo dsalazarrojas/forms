@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: This form is used to generate a quality dashboard summary report for a team. It will be used to assess team performance, participation, and other quality metrics. The report will be used to identify areas of improvement and track progress over time. It's essential to ensure that the form is filled out accurately and completely to provide a comprehensive report.
-
-Form duplication check: Before proceeding, please check if there's an existing report or a similar form that serves the same purpose. This will help us avoid redundant data entry and ensure consistency in our reporting.
-
-Form relevance check: Make sure you're filling out this form for the correct team and date range. This form is intended to summarize the quality metrics for a specific team over a specified period.
-
-</thinking>
-
 # Quality Dashboard Summary Report Form - Help Guide
 ## Purpose
 The Quality Dashboard Summary Report Form is used to generate a quality dashboard summary report for a team. It will help assess team performance, participation, and other quality metrics. This report will be used to identify areas of improvement and track progress over time.

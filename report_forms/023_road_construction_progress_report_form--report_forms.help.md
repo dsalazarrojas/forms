@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the progress of road construction projects. It allows project managers and site managers to report on the status of their projects, including any delays or issues that may have occurred. The form is used to provide a clear and concise overview of the project's progress, which can help stakeholders make informed decisions and stay up-to-date on project developments.
-
-The form is typically used for internal reporting within an organization, and the information collected will be reviewed by project managers and other relevant stakeholders. The form can be completed by project managers and site managers who are responsible for overseeing the progress of the project.
-
-To ensure that you have all necessary information, please review the form fields below and answer the required fields. The fields with the "required" field set to "true" are mandatory and must be completed.
-
-</thinking>
-
 # Road Construction Progress Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the progress of road construction projects. It is used to report on the status of projects, including any delays or issues that may have occurred.

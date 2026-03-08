@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Employee Daily Report Form is to gather information about an employee's activities and progress during a specific reporting period. This form is designed to be completed by employees at the end of each day to provide a brief update on their tasks, work status, and any challenges they faced. The form is intended to help management and team leaders track employee activities, identify potential issues, and make informed decisions about task allocation and resource utilization. It is essential that employees complete this form accurately and honestly to ensure that their work is properly documented and accounted for.
-</thinking>
-
 # Employee Daily Report Form - Help Guide
 ## Purpose
 The Employee Daily Report Form is a daily record of an employee's activities and progress. It helps management and team leaders to track employee tasks, work status, and issues, and make informed decisions about task allocation and resource utilization.

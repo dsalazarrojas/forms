@@ -1,6 +1,3 @@
-<thinking>
-The Hazard Assessment Form is used to document and record hazards identified in the workplace. This form is a tool for employees and supervisors to communicate and record potential hazards, assess their level of severity, and take corrective actions to mitigate risks. This form is part of a broader workplace safety process aimed at ensuring employee well-being and compliance with regulatory requirements. To confirm, this form is intended for the following purposes: hazard identification, risk assessment, corrective action planning, and record keeping. Please ensure to only fill this form for genuine workplace hazards, avoiding duplication of efforts or reporting non-relevant information.</thinking>
-
 # Hazard Assessment Form - Help Guide
 ## Purpose
 The Hazard Assessment Form is used to document and record hazards identified in the workplace. This form is a tool for employees and supervisors to communicate and record potential hazards, assess their level of severity, and take corrective actions to mitigate risks.

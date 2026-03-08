@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a technology issue report, designed to collect information about technical issues experienced by users. The form is intended for reporting bugs, defects, or other technical problems related to hardware, software, or other technology-related matters. Before completing this form, please make sure that you are reporting a genuine issue and not duplicating an existing report.
-
-Please note that this form is a generic template and might not cover all the specific requirements of your organization. If you need additional fields or modifications, you should consult with your IT team or relevant departments.
-
-Before submitting the form, make sure to have the necessary information and attachments (if any) ready. This form will guide you through the steps to report a technology issue, but it's essential to be as detailed and accurate as possible in providing the information requested.
-
-If you're unsure about any field or have any concerns, please don't hesitate to reach out to your organization's IT team or relevant support channels.
-
-</thinking>
-
 # technology_issue_report - Help Guide
 ## Purpose
 This form is designed to help users report technology-related issues, such as bugs, defects, or other technical problems. Please fill out the form completely and accurately to ensure that your issue is reported effectively.

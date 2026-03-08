@@ -1,8 +1,3 @@
-<thinking>
-This form is a critical part of the workflow for requesting vehicle maintenance and repair services. Please fill out the form accurately and thoroughly to ensure that the information provided is correct and meets the requirements of our maintenance and repair team.
-Before filling out this form, ensure that you haven't submitted a similar form for the same vehicle or issue in the past 7 days. This will help us process your request efficiently and avoid duplication of effort.
-</thinking>
-
 # Vehicle Maintenance And Repair Request Form - Help Guide
 ## Purpose
 This form is used to request maintenance and repair services for your vehicle. Please fill out this form with accurate and relevant information to ensure that your vehicle receives the necessary attention.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a COVID-19 Liability Release Waiver, designed to gather information about an individual's medical conditions, medical history, and consent for medical procedures. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. The form is released under a Creative Commons Attribution 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given. This form is not intended to replace medical advice or professional medical evaluations. It is essential to fill it out accurately to ensure that the information is correct. This form might be used by healthcare providers to assess a patient's suitability for medical procedures or to obtain informed consent for treatments.
-
-</thinking>
-
 # visage_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is a COVID-19 Liability Release Waiver designed to gather information about an individual's medical conditions, medical history, and consent for medical procedures.

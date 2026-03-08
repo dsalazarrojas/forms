@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on security incidents reported by users. This form will help the security team to track and resolve security issues efficiently. To ensure consistency, please ensure that each field is filled out as accurately as possible. If a field is not applicable, please select "Not Applicable" or "N/A" as a placeholder.
-</thinking>
-
 # Security Log Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information on security incidents reported by users. This form will help the security team to track and resolve security issues efficiently.

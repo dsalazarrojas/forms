@@ -1,8 +1,3 @@
-<thinking>
-The facility tour request form is a tool used by staff members to request a guided tour of a facility. This form is used to capture necessary information for the tour, such as the facility's address, accessibility features, and equipment. The form is typically filled out by staff members in preparation for a tour. The form's purpose is to provide a clear and concise way to request a facility tour. Before filling out this form, please ensure that the tour is not already scheduled and that you have permission to visit the facility.
-
-</thinking>
-
 # Facility Tour Request Form - Help Guide
 ## Purpose
 The Facility Tour Request Form is a tool used by staff members to request a guided tour of a facility. This form captures essential information for the tour, ensuring that all necessary details are gathered to make the tour a success.

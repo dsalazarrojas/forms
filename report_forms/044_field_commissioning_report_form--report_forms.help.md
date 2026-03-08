@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document and submit information related to the commissioning process of a field. The purpose of this form is to gather essential details about the field's condition, process measurement, commissioning data, and any additional notes. The form is divided into several sections, each focusing on a specific aspect of the field's commissioning process.
 
 To complete this form, please follow the steps outlined below.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for product recall coordination purposes. The fields are meant to be filled out by the contact person or company responsible for the issue. The form should not be duplicated for the same issue, to avoid confusion and miscommunication. Please ensure that the form is filled out with accurate and complete information to ensure efficient recall coordination.</thinking>
-
 # Product Recall Coordination Request Form - Help Guide
 ## Purpose
 The Product Recall Coordination Request Form is designed to collect information for product recall coordination purposes. It's essential to fill out the form accurately and not duplicate it for the same issue to avoid confusion and miscommunication.

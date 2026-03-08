@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to create a report that summarizes project information in an organization. The report form probably collects project-level details to provide an update on its status, goals, and completion. This form may be used internally to track progress, provide updates to stakeholders, or for project managers to communicate project status to team members or external parties.
-The form does not seem to have a specific project category or type that it is focused on.
-</thinking>
-
 # Interim Report Form - Help Guide
 ## Purpose
 The Interim Report Form is a tool used to create a report on project information. This form is designed to collect project-level details, such as status, goals, and completion dates. It is intended to provide a comprehensive summary of a project's progress and status.

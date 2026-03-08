@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect visitor information for verification purposes. The form is used to request verification of a visitor's list, which is a list of individuals visiting a location or event. The form is not intended to be used for general contact or inquiry purposes. It is recommended that only authorized users complete this form, as it requires access to visitor list data. To ensure accurate and efficient processing, please ensure that all fields are filled out correctly and that the form is not duplicated.
 
 # Visitor List Verification Request Form - Help Guide

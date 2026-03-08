@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm that the purpose of this form is to collect information from consultants for reporting purposes, and to ensure that it is not being used for any other purpose. This form is designed to gather details about the consultant's work, including their name, email, report date, and project details. It will be used to track progress and provide a clear understanding of the project's status.
-
-</thinking>
-
 # Consultant Report Submission - Help Guide
 ## Purpose
 This form is designed to collect information from consultants about their work on projects. It will be used to track progress, identify risks, and provide recommendations for future improvements.

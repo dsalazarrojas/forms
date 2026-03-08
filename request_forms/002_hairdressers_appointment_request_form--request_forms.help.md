@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, we must confirm that the purpose of this form is to request a hairdresser's appointment. This form is intended to collect information from clients about their service requirements, contact details, and appointment preferences. The form should only be completed when a client is requesting a hairdresser's appointment, and not for other purposes. Let's get started with the help guide!
-
-</thinking>
-
 # Hairdressers Appointment Request Form - Help Guide
 
 ## Purpose

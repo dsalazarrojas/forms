@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Review Note:**
-
-This form has been generated based on the "report_forms" category, which suggests it may be used for reporting various incidents, accidents, or events. The form title "Free Police Incident Report Template" implies that it is intended for recording and documenting police incidents, but without further context, it's difficult to determine the specific use case or industry it's designed for. To be safe, we will assume it's a general template for reporting incidents and provide explanations that cover a wide range of possible use cases.
-
-Before filling out this form, please review the following instructions to ensure you're using it correctly.
-
-</thinking>
-
 # Free Police Incident Report Template - Help Guide
 
 ## Purpose

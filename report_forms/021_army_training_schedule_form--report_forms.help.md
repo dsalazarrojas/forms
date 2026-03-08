@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Army Training Schedule Form - Help Guide
 
 ## Purpose

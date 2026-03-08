@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form, Software Project Outcome Report Form, is to collect information on project outcome and closeout data. This form should be completed by project managers or team leads to ensure that key information on project performance is captured, reviewed, and stored in a central location. Please use this form only for projects that have reached their natural end date, and avoid duplicating the information that has already been documented.
-
-To complete this form, follow these general steps:
-
-1. Select the correct project from the project list.
-2. Review the project details and ensure that all required fields are completed.
-3. Enter project data in the relevant fields, such as project name, start date, end date, status, and outcomes.
-4. Add any relevant stakeholder comments, lessons learned, and recommendations.
-5. Review and update the project closeout costs, hours, and rating.
-6. Add any attachments, such as project documents, files, and stakeholder uploads.
-7. Complete any other relevant fields.
-8. Submit the form for review and approval.
-</thinking>
-
 # Software Project Outcome Report Form - Help Guide
 ## Purpose
 The Software Project Outcome Report Form is used to collect and document project outcome and closeout data for projects that have reached their natural end date.

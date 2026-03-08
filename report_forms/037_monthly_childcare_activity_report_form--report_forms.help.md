@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from childcare providers to report their activities and services offered to children on a monthly basis. The purpose of this form is to provide a structured way to gather data on the number and type of activities offered, as well as any notable events or incidents that occurred during the reporting period. 
-</thinking>
-
 # Monthly Childcare Activity Report Form - Help Guide
 ## Purpose
 This form is used by childcare providers to report their activities, services, and notable events for the month to ensure accurate and timely reporting of childcare services.

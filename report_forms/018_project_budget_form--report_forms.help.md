@@ -1,5 +1,3 @@
-<thinking>This form is designed for project managers and team members to provide budget information and project details. The form's purpose is to facilitate the process of creating and tracking project budgets. To ensure relevance, this form should only be used for projects that require budget tracking. To avoid duplication of effort, please use this form for new project budgets, and update existing projects as needed.</thinking>
-
 # Project Budget Form - Help Guide
 ## Purpose
 The Project Budget Form is used to create and track project budgets. It gathers essential information such as project details, budget, and status.

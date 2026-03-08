@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by departmental representatives to report internal issues, payroll information, and other relevant data. The form is intended for use within the department and is not meant to be a general purpose report form. It's recommended that users complete the form only if they have specific departmental issues or reports that need to be recorded. To avoid duplication of reports, users should only submit new reports when new information is available.
-</thinking>
-
 # Departmental Report Form - Help Guide
 ## Purpose
 The Departmental Report Form is a tool for departmental representatives to report internal issues, payroll information, and other relevant data within their department.

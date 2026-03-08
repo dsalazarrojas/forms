@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Processing Authorization Letter Request Form - Help Guide
 
 ## Purpose

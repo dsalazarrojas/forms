@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for participants who have completed the fitness transformation program and want to share their results with the organization. It will help us understand their progress, challenges, and feedback on the program. The goal is to collect information on a per-participant basis, without duplicating data entry for the same participant.
-The form will be used to collect data on each participant's details, signed consent, email, phone number, training challenges, gym details, coach details, and program enrollment.
-</thinking>
-
 # Fitness Transformation Release Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who have completed the fitness transformation program. It will be used to gather details on their progress, feedback, and challenges they faced during the program.

@@ -1,17 +1,3 @@
-<thinking>
-The "Brand Standard Room Inspection Form" is a tool used to assess the condition of a rental property, focusing on various aspects such as the room's cleanliness, facilities, and overall state. This form is designed to gather information that will help property managers or inspectors evaluate the room's condition and identify areas that require attention. The form is intended to be filled out by a trained inspector, and the information gathered will aid in making informed decisions about the room's status and any necessary repairs or maintenance.
-
-To ensure accuracy and consistency, it's essential to follow these guidelines when filling out the form:
-
-*   Be honest and thorough in your assessment.
-*   Use the provided scales or options when evaluating each area.
-*   Document any issues or concerns clearly.
-*   Provide clear and concise notes, if applicable.
-
-By following these instructions, you'll be able to accurately represent the room's condition, helping maintain the property's standard and reputation.
-
-</thinking>
-
 # Brand Standard Room Inspection Form - Help Guide
 
 ## Purpose

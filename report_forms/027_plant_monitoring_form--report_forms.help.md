@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect data from users about plant monitoring activities. The form is likely used to track and analyze the performance of plants in a controlled environment, such as a greenhouse or a nursery. This form is not intended for general public use, but rather for authorized personnel to input specific data for internal purposes.
 
 This form should not be used for external purposes such as creating public records or sharing information with external parties.

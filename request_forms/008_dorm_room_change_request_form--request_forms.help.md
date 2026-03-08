@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate requests from students to change their dorm rooms, allowing them to provide details about the current and desired room configurations. This form is primarily used to collect information for administrative purposes, ensuring that the necessary adjustments are made to accommodate the student's needs. When filling out this form, please be aware that any submitted data will be reviewed and verified to prevent duplicate or unauthorized changes.
-
-</thinking>
-
 # Dorm Room Change Request Form - Help Guide
 ## Purpose
 The Dorm Room Change Request Form is used to submit requests to change a student's dorm room configuration. This includes changing the room type (e.g., single, double, triple), dorm number, or both.

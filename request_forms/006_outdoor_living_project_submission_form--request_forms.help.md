@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or clients about their outdoor living projects. The form is meant to gather project details, customer information, project requirements, project scope, customer contact, project location, project budget, project deadline, and any relevant project files. To ensure that the form is filled out correctly, it's essential to understand its purpose and the information it's meant to collect. This will help prevent duplicate submissions and ensure that the correct project information is collected.
-</thinking>
-
 # Outdoor Living Project Submission Form - Help Guide
 ## Purpose
 This form is used to collect project information from customers or clients about their outdoor living projects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Return Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about returned materials from customers, including item description, condition, status, and reason for return. This form is used by business users to track and process material returns in a systematic way.

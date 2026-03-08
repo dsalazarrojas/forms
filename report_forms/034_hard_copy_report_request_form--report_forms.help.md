@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be used for requesting a hard copy of a report, providing options for report delivery, and scheduling confirmations and confirmations. Before completing this form, please ensure that you are only requesting a hard copy of a report when necessary. If you are requesting multiple reports, you can submit multiple forms. Please also note that this form will be reviewed internally to check for duplication and relevance of requests.
-
-</thinking>
-
 # Hard Copy Report Request Form - Help Guide
 ## Purpose
 The Hard Copy Report Request Form is used to request a hard copy of a report from the system. This form captures information about the report request, including the delivery method, confirmation, and other relevant details.

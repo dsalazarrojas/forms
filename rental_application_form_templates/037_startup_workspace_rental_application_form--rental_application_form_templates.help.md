@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from startups and businesses interested in renting a workspace. The form is designed to collect details about the user's company, contact information, payment details, and other relevant data that will help us understand their needs and provide them with a suitable workspace. To ensure that this form is completed accurately and efficiently, please make sure to read each section carefully and fill in all required fields. If you're unsure about any of the fields, please ask a member of our team for assistance. We'll review your application thoroughly and respond to you as soon as possible.
-</thinking>
-
 # Startup Workspace Rental Application Form - Help Guide
 ## Purpose
 The form is designed to collect information from startups and businesses that are interested in renting a workspace.

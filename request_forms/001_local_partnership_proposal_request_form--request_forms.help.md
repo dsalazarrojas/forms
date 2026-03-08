@@ -1,5 +1,3 @@
-<thinking>Local Partnership Proposal Request Form is intended for local businesses and organizations that wish to partner with us. Please ensure that your proposal is original, well-written, and relevant to our organization's goals and objectives. Do not submit duplicate proposals, as they will not be considered. If you have previously submitted a proposal, do not resubmit it as a new proposal. Ensure that you have read and understood the submission guidelines before proceeding.</thinking>
-
 # Local Partnership Proposal Request Form - Help Guide
 ## Purpose
 The Local Partnership Proposal Request Form is a form designed to help local businesses and organizations propose partnership opportunities with us. This form should be completed thoroughly and accurately to help us understand your proposal and potential partnership.

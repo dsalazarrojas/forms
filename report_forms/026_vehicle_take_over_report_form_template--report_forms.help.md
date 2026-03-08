@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to be used for reporting vehicle takeovers, where a vehicle is being returned to the company after being used by an employee or driver. This form template is meant to gather information about the vehicle's condition, mileage, fuel consumption, and other relevant details before and after the vehicle is returned. The form should be filled out by the driver or employee who is returning the vehicle, and it will help the company to track and manage vehicle usage and maintenance.
-</thinking>
-
 # Vehicle Take Over Report Form Template - Help Guide
 ## Purpose
 This form is used to record information about a vehicle being returned to the company after it has been used by an employee or driver.

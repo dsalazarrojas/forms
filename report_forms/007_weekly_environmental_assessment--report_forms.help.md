@@ -1,12 +1,3 @@
-<thinking>
-The Weekly Environmental Assessment form is designed to collect information about site conditions, hazards, and other relevant data from site visits. The form is meant to be completed by site personnel to provide a weekly snapshot of site environmental conditions, identify potential hazards, and track progress. This form is not intended for use as a substitute for more formal reporting or documentation, but rather as a supplement to other forms and records.
-
-When completing this form, please ensure that all fields are accurately and truthfully filled out. Note that some fields are optional, but completing all required and relevant fields will ensure that the information is complete and useful for analysis and reporting.
-
-The form can be completed in sections, with each section focusing on specific aspects of the site visit. The sections include: Site Conditions, Hazards, Sustainability Metrics, Comments, and Site Location Information.
-
-</thinking>
-
 # Weekly Environmental Assessment - Help Guide
 ## Purpose
 The Weekly Environmental Assessment form is designed to collect information about site conditions, hazards, and other relevant data from site visits.

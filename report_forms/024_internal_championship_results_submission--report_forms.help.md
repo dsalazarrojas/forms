@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for submitting results and status updates related to internal championships or competitions within an organization. The form likely serves as a tracking tool for managing and monitoring the progress of internal competitions, allowing users to provide details about their submissions, such as competitor names, event names, competition names, result details, and submission status. To prevent duplication, it's essential to ensure that users don't submit the same information multiple times, and the form should be used for a single submission per competitor and event.
-
-</thinking>
-
 # internal_championship_results_submission - Help Guide
 ## Purpose
 This form is designed for submitting results and status updates related to internal championships or competitions. It helps manage and track the progress of internal competitions by collecting essential information from competitors and organizers.

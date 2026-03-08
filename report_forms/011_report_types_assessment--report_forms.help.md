@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the types of reports that need to be generated for different purposes. The form is structured into multiple pages, each focused on a specific type of report. The form is required to be completed for "report_types" field as it is marked as a required field in the form schema. The form is likely used in a business or administrative context where reports are generated for various purposes such as analysis, presentation, or other business needs.
-</thinking>
-
 # Report Types Assessment - Help Guide
 ## Purpose
 This form is used to collect data on the types of reports that need to be generated for different purposes.

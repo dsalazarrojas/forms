@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for users to fill out the "salary_breakdown_inquiry_request_form" form, which is used for requesting salary breakdown information. Before we dive into the guide, let's quickly review the form's purpose: the form is used to gather information about an employee's salary, including their employee ID, name, and salary range, as well as the reason for the inquiry and any supporting documents. We also want to ensure that users understand the form's fields and how to fill it out correctly to avoid duplication of work. Let's get started!
-</thinking>
-
 # salary_breakdown_inquiry_request_form - Help Guide
 ## Purpose
 The "salary_breakdown_inquiry_request_form" is used to request salary breakdown information for an employee. This form helps us gather essential details about the employee's salary, ensuring we have accurate and up-to-date information.

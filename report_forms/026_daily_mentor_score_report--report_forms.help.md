@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from mentors on the progress of mentees in their sessions. The feedback is used to track and analyze the progress of mentees over time. This form should be filled out after each session with a mentee, providing an objective evaluation of their progress and a description of next steps for growth. Please make sure to fill out the form accurately and completely for each session, and do not duplicate entries for the same session.
-</thinking>
-
 # Daily Mentor Score Report - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from mentors on the progress of mentees in their sessions. This feedback is used to track and analyze the progress of mentees over time.

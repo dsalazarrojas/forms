@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is for processing a jail release request. It appears to be a standard form used for this specific scenario, likely within a law enforcement or corrections facility. To confirm, we need to review the fields included in this form and see if it's a one-time use case or a recurring process. Given the fields present, it seems to be designed for general jail release purposes but does not contain any specific details that would indicate this is for a one-time use or a recurring process within a facility. 
-
-We should also check if any of the fields could potentially be misused or duplicated by users, such as entering an invalid or fictional facility name. To avoid this, the instructions should be clear on required and optional fields, and how to fill them correctly.
-
-We'll need to ensure that the form is easy to use and understand by explaining each field in simple terms and highlighting any special instructions or requirements.</thinking>
-
 # Jail Release Form - Help Guide
 
 ## Purpose

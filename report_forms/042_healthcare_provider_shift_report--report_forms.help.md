@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form data is accurate and reliable, we need to confirm that the purpose of this form is to collect information about a healthcare provider's shift details. This form likely serves to report on staff shifts, patient interactions, and other relevant healthcare information. We also need to verify that this form is not duplicating any other reports or processes in the system. By understanding the form's purpose, we can create a clear and concise guide for users to complete it effectively.
-</thinking>
-
 # Healthcare Provider Shift Report - Help Guide
 
 ## Purpose

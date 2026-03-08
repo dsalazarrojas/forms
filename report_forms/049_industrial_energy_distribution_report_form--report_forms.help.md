@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about industrial energy distribution reports. This form allows users to report any issues related to industrial energy distribution, such as operational issues or problems with energy sources. The goal is to provide a comprehensive report that captures all relevant details for further investigation and resolution.
 
 ## industrial_energy_distribution_report_form - Help Guide

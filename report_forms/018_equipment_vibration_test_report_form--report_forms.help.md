@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect data on equipment vibration testing. This form is used by engineers, technicians, or maintenance personnel to document the results of vibration testing on equipment, ensuring that critical information is recorded in a structured and standardized format.
 The form can be completed by anyone with access to the equipment and is likely to be used in various industries such as aerospace, automotive, or construction.
 

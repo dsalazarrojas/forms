@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to track and manage earnings reports for a company or organization. It allows users to input various details related to the earnings reports, such as dates, frequencies, and reporting status.
-
-Before filling out this form, ensure that:
-
-* You have the necessary information and permissions to complete the form accurately.
-* You understand the purpose and scope of the form.
-* You do not duplicate entries, as this form is designed to track individual earnings reports.
-
-</thinking>
-
 # Earnings Report Date Tracker Form - Help Guide
 
 ## Purpose

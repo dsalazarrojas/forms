@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about the installation and disruption report, which is used to track and document the progress of field work, including the outcome of services, disruption caused to the customer, and other relevant details. This form should only be completed by field personnel who are responsible for installing or disrupting services in the field. It is essential to complete this form for each installation or disruption, and to ensure that each field team member who completes the form understands its purpose and requirements before submitting it.
-</thinking>
 # Installation And Disruption Report - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The Property Onboarding Analysis Form is a tool used to gather information about a property, including its address, type, status, and other relevant details. The form is designed to be completed by property owners or agents to provide a comprehensive overview of the property's characteristics. This form is typically used for internal purposes within the organization, and its data is used to inform decision-making and analysis. 
-
-Before completing this form, please ensure that you have all the necessary information about the property and that it is not a duplicate entry. If you are unsure about any of the fields or have questions, please reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # Property Onboarding Analysis Form - Help Guide
 ## Purpose
 The Property Onboarding Analysis Form is a tool used to gather information about a property, including its address, type, status, and other relevant details.

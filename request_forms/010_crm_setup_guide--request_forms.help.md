@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CRM Setup Guide - Help Guide
 
 ## Purpose

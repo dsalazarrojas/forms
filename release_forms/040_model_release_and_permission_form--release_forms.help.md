@@ -1,11 +1,3 @@
-<thinking>
-This form is used to obtain a model release from a subject, typically for use in photography or other media. 
-This form should be filled out by the model (or their representative) when a photographer or media representative wants to use their likeness or image in a project. 
-The form is not intended for internal use only, it may be shared with the subject. 
-This form will not be shared or used by any other party without explicit approval from the subject. 
-The form will be stored securely and for a reasonable amount of time. 
-</thinking>
-
 # Model Release And Permission Form - Help Guide
 ## Purpose
 The Model Release And Permission Form is used to obtain permission from a subject to use their likeness or image in a project. This form ensures that the subject is aware of and consents to the use of their image in the project.

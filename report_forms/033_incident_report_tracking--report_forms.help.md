@@ -1,5 +1,3 @@
-<thinking>Internal use of this form is to track incidents that affect business operations or processes. This form should only be completed when an incident has occurred. If an incident has already been reported, please do not submit a duplicate report. This form is intended for use by personnel who have direct knowledge of the incident, as it requires detailed information and context. Please ensure that all fields are filled out accurately and thoroughly.</thinking>
-
 # Incident Report Tracking - Help Guide
 ## Purpose
 The Incident Report Tracking form is used to record and track incidents that affect business operations or processes. This form is intended for personnel who have direct knowledge of the incident and are responsible for reporting it accurately.

@@ -1,13 +1,3 @@
-<thinking> This form is designed to be used for reporting on experiments, specifically for validation purposes. It is intended for use by designers, developers, or other team members who need to document and record experiment outcomes, reasons, and validation decisions. The form can be filled out by anyone who wants to report on an experiment, including designers, developers, or other team members. There is no limit on who can fill out the form, but it is meant to be used for internal purposes within the organization. 
-
-To avoid duplication of effort, this form is not meant to be a substitute for other reporting tools or processes that already exist within the organization. Instead, it is meant to supplement those tools and provide additional information for validation and decision-making purposes.
-
-The form consists of several fields that are used to capture relevant information about an experiment, including the experiment number, product name, outcome, reason for outcome, date, and time. There are also fields for notes and comments, as well as fields to capture information about who validated the experiment and when.
-
-The fields are designed to be self-explanatory, but here is a detailed breakdown of each field for reference:
-
-</thinking>
-
 # r_d_experiment_validation_report_form - Help Guide
 ## Purpose
 This form is used for reporting on experiments, specifically for validation purposes.

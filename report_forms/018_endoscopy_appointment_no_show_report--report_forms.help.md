@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # endoscopy_appointment_no_show_report - Help Guide
 
 ## Purpose

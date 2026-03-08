@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I'll provide a clear and concise help guide for the Admin Weekly Report form, ensuring end users understand its purpose, completion process, and each field's explanation.</thinking>
-
 # Admin Weekly Report - Help Guide
 ## Purpose
 The Admin Weekly Report is a form used to capture and document important updates, issues, and tasks from each department or team within the organization. This report serves as a communication tool for department heads to report their progress, successes, and challenges to the administration and other teams, promoting collaboration and transparency.

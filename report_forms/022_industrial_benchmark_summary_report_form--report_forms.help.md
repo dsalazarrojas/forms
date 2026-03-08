@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and record information about industrial benchmarks, which are measures used to evaluate the performance of industrial systems or processes. The purpose of this form is to provide a standardized way to collect relevant data and track progress over time. This form should only be used for industrial benchmarking purposes and not for other types of reporting or data collection.
-</thinking>
-
 # Industrial Benchmark Summary Report Form - Help Guide
 ## Purpose
 This form is used to collect and record information about industrial benchmarks, which are measures used to evaluate the performance of industrial systems or processes.

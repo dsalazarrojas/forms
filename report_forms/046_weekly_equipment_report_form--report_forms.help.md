@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about the status of various equipment within the organization. It appears to be used for regular reporting purposes, likely to track and monitor equipment availability, maintenance, and other relevant updates. The form may be used to identify potential issues, schedule maintenance, or allocate resources efficiently. However, to determine its exact purpose and usage, it would be beneficial to verify with the intended users or stakeholders within the organization. Additionally, to prevent duplication of efforts, it's recommended that this form not be used in conjunction with other equipment tracking systems that may already be in place.
-</thinking>
-
 # Weekly Equipment Report Form - Help Guide
 ## Purpose
 The Weekly Equipment Report Form is a tool used to collect information about the status of equipment within the organization. This report helps to track and monitor equipment availability, maintenance, and other relevant updates. It can be used by various teams and personnel to identify potential issues, schedule maintenance, and optimize resource allocation.

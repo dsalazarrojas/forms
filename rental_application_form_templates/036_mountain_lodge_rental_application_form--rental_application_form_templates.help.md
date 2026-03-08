@@ -1,16 +1,3 @@
-<thinking>
-This help guide is designed to assist end-users in completing the Mountain Lodge Rental Application Form. This form is intended for guests who wish to rent a room at the Mountain Lodge. 
-
-The form gathers information about the guest's contact method, stay details, and personal preferences. The form is divided into several sections, each with its own set of fields. 
-
-To ensure that the form is completed correctly, please make sure that you have filled out all the required fields. 
-
-This form does not store any data for internal use, so please do not fill in any personal data that you do not want to be used for other purposes. 
-
-Please note that the form is for renting a room at the Mountain Lodge. 
-
-</thinking>
-
 # Mountain Lodge Rental Application Form - Help Guide
 ## Purpose
 This form is intended for guests who wish to rent a room at the Mountain Lodge.

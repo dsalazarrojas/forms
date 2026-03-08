@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for researchers to request visualizations that can help them communicate their data-driven findings more effectively. The form is designed to gather essential information from researchers about their projects, making it easier for visualization experts to create the desired visualizations. To ensure that the form is filled out correctly, please review the following guide carefully.
-</thinking>
-
 # Academic Research Visualization Request Form - Help Guide
 ## Purpose
 This form is used by researchers to request visualizations for their academic projects. It helps visualization experts understand the project's requirements and deliver the most suitable visualizations for the researcher's needs.

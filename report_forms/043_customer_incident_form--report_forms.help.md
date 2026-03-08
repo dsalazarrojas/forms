@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "Customer Incident Form", I will follow the provided structure and guidelines. Here is the output:
 
 # Customer Incident Form - Help Guide

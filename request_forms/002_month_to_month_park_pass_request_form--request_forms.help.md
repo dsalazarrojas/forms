@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request month-to-month park passes for vehicles. A month-to-month park pass is a permit that allows vehicles to park in certain areas of the park for a specified period of time. This form is intended for vehicle owners to provide their contact and vehicle information to facilitate the processing of their request. Please make sure to fill out this form only once for each vehicle and do not submit duplicate requests. If you have already submitted a request for this vehicle, your previous request will be checked and you will be asked to confirm or update it before a new request can be processed.
-</thinking>
-
 # Month To Month Park Pass Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from vehicle owners to process month-to-month park passes. Please fill out this form to submit a request for a month-to-month park pass.

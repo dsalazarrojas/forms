@@ -1,7 +1,3 @@
-<thinking>
-The Halloween Preparation Form is used by staff to prepare for Halloween events and gatherings. The form is used to collect information from event organizers to ensure that the venue is properly prepared and equipped for the event. The form is only to be filled out by event organizers, not by staff or other users. Please ensure that you are filling out the correct form and not duplicating the effort.
-</thinking>
-
 # Halloween Preparation Form - Help Guide
 ## Purpose
 The Halloween Preparation Form is a tool used by event organizers to provide information to the staff about their upcoming Halloween event. This form helps the staff to better prepare for the event and ensure that everything is in order.

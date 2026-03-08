@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request renovations for learning spaces in schools. The form is designed to gather information about the space, including its condition, capacity, and location. The form is intended for school administrators or staff to submit requests for renovations or repairs to learning spaces. The form's purpose is to ensure that the renovation requests are well-documented and can be tracked and prioritized effectively.
-
-This form should not be used to request general maintenance or repairs, but rather specific renovations or changes to a learning space. If you are unsure whether this form is suitable for your request, please refer to your school's maintenance and repair policies.
-
-Before submitting this form, please ensure that you have reviewed and completed all fields accurately. Incomplete or inaccurate forms may delay the renovation process or lead to incorrect assessments of the space's needs.
-</thinking>
-
 # learning_space_renovation_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request renovations for learning spaces in schools. This guide will walk you through each field of the form and explain how to complete it accurately.

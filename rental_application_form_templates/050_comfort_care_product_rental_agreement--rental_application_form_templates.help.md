@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from renters about their rental agreement for a Comfort Care product. This form will help us understand the details of the rental period, product usage, and terms of the agreement.
-
-To confirm that this form meets the required specifications, I will ensure that the form fields are properly aligned with the provided YAML schema and provide clear explanations for each field to guide the end-user through the process.
-
-Before generating the final form help guide, I have reviewed the YAML schema for consistency and completeness. All the fields are properly labeled, and the types are correctly defined.
-
-</thinking>
-
 # Comfort Care Product Rental Agreement - Help Guide
 ## Purpose
 This form is designed to collect information from renters about their rental agreement for a Comfort Care product. It's essential to complete this form accurately to ensure that you understand the terms and conditions of the rental.

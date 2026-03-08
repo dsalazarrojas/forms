@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for reporting activities related to the Erasmus+ program, a European Union-funded program promoting student, youth, and education staff exchange, as well as higher education and youth work. The form aims to collect information on various aspects of these activities, including the type of activity, project details, date and time of the activity, location, participant information, and outcomes. Before filling out the form, please ensure that your activity is relevant to the Erasmus+ program and not a duplicate activity reported previously.
-
-</thinking>
-
 # Erasmus+ Activity Reporting Form - Help Guide
 
 ## Purpose

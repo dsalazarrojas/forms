@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Isolation Strapping Incident Report - Help Guide
 ## Purpose
 This form is used to report incidents involving isolation and/or quarantine of patients in the facility. Please complete this form to document the incident and provide essential details for follow-up actions.

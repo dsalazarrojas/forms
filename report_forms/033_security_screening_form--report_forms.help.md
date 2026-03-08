@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide their personal and security clearance information, including their name, contact details, and security clearance status. The form is intended to be filled out by users who are undergoing a security screening process. 
-</thinking>
-
 # Security Screening Form - Help Guide
 ## Purpose
 This form is used to collect personal and security clearance information from users who are undergoing a security screening process.

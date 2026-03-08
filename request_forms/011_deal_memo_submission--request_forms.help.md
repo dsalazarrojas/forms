@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information regarding deal memos, a document that outlines the essential details of a business deal or agreement. This form aims to ensure that the submission is accurate and complete, and that the person submitting it has the authority to do so. The goal is to obtain a formal, non-altered, and accurate representation of the deal details. To guarantee that the submitted information is correct, the form will ask the user to confirm that they have not made any changes or modifications to the deal details and that all information is accurate.
-</thinking>
-
 # Deal Memo Submission - Help Guide
 ## Purpose
 The Deal Memo Submission form is used to collect and record the essential details of a business deal or agreement. The form ensures that the submission is accurate, complete, and represents a true and accurate representation of the deal details.

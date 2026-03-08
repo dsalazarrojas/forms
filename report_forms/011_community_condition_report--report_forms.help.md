@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from community members about issues or problems they have encountered within their community. It aims to gather data on the location, type, severity, and other relevant details of these issues, so that community administrators can prioritize and address them effectively.
-
-When completing this form, please ensure that you're providing accurate and honest information about the issue at hand. If you've reported the same issue before, please indicate that in the "Have You Reported This Before" field. Additionally, if you have photos or other relevant attachments, please describe them in the "Photo Description" field.
-
-The form will guide you through a series of questions and fields that will help us better understand the situation. Please answer each question truthfully and provide as much detail as possible.
-
-Before you begin, please note that the "Duration of Issue" and "Previous Report Date" fields are only visible if you've reported the issue before, and the "Photo Upload" field is optional but can be useful for further reference.
-
-</thinking>
-
 # Community Condition Report - Help Guide
 
 ## Purpose

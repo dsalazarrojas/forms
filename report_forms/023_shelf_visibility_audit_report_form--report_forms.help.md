@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shelf Visibility Audit Report Form - Help Guide
 
 ## Purpose

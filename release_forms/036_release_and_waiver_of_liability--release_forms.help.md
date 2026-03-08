@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a standard template for a release and waiver of liability form used to collect information for various purposes, such as event registration, medical waivers, or consent agreements. It is designed to be simple and accessible while ensuring that all necessary information is gathered. 
 
 The purpose of this form is to obtain the releasor's (the person or entity granting a release) personal details, which may be used in conjunction with other data points collected during the event, activity, or service. This form typically serves as an initial step to verify the releasor's identity and obtain their consent for any necessary actions. 

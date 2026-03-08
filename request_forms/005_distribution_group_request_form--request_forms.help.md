@@ -1,12 +1,3 @@
-<thinking>
-To ensure this form accurately captures all necessary information for the distribution group request, please note the following:
-
-* This form is used to record and manage requests for products or resources within the distribution group.
-* Ensure you only submit this form if you are the correct person to submit a request on behalf of your team. Duplicate requests may be declined or marked as duplicates. Ensure you are not re-submitting a request for the same product.
-* Review the form carefully to ensure all required fields are completed to avoid delays or re-submission.
-
-</thinking>
-
 # Distribution Group Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for distribution group products or resources. Please fill out this form to request a specific product or resource for your team.

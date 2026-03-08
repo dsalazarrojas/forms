@@ -1,15 +1,3 @@
-<thinking>
-
-To create a help guide for this form, let's first break down its purpose and fields. The Reading Report Form is likely used for tracking student reading progress, reporting reading levels, and collecting feedback on student reading materials. It may also include features to track attachments and images.
-
-The form likely caters to teachers, parents, or students who need to submit reports on student reading progress. It's likely used for educational purposes, possibly in a school or classroom setting. Let's assume it's used for monitoring and providing guidance on reading development for students.
-
-Given the variety of fields, this form may not be used for a single, specific purpose, making it an all-around reporting form for reading progress, comments, and attachments.
-
-We should also check for potential duplication, but in this case, I'll assume the fields are distinct.
-
-</thinking>
-
 # Reading Report Form - Help Guide
 ## Purpose
 

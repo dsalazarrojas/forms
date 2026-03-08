@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Student Device Check Out Form is to collect information about a student's device check-out status and any relevant details about the device. This form aims to help track and manage student devices, including their current availability, status, and any issues that may arise when they are checked out or returned. To ensure that this form is filled out correctly, please make sure to only submit it when a student's device status has changed and that all required fields are complete.
-</thinking>
-
 # Student Device Check Out Form - Help Guide
 ## Purpose
 The Student Device Check Out Form is used to track and manage student devices, including their current status, check-out and return dates, and any issues that may arise during this process.

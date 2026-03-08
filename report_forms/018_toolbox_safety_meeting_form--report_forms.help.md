@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report on the status of toolboxes and toolkits used in various work areas. The purpose of this form is to ensure that toolboxes and toolkits are properly maintained and inspected according to company safety policies. 
-
-The form is intended to be completed by maintenance staff and supervisors to provide a quick and efficient way to report on the status of toolboxes and toolkits. 
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Toolbox Safety Meeting Form - Help Guide
 ## Purpose
 The purpose of this form is to report on the status of toolboxes and toolkits used in various work areas to ensure that they are properly maintained and inspected according to company safety policies.

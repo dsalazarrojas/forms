@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users report their work status, tasks completed, and goals achieved at the end of each workday. The form is meant to capture essential information for tracking progress and facilitating communication with the team or manager. The fields in this form include status updates, task and goal completion details, and any additional notes or comments.
-
-Before filling out this form, please ensure that you have all the necessary information ready, as some fields require specific data formats (e.g., time and email). If you're unsure about any field or its requirements, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # End Of Work Day Report - Help Guide
 ## Purpose
 The End Of Work Day Report form is used to record your status and progress at the end of each workday. This report helps the team or manager understand your work status, tasks completed, and goals achieved, facilitating better communication and collaboration.

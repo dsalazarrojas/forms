@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for reporting illegal fireworks incidents. Users will need to provide their contact information and details about the incident, including location and circumstances. Please ensure that you are not filling out the form for a duplicate incident or if you are unsure about the incident's nature. Please fill out the form in a clear and concise manner.
-</thinking>
-
 # Illegal Fireworks Reporting Form - Help Guide
 ## Purpose
 This form is used to report illegal fireworks incidents in the community. To ensure that your report is processed efficiently, please fill out the form in a clear and concise manner and do not report duplicate incidents.

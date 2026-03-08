@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mocion Submission Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about payment term definition requests from customers. This form is essential for the sales team to process and follow up with customers. To ensure accurate and efficient processing, it's crucial to complete this form correctly. Before proceeding, please ensure that this form is not a duplicate of an existing request and that you're submitting new information for a valid reason.
-</thinking>
-
 # Payment Term Definition Request Form - Help Guide
 ## Purpose
 This form is designed to collect details about payment term definition requests from customers, helping the sales team to process and follow up on these requests effectively.

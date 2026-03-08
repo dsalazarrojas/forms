@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a police report in a structured and organized manner. This template is useful for reporting incidents, crimes, or events that have occurred in a specific location. The form is meant to be completed by an individual who witnessed or was involved in the incident.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an AI-generated template, designed to be used as-is or modified to fit specific needs. The form uses only public metadata about police reports as inspiration and does not contain any proprietary content from other platforms.
-
-Before proceeding, please review the form carefully to ensure you understand its purpose and the information it collects. Ensure that you are not duplicating efforts by completing multiple forms for the same incident.
-
-</thinking>
-
 # Police Report Template - Help Guide
 ## Purpose
 This form is designed to collect information about a police report in a structured and organized manner. It captures details about the incident, including the time it occurred, a description of the crime, and the suspect's name, if known.

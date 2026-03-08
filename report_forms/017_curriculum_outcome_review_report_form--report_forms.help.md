@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curriculum Outcome Review Report Form - Help Guide
 ## Purpose
 The "Curriculum Outcome Review Report Form" is used to report on the curriculum outcomes achieved by students. This form is intended for educators to review and assess the progress of students towards meeting the desired learning objectives. It helps to identify areas of strength and weakness, and inform instruction and support.

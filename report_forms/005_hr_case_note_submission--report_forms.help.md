@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture relevant information about HR case notes submitted by employees. The form should be completed by employees who have experienced or witnessed an incident or case that requires HR attention. The goal of this form is to provide a standardized way for employees to submit their notes in a clear and concise manner.
-Before completing this form, please make sure you are not duplicating your report. If you are unsure, you can refer to our incident reporting policy.
-</thinking>
-
 # hr_case_note_submission - Help Guide
 ## Purpose
 The hr_case_note_submission form is used to capture information about employee-submitted HR case notes.

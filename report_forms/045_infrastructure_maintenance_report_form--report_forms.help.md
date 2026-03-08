@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to report on infrastructure maintenance activities. Maintenance personnel will use this form to report on the status of maintenance projects, providing details about the project, location, and other relevant information. This form helps track and record maintenance activities, ensuring that all necessary information is documented and accessible for future reference.
-
-Before proceeding, please ensure that this is the correct form for your needs and that you're not duplicating effort. This form is intended for maintenance personnel to report on maintenance activities. If you're unsure, please consult the relevant team or team lead for guidance.
-
-</thinking>
-
 # Infrastructure Maintenance Report Form - Help Guide
 ## Purpose
 This form is for reporting on infrastructure maintenance activities, including projects, location, and other relevant information.

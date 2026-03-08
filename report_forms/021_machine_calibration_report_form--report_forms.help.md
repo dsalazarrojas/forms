@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used to capture information related to machine calibration. It's likely intended for use in a manufacturing or equipment maintenance context, where machines need to be regularly calibrated to ensure they're functioning correctly. This form could be used to schedule or record calibrations, track the status of machines, and provide a record of maintenance activities. It's not clear if this form is used for internal or external reporting purposes.
-
-</thinking>
-
 # Machine Calibration Report Form - Help Guide
 ## Purpose
 The Machine Calibration Report Form is used to capture information related to machine calibration. This includes details such as the technician's name, machine identifier, location, and serial number, as well as the date of calibration, next calibration due date, and the current calibration status. The form also allows for optional notes and comments to be added.

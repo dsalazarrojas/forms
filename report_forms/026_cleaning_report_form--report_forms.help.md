@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for reporting the details of cleaning services performed, including dates, service types, areas cleaned, and client feedback. The form aims to capture information about the service quality, client satisfaction, and any issues that arose during the service. It seems to be a comprehensive form covering all aspects of the cleaning process. There is no apparent overlap or redundancy in the fields provided.
-</thinking>
-
 # Cleaning Report Form - Help Guide
 ## Purpose
 The Cleaning Report Form is designed to document the details of cleaning services provided to a client or property. It gathers information about the service date, type, areas cleaned, and client feedback.

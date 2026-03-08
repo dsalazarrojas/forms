@@ -1,11 +1,3 @@
-<thinking>
-
-The Process Downtime Log Report Form is a report used to track and manage downtime for machines in the organization. This form helps in identifying the reasons behind machine downtime and the actions taken to resolve it, allowing for better maintenance planning and prevention of future issues. It is crucial to complete this form accurately and thoroughly, as it helps in maintaining a record of past incidents and their resolutions.
-
-Before filling out this form, please ensure that you are filling out the correct form for your specific situation, and avoid duplicating information by checking with your supervisor or team lead if you are unsure.
-
-</thinking>
-
 # Process Downtime Log Report Form - Help Guide
 ## Purpose
 The Process Downtime Log Report Form is used to record and review machine downtimes, ensuring that all relevant information is documented for analysis and future reference.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form that allows users to release a real estate contract, providing information such as the agent involved, reason for release, dates and times of release, and contact details. I will ensure that the form is completed correctly, as per the provided schema.
-</thinking>
-
 # Real Estate Contract Release Form - Help Guide
 ## Purpose
 This form is used to release a real estate contract, providing necessary information for the release process.

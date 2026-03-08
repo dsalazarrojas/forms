@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from travel agents about their income. This is important for accounting and tax purposes. This is not the first instance of the form, as it's part of a larger system that allows for multiple forms to be created and edited. Please ensure that the fields are filled in accurately and completely.
-</thinking>
-
 # Travel Agent Income Form - Help Guide
 
 ## Purpose

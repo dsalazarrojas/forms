@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Logistics Carbon Report Request Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The Renter Application Form is designed to collect information from potential renters applying for a rental property. The form is intended for individuals who are interested in renting a property, and the information collected will be used to verify their identity, employment status, and rental history. The form is typically used by property managers or landlords to assess the suitability of applicants and make informed decisions about tenancy.
-
-To avoid duplication, the form is designed to be completed by the applicant only once. If the form is being completed multiple times, it may indicate a potential issue with the application process.
-
-</thinking>
-
 # Renter Application Form - Help Guide
 ## Purpose
 The Renter Application Form is a critical document that helps property managers or landlords assess the suitability of potential renters for a rental property. It is designed to collect relevant information about the applicant, including contact details, rental history, employment verification, and agreement on rental terms.

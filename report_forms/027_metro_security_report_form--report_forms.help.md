@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a security reporting tool for incidents or potential threats, likely used for internal reporting within an organization or business. It's designed to gather information about reported incidents, including the type of threat, location, and other details. This form might be used by employees, managers, or other stakeholders to document and track security incidents. The fields on this form seem to be a mix of text fields for general information and select_one fields for more specific categorization (e.g., threat type and level). The form doesn't appear to be designed for complex or sensitive data, so it's likely not subject to strict data protection regulations (e.g., GDPR, HIPAA). Given the simplicity of the form, it's probable that it's intended for internal use only.
-</thinking>
-
 # Metro Security Report Form - Help Guide
 ## Purpose
 The Metro Security Report Form is a tool used to document and report security incidents or potential threats to the relevant stakeholders within the organization. This form gathers essential information about reported incidents to facilitate prompt and effective response.

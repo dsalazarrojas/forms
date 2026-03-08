@@ -1,8 +1,3 @@
-<thinking>
-This is the Substance Discrepancy Report form. The purpose of this form is to report any discrepancies in the quantity of a substance in stock or received. This form is used to document the situation, allowing for accurate tracking and resolution of the issue. Before filling out this form, please ensure that you are reporting a genuine discrepancy and not duplicating a previously reported one.
-
-</thinking>
-
 # Substance Discrepancy Report - Help Guide
 
 ## Purpose

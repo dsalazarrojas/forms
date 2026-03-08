@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to capture information related to a service report, likely for maintenance or repair purposes. The form is designed to collect details about the customer, their equipment, and the service performed. 
-
-The form will be used to track and document the service history of equipment, and to ensure that all relevant information is captured and recorded accurately. 
-
-To avoid duplication, ensure that you are not submitting multiple reports for the same customer and equipment. If you are unsure about a report, please contact the relevant team member or supervisor for clarification.
-
-</thinking>
-
 # service_report_form - Help Guide
 ## Purpose
 The Service Report Form is a document used to capture and track information about services performed on equipment.

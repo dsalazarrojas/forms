@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by school bus inspectors to document the pre-trip inspection of a school bus. The purpose of this form is to collect information about the vehicle's condition, including its make, odometer reading, air breather, brakes, steering, tires, parking brakes, emergency lockout, fire extinguishing system, fire extinguisher location, fire extinguisher, route number, trip number, route start time, route end time, notes, vehicle ID, driver's signature, inspector's signature, date, and submitted by. This information is crucial for ensuring the vehicle's safety and maintenance. Before starting, please review the form to ensure you are aware of the fields and their requirements.
-
-This form is part of the "report_forms" category and is titled "School Bus Pre Trip Inspection Report Form". It is composed of 8 pages, each containing a set of fields that require different types of input. The form requires a driver's signature, inspector's signature, and date as required fields. Some fields, like "vehicle ID" and "route number", are specific to the vehicle and trip information, while others, like "notes" and "submitted by", are for additional comments and meta-data.
-
-Please review the form carefully and ensure you have all the necessary information before starting the inspection. If you have any questions or concerns, feel free to ask.
-
-</thinking>
-
 # School Bus Pre Trip Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to document the pre-trip inspection of a school bus, ensuring its safety and maintenance are up-to-date.

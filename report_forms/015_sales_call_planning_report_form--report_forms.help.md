@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the Sales Call Planning Report Form. 
 
 The purpose of this form is to provide a systematic and detailed approach to planning and recording sales calls. It helps in organizing all necessary information in one place, making it easier for sales managers to keep track of sales calls and their outcomes. 

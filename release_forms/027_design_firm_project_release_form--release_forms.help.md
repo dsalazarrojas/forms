@@ -1,6 +1,3 @@
-<thinking>
-Please note that the form is used to track and record project release information. The purpose of this form is to gather data about a project's status, progress, and completion. It is designed to be completed by project managers, and the data collected will be used for internal reference and decision-making. Please ensure that you have a valid reason for completing this form and are not duplicating effort. If you are unsure or have questions, please contact the relevant stakeholders before filling out the form.</thinking>
-
 # Design Firm Project Release Form - Help Guide
 ## Purpose
 The Design Firm Project Release Form is a tool used to track and record project release information. It helps gather data about a project's status, progress, and completion.

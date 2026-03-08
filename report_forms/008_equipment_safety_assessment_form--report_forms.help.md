@@ -1,9 +1,3 @@
-<thinking>
-We are designing a help guide for the "Equipment Safety Assessment Form" to ensure users understand its purpose and complete it accurately. The form's primary purpose is to evaluate the safety status of equipment and identify potential hazards. To avoid duplication of effort, we'll check if the form has been completed recently.
-
-This guide will cover the form's purpose, instructions, and field explanations. Each field will be described concretely and concisely, with an explanation of the field's purpose and any specific guidelines or best practices.
-</thinking>
-
 # Equipment Safety Assessment Form - Help Guide
 ## Purpose
 The Equipment Safety Assessment Form is designed to evaluate the safety status of equipment and identify potential hazards. It helps inspectors and maintenance personnel assess the condition of equipment, document findings, and provide recommendations for improvement.

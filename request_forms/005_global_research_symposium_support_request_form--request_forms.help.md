@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from users who need support for the Global Research Symposium. The purpose of this form is to allow users to provide details about the support they need, such as their name, email, phone number, event name, event date, and a brief description of their support request. The form is not intended to be completed by users without a legitimate support request, and filling out a request form is only required for users with a genuine support need.
-</thinking>
 # Global Research Symposium Support Request Form - Help Guide
 ## Purpose
 The Global Research Symposium Support Request Form is a tool used to collect and manage support requests from users for the Global Research Symposium. It helps the support team to identify and prioritize support needs, ensuring that users receive timely and effective assistance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Intubation Checklist Form - Help Guide
 
 ## Purpose

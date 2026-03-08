@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Patient Progress Notes Form - Help Guide
+> # Patient Progress Notes Form - Help Guide
 
 ## Purpose
 This form is used to document and track patient progress during medical visits, consultations, or appointments. It captures key information about the patient's condition, medical history, and current status, as well as the visit details and staff involvement. This form helps healthcare professionals maintain accurate and up-to-date records, facilitating better patient care and management.

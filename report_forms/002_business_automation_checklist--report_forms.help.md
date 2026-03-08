@@ -1,15 +1,3 @@
-<thinking>
-The form appears to be a business automation checklist designed to assess a company's level of automation implementation, identify priority areas for automation, and gauge their readiness for automation implementation. This form is likely used by business professionals or IT teams to evaluate and improve their organization's automation capabilities. The fields in this form are meant to gather information about the company's current state of automation, their goals and challenges, and their expected outcomes. To ensure that the form is completed accurately, the user should carefully review each field's purpose and provide the requested information truthfully.
-
-To determine the relevance of this form, consider the following:
-* Does the company already have some level of automation in place?
-* Are there specific areas of the business that require improvement or modernization?
-* Is the company looking to implement new automation tools or expand existing ones?
-
-To avoid duplication, ensure that this form is not completed by multiple teams or departments without coordination. It's essential to have a centralized point of contact or a single owner who can review and act on the information gathered.
-
-</thinking>
-
 # Business Automation Checklist - Help Guide
 
 ## Purpose

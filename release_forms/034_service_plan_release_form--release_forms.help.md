@@ -1,10 +1,3 @@
-<thinking>
-  This guide helps users understand how to complete the Service Plan Release Form, a key part of the release process in a service environment.
-  The form is used to document the release of a service, providing essential details about the service provider, the reason for the release, and the involved customer.
-  To ensure accurate and complete data entry, it's crucial to review this guide carefully before starting the form.
-  If you're unsure about any part of the process or have already submitted a similar form, please double-check that this form is not a duplicate before proceeding.
-</thinking>
-
 # Service Plan Release Form - Help Guide
 ## Purpose
 The Service Plan Release Form is a document used to record the release of a service from a service provider. This form captures essential details such as the service provider's name, reason for release, date and time of release, customer information, and the customer's decision on the release. It is a crucial step in the release process to ensure that all parties involved are aware of the release and can make necessary adjustments.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be related to the verification process for driving license renewals. The form might be used by individuals to provide necessary information to verify their driving license renewals. Given that the form includes fields for driver, vehicle, and contact information, it seems that this form is designed to collect personal details and contact information for the purpose of renewal verification. The form has four sections: "driver_info", "vehicle_info", "contact_info", and "submit_info". The form does not seem to have any complex calculations or conditional fields, indicating that it is a simple information-gathering tool.</thinking>
-
 # driving_license_renewal_verification_form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Driving License Renewal Verification Form.

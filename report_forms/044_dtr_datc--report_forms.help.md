@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect data about a worker's time and performance. It is intended to be used by a manager or supervisor to track and document a worker's work hours, time-in and time-out, and any notable events or incidents during their shift. The form can be used to identify potential issues or trends that may affect the worker's productivity or overall job performance. It is not meant to be used as a legal document, but rather as a tool to aid in data collection and performance evaluation...</thinking>
-
 # Dtr_Datc - Help Guide
 ## Purpose
 The Dtr_Datc form is designed to collect information about a worker's time and performance data. It's meant to be used by managers or supervisors to track and document work hours, time-in and time-out, and any notable events or incidents during a shift.

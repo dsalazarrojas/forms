@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about job openings and job applicants from the Texas Crime Prevention Agency. It's meant to gather essential data to effectively manage job postings and recruit suitable candidates. Please note that the form fields are divided into different categories, ensuring a structured approach to data collection. Ensure you have a clear understanding of each field before filling out the form.
-</thinking>
-
 # Texas Crime Prevention Agency Recruitment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and manage information about job openings and applicants within the Texas Crime Prevention Agency. It helps in organizing and categorizing job postings for efficient recruitment and selection processes.

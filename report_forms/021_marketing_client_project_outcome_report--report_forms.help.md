@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Marketing Client Project Outcome Report - Help Guide
 ## Purpose
 This form is designed to collect information about marketing client projects, specifically their outcomes, performance insights, and client feedback. The goal is to gather data that will help assess the success or progress of marketing projects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Theater Quote Request - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information about a potential event or request for a package quote. The form fields ask for details about the event type, event name, number of guests, date and time of the event, event description, quote request, contact information, and package details. The form does not enforce the submission of any of these fields, making it optional. This form is likely used to collect data from event planners or clients who are interested in booking a package or service. 
-
-To avoid duplication, the form should not be filled out multiple times for the same event. Before submitting the form, users should make sure they have a valid reason for the event and the correct contact information.
-
-</thinking>
-
 # hbcdjs_packages_enquiry - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a potential event or request for a package quote.

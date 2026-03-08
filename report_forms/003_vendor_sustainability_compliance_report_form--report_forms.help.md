@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information from vendors about their sustainability practices and compliance with certain standards. This form is not intended for general use and is only relevant for vendors who have been identified as needing to provide sustainability-related information. To avoid duplication of effort, please only complete this form if you have been specifically asked to do so by a member of our team.
-</thinking>
-
 # Vendor Sustainability Compliance Report Form - Help Guide
 ## Purpose
 This form is designed to collect information from vendors about their sustainability practices and compliance with certain standards. It is intended for vendors who have been identified as needing to provide sustainability-related information.

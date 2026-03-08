@@ -1,26 +1,3 @@
-<thinking>
-
-To ensure that this help guide is accurate and up-to-date, I'll need to clarify some fields and provide concrete explanations for each step. Let's break down the form to understand its purpose and how to complete it.
-
-This form is designed to gather information for requests related to academic records, such as transcripts, enrollment verification, or degree verification. It's essential to fill out the form accurately to ensure that the requested records are processed correctly.
-
-The form consists of 18 fields, divided into several sections:
-
-*   Form header with a note about the form's purpose.
-*   Requester's information, including full name, former name (if applicable), date of birth, student ID number, email address, and phone number.
-*   Dates of attendance at the institution.
-*   Degree earned (if applicable).
-*   Type of record requested (e.g., official transcript, unofficial transcript, enrollment verification).
-*   Number of copies needed.
-*   Delivery method (electronic, mail, or pick up in person).
-*   Recipient's information (name and address, if applicable).
-*   Purpose of the request.
-*   Urgency of the request (standard processing time, rush processing, or same-day processing).
-*   Consent statement to authorize the release of records.
-*   Date of request.
-
-</thinking>
-
 # Academic Records Request Form - Help Guide
 ## Purpose
 This form is used to request academic records, such as transcripts, enrollment verification, or degree verification, from the academic institution.

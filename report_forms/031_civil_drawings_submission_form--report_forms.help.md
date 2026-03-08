@@ -1,10 +1,3 @@
-<thinking>
-This form is part of the Civil Drawings Submission process and is intended for engineers or firms submitting civil drawings to the organization. To ensure accuracy, please verify that you have the necessary information and files ready before proceeding.
-
-This form should only be submitted once per project. Repeated submissions may lead to duplicate processing and potential errors. If you have already submitted this form for the same project, please refrain from resubmitting it.
-
-</thinking>
-
 # Civil Drawings Submission Form - Help Guide
 ## Purpose
 This form is for submitting civil drawings to the organization. It captures the essential details about the project, drawing references, and the submission itself.

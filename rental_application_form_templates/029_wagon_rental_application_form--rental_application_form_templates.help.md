@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for users to provide their information for renting a wagon from the company. The form is divided into multiple pages with different fields that cater to various aspects of the rental process. The main goal of this form is to gather essential details from the user to facilitate the rental process, including vehicle type, rental period, and contact information. To avoid duplication, please ensure that you've filled out the required fields completely and accurately before submitting the form. Incomplete or inaccurate information may lead to delays or errors in the rental process.
-
-</thinking>
-
 # Wagon Rental Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from users to facilitate the rental process of waggons from the company. The form is used to collect contact details, rental preferences, and any special requests the user may have.

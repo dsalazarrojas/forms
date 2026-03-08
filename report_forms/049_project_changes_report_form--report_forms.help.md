@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning block: This form is used to report any changes made to a project. The purpose is to collect information about the project's current state and track changes made to it. This form is typically completed by project team members or managers to provide an accurate overview of the project's progress. To ensure accuracy and consistency, it's essential to fill out this form for each project change, and avoid duplicating entries for the same change. This form will help in maintaining an up-to-date record of project changes, facilitating better project management and decision-making. ...</thinking>
-
 # Project Changes Report Form - Help Guide
 ## Purpose
 The Project Changes Report Form is a tool for project team members and managers to report any changes made to a project. It helps in maintaining an accurate record of project changes, facilitating better project management and decision-making.

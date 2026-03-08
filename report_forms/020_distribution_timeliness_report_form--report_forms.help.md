@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for tracking distribution performance and associated details. It seems to be relevant to the logistics or supply chain management process. However, I'll assume it's for tracking on-time delivery performance and distribution schedules. Please note that I'll provide a practical guide based on this assumption, but if the actual purpose is different, the guide might not accurately reflect the true intention of the form. To ensure clarity, I'll review the form's fields to ensure I'm not duplicating any information.
-
-</thinking>
-
 # Distribution Timeliness Report Form - Help Guide
 ## Purpose
 This form is designed for tracking and reporting on the timeliness of distributions. It captures relevant details about on-time delivery performance, reasons for delays, distribution schedules, and other essential information.

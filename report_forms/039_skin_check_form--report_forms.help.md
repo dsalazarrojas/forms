@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to gather information about a patient's skin concerns and medical history for healthcare professionals. The form is designed to be user-friendly and straightforward, aiming to elicit accurate and comprehensive data from patients. Before filling out this form, ensure that you haven't already filled it out for the same patient to avoid duplication.
-</thinking>
-
 # skin_check_form - Help Guide
 ## Purpose
 The **skin_check_form** is a medical questionnaire designed to collect information about a patient's skin concerns and medical history. This form is intended for use by healthcare professionals to gather accurate and comprehensive data about patients' skin health.

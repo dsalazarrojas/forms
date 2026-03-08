@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for the purpose of requesting a service or support. This form is part of a larger system used to manage and track these requests in a organized manner.
-
-Before starting, please ensure you are submitting this form for the correct reason and have not already submitted a similar request. This form is only intended for legitimate requests and any spam or duplicate submissions will be removed.
-
-</thinking>
-
 # NOM Form Submission - Help Guide
 
 ## Purpose

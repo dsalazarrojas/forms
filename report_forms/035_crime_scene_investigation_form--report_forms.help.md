@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about crime scenes and investigations. It is intended for use by law enforcement officers and investigators to document and report on crime scene information. This form should not be used for non-official purposes, and all responses will be reviewed and approved by authorized personnel.
-
-To confirm, this form is for official use only and is not for public submission or general public use. It is a critical tool for law enforcement agencies to document and investigate crimes effectively.
-</thinking>
-
 # Crime Scene Investigation Form - Help Guide
 ## Purpose
 The Crime Scene Investigation Form is a standardized form used by law enforcement agencies to gather and document information about crime scenes and investigations.

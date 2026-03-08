@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended for hospital staff members who need to fill out the Hospital Health Campaign Effectiveness Report form. The purpose of this form is to collect data on the outcomes of health campaigns conducted by hospitals. This data will be used to evaluate the effectiveness of these campaigns and identify areas for improvement.
-
-To ensure accuracy and consistency, please note that this form is intended for hospital staff members who have direct involvement with the campaign. Duplicate submissions from the same hospital will be removed to prevent overreporting. 
-
-</thinking>
-
 # Hospital Health Campaign Effectiveness Report - Help Guide
 ## Purpose
 The Hospital Health Campaign Effectiveness Report form is designed to collect data on the outcomes of health campaigns conducted by hospitals. This information will help us evaluate the success and areas of improvement for these campaigns.

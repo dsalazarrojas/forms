@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Chiropractic Business Report Form designed to collect various metrics and data from chiropractors and their practices. The form aims to gather financial, patient, and operational data for a specific period, such as a month or quarter. It appears to be used by chiropractors to report on their business performance, including revenue, collections, patient counts, and staff metrics. This form might be used for internal analysis, benchmarking, or reporting to stakeholders. To confirm, let's review the provided YAML fields and ensure we are creating a comprehensive guide that covers all the necessary sections.
-
-</thinking>
-
 # Chiropractic Business Report Form - Help Guide
 ## Purpose
 The Chiropractic Business Report Form is a tool used by chiropractors to report on their business performance, including financial metrics, patient statistics, and operational data. This form helps chiropractors track their progress, identify areas of improvement, and make data-driven decisions to optimize their practice.

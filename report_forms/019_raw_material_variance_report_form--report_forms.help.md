@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to report any variance in raw material usage that may have occurred during a process. The form is used by staff to document and track variances in raw material usage, which is essential for maintaining accurate records and identifying potential areas for improvement. This form should only be used to report actual or reported usage discrepancies that occurred during the current reporting period. Duplicate entries should not be submitted. 
-</thinking>
 # Raw Material Variance Report Form - Help Guide
 ## Purpose
 The Raw Material Variance Report Form is used to document and track any variances in raw material usage during a process.

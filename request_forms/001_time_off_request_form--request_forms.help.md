@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Off Request Form - Help Guide
 ## Purpose
 The Time Off Request Form is a tool used to request time off from work. It helps you to specify your request details, including start and end dates, duration, and reasons for leave. This form is meant for requesting time off for various reasons, such as vacation, sick leave, or personal appointments. Please note that this form is not meant for duplicate submissions.

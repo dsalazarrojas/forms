@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created for emergency responders, such as firefighters, paramedics, and emergency medical technicians, to report incidents involving the aerosolization of flammable materials or chemicals in fire rescue operations. This form is a standardized, concise way to collect crucial information about the incident, including the sections of the incident, the materials involved, and the actions taken. This form aims to improve the quality of reports, reduce errors, and enhance the efficiency of the reporting process. Before starting to fill out this form, ensure that you have all the necessary information and documents related to the incident, such as witness statements, photographs, and any other relevant evidence. If you are unsure about any aspect of the form, please refer to your organization's procedures and guidelines.
-
-</thinking>
-
 # Fire Rescue Aerosolized Procedure Report Form - Help Guide
 ## Purpose
 The Fire Rescue Aerosolized Procedure Report Form is a tool designed to help emergency responders document and report incidents involving the aerosolization of flammable materials or chemicals in fire rescue operations. This form is a standardized template to collect accurate and concise information about the incident.

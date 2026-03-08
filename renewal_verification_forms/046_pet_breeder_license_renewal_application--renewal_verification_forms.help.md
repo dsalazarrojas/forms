@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from pet breeders to renew their licenses. The form helps to verify the breeder's compliance history, breed list, and other relevant details. Before starting, please ensure this is the correct form for your purpose and you are not duplicating efforts. If you're a new breeder, you'll need to start a new application. If you're unsure, please review your previous applications to ensure you're not duplicating efforts.
-</thinking>
-
 # Pet Breeder License Renewal Application - Help Guide
 ## Purpose
 This form is used to renew a pet breeder's license. It collects information on the breeder's contact details, license status, breed list, and compliance history.

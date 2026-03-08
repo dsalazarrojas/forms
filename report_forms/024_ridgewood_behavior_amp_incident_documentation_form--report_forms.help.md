@@ -1,9 +1,3 @@
-<thinking>
-
-The ridgewood_behavior_amp_incident_documentation_form form is used for documenting incidents that have occurred within the organization. The form aims to gather essential information about incidents, including the location, time, and details of what happened, as well as the actions taken by the staff. This form is crucial for ensuring that incidents are thoroughly documented, which helps to maintain transparency, accountability, and compliance with relevant regulations.
-
-Before proceeding, please ensure that you are filling this form for a valid incident and that it is not a duplicate entry. If you are unsure whether an incident has already been reported, please contact your supervisor or the incident management team for clarification.</thinking>
-
 # ridgewood_behavior_amp_incident_documentation_form - Help Guide
 ## Purpose
 

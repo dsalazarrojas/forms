@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from prospects and clients in order to create a record of their requests. It is intended to be used by sales teams and customer support personnel to gather relevant details about the prospect's interests and needs. Before filling out this form, ensure that you have not already submitted a request for the same prospect/client.
-</thinking>
-
 # sample_request_for_prospect_client - Help Guide
 ## Purpose
 This form is used to collect information from prospects and clients about their requests.

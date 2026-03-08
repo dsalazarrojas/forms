@@ -1,6 +1,4 @@
-## <thinking>...</thinking>
-
-The purpose of this form is to collect information about the current status of a document, including its owner, deadline, progress, comments, and other relevant details. This form is likely used by team members or administrators to update and track the status of documents within a project or workflow.
+## The purpose of this form is to collect information about the current status of a document, including its owner, deadline, progress, comments, and other relevant details. This form is likely used by team members or administrators to update and track the status of documents within a project or workflow.
 
 Before proceeding, please note that this form is not meant to be filled out multiple times for the same document. It's designed for tracking and reporting on the status of a single document at a given point in time. If you're unsure whether to fill out this form or if you're already tracking the status of this document, please review your internal documentation or consult with your team lead/project administrator for clarification.
 

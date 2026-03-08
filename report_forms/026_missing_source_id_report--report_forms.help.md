@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to missing source IDs in a team setting. It may be used by team members to report missing source IDs for various tasks or projects, and to track the status of these reports. It's possible that your organization has a specific process in place for handling this kind of reporting, so be sure to check your team's guidelines or internal documentation before filling out this form.
-</thinking>
-
 # Missing Source ID Report - Help Guide
 ## Purpose
 The Missing Source ID Report is used to report missing source IDs related to various tasks or projects within your team. This form will help track and keep track of these reports.

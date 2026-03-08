@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Guest Room CheckList form. The form is designed to gather information about the status of various amenities and equipment in a guest room, including cleanliness, bathroom cleanliness, bedding, linen, towel availability, toiletries, amenities, safety equipment, and electrical outlets. 
-The form will help ensure that the rooms are adequately equipped and maintained to provide a safe and comfortable stay for guests. 
-This form will be used by hospitality staff to check and report on the status of each room, making it easier to identify areas that need improvement. 
-Please note that this form does not require users to enter any specific numerical values or dates.
-</thinking>
-
 # Guest Room CheckList - Help Guide
 
 ## Purpose

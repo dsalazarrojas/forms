@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for employees to report their daily activities, work hours, and any other relevant information. It's possible that this form is used for time tracking, attendance, or communication purposes within the organization. To ensure that the information provided is accurate and complete, we will provide a clear and concise help guide for the end users.
-</thinking>
-
 # Employee End Of Day Report - Help Guide
 ## Purpose
 This form is intended to be completed by employees at the end of their workday to report their activities, work hours, and any other relevant information. The form is used to track employee work hours, ensure accuracy in reporting, and provide a record of completed activities.

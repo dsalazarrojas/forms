@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for clients or customers to provide information for the removal of Christmas lights installed on their property. This form will help us assess the type of service required for removal, including estimated costs and preferred dates and times for service. It's essential to fill out this form thoroughly and accurately to ensure we can provide the best possible service.
-</thinking>
-
 # Christmas Light Removal Form - Help Guide
 
 ## Purpose

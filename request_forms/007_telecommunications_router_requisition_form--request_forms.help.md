@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telecommunications Router Requisition Form - Help Guide
 ## Purpose
 The Telecommunications Router Requisition Form is used to request the purchase of a new telecommunications router from the IT Department. This form is intended for internal staff members to submit their requests for new routers, allowing the IT Department to review and process the requests in a structured manner. Please make sure to fill out this form accurately and completely to ensure a smooth and efficient processing of your request.

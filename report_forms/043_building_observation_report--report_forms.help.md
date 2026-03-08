@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a building inspection report used for observing and documenting conditions of a building. The purpose of this form seems to be to gather data on the overall condition, safety, and maintenance needs of a building. Before proceeding, please ensure that this form is not a duplicate of an existing report and that the building you are inspecting is not already under inspection. 
-</thinking>
-
 # Building Observation Report - Help Guide
 ## Purpose
 The Building Observation Report is a form used to document and report on the conditions and observations of a building's overall condition, safety, and maintenance needs. This report helps to identify potential issues and recommendations for repairs or maintenance.

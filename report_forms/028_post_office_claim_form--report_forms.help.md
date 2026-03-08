@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect post office claims from customers, which can be used for tracking and resolving issues related to lost or damaged parcels. This form is likely used by post office staff or customer service representatives to gather information from customers who have encountered issues with their parcel delivery. The form should be completed by the customer to provide details about their claim, including their contact information and a description of the issue.
 
 # post_office_claim_form - Help Guide

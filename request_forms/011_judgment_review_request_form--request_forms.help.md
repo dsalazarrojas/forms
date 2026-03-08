@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parties requesting a review of a judgment or decision made by a court or administrative agency. The purpose of this form is to provide the necessary details for an impartial review process. To submit a request, please make sure you have not already submitted a similar request before and that your request meets the required criteria.
-</thinking>
-
 # Judgment Review Request Form - Help Guide
 ## Purpose
 The Judgment Review Request Form is a tool used to collect information from parties requesting a review of a judgment or decision made by a court or administrative agency.

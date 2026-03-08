@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data from users about a product. It is meant to be filled out by customers or employees who have evaluated a product. The form includes fields for basic contact information and product evaluation details such as product name, price, and rating. The evaluation date and time, contact email, phone number, and address are also included. The form is not intended to be used for any specific purpose other than product evaluation.
-</thinking>
-
 # Product Evaluation Checklist - Help Guide
 ## Purpose
 This form is used to collect product evaluation data from customers or employees. It is meant to be filled out by individuals who have evaluated a product.

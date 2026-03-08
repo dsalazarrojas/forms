@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this "Neighbor Complaint Form" is to gather information about issues or disputes between neighbors, allowing for a thorough understanding of the situation and potential resolution. This form serves as a tool for reporting and tracking complaints, and it's crucial to ensure that all necessary details are captured accurately to facilitate effective resolution. Before filling out this form, please review the following guidelines to ensure you're providing the most helpful information possible. Make sure to provide a clear and concise description of the issue, include any relevant dates and details, and choose the most suitable options for resolution and complaint type. This form may be used for internal reporting purposes, so try to provide as much detail as possible without including unnecessary information. If you're unsure about any of the fields or options, please refer to the explanations below.
-</thinking>
-
 # Neighbor Complaint Form - Help Guide
 ## Purpose
 The Neighbor Complaint Form is used to report and track issues or disputes between neighbors. It helps our team gather essential information to understand the situation and potential resolution.

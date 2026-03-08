@@ -1,24 +1,3 @@
-<thinking>
-This help guide will be used to explain the purpose and completion process of the Texas Association Of Realtors Residential Lease Application form, ensuring that end-users understand how to use the form correctly and what each field entails. This form will be designed to collect various information from renters and landlords for residential lease applications.
-
-To begin with, it is essential to understand that the form is divided into several sections, each focusing on a specific aspect of the rental application process. Before proceeding with the form, it is crucial to familiarize oneself with the purpose and requirements of each field to ensure that the form is completed accurately and efficiently.
-
-The form includes sections such as Renter Information, Property Information, Lease Terms, Contact Information, Rental Agreement, Renter Documents, Landlord Information, Lease Signature, Additional Information, and Lease Terms 2. 
-
-To complete this form, start by filling out the "Renter Information" section, which asks for personal details of the renter. Next, proceed to the "Property Information" section, where you'll provide details about the rental property. The "Lease Terms" section follows, where you'll outline the terms of the rental agreement. 
-
-The "Contact Information" section is where you'll provide contact details for communication. The "Rental Agreement" section is for outlining the rental terms and conditions. The "Renter Documents" section is where you'll upload or provide any required documents. 
-
-The "Landlord Information" section is for providing information about the property owner or manager. The "Lease Signature" section is for both parties to sign and agree to the terms. 
-
-Finally, the "Additional Information" and "Renter Signature" sections are for any additional details or signatures required. Ensure that all required fields are completed accurately to avoid any delays or issues with the rental application process.
-
-Please note that this form requires careful attention to ensure that all fields are filled accurately and completely to avoid any potential issues. This guide will assist users in filling out the form efficiently and effectively.
-
-It is worth noting that the form can be used to collect and store information about renters and landlords for residential lease applications. This guide will be helpful for both parties involved in the rental process to ensure that they understand their roles and responsibilities in the application process.
-
-</thinking>
-
 # Texas Association Of Realtors Residential Lease Application - Help Guide
 ## Purpose
 The Texas Association Of Realtors Residential Lease Application form is designed to collect and store information from renters and landlords for residential lease applications. This form aims to streamline the rental process by providing a standardized and organized way to gather necessary information.

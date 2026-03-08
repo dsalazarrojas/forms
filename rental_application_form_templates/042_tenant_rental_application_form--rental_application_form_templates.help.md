@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the user-facing help guide is clear, concise, and easy to understand. To achieve this, I will follow the provided YAML structure to create a comprehensive and user-friendly help guide for the "Tenant Rental Application Form". I will provide a detailed explanation for each field, ensuring that users understand the purpose and requirements of each section. I will also include a brief internal reasoning block to justify the form's purpose and check for relevance and non-duplication. This guide will be structured in Markdown format, making it easy to read and understand for users.</thinking>
-
 # Tenant Rental Application Form - Help Guide
 ## Purpose
 The Tenant Rental Application Form is designed to collect information from tenants for rental property applications. This form helps landlords and property managers to assess the applicant's identity, rental preferences, and property requirements. It's essential to complete this form accurately to increase the chances of securing a rental property.

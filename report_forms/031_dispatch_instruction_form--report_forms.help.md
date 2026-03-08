@@ -1,5 +1,3 @@
-<thinking>...The form is used to document the dispatch process, including the items received, order id, delivery date, delivery time, delivery note, customer phone number, email, and address. The purpose of the form is to ensure accurate and comprehensive documentation of each dispatch instruction, which is crucial for tracking and resolving any potential issues that may arise during the delivery process. It is essential to ensure that all required fields are filled in accurately to prevent errors and miscommunication. Ensure that the fields are filled in according to your actual experiences with your customers, as some fields may require specific formatting or input. Please review each field carefully to ensure that you are capturing the necessary information. This form is not intended to be completed multiple times per dispatch, but rather as a single record for each individual dispatch instruction...</thinking>
-
 # Dispatch Instruction Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the purchase order history of a customer for a variety of purposes, including but not limited to testing, training, internal use, or external use. This form is likely to be used by administrators or staff members to record and manage purchase orders. To ensure data accuracy and consistency, please do not duplicate entries. If you have previously submitted this form, please do not resubmit. If you are unsure about any field or option, please refer to the help guide below.
-</thinking>
-
 # Purchase Order History Report Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photo_release_form - Help Guide
 ## Purpose
 The Photo Release Form is a tool used to obtain consent from individuals to use their likeness or image in various media channels. It's designed to be filled out by the subjects of photo shoots, interviews, or other recordings, to grant permission for their photo or likeness to be used in publications, advertisements, or other promotional materials.

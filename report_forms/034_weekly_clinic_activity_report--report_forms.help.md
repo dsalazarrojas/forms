@@ -1,6 +1,3 @@
-<thinking>
-This help guide is for the "Weekly Clinic Activity Report" form, which appears to be a reporting tool for clinic activities, services, and staffing information. The form likely aims to capture data on various aspects of the clinic's operations, such as staffing schedules, services provided, patient outcomes, and billing issues. It's essential to ensure that the form is completed accurately and consistently to maintain reliable data quality. Before starting, review the form fields carefully and consider any relevant documentation or instructions provided by the clinic management or IT department to avoid duplication of effort and ensure alignment with existing processes. This guide will provide a step-by-step explanation of the form fields, their meanings, and how to complete them correctly.</thinking>
-
 # Weekly Clinic Activity Report - Help Guide
 ## Purpose
 The Weekly Clinic Activity Report form is used to collect information about the clinic's operations, staffing, services, and patient outcomes. Complete this form to provide an accurate and concise overview of the clinic's activity during the week.

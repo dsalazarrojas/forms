@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a template for a residential rental application form. The purpose of this form is to collect information from applicants interested in renting a residential property. The form is designed to gather essential details about the applicant, including their contact information, rental property preferences, and agreement terms. This form is meant to be completed by applicants, and the information collected will be used to assess their eligibility for a rental property.
-</thinking>
-
 # Residential Rental Application Form - Help Guide
 ## Purpose
 This form is a comprehensive guide to help you complete the residential rental application form. The form aims to collect information from you, the applicant, to assess your eligibility for renting a residential property.

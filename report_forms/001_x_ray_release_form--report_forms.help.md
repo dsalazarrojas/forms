@@ -1,11 +1,3 @@
-<thinking>
-The X RAY Release Form is a critical document that requires accurate and complete information to facilitate the proper treatment and follow-up of patients. To ensure the form is completed correctly, please review the following instructions carefully.
-
-1. Only complete this form for patients who have undergone an X-ray procedure. Do not use this form for other types of medical procedures.
-2. Ensure the form is filled out accurately and completely, including all required fields, before submitting it.
-3. Review the form carefully to avoid duplicate or incorrect submissions, as this can lead to errors in patient care.
-</thinking>
-
 # X RAY Release Form - Help Guide
 
 ## Purpose

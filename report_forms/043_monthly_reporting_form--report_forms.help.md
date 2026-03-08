@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to be a simple reporting tool for project managers and team members to report on the progress of their projects. It will help users report on the status of their projects, including the start and end dates, project name, project status, team members involved, total hours worked, and other relevant details. 
-
-The form is meant to be a quick and easy way to provide updates on ongoing and completed projects, allowing for efficient tracking and analysis of project progress.
-
-This form will not be filled out by the project managers or team members for each project, so ensure that you are using the correct project name, start and end dates, and project status to avoid confusion.
-
-Please note that this form is for internal use only and should not be shared with external parties. 
-
-</thinking>
-
 # Monthly Reporting Form - Help Guide
 ## Purpose
 This form is designed to provide a quick and easy way to report on project progress.

@@ -1,14 +1,3 @@
-<thinking>
-This guide will walk you through how to complete the "Clock In Out Error Form", a crucial document for correcting clock-in or clock-out errors, to ensure accurate employee hours and payroll processing. 
-
-When filling out this form, please ensure that you have all the necessary information and details required for accurate completion. 
-
-To prevent duplication, use this form only when there's an error in your clock-in or clock-out, and not for regular clock-in or clock-out activities. 
-
-Before proceeding, please review the form fields and ensure you understand what each field represents. If unsure, please consult with your supervisor or HR department.
-
-</thinking>
-
 # Clock In Out Error Form - Help Guide
 ## Purpose
 The "Clock In Out Error Form" is used to report and correct clock-in or clock-out errors that occurred during an employee's work hours. This form is essential for ensuring accurate payroll processing and correcting errors in employee work hours.

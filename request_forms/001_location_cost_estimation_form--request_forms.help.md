@@ -1,7 +1,3 @@
-<thinking>
-This form is used for location cost estimation purposes, likely for venues or event spaces. The goal is to gather information from end-users to estimate costs associated with a specific location or event. It's crucial that the form is filled out correctly to ensure accurate estimates. Please ensure that the form is not duplicated or submitted with irrelevant information.
-</thinking>
-
 # Location Cost Estimation Form - Help Guide
 ## Purpose
 The Location Cost Estimation Form is designed to collect information from end-users for estimating costs associated with a specific location or event space. This form helps gather essential details to provide accurate estimates.

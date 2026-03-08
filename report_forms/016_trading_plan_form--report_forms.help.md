@@ -1,12 +1,3 @@
-<thinking> 
-This form, called "trading_plan_form", is designed for users to input information about their trading plans. The purpose of this form is to collect data on users' risk tolerance, trading styles, and other relevant information. 
-
-The form has multiple fields that allow users to input various types of data, including text, number, date, time, and multiple select fields. Some fields have multiple options to choose from, while others are open-ended for users to provide their own information.
-
-To ensure that users provide accurate and useful data, each field has a specific label and hint to guide them through the input process. Additionally, some fields have required and optional settings to ensure that users fill out all necessary information.
-
-Before proceeding, let us make sure that this form is relevant and not duplicated with other forms in the system. The form has a unique title and name, and all field labels and hints are clear and concise. If there are any concerns, please let us know and we will review and adjust accordingly.</thinking>
-
 # trading_plan_form - Help Guide
 ## Purpose
 The trading_plan_form is designed to collect information about users' trading plans, including risk tolerance, trading styles, and other relevant details.

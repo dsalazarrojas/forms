@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to report an issue to the relevant team or department. It is intended to be used when a problem or concern arises and requires attention from the reporting party or organization. This form is designed to gather necessary information to help address the issue effectively. Before proceeding, ensure that you have not already reported this issue, and that it has not been resolved. This form should only be used for reporting new, unresolved issues.
-
-</thinking>
-
 # Report An Issue Form - Help Guide
 ## Purpose
 The Report An Issue Form is used to report a problem or concern to the relevant team or department. It helps to gather information to resolve the issue efficiently.

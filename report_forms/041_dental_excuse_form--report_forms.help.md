@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Excuse Form - Help Guide
 ## Purpose
 The Dental Excuse Form is used to document a student's absence from school due to a visit to the dentist. This form is used to provide a valid reason for the student's absence and to obtain a doctor's note to support the excuse.

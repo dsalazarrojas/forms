@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for users to report problems or issues related to drainage. The purpose of this form is to collect information about the drainage issues, including the area affected, description of the problem, and status of the problem. This form will help identify and address drainage problems more efficiently.
-
-This form does not require completion for every field, and users are free to fill in only the necessary fields. 
-
-Please note that this form will not create duplicate records. If a user has previously submitted a report for the same drainage area and problem, it will not be possible to submit another report for the same area and problem.
-
-</thinking>
-
 # drain_problem_report_form - Help Guide
 ## Purpose
 The drain_problem_report_form is designed to collect information about drainage problems or issues. Users can report problems in various drainage areas and provide details about the status and description of the problem.

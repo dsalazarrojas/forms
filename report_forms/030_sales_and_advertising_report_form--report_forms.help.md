@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about sales and advertising efforts, including marketing strategies, budgets, and performance. It is designed to gather data that can be used to analyze and optimize sales and advertising activities.
-</thinking>
-
 # Sales And Advertising Report Form - Help Guide
 ## Purpose
 This form is used to capture information about sales and advertising efforts, including strategies, budgets, and performance metrics. The data collected will be used to analyze and optimize sales and advertising activities.

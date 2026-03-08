@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect patient feedback and grievances related to their healthcare experience. It is designed to ensure that patients' concerns are heard and addressed promptly. To complete this form, patients must fill out the required fields, which include their information, symptoms, and complaint description. This form is not intended to replace in-person communication with healthcare providers, but rather to supplement and support it.
-</thinking>
-
 # Patient Grievance Form - Help Guide
 ## Purpose
 This form is designed to collect patient feedback and grievances, ensuring that their concerns are heard and addressed promptly by healthcare providers. It is an official form used to gather information and support patient care.

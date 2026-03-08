@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be used for logging and monitoring graphite, a type of carbon-based material used in various applications. The fields suggest that the form is used to track and report on different aspects of graphite usage or activity. For example, the "Graphite Type" field implies that there might be different types of graphite being monitored or worked with. The "Start Time" and "End Time" fields suggest that the form is used to track the duration of graphite activity. Additionally, the fields related to "Assigned To" and "Assigned By" suggest that the form is used to track who is responsible for monitoring or working with the graphite. The "Graphite Status" fields suggest that the form is used to track the status of the graphite, possibly for quality control or inventory management purposes. The "Graphite Notes" fields imply that the form is used to capture additional comments or remarks related to the graphite. Overall, the form seems to be used for tracking and reporting on graphite monitoring and maintenance activities.</thinking>
-
 # Graphite Monitoring Log Form - Help Guide
 ## Purpose
 The Graphite Monitoring Log Form is used to track and report on different aspects of graphite usage or activity. This includes monitoring the graphite type, start and end time, location, and status.

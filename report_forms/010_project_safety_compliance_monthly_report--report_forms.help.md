@@ -1,5 +1,3 @@
-<thinking>Project Safety Compliance Monthly Report forms are used to gather information about incidents that occurred on-site during the reporting period. This form should be completed by site managers, project managers, or other personnel with incident reporting privileges. The report should only be filled out for new incidents that occurred during the reporting month, and existing incidents should not be reported again. If an existing incident has already been reported, please do not re-report it. If you are unsure whether an incident has been previously reported, please contact your supervisor or the incident investigation team for assistance.</thinking>
-
 # Project Safety Compliance Monthly Report - Help Guide
 ## Purpose
 The Project Safety Compliance Monthly Report is used to document and track incidents that occurred on-site during the reporting period. This includes incidents such as injuries, near misses, or other safety-related events.

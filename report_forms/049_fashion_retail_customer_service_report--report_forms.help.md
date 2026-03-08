@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about customer service incidents in the fashion retail sector, aiming to provide detailed descriptions and categorization of customer complaints. This form is meant to be completed by customer service team members to ensure consistency and thoroughness in resolving customer issues. This guide will walk through each section of the form and explain what each field is for.
-</thinking>
 # Fashion Retail Customer Service Report - Help Guide
 ## Purpose
 The Fashion Retail Customer Service Report is a form used to gather detailed information about customer service incidents in the fashion retail sector. This report is used to record customer complaints, provide resolutions, and track employee involvement.

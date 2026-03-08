@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow community members to report issues related to storm drains in their community. This form is designed to collect information about the problem, including a brief description, location, and photos if necessary. The form also asks for contact information from the submitter so that the issue can be addressed and followed up on. This form is not intended for emergency reporting and should only be used for non-urgent issues.
-To ensure that the form is completed correctly and issues are not duplicated, please take a moment to review the following steps:
-
-1. Ensure that you have not already reported this issue to the relevant authorities and that it is not currently being addressed.
-2. Make sure you have a clear understanding of the issue and can provide a concise description.
-3. If necessary, upload photos of the issue to help illustrate the problem.
-4. Provide your contact information so that follow-up can be made with you.
-
-</thinking>
 # Report Storm Drain Issues In Your Community - Help Guide
 ## Purpose
 The purpose of this form is to report issues related to storm drains in your community, such as blockages, debris, or other maintenance concerns.

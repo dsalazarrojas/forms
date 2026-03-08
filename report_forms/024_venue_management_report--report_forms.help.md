@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Venue Management Report" form, we need to understand the purpose and requirements of the form. This form is likely used to manage and update venue-related information, such as reporting incidents, assigning maintenance needs, and tracking venue status. The fields provided in the form YAML file suggest that users can report incidents, update venue status, select a facility team member, choose an event space, and provide additional details such as date and time of the incident. The form seems to cater to various user groups, including facility team members, maintenance workers, and possibly administrators or coordinators. The required fields are minimal, indicating that the form is designed to be relatively straightforward and easy to use. However, it's essential to ensure that users understand the form's purpose and how to fill it out correctly to get the most out of the information it collects. Let's create a help guide that addresses these needs.
-
-The form is likely used in an institutional or commercial setting, such as event management, facilities management, or maintenance services. Its primary goal is to collect and track information about venue status, incidents, and maintenance needs.
-
-</thinking>
-
 # Venue Management Report - Help Guide
 ## Purpose
 

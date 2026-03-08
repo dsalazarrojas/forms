@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about ride service availability issues, which can help service providers identify and resolve these issues to ensure a smooth and efficient ride service experience for customers. Before filling out this form, please note that it's meant for reporting issues that have already occurred, and not for general feedback or inquiries. Also, be aware that submitting this form will not guarantee immediate resolution of the reported issue. The information collected will be reviewed and addressed accordingly.
-
-</thinking>
-
 # Ride Service Availability Issue Report Form - Help Guide
 ## Purpose
 This form is used to report any issues or problems that occurred with the ride service. Please report any delays, cancellations, or other issues that affected your ride experience.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request a financial report duplication from their supervisor or team lead. The purpose of the form is to collect information about the request, such as the report details and submission preferences, without requiring the user to be a technical expert.
-
-Before filling out the form, please note that if you're requesting a financial report duplication for a period already covered by an existing report, it might be more efficient to review the original report instead. You can check with your supervisor or team lead to see if the report is available.
-
-The form will be used to gather information about your request and will be submitted to the relevant authorities for processing. Please ensure that you have all the necessary information and details to avoid any delays in processing your request.
-
-To ensure that your request is processed efficiently and accurately, please fill out the form as completely and thoroughly as possible.
-
-</thinking>
-
 # financial_report_duplication_request_form - Help Guide
 
 ## Purpose

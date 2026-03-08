@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about non-conformities that have occurred within a company. Non-conformities can be issues or discrepancies that do not meet the expected standards or requirements of the company. The purpose of this form is to gather details about the non-conformity, including the date and time it occurred, the type and description of the issue, the reason for reporting it, and the steps taken to address it. This information will help the company to identify and resolve the issues efficiently.
-
-When filling out this form, please ensure that you are providing accurate and relevant information about the non-conformity. Some fields are required, and others are optional, but all are necessary to help the company address the issue effectively.
-
-Before you start, make sure to check if a similar form has been filled out recently for the same issue. If so, refer to it and provide an update instead of filling out this form again.
-</thinking>
-
 # Non Conformity Report Form (NCR) - Help Guide
 ## Purpose
 The Non Conformity Report Form (NCR) is designed to collect information about non-conformities that have occurred within a company. This form helps gather details about the issue, including the date and time it occurred, the type and description of the issue, and the steps taken to address it.

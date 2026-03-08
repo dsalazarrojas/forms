@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Homelessness Concern Report Form is to allow users to report concerns related to homelessness in their community. This form is intended for individuals who have witnessed or experienced homelessness and want to bring it to the attention of authorities or service providers.
-
-To ensure that reports are accurate and effective, the form has been designed to collect relevant information about the situation. The form is divided into sections to guide the user through the reporting process.
-
-To minimize duplication of reports, the system checks for existing records before accepting new submissions. However, if a concern has already been reported, the system will prompt the user to review and update the existing report if desired.
-
-</thinking>
-
 # Homelessness Concern Report Form - Help Guide
 ## Purpose
 The Homelessness Concern Report Form is a crucial tool for reporting concerns related to homelessness in your community. This form collects information about the situation, allowing authorities or service providers to take action and address these concerns.

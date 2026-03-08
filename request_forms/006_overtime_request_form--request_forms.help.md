@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from employees or staff members who are requesting overtime hours. The purpose of this form is to gather specific details about the overtime request, including the start and end dates, start and end times, hours requested, job title, and other relevant information. This form is meant to be completed by employees who wish to request overtime compensation for work performed outside of regular working hours.
-To prevent duplication, this form is intended for internal use only and should not be shared or submitted multiple times for the same request. It is crucial to fill out the form accurately and honestly to facilitate efficient processing and approval of overtime requests.
-</thinking>
-
 # overtime_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from employees or staff members who are requesting overtime hours.

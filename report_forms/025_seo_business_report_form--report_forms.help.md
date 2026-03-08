@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document SEO reports, which contain information about search engines used, tools employed, techniques applied, and other relevant metrics and details. The form will help in organizing and tracking these reports, making it easier to analyze and utilize the data for future reference. It's essential to complete this form accurately, ensuring that all required fields are filled and that relevant details are provided. This form is used to gather information about SEO reports, which is crucial for making informed decisions and optimizing marketing strategies.
-</thinking>
-
 # seo_business_report_form - Help Guide
 ## Purpose
 This form is designed to collect and document SEO reports for businesses. It helps in organizing and tracking these reports, allowing for better analysis and decision-making.

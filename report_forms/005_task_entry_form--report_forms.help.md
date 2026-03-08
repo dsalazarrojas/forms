@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Task Entry Form" is to collect and track information about tasks and their relevant details. This form is designed to be used by end-users to create and manage tasks, providing a structured format for collecting data such as task objectives, descriptions, due dates, and assigned personnel. 
-It is recommended to use this form to track tasks accurately and effectively, and to avoid duplication of tasks.
-</thinking>
-
 # Task Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about tasks, including objectives, descriptions, start and end dates, and priority levels.

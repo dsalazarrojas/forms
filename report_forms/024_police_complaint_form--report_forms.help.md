@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Police Complaint Form", we'll first outline the purpose and instructions for completing the form. We'll use the provided YAML fields to explain each field's purpose and requirements.
-
-</thinking>
-
 # Police Complaint Form - Help Guide
 ## Purpose
 The Police Complaint Form is designed to collect information about incidents or complaints reported to the police department. This form helps to gather details about the incident, including the date, location, description, suspect information, and other relevant details. The form is intended for use by individuals who want to report a crime or incident to the police.

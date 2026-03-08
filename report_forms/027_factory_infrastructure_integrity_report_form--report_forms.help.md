@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to collect information for a factory infrastructure integrity report. The purpose of this report is to assess the condition and status of equipment and facilities within a factory. The report is typically submitted by inspectors who conduct regular checks on the factory's infrastructure to identify any issues or concerns. 
-
-The factory management team uses this report to monitor and address these issues, ensuring the factory's infrastructure remains in good condition and meets the required standards. This form is designed to be completed by inspectors who conduct regular inspections of the factory's equipment and facilities.
-
-To avoid duplication of efforts and ensure accurate information is captured, please ensure you complete this form for each inspection visit separately. 
-
-Please note that the form may be submitted multiple times during the same period if there are changes or updates to the equipment or facilities. 
-
-</thinking>
-
 # Factory Infrastructure Integrity Report Form - Help Guide
 ## Purpose
 The Factory Infrastructure Integrity Report Form is used to collect information on the condition and status of equipment and facilities within the factory. This report is completed by inspectors who conduct regular inspections and is used by the factory management team to monitor and address any issues or concerns.

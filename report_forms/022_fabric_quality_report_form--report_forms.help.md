@@ -1,8 +1,3 @@
-<thinking>
-This form is used for reporting the quality of fabric received from suppliers. It is not intended for other purposes. If you are using this form for a different purpose, please do not submit a duplicate report. Please ensure you have the necessary information before filling out this form, as it will be used for quality control purposes.
-
-</thinking>
-
 # Fabric Quality Report Form - Help Guide
 ## Purpose
 The Fabric Quality Report Form is used to document the quality of fabric received from suppliers. It helps to track and monitor fabric quality, identify potential issues, and improve supply chain processes.

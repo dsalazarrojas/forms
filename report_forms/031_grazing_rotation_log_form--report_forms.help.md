@@ -1,18 +1,3 @@
-<thinking>
-This form seems to be related to the field of animal husbandry or agricultural practices. The form likely aims to record and document the rotational grazing patterns of pastures or livestock. Each section may be a log entry for a different day or period, allowing users to track and record their grazing activities. 
-
-Given the large number of pages and lack of specificity in field names, this form might not be ideal for collecting detailed information but rather serves as a broad, general-purpose logging tool. The fields may have been designed to be simple and flexible to accommodate varying use cases and user needs.
-
-To complete this form, users would likely need to:
-- Enter their name and contact information (if present)
-- Fill out each of the text fields with relevant information for their respective pages
-- Select the applicable grazing period using the dropdown menu on page 4
-- Review and update their entries for each page
-
-Field-by-field explanations would be necessary to understand the specific requirements and expectations for each field.
-
-</thinking>
-
 # Grazing Rotation Log Form - Help Guide
 ## Purpose
 The Grazing Rotation Log Form is a tool for tracking and documenting rotational grazing patterns for pastures or livestock. It is designed to be a general-purpose logging tool, flexible to accommodate various use cases and user needs.

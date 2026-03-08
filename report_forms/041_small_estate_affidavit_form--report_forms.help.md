@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to declare a small estate's ownership and provide information about the property's location and relevant contacts. The form is likely used for legal or administrative purposes. Please ensure the form is relevant to the user's situation before proceeding. Note that some fields may be optional, but all required fields must be completed for the form to be considered valid.
-</thinking>
-
 # Small Estate Affidavit Form - Help Guide
 ## Purpose
 The Small Estate Affidavit Form is used to declare the ownership of a small estate and provide information about the property's location and relevant contacts. This form is typically used for legal or administrative purposes.

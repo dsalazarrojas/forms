@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle's condition after a weekly inspection. This form is likely used in a fleet management or maintenance context, where the inspecting officer needs to assess the vehicle's overall condition, mileage, and other relevant details. To avoid duplicate inspections, please ensure that the form is completed accurately and only when necessary.
-</thinking>
-
 # Weekly Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle's condition after a weekly inspection. The inspecting officer will assess the vehicle's condition, mileage, and other relevant details.

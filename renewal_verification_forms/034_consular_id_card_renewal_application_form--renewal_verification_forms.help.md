@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consular ID Card Renewal Application Form - Help Guide
 
 ## Purpose

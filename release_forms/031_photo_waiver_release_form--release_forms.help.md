@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photo_waiver_release_form - Help Guide
 
 ## Purpose

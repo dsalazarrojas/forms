@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "Home Safety Assessment Form" which helps users assess the safety features and potential hazards in their home. This form is designed to be completed by users to identify areas of concern and provide a comprehensive safety assessment. 
 
 The form is divided into multiple pages, each covering different topics related to home safety. The form is meant to be completed by users who are concerned about the safety of their home and want to identify potential hazards and take corrective actions.

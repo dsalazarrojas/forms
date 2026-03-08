@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in understanding the purpose and usage of the Medical Report Form. It's essential to ensure that the form is completed accurately and correctly to gather valuable information about patient medical reports. Please review the following guide carefully.</thinking>
-
 # Medical Report Form - Help Guide
 
 ## Purpose

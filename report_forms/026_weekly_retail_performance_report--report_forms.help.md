@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It appears to be a report for retail performance metrics across various categories. It includes fields for store information such as store name, dates, sales, foot traffic, inventory status, and customer segments. Additionally, it includes metrics for sales channels, customer acquisition costs, retention costs, average order value, and customer segments. The form seems to be used for tracking and analyzing retail store performance. I'm considering it's for internal use within the retail industry. Before proceeding, I would like to confirm if this is correct and if the form is intended for any specific business logic or compliance requirements. I would also like to check if any of the fields are for internal use only or if the form is public-facing.</thinking>
-
 # Weekly Retail Performance Report - Help Guide
 ## Purpose
 The Weekly Retail Performance Report is a tool used to track and analyze retail store performance across various metrics. This report is used to monitor sales, customer segments, inventory status, and other key performance indicators (KPIs) to provide insights for retail management and decision-making.

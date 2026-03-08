@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details>
   <summary>Opacity Check Sheet - Help Guide</summary>
   <h1>Opacity Check Sheet - Help Guide</h1>

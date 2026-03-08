@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anomaly Detection Report - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their leasing activities. It is a checklist form that asks users to report on their activities related to voicemail, email, work order, payment, key log, and other related checks. The form is used to gather data for reporting and analysis purposes. 
-
-Before completing this form, make sure you have checked the relevant sections of the report and are not duplicating any entries.
-
-To ensure accuracy, please review each section carefully and choose the correct options for each field. If you're unsure about any field, you can refer to the field-by-field explanation below.
-
-</thinking>
-
 # Leasing Checklist - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Benefit Investigation Form, we'll first clarify its purpose and relevance.
-
-The Benefit Investigation Form is designed to collect information about a specific issue or incident that requires a thorough investigation. This form helps investigators gather relevant data to analyze and make informed decisions. The form is typically used in a professional setting, such as in an office or business environment, where an investigator is tasked with resolving a problem or dispute.
-
-When using this form, ensure that you're filling it out for the right purpose and not duplicating effort. Each field has a specific purpose, so make sure to complete each section carefully.
-
-</thinking>
-
 # Benefit Investigation Form - Help Guide
 ## Purpose
 The Benefit Investigation Form is used to collect information about a specific issue or incident that requires investigation. Its purpose is to gather relevant data to analyze and make informed decisions.

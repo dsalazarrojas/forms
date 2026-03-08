@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Dogie Meet & Greet Info Form" is to collect information about pets and their owners for the purpose of scheduling a meet and greet session. This form is designed to be completed by pet owners to provide details about their pet, including its type, size, age, and other relevant characteristics.
-Before proceeding, please ensure that you are completing this form for the correct purpose and that you have not already submitted it. This form should only be used for scheduling meet and greet sessions and not for any other purpose.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 The Doggie Meet & Greet Info Form is used to collect information about pets and their owners for scheduling meet and greet sessions.

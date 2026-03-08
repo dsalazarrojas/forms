@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect and document manufacturing risk reviews. The form is likely used in an industrial or production setting where risks to the manufacturing process need to be identified, assessed, and managed. It appears to be a request form for a manufacturing risk review, possibly to be completed by a team member or department manager to request a review of a specific risk. The form likely serves as a starting point for a more in-depth discussion and analysis of the risk. The form fields suggest that it's used to track the status of the risk review process, including the assigned personnel, review dates, and next steps. It's possible that this form is used within a larger risk management framework or system.
-</thinking>
-
 # Manufacturing Risk Review Request Form - Help Guide
 ## Purpose
 This form is used to request a review of a manufacturing risk. It provides a structured way to document the risk, its cause, effect, and potential corrective and preventive actions.

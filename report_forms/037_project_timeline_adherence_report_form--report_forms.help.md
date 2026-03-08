@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track project timeline adherence for a specific project. It collects information about the project's start and end dates, status, and other relevant details such as project leader, member, and team member information. The form also includes fields for milestone start and end dates, delay description, and corrective action taken. This form is intended for project managers and team members to report on project progress and adherence to timeline. The form should not be used for duplicate reporting, and users should only fill out the form if they are authorized to do so. 
-</thinking>
-
 # Project Timeline Adherence Report Form - Help Guide
 
 ## Purpose

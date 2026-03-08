@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vineyard Estate Rental Application Form - Help Guide
 
 ## Purpose

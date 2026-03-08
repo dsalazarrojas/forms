@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a shift change at the Wax Center. The form is designed to be used by staff members to report on their shifts, including the start and end times, client interactions, and any notable events or circumstances. This form is intended to provide a concise and organized way for staff to document their shifts, which will help in tracking and managing staff performance, client satisfaction, and operational efficiency.
-
-To prevent duplication, staff members should only submit this form if they are starting or ending a new shift. If they are simply making an adjustment to an existing shift, they should not submit this form. To prevent errors, staff members should review their entries carefully before submitting the form.
-
-</thinking>
-
 # Wax Center Shift Change Form - Help Guide
 ## Purpose
 The Wax Center Shift Change Form is designed to document staff shifts and interactions with clients. This form helps to track shift start and end times, client arrivals and departures, staff members' names and signatures, and other important details.

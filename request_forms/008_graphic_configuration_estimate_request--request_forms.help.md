@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed to collect information from users about a graphic configuration estimate request, which is likely related to a graphic design project. The form asks for user email, project name, project description, budget, design type, design format, project start and end dates, and various notes fields. The form is likely used in a business or organizational setting where graphic design services are being requested.
-
-Before proceeding with this guide, double-check that you are filling this form for a graphic configuration estimate request and not a different type of form. If you're unsure, please verify the form's purpose with the form's administrator or submitter. Additionally, please note that some fields are optional, but completing them will provide more accurate and detailed information for the project.
-
-</thinking>
-
 # Graphic Configuration Estimate Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their graphic configuration estimate request for a graphic design project. This form will help the project administrator understand the user's requirements and provide a more accurate estimate for the project.

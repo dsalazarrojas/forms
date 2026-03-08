@@ -1,7 +1,3 @@
-<thinking>
-We have a form that needs to be filled out by users to report their daily productivity. The purpose of this form is to collect data on the virtual assistant's daily activities, such as task completion status, productivity level, and submitted status. We want to make sure that users understand the form's purpose and know how to fill it out correctly, especially since some fields might be unclear or have multiple options. This guide will walk them through each field and explain its purpose and expectations.
-</thinking>
-
 # Virtual Assistant Daily Productivity Report Form - Help Guide
 ## Purpose
 The Virtual Assistant Daily Productivity Report Form is designed to gather information on your daily activities as a virtual assistant. This form helps us understand your task completion status, productivity level, and submitted status. Please fill it out accurately to help us improve our services.

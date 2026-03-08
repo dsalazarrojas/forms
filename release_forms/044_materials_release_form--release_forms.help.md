@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is filled out correctly, the user should only fill out the form after a meeting or discussion with a relevant team member to verify the information. This form should not be filled out for materials that are already released or scheduled to be released in the near future. It's best-effort intent is to document the release of materials in a concise and structured way for easy reference.
-</thinking>
-
 # Materials Release Form - Help Guide
 
 ## Purpose

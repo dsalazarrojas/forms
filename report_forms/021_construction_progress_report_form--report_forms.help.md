@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will ensure that the form's purpose and fields are clearly explained in a user-friendly manner. The Construction Progress Report Form is a crucial tool for project managers and stakeholders to track the current status of construction projects. This form serves as a centralized platform to collect vital information about project progress, financial status, labor and safety performance, and upcoming goals. It is essential for project managers to fill out this form accurately and comprehensively, as it provides a comprehensive picture of the project's status and enables informed decision-making.</thinking>
-
 # Construction Progress Report Form - Help Guide
 
 ## Purpose

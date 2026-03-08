@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Financial Operations Review Request Form is used by finance department staff to request reviews of financial transactions and operations. This form helps to identify and document requests for review, ensuring that all relevant information is captured and that requests are properly assigned to the correct team. Please note that this form should only be used for requesting reviews, not for submitting actual reviews. If you are an operations team member, you should not submit this form. Instead, you should submit your reviews directly through the designated review platform.
 
 # Financial Operations Review Request Form - Help Guide

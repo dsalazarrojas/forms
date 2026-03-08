@@ -1,14 +1,3 @@
-<thinking>
-This guide is for users who are submitting a complaint on behalf of a resident. To confirm that this guide is relevant, the form purpose is to gather information about a resident's complaint, which helps the management team respond efficiently and effectively.
-
-The purpose of this form is to request a complaint summary about a resident's issue. It's designed to gather detailed information from both the resident and the staff involved in the incident. By providing accurate and complete responses, you'll help the management team to quickly process and address the complaint.
-
-The form is divided into multiple pages. You can navigate through each page as needed, but please fill out each page completely for the best possible outcome.
-
-The form asks questions in a series of fields, which are explained below. Please read each explanation carefully and respond accordingly.
-
-</thinking>
-
 # Resident Complaint Summary Request Form - Help Guide
 
 ## Purpose

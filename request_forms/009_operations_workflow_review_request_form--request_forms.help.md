@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to request a review of operations workflow for a specific workflow ID. The form allows users to provide additional information about the workflow, such as its status, reason for request, priority level, and any attachments that may be relevant to the review. This form is likely used by operations teams or managers to track and manage workflows that require review.
-To avoid duplication of effort, ensure that you have the correct workflow ID and review status. If you are not sure which workflow ID to use, you should check with your operations team or manager.
-Before completing this form, review the instructions and ensure you have all the necessary information to complete each field accurately.
-</thinking>
-
 # operations_workflow_review_request_form - Help Guide
 ## Purpose
 The operations workflow review request form is used to request a review of operations workflow for a specific workflow ID. This form allows users to provide additional information about the workflow, such as its status, reason for request, priority level, and any attachments that may be relevant to the review.

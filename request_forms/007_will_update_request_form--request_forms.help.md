@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for will update requests, likely for updates to existing records or data. This form likely helps in maintaining accurate and up-to-date records, ensuring that all relevant information is accounted for. To confirm, the form does not seem to be intended for creating new records, as all fields are either text or email fields, and there are no date or time fields. It's also worth noting that the 'signed_authorization' field is a multiple-selection field, which suggests that users might need to sign multiple agreements or confirm multiple points. This form likely requires user input for updates to specific records, and it's essential to ensure that users understand the form's purpose and requirements to avoid duplication of requests.
-</thinking>
-
 # Will Update Request Form - Help Guide
 ## Purpose
 The Will Update Request Form is designed to collect information for will update requests, which typically involve updating existing records or data. This form ensures that all relevant information is accurately updated and accounted for.

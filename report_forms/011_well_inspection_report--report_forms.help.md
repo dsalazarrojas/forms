@@ -1,7 +1,3 @@
-<thinking>
-This form is a Well Inspection Report template designed to capture critical information about a well's condition, inspection results, and associated tasks or actions. It is essential to understand that the purpose of this form is to document the well's status and identify any necessary actions to be taken to ensure its continued operation and safety. Before proceeding, please verify that you have not already submitted an inspection report for this facility and that the information is up-to-date. This form is a critical tool for facility management and maintenance teams to identify potential issues and prioritize tasks for well maintenance and repair. It is crucial to fill in the form accurately and thoroughly to ensure the well is properly inspected and any necessary actions are taken. 
-</thinking>
-
 # Well Inspection Report - Help Guide
 ## Purpose
 This form is used to document the inspection results of a well and identify any necessary actions to be taken for its maintenance and repair. It provides a structured approach to capturing critical information about the well's condition and associated tasks or actions.

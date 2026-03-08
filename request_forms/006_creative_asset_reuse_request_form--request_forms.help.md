@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for users to request the reuse of creative assets, such as images, videos, or other media. It's intended to gather information about the assets and the user's purpose for reusing them. The form is meant to be completed by users who want to reuse or request the reuse of creative assets from a specific category or industry. The form will help ensure that the requests are properly tracked and that the assets are reused in a way that respects their original creators and any applicable licenses or agreements.
-</thinking>
-
 # creative_asset_reuse_request_form - Help Guide
 ## Purpose
 This form is used to request the reuse of creative assets such as images, videos, or other media. Users can fill out this form to submit their requests for reusing assets from a specific category or industry.

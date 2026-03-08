@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for users who need to submit a Video Release Consent Letter. This form is not intended for editing existing releases, so it's a "create" form. To ensure the correct fields are filled out, review this guide carefully.
 
 ## Video Release Consent Letter - Help Guide

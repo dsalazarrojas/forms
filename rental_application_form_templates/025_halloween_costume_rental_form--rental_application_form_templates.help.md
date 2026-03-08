@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in renting costumes for Halloween. The form will be used to determine customer preferences, including their preferred costume, preferred date and time for the rental, and any additional notes they may want to provide. This form will help us understand our customers' needs and preferences, ensuring that we can provide them with the best possible service. Before filling out this form, please ensure you have a clear understanding of your preferences and that you have read this guide to the end.
-</thinking>
-
 # Halloween Costumer Rental Form - Help Guide
 ## Purpose
 The Halloween Customer Rental Form is a tool used to collect customer information and preferences for renting costumes during the Halloween season.

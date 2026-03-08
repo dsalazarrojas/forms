@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers who are interested in receiving a quote for a vehicle purchase. This includes their contact details, vehicle preferences (year, make, model, color, and trim level), budget information, financing needs, trade-in availability, and test drive interest. The form is meant to be completed by customers who are ready to purchase a vehicle and want to get a quote or schedule a test drive. To ensure accuracy, it's essential to fill out the form completely and truthfully. Please note that if you have already submitted a quote request, you do not need to fill out this form again.
-</thinking>
-
 # Car Dealership Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who are interested in purchasing a vehicle. It will help us understand their needs and preferences to provide an accurate quote and offer personalized service.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Bus Pre Trip Inspection Checklist - Help Guide
 
 ## Purpose

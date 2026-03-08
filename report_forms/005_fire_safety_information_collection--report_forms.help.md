@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect fire safety information from sites, which is essential for ensuring the safety of employees, visitors, and assets. The purpose of this form is to gather data on the current status of fire safety equipment, number of exits, and other relevant details. This information will help in identifying potential risks and taking necessary measures to prevent accidents. Before proceeding, please ensure that the form is being filled out for a valid reason and not for testing or demonstration purposes.
-</thinking>
-
 # Fire Safety Information Collection - Help Guide
 ## Purpose
 This form is used to collect fire safety information from sites, ensuring the safety of employees, visitors, and assets.

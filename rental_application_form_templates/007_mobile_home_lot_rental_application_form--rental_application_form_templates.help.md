@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide, I'll review the provided YAML fields and ensure the form is properly understood by end-users. The form seems to be for mobile home rental applications, which involves collecting information from applicants to assess their suitability for renting a mobile home. I'll check for any potential redundancy or ambiguity in the form fields and provide a clear, concise, and practical explanation for each field.
-</thinking>
-
 # Mobile Home Rental Application Form - Help Guide
 ## Purpose
 This form is for applicants to provide their information for the rental application process of a mobile home. Please fill out this form accurately and thoroughly to ensure your application is complete.

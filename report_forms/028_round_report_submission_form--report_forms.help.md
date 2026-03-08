@@ -1,7 +1,3 @@
-<thinking>
-To be honest, the form purpose and design seems to be focused on collecting data for reporting on employee work hours, shifts, and other work-related information. However, without more context, it's hard to pinpoint the exact business logic and requirements behind this form. I'll do my best to interpret the provided YAML and create a helpful guide for the end-users.
-</thinking>
-
 # Round Report Submission Form - Help Guide
 ## Purpose
 The Round Report Submission Form is designed for collecting employee work-related information, including shifts, hours, and other relevant details.

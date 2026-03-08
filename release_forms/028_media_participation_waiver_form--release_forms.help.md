@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a one-time explanation of the Media Participation Waiver Form, ensuring that end-users understand its purpose and the process of completing it. This guide will not require any further updates or revisions as the form structure may change in the future.
-</thinking>
-
 # Media Participation Waiver Form - Help Guide
 ## Purpose
 The Media Participation Waiver Form is designed for participants to provide their consent and information required for media participation in events or productions. This form ensures that participants, their parents or guardians (if applicable), and other relevant parties are aware of and agree to the terms of media use, sharing, and consent for different types of media (photo, video, audio). It helps to maintain transparency and ensures that the participants' rights and interests are respected and protected throughout the media process.

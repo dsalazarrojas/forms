@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data for an agriculture financial statement. This is likely for internal use by agricultural businesses to track their financial performance over time. To prevent misuse, this form should only be used by agricultural businesses or entities with legitimate use cases.
-</thinking>
-
 # Agriculture Financial Statement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect financial data from agricultural businesses. It gathers information on income and expenses, and assets and liabilities to provide a snapshot of a business's financial health.

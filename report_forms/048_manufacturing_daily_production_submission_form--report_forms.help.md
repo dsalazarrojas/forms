@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect data on the daily production process in a manufacturing setting. It captures information about the production quantity, shift, location, and status of goods, among other details. The form is intended for daily reporting and tracking purposes, helping production teams to monitor their progress and identify any issues that may arise. It's essential to fill out the form accurately to ensure that production data is reliable and consistent.</thinking>
-
 # Manufacturing Daily Production Submission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course Change Request Form - Help Guide
 ## Purpose
 This form is intended for instructors to submit changes to course schedules, including but not limited to: course title changes, instructor assignments, room assignments, and other modifications. If you're not an instructor, please do not complete this form. If you've already submitted a course change request, it will not be processed again.

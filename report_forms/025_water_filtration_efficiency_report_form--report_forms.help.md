@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for collecting data on water filtration efficiency reports. It has a variety of fields that cover different aspects of water filtration, such as water source, flow direction, filter type, and filtration rate. The form also includes fields for contact information of the submitter, including email, phone, address, and other details. The purpose of this form is likely to gather data on water filtration efficiency from various locations or sources. It's essential to ensure that the form is filled out correctly to provide accurate and relevant information.
-
-To ensure that this form is used correctly, it's recommended to review each field's label and hint to understand its intended use and the expected input. 
-
-</thinking>
-
 # Water Filtration Efficiency Report Form - Help Guide
 ## Purpose
 The Water Filtration Efficiency Report Form is designed to collect data on water filtration efficiency from various sources. This form helps in gathering information on water source, flow direction, filter type, and other relevant details.

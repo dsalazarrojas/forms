@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist employees in reporting security incidents in a timely and accurate manner. The form is designed to gather necessary information about the incident, including the date it occurred, the type of incident, a detailed description, location, and other relevant details. Please ensure you have filled out all required fields before submitting the report. If you have any questions or concerns, feel free to reach out to your supervisor or IT department.
-</thinking>
-
 # Security Incident Report Form - Help Guide
 ## Purpose
 The Security Incident Report Form is a tool used to document and report security incidents that have occurred in the workplace. This form ensures that all necessary information is gathered to facilitate prompt and effective response to the incident.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure the integrity of our supply chain disruption forecasts, we need to verify that this form is being used for its intended purpose and not for duplicate requests. This guide will walk you through the correct usage of the form.
-</thinking>
-
 # Supply Chain Disruption Forecast Request - Help Guide
 ## Purpose
 This form is used to request a supply chain disruption forecast for a specific product, segment, region, or date range. This helps our team to identify potential disruptions and take necessary actions to mitigate them.

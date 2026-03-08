@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for pool owners to report their pool's chemical levels. The purpose of this form is to provide a quick and easy way for pool owners to track and maintain their pool's water quality. This form is meant to be filled out regularly to ensure that the pool's water levels are within safe and healthy ranges. 
-
-This form should only be filled out by pool owners or authorized personnel, and not by anyone else. It's recommended to fill it out once a week, but the frequency may vary depending on the pool's usage and weather conditions. 
-
-Before filling this form, please make sure to check the pool's water levels and test results before submitting the form.
-
-</thinking>
-
 # Pool Chemicals Check Form - Help Guide
 ## Purpose
 The Pool Chemicals Check Form is used to track and report the levels of pool chemicals, such as chlorine, pH, and alkalinity, to ensure that the pool's water quality is within safe and healthy ranges.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect factory CO₂ emission data. This form is likely used by factory administrators or operators to report on their carbon emissions, which may be used for compliance reporting, environmental tracking, or other internal business purposes. To ensure accuracy and completeness of the data, it's essential to fill out the form correctly. This guide will walk you through each field to help you complete the form successfully.
-</thinking>
-
 # Factory CO₂ Emission Report Form - Help Guide
 ## Purpose
 The Factory CO₂ Emission Report Form is designed to collect detailed information about a factory's carbon emissions. This form helps factories report their emissions data for compliance, environmental tracking, or internal business purposes.

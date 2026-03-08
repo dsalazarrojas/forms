@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end users who will be submitting nursing reports using the provided form. Before beginning, please ensure that you have the necessary permissions to access and complete this form. To avoid duplication of effort, please check the "Nursing Report Submission Status" page to confirm if a report has already been submitted for the patient in question.
-</thinking>
-
 # nursing_report_submission - Help Guide
 ## Purpose
 The nursing report submission form is designed to collect essential information from healthcare professionals regarding patient care and vital signs, medical history, medications, and other relevant details. This form helps ensure accurate and comprehensive documentation of patient treatment and care.

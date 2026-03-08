@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the release of mental health care information. This form is used to obtain consent from the individual or their authorized representative to release mental health care information. The form is used to ensure that the individual's mental health care information is handled appropriately and in accordance with relevant laws and regulations.
-This form will ask for information such as the individual's name, healthcare provider, patient number, medical record number, birth date, date of visit, healthcare facility, department, physician, medical record type, authorization date, authorized by, and consent date. Please complete the form carefully and accurately.
-</thinking>
-
 # mental_health_care_release_of_information_form - Help Guide
 ## Purpose
 The mental health care release of information form is a document that allows you to release your mental health care information to authorized parties. This form is used to obtain your consent to release your mental health care information and to ensure that it is handled appropriately.

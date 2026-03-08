@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that the Outage Maintenance Request Form serves its purpose effectively, let's clarify its purpose and check for relevance and non-duplication. The form is designed to collect information about a maintenance request, which is a crucial process for keeping facilities and equipment in good working condition. This form helps the maintenance team to quickly identify and address potential issues before they escalate into full-blown outages. To avoid duplication of work, the form will only allow one request per page, and users will be asked to provide necessary details such as facility name, date, and time of the outage, category, description, and other relevant information.
-
-To prevent abuse and ensure accurate completion, the form will only be visible to authorized personnel. The submitter field is optional, and users will be required to provide their email address if they want to receive notifications about the progress of their request.
-
-</thinking>
-
 # Outage Maintenance Request Form - Help Guide
 ## Purpose
 The Outage Maintenance Request Form is a tool to report and manage maintenance requests for facilities and equipment.

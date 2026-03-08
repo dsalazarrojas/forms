@@ -1,10 +1,3 @@
-<thinking>
-
-This form is intended to be completed by a customer to report the handover of a vehicle. It's a simple form designed to collect basic information about the customer and the vehicle's handover details. The form is not meant to be used for any other purpose, and its completion should be a one-time event. Please make sure to complete the form accurately and truthfully.
-
-
-</thinking>
-
 # Vehicle Handover Check Form - Help Guide
 ## Purpose
 The Vehicle Handover Check Form is used to report the handover of a vehicle. It's a simple form that helps us collect basic information about the customer and the vehicle's handover details.

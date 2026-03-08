@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the reporting of product acceptance testing results, allowing users to document their testing experiences and outcomes. The primary purpose is to collect relevant information about test environments, test criteria, and test results, including any issues encountered during testing. This form aims to streamline the process of recording and tracking product acceptance testing data.
-
-</thinking>
-
 # Product Acceptance Testing Report Form - Help Guide
 ## Purpose
 This form is used to document the results of product acceptance testing, including test environment details, test criteria, and test outcomes.

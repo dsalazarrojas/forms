@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help engineers log their shifts, including start and end times, break times, and any notes or comments about their work. This form is likely used to track and record shift information for quality control or administrative purposes. Before proceeding, please ensure you are filling out this form in the correct context and that you have a clear understanding of what information is being requested. If you are unsure, please review your internal policies and procedures to ensure you are using the correct form for the intended purpose.
-</thinking>
-
 # Engineering Shift Log Form Template - Help Guide
 ## Purpose
 This form is designed to help engineers record and track their shifts, including start and end times, break times, and any notes or comments about their work. It is intended to be used for quality control and administrative purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by security personnel to report activities related to residential security patrols. The purpose of this form is to document and track security incidents that occur during these patrols, ensuring that all relevant information is captured for future reference and analysis.
-
-The form will help to identify potential duplication or repetition of security incidents and provide a clear and concise summary of the incident details.
-
-</thinking>
-
 # residential_security_patrol_activity_report_form - Help Guide
 ## Purpose
 This form is used to document and report security incidents that occur during residential security patrols.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for reporting game details and statistics for basketball games, specifically for referees to submit their observations and records of the game. This guide will help you understand each field and how to fill it out accurately.
-
-Please note that this form is designed to gather information that is accurate and complete, so please double-check your inputs before submitting the report.
-
-</thinking>
-
 # Basketball Referee Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data for basketball games, including game details, team and player information, and game outcomes.

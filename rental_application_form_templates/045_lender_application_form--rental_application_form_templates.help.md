@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lender Application Form - Help Guide
 
 ## Purpose

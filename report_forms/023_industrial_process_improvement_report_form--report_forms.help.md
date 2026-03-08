@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and suggestions on industrial process improvements. It is intended for employees who want to report their ideas on how to enhance and optimize industrial processes. The form is a one-time submission and is not meant to be duplicated.
-
-The form will be used by management to review and analyze the submitted suggestions and implement improvements where possible. It is essential to provide concrete and practical feedback for each field to ensure that the submission is thorough and actionable.
-
-Before completing the form, please ensure that you have read the instructions carefully and understand the purpose of each field. If you have any questions or concerns, do not hesitate to reach out to the management team.
-
-</thinking>
-
 # Industrial Process Improvement Report Form - Help Guide
 ## Purpose
 The form is designed to collect feedback and suggestions on industrial process improvements.

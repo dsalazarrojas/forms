@@ -1,6 +1,3 @@
-<thinking>
-This form is for reporting volunteer shifts worked. It's used to capture information about the volunteer's work hours, dates, and contact details. The form is used for tracking and recording volunteer work hours, which can be useful for volunteer management and coordination. It's intended to be filled out by volunteers after completing a shift or series of shifts. This form is not meant to be filled out multiple times for the same shift, so please ensure that you only submit this form once per shift.</thinking>
-
 # Virtual Shift Report For Volunteers - Help Guide
 ## Purpose
 This form is for reporting volunteer shifts worked by volunteers.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a self-inspection form for rental properties. It's designed for property managers or administrators to inspect and update the status of rental properties in the system. The form ensures that all relevant information is collected and updated accurately to reflect the current state of the property. This form should only be used for self-inspection purposes, and any discrepancies between the form and actual property status should be addressed promptly.
 
 # Rental Property Self Inspection Form - Help Guide

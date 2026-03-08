@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Quality Incident Report Form - Help Guide
 ## Purpose
 This form is used to report product quality incidents, allowing teams to track and manage issues related to product defects, failures, or other quality-related concerns. By filling out this form, you'll be providing valuable information to help us improve our products and services.

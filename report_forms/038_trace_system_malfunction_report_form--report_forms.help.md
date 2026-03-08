@@ -1,9 +1,3 @@
-<thinking>... internal checks for duplication, relevance and purpose...
-  This form is meant to report any malfunctions within the Trace System. The Trace System is a critical component of our operation, and reporting issues related to its malfunction can significantly aid in preventing or correcting the problem. Before completing this form, please ensure that the issue you are reporting is indeed related to the Trace System, and that you have not already reported it. 
-
-The form is not intended for general complaints or concerns outside the scope of the Trace System.
-</thinking>
-
 # Trace System Malfunction Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report any malfunctions or issues within the Trace System. This information will help the maintenance team diagnose and resolve the problem efficiently.

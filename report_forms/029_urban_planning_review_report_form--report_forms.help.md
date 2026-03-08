@@ -1,7 +1,3 @@
-<thinking>
-This form is used by urban planning professionals to review and track projects within a specific area. The form is designed to gather information on projects, their current status, and any relevant notes or comments. The purpose of this form is to facilitate efficient project tracking and management. It should only be used for projects that have not been previously reported. Please ensure you have the required permissions and approvals before filling out this form. This form will be reviewed and updated regularly to reflect the current status of projects. Please note that if you are unsure about a project's status, please check with the project team or manager first.
-</thinking>
-
 # Urban Planning Review Report Form - Help Guide
 ## Purpose
 This form is used to review and track projects within an urban planning context. It is designed to gather necessary information for project management and tracking.

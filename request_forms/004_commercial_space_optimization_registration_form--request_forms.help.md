@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a Commercial Space Optimization Registration Form. This form is designed to gather information from commercial space owners and managers to better understand their needs and challenges related to optimizing their physical and logistical spaces. Before starting, please ensure you have read and understand the form's purpose and requirements. Ensure you have the necessary permissions and approvals to provide this information. If you are completing this form for an organization, please have the relevant decision-makers or administrators fill it out. If you have already submitted this form previously, you may need to update your registration information or resubmit a new form with updated details.
-</thinking>
-
 # Commercial Space Optimization Registration Form - Help Guide
 
 ## Purpose

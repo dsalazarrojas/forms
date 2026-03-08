@@ -1,7 +1,3 @@
-<thinking>
-The Event Inspection Report form is used to collect information about events that have taken place at a venue. This form is intended for reporting on the events that have occurred at a specific venue, and the information gathered will be used for internal purposes. This form should not be used for reporting on events that have not yet occurred or events that are not associated with the venue in question. Additionally, this form should only be filled out once for each event at the venue.
-</thinking>
-
 # Event Inspection Report - Help Guide
 ## Purpose
 This form is used to report on events that have taken place at a specific venue. The information collected will be used for internal purposes.

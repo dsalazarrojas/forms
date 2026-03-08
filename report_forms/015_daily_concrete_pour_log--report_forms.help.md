@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand the importance of creating clear and concise documentation for end-users. In this case, the Daily Concrete Pour Log form is designed to record information related to concrete pours, a critical aspect of construction projects. I will assume that the form is used to track concrete pour data for various projects, and my goal is to create a user-friendly help guide that explains its purpose, how to complete it, and the meaning of each field.</thinking>
-
 # Daily Concrete Pour Log - Help Guide
 ## Purpose
 The Daily Concrete Pour Log form is used to record information about concrete pours, a crucial step in construction projects. It allows users to track the progress of concrete pours, including start and end times, project ID, date, and other relevant details.

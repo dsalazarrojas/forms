@@ -1,9 +1,3 @@
-<thinking>
-This form is part of a comprehensive SWMS (Safety and Wellbeing Management System). The form template is designed to help users report tasks and activities that require safety and wellbeing management. This form is likely used in a construction or industrial setting where workers are performing tasks that may pose a risk to their safety and wellbeing. The purpose of the form is to gather information about work activities and provide a systematic approach to managing risks.
-
-To complete this form, users must follow these steps:
-</thinking>
-
 # SWMS Form Template - Help Guide
 ## Purpose
 The SWMS form is used to report and manage work activities that may pose a risk to workers' safety and wellbeing.

@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to provide end users with a clear understanding of the "Plant Complaint Report Form". It appears to be designed for reporting issues or complaints related to plants or plant-related activities. The form is likely used by employees, customers, or stakeholders to submit their concerns or grievances regarding plants or facilities managed by an organization. The form may also be used to report accidents, injuries, or near misses related to plant operations.
-Before starting to fill out the form, please ensure that you are not duplicating a previously submitted complaint. It would be helpful to have a unique identifier for each submitted complaint, so please check our complaint register before proceeding.
-The purpose of this form is to gather accurate and detailed information about the complaint, and to provide a clear and concise way to submit feedback.
-</thinking>
-
 # Plant Complaint Report Form - Help Guide
 ## Purpose
 The Plant Complaint Report Form is a tool used to report issues or complaints related to plants or plant-related activities.

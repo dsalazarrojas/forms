@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting a stop work authority, which is a critical process in project management. It's essential to ensure that all necessary fields are completed accurately to provide sufficient information for project tracking and resolution. Before starting to fill out this form, please review the project status and ensure that you are not duplicating a previously submitted report. This form is designed to gather specific details about a project, and any missing or incorrect information may cause delays in processing your request. Please take a few minutes to review each field carefully and provide accurate responses.
-</thinking>
-
 # Stop Work Authority Reporting Form - Help Guide
 ## Purpose
 The Stop Work Authority Reporting Form is used to report a project stop work authority, which is a critical process for project management. This form collects essential information to ensure the project is properly managed and resolved.

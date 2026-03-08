@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for internal use and assumes that the user is familiar with the general concept of a "request evaluation form". The form purpose is to collect contact information and requirements for evaluation and potential follow-up actions. The form is not for public use and is meant to be completed by authorized personnel within the organization. 
-</thinking>
-
 # Request Evaluation Form - Help Guide
 ## Purpose
 The Request Evaluation Form is used to collect and track requests from clients, vendors, or internal stakeholders. It helps us to evaluate their needs and take appropriate actions.

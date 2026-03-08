@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is intended to collect data from parents and teachers regarding a student's progress in home-based learning programs. This form should not be used for other purposes, such as reporting on school-based learning. To ensure accuracy, users should only complete this form for the intended purpose.
-</thinking>
-
 # Home Based Learning Report Form - Help Guide
 ## Purpose
 The Home Based Learning Report Form is designed to collect information from parents and teachers about a student's progress in home-based learning programs. This form is meant to be filled out after a specific time period, such as at the end of each month, to track a student's development.

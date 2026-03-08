@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created to collect information about knowledge sharing sessions conducted by teams within an organization. It's meant to be used by team members to record and report on their sessions, including session details, key takeaways, feedback, and follow-up actions. This form ensures that essential information is recorded accurately and consistently.
-
-To avoid confusion and ensure accurate data collection, please fill out the form with the same information that was recorded during the session. If you're unsure about any field, refer to your session notes or consult your team leader for clarification.
-
-This form is intended to be completed by team members, so please do not fill it out if you're not a participant in the session.
-
-</thinking>
-
 # knowledge_sharing_session_record_form - Help Guide
 ## Purpose
 This form is designed to help team members record and report on knowledge sharing sessions. It collects information about session details, key takeaways, feedback, and follow-up actions.

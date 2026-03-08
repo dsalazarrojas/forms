@@ -1,18 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and efficiently, we should first confirm that the form is intended for the purpose of recording and documenting incidents, particularly those related to vessels. This form should not be used to report routine or non-incident related activities. Please review the form carefully and ensure that all necessary fields are filled out accurately and completely. We also recommend filling out the form in a new browser tab or window to avoid losing any previously entered data.
-
-Before proceeding, note that this form is designed for recording information about incidents that have occurred on or around vessels. This may include but is not limited to:
-
-* Incidents involving boat operations or maintenance
-* Diving or other underwater activities
-* Accidents or injuries
-* Equipment malfunctions or failures
-* Human error or other non-equipment related incidents
-
-The following guide will walk you through the process of filling out this form correctly.
-
-</thinking>
-
 # Vessel Impact Monitoring Log Form - Help Guide
 ## Purpose
 The Vessel Impact Monitoring Log Form is used to record and document incidents that have occurred on or around vessels. This form helps to gather relevant information about incidents, including date, time, location, and description, to ensure accurate reporting and analysis.

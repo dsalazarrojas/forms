@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Military Operations Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that have occurred during military operations. It is intended to be used by military personnel to report and document incidents, allowing for prompt and effective response and resolution.

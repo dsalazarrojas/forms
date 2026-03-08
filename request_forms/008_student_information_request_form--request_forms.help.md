@@ -1,9 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll create a comprehensive user-facing help guide for this "Student Information Request Form" that's easy to follow and understand.
-
-The purpose of this form is to collect information from students, which will be used to categorize and process their requests. It's essential to fill out the form accurately and completely, as this data will be used to determine the correct course of action for each student's inquiry. Please make sure to review the form carefully and ask for help if you're unsure about any field.
-
-Before proceeding, make sure you haven't filled out this form recently or that your request hasn't already been processed. If you're not sure, please check with the relevant authorities to avoid duplicate requests.</thinking>
-
 # Student Information Request Form - Help Guide
 ## Purpose
 The Student Information Request Form is designed to collect information from students, which will be used to categorize and process their requests accurately and efficiently.

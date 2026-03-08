@@ -1,8 +1,3 @@
-<thinking>
-To provide a comprehensive guide for users, I need to consider the form's purpose and ensure that the explanations provided cover all the essential fields. The Beachfront Property Rental Application form appears to be designed for users to provide information about themselves for the rental of a beachfront property. The purpose of this form is to collect relevant details about the applicant, including their contact information, rental preferences, and additional requirements such as pets or references. I assume the form will be used by property managers or landlords to assess potential renters and make informed decisions. To ensure accuracy, I will focus on explaining each field in a clear and concise manner, avoiding any unsupported business logic. My primary goal is to help users understand the form and complete it accurately and efficiently.
-
-</thinking>
-
 # Beachfront Property Rental Application - Help Guide
 ## Purpose
 The Beachfront Property Rental Application form is designed to collect essential information from potential renters about themselves, their rental preferences, and additional requirements. This information helps property managers or landlords make informed decisions about potential renters.

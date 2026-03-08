@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect laboratory test results and related information for clinical and administrative purposes. 
-</thinking>
 # Laboratory Result Form - Help Guide
 ## Purpose
 This form is used to capture laboratory test results, specimen information, and related details from healthcare professionals for the purpose of recording and maintaining accurate patient records.

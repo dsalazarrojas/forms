@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report and track submissions for internal purposes, such as tracking employee performance or monitoring progress on specific tasks. It is intended for end-users to input their name, email, a timestamp of when the submission was made, their department, a brief purpose of the submission, who submitted it, and an optional submission count and type. 
-This form should only be filled out for unique, one-time submissions. Please ensure that your submission count and type aligns with your actual count and type, to maintain data accuracy.
-</thinking>
-
 # submission_count_form - Help Guide
 
 ## Purpose

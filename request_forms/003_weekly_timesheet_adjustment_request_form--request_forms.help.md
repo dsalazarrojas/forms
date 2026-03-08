@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to request adjustments to their weekly timesheet entries. The purpose of this form is to allow employees to accurately reflect their work hours and activities for the week. It's essential to fill out this form carefully to ensure that the adjustments are processed correctly. Please note that duplicate requests will not be processed.
-</thinking>
-
 # Weekly Timesheet Adjustment Request Form - Help Guide
 ## Purpose
 The "Weekly Timesheet Adjustment Request Form" is used by employees to request adjustments to their weekly timesheet entries. This form helps to ensure that employees' work hours and activities are accurately reflected in their timesheet records.

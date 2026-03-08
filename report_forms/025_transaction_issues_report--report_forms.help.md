@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Transaction Issues Report form. I will analyze the provided YAML fields and create a clear, concise, and practical guide that explains the form's purpose, how to complete it, and what each field means. I will also ensure that the guide is easy to understand and free of technical jargon.</thinking>
-
 # Transaction Issues Report - Help Guide
 ## Purpose
 The Transaction Issues Report form is designed to report any issues or problems related to transactions. This form helps users to document and track issues related to transactions, ensuring that they can be addressed and resolved efficiently. It is an internal tool for customer support teams to identify and resolve transaction-related problems.

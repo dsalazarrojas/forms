@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently to collect relevant information about electrical appliance issues. Before filling out this form, please review the following points:
-- This form is designed to collect information about issues with electrical appliances. It's essential to use this form only for reporting actual issues, not for other purposes.
-- Make sure to fill out the form completely and accurately, leaving no fields blank unless explicitly marked as optional.
-- Review the form's purpose and ensure that you're using it for the intended purpose.
-</thinking>
-
 # Electrical Appliance Issue Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about issues with electrical appliances. It helps our team understand the problem, prioritize and schedule visits, and communicate with customers.

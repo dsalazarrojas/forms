@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's talent, including their appearance details, contact information, and agreement terms. It is primarily used for release forms, but can also be used for other events or categories. The form is composed of multiple fields that require input from the user, including text fields for title, description, contact details, and agreement terms, as well as select fields for category, talent type, appearance location, and agreement type. The form also includes date, time, and email fields. Each field is optional, but it is recommended that the user completes all fields for accurate and complete information.
-</thinking>
-
 # Talent Appearance And Liability Form - Help Guide
 ## Purpose
 The Talent Appearance And Liability Form is a comprehensive form used to collect information about an individual's talent, including their appearance details, contact information, and agreement terms.

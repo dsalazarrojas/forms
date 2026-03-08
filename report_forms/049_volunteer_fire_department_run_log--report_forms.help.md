@@ -1,9 +1,3 @@
-<thinking>
-
-To create this help guide, I'll follow the required structure and provide concrete, concise, and practical explanations for each field.
-
-</thinking>
-
 # Volunteer Fire Department Run Log - Help Guide
 ## Purpose
 The Volunte Fire Department Run Log form is used to document and report on response efforts of the volunteer fire department. It's a record-keeping tool to track call numbers, response times, locations, and other important details for each call-out.

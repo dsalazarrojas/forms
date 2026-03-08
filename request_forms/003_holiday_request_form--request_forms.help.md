@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about employee holiday requests. It is meant to be used by employees to submit their holiday requests for approval. Please ensure that only relevant information is submitted, as this form is designed to collect accurate and up-to-date details. To avoid duplication, please ensure that you have not already submitted a similar request before.
-</thinking>
-
 # Holiday Request Form - Help Guide
 ## Purpose
 The Holiday Request Form is designed to gather information about employee holiday requests. It is a tool for employees to submit their holiday requests for approval to their superiors.

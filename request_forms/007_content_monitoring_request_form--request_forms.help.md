@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the Content Monitoring Request Form. The form is used to request ongoing content monitoring for specific web pages or social media handles. The purpose of this form is to gather essential information about the content to be monitored, including the requestor's details, the content's location, and the desired frequency and urgency level of monitoring. Before proceeding, ensure that you are not duplicating a request that has already been submitted.
-</thinking>
-
 # Content Monitoring Request Form - Help Guide
 ## Purpose
 The Content Monitoring Request Form is used to request ongoing content monitoring for specific web pages or social media handles. This form helps us track and respond to critical content issues in a timely manner.

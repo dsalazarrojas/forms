@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for landscape maintenance site auditors to collect information about ongoing or completed landscape maintenance projects. The purpose of this form is to gather data on project status, site address, photos taken, project completion date, and any additional comments or notes. The form is essential for tracking project progress and maintaining records.
-
-Before starting to fill out this form, ensure that you are submitting a new project or updating an existing one, and that you are not duplicating an existing record. If you are unsure, please consult with your team or supervisor.
-
-</thinking>
-
 # Landscape Maintenance Site Audit Form - Help Guide
 ## Purpose
 

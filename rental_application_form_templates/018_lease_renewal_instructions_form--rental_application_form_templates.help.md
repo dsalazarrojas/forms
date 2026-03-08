@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for lease renewal purposes, typically used by landlords to renew a lease agreement with a tenant. The form is used to gather necessary details such as lease start and end dates, rental frequency, lease renewal deadline, notice period, lease renewal option, landlord and tenant contact information, and other relevant documents. This form is likely to be used in a residential rental setting, such as apartments or houses, and the collected information will be used to facilitate the renewal process. 
-</thinking>
-
 # Lease Renewal Instructions Form - Help Guide
 ## Purpose
 

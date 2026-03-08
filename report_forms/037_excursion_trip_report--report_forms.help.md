@@ -1,5 +1,3 @@
-<thinking>As we create this form, we want to ensure that end-users can easily fill it out and get the information they need to document excursions. To start, let's confirm that this form will help track trip reports for excursions. This form should only be used for reporting details of excursions, making sure that we're using it for its intended purpose.</thinking>
-
 # Excursion Trip Report - Help Guide
 ## Purpose
 This form is used to document excursions, providing an easy way to record trip reports. Please use this form to report details of your excursions, ensuring that all relevant information is captured accurately.

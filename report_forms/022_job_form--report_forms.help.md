@@ -1,5 +1,3 @@
-<thinking>...The form seems to be a generic job-related form with fields to capture basic information about a job, including job title, staff name, task date, task start and end times, work description, materials used, and related files. It appears to be a simple form that doesn't require any advanced features or conditional logic. It's likely used for recording or reporting on jobs performed by staff members or workers. I will now create a user-facing help guide for this form.</thinking>
-
 # Job Form - Help Guide
 ## Purpose
 The Job Form is a simple form used for recording or reporting on jobs performed by staff members or workers. It captures basic information about a job, such as job title, staff name, task date, and times, materials used, and related files.

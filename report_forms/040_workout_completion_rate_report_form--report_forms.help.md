@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect data on the completion rate of workouts for participants in a fitness program. This is to help fitness professionals track the progress and effectiveness of their programs. To complete this form, you will need to provide information about the participant, the workout type, and their workout schedule. This form is typically filled out by fitness professionals to gather data, but it's also useful for participants to track their own progress.
-</thinking>
-
 # Workout Completion Rate Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data on the completion rate of workouts for participants in a fitness program. This helps fitness professionals track the progress and effectiveness of their programs.

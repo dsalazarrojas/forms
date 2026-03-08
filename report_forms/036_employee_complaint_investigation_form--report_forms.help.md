@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to employee complaints and investigations. It appears to be used for gathering details about reported incidents or misbehaviors within a workplace. The fields on this form seem to focus on categorizing and documenting employee complaints, including reports of misconduct, witness names, and investigation details. The form likely serves as a means to track and manage complaints in a structured way. However, it's essential to ensure that each field is completed correctly to maintain the accuracy and integrity of the information collected.
-</thinking>
-
 # Employee Complaint Investigation Form - Help Guide
 ## Purpose
 This form is used to collect and document employee complaints, including reports of misconduct and investigations.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from a seller for the purpose of releasing earnest money. The form is intended to capture details such as the seller's information, buyer information, release type, date and time of release, delivery method, signature method, delivery to address, and any remarks or comments. This form is likely used in real estate or financial contexts where earnest money is being transferred or released. Before completing the form, please ensure that you have all the necessary information and that you are authorized to make a release. Duplicate submissions may cause delays or errors in processing.
-
-</thinking>
-
 # Earnest Money Release Request Form - Help Guide
 ## Purpose
 The earnest money release request form is a tool for capturing information related to the release of earnest money in real estate or financial transactions.

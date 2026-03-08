@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Grant Audit Form - Help Guide
 ## Purpose
 The Research Grant Audit Form is used to review and verify the details of a research grant. It is a critical component of the research grant management process, ensuring that all relevant information is accurately recorded and reported. This form is typically completed by grant administrators or auditors to assess the status of a grant and ensure compliance with grant guidelines and regulations.

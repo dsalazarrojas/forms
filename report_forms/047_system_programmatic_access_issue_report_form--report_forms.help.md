@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for users to report any issues related to System Programmatic Access, which can be a frustrating and critical issue for users. By filling out this form, the affected user will be able to provide details about their specific problem, including the category, description, occurrence date and time, affected user, location, and priority level. It is essential to complete this form accurately and thoroughly to help the support team troubleshoot and resolve the issue efficiently. Please note that each field must be filled out completely, and the required fields are marked as such. Duplicate submissions will not be accepted, so please ensure you have not already submitted this report. If you are unsure about any field or its implications, please reach out to the support team for clarification.
 
 # System Programmatic Access Issue Report Form - Help Guide

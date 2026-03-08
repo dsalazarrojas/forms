@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting information for copyright declarations, but it's essential to confirm that it's not a duplication of a similar form and that it's being used for its intended purpose.
-</thinking>
-
 # Copyright Declaration Form - Help Guide
 ## Purpose
 The Copyright Declaration Form is a document used to record and declare the ownership of a copyrightable work. This form is used to capture critical details about the copyright holder, work, and declaration specifics.

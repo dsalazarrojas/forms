@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective help guide, we need to understand the form's purpose and context. This Room Addition Cost Estimate Request form is designed for users to provide information about a project requiring a room addition, such as size, location, and budget. The form aims to gather relevant details for estimating the project's cost.
-
-The form seems to be a request for a cost estimate, likely used by architects, contractors, or project managers. Given the presence of fields like project budget, estimated cost, and project start date, it's likely that the form is used for project planning and cost estimation purposes. The form's fields also suggest that it's meant for projects that involve physical spaces, which further supports the assumption that it's for room additions.
-
-Upon reviewing the form, I noticed that most fields are optional, which might lead users to wonder if there's a specific set of information that's always required. To clarify, it's possible that the form's fields are optional because the form is used for general information gathering, but there might be certain mandatory fields depending on the project specifics.
-
-Given this analysis, the form's purpose and context will be reflected in the help guide.
-
-</thinking>
-
 # Room Addition Cost Estimate Request - Help Guide
 ## Purpose
 This form is designed to help you provide essential details about your room addition project. Please fill out the form accurately to help us understand your project's specifics and provide you with a comprehensive cost estimate.

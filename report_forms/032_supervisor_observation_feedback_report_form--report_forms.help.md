@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervisor Observation Feedback Report Form - Help Guide
 ## Purpose
 

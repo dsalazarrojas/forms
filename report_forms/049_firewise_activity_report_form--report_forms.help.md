@@ -1,8 +1,3 @@
-<thinking>
-This form, "Firewise Activity Report Form", is intended to gather data from users on various aspects of their work activities, including hours worked, overtime, total hours, expense amounts, and related expense details. It is possible that users may be submitting multiple reports of the same type, but for the purpose of this guide, we will assume that users are filling out a single report. We will go through each field in the form, explaining its purpose and how to complete it.
-
-</thinking>
-
 # Firewise Activity Report Form - Help Guide
 ## Purpose
 The Firewise Activity Report Form is a user-facing form designed to collect data from users on their work activities, including hours worked, overtime, total hours, and expense details.

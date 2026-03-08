@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CHSB Leave Request Form - Help Guide
 
 ## Purpose

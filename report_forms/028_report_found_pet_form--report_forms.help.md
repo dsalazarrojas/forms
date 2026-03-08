@@ -1,5 +1,3 @@
-<thinking>... internal form purpose is to capture information about a pet that a user has found, such as its species, location, and owner contact details. The form is not intended for duplicate reports. If a user has already submitted a report for the same pet, they should not submit another report... </thinking>
-
 # Report Found Pet Form - Help Guide
 ## Purpose
 The Report Found Pet Form is designed to collect information about a pet that a user has found. This form is for reporting pets that need attention or care, and is intended to assist the relevant authorities in reuniting the pet with its owner.

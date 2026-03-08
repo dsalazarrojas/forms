@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who are interested in renting a mailbox, likely for a business or residential setting. This form will likely be used by property managers or landlords to gather essential details from potential renters, such as their contact information, rental specifics, and any relevant agreements or conditions. The form's design suggests it is meant to be filled out online, possibly through a digital platform or website. It's essential to ensure that this form is not a duplicate of an existing form, and its purpose is not to replace any official government or industry-standard forms. Before creating this guide, review your organization's existing forms and policies to avoid duplication of effort. If you're creating a custom form for a specific business or industry, please consider adding more fields or adjusting the existing ones to fit your exact needs.
-</thinking>
-
 # Mailbox Rental Agreement Form - Help Guide
 ## Purpose
 The Mailbox Rental Agreement Form is designed to collect essential information from users who are interested in renting a mailbox, whether for personal or business use. This form will help property managers or landlords gather necessary details about the tenant and the rental conditions.

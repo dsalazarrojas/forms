@@ -1,5 +1,3 @@
-<thinking>This form is used for reporting exposure incidents, and the purpose of this document is to guide users through the process of completing this form correctly. To ensure accurate and complete reporting, it's essential to understand each field's purpose and requirements. This guide will help users navigate the exposure report form and ensure they provide the necessary information without missing any crucial fields. Please review the form layout and fields carefully to avoid duplication of efforts or omission of critical details.</thinking>
-
 # exposure_report_form - Help Guide
 ## Purpose
 This form is designed for reporting exposure incidents, gathering information about incidents, witnesses, and witnesses' statements. It's crucial to complete this form accurately and thoroughly to ensure a proper investigation and response.

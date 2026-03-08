@@ -1,12 +1,3 @@
-<thinking>
-This internal reasoning block is to ensure that the form is not filled out by someone who is not a homeowner or property owner looking to get a quote for a home renovation project.
-
-The purpose of this form is to gather information from homeowners or property owners who are interested in getting a quote for a home renovation project. This form will help the homeowner or property owner to submit their details, project requirements, and other relevant information to receive a quote from us.
-
-To avoid duplication, we will check if a quote has already been requested for the same property address. If it has, we will display a message to the user to contact us if they need an updated quote. If not, we will process the form and send the quote to the user.
-
-</thinking>
-
 # Home Renovation Quote Request - Help Guide
 
 ## Purpose

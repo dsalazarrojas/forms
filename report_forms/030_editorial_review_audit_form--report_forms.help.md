@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to collect information related to editorial review and manuscript evaluation, ensuring a systematic and efficient process for editors and reviewers. To avoid duplication of work, please ensure that each form is filled out accurately and completely before submitting it for review. Please refer to this guide for detailed instructions...</thinking>
-
 # Editorial Review Audit Form - Help Guide
 ## Purpose
 The Editorial Review Audit Form is designed to gather essential information about manuscripts that have undergone editorial review. This form aims to standardize the review process, making it more efficient and transparent.

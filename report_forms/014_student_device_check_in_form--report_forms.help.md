@@ -1,12 +1,3 @@
-<thinking>
-The Student Device Check In Form is used to record information about student devices used in learning environments. 
-The form captures details about the devices used by students for educational purposes, such as laptops, tablets, or phones. 
-This information is used to monitor and manage student devices used by students in educational institutions. 
-Ensure that you only fill out this form for student devices and not for other devices. 
-Also, ensure that you do not fill out the form multiple times for the same device. 
-
-</thinking>
-
 # Student Device Check In Form - Help Guide
 ## Purpose
 The Student Device Check In Form is used to collect information about student devices used for educational purposes. This form helps to track and monitor student devices used in learning environments.

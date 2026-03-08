@@ -1,12 +1,3 @@
-<thinking>
-To ensure that this user-facing help guide is accurate and helpful, let's review the form's purpose and fields.
-
-The form is a "Book Restoration Quote Request" form, which means it's intended for individuals or organizations to request a quote for restoring a book. This form is likely used by libraries, museums, or private collectors to gather information about the book's condition, the type of restoration needed, and the desired completion date and budget.
-
-We should also note that some fields are optional, such as "Organization Name" and "Previous Restoration" which might be skipped by users who don't have this information. However, providing clear explanations for these fields will still be beneficial for users who do need to fill them out.
-
-Now, let's break down the fields to provide a clear and concise explanation for each field in the help guide.</thinking>
-
 # Book Restoration Quote Request - Help Guide
 ## Purpose
 This form is for requesting a quote for book restoration services. Fill it out to provide us with information about your book, the type of restoration you need, and your contact information.

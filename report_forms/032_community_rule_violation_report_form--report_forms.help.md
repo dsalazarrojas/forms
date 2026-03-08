@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to document a community rule violation, gathering relevant details such as the names of individuals involved, dates and times of incidents, descriptions of the violations, and evidence supporting the report. This form aims to standardize the reporting process for community rule violations, making it easier to investigate and address such incidents in a fair and consistent manner.
-The form is not intended to be used for reporting minor issues or non-serious incidents. It is designed to capture detailed information about more significant infractions that require administrative review and potential action.
-Please note that the form is not intended for reporting personal issues or conflicts between individuals. If you are reporting a personal issue, please use the "Community Conflict Report Form" instead.
-</thinking>
-
 # Community Rule Violation Report Form - Help Guide
 ## Purpose
 The Community Rule Violation Report Form is a standardized form for reporting incidents of community rule violations, providing a clear and structured process for documenting and addressing such issues.

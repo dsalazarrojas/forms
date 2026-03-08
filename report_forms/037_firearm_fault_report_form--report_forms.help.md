@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be designed for reporting faults or issues with firearms, but I need to confirm this by looking at the provided YAML fields. The fields appear to be related to firearm faults but could be used for any type of equipment fault report. I don't see any fields that specifically indicate this form is only for firearms, so it's possible that this form could be used for other types of equipment fault reports as well. There's no clear indication of duplication or relevance checks, suggesting that users can report multiple faults or submit the same report multiple times without any issues. However, this doesn't necessarily mean that the form isn't designed for a specific purpose or industry; more investigation is required to confirm this. I'll proceed with a general explanation of the form's purpose and how to complete it.
-
-</thinking>
-
 # Firearm Fault Report Form - Help Guide
 ## Purpose
 This form is designed to report faults or issues with equipment, specifically for firearms, but it could potentially be used for other types of equipment fault reports as well. The purpose of this form is to gather information about the faults, including details about the incident, the firearm's condition, and any supporting files.

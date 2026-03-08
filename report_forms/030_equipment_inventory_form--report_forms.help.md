@@ -1,5 +1,3 @@
-<thinking>As a designer and writer of forms, my first step is to analyze the provided YAML structure to understand its purpose and ensure that the form is well-structured and easy to use. Upon reviewing the YAML, I see that it describes an Equipment Inventory Form with multiple pages, each containing various fields of different types (text, select_one, select_multiple, number, date, time). The form appears to be designed to collect information about equipment inventory, likely for administrative or logistical purposes. However, I need to clarify the form's purpose and ensure that it's not duplicating any existing forms. Let me proceed to create the help guide, and I'll be happy to clarify any questions or concerns you may have!</thinking>
-
 # Equipment Inventory Form - Help Guide
 ## Purpose
 The Equipment Inventory Form is designed to collect and manage information about the equipment in your inventory. This form is used to record and track equipment details, including type, model, serial number, location, and other relevant information.

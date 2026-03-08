@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from users regarding title insurance requests. It's essential to fill out the form accurately to ensure that the request is processed correctly. Please ensure that you are not filling out this form if you have already submitted a similar request in the past or if you are not authorized to do so. Please make sure to fill out all required fields to avoid delays in processing your request.</thinking>
-
 # Title Insurance Request Form - Help Guide
 ## Purpose
 The Title Insurance Request Form is used to collect information from users regarding title insurance requests. This form is essential to ensure that all relevant details are captured accurately, allowing for efficient processing and handling of the request.

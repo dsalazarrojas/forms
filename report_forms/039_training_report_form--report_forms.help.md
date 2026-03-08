@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for training sessions and programs, allowing users to report on their progress, objectives, and outcomes. This form will collect information on each session or program, including title, start and end dates, description, objectives, start and end dates, and any other relevant details.
-</thinking>
-
 # Training Report Form - Help Guide
 ## Purpose
 The Training Report Form is a tool for documenting and reporting on training sessions and programs. It collects information on the session's title, dates, description, objectives, and other relevant details.

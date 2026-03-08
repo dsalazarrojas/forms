@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Model And Production Liability Release Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from individuals who have provided feedback or participated in a project or production, allowing them to release liability for any model or content they may have contributed. This form ensures that the rights and responsibilities of all parties involved are clarified and documented.

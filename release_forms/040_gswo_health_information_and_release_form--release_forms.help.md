@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "GSWO Health Information And Release Form" is to collect vital health information and signatures from parents, guardians, and adults in a way that is easy to understand and complete. To ensure that the form is filled out correctly and efficiently, the following guide will walk you through each field and provide explanations for every section of the form.
-
-This form is likely used in healthcare settings to gather crucial information about the health and wellness of an individual, and to obtain necessary signatures from relevant parties. It's essential to complete this form carefully and accurately to ensure that the information is up-to-date and reliable.
-
-Before proceeding, please verify that you are not filling out the form for an individual who is already registered in our system or has already completed a similar form.
-
-Please note that this guide is a general explanation and may not cover every specific situation or scenario that may arise during form completion. If you have further questions or concerns, please reach out to the healthcare provider for clarification.
-
-</thinking>
-
 # GSWO Health Information And Release Form - Help Guide
 
 ## Purpose

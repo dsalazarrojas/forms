@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airline Pilot Family Engagement Leave Of Absence Form - Help Guide
 
 ## Purpose

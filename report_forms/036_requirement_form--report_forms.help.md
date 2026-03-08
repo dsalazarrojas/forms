@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a project, gathering essential details such as event dates, project names, descriptions, and team member involvement. The form is intended to help users create a comprehensive record of project requirements, ensuring that all necessary information is captured and easily accessible. By completing this form, users can effectively communicate project details to stakeholders and team members, facilitating collaboration and streamlining project management.
-
-</thinking>
-
 # Requirement Form - Help Guide
 ## Purpose
 The Requirement Form is used to gather essential information about a project, including event dates, project names, and team member involvement.

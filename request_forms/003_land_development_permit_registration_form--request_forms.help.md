@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the registration of a land development project with the relevant authorities. This form is intended for land developers, project managers, and other stakeholders to provide necessary information about their project. It is crucial that the user provides accurate and truthful information to ensure the smooth processing of their project application.
-
-To prevent duplication of effort, please ensure that you are not filling out this form for a project that is already registered or under review. If you are unsure, you can contact the authorities to inquire about the status of your project.
-
-</thinking>
-
 # Land Development Permit Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information about a land development project, including its status, type, address, and contact details. This information will be used to process the project's registration and ensure compliance with relevant regulations.

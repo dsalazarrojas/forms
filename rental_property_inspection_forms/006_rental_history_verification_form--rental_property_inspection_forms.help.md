@@ -1,14 +1,3 @@
-<thinking>
-Rental History Verification Form is used to verify the rental history of a property. This form is used to ensure that a property's rental history is accurate and up-to-date. 
-
-The form is designed to collect information about the property, the tenant, and the verification process. It is intended to help landlords, property managers, or building managers to gather necessary information to make informed decisions about rental applications.
-
-Before filling out this form, please ensure that you have all the necessary information and documents required to complete it accurately. Also, be aware that the form is not intended to be filled out multiple times by the same user. Each unique property and user should only fill out the form once, and the information should be accurate and up-to-date.
-
-Please fill out this form carefully and thoroughly to ensure that the information is accurate and complete.
-
-</thinking>
-
 # Rental History Verification Form - Help Guide
 ## Purpose
 

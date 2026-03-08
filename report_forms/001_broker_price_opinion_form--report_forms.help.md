@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for real estate professionals to provide a comprehensive opinion on the market value of a property. It will likely be used in the context of real estate assessments, appraisals, or market valuations. The form's purpose is to gather detailed information about the property, the market, and the appraiser's opinion of value. This form should not be used for personal properties, but rather for properties that are being offered for sale or rent, or properties that are part of a real estate transaction.
-
-Please ensure that you have the necessary permissions and expertise to complete this form accurately. This form is meant to provide a professional's opinion and should be filled out with care, taking into account all the relevant data and factors that influence the market value of the property.
-
-Before proceeding, review the property's current market conditions, comparable sales, and any relevant local regulations or restrictions that could impact the property's value.
-
-This form should only be used once you have a thorough understanding of the property's condition, features, and market context.
-</thinking>
-
 # Broker Price Opinion Form - Help Guide
 ## Purpose
 The Broker Price Opinion Form is a comprehensive tool for real estate professionals to provide an opinion on the market value of a property. It gathers detailed information about the property, the market, and the appraiser's opinion of value.

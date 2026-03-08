@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect risk waiver and publicity release information from participants in various activities or events. The form will be used to ensure that participants understand and agree to the risk waiver and publicity release terms. This information will be stored in the system to maintain records and ensure that participants are aware of their rights and responsibilities. This form should not be used to collect unnecessary or redundant information. Please ensure that all required fields are filled in accurately and completely.
-</thinking>
-
 # Risk Waiver Form And Publicity Release - Help Guide
 ## Purpose
 The purpose of this form is to collect risk waiver and publicity release information from participants in various activities or events. It is essential to fill out this form to understand and agree to the terms of the risk waiver and publicity release.

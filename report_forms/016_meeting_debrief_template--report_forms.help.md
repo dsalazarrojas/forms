@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a template for documenting a meeting's debriefing process, likely used to gather feedback, insights, and outcomes from attendees or participants. 
-This template could be used in a variety of contexts, such as team meetings, project meetings, or client meetings. It does not seem to be a duplicate or derived from any existing form platform. 
-</thinking>
-
 # Meeting Debrief Template - Help Guide
 ## Purpose
 This template is designed to collect information about a meeting, including its organizer, date, time, location, and notes. The form helps ensure that all important details are recorded and can be used for reference or follow-up action in the future.

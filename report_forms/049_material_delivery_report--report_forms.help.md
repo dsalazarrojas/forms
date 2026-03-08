@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tracking material delivery reports, which are used to gather information about the delivery of materials to different departments within an organization. The form is designed to capture details such as the date of delivery, the location where delivery was made, the personnel responsible for delivering the materials, and any issues that may have arisen during the delivery process. The form will help ensure that all departments are aware of the status of material delivery, enabling them to plan and schedule their activities effectively. The form is not intended to be a mandatory reporting tool, and filling out the form is not required. 
-</thinking>
-
 # Material Delivery Report - Help Guide
 ## Purpose
 The Material Delivery Report form is used to track the delivery of materials to different departments within an organization. It captures information about the delivery date, location, personnel responsible, and any issues that may have arisen during the delivery process.

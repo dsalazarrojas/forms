@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the details of a surveillance tour, including information about incidents, checkpoints, and patrol notes. The form is likely used by security personnel to report on their observations and actions during a tour of a facility or area. This form will help the user collect data that can be used for future reference and incident tracking.
-</thinking>
-
 # Surveillance Tour Checklist - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-This form is a patient care incident report, used to document and record incidents that occur in the context of patient care. The form aims to provide a structured and detailed account of the incident, including its date, description, and outcome. It is essential to accurately and thoroughly complete this form to ensure that all relevant information is captured, and the incident is properly documented and investigated.
-The form is designed to be completed by healthcare professionals, such as doctors, nurses, or other medical staff, who are responsible for the patient's care. It is not intended for general public use.
-The purpose of this form is to:
-• Document incidents in a standardized and accurate manner.
-• Provide a clear and concise account of the incident.
-• Facilitate investigation and analysis of the incident.
-• Support patient care and risk management.
-• Improve patient safety and outcomes.
-The form is not intended for reporting routine or non-serious incidents. If you are unsure about the form's purpose or whether a particular incident should be reported, please consult with your supervisor or relevant authority.</thinking>
-
 # Patient Care Incident Report - Help Guide
 ## Purpose
 The Patient Care Incident Report form is designed to provide a structured and detailed account of incidents that occur in the context of patient care.

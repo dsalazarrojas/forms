@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning block to confirm form purpose and ensure non-duplication:
-- The form is intended to gather information from elderly individuals about their meal preferences and special dietary needs.
-- The form will be used for the meal delivery service to ensure that their needs are met accordingly.
-- To avoid duplication of efforts, the form will be reviewed by a designated staff member before processing the request.
-</thinking>
-
 # Elderly Request Form - Help Guide
 ## Purpose
 This form is designed to help us understand your meal preferences and special dietary needs, so we can provide you with the best possible meal delivery experience.

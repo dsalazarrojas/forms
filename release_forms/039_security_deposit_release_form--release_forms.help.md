@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to release a security deposit for a tenant in a rental property. This form allows the tenant to provide the necessary information to initiate the deposit release process. It's essential to fill out this form accurately and truthfully to ensure that the deposit is released correctly...</thinking>
-
 # Security Deposit Release Form - Help Guide
 ## Purpose
 This form is used to release a security deposit for a tenant in a rental property. It requires information from both the landlord and tenant to confirm the deposit release.

@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please ensure that you are reporting a genuine data breach incident. If you are unsure, please contact your supervisor or the incident response team for guidance. Also, please be aware that duplicate reports may be removed to avoid unnecessary processing, so only report incidents that have not been previously reported.</thinking>
-
 # Data Breach Enquiry Form - Help Guide
 ## Purpose
 The Data Breach Enquiry Form is designed to report and document data breaches that have occurred within the organization. This form helps to gather information about the breach, including the description of the incident, the date and time it occurred, the location of the breach, and other relevant details.

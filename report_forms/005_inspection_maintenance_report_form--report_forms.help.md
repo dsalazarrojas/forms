@@ -1,7 +1,4 @@
-> <thinking>Inspection Maintenance Report Form is used to document the status of an asset's maintenance. This form is designed to be completed after an inspection, where the user will report on the asset's condition and any maintenance performed. Ensure that you complete this form for each asset that requires inspection. Please note that this form is not for new asset additions or asset modifications, so do not use it for that purpose.
-</thinking>
-
-# Inspection Maintenance Report Form - Help Guide
+> # Inspection Maintenance Report Form - Help Guide
 ## Purpose
 The Inspection Maintenance Report Form is used to track and document the maintenance status of an asset after inspection.
 

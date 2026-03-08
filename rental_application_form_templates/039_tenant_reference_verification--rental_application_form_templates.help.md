@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify a landlord's reference for a rental application. The reference provides information about their experience with the tenant, which is used to help make a decision about renting the property. This form is used to gather specific details about the tenant's background, behavior, and potential issues. Please make sure the reference has a personal relationship with the tenant and is able to provide an honest assessment.
-</thinking>
-
 # Tenant Reference Verification - Help Guide
 ## Purpose
 The Tenant Reference Verification form is used to verify a landlord's reference for a rental application. This form helps to gather information from a reference who has a personal relationship with the tenant, such as a family member or friend.

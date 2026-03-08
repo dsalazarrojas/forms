@@ -1,7 +1,3 @@
-<thinking>
-We use this form to collect information about a customer's closet door installation request. This form helps us understand their needs and preferences for a successful installation.
-</thinking>
-
 # Closet Door Installation Request - Help Guide
 ## Purpose
 This form is designed to capture detailed information from customers about their closet door installation request. It includes details about the customer, property information, closet specifications, installation requirements, and budget preferences. Please fill out this form to ensure we have the necessary information to provide a tailored solution for your door installation needs.

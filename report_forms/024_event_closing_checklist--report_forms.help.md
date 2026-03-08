@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the status of events in a specific format, which can be used for tracking and reporting purposes. To ensure accuracy and completeness, please review each field carefully before submitting the form.
-
-To prevent duplication, please do not submit a form for an event that has already been completed. If you are unsure about the status of an event, please contact the relevant authority or team member for verification.
-
-When filling out this form, please ensure that you are completing it for the correct event. This form is intended for events that fall under the category of "report_forms".
-
-Before proceeding, please note that the form has multiple select multiple fields with similar labels. These fields are part of a checklist and should be filled out accordingly.
-</thinking>
-
 # Event Closing Checklist - Help Guide
 ## Purpose
 The Event Closing Checklist is used to track the status of events in a structured and organized format.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to document and track sessions with clients, allowing coaches to record and review progress, concerns, and actions taken during sessions. The form captures various aspects of the session, including client demographics, session format, primary concerns addressed, and outcomes achieved. It also includes fields for rating client calmness levels before and after the session, as well as space for internal coach reflections.
-The form is meant to be a comprehensive tool for coaches to log and analyze session data, helping them provide better support and track client progress over time.
-</thinking>
-
 # Calm Resolve Support Log - Help Guide
 ## Purpose
 This form is used to document and track sessions with clients, capturing key information and insights to support coaching and client progress.

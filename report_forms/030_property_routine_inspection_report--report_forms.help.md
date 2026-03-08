@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is designed to collect data for property inspections. The form is likely used to document the findings of a routine property inspection, which may involve checking the condition and status of various aspects of a property. This form is probably used by real estate agents, property managers, or other stakeholders involved in property maintenance or inspections. 
-
-The form may be used to collect data such as the date and time of the inspection, the address of the property, and any notes or comments about the inspection. The form might also include fields to collect images or videos taken during the inspection. It's possible that the form is part of a broader property management or maintenance system. 
-
-... </thinking>
-
 # Property Routine Inspection Report - Help Guide
 ## Purpose
 

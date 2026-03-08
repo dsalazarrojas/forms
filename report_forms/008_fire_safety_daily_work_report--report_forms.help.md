@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Fire Safety Daily Work Report is to provide a standard format for recording and reporting fire hazards and safety issues during daily work. This form is intended to be filled out by workers on-site and submitted to relevant authorities for review and follow-up actions. Before filling out this form, please ensure that you are on-site and have access to the necessary information. Additionally, please note that this form is a standard report and should not be duplicated or submitted for non-existent events. If the report form is not applicable or no issues were encountered during your shift, please report "No" for the related fields.
-</thinking>
-
 # Fire Safety Daily Work Report - Help Guide
 ## Purpose
 The Fire Safety Daily Work Report is a standard form used to document and report fire hazards and safety concerns that occurred during daily work activities. It ensures that critical information is collected and documented in a timely and consistent manner.

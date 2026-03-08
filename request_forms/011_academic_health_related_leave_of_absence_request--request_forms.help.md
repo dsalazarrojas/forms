@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to facilitate an Academic Health-Related Leave of Absence (HRL) request for students, ensuring that the university can provide necessary support and accommodations for students dealing with health issues.
-To prevent potential abuse and maintain fairness, it is essential to verify that each request is genuine and not a duplication or attempt to game the system.
-The form aims to collect relevant information to assess the impact of the health issue on the student's academic progress and well-understand the level of support required during the leave.
-</thinking>
-
 # Academic Health Related Leave Of Absence Request - Help Guide
 ## Purpose
 The Academic Health Related Leave of Absence Request form is designed to support students who need to take a temporary leave from academic activities due to health reasons. This form is used to request a leave from the university, which can be in the form of a medical leave or other types of health-related leaves.

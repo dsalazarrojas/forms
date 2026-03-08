@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for creating a report, likely for a specific project or initiative. The purpose of this form is to gather information from users, possibly for reporting incidents, problems, or other events. Before proceeding, please make sure you are not duplicating a report that already exists, as this may cause unnecessary work duplication. If you are unsure, please double-check with your team leader or project manager.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information from users for reporting purposes.

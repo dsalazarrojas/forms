@@ -1,17 +1,3 @@
-<thinking>
-This form is used to analyze the performance of a network and gather information from end-users about any issues they may have encountered. The form is designed to be completed by network administrators or engineers to help identify areas of improvement and optimize network performance. 
-
-The form has 7 fields, each with a specific purpose: 
-- Report Period: This field is used to select the time period for which the performance analysis is being conducted.
-- Network Devices: This field is used to indicate if the network devices are performing well or if there are issues.
-- Issues Encountered: This field is used to report any issues or problems that have been experienced with the network.
-- Network Performance Analysis Notes: This field is used to provide additional information or notes about the network performance analysis.
-- Network Performance Analysis Report Form Issues: This field is used to indicate if there are any issues with the report form itself.
-- Network Performance Analysis Report Form Comments: This field is used for general comments or feedback about the report form.
-
-It's worth noting that the form is not required for any critical network performance analysis, and users may choose to skip it if they don't have the necessary information or if it's not relevant for their specific analysis.
-</thinking>
-
 # Network Performance Analysis Report Form - Help Guide
 ## Purpose
 This form is designed to gather information from end-users about the performance of their network and help identify areas for improvement.

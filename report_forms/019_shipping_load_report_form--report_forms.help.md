@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a help guide for the Shipping Load Report Form, a form used for reporting shipping details. The form is designed to collect information about shipments, including pickup and delivery locations, shipment type, weight, volume, and more. The purpose of this form is to gather essential data for tracking and managing shipments. Before proceeding, ensure that you have the necessary permissions to access and complete this form.
-</thinking>
-
 # Shipping Load Report Form - Help Guide
 ## Purpose
 The Shipping Load Report Form is used to report shipping details, including pickup and delivery locations, shipment type, weight, volume, and more. This information is essential for tracking and managing shipments.

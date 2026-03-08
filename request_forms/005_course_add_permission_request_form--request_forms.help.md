@@ -1,7 +1,3 @@
-<thinking>
-
-To determine whether a course addition request form is necessary and ensure it doesn't get duplicated. This form is intended for course requesters to ask for permission to add a course to the catalog, providing detailed information such as course titles, descriptions, restricted codes, status, and more. It's essential to understand how to correctly fill out the form to ensure the request is accurate and processed correctly.</thinking>
-
 # course_add_permission_request_form - Help Guide
 ## Purpose
 The course addition request form is used by course requesters to ask for permission to add a course to the catalog. This form is necessary to gather relevant information about the course, ensuring that the course can be properly evaluated and approved before being added.

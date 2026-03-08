@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive application for apartment leasing, gathering information from the applicant about their employment status, financial background, rental history, and other relevant details. This form will help property managers and landlords assess the applicant's suitability for tenancy.
-
-The form is divided into several sections, including employment information, financial information, rental history, and personal references. Each section is designed to gather specific details about the applicant's background and circumstances, which will be used to evaluate their creditworthiness and suitability for the rental property.
-
-The form is intended to be filled out by the applicant, and it is expected that the information provided will be accurate and complete. 
-
-The following guide is designed to walk the applicant through the form and help them understand what each field means and how to complete it correctly.
-
-Please note that this form may ask for sensitive information about the applicant's background, such as employment status, credit score, and rental history. The applicant is advised to provide accurate and truthful information to ensure that their application is processed correctly.
-
-</thinking>
-
 # Apartment Leasing License Application Form - Help Guide
 ## Purpose
 This guide is designed to help applicants complete the Apartment Leasing License Application Form accurately and correctly.

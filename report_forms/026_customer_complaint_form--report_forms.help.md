@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer complaints about products and services. The form will be used to document and analyze customer feedback to improve product quality and customer experience. Before completing this form, please ensure that you have not already submitted a complaint about the same issue. If you have, please review your previous submission and update it if necessary.
-</thinking>
-
 # customer_complaint_form - Help Guide
 ## Purpose
 This form is intended to gather customer complaints about products and services. Please use this form to report any issues you are experiencing with our products or services.

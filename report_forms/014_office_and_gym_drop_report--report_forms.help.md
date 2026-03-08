@@ -1,10 +1,3 @@
-<thinking> 
-This is an AI-generated form for Office and Gym Drop Report. The form is designed to collect information about incidents that occur at the office or gym, such as reported by, incident description, incident details, and incident status. The form is likely used for administrative or management purposes, and the data collected will be used to track and follow up on incidents. It's essential to ensure that the form is completed accurately and thoroughly to provide valuable information for incident management.
-
-Please note that the form is not affiliated with any specific form platform and is an original adaptation of public survey metadata. It is released under CC BY 4.0, allowing users to use, modify, and sell the form with proper credit.
-
-Before proceeding, please ensure that the form is relevant to your needs and not a duplicate of any existing form. If you're unsure, you can contact form@gic.mx for assistance.</thinking>
-
 # Office and Gym Drop Report - Help Guide
 ## Purpose
 The Office and Gym Drop Report form is designed to collect information about incidents that occur at the office or gym. This form helps track and follow up on incidents, ensuring that necessary actions are taken to prevent future occurrences.

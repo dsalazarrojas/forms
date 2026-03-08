@@ -1,7 +1,3 @@
-<thinking>...Internal reasoning block to check for form purpose and non-duplication...
-This form is for generating a painting quote and estimation. Its purpose is to gather information from customers about their painting project, including their details, contact time, project details, estimated cost, service details, assigned tool, and any additional notes.
-The form is a crucial step in the painting service's workflow, as it allows customers to provide necessary information for a quote and estimation. It is essential to avoid duplication of efforts and ensure accurate quotes by ensuring only one form is submitted per customer.
-Please proceed to the guide below for a clear understanding of how to complete this form.</thinking>
 # Painting Quote And Estimation Form - Help Guide
 ## Purpose
 This form is used to gather information from customers about their painting project, enabling the service to provide an accurate quote and estimation.

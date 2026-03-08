@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rail Services Daily Site Report Form - Help Guide
 ## Purpose
 The Rail Services Daily Site Report Form is a tool used to report on the daily activities, incidents, and site information of rail services. This form is used to gather essential data for site management, quality control, and incident reporting.

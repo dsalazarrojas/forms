@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and document the voiding of items. It is meant to be used for items that have already been processed and are no longer valid or active. Filling out this form will help track the voiding of items and provide a clear record of the reason for voiding, who voided it, and other relevant details. Please ensure that you have all the necessary information before completing this form to avoid duplication of efforts and ensure accurate records.
-</thinking>
-
 # Void Items Record Form - Help Guide
 ## Purpose
 This form is used to record and document the voiding of items that have already been processed and are no longer valid or active.

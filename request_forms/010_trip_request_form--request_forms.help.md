@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the Trip Request Form, which is used to record trip-related information for travel agency associations. The purpose of this form is to gather essential details about trips, including their nature, dates, purpose, and associated travel agencies. This information is crucial for proper trip planning, coordination, and communication. To ensure accurate and complete data entry, please follow this guide carefully.
-</thinking>
-
 # Trip Request Form - Help Guide
 ## Purpose
 The Trip Request Form is designed to collect essential details about trips, including business or personal nature, travel dates, purpose, and associated travel agency information. This form helps in efficient trip planning, coordination, and communication.

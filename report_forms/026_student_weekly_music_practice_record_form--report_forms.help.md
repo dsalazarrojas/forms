@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help students record their music practice for a given week in a specific instrument. The form is meant to gather basic information about the student's practice duration and frequency, along with their notes for each week of practice. The student's ID and instrument of choice are also collected for reference. This form will help the student and instructor track the student's progress and identify areas of improvement.
-</thinking>
-
 # Student Weekly Music Practice Record Form - Help Guide
 ## Purpose
 This form is designed to help students record their music practice for each week, providing a structured way to track progress and stay organized.

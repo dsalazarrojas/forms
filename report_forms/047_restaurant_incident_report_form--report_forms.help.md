@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about incidents that occur in a restaurant setting. The purpose of this form is to document the details of the incident, including the date and time it happened, its location, any witnesses, and any supporting documents related to the incident. This information will be used to help restaurant management and staff respond to and investigate the incident. This form is not intended to be used for emergency situations, but rather for documenting non-emergency incidents that occur within the restaurant.
-
-</thinking>
-
 # Restaurant Incident Report Form - Help Guide
 ## Purpose
 This form is used to document non-emergency incidents that occur within the restaurant, such as spills, equipment malfunctions, or customer complaints. The information collected will be used to improve restaurant operations and provide a record of past incidents.

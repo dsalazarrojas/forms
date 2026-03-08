@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is a request for authorization to release confidential information, which requires approval from authorized personnel. This form should not be filled out for duplicate or non-relevant purposes, as it is intended to ensure that sensitive information is shared only when necessary. 
 
 # LIEHEAP Authorization For Release Of General Andor Confidential Information - Help Guide

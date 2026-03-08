@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Verification Submission Form - Help Guide
 
 ## Purpose

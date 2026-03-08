@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in listing their products regionally. This form is not intended for general public consumption or as a means to purchase products. The goal is to gather necessary details from users to facilitate a regional product listing process. This form is not meant to be a replacement for any existing system or process, and users should not submit duplicate requests.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Regional Product Listing Request Form - Help Guide
 ## Purpose
 This form is used to gather information from users interested in listing their products regionally. It helps our team understand their needs and preferences for a smoother product listing experience.

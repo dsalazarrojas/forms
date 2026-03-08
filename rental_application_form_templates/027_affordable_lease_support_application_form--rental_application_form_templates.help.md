@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from applicants for rental assistance programs. This includes demographic information such as applicant name, date of birth, and contact details. It also asks for household composition and income information, including primary income source, monthly gross income, and other household income. The form inquires about current housing expenses, including rent and utilities, and desired rent amount. Additionally, it asks about preferred housing location, type of housing unit sought, and accessibility needs. The form also explores special circumstances, such as emergency assistance history, eviction history, and criminal background. Finally, it certifies the accuracy of the provided information and requires an electronic signature to submit the application.
-</thinking>
-
 # Affordable Lease Support Application Form - Help Guide
 
 ## Purpose

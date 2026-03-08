@@ -1,7 +1,3 @@
-<thinking>
-The Recreation Center Customer Incident Report Form is designed to collect information about incidents that have occurred at the Recreation Center. This form will help staff quickly report and document incidents, which can aid in identifying and addressing potential safety and security concerns. This form should be completed for any incident that occurred within the Recreation Center, such as accidents, injuries, or other unexpected events. Please ensure that you are filling this form only for incidents that have not already been reported or documented.
-</thinking>
-
 # Recreation Center Customer Incident Report Form - Help Guide
 ## Purpose
 The Recreation Center Customer Incident Report Form is a tool used to document and report incidents that occur within the Recreation Center. This form helps staff to gather and record information about incidents, which can aid in identifying and addressing potential safety and security concerns.

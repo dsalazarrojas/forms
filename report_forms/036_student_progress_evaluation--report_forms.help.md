@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by instructors or educators to evaluate the progress of their students. The form is intended to be a simple and straightforward way to collect information about a student's current status in a particular subject area. It does not require any specific prior knowledge or technical expertise from the user. The form does not contain any sensitive or confidential information and can be used for general progress tracking purposes. This form is not intended for mass collection of data and will be used for individual student progress evaluations. The user will be able to complete the form in a few minutes, and the fields are designed to be easy to understand and fill out.
-</thinking>
-
 # Student Progress Evaluation - Help Guide
 ## Purpose
 This form is designed to collect information about a student's progress in a specific subject area.

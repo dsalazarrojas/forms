@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients for scheduling a free client consultation. This form is likely used by business or professional services to collect data from clients for meetings, appointments, or discussions. To ensure that the form is filled out correctly and efficiently, please review the following steps and explanations.
-
-This form is intended to be filled out by a client, and its purpose is to provide necessary information for scheduling a consultation. The form fields should not be filled out by the client multiple times, so please use a system to track and verify client submissions to prevent duplication. 
-</thinking>
-
 # free-client-consultation - Help Guide
 ## Purpose
 This form is used to gather information from clients for scheduling a free consultation. It collects data on the client's preferences for the meeting, including their name, schedule preferences, and language requirements.

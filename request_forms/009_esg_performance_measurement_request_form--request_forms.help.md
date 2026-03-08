@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning:
-The ESG Performance Measurement Request Form is designed to gather information about the environmental, social, and governance (ESG) performance of a company or organization. This form is intended to help the organization measure its ESG performance in a specific location and category. The form is not meant to be a comprehensive evaluation tool, but rather a request for information to support ESG reporting and analysis. To ensure accurate and relevant data, please fill out the form carefully and only submit it once. If you have already submitted a similar request, please do not submit again.
-
-</thinking>
-
 # ESG Performance Measurement Request Form - Help Guide
 ## Purpose
 The ESG Performance Measurement Request Form is a tool to gather information about the environmental, social, and governance (ESG) performance of a company or organization. It is intended to help the organization measure its ESG performance in a specific location and category.

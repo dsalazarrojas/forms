@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed for engineers and maintenance personnel to report their daily activities, including tasks they have completed, issues they have encountered, and other relevant details. The form is meant to be used for tracking and recording daily progress, and is used to provide insight into the current state of ongoing or completed tasks. This form is not meant to be used for tasks that are not related to engineering and maintenance activities.
-
-Before filling out this form, please ensure that you are reporting on tasks that are directly related to engineering and maintenance activities. 
-
-</thinking>
-
 # engineering_and_maintenance_daily_report_form - Help Guide
 ## Purpose
 This form is designed for engineers and maintenance personnel to report their daily activities, including tasks they have completed, issues they have encountered, and other relevant details.

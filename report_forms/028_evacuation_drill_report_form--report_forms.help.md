@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning: This form is for reporting details of an evacuation drill conducted by the organization. It is used for internal purposes and should only be filled out by authorized personnel. Please ensure that the form is filled out correctly and without duplication. If unsure, consult the relevant department. ...</thinking>
-
 # Evacuation Drill Report Form - Help Guide
 ## Purpose
 The Evacuation Drill Report Form is a document used to gather information about the details of an evacuation drill conducted by the organization. It is a crucial tool for tracking and improving emergency response procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for livestock sanitation support requests. The purpose of the form is to gather essential details about the issue at hand, such as farm information, animal count, animal type, and issue description. This information will be used to prioritize and provide appropriate support for the reported issue. Please ensure that you only complete this form if you have not already reported the issue and if it is not a recurring problem.
-</thinking>
-
 # Livestock Sanitation Support Request Form - Help Guide
 ## Purpose
 This form is used to report issues related to livestock sanitation, such as odors, waste management, or biosecurity concerns. Fill out this form to get assistance from our support team.

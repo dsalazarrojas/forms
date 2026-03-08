@@ -1,6 +1,3 @@
-<thinking> 
-  We are providing a form for drone release purposes. This form should be used to document the details of a drone release process. To ensure the form is used correctly, check if there are similar forms for similar releases and if the process is properly documented in other related forms. </thinking>
-
 # drone_release_form - Help Guide
 
 ## Purpose

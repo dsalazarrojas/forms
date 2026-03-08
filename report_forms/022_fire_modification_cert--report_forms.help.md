@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be a certification document for modifications to a fire, typically used in industries that involve fire safety or firefighting. This form is used to record and document modifications made to a fire, including the date and time of the modification, the status of the modification, and any additional details or signature of the individual making the modification.
-
-Before starting, please ensure that you are in the correct context to fill out this form. If you have already completed a modification cert for this fire, please do not attempt to submit this form again to avoid duplication.
-
-Please note that this form is intended for recording modifications to a fire, and the information provided will be used for certification purposes only. Any information entered into the form will be treated as accurate and true.
-
-This form is designed to be filled out by individuals who have made modifications to a fire, and is intended to be used for certification and reporting purposes.
-
-Please ensure that you have all necessary information before starting to fill out the form, and that you have permission to enter information on behalf of another individual if required.
-
-Please also be aware that if you need to modify or update existing information, please do not reuse the existing modification number. Instead, please submit a new modification cert form with the new information.
-
-Now, let's get started!
-</thinking>
-
 # Fire Modification Cert - Help Guide
 ## Purpose
 This form is a certification document for modifications made to a fire. It is used to record and document the date and time of the modification, the status of the modification, and any additional details or signature of the individual making the modification.

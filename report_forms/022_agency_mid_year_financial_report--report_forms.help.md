@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Agency Mid Year Financial Report" form. The form is used to provide a mid-year financial review for agencies, allowing them to report on their financial performance from January to June and provide projections for the rest of the year. 
-The form is typically required for agencies to ensure that they are on track to meet their financial goals and to identify areas for improvement. It is used by agency management and financial teams to analyze the financial data and make informed decisions.
-
-This guide will provide users with step-by-Step instructions on how to complete the form, and explain each field in detail to ensure that users understand the purpose and required information for each section.
-
-</thinking>
-
 # Agency Mid Year Financial Report - Help Guide
 
 ## Purpose

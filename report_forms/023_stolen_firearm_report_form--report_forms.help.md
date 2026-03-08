@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about firearm reports. It is likely used for law enforcement or administrative purposes to document and track firearm-related incidents or missing firearms. The form is titled "<string>".
-
-The form has multiple sections and fields for collecting details about the firearm, its location, and incident information. Each field has a label and a specific field type for collecting the required information.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The <string> form is used to collect information about firearm reports.

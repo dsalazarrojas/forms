@@ -1,21 +1,3 @@
-<thinking>
-Please note that the provided YAML defines a form with six fields: 
-  1. Form title
-  2. Category
-  3. Description
-  4. Remarks
-  5. Merchandiser Details
-  6. Related Product Info
-  7. Signature of the submitter
-
-These fields appear to be intended for collecting product information, possibly for inventory management or quality control purposes. The form might be used by merchandisers or suppliers to provide details about products, their categories, descriptions, and other relevant information. The "Signature of the submitter" field suggests that the form is meant to be filled out by someone who is physically signing to confirm their involvement in the process.
-
-Based on the provided form fields, it seems that this form is not intended for collecting sensitive or personal data. However, it's always a good idea to double-check that a form is not being used for anything sensitive or personally identifiable data.
-
-Before using this form, it is essential to review the form's purpose and intended use to ensure it aligns with your specific business needs. If you're unsure about any aspect of the form, please refer to your organization's data governance policies or contact the form's creator for further clarification.
-
-</thinking>
-
 # Product Aging Monitoring Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to report sales data for weekly sales periods. The form is designed to collect data on sales amount, sales channels, sales regions, sales managers, and other relevant details. The form is meant to be filled out for each week of sales data to provide an accurate and up-to-date picture of sales performance.
-The form is not to be filled out for duplicate or incorrect data. If you are unsure about filling out any of the fields, please reach out to your supervisor or support team for assistance.
-
-</thinking>
-
 # weekly_sales_report_form - Help Guide
 ## Purpose
 The "weekly_sales_report_form" is used to report sales data for weekly sales periods.

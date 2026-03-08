@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for reporting and tracking purposes, specifically for capturing data and information on a report form. It is designed to be used by end-users for submitting their reports in a standardized format. The form is called "Gof Eod Report" and is organized into multiple sections or pages. 
 
 To complete this form, the user will go through the following steps:

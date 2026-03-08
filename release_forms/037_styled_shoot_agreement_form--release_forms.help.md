@@ -1,7 +1,3 @@
-<thinking>
-The form "Styled Shoot Agreement Form" is used to capture information and agreements related to the usage of images from a styled shoot, a collaborative photography project between a photographer, planner, and other vendors. A styled shoot is a type of photo shoot that involves a collaborative effort between a photographer and planner to create a cohesive and styled look for a client. This form is designed to ensure that all parties involved in the shoot understand and agree on the usage of the images produced.
-</thinking>
-
 # Styled Shoot Agreement Form - Help Guide
 ## Purpose
 The Styled Shoot Agreement Form is used to capture information and agreements related to the usage of images from a styled shoot. This form is essential to ensure that all parties involved in the shoot understand and agree on the usage of the images produced.

@@ -1,12 +1,3 @@
-<thinking>
-This form seems to be designed for reporting machine failures, likely in an industrial or equipment-based context. The form appears to be asking about the predicted failure date and time, cause, and other related information about a machine. It also seems to be asking about maintenance details, including status, location, and duration. There is also a section for attachment-related information, such as file name, description, and comments. The form is likely used for predictive maintenance planning and management. It's not clear if this form is a template for reporting a single machine failure or if it's used for reporting multiple machine failures.
-
-Given the fields present in the form, it's likely that this form is used for reporting machine failures in a specific context. The fields seem to be designed to capture detailed information about the machine, maintenance, and submitter details. The form might be part of a broader asset management system or a predictive maintenance platform.
-
-This guide should cover the form's purpose, how to fill it out, and explanations for each field. It's essential to ensure the end-user understands the form's intent and how to use it effectively.
-
-</thinking>
-
 # Machine Failure Forecast Report Form - Help Guide
 
 ## Purpose

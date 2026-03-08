@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from the manufacturing process, specifically for output validation reports. The form is designed to gather details about batches, including batch ID, inspection results, quantity produced, and other relevant information.
-
-When filling out this form, please make sure to provide accurate and relevant information. The form is divided into several sections, each of which corresponds to a specific aspect of the manufacturing process.
-
-Before submitting the form, review the fields carefully to ensure that you are providing the correct information.
-
-</thinking>
-
 # manufacturing_output_validation_report - Help Guide
 ## Purpose
 The manufacturing_output_validation_report form is used to collect information from the manufacturing process for output validation reports.

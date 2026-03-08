@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to capture information about the daily shifts of employees, which can be used to track progress, monitor performance, and identify areas for improvement. To ensure accuracy and completeness, it's essential to complete this form carefully...</thinking>
-
 # Daily Shift Report Template - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's daily shifts, allowing for tracking of progress, performance monitoring, and identifying areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help project managers, team leaders, or other project stakeholders identify and analyze the key players involved in a project. The form is meant to provide a systematic way of classifying and assessing the interests, influences, and capacities of these stakeholders. This form can be used to prevent or mitigate potential conflicts and ensure that all stakeholders are engaged and informed throughout the project lifecycle. By using this form, project managers can ensure that they are taking a structured and well-considered approach to stakeholder engagement. Please review your project and ensure that this form does not overlap with other similar forms or processes already in use within your organization.
-</thinking>
-
 # Stakeholder Analysis Form - Help Guide
 ## Purpose
 The Stakeholder Analysis Form is designed to help project managers and team leaders to identify and analyze the key stakeholders involved in a project, their interests, influences, and capacities. This form serves as a tool to prevent or mitigate potential conflicts and ensure that all stakeholders are engaged and informed throughout the project lifecycle.

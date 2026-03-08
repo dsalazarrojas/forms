@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report instances of unauthorized debits to the bank's fraud department. It is intended to gather information about the suspicious debit activity to aid in the investigation and resolution of the issue.
-</thinking>
-
 # Unauthorized Debit Reporting Form - Help Guide
 ## Purpose
 The Unauthorized Debit Reporting Form is a tool for customers to report any instances of unauthorized debits on their accounts. Completing this form helps the bank's fraud department identify and investigate the issue.

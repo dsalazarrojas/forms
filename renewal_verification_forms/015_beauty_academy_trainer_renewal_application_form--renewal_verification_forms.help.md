@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for Beauty Academy Trainers to renew their licenses and continue teaching at the Academy. This form is a mandatory requirement for all trainers who wish to continue offering classes and training at the Academy. 
-
-The form is divided into several sections, each addressing different aspects of the trainer's renewal application. 
-
-Please ensure that you have completed this form accurately and thoroughly to avoid any issues with your renewal application.
-
-</thinking>
-
 # Beauty Academy Trainer Renewal Application Form - Help Guide
 ## Purpose
 

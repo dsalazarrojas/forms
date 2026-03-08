@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about an error that has occurred in the system. It's used for reporting bugs, issues, or problems that need to be addressed by the development team. The form will be used by system users to provide detailed information about the error, including a description, date, status, and other relevant details. The form should not be used for duplicate reports, so please ensure that a report is only submitted once for each error.
-
-</thinking>
-
 # Error Report Form - Help Guide
 ## Purpose
 The Error Report Form is used to gather information about errors that have occurred in the system. This form helps the development team to identify and resolve issues efficiently.

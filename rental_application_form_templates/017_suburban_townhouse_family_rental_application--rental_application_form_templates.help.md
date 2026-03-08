@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that this form is completed accurately and efficiently, let's first understand the purpose and requirements of the suburban townhouse family rental application form.
-
-This form is designed for families applying to rent a suburban townhouse. The form gathers information about the applicant's personal details, rental history, landlord references, pets, move-in and move-out dates, rent frequency, payment method, move-in status, rent amount, move-in and move-out fees, lease term, property type, and move-out status.
-
-Before completing the form, ensure that you have all the necessary documents and information ready to provide accurate and complete answers.
-
-</thinking>
-
 # suburban_townhouse_family_rental_application - Help Guide
 ## Purpose
 This form is designed for families applying to rent a suburban townhouse. It gathers information about the applicant's personal details, rental history, landlord references, pets, move-in and move-out dates, rent frequency, payment method, move-in status, rent amount, move-in and move-out fees, lease term, property type, and move-out status.

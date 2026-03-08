@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to collect information for clients to consent and provide necessary details for a safe and effective chair massage experience. The form asks for basic contact information, medical conditions, and previous experience with massage therapy, as well as specific consent and release of liability statements. This information will help the therapist tailor the massage experience to the client's needs and ensure their safety and comfort. Note that the form is required to be completed by the client, and the therapist will review and discuss the information provided before proceeding with the massage.</thinking>
-
 # Chair Massage Release Form - Help Guide
 ## Purpose
 

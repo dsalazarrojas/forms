@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a report on hospital outpatient volume, designed to collect data on visits, wait times, cancellations, and notes. The form likely serves a purpose in monitoring or analyzing the volume of outpatients visiting a hospital. However, further context or information about the specific use case of this form would be helpful to confirm its purpose. It is possible that this form is intended for quality control, administrative reporting, or other use cases related to outpatient volumes. Before proceeding with the guide, please ensure that this form indeed serves your intended purpose and does not duplicate any other existing reporting tools within your organization.
-</thinking>
-
 # Hospital Outpatient Volume Report - Help Guide
 ## Purpose
 The Hospital Outpatient Volume Report is a tool used to collect and monitor data on outpatients visiting a hospital. This report helps in understanding the volumes of visits, wait times, and cancellations, providing insights for quality control, administrative reporting, or other related purposes.

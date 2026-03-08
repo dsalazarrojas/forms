@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Student Progress Sheet Report Form is to collect and track student information and progress, allowing educators to monitor and analyze student performance over time. This form is used to record student attendance, progress, and other relevant details for each student. It may be used in various educational settings, such as schools, universities, or other institutions.
-
-Before using this form, ensure that you are not duplicating any existing reports or data collection efforts, and that you have the necessary permissions and authorization to access or modify student information.
-
-</thinking>
-
 # Student Progress Sheet Report Form - Help Guide
 ## Purpose
 The Student Progress Sheet Report Form is used to collect and track student information and progress for educational purposes.

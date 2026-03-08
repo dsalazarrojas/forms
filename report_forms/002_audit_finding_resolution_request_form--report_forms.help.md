@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Audit Finding Resolution Request Form," we must first understand its purpose and relevance. 
-This form is designed to facilitate the resolution of internal audit findings, which are issues or problems identified during an audit process. 
-The form is meant to be completed by auditors or reporters to provide information about the finding, such as its ID, description, and proposed resolution date. 
-The form should not be used to report new findings, but rather to update the status of existing ones. 
-The form is meant to be used by the department responsible for resolving the finding, such as Finance, Operations, IT, Legal, or HR. 
-Each department should only complete one form per finding, unless the finding is being transferred to another department. 
-The form should not be used to duplicate or update findings that have already been resolved.
-
-</thinking>
-
 # Audit Finding Resolution Request Form - Help Guide
 ## Purpose
 The "Audit Finding Resolution Request Form" is used to update the status of internal audit findings. 

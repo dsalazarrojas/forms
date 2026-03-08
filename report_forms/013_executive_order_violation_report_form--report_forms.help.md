@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to report an executive order violation, which is a report submitted to document an incident where an executive order has been violated. This form is meant to be completed by an individual who wishes to report such an incident, and is used to gather information about the incident, including details about the complainant, the violation, and any relevant contact or address information. To prevent duplication of reports, this form will likely be checked against existing reports before submission, ensuring that each report is unique and not a duplicate.
-
-This form is used to gather information about an executive order violation and will likely be reviewed by relevant authorities or personnel. The form is not intended to be a formal complaint form, but rather a report that can be used to help identify and address potential issues related to the executive order.
-
-</thinking>
-
 # Executive Order Violation Report Form - Help Guide
 ## Purpose
 The Executive Order Violation Report Form is used to report an incident where an executive order has been violated. This form is meant to be completed by an individual who has witnessed or experienced the violation.

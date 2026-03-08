@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from customers seeking a loan. The form is designed to collect contact and financial information from customers, which will be used to assess their eligibility for a loan. The fields are meant to capture essential details such as name, contact number, address, email, and financial history. This form should be filled out by customers who are applying for a loan, but it is not intended for other purposes. Please ensure that the form is filled out correctly and accurately to avoid any delays or issues with the loan application process.
-
-</thinking>
-
 # Letter Of Undertaking - Help Guide
 ## Purpose
 This form is designed to collect information from customers seeking a loan, including contact and financial details.

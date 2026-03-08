@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quarterly Financial Performance Report - Help Guide
 
 ## Purpose

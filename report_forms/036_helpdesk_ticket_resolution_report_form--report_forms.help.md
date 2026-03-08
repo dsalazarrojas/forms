@@ -1,7 +1,3 @@
-<thinking>
-This guide will be helpful in ensuring that users understand the context and purpose of the "Helpdesk Ticket Resolution Report Form". To avoid duplication of effort, this report form is meant for capturing key information and metrics about helpdesk tickets that have been resolved. The form will be used to gather details about tickets, including the support team that resolved them, the customer's name and contact information, and the resolution date and time. Additionally, the form will capture information about the case type, ticket status, and any submitted goals, objectives, actions, and results related to the ticket.
-</thinking>
-
 # Helpdesk Ticket Resolution Report Form - Help Guide
 ## Purpose
 This guide explains the purpose of the Helpdesk Ticket Resolution Report Form, which is used to capture key information and metrics about resolved helpdesk tickets.

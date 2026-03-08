@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a report form designed to capture information about time and effort related to federal grants. To ensure accuracy and compliance, it's essential to complete this form correctly.
-</thinking>
-
 # Time And Effort Reporting Form For Federal Grants - Help Guide
 ## Purpose
 The Time And Effort Reporting Form for Federal Grants is a report form designed to capture information about time and effort related to federal grants. This form helps grant recipients provide accurate and compliant reports to their sponsors.

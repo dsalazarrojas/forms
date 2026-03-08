@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect leave request information from employees. It is meant to gather data on when employees are requesting to leave, type of leave, and contact details for their manager and HR department. Please ensure this form is used for legitimate leave requests and not for testing purposes. Ensure that you're not submitting duplicate requests.
-
-</thinking>
-
 # Leave Request Form - Help Guide
 ## Purpose
 The Leave Request Form is a tool used to submit leave requests to the HR department. It is used to collect essential information for processing leave requests.

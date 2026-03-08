@@ -1,23 +1,3 @@
-<thinking>
-To determine the purpose and scope of this form, let's analyze the input YAML. The "Kitchen Operations Checklist" form appears to be a collection of various checklists and reports related to kitchen operations. It encompasses multiple sections, including:
-- Kitchen equipment status
-- Cleaning schedule and supplies
-- Kitchen tools and their condition
-- Operations status and comments
-- Assignments and completion dates
-
-This form likely serves as a centralized platform for kitchen staff to report on the status of kitchen equipment, cleaning, and operations. It provides an overview of the current state of the kitchen, allowing for efficient tracking and management of kitchen operations.
-
-Upon reviewing the form fields, we can infer the following:
-- The form allows users to select the status of kitchen equipment, cleaning schedule, and tools.
-- It provides options for users to report on the completion status of kitchen operations, such as pre-opening, pre-service, post-service, and pre-closing tasks.
-- Users can input the assigned date and closed date for each task.
-- The form includes fields for users to provide additional notes and comments.
-- It allows users to report on the condition of tools and equipment.
-- Users can track the maintenance requirements for tools and equipment.
-
-Before we proceed, let's confirm that this form serves the intended purpose and scope. Please review the above analysis and let us know if it aligns with your expectations or if you'd like to make any changes.</thinking>
-
 # Kitchen Operations Checklist - Help Guide
 ## Purpose
 The "Kitchen Operations Checklist" form is a centralized platform for kitchen staff to report on the status of kitchen equipment, cleaning, and operations. It allows for efficient tracking and management of kitchen activities.

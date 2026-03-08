@@ -1,14 +1,3 @@
-<thinking>
-The "Rent Certificate Form" is a document intended to record and document rental payments between a landlord and a tenant. This form will serve as a record of payment history and can be used for accounting and tax purposes.
-
-To avoid any confusion, this form will only be used for rental payments that are currently due or have been made in the past. It should not be used for future rental payments that have not yet been made.
-
-This form is not intended to be a substitute for any official government or legal documents, but rather a record-keeping tool for the landlord to track rental income and expenses.
-
-The fields on this form are designed to provide a clear and concise record of the payment transaction. The form will be used to gather information such as the tenant's name, rental address, and payment details.
-
-The form may not be completed if the rental income is not yet due or has been already fully paid. Please ensure that all required fields are filled out accurately and completely to ensure the form is usable for its intended purpose.</thinking>
-
 # Rent Certificate Form - Help Guide
 ## Purpose
 The "Rent Certificate Form" is a document used to record and document rental payments between a landlord and a tenant.

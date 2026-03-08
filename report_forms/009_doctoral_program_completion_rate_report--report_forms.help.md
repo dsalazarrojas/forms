@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information on the completion status of doctoral program graduates, including details about the university, program, and graduate. This report is likely used to track the progress and outcomes of doctoral programs within an institution or organization. The form should only be completed for actual graduates, not for current students.
-
-Before filling out this form, ensure you have all the necessary information and approvals to avoid duplication of effort.
-
-</thinking>
-
 # Doctoral Program Completion Rate Report - Help Guide
 ## Purpose
 The Doctoral Program Completion Rate Report is used to track the completion status of doctoral program graduates, providing essential data for institutional or organizational decision-making and evaluation.

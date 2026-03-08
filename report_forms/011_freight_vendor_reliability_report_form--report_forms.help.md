@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the reliability of freight vendors, allowing users to provide information on past shipments and assess the performance of different vendors. The form will help users identify patterns and trends in vendor performance, which can inform future business decisions. To avoid duplication, users should only submit one report per shipment ID. If you're unsure whether to fill out this form, please check with your supervisor or contact our support team.
-</thinking>
-
 # Freight Vendor Reliability Report Form - Help Guide
 ## Purpose
 This form is used to report on the reliability of freight vendors for past shipments. The data collected will help identify patterns and trends in vendor performance.

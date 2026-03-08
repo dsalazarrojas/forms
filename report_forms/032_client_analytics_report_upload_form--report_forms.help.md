@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for clients to upload their analytics data for reporting purposes. The form is likely used by clients to submit their analytics reports for the current reporting period, which could be monthly, quarterly, or annual. The form asks for basic contact information such as client name and email, as well as details about the report they are uploading, including the analytics platform used, the type of report, and any specific anomalies or concerns. The form also asks about the possibility of scheduling a follow-up meeting to review the data in more detail.
-</thinking>
-
 # Client Analytics Report Upload Form - Help Guide
 ## Purpose
 This form is designed to collect analytics data from clients for reporting purposes. It allows clients to upload their reports for the current reporting period, which can be monthly, quarterly, or annual. The form helps our analysts to review and analyze the data efficiently.

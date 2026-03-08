@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect daily end of day reports from users, gathering essential information about their activities, time spent, and other relevant details. The form helps in tracking and recording daily progress, providing a structured format for users to report their tasks, meetings, and interactions. This form should be used only once a day, ideally at the end of the workday, to ensure accurate and consistent reporting.
-
-</thinking>
-
 # Daily Eod Report Form - Help Guide
 ## Purpose
 The Daily Eod Report Form is a tool for users to report their daily activities, time spent, and other relevant details. This form is designed to be completed once a day, at the end of the workday.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used for recording pesticide applications, including dates, locations, product details, and other relevant information. This form helps track and manage pesticide usage across different farms, pest control services, or grounds crews. The form fields are designed to collect specific data points related to each application, such as date, location, and product used. This form is meant to be filled out for each individual application and is not meant to be a duplicate entry, so please fill this form once for each application.
-
-</thinking>
-
 # Pesticide Application Record - Help Guide
 
 ## Purpose

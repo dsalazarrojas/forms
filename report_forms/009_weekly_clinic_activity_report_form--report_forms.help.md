@@ -1,11 +1,3 @@
-<thinking>
-This form is for reporting activities that occur on a weekly basis within a clinic setting. The form is used to document and track activities that need to be reported and followed up on. 
-
-To complete this form, you will need to provide information about the category of the activity, a brief description of what happened, the date and time of the activity, any notes about the activity, and who it was assigned to. 
-
-This form is a required field for reporting certain types of activities, so please make sure to fill it out completely and accurately.
-</thinking>
-
 # weekly_clinic_activity_report_form - Help Guide
 ## Purpose
 The "weekly_clinic_activity_report_form" is a form used to report activities that occur on a weekly basis within a clinic setting. It is used to document and track activities that need to be reported and followed up on.

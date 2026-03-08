@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Institutional Data Access Request Form - Help Guide
 ## Purpose
 The Institutional Data Access Request Form is a form used to collect information about the requester's details, the purpose of their request, and the data they are interested in accessing. It is used to help the institutional data access team review and process requests in a timely and efficient manner.

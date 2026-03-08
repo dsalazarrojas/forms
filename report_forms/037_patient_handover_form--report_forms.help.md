@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information about a patient being handed over to another healthcare professional or department. This form helps to ensure a smooth handover process and reduces errors by providing a standardized and concise way of capturing essential patient details.
-</thinking>
-
 # Patient Handover Form - Help Guide
 ## Purpose
 The Patient Handover Form is used to gather information about a patient being transferred to another healthcare professional or department. This form serves as a standardized template to ensure that critical patient information is accurately and efficiently communicated during the handover process.

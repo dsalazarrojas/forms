@@ -1,11 +1,3 @@
-<thinking> 
-  This form is a tool for end-users to provide details about marketing tasks, such as task type, priority, status, and description. 
-  The purpose of this form is to collect and organize information about marketing tasks, helping users to quickly and easily track and report on their progress. 
-  It is essential to fill out the form accurately and consistently to ensure that the data provided is reliable and can be used for data analysis and decision-making. 
-  Please ensure that you do not fill out this form more than once for any given task, as this can lead to data duplication and errors in analysis. 
-  If you have any questions or concerns about filling out this form, please reach out to the responsible team member or the help desk. 
-</thinking>
-
 # Marketing Task Details Form - Help Guide
 ## Purpose
 This form is designed to collect and organize information about marketing tasks, allowing users to easily track and report on their progress.

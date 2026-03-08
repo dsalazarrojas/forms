@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Root Cause Analysis Form, let's break down the form's purpose and fields to ensure clarity and conciseness.
-
-The Root Cause Analysis Form is designed to help users identify and address issues in a structured and organized manner. This form is intended to gather necessary information to facilitate the root cause analysis process. It appears that the form is primarily used for issue tracking and management, which involves identifying the root cause of an issue, recommending solutions, and outlining next steps. The fields on this form seem to be a mix of general information (name, issue description, cause of the issue, recommended solution, and next steps), issue status, issue priority, and team assignments.
-
-Given the fields and their descriptions, it's likely that this form will be used by team members or team leaders to collaborate on issue resolution and management within the organization.
-
-</thinking>
-
 # Root Cause Analysis Form - Help Guide
 ## Purpose
 The Root Cause Analysis Form is designed to help users identify and address issues by gathering necessary information for root cause analysis and issue resolution.

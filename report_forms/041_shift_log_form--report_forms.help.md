@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for logging and reporting on shifts. Shifts are periods of time worked by employees, typically during work hours. This form is likely to be used by employees to report their shift hours, break times, and any relevant comments or notes. The fields in this form are designed to gather information on the shift dates, start and end times, break times, and duration, as well as any additional notes or comments.
-</thinking>
-
 # Shift Log Form - Help Guide
 ## Purpose
 This form is used for logging and reporting on shifts. Shifts are periods of time worked by employees, typically during work hours.

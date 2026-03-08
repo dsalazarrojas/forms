@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about equipment pressure tests, including general information, equipment details, test results, test conditions, and user information. It's meant to be filled out by personnel who conduct or oversee pressure testing, such as technicians or engineers. The form should not be used for other purposes, such as general reporting or documentation. 
-</thinking>
-
 # Equipment Pressure Test Report Form - Help Guide
 ## Purpose
 This form is used to record and document the results of equipment pressure tests. It provides a structured approach to collecting relevant information about each test, ensuring consistency and accuracy in recording pressure testing data.

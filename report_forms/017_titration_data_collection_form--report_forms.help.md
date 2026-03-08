@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data for titration experiments. The primary purpose of the form is to gather information about the experiment, the equipment used, and any additional details that might be relevant. This form is intended to be used by researchers and scientists to collect data for their research purposes. To ensure that the correct data is being collected, please review the form carefully before submitting your responses.
-
-</thinking>
-
 # Titration Data Collection Form - Help Guide
 ## Purpose
 This form is used to collect data for titration experiments.

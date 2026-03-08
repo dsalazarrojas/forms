@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Readiness Consulting Request Form - Help Guide
 
 ## Purpose

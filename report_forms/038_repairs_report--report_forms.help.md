@@ -1,5 +1,3 @@
-<thinking>...This form is designed to report and track site repair activities, including date, description, status, and related details. The form is intended for site managers, engineers, or supervisors to report and update site repair information, ensuring accurate tracking and record-keeping. Before completing this form, ensure that you have the necessary permissions and access rights to report site repair activities. Also, please note that fields marked as "required" are mandatory and need to be filled out. If you're unsure about a particular field, please refer to the field-by-field explanation below for further guidance... </thinking>
-
 # Repairs Report - Help Guide
 ## Purpose
 The Repairs Report form is designed to record and track site repair activities, providing a centralized platform for site managers, engineers, and supervisors to report and update site repair information.

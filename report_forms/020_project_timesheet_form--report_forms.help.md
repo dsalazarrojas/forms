@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about a project and task, including its title, description, estimated start and end dates, task status, project status, task priority, and resource name. This form is used to track and manage projects and tasks, allowing users to keep a record of their progress and status. 
 
 This form should only be used for projects and tasks that require tracking and management, and should not be used to collect unnecessary or duplicate information.

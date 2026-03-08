@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Return Label Activation Request Form - Help Guide
 ## Purpose
 The Return Label Activation Request Form is used to activate a return label for a customer. This form requires information about the order details, return reasons, and customer contact information. The form helps the customer service team to process the return request efficiently.

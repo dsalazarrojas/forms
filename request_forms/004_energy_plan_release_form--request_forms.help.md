@@ -1,13 +1,3 @@
-<thinking>Internal reasoning:
-
-The Energy Plan Release Form is used to collect information from requestors about their energy plans. This form is typically used in conjunction with energy-related services, such as energy efficiency audits or energy efficiency programs. The form helps ensure that the requestor's information is accurate and complete, and that their energy plan is properly released. It's essential that the form is filled out correctly to avoid any discrepancies or misunderstandings.
-
-Before starting, please note that this form requires all mandatory fields to be filled out. If any field is left blank, the form will not be submitted.
-
-Please make sure to fill out the form with accurate information to avoid any errors or delays in the process.
-
-</thinking>
-
 # Energy Plan Release Form - Help Guide
 
 ## Purpose

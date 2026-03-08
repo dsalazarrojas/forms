@@ -1,5 +1,3 @@
-<thinking>...This form is used to document and report construction accidents, ensuring that necessary information is collected for incident investigation, risk assessment, and compliance with regulatory requirements. It is essential to complete this form accurately and thoroughly to help prevent future accidents and improve site safety. Please ensure you're not filing duplicate reports for the same incident...</thinking>
-
 # Construction Accident Report Form - Help Guide
 ## Purpose
 This form is used to document and report construction accidents, ensuring that necessary information is collected for incident investigation, risk assessment, and compliance with regulatory requirements.

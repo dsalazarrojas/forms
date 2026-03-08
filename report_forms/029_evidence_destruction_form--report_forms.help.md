@@ -1,6 +1,3 @@
-<thinking>
-We need to check if the form purpose and fields are clear and relevant. The form is called "evidence_destruction_form" and it seems to be related to submitting evidence for destruction. It has various fields that collect information about the submitter, including their name, email, phone number, and address. The form also has fields for the submitter's department, position, and date and time of submission. The fields are mostly related to collecting contact and logistical information, suggesting that the purpose of the form is to facilitate the submission and collection of evidence for destruction. However, we should double-check that the fields are accurate and complete, as the form seems to be missing some crucial fields for a typical destruction evidence submission form.</thinking>
-
 # evidence_destruction_form - Help Guide
 ## Purpose
 The "evidence_destruction_form" is used to submit evidence for destruction. This form collects information about the submitter, including their contact details and logistical information. This form helps facilitate the submission and collection of evidence for destruction.

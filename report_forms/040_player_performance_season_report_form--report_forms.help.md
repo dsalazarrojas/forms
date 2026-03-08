@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended to collect data on player performance during a season, including details such as player ID, coach ID, season start date, and game statistics. It also collects data on game outcomes, team ratings, and player ratings. The form is designed to be filled out by a coach or staff member to report on the performance of players in different games and seasons.
-Please make sure to review the form carefully and ensure that all required fields are filled out accurately. 
-Duplicate or missing data might lead to incorrect analysis or report generation.
-</thinking>
-
 # Player Performance Season Report Form - Help Guide
 
 ## Purpose

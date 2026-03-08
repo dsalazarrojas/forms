@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees or managers to submit buyout payment requests to HR or Finance. It's intended for internal use and should not be completed by external parties, such as customers or partners. Please ensure you only submit a request when you're certain about the accuracy of the information and that you have the necessary permissions to do so. If you're unsure, it's best to contact HR or Finance directly for guidance.
-</thinking>
-
 # Buyout Payment Request Form - Help Guide
 
 ## Purpose

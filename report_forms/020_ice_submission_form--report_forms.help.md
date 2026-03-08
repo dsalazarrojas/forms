@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about incidents that require reporting. It is meant to be filled out by personnel who encounter or become aware of an incident, and will be used to record and track the incident's details.
-The information collected in this form will be used to assess the incident's severity and priority, and to determine the next steps for handling it.
-Before proceeding, ensure the incident being reported is not a duplicate and that you are filling out the correct form (this one: "ice_submission_form") for the incident in question.
-</thinking>
-
 # ice_submission_form - Help Guide
 ## Purpose
 The "ice_submission_form" is a form used to collect and record incident details for reporting and tracking purposes.

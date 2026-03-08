@@ -1,5 +1,3 @@
-<thinking>...check if this form is relevant and not duplicated for this purpose... form purpose is to collect data about smart meter inspections... this form is not a general purpose form but a specific one for meter inspections... will focus on providing a clear and concise help guide to ensure end-users complete it correctly...</thinking>
-
 # Smart Meter Accuracy Report Form - Help Guide
 ## Purpose
 The Smart Meter Accuracy Report Form is used to collect data about smart meter inspections, ensuring that meters are accurately recording consumption data. This form helps identify potential errors or discrepancies in meter readings and ensures that meters are functioning correctly.

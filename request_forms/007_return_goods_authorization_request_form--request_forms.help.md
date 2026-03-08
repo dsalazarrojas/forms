@@ -1,8 +1,3 @@
-<thinking>
-This guide helps ensure the form is only used for legitimate return purposes and avoids duplicate requests.
-This form must be used to process customer requests for returning goods due to defects or other issues, not for other reasons.
-</thinking>
-
 # Return Goods Authorization Request Form - Help Guide
 ## Purpose
 This form is used to facilitate the process of returning goods due to defects or issues. Fill out this form to request authorization to return goods.

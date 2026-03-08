@@ -1,8 +1,3 @@
-<thinking>
-This form is a "Product Launch Press Release Template" designed to facilitate the creation of press releases for product launches. The goal is to gather information about the product launch in order to create a well-structured press release. Please ensure that you are using this form for its intended purpose and not duplicating efforts.
-
-</thinking>
-
 # Product Launch Press Release Template - Help Guide
 
 ## Purpose

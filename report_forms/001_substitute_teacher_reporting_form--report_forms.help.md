@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide instructions on how to complete the Substitute Teacher Reporting Form. This form is used for reporting on the details of a substitute teacher's presence at a school, including information about students who were taught, any issues or concerns, and relevant notes from the lesson. The form is intended for completed by substitute teachers who need to report on their day's activities and experiences while teaching in place of regular teachers. Before completing this form, ensure that it is not a duplicate report, as this form is for reporting on a single day's activities only.
-</thinking>
-
 # Substitute Teacher Reporting Form - Help Guide
 ## Purpose
 The Substitute Teacher Reporting Form is used to report on the details of a substitute teacher's presence at a school, including information about students, any issues or concerns, and relevant notes from the lesson.

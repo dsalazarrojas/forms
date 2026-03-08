@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning to ensure the form is complete and not redundant. This form is likely to be used to help customers or clients assess their financial situation, identify their income, expenses, assets, liabilities, and other key financial metrics. The form also seems to include questions about cash flow, risk assessment, potential need for a financial planner, next steps, contact information, and notes. The "signature" field at the end suggests that the form is meant to be filled out by a human, possibly by a financial advisor or planner. It's possible that this form is used for internal financial planning purposes within an organization or company. The "review" and "financial_needs_analysis" fields may be used to track the status of the financial assessment or review process. The form appears to be comprehensive, but a few fields are not clearly defined (e.g. "cashflow" and "risk_assessment" are likely asking about financial stability, but it's not explicitly stated). This guide will aim to clearly explain each field to the user...</thinking>
-
 # Financial Needs Analysis Form - Help Guide
 
 ## Purpose

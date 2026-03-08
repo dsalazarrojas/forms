@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by incident responders to report and manage security incidents, providing a structured format for capturing details such as incident summary, urgency, and status.
-The form is meant to be completed by the reporter of the incident, and will help to track and prioritize incident reports.
-Each field in the form corresponds to a different aspect of the incident, and must be completed accordingly.
-</thinking>
-
 # Cybersecurity Alert Release Form - Help Guide
 ## Purpose
 The Cybersecurity Alert Release Form is used to report and manage security incidents, providing a structured format for capturing details and tracking progress.

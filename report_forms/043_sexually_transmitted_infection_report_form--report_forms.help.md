@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's sexually transmitted infection (STI) report. The form will help healthcare professionals gather essential data about the patient's symptoms, diagnosis, and treatment plan. 
-
-This form should only be filled out after a patient has been diagnosed with an STI, and only if the patient has agreed to share their information with the healthcare provider. The form may be used for internal purposes such as tracking patient data or for research purposes. 
-
-Before filling out this form, please ensure that you have obtained the patient's consent to share their information and that you are authorized to access this form for your intended purpose.
-
-</thinking>
-
 # sexually_transmitted_infection_report_form - Help Guide
 ## Purpose
 The Sexually Transmitted Infection Report Form is a tool for healthcare professionals to collect information about a patient's STI diagnosis and treatment. 

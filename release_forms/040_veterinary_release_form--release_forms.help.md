@@ -1,10 +1,3 @@
-<thinking>
-  The Veterinary Release Form is designed to collect information about a pet's medical history and treatment plan, including owner contact information, medical conditions, and authorization details. 
-  This form is typically used for veterinary clinics to gather necessary information about a pet's medical history and treatment plan when an owner is releasing their pet to a new caregiver or hospital. 
-  To ensure accurate and complete information, please make sure to fill out this form carefully and provide any relevant medical history or treatment details. 
-  This form should not be used for any other purpose.
-</thinking>
-
 # Veterinary Release Form - Help Guide
 ## Purpose
 The Veterinary Release Form is designed to collect information about a pet's medical history and treatment plan when an owner is releasing their pet to a new caregiver or hospital.

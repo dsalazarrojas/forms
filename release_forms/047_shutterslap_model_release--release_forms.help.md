@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the "shutterslap_model_release" form. This form is used to collect information for model releases and property releases in the context of shutterstock model releases. The form has a specific set of fields that need to be completed for each release type. It's essential to fill out the form accurately and according to the guidelines below to ensure the release process is completed correctly. If you're unsure about any field or have already submitted a release for the same model, please contact support for clarification. Please make sure to fill out each field correctly and accurately, and that you've completed all required fields before submitting the form.
-</thinking>
-
 # shutterslap_model_release - Help Guide
 ## Purpose
 The shutterslap_model_release form is used to collect model release and property release information for shutterstock models. Please fill out the form for each release type accordingly to ensure accurate and complete release data.

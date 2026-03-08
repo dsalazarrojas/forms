@@ -1,12 +1,3 @@
-<thinking>
-This form is a report form designed to track and report on daily leads. The purpose of this form is to gather information on the status and progress of leads, which is crucial for the sales team to make informed decisions and prioritize their actions. 
-
-Before filling out this form, please ensure that you are filling out the correct form for your specific situation and that the information you provide is accurate and relevant. If you are unsure, please reach out to your supervisor or team lead for clarification. 
-
-Please note that the form is divided into several sections, and each field is explained below. 
-
-</thinking>
-
 # daily_leads_report_form - Help Guide
 ## Purpose
 This form is used to track and report on daily leads, providing essential information for the sales team to make informed decisions and prioritize their actions.

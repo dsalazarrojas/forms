@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a clubhouse rental application. The form is intended to be used by individuals or groups seeking to rent the clubhouse for events or gatherings. The form asks for the applicant's name, contact information, event details, and other related information to ensure a smooth and successful rental process. 
-
-To prevent potential misuse of the form, ensure that the form is only used for legitimate purposes. Duplicate applications should be avoided to prevent overcrowding and potential conflicts. 
-
-Please note that the form requires accurate and complete information to process the application effectively. Incomplete applications will not be processed.
-
-</thinking>
-
 # Clubhouse Rental Application Form - Help Guide
 ## Purpose
 The Clubhouse Rental Application Form is designed to collect information for a clubhouse rental application. It is used by individuals or groups planning events or gatherings at the clubhouse.

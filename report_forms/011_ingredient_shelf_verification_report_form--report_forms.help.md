@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information related to ingredient verification, which is a critical process in ensuring food safety and quality. The form is designed to be used by employees in the production or inventory management teams to report on the condition of ingredient shelves and any corrective actions taken. This process helps maintain accurate inventory records and minimizes potential health risks associated with expired or spoiled ingredients. To ensure accurate completion, please verify that you are filling this form for a specific ingredient shelf and not duplicating information already collected.
 
 # Ingredient Shelf Verification Report Form - Help Guide

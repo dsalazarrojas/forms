@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for Rheumatology Clinic staff to report on their monthly patient visits. It captures essential information about patient visits, including name, visit date, condition, treatment, and medical notes. The form aims to standardize data collection and improve the accuracy of medical records.
-
-Before filling out this form, please ensure you have the necessary permission to access and report on patient data. If you're unsure, please reach out to the relevant authorities or superiors.
-
-The form is divided into multiple pages, each with its own set of fields. Please complete the form in the following order:
-
-* Page 1: Patient Name
-* Page 2: Visit Date
-* Page 3: Patient Condition, Patient Treatment
-* Page 4: Doctor Signature, Medical History, Medication
-* Page 5: Medical Notes, Patient ID
-
-</thinking>
-
 # Rheumatology Clinic Monthly Report Form - Help Guide
 
 ## Purpose

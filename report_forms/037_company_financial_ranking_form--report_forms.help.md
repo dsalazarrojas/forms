@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is a financial ranking system to evaluate company performance based on several key metrics, focusing on financial health and stability. To be eligible, please ensure that your company's financial data is comprehensive and up-to-date. Additionally, please ensure that the data provided is accurate and verified to avoid any misrepresentation. This form is not intended for promotional purposes, and any misrepresentation of data will be considered a serious offense. Please complete this form with the utmost care and attention to detail to ensure the integrity of the ranking process.
-</thinking>
-
 # Company Financial Ranking Form - Help Guide
 ## Purpose
 The Company Financial Ranking Form is designed to evaluate company performance based on several key financial metrics. This form is used to collect and compare data from various companies in the industry, providing insights into their financial health and stability.

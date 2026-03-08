@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended for users to reserve a rental space within a community center. It collects information about the renter, the rental details, and the financial aspects of the agreement. The purpose of this form is to ensure that the community center has the necessary information to manage the rental process efficiently and effectively. This form is not intended for internal use and is meant to be filled out by external users.
-
-The form is divided into five sections: Renter Details, Rental Details, Financial Details, Rental Agreement and Terms, and a final section for signatures and approvals. The form requires the renter's name, email, phone number, address, type of event or activity, date and time of the event, estimated number of attendees, preferred payment method, and other relevant details. The form also includes a digital signature field for the renter to sign and agree to the terms of the rental agreement.
-
-This form should be filled out accurately and thoroughly to ensure that the community center has the necessary information to process the rental request. The form is not intended for repeat or duplicate entries, and any duplicate entries may lead to confusion and errors in the rental process.
-
-</thinking>
-
 # Community Center Rental Hall Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from renters to reserve a rental space within a community center. The form ensures that the community center has the necessary details to manage the rental process efficiently and effectively.

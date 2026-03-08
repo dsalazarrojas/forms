@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a repair estimation quote. This form will be used to gather details about the customer, their contact information, job details, repair information, and an estimate of the costs involved. This form will help the repair service provider to get a clear understanding of the customer's needs and provide an accurate estimation of the repair costs. 
-The form is designed to be flexible and not mandatory, allowing the customer to provide as much or as little information as they feel necessary. However, it's recommended that they provide as much information as possible to ensure that the repair service provider can give an accurate estimation. 
-
-This form will not be submitted to any external platform, but rather will be used internally as a starting point for the repair estimation process. 
-
-Please use this form as a base and feel free to customize it as per your specific requirements.
-</thinking>
-
 # Repair Estimation Quote Form - Help Guide
 ## Purpose
 The Repair Estimation Quote Form is designed to collect information from customers for a repair estimation quote. This form will help you get a clear understanding of the customer's needs and provide an accurate estimation of the repair costs.

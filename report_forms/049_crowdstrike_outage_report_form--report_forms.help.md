@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report an outage on a service, providing details about the impact, duration, cause, and resolution of the outage. The form is designed to be completed by the person reporting the outage, and it collects information that will help the team lead and customer service team understand the situation and take necessary steps to resolve it.
-This form is intended to be used for both internal and external reporting, and it allows users to select whether the outage is reported by phone or email.
-</thinking>
-
 # Crowdstrike Outage Report Form - Help Guide
 ## Purpose
 This form is used to report an outage on a service, providing details about the impact, duration, cause, and resolution of the outage.

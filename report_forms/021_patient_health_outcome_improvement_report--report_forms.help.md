@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for tracking and documenting patient health outcomes, possibly for quality improvement or patient safety initiatives. It may be used by healthcare professionals to monitor patient progress, identify areas of improvement, and make data-driven decisions. I will ensure that the form is explained in a clear and concise manner to help end users understand its purpose and usage.
-
-</thinking>
-
 # Patient Health Outcome Improvement Report - Help Guide
 
 ## Purpose

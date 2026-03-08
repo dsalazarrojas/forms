@@ -1,7 +1,3 @@
-<thinking> 
-This form is used for requesting an allergen management review. The purpose of this form is to gather information about a potential allergen issue and ensure that all necessary steps are taken to review and manage the issue effectively. Before filling out the form, please ensure that you have checked the system for any existing requests with the same Request ID. If you are unsure or have any questions, reach out to the relevant team members for guidance. Ensure that you have all relevant documentation and information attached to the form before submitting it.
-</thinking>
-
 # Allergen Management Review Request Form - Help Guide
 ## Purpose
 The Allergen Management Review Request Form is used to request a review of an allergen issue. This form helps to gather information, coordinate resources, and ensure a thorough investigation and review process.

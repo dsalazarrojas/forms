@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Referee Evaluation Form, ensuring that they can fill it out correctly and accurately. This form is designed to gather evaluations from evaluators on a referee's performance during a game. 
-
-This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. It will also provide additional tips for users to keep in mind while filling out the form.
-
-</thinking>
-
 # Referee Evaluation Form - Help Guide
 ## Purpose
 The Referee Evaluation Form is used by evaluators to assess a referee's performance during a game. This form is essential for evaluating a referee's abilities, such as their decision-making, communication, and overall performance. It will help in identifying areas of improvement and provide valuable feedback to the referee.

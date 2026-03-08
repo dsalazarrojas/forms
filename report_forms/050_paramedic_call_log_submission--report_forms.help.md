@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll guide you through the process of creating a user-facing help guide for the Paramedic Call Log Submission form.</thinking>
-
 # Paramedic Call Log Submission - Help Guide
 ## Purpose
 The Paramedic Call Log Submission form is designed to collect information about paramedic calls, including incident dates, patient details, interventions, and outcomes. This form will help paramedics document their calls in a standard format, making it easier to review and analyze incident data.

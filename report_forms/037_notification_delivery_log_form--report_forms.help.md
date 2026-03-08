@@ -1,9 +1,3 @@
-<thinking>
-
-I need to create a user-facing help guide for the "report_forms" category with the provided YAML inputSchema. The form has several fields, including text, date, time, select_one, and other types. I'll explain each field in a way that's concrete, concise, and practical.
-
-</thinking>
-
 # Notification Delivery Log Form - Help Guide
 ## Purpose
 This form is used to track and record notifications, including the recipient's information, notification details, and follow-up status. It helps in monitoring and managing notifications for follow-up actions.

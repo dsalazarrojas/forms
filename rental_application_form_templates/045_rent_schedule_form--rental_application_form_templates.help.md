@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rent_schedule_form - Help Guide
 ## Purpose
 This form is designed to collect information for creating a rent schedule. It is intended for individuals seeking to create a rental agreement with a landlord. The purpose of this form is to gather the necessary details for the rental arrangement, including the tenant's name, email, and contact information, as well as the dates and financial terms of the rental.

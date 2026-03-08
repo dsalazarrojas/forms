@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data about a student's school attendance and performance. To ensure that the form is completed correctly and accurately, please review the following instructions and guidelines.
-
-Before completing this form, please make sure that you are filling it out for the correct school and student. Double-check that the student's details, such as their ID and name, match their official records.
-
-Please also note that this form is not intended for multiple students at once. Each form should be filled out individually, and not for a group of students.
-
-Also, be aware that some fields in this form are optional, but they are still important for providing a complete picture of the student's situation. Filling out all the fields will help ensure that you provide the most accurate and comprehensive report possible.
-</thinking>
 # School Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about a student's school attendance and performance. The purpose of this form is to provide an accurate and comprehensive report of the student's situation, which can be used by teachers, administrators, or other relevant parties.

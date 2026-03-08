@@ -1,7 +1,3 @@
-<thinking>
-This form is used for general inquiries and requests, allowing users to send a message to the administrator with their contact information and a brief description of their request. Before completing this form, please ensure that you are submitting a new inquiry, as this form is not intended for repeat requests or duplicate submissions. If you are unsure about the purpose of this form, please review your internal documentation or contact your supervisor for guidance.
-</thinking>
-
 # General Inquiry Request Form - Help Guide
 ## Purpose
 This form is designed for users to submit general inquiries and requests to the administrator. It is meant for users who need assistance or have questions that cannot be answered through other channels.

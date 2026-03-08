@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to capture incidents that occur within the library, such as accidents, injuries, or other notable events. The purpose of this form is to provide a systematic way to document these incidents, which can help the library management team assess and respond to them in a timely and effective manner.
-  To ensure that each incident is reported accurately and efficiently, please review this guide before filling out the form.
-  Please note that this form was created using artificial intelligence and is not affiliated with or endorsed by any form platform.
-  Before filling out this form, ensure that you have read and understand the instructions carefully.
-</thinking>
-
 # Library Incident Report Form - Help Guide
 ## Purpose
 The Library Incident Report Form is used to document and report incidents that occur within the library. This form helps the library management team to identify, assess, and respond to these incidents in a timely and effective manner.

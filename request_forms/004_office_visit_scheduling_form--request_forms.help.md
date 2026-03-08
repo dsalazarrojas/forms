@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Visit Scheduling Form - Help Guide
 ## Purpose
 This form is designed to collect information for scheduling office visits. It is used to book appointments for visitors to attend meetings or appointments with office staff. The purpose of this form is to ensure that all necessary details are collected efficiently and accurately, making it easier for both the visitor and the office staff to coordinate the visit.

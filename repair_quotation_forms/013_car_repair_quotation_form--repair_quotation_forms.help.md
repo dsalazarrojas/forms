@@ -1,10 +1,3 @@
-<thinking>
-I will review the provided YAML form definition to understand the form's purpose and ensure that I'm designing a help guide that accurately reflects its intent and structure.
-... 
-The form is used for creating a repair quotation for a vehicle. It appears to be designed to gather information about the customer, their vehicle, the repair details, and quotation details.
-The form does not seem to be duplicating any other form, and the structure is clear and organized into various sections.
-</thinking>
-
 # Car Repair Quotation Form - Help Guide
 ## Purpose
 The Car Repair Quotation Form is designed to gather information about a vehicle that needs to be repaired. This form helps to capture details about the customer, their vehicle, the problem description, and estimated repair costs.

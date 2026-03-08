@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of filling out the Scooter Rental Application Form. It's designed to collect information from potential scooter renters, ensuring a smooth and secure rental experience. Please review the form carefully and fill it out accurately.
-</thinking>
-
 # Scooter Rental Application Form - Help Guide
 
 ## Purpose

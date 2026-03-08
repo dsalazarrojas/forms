@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from contributors who want to offer their learning resources to the platform. The form's purpose is to gather data about the resource, such as its category, type, license, language, and level of difficulty, as well as information about the contributor and submitter. This data will help the platform to evaluate and potentially publish the resource.
-
-To ensure that each resource is unique and valuable, the form checks for duplication by requiring a confirmation from the submitter after submission.
-
-The form will not be completed multiple times for the same resource.
-
-</thinking>
-
 # Open Learning Resource Contribution Request Form - Help Guide
 ## Purpose
 This form is used to collect information from contributors who want to share their learning resources with the platform.

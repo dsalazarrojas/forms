@@ -1,11 +1,3 @@
-<thinking>
-The "flight_punctuality_statistics_report" form is designed to collect data on flight punctuality statistics. It's intended for analyzing flight performance and identifying trends. This form should not be used for real-time flight scheduling or flight operation planning purposes.
-
-Please ensure that this form is used correctly to prevent data duplication. Make sure to select the correct category (Airline, Airport, Other) and flight status (On time, Delayed, Cancelled) accordingly. Selecting all possible options may lead to inaccurate data collection. Similarly, ensure that you're selecting the correct delay reasons and causes.
-
-This guide is to help you complete the form accurately and effectively.
-</thinking>
-
 # flight_punctuality_statistics_report - Help Guide
 ## Purpose
 The "flight_punctuality_statistics_report" form is designed to collect data on flight punctuality statistics. It helps in analyzing flight performance and identifying trends.

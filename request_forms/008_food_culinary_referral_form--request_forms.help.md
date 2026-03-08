@@ -1,10 +1,3 @@
-<thinking>
-The form appears to be a referral form used for food-related activities, possibly for events or culinary services. It likely collects information about the food provider, the person requesting the referral, and the follow-up status of any contact made with the provider.
-The form seems to have a mix of required and optional fields, suggesting that some information is essential, while other fields can be skipped if not applicable.
-The fields include contact information (email, phone, address), referral dates, follow-up status, and last contact details. This form might be used to manage referrals for food-related programs or services.
-Before proceeding, ensure that the information you provide is accurate and relevant to the referral or contact.
-</thinking>
-
 # Food Culinary Referral Form - Help Guide
 ## Purpose
 The Food Culinary Referral Form is used to collect information about food-related referrals, including contact details for the provider and the follow-up status of any contacts made.

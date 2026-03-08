@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block should explain that this form is for the renewal of an animal transport license, which is likely used for transporting animals such as pets, livestock, or other types of animals that require special permits or licenses to be transported. The purpose of the form is to verify the information of the license holder and ensure that they are up to date with the current regulations. This form might be used by animal transporters, pet owners, or business owners that transport animals for commercial purposes. The internal reviewer should check to see if the form is being used for the right purpose and not for another type of license renewal (e.g., vehicle license renewal).
-
-Also, it's good to note that this form has several sections that might be used in conjunction with other forms or processes (e.g., vehicle inspection, insurance, and compliance declarations). The form seems to be designed for the renewal of animal transport licenses and not for other purposes. 
-
-After this internal reasoning block, we'll proceed with the help guide.
-
-</thinking>
-
 # Animal Transport License Renewal Application - Help Guide
 
 ## Purpose

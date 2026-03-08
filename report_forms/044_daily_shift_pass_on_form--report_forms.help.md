@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand that this form is for reporting shifts that have already started or are about to start, and that it shouldn't be used for duplicate shifts. The shift start and end times should be accurate, as it's the basis for various business processes. Also, the fields for replacement name and phone should only be filled out when there's an actual replacement.
-</thinking>
-
 # Daily Shift Pass On Form - Help Guide
 ## Purpose
 This form is intended for reporting shifts that have already started or are about to start. It is used to record accurate information about shifts, including start and end times, and replacement details if applicable. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle's check engine light issue, likely for maintenance, repair, or diagnostic purposes. The form should not be used for any other reason, such as general vehicle information collection or sales purposes. This form is intended for reporting specific issues related to a vehicle's check engine light, which indicates a problem with the engine or its emissions system.
-</thinking>
-
 # Vehicle Check Engine Light Issue Report Form - Help Guide
 ## Purpose
 This form is intended for individuals reporting issues related to their vehicle's check engine light coming on. Please use this form to provide detailed information about your vehicle and the problem you are experiencing with the check engine light.

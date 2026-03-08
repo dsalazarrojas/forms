@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Preliminary Report Form - Help Guide
 
 ## Purpose

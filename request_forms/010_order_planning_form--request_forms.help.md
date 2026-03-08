@@ -1,7 +1,3 @@
-<thinking>
-This form is for internal use only and should not be used for actual order planning. This is a placeholder form for demonstration purposes. If you're not authorized to access it, please do not attempt to use it. Also, be sure to check if the form has already been completed for the current order before trying to fill it in again.
-</thinking>
-
 # Order Planning Form - Help Guide
 ## Purpose
 The Order Planning Form is used to collect information about upcoming orders. Fill in the required fields to ensure accurate order planning.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from various departments within an organization. It aims to gather information on recent updates, performance metrics, achievements, internal reporting practices, communication effectiveness, productivity boosts, and internal reporting system preferences. Before proceeding, it's essential to note that this form should not be used for non-departmental purposes or to report on external entities; it's focused specifically on internal departmental activities.
-
-To avoid duplication, ensure that you're not providing this form to individuals who are not directly associated with departments or have already submitted their feedback through this form recently.
-
-</thinking>
-
 # Department Recap Form - Help Guide
 ## Purpose
 The Department Recap Form is designed to collect essential information from department teams, facilitating a comprehensive understanding of their performance, challenges, and achievements. This form helps the management and leadership team to make informed decisions and provide targeted support to their departments.

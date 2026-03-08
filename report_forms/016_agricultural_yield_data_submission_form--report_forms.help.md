@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on agricultural yield from farms. To ensure that only relevant and non-duplicated data is collected, we need to check for existing data and prevent users from submitting forms with identical farm names. This form guides users through the process of accurately and efficiently submitting their yield data.
-</thinking>
-
 # Agricultural Yield Data Submission Form - Help Guide
 ## Purpose
 This form is designed to collect data on agricultural yield from farms, allowing for the accurate tracking and analysis of yield data.

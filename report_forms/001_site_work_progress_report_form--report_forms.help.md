@@ -1,11 +1,3 @@
-<thinking>... (internal reasoning and duplication checks)
-
-The purpose of this form is to gather information about the progress of site work projects. It is designed to be completed by site workers to provide an update on the current status of their projects.
-
-This form will not be used for duplicate reporting or for non-site work projects. It is intended to be a one-time report for active site projects.
-
-</thinking>
-
 # Site Work Progress Report Form - Help Guide
 ## Purpose
 The Site Work Progress Report Form is a tool used to track the status of ongoing site work projects. This form helps site workers to provide regular updates on their project progress and allows for the collection of relevant data.

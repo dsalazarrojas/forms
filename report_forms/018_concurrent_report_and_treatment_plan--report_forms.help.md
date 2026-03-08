@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Concurrent Report And Treatment Plan" form efficiently and accurately. To ensure the form's purpose is clear, it is crucial to understand that this form is designed to record and document the assessment, treatment goals, and progress of a client, as well as the clinician's name and other relevant details.
-
-Before proceeding, verify that the form has not been completed recently, and that the information entered is up-to-date and reflects the current situation.
-
-This form is a critical component of the assessment and treatment process, and its accurate completion is essential for providing effective care.
-
-Please carefully review the following instructions and field explanations for a complete understanding of the form's purpose and how to navigate it.
-
-</thinking>
-
 # Concurrent Report And Treatment Plan - Help Guide
 
 ## Purpose

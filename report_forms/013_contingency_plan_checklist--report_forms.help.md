@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is to assist users in understanding and completing the Contingency Plan Checklist form. Please ensure you have a clear purpose in mind for completing this form and that it is relevant to your organization's needs. This form is not intended to be a one-time use document; instead, it is a living document that should be reviewed and updated regularly to ensure your organization's contingency plan remains effective and up-to-date.
-
-</thinking>
-
 # Contingency Plan Checklist - Help Guide
 ## Purpose
 The Contingency Plan Checklist is a comprehensive guide to help your organization prepare for and respond to potential risks and emergencies. It outlines the essential steps to take in the event of a disaster or unexpected event, ensuring your organization's continuity and minimizing the impact on staff, customers, and operations.

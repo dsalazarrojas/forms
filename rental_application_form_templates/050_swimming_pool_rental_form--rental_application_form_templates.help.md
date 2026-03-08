@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swimming Pool Rental Form - Help Guide
 
 ## Purpose

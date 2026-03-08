@@ -1,7 +1,3 @@
-<thinking> 
-  This form is designed to collect data for the Net Weight Control Report. The report is used to track and monitor the weight of products throughout the production process. The form is used by production staff to input data on products, including product ID, description, weight, and production details. The form is divided into pages, each with its own set of fields.
-</thinking>
-
 # Net Weight Control Report - Help Guide
 ## Purpose
 The Net Weight Control Report is used to track and monitor the weight of products throughout the production process.

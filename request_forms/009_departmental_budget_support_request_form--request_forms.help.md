@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from departmental budgets. The form's primary purpose is to collect relevant details from users to facilitate the process of requesting budget support from the department. This guide will walk you through how to fill out the form correctly to ensure that your request is processed efficiently.
-
-The form is divided into 6 pages, each containing a specific field type. Please ensure that you complete each field accurately to avoid any confusion or rejection of your request.
-
-Before starting, please make sure that you have all the necessary information ready to be submitted. The form should take around 5-10 minutes to complete, and it's essential to be thorough in your responses.
-</thinking>
-
 # Departmental Budget Support Request Form - Help Guide
 ## Purpose
 The Departmental Budget Support Request Form is a tool designed to collect information from users who require budget support from their department. Completing this form ensures that your request is processed correctly and efficiently.

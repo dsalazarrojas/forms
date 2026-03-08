@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the performance of a retail promotion campaign. It is intended to be used for reporting and analysis purposes. The fields included in this form are meant to capture key details about the campaign, including its duration, target audience, budget, media channels, product promotion channels, and any additional information that may be relevant to the campaign's success. 
-
-Please make sure to fill out this form accurately and completely to ensure that the data collected is useful for analysis. You should only fill out this form if you are authorized to do so. 
-
-This form has multiple pages, each with several fields. 
-
-Please review each page carefully and fill out all required fields. If a field is optional, you can skip it if it is not applicable to your campaign.
-
-</thinking>
-
 # ประก Retail Promotion Performance Report Form - Help Guide
 ## How To Complete This Form
 

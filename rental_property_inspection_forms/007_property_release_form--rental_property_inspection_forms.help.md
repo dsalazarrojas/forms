@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a rental property inspection, allowing tenants to provide details about themselves and the property in question. This form is intended for use by property managers, landlords, or other stakeholders who need to gather information about a rental property inspection. It's essential to ensure that all relevant fields are completed to provide accurate and comprehensive data. Please ensure that the form is not used for any other purpose or in any other context that may compromise the integrity of the data collected.
-</thinking>
-
 # Property Release Form - Help Guide
 ## Purpose
 The Property Release Form is designed to collect information about a rental property inspection, allowing tenants to provide details about themselves and the property in question.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to report negative COVID-19 test results. The purpose of this form is to capture information from healthcare staff about patients who have tested positive for COVID-19. The form is intended for use in healthcare settings to quickly and accurately report this information. This form will likely be used by healthcare staff to ensure that all necessary information is collected and reported correctly. 
-
-The form will be used to capture the following information: Test Date, Patient Name, Test Result, Result Details, Patient Location, Test Type, Test Site, Staff Member Name, Staff Member Email, and Staff Member Phone.
-
-This form will not be used for reporting positive test results.
-
-To avoid duplication of reports and ensure the accuracy of the data, it is important that users only report negative test results.
-
-To report negative COVID-19 test results, please proceed with filling out the form below.
-</thinking>
 # Negative COVID 19 Test Reporting Form - Help Guide
 ## Purpose
 This form is designed to report negative COVID-19 test results from healthcare settings.

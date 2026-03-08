@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's quickly review the form purpose and fields to ensure we don't duplicate effort and to confirm the form's objective. The form is called "Patient Visit Summary Report" and its purpose is likely to gather information about patient visits, including details about the encounter, the provider, the patient, the visit date and time, the patient's age, the visit duration, and any provider notes. This form will be used for reporting and summarizing patient visits, which suggests it's a critical part of clinical or medical record-keeping.</thinking>
-
 # Patient Visit Summary Report - Help Guide
 
 ## Purpose

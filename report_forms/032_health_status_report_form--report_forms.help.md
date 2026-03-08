@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information about an individual's health status, specifically their medical history, symptoms, and diagnosis. This form is likely used for reporting health-related issues or conditions. Please ensure that you are filling out this form for the correct purpose and not duplicating efforts. If you are unsure, consult with the relevant department or supervisor before proceeding...</thinking>
-
 # Health Status Report Form - Help Guide
 ## Purpose
 The Health Status Report Form is used to gather information about an individual's health status, including their medical history, symptoms, and diagnosis.

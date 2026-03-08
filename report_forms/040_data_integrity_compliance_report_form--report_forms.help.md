@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and track incidents related to data integrity compliance. It allows users to provide details about an incident, including its type, date, and time, as well as the actions taken to address it. The form is used to ensure that incidents are properly reported and documented, and that necessary actions are taken to rectify the situation.
-</thinking>
-
 # Data Integrity Compliance Report Form - Help Guide
 ## Purpose
 This form is used to report and track incidents related to data integrity compliance. It helps ensure that incidents are properly reported and documented, and that necessary actions are taken to rectify the situation.

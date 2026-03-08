@@ -1,7 +1,3 @@
-<thinking>
-Form purpose and required fields are subject to change, so this help guide is for informational purposes only and may not cover all edge cases. This help guide is intended for end-users, providing a brief and concise explanation of the form's purpose, fields, and completion process. Please note that the form is for a rental application and is not affiliated with or endorsed by any form platform.
-</thinking>
-
 # Mansion Rental Application Form - Help Guide
 ## Purpose
 

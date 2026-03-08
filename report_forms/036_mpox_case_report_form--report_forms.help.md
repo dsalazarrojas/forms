@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for Mpox cases. Mpox, also known as monkeypox, is a rare but potentially serious illness caused by a member of the orthopoxvirus genus, family Chordopoxavirus. This form helps healthcare professionals and individuals report cases of Mpox to facilitate proper handling and reporting. The form is not intended for public submission and is only meant for official use. Please ensure you are authorized to submit this form.
-</thinking>
-
 # Mpox Case Report Form - Help Guide
 ## Purpose
 The Mpox Case Report Form is designed to collect essential information about reported cases of Mpox. This form is intended for healthcare professionals and individuals who need to report cases to facilitate proper handling and reporting.

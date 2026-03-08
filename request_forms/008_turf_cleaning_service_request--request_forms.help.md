@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Turf Cleaning Service Request - Help Guide
 ## Purpose
 The purpose of this form is to request turf cleaning services. You can use this form to submit a request for lawn mowing, trimming, edging, or yard cleanup services for your front, back, or other areas of your property.

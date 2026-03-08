@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about college expenses from students. The purpose of this form is to gather accurate and complete records of expenses, including dates, amounts, categories, and descriptions of expenses, as well as details about the student, department, and funding source. This form will help in tracking and managing expenses effectively. Before filling out this form, please ensure that you have the necessary information and approvals.
-</thinking>
-
 # College Expense Report - Help Guide
 ## Purpose
 The College Expense Report is designed to gather accurate and complete records of expenses for students, including dates, amounts, categories, and descriptions of expenses, as well as details about the student, department, and funding source.

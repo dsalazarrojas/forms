@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely used for reporting general information regarding issues that have been reported, and the purpose is to collect and store data for tracking and analysis. The form appears to be designed for internal use, possibly by a help desk or support team, to gather information about reported problems, incidents, or complaints. The fields suggest a focus on issue details, categorization, and prioritization. The required fields are not specified, so it is assumed that the form can be completed partially or in its entirety, depending on the user's needs.
-
-The form has a mix of text fields, date/time fields, and select fields, indicating a wide range of possible use cases. The reporter field, for instance, might not be essential for all reports, as it could be used to identify the person reporting the issue or provide additional context. The form's structure seems to prioritize flexibility and adaptability.
-
-To ensure that the form is used correctly, it's essential to understand each field's purpose and how they interact with each other. This guide will walk you through each field to help users complete the form with confidence.
-
-</thinking>
-
 # General Information Report Form - Help Guide
 ## Purpose
 This form is designed to collect and store general information about reported issues, making it easier to track and analyze them. It's intended for internal use by help desk or support teams.

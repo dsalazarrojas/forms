@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for reporting network-related incidents that have occurred within the network. The form is designed to collect information about the incident, including its date and time, duration, location, and description. Users will also be able to select the affected services, incident impact, and incident outcome. Additionally, the form will allow users to provide a root cause analysis, corrective action, and preventive measures taken. The form will also collect information about the incident category, type, and subtype. Finally, the form will collect information about the status, reported by, incident report ID, and date reported. This form is meant to help identify and analyze network reliability issues and improve the overall network performance.
-</thinking>
-
 # Network Reliability Report Form - Help Guide
 ## Purpose
 The Network Reliability Report Form is designed to collect information about network-related incidents that occur within the network. This form helps identify and analyze network reliability issues to improve overall network performance.

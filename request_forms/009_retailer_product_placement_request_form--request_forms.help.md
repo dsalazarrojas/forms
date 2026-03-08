@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from retailers about their product placement requests. It appears to be used by a business or organization that works with multiple retailers to manage their product placement requests. 
-The form likely serves as a centralized platform for retailers to submit their product placement requests, providing necessary details about the product, retailer, and placement requirements. 
-The form might also be used to track and manage the status of these requests, ensuring that both the retailer and the organization are on the same page throughout the process.
-
-Before proceeding, please ensure that you are submitting a genuine request and that it has not been previously submitted. Duplicate requests can lead to confusion and may result in slower processing times.
-
-If you have already submitted this form for the same product and placement area, do not resubmit. Check your previous submission status under "Placement Request Status" for the current or past requests.
-</thinking>
-
 # Retailer Product Placement Request Form - Help Guide
 
 ## Purpose

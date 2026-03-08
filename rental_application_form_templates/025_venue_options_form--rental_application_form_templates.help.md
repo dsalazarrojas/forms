@@ -1,7 +1,3 @@
-<thinking>
-The Venue Options Form is designed to collect information about venues that can be used for event hosting or rentals. This form is intended for individuals or organizations that offer venue spaces for events, such as meeting rooms, conference centers, or outdoor spaces. The form aims to gather details about the venue's characteristics, amenities, and pricing information to help users find the most suitable venue for their events.
-</thinking>
-
 # Venue Options Form - Help Guide
 ## Purpose
 This form is designed to collect essential details about a venue for event hosting or rentals. Please complete the form to provide information about the venue's location, amenities, pricing, and contact details.

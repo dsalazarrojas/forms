@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about infectious diseases reported by medical providers and facilities. This form aims to streamline the reporting process, ensuring that all relevant details are captured accurately and efficiently. Before proceeding with this form, please ensure that you have not submitted a report for the same patient in the past. To fill out this form, please refer to the guidelines below.
-</thinking>
 # Infectious Disease Report Form - Help Guide
 
 ## Purpose

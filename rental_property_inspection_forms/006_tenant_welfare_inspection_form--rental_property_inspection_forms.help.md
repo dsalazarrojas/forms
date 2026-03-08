@@ -1,7 +1,3 @@
-<thinking>
-...the form is used to gather data for tenant welfare inspections. The form should be completed by the tenant or their representative when an inspection is scheduled. This form checks for relevance and duplication to ensure that all necessary information is collected and not redundant data is entered. The tenant welfare inspection form is used to monitor the well-being and conditions of the rental properties. To avoid errors, ensure that the correct unit number and rental property ID are selected. The form is divided into three pages: 1) Tenant Welfare Inspection Form, 2) Rental Property Information, and 3) Additional Comments.
-</thinking>
-
 # Tenant Welfare Inspection Form - Help Guide
 ## Purpose
 The Tenant Welfare Inspection Form is used to gather information about the well-being and conditions of the rental property. The form is completed by the tenant or their representative to provide a comprehensive overview of their living environment.

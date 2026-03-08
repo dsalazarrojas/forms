@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and functionality of the Freight Route Optimization Report Form. To ensure that the form is completed accurately, it's essential to understand its purpose and the relevance of each field. The form is designed to capture detailed information about freight routes, including the route details, issues, and status. By providing the necessary information, users can gain insights into optimizing their routes for better efficiency and productivity.
-
-This form is a critical tool for optimizing and tracking freight routes, allowing users to report on issues, improvements, and statuses related to these routes. Completing the form correctly will enable users to provide a comprehensive and accurate report.
-
-Please note that this form is a crucial component of the reporting process and should only be completed by authorized personnel. Duplicate reports may cause confusion and should be avoided.</thinking>
-
 # Freight Route Optimization Report Form - Help Guide
 ## Purpose
 The Freight Route Optimization Report Form is a critical tool for tracking and reporting on freight routes. By completing this form, users can provide detailed information on routes, issues, and statuses, which will enable the optimization and improvement of logistics operations.

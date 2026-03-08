@@ -1,10 +1,3 @@
-<thinking>
-A form for students to certify and verify their current health status and travel history in relation to COVID-19.
-This form helps ensure that students are aware of their health status and travel history, which is essential for maintaining a safe and healthy learning environment.
-The form should not be filled out more than once a week, and it's essential to fill out the form accurately and completely.
-Please check that this form has not been filled out by anyone in the past week.
-</thinking>
-
 # Student COVID 19 Self Certification And Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a student's current health status and travel history, ensuring that the student is safe and healthy to participate in classes.

@@ -1,7 +1,3 @@
-<thinking>
-The Pest Control Cleanup Referral Form is used to collect information from customers to request pest control services. This form is designed to be completed by customers who need assistance with pest control services, such as extermination, prevention, or inspection. The form helps the customer service team to understand the customer's requirements and preferences for the service, and to allocate the most suitable pest control team for the job.
-</thinking>
-
 # Pest Control Cleanup Referral Form - Help Guide
 ## Purpose
 The Pest Control Cleanup Referral Form is used to collect information from customers to request pest control services.

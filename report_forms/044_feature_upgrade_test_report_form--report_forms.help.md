@@ -1,7 +1,3 @@
-<thinking>
-This form is used by technical teams to document and track test results for feature upgrades. It ensures that the test results are comprehensive and consistent. It is designed to gather information about the test process, including the test outcome, any issues that arose, and the test duration. This form should only be used for feature upgrade testing, and it's recommended to fill it out only after completing a test. 
-</thinking>
-
 # Feature Upgrade Test Report Form - Help Guide
 ## Purpose
 The Feature Upgrade Test Report Form is used to document and track test results for feature upgrades. It helps ensure that the test results are comprehensive and consistent.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about process failures, allowing users to report and track the status of investigations. The form will help users document details about the failure, including the severity level, evidence, and investigation status. The form is intended to be completed by individuals who have experienced or witnessed a process failure, such as a production line worker or a quality control specialist.
-
-To ensure the accuracy of the form, it's essential to complete it thoroughly and follow the instructions carefully. Please review the form fields below to understand what information is required and how to provide it.
-
-</thinking>
-
 # process_failure_detection_report_form - Help Guide
 ## Purpose
 This form is used to report and track process failures, allowing users to document details about the failure, including the severity level, evidence, and investigation status.

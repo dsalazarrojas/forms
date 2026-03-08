@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees or personnel responsible for monitoring and logging air quality levels at sample sites. The form aims to ensure that all necessary information is captured during each sampling event, which helps in maintaining accurate records and facilitating future reference. 
-</thinking>
-
 # Lead Air Monitoring Log - Help Guide
 ## Purpose
 The purpose of this form is to capture key information about lead air monitoring logs, including date, location, and air quality levels.

@@ -1,14 +1,3 @@
-<thinking>
-This is a form for scheduling a gravesite maintenance request.
-The form is likely used for maintenance personnel to submit their schedules and preferences for a specific maintenance request.
-
-This form should only be used by authorized personnel.
-Please ensure that you are submitting a valid request.
-If you have previously submitted a request for the same purpose, please do not resubmit.
-Please make sure that you are aware of the form's purpose and requirements before filling it out.
-
-</thinking>
-
 # gravesite_maintenance_scheduling_request - Help Guide
 ## Purpose
 This form is used to schedule a gravesite maintenance request. Maintenance personnel use this form to submit their schedules and preferences for a specific maintenance request.

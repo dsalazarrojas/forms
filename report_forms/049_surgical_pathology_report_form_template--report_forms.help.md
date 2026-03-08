@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for reporting on surgical pathology samples, typically used in clinical settings for diagnostic purposes. It appears to be created for capturing data about specimen details, fixation and staining procedures, and other relevant information. This form's structure suggests that it is intended for documenting and standardizing data collection, potentially for research or quality control purposes. It's possible that this form is used in medical or scientific contexts to ensure consistency and accuracy in reporting pathology results.
-
-Given the structure of the form, it seems that each field is optional and open-ended, indicating that users will be providing detailed descriptions or specific information for each category. This form may be used for documenting various aspects of surgical pathology, including specimen details, fixation methods, and staining procedures. Further analysis of the form's purpose and usage context is needed to provide a more concrete explanation.</thinking>
-
 # Surgical Pathology Report Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about surgical pathology samples for reporting and documentation purposes. It captures details about the specimen, fixation and staining procedures, and other relevant information for accurate and standardized reporting.

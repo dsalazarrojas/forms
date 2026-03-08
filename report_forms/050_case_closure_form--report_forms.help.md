@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Case Closure Form - Help Guide
 
 ## Purpose

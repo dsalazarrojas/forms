@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to request support or service from the organization. This form is intended for customers who need help with a specific issue or query, and by providing their details, they can receive assistance from the customer service team. Before filling out this form, please ensure that you have not submitted a request previously, as duplicate requests may result in unnecessary back-and-forth communication.
-</thinking>
-
 # customer_service_appointment_request_form - Help Guide
 ## Purpose
 The customer service appointment request form is a tool for customers to submit their requests for assistance or support from the customer service team.

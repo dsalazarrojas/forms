@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consent Refusal Report Form - Help Guide
 ## Purpose
 This form is used to document the refusal of consent by a client or patient. It is an essential tool for recording and tracking the reason for refusal, the circumstances surrounding the refusal, and the actions taken by the healthcare provider. This information helps healthcare providers understand the client's or patient's perspective and can inform future interactions.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to report items that have not been returned by borrowers, providing a clear and concise way to document and track unreturned items. This form is intended to be filled out by staff or administrators, and its completion will help ensure that accurate and consistent records are kept of unreturned items. Before filling out this form, please ensure that you are reporting items that have not been returned, as indicated by the borrower, and that you have checked for duplicate reports.
-
-This form is designed to be simple and straightforward, with each field clearly labeled and explained below.
-
-</thinking>
-
 # Unreturned Item Report - Help Guide
 ## Purpose
 The Unreturned Item Report form is used to document and track items that have not been returned by borrowers. This form ensures that accurate and consistent records are kept of unreturned items, allowing staff or administrators to quickly identify and address any issues related to unreturned items.

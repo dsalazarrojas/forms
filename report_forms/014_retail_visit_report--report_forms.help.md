@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for retail store owners or managers to report on visits from sales representatives or other visitors. The form is meant to gather information about the visit, including the name of the store, the date and time of the visit, and other relevant details. This form should be used to document each visit and help improve customer service and sales performance. Please ensure that you are not submitting duplicate reports for the same visit. Only submit one report per visit. 
-</thinking>
-
 # Retail Visit Report - Help Guide
 
 ## Purpose

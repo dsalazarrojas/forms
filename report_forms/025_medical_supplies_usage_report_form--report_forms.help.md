@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information on the usage of medical supplies across various locations. It is expected that end-users will use this form to report the usage of medical supplies, including the quantity used, quantity still stocked, and other relevant details. It is recommended that users submit only one form per location, per stock ID. Duplicate submissions for the same stock ID will be discarded.
-</thinking>
-
 # Medical Supplies Usage Report Form - Help Guide
 
 ## Purpose

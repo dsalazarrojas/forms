@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect end-of-day sales report information. It is meant to be filled out by sales representatives at the end of each trading day, providing a concise summary of sales activities and performance. This form is a tool for sales leaders to track and analyze sales data, ensuring that all necessary information is collected and recorded accurately. Before proceeding, please ensure that you have completed all required fields and reviewed the form for accuracy. If you have any questions or concerns, you can reach out to the form creators or your team lead for support. 
-</thinking>
-
 # End Of Day Sales Report Form - Help Guide
 ## Purpose
 This form is used to gather end-of-day sales data and performance information from sales representatives, providing a daily summary of sales activities and allowing for analysis and tracking of progress.

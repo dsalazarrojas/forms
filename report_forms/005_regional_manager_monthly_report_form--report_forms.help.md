@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regional Manager Monthly Report Form - Help Guide
 
 ## Purpose

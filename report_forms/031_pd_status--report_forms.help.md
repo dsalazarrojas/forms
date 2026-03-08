@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## pd_status - Help Guide
 
 ## Purpose

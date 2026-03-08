@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Handover Form - Help Guide
 
 ## Purpose

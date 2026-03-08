@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a trip, including the trip type, start and end dates, location, purpose, and any expenses incurred during the trip. The purpose of this form is to provide a structured way for users to submit trip-related information, which can be used for various purposes such as expense tracking, trip planning, or reporting. 
 
 Before filling out the form, ensure that you have all the necessary information about the trip, including the start and end dates, location, and any expenses incurred. This form should not be used to report multiple trips, as each trip is treated as a distinct event.

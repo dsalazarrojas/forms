@@ -1,7 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the Hotel Meeting And Booking Request Form. This form is intended for customers to request a meeting or event at a hotel. The form will help customers provide necessary information for the hotel staff to process and prepare for their visit. To ensure accurate and efficient processing, it is essential to fill out the form correctly. Please note that this form is a request form, and submission does not guarantee booking or meeting arrangements.
-</thinking>
-
 # Hotel Meeting And Booking Request Form - Help Guide
 ## Purpose
 The Hotel Meeting And Booking Request Form is designed for customers to request a meeting or event at our hotel. This form helps our staff understand the customer's needs and preferences to provide the best possible service.

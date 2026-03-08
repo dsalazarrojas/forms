@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information regarding an opposition motion, which is a formal response to a motion presented to a governing body. The purpose of this form is to provide an organized and structured way for the opposing party to respond to the motion. It is essential to ensure that the response is accurate and complete, as it will be reviewed and considered by the governing body.
-
-When completing this form, it is crucial to verify that the response is not a duplicate. If a response has already been submitted, please do not resubmit. Ensure that your response is thorough and addresses the motion accurately.
-
-When filling out the form, please be concise and provide clear, relevant information. If you are unsure about any field or have any questions, please do not hesitate to reach out to the governing body for clarification.
-
-</thinking>
-
 # Opposition Motion Response Form - Help Guide
 ## Purpose
 The Opposition Motion Response Form is used to submit a formal response to a motion presented to a governing body.

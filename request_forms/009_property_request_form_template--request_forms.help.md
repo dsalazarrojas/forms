@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect property-related information for a property owner/manager or a potential buyer/seller. The goal is to gather specific details to facilitate a smooth property transaction. Before filling out this form, please ensure you have reviewed the property's relevant documents and details to provide accurate information. If you have any doubts, it's best to contact the property owner/manager directly or seek guidance from a professional. Ensure you don't duplicate or reuse this form for multiple properties, as it's designed for a single property request.
-</thinking>
-
 # Property Request Form Template - Help Guide
 ## Purpose
 This form is designed to collect property-related information from property owners/managers or potential buyers/sellers to facilitate smooth property transactions.

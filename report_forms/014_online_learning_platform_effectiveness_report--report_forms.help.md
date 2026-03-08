@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form for users to provide feedback and report on the effectiveness of our online learning platform. We want to make sure that the users are satisfied and achieving their desired outcomes. This form will help us track and analyze user feedback to improve the platform's functionality and user experience. This form is meant to be completed by users who have had a recent interaction with the platform. Please ensure you are filling out this form for a specific instance of using the platform, and not for general feedback or suggestions.
-</thinking>
-
 # Online Learning Platform Effectiveness Report - Help Guide
 ## Purpose
 The purpose of this form is to gather user feedback and report on the effectiveness of our online learning platform. It helps us understand how well the platform is meeting user needs and identify areas for improvement.

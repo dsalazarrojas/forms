@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed for reviewing historical documents, providing a structured and organized way to assess the quality and accuracy of documents related to historical events, research, or other archival materials. This form helps users evaluate the document's content, relevance, and overall value as a historical resource. By filling out this form, users will be able to provide a clear and transparent assessment of the document's merits and limitations.
-To ensure the quality of the reviews, this form aims to prevent duplication and ensure that each review is unique. The form is designed to be used for a variety of historical documents, including academic papers, articles, and other research materials.
-Before starting the review, please ensure that you are familiar with the document's content and context. This form should not be used for personal or promotional purposes.
-</thinking>
-
 # Historical Document Review Form - Help Guide
 ## Purpose
 The Historical Document Review Form is designed to help reviewers assess the quality and accuracy of historical documents. This form ensures that each review is thorough and transparent, and that no two reviews are identical.

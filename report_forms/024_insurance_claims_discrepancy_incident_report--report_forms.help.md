@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report discrepancies in insurance claims. It's essential to ensure that all required fields are completed accurately to provide a clear and detailed report of the incident. Before filling out the form, please check if a similar incident has already been reported and documented in the system to avoid duplication of efforts.
-</thinking>
-
 # Insurance Claims Discrepancy Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to report discrepancies in insurance claims, providing a clear and detailed account of the incident.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users apply for a rental at the Yacht Club's dock. The purpose of this form is to collect essential information from applicants, including their contact details, payment method, and rental request dates. This form ensures that all relevant details are captured accurately to process the rental request efficiently. Please make sure you fill in all required fields to increase the chances of getting approval for your rental request.
-</thinking>
-
 # Yacht Club Dock Rental Application Form - Help Guide
 ## Purpose
 The Yacht Club Dock Rental Application Form is a form designed to help users apply for a rental at the Yacht Club's dock.

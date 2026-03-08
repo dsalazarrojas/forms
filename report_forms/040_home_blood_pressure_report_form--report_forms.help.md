@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their blood pressure readings, which can be useful for health professionals to track and monitor users' cardiovascular health. To ensure accuracy, please review the form fields carefully and fill them out completely. This guide is provided to help you understand the purpose and structure of the form.
-</thinking>
-
 # Home Blood Pressure Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about your home blood pressure readings, which can be useful for your healthcare providers to track and monitor your cardiovascular health.

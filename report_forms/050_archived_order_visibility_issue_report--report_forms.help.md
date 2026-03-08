@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and efficiently by providing a clear guide on how to complete it. Before proceeding, please note that this form is intended for reporting issues related to archived order visibility. It's crucial that the reporter provides accurate and detailed information to help resolve the problem effectively. To avoid duplication, please make sure to report each issue separately, and if you're unsure about any field, refer to this guide for clarification.
-
-Before submitting the form, take a few minutes to review the instructions below to ensure you complete it correctly.
-
-</thinking>
-
 # Archived Order Visibility Issue Report - Help Guide
 ## Purpose
 

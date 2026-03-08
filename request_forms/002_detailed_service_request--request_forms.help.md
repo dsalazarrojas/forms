@@ -1,7 +1,3 @@
-<thinking>
-A service request form is designed to collect detailed information about a service request from customers or clients. This form is typically used by service providers to gather necessary details about the service required, appointment schedules, contact information, and other relevant details. The form should not be used for duplicate or unnecessary requests.
-</thinking>
-
 # Detailed Service Request - Help Guide
 ## Purpose
 The purpose of this form is to gather detailed information about service requests from customers or clients.

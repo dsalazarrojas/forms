@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a request form for customers to schedule a hair consultation. It is used to collect information about the customer's name, contact details, preferred hair cutting style, hair treatment system, preferred appointment time, preferred appointment day, and appointment date. This form should only be filled out by customers who are interested in scheduling a hair consultation. To avoid duplication, please ensure that this form is only filled out once per customer.
-
-</thinking>
-
 # Hair Consultation Request Form - Help Guide
 
 ## Purpose

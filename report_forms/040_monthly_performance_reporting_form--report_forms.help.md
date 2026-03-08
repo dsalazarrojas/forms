@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is for a manager to report on the performance of their team members, providing an opportunity to evaluate and provide feedback on a team member's progress, hours worked, and project status. This form ensures that the manager can effectively track and document the team's performance, providing a structured way to record notes, comments, and ratings for each team member. This form helps in identifying areas of improvement and areas of success, enabling the team to stay on track and make informed decisions. 
-
-The form is divided into multiple sections, each catering to different aspects of performance reporting. This includes sections for manager name and email, team member status, hours worked, project notes, and performance ratings. 
-
-This form is an internal tool for the team to use, please ensure that all information is accurate and up-to-date to avoid duplication of effort and unnecessary work. 
-
-</thinking>
-
 # monthly_performance_reporting_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for reporting suspected or confirmed cases of COVID-19. It is not intended for general inquiries or other types of reports. Please ensure that you have read and understand the purpose of this form before proceeding. If you have already submitted a case report, please do not submit another report unless there have been significant changes to the case or new information has been received that warrants an update.
-</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information on suspected or confirmed cases of COVID-19 for reporting and tracking purposes.

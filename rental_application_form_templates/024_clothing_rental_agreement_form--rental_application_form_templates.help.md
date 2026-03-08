@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from renters to create a comprehensive clothing rental agreement. The form is designed to ensure that both the renter and the rental company are on the same page regarding the terms and conditions of the rental, including pricing, deposit, and responsibilities. The form is likely used by clothing rental services to manage their operations and ensure that both parties are aware of their obligations. This guide will help users understand how to fill out the form accurately and efficiently.</thinking>
-
 # Clothing Rental Agreement Form - Help Guide
 ## Purpose
 This form is used to create a comprehensive clothing rental agreement between the renter and the rental company. It collects information about the renter, the rental item, and the terms of the rental, including pricing and responsibilities.

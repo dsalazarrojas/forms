@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect data on book borrowing trends from libraries, helping them to identify patterns and areas of improvement. This report form is designed to be completed by library staff to provide valuable insights into their collection's popularity and user behavior.
-
-Before filling out this form, please check if a similar report has been created for the same period. This will prevent duplication of effort and ensure that you're providing fresh data for analysis.
-
-To complete the form, follow the instructions below.
-</thinking>
-
 # Book Borrowing Trends Report Form - Help Guide
 ## Purpose
 This form helps libraries understand and analyze book borrowing trends, providing valuable insights into their collection's popularity and user behavior.

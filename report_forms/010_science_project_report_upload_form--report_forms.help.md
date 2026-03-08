@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Science Project Report Upload Form - Help Guide
 ## Purpose
 The Science Project Report Upload Form is designed to allow students to upload reports for their science projects, providing a structured and organized way to submit their work. This form is intended for students to submit their project titles, descriptions, and supporting files, as well as their contact information. The form also allows teachers to review and provide feedback on the projects.

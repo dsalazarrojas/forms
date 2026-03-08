@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accident CCTV Footage Request Form - Help Guide
 
 ## Purpose

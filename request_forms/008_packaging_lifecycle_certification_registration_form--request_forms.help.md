@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to register an organization's packaging lifecycle certification. It is intended for organizations that wish to demonstrate their commitment to sustainability and transparency in their packaging processes. This form helps the organization provide essential details about their organization, the lifecycle stage of their products, the certification bodies they have partnered with, and any sustainability programs they have implemented.
-
-To ensure accuracy and consistency in the responses, please review the form carefully before submission. 
-
-The form is used internally to track and monitor organization's progress in packaging sustainability.
-
-</thinking>
-
 # Packaging Lifecycle Certification Registration Form - Help Guide
 
 ## Purpose

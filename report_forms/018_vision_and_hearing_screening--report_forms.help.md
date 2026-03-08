@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather data about the vision and hearing tests performed on students. It is likely used by educational institutions to monitor and track student's vision and hearing health. The fields are mostly self-explanatory, but to confirm, this form will be completed by staff members who will input student names, teachers names, grades, comments, and results from vision and hearing tests. It is not designed for general public use and it's likely that only authorized staff members have access to it.
-
-</thinking>
-
 # Vision And Hearing Screening - Help Guide
 ## Purpose
 This form is used to record vision and hearing test results for students.

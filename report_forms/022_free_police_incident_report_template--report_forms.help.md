@@ -1,10 +1,3 @@
-<thinking>
-The "Free Police Incident Report Template" form is designed to capture information about a specific incident that occurred at a particular location. This form is intended to be used by individuals who need to report an incident to the police or other relevant authorities. To determine if you should use this form, consider whether the incident involves or may involve a crime or other safety-related issue. If so, complete this form to provide detailed and accurate information to the authorities.
-
-Before starting, review the form fields and their corresponding sections to ensure you're providing the necessary information. The form has multiple pages, each containing different fields. The following guide will walk you through each field and its purpose, so you can complete the form efficiently and effectively.
-
-</thinking>
-
 # Free Police Incident Report Template - Help Guide
 
 ## Purpose

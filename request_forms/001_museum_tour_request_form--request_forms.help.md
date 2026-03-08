@@ -1,7 +1,3 @@
-<thinking>
-The Museum Tour Request Form is designed to collect information from schools and educational institutions interested in visiting the museum. This form is intended for teachers or administrators to request a tour for their students. We want to make sure that every visitor has a smooth and enjoyable experience, so we need a little more information from you. Please fill out this form carefully and accurately, and we'll get back to you with more information about your requested tour.
-</thinking>
-
 # Museum Tour Request Form - Help Guide
 ## Purpose
 The Museum Tour Request Form is a tool for schools and educational institutions to request a tour at our museum. This form helps us understand the visitor's details and ensure that we can provide an enjoyable and educational experience for all attendees.

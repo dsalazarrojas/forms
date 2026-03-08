@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Character Profile Form - Help Guide
 ## Purpose
 The Character Profile Form is a comprehensive guide to creating a detailed character profile. It is used to capture a character's identity, traits, motivations, relationships, and background, helping writers, artists, and developers in the creative industry to create well-rounded and believable characters.

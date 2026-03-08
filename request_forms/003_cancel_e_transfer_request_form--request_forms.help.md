@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from a user who wishes to cancel an electronic transfer (e-transfer) that has been sent to a recipient. The form is intended to gather details about the transfer, including the requestor's contact information, the transfer details, and the reason for cancellation. The form will be used to facilitate the cancellation process and ensure that the transfer is properly cancelled and refunded to the original account if necessary. This form should only be used to cancel transfers that have not been successfully completed or are still pending, as it may not be used for transfers that have already been accepted or deposited by the recipient. Before submitting this form, please ensure that you have not already contacted support and that this is not a duplicate request. If you have already contacted support and provided a case number, please provide it below so we can expedite the process.</thinking>
-
 # Cancel E Transfer Request Form - Help Guide
 ## Purpose
 This form is used to cancel electronic transfers that have not been successfully completed or are still pending. It collects information about the transfer and the reasons for cancellation to facilitate the cancellation process.

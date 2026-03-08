@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from users about environmental health complaints, allowing them to report issues such as pollution, concerns, or problems related to air, water, land, or noise. The purpose of this form is to provide a structured way for users to report these complaints in a clear and concise manner. This form is meant to be used by individuals or organizations reporting environmental health complaints, and it's not intended for internal use within the organization.
-</thinking>
-
 # Environmental Health Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about environmental health complaints, allowing users to report issues related to air, water, land, or noise.

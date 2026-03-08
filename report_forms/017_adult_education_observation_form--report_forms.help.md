@@ -1,8 +1,3 @@
-<thinking>
-The Adult Education Observation Form is designed to help observers evaluate the performance of educators during adult education sessions. This form is intended to capture specific behaviors and characteristics that demonstrate an educator's teaching effectiveness.
-Please ensure you are observing a qualified educator in an adult education setting. Duplicate observations for the same educator within a short period of time may not be submitted.
-</thinking>
-
 # Adult Education Observation Form - Help Guide
 ## Purpose
 The Adult Education Observation Form is designed to assess the performance of educators in adult education settings, focusing on specific behaviors and characteristics that demonstrate their teaching effectiveness.

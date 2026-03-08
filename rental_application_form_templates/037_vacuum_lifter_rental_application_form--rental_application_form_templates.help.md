@@ -1,7 +1,3 @@
-<thinking>
-This form is a rental application form for vacuum lifters. It seems to be a form for users to provide general information, details about themselves, equipment details, rental details, special requests, contact information, and terms and conditions for a rental agreement. The presence of 18 "confirm submission" fields seems to be a duplication, as they all have the same label and type. I'll assume that the intention is to have the user confirm their submission after filling out the form.
-</thinking>
-
 # Vacuum Lifter Rental Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in renting a vacuum lifter.

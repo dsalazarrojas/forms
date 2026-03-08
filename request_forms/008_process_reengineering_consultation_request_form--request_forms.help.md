@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate requests for process reengineering consultations. The form is intended to be used by individuals or teams within an organization to express their interest in seeking expert advice on process improvements. It is a tool to help identify potential areas of improvement and provide a structured way to discuss the desired outcomes and goals. 
-
-Before starting to fill out this form, it is recommended to ensure that this form is the most suitable one for your needs. If you have similar requirements, consider filling out the "Process Reengineering Request Form - Duplicate" instead. This form is an original adaptation for [insert relevant context], and not a copy from any proprietary form platforms.
-
-Please note that this form will be used to gather information for the purpose of providing expert advice. Your input and feedback are crucial to help us better understand your process and provide tailored solutions.
-
-</thinking>
-
 # Process Reengineering Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from you about your process and provide a structured way to express your needs and expectations for a process reengineering consultation.

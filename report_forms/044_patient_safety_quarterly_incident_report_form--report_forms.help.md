@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information on patient safety incidents that occurred within a quarter. It helps to identify areas of concern and track trends over time. Before filling this form, please ensure that you have not already reported this incident through other channels. If you are unsure, please clarify with your supervisor or the designated incident reporting person.
-
-</thinking>
-
 # Patient Safety Quarterly Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents related to patient safety within the quarter. It is a crucial tool for tracking and addressing potential safety concerns that may impact patient care.

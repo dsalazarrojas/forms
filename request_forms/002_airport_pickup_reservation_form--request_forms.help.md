@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for airport pickup reservations, ensuring that pickup details are accurately captured. This form is used by users to submit their pickup preferences, flight information, and payment details. It's essential to fill out the form correctly to ensure that the pickup service provider has all necessary information to provide a smooth and reliable experience. Please ensure you're not reserving multiple pickups for the same date and time to avoid any confusion. 
-</thinking>
-
 # Airport Pickup Reservation Form - Help Guide
 ## Purpose
 The Airport Pickup Reservation Form is used to collect information for airport pickup reservations, ensuring that pickup details are accurately captured.

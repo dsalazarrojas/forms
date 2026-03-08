@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a person's employment history, particularly related to landscaping work. This form is used to record details such as first and last names, job codes, job types, dates worked, hours worked, wages, pay periods, and any additional notes. This form is likely used by HR or payroll teams to maintain accurate and up-to-date records of employee work hours and payments. Before using this form, please ensure that you are only filling out one instance of this form per employee. If you are filling out a form for multiple employees, please use a different instance of this form.
-</thinking>
-
 # Landscaping General Time Sheet Form - Help Guide
 ## Purpose
 The Landscaping General Time Sheet Form is a tool for collecting employment information related to landscaping work.

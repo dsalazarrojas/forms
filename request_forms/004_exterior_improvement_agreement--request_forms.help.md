@@ -1,17 +1,3 @@
-<thinking>
-The goal of this form is to collect information from homeowners who are requesting exterior improvements, such as renovations or repairs, for their properties. This form is likely used in a HOA (Homeowners Association) context, where homeowners must agree to abide by certain guidelines and rules before making changes to their exterior. The form is meant to be completed by the homeowner, acknowledging their understanding of the rules and providing a space for them to sign and confirm their submission.
-
-To determine the relevance and non-duplication of this form, let's consider the following:
-
-* The form is titled "Exterior Improvement Agreement" which implies it's related to homeowners making changes to their exterior properties.
-* The presence of "home_owner_info" and "project_photo" fields suggests that the form is focused on the homeowner's information and photos of their project.
-* The "acknowledgement" field indicates that the form is meant to confirm the homeowner's understanding of the HOA guidelines.
-* The absence of a "project_description" or "project_cost" fields suggests that the form is not meant to collect detailed information about the project, but rather to confirm the homeowner's understanding and agreement to the guidelines.
-
-Considering these points, it's likely that the form is used in a HOA context to confirm homeowners' agreement to abide by the rules before allowing them to make exterior improvements to their properties.
-
-</thinking>
-
 # Exterior Improvement Agreement - Help Guide
 ## Purpose
 This form is used to collect information from homeowners who are requesting exterior improvements, such as renovations or repairs, for their properties. It is a mandatory form that helps homeowners confirm their understanding of the Homeowners Association (HOA) guidelines and rules before making any changes to their exterior.

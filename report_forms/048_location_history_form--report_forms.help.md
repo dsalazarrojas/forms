@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for users to provide information about locations they have visited, including whether they have visited specific sites or devices. This information is used to help prevent the spread of infectious diseases. The form is not mandatory and can be completed in multiple parts, as indicated by the 'contact_history_1', 'contact_history_2', and 'contact_history_3' fields.
-It's possible that users may be asked to report locations multiple times, and this form is designed to help prevent the spread of infectious diseases by collecting detailed information. It's also possible that users may report different locations and devices in different parts of the form, so this form is designed to be flexible and not require users to fill out all fields.
-</thinking>
-
 # Location History Form - Help Guide
 ## Purpose
 The Location History Form is a tool used to collect information about locations visited by users to help prevent the spread of infectious diseases. This form is designed to be flexible and can be completed in multiple parts, allowing users to report different locations and devices as needed.

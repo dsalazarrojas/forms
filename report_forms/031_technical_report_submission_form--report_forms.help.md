@@ -1,13 +1,3 @@
-<thinking>
-To create a clear and concise user-facing help guide for the technical-report-submission-form, I'll first analyze the form's purpose and structure. The form appears to be a submission form for technical reports, allowing users to input relevant information, supporting documents, and their own details as authors. The form likely serves as a means to collect information for internal purposes, such as reporting or tracking progress.
-
-The internal reasoning block suggests that the form might be used to prevent duplicate submissions or to ensure that users have all the necessary information before submitting a report. This could imply that the form is part of a workflow that relies on the information collected here.
-
-The form's structure, with multiple pages and fields, indicates that it's designed to collect various types of information from users. The fields range from text inputs for report details and supporting documents, to a select-one input for author details, a note field for report comments, date and time inputs for submission timing, and possibly others not shown.
-
-Before creating the final help guide, I'll ensure that I understand the intent behind each field and provide clear explanations for users to follow.
-</thinking>
-
 # technical-report-submission-form - Help Guide
 ## Purpose
 The technical-report-submission-form is designed to collect information from users for internal reporting and tracking purposes. Please ensure that you only submit the form once, as it is intended for reporting and tracking progress.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will be used for the "Screen Printing Request Form" which is used to create and submit screen printing requests for various production needs. This form should only be used for internal production purposes and not for external customers.
-The form purpose is to gather information from internal users to create screen printing orders that need to be processed internally. This form is part of the production request process and helps to ensure that the required information is collected accurately and consistently.
-</thinking>
-
 # Screen Printing Request Form - Help Guide
 ## Purpose
 

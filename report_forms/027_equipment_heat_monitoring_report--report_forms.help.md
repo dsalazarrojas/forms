@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is used by maintenance staff to monitor equipment temperature readings and report any issues that may be causing problems with the equipment. It is intended to help maintenance teams quickly identify potential issues and take corrective action to prevent equipment failure or downtime. This guide assumes that the user has the necessary permissions to access this form.
-
-To confirm, the form is used internally and there is no requirement for users to fill out this form for public purposes.
-
-</thinking>
-
 # Equipment Heat Monitoring Report - Help Guide
 ## Purpose
 The Equipment Heat Monitoring Report form is used by maintenance staff to monitor equipment temperature readings and report any issues that may be causing problems with the equipment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a digital twin simulation report. The purpose of this form is to gather information from end-users about their simulation report requirements. This form will be used to create a report that meets the end-user's needs. This form is a critical component of the digital twin simulation process and is used by the simulation team to understand the objectives, parameters, and other requirements of the simulation.
-</thinking>
-
 # Digital Twin Simulation Report Request Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a template for generating pathology reports, a document used to communicate test results and diagnoses to patients. The form includes fields for patient information, test information, pathology information, file upload, medical report, diagnosis, test result, and doctor comments. 
-
-This form seems to be intended for healthcare professionals to record and report test results and diagnoses for patients. To confirm this, I will make sure to provide explanations for each field that match this purpose.
-
-</thinking>
-
 # Pathology Report Template - Help Guide
 ## Purpose
 This form is a template for recording and reporting test results and diagnoses for patients. It is intended for healthcare professionals to document patient information, test results, and medical reports.

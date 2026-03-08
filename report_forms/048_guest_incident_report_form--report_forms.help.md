@@ -1,9 +1,3 @@
-<thinking>...I'll create a user-facing help guide for the Guest Incident Report Form. I will carefully read the form schema to understand the purpose and fields of the form. The form seems to be designed for reporting incidents, accidents, or injuries that occurred within a facility or location. It appears to be used for administrative purposes, such as tracking and resolving incidents, and may also be used for insurance or liability purposes. The form is quite detailed, but I'll break it down in simple terms to help users understand its purpose and usage.
-
-The form has 25 fields, with some being optional. I will prioritize the most crucial fields and provide clear explanations for each. I assume that the form is intended for use by guests ( visitors or clients) who report incidents, but may also be used by employees or other stakeholders. Some fields seem to be related to incident reporting, resolution, and follow-up processes.
-
-Here's the help guide for the Guest Incident Report Form:</thinking>
-
 # Guest Incident Report Form - Help Guide
 
 ## Purpose

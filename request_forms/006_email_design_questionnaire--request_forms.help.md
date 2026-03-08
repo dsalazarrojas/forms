@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm the form's purpose and to check for duplication or irrelevance, I've reviewed the form's metadata. The form is called "email_design_questionnaire" and it falls under the category "request_forms". This form is likely designed for collecting information from customers or clients regarding their email marketing needs, preferences, and requirements. It appears to be a general questionnaire for understanding the design and content of emails. There are six fields in this form, each asking for different types of information:
 
 ## email_design_questionnaire - Help Guide

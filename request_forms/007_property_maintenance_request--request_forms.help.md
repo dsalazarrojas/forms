@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this property maintenance request form, I'll first consider the internal reasoning and context behind the form's creation. The form is designed for users to submit requests for property maintenance, which can include repairs, upgrades, or simply routine maintenance tasks. This form is likely used by property managers, landlords, or facility staff to collect information from property owners or tenants about the work needed to be done on a specific property. The form aims to gather relevant details about the property and the maintenance request, ensuring that the necessary work is completed efficiently and effectively.
-
-The form is divided into four sections, each with a specific field that requires input. This structure is designed to be user-friendly and easy to navigate, while also ensuring that all necessary information is collected.
-
-</thinking>
-
 # property_maintenance_request - Help Guide
 ## Purpose
 The Property Maintenance Request form is used to submit requests for routine maintenance, repairs, or upgrades on a specific property. This form helps property managers and staff gather essential information from property owners or tenants about the work that needs to be completed.

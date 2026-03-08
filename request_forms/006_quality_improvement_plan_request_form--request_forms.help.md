@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and function of the Quality Improvement Plan Request Form, and how to complete it correctly. The form is meant to gather information and feedback from teams for quality improvement purposes. Before proceeding, please check if this form already exists or if you have already submitted a similar form, as duplicate submissions may cause confusion and delay the evaluation process. If you have already submitted a form for this project, please refer to your previous submission for the most up-to-date information.
-</thinking>
-
 # Quality Improvement Plan Request Form - Help Guide
 
 ## Purpose

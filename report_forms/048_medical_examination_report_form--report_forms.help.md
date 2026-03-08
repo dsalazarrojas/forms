@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Medical Examination Report Form. To create this form, we will assume that the purpose of the form is to gather information about a patient's medical history, examination, and other relevant details for medical purposes. This form is likely used by medical professionals or healthcare providers to document patient information and communicate with other healthcare teams. It's essential to ensure that the form is completed accurately and thoroughly to avoid duplication of efforts and ensure seamless communication.
-</thinking>
-
 # Medical Examination Report Form - Help Guide
 
 ## Purpose

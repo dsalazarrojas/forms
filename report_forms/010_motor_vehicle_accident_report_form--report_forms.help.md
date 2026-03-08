@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is for reporting vehicle accidents. The form is likely used by law enforcement or insurance companies to gather information about vehicle accidents. The fields are designed to collect details about the accident, including vehicle registration numbers, accident dates and times, locations, and descriptions. It also collects information about witnesses, vehicle damage, and police reports.
-</thinking>
-
 # motor_vehicle_accident_report_form - Help Guide
 ## Purpose
 This form is used to report vehicle accidents. It is used to gather information about the accident, including vehicle registration numbers, accident dates and times, locations, and descriptions. It also collects information about witnesses, vehicle damage, and police reports.

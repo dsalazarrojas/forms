@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help teams and individuals identify and document problems, their root causes, and proposed solutions. The "A3 Problem Solving Report" form is used to gather information on the problem, its current status, and the planned actions to address it. It is an essential tool for problem-solving and issue-tracking within organizations. To ensure that you get the most out of this form, please make sure to provide detailed and accurate information to each field, as this will aid in effective communication and resolution of the problem.
-To avoid duplication, please do not submit multiple reports for the same problem. If you need to update or modify a report, please do not create a new report, but rather modify the existing one.
-</thinking>
-
 # A3 Problem Solving Report - Help Guide
 ## Purpose
 The "A3 Problem Solving Report" form is designed to document and track problems, their root causes, and proposed solutions within organizations. This form is used to gather information on problems, facilitate communication among team members, and ensure that actions are taken to address issues.

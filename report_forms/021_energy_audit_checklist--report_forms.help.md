@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users gather information about the energy usage and audit status of a particular site. The form will ask for the site's name, building status, and other relevant details such as equipment and safety concerns. Users will be able to select from a list of pre-defined options to answer these questions, making it easier to collect data consistently across different sites.
-</thinking>
-
 # Energy Audit Checklist - Help Guide
 
 ## Purpose

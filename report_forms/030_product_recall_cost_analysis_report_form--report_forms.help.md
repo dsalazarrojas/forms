@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a standard text-based form with no conditional logic or branching rules. It appears to be designed for collecting information from users, possibly for a specific industry or category such as "product recall" which could be related to manufacturing or logistics. There is no apparent duplication or redundancy in the form design. However, the form structure is quite long and seems to be a collection of individual text fields. It would be helpful to know more about the form's purpose and the specific use case for which it was designed. Nevertheless, I will create a help guide based on the provided form structure.
-</thinking>
-
 # Product Recall Cost Analysis Report Form - Help Guide
 ## Purpose
 This form is designed to collect information related to product recall events. It is intended for use in situations where a product has been recalled due to a defect, contamination, or other quality issue. The form will help gather data to analyze the costs associated with the recall, including costs of replacement, disposal, and other related expenses.

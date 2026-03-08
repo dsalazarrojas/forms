@@ -1,7 +1,3 @@
-<thinking>
-We are about to create a user-facing help guide for the "Weekly Call Center Report Form". Before we begin, let's confirm that this form is intended for reporting and tracking data for the call center, ensuring accuracy and efficiency in data collection. This form is not to be used for any other purpose. We will review the provided YAML fields to ensure that each field's label, type, and required status are accurately reflected in the help guide.
-</thinking>
-
 # Weekly Call Center Report Form - Help Guide
 ## Purpose
 The Weekly Call Center Report Form is designed to collect data on the performance and activity of the call center for a given week. The form aims to gather information on various aspects of the call center's operations and provide insights to aid in decision-making and improvement.

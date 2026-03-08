@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for reporting on audit observations, which are notes or comments made by internal auditors during an audit process. The goal is to document the findings, actions items, and follow-up dates/times associated with each observation. The form is designed to be completed by auditors who have conducted an audit on a specific month and year. The information collected will be used to track and manage audit findings and action items.
-
-</thinking>
 # Monthly Audit Observations Report - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide for the Occupational Therapy Progress Note Template. This form is designed to capture key information about a patient's progress in occupational therapy. I will make sure to clearly explain each field's purpose, how to complete it, and provide any additional tips or guidance as needed. I will review the form purpose and ensure it is relevant and non-duplicative. After reviewing the provided YAML, I can confidently create the help guide.</thinking>
-
 # Occupational Therapy Progress Note Template - Help Guide
 
 ## Purpose

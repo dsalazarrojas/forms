@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create a generic support ticket form for CRM systems. The purpose of this form is to collect information from reporters who are experiencing issues with their CRM system. This form is designed to be used by end-users to report problems or incidents that require attention from the support team. Before filling out this form, please ensure that you are reporting a new issue and not duplicating an existing ticket. This form is intended to be used by CRM system users who are experiencing problems with their system, and it is not meant to be used for other purposes.
-</thinking>
-
 # CRM Support Ticket Form - Help Guide
 ## Purpose
 This form is designed to collect information from reporters who are experiencing issues with their CRM system. It is intended to be used by CRM system users to report problems or incidents that require attention from the support team.

@@ -1,21 +1,3 @@
-<thinking>
-This form is for reporting work-from-home activities. It is intended for employees who are working from home and need to report their work hours, location, and other relevant details. It is meant to be completed by the employee themselves, and is typically used for administrative purposes such as tracking work hours, ensuring compliance with company policies, and providing a record of work-from-home activities.
-
-To complete this form, the employee will need to provide the following information:
-
-- A date of work from home
-- The start time of their workday
-- The end time of their workday
-- The location where they are working from home
-- The duration of their workday
-- A brief description of their work break
-- Any additional notes about their workday
-- The name of the employee submitting the report
-
-The form will only be completeable by the employee themselves, and will not have any pre-filled information.
-
-</thinking>
-
 # work_from_home_activity_report_form - Help Guide
 ## Purpose
 The work_from_home_activity_report_form is a reporting tool for employees to document their work from home activities. It helps track work hours, compliance with company policies, and provides a record of work from home activities.

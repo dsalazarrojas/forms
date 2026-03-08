@@ -1,9 +1,3 @@
-<thinking>
-
-This guide helps ensure that the report form is completed correctly to obtain accurate information about user logon activity. Completing the form correctly will aid in the efficient identification and analysis of user logon activity trends. The form should not be filled out in duplicate, as it is used to track unique logon activity reports.
-
-</thinking>
-
 # User Logon Activity Report - Help Guide
 ## Purpose
 The User Logon Activity Report form is designed to collect detailed information about user logon activity, which helps in analyzing and identifying trends in user behavior.

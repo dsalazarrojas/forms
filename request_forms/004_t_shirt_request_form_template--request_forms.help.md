@@ -1,11 +1,3 @@
-<thinking>
-This is a form designed to collect information about T-shirt requests for events. 
-- The form asks for the event organizer's name (event_organizer), student's name (student_name), and student ID number (student_id) to confirm the request is coming from a legitimate user.
-- The form also asks for the desired shirt size (t_shirt_size) and color(s) (shirt_color), event date (event_date), event time (event_time), and any specific notes (note) from the student.
-- Lastly, the form requests the student's email address and phone number (phone) for contact purposes.
-- This form aims to be used for internal purposes and is not intended for external public access.
-</thinking>
-
 # T Shirt Request Form Template - Help Guide
 ## Purpose
 The T Shirt Request Form is used to collect information for T-shirt requests from students. It helps event organizers keep track of student requests and preferences for event T-shirts.

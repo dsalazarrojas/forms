@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Request Form - Help Guide
 ## Purpose
 This form is for submitting security requests to your organization's security team. It gathers information about the request, the employee requesting it, and the reason behind the request. The form will be reviewed and actioned by the appropriate personnel to ensure the security of your organization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sonar Finding Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about sonar findings, which are observations made by users during a sonar sweep operation. The form is used to record details about the sonar findings, including the date and time of the sweep, the area searched, and any notable findings. The information collected through this form will help in creating comprehensive reports and improving future sonar sweep operations.

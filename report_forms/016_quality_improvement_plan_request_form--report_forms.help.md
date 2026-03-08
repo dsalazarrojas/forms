@@ -1,14 +1,3 @@
-<thinking>
-This form is used to create a Quality Improvement Plan (QIP) request, which is a document used to propose changes or enhancements to improve the quality of a product, process, or service. Before filling out this form, please ensure that you have a clear idea of what you want to improve and what the expected outcome should be.
-
-When filling out this form, please note that each field is designed to guide you through the process of creating a well-structured and complete QIP request. If you are unsure about any of the fields or have any questions, please refer to this help guide for clarification.
-
-To prevent duplication of effort and ensure that your proposal is well-received, please review the form carefully and ensure that all required fields are filled out accurately and completely.
-
-Please also check the current status of similar requests before submitting your own to avoid duplication.
-
-</thinking>
-
 # Quality Improvement Plan Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for end-users to understand the purpose and functionality of the "Damage Assessment Report" form. To begin, let's consider the form's purpose and potential use cases. This form is likely used to collect information and track progress on damage assessments, which can be a critical component of business operations, especially in industries such as construction, facilities management, or disaster response. The form could be used by employees, contractors, or external stakeholders to report damage, track progress, and update status. To ensure the guide is relevant and non-duplicitous, we should focus on the most critical fields and instructions.</thinking>
-
 # Damage Assessment Report - Help Guide
 ## Purpose
 The "Damage Assessment Report" form is used to collect information and track progress on damage assessments. This form is used to report damage, track progress, and update status in various business operations, such as construction or facilities management.

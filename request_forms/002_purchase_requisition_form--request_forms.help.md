@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information related to purchase requisitions, likely for an internal process or procedure within the organization. This form is designed to gather details from the requester, including their contact information and the item they wish to purchase. The form may be used by procurement or purchasing teams to manage internal purchasing processes, ensuring that all necessary information is collected before making a decision on the purchase. Before proceeding, please review this help guide to ensure you understand the form's requirements and how to complete it accurately.
-</thinking>
-
 # Purchase Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document details of a purchase requisition, providing a structured way to gather information from the requester and facilitating the internal purchasing process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users to request specific services or products, and to assign a tool to process these requests. The form will be used to track and manage these requests internally. To ensure that each request is properly processed, the form must be filled out completely and accurately. Before starting, please check that you don't already have an existing request with the same Form ID.
-
-</thinking>
-
 # Sample Request Form - Help Guide
 ## Purpose
 The Sample Request Form is designed to collect information from users to request specific services or products, and to assign a tool to process these requests.

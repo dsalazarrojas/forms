@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a project's completion status and outcomes. It's intended for use in project management and reporting. The form is divided into several sections, but all sections are not necessarily required. The form does not duplicate any proprietary content or design from existing forms. Its purpose is to provide a simple and effective way to report on project progress and completion. This form is not affiliated with any specific form platform and can be freely modified and shared under CC BY 4.0.
-</thinking>
-
 # Project Completion Form - Help Guide
 ## Purpose
 The Project Completion Form is designed to help project managers and team members report on the completion status of projects. It allows users to provide information about the project's progress, outcomes, and status, making it easier to track and evaluate project performance.

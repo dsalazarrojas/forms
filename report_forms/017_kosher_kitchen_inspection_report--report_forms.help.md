@@ -1,9 +1,3 @@
-<thinking>
-This is a form designed for reporting on kitchen inspection results related to kosher food preparation. The form aims to track the findings of a kitchen inspection and gather information about any critical issues identified, corrective actions taken, cleanliness outcomes, and the overall kosher compliance status. I assume this form will be used by kitchen inspectors and other authorized personnel. The form does not seem to be used in a production environment, as the 'required' flag is set to false for all fields.
-
-The form is divided into several sections: inspector name, kitchen location, date of inspection, kosher certificate status, critical findings, corrective actions taken, cleanliness outcomes, kosher compliance status, comments, signature, kitchen ID, inspector ID, and form submission date. All these fields are meant to capture detailed information on the inspection process, including any issues that require attention. The form does not seem to have any conditional or hierarchical sections that would impact its usage in a production setting.
-</thinking>
-
 # Kosher Kitchen Inspection Report - Help Guide
 ## Purpose
 The Kosher Kitchen Inspection Report is a form used to document the findings and outcomes of a kosher kitchen inspection. It is completed by a kitchen inspector and contains information about the inspection, including the inspector's details, the kitchen's condition, and the results of the inspection.

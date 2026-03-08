@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a product's specification compliance status.
-The purpose of this form is to provide a clear and standardized method for suppliers to report on the compliance status of their products with a company's specification. The form is designed to be user-friendly and easy to use, with clear labels and instructions to guide the respondent through the completion process.
-The form will be completed by suppliers who need to report on the compliance status of their products. The form will be used by internal teams to review and verify the compliance status of products.
-</thinking>
-
 # Product Specification Compliance Report - Help Guide
 ## Purpose
 This form is designed to collect information about a product's specification compliance status from suppliers.

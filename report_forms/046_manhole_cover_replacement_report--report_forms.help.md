@@ -1,7 +1,3 @@
-<thinking>
-The "Manhole Cover Replacement Report" form is a report used for tracking and documenting manhole cover replacement activities. It's a crucial tool for maintaining accurate records of when and where manhole covers are replaced, ensuring that the city's infrastructure is properly maintained. This form should only be used for reporting activities related to replacing manhole covers, and not for other types of reports. If you're unsure whether this form is relevant to your situation, please refer to your department's guidelines for reporting procedures.
-</thinking>
-
 # Manhole Cover Replacement Report - Help Guide
 ## Purpose
 The Manhole Cover Replacement Report is used for tracking and documenting manhole cover replacement activities. This form helps ensure that accurate records are kept of when and where manhole covers are replaced, supporting the maintenance of the city's infrastructure.

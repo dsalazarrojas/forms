@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Claim Form - Help Guide
 
 ## Purpose

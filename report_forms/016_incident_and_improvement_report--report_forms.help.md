@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about incidents and improvement reports from clients. The form is designed to gather details about the incident, including its category, description, location, date, and outcome. It also includes fields for client information, such as client name, category, and category subcategory. The form aims to collect data that can be used to improve incident reporting and analysis.
-</thinking>
-
 # Incident And Improvement Report - Help Guide
 ## Purpose
 This form is used to collect information about incidents and improvement reports from clients. It is designed to gather details about the incident, including its category, description, location, date, and outcome.

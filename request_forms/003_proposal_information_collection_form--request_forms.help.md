@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Proposal Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information for proposals, which are used to present and discuss potential ideas, projects, or plans for future initiatives or projects. The purpose of this form is to provide a structured way to gather essential details about the proposal, including its title, category, summary, start and end dates, contact information, and attachments.

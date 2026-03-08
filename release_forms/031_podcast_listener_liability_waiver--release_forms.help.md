@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and consent from podcast listeners, ensuring they understand their liability and agreeing to the terms of the podcast. The form will help identify listeners who have provided consent and track their progress. Before proceeding, please ensure you are not duplicating efforts or wasting time. Review the form fields carefully to understand their purpose and requirements.
-</thinking>
-
 # Podcast Listener Liability Waiver - Help Guide
 
 ## Purpose

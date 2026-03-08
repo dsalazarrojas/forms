@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for reporting purposes by players or staff of the "Los Santos" organization, probably for tracking daily activities, events, or incidents involving players. The purpose of this form could be to provide a standardized way to collect information about player interactions, progress, or issues that have occurred on a daily basis. The form might be used by staff to monitor player behavior, track player development, or investigate incidents. Without further context, it's difficult to determine the exact use case. 
-</thinking>
-
 # los_santos_daily_report_form - Help Guide
 ## Purpose
 This form is designed to collect daily reports from players or staff of the "Los Santos" organization. The goal is to gather information about player activities, interactions, or incidents that occurred during a specific reporting period. 

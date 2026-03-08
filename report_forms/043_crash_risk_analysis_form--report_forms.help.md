@@ -1,13 +1,5 @@
 <figure>
-  <thinking>
-    This form is intended to help users analyze and report on crashes, which is crucial for identifying potential safety hazards. This form ensures users provide necessary information about the crash risk, enabling informed decision-making and risk mitigation strategies.
-
-    To prevent duplication, ensure you are completing the form for a single crash incident. If multiple crash incidents need to be reported, please create a new form for each incident.
-
-    This form has multiple fields, each with its purpose. Below, you'll find a detailed explanation of each field:
-  </thinking>
-  
-# Crash Risk Analysis Form - Help Guide
+  # Crash Risk Analysis Form - Help Guide
 ## Purpose
 
 The Crash Risk Analysis Form is designed to help analyze and report on crashes, enabling informed decision-making and risk mitigation strategies.

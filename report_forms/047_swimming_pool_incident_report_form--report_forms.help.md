@@ -1,7 +1,3 @@
-<thinking>
-This form is likely created for reporting incidents or accidents that occurred in a swimming pool environment, such as a pool facility, community center, or residential property. The purpose of this form is to gather details about the incident, which may include information about the pool manager, date and time of the incident, description of what happened, and any other relevant details. This form will help pool administrators or staff to document and investigate incidents to ensure pool safety and maintenance.
-</thinking>
-
 # Swimming Pool Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents or accidents that occurred in a swimming pool environment. It will help pool administrators or staff to document and investigate incidents to ensure pool safety and maintenance.

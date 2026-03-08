@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for employees to request a shift swap, allowing them to switch their shift with another colleague. This form is used to gather necessary information from the employee making the request, and ensure that the shift swap is properly coordinated and approved. It is a required field for employees to provide their contact phone number in case of any last-minute adjustments or clarification needed. This form is used by both employees and management to streamline the process of shift swapping and to ensure that shifts are filled properly. Before submitting the request, make sure you are not duplicating an existing request and that your shift is still available.
-
-</thinking>
 # Burger Restaurant Shift Swap Request Form - Help Guide
 ## Purpose
 This form is used by employees to request a shift swap, allowing them to switch their shift with another colleague. It is a required field for employees to provide their information and to ensure that the shift swap is properly coordinated and approved.

@@ -1,20 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I've analyzed the provided YAML input schema. The form is named "Investigation Findings Report," which suggests that it's used for documenting the findings and conclusions of an investigation. This form might be used for internal or external reporting, such as incident reports, compliance reports, or audit reports. It could be used across various industries, including but not limited to, legal, finance, or IT.
-
-Upon reviewing the fields, I notice that this form is relatively simple, consisting of four fields:
-
-- "Investigation Findings" (page 1): This field is likely where the main findings of the investigation are documented, which might include details on what was discovered, evidence collected, or conclusions drawn.
-- "Evidence Attached" (page 2): This field is a select multiple option field with "Yes" or "No" as choices, which implies that the user might be asked to indicate whether evidence was attached to the report or not.
-- "Actions Taken" (page 3): This field is another text field where the user can document any actions that were taken as a result of the investigation findings.
-- "Next Steps" (page 4): The final field is another text field where the user can plan or document the next steps to be taken following the investigation.
-
-Considering the fields and the form's potential uses, I believe the main goal is to gather information that can be used for decision-making, record-keeping, or communication within or outside of an organization.
-
-To avoid duplication and ensure that users understand what they're doing, it would be essential to review the findings of previous investigations or reports before submitting this one, especially if they're related to the same case or topic.
-
-</thinking>
-
 # Investigation Findings Report - Help Guide
 ## Purpose
 This form is designed to document the findings and conclusions of an investigation. It is intended for internal or external reporting and might be used across various industries, including legal, finance, or IT. The form aims to gather information that can be used for decision-making, record-keeping, or communication within or outside of an organization.

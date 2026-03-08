@@ -1,7 +1,3 @@
-<thinking>
-The Quality Alert Form is used to report and track quality issues or incidents within a project or product lifecycle. This form is typically completed by team members or stakeholders who encounter a quality alert, and the information gathered is used to identify, analyze, and resolve the issue.
-</thinking>
-
 # Quality Alert Form - Help Guide
 ## Purpose
 The purpose of this form is to report a quality alert for an incident or issue that needs to be addressed.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information related to the confirmation of a service provided to a company. It includes fields for the company's name, employee name, service date, service time, completion date, service confirmation, notes, email, phone, submitted by, submitted at, created by, updated by, created at, updated at, assigned to, assigned by, completed by, completed at, service status, submitted to, submitted date, created by 2 (optional), updated by 2 (optional), and submitted at 2 (optional).
-
-The form is divided into the following sections: company information, service details, confirmation and status, and submission information. 
-
-This form is intended to be completed by employees or administrators within the company, and the information gathered will be used to track and manage services provided to clients.
-
-The purpose of this form is to ensure that all necessary information is recorded accurately and consistently, and to provide a clear and concise record of the service provided.
-
-To prevent duplication of work, please ensure that this form is not completed multiple times for the same service.
-
-</thinking>
-
 # Service Confirmation Form - Help Guide
 ## Purpose
 The Service Confirmation Form is used to record and confirm the details of a service provided to a company. It helps ensure that all necessary information is recorded accurately and consistently.

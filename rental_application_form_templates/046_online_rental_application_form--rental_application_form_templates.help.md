@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be designed for collecting contact information from multiple individuals. Given the large number of "Contact Person" fields, it's likely intended for rental application forms where landlords or property managers need to collect details from multiple applicants. The purpose of this form is to gather comprehensive contact information for all individuals involved in the rental application process. However, it's worth noting that having 25 "Contact Person" fields might be excessive and may need re-evaluation for better form design efficiency.
-
-The form seems to be designed for a simple online rental application process, where users can input their contact information and other relevant details. The form's purpose is likely to streamline the rental application process, saving time and effort for both the applicants and the administrators handling the rental applications.
-
-Before we dive into the detailed explanation, it's essential to understand that the form has multiple pages, each representing a different step or section in the rental application process. This form is likely used for collecting contact information from multiple contact persons.
-
-Here's a step-by-step guide on how to complete this form:
-
-1.  Start by filling out the first field "Contact Form."
-2.  This field is used to gather your primary contact information.
-3.  Enter your details, and then move on to the next field, "Contact Person 1."
-4.  In this field, enter the contact information of the first individual involved in the rental application.
-5.  Repeat this process for each "Contact Person" field, entering the contact information for each individual.
-6.  Continue filling out the "Contact Person" fields until you reach the end of the form.
-
-</thinking>
-
 # Online Rental Application Form - Help Guide
 ## Purpose
 The Online Rental Application Form is designed to collect comprehensive contact information from multiple individuals involved in the rental application process.

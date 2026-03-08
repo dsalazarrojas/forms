@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a rental application form for a car rental service, likely used to gather information from customers for the rental process. The form is divided into several sections, each focusing on different aspects of the rental, such as pickup and drop-off details, driver information, and additional services. The required fields seem to be necessary to verify the customer's identity and ensure a smooth rental experience. It's likely that this form is used by a car rental company to gather information and confirm the rental details before the vehicle is handed over to the customer.
-</thinking>
-
 # Car Rental Application Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for a car rental service. It's essential to provide accurate and complete information to ensure a smooth rental experience.

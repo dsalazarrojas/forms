@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report IT services requests. It is not meant to be used for general feedback, complaints, or other non-technical issues. Please use this form only for technical issues related to IT services. To avoid duplication, please do not submit multiple forms for the same issue.
-</thinking>
-
 # it_service_request_form_2 - Help Guide
 ## Purpose
 The "it_service_request_form_2" is a form designed to collect information about IT service requests. It is intended for reporting technical issues or problems related to IT services.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for submitting tenant repair requests to a residential or commercial property management company. This form is designed to be used by tenants or authorized personnel to notify the property management company of any issues or repairs that need to be addressed. This form should not be used for other purposes, such as maintenance requests for common areas or general inquiries. Please ensure that all fields are accurately filled out to help the property management company process the request efficiently. Please review each field carefully and provide detailed descriptions as required.
-</thinking>
-
 # Tenant Repair Request Form - Help Guide
 ## Purpose
 The Tenant Repair Request Form is designed for tenants or authorized personnel to submit repair requests to the property management company. Please use this form to notify us of any issues or repairs that need to be addressed in the rental property.

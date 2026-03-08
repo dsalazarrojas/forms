@@ -1,5 +1,3 @@
-<thinking>Refund tracker form is used to track and report refunds for customers. This form is designed to be completed by both users and administrators to provide detailed information about refunds, including dates, amounts, and status. The form is used to ensure that refunds are handled efficiently and accurately. To avoid duplication, please only complete this form for new refunds, and make sure to update existing records if the status changes.</thinking>
-
 # refund_tracker_form - Help Guide
 ## Purpose
 The refund tracker form is used to track and report refunds for customers. This form is designed to be completed by both users and administrators to provide detailed information about refunds, including dates, amounts, and status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Immigration Intake Form - Help Guide
 ## Purpose
 The Immigration Intake Form is a tool used to collect essential information from individuals seeking immigration services. This form is designed to gather personal and contact information, as well as details about the individual's background and citizenship status. The form is intended to be completed by individuals who are seeking immigration-related assistance or services.

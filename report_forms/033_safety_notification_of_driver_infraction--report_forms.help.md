@@ -1,14 +1,3 @@
-<thinking> 
-
-This form is designed to collect information on a driver infraction, which is a formal notice or warning given to a driver for a specific offense or infraction while driving. The form is intended for reporting a driver infraction that occurred, and it's likely used by authorities or authorities-related personnel. 
-
-The form's fields can be broadly categorized into three main sections: driver information, infraction details, and report details. The driver information section (fields 11-17) requires information about the vehicle involved, including its license number, vehicle type, color, registration number, model, year, and make. 
-
-The infraction details section (fields 2-5, 18-20) captures the specifics of the infraction, including its type, date, time, location, and status. 
-
-The report details section (fields 6-9, 21-24) includes information about the person reporting the infraction, such as their contact number, email, and details about why they are reporting the infraction. 
-
-</thinking>
 # Safety Notification Of Driver Infraction - Help Guide
 
 ## Purpose

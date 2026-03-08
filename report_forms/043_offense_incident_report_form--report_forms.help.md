@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure this form is for the intended purpose. A report form should help document and report incidents, so we'll focus on explaining the form's purpose and how to use it.</thinking>
-
 # offense incident report form - Help Guide
 ## Purpose
 The "Offense Incident Report Form" is designed to document and report incidents that have occurred. This form helps to gather information about the incident, including details about the perpetrator, the incident itself, and any subsequent reviews and actions taken.

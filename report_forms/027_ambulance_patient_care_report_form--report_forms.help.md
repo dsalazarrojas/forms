@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is for the Ambulance Patient Care Report Form, which is used by emergency medical services (EMS) personnel to document the care and transport of patients in an emergency situation. The form is used to record vital information about the patient's care, including their demographic information, medical history, treatment and response, and transport details. This form helps to ensure that all necessary information is captured and communicated effectively between emergency responders, hospitals, and medical professionals.
-
-The form is divided into several sections, each covering a specific aspect of patient care. The purpose of this guide is to assist users in understanding the form's structure and content, ensuring that they can complete it accurately and effectively.
-
-The guide is organized into the following sections: Purpose, How to Complete This Form, Field-by-Field Explanation, and Tips.
-
-</thinking>
-
 # Ambulance Patient Care Report Form - Help Guide
 ## Purpose
 The Ambulance Patient Care Report Form is a critical tool used by emergency medical services (EMS) personnel to document the care and transport of patients in emergency situations. The form helps to ensure that all necessary information is captured and communicated effectively between emergency responders, hospitals, and medical professionals.

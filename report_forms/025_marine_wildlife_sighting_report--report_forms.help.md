@@ -1,15 +1,3 @@
-<thinking>
-The Marine Wildlife Sighting Report form is used to report marine wildlife sightings. Users report the details of their encounters with marine species such as sighting time, location, species, and contact information. 
-
-The purpose of this form is for users to collect and submit sighting reports, which is used by researchers and conservation groups to track and study marine wildlife populations. 
-
-The data collected on this form will be used for conservation and research efforts to help protect marine life. Please only report your own sightings to maintain the accuracy and integrity of the collected data.
-
-This form is designed to be completed by anyone who has observed marine wildlife and wants to contribute to the collection of data for research and conservation efforts. It is a simple and straightforward form, and all fields should be filled out completely for accurate results.
-
-Before completing this form, ensure that the provided fields are filled out as accurately as possible and that you have obtained necessary permissions or approvals to submit the report. If you are unsure about any field, please reach out to the researchers or conservation groups for clarification.
-
-</thinking>
 # Marine Wildlife Sighting Report - Help Guide
 
 ## Purpose

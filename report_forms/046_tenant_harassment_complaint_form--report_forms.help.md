@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who are reporting or witnessing harassment incidents within a housing or residential setting. It's crucial that you only submit one report per incident to help the management team track and address the issue efficiently. Before submitting a report, please ensure that you haven't already submitted a report for this incident. This will help prevent duplicate efforts and ensure that the necessary actions are taken to address the issue.
-</thinking>
-
 # tenant_harassment_complaint_form - Help Guide
 ## Purpose
 The Tenant Harassment Complaint Form is designed to report incidents of harassment within a housing or residential setting. This form is used to gather essential information to investigate and address these incidents.

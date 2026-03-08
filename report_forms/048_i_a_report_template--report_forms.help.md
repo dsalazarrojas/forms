@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a template for generating I.A. (Internal Audit) reports, which are used to report on internal issues or concerns within an organization. 
-The form is used to collect information about the report category, description, status, date, time, and priority of the issue. This information will help the user to effectively communicate the issue to the relevant parties and track the progress of the report. 
-Please ensure this form is only used for the intended purpose, as it's not designed for external reporting or for tracking external issues. 
-</thinking>
-
 # I.A. Report Template - Help Guide
 ## Purpose
 The I.A. Report Template is designed to collect information about internal issues or concerns within an organization. This form is meant to provide a structured approach to reporting these issues, ensuring that all relevant information is captured in a clear and concise manner.

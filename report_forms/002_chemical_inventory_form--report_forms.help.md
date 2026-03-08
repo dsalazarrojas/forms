@@ -1,10 +1,3 @@
-<thinking>
-**Internal Review and Duplication Detection:**
-
-This form is designed to collect information about chemical inventory, which is crucial for laboratory management and safety. Before proceeding, please ensure that you have reviewed the form carefully and that this is the intended purpose for filling it out. Additionally, verify that you have not already completed this form for the same chemical.
-
-</thinking>
-
 # Chemical Inventory Form - Help Guide
 
 ## Purpose

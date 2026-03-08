@@ -1,10 +1,3 @@
-<thinking>
-  This guide is intended for users who want to learn about and complete the Raw Material Utilization Report Form. It is not intended for system administrators or developers.
-  This form is not intended for use on a regular schedule, rather for one-off reporting on raw material utilization.
-  The form should only be used for reporting on raw materials that have been utilized or produced.
-  This form can be used by anyone in the organization who has access to it.
-</thinking>
-
 # Raw Material Utilization Report Form - Help Guide
 ## Purpose
 The Raw Material Utilization Report Form is used to report on the utilization and production of raw materials in the organization. This form is used to track and document the details of raw materials that have been used or produced, including quantities, production dates, and production costs.

@@ -1,17 +1,3 @@
-<thinking> 
-This form is designed to collect information for a Flight Time Rental Agreement, which is a formal document that outlines the terms and conditions of renting an aircraft for a specific period of time. The purpose of this form is to ensure that both the renter and the owner of the aircraft are clear on their responsibilities and obligations during the rental period. This form is typically used for commercial or recreational flight operations.
-
-The information collected in this form will be used to:
-
-- Verify the identity and contact information of the person renting the aircraft
-- Record the details of the rental agreement, including the date, start and end times, and type of aircraft
-- Confirm that the renter has read and agreed to the terms and conditions of the rental
-- Record the signature of both the renter and the owner of the aircraft
-
-This form is designed to be completed by the renter, and the owner of the aircraft will review and approve the form before the rental begins. The information collected in this form will be used to ensure a smooth and safe rental experience for both parties.
-
-</thinking>
-
 # Flight Time Rental Agreement - Help Guide
 
 ## Purpose

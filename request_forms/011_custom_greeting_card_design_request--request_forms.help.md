@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user preferences for custom greeting card design requests. It is intended for customers who want to personalize their greeting cards for special occasions or events. The form should only be filled out if the user has not already filled out a custom-greeting-card-design-request form before, to avoid duplication of effort and potential errors in the design process.
-</thinking>
-
 # custom-greeting-card-design-request - Help Guide
 ## Purpose
 This form allows you to request a custom-designed greeting card for special occasions or events. Please fill out the form to specify your preferences and ensure that your card is designed according to your wishes.

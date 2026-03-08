@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect data relevant to global learning, likely for research or educational purposes. The form is designed to gather information from users in a structured manner, ensuring that all necessary details are captured. It's essential to fill out the form accurately and thoroughly. Please ensure that you have all the required information before submitting the form.
-
-Before filling out this form, check that you don't have any existing forms with the same name to avoid duplication.
-</thinking>
-
 # Global Learning Data Collection Request Form - Help Guide
 ## Purpose
 

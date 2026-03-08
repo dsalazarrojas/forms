@@ -1,18 +1,3 @@
-<thinking>... 
-
-To create a user-facing help guide for the "Daily Consumption Report Form", we should ensure the form's purpose and fields are clearly explained so end-users can easily understand and complete the form efficiently.
-
-The "Daily Consumption Report Form" is designed to collect daily consumption data from users. This data might include sales performance, consumption dates, and other related information. The form likely serves as a regular record-keeping tool for tracking daily sales and consumption patterns.
-
-Let's review the form's fields:
-- "Daily Consumption Report" page: This is the first page of the form where users might be expected to enter a brief description or header for their report.
-- "Consumption Date" field: This field is likely for selecting or entering the date of consumption.
-- "Sales Data" field: This field presents a dropdown menu with options "Yes" and "No". It's reasonable to assume this field is for indicating sales data status, possibly for tracking whether sales were made on that particular date.
-- "Sales Amount" field: As a numerical field, it seems this field would be for recording the actual sales amount, likely in currency.
-
-Considering the provided information, this form likely doesn't require users to submit their report data on a specific format or with exact figures but rather provide a simple, user-friendly way to document daily consumption data for tracking and reference purposes.
-
-</thinking>
 # Daily Consumption Report Form - Help Guide
 
 ## Purpose

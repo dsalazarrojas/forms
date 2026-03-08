@@ -1,7 +1,3 @@
-<thinking>
-To determine whether to create this form, we need to consider its purpose and potential duplication of effort. This form likely serves as a means to document and track quality nonconformance incidents within an organization. It is possible that similar forms already exist within the organization, so we should research and verify that this form is not a duplicate.
-</thinking>
-
 # Quality Nonconformance Summary Report - Help Guide
 ## Purpose
 The Quality Nonconformance Summary Report is used to document and track quality nonconformance incidents within an organization. This report provides a centralized platform to collect information about incidents, categorize them, and assign actions for corrective and follow-up activities.

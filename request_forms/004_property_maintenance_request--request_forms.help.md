@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a property maintenance request to the facilities team. Before submitting a request, please ensure that you have not recently submitted a similar request for the same property. To avoid duplication, please check the facilities team's work order system for any outstanding requests. Please note that the priority level of the request will help the facilities team to allocate resources more efficiently.
-</thinking>
-
 # Property Maintenance Request - Help Guide
 ## Purpose
 This form is used to submit a property maintenance request to the facilities team for assistance with various property-related issues.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect statistics for specific groups, providing an organized and structured way to gather data about group activities, progress, and accomplishments. It's essential to fill this form accurately and thoroughly to ensure that the collected information is reliable and useful for further analysis. Please ensure that you are completing this form for the correct group and reporting period. Duplicate submissions will not be accepted.
-</thinking>
-
 # Group Statistics Submission Form - Help Guide
 ## Purpose
 The Group Statistics Submission Form is designed to collect statistics for specific groups, providing an organized and structured way to gather data about group activities, progress, and accomplishments.

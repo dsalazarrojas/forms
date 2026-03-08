@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to report incidents that have occurred with their interactions with the company. The purpose of this form is to gather information about the incident, including the customer's response to a question, a description of the incident, and any relevant contact information for the customer and employee involved. It's essential to fill out this form accurately and completely to ensure that the incident is reported correctly and efficiently.
-</thinking>
-
 # Customer Incident Reporting Form - Help Guide
 ## Purpose
 This form is used for customers to report incidents that have occurred with their interactions with the company. It's essential to fill out this form accurately and completely to ensure that the incident is reported correctly and efficiently.

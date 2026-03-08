@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information from users who want to rent water sports equipment. This form should be used when a user needs to reserve a kayak, surfboard, paddleboard, or canoe for a specific rental period. The form is designed to collect relevant information such as user contact details, the type of equipment requested, the rental period, and any additional information that the user may want to provide.
-
-The form is not intended for any other use cases, such as equipment purchase or sales.
-
-</thinking>
-
 # Water Sports Equipment Rental Application Form - Help Guide
 ## Purpose
 The Water Sports Equipment Rental Application Form is designed to help us understand your requirements for renting water sports equipment. This form will help us process your request and provide you with the necessary information for a successful rental experience.

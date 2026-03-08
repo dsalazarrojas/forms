@@ -1,7 +1,3 @@
-<thinking>
-This form, "flight_log", is primarily used for recording information about flight activities. This will help the user track and document various aspects of their flights. To ensure accurate and consistent data collection, it is recommended that users complete the form carefully and thoroughly. Please note that some fields are not required, but filling out as much information as possible will help improve the accuracy and usefulness of the data.
-</thinking>
-
 # flight_log - Help Guide
 ## Purpose
 The "flight_log" form is designed to gather details about flight activities, including dates, flight numbers, airports, times, and crew information.

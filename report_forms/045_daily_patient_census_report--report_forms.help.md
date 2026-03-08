@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information about patients. This form is likely used by healthcare professionals to report on the number and characteristics of patients in their care. Non-duplication and relevance are crucial in this form to ensure accurate and efficient data collection.
-</thinking>
-
 # Daily Patient Census Report - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to update the address associated with an account. This form should only be used when the account's address has changed, and the user needs to provide new address information. Please note that this form should not be used to create new accounts or add new users to an existing account. If you're unsure about filling out this form, please review the account details carefully to avoid duplication of effort.
-
-</thinking>
-
 # Address Update Form - Help Guide
 ## Purpose
 

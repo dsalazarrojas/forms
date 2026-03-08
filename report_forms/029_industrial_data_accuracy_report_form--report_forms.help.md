@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to allow users to report discrepancies found in industrial data accuracy. This form is used for reporting purposes only, and it is not intended for general data entry or other uses. Please ensure that you are using this form for its intended purpose, and not duplicating efforts or submitting incomplete or irrelevant information.
-
-</thinking>
-
 # industrial_data_accuracy_report_form - Help Guide
 ## Purpose
 The industrial_data_accuracy_report_form is a report form used to document discrepancies found in industrial data accuracy. It allows users to report errors, inconsistencies, or other issues affecting data accuracy in a structured and organized way. This form helps to ensure that issues are properly documented and addressed, improving overall data quality and reducing errors.

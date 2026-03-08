@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to complete the Actor Performance Reassessment Request Form. Please note that this form is designed to support the process of reassessing an actor's performance, and it is meant to be completed by those who have been assigned a role or have a vested interest in the review process. Before proceeding, please ensure you have a legitimate reason for requesting a reassessment and that you haven't already submitted a reassessment request for the same performance.
-</thinking>
-
 # Actor Performance Reassessment Request Form - Help Guide
 ## Purpose
 The Actor Performance Reassessment Request Form is used to request a review of an actor's performance, providing a formal process for reassessing and improving their skillset. This form is typically used when there has been a change in circumstances, new information has become available, or when a review is required for contractual purposes.

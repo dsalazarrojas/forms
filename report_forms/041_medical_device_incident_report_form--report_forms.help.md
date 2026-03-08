@@ -1,13 +1,3 @@
-<thinking>
-This form is used to report incidents involving medical devices. Medical devices can include a wide range of equipment such as pacemakers, insulin pumps, or wheelchairs. The purpose of this form is to gather information about the incident, including the device involved, the circumstances of the incident, and any follow-up actions that may be required.
-
-The form is designed to be completed by a user who has witnessed or is involved in the incident. The information gathered will be used to identify any potential risks or issues with the medical device and to guide further action.
-
-Please ensure that you are completing this form for the correct type of incident and that you have the necessary permissions to do so. If you are unsure, please consult with the relevant authorities or team members before proceeding. 
-
-Please note that the form has multiple fields to collect comprehensive information about the incident. This guide will help you understand each field's purpose and how to complete it accurately.
-</thinking>
-
 # Medical Device Incident Report Form - Help Guide
 
 ## Purpose

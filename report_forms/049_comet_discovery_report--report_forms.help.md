@@ -1,15 +1,3 @@
-<thinking> 
-The purpose of this form is to collect data on comet observations from users. The form is designed to be completed by observers who have witnessed a comet and wish to report their findings. The form will guide users through the process of filling out the report, ensuring that all necessary information is collected. 
-
-The form is used to record details such as observer name, observation date and time, location coordinates, brightness magnitude, tail length estimate, instrument used, photos provided, additional observations, and contact email. 
-
-This form does not allow for duplicate submissions of the same comet, and users are required to fill out all relevant fields in order to submit the report. 
-
-This guide is intended to help users understand each field and how to complete the form correctly, ensuring that all required information is collected and submitted properly. 
-
-Please note that while the form is designed to be user-friendly, if you have any doubts or questions, please reach out to the research team for further clarification.
-</thinking>
-
 # Comet Discovery Report - Help Guide
 ## Purpose
 The Comet Discovery Report form is a tool used to collect data on comet observations from users. This form guides observers through the process of reporting their findings, including details such as observer name, observation date and time, location coordinates, and other relevant information.

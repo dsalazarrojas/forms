@@ -1,7 +1,3 @@
-<thinking>
-The form "Quality Metrics Report Request Form" appears to be used to collect information for quality metrics reporting, likely as a means to track and analyze quality performance metrics. The form might be used by quality managers or teams to submit requests for specific metrics reports, providing detailed data on performance indicators such as date, time, score, and category. The purpose is to provide relevant data for quality improvement initiatives. 
-</thinking>
-
 # Quality Metrics Report Request Form - Help Guide
 
 ## Purpose

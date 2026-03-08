@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for gathering information about an incident related to a fire investigation. The primary goal of this form is to collect details about what happened, when and where it happened, and any identifying information about the suspect involved. Before completing this form, ensure that you have all necessary permissions to access and collect information about the incident. Also, please note that this form does not duplicate any existing records, and its purpose is to support the investigation process. The form's fields are designed to gather relevant information in a concise and structured way. To fill out this form accurately, please follow the instructions below.
-</thinking>
-
 # Fire Investigation Report Form - Help Guide
 ## Purpose
 The Fire Investigation Report Form is designed to gather essential information about a fire incident. This form is used to document the details of the incident, including the date and time it occurred, the location, and any information about the suspect(s) involved.

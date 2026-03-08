@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to upload and report on impact, which is likely a measure of the effects or consequences of a particular event, action, or policy. This form is meant to be a straightforward and efficient way to collect information on reports, making it easier for users to submit their findings and data. Before filling out this form, please ensure that you are not duplicating existing reports or submitting irrelevant information. The form is designed for users to provide specific details about their reports, and the information collected will be used for internal purposes only.
-</thinking>
-
 # Impact Report Upload Form - Help Guide
 ## Purpose
 The Impact Report Upload Form is designed to collect information on reports related to impact, allowing users to submit their findings and data in an efficient and organized manner.

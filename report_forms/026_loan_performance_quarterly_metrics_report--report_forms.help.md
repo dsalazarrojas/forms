@@ -1,34 +1,3 @@
-<thinking>
-This form is used to report quarterly metrics on loan performance. To ensure this form is used correctly, please review the following:
-- Only report on one quarter at a time.
-- Select the correct quarter for which you are reporting.
-- Review the fields below to understand what is being reported.
-
-This form is designed to report the following loan performance metrics:
-- New originations
-- Total loans outstanding
-- Interest income
-- Servicing fees
-- Provision for doubt
-- Delinquency rate
-- Charge-off rate
-- Return rate
-- Default rate
-- Charge-off amounts
-- Recoveries
-- Recoveries as a percentage
-- Average recovery
-- Average recovery rate
-- Loan value
-- Total value
-- Net writedown
-- Net writedown rate
-- Cash flow
-- Cash flow rate
-
-Each field below is used to report on these metrics. Please review each field to ensure you are entering accurate information.
-</thinking>
-
 # Loan Performance Quarterly Metrics Report - Help Guide
 ## Purpose
 The Loan Performance Quarterly Metrics Report is used to report on the performance of loans over a specific quarter.

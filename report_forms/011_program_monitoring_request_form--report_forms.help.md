@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Program Monitoring Request Form - Help Guide
 ## Purpose
 The Program Monitoring Request Form is used to request program monitoring for your nonprofit organization. The form is designed to collect information about your program, including focus areas, timelines, and attachments. This information is used to monitor and improve program performance.

@@ -1,5 +1,3 @@
-<thinking>First Aid Incident Report Form is used to report incidents that have occurred in a medical setting, such as injuries or other health events. This form should only be used for incidents that require immediate medical attention. The form should not be used for routine check-ups or non-urgent health concerns. To ensure accuracy and consistency, please use the same form for all incidents, even if they involve the same patient. If you're unsure about whether an incident requires immediate medical attention, please refer to your facility's policies and procedures.</thinking>
-
 # First Aid Incident Report Form - Help Guide
 ## Purpose
 The First Aid Incident Report Form is a document used to report incidents that have occurred in a medical setting, such as injuries or other health events that require immediate medical attention.

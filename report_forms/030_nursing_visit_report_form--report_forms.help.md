@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information related to a nursing visit, including patient details, visit specifics, medication administration, and vital signs. This form is designed to be completed by healthcare professionals during patient visits to ensure accurate and comprehensive recording of patient data. To avoid any potential duplication of efforts or redundancy, we recommend completing this form only once per patient visit.
-
-</thinking>
-
 # Nursing Visit Report Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: The Pest Control Service Report form is used to document the details of pest control services provided to clients. This form helps track the on-site treatments, pest control teams involved, property manager information, homeowner details, treatment dates and times, and any notes from the service. To use this form, ensure you are only submitting reports for services that have not been previously reported for the same property. If you are unsure about any information or need to report multiple services for the same property, please contact your supervisor.</thinking>
-
 # Pest Control Service Report - Help Guide
 ## Purpose
 The Pest Control Service Report form is used to document and record the details of pest control services provided to clients.

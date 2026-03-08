@@ -1,8 +1,3 @@
-<thinking>
-This form is likely to be used for artists to report on their project, providing a comprehensive overview of their work. This could be used internally within an organization or institution to track and analyze projects. The form may be used by project managers, curators, or administrators to get a clear understanding of the project's scope, goals, and outcomes. It's essential to ensure that each field is filled out accurately and completely to provide a clear picture of the project. To avoid duplication of effort, this form should only be filled out once per project, and the information should be up-to-date and precise. 
-
-</thinking>
-
 # Artist Project Report Form - Help Guide
 
 ## Purpose

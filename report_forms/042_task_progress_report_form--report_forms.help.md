@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be a concise and practical document to assist users in understanding the purpose and completion of the Task Progress Report Form. The form is designed to report progress on tasks, allowing users to provide information on the status of their work, assign tasks to team members, and track deadlines and priority levels. It is not necessary to have prior knowledge of the form's purpose to complete it, but it may be helpful to understand that it is meant to be used for progress reporting within teams or projects.
-
-</thinking>
-
 # Task Progress Report Form - Help Guide
 ## Purpose
 The Task Progress Report Form is a tool used to report progress on tasks, track deadlines, and assign responsibilities to team members. It is designed to be completed by team members to provide a clear and concise report of their work status.

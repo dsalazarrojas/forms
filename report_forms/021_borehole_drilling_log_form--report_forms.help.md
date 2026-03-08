@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Borehole Drilling Log Form - Help Guide
 
 ## Purpose

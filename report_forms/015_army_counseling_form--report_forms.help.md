@@ -1,5 +1,3 @@
-<thinking>As a form expert, my first step is to review the Army Counseling Form and understand its purpose. This form appears to be designed for gathering information from Army personnel regarding their mental health concerns, including their experiences with combat exposure, current symptoms, medical history, and treatment history. It's essential to confirm that this form is not a duplicate of any other existing form and that its purpose is to collect valuable data for the Army's mental health services. Additionally, I will review each field to ensure that it's clear and concise, providing the best-effort explanation without inventing unsupported business logic.</thinking>
-
 # Army Counseling Form - Help Guide
 ## Purpose
 The Army Counseling Form is designed to collect information from Army personnel about their mental health concerns, including combat exposure, current symptoms, medical history, and treatment history. This form helps the Army's mental health services understand the individual's situation and provide appropriate support.

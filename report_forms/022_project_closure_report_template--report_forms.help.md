@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Closure Report Template - Help Guide
 ## Purpose
 The Project Closure Report Template is a form used to document the status of a project at the end of its lifecycle. It helps track the project's progress, closure reason, and other important details.

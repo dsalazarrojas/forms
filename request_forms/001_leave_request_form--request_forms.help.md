@@ -1,10 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the "Leave Request Form", I will analyze the given YAML fields and create a detailed explanation of the form's purpose, how to complete it, and each field's meaning.
-
-The "Leave Request Form" is a tool used to facilitate leave requests from employees. This form is designed to gather essential information from employees, including their name, leave type, start and end dates, duration, purpose, manager's name, email, phone, team members involved, assigned tool, user, notes, and status. The form aims to streamline the leave request process, ensuring that all necessary details are captured and approved by the relevant authorities.
-
-</thinking>
-
 # Leave Request Form - Help Guide
 ## Purpose
 The Leave Request Form is a tool used to facilitate leave requests from employees. This form is designed to gather essential information from employees, ensuring that all necessary details are captured and approved by the relevant authorities.

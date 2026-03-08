@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for tour package reviewers to provide feedback on their experience with a specific tour package. The form is used to collect information about the package's rating, review, and any comments that the reviewer and the tour operator may have. 
-
-Before proceeding, make sure that you are completing the form for the correct tour package and that you are not duplicating your efforts - ensure that the form is not already completed for the same package.
-
-The following fields are used to collect information about the tour package, including the reviewer's rating of the package, a text-based review, and comments from both the reviewer and the tour operator. 
-
-The form is used to collect feedback from reviewers and tour operators, so it's essential to be honest and provide as much detail as possible.
-
-</thinking>
-
 # Tour Package Review Report Form - Help Guide
 ## Purpose
 The Tour Package Review Report Form is used to gather feedback from reviewers and tour operators on a specific tour package. This form is intended to collect information about the package's rating, review, and any comments from both parties.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Team Leader Report Form is a tool used for project management and team reporting. This form is designed to collect information about team performance, progress, and status from team leaders. It is intended to provide project leaders with a clear and organized way to gather essential information from their team members.
-
-Before proceeding with this guide, make sure you have a valid understanding of the form's purpose and that you have not already submitted this form previously. Duplicate submissions may lead to inconsistent data and affect project analysis.
-
-</thinking>
-
 # Team Leader Report Form - Help Guide
 ## Purpose
 The Team Leader Report Form is a tool used for project management and team reporting. It helps project leaders gather essential information from their team members about project progress, status, and performance.

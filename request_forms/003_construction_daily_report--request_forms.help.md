@@ -1,8 +1,3 @@
-<thinking>
-The Construction Daily Report form is designed to capture essential information about the progress and activities of a construction site on a daily basis. This form will help the project team track and analyze data on various aspects of the site, including the number of workers and hours worked, weather conditions, work progress, and inspection results. By providing accurate and timely reporting, this form will support informed decision-making and enable project managers to monitor and adjust the project's pace effectively. To ensure consistency and reliability, please fill out this form accurately and thoroughly every day.
-
-</thinking>
-
 # Construction Daily Report - Help Guide
 ## Purpose
 The Construction Daily Report is a crucial document that provides a snapshot of the construction site's daily activities and conditions. It ensures that all relevant stakeholders have access to up-to-date information, facilitating better project planning and management.

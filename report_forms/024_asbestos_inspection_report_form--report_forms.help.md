@@ -1,7 +1,3 @@
-<thinking>
-The Asbestos Inspection Report Form is designed to document the findings and results of an asbestos inspection. This form should only be used for asbestos inspections performed in accordance with state regulations. The form is intended to capture relevant information about the inspection, the inspector, and the property being inspected. Ensure that the form is only used by licensed inspectors who have the necessary qualifications and expertise to perform asbestos inspections. The form should not be used as a template for other types of inspections or reports. Ensure that the form is filled out accurately and completely, and that the inspector signs the certification statement at the end of the form.
-</thinking>
-
 # Asbestos Inspection Report Form - Help Guide
 ## Purpose
 The Asbestos Inspection Report Form is designed to document the findings and results of an asbestos inspection. This form should only be used for asbestos inspections performed in accordance with state regulations.

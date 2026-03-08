@@ -1,10 +1,3 @@
-<thinking>
-This form is a Boat Log form, intended for recording information about a boat's journey. 
-The form is used to report details about the boat's departure and arrival, including the date and time of departure, destination, weather conditions, sea state, and other relevant details. 
-The form will help track the boat's journey and provide a record of any issues encountered during the trip. 
-It's likely this form is used for internal reporting and tracking purposes by boat operators or management.
-</thinking>
-
 # Boat Log - Help Guide
 ## Purpose
 This form is used to record details about a boat's journey, including departure and arrival information, weather conditions, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Emergency Distribution SWOT Analysis - Help Guide
 ========================================
 

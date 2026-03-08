@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for users to report suspected scams or suspicious activities. Before filling out this form, please ensure you are not submitting a duplicate report. This form was created using AI, but it is not affiliated with any form platform. The form is intended to be used as is, but you are free to adapt and modify it as needed.
-</thinking>
-
 # Scam Link Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about suspicious URLs, attachments, and context related to reported incidents.

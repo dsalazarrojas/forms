@@ -1,12 +1,3 @@
-<thinking>
-This form is for collecting information about students' vision and hearing screenings.
-The form is likely used to gather data on the students' health and medical history.
-The purpose of this form is to collect data that can be used to identify potential health issues or concerns.
-Before starting, please ensure that you are the appropriate person completing this form.
-Please ensure that the student you are completing this form for is the one you intend to.
-Please note that this form is not a duplicate of any other form you have completed in the past.
-</thinking>
-
 # Vision And Hearing Screening - Help Guide
 ## Purpose
 This form is used to gather information about students' vision and hearing screenings.

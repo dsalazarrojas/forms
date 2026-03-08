@@ -1,22 +1,3 @@
-<thinking>
-This help guide is designed for end-users who will be filling out the "Theft Report Form". 
-
-The purpose of this form is to collect information for a theft report, which can be used for investigation or insurance purposes. 
-
-To fill out this form, start by providing the required information in the order of the form fields. You will be asked for the date and time of the incident, a brief description of what happened, details of the suspect, and the contact information of the witness. The witness will also be asked to provide their own contact information and signature. A police officer will be required to review and sign the report, providing their own details and signature. 
-
-The form is divided into several sections:
-
-* The first section requires the date and time of the incident, which should be filled out in the format of MM/DD/YYYY HH:MM:SS.
-* The second section is for the witness to provide their details, including their name, address, and contact information.
-* The third section is for the suspect, where the witness will provide details about the suspect's name, address, vehicle make and model (if applicable), and license plate number.
-* The fourth section is for the police officer to review and sign the report, including their name, ID number, and signature.
-* The fifth section is for the witness to sign and date the report, acknowledging that they have provided accurate information.
-* The last section is optional and allows the police officer to include any additional notes about the report.
-
-It is recommended that the witness and the police officer carefully review the report before submitting it, ensuring that all information is accurate and complete.
-</thinking>
-
 # Theft Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a theft report, which can be used for investigation or insurance purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monthly Distribution Partner Report - Help Guide
 
 ## Purpose

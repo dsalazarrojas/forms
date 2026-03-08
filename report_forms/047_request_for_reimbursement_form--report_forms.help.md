@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for employees to submit requests for reimbursement for company expenses. The form is used to provide detailed information about the expense, including the receipt date, receipt image, and description. The form also requires the employee to provide their name, email, phone number, and other necessary details. The form has multiple fields that are filled out by the employee, and the information is submitted for review and approval. 
-
-</thinking>
-
 # Request For Reimbursement Form - Help Guide
 
 ## Purpose

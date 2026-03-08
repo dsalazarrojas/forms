@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback from peer-reviewers on manuscripts submitted for publication. Reviewers can input their comments, ratings, and suggestions for improvement for each manuscript. The submission date and reviewer details are also captured for record-keeping purposes.
-This form aims to streamline the manuscript review process, ensuring that reviewers can provide comprehensive feedback in an organized and easy-to-read format.
-The form is meant to be used by manuscript reviewers to record their review, comments, and ratings for each manuscript.
-</thinking>
-
 # Manuscript Review Process Report Form - Help Guide
 ## Purpose
 The Manuscript Review Process Report Form is used to gather feedback from peer-reviewers on manuscripts submitted for publication.

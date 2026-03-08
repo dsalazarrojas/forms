@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help employees document their business or personal travel expenses. It's essential to fill out this form accurately and truthfully to ensure that all travel-related costs are accounted for correctly.
-
-When filling out the form, make sure to answer the questions truthfully and provide detailed information. If you're unsure about any field, refer to the field's explanation below for guidance.
-
-The form is divided into sections and pages for easier navigation. Each field is labeled to help you understand what it represents.
-
-</thinking>
 # travel_expense_entry_form - Help Guide
 
 ## Purpose

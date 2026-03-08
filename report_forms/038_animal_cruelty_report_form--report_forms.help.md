@@ -1,7 +1,3 @@
-<thinking>
-The Animal Cruelty Report Form is intended to gather information from individuals who suspect animal cruelty or neglect. This form is meant to be filled out by those who have witnessed or have reason to report such instances, and it will help our team in investigating and addressing these situations. Before filling out the form, please make sure you are not reporting the same incident multiple times, as this may lead to duplicate reports being processed. 
-</thinking>
-
 # Animal Cruelty Report Form - Help Guide
 ## Purpose
 The Animal Cruelty Report Form is designed to gather information from individuals who suspect animal cruelty or neglect. This form will help our team investigate and address these situations effectively.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about company expenses, and it's likely a part of a company's administrative or financial management system. The form might be used by employees to report their expenses for reimbursement or other business-related purposes. It's essential to ensure that only relevant and unique expenses are reported to avoid duplication.
-
-Before filling out the form, please ensure you have all the necessary information and approvals required for reporting expenses.
-</thinking>
-
 # Expense Report - Help Guide
 
 ## Purpose

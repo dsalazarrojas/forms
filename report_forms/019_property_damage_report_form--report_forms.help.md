@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for users to report damage to their property. The form collects information about the property, the damage description, and related contact information. The purpose of the form is to provide a structured way for users to report damage to their properties, which can be used for insurance claims or other purposes. To avoid duplication, users should only submit one report per property per reportable event. If a user needs to report damage to a property multiple times, they should not resubmit the same form multiple times.
 
 # Property Damage Report Form - Help Guide

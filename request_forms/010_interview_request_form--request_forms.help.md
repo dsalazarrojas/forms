@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interview Request Form - Help Guide
 ## Purpose
 The Interview Request Form is used by internal teams to request interviews with candidates who have shown interest in a job opening. This form helps you to gather necessary information about the candidate and their background, making it easier to evaluate them for the job.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to submit a request for a property boundary survey. The purpose of this form is to gather information about the property boundary survey request, including the surveyor's information, the date and time of the site visit, and any other relevant details. 
-
-Please ensure you only submit one request per property. If you need to submit multiple requests, please create a new form for each request. This form should only be used for new property boundary survey requests.
-</thinking>
-
 # Property Boundary Survey Request - Help Guide
 ## Purpose
 The Property Boundary Survey Request form is used to submit a request for a property boundary survey. This form gathers information about the surveyor's details, site visit details, and any other relevant information needed for the survey.

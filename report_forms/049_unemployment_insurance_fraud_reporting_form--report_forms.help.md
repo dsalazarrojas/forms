@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unemployment Insurance Fraud Reporting Form - Help Guide
 ## Purpose
 The Unemployment Insurance Fraud Reporting Form is designed for reporting potential cases of unemployment insurance fraud. It allows you to provide information about a suspect employee and the report's details.

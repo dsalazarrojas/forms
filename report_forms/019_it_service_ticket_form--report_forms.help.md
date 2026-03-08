@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IT Service Ticket Form - Help Guide
 
 ## Purpose

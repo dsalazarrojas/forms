@@ -1,9 +1,3 @@
-<thinking>
-We need to make sure this form is being used for its intended purpose and not duplicated. This form is a critical part of our partner renewal process, ensuring that our marketplace partners have the information we need to verify their accounts. To avoid unnecessary processing time and potential errors, let's review each field carefully to ensure it's filled out correctly. Please make sure you're using this form for its designated purpose and not for other types of requests. 
-
-The Marketplace Partner Renewal Application Form is used by our partners to provide necessary information to support the renewal of their partnership with our marketplace. It's crucial to fill out this form accurately and completely.
-</thinking>
-
 # Marketplace Partner Renewal Application Form - Help Guide
 ## Purpose
 The Marketplace Partner Renewal Application Form is a crucial document that helps us verify your partnership with our marketplace. It contains the necessary information we require to process your renewal.

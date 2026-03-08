@@ -1,10 +1,3 @@
-<thinking>...
-This form is used to report non-conformances and other issues related to equipment, tools, and other assets. The purpose of this form is to provide a structured way to document and track non-conformances, allowing for accurate and efficient issue reporting and follow-up. It's essential to fill out this form correctly to ensure that all relevant information is captured and that the reporting process is completed in a timely manner.
-
-Before filling out this form, please ensure that you have all necessary information and that you are authorized to report non-conformances. This form should only be filled out once for each non-conformance reported.
-
-</thinking>
-
 # nc_reporting_2019 - Help Guide
 ## Purpose
 The nc_reporting_2019 form is used to report non-conformances and other issues related to equipment, tools, and other assets.

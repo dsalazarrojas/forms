@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users report and document nuisance calls and texts that have occurred. It aims to gather essential details about the incident, including the date and time of the call, the phone number involved, and the follow-up actions taken by the user. The form includes fields for reporting the call details, screenshots, and evidence related to the incident. It also allows users to select multiple follow-up actions to take, which can be used to escalate the issue or resolve the matter. This form helps to maintain a record of nuisance calls and texts, enabling better tracking and follow-up.
-
-</thinking>
-
 # Report Nuisance Calls And Texts - Help Guide
 ## Purpose
 This form is used to report and document nuisance calls and texts that have occurred, providing essential details for tracking and resolving these incidents.

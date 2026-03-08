@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about incidents or issues that occurred in the "incident_details" field. This is a crucial information collection exercise to help the team respond and resolve problems effectively. Please ensure you fill out the form as accurately and thoroughly as possible.
-</thinking>
-
 # Google Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents, including details such as the incident's type, summary, description, and status. It also gathers relevant information from the reporter, including their name, contact information, and attachment details. Fill out this form to ensure that your incident report is complete and accurate.

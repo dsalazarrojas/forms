@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning for this form purpose and relevance check:
-- This form is used to collect project status information from team leads and team members.
-- It's likely used by project managers or coordinators to track project progress and identify potential issues.
-- The form fields are designed to be filled out by team members, providing a standardized and consistent way to submit project status updates.
-- To avoid duplication, the form should only be filled out once a week, ideally at the same time each week.
-- The purpose of this form is to provide a clear and concise way to communicate project status to stakeholders.
-</thinking>
-
 # Engineering Project Status Submission Form - Help Guide
 
 ## Purpose

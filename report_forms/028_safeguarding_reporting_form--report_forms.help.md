@@ -1,8 +1,3 @@
-<thinking>...
-This safeguarding reporting form is designed to collect incident information to help prevent and address safety and security issues within the organization. It should be filled out by the reporting person in order to ensure accuracy and completeness of information.
-The form is divided into several pages with various sections, and each field is designed to gather specific information. Please make sure to review each field carefully and fill it out accurately.
-</thinking>
-
 # Safeguarding Reporting Form - Help Guide
 ## Purpose
 The purpose of this form is to collect incident information for safety and security purposes. This will help prevent and address potential issues within the organization.

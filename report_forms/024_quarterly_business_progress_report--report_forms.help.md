@@ -1,10 +1,3 @@
-<thinking>
-The form "Quarterly Business Progress Report" is designed to collect information on the progress of business activities and outcomes for a specific quarter. The goal is to gather data on the status of various aspects of the business, such as performance tracking, outcomes, and next quarter priorities. This form is likely to be used by business unit members or management to report on the progress and challenges encountered during a quarter.
-
-Before proceeding, ensure that this form is not being used for the same purpose as other existing forms, and that you have the necessary permissions to access and submit the data collected in this form.
-
-</thinking>
-
 # Quarterly Business Progress Report - Help Guide
 
 ## Purpose

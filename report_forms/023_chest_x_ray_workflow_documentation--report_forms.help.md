@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a medical imaging workflow documentation form for radiologists to record their assessment and findings after reviewing a chest X-ray image. The form asks for information about the patient's demographic details, examination type, patient positioning, image quality, and a detailed assessment of various anatomical structures such as the lungs, heart, mediastinum, diaphragm, and others. Each field in the form seems to be well-defined, with a clear hierarchy of questions that follow a logical sequence for a comprehensive assessment. There is no duplication of effort, and each field is relevant to the overall purpose of the form. 
-
-Based on the form structure, it is clear that the primary goal is to provide a detailed radiological assessment and findings of the patient's chest X-ray image.
-
-</thinking>
-
 # Chest X Ray Workflow Documentation - Help Guide
 ## Purpose
 This form is used to document the imaging workflow and findings after reviewing a chest X-ray image. It ensures that the radiologist thoroughly assesses the image and provides accurate information about the patient's condition.

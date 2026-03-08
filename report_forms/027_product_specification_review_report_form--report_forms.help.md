@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for product specification review reports. This form is used to gather data on product specifications, review dates, reviewer information, and compliance status. It is intended for reviewers to provide feedback on products, and the form should only be completed by authorized personnel. Please ensure that all required fields are filled out correctly to avoid any discrepancies or errors.
-</thinking>
-
 # Product Specification Review Report Form - Help Guide
 ## Purpose
 The Product Specification Review Report Form is a tool used to collect data on product specifications, review dates, reviewer information, and compliance status. It is used by authorized personnel to provide feedback on products and ensure that all necessary information is collected accurately and completely.

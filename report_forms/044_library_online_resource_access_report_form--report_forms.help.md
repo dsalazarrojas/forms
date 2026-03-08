@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect reports from patrons regarding issues with accessing online resources, allowing librarians to track and address these concerns. The form's purpose is to gather information that will help libraries identify and resolve problems with online access to their resources.
-</thinking>
-
 # library_online_resource_access_report_form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information about reported crimes, providing a standardized way for users to document and submit incidents. The purpose of this form is to gather data that can aid in the investigation and processing of reported crimes. This form should not be used for non-crime related matters, and users should not be required to fill out this form if they have already submitted a similar incident report. 
-</thinking>
 # Crime Report Form - Help Guide
 ## Purpose
 The Crime Report Form is a tool used to collect standardized information about reported crimes. It is designed to gather data that can aid in the investigation and processing of reported incidents.

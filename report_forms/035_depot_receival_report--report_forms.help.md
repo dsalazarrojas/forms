@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to record the receipt of goods into a warehouse. The form is used for inventory management and tracking purposes. 
 
 To ensure consistency, it's essential that you accurately and thoroughly fill out this form for every item you receive.

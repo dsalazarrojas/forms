@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Pet Health Record Form is to collect information about a pet's health status, including medications, vaccinations, and other relevant details. This form is designed to be completed by pet owners or caregivers to provide a comprehensive record of a pet's health history.
-
-It's crucial to ensure that this form is completed accurately and consistently to maintain up-to-date records of a pet's health. This form is not intended to be a medical diagnosis tool, and any medical decisions should be made by a licensed veterinarian.
-
-Please verify that this form is not being used in duplicate or for any other purpose than its intended use as a pet health record.
-</thinking>
-
 # Pet Health Record Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a pet's health status, including medications, vaccinations, and other relevant details.

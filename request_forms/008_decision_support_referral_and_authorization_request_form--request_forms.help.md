@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Decision Support Referral And Authorization Request Form - Help Guide
 
 ## Purpose

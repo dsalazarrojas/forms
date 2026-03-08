@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations wishing to donate products to the organization. The purpose of this form is to gather necessary details for the logistics and coordination of the donation, ensuring a smooth process for all parties involved. Please review this form to ensure your information is accurate and complete before submission.</thinking>
-
 # Product Donation Request Form - Help Guide
 ## Purpose
 The "Product Donation Request Form" is used to collect information from donors who wish to donate products to the organization. Fill out this form to provide your details and ensure a smooth coordination of the donation process.

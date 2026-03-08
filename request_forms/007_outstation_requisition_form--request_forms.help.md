@@ -1,5 +1,3 @@
-<thinking>... This form is designed to support the process of requesting outstation, an employee-initiated trip that is not part of the regular daily commute, but rather a one-time trip for an approved purpose. The form is meant to gather relevant information about the trip, including employee ID, name, department, and the nature of the trip. Each section of the form will guide you through the various fields that need to be filled in order to ensure a smooth and efficient outstation process...</thinking>
-
 # Outstation Requisition Form - Help Guide
 ## Purpose
 This form is used to request approval for an outstation, a one-time trip outside of the regular work hours or location. It helps to track and manage outstation requests in a centralized manner.

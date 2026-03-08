@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restraining Order Service Status Form - Help Guide
 ## Purpose
 This form is used to track and report the status of restraining orders. It captures information about the order's status, service updates, and other relevant details.

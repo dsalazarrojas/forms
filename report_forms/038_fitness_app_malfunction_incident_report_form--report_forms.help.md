@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about malfunctions or issues with the fitness app. It will help track and resolve issues to provide a better user experience. To ensure accurate data and prevent duplication, please only submit new reports after reviewing and verifying that a similar report has not already been submitted.
-
-Before starting the form, ensure you understand the severity levels:
-  - Minor: Small issue, no major impact on the app's functionality.
-  - Major: Significant issue, but the app can still be used but with limitations.
-  - Critical: Major issue, the app is unusable or severely impacted.
-
-The form will help us understand the issue's impact, identify the cause, and provide a solution to prevent future occurrences.
-
-Please answer the form questions accurately to help our team resolve the issue efficiently.
-</thinking>
-
 # Fitness App Malfunction Incident Report Form - Help Guide
 ## Purpose
 This form is used to report malfunctions or issues with the fitness app. It helps our team to quickly identify and resolve the problems, providing a better user experience.

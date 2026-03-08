@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about sales calls, including the date of the call, customer details, and sales outcome. This form should only be used for sales calls that have already taken place and should not be used for duplicate reporting. The information collected will be used for sales analysis and reporting purposes.
-</thinking>
-
 # Sales Call Report Form - Help Guide
 ## Purpose
 The Sales Call Report Form is a tool used to document sales calls and their outcomes. It helps in collecting and analyzing data about customer interactions, customer types, and sales results.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track and document patient and employee information for flu mask compliance. This form is intended to be used by employees in high-risk environments such as hospitals, clinics, and other healthcare settings to monitor and report on flu exposure among patients and employees. It is essential to ensure that all employees are properly trained and equipped to handle flu cases, and this form helps to streamline the process of reporting and tracking flu exposure.
-</thinking>
-
 # flu_mask_compliance_form - Help Guide
 ## Purpose
 The flu mask compliance form is designed to track and document patient and employee information for flu mask compliance. This form is used to monitor and report on flu exposure among patients and employees in high-risk environments such as hospitals, clinics, and other healthcare settings.

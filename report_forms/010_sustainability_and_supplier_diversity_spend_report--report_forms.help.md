@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information for a report related to sustainability and supplier diversity spend. The form likely aims to gather data on the company's suppliers, their sustainability information, and other relevant details. Before proceeding, ensure that you have not already submitted this report for the same period, as this form is intended for a specific time frame. Please review the form carefully to ensure all required fields are completed accurately.
-</thinking>
-
 # sustainability_and_supplier_diversity_spend_report - Help Guide
 ## Purpose
 This form is designed to gather information for a report on sustainability and supplier diversity spend. It helps the company track and analyze data on its suppliers, their sustainability practices, and other related details.

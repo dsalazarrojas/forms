@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and log the data collected from blast vibration monitoring activities. This data will be used to track and analyze the effectiveness of blast monitoring systems and identify areas for improvement. To ensure accurate and consistent data, please ensure that you have filled out all required fields and that the correct information is provided in each field. Please do not fill out this form if you have already filled it out for the same site and blast identifier. If the form is filled out for the same site and blast identifier, it will be treated as a duplicate and will not be processed.
-</thinking>
-
 # Blast Vibration Monitoring Log - Help Guide
 
 ## Purpose

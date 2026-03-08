@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users interested in requesting an embroidery quote from a business. The form will collect user, contact, and company information, as well as the request for the quote. This form will not collect sensitive or financial information, and it's intended for business-to-business use only.
-</thinking>
-
 # Embroidery Quote Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in requesting an embroidery quote from a business.

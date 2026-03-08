@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form design and user-facing documentation, let's clarify a few things. This "Farm Land Lease Form" likely aims to collect information about a land lease agreement between a landowner and a tenant, covering aspects such as the lease term, land use, lease start and end dates, and contact information. It might serve as a template or a guide for users to understand what details they need to fill in to create such a lease agreement. Let's see if the fields provided align with this general purpose.</thinking>
-
 # Farm Land Lease Form - Help Guide
 ## Purpose
 The Farm Land Lease Form is designed to collect necessary information for a land lease agreement between a landowner and a tenant. This form will guide you through the required and optional fields to ensure a comprehensive lease agreement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Online Class Reporting Form - Help Guide
 
 ## Purpose

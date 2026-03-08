@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Suspicious Activity Report Form - Help Guide
 ## Purpose
 The Suspicious Activity Report Form is designed to collect information about reported incidents or behaviors that are suspicious or warrant further investigation. This form is intended for use in reporting potential security threats or irregularities. Please complete this form carefully and honestly to provide accurate and useful information for further investigation.

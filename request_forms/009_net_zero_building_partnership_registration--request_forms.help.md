@@ -1,7 +1,3 @@
-<thinking>
-This guide is to be used by partners, collaborators, and affiliates that want to register their organization to the Net Zero Buildings project. It is intended for organizations that want to collaborate with the Net Zero Buildings project. Please note that the form should not be filled out if your organization is not interested in collaborating with the project or has already been registered.
-</thinking>
-
 # Net Zero Building Partnership Registration - Help Guide
 ## Purpose
 

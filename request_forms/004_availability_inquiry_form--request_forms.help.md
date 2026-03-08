@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners regarding their pet's availability for services such as grooming, boarding, veterinary visits, and daycare. The form is meant to be completed by pet owners to inform service providers of their pet's needs and preferences. 
-
-To prevent duplication, the system will check for existing records before creating a new one. If a user attempts to create a new record with the same pet's name and owner's email, a confirmation will be required to ensure the update is intentional.
-
-For a user to complete this form, they must enter the required information for each field and ensure it meets the specified conditions.
-</thinking>
-
 # Availability Inquiry Form - Help Guide
 ## Purpose
 The Availability Inquiry Form is designed to collect essential information from pet owners to schedule services for their pets.

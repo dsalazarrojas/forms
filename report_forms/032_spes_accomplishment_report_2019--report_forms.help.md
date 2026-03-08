@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spes Accomplishment Report 2019 - Help Guide
 
 ## Purpose

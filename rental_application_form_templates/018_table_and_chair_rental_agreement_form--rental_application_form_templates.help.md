@@ -1,5 +1,3 @@
-<thinking> This form, titled "Table And Chair Rental Agreement Form", appears to be a template for capturing information related to the rental of tables and chairs for events or other purposes. The form is likely intended for customers or clients to provide details about their rental needs, including the type of chair, quantity, and color required. The form also asks for event details, rental terms, payment terms, and other relevant information. It's probable that the form is used in a business setting, such as a catering or rental service company, to collect and store data for processing and follow-up. Given the provided YAML, it's not clear what specific data or actions are required for each field, so the guide will explain each field based on its label and type.</thinking>
-
 # Table And Chair Rental Agreement Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # equipment_rental_order_form - Help Guide
 
 ## Purpose

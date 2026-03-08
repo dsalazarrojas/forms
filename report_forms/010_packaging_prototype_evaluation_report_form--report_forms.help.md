@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form should only be used to evaluate packaging prototypes, and the purpose is to collect feedback on the packaging concept, design, and performance. The form should be filled out by the packaging evaluator, and the reviewer should verify and sign the form. The date and time of the review should be recorded accurately. This form is an evaluation tool for packaging prototypes, and its purpose is to collect and document feedback from evaluators and reviewers.
-</thinking>
-
 # Packaging Prototype Evaluation Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on packaging prototypes. It's meant for packaging evaluators to document their assessment of a prototype's packaging concept, design, and performance.

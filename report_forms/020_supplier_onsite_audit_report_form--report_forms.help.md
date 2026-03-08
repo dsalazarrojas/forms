@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for suppliers to report on-site audits, providing critical feedback and insights to assess the supplier's performance, operations, and overall readiness for partnership. This form ensures that the supplier has a clear understanding of their current status and areas for improvement.
-This form aims to collect information from suppliers that is accurate, reliable, and up-to-date. It is essential that suppliers fill out this form carefully and thoroughly, as the information gathered will be used to assess their suitability for partnership.
-To avoid duplication or inaccurate reporting, please ensure that the supplier completes this form only once per audit and that the information is accurate and current. Suppliers should not reuse or modify previous reports.
-</thinking>
-
 # Supplier Onsite Audit Report Form - Help Guide
 ## Purpose
 This form is designed to collect information from suppliers about their on-site audit. It includes fields to capture the supplier's name, contact number, audit status, audit findings, and other relevant details.

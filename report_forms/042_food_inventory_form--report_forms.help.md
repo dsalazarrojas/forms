@@ -1,11 +1,3 @@
-<thinking>
-The "Food Inventory Form" is used to track and record information related to food inventory, including quantity ordered, received, and in use, as well as reorder points and frequencies. This form can be used to maintain up-to-date records for inventory categories, subcategories, and individual items. It can help users to identify when to reorder food items and to track the quantity of food items in the inventory. The form includes fields for notes and dates for additional information. 
-This form will be used to track and record information for a variety of food items, including meats, produce, dairy, baking and pantry items, frozen items, condiments, oils, seasonings, spices, seafood, and more. 
-Please note that all fields are required except for "Quantity In Use" and "Notes Last 3 Months" which are optional. 
-This form has 25 fields in total, including 2 select_one fields for inventory category and subcategory, 2 select_multiple fields, 2 date fields, 1 number field, and 2 note fields. 
-Please ensure that all required fields are filled out before submitting the form. 
-</thinking>
-
 # Food Inventory Form - Help Guide
 ## Purpose
 The Food Inventory Form is used to track and record information related to food inventory, including quantity ordered, received, and in use, as well as reorder points and frequencies.

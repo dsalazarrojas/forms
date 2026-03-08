@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outpatient Volume Report Form - Help Guide
 
 ## Purpose

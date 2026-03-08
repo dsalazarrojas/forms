@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track student progress for Hanaro, likely a language learning or skill assessment program. The form asks for demographic information (student name and ID), skill level (reading, listening, and understanding), and progress metrics (reading average, listening average, understanding average). It also asks for dates (date completed, date started, and target dates for reading, listening, and understanding), notes on progress, and steps for further improvement. The form is meant to be completed for individual students, likely to track their progress and performance.
-</thinking>
-
 # Hanaro Progress Sheet Report Template - Help Guide
 ## Purpose
 The Hanaro Progress Sheet Report Template is designed to track student progress and performance in a language learning or skill assessment program.

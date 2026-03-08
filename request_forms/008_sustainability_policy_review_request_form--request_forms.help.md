@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for requesting a review of the organization's sustainability policy, which is a critical process to ensure that the organization's policies are up-to-date and align with current environmental and social standards. Before submitting a request, please verify that you have not already submitted a review request within the past 6 months. This helps to avoid duplication of effort and ensures that the form is used correctly. Please note that some fields may be required for the form to be valid, and submitting incomplete forms may lead to delays in processing your request.
-</thinking>
-
 # Sustainability Policy Review Request Form - Help Guide
 ## Purpose
 

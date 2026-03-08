@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to track student climbing activities, specifically tree climbing. It's intended for use by students to record their climb dates, details, and other relevant information. This form should not be used for other purposes, and users should not submit multiple instances of the same climb. 
-
-</thinking>
-
 # Tree Climbing Log - Help Guide
 ## Purpose
 The Tree Climbing Log form is used to record and track student tree climbing activities. This includes recording dates of climbs, student details, and other relevant information.

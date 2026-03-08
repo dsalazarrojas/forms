@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a fingerprinting quote request. It is primarily used to gather details about the service, schedule preferences, and contact information. The form can be submitted with or without additional comments. 
-
-Please ensure that you are not submitting duplicate requests, as this form is used to generate a quote for one-time services. 
-
-Before filling out this form, please ensure that you have all necessary information available to avoid incomplete submissions.
-</thinking>
-
 # Fingerprinting Quote Request Form - Help Guide
 ## Purpose
 The Fingerprinting Quote Request Form is used to collect information for a fingerprinting quote request.

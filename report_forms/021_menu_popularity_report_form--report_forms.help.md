@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for collecting data on menu popularity, likely for businesses or organizations with menu-based offerings. The form could be used to track customer feedback on menu items, gauge customer preferences, or analyze menu performance. To confirm, I will base the help guide on these assumptions.
-
-</thinking>
-
 # Menu Popularity Report Form - Help Guide
 ## Purpose
 This form is designed to help you collect and analyze data on menu popularity. It consists of four pages: Main Page, Menu Item Form, Submit Form, and Confirm Form. Please use this guide to navigate each page and submit your report.

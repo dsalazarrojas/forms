@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about lost and found properties. It's likely used by a school, office, or other institution to gather details from students or staff about lost items. The form should only be filled out once for each lost item. This guide will help you understand what each field is for and how to complete it accurately.
-</thinking>
-
 # Lost And Found Property Form - Help Guide
 ## Purpose
 The Lost And Found Property Form is used to report a lost item within the institution's premises. Please fill out this form with accurate and clear information about the lost property.

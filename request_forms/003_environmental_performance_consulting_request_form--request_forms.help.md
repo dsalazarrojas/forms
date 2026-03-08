@@ -1,8 +1,3 @@
-<thinking>
-This guide is to ensure that the form is filled out by the correct person and that there is no duplication of requests. The purpose of this form is to provide a structured way to gather information from users who would like to request consulting services. 
-This form helps in identifying the user correctly and ensures that the requests are not duplicated and can be easily managed by the team.
-</thinking>
-
 # Environmental Performance Consulting Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users who would like to request consulting services in order to ensure that the request is properly handled and no duplication of requests occurs.

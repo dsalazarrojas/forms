@@ -1,7 +1,3 @@
-<thinking>
-This guide is to help ensure the user understands the purpose and completion of the Mortgage Lien Release Form, which is crucial for verifying loan repayments in real estate. Before proceeding, let's ensure that this form is being used correctly. Is there any duplication or overlap with other forms or processes? Are we certain that all relevant information has been gathered?
-</thinking>
-
 # Mortgage Lien Release Form - Help Guide
 ## Purpose
 This form is designed to facilitate the process of verifying loan repayments in real estate by releasing mortgages. It serves as a template for documenting and recording the necessary details.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the Ca Hong Kong Logins form, a reporting tool used to document and record login events. This form is designed to help track and monitor login activity on various systems, ensuring accuracy and accountability. To ensure the form is used effectively, please note that:
-- All fields are required unless otherwise specified.
-- Each section is designed to collect specific information, so fill out each field only when applicable.
-- If you're unsure about any field, refer to this guide for clarification.
-</thinking>
-
 # Ca Hong Kong Logins - Help Guide
 ## Purpose
 The Ca Hong Kong Logins form is a tool for reporting and recording login events on various systems. It is used to track and monitor login activity, ensuring that any issues or anomalies are promptly addressed.

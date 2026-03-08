@@ -1,12 +1,3 @@
-<thinking> 
-This template is designed to be used by healthcare professionals to document the progress of a patient's treatment in an outpatient psychiatric setting. It should only be filled out for new patients, and should not be duplicated for subsequent visits unless there are significant changes in the patient's mental status or treatment plan. 
-
-The form is used to track the patient's mental status, treatment plan, and other relevant information. It should be filled out in real-time during each patient visit, and should be kept up-to-date as the patient's condition changes. 
-
-This template is intended to be used by licensed healthcare professionals, and the information collected is for the purpose of patient care. 
-
-</thinking>
-
 # Outpatient Psychiatric Progress Note Template - Help Guide
 ## Purpose
 This template is designed to document the progress of a patient's treatment in an outpatient psychiatric setting.

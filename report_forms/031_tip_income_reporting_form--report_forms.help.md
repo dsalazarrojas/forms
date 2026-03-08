@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting income earned during shifts, which is a crucial aspect of employee compensation. The form collects relevant shift-related information, such as shift name, workday, and shift manager's name, as well as income-related details like tax deductions, tip income, and other income. This form also captures submission-related data, including the submit date, time, and by whom the form was submitted. It's essential to ensure accurate reporting to maintain employee records and financial accuracy.
-</thinking>
-
 # Tip Income Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about employee income earned during shifts, including shifts worked, income earned, and submission details.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to record the results of a boat inspection, which is a critical process for ensuring the safety and seaworthiness of a vessel. The form is designed to capture detailed information about the boat's condition, including its engine, electrical, and safety systems. This information will be used to inform maintenance and repair decisions, as well as to determine whether the boat is ready for use.
-
-Before starting the form, please make sure that the inspection has been conducted thoroughly and accurately. This form should only be used for boats that have been inspected by a qualified inspector. If you are unsure about any of the information requested, please consult with a qualified inspector or a maintenance expert.
-
-Please note that this form is not meant to be used for commercial purposes. If you need to use this form for commercial purposes, please contact us to discuss your specific needs and requirements.
-
-To prevent duplication, please do not submit duplicate forms for the same boat.
-</thinking>
-
 # Boat Inspection Checklist Form - Help Guide
 ## Purpose
 The Boat Inspection Checklist Form is used to record the results of a boat inspection, capturing detailed information about the boat's condition, including its engine, electrical, and safety systems.

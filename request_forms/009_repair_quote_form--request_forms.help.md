@@ -1,11 +1,3 @@
-<thinking>
-We will be creating a help guide for a repair quote form used in a service-based business. The form is used to collect information from customers about their repair needs and preferences. Before proceeding, we should ensure that we are not duplicating effort or wasting time. 
-
-The form is designed to gather details about the customer's service request, including their name, phone number, email address, and other relevant information. 
-
-The form will be used by the business to provide an accurate quote for the requested service. By understanding the form's purpose and how to complete it, end-users will be able to provide the necessary information efficiently and effectively.
-
-</thinking>
 # Repair Quote Form - Help Guide
 ## Purpose
 The Repair Quote Form is used to collect information from customers about their repair needs and preferences. This information is used to provide an accurate quote for the requested service.

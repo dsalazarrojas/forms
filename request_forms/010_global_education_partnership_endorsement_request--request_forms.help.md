@@ -1,17 +1,3 @@
-<thinking>
-This form is used to request a global education partnership endorsement. When requesting an endorsement, we want to make sure that the information provided is accurate and complete. To avoid duplication, please ensure that you have not already submitted a request for the same organisation. 
-This form consists of a single page with the following fields: 
-- global_education_partnership_endorsement_request_page_1 (a free-text field for any additional information), 
-- name (the name of the organisation), 
-- contact_person (the name of the contact person), 
-- organisation (the organisation's status in the partnership), 
-- email (the email address of the contact person), 
-- proposal (the proposal or proposal details), 
-- review (whether the proposal needs review), 
-- submit (whether the request needs submission), 
-- confirm (whether the request needs confirmation).
-</thinking>
-
 # Global Education Partnership Endorsement Request - Help Guide
 ## Purpose
 This form is used to request a global education partnership endorsement. Fill in the details of your organisation and proposal to help us understand your request.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in submitting a flight rescheduling request. 
-Before submitting the form, users should ensure that it is for a valid flight rescheduling purpose and is not a duplicate request. 
-Please note that submitting a duplicate request may cause unnecessary delays and confusion in the rescheduling process.
-</thinking>
-
 # Flight Rescheduling Request Form - Help Guide
 
 ## Purpose

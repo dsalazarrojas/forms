@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for a "Room Rental Application Form" to assist end-users in understanding its purpose, completion process, and field explanations. This form is a digital representation of a traditional rental application form used by landlords or property managers to collect information from potential renters. The form's primary purpose is to gather essential details about the applicant, such as their personal contact information, desired move-in date, and lease length preferences. This guide will walk users through the form's fields and provide clear explanations for each.
-
-Please note that the form's fields are relatively simple and straightforward, and the instructions will be concise and to the point.
-
-</thinking>
-
 # Room Rental Application Form - Help Guide
 ## Purpose
 The Room Rental Application Form is a digital document used to collect information from potential renters. This form helps landlords or property managers to gather essential details about the applicant and make informed decisions about their rental applications.

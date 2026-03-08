@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help organizations track and report their COVID-19 precautions and measures in place to prevent the spread of the virus. This form is intended for organizations that are required to report on their COVID-19 precautions and measures to ensure public health and safety. To fill out this form, please ensure that you have the necessary information and authorization to report on behalf of your organization.
-
-Before filling out this form, please review your organization's protocols and ensure that you are accurately reporting the measures and precautions you have in place.
-</thinking>
-
 # COVID 19 Precaution Form - Help Guide
 ## Purpose
 This form is designed to help organizations report their COVID-19 precautions and measures to ensure public health and safety.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used by immigration consultants to provide a liability waiver for their clients. The purpose of this form is to document that the client understands and agrees to the terms of the consultancy's liability waiver. The form is used to collect information about the consultant and the client, including the date and time of signing, as well as the signatures of both parties.
-This form is meant to be completed by the consultant, and is not intended to be used by anyone else. Before filling out this form, ensure that it has been reviewed and approved by relevant parties.
-Ensure that the form is not used in situations where it may cause harm or conflict of interest. If you're unsure about the form's purpose or usage, please seek clarification before proceeding.
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-</thinking>
-
 # immigration consultancy liability waiver - Help Guide
 ## Purpose
 This form is used to document a consultant's liability waiver for their clients.

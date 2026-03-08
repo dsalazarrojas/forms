@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and investigate incidents related to hostile network activity. It is designed to collect information about the incident, including a brief summary, date and time, location, incident type, and other relevant details. The form also includes fields for the incident reporter's name and notes, as well as for the security team members involved in the investigation. The form is used to track the status of the investigation and the resolution of the incident.
-</thinking>
-
 # Hostile Network Investigation Form - Help Guide
 ## Purpose
 

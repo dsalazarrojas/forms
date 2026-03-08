@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from volunteers about their activities and hours worked. It is meant to be completed by volunteers who have participated in various activities and events, and it will help us understand their contributions and impact. Please ensure that you only submit reports for activities that have not been previously reported on, and that you have not reported on the same date. If you are unsure or have any questions, please reach out to us for assistance.
-</thinking>
-
 # Volunteer Report Form - Help Guide
 ## Purpose
 The Volunteer Report Form is used to gather information from volunteers about their activities and hours worked. It helps us understand their contributions and impact.

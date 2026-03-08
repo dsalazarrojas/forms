@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for petty cash transactions. The purpose of this form is to provide a structured way to record and track petty cash expenses. The form is likely used by accounting or finance teams to monitor and manage petty cash accounts.
-
-Before filling out this form, ensure that you have the necessary permissions and approvals to perform transactions on the company's petty cash account. This form should not be used to record or report non-petty cash transactions, such as large purchases or non-standard expenses. If you are unsure about a specific transaction, please consult with the accounting or finance department before proceeding.</thinking>
-
 # Petty Cash Form - Help Guide
 
 ## Purpose

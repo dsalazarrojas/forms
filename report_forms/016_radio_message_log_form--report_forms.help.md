@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely used for a radio system or communication log, and it seems to be tracking messages sent and received, including details such as message type, date, time, location, and the personnel involved in the process. This form might be used by a team or organization that relies on radio communication, such as emergency services, military, or public transportation.
-
-Before filling out this form, please make sure that you are not duplicating a report that already exists. Ensure that you are submitting the form through the correct channel, such as through a chat system or by filling it out manually.
-
-</thinking>
-
 # Radio Message Log Form - Help Guide
 ## Purpose
 This form is designed to track radio messages sent and received, including details such as message type, date, time, location, and personnel involved in the process.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from users when they want to review a supplier's offerings and request a review. This form is intended for internal use and is not publicly accessible. It's essential to only use this form for genuine requests and to avoid duplicate submissions. Review requests may be approved or rejected based on the criteria specified in the form.
-
-</thinking>
-
 # New Supplier Review Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their e-commerce experiences, including their contact details, order information, and any issues they may have encountered. The form should only be used to report customer service issues, and not for general feedback or other purposes. To avoid duplication, please ensure that you are not submitting duplicate reports for the same issue.
-</thinking>
-
 # E Commerce Customer Service Report Form - Help Guide
 ## Purpose
 This form is used to report any issues or concerns customers have experienced with our e-commerce services. It helps us to track and resolve problems efficiently, ensuring that our customers receive the best possible service.

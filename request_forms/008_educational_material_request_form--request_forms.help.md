@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting educational materials, likely for students or researchers, to access resources such as books, articles, or other materials. It is recommended to review the form before submission to ensure the request is not a duplicate and aligns with the organization's existing resources. Please use this form to request materials that are not readily available through existing channels. 
-</thinking>
-
 # Educational Material Request Form - Help Guide
 ## Purpose
 The Educational Material Request Form is designed to help users request access to educational materials that are not readily available through existing resources.

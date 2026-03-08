@@ -1,5 +1,3 @@
-<thinking>...The Audit Form is designed to capture key information and findings from audits conducted within an organization. Before starting the audit, please ensure that the audit title, number, and date are correctly filled out. This form will be reviewed for completeness and accuracy. Duplicate audits will not be accepted. Please ensure you are filling out the correct audit type and scope before proceeding. Also, please note that some fields are required for the audit to be considered complete. Please fill out the form according to the instructions and ensure you have filled out all required fields. If you are unsure about any field, please refer to the field-by-field explanation below.</thinking>
-
 # Audit Form - Help Guide
 ## Purpose
 The Audit Form is a tool for capturing key information and findings from audits conducted within an organization. It helps in maintaining records and ensuring accuracy and completeness of audits.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about reported incidents. It captures details about the incident, including the date and time it occurred, the type and description of the incident, and the status and category of the incident. This form is likely used for reporting near misses, safety incidents, or other relevant workplace safety and security events. To prevent duplicate reports, please ensure that you are not reporting an incident that has already been reported. If you are unsure or have questions, please reach out to your supervisor or safety team.
-</thinking>
-
 # eod - Help Guide
 
 ## Purpose

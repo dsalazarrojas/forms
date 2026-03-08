@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the current condition of a property, including its category, type, and a brief description of the condition. It's likely used by property managers, maintenance personnel, or inspectors to assess and report on the condition of a property after inspection. This form could be used in various scenarios, such as property maintenance, risk assessment, or damage reporting. The fields should not be completed if the property condition is not relevant or if the property does not exist.
-</thinking>
-
 # Property Condition Report - Help Guide
 ## Purpose
 The Property Condition Report form is designed to collect detailed information about the condition of a property. This report is typically completed after an inspection and is used to assess the property's current state.

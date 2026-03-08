@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help office staff quickly and easily track and report the daily cleaning activities that are completed in the office. This form will guide you through the necessary steps to provide a clear and concise report of the cleaning tasks performed, the frequency of cleaning, and any additional comments or notes.
-The following help guide will walk you through the purpose, the steps to complete this form, and a detailed explanation of each field.
-</thinking>
-
 # Daily Office Cleaning Checklist - Help Guide
 ## Purpose
 This form is designed to help office staff quickly and easily track and report the daily cleaning activities that are completed in the office.

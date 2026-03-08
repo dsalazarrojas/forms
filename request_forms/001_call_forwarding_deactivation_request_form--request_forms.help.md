@@ -1,23 +1,3 @@
-<thinking>
-This form is for account holders to request the deactivation of call forwarding services. The purpose of this form is to gather the necessary information to process the request accurately and efficiently. 
-
-Before filling out this form, ensure you have the correct account information and that you are the authorized account holder.
-
-When completing this form, please provide the following:
-
-- The full name of the account holder
-- A valid account number
-- A contact phone number for follow-up
-- A valid email address for confirmation
-- The specific phone line to deactivate call forwarding on
-- The service provider of the account
-- The date and time when the deactivation should take effect
-- The reason for deactivation (optional)
-- Any additional comments or instructions
-- A valid electronic signature to authorize the request
-
-Please fill out the form carefully and accurately, as this information will be used to process your request.</thinking>
-
 # Call Forwarding Deactivation Request Form - Help Guide
 ## Purpose
 The Call Forwarding Deactivation Request Form is used to request the deactivation of call forwarding services on your account.

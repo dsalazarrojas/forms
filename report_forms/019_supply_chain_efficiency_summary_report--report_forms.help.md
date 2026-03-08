@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block to check if form purpose and content are clear and well-documented. The Supply Chain Efficiency Summary Report form is designed to gather information on the performance and efficiency of a team within the supply chain. This form is likely used for tracking progress, identifying bottlenecks, and planning improvement actions. It's essential to ensure that the form's purpose and content are well-understood by the end-users. A clear and concise explanation of each field will help users complete the form accurately and efficiently...</thinking>
-
 # Supply Chain Efficiency Summary Report - Help Guide
 ## Purpose
 This form is used to gather information on the performance and efficiency of a team within the supply chain. It helps track progress, identify bottlenecks, and plan improvement actions.

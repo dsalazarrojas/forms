@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating a sworn statement for a user to declare that they have not been influenced by any external source while providing input for our system. This form is crucial for maintaining the integrity and objectivity of our user input. Please ensure that you are not duplicating the form submission as it may lead to unnecessary processing time and potential errors in our system. 
-</thinking>
-
 # Sworn Statement Form - Help Guide
 ## Purpose
 The Sworn Statement Form is a crucial step in ensuring the objectivity and integrity of user input in our system. This form is designed to help users declare that they have not been influenced by any external sources while providing input.

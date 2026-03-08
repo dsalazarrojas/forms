@@ -1,7 +1,3 @@
-<thinking>
-The form "Start Of Shift Vehicle Inspection Report Form" is a document used to report on the condition and status of a vehicle at the beginning of a shift. It is used to record observations and checks on various aspects of the vehicle, including its fuel level, engine oil level, transmission oil level, and other critical systems. This form is an important tool for mechanics and maintenance personnel to ensure that vehicles are properly inspected and serviced before they are put into operation.
-</thinking>
-
 # Start Of Shift Vehicle Inspection Report Form - Help Guide
 ## Purpose
 The Start Of Shift Vehicle Inspection Report Form is a critical document that helps you assess the condition and status of a vehicle at the start of a shift. It is essential for identifying potential issues and ensuring that vehicles are properly inspected and serviced before they are put into operation.

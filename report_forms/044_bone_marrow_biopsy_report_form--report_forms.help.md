@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the results of a bone marrow biopsy procedure. The form collects information on the patient's demographic details, the details of the biopsy procedure, and the results of the pathology examination. The form is completed by the pathologist reviewing the sample. The fields in this form are designed to provide a comprehensive record of the procedure and its results.
-</thinking>
-
 # Bone Marrow Biopsy Report Form - Help Guide
 ## Purpose
 This form is used to document the results of a bone marrow biopsy procedure.

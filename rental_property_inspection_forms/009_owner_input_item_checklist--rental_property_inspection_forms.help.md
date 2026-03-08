@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll provide a user-facing help guide for the "Owner Input Item Checklist" form. This form is designed for owners or property managers to input and verify the condition of a rental property. It's essential to understand the form's purpose and how to complete it accurately to ensure data consistency and reliability. Before proceeding, let's clarify the form's intention and required fields.</thinking>
-
 # Owner Input Item Checklist - Help Guide
 ## Purpose
 The "Owner Input Item Checklist" form is used by owners or property managers to input and verify the condition of a rental property. This form helps to track and document the items checked and verified during the inspection process.

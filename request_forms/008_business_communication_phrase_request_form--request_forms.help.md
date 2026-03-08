@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's first understand the purpose and context of the Business Communication Phrase Request Form. This form was designed to collect information to help create effective business communication phrases tailored to specific communication contexts and target audiences. It's essential to complete this form carefully to ensure that the created phrase accurately reflects the intended message and reaches the desired audience.</thinking>
-
 # Business Communication Phrase Request Form - Help Guide
 ## Purpose
 The Business Communication Phrase Request Form is designed to help create tailored communication phrases for various contexts and target audiences. This form will guide the user through a series of questions to gather essential information about the requester, the communication context, and the desired outcome.

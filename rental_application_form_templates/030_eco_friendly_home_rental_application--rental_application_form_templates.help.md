@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information from applicants regarding their rental application for an eco-friendly home. The form will guide the applicant through a series of questions to ensure they have provided all necessary information to complete their application. Please note that the form is designed to be completed by the applicant, and the information provided will be used to assess their eligibility for the rental property. The form is not intended to be a comprehensive assessment of the applicant's background or creditworthiness.
 
 </thinking>

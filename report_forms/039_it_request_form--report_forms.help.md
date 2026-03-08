@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used for reporting internal IT issues that require assistance or resolution. The fields are designed to capture relevant information about the issue, allowing the IT team to triage and prioritize issues effectively. Before filling out the form, please ensure that the issue is not already reported or known to the IT team. If you're unsure, check with the team or the internal issue tracker.
-
-</thinking>
-
 # it_request_form - Help Guide
 ## Purpose
 This form is used to report internal IT issues that require assistance or resolution.

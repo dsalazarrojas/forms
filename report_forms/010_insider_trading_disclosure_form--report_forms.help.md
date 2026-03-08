@@ -1,5 +1,3 @@
-<thinking>Insider Trading Disclosure Form is used to report trades or transactions made by insiders, such as executives, directors, or other individuals with a significant ownership stake in the company. This form helps to ensure that all trades are disclosed in a timely and accurate manner. Before you start, please note that if you have already completed this form in the past, you do not need to complete it again. Ensure that the information you enter is accurate and complete, as this form is an official document that will be publicly available.</thinking>
-
 # Insider Trading Disclosure Form - Help Guide
 ## Purpose
 This form is used to report trades or transactions made by insiders, such as executives, directors, or other individuals with a significant ownership stake in the company. This form ensures that all trades are disclosed in a timely and accurate manner.

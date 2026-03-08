@@ -1,11 +1,3 @@
-<thinking>
-  This form is used to report on the inspection of biometric systems, gathering information on the system's details, performance, and compliance status. It's essential for inspectors to thoroughly inspect and document their findings to ensure that the system is functioning correctly and securely. This form will help identify any issues, provide recommendations, and schedule follow-up actions.
-  The form should only be filled out by authorized inspectors, and the information collected should be accurate and up-to-date.
-  The form's fields are self-explanatory, but it's essential to understand the context and purpose of each field.
-  Make sure to fill out all required fields and provide thorough answers to ensure accurate reporting.
-  If you have questions or concerns, please contact the system administrator.
-</thinking>
-
 # Biometric Data Inspection Report - Help Guide
 ## Purpose
 The Biometric Data Inspection Report is used to document the inspection of biometric systems. This report helps inspectors gather essential information on the system's details, performance, and compliance status.

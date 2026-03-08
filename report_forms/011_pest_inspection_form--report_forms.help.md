@@ -1,8 +1,3 @@
-<thinking>
-This form is used for pest control professionals to inspect and report on pest issues in residential and commercial properties. The purpose of this form is to gather information about the pest type, customer contact details, and treatment history to ensure effective and targeted pest control solutions. This form should only be filled out by licensed pest control professionals for official records.
-
-</thinking>
-
 # Pest Inspection Form - Help Guide
 ## Purpose
 This form is used for pest control professionals to report on pest inspections and provide essential information for follow-up actions.

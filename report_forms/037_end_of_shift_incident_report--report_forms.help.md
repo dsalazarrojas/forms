@@ -1,9 +1,3 @@
-<thinking>Before generating the user-facing help guide, let's review the form's purpose and fields to ensure that the guide is comprehensive and relevant. This form, titled "End Of Shift Incident Report", is designed to collect information about incidents that occurred during a shift. It appears to be used for reporting and tracking incidents, which can be useful for quality control, employee safety, and other purposes.
-
-From the provided YAML, the form seems to cover various aspects of an incident, including its date, description, location, type, employees involved, witness statements, incident causes, and action plans. It also includes fields for reporting and tracking the incident, such as reported status and creation metadata.
-
-Before generating the guide, I would like to clarify that the purpose of the form is to provide a comprehensive record of incidents during a shift, allowing for easy reporting, tracking, and analysis of incidents. This guide will aim to explain each field in the most concrete and practical way possible, assuming the fields are self-explanatory or based on the provided YAML fields.</thinking>
-
 # End Of Shift Incident Report - Help Guide
 ## Purpose
 The "End Of Shift Incident Report" form is used to collect information about incidents that occurred during a shift. This form helps to report and track incidents, ensuring that all relevant details are documented and easily accessible for quality control, employee safety, and other purposes.

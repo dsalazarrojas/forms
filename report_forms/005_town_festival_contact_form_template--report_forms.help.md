@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect contact information for an event or festival, and to provide a platform for attendees to reach out to the event organizers or organizers to reach attendees. This form will likely be used by event planners or organizers to collect feedback or requests from attendees, and to communicate with them directly. This form should only be used for this specific purpose, and should not be used for other types of contact forms. 
-
-This form appears to be designed for events, so if you're looking to create a contact form for a different type of event (e.g., conferences, workshops, etc.), you may need to create a different form. 
-
-Before filling out this form, ensure that all required fields are filled out to ensure that your message is sent correctly. Also, double-check that the contact method you select aligns with the contact method you will be using.
-
-</thinking>
-
 # town_festival_contact_form_template - Help Guide
 ## Purpose
 This form is for collecting contact information and messages for events or festivals, and for event planners or organizers to reach out to attendees.

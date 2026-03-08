@@ -1,14 +1,3 @@
-<thinking> 
-
-The Asset Disposal Form is a critical document used to formally record the disposal of company assets, ensuring that all necessary steps are taken to maintain accurate records and follow established procedures. This form should be filled out for every asset that is being disposed of, regardless of its value or condition. 
-
-The Asset Disposal Form should not be used for the following reasons:
-    - For temporary disuse or seasonal storage.
-    - For items being transferred to another department within the company.
-    - For items being sent off-site for repairs, maintenance, or other purposes.
-
-</thinking>
-
 # Asset Disposal Form - Help Guide
 ## Purpose
 The Asset Disposal Form is used to document the formal disposal of company assets. It ensures that all relevant information is captured accurately and follows established procedures to maintain asset management records.

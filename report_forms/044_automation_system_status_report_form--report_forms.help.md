@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for automation system status reports. The purpose of this report is to provide a comprehensive overview of the current state of the automation system, including its status, performance, and any incidents or issues that have occurred. This form is typically used by system administrators and operators to report on the health of the system, identify areas for improvement, and track maintenance activities.
-
-When filling out this form, please make sure to report on all relevant incidents and issues, and provide as much detail as possible. This will help in identifying root causes and take corrective actions.
-
-Before submitting the report, review the form carefully to ensure that all required fields are completed.
-
-The form has two main sections: "Basic Report Information" and "System Status". The "Basic Report Information" section includes basic details such as report date, report time, report type, and reporting period. The "System Status" section includes more in-depth information about the system, including its current status, overall system status, availability, performance rating, and any incidents or issues that have occurred.
-
-When filling out the form, please use the following guidelines:
-- For fields with options, select the most relevant option from the list.
-- For fields with text boxes, provide a brief description or explanation.
-- For fields with date or time fields, enter the date or time as required.
-</thinking>
-
 # Automation System Status Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the current state of the automation system, including its performance, availability, and any incidents or issues that have occurred.

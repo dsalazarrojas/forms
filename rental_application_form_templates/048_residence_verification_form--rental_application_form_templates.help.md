@@ -1,11 +1,3 @@
-<thinking>
-To create the Residence Verification Form, I will first analyze the form's internal logic and identify any potential areas of confusion or redundancy. The form seems to be designed for verifying information about a tenant's residence, including their name, identification number, move-in and move-out dates, rent, and other relevant details. The form's structure suggests that it is meant to gather both general and specific information about the tenant's stay in a residence.
-
-Upon reviewing the form's fields, I notice that some fields seem to be duplicates or have overlapping information. For example, "move_in_date" and "move_out_date" appear to be similar to "lease_start_date" and "lease_end_date", which may cause confusion. However, "move_in_date" is marked as "required", suggesting it is a crucial piece of information. 
-
-To clarify, I will provide a help guide that explains the purpose and usage of each field concisely and practically.
-</thinking>
-
 # Residence Verification Form - Help Guide
 ## Purpose
 The Residence Verification Form is designed to collect information about a tenant's stay in a residence. This form is used to verify the tenant's details and ensure accurate record-keeping.

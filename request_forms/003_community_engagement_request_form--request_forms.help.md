@@ -1,8 +1,3 @@
-<thinking>... (Internal reasoning and potential duplication checks)
-This form is intended for community engagement requests, such as event planning, partnership proposals, or resource requests. Before filling out this form, please ensure that you haven't already submitted a similar request in the past. Check our community engagement records to avoid duplication.
-
-</thinking>
-
 # Community Engagement Request Form - Help Guide
 ## Purpose
 The Community Engagement Request Form is a tool for requesting engagement from the community, such as events, partnerships, or resources. This form ensures that all requests are documented and reviewed by the community team.

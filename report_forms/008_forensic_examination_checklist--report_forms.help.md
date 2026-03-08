@@ -1,10 +1,4 @@
-# <thinking>
-This form is intended to guide forensic examiners in documenting and analyzing evidence from a crime scene. The form is a checklist to ensure that all relevant information is collected and reported thoroughly. It is not affiliated with or derived from any proprietary form platforms, but rather an original adaptation created using AI.
-
-The form purpose is to standardize the process of collecting and reporting forensic evidence, and it is not intended to be used as a standalone form for actual forensic investigations. This form should only be used as a tool to facilitate the reporting process and should be reviewed and updated periodically to ensure it meets the needs of the users.
-</thinking>
-
-# forensic_examination_checklist - Help Guide
+# # forensic_examination_checklist - Help Guide
 ## Purpose
 The purpose of the forensic_examination_checklist form is to guide forensic examiners in documenting and analyzing evidence from a crime scene. It is a standardized checklist to ensure that all relevant information is collected and reported thoroughly.
 

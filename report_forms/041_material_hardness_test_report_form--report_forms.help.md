@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Hardness Test Report Form - Help Guide
 
 ## Purpose

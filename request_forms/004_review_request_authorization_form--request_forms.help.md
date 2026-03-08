@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be designed for a request process within an organization, likely used to manage and track review requests from submitters to reviewers or approvers. The form includes fields for submitter information (name, email, phone), requester and approver details (name, department), a request description, deadline, and various status and notes fields.
-
-The purpose of this form is to standardize and streamline the review request process, ensuring that all necessary information is gathered and recorded in a consistent manner. This form is likely used by various teams within the organization to facilitate communication and decision-making.
-
-The form fields are designed to collect relevant details about the review request, including the submitter's contact information, the request specifics (description, deadline), and the approver's response (name, department, comments, status). The "review_request_status" field is a dropdown select-one type, indicating that it's a categorical selection.
-
-This form's design suggests that it's intended to be completed by multiple stakeholders, including submitters, reviewers, and approvers. The form's structure implies that it's used for both new requests and ongoing reviews.
-
-Before proceeding, please review the fields to ensure that all required fields are filled out accurately. The "Review Request Authorization Form" is a critical component of the review process, and ensuring its completion helps ensure that requests are handled efficiently and effectively.
-</thinking>
-
 # Review Request Authorization Form - Help Guide
 ## Purpose
 The Review Request Authorization Form is designed to standardize and streamline the review request process within your organization. It collects necessary information from submitters, reviewers, and approvers to facilitate effective communication and decision-making.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a yearly performance report form for faculty members to report on their activities, achievements, and experiences during the 2015-16 academic year. The form asks for personal information such as full name, faculty ID, and email address, as well as academic activities like courses taught, student supervision, research projects, and publications. It also inquires about committee memberships, community outreach, and professional development activities. Additionally, the form includes sections for feedback and overall satisfaction, allowing faculty to rate their experience and provide suggestions for improvement. To avoid duplication or misrepresentation, please verify that you are using this form for its intended purpose and not copying content from other sources.
-</thinking>
-
 # 2015 16 Faculty Annual Report - Help Guide
 ## Purpose
 This form is designed to collect information from faculty members about their activities, achievements, and experiences during the 2015-16 academic year. It is intended to help faculty reflect on their work and provide insights for departmental and institutional decision-making.

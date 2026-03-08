@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information related to the relocation and remodeling of a furnace. The form is likely to be used by facility management teams or maintenance personnel to schedule and coordinate the process of relocating a furnace to a new area within a building. The form should be completed by the person responsible for overseeing or coordinating the relocation process. There is no apparent reason why a user would need to complete this form multiple times.
-</thinking>
-
 # Remodel Furnace Relocation - Help Guide
 ## Purpose
 This form is designed to collect information for relocating and remodeling a furnace in a building. Please ensure that you have the necessary permissions and approval before completing this form.

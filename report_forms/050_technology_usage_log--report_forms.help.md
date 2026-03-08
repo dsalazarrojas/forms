@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for logging information about employee technology usage. The purpose of this form is to track employee access and usage of technology equipment, tools, or other digital resources for auditing, monitoring, and compliance purposes. This form should only be filled out for each technology item when the employee is using it during work hours or for work-related activities. If there is existing information for the same technology item, it is likely that this form submission will be a duplicate, and it should not be filled out. Please ensure that each submission includes only new information for a technology item not previously reported.
-</thinking>
-
 # technology_usage_log - Help Guide
 ## Purpose
 This form is used to log employee technology usage for auditing, monitoring, and compliance purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their personal details, such as name, contact number, email, date of birth, and the time they became a customer. This information will be used for customer communication and service purposes. The form is not intended for emergency contact or critical incident reporting. Please ensure you only fill out this form if the information requested is correct and up-to-date. Duplicate or outdated submissions will be disregarded.
-</thinking>
-
 # Utilities Form - Help Guide
 ## Purpose
 The Utilities Form is designed to collect personal details from customers for the purpose of customer communication and service purposes.

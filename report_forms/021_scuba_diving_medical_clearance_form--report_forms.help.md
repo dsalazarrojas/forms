@@ -1,17 +1,4 @@
-> <thinking>
-Before designing this user-facing help guide for the Scuba Diving Medical Clearance Form, I need to understand the form's purpose and how it will be used. The form appears to be designed for scuba diving medical clearance, which involves assessing an individual's medical history, physical examination, and diving experience to ensure they are fit to dive safely. The form collects information on the individual's medical history, medications, medical conditions, physical examination, diving experience, emergency procedures, and other relevant details.
-
-To ensure the form is completed correctly and efficiently, I need to consider the following:
-
-* Clarify the purpose of each field to avoid confusion among users.
-* Identify any fields that may have duplicate or redundant information.
-* Determine if any fields may be optional or required.
-* Consider the type and format of each field (e.g., text, date, time).
-* Develop clear and concise explanations for each field.
-* Provide tips and suggestions for users to complete the form effectively.
-
-</thinking>
-# Scuba Diving Medical Clearance Form - Help Guide
+> # Scuba Diving Medical Clearance Form - Help Guide
 ## Purpose
 This form is designed to collect medical clearance information for scuba diving activities. It assesses an individual's medical history, physical examination, and diving experience to ensure they are fit to dive safely.
 

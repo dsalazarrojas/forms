@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to document on-call incidents, actions taken, and follow-up items for the reporting period. It's essential for staff members to report accurately and thoroughly to maintain a safe and efficient working environment. Please ensure that this form is completed for each on-call shift. Do not duplicate or omit any information that might be critical for future reference or follow-up actions. If you're unsure about any field, refer to the help guide for clarification.</thinking>
-
 # Academy House On Call Report - Help Guide
 ## Purpose
 This form is used to document on-call incidents, actions taken, and follow-up items for the reporting period. It's crucial for staff members to report accurately and thoroughly to maintain a safe and efficient working environment.

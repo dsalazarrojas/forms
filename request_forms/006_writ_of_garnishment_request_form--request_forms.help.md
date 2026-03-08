@@ -1,13 +1,3 @@
-<thinking> This form is designed to be used when a writ of garnishment is requested. The purpose of this form is to collect information about the person who is requesting the writ and the details of the garnishment. This form is likely to be used by a financial institution or a court when requesting that a portion of a person's income be garnished to satisfy a debt or other financial obligation.
-
-When filling out this form, please ensure that the information provided is accurate and complete. The form will guide you through the required fields and provide options for any relevant information that needs to be provided. Please note that this form is not intended to be a substitute for professional legal advice. If you are unsure about any aspect of the form or the garnishment process, please consult a legal professional.
-
-Before filling out the form, ensure that you have the necessary information and documentation required to complete it accurately. Some fields may require attachments or uploads of supporting documents. If you are unsure about what information to provide or how to complete a particular field, please contact the relevant authorities or a legal professional for guidance.
-
-When completing this form, please follow the instructions and provide the requested information accurately and truthfully. The information you provide will be used to process your request for a writ of garnishment.
-
-</thinking>
-
 # writ_of_garnishment_request_form - Help Guide
 ## Purpose
 The writ of garnishment request form is used to request a writ of garnishment for a specific purpose, such as to satisfy a debt or other financial obligation. This form is typically used by a financial institution or a court to gather information about the person requesting the writ and the details of the garnishment.

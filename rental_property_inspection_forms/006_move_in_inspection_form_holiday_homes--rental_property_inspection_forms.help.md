@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from tenants when they move into a holiday home. This form is used to document the condition of the property at the start of the tenancy, allowing the landlord to track and monitor the condition of the property over time. This form should not be completed if the tenant has previously completed a similar form for the same property.
-</thinking>
-
 # Move In Inspection Form Holiday Homes - Help Guide
 ## Purpose
 The purpose of this form is to collect information from tenants when they move into a holiday home. This form is used to document the condition of the property at the start of the tenancy, allowing the landlord to track and monitor the condition of the property over time.

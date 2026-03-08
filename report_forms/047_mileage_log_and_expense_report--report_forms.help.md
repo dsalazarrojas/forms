@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an employee's business mileage log and expenses. It is likely used for reimbursement or tracking purposes. To prevent duplication, please ensure that you only complete this form for trips that have not been previously logged. If you are unsure, please check with your supervisor or HR representative. Please complete all required fields to ensure accurate reporting.
-</thinking>
-
 # Mileage Log And Expense Report - Help Guide
 ## Purpose
 The purpose of this form is to help employees accurately track and report their business mileage and expenses. By completing this form, you will be able to record the details of your trips, including the mileage log, date, odometer reading, business use, expense category, and amount spent.

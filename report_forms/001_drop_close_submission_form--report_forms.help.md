@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block will help ensure that only relevant forms are submitted for review and reduce the risk of duplicate submissions.
 It will guide users on how to complete the "Drop Close Submission Form" accurately and thoroughly.
 Please read on to learn more about this form.

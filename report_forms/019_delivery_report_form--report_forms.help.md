@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be designed for reporting a delivery. The purpose is likely to collect information about a package delivery, such as the date of delivery, the customer's name, and the address where the package was delivered. It may also include space for additional details about the package and any notes about the delivery. This form does not appear to be a duplicate of any existing form, and its creation is likely a result of machine-learned form design based on public survey data.</thinking>
-
 # Delivery Report Form - Help Guide
 
 ## Purpose

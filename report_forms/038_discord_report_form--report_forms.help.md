@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discord Report Form - Help Guide
 ## Purpose
 The Discord Report Form is designed to collect information from Discord users about a specific incident or issue they experienced. This form helps the community moderators to understand the context and details of the incident, allowing them to take appropriate action to resolve the issue.

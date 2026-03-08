@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating and managing office rental leases between landlords and tenants. It's designed to be completed by both parties to outline the terms of the agreement. To ensure that this form serves its purpose effectively, it's essential to review it carefully and complete it accurately. Please make sure to understand the context and requirements before starting to fill it out.
-</thinking>
-
 # Office Rental Lease Agreement Form - Help Guide
 ## Purpose
 The Office Rental Lease Agreement Form is a document used to establish a formal agreement between a landlord and a tenant regarding the rental of a property. This form helps to clarify the terms of the lease, including rent details, lease duration, and other essential conditions.

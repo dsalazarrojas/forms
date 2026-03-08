@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Flight Punctuality And Delay Report Form is used to collect information about flight status and potential delays. It is intended for employees who need to report incidents of flight delays or cancellations. The form helps to gather details about the flight, the reason for the delay, and the submitter's contact information. This form is designed to be completed by individuals who are responsible for submitting reports, such as travel agents or other staff members.
 
 </thinking>

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for reporting changes in public transport usage. The form is designed to be completed by riders who have experienced changes in their usual public transport usage patterns. The form is not intended for general feedback or other non-related purposes. 
-
-To ensure the form's intended use, please only fill out this form if you have actually experienced a change in your public transport usage. If you are experiencing technical difficulties or errors with the form, please report these incidents to your administrator or technical support team. 
-
-This form should only be filled out once per incident. If you need to report multiple changes, please fill out a new form for each incident.
-
-Please note that fields that are not required are optional and should only be completed if the field is relevant to your report. 
-</thinking>
-
 # Public Transport Usage Change Report Form - Help Guide
 ## Purpose
 This form is designed to help us understand changes in your public transport usage patterns. If you have experienced a change in your usual public transport usage, please fill out this form to report this change. This information will help us improve our services.

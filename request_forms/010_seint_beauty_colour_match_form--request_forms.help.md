@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the "seint_beauty_colour_match_form" form, let's quickly review its purpose and requirements. The form is designed to be used when a customer submits a request for a color match for an item they're interested in. This form will likely be used by sales teams or customer service reps to gather information from customers about their preferences and needs. It is not a duplicate form, as each customer will likely have unique requests and requirements. The form should be completed by customers who are interested in finding a color match for a specific item. Customers should only fill out this form once for each item they are seeking a color match for.</thinking>
-
 # seint_beauty_colour_match_form - Help Guide
 ## Purpose
 The "seint_beauty_colour_match_form" is a form designed to gather information from customers interested in finding a color match for an item. This form helps the sales team or customer service rep to understand the customer's preferences and needs.

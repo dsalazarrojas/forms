@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from the guarantor of a loan or rental agreement. It includes various fields that capture the guarantor's demographic and employment details, including their contact information, employment status, income, education level, and occupation. The form is likely used in a financial context, such as when a person is taking out a loan or renting a property and needs to provide a guarantor for the agreement. This information will be used to verify the guarantor's identity and ensure they are able to fulfill their obligations.
-</thinking>
-
 # Guarantor Form - Help Guide
 ## Purpose
 This form is used to collect information from the guarantor of a loan or rental agreement. Please complete this form to provide your details and ensure the agreement can proceed.

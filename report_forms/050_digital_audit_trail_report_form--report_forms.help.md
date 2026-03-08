@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Audit Trail Report Form - Help Guide
 ## Purpose
 The Digital Audit Trail Report Form is designed to collect detailed information about user activities, providing a record of what users have done on a device, and at what time. This form is typically used for monitoring and tracking user behavior, performance, or other relevant activities.

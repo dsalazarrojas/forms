@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the "Installation Check Form" that explains its purpose, completion process, and field-by-field explanation in a concise and practical manner.</thinking>
-
 # Installation Check Form - Help Guide
 ## Purpose
 This form is designed to help users report and check the installation status of various equipment, devices, or systems in their premises. It's intended to be a simple and efficient tool for gathering information about the installation details, which can aid in maintenance, inspection, or other administrative tasks.

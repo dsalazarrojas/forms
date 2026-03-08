@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's break down the form purpose and fields to ensure we create an accurate and concise guide. The form is called "Store Update Report" and appears to be used for updating information about a store. It's essential to understand the form's purpose and the fields included in the form to provide the best guidance for end-users.</thinking>
-
 # Store Update Report - Help Guide
 ## Purpose
 The Store Update Report form is used to update information about a store, including its name, location, phone number, email, status, categories, comments, and update details.

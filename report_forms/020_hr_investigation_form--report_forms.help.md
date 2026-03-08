@@ -1,5 +1,3 @@
-<thinking>...Before you can start filling out this HR Investigation Form, ensure that you are reporting an incident within your organization and that it's not a duplicate entry. This form is used to document and investigate employee incidents, and it's essential to provide a detailed account of what happened, who was involved, and the actions taken to resolve the issue. Please make sure to fill out this form accurately and completely, as it will help your organization's HR team to thoroughly investigate the incident and take necessary actions... </thinking>
-
 # HR Investigation Form - Help Guide
 ## Purpose
 The HR Investigation Form is used to document and investigate employee incidents within your organization. It gathers essential information to help the HR team identify the issue, interview relevant parties, and take steps to resolve the matter.

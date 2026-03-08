@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the Report Spam Form, which allows users to report and categorize spam content in the platform. To use this form, users should only select "Yes" when asked if the content is spam, as "No" is not a valid option in this context. Additionally, ensure that the form is not being completed multiple times for the same spam content.
-</thinking>
-
 # Report Spam Form - Help Guide
 ## Purpose
 The Report Spam Form is designed to help users identify and report spam content in the platform. This form provides an easy and standardized way to report spam content, allowing for swift action against spam.

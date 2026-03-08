@@ -1,7 +1,3 @@
-<thinking>
-Car oil change records are essential to track vehicle maintenance and ensure timely oil changes. This form helps service providers, owners, and operators record and verify essential details about car oil changes. Before proceeding, please check if a record already exists in the system for the vehicle in question to avoid creating duplicate entries. Ensure that all relevant fields are completed accurately to provide a comprehensive oil change record.
-</thinking>
-
 # Car Oil Change Record Form - Help Guide
 ## Purpose
 The Car Oil Change Record Form is designed to collect and record essential details about car oil changes, ensuring that maintenance and repair records are up-to-date and accurate.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for a residency application form, which is used to capture information about a tenant's rental agreement. 
-- It's meant to be used by tenants who want to report their presence or upcoming presence in a property owned or managed by the landlord.
-- It's likely used in a real estate or property management context.
-- There should not be any overlap or duplication between this form and other forms used for similar purposes in your organization.
-</thinking>
-
 # Residency Application Form - Help Guide
 ## Purpose
 The Residency Application Form is used to gather information about a tenant's rental agreement, including their contact details, address, and lease terms. This form helps landlords or property managers to quickly and accurately collect the necessary data for managing tenancy records.

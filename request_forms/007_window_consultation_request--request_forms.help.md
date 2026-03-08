@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a window consultation request. The purpose of this form is to gather details about the user's preferences and requirements for a window consultation. This form will be used by internal staff to schedule a consultation appointment with the user.
-To ensure that this form is completed correctly, please note that:
-- This form should only be completed if the user has a genuine interest in requesting a window consultation.
-- The form should not be submitted if the user has already scheduled an appointment or has a similar request pending.
-- The form should only be completed once per user.
-</thinking>
-
 # Window Consultation Request - Help Guide
 ## Purpose
 The Window Consultation Request form is designed to collect information from users for a window consultation. This form helps internal staff to schedule an appointment with the user and understand their preferences and needs.

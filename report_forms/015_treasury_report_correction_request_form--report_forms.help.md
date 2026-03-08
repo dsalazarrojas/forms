@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request corrections to treasury reports. Before filling out this form, ensure that the report is not already in the process of correction or that the correction has not been resolved. If you are submitting a new correction request, please make sure to review the report carefully and provide as much detail as possible to facilitate the correction process. 
-
-This form will be reviewed by the relevant department to ensure that the correction is processed efficiently and accurately. Please note that some fields are not required for the submission, but providing as much information as possible will help the review process.
-</thinking>
-
 # Treasury Report Correction Request Form - Help Guide
 ## Purpose
 The Treasury Report Correction Request Form is used to request corrections to treasury reports. This form allows you to provide details about the report that needs to be corrected, so that the relevant department can process the correction efficiently and accurately.

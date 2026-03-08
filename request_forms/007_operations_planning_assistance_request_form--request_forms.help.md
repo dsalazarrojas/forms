@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended to gather information from end users for operations planning assistance requests. It is crucial to ensure that each request is properly categorized and prioritized. Before submitting a request, please review the categories and select the one that best fits your needs.
-  Before starting to fill this form, ensure that the category and request type you choose are relevant and accurate. This will help us to efficiently allocate the necessary resources and provide timely support.
-  This form should not be completed in duplicate. If you have previously submitted a similar request, do not fill it out again.
-  To avoid any potential issues with submission, please ensure that all required fields are filled in correctly.
-</thinking>
-
 # Operations Planning Assistance Request Form - Help Guide
 ## Purpose
 The Operations Planning Assistance Request Form is used to gather information from end users for operations planning assistance requests. This form helps us to categorize and prioritize requests efficiently, ensuring that the necessary resources are allocated correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help employees submit requests for accessories needed for their work. Accessory requests are reviewed and approved by supervisors, ensuring that only necessary and justified requests are fulfilled. To avoid duplication, please ensure that you only submit requests for items that are not already available in the office or that you have not already requested.
 
 # Accessory Approval Request Form - Help Guide

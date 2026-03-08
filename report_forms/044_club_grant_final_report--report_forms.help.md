@@ -1,5 +1,3 @@
-<thinking> This form is used by clubs to report on the completion of a grant they have received. The purpose of this form is to gather information about the grant, including the name of the grant program, the amount of money received, the start and end dates of the grant period, and details about the club's activities and financial management. It is crucial to complete this form accurately and thoroughly to ensure that the club's progress and financial status are properly documented and reported. To avoid duplicating information, please only submit this form once, and make sure to provide all required fields. </thinking>
-
 # Club Grant Final Report - Help Guide
 ## Purpose
 The Club Grant Final Report is a form used by clubs to report on the completion of a grant they have received. It is essential to provide accurate and detailed information about the grant to ensure that the club's progress and financial status are properly documented and reported.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Specimen Collection Form - Help Guide**
 
 ## Purpose

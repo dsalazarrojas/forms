@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: The purpose of this form is to provide a user-friendly interface for customers or employees to report issues related to IT services. The form collects contact information (name, email, and phone number), category selection for the issue, a description of the problem, and any additional comments. The "Repair Category" and "Assigned Tool" fields allow technicians to triage and assign the correct resource for the issue, reducing response times and improving overall service quality.
-</thinking>
-
 # it_service_request_form_2 - Help Guide
 ## Purpose
 The it_service_request_form_2 is a form designed to collect information about IT service requests. It helps customers or employees report issues related to IT services in a structured and efficient way.

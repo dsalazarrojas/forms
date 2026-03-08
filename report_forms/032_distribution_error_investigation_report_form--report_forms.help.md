@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to document and investigate distribution errors in a systematic and organized manner. The Distribution Error Investigation Report Form aims to identify the root cause of errors, track the progress of investigations, and provide space for notes and recommendations. This form is intended to be used by staff members in charge of distribution operations to report and track errors in the distribution process.
-
-To ensure consistency and accuracy, we recommend that this form is used for all distribution errors, and that each error is reported only once. Repeating the same error will make it harder to identify the root cause and may lead to confusion.
-
-</thinking>
-
 # Distribution Error Investigation Report Form - Help Guide
 ## Purpose
 This form is designed to document and investigate distribution errors, track progress, and provide space for notes and recommendations.

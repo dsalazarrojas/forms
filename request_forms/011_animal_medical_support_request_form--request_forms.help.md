@@ -1,10 +1,3 @@
-<thinking>
-This form will be used to gather information about an animal's medical condition and provide support for the facility or organization's medical team. The form will help in understanding the urgency level of the medical issue, the species and breed of the animal, the specific medical needs, and the estimated cost of care. This information will assist in prioritizing and addressing the medical needs of the animal. This form will also help in determining if the requested funding amount is sufficient or if additional funding is required. 
-
-The form should only be filled out for the specific animal that is currently under care or observation. 
-This form will not be used to request funding for an animal that has already been adopted or released.
-</thinking>
-
 # Animal Medical Support Request Form - Help Guide
 ## Purpose
 This form is designed to provide medical support for animals that require immediate attention.

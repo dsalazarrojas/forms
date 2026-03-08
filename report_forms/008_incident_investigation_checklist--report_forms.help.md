@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to aid in the process of conducting an investigation into an incident, gathering relevant information to understand its causes, impacts, and potential next steps. It is meant to be used by personnel involved in incident response and management, such as HR, risk management, or compliance teams. This form helps ensure that all necessary steps are taken to investigate the incident properly, reducing the risk of overlooking critical information and promoting a more thorough and efficient response.
-
-The purpose of this form is to provide a structured approach to gathering information about an incident, which will help in making informed decisions and taking corrective actions.
-
-The form is not designed to be a one-size-fits-all solution and may need adjustments based on the specific incident, team, or organizational context.
-
-Before starting, ensure that the information gathered through this form is used within the bounds of applicable laws, regulations, and company policies.
-
-</thinking>
-
 # incident_investigation_checklist - Help Guide
 ## Purpose
 The incident investigation checklist is a tool to aid in the process of conducting a thorough investigation into an incident. It helps gather essential information to understand the incident's causes, impacts, and potential next steps.

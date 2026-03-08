@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about software package availability issues. This form is likely used by IT teams or support staff to report issues related to software packages, track progress, and resolve problems. The form will help to gather relevant details about the issue, its priority, and the actions taken to resolve it.
-To ensure data accuracy and consistency, please make sure to fill out all required fields. If you are unsure about a particular field, you can refer to this guide for guidance.
-Before filling out this form, make sure you have all the necessary information about the issue. The form is divided into several sections, each with specific fields that need to be completed.
-</thinking>
 # software_package_availability_issue_report_form - Help Guide
 ## Purpose
 This form is designed to collect information about software package availability issues, allowing IT teams or support staff to track and resolve these problems efficiently.

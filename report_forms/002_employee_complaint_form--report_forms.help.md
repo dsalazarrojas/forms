@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be designed for employees to submit complaints or feedback to their employers, possibly as part of a formal complaint process within the company. It is likely used to gather information from employees on issues they've encountered, concerns they have, and suggestions they may have for improvement. This form's structure suggests it is intended to be a comprehensive guide for employees to express their thoughts and ideas, which can be valuable for the company to understand their employee's experiences and opinions.
-
-The form seems to consist of 25 pages, but most of them are labeled as "text" type and have no specific labels or hints. This structure implies that each page is meant to collect some information, although it might be beneficial to include some guidance on the expected input or format for each section.
-
-To ensure the form's effectiveness, it's crucial to have a clear and concise explanation for each field, which could help employees understand what they should be providing and why.
-
-</thinking>
-
 # employee_complaint_form - Help Guide
 ## Purpose
 This form is designed for employees to submit complaints or feedback to their employers, helping the company to gather information on issues, concerns, and suggestions from employees.

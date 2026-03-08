@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report a lost receipt or document, which can be related to an employee's, customer's, or vendor's property. 
-The form is designed to collect information about the lost item, including the employee ID, customer ID, vendor ID, date received, amount missing, reason for missing, and any supporting documents or files. This form is meant to be completed when a receipt or document is lost or missing and the user needs to report the incident. It is also used for auditing and record keeping purposes.
-</thinking>
-
 # Receipt Loss Report - Help Guide
 ## Purpose
 This form is used to report a lost receipt or document related to an employee's, customer's, or vendor's property.

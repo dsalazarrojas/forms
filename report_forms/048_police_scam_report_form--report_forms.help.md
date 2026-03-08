@@ -1,6 +1,3 @@
-<thinking>
-The form "Police Scam Report Form" is designed for users to report incidents of police scams, providing essential information about the incident details, suspect, evidence, and location. To ensure that reports are accurate and complete, users are required to fill out a series of fields with specific details. This form is meant to help gather relevant data for investigation and follow-up actions by authorities.
-</thinking>
 # Police Scam Report Form - Help Guide
 ## Purpose
 This form is used to report incidents of police scams, including details about the incident, suspect information, evidence, and other relevant details.

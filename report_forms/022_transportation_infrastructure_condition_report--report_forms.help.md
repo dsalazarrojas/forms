@@ -1,18 +1,3 @@
-<thinking>
-The "Transportation Infrastructure Condition Report" form is designed to collect information about the condition of various types of transportation infrastructure such as bridges, roadways, railways, and pathways. This form will be used to provide an objective, data-driven evaluation of each infrastructure's condition to inform maintenance and improvement decisions.
-
-Before proceeding, it's essential to note that this form is not intended to be used for emergency reporting of incidents or accidents. It's crucial to first ensure that the situation has been documented and reported correctly through other channels. If this form is used in conjunction with other reports, please ensure that it's not used to replace the original incident report.
-
-This form should only be used for routine condition assessments of transportation infrastructure. It should not be used for other purposes such as:
-
-* Reporting incidents or accidents
-* Submitting claims or complaints
-* Requesting maintenance or repairs
-
-This form is designed to be used by authorized personnel and should only be filled out by those who have been trained and cleared to do so. If you're unsure about the purpose or usage of this form, please reach out to your supervisor or manager for clarification.
-
-</thinking>
-
 # Transportation Infrastructure Condition Report - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a piercing request from a client. The form should only be filled out once per client, and the information should be accurate and up-to-date. Please ensure you have the client's consent to fill out this form and that the information provided is correct. The form is divided into several sections, each focusing on a different aspect of the piercing request. Please review each section carefully and provide accurate information to ensure a smooth and successful piercing experience for the client.
-</thinking>
-
 # Piercing Request Form - Help Guide
 ## Purpose
 The Piercing Request Form is used to gather information about a client's piercing request, including their contact information, piercing preferences, and submission details.

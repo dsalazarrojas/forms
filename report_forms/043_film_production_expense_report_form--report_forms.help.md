@@ -1,11 +1,3 @@
-<thinking>
-This form is for submitting film production expenses related to specific films. 
-The purpose of this form is to report expenses incurred during various stages of film production. It is essential to provide accurate and detailed information to ensure that the expenses are recorded correctly. 
-Ensure that you provide the required information and choose the correct options for the expense type and category to ensure the correct classification. 
-Please do not submit duplicate entries for the same expense. 
-It is crucial to report all expenses related to the films' production, post-production and pre-production stages.
-</thinking>
-
 # film production expense report form - Help Guide
 ## Purpose
 This form is intended to be used by film production team members to report and track expenses related to specific films.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather key information from committee chairs and members to provide an update on the committee's activities, progress, and plans. It serves as a template for reporting on committee meetings, milestones, and decisions made during the reporting period. The form is divided into several sections, including an overview of the committee, meeting summaries, and progress reports.</thinking>
-
 # Committee Report Form - Help Guide
 ## Purpose
 This form is designed to facilitate regular reporting from committee chairs and members on the activities, progress, and decisions made during the reporting period.

@@ -1,9 +1,3 @@
-<thinking>
-To determine the form purpose and required information, we need to review the form fields. The form is designed to collect information for "Delivery Quotation," which likely involves delivering goods or services to customers. The fields include "delivery_date" and "delivery_time," which suggest that the form is focused on scheduling and logistics. The "delivery_address," "delivery_contact_name," "delivery_contact_number," and "delivery_contact_email" fields imply that the form is also concerned with contact and communication details. However, the fact that most fields are optional and the lack of a clear description for the form's purpose and usage suggests that it's not a standard form for a typical use case, and more like an ad-hoc tool for specific situations or a placeholder for more information.
-
-We should ensure that the end user understands the form's context and limitations before proceeding. Are there any specific instructions or guidelines that must be followed when filling out this form? For instance, are there any specific formatting or content requirements? Are there any particular fields that are required or recommended? This form might be a part of a larger process, and understanding its relationship with other systems or steps will help us create a comprehensive guide.
-</thinking>
-
 # Delivery Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information for "Delivery Quotation" purposes, which involves scheduling and logistics for delivering goods or services. However, the form's limitations and unclear purpose suggest that it's not a standard tool, and more like an ad-hoc tool for specific situations or a placeholder for more information.

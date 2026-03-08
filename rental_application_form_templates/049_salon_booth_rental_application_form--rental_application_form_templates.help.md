@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for stylists working in various salons and spas to rent a space for a booth or workstation. The form will be used to collect information from the stylist about their booth preferences, work history, and availability. This form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using AI. It is released under a Creative Commons BY 4.0 license, allowing users to modify and even sell the form while giving credit.
-
-</thinking>
-
 # Salon Booth Rental Application Form - Help Guide
 ## Purpose
 The Salon Booth Rental Application Form is designed to gather essential information from stylists who wish to rent a booth or workstation in a salon or spa. This form will help salon administrators and rental coordinators assess the stylist's qualifications, availability, and rental preferences.

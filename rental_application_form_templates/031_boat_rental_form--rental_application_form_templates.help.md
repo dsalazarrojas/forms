@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to provide clear and concise instructions for the "Boat Rental Form" which is designed to gather information from renters for the rental process. The form is intended to collect personal and rental details to ensure a smooth and secure transaction. The guide should be reviewed before proceeding to confirm the form's purpose is relevant and not duplicated.
-</thinking>
-
 # Boat Rental Form - Help Guide
 ## Purpose
 This form is designed to gather information from renters to facilitate the boat rental process. It collects personal and rental details to ensure a smooth and secure transaction between the renter and the boat rental service.

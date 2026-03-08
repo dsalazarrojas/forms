@@ -1,11 +1,3 @@
-<thinking>
-The client testimonial advertising release form is used to collect testimonial information from clients about their experience with the business. This form aims to gather specific details about their testimonial, including their job title, email, company name, and the service or product they used. Clients are also asked to provide their testimonial in their own words, specify the approximate length, and choose how detailed they would like the testimonial to be. Additionally, they are granted permission to use their testimonial for marketing purposes and can select which materials they would like to be used, such as website, social media, and email marketing. Clients are also asked to confirm that their testimonial is truthful and based on their genuine experience.
-
-Before completing this form, please ensure you have reviewed and agreed on the terms of use of your testimonial, specifically the duration of use, review before publication, and editing of the testimonial for grammar or brevity. If you have any questions or concerns, please contact the business.
-
-This form is for general use and is not intended to be used for other purposes without explicit permission.
-</thinking>
-
 # Client Testimonial Advertising Release Form - Help Guide
 ## Purpose
 

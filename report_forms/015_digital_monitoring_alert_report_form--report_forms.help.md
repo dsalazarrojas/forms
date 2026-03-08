@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for reporting incidents or issues that have occurred in a digital monitoring system, such as IT, network, or application problems. It might be used by teams to document and track incidents, including their details, status, and resolution. This form could also be used for reporting and tracking issues that require escalation or follow-up actions. Before proceeding, please ensure that you are filling out the right form for your specific use case and that the form is not being used for duplicate reporting. If you are unsure, please consult with your team or supervisor for clarification.
-</thinking>
-
 # Digital Monitoring Alert Report Form - Help Guide
 ## Purpose
 The Digital Monitoring Alert Report Form is used to report and track incidents or issues that have occurred in a digital monitoring system.

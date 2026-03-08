@@ -1,5 +1,3 @@
-<thinking>Before proceeding, ensure this form is relevant and necessary for your situation. Check if you have already submitted a similar form or if there are any outstanding submissions related to this venue change. This form is intended for users who oppose changes to a venue and wish to express their disagreement. Please provide accurate and thorough information to support your objection.</thinking>
-
 # Opposition To Venue Changes Submission Form - Help Guide
 ## Purpose
 The Opposition to Venue Changes Submission Form is a document used to express opposition to venue changes. This form is intended for users who wish to voice their disagreement with proposed changes to a venue.

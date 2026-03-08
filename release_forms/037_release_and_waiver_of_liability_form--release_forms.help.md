@@ -1,7 +1,3 @@
-<thinking>
-The Release And Waiver Of Liability Form is used to document the start and end dates of services provided to an individual. It is essential to ensure that the form is completed accurately and thoroughly. Before filling out this form, please review the service details and ensure that the information is correct. This form should not be used for services that have not started or ended yet.
-</thinking>
-
 # Release And Waiver Of Liability Form - Help Guide
 ## Purpose
 This form is used to document the start and end dates of services provided to an individual. It captures essential details about the user, contact information, service provider, service location, service type, start and end dates, and any additional service notes.

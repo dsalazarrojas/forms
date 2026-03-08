@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect acknowledgment from the client and studio/artist that they have reviewed and understood the aftercare instructions. This form is crucial for ensuring that all parties involved in the tattooing process are on the same page. The studio/artist must sign to confirm that the client has been properly informed, and the client must sign to confirm that they have read and understood the instructions. This form prevents miscommunication and potential issues during the healing process.
-</thinking>
-
 # Tattoo Aftercare Acknowledgment - Help Guide
 ## Purpose
 This form is used to collect acknowledgment from the client and studio/artist that they have reviewed and understood the aftercare instructions after a tattoo session.

@@ -1,5 +1,3 @@
-<thinking>This form is used to report suspected social security fraud cases. It collects information from both the submitter and the suspect, including their names, contact details, and IP addresses. The form also captures the description of the fraud, the date and time it occurred, and additional comments from the submitter. The form checks for duplicates based on the suspect's name and IP address, ensuring that only new cases are reported.</thinking>
-
 # Social Security Fraud Report Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report errors that occur within the legal case file process. It helps users to provide details about the error, its type, and the current status of the case. 
-Please ensure that you are not creating multiple reports for the same incident. If you need to report an update, please update the existing report instead of creating a new one. This form is not meant for reporting general issues or feedback, but rather for reporting specific errors that occurred within the legal case file process.
-</thinking>
-
 # Legal Case File Error Incident Report - Help Guide
 ## Purpose
 The Legal Case File Error Incident Report form is used to report and document errors that occur within the legal case file process. This form collects detailed information about the incident, including the error type, description, date, and time it occurred, as well as the status and assigned user.

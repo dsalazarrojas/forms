@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Accident Report Form. The form is designed to collect information about accidents that have occurred, including details about the accident location, time, and parties involved. The form will guide users on how to complete it, explaining each field and what information it is meant to capture. By following this guide, users will be able to accurately and thoroughly complete the form, ensuring that all relevant information is collected and reported.
-</thinking>
-
 # Accident Report Form - Help Guide
 ## Purpose
 The Accident Report Form is used to collect information about accidents that have occurred. This form helps gather details about the accident location, time, and parties involved, which is essential for understanding and addressing the consequences of the accident.

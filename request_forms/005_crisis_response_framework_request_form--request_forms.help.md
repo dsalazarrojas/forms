@@ -1,8 +1,3 @@
-<thinking>
-This form is part of the Crisis Response Framework, which is a system for handling emergency situations. This form is specifically designed to collect information from individuals who are requesting support or assistance during a crisis. The purpose of this form is to gather essential details about the incident, the submitter's contact information, and any additional context that may be helpful in responding to the crisis. This form is typically used by individuals who are not directly involved in the crisis response efforts but need to report or request help.
-Before filling out this form, please ensure that you are not submitting duplicate requests and that your submission is not related to a previous incident that has already been reported.
-</thinking>
-
 # Crisis Response Framework Request Form - Help Guide
 ## Purpose
 The Crisis Response Framework Request Form is used to collect information from individuals who are requesting support or assistance during a crisis. It helps our team to understand the nature of the crisis, identify the key stakeholders involved, and allocate resources accordingly.

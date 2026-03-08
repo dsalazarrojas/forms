@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Work Session Evidence Submission" form. This guide will help end users understand the purpose and completion process of the form.</thinking>
-
 # Work Session Evidence Submission - Help Guide
 ## Purpose
 The "Work Session Evidence Submission" form is used to submit evidence of work sessions, including details about the session start and end times, location, notes, and other relevant information. This form helps to track and review session data for quality control and auditing purposes.

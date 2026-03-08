@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended to be a simple, user-friendly tool for users to request information about tutors. It is designed to be used internally within an organization, likely by staff members, and is not intended for public use. The purpose of this form is to gather essential details from users when they require assistance or guidance from a tutor. To ensure that this form is used correctly and does not duplicate requests, it is essential that users understand its purpose and follow the instructions below.</thinking>
 
 # Tutor Request Form - Help Guide

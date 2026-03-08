@@ -1,9 +1,3 @@
-<thinking>
-The form is used for reporting and documenting the results of a backflow test, which is a test performed on a device or assembly to verify its functionality and identify any potential issues. The form helps in recording the tester's details, test location, test date, test results, and any observed issues or recommendations. It is a crucial document for maintaining a record of testing activities and ensuring that any problems or concerns are addressed in a timely manner.
-The form can be used in various scenarios such as in-house testing, quality control, or audit purposes. It is essential for testers to provide accurate and detailed information to ensure the form is filled out correctly and thoroughly.
-This guide will walk the user through the form's structure and purpose, explaining each field's significance and how to complete it correctly.
-</thinking>
-
 # Backflow Test Form - Help Guide
 ## Purpose
 This form is designed to capture the results of a backflow test on a device or assembly, providing a record of the tester's details, test location, test date, and any observed issues or recommendations.

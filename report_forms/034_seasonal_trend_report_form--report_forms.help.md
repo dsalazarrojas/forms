@@ -1,11 +1,3 @@
-<thinking>
-The "Seasonal Trend Report Form" seems to be a form designed to collect information about seasonal trends for a specific season and year. However, it appears that each field is a separate entity, and there isn't a clear indication of how these fields interact with each other. For example, there are two "Season" fields and multiple "Trend Type" fields for different years. There are also fields for specific seasons (e.g., "Season 2020", "Season 2021", etc.) but no indication of how to determine which season is relevant. The "Trend 2020", "Trend 2021", "Trend 2022" fields are numbers and seem to be related to the "Trend Type" fields but there's no clear relationship or logic in how to determine the correct value. Additionally, there are fields for "Notes 2020", "Notes 2021", etc. which could be confusing as they seem to be separate from the "Notes" field.
-
-This form appears to be collecting data that could be better organized with a clear structure. To provide a helpful guide, I'll try to break down each field and explain its purpose and how to use it based on its label and type.
-
-The following guide is based on the provided YAML fields, and I'll do my best to provide clear and concrete explanations for each field.
-</thinking>
-
 # Seasonal Trend Report Form - Help Guide
 ## Purpose
 This form is used to collect information about seasonal trends for a specific season and year. You'll need to provide details about the season, year, trend type, and other relevant information.

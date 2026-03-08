@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to gather information about the infrastructure in protected areas, which may include parks, monuments, or other protected sites that require maintenance and upkeep to ensure their condition and safety. The purpose of the form is to provide a structured way to capture relevant details about the infrastructure, including its type, condition, and maintenance status. The form is likely used by maintenance teams to identify areas that require urgent attention or to track ongoing maintenance activities.
-
-</thinking>
 # Protected Areas Infrastructure Inventory - Help Guide
 
 ## Purpose

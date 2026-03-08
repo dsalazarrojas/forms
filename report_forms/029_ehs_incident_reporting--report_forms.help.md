@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to report incidents that occur within the organization. This form is used to collect detailed information about incidents, including their type, date, time, description, location, status, priority, and the person who reported them. This form is designed to be completed by employees or other authorized personnel to report incidents in a standardized and accurate manner. The form's fields are designed to ensure that all relevant information is collected, and that reporting is done efficiently and effectively.
-
-Before filling out this form, please ensure that you have all the necessary information about the incident. If you have reported this incident before, please make sure to update any information that has changed since the last report.
-
-Please refer to the fields below for guidance on how to complete the form.</thinking>
-
 # ehs_incident_reporting--report_forms - Help Guide
 ## Purpose
 The purpose of this form is to report incidents that occur within the organization. This form collects detailed information about incidents, including their type, date, time, description, location, status, priority, and the person who reported them.

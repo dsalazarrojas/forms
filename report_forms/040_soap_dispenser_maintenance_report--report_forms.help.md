@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report the maintenance status of soap dispensers. This form should only be accessed by authorized personnel who have been assigned the correct roles and permissions. To avoid duplication of effort, please only report on soap dispensers that are in urgent need of maintenance, i.e., those that are empty, out-of-order, or require replacement. Please ensure that the form is submitted for the correct facility and soap dispenser.
-
-</thinking>
-
 # Soap Dispenser Maintenance Report - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to record information about a dog walking session, including visit details, pet information, and walker and owner contact information. It is designed to be completed by walkers to provide an accurate account of their walks with dogs.
-When filling out this form, please ensure that all required fields are filled out completely and accurately. Some fields may be optional, but providing as much information as possible will help ensure that the form is comprehensive and helpful.
-To avoid duplication of effort, please check the form for existing records before completing it.
-</thinking>
-
 # Dog Walking Report Form - Help Guide
 ## Purpose
 This form is used to record information about a dog walking session, including visit details, pet information, and walker and owner contact information.

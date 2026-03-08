@@ -1,14 +1,3 @@
-<thinking>
-The K9 Sport Liability Waiver And Release Form is a document used to collect information and obtain waivers and releases from participants, hosts, and organizers for K9 sports events. This form is designed to provide a structured and comprehensive way to collect necessary information and agreements before an event takes place.
-
-The form includes fields for general information, event details, liability waiver, release agreement, emergency contact information, event host details, and version control for waivers and agreements. The purpose of this form is to ensure that all parties involved in the event are aware of and agree to the terms and conditions of participation, including liability waiver and release of claims.
-
-Before starting this form, please ensure that you have the necessary permissions and approvals from all relevant parties. This form is not intended to be a comprehensive legal document, but rather a tool to aid in the collection of necessary information and agreements. Please review the form carefully and ensure that all fields are completed accurately and thoroughly.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # K9 Sport Liability Waiver And Release Form - Help Guide
 ## Purpose
 The K9 Sport Liability Waiver And Release Form is a document used to collect information and obtain waivers and releases from participants, hosts, and organizers for K9 sports events.

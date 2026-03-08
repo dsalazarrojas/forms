@@ -1,7 +1,3 @@
-<thinking>
-We are checking if this form is relevant to the user's context and if it's not a duplicate request. This form is designed to collect information for Global Importer Of Record Services Request, which is typically used by importers or exporters who need to request services from a global network of importers of record. The form is likely to be used by someone who wants to get approval or access to a global network of importers of record.
-</thinking>
-
 # Global Importer Of Record Services Request - Help Guide
 ## Purpose
 This form is intended to collect information from importers or exporters who need to request services from a global network of importers of record. The form will be used to gather necessary details for approval or access to this network.

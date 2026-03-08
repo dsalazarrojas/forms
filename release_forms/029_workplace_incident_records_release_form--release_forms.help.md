@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to record and document workplace incidents, such as accidents or near misses, to help ensure that the company's incident management process is followed consistently. The purpose of this form is to ensure that each incident is thoroughly investigated and recorded, providing valuable information for incident reporting and analysis. Before completing this form, ensure that the incident has not already been reported or that a duplicate report is not being made. Please fill out the form carefully and accurately to help the incident management team make informed decisions.
-</thinking>
-
 # Workplace Incident Records Release Form - Help Guide
 ## Purpose
 The Workplace Incident Records Release Form is used to document and report workplace incidents, ensuring consistency in the incident management process.

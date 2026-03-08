@@ -1,10 +1,3 @@
-<thinking>
-This form is for reporting on the performance and status of a wastewater treatment plant. The purpose of this form is to capture data on the plant's treatment capacity, water quality, and operational status. This form is likely to be used by plant operators, maintenance personnel, or management staff to report on daily, weekly, or monthly operations.
-
-To avoid duplication, this form should not be filled out if the same data already exists in the system. If there are any concerns or discrepancies, please contact the system administrator for assistance.
-
-</thinking>
-
 # Wastewater Treatment Output Report Form - Help Guide
 ## Purpose
 This form is used to report on the performance and status of a wastewater treatment plant. It captures data on water quality, treatment capacity, and operational status.

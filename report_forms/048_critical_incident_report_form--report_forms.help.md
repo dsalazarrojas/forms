@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for reporting critical incidents. It's likely used in a workplace or organizational setting to document and manage incidents. The form seems to cover various aspects of an incident, including its location, brief description, details, cause, and resolution. The required fields suggest that the incident's cause, resolution, incident notes, follow-up, and ID are crucial information.
-</thinking>
-
 # critical_incident_report_form - Help Guide
 ## Purpose
 The Critical Incident Report Form is a tool for reporting and managing critical incidents in the workplace. It's designed to gather essential information about an incident, including its location, cause, and resolution.

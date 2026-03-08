@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Location Media Submission - Help Guide
 
 ## Purpose

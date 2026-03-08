@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used for capturing and reporting on process optimization results, allowing users to submit a structured report of their process improvements, key performance indicators (KPIs), target and current metrics, action items, improvement plans, expected and actual outcomes, review comments, reviewer information, and dates of review. The form will help in tracking progress and facilitating communication among team members or stakeholders.
-
-Form purpose: This form is intended to support process optimization by providing a template for users to document their process improvements and outcomes.
-</thinking>
-
 # process-optimization-result-report-form - Help Guide
 ## Purpose
 This form is designed to support process optimization by providing a structured template for users to report on their process improvements and outcomes.

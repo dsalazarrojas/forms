@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide a concrete, concise, and practical explanation of the "Daily Observation Report" form. The form is designed to gather data on various aspects of a day's events, such as the occurrence of "Report Form Fields," date, time, location, observation, weather, and note taking. This guide will explain each field and its corresponding options in detail, helping users understand the form's purpose and how to complete it accurately.
-</thinking>
-
 # Daily Observation Report - Help Guide
 
 ## Purpose

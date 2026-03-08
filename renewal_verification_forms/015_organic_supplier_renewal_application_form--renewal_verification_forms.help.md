@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information from organic suppliers for renewal purposes, likely for a business or organization to verify or update their supplier's information. This form is meant to be used for internal purposes, such as keeping track of supplier details, and not for external publication or public submission. The form fields are likely to be used by a team or department within an organization to review and verify the information provided by the supplier.
-
-To avoid duplication or unnecessary submission, please ensure that the supplier is not already registered or verified in the system before submitting this form.
-
-</thinking>
-
 # Organic Supplier Renewal Application Form - Help Guide
 ## Purpose
 This form is designed for internal use by a business or organization to collect and verify information from organic suppliers for renewal purposes.

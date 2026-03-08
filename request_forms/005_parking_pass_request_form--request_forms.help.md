@@ -1,7 +1,3 @@
-<thinking>
-This guide should be used to create a user-friendly help guide for the "Parking Pass Request Form" that is clear, concise, and easy to understand for end-users. The form is used to request a parking pass, and it should be designed to guide the user through each step of the process. This guide will help reduce confusion and increase the accuracy of the requests.
-</thinking>
-
 # Parking Pass Request Form - Help Guide
 
 ## Purpose

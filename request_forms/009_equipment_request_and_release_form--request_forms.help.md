@@ -1,7 +1,3 @@
-<thinking>
-This is a good opportunity to explain the form's purpose and how it can be used to prevent duplication and ensure that the equipment requests and releases are processed in a consistent manner. This form is designed to be used by authorized personnel to request or release equipment within the organization. When filling out this form, users should ensure that they have the necessary approval from their supervisor before submitting it, as it may be required for the request or release to be processed. Please ensure that you are not duplicating a request already made, as this can cause delays in the equipment management process. This form is used to track the status of equipment requests and releases, and any errors or discrepancies can cause issues with the overall process. 
-</thinking>
-
 # Equipment Request And Release Form - Help Guide
 
 ## Purpose

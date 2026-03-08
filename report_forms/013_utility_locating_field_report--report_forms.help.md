@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to report information about a utility locating field experience in the field, providing a structured way for users to document their findings. This form will help identify key details about the location, type, and circumstances of the experience. By completing this form, users can provide valuable feedback for improvement and risk assessment. Please ensure that you only complete this form if you have actually been in the field and have relevant experience to report, as duplicate reports may be discarded.</thinking>
-
 # Utility Locating Field Report - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences in the field, specifically during utility locating field activities.

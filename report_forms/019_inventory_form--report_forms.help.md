@@ -1,12 +1,3 @@
-<thinking>
-The form is likely used for inventory management within an organization, and it's used to capture and store information about items in the inventory. The purpose of this form is to provide a structured and consistent way of collecting and storing data about each item, making it easier to manage and analyze the inventory. The form likely serves as a data collection tool, and its fields can be filled out by users who are responsible for inventory management.
-
-To determine relevance, the form has 25 fields, including text, number, email, phone, note, select_one, select_multiple, and date/time fields. This suggests that the form is intended to collect a wide range of information, including product names, quantities, prices, locations, and other relevant details.
-
-To determine non-duplication, the form does not appear to have any duplicate fields, and each field has a unique ID. This suggests that the form is designed to collect distinct and complementary pieces of information about each item.
-
-</thinking>
-
 # Inventory Form - Help Guide
 ## Purpose
 The Inventory Form is used to collect and store information about items in the inventory, making it easier to manage and analyze the inventory.

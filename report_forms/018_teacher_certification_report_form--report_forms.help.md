@@ -1,12 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, we need to verify that the form purpose aligns with the actual use case. This form appears to be designed for tracking and reporting teacher certifications, which typically involves gathering information about a teacher's training, certification status, and other related details. The form should be used by teachers, administrators, or educators to report on their own certifications or those of others.
-
-Before we proceed with the help guide, please confirm that the form is intended for this purpose and that the fields and options are accurately represented in the provided YAML.
-
-Assuming the form is for teacher certifications, let's continue with the help guide.
-
-</thinking>
-
 # Teacher Certification Report Form - Help Guide
 ## Purpose
 This form is designed for teachers to report their certification information, including training details and certification status. It helps to track and document a teacher's certifications, which can be useful for administrative purposes or professional development.

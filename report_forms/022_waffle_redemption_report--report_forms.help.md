@@ -1,8 +1,3 @@
-<thinking>
-This form is a "Waffle Redemption Report" used to document the redemption of waffles. This guide is to assist end users in completing the form accurately and efficiently. The form is intended to collect information about customers, waffles, and redemption details. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Waffle Redemption Report - Help Guide
 
 ## Purpose

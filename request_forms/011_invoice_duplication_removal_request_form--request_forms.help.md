@@ -1,12 +1,3 @@
-<thinking>
-To create this form, we need to ensure that only one instance of an invoice is created. This form will be used when the customer or vendor wants to remove an existing duplicate invoice. The form should be filled out carefully, taking into account all the fields that require input from the customer and the vendor.
-
-When filling out this form, please select the correct option for "Request for Review" and fill out the description field to provide a clear explanation of the issue. You can also attach any supporting documents that are relevant to the request. Please fill out all the fields required to complete the form, as this will ensure that the request is processed correctly.
-
-Note: This form is designed to be filled out by the customer or vendor, so please fill out the fields that are relevant to your request.
-
-</thinking>
-
 # Invoice Duplication Removal Request Form - Help Guide
 ## Purpose
 This form is used to request the removal of an existing duplicate invoice. Please fill out the form carefully to ensure that your request is processed correctly.

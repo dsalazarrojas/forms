@@ -1,7 +1,3 @@
-<thinking>
-...This form is designed to gather information about travel expenses submitted by employees. It's intended for reporting and accounting purposes. Please ensure that this form is used only for reporting legitimate travel expenses, and not for other purposes. This form may be submitted by multiple approvers, and their approval or rejection should be based on the submitted information. Please ensure that the "Approver" fields are only filled by authorized personnel...
-</thinking>
-
 # Travel Expenses Form - Help Guide
 ## Purpose
 This form is used to report travel expenses for accounting and reporting purposes.

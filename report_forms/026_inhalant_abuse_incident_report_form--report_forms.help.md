@@ -1,13 +1,3 @@
-<thinking>
-
-We're going to create a comprehensive help guide for the "Inhalant Abuse Incident Report Form" to ensure end users understand the form's purpose, how to complete it, and what each field means. This form is used to report incidents of inhalant abuse, which is a serious issue that requires careful documentation and attention to detail. 
-
-Before proceeding, please note that this guide is based on the provided YAML fields, and it's assumed that the form is intended to collect information about an individual suspected of inhalant abuse. 
-
-To ensure accuracy, please review the form carefully and ensure that all required fields are completed.
-
-</thinking>
-
 # Inhalant Abuse Incident Report Form - Help Guide
 
 ## Purpose

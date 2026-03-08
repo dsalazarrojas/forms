@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations that are requesting a safety consultation. This form will be used to schedule and follow up on the consultation, and to understand the type of consultation requested and the specific location of concern. It's essential to fill out the form accurately and completely to ensure that your consultation is prioritized and addressed effectively. Please ensure that you don't submit duplicate requests, as this can cause confusion and delay the process.
-
-Before filling out the form, please ensure that you have all the necessary information and documents ready. This includes any supporting documents or evidence that can help us better understand the issue.
-
-Please note that the information collected through this form will be used to schedule a consultation and to provide follow-up communication. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-Also, please be aware that the urgency level you select will help us prioritize your request. If you have an emergency, please select "Immediate" as the urgency level.</thinking>
-
 # Community Safety Consultation Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals or organizations that are requesting a safety consultation. This form will be used to schedule and follow up on the consultation, and to understand the type of consultation requested and the specific location of concern.

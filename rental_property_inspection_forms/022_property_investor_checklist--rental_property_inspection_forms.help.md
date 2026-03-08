@@ -1,5 +1,3 @@
-<thinking>This form is designed for property investors to collect and manage contact information from individuals who want to rent a property. The form will help investors track and store contact details of potential renters in a centralized location. Before filling out this form, please ensure that you are not already have this information stored in another system or database, as duplicate records can lead to data inconsistencies. This form is not intended for collecting sensitive or confidential information, so please do not fill out this form if you are not authorized to do so.</thinking>
-
 # Property Investor Checklist - Help Guide
 ## Purpose
 This form is used by property investors to collect and manage contact information from individuals who want to rent a property.

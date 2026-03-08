@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect technical work log entries, which are used to track and document work performed on various projects. Each entry should be unique and contain relevant information for future reference. To avoid duplication, only unique log entries should be created.
-</thinking>
-
 # technical_work_log_form - Help Guide
 ## Purpose
 This form is designed to collect technical work log entries, which are used to track and document work performed on various projects. Each entry should be unique and contain relevant information for future reference.

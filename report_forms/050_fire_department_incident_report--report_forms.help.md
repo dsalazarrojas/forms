@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document incidents reported to the Fire Department, capturing essential information about the type of call, situation found, officer in charge, units involved, and call number. This form does not collect sensitive or personal data and is designed for official incident reporting purposes only. Before filling out this form, please ensure you have access to the necessary information and permissions to complete it accurately. Note that this form does not require any personal identification or contact information, as it is intended for official incident reporting and not for personal data collection or marketing purposes. This form is an original creation and does not copy or extract from any proprietary form platforms.
-</thinking>
-
 # Fire Department Incident Report - Help Guide
 ## Purpose
 The Fire Department Incident Report is a standardized form used to document and report incidents reported to the Fire Department. This form ensures that all relevant information is captured accurately and efficiently, supporting prompt and effective response and investigation.

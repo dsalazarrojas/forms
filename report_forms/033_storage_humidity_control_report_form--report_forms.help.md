@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about storage humidity control in a facility. The goal is to report on the location of storage, start date, corrective actions taken, frequency of environmental monitoring, temperature checks, storage humidity controls, and any additional comments or notes. This form is likely to be used by facility management or maintenance teams to record and track the status of storage humidity control.
-
-</thinking>
-
 # Storage Humidity Control Report Form - Help Guide
 
 ## Purpose

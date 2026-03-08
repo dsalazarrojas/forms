@@ -1,8 +1,3 @@
-<thinking>
-This form is a rental lease agreement template for California state. 
-It's essential to ensure that this form is completed accurately and consistently with the actual conditions of the rental property, as it will serve as a legal agreement between the landlord and the tenant. This form covers the essential details of the rental, including the terms of the lease, rent amount, lease duration, and the responsibilities of both parties. It is essential to fill in the correct information to avoid any future disputes or issues. Please note that this form might need to be adjusted according to local regulations and specific requirements of the rental property.
-</thinking>
-
 # California Rental Lease Agreement Form - Help Guide
 ## Purpose
 The California Rental Lease Agreement Form is a comprehensive document that outlines the terms and conditions of a rental property in California. This form is designed to facilitate the rental process, ensuring that both landlords and tenants understand their responsibilities and rights.

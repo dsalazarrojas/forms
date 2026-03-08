@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manufacturing Defect Root Cause Request Form - Help Guide
 ## Purpose
 This form is intended to be used to report and investigate manufacturing defects. Please only submit one request per incident to ensure accurate tracking and analysis. Before submitting, verify that the incident has not been previously reported and that the form is not a duplicate of an already submitted request.

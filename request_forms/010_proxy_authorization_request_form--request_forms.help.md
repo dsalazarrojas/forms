@@ -1,7 +1,3 @@
-<thinking>
-This form is a request for proxy authorization for a specific purpose. Before filling out this form, ensure that you are making this request with the correct intent and that it's not a duplicate. Please review the form's purpose and ensure it's for the right reason before proceeding.
-</thinking>
-
 # Proxy Authorization Request Form - Help Guide
 ## Purpose
 This form is intended to be used to request proxy authorization for a specific reason. Ensure that you are using this form for the correct purpose and not for other reasons. This form is not meant to be used for other requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to report incidents to the relevant authorities, such as property damage, security breaches, or accidents. Please only submit one incident report per form, as submitting multiple reports for the same incident can lead to duplicate records and confusion. This form should not be used for test purposes or to report trivial incidents, and only complete and submit the form for non-redundant, factual reports.
-</thinking>
-
 # Incident Notification Form - Help Guide
 ## Purpose
 

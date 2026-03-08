@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to obtain the consent and acknowledgment from clients before providing them with nutritional counseling services. The form is used to ensure that clients understand their limitations and the scope of the services they will receive.
-
-Before filling out this form, please ensure that it is not a duplicate. This form is intended to be filled out only once before the start of the counseling services.
-
-The form is divided into several sections, each of which requires a specific type of acknowledgment or consent from the client. Please fill out each section carefully and thoroughly.
-
-Each section has its own specific instructions and explanations, so please read through each section carefully before filling out the form.
-
-The following is a step-by-step guide on how to complete this form.</thinking>
-
 # Nutritional Counseling Liability Release Form - Help Guide
 ## Purpose
 This form is designed to obtain the consent and acknowledgment from clients before providing them with nutritional counseling services. It ensures that clients understand their limitations and the scope of the services they will receive.

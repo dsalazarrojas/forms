@@ -1,8 +1,3 @@
-<thinking>
-The form "Basketball Game Score Report" is designed to gather information about a basketball game, including the date, time, venue, participating teams, scores, and other game-related details. This form is likely used by sports administrators or officials to record and verify the accuracy of game scores, team performances, and other important events. To avoid duplication of effort, it is essential to ensure that each report is accurate and complete. This form should be used for recording scores for a single game.
-
-</thinking>
-
 # Basketball Game Score Report - Help Guide
 ## Purpose
 This form is used to record and report the details of a basketball game, including scores, team information, and game-related events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting shipping-related information. It's designed to capture details about packages, customers, and the shipping process. To confirm, the form is for tracking and documenting the flow of items from dispatch to delivery. Please note that the form fields should not be filled out unless you are reporting on a legitimate shipping event. Duplicate or unnecessary submissions may be deleted.
-</thinking>
-
 # Shipping Report Form - Help Guide
 ## Purpose
 The Shipping Report Form is a tool for documenting and tracking shipping-related information. It helps in maintaining accurate records of shipments, customers, and the shipping process.

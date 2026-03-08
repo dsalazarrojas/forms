@@ -1,7 +1,3 @@
-<thinking>
-The Salesperson Call Report form is used to track sales calls made to customers. This form is essential for monitoring sales performance and providing insights into customer interactions. The report includes details such as the date and time of the sales call, the name of the salesperson, the customer's information, and the sale status. To avoid duplication and improve accuracy, ensure that each sales call is recorded once per customer.
-</thinking>
-
 # Salesperson Call Report - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Salesperson Call Report form, ensuring you have all the necessary information to track sales calls effectively.

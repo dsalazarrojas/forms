@@ -1,5 +1,3 @@
-<thinking>...The Equipment Breakdown Summary Report Form is a crucial document for tracking and reporting equipment failures. It's essential for providing a concise overview of equipment breakdowns, enabling maintenance teams to efficiently allocate resources and prioritize repairs. This form should not be completed for equipment that has not experienced a failure, as it's intended for recording actual breakdowns. Please ensure that each entry is unique, as duplicate submissions can lead to confusion and hinder maintenance efforts...</thinking>
-
 # Equipment Breakdown Summary Report Form - Help Guide
 ## Purpose
 The Equipment Breakdown Summary Report Form is used to document and report equipment failures, allowing maintenance teams to efficiently track and prioritize repairs.

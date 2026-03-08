@@ -1,12 +1,3 @@
-<thinking>
-## Pet Technology Demonstration Request Form - Help Guide
-
-This form is used to submit requests for pet technology demonstrations. The purpose of this form is to gather information from users about their pet and the demonstration they are interested in. This form will help us better understand their needs and provide the best possible experience.
-
-Before proceeding, please ensure that you have not already submitted a request for the same demonstration. Duplicate requests may cause confusion and delay the demonstration process.
-
-</thinking>
-
 # Pet Technology Demonstration Request Form - Help Guide
 
 ## Purpose

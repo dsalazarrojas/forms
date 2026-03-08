@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heamatology Monthly Reports - Help Guide
 
 ## Purpose

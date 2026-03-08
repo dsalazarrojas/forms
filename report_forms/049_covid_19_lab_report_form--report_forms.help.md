@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to a COVID-19 lab report. It is intended for healthcare professionals to report on test results, sample collection, and patient information. Before completing this form, ensure that you have all the necessary information and that it is accurate and up-to-date. This form should not be used for duplicate reports or incomplete data. Please complete the form carefully and thoroughly, following the instructions provided.
-</thinking>
-
 # COVID 19 Lab Report Form - Help Guide
 ## Purpose
 This form is used to report COVID-19 lab test results, providing essential information for further clinical action and decision-making.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from homeowners who are requesting an estoppel certificate for their property. The estoppel certificate is a document that confirms the property's status as a home. The form is meant for informational purposes only and is not affiliated with any form platform. The AI-generated form is released under CC BY 4.0 and can be used, modified, and sold with proper credit. To avoid duplication, please make sure you're not already in the process of obtaining an estoppel certificate for this property. 
-</thinking>
-
 # Homeowners Association Estoppel Request - Help Guide
 ## Purpose
 This form is a request for an estoppel certificate for your property. The purpose of this form is to collect information needed to verify your identity and property details.

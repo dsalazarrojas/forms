@@ -1,6 +1,4 @@
-> <thinking>How to create a helpful guide without knowing the context or specific business logic behind the form fields.</thinking>
-
-This guide is intended to be a basic and neutral explanation of the form, trying to understand the best-effort meaning of each field label.
+> This guide is intended to be a basic and neutral explanation of the form, trying to understand the best-effort meaning of each field label.
 
 > Meeting Report Template - Help Guide
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from a neurological exam. The purpose of this form is to gather data on the medical history, chief complaint, and various neurological systems, including cranial nerves, motor and sensory function, reflexes, coordination, gait, mental status, and neuroanatomical examination. This form is not intended for medical diagnosis or treatment. It is a tool for healthcare professionals to gather information that will help them in their assessment and diagnosis of neurological conditions. Please ensure that you are familiar with the relevant medical knowledge and guidelines before using this form. ...</thinking>
-
 # Neurological Exam Form - Help Guide
 ## Purpose
 This form is designed to collect information from a neurological exam, covering various aspects of a patient's neurological status.

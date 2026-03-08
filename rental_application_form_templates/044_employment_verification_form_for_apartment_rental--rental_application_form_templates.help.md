@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to verify the employment status of an applicant for an apartment rental. The form requires information about the applicant's current or previous employment, including their name, employer, job title, date of hire, salary, and confirmation of employment. This information is crucial to determine the applicant's credibility and suitability for the apartment rental.
-The form is typically used by landlords, property managers, or leasing agents to assess the applicant's employment status. It's essential to have accurate and up-to-date information about the applicant's employment history, especially when considering a rental application.
-To prevent misrepresentation or miscommunication, the form should not be used for other purposes or used in conjunction with other forms that may contain conflicting or misleading information. Ensure that the form is completed accurately and honestly by the applicant and their employer.
-</thinking>
-
 # Employment Verification Form For Apartment Rental - Help Guide
 ## Purpose
 The Employment Verification Form is designed to gather information about your current or past employment to help us assess your eligibility for an apartment rental. This form is a mandatory requirement for all rental applicants.

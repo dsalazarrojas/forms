@@ -1,12 +1,3 @@
-<thinking>
-We want to create a help guide for the "Custom Track Quote Request" form. This form is used to collect information from customers for a custom track quote request. The purpose of this form is to gather specific details about the project and track, allowing our team to provide an accurate quote for the custom track.
-
-To avoid duplication, users should not submit multiple requests for the same project. If a user has previously submitted a request for the same project, they should not submit another request unless there have been changes to the project details.
-
-Please note that the form is divided into several sections. Each section has its own fields that are labeled and explained below.
-
-</thinking>
-
 # Custom Track Quote Request - Help Guide
 
 ## Purpose

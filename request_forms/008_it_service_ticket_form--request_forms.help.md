@@ -1,14 +1,3 @@
-<thinking>
-This internal reasoning block will help me understand the form purpose and check for relevance and non-duplication:
-- The "IT Service Ticket Form" is a crucial tool for IT departments to receive and manage service requests from end-users.
-- It collects information about the user's identity (First Name, Last Name, Email), contact information (Phone), and a description of the issue they are experiencing.
-- The form also allows users to specify the priority of the issue, the category, and the status of the ticket.
-- The assigned user field is used to assign the ticket to a specific team member.
-- The date and time fields are used to record the time of submission.
-- The note field is for any additional comments or details about the issue.
-- This guide will help end-users understand the purpose and usage of the form, ensuring that they provide accurate and complete information to facilitate efficient ticket handling.
-</thinking>
-
 # IT Service Ticket Form - Help Guide
 ## Purpose
 The IT Service Ticket Form is a tool for submitting service requests to the IT department. It helps us understand the issue, assign the ticket to the correct team member, and provide accurate and timely support.

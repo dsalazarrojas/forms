@@ -1,12 +1,3 @@
-<thinking>
-This form is used to report and document the use of force by police officers in a given incident. The form aims to gather detailed information about the incident, including the location, time, and nature of the incident, as well as the actions taken by the officer and the outcome of the incident.
-
-Before filling out this form, please ensure that you have all the necessary information and documentation available. This form is intended for officers to provide a detailed account of their actions and the circumstances surrounding an incident, and should not be used for routine or administrative purposes.
-
-Please review the following fields carefully to ensure that you provide accurate and comprehensive information. If you have any questions or concerns about the form or its requirements, please don't hesitate to reach out to your supervisor or support team.
-
-</thinking>
-
 # Police Use Of Force Report Form - Help Guide
 ## Purpose
 The Police Use Of Force Report Form is a critical tool used to document and report incidents where force was used by police officers. This form helps to gather detailed information about the incident, ensuring that all relevant details are captured and reported.

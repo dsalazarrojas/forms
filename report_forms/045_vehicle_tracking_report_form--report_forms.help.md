@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Tracking Report Form - Help Guide
 ## Purpose
 This form is used to track and report vehicle-related data. It is designed to collect information about each vehicle's trip, including trip dates, destinations, driver details, and total costs associated with the trip. Fill out this form to help us keep accurate and up-to-date records of our vehicle usage.

@@ -1,12 +1,3 @@
-<thinking>
-To create this form, we need to provide instructions for end-users on how to complete it in a way that is clear, concise, and practical.
-
-The "Inappropriate Content Removal Report Form" is used to report content that is deemed as inappropriate or offensive. This form is used to help ensure that the content is removed promptly and to identify the user who submitted the report. The purpose of this form is to provide a systematic way of dealing with such content, while also ensuring that users can report such content without being held accountable.
-
-Internal reasoning: This form should be used by users who encounter content that they believe is inappropriate and wish to report it. It is essential that users fill out this form accurately, as it helps in the removal of such content quickly and effectively. However, we should also ensure that users do not misuse this form for malicious purposes.
-
-</thinking>
-
 # Inappropriate Content Removal Report Form - Help Guide
 ## Purpose
 The Inappropriate Content Removal Report Form is used to report content that is deemed as inappropriate or offensive. It helps in the removal of such content and to identify the user who submitted the report.

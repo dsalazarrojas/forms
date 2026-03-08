@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Archived Website Request" form. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section. This guide is intended to be clear, concise, and practical for end-users to fill out the form accurately and efficiently. By following this guide, users will be able to effectively communicate their website request needs to the relevant team.</thinking>
-
 # Archived Website Request - Help Guide
 ## Purpose
 The "Archived Website Request" form is used to capture information from users when they are unable to access a specific webpage or page topic on the website. This form helps the relevant team to identify and resolve the issue promptly, ensuring that users can find the information they need on the website.

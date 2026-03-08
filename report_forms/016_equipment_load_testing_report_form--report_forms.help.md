@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to report on equipment load testing, which is a process of measuring the performance of a piece of equipment under controlled load conditions. This report form is used to capture key information about the testing process, including the type of equipment being tested, the duration and frequency of the test, and the results of the test. The form should only be completed by authorized personnel and is typically used for internal purposes only. To ensure accuracy and completeness, please review the form carefully before submitting it. If you are unsure about any field, please refer to this guide for clarification. Please note that this form may not be suitable for external use without modification or approval from authorized personnel.
-</thinking>
-
 # Equipment Load Testing Report Form - Help Guide
 ## Purpose
 The Equipment Load Testing Report Form is used to capture information about equipment load testing, which is a process of measuring the performance of a piece of equipment under controlled load conditions.

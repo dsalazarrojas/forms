@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a shift worked by an employee in an accommodation setting, such as a hotel or inn. The purpose of this form is to report the details of the shift, including the date, start and end times, employee information, and various metrics about the shift, such as rooms assigned, maintenance issues, and guest complaints. This form is intended to be completed by the employee who worked the shift, and the information collected will be used to monitor and improve the performance of the accommodation property.
-</thinking>
-
 # Accommodation Shift Report Form - Help Guide
 ## Purpose
 This form is used to report the details of a shift worked by an employee in an accommodation setting, such as a hotel or inn.

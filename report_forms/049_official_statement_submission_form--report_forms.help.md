@@ -1,12 +1,3 @@
-<thinking>
-To create an AI-generated form that replicates the structure and content of real-world forms used in various industries and categories, I considered the following factors:
-
-*   The form's purpose and content are inspired by real-world survey topics, ensuring it's a reliable representation of actual forms used in the industry.
-*   The form's metadata includes a clear indication that it was created using only public survey topic metadata, making it an original adaptation without any affiliation with or derivation from proprietary platforms.
-*   This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-</thinking>
-
 # official_statement_submission_form - Help Guide
 ## Purpose
 This form, "official_statement_submission_form," is designed to gather information from submitters for official statements or reports. It typically includes details such as submitter information, incident details, and incident reporter information. The form's purpose is to collect data for official purposes, such as incident reports or statements.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for setting up a CI/CD pipeline for a project. The form will be used by IT teams to gather requirements and preferences from project stakeholders to create a customized pipeline setup. The form will ask for project details, technical information, and preferences for the pipeline setup.
-Please make sure you only need to fill out this form once for each project. Duplicate requests may lead to confusion and miscommunication with the project team.
-</thinking>
-
 # CI/CD Pipeline Setup Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for setting up a CI/CD pipeline for a project. It will help the IT team to create a customized pipeline setup that meets the project's needs.

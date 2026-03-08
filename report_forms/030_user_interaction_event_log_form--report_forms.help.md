@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user interaction data for quality assurance and feedback purposes. The form is used to report any issues that users may have encountered with products or services. The goal is to gather information about the type of issue, the product involved, and the user's interaction with the product. This form is not intended to be used for general customer feedback or support requests.
-</thinking>
-
 # User Interaction Event Log Form - Help Guide
 ## Purpose
 The User Interaction Event Log Form is used to collect detailed information about user interactions with products or services. This form helps us identify and address any issues that users may have, ensuring a better overall customer experience.

@@ -1,12 +1,3 @@
-<thinking>
-The Transportation Log Form is designed to record information about vehicle trips, including route IDs, vehicle details, and trip metrics such as start and end times, distances, and fuel consumption. This form is intended for recording trips taken by drivers or vehicle operators, and the data collected will help in monitoring and optimizing vehicle usage and performance.
-This form is not designed to be used in scenarios such as:
-* Reporting personal vehicle usage for leisure activities
-* Recording vehicle maintenance schedules or repair history
-* Tracking vehicle inventory or asset management
-The form will only be useful for trips that are associated with a specific route, vehicle, and driver.
-</thinking>
-
 # Transportation Log Form - Help Guide
 ## Purpose
 The Transportation Log Form is a tool for collecting data about vehicle trips, helping you to track and monitor vehicle usage, performance, and related metrics.

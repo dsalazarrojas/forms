@@ -1,7 +1,3 @@
-<thinking>
-This is a form for requesting a barge service quote, used by customers to provide information about their cargo and requirements for transport. The form is intended to ensure accurate quotes and to help us assess the feasibility and risks associated with the transport. It's essential that the customer completes this form accurately to enable us to provide the most suitable quote possible. This form is only to be filled out once, and any subsequent requests will be checked for duplication of information. Customers can fill out this form online, and we'll review and respond to their request.
-</thinking>
-
 # Barging Service Quote Request - Help Guide
 ## Purpose
 

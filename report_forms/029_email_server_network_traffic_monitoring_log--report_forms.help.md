@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to email server network traffic monitoring logs. The goal is to gather details on email server performance, category, start and end dates of monitoring, and specific events or issues encountered during the monitoring process. This form should be completed by network administrators or IT staff to provide a clear record of email server network traffic monitoring data. The form's fields are designed to be simple and straightforward to help users quickly and accurately input the required information.
-</thinking>
-
 # Email Server Network Traffic Monitoring Log - Help Guide
 ## Purpose
 The Email Server Network Traffic Monitoring Log form is intended for network administrators or IT staff to collect and record email server performance data. This data includes category, start and end dates, specific events or issues, IP addresses, server name, and server IP.

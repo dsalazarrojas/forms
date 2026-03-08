@@ -1,5 +1,3 @@
-<thinking> 
-This form is designed to collect information about incidents that occur within the school setting. It will likely be used by school administrators to gather details about incidents such as accidents, fights, or other issues that require attention. To use this form effectively, ensure that you are in a situation where an incident has occurred or is about to occur. Please do not fill out this form for non-emergency purposes or to report minor incidents that do not require immediate attention. Ensure that you are filling out the correct form for your school's incident reporting process. If you are unsure, please check with your school's administration or supervisor before proceeding.</thinking>
 # School Incident Report Form - Help Guide
 ## Purpose
 The School Incident Report Form is used to collect information about incidents that occur within the school setting. This form helps school administrators gather details about incidents such as accidents, fights, or other issues that require attention.

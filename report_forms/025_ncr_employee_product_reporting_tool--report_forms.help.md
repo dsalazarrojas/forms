@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees on products they have issues with. The purpose of this form is to gather data on employee experiences, identify trends, and help improve the quality and effectiveness of products. This form should only be completed by employees who have had issues with products and are willing to report them. Please ensure you have permission to report products from your management before using this form.
-</thinking>
-
 # ncr_employee_product_reporting_tool - Help Guide
 ## Purpose
 The ncr_employee_product_reporting_tool is a form designed to collect information from employees on products they have had issues with. This data will help us identify trends and areas for improvement in our products.

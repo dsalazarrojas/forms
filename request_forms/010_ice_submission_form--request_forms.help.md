@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents or near-miss incidents that occurred within the organization. It is intended to be completed by individuals who have witnessed or are aware of an incident, with the goal of providing a clear and concise account of what happened. The form should only be completed once per incident, to avoid duplication of effort and ensure that accurate information is collected.
-</thinking>
-
 # ICE Submission Form - Help Guide
 ## Purpose
 The ICE Submission Form is a tool used to collect information about incidents or near-miss incidents that occurred within the organization. It is intended to be completed by individuals who have witnessed or are aware of an incident, with the goal of providing a clear and concise account of what happened.

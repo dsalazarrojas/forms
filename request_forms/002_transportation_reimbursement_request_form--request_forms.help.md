@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Transportation Reimbursement Request Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used for students to report incidents that occur during school hours. It's essential to fill out this form accurately to ensure that incidents are documented and addressed promptly. Before filling out this form, please ensure that you haven't reported an incident previously and that you're not filling out the form for someone else. If you're unsure about any of the fields, please consult with your teacher or school administration for guidance.
-
-</thinking>
-
 # Student Incident Report Form - Help Guide
 
 ## Purpose

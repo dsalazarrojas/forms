@@ -1,8 +1,3 @@
-<thinking>
-This template is used for field reports, which are used to document and communicate observations, issues, and actions taken on-site. This form is likely used in various industries such as construction, maintenance, or quality control, where field workers need to report their findings, issues, and progress. It's essential to ensure that this form is completed accurately and thoroughly to maintain consistency and transparency. To avoid confusion, please review each field carefully and ensure that you have all necessary information before completing this form.
-
-</thinking>
-
 # Field Report Form Template - Help Guide
 ## Purpose
 The Field Report Form Template is used to document and communicate observations, issues, and actions taken on-site.

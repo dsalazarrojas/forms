@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to ensure that the form is used for its intended purpose and that users don't duplicate requests. To that end, please confirm that you're requesting landscaping services for a specific area or property. If you're unsure or have questions, please contact our team.
 
 # Landscaping Request Form - Help Guide

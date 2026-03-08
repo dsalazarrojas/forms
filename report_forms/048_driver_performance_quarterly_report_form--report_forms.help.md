@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to capture performance data from drivers, providing a means to assess their overall performance, dangerous driving behaviors, and other key metrics. This report form will help supervisors and administrators evaluate driver behavior and identify areas for improvement. It's essential to ensure that each driver is evaluated consistently and fairly, using the same assessment criteria. To avoid duplication, it's recommended to review the form for each driver on a regular basis, rather than submitting multiple reports for the same driver.
-
-</thinking>
-
 # driver_performance_quarterly_report_form - Help Guide
 ## Purpose
 This form is designed to monitor and evaluate driver performance on a quarterly basis.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information about incidents that have exposed an individual or a group to a potential hazard or risk. This form is used to report and document incidents, ensuring that relevant details are collected and addressed to maintain a safe working environment. The form is meant to be filled out by the reporting person in charge of incident reporting, but the supervisor's approval is also an optional field that indicates whether the incident has been acknowledged and approved by the supervisor.
-
-Before proceeding, please make sure that this form is not a duplicate of an existing incident report. If you are unsure, please refer to your organization's incident reporting guidelines and procedures.
-
-</thinking>
-
 # Incident Exposure Report - Help Guide
 ## Purpose
 The purpose of this form is to collect information about incidents that may have exposed an individual or a group to a potential hazard or risk. The form is designed to gather essential details about the incident, including date, time, location, and incident type, to facilitate prompt action and resolution.

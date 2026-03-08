@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Clock Exception Form - Help Guide
 ## Purpose
 

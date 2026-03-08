@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report on short-term care shift details. The purpose of this form is to provide a concise and structured way to document shifts, allowing staff to report their work hours, start and end dates, and any relevant notes or handover information. This form is intended for use by staff who are responsible for providing short-term care, and the information collected will be used to track and manage their shifts.
-
-Before completing this form, please ensure that you have reviewed the relevant policies and procedures for your department and that you are aware of any specific requirements or regulations that may impact your reporting.
-
-Please note that this form is not intended for use in emergency situations where immediate attention is required. If you are unsure about the purpose or use of this form, please reach out to your supervisor or HR representative for clarification.</thinking>
-
 # short_term_care_shift_report - Help Guide
 ## Purpose
 This form is used to report on short-term care shift details.

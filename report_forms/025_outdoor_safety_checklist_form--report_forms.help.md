@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for collecting data on outdoor safety checklists. The form might be used in various contexts such as in outdoor recreation or construction settings. The form could be used by safety officers to identify potential hazards and risks associated with outdoor activities or projects. To determine the form's relevance, consider the following questions:
-* What type of outdoor activity or project is this form associated with?
-* What kind of data is the form designed to collect?
-* Is this form part of a larger process or system for managing safety?
-</thinking>
-
 # Outdoor Safety Checklist Form - Help Guide
 ## Purpose
 This form is designed to help users identify potential hazards and risks associated with outdoor activities or projects. It is used to gather data on hazards and risks that need to be addressed for a safe outdoor environment.

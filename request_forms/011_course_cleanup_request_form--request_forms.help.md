@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assist users in requesting course maintenance and updates. 
-To ensure that the purpose of this form is met, please do not submit duplicate requests. 
-Ensure that you have a legitimate reason for submitting this form and are not trying to request maintenance for non-existent courses.
-</thinking>
-
 # Course Cleanup Request Form - Help Guide
 ## Purpose
 The Course Cleanup Request Form is a tool used to request maintenance and updates for courses. This form helps users submit their requests efficiently, ensuring that courses are properly maintained and updated in a timely manner.

@@ -1,13 +1,3 @@
-<thinking>
-
-The E Bike Repair Report Form is designed for reporting maintenance, repairs, or issues with e-bikes. This form helps mechanics and service staff gather information about the e-bike's condition, any problems encountered during the repair process, and the current status of the e-bike. 
-
-This form is intended for use by mechanics, service staff, and e-bike owners who need to report on e-bike repairs, maintenance, or issues. It is not meant for general public submission or public display.
-
-To avoid duplication, please check if a similar report has already been created before completing this form. If a similar report has been made, it's best to append to it or add a new one with a brief explanation of the differences between the new and old reports.
-
-</thinking>
-
 # E Bike Repair Report Form - Help Guide
 ## Purpose
 The E Bike Repair Report Form is used to report maintenance, repairs, or issues with e-bikes. This form helps mechanics and service staff gather necessary information about the e-bike's condition, any problems during the repair process, and the current status of the e-bike.

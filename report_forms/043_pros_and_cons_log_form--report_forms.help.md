@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the form's YAML metadata and purpose. I understand that this "Pros And Cons Log Form" is an AI-generated form for collecting and logging pros and cons of something or someone. The form is designed to be flexible with a mix of free-text and date/time input fields. This form is likely used for decision-making or evaluation purposes, where users need to weigh the advantages and disadvantages of a particular option or person. This guide will cover how to complete the form effectively, explaining each field's purpose and what is expected from the user.</thinking>
-
 # Pros And Cons Log Form - Help Guide
 ## Purpose
 

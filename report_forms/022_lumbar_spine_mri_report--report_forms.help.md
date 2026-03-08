@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information for a Lumbar Spine MRI Report. The purpose of this form is to gather data for medical professionals to assess and treat patients with lumbar spine issues. This form is intended to be used by healthcare providers to record patient information, medical history, and examination results, as well as radiology reports and reviews. 
-
-Before using this form, please ensure that you are authorized to collect and store patient data and that it is being used in accordance with applicable laws and regulations, such as HIPAA. 
-
-This form was created with specific fields that match the industry standards for medical reporting and documentation. Please ensure that all fields are filled out accurately and completely. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is intended as an original adaptation for medical use. 
-
-You are free to use, modify, and distribute this form, but please give credit to the original creators. 
-
-If you have any questions or concerns about this form, please contact form@gic.mx.
-
-</thinking>
-
 # Lumbar Spine MRI Report - Help Guide
 ## Purpose
 The Lumbar Spine MRI Report form is designed to collect and document information for patients undergoing lumbar spine MRI exams. This form is intended for medical professionals to record and report the results of these exams.

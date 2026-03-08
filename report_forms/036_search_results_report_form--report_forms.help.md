@@ -1,8 +1,3 @@
-<thinking>
-The search results report form is used to gather information about a search query and its associated search results. This form helps in tracking and documenting search queries and results, which can aid in improving search algorithms and result accuracy. 
-
-</thinking>
-
 # search_results_report_form - Help Guide
 ## Purpose
 The search results report form is used to record details about a search query and its results, helping to track and analyze search performance and user behavior.

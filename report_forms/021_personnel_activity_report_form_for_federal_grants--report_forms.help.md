@@ -1,10 +1,3 @@
-<thinking>
-To create the help guide for the "Personnel Activity Report Form For Federal Grants" form, we need to analyze the form fields and their corresponding options. The form appears to be designed for reporting employee activities related to federal grants. The purpose of the form is likely to track and report the time spent by employees on specific grant-related activities. This form is intended to be filled out by employees who have worked on grants, and it will be used to gather information about their activities. It's essential to ensure that the report is submitted correctly to avoid any confusion or errors.
-
-We will need to carefully review each field to provide a clear and concise explanation for end-users.
-
-</thinking>
-
 # Personnel Activity Report Form For Federal Grants - Help Guide
 ## Purpose
 This form is used to report the time spent by employees on specific grant-related activities. It helps to track and gather information about employee activities to ensure accurate reporting and compliance with federal grant regulations.

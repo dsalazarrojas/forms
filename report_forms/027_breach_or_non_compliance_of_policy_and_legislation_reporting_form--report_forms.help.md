@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the Breach or Non-Compliance Reporting Form is used correctly and consistently across the organization. Before filling out this form, please review the following guidelines to avoid duplication and ensure that your report is processed efficiently.
-
-*   The form is designed to help employees report incidents of breaches or non-compliance in a standardized and structured way, ensuring that all relevant information is captured accurately.
-*   Please note that the form is not intended for reporting minor issues or concerns that do not pose a significant risk to the organization or individuals. If you're unsure whether your report is suitable for this form, please contact your supervisor or HR representative for guidance.
-*   Each field in this form is carefully designed to gather specific information that helps us assess and address the reported issues efficiently. Please provide as much detail as possible for each field to ensure that your report is thorough.
-</thinking>
-
 # Breach or Non Compliance Reporting Form - Help Guide
 ## Purpose
 The Breach or Non-Compliance Reporting Form is designed to capture reports of incidents or issues that may be in breach of organizational policies, laws, or regulations. This form helps to ensure that all relevant information is captured and addressed in a structured and timely manner.

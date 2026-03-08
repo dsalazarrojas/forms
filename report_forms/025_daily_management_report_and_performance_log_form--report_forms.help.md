@@ -1,5 +1,3 @@
-<thinking>...The form is designed for daily management and performance logging. It's meant to gather information about tasks, employees, and their performance. This form likely helps in tracking the progress and evaluation of tasks, employee performance, and overall management activities... This form is meant to be used by managers or administrators to log information about tasks and employee performance on a daily basis...</thinking>
-
 # daily_management_report_and_performance_log_form - Help Guide
 ## Purpose
 The daily management report and performance log form is used to track and log information about tasks, employee performance, and management activities on a daily basis.

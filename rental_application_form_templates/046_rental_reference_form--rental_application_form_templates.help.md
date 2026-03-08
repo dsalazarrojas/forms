@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Reference Form - Help Guide
 ## Purpose
 The Rental Reference Form is used to gather information about a tenant's rental history. This form helps landlords and property managers to verify the identity and employment status of potential tenants, ensuring they have a good understanding of a tenant's ability to pay rent and fulfill their responsibilities. This form is designed to be completed by a reference, typically a friend, family member, or colleague, who can vouch for the tenant's character and rental history.

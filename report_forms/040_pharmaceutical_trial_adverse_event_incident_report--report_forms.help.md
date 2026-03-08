@@ -1,14 +1,3 @@
-<thinking>
-We need to create a help guide for the "Pharmaceutical Trial Adverse Event Incident Report" form. Before creating the guide, let's consider the purpose and context of the form. This form is likely used to report adverse events that occurred during a pharmaceutical trial or study. The form is probably used by study personnel, such as researchers, study coordinators, or clinical trial administrators, to document and track adverse events that have been reported by study participants. The form may be used to gather information about the event, including its description, severity, and any actions taken to address it. 
-
-The form appears to be quite comprehensive, covering various aspects of the adverse event, including the study details, event description, severity, and actions taken. The goal is to ensure that the form is completed accurately and thoroughly, with all relevant information recorded.
-
-To ensure accuracy and consistency, it would be beneficial to have the form reviewed and approved by the study sponsor, principal investigator, or other relevant stakeholders before submission.
-
-We can proceed with creating the help guide, using the provided form fields as a basis for the explanations. Please note that some fields, such as study status and study phase, may have specific requirements or constraints that need to be considered when completing the form.
-
-</thinking>
-
 # Pharmaceutical Trial Adverse Event Incident Report - Help Guide
 ## Purpose
 The Pharmaceutical Trial Adverse Event Incident Report form is used to document and track adverse events that occur during a pharmaceutical trial or study. This form helps gather essential information about the event, including its description, severity, and any actions taken to address it.

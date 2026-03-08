@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # what_if_scenario_analysis_form - Help Guide
 ## Purpose
 This form is designed to analyze what-if scenarios, providing a structured framework to assess the potential impact and risks associated with a given situation. It guides users in identifying critical factors and mitigation steps to prepare for and respond to potential outcomes. The form is intended for scenarios that require careful consideration of various risks and consequences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule and document preventive maintenance activities for vehicles and equipment. The form helps to ensure that necessary maintenance is performed on time, reducing the risk of equipment failure and downtime. It's a crucial part of a well-planned maintenance routine. To avoid duplication, make sure to check if a similar form has been submitted recently. If you're unsure, you can check the <a href="https://yourcompany.com/asset-management">asset management portal</a> for information on previously scheduled maintenance activities.
-</thinking>
-
 # Preventive Maintenance Scheduling Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for scheduling and documenting preventive maintenance activities for vehicles and equipment.

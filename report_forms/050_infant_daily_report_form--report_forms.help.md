@@ -1,7 +1,3 @@
-<thinking>
-This form is used by healthcare professionals to report on the daily activities and health status of infants. The report includes information on morning activities, feeding methods (bottle or breast), number of diaper changes, sleep duration, sleep schedule, medication, medical conditions, allergies, and other events. This form is likely used in a clinical setting to monitor the progress of infant patients. Please ensure that you have reviewed this form carefully to understand the purpose and content before submitting it. Also, please note that this form should not be completed if the same information is already included in a previous report.
-</thinking>
-
 # Infant Daily Report Form - Help Guide
 ## Purpose
 The Infant Daily Report Form is used to report on the daily activities and health status of infants in a clinical setting. This form helps healthcare professionals track the progress of infant patients and monitor any changes or concerns that may arise.

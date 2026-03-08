@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect incident investigation data for reporting and tracking purposes. It is used by investigators to document and investigate incidents in a detailed and systematic manner. This form is designed to guide the investigator through the process of collecting and recording relevant information about the incident, which will help in identifying the root cause and implementing prevention measures. The form is not a duplicate of the incident report form used for reporting to external parties, but rather a separate form used for internal investigation purposes only.
-
-To ensure the form is filled out correctly, please review the field explanations provided below.
-</thinking>
-
 # Incident Investigation Form - Help Guide
 ## Purpose
 The Incident Investigation Form is used to document and investigate incidents in a structured and detailed manner.

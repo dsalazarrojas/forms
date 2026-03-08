@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents where a suspect may have been subjected to a use of force by law enforcement. The purpose of this form is to gather details about the incident, the suspect, and the officer involved. This form should only be completed for incidents where a use of force was involved, and not for routine or minor incidents. Please ensure that you have a valid reason for submitting this form, and that the information is accurate and truthful.
-</thinking>
-
 # Use Of Force Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information about incidents where a suspect may have been subjected to a use of force by law enforcement. It is intended to gather details about the incident, the suspect, and the officer involved.

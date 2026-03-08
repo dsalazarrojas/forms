@@ -1,14 +1,3 @@
-<thinking>
-To confirm the functionality and purpose of this form, I will review the provided YAML fields. The form appears to be designed for the purpose of inspecting and verifying the safety and security features of a residential alarm system. The form will likely be used by landlords or property managers to assess the status of alarm systems in rental properties, ensuring they are working properly and meet safety standards. This form will collect information on various aspects of the alarm system, such as its functionality, activation method, and sounds features.
-
-Upon reviewing the form fields, I notice the following:
-
-*   The form has multiple pages with various types of fields, including select_multiple, select_one, date, text, and note fields. This suggests that the form will collect both numerical data (e.g., dates, numbers) and qualitative data (e.g., select_multiple, select_one).
-*   The presence of select_multiple fields indicates that the form might be collecting data that requires multiple selections or options to be selected.
-*   The inclusion of date fields (e.g., `system_tested_date`, `system_tested_by`) suggests that the form will record timestamps and possibly assign responsibilities or ownership of tasks.
-
-</thinking>
-
 # Residential Alarm Safety Inspection Tenant Verification Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>...
-Internal reasoning:
-This form is used to collect participant information and consents for a contactless entry program. The contactless entry program allows individuals to enter a building without physical contact, which reduces the risk of COVID-19 transmission. This form ensures that participants understand the scope of data collection and retention, and provides them with an opportunity to withdraw their consent if needed. It is essential to use this form to ensure the privacy and security of all participants.
-</thinking>
-
 # Contactless Entry Program Consent Form - Help Guide
 
 ## Purpose

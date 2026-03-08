@@ -1,19 +1,3 @@
-<thinking>
-Equestrian Facility Rental Application: 
-- Ensure all fields are understood by end users.
-- Verify that the form doesn't duplicate existing information.
-- This form is likely for a non-profit or government agency.
-- It seems that all fields are optional except for the "applicant_info", "rental_request", and "rental_start_date", "rental_end_date", "rental_duration" fields.
-- The "facitly_info" field is likely for facility-related info, but it's not clear what it's used for.
-- "rental_terms" is likely for terms and conditions of the rental.
-- "rental_start_date" and "rental_end_date" might be used for calculating the rental duration.
-- "equestrian_activities" is likely used for specifying the type of equestrian activities that will take place on the facility.
-- "special_requests" is likely for any additional requests or requirements.
-- "rental_status" is likely for tracking the status of the rental.
-- "notes" field might be used for any additional information that the rental agent wants to provide.
-- "contact_info" and "email" and "phone" fields might be used for communication with the client.
-</thinking>
-
 # Equestrian Facility Rental Application - Help Guide
 ## Purpose
 This form is for applying to rent an equestrian facility. It will help us understand your rental needs and requirements.

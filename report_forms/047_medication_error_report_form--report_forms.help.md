@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this medication error report form is used correctly and to prevent duplication of reports, only one report per patient per day can be submitted through this form. This form is intended to be used when an error has occurred with a medication, and the user must select the facility where the error occurred and the status of the report (e.g., pending, resolved, etc.) to ensure that the correct report is generated. Please ensure you have permission to submit a report for the specified facility before submitting this form.
-</thinking>
-
 # Medication Error Report Form - Help Guide
 ## Purpose
 The Medication Error Report Form is used to report errors that have occurred with medication administration. This form is used to provide detailed information about the error, including the facility where it occurred, the status of the report, and other relevant information.

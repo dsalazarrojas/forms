@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Table Extension Slide Repair Request Form - Help Guide
 ## Purpose
 The Table Extension Slide Repair Request Form is used to collect information from clients regarding their table extension slide repair needs. This form is designed to gather details about the problem, client information, schedule appointment dates and times, and any additional comments the client may have.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Envelope Efficiency Registration Form - Help Guide
 ## Purpose
 The Envelope Efficiency Registration Form is designed to gather information from users to improve the efficiency of envelope-related processes. This form is typically used in conjunction with other forms to facilitate data collection and processing. Before filling out this form, please check that you are not duplicating an existing registration and that your submission aligns with the intended use case. If you're unsure, please contact your local contact for guidance.

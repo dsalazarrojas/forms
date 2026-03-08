@@ -1,10 +1,3 @@
-<thinking> 
-  This form is designed for inspectors to submit reports about the condition and measurements of physical assets (e.g., equipment, properties, or other physical objects). 
-  The purpose of this form is to gather information about the asset's condition, measurement, and any recommended actions for maintenance or repair. 
-  This form should only be used for assets that have not been inspected before, or if the previous inspection report is outdated or missing. 
-  Ensure that the inspector fills out the form accurately and completely. 
-  </thinking>
-
 # Condition And Measurement Report - Help Guide
 ## Purpose
 The Condition and Measurement Report form is used to document the condition and measurement of physical assets, such as equipment, properties, or other physical objects. Inspectors use this form to provide information about the asset's condition, measurement, and any recommended actions for maintenance or repair.

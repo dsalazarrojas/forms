@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about the transformation objectives, focus areas, timeline, budget, and other relevant details for corporate transformations within the company. This form ensures that all the necessary information is captured and aligned with the company's goals and objectives.
-
-The corporate transformation plan request form should only be filled out once per transformation project, to avoid duplication and ensure accurate planning and tracking. Please review the form carefully before submitting your request.
-
-</thinking>
-
 # corporate_transformation_plan_request_form - Help Guide
 ## Purpose
 The corporate transformation plan request form is used to collect information about corporate transformation projects within the company. This form helps ensure that all the necessary details are captured and aligned with the company's goals and objectives.

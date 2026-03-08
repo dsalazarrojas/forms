@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for employees to claim travel expenses for business or vacation trips. The purpose of this form is to gather information about the trip, including the type of travel, dates of travel, destination, mode of transportation, and expenses incurred during the trip. This form should only be completed by employees who have traveled on company business or for company-approved vacation and need to report their expenses. Please ensure you're only submitting this form to report legitimate business or vacation travel.</thinking>
-
 # Travel Claim Form - Help Guide
 
 ## Purpose

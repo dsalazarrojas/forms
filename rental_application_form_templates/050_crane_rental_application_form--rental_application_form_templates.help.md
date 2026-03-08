@@ -1,12 +1,3 @@
-<thinking>
-To begin with, let's understand the context of this form: the Crane Rental Application Form is a tool to gather information from customers or clients who wish to rent or operate a crane for their project or task. The form is designed to collect detailed information about the rental, including the crane type, operating hours, operating location, and other relevant details. This guide is intended to help users fill out the form correctly.
-
-Before proceeding, please ensure that you have the authority to fill out this form and that it is relevant to your project or task. If you are unsure or have questions, please contact the designated contact person for clarification.
-
-This guide is divided into four sections: Purpose, How to Complete This Form, Field-by-Field Explanation, and Tips. Each section provides a step-by-step explanation of how to use the form effectively.
-
-</thinking>
-
 # Crane Rental Application Form - Help Guide
 
 ## Purpose

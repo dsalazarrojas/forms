@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Daily Operations Log For Crews - Help Guide
 ## Purpose
 The Daily Operations Log For Crews form is used to track and record daily operations, shifts, and events for crews. This form is used to gather information about each crew's activities, notes, and other relevant details.

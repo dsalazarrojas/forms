@@ -1,8 +1,3 @@
-<thinking>
-This form is for uploading an image for search purposes. It's intended for users to provide an image that can be used for searching and indexing. The form will help us understand the context in which the image is being used and whether the user has given their consent for the image to be used. The form will also allow users to provide additional information about the image and specify the type of search they are performing.
-The form will not be used for other purposes and will not duplicate any existing data.
-</thinking>
-
 # Image Upload For Search - Help Guide
 ## Purpose
 This form is for uploading an image for search purposes.

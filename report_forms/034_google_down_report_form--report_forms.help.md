@@ -1,9 +1,3 @@
-<thinking>As the form designer, I must consider the purpose and structure of this report form. The form, titled "Google Down Report Form", appears to be designed for reporting issues related to services, such as bugs, errors, or problems encountered while using a service. The form has 25 fields, with a mix of text, date, time, and select fields. The fields are primarily focused on providing detailed information about the issue, including its name, description, date and time, and the user's contact information. The form also includes fields for categorizing the issue, tracking its status and resolution, and recording the resolution status. This form is likely used by teams or support staff to document and manage issues reported by users.
-
-Upon reviewing the form, I notice that there are some fields that are not required, such as "Issue Time" and "Issue Resolution" and "Follow Up". These fields may be included for additional context or reporting purposes, but they do not seem to be essential for the primary function of the form.
-
-Considering the form's purpose and structure, I'll proceed to create a user-facing help guide.</thinking>
-
 # Google Down Report Form - Help Guide
 ## Purpose
 The "Google Down Report Form" is designed for users to report issues related to services, such as bugs, errors, or problems encountered while using a service. This form helps gather detailed information about the issue, allowing support staff to quickly identify and resolve the problem.

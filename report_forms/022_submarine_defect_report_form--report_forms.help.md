@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information from users about submarine defects that need to be reported. The form is intended for use by personnel who need to report issues with submarines, such as maintenance teams, engineers, or supervisors. Before filling out this form, ensure that you have not already reported this defect, and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Submarine Defect Report Form - Help Guide
 
 ## Purpose

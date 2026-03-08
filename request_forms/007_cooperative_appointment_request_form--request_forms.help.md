@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from end-users for cooperative appointment requests. The purpose of the form is to gather details about the meeting, such as date, time, location, and preferred contact method, as well as information about the cooperative member's status and any follow-up instructions. This form will help ensure that all necessary information is collected consistently and accurately.
-
-Before filling out this form, please ensure that you are not submitting duplicate requests. If you have already submitted a request for the same meeting, please do not submit again. 
-
-Please note that this form is for end-users, and the information collected will be used to schedule and follow up on meetings. 
-
-</thinking>
-
 # Cooperative Appointment Request Form - Help Guide
 ## Purpose
 The Cooperative Appointment Request Form is designed to collect information for cooperative appointments. This form will help you schedule meetings and ensure that all necessary information is collected.

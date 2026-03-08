@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for assessing and documenting a student's disability status and its impact on their academic performance. It is crucial to ensure that the form is used correctly and not duplicated or misused. The purpose of this guide is to assist end-users in understanding the form's purpose, completing it accurately, and providing explanations for each field. This guide will be used to support the correct completion and interpretation of the form, and any misuse or duplication should be reported to ensure the integrity of the data collected.
-</thinking>
-
 # Disability Assessment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and fields to ensure we don't duplicate any information and cover all the necessary details for end-users to complete the form accurately. This will help us create a comprehensive and concise help guide that meets the form's requirements.</thinking>
-
 # Closing Checklist - Help Guide
 ## Purpose
 The closing checklist is designed to ensure that all tasks and procedures are completed during store closing. This form is used to document the progress and status of various closing tasks, including cash handling, inventory management, cleanliness, and security procedures. The checklist helps management and staff track and review the completeness of closing tasks.

@@ -1,9 +1,3 @@
-<thinking>
-
-The Uniform Issue Form is a tool used to document issues and discrepancies in uniform inventory management. This form is essential for recording and tracking uniform-related problems, ensuring timely resolution, and maintaining accurate records. **Before proceeding, please ensure that the issue is not a duplicate and that you have not already submitted a report on this matter.**
-
-</thinking>
-
 # Uniform Issue Form - Help Guide
 ## Purpose
 The Uniform Issue Form is used to report issues related to uniforms, such as missing or damaged items. This form helps to gather information about the problem, its location, and other relevant details to facilitate swift resolution.

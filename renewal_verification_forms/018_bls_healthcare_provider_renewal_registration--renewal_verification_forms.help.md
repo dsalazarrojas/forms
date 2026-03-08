@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BLS Healthcare Provider Renewal Registration - Help Guide
 ## Purpose
 This form is intended for healthcare providers to register for a BLS (Basic Life Support) certification renewal. The form is used to verify a provider's current license or certification number, license expiration date, healthcare role, and other relevant information. Please use this form only if you are a certified BLS provider and need to renew your certification. Do not submit this form if you are a new student or certification candidate.

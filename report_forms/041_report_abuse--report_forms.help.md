@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Report Abuse" form, we should first understand its purpose and the fields it contains. The form appears to be designed for reporting abusive or problematic content, and it may be used to track and manage such reports. The fields provided seem to be focused on collecting information about the user who reports the abuse, the reason for the report, and some additional details such as the report type, page number, and submission information.
-
-Upon examining the form fields, we can see that they include:
-
-* User Input: This field likely allows the user to provide their thoughts or details about the abuse.
-* Name: This field might be used to collect the name of the person submitting the report or the name of the person affected by the abuse.
-* Email: This field could be used to contact the user who submitted the report.
-* Reason: This field is intended to capture a detailed explanation of the abuse or problem.
-* Page Number: This field might be used to track the page where the abuse was found.
-* Report Type: This field is a select-one field with two options, Report Type and Other, suggesting that the form is designed to categorize the type of report made.
-* Comments: This field provides an opportunity for the user to add any additional comments or information about the report.
-* Report Form ID: This field might be used to track or reference the report internally.
-* Created At and Updated At: These fields are likely used to track the timestamps when the report was created and last updated.
-* Submitted At: This field is used to track the timestamp when the report was submitted.
-* Submitted By: This field is a select-one field with two options, System and User, indicating that it can be submitted either automatically by the system or manually by a user.
-
-With this understanding, we can now create a user-facing help guide for the form.
-
-</thinking>
-
 # Report Abuse - Help Guide
 ## Purpose
 This form is designed to report abusive or problematic content. To submit a report, please follow the steps below.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document incidents involving students that have resulted in disciplinary actions. 
-When filling out this form, please ensure that you are reporting incidents that have not been previously documented, and that you are not submitting duplicate reports.
-The form is used to gather information about the incident, including the student's name, grade level, description of the offense, actions taken, summary of any conversations with the student, date and time of the incident, and time zone.
-</thinking>
-
 # Student Offense Report Form - Help Guide
 ## Purpose
 The purpose of this form is to document incidents involving students that have resulted in disciplinary actions. It helps gather relevant information about the incident, which can be used to inform future decisions or actions.

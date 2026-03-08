@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the renewal of a Sales Representative Membership. This form is designed to gather information from the Sales Representative regarding their membership status, payment details, and other relevant information necessary for the renewal process. This form is typically used during the sales representative's membership renewal period, and it's essential to ensure that the information provided is accurate and up-to-date.
-The form is divided into several sections, each containing specific fields that need to be filled out. To avoid duplication and errors, it's crucial to complete each field accurately and thoroughly.
-</thinking>
-
 # Sales Representative Membership Renewal - Help Guide
 
 ## Purpose

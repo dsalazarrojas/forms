@@ -1,22 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding the purpose and requirements of the Component Integrity Verification Report form. The form is meant to record the findings and corrective actions taken during the inspection of a component or asset. It is designed to be a structured template for reporting the integrity of a component and identifying potential issues that require attention.
-
-The form will be used to:
-
-* Record inspection findings and corrective actions taken during the inspection
-* Identify potential issues that require mitigation or further investigation
-* Provide a systematic way to document the component's integrity and the actions taken to maintain or improve its condition
-
-The form is not designed to be used for other purposes, such as:
-
-* Creating new inspections or reports from scratch
-* Modifying existing forms or reports in a non-standardized manner
-* Sharing or publishing sensitive or proprietary information
-
-By following this guide, end users will be able to accurately and effectively complete the Component Integrity Verification Report form for accurate and reliable data entry.
-
-</thinking>
-
 # Component Integrity Verification Report - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a rental application form used to collect demographic information from renters for reference purposes. The form will be used to collect data on first name, last name, date of birth, and contact phone number. The form is intended to be completed by a renter, not the landlord or property owner.
-</thinking>
-
 # RTL Rental Reference - Help Guide
 ## Purpose
 The RTL Rental Reference form is a data collection tool used to gather demographic information from renters. This information will be used for reference purposes only and will not be used to verify creditworthiness or make any decisions regarding the rental application.

@@ -1,9 +1,3 @@
-<thinking>
-This guide is for employees who want to request a sabbatical leave of absence for artistic purposes. A sabbatical is a temporary leave of absence from work to focus on artistic projects, research, or professional development. This form is used to formalize your request and ensure that your needs are met during your absence. Before filling out this form, please ensure that you are not already on a similar leave of absence and that your request is not duplicating existing projects.
-
-Please note that this form is for artistic purposes only, and you must select a valid artistic reason for your sabbatical in the "Primary Purpose of Sabbatical" field.
-</thinking>
-
 # Artistic Sabbatical Leave Of Absence Form - Help Guide
 
 ## Purpose

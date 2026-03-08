@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is meant to collect information from users to provide a free estimate for a service request. This form should not be filled out by users who are looking to book an appointment, schedule a maintenance visit, or make a payment. Before proceeding, please ensure you are not duplicating an existing request or seeking an estimate for a service you have already requested in the past. If you are unsure, please contact our support team for clarification.
-</thinking>
-
 # Request a Free Estimate - Help Guide
 ## Purpose
 This form is used to request a free estimate for a service related to construction, repair, or maintenance. Fill out this form to provide us with more information about your service request, and our team will respond with an estimate within a reasonable timeframe.

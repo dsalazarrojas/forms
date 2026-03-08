@@ -1,5 +1,3 @@
-<thinking>Internal note to myself: The Annual Report Form is designed to gather key information about a company's or organization's financial and operational performance over the past year. This form is intended to help the organization's leadership and stakeholders assess their progress and provide insights for future planning. I will make sure to clearly explain each field's purpose and requirements to ensure that the user completes the form accurately and effectively. I will also review the form's structure and content to ensure it is well-organized and easy to follow.</thinking>
-
 # Annual Report Form - Help Guide
 
 ## Purpose

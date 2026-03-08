@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is used for the intended purpose and not duplicated for other certifications. The purpose of this form is to support the renewal of smart retail certifications, which are typically granted to retailers or distributors with a valid proof of registration or business operations documentation. To confirm this, we'll review the selected certification type and ensure that the uploaded document meets the required standards. We should avoid allowing users to submit duplicate certifications or certifications not meant for renewal. Let's make sure to clearly communicate these checks and instructions to the end users to minimize errors and ensure accurate data collection.</thinking>
-
 # Smart Retail Certification Renewal Application - Help Guide
 ## Purpose
 The Smart Retail Certification Renewal Application form is designed to support the renewal of smart retail certifications granted to retailers or distributors. This form helps to collect required information for the renewal process.

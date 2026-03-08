@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to submit support tickets to the CRM system. The form is intended to capture detailed information about the issue, including the submitter's contact information, the department and category of the issue, the priority level of the issue, and any additional context. By filling out this form, submitter will be able to get help and resolution as soon as possible. Please make sure the issue hasn't been submitted before and you have not already contacted the support team directly to avoid duplication of effort.
-</thinking>
-
 # CRM Support Ticket Form - Help Guide
 
 ## Purpose

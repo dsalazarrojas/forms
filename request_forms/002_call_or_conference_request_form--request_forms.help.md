@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Call Or Conference Request Form - Help Guide
 ## Purpose
 The Call Or Conference Request Form is used to request a call or conference with a representative from our organization. To ensure that your request is processed efficiently, please fill out this form with accurate and complete information.

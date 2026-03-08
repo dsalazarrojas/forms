@@ -1,7 +1,3 @@
-<thinking>
-To confirm relevance and prevent duplication: This form is intended for capturing odometer readings and vehicle details for reporting purposes. The form may not be used for other uses or forms of submission. Please ensure all fields are completed truthfully and accurately. If the vehicle details provided do not match the actual vehicle, please use another form.
-</thinking>
-
 # Odometer Statement Form - Help Guide
 ## Purpose
 The Odometer Statement Form is designed to capture odometer readings and vehicle details for reporting purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The Co Applicant Financial Disclosure Form is used to gather financial information about the co-applicant in a rental application. The form is part of the rental application process and is used by landlords or property managers to assess the co-applicant's financial situation. This form helps the landlord or property manager to evaluate the co-applicant's creditworthiness and make informed decisions about the rental application.
-</thinking>
-
 # Co Applicant Financial Disclosure Form - Help Guide
 ## Purpose
 The Co Applicant Financial Disclosure Form is used to gather financial information about the co-applicant in a rental application.

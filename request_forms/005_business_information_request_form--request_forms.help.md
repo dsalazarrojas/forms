@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or organizations requesting business data. The form is used for businesses that provide information to third parties, to verify the legitimacy and authenticity of requests for sensitive information. The form aims to ensure that requests are properly documented and that the requesting party agrees to maintain confidentiality of the received information. Before proceeding, please ensure you have not already submitted a similar request for the same purpose.
-</thinking>
-
 # Business Information Request Form - Help Guide
 ## Purpose
 This form is designed to collect business information requests in a structured and secure manner. It's essential to complete this form accurately to ensure that your request is properly processed and that the required information is delivered to you in a timely and secure fashion.

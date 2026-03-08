@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for veterinarians or medical professionals to report on the daily activities and updates of a pangolin (a type of animal) under their care. It is meant to help track and record the patient's progress, treatment plans, medication administration, and follow-up appointments.
-
-Before starting, ensure that you are not duplicating an existing report. If you need to report on a different type of animal or situation, consider creating a new form or consulting with the relevant authorities. This form is designed to be a general-purpose tool for pangolin rehabilitation and may not cover specific requirements or nuances of every situation.
-
-This form should be filled out daily, providing a consistent and detailed record of the patient's care. Please note that the "Follow Up Date" field is not just a date picker but a specific date for the next follow-up appointment.
-
-The "Patient Condition" field is for noting any significant changes or updates on the patient's condition, not just a general health update. Similarly, the "Care Plan" field is for outlining specific steps or tasks to be taken for the patient's recovery and should be detailed.
-
-The "Veterinarian Signature" field is optional, but it's recommended to be filled out to ensure accountability and consistency in care. However, if you are unable to sign, please explain why in the "Notes" field.
-
-</thinking>
-
 # Pangolin Rehabilitation Daily Report - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on fire-related incidents, gathering essential details to report and respond effectively. This form should only be used for fire calls where the fire department has responded. If you're not a fire department employee, please do not submit this form. Ensure that you're submitting reports relevant to the fire call and not duplicate reporting.
-</thinking>
-
 # Fire Call Report Sheet Form - Help Guide
 ## Purpose
 This form is used to document fire calls where the fire department has responded, including the incident date, type, location, status, and details of the incident.

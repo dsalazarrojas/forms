@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for requesting changes to employee clock-in or clock-out times. It is used to correct errors or discrepancies in time records. To ensure that the form is filled out correctly, please review the following steps:</thinking>
-
 # Clock In Out Change Request Form - Help Guide
 ## Purpose
 The Clock In Out Change Request Form is used to request changes to employee clock-in or clock-out times. This form should be used to correct errors or discrepancies in time records.

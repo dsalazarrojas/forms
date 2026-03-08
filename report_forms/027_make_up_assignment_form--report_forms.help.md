@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report the absence of a student. The purpose of this form is to provide a structured way to report a student's absence, including the student's name, the assignment or activity they were absent from, the reason for their absence, and the date and time they were absent. This form is required for all absences, and it should only be filled out once per absence.
-
-</thinking>
-
 # Make Up Assignment Form - Help Guide
 ## Purpose
 This form is used to report the absence of a student from an assignment or activity.

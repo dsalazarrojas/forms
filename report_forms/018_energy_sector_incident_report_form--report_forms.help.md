@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Energy Sector Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents that occurred in the energy sector. Please ensure that the incident you are reporting is not already documented in our system before proceeding. Duplicate reports will be automatically flagged and require manual review for approval.

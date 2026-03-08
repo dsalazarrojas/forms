@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Issue Suggestion Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily EOD Report Template - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>This form is intended to be used for generating website analytics reports. It is crucial that the report form data is accurate and relevant for proper analysis. Please do not submit this form multiple times with the same data, as this may lead to duplicate reports and inaccurate insights. Ensure that all required fields are filled in properly and that the report type selected aligns with your specific data requirements.</thinking>
-
 # website_analytics_report_form - Help Guide
 ## Purpose
 This form is designed to collect data for generating website analytics reports. It helps in understanding the performance and behavior of users on your website, which can inform decisions on its improvement and development.

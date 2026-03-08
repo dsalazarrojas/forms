@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help potential renters submit a rental application for a health retreat. It's essential to ensure the accuracy of the submitted information to ensure a smooth and successful rental experience. Please review the form carefully to provide the necessary details. This form will be reviewed to prevent duplicate applications. If you've already submitted a rental application for this health retreat, please do not resubmit. Please provide accurate and complete information in each field to avoid delays in processing your application.
-</thinking>
-
 # Health Retreat Rental Application Form - Help Guide
 ## Purpose
 This form is designed to allow individuals to submit a rental application for a health retreat, providing necessary details for a smooth and successful rental experience.

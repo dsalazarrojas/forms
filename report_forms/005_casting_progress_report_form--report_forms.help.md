@@ -1,7 +1,3 @@
-<thinking>
-This form is used for casting directors and associates to report their progress during casting sessions. The form is designed to collect information such as report date, shift type, production title, and progress summary. It also includes fields for tracking auditions conducted, roles reviewed, talent quality, and callbacks selected. The form aims to provide a comprehensive record of the casting progress and any issues that may arise during the casting process.
-</thinking>
-
 # Casting Progress Report Form - Help Guide
 ## Purpose
 The Casting Progress Report Form is a tool used by casting directors and associates to report their progress during casting sessions. It is an essential part of the casting process, providing a comprehensive record of the progress made during the session.

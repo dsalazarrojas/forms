@@ -1,8 +1,4 @@
 >
-<thinking>
-This form is intended to collect information from visitors with disabilities who require special assistance at the theme park. The purpose of this form is to ensure that visitors can have a comfortable and enjoyable experience at the theme park. This form is not for general inquiries or complaints, so please only submit this form if you have a disability that requires special assistance. To submit this form, simply fill out the required fields below. Please note that all fields are optional, but the more information you provide, the better we can accommodate your needs.
-</thinking>
-
 # Theme Park Disability Access Request Form - Help Guide
 ## Purpose
 The Theme Park Disability Access Request Form is designed to collect information from visitors with disabilities who require special assistance at the theme park. This form helps us to provide a comfortable and enjoyable experience for all our guests.

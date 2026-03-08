@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect daily safety reporting information in an organization. It is essential for employees to fill out this form when they have experienced or witnessed an incident, whether it's an accident, near miss, or any other safety concern. The form helps in maintaining a centralized record of incidents, facilitating incident reporting, investigation, and closure. Please ensure that each field is filled out accurately and completely to ensure that the incident is properly recorded and addressed.
-
-Before filling out this form, please review the fields below and ensure you have the necessary information ready. If you are unsure about any field, please consult with your supervisor or safety officer for guidance.
-
-To complete this form, follow these steps:
-
-1.  Fill in the required fields (marked as "required: true") with accurate information.
-2.  Provide as much detail as possible for optional fields.
-3.  Ensure that the date and time fields are formatted correctly (e.g., YYYY-MM-DD for dates and HH:MM:SS for times).
-
-Please note that this form has 25 fields, but some are not required, depending on the incident type and severity.
-
-</thinking>
-
 # daily-safety-reporting-form - Help Guide
 ## Purpose
 This form is designed to collect daily safety reporting information to maintain a centralized record of incidents, facilitating incident reporting, investigation, and closure.

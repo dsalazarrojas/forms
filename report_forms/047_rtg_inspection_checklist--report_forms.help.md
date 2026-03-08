@@ -1,7 +1,3 @@
-<thinking>
-The rtg_inspection_checklist form is designed to help users record and manage inspection information for equipment and systems. It is intended for use in industrial or operational settings where regular inspections are necessary to ensure safety and efficiency. This form allows users to input data on the status of equipment, frequency of inspections, and other relevant details.
-</thinking>
-
 # rtg_inspection_checklist - Help Guide
 ## Purpose
 The rtg_inspection_checklist form is used to record and manage inspection information for equipment and systems.

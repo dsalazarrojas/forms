@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a medical procedure's preparation and outcome. It appears to be intended for use in a healthcare setting, possibly in a cardiology department or lab. The form likely aims to document the details of the procedure, including its type, date, time, outcome, and any relevant comments. The form may be used by medical professionals to track and analyze procedures, outcomes, and patient data. Before filling out this form, please ensure that the procedure is not already documented and that you have permission to access the relevant information.
-</thinking>
-
 # pci_preparation_and_outcome_log - Help Guide
 ## Purpose
 This form is designed to collect information about a medical procedure's preparation and outcome in a cardiology department or lab.

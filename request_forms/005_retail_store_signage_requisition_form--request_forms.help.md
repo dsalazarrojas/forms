@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a request for a retail store signage installation. It is meant for store employees to submit their signage needs, and should be used for internal purposes only. Please ensure that the form is filled out completely and accurately to avoid any confusion or miscommunication. Before submitting the form, review all fields to ensure that the information is correct and complete.
-</thinking>
-
 # Retail Store Signage Requisition Form - Help Guide
 ## Purpose
 The Retail Store Signage Requisition Form is used by store employees to request signage installations for various purposes within their respective retail stores.

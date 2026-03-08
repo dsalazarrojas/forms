@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the progress of housing construction projects. It is designed to collect information about the project's general details, construction status, site address, construction type, building name, start and end dates, construction status updates, site contacts, and any notes or comments. This form should be used by project managers, site supervisors, or other stakeholders to quickly and accurately report on the status of housing projects.
-</thinking>
-
 # Housing Progress Report - Help Guide
 ## Purpose
 This form is used to track the progress of housing construction projects. It is designed to collect information about the project's general details, construction status, site address, construction type, building name, start and end dates, construction status updates, site contacts, and any notes or comments.

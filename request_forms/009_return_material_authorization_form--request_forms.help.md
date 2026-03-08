@@ -1,8 +1,3 @@
-<thinking>...
-A Return Material Authorization Form is used to request return material from a customer for repair, replacement, or refund. This form is intended for use by customers who wish to return material they have purchased from us.
-Before filling out this form, please ensure you have a valid reason for return, and that the material is still under warranty or within the return period. Also, check that this form is not already submitted for the same material, to avoid unnecessary duplicates.
-</thinking>
-
 # Return Material Authorization Form - Help Guide
 ## Purpose
 This form is used to facilitate the return of materials purchased from us. Please complete this form to request return or exchange of material.

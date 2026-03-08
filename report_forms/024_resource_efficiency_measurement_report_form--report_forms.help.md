@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for resource efficiency measurement reporting. It allows users to submit data on various aspects of resource usage, including the type of resource, the efficiency metric being measured, the date and time of measurement, and other relevant details. This form is likely used in a business or industrial context to track and analyze resource usage and efficiency.
-
-To ensure that users understand the purpose and context of this form, it's essential to review and update the form's metadata and field descriptions to ensure they are clear and consistent. This includes the form's title, page labels, field labels, and hints.
-
-Please review the form's YAML definition and ensure that the fields are correctly labeled and described to avoid confusion among users.
-
-</thinking>
-
 # Resource Efficiency Measurement Report Form - Help Guide
 
 ## Purpose

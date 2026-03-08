@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help restaurant businesses claim operating expenses related to their day-to-day operations. The form will gather information on the date the claim is being made, the business name, the claim period, the total expenses claimed, and any supporting documents required. The form will also allow restaurant owners to select multiple types of restaurant expenses, such as rent, food and beverage, labor, or other. This form will help the business to submit claims for expenses related to their operating activities.
-</thinking>
-
 # Restaurant Operating Expense Claim Form - Help Guide
 ## Purpose
 

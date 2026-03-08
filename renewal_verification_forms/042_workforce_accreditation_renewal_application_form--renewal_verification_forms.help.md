@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding their workforce accreditation renewal application. This form is used to gather details about the user's job title, contact information, and license status. The form also asks for the user's renewal request and details, as well as their renewal status and reason. Additionally, it collects information about their last reviewed status and reason.
-
-This form is designed to be completed by users who are applying for workforce accreditation renewal. It is not intended to be used for other purposes, such as initial applications or general inquiries. 
-
-Please ensure that you are completing this form for the correct purpose and that you are providing accurate information.
-
-To ensure that your form submission is processed correctly, please make sure that you are filling out all required fields and that your information is accurate and up-to-date.
-
-If you are unsure about any part of this form, please don't hesitate to ask for help.
-
-</thinking>
-
 # Workforce Accreditation Renewal Application Form - Help Guide
 ## Purpose
 The Workforce Accreditation Renewal Application Form is designed to collect information from users regarding their workforce accreditation renewal application. This form gathers details about the user's job title, contact information, and license status, as well as their renewal request and details.

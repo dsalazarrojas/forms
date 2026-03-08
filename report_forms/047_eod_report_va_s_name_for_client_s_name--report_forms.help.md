@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for an "eod-report-for-client-form" which is likely a report form used by clients to provide feedback or report an incident or issue to the provider. The form should be completed by clients to ensure that the provider has accurate and timely information to address their concerns. This form will help the provider to understand the client's concerns and respond appropriately.
-</thinking>
-
 # eod-report-for-client-form - Help Guide
 ## Purpose
 This form is intended for clients to report any end-of-day issues or concerns to the provider. It helps the provider to understand and address client's concerns efficiently.

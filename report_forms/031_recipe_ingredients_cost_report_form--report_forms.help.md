@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users generate a report on the cost of ingredients for a specific recipe. The form is part of a larger system for managing recipes and their associated costs. This guide is for end-users who need to complete this form to report on the costs of specific ingredients in a recipe.
-</thinking>
-
 # recipe_ingredients_cost_report_form - Help Guide
 
 ## Purpose

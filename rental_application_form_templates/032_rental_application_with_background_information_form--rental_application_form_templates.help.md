@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a comprehensive rental application form that captures various types of information from the user. The primary purpose of this form is to collect personal, address, background, and rental preference information from applicants, while also requiring a signature and terms and conditions acknowledgment. The form also includes an option to upload a file, which may be used for additional documentation purposes. This form appears to be suitable for a variety of rental applications, such as housing or property rentals.
-</thinking>
-
 # Rental Application With Background Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal, address, background, and rental preference information from applicants. It also includes fields for a signature and terms and conditions acknowledgment, as well as an option to upload a file for supporting documentation.

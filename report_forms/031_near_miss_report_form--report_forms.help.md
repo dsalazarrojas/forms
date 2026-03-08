@@ -1,10 +1,3 @@
-<thinking>
-This form is used for reporting near misses, close calls, or significant incidents that have occurred during work hours, operations, or events. Near misses are events where a serious incident is narrowly avoided, but still pose a risk to employees, customers, or assets.
-This form will help in collecting data on these events to identify root causes, and prevent future occurrences.
-It's recommended that users only fill out this form for significant incidents that have occurred, and not for regular work-related issues or minor annoyances.
-Users are encouraged to be as detailed as possible in their responses, including descriptions of the incident, dates and times, locations, and any other relevant information.
-</thinking>
-
 # near_miss_report_form - Help Guide
 ## Purpose
 This form is used for reporting near misses, close calls, or significant incidents that have occurred during work hours, operations, or events.

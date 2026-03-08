@@ -1,7 +1,3 @@
-<thinking>
-The NYC Apartment Rental Application form is a comprehensive form designed to gather essential information from renters and property managers to facilitate a smooth and efficient rental experience. The form is structured to collect personal and rental details, including first and last names, email, phone number, rental dates and times, duration, and rent frequency. This guide aims to assist renters in completing the form accurately and efficiently.
-</thinking>
-
 # NYC Apartment Rental Application - Help Guide
 ## Purpose
 This form is intended for renters to provide their personal and rental details to the property management team. The information collected will be used to evaluate and process the rental application.

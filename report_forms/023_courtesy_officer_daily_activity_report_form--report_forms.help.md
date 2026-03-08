@@ -1,5 +1,3 @@
-<thinking>As a courtesy officer, it's essential to report your daily activities accurately and in a timely manner to ensure that your work and performance are tracked and reviewed. This form is designed to capture the necessary information about your daily activities, including user details, dates, locations, and other relevant fields. Please note that this form is for reporting your daily activities; ensure that you only submit reports for actual workdays, not for non-workdays such as weekends or holidays. If you're unsure about any field or have any concerns, please contact your supervisor or the system administrator.</thinking>
-
 # courtesy_officer_daily_activity_report_form - Help Guide
 ## Purpose
 The courtesy officer daily activity report form is a tool for reporting the daily activities of courtesy officers. It helps track the work performed during the workday, including user details, dates, locations, and other relevant information.

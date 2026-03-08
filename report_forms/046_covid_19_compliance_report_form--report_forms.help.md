@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect data on COVID-19 compliance within a healthcare facility, specifically focusing on staff and patient vaccination statuses, infection rates, and safety protocols. The data collected will help the administration track and address potential issues, ensure patient safety, and maintain a safe environment. Please review the following sections carefully to ensure the form is completed accurately and thoroughly.
-</thinking>
-
 # COVID 19 Compliance Report Form - Help Guide
 ## Purpose
 The COVID-19 Compliance Report Form is used to track and report on various aspects of COVID-19 compliance within a healthcare facility, including staff and patient vaccination statuses, infection rates, and safety protocols.

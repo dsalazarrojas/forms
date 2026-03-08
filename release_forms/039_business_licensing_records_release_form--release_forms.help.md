@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture the details required for requesting the release of business licensing records. It's intended to be used by individuals or organizations seeking access to specific records associated with a particular business. The form will help ensure that the records are handled and released properly to the authorized recipient. 
-
-Before completing this form, please ensure that you have the necessary permissions to request the records and that you are aware of any potential consequences of requesting or receiving the records. 
-
-This form is not intended for commercial or financial use, but rather for legitimate inquiries or requests.
-
-It's recommended to fill out this form carefully and accurately to avoid any errors or discrepancies.
-
-</thinking>
-
 # Business Licensing Records Release Form - Help Guide
 ## Purpose
 The Business Licensing Records Release Form is designed to collect information from an individual or organization seeking access to business licensing records.

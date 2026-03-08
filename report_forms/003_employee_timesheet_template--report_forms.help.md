@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee timesheet data, which is a crucial aspect of human resource management. The purpose of this form is to track employee work hours, pay rates, and other related information. To ensure accurate and efficient data collection, please follow these guidelines:
-</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 The Employee Timesheet Template is a form used to collect employee data, including work hours, pay rates, and status updates. This template is designed to help employees and administrators track and manage employee work hours, pay rates, and other relevant information.

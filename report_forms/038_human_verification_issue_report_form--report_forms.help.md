@@ -1,7 +1,3 @@
-<thinking>
-We're assuming that the form is used by end-users to report issues related to human verification. The purpose of this form is to collect information about reported issues, including the user's verification status, additional details about the issue, and any attachments or technology involved. Before filling out this form, please check if the issue is not already reported to prevent duplication of effort. If you're unsure, consider using the "Search" feature to check if a similar issue has been reported recently. Please fill out the form carefully, and provide as much detail as possible to help our team better understand and resolve the issue.
-</thinking>
-
 # Human Verification Issue Report Form - Help Guide
 ## Purpose
 

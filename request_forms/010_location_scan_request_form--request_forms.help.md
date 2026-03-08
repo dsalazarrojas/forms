@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Location Scan Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create and manage weekly reports. It is primarily used for tracking progress, providing comments, and attaching relevant information. The form submission process is straightforward, and the fields are designed to collect specific details. Before proceeding, make sure the form is relevant and not a duplicate. If you're unsure, reach out to the form owner or your supervisor for assistance.
-</thinking>
-
 # Weekly Report Form - Help Guide
 ## Purpose
 The Weekly Report Form is a tool for users to submit reports on a weekly basis, providing information about their progress, comments, and other relevant details.

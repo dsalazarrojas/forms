@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect data from helpline operators about their interactions with patients or callers who have concerns or complaints related to COVID-19. This information will help the organization track and analyze the types of concerns and complaints received, identify trends, and provide valuable insights for improving their response to COVID-19-related queries. It's essential that each helpline operator completes this form accurately and thoroughly for the organization to make informed decisions and ensure the quality of services provided.
-
-Before starting, ensure that you have permission to collect and store data about patients/callers and that you are not duplicating data entry. If you're unsure, consult your supervisor or relevant policies and procedures.
-
-</thinking>
-
 # COVID 19 Helpline Report - Help Guide
 
 ## Purpose

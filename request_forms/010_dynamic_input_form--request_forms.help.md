@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user input for a variety of purposes. It is meant to gather information from users in a way that is clear and organized. The form is likely used in a business or professional setting, where users need to provide data for requests or submissions. To ensure accuracy and completeness, it is recommended to fill out the form thoroughly and carefully.
-</thinking>
-
 # Dynamic Input Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to document and report cleaning incidents, including their root causes, non-conformances and continual improvements, and track the review status. This form is used to identify and resolve issues related to cleaning procedures and processes.
-</thinking>
-
 # Schimmas Cleaning Incident And Improvement Report - Help Guide
 ## Purpose
 This form is used to report and document cleaning incidents, including root causes, non-conformances and continual improvements.

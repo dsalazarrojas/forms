@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Witness Statement Form - Help Guide
 ## Purpose
 The Witness Statement Form is designed to collect information from witnesses in various situations, such as accidents, crimes, or incidents. This form helps gather relevant details from witnesses to aid in investigation, reporting, or other purposes.

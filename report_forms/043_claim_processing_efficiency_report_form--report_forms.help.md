@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will focus on creating a clear and concise help guide for the "Claim Processing Efficiency Report Form" that explains its purpose, how to complete it, and provides field-by-field explanations to help end-users understand what each field means.</thinking>
-
 # Claim Processing Efficiency Report Form - Help Guide
 ## Purpose
 The Claim Processing Efficiency Report Form is designed to track and report on the efficiency of claims processing within an organization. It helps identify key performance metrics, notable trends, and improvement actions taken during a specific reporting period. This form is used to report on the progress and performance of claims processing, and to provide recommendations for future improvement.

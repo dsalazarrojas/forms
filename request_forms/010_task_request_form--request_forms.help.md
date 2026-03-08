@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect task-related information, likely from a project management or help desk context, with fields for task title, details, due date, start and end time, requestor's contact information, task status, category, type, and other relevant metadata. Before using this form, ensure that the task being requested isn't already in progress or has been resolved elsewhere in the system. 
-</thinking>
-
 # Task Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about a task request. It is intended for use in a project management or help desk context to gather details about tasks and their related metadata.

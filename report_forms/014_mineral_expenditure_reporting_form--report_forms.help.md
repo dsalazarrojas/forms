@@ -1,13 +1,3 @@
-<thinking>
-
-The Mineral Expenditure Reporting Form is used by project managers and team members to report on project costs, expenditures, and progress. This form helps to keep track of project expenses, team member involvement, and project status, ensuring accurate and timely reporting.
-
-The form is designed to be completed by project team members or managers to submit their project reports, which can be reviewed and approved by project administrators. The purpose of this form is to provide a structured and standardized way of collecting and analyzing project expenditure data.
-
-By using this form, project administrators can easily identify areas of high spend, allocate resources effectively, and make data-driven decisions to optimize project outcomes.
-
-</thinking>
-
 # Mineral Expenditure Reporting Form - Help Guide
 ## Purpose
 The Mineral Expenditure Reporting Form is used by project managers and team members to report project costs, expenditures, and progress.

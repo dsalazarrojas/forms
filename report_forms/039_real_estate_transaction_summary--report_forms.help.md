@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Transaction Summary - Help Guide
 ## Purpose
 The Real Estate Transaction Summary form is designed to collect essential details about a real estate transaction, providing a concise summary of the sale or purchase of a property. This form helps to standardize and document the transaction information in a structured and organized way. 

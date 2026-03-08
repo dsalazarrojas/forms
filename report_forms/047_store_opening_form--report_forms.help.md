@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed for users to report a store opening in a specific store category (e.g., Store, Storefront, Mall, etc.) and provide relevant information about the store, including address, contact information, and store hours. The form aims to gather accurate and detailed information about each store opening to ensure that it is properly categorized and listed in the database.
-
-Before proceeding, it's essential to check that:
-
-* The store type matches the actual category of the store being reported.
-* The store is not already listed in the database.
-
-</thinking>
-
 # Store Opening Form - Help Guide
 ## Purpose
 The Store Opening Form is a tool to report a new store opening, providing a structured way to collect information about each store, including address, contact details, and business hours.

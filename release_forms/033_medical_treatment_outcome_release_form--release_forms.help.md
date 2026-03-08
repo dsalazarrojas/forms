@@ -1,10 +1,3 @@
-<thinking>
-This form is a medical treatment outcome release form, used to document and confirm the release of medical treatment information to an authorized party. This form is typically completed by healthcare professionals in a clinical setting to ensure that sensitive medical information is shared securely with patients or their representatives.
-
-Before filling out this form, please ensure that you have the necessary authority to release the information and that the patient's consent has been obtained. Additionally, please check that the form is not duplicated or already completed for the same patient.
-
-</thinking>
-
 # medical_treatment_outcome_release_form - Help Guide
 ## Purpose
 The medical treatment outcome release form is a document used to share medical treatment information with authorized parties, such as patients or their representatives. This form confirms that the information has been released and provides a record of the authorization.

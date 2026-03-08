@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their work shifts, including their employee ID, date of service, name, total tips earned, tip type, shift start time, shift end time, and tip status. The purpose of this form is to collect data for internal use, likely for payroll or accounting purposes. To avoid duplication, employees should not submit multiple reports for the same shift. Non-duplication is ensured by using unique identifiers such as employee ID and shift start time.
-</thinking>
-
 # Employee Report Of Tip Form - Help Guide
 ## Purpose
 This form is used to collect information from employees about their work shifts, including tips earned. The information collected will be used for internal purposes such as payroll or accounting.

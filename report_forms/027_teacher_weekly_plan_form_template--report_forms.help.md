@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers regarding their weekly plans, including selected subjects, classes, and any additional notes or contact details. This form is meant to be completed by teachers to provide a structured and organized way to plan their weekly activities and tasks. It is essential to ensure that all required fields are filled in accurately to get the most out of this form. Before starting, please ensure that you have a clear understanding of the form's purpose and the required fields.
-</thinking>
-
 # teacher_weekly_plan_form_template - Help Guide
 ## Purpose
 This form is for teachers to plan their weekly activities and tasks in an organized manner.

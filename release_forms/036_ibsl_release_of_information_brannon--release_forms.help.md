@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IBSL Release Of Information_Brannon - Help Guide
 ## Purpose
 The IBSL Release Of Information_Brannon form is used to capture relevant information from patients to be released to external organizations, such as insurance companies, healthcare providers, or other third parties. This form ensures that sensitive patient information is properly documented and released in accordance with regulations and guidelines.

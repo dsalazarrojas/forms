@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Maintenance Request Closure Report Form" is to gather relevant information related to maintenance requests, allowing users to document and track the closure of maintenance tasks. This form should only be used for maintenance requests that have already been closed, and not for new requests. Please ensure that you are filling out the correct form type to avoid duplication of effort.
-</thinking>
-
 # Maintenance Request Closure Report Form - Help Guide
 ## Purpose
 The Maintenance Request Closure Report Form is used to document and track the closure of maintenance tasks. This form should only be used for closed maintenance requests and not for new requests.

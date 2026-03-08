@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to record volunteer hours donated for a specific volunteer, organization, and project. This form collects information about the volunteer hours donated, the date and time they were donated, the contact details of the person submitting the record, and other relevant details. It is designed to help organizations and volunteers track and report volunteer hours accurately and efficiently.
-
-Before filling out this form, please ensure that you are submitting a unique report for each volunteer, organization, and project. If you have already submitted a report for the same combination of volunteer, organization, and project, you should not submit another report.
-
-This form is designed to be completed by volunteers who have donated hours to an organization, and the information collected will be used for reporting and accounting purposes.
-
-</thinking>
-
 # Volunteer Hours Donation Record Form - Help Guide
 ## Purpose
 The Volunteer Hours Donation Record Form is used to record volunteer hours donated for a specific volunteer, organization, and project.

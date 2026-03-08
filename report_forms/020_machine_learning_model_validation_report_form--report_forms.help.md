@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Machine Learning Model Validation Report Form", I'll need to understand the purpose and functionality of this form. Based on the provided YAML, it appears that this form is used to validate machine learning models, allowing users to report on the status of these models after evaluation. I'll assume that the form is meant to collect relevant information about the model, the person performing the evaluation, and any additional comments or results.
-
-The form has 14 fields in total. The fields are mostly text or select_one fields with some being date fields. There doesn't seem to be any complex calculations or conditional logic. 
-
-To create the help guide, I'll focus on explaining each field in the simplest terms possible, without assuming any unnecessary business logic. I'll also make sure to provide concrete and concise explanations to help users understand the purpose of each field.
-
-</thinking>
-
 # Machine Learning Model Validation Report Form - Help Guide
 ## Purpose
 The Machine Learning Model Validation Report Form is used to report on the status of machine learning models after evaluation. This form helps to ensure that models are correctly validated and documented to maintain high-quality performance.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from ministry leaders about their team's activities and progress over the course of a month. It is intended to be filled out by ministry leaders on a regular basis to provide a snapshot of their team's work and help track their performance. This form will likely be reviewed by supervisors or administrators to ensure the team is meeting their goals and objectives.
-
-Before filling out this form, please ensure you have reviewed the previous month's report and have a clear understanding of what has changed since then. This will help prevent duplication of effort and ensure that the changes are captured accurately.
-
-Please fill out this form in a way that is accurate and comprehensive, but not overly detailed. The goal is to provide a brief overview of your team's activity and progress, rather than a detailed account of every single event or action.
-</thinking>
-
 # Ministry Leader Monthly Report Form - Help Guide
 ## Purpose
 This form is designed to collect information from ministry leaders about their team's activities and progress over the course of a month.

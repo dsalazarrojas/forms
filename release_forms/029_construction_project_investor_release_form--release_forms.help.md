@@ -1,8 +1,3 @@
-<thinking>
-This form is for investors to release their interest in a construction project. It's used to document the details of the investor's investment and the terms of the release. The form is used to ensure that the investor's rights are properly transferred and to provide a clear record of the release. This form is a crucial part of the project's financial and legal process, and it's essential to fill it out accurately and completely. To avoid errors, make sure to read each section carefully and fill out all required fields.
-
-</thinking>
-
 # Construction Project Investor Release Form - Help Guide
 ## Purpose
 This form is used to document the details of an investor's investment and the terms of their release in a construction project.

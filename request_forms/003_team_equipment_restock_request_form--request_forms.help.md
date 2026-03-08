@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request restocking of team equipment. It appears to be a multi-page form with various fields to gather information about the requested item, the team requesting the restock, and additional details. However, some of the field labels and types seem unclear or inconsistent. I will provide a help guide based on the fields, but please note that the form design could be improved for better clarity and consistency.
-
-</thinking>
-
 # team_equipment_restock_request_form - Help Guide
 ## Purpose
 The team equipment restock request form is used to submit a request for restocking of team equipment. This form helps the team to request the required equipment in a timely manner.

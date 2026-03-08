@@ -1,8 +1,3 @@
-<thinking>
-This form is used for recording the details of wildlife eggs transferred between individuals or groups. It's essential to accurately document these transfers to ensure transparency, accountability, and accurate tracking of species movement. The form should be used for transfers that occur within a controlled environment, such as a wildlife sanctuary or a research facility. Please ensure you're filling out the form for a legitimate transfer, as inaccuracies or misrepresentations may compromise the integrity of the data.
-
-</thinking>
-
 # Wildlife Egg Transfer Record Form - Help Guide
 ## Purpose
 This form is used to record the details of wildlife eggs transferred between individuals or groups, such as wildlife sanctuaries, research facilities, or conservation organizations.

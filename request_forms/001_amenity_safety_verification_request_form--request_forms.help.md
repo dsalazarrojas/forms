@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information from the requestor (the individual submitting the form) to initiate the safety verification process for an amenity within an organization or facility. The form is meant to gather relevant details about the amenity and the verification request.
-
-To prevent duplicate requests, the system will check the amenity location to avoid creating multiple records. The form will also ensure that the correct verification type is selected to align with the organization's policies and guidelines.
-
-The form will guide the user through a series of questions to collect the necessary information. Each field is designed to be clear and self-explanatory. If a field is not clear, the user will be prompted with a hint for guidance.
-
-</thinking>
-
 # Amenity Safety Verification Request Form - Help Guide
 ## Purpose
 This form is used to initiate the safety verification process for an amenity within an organization or facility. It collects information from the requestor, including their contact details and the amenity specifics.

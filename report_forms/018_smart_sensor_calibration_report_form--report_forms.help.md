@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for calibration reports for smart sensors, likely used in various industries such as manufacturing, healthcare, or environmental monitoring. The form captures detailed information about the calibration process, including equipment serial numbers, calibration frequencies, and status updates.
-
-The form can be completed in a few steps, and each step is explained below. Please review the form carefully before proceeding.
-
-</thinking>
-
 # Smart Sensor Calibration Report Form - Help Guide
 ## Purpose
 The Smart Sensor Calibration Report Form is designed to capture detailed information about the calibration process of smart sensors. This includes the calibration status, date, technician, and location, as well as the sensor's serial number, ID, and data.

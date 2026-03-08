@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting intervention tickets, which are used to report incidents, issues, or problems that require attention from designated authorities. Before submitting a ticket, ensure that you are not duplicating an existing issue. Please review the current state of your system or consult with your supervisor if you are unsure. Fill out the form completely and accurately to ensure that your issue is addressed effectively.
-</thinking>
-
 # Intervention Ticket Submission Form - Help Guide
 
 ## Purpose

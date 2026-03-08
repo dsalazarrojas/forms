@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request training funds for approved training courses that align with the company's training and development strategy. This form is typically used by employees who need to complete a course that will benefit the company or enhance their skills. The form helps to ensure that training requests are properly documented and approved by the management team. 
-
-This form should not be used for duplicate or non-essential training requests, as the company may not be able to accommodate excessive or unnecessary training expenses.
-
-Before filling out this form, please ensure that you have the approval of your manager and that you have checked with your department for any internal training requests that may be available.
-
-Also, please note that the company's training funds are limited and requests may be subject to approval and review by the management team.
-</thinking>
-
 # Training Funds Request Form - Help Guide
 ## Purpose
 This form is used to request training funds for approved training courses that align with the company's training and development strategy.

@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Report Fake Business Profile" form, we must first understand its purpose and the fields it contains. This form is designed to help users report suspicious or fake business profiles, providing essential information to facilitate investigation and action.
-</thinking>
-
 # Report Fake Business Profile - Help Guide
 ## Purpose
 This form is used to report fake or suspicious business profiles for further investigation and action.

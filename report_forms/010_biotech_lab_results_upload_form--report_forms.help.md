@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to assist end-users in completing the "Biotech Lab Results Upload Form" accurately and correctly. This form is used to upload lab results in a structured and consistent manner, ensuring that all required information is provided for lab results submission. Please note that this form is designed to be completed in a sequential manner, with each section building upon the previous one. It's essential to fill out each section completely before moving on to the next.
-
-This form is meant for lab staff, researchers, or scientists to upload lab results for quality control, analysis, and interpretation. It's crucial to understand that the information provided in this form will be reviewed and approved by authorized personnel before being finalized.
-
-When filling out this form, ensure that all required fields are completed accurately and thoroughly. If a field is marked as "required," it's essential to fill it out, as it's critical for the evaluation and review process.
-
-This form is divided into several sections. Each section has its specific purpose and requirements. Please follow the instructions carefully to avoid any errors or confusion.
-
-</thinking>
-
 # Biotech Lab Results Upload Form - Help Guide
 ## Purpose
 The Biotech Lab Results Upload Form is used to upload lab results in a structured and consistent manner, ensuring that all required information is provided for lab results submission.

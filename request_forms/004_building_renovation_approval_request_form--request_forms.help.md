@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request approval for building renovations. Before starting, please ensure the renovation is not already approved or pending approval. Also, check that the renovation is not already included in an existing project or request. This form should only be used for new, unique requests.
-</thinking>
-
 # Building Renovation Approval Request Form - Help Guide
 ## Purpose
 The Building Renovation Approval Request Form is used to request approval for building renovations. This form helps to gather necessary information for the renovation and ensures that all required details are provided before the approval process begins.

@@ -1,16 +1,3 @@
-<thinking>
-
-This form, "weekly_timesheet_and_progress_report_form", is designed to collect weekly timesheet and progress information from users. The purpose of this form is to gather essential details about a user's work hours, progress, and other relevant aspects of their work performance. This data will be used to monitor and analyze user work patterns, helping management and team leaders make informed decisions.
-
-To ensure consistency and accuracy, please fill out this form carefully. Note that some form fields are optional, but filling them out will provide more valuable insights for analysis. This form is designed to be completed by one user at a time.
-
-Before filling out the form, consider the following:
-
-* Make sure to answer based on your actual work hours, progress, and experiences during the given week.
-* If you're unsure about any field, consult your supervisor or team lead for guidance.
-
-</thinking>
-
 # weekly_timesheet_and_progress_report_form - Help Guide
 ## Purpose
 This form is used to collect weekly timesheet and progress information from users for analysis and decision-making purposes.

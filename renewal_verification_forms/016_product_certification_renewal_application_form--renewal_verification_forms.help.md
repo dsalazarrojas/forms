@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Certification Renewal Application Form - Help Guide
 ## Purpose
 The Product Certification Renewal Application Form is used to verify the certification status of a product in the product catalog. This form will help update the product's certification status and ensure compliance with certification requirements. Please ensure that you fill in the form accurately to avoid any discrepancies in the product's certification status.

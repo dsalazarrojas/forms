@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect petitions for study resources from supporters. It is intended to gather information about the resource being requested, the individual or entity making the request, and their contact information. Please ensure that you only submit one petition for each resource you are requesting and that you have not previously submitted a petition for the same resource.
-</thinking>
-
 # Petition For Study Resource - Help Guide
 ## Purpose
 This form is designed to collect petitions for study resources from supporters, enabling researchers and educators to gather information about the resources needed for their work.

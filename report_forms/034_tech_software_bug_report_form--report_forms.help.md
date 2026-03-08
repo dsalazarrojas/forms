@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting technical software bugs, and it's intended for internal use within the organization. It's a one-page form that guides users to provide detailed information about the bug they've encountered, making it easier for the tech support team to identify and resolve the issue. The form should only be filled out by users who have encountered a bug and are willing to report it. To prevent duplication, the form should not be filled out by users who have already reported the same bug.
-</thinking>
-
 # tech_software_bug_report_form - Help Guide
 ## Purpose
 The tech_software_bug_report_form is a tool for reporting technical software bugs in an organized and structured way. It helps users to provide clear and concise information about the bug they've encountered, making it easier for the tech support team to identify and resolve the issue.

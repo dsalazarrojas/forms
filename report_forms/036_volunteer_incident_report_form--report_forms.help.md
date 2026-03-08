@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users understand what information to provide. The form is meant to collect data about incidents involving volunteers, including the date of the incident, the location, the type of volunteer involved, a detailed description of what happened, and follow-up information. To prevent duplication, we should check if a similar incident has been reported recently.
-
-The form is for reporting incidents that have occurred involving volunteers. If the same incident has already been reported, the user should not be able to submit the form again.
-
-To complete the form, users will need to provide information about the incident, including the date it occurred, the location, the type of volunteer involved, and a detailed description of what happened. They will also need to indicate whether the incident was reported or not, and if follow-up is required. If follow-up is required, they will need to provide additional notes about the next steps. Finally, they will need to provide contact information for the reporting volunteer.
-
-Each field should be filled out accurately and completely, but users should not need to provide redundant information if an incident has already been reported.
-</thinking>
-
 # Volunteer Incident Report Form - Help Guide
 ## Purpose
 The Volunteer Incident Report Form is a tool to collect information about incidents involving volunteers. It helps ensure that incidents are reported and followed up on accurately and thoroughly.

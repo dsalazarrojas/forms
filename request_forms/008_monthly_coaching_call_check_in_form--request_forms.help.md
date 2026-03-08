@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monthly Coaching Call Check In Form - Help Guide
 ## Purpose
 This form is used to record the details of the monthly coaching calls, including the date and duration of the call, and any notes taken during the call. Please fill out this form to ensure that all relevant information is captured and stored for future reference.

@@ -1,5 +1,3 @@
-<thinking>...thinking...</thinking>
-
 # Web Development Progress Report Form - Help Guide
 ## Purpose
 This form is used to report on the progress of web development projects. It captures essential information about the project's started date, target date, personal details, and current progress status. This form helps project managers and team leads to track and monitor project timelines and team member performance.

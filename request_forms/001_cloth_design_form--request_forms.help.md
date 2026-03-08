@@ -1,17 +1,3 @@
-<thinking>
-This form is used to collect information from customers for custom cloth design orders. The form is designed to be completed by customers to provide their details for a custom order. This form should not be used for general feedback or comments.
-The form is designed to be easy to fill out and requires the customer to provide the following information:
-* Name and contact details (customer_name, customer_email, customer_phone)
-* Fabric type (fabric_type) and category (cloth_category) preference
-* Size and color preference (size_selection, color_preference)
-* Design style (design_style)
-* Custom measurements and instructions (custom_measurements, special_instructions)
-* Quantity and deadline (quantity, deadline_date)
-* Budget range (budget_range)
-* Referral source (referral_source)
-To ensure that the form is completed accurately, it's essential to understand what each field represents. Please follow the guidelines below:
-</thinking>
-
 # Cloth Design Form - Help Guide
 ## Purpose
 The Cloth Design Form is used to collect information for custom cloth design orders. Fill out this form with your details to get started.

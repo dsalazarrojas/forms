@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be read by end-users who have been assigned to fill out the "regulatory_compliance_extension_request_form" form. This form is meant to be used for requesting extensions or modifications related to regulatory compliance within the organization. Before filling out the form, please ensure that you have been assigned to fill it out and that it is not a duplicate request.
-</thinking>
-
 # regulatory_compliance_extension_request_form - Help Guide
 ## Purpose
 This form is used for requesting extensions or modifications related to regulatory compliance within the organization.

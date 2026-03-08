@@ -1,19 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to provide a structured way for staff members to document and report incidents that occur within their department or team. This form is designed to collect detailed information about the incident, including the date and time it occurred, its location, and a description of what happened. The form also allows staff to report on any injuries and damages that resulted from the incident.
-
-To complete this form, follow these steps:
-
-1. Start by filling in the title of the incident statement form.
-2. Enter the date and time of the incident using the "incident_date" field. This field is a calendar date.
-3. Enter the time of the incident using the "incident_time" field. This field is in 24-hour format.
-4. Enter the location where the incident occurred using the "incident_location" field.
-5. Provide a detailed description of the incident in the "incident_description" field. This is where you should explain what happened, including any relevant details.
-6. If there were any injuries as a result of the incident, select the relevant option from the "incident_injuries" dropdown list. You can choose multiple options if necessary.
-7. If there were any damages or financial impact from the incident, enter the amount in the "incident_damages" field.
-
-</thinking>
-
 # Incident Statement Form - Help Guide
 ## Purpose
 The Incident Statement Form is used to document and report incidents that occur within your department or team. This form helps to gather detailed information about the incident, which can be used for investigation, reporting, and follow-up actions.

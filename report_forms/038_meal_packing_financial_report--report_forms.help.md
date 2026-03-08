@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for event organizers to report financial details about their events. It's crucial to ensure that the form is filled out accurately to prevent errors and ensure that the financial data is correctly recorded.
-To avoid duplication, it's essential to review existing reports before creating a new one to ensure that you're not duplicating an already created report.
-</thinking>
-
 # Meal Packing Financial Report - Help Guide
 ## Purpose
 This form is used to report financial details about events, such as funding sources, expenses, and uploads. It's essential to provide accurate financial information to ensure correct data recording and prevent duplication of reports.

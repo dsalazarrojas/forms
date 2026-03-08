@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a lost pet. The form is used to report a pet that has been lost and is likely to be used by pet owners or authorities to track and reunite the pet with its owner. The fields in this form will help to gather essential details about the pet, its loss, and the contact information of the owner. 
-</thinking>
-
 # Lost And Found Pet Form - Help Guide
 ## Purpose
 This form is designed to report a lost pet and gather essential information for the reunion process.

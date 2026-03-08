@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from prospective tenants who are interested in renting a property. The purpose of this form is to gather essential details about the tenant's general information, contact information, rental history, employment and income information, employment verification, and rental verification. This information will be used to verify the tenant's identity, evaluate their rental history and creditworthiness, and ensure that they are a suitable candidate for tenancy.
-
-The form is designed to be completed by the prospective tenant, and the information collected will be reviewed by the landlord or property manager to assess their eligibility for tenancy. The form is not intended to be a comprehensive rental application, but rather a starting point for further evaluation and verification.
-
-Before completing this form, please ensure that the information provided is accurate and up-to-date. Incomplete or inaccurate information may result in delays or even rejection of the application.
-
-</thinking>
-
 # Prospective Tenant Application Form - Help Guide
 ## Purpose
 This form is used to collect information from prospective tenants who are interested in renting a property. It serves as a starting point for evaluation and verification by the landlord or property manager.

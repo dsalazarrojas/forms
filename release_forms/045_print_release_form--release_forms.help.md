@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # print_release_form - Help Guide
 ## Purpose
 The print_release_form is used to provide information for print and digital releases of a document or image. Fill out this form to specify details such as the print and digital release types, distribution methods, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to parse and analyze web server access logs. The purpose of this form is to collect information from the logs and provide relevant insights for troubleshooting and optimization. To avoid duplication of efforts, please ensure that you have not already submitted a similar request in the past.
-</thinking>
-
 # Web Server Access Log Parser Form - Help Guide
 ## Purpose
 This form is used to parse and analyze web server access logs to help with troubleshooting and optimization.

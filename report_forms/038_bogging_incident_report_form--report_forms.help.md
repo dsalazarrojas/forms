@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a bogging incident, which includes details about the date and time of the incident, the vehicle involved, the driver and vehicle, the location and circumstances of the incident, and the damage and consequences of the bogging. This information is crucial for reporting and tracking bogging incidents, which can help in identifying patterns and taking corrective actions to prevent future incidents. 
-</thinking>
-
 # Bogging Incident Report Form - Help Guide
 ## Purpose
 The Bogging Incident Report Form is designed to collect detailed information about a bogging incident, which includes the date and time of the incident, vehicle details, location, and circumstances of the incident, damage assessment, and rescue assistance required.

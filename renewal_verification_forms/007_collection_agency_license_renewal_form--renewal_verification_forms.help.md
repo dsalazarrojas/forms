@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the renewal process for collection agencies, ensuring they provide accurate and up-to-date information to verify their licenses. The form will be used by the agency owners to update their license information and demonstrate compliance with relevant regulations. This information will be used to verify the agency's compliance status and update their license as necessary.
-
-</thinking>
-
 # Collection Agency License Renewal Form - Help Guide
 ## Purpose
 

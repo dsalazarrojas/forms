@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather data from users for reporting potential issues or incidents in a dining room setting, such as food safety concerns, cleanliness issues, or other incidents that need attention. It's essential to fill out this form correctly to ensure that the information is accurate and useful for follow-up actions. 
-
-To avoid duplication, please do not submit the form if the issue is already being investigated or has a status of "Closed".
-</thinking>
-
 # Dining Room Violation Report - Help Guide
 ## Purpose
 The Dining Room Violation Report form is used to collect information about incidents or issues that occur in the dining room, such as food safety concerns or cleanliness issues. This form will help you report these issues and provide a detailed account of the events.

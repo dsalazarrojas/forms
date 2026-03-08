@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about food poisoning incidents that have occurred in a theme park. The purpose of this form is to gather essential details to investigate and respond to the incident. By filling out this form, theme park staff will be able to quickly and accurately gather all the necessary information to handle the situation effectively. 
-
-This form will help to identify the park where the incident occurred, the date and time of the incident, the food consumed, the symptoms experienced by the person, and the contact information of the person reporting the incident. It will also help to provide a quick reference for future investigations and responses.
-
-</thinking>
-
 # Theme Park Food Poisoning Incident Report - Help Guide
 
 ## Purpose

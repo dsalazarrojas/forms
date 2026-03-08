@@ -1,13 +1,3 @@
-<thinking>
-This form is a general-purpose rental application form for historic properties. It is designed to collect user information, contact details, rental specifics, and any relevant review notes. This form is suitable for various types of rentals, such as apartments, houses, or commercial properties. The form is not specific to any particular location or industry, making it a versatile tool for collecting rental applications.
-
-To confirm, this form is a public domain form, created using AI-generated text based on public metadata. It does not copy or derive from any proprietary form platforms or tools. If you are looking for a form that matches your specific needs, you can modify this form as necessary. Please give credit to the original creator if you decide to use or share this form.
-
-Before we proceed, please note that this form is in English, and you may need to translate it if you plan to use it in other languages. The form has six pages, but each page is a single field in this explanation.
-
-Please review the form carefully and let me know if you need any further clarification or modifications.
-</thinking>
-
 # historic_property_rental_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential renters for historic properties. It's suitable for various types of rentals, including apartments, houses, and commercial properties.

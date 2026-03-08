@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect rental application information from users. It is likely used by cultural centers or other organizations that offer residential facilities to collect information from applicants.
-</thinking>
-
 # cultural_center_residency_rental_application - Help Guide
 
 ## Purpose

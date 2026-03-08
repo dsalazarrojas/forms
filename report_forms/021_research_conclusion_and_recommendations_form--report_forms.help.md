@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Conclusion And Recommendations Form - Help Guide
 ## Purpose
 This form is designed to capture the research conclusion and recommendations of a project or study. It is intended for researchers to provide a brief summary of their findings and suggest potential next steps for future projects. The form helps to track the status of research projects, assign them to specific teams, and monitor progress.

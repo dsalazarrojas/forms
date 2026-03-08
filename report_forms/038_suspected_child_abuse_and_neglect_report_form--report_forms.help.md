@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# suspected_child_abuse_and_neglect_report_form - Help Guide
+> # suspected_child_abuse_and_neglect_report_form - Help Guide
 
 ## Purpose
 The Suspected Child Abuse and Neglect Report Form is designed to collect information from individuals who have witnessed or suspect child abuse or neglect. This form helps to gather details about the incident, including the date and time of the report, the location where the incident occurred, and any relevant information about the suspect and witnesses.

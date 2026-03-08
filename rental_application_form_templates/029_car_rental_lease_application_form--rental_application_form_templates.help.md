@@ -1,7 +1,3 @@
-<thinking>
-To determine the best way to create a user-facing help guide, I will examine the form's purpose and structure.
-</thinking>
-
 # Car Rental & Lease Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from applicants to determine their eligibility and preferences for renting or leasing a vehicle. This information will be used to process their application for vehicle rental or lease.

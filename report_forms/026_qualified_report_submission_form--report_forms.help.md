@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about reports submitted by team members or stakeholders, including report category, priority level, submission date and time, supporting files, and other relevant details. This form ensures that all reports are thoroughly documented and easily accessible, facilitating efficient tracking and analysis of team performance, challenges, and progress. Before filling out this form, please ensure you are submitting a new report and not duplicating an existing one, as this form is intended for original submissions only.
-
-</thinking>
-
 # Qualified Report Submission Form - Help Guide
 ## Purpose
 The Qualified Report Submission Form is designed to gather detailed information about report submissions, making it easier for the team to track and analyze reports.

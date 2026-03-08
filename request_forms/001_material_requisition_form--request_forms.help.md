@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive material requisition form for capturing information related to materials required for a project. The form is intended to be used by project managers, team members, or other stakeholders to request materials needed for a project. This form is not intended for general public use, but rather for internal project management purposes.
-
-Before proceeding, please ensure that you have the necessary permissions and clearance to access and use this form. Also, double-check that you are not duplicating an existing request or project.
-
-To ensure the quality and accuracy of the responses, please fill out this form carefully and completely. If you're unsure about any field, it's best to consult with the relevant project team members or manager.
-</thinking>
-
 # material_requisition_form - Help Guide
 ## Purpose
 The material_requisition_form is designed to gather information about the materials required for a project. This form helps project managers and team members to accurately document and track material requirements, ensuring that all necessary items are procured on time and in the right quality.

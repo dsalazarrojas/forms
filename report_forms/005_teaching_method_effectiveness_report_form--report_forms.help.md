@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on the effectiveness of teaching methods, specifically targeting feedback from teachers, coaches, or academic teams. It's essential to ensure the collected data is specific and accurate, as it will be used to assess the quality of teaching methods. Before proceeding, please check that you're not duplicating this report, and that the information you're about to submit is relevant and up-to-date.
-
-</thinking>
-
 # Teaching Method Effectiveness Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the effectiveness of teaching methods from teachers, coaches, or academic teams. This will help in assessing the quality and improvement of teaching techniques.

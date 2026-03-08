@@ -1,11 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the Brochure Request Form. This form is designed to collect information from users to facilitate the creation of a brochure that meets their specific needs. The form will gather essential details such as the requester's contact information, brochure subject, purpose, and quantity needed. It will also inquire about the desired design style, color scheme, content, and delivery method. The form will ensure that the brochure is tailored to the requester's preferences and requirements. Before proceeding, we must ensure that the form is being used for its intended purpose and not for duplicate requests.
-
-To confirm, the form is meant for individuals or organizations requesting brochures for various purposes, such as marketing campaigns, trade shows, or educational materials. It is not for internal use within the organization. The form will guide users through a comprehensive set of questions to guarantee that their brochure requirements are met accurately.
-
-Please let us continue with the creation of the user-facing help guide.
-</thinking>
-
 # Brochure Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for creating a brochure tailored to your specific needs. It will guide you through a series of questions to ensure that your brochure requirements are met accurately.

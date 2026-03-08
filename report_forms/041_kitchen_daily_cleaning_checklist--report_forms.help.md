@@ -1,5 +1,3 @@
-<thinking> This form is designed for kitchen daily cleaning tasks. It helps users track and document their daily cleaning activities in the kitchen area. The form includes various tasks such as dishwashing, sweep and mop, cleaning of kitchen equipment, floors, counters, sinks, stoves, refrigerators, dishes, disposal, waste, dust and clean, floors, cabinets, check walkways, restrooms, and office area for thorough and organized cleaning. </thinking>
-
 # Kitchen Daily Cleaning Checklist - Help Guide
 ## Purpose
 

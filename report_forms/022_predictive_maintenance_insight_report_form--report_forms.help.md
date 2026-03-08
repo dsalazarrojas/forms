@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for generating insights on the predictive maintenance of assets. It's essential to report on the condition of equipment or machinery to prevent malfunctions and optimize maintenance schedules. Before completing this form, ensure that you have relevant data or insights about the asset in question.
-</thinking>
-
 # Predictive Maintenance Insight Report Form - Help Guide
 ## Purpose
 This form is intended to collect information on the predictive maintenance status of assets to provide insights for maintenance planning and scheduling.

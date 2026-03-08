@@ -1,7 +1,3 @@
-<thinking>
-Photography Release Form is a document used to obtain legal permission from clients before publishing their images. This form ensures that both parties (client and photographer) have a clear understanding of the terms and conditions of image usage. The form should only be used for image releases that have not been previously granted, and not for renewals or modifications. This form should only be used for commercial photography shoots, not for personal or editorial purposes.
-</thinking>
-
 # Photography Release Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain legal permission from clients to use their images in various capacities. This form is typically used for commercial photography shoots where the photographer is using the client's images for their own business purposes.

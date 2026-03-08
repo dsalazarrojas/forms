@@ -1,10 +1,3 @@
-<thinking>As a technical writer, I want to create a user-friendly help guide that explains the purpose and usage of the Issue Tracking Form. This form is designed to collect data on issues that need to be addressed, and I want to ensure that end-users understand how to fill it out correctly. I'll use the provided YAML fields to craft a clear and concise guide that answers the following questions: 
-- What is the purpose of the form?
-- How do I complete the form?
-- What does each field mean?
-
-After reviewing the YAML, I notice that the form has 7 fields: 2 dropdown fields (Issue Type, Status, Severity, Priority), 1 text field (Issue Description), 1 date field (Date), and 1 note field (Issue Tracking Form, which I'm assuming is just a placeholder title field). I will aim to make the explanation as concrete and practical as possible, while keeping the business logic to a minimum.</thinking>
-
 # Issue Tracking Form - Help Guide
 ## Purpose
 The Issue Tracking Form is used to collect data on issues that need to be addressed. It provides a structured way to report and track issues, making it easier to keep track of problems and their status.

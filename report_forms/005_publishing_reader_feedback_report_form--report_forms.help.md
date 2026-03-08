@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Publishing Reader Feedback Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hardware Issue Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about hardware-related issues that users are experiencing. It is intended to gather details about the problem, including the product involved, the issue's description, and the user's contact information.

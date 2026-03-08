@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on logistics delivery performance metrics. This form is meant to be used for reporting purposes, and it will help analyze and monitor logistics delivery efficiency. The form should not be used for other purposes, such as creating new records or updating existing ones.
-</thinking>
-
 # Logistics Delivery Efficiency Report Form - Help Guide
 ## Purpose
 This form is designed to collect information on logistics delivery performance metrics, allowing for analysis and monitoring of delivery efficiency.

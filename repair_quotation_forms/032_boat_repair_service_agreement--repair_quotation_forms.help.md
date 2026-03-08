@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning:
 This form is designed for a boat repair service company to collect information from customers before performing repairs on their boats. The form is used to capture critical information about the customer, their boat, and the service requested. This includes contact information, boat details, service type, and other relevant data.
 

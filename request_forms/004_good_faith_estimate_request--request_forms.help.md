@@ -1,5 +1,3 @@
-<thinking> This form is intended for users to request a good faith estimate, which is a written statement outlining the cost and scope of work for a specific service. The form will be used to gather information about the user, including their contact details and the details of the service they are requesting. The form will also ask the user to agree to the accuracy and truth of the information submitted. This form will likely be used for internal purposes within an organization or between organizations. It's essential to ensure that the submitted information is accurate to avoid potential issues in the future. </thinking>
-
 # Good Faith Estimate Request - Help Guide
 
 ## Purpose

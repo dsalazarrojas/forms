@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Smart Water Usage Report Request Form is to gather information from a property manager or owner to request a detailed water usage report for a specific property. This form helps in collecting relevant data such as the address, date range, and contact information of the property manager to create an accurate report. To ensure accuracy, the form should only be filled out once per property, and any subsequent requests should be avoided if the previous report is still pending or in process. The user should be aware that the report will be sent to the email address provided in the form, and any errors or inaccuracies in the information entered may result in delays or errors in the report generation process.
-
-</thinking>
-
 # Smart Water Usage Report Request Form - Help Guide
 ## Purpose
 The Smart Water Usage Report Request Form is designed to gather information from property managers or owners to request a detailed water usage report for a specific property.

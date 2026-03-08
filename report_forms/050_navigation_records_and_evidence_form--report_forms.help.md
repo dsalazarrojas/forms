@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for recording navigation events and collecting evidence attachments. It is likely used by field staff for recording incidents, observations, and other events that occur during navigation. This form should not be filled out for non-incident events.
-</thinking>
-
 # Navigation Records And Evidence Form - Help Guide
 ## Purpose
 The Navigation Records And Evidence Form is used by field staff to record navigation events and collect evidence attachments related to incidents. This form is a tool to document and store information about incidents, observations, and other events that occur during navigation.

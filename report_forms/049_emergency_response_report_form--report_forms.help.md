@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The emergency_response_report_form is used to report incidents that require immediate emergency response. It is a multi-page form that guides users through the process of reporting and documenting incidents in a structured and detailed manner. The form should not be used for other purposes or for reporting non-emergency incidents.
 
 </thinking>

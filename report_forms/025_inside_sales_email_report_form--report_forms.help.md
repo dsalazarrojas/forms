@@ -1,5 +1,3 @@
-<thinking>...This form is used for reporting sales interactions with customers. It is designed to collect information about the sales person involved, the customer's name, contact information, and the details of the interaction. The form should only be filled out when a sales interaction occurs, such as an email conversation or meeting. The form is not meant to be filled out for general information or non-sales-related purposes. If you have already reported a sales interaction for the same customer, please do not fill out this form again...</thinking>
-
 # Inside Sales Email Report Form - Help Guide
 
 ## Purpose

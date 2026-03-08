@@ -1,20 +1,3 @@
-<thinking>
-
-**Purpose:** This form is used to report incidents of wildlife rescue and gather information about the species involved, the circumstances of the rescue, and the details of the response by the wildlife rescue team.
-
-**How To Complete This Form:**
-
-1. Fill out the form with the required fields (Species ID, Date of Event, Location of Event, and Contact Info).
-2. Provide as much detail as possible in the Species, Shelter ID, Shelter Name, Animal Type, Animal Status, Time of Event, Rescue Details, Injury Description, Medical Attention Given, and Shelter Notes fields.
-3. Enter the species' Species ID and Species fields accurately, as this will help with identification and tracking.
-4. If the species is not listed, please choose "Unknown" and describe the species in the Species field.
-5. If the animal was rescued from a shelter, enter the Shelter ID and Shelter Name fields.
-6. If the animal received medical attention, describe the treatment or medication given in the Medical Attention Given field.
-7. If the rescue team was contacted, provide their name and contact information in the Wildlife Rescue Team field.
-8. Enter the contact information of the person submitting the report in the Contact Info field.
-
-</thinking>
-
 # Wildlife Rescue Incident Report - Help Guide
 ## Purpose
 The Wildlife Rescue Incident Report form is used to document incidents of wildlife rescue, gather information about the species involved, and track the response by the wildlife rescue team.

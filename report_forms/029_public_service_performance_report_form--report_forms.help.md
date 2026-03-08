@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from public services, allowing users to rate their experience and provide suggestions for improvement. The form is intended for users to submit reports about their experiences with public services, which will help service providers to identify areas of improvement.
-</thinking>
-
 # Public Service Performance Report Form - Help Guide
 ## Purpose
 This form is used to gather feedback from users about their experiences with public services. It helps public service providers to understand how well their services are meeting user needs and to identify areas for improvement.

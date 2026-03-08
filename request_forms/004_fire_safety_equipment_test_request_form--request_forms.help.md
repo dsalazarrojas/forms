@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information related to fire safety equipment tests, including the type of alarm or system being tested, the date and time of the test, the location of the test, contact information, comments, and the personnel submitting and receiving the request.
-The purpose of this form is to ensure that relevant fire safety equipment tests are performed and reported on a timely manner, reducing the risk of accidents and ensuring compliance with fire safety regulations.
-Before filling out this form, please ensure that you are not duplicating a previous test request and that your request is relevant to fire safety equipment tests.
-</thinking>
-
 # Fire Safety Equipment Test Request Form - Help Guide
 ## Purpose
 This form is used to request a fire safety equipment test for fire alarms, sprinkler systems, or fire extinguishers. Please fill out this form with accurate and relevant information to ensure that your test request is processed efficiently.

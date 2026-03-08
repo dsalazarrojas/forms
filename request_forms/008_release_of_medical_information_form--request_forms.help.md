@@ -1,8 +1,4 @@
-> <thinking>
-The purpose of this form is to collect medical release information from patients, including their name, date of birth, medical record release status, and contact details. This form ensures that the patient has provided consent to release their medical information, including their signature and the date and time of submission.
-</thinking>
-
-# Release Of Medical Information Form - Help Guide
+> # Release Of Medical Information Form - Help Guide
 
 ## Purpose
 The "Release Of Medical Information Form" is used to collect information from patients regarding the release of their medical records. It is a crucial step in ensuring that patients are aware of and agree to the disclosure of their medical information.

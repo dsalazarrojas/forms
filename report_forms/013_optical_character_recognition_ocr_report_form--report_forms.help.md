@@ -1,11 +1,3 @@
-<thinking>
-This form is used for reporting Optical Character Recognition (OCR) results. It is intended to be used by end-users who need to report on the extracted data from images or scanned documents. The form is designed to collect information on the main form, scanned documents, extracted data, and other relevant details.
-
-Before proceeding, ensure that you have the necessary scanned documents and have run the OCR process on them. If you're not sure about any of the fields below, please contact your team or refer to your project's guidelines.
-
-This form will guide you through each field to ensure you complete it accurately and thoroughly.
-</thinking>
-
 # Optical Character Recognition (OCR) Report Form - Help Guide
 
 ## Purpose

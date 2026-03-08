@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about weekly issues and actions taken within a department. It should only be used for reporting purposes, and users should not submit duplicate reports. The form is not strictly required, but it is recommended for all employees to submit their weekly reports.
-</thinking>
-
 # Department Report Form - Help Guide
 ## Purpose
 The Department Report Form is a tool for employees to report on any issues they experienced during the week and the actions they took to address them. The goal is to gather information for management to review and improve department processes.

@@ -1,7 +1,3 @@
-<thinking>
-The "Asset Request Form" is used to gather information about the assets a user needs to perform their job functions. This form is used to request various types of assets, such as hardware, software, or office supplies, from the company. The form should not be used for duplicate requests or to circumvent existing procurement processes.
-</thinking>
-
 # Asset Request Form - Help Guide
 ## Purpose
 The Asset Request Form is a tool used by employees to request assets that are necessary for their job functions. This form helps ensure that asset requests are properly documented and communicated to the appropriate stakeholders.

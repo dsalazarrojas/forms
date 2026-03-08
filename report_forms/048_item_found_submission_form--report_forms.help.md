@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for submitting reports of items found in locations managed by the organization. The form is intended for use by individuals who have found items and want to report them to the organization. The form is not meant for use by staff members who are investigating or resolving item found incidents, but rather for external users who have discovered items and want to submit a report.
-
-The form should only be submitted once for each item found, to avoid duplication of effort and to ensure that the organization can track and manage item found reports effectively.
-
-The form will help the organization track the item found reports, including the date and location where the item was found, a description of the item, the type of item, and any other relevant details such as a value assessment or status update.
-</thinking>
-
 # Item Found Submission Form - Help Guide
 ## Purpose
 The Item Found Submission Form is a reporting tool used by individuals who have found items in locations managed by the organization. This form allows them to report the found item, providing essential details to help the organization track and manage the item.

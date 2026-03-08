@@ -1,16 +1,3 @@
-<thinking>
-The form is used to record details of court proceedings, providing a structured way to report and analyze events, cases, or hearings that take place in a legal setting. This form is essential for tracking and keeping records of judicial activities, which can be used for various purposes such as documentation, reporting, and statistical analysis. It is crucial to ensure that the data collected is accurate and comprehensive to maintain the integrity and reliability of the records.
-
-To confirm that this is the correct form for your intended purpose, please review the following questions:
-
-* Are you trying to record details of a specific court case or proceeding?
-* Do you need to report or analyze court-related data?
-* Are you looking to maintain a structured record of judicial activities?
-
-If your answer is yes to any of these questions, this form should be your best starting point.
-
-</thinking>
-
 # record_of_court_proceedings_form - Help Guide
 ## Purpose
 The "record_of_court_proceedings_form" is a form used to collect and report details of court proceedings, court cases, or hearings. It helps in maintaining a structured and organized record of judicial activities.

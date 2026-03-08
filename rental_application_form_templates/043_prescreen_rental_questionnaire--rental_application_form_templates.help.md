@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect personal and contact information from potential renters. It is a pre-screening questionnaire designed to verify the accuracy of information provided in the rental application. By filling out this form, you will help us get to know you better and make the rental process smoother and more efficient. Please make sure to fill in your first name, last name, email address, phone number, and a brief description of your rental history. This form is not a substitute for the actual rental application process, but rather a preliminary step to help us assess your eligibility for renting. Please ensure that the information you provide is accurate and up-to-date. If you're unsure about any field, please refer to the explanations below for guidance.</thinking>
-
 # Prescreen Rental Questionnaire - Help Guide
 ## Purpose
 The Prescreen Rental Questionnaire is a pre-screening tool used to collect personal and contact information from potential renters. It helps us verify the accuracy of the information provided in the rental application and assess eligibility for renting.

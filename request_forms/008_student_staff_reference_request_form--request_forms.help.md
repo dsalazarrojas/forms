@@ -1,18 +1,3 @@
-<thinking>
-To ensure this form serves its purpose and to avoid duplication, it's essential to understand that this form is designed to collect information for student staff reference purposes. This form is meant to gather relevant details about a student's professional and personal attributes, as well as the referee's relationship with the student. The form's primary goal is to facilitate the selection of the right referee for a student, based on their qualifications, experience, and availability.
-
-When filling out this form, please make sure to:
-
-* Only submit one form per student. Repeated submissions can cause confusion and may lead to duplication of effort.
-* Be honest and accurate when providing information about the student and referee.
-* Select the most suitable referee based on the student's needs and your relationship with them.
-* Provide detailed comments about the student's strengths and weaknesses.
-* Make sure to submit the form only once it's complete, as it may cause issues with the submission process if it's not fully filled out.
-
-This form consists of 25 fields, each with its specific purpose. Please see below for a detailed explanation of each field.
-
-</thinking>
-
 # Student Staff Reference Request Form - Help Guide
 ## Purpose
 

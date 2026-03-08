@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Watersports equipment is a vital component for various water-based activities, and this form helps you hire or rent water sports equipment for your next adventure. To ensure a smooth and efficient hire process, please note the following:
 
 * This form is used to gather information on hiring or renting watersports equipment for a specific duration.

@@ -1,18 +1,3 @@
-<thinking>
-This form appears to be designed to organize data related to rental properties for tax purposes. It might be used by tax inspectors or property managers to collect information about rental properties, including their addresses, types, tax periods, and other relevant data. The form seems to be a general-purpose tool for gathering data, and its purpose could be to streamline the process of organizing rental property tax information.
-
-To ensure the form is correctly filled out, it's essential to understand each field's purpose and what kind of input is expected.
-
-This form is likely to be filled out by rental property owners or their representatives, including tax inspectors. The completion process involves inputting the required information, which might not be a complex or time-consuming task, but it's crucial to understand the meaning behind each field to ensure accurate data entry.
-
-The form's layout and field structure suggest it's designed to be user-friendly and easily accessible. Each field's label and options should provide clear guidance on what information is required and what the user needs to input.
-
-The form's fields can be broken down into several categories, including property details, tax-related information, and contact details for the tax inspector. Each field has a specific purpose and should be filled out accordingly.
-
-To avoid any confusion or errors, it's recommended to review each field's label and options carefully before proceeding.
-
-</thinking>
-
 # Rental Property Tax Organizer Form - Help Guide
 ## Purpose
 This form is designed to collect and organize rental property tax information in a structured and easy-to-read format. It's intended to help tax inspectors and rental property owners efficiently gather and manage relevant data for tax purposes.

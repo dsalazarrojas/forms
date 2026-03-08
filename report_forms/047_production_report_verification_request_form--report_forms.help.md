@@ -1,6 +1,3 @@
-<thinking> 
-  This form is used for verifying the production status of a report, ensuring that all necessary documentation is in order, and assigning the correct personnel for review and verification. Please ensure that all fields are completed accurately and thoroughly before submitting the form. Duplicate entries will be automatically filtered out.</thinking>
-
 # Production Report Verification Request Form - Help Guide
 ## Purpose
 This form is used for requesting verification on production reports, ensuring that all necessary documentation is provided and the correct personnel are assigned for review and verification.

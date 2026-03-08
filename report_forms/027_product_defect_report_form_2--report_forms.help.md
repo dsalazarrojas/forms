@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about product defects. This form is used to report defects encountered with products during the production or testing process. This form serves as a means to document the defects and their characteristics. The report will be used to identify and address the issues. It is essential to fill this form accurately and thoroughly to ensure that the defect is properly documented and addressed.
-
-The form is intended to be used in conjunction with the Product Defect Report Form 1 (not shown here), which captures the initial report of the defect. This form will gather more detailed information about the defect, allowing for a comprehensive understanding of the defect's characteristics.
-
-Before starting to fill out this form, please ensure that you have a Product Defect Report Form 1 (Form 1) already submitted. This form is a continuation of the information collected in Form 1 and should be filled out by the same person who submitted the original report.
-
-This form is not meant to be filled out by multiple people at the same time. Each field should be filled out by the same person, and the information should be consistent with the original report.
-
-Please be as detailed as possible when filling out this form. The information collected here will be used to identify the root cause of the defect and implement corrective actions.
-</thinking>
-
 # Product Defect Report Form 2 - Help Guide
 ## Purpose
 The Product Defect Report Form 2 is used to gather more detailed information about product defects that have been previously reported in the Product Defect Report Form 1.

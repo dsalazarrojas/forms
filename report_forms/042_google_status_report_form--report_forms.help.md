@@ -1,7 +1,3 @@
-<thinking>
-  I will create a user-facing help guide for the Google Status Report Form based on the provided YAML fields. This form is likely used to track or monitor various Google-related metrics or status updates. However, I need to clarify the purpose and requirements of each field to ensure that end-users understand how to effectively complete the form. I will also make sure not to invent unsupported business logic, but instead provide plain and concrete explanations for each field.
-</thinking>
-
 # Google Status Report Form - Help Guide
 ## Purpose
 The Google Status Report Form is a collection of fields used to track and report information about Google-related metrics or status updates.

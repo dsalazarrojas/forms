@@ -1,12 +1,3 @@
-<thinking>
-This form is used for reporting code metrics, which is a crucial process to measure and analyze the quality and performance of software development projects. To ensure that the report is accurate and comprehensive, please review the form carefully and make sure to fill it out completely and correctly. Before you start, take a moment to think about the following:
-
-* What is the purpose of your report? Are you reporting on a specific project, or are you providing general feedback on the overall codebase?
-* Are you sure you've completed all the necessary fields? Double-check that you've filled out each field, including the project name, project ID, and project status.
-* Are you aware of the available metrics to report on? Take a look at the project status options and ensure you're selecting the correct one for your report.
-
-</thinking>
-
 # software_code_metrics_report_form - Help Guide
 ## Purpose
 This form is used for reporting code metrics on a software development project.

@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to be used by employees to request a Leave Of Absence for the Urban Development Symposium. Before filling out this form, make sure you have discussed your leave request with your Team Lead and have a clear understanding of the approval process.
-
-To ensure your request is processed efficiently, please make sure to include all the necessary information and attachments required in the "Attachments" section.
-
-If you have already submitted a leave request, please do not duplicate the submission by resubmitting this form. Instead, update your previous submission or contact your Team Lead directly to discuss any changes.</thinking>
-
 # Urban Development Symposium Leave Of Absence Form - Help Guide
 ## Purpose
 The Urban Development Symposium Leave Of Absence Form is designed to be used by employees to request a leave of absence for the Urban Development Symposium. This form helps ensure that all necessary information is provided for the approval process.

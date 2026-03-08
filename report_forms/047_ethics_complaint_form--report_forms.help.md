@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Ethics Complaint Form". This form is designed to gather information about incidents or complaints related to ethics issues. The form is intended for employees or individuals to report any observed or experienced ethics concerns within the organization. It's essential to ensure that users understand the form's purpose and how to complete it correctly to avoid any potential issues or misunderstandings.
-
-The form consists of eight fields, each asking for specific information. Let's review each field to ensure users grasp its purpose.
-
-</thinking>
-
 # Ethics Complaint Form - Help Guide
 ## Purpose
 The Ethics Complaint Form is used to report incidents or complaints related to ethics issues within the organization. This form helps to gather information and investigate potential concerns in a structured and systematic way, ensuring that all reported incidents are handled fairly and effectively.

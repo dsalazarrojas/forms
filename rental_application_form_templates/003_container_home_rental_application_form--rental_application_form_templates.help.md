@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential renters applying for a container home rental. It's essential to ensure that this form is filled out accurately and honestly to facilitate a smooth rental process. Please review the form carefully and only submit it if you're ready to rent a container home. Before you start filling out the form, please note that you may have to provide proof of the information you provide. We also encourage you to review our rental policies and requirements to ensure this is the right fit for you.
-</thinking>
-
 # Container Home Rental Application Form - Help Guide
 ## Purpose
 The Container Home Rental Application Form is designed for potential renters to apply for container home rentals. To ensure a smooth and efficient application process, please carefully review the form below and fill it out accurately.

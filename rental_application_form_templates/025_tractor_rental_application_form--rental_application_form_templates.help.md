@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to gather information from customers or users who are interested in renting a tractor. The form is designed to collect general information about the user, tractor details, rental terms, payment information, equipment list, rental start and end dates, brand and model of the tractor, rental duration, contact information, notes, and equipment ID. This form should help the rental company to quickly and efficiently gather all the necessary information from the customer. 
-
-Please ensure that you understand the purpose of this form and fill it out carefully. 
-
-Please note that some fields are not required, but it's recommended to fill out all fields for better service.
-
-Before you start filling this form, please read this help guide to ensure you understand each field correctly.
-</thinking>
-
 # Tractor Rental Application Form - Help Guide
 ## Purpose
 This form is for gathering information from customers who want to rent a tractor. Please fill out this form with your details to ensure we have all necessary information for the rental process.

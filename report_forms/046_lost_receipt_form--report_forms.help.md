@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about lost receipts, which may be used for reimbursement or other purposes. The form is intended for end-users who need to report a lost receipt, and its completion should only be done by the user who lost the receipt. This helps ensure that the correct information is collected and reduces duplicate reports.
-
-</thinking>
-
 # Lost Receipt Form - Help Guide
 ## Purpose
 The Lost Receipt Form is a tool for reporting lost or misplaced receipts, such as store receipts, invoices, or other financial documents. It helps collect important information that may be required for reimbursement or other purposes.

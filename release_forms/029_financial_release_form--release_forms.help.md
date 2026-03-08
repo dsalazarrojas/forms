@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for financial releases, which are typically used to authorize or restrict access to financial accounts or assets. The form is meant to be used by financial institutions, such as banks or investment firms, to provide a standardized way of collecting necessary information for releases. This form should only be used for legitimate purposes and not for any malicious or unauthorized activities.
-
-</thinking>
-
 # financial_release_form - Help Guide
 ## Purpose
 This form is used to collect information for financial releases, which are used to authorize or restrict access to financial accounts or assets.

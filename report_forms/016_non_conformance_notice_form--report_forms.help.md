@@ -1,13 +1,3 @@
-<thinking>
-Non Conformance Notice Forms are used to report incidents or events that occur 
-during non-conformance inspections. Each form must be filled out thoroughly 
-and accurately, as it will serve as a record of the non-conformance 
-encountered during the inspection process. Before starting, please ensure 
-that the topic and comments sections are filled out completely and the form 
-is submitted only once, as duplicates may be considered unnecessary. 
-Additionally, please note that attached files, if any, must be uploaded.
-</thinking>
-
 # Non Conformance Notice Form - Help Guide
 ## Purpose
 The Non Conformance Notice Form is a document used to report incidents or events 

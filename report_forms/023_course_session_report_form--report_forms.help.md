@@ -1,18 +1,3 @@
-<thinking>
-This form is likely used for reporting on the details and outcomes of a course session, possibly for instructor or facilitator feedback, attendance, and evaluations. The form is designed to collect multiple types of data, including student information, session details, and participant feedback. The form's purpose is likely to facilitate the collection and analysis of data on the effectiveness and quality of the course session.
-
-To avoid duplication of effort, the form may be used by multiple users, such as instructors, facilitators, or administrators, to report on different aspects of the session.
-
-This form may be used in an educational or training setting, where course sessions are conducted on a regular basis. The form could be used to track attendance, feedback, and outcomes of each session, allowing for evaluation and improvement of the course content and delivery.
-
-The form's structure suggests that it is focused on capturing data on the session's quality and effectiveness, including student participation, feedback, and outcomes. The variety of fields and options suggests that the form is designed to be flexible and accommodate different types of data.
-
-The form's fields can be categorized into several sections, including student information, session details, participant feedback, and session outcomes. This structure makes it easier to navigate and complete the form.
-
-To ensure consistency and accuracy in completing the form, it would be helpful to have a clear understanding of the form's purpose and the expected outcomes. This guide will provide a detailed explanation of each field to facilitate this understanding.
-
-</thinking>
-
 # Course Session Report Form - Help Guide
 ## Purpose
 The Course Session Report Form is a tool used to collect and analyze data on the effectiveness and quality of a course session. It is designed to facilitate the collection of feedback, attendance, and outcomes from participants.

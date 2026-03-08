@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a political event protest incident report. It is intended for use by incident organizers, responders, and other relevant personnel to document and track incidents related to political events and protests. This form should only be used for reports that are not yet resolved or are still under investigation. If you are unsure about the purpose or relevance of this form, please refer to your organization's internal guidelines and procedures.
-
-Before filling out this form, please ensure that you are not duplicating a report that has already been submitted. To do this, you can check the list of previously submitted reports in the incident database.
-
-</thinking>
-
 # Political Event Protest Incident Report Form - Help Guide
 
 ## Purpose

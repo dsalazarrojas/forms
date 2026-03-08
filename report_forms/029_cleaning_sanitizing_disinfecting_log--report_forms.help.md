@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to document cleaning, sanitizing, and disinfecting activities performed in facilities. This form will help track and record essential information related to these processes, ensuring that relevant details are captured for reference and quality control purposes.</thinking>
-
 # Cleaning Sanitizing Disinfecting Log - Help Guide
 ## Purpose
 The "Cleaning Sanitizing Disinfecting Log" form is designed to document cleaning, sanitizing, and disinfecting activities in facilities. It helps track the process details, such as facility information, log date and times, cleaning staff, and areas sanitized.

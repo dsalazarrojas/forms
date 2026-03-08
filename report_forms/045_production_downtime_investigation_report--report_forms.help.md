@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document and investigate production downtime incidents. When a production downtime occurs, this form should be used to collect information about the incident, including its details, the equipment affected, and the actions taken to correct or follow up on it. 
-
-Before completing this form, please ensure that you're not duplicating work that's already been done, and that the information collected is accurate and up-to-date. 
-
-If you're unsure about any aspect of this form or the process, please reach out to your team lead or supervisor for guidance.
-</thinking>
-
 # Production Downtime Investigation Report - Help Guide
 ## Purpose
 This form is used to collect information about production downtime incidents, including their details, equipment affected, and corrective actions taken.

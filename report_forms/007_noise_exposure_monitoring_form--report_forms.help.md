@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to monitor and record the noise exposure of employees in their work environments. This form will help ensure that employees are following proper safety protocols to avoid noise-induced hearing loss. Before proceeding, please note that this form is intended for employee use during their shift, and it's crucial to fill it out accurately and completely. To avoid duplication, please only fill out this form once per shift. If you've already filled out this form for the current shift, please do not submit it again.
-</thinking>
-
 # Noise Exposure Monitoring Form - Help Guide
 ## Purpose
 The Noise Exposure Monitoring Form is designed to track noise exposure of employees during their work periods. It is crucial to fill out this form accurately to ensure accurate records and proper safety measures.

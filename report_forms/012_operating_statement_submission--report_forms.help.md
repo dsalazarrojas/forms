@@ -1,13 +1,3 @@
-<thinking> 
-The form is designed to capture information related to the submission of operating statements. This form likely belongs to a specific business or organizational context where operating statements are submitted as part of regular reporting or auditing processes. The purpose of this form is to gather data about the submission of operating statements, including the submission period, statement details, supporting documents, and other relevant information.
-The form likely serves to streamline the process of handling operating statement submissions, ensuring that all necessary details are captured correctly and consistently.
-The fields in this form seem to be mostly self-explanatory, with most of them being either text or date fields. However, it's essential to double-check that each field is correctly filled in by the user to avoid any confusion or errors.
-The fields related to contact information (contact_name, contact_email, contact_phone, contact_address, contact_address_2, contact_address_3, contact_address_4) suggest that the form may be used to capture communication details for follow-up actions or responses related to the submitted operating statement.
-To ensure consistency and avoid errors, the submission period should be carefully filled out, especially as it might impact the timing of further actions.
-The operating statement details captured through the field "operating_statement" could be crucial for reviewing or analyzing the submitted statement.
-It's worth noting that some fields like "submitted_by" and "review_by" seem to be related to the status of the submission or review process, which could be essential for tracking progress or making further decisions.
-</thinking>
-
 # operating_statement_submission - Help Guide
 ## Purpose
 The operating statement submission form is designed to capture information related to the submission of operating statements, ensuring that all necessary details are captured correctly and consistently.

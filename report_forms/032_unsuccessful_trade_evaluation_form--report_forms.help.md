@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Unsuccessful Trade Evaluation Form is used to evaluate a trade that has not been completed as expected. To use this form, please note that the following information should be filled out only when a trade has failed to meet the expected outcome.
 
 To complete the form, follow these steps:

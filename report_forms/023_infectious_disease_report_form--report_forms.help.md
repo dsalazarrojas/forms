@@ -1,5 +1,3 @@
-<thinking>This form is for reporting infectious diseases. Please note that this form is not intended for emergency situations and should only be used for non-emergency situations such as reporting cases of diseases that are not immediately life-threatening. The purpose of this form is to gather information about an infectious disease report, including the date of the report, symptoms, exposure location, disease stage, and other relevant details. Before filling out this form, ensure that the information you provide is accurate and complete. If you are unsure about any of the fields or need clarification, please refer to the help guide below.</thinking>
-
 # infectious_disease_report_form - Help Guide
 ## Purpose
 This form is for reporting infectious diseases. Please note that this form is not intended for emergency situations and should only be used for non-emergency situations such as reporting cases of diseases that are not immediately life-threatening.

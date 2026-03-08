@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect observational data and media related to a specific observation. The form is meant to be filled out by users who have made an observation, and it captures information such as the date of the observation, the type of media associated with it (e.g., image, video, or audio), and any notes or comments related to the observation. The form also includes fields for uploading files and tracking the submission process, including the date and time of submission, who submitted it, and whether the submission was successful or not. The form is designed to be simple and easy to use, with clear labels and instructions to guide the user through the process.
-
-</thinking>
-
 # Observation And Media Log - Help Guide
 
 ## Purpose

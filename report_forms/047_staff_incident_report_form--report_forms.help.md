@@ -1,14 +1,3 @@
-<thinking>
-This form is a tool for documenting and tracking incidents that occur within the workplace. The staff incident report form is designed to be completed by the staff member who reported the incident, and it captures key details about the incident, including the date it occurred, the location, and the nature of the incident. It also captures information about the actions taken to address the incident and the current status of the incident. The form helps to ensure that all incidents are properly documented and tracked, which aids in maintaining a safe and healthy work environment.
-
-Please note that this form is intended for staff use only. If you are an external user, please do not fill out this form as it may not be relevant to your role or responsibilities.
-
-Before starting to fill out this form, please make sure you have already reported the incident to the relevant authorities and that you have the necessary information and permissions to complete the form.
-
-If you have already reported an incident and have filled out this form previously, please note that this form should not be used as a substitute for official incident reporting procedures. If you need to report an incident, please follow the regular incident reporting protocols.
-
-</thinking>
-
 # Staff Incident Report Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and document the results of a system security audit, which is a process to evaluate and improve the security posture of an organization. This form will guide you through identifying risks and their levels, as well as outlining next steps to address them. Please review each field carefully to ensure that you are providing the required information.
-
-</thinking>
-
 # System Security Audit Results Report Form - Help Guide
 ## Purpose
 This form is used to document the results of a system security audit, which is a process to identify risks and their levels, and outline next steps to address them.

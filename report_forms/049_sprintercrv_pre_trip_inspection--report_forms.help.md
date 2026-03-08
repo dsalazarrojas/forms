@@ -1,7 +1,3 @@
-<thinking>
-This guide will walk you through the steps to complete the pre-trip inspection form for sprinter drivers. This form is used to document the details of a pre-trip inspection, which is an essential process for identifying and addressing potential issues before embarking on a trip. It's crucial to ensure accuracy and adherence to company policies and procedures. Before starting the trip, please review the form carefully to avoid missing critical information. Ensure that you're not duplicating data entry, as this form is designed for a pre-trip inspection, so only include relevant and current information related to the specific trip. Let's get started.
-</thinking>
-
 # sprintercrv_pre_trip_inspection - Help Guide
 ## Purpose
 This form is used for pre-trip inspections to document important details of the trip. This information will help us identify any potential issues and ensure a smooth and safe trip for our clients.

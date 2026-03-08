@@ -1,7 +1,3 @@
-<thinking>
-The Daily Vehicle Inspection Report form is designed to collect information about a vehicle's status and condition at a specific point in time. It will be used by inspectors to report on the vehicle's registration number, make, year, mileage, condition, and other relevant details. This form should be filled out for every vehicle that requires a daily inspection and will be used to keep records up-to-date and ensure that all necessary information is recorded accurately.
-</thinking>
-
 # Daily Vehicle Inspection Report - Help Guide
 ## Purpose
 The Daily Vehicle Inspection Report form is used to collect information about the current state of a vehicle during an inspection. The form will help inspectors report on the vehicle's status and condition, ensuring accurate records are kept up-to-date.

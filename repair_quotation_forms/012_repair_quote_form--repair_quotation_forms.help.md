@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Repair Quote Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This is a form intended for inside sales teams to report their daily activities, such as sending and responding to emails. The form is designed to gather information on the contact name, contact email, subject of the email, email body, action taken, and any additional comments. 
-
-Inside sales teams often have to manage multiple contacts and emails daily, and this form aims to streamline this process by providing a structured way to report on these activities. 
-
-The form is not intended for general public use, but rather for inside sales teams to report their activities internally. 
-
-Please ensure that each field is filled out accurately and completely to get the most out of this form.
-
-</thinking>
-
 # inside_sales_daily_emails_report_form - Help Guide
 ## Purpose
 This form is designed for inside sales teams to report their daily activities, such as sending and responding to emails.

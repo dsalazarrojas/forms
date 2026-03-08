@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect issues related to Google products. Each field is carefully selected to ensure that the required information is gathered in a way that allows for efficient issue tracking and analysis. 
-
-The form is not meant to be a exhaustive issue tracker, but rather a simplified tool to report common issues with Google products such as Google Drive, Google Docs, Google Sheets, and Google Slides. The purpose of this form is to provide a structured and easy-to-use platform for users to report issues without having to worry about complicated setup or extensive technical knowledge.
-
-Before filling out this form, please ensure that the issues you are reporting are not already known by Google Support or have been reported before. To report the issue, simply fill out the form with the required information and submit.
-
-</thinking>
-
 # google_issues_report_form - Help Guide
 ## Purpose
 The Google Issues Report Form is designed to collect issues related to Google products, allowing users to report common issues efficiently.

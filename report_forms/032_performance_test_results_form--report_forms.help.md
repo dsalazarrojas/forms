@@ -1,9 +1,3 @@
-<thinking>
-This form is used by users to document their performance tests and their results.
-The purpose of this form is to gather information about the performance tests conducted on a system, including the test results, date of the test, test duration, test outcome, and other relevant details.
-The form is not intended to be filled out multiple times for the same test. Each test should only be documented once. If you need to document multiple tests, you can fill out this form multiple times.
-</thinking>
-
 # Performance Test Results Form - Help Guide
 ## Purpose
 The Performance Test Results Form is used to document performance test results for a system. This form provides a structured way to record the date and time the test was run, the duration of the test, and the outcome of the test (pass or fail), along with other relevant details.

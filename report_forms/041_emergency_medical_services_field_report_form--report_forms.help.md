@@ -1,27 +1,3 @@
-<thinking>
-This form is designed to collect information about emergency medical services field reports. The form is used to report incidents that have occurred in the field, such as accidents, injuries, or medical emergencies. The purpose of this form is to provide a standardized way to document and track these incidents, which can help with incident analysis, risk assessment, and quality improvement.
-
-When filling out this form, please make sure to report only incidents that occurred in the field, and not for other types of medical events or non-emergency incidents.
-
-Please note that this form is not for reporting incidents that occurred outside of your department or agency. If you're unsure about whether an incident should be reported, please contact your supervisor or the relevant department head for guidance.
-
-The following fields are used to collect information about the incident:
-
-*   Medical Condition: Select the relevant medical condition that occurred during the incident.
-*   Patient Status: Indicate whether the patient is alive or deceased.
-*   Incident Number: Enter the incident number assigned to the case.
-*   Incident Reporter: Enter your name and department.
-*   Date and Time of Event: Enter the date and time when the incident occurred.
-*   Patient Name: Enter the patient's name.
-*   Patient Date of Birth: Enter the patient's date of birth.
-*   Patient Address: Enter the patient's address.
-*   Injury Description: Enter a brief description of the injury.
-*   Date of Event: Enter the date when the incident occurred.
-*   Time of Event: Enter the time when the incident occurred.
-*   Patient Address: Enter the patient's address.
-*   Incident Reporter Department: Enter your department.
-</thinking>
-
 # Emergency Medical Services Field Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about emergency medical services field reports.

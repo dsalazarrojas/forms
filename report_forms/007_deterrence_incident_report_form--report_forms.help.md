@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of the form and create a user-facing help guide, let's consider the context and content of the "Deterrence Incident Report Form". This form is likely used to report incidents or issues that require attention from the organization. The form aims to collect information about the incident, such as details, location, and timestamp.
-</thinking>
-
 # Deterrence Incident Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that require attention from the organization. Fill out this form to report incidents, including details, location, and timestamp.

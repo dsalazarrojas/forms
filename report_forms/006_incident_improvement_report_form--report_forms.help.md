@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that need improvement. It is intended for use by employees or teams to document and follow up on incidents that have occurred in the workplace. This form should only be filled out for incidents that have not been resolved and need further investigation or action. Please make sure to fill out all required fields and provide as much detail as possible. 
-</thinking>
-
 # Incident Improvement Report Form - Help Guide
 ## Purpose
 The Incident Improvement Report Form is used to document and track incidents that have occurred in the workplace. This form helps to identify areas of improvement and facilitate the review process.

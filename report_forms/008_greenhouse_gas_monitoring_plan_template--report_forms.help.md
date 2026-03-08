@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a Greenhouse Gas Monitoring Plan Template. It's used to gather data for a specific project, likely in the context of environmental monitoring or scientific research. The form asks for a range of general information and specific details about the site, monitoring actions, and project timeline.
-
-Before filling out this form, please ensure you have all the necessary information ready and that it accurately represents the project's requirements. Double-check that the form's fields are correctly filled in and that there's no duplication of entries.
-
-The form is designed to be completed by project stakeholders or site representatives. Please ensure that all required fields are filled out accurately and completely. If any information is missing, it may impact the effectiveness or validity of the monitoring plan.
-
-</thinking>
 # Greenhouse Gas Monitoring Plan Template - Help Guide
 ## Purpose
 This form is used to gather essential information for a Greenhouse Gas Monitoring Plan, which is crucial for tracking and managing greenhouse gas emissions in various settings, such as research sites or facilities. The data collected will be used to understand emissions levels, patterns, and trends, and to inform strategies for mitigation and reduction.

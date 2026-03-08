@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information for entry denial reports, which are used to document why an entry was denied or rejected. The form is designed to be completed by users who have knowledge of the entry denial reason(s) and need to provide a brief explanation and supporting evidence.
-The form has several fields that need to be filled in, each with its own specific purpose. However, it's essential to avoid duplication of effort and information. Before starting, ensure that the necessary information is gathered and that the form is not being completed in error.
-</thinking>
-
 # Entry Denial Report - Help Guide
 ## Purpose
 The Entry Denial Report is used to document reasons for entry denials, providing a brief explanation and supporting evidence. This report helps in understanding why an entry was denied or rejected.

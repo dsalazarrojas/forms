@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crop Scouting Report Form - Help Guide
 ## Purpose
 The Crop Scouting Report Form is designed to collect information on the current state of crops in the field, helping field agents to report on their observations and findings. This data will aid in making informed decisions about crop care and management.

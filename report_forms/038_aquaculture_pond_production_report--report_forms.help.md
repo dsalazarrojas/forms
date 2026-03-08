@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aquaculture Pond Production Report - Help Guide
 
 ## Purpose

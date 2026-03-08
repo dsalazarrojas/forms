@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a security camera review for an incident that occurred at a specific location. The purpose of this form is to gather information about the incident, such as the type of incident, date and time it occurred, and any supporting files or CCTV footage that may be relevant to the review. The form will help the reviewer understand the circumstances surrounding the incident, and will allow them to request additional information from the requestor as needed.
-
-When filling out this form, please ensure that you are providing accurate and complete information about the incident. If you are unsure about any of the fields, please do not hesitate to ask for clarification.
-
-</thinking>
-
 # security_camera_review_request_form - Help Guide
 ## Purpose
 The security camera review request form is used to document and review incidents that occurred at a location with security cameras. This form helps the reviewer understand the circumstances surrounding the incident and gather additional information as needed.

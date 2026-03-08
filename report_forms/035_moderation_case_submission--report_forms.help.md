@@ -1,5 +1,3 @@
-<thinking>What if I'm not sure what a "Moderation Case Submission" even is? Is it a duplicate report? Shouldn't I check the incident report database first? If this is a duplicate report, please don't make me fill out this form.</thinking>
-
 # Moderation Case Submission - Help Guide
 ## Purpose
 This form is used to submit a moderation case to the moderation team for review and handling. It is essential to use this form when reporting incidents that require moderator attention. Before submitting this form, please ensure you have not already reported a similar incident or case.

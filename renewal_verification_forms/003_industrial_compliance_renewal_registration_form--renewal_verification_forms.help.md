@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information for the renewal verification process of industrial compliance registrations. It is intended to be filled out by individuals or organizations that need to renew their industrial compliance registrations. The form's purpose is to gather essential details to facilitate the renewal process and ensure that the registration is up-to-date and compliant with relevant regulations.
-
-Before proceeding, please verify that you are filling out the correct form. If you are unsure, please reach out to your organization's administrator or relevant authorities for clarification.
-
-The form is divided into sections, each with a specific set of fields. Please fill out each section accordingly and ensure that all required fields are completed.
-
-</thinking>
-
 # industrial_compliance_renewal_registration_form - Help Guide
 ## Purpose
 This form is used to collect information for the renewal verification process of industrial compliance registrations. It helps to gather essential details to facilitate the renewal process and ensure that the registration is up-to-date and compliant with relevant regulations.

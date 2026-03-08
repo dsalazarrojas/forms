@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect inspection information for building systems, including security systems, fire safety, and other critical components. The purpose of this form is to ensure that all necessary details are captured during an inspection, including dates, inspector names, building names, and specific areas or floors inspected. This form should be completed by the person performing the inspection, and the results will be used to identify areas that require attention and follow-up actions. It's essential to complete this form accurately and thoroughly to maintain a comprehensive record of the inspection results. Ensure that you answer all required fields and provide detailed information in the optional fields.
-
-</thinking>
-
 # Building Systems Checklist - Help Guide
 
 ## Purpose

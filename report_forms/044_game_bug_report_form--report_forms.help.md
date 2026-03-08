@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect bug reports from users regarding issues encountered while playing a game. The purpose of this form is to provide a structured way for users to report bugs, allowing the game development team to identify and resolve these issues efficiently. By using this form, users can report bugs in a clear and concise manner, helping the team to focus on resolving the reported issues. Please ensure you complete this form accurately and thoroughly to provide valuable information.
-</thinking>
-
 # Game Bug Report Form - Help Guide
 
 ## Purpose

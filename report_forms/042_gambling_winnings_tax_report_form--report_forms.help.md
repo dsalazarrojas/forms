@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a report of gambling winnings, including key details such as name, contact information, and transaction specifics. The form is intended for users who need to report their gambling winnings for tax purposes.
-</thinking>
-
 # Gambling Winnings Tax Report Form - Help Guide
 ## Purpose
 This form is for reporting your gambling winnings for tax purposes. Please fill out the form with accurate and complete information about your winnings.

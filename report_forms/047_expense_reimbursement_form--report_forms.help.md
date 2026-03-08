@@ -1,8 +1,3 @@
-<thinking>
-To provide a user-facing help guide that is clear, concise, and practical, I will analyze the form and its fields to ensure that the guide accurately explains the purpose and usage of the form. I will use the provided YAML fields as a reference to create the help guide.
-
-</thinking>
-
 # Expense Reimbursement Form - Help Guide
 ## Purpose
 This form is designed to collect information about a specific business expense. It is used to document and report business expenses for reimbursement purposes. Please use this form to provide details about the expense, including the date it occurred, the type of expense, and the amount spent. This form should not be used to request reimbursements for personal expenses or expenses that are not work-related.

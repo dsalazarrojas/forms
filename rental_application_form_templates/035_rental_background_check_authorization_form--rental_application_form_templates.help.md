@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate the rental background check process by obtaining the necessary authorization and consent from tenants and property managers. It ensures that both parties understand the purpose and scope of the background check. The form is designed to be completed in two stages: the tenant signs the form, and then the property manager signs it as well, indicating their authorization and approval of the background check. This process helps to establish a clear chain of custody and ensures that the background check is conducted within the agreed-upon scope.
-</thinking>
-
 # Rental Background Check Authorization Form - Help Guide
 ## Purpose
 The Rental Background Check Authorization Form is a crucial document that confirms the tenant's and property manager's understanding and consent for a background check to be conducted. This form is used to ensure that both parties are aware of the background check's purpose and scope.

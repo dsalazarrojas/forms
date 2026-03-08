@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking and itemizing deductions from a tenant's security deposit. The security deposit is a deposit paid by a tenant to the landlord at the beginning of a rental agreement, and is typically returned to the tenant at the end of the agreement after any damages or repairs are settled. The form is intended to facilitate the process of calculating and deducting costs related to these damages or repairs.
-</thinking>
-
 # Security Deposit Itemized Deduction Form - Help Guide
 ## Purpose
 This form is used to track and itemize deductions from a tenant's security deposit. A security deposit is a refundable sum of money given to a landlord by a tenant at the start of a rental agreement. It is typically returned to the tenant when they vacate the premises, minus any deductions for damages or repairs.

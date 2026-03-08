@@ -1,15 +1,3 @@
-<thinking>Internal note: This form is used for requesting corrections to treasury reports. The purpose of the form is to allow users to identify and correct errors or discrepancies in reports. The form is used to provide accurate information and support the correction request process.
-
-Before filling out this form, please ensure that:
-
-* You have reviewed the report and identified the issue.
-* You have a clear understanding of the correction needed.
-* You have attached any supporting documents that demonstrate the correction.
-
-To avoid duplication, check the report's correction history before submitting a new request. If a correction has already been made, your request will be automatically flagged as a duplicate and you will be notified.
-
-</thinking>
-
 # Treasury Report Correction Request Form - Help Guide
 ## Purpose
 

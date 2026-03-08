@@ -1,13 +1,3 @@
-<thinking>
-
-## Purpose
-
-The purpose of this form is to gather information about a trash violation report, allowing users to document and report instances of trash-related issues on public or private property. The form is used to collect details about the incident, the neighbor or property owner's contact information, and any other relevant details that can help address the problem.
-
-Please ensure you have a valid reason for filing this report and that it's not a duplicate. If you're unsure, you can contact your local authorities or review previous reports to confirm.
-
-</thinking>
-
 # Trash Violation Report Form - Help Guide
 ## Purpose
 The Trash Violation Report Form is used to report instances of trash-related issues on public or private property.

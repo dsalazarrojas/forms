@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their emoticon update requests. The form is intended for users who want to suggest new emoticons or provide feedback on existing ones. To ensure that the form is completed with the relevant and accurate information, it is essential to review the fields carefully and provide as much detail as possible. 
-
-The form is not meant for duplicate requests, so please do not submit multiple forms with the same information. If you have already submitted a form for the same purpose, you do not need to submit another one.
-
-Please note that the form has multiple fields, and each field has a specific purpose. The following guide will help you understand what each field is for.
-
-</thinking>
-
 # Emoticon Update Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from users about their emoticon update requests. Users can submit suggestions or feedback on existing emoticons, and the form helps the team to understand their requests accurately.

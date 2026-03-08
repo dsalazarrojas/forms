@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about aviation baggage handling incidents, allowing staff members to report and document details of the incident in a structured and efficient manner. The form will help in collecting data on the incident's specifics, including the reporting agent, incident details, and actions taken to resolve the issue. This will aid in providing effective and prompt assistance to affected passengers and ensuring that the incident is handled in a fair and professional manner.
-</thinking>
-
 # Aviation Baggage Handling Incident Report - Help Guide
 
 ## Purpose

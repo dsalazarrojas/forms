@@ -1,8 +1,3 @@
-<thinking>
-Internal Reasoning Block:
-The Mortgage Renewal Notification Form is designed to facilitate the renewal of a home loan for the homeowner, lender, or other stakeholders. This form ensures that relevant information such as the home owner's name, lender's name, loan amount, and renewal date are captured, enabling timely and organized communication. It also allows setting follow-up reminders to keep stakeholders on track and choosing a contact method such as phone, email, or none. This form prevents duplication of effort and streamlines communication between parties. It's crucial to fill out this form accurately to avoid delays in the mortgage renewal process.
-</thinking>
-
 # Mortgage Renewal Notification Form - Help Guide
 ## Purpose
 The Mortgage Renewal Notification Form is used to collect and organize important information for home loan renewals, ensuring timely and accurate communication between the home owner, lender, and other stakeholders.

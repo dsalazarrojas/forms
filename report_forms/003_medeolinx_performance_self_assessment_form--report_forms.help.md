@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for performance self-assessment and evaluation. It is not affiliated with any specific platform, but rather a unique creation for internal use. The form collects data on performance evaluation metrics. 
-</thinking>
-
 # MedeoLinx Performance Self Assessment Form - Help Guide
 ## Purpose
 The MedeoLinx Performance Self Assessment Form is designed to collect performance evaluation metrics, allowing managers to provide feedback and employees to reflect on their performance level and areas for improvement.

@@ -1,13 +1,5 @@
 # Collections Approval Request - Help Guide
 
-<thinking>
-  This form is intended for requesting collection approval for a specific customer account. 
-  To ensure proper usage, please only submit one request per customer at a time. 
-  Ensure that all fields are completed accurately and completely, as this form will be reviewed and acted upon by authorized personnel.
-  Please review the form carefully before submitting, and only submit if you are certain that the information is accurate and complete.
-  If you have already submitted a collection request for this customer, please do not resubmit. Instead, update the existing request.
-</thinking>
-
 ## Purpose
 The Collections Approval Request form is used to submit a request for collection approval for a specific customer account. This form provides all necessary details for the collections team to efficiently evaluate and approve collections requests.
 

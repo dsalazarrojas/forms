@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect schedule requests from users, likely for work or other time management purposes. This form is used to gather information about the schedule requests, including start and end dates, schedule type, and employee information. The form is likely used by managers or administrators to track and manage schedule requests from employees.
-
-The form does not require any prior knowledge or experience to complete, but it is essential to provide accurate and relevant information to ensure that the schedule requests are handled efficiently.
-
-Before filling out the form, please note that you can save your progress at any time and continue later if needed. Also, make sure to review the form carefully before submitting it to ensure that all required information is provided.
-
-</thinking>
-
 # Schedule Request Form - Help Guide
 ## Purpose
 The Schedule Request Form is designed to collect schedule requests from users, which are then used to track and manage schedule changes. This form helps to ensure that schedule requests are processed efficiently and effectively.

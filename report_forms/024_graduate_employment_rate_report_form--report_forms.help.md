@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is used to track the employment rate of graduates from various programs. This report helps to identify trends and patterns in graduate employment rates over time. It is essential to complete this form accurately to ensure the data is reliable and useful for decision-making. Please make sure to fill out the form for each graduate you are reporting on and avoid duplicating entries for the same individual.</thinking>
-
 # Graduate Employment Rate Report Form - Help Guide
 ## Purpose
 The Graduate Employment Rate Report Form is a tool used to track the employment status of graduates from different programs. This report provides valuable insights into the labor market trends and helps to inform decisions related to recruitment, job placement, and graduate outcomes.

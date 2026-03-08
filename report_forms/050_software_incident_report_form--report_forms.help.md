@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide is intended to assist users in filling out the "software_incident_report_form" form. The form is used to report software-related incidents, and its purpose is to collect detailed information about the incidents that have occurred. It is essential to ensure that each incident is reported accurately and thoroughly to facilitate proper response and resolution. To guarantee that the information collected is consistent and comprehensive, the form is designed with specific fields that require user input. To prevent confusion or incomplete reports, this guide provides clear explanations for each field to help users understand its significance and purpose.</thinking>
 
 # software_incident_report_form - Help Guide

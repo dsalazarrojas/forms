@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Police Patrol Log Form - Help Guide
 ## Purpose
 The Police Patrol Log Form is a standardized report used by police officers to document and record incidents that occur during their patrols. This form helps ensure consistency and accuracy in reporting and tracking incidents.

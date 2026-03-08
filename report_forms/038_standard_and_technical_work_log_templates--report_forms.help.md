@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect standard and technical work log templates. It is designed to gather information about various aspects of work, including troubleshooting, standard procedures, technical issues, and communication details such as dates, times, and email addresses. This form should only be filled out by authorized personnel and should not be used as a general template for personal or non-work-related purposes. Please ensure that you are using the correct fields and that your entries are accurate and up-to-date.
-</thinking>
-
 # Standard And Technical Work Log Templates - Help Guide
 ## Purpose
 The form is used to collect and document work-related information and procedures, including troubleshooting and technical issues that need to be addressed. It helps track dates, times, and other relevant details for standard and technical work processes.

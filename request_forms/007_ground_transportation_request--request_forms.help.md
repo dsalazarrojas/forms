@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their ground transportation needs. This form is likely used to request ground transportation services, such as taxi or shuttle services, for users who need assistance with travel. The form's purpose is to gather relevant details about the user's travel requirements, including their user information, travel date, pick-up and drop-off locations, preferred mode of transportation, number of passengers, travel time, and any additional message they may have. 
-
-This form appears to be a standard form for requesting ground transportation services, without any additional context or specific business requirements. Therefore, it is likely not to be used for a specific event or project.
-
-Before continuing, double-check that you are not filling this form out for the same purpose multiple times (e.g., submitting the same request twice). You should only complete this form once per travel request.
-
-</thinking>
-
 # Ground Transportation Request - Help Guide
 ## Purpose
 This form is used to request ground transportation services, such as taxi or shuttle services, for users who need assistance with travel.

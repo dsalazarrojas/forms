@@ -1,10 +1,3 @@
-<thinking>
-The Digital Art Commission Form is a form used to gather information from artists and clients about commissioning a digital art piece. This form is essential in ensuring that both parties are on the same page about the commission terms, price, and agreement. To complete this form, please ensure that you are filling it out for a valid commission request. If you are an artist, you are requesting a commission for a piece, and if you are a client, you are requesting a commission from an artist.
-
-Please note that some fields are optional, but providing accurate information will help ensure that the commission process goes smoothly.
-
-</thinking>
-
 # Digital Art Commission Form - Help Guide
 ## Purpose
 The Digital Art Commission Form is used to gather information about commissioning a digital art piece. This includes details about the artist, client, artwork, commission terms, and payment information.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Butthurt Form, I'll first need to clarify the form's purpose and relevance. The form appears to be designed for reporting incidents or complaints, possibly related to workplace issues or other sensitive matters. The form's purpose is likely to gather information about the incident, the complainant's experience, and their desired resolution. This guide will aim to explain each field clearly, ensuring users understand what information is required and how to complete the form accurately.
-
-</thinking>
-
 # Butthurt Form - Help Guide
 ## Purpose
 The Butthurt Form is a tool designed to help individuals report incidents or complaints, providing details about the incident, their experience, and desired outcomes. This form is used to gather information that will help address the issue and prevent similar incidents in the future.

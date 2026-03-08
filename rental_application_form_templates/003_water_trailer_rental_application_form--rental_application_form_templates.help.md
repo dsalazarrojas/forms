@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed for users to apply for a water trailer rental. The form is used to collect information from potential renters about their contact details, equipment requirements, rental terms, and other relevant information. The form is not affiliated with any form platform and is an original adaptation based on public survey topic metadata. It is released under CC BY 4.0 and can be used, modified, and sold with proper credit.
-</thinking>
-
-# Water Trailer Rental Application Form - Help Guide
+# # Water Trailer Rental Application Form - Help Guide
 ## Purpose
 The Water Trailer Rental Application Form is designed to collect information from potential renters about their contact details, equipment requirements, and other relevant information to facilitate the rental process.
 ## How To Complete This Form

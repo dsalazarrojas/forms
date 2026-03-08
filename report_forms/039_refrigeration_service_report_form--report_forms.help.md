@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the Refrigeration Service Report Form. The form is designed to collect information about refrigeration services performed by a service business. This form is likely to be used by service businesses to report their services provided to customers. The form is not specific to a particular industry or business sector, making it a general-purpose form for any refrigeration service business.
-
-The form is not intended for public consumption, but rather for internal use by the service business or its customers. The fields and structure of the form suggest a simple, straightforward reporting process.
-
-Before completing the form, please ensure that you have all the necessary information and that you are authorized to submit reports on behalf of your business.
-
-</thinking>
-
 # Refrigeration Service Report Form - Help Guide
 ## Purpose
 The Refrigeration Service Report Form is designed to collect information about refrigeration services performed by a service business. This form helps service businesses to document their services and keep track of their activities.

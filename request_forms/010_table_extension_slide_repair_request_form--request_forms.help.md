@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # table_extension_slide_repair_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to request repairs for tables that require extension slides. The form is used to gather details about the customer, table, and repair requirements, as well as appointment information.

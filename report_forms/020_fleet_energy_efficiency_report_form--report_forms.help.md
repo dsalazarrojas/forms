@@ -1,12 +1,3 @@
-<thinking>
-This form is used to report on the energy efficiency of a vehicle. It is likely intended for use by fleet managers or other users within an organization to document and track the efficiency of vehicles in their fleet. The purpose of this form is to gather information about a specific vehicle, including its type, id, usage history (start and end dates, start and end times, distance traveled, and fuel used), and efficiency rating.
-
-The form is designed to be completed by a single user, and it is not clear whether it is intended for real-time reporting or for recording historical data. The "vehicle_type" field is labeled twice, which may indicate a duplicate or error in the schema. The "fuel_type" field has a limited set of options, which may be incomplete or outdated.
-
-Please review this form to ensure it aligns with your organization's needs and goals.
-
-</thinking>
-
 # Fleet Energy Efficiency Report Form - Help Guide
 ## Purpose
 The Fleet Energy Efficiency Report Form is a tool to gather information about a vehicle's energy efficiency. Use this form to report on a vehicle's type, id, usage history, and efficiency rating.

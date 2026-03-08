@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "Daily Performance Report" form, which is used to track employee performance and activities on a daily basis. The form is designed to gather information on various aspects of employee work, including employee status, performance metrics, daily activities, and comments. This guide will walk you through the purpose and functionality of the form, as well as provide explanations for each field.
-
-Before proceeding, it's essential to note that this form is intended for daily reporting, and its purpose is to collect data for performance evaluation and improvement. The form should not be used for other purposes, such as tracking personal or non-work-related activities.
-
-This guide is designed to be user-friendly, with a focus on clarity and conciseness. Each section is labeled and explained in a way that will help users understand the form's purpose and how to complete it effectively.
-
-</thinking>
-
 # Daily Performance Report - Help Guide
 ## Purpose
 The Daily Performance Report form is designed to collect information on an employee's performance, daily activities, and challenges faced on a daily basis. This data will help managers and supervisors evaluate employee performance and identify areas for improvement.

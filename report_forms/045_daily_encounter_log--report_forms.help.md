@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to record daily encounters between a user and a customer. The purpose of the form is to collect information about each interaction, such as the date, user involved, and any issues or incidents that arose. This form will help the user to keep a log of all their daily encounters, allowing them to track and analyze the interactions over time. 
-</thinking>
-
 # Daily Encounter Log - Help Guide
 ## Purpose
 This form is used to record and document daily encounters between users and customers.

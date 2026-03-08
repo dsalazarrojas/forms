@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a Platform Metrics Report Form, used to gather data on various metrics related to a platform or product. It seems to be designed for internal purposes only, and the fields suggest that it is meant to collect information on specific reporting periods, product details, and performance metrics. I will review the fields to ensure that I understand their purpose correctly and provide a clear explanation for end-users.
-
-</thinking>
-
 # Platform Metrics Report Form - Help Guide
 ## Purpose
 The Platform Metrics Report Form is a tool used to collect and analyze data on platform metrics. This form is intended for internal purposes only and should not be used for external communication or reporting.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a daily construction report, likely used by construction management teams or site managers to document and record progress, issues, and next steps for ongoing construction projects. The form likely serves as a daily update and tracking tool for site supervisors or project managers to ensure that all necessary information is captured and communicated effectively. Before proceeding, I will review the form schema to ensure that I'm not duplicating or misrepresenting any information. 
-</thinking>
-
 # Daily Construction Report - Help Guide
 ## Purpose
 The Daily Construction Report is a tool used by construction management teams to document and record daily progress, issues, and next steps for construction projects.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to book a golf cart for an event. It requires basic contact information (name, email, phone number, and address) and event details (event date, event time, cart type, and quantity of carts needed). The form also captures the client's preferred rental duration for the event. This form is designed to be used by clients to provide their details and requirements for the rental process.
-</thinking>
-
 # Golf Cart Rental Application Form - Help Guide
 ## Purpose
 The Golf Cart Rental Application Form is a simple form designed to gather essential information from clients who are interested in renting a golf cart for an event. This form is used to collect contact information, event details, and rental requirements from clients.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the results of software testing, which is crucial for identifying and addressing issues or bugs in the development process. The form should only be used to report on software testing results after the testing process has been completed. The form's fields are intended to be filled out by a tester or QA specialist who is responsible for conducting the testing. Each field should be filled out carefully to ensure that the report is accurate and informative.
-</thinking>
-
 # Software Testing Results Report Form - Help Guide
 ## Purpose
 The Software Testing Results Report Form is a crucial document used to report on the results of software testing. It helps to identify and document bugs, issues, or problems found during the testing process, ensuring that the development team is aware of the testing outcomes.

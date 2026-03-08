@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used by users to request a report on the history of purchase orders. The purpose of this form is to collect relevant information from the user to generate a report that meets their specific requirements. This report will likely be used to track purchase orders over a certain period of time, and the fields provided here will help to filter and customize the report accordingly.
-
-The form checks for non-duplication to ensure that users do not submit multiple requests for the same report. 
-
-The report will likely be used by administrators or managers to track and manage purchase orders, so the fields should be relevant to these roles. 
-
-Please note that the fields may not be exhaustive and are based on the provided YAML schema.
-
-</thinking>
-
 # Purchase Order History Report Request Form - Help Guide
 ## Purpose
 The Purchase Order History Report Request Form is used to request a report on the history of purchase orders. This form is used to collect information to generate a report that meets your specific requirements.

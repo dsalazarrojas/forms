@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow hotel staff to report lost items found during their shift. This form is used to provide details about the item found, the owner's information, and the person who found and reported the item. The form is designed to be completed by housekeeping staff, security guards, and managers in order to track lost items and reunite them with their rightful owners. Please ensure that this form is completed only once for each lost item, and not multiple times for the same item. Completing this form accurately and thoroughly is crucial in order to increase the chances of reuniting the lost item with its owner.
-</thinking>
-
 # Housekeeping Hotel Lost And Found Form - Help Guide
 ## Purpose
 The Housekeeping Hotel Lost And Found Form is used to report lost items found during a hotel staff member's shift. This form helps track the details of the item, the owner's information, and the person who found and reported the item.

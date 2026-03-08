@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request support for modernizing a curriculum. The purpose of this form is to gather information from users to understand their needs and provide assistance. This form should not be used to submit new curriculum requests, only for modernizing existing ones. The form is split into several sections, each with its own set of fields. Please fill out the form completely and carefully, as the information provided will help the support team to better understand your needs.
-
-Please note that fields marked as "required" are compulsory and must be filled out. The support team reserves the right to contact you for further information or clarification.
-
-</thinking>
-
 # Curriculum Modernization Support Request Form - Help Guide
 ## Purpose
 The Curriculum Modernization Support Request Form is used to request support for modernizing a curriculum. This form is intended for users to provide information about their curriculum modernization needs.

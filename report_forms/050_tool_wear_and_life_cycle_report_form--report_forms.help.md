@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the life cycle of tools used in various departments, including their wear and tear, maintenance schedules, and warranty status. This form helps to track and monitor tool usage, condition, and maintenance history to ensure that tools are properly maintained and replaced when necessary. This information can be used to improve tool management, reduce maintenance costs, and prevent equipment failures. It is essential to fill out this form accurately and thoroughly to achieve these goals.
-</thinking>
-
 # Tool Wear And Life Cycle Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about the life cycle of tools used in various departments, including their wear and tear, maintenance schedules, and warranty status. It is essential to fill out this form accurately and thoroughly to help tool administrators track and monitor tool usage, condition, and maintenance history.

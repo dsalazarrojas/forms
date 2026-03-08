@@ -1,11 +1,3 @@
-<thinking> 
-
-As a form designer and technical writer, my first step is to understand the form's purpose, its context, and the information it's meant to collect. Based on the provided YAML, it appears that this form is called "Risk Assessment Report Form" and is likely used to collect information about risk assessment reports. The purpose of this form is likely to gather data about organizational risks and their potential impact.
-
-The form is split into several sections, with some fields being required while others are optional. I will make sure to highlight the differences in the help guide.
-
-</thinking>
-
 # Risk Assessment Report Form - Help Guide
 ## Purpose
 The Risk Assessment Report Form is used to gather information about risk assessment reports. This form helps to collect data about organizational risks and their potential impact.

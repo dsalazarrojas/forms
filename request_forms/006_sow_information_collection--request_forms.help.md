@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information for a Software for Offshore Wind (SOW) project. The purpose of this form is to gather details about the project scope, deliverables, timeline, and stakeholders involved in the project. This information will be used to ensure that the project is set up properly and meets the needs of all parties involved. 
-
-Before proceeding, please ensure that you have all necessary information to complete the form accurately. If you are unsure about any of the questions or need clarification, please ask your supervisor or the project team for guidance. 
-
-Also, please note that the form fields are designed to be self-explanatory, and you should be able to understand what each field is asking for without further explanation.
-
-Please confirm that the information you are about to provide is correct and complete before submitting the form. 
-</thinking>
-
 # sow_information_collection - Help Guide
 ## Purpose
 This form is used to collect project information for a Software for Offshore Wind (SOW) project.

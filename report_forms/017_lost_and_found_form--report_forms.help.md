@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a lost item. The form allows users to input details about the item, including its description, category, condition, and location. This information will be used to help identify and locate the lost item. To ensure accurate and comprehensive data entry, it is essential to complete the form carefully. Please review each field below to understand its purpose and required fields.
-</thinking>
-
 # Lost and Found Form - Help Guide
 ## Purpose
 

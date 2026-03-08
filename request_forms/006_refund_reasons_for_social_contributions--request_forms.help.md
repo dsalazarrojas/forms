@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a refund for social contributions. It's an internal process for employees to provide reasons and supporting details for a refund. Please ensure you're using this form for a legitimate reason and not for duplicate submissions. The form is designed to be filled out with the relevant information for a specific contribution, such as the contribution reason, employee name, department, and date of refund. Each field is explained below.
-</thinking>
-
 # Refund Reasons For Social Contributions - Help Guide
 ## Purpose
 This form is used to request a refund for social contributions. It is intended for employees who have made contributions and are seeking a refund due to specific reasons such as incorrect or incomplete information, changes in circumstances, or other valid reasons.

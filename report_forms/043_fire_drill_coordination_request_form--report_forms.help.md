@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for coordinating fire drills, which are emergency response procedures to evacuate and reassemble after a fire alarm is triggered. To ensure accuracy and efficiency, please review this form carefully before submitting it. 
-
-Before filling out this form, please check if a similar request has been made recently or is currently being processed. This will help prevent unnecessary duplicate requests and ensure that your request is handled promptly.
-
-The form will guide you through the required and optional fields. Required fields are marked as such, so please fill them out accordingly. Optional fields are for additional information that can be helpful but are not required.
-</thinking>
-
 # Fire Drill Coordination Request Form - Help Guide
 ## Purpose
 The Fire Drill Coordination Request Form is used to request coordination for fire drills in the workplace. This form helps the facility management team to plan and execute fire drills efficiently and safely.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Service Report Form - Help Guide
 ## Purpose
 

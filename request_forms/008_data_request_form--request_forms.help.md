@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information from clients and partners, including their names, contact details, and other relevant data. The form is designed to ensure that all necessary information is captured accurately and consistently, reducing the risk of errors or missed details. Before filling out this form, please ensure that you have the necessary permissions and approvals to do so.
-
-Please note that this form is a generic template, and you may need to adapt it to fit your specific use case. If you're unsure about any of the fields or requirements, please consult with the relevant authorities or stakeholders before proceeding.
-
-Before starting the form, take a moment to review the following information:
-
-* The form is divided into several sections that correspond to different types of information.
-* Each section has its own set of fields that you need to fill out.
-* Some fields are required, while others are optional.
-
-</thinking>
-
 # data_request_form - Help Guide
 ## Purpose
 The "data_request_form" is used to collect information from clients and partners for data requests.

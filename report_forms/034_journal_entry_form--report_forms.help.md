@@ -1,23 +1,3 @@
-<thinking>
-This form appears to be used for recording patient information in a medical setting, likely for the purpose of creating a journal entry or medical record. It seems to be a standard form designed to collect general patient data such as their name, address, contact information, medical status, and other relevant details. The form does not appear to require any specific medical specialty or practice information, suggesting it might be used across various medical practices.
-
-To determine if this form is relevant, we can consider the following:
-
-* Is the form intended for use in a medical or healthcare setting?
-* Is the form used for recording patient information or data entry?
-* Are there any duplicate fields or inconsistencies that may affect form completion?
-
-Upon reviewing the form, it appears to be primarily used for data entry of patient information. The fields collected include:
-* Personal details (name, address)
-* Medical status and specialty
-* Contact information and medical practice details
-* Date and time of entry
-* Additional demographic information (e.g., date of birth, height, weight, notes)
-
-The form does not appear to have any duplicate fields, and all fields are clearly labeled and categorized. This suggests that the form is designed to be a comprehensive and standard patient data collection tool.
-
-</thinking>
-
 # Journal Entry Form - Help Guide
 ## Purpose
 The Journal Entry Form is a standardized form used for recording patient information and data entry in a medical setting.

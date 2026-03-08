@@ -1,10 +1,3 @@
-<thinking>
-A form to gather contact and preference information for potential customers or leads to facilitate communication and sales. This form helps in understanding their interests, needs, and availability. It is likely used for B2B or B2C sales, marketing, or lead generation purposes. It's possible that this form is used internally within an organization to gather information for sales, product development, or customer service teams.
-
-To ensure accurate and complete data, please provide the following information:
-
-</thinking>
-
 # Call Center Lead Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential customers or leads to facilitate communication and sales. It helps the sales team understand their interests, needs, and preferences.

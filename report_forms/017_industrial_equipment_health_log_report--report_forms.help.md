@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # industrial_equipment_health_log_report - Help Guide
 ## Purpose
 This form is intended to track the health and status of industrial equipment, providing a structured format to record and report on inspections, repairs, and other maintenance activities. It allows users to monitor and manage equipment conditions, identify potential issues, and ensure timely maintenance and repairs.

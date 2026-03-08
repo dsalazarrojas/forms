@@ -1,9 +1,3 @@
-<thinking>
-We will create a help guide for the "Patient Readmission Rate Report Form". This form is used to report on patients who have been readmitted to the hospital. The purpose of this form is to collect information about the patient's readmission, including the date and time of the event, the length of stay, the admitting doctor, and other relevant details. This form is designed to be completed by hospital staff, such as nurses or doctors, who have access to the patient's medical records. It is essential to ensure that all relevant information is provided accurately and completely to maintain the high quality of patient care and to identify potential areas for improvement in the hospital's readmission rates.
-
-Before starting, please check that you are not duplicating an existing form, and that you are using the correct format. This form should only be used for patients who have been readmitted to the hospital, and not for other types of patient interactions.
-</thinking>
-
 # Patient Readmission Rate Report Form - Help Guide
 ## Purpose
 

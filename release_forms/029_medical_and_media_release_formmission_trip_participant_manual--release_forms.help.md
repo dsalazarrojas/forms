@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain the Medical and Media Release Form to assist users in understanding its purpose and how to complete it effectively. The form is used to capture medical information and media release consent from patients, which is essential for providing quality care and respecting patient confidentiality. Please ensure you have the necessary permissions and consent before sharing patient information. This form should not be used for non-medical or non-consent purposes. Please review the form carefully and fill it out accurately to ensure patient confidentiality is respected.
-</thinking>
-
 # Medical And Media Release Form - Help Guide
 ## Purpose
 This form is used to collect medical information and media release consent from patients. It is essential for healthcare providers to have accurate and up-to-date medical information to deliver the best possible care. By completing this form, you will be helping healthcare providers understand any pre-existing medical conditions that may impact your care.

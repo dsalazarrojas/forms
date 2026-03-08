@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information from employees or others about emergency claims. The purpose of this form is to collect details about accidents or injuries that occurred during work hours or work-related activities. It's essential to fill out this form accurately and completely, as it will be used to assess and resolve claims efficiently.
-
-Before you start filling out the form, ensure you are not duplicating any previously submitted claim. Each section of the form is designed to help the team assess the situation quickly and effectively. The information provided will be reviewed carefully, so be as specific as possible.
-
-Please fill out the form according to the provided instructions. If you have any doubts or need assistance, reach out to your supervisor or HR representative. 
-</thinking>
-
 # Emergency Claim Form - Help Guide
 ## Purpose
 The Emergency Claim Form is used to report incidents that occurred during work hours or work-related activities. This form helps the team to understand the details of the incident and respond promptly.

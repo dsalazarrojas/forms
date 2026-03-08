@@ -1,9 +1,3 @@
-<thinking>...
-This form is used to renew the Sales Mastermind Agreement between the participant and the sales rep. 
-The participant will be prompted to provide information about themselves and their agreement with the sales rep, including their name, email, and preferred term length. The sales rep will also be required to provide their name and email. 
-Note that the form is used for renewal, so not all fields are required. However, if a participant does not have a sales rep, they will be asked to indicate if they prefer to be assigned to a new sales rep.
-</thinking>
-
 # Sales Mastermind Agreement Renewal - Help Guide
 ## Purpose
 This form is used to renew the Sales Mastermind Agreement between the participant and the sales rep. It is a crucial document that outlines the terms and conditions of their partnership.

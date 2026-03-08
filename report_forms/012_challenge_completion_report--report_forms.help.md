@@ -1,9 +1,3 @@
-<thinking>
-  This form is used for participants to report on the completion of a challenge. It captures information about the challenge, such as the completion status, percentage complete, and supporting evidence. Additionally, it allows participants to reflect on their experience, including challenges encountered, solutions implemented, lessons learned, and personal growth. The form also solicits feedback on the effort level required, difficulty rating, satisfaction with completion, and interest in repeating the challenge. Finally, it includes a certification section where participants must acknowledge the truthfulness of their report. This form is designed to be completed by challenge participants after they have finished the challenge.
-  To prevent duplication of reports, ensure that you are not submitting a report for a challenge you have already completed.
-  If you are having trouble accessing the form, please contact your administrator for assistance.
-</thinking>
-
 # Challenge Completion Report - Help Guide
 ## Purpose
 The Challenge Completion Report is used to gather information about the completion of a challenge from participants. This report helps us understand the challenges participants faced, the solutions they implemented, and their overall experience.

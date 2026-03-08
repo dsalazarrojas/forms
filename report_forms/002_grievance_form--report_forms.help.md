@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to report grievances, which are complaints or issues that need to be addressed within the organization. The form is intended for employees to provide information about a problem they experienced, including the type of complaint, a detailed description, and any relevant contact information. This form will help the management to track and follow up on these complaints, ensuring that they are addressed in a timely and effective manner.
-</thinking>
-
 # grievance form - Help Guide
 ## Purpose
 The grievance form is used to report issues or complaints that require attention from the management. It is intended to provide a structured and organized way for employees to submit their concerns, ensuring that they are addressed efficiently.

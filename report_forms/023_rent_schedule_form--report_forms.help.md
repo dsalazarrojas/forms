@@ -1,7 +1,3 @@
-<thinking>
-We'll create a help guide for the "rent_schedules_form" form. This form is used to collect information about rental schedules, specifically for rent payments. Its purpose is to provide a structured way for users to input rental details, including date, time, rent frequency, and contact information for both tenants and landlords. It's essential to ensure that users understand the form's purpose before proceeding. To avoid duplication, we'll review the form's structure and fields to ensure that each field is explained clearly.
-</thinking>
-
 # rent_schedules_form - Help Guide
 ## Purpose
 The rent_schedules_form is used to collect rental schedule information, including date, time, rent frequency, and contact details for both tenants and landlords.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect weekly experiment findings reports from researchers, providing a structured and organized platform for them to share their results, status, and next steps. This form is used to ensure that all researchers follow a standardized process for reporting their experiments, making it easier for administrators to track progress and make informed decisions.
-The form is divided into several sections, each with its own set of fields, which should be completed according to the guidelines below.
-</thinking>
-
 # Weekly Experiment Findings Report Form - Help Guide
 ## Purpose
 This form is used to gather information about weekly experiment findings, allowing researchers to report their progress and results in a standardized and organized manner.

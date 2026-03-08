@@ -1,7 +1,3 @@
-<thinking>
-This form is used to renew a Roadside Assistance Membership for a vehicle and its driver. The purpose of this form is to collect information necessary to process the renewal and ensure that the vehicle and driver meet the requirements for membership. This form should only be completed if the membership is eligible for renewal, and not for new membership applications. Please ensure that you have checked the membership status before proceeding.
-</thinking>
-
 # Roadside Assistance Membership Renewal Form - Help Guide
 ## Purpose
 This form is used to renew a Roadside Assistance Membership for a vehicle and its driver.

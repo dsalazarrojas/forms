@@ -2,8 +2,6 @@
 ## Purpose
 The Export Declaration Form is designed to collect information for export-related transactions.
 
-<thinking>...This form is intended to assist users in providing accurate and thorough documentation for export shipments. It is used to collect main information, export details, and shipping information, which helps ensure a smooth and efficient export process. Please use this form to avoid duplication and ensure accurate data entry. If you have already submitted an export declaration form, please do not resubmit a new one, as this may lead to unnecessary work and potential issues with customs and regulatory authorities.</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

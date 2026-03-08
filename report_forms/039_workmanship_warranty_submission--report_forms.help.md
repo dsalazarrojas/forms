@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are seeking a workmanship warranty. The purpose of this form is to ensure that customers can provide necessary details about their warranty claim, including their contact information, job details, and claim specifics. It is essential that customers complete this form accurately and thoroughly to ensure that their warranty claim is processed efficiently. To avoid duplication, please ensure that you have not already submitted a warranty claim for this job before proceeding.
-</thinking>
-
 # Workmanship Warranty Submission - Help Guide
 
 ## Purpose

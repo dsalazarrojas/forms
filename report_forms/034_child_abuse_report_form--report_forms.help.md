@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about suspected child abuse from a reporter. The form's purpose is to gather details about the child, the suspected abuse, and the reporter's information to support investigation and intervention. 
-
-This form is only accessible to authorized personnel, and the data collected through this form will be used to assess and respond to the situation appropriately. 
-
-Please note that this form is for reporting suspected child abuse, and any inaccuracies or omissions may lead to incorrect conclusions. If you are unsure about any part of the process, please do not hesitate to contact the relevant authorities or our support team.
-
-</thinking>
-
 # Child Abuse Report Form - Help Guide
 ## Purpose
 This form is used to report suspected child abuse incidents. It's crucial to fill out this form accurately and thoroughly, providing all the necessary details to ensure a proper response to the situation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about system support issues. The form is used to record and track issues reported by users, including details about the system, the issue description, and the resolution status. The form is not intended for real-time issue resolution, but rather for logging and tracking purposes. Please note that this form is not meant to be used for duplicate issues, and if you are reporting an issue that has already been reported, please refer to the original report instead.
-</thinking>
-
 # systems_support_log_form - Help Guide
 ## Purpose
 This form is used to record and track system support issues.

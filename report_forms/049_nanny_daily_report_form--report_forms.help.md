@@ -1,26 +1,3 @@
-<thinking>
-The form is likely used for nannies or caregivers to report on their daily activities, tasks, and events related to the children in their care. This form is designed to gather specific information on a daily basis, which will help caregivers and parents or guardians track and record important events, activities, and progress. This information is crucial for maintaining a smooth and safe environment for the children.
-
-The form will likely be used by nannies or caregivers who are responsible for the daily well-being and safety of the children. This form might be used for reporting on events such as meal preparation, outdoor activities, rest times, and any notable events that occurred during the day.
-
-The following questions will be included in the form:
-
-* Morning activities of the child(ren) (Select from options 'Yes', 'No')
-* Child duties or milestones achieved during the day (Text input)
-* Notes on any events or incidents (Note field)
-* Contact information (Phone number)
-* Contact information (Email)
-* Date of the report
-* Time of the report
-
-Please ensure that all fields with a "required" label are completed before submitting the form. This form will not be submitted unless all required fields are filled.
-
-Please note that this form will be used by someone else, so please be accurate and clear in your report.
-
-Also, please make sure to enter a 'Yes' or 'No' answer for morning activities.
-
-</thinking>
-
 # Nanny Daily Report Form - Help Guide
 ## Purpose
 The purpose of this form is to help nannies or caregivers report on their daily activities and events related to the children in their care, providing a record of important events and progress.

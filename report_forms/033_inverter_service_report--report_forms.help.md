@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for reporting on inverter service visits. It is essential to ensure that all required fields are completed and that only one report is submitted per service visit. If a service visit needs to be updated, please make sure to duplicate the old report and make the necessary changes, rather than editing the original report. This guide is designed to help users complete the form correctly and efficiently.
-
-</thinking>
-
 # Inverter Service Report - Help Guide
 ## Purpose
 The Inverter Service Report is a form used to report on inverter service visits. This form helps track the status of inverters, service visits, and any additional notes.

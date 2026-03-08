@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outstation_requisition_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Illustrator Portfolio Submission Request Form". This form is intended to collect information from illustrators who want to submit their portfolio for consideration. The form is designed to gather necessary details such as name, email, contact number, portfolio link, portfolio type, and a brief description of their portfolio images. We expect to receive a few submissions per week, and we want to make sure that our team is able to quickly and efficiently process the requests. To avoid duplication and ensure that the right form is filled out by the correct person, we will be checking for internal relevance and non-duplication of requests.
-</thinking>
-
 # Illustrator Portfolio Submission Request Form - Help Guide
 
 ## Purpose

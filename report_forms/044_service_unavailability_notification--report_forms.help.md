@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Unavailability Notification - Help Guide
 ## Purpose
 This form is used to notify stakeholders of service unavailability, allowing them to report incidents, describe their impact, and provide updates on the service recovery status. This form is intended for internal use, and completion is optional but recommended for maintaining accurate records and facilitating communication among teams.

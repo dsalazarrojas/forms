@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to gather information from individuals seeking to rent a suite for an extended stay. This form is probably used by a property management team or rental company to collect necessary details from potential tenants. The purpose of this form is to streamline the rental application process, ensure accurate communication, and minimize the need for phone calls or meetings. To confirm, I will assume that the form is meant for a residential suite rental application. Please let me know if this assumption is incorrect.
-</thinking>
-
 # extended_stay_suite_rental_application - Help Guide
 ## Purpose
 The extended_stay_suite_rental_application form is used to collect information from individuals seeking to rent a suite for an extended stay. It is designed to ensure accurate communication and streamline the rental application process.

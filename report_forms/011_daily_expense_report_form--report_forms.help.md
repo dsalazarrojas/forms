@@ -1,7 +1,3 @@
-<thinking>
-The "Daily Expense Report Form" is a tool used to document and report expenses incurred daily. This form is meant to help employees track their expenses and provide a clear, detailed record of their expenditures. Before filling out this form, please ensure you are using it for its intended purpose and do not duplicate this form for tasks or expenses already logged elsewhere. The form fields and labels are self-explanatory, but a brief clarification will be provided below.
-</thinking>
-
 # Daily Expense Report Form - Help Guide
 ## Purpose
 The Daily Expense Report Form is used to document and report expenses incurred daily by employees.

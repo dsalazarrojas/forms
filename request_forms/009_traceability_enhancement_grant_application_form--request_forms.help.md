@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the Traceability Enhancement Grant Application Form, used to submit grant applications for projects that aim to enhance traceability in various fields. The form is used to collect information about the applicant, project details, and grant details. Before filling out the form, please ensure you meet the eligibility criteria and have all the necessary information and supporting documents ready. To avoid duplication of effort, please only submit one application per project.
 
 # Traceability Enhancement Grant Application Form - Help Guide

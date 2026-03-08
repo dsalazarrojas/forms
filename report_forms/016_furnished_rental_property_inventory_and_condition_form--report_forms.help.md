@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a Furnished Rental Property Inventory and Condition Form, designed for landlords and property managers to document the condition and inventory of furnished rental properties. The form is intended to be used for move-in and move-out inspections, where the landlord and tenant sign off on the property's condition and contents. This form is a standardization tool to ensure that both parties have a clear and accurate record of the property's state before and after a rental period.
-
-Before proceeding, please ensure that you have read and understood the form's purpose and guidelines. This form should not be used for other purposes, and any modifications or changes should be carefully reviewed to avoid duplication or misrepresentation of information.
-
-</thinking>
-
 # furnished_rental_property_inventory_and_condition_form - Help Guide
 ## Purpose
 The Furnished Rental Property Inventory and Condition Form is designed to document the condition and inventory of furnished rental properties at the start and end of a rental period. This form helps landlords and tenants to accurately record the state of the property, ensuring a smooth and hassle-free transaction.

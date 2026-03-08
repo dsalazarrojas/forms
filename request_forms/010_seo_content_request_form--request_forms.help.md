@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect information about SEO content requests. It will likely be used by marketing or content teams to gather details about the type of content they need to create. To avoid duplication of work, ensure you're not submitting a request for content that already exists. Before filling out this form, review our existing content library to see if a similar request has been made before. If you're unsure, contact your team lead or a content manager for guidance.</thinking>
-
 # seo_content_request_form - Help Guide
 ## Purpose
 The SEO Content Request Form is a tool for marketing and content teams to collect information about the type of content they need to create. This form helps to streamline the content creation process by gathering essential details about the content request, including the type of content, target audience, and desired publication date.

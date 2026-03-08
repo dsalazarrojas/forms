@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate data collection, please only submit this form once you have been assigned a collection schedule by a collection manager. 
-The purpose of this form is to request collection from a collection manager. 
-Before submitting, please ensure that you have read and understood the collection schedule and requirements provided by the collection manager. 
-Please note that all fields are required unless specified otherwise. 
-</thinking>
-
 # Schedule Collection Request - Help Guide
 ## Purpose
 The Schedule Collection Request form is used to request collection from a collection manager. It is designed to gather necessary information to schedule a collection.

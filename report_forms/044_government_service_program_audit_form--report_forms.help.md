@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to audit government services programs. It is intended for use by government employees or program administrators to gather information about existing programs. This form should only be used for programs that have not been audited recently. Please do not submit this form for programs that have already been audited or reviewed.
-</thinking>
-
 # Government Service Program Audit Form - Help Guide
 ## Purpose
 This form is used to collect information about government services programs. It is intended for government employees or program administrators to evaluate and improve the effectiveness and efficiency of these programs.

@@ -1,13 +1,3 @@
-<thinking>
-
-We will be designing a help guide for the "Ticket Request Form". This form is used for requesting a ticket on events or products. The form is split into different sections, with each section having specific fields that need to be filled in. 
-
-To use this form, the user needs to navigate through the pages, filling out the required and optional fields as needed. The form is designed to be user-friendly and intuitive.
-
-Before filling out the form, it's essential to understand the fields and their purpose to ensure accuracy and completeness of the information provided.
-
-</thinking>
-
 # Ticket Request Form - Help Guide
 ## Purpose
 The Ticket Request Form is used to request a ticket for an event or product. It is a straightforward form that gathers relevant information from the user to process their ticket request.

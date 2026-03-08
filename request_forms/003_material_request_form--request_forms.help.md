@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information about a material request from users, likely for internal purposes within a company or organization. This form should be filled out by users who are requesting materials for a project, and it will guide them through the process of providing necessary details about the project and their request. To avoid duplication of requests, ensure that you are not submitting a new form if you have already submitted a similar request.
-
-To prevent misinterpretation, please ensure that you are submitting this form for the correct purpose.
-</thinking>
-
 # Material Request Form - Help Guide
 ## Purpose
 This form is used to request materials from the organization. Please fill out the form accurately to ensure your request is properly processed.

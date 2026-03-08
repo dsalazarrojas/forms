@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about warehouse incidents, such as accidents, thefts, or other events that occur within the warehouse environment. It is used to report incidents to the incident supervisor and incident reporter. This form should be filled out by the individual who witnessed or reported the incident.
-The form should not be used for duplicate reporting of the same incident. If an incident has already been reported, please do not fill out this form again.
-</thinking>
-
 # Warehouse Incident Report Form - Help Guide
 ## Purpose
 The Warehouse Incident Report Form is used to report incidents that occur within the warehouse environment. This form is used to gather information about the incident, including details, type, location, and witnesses.

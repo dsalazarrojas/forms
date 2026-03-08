@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a detailed log form for tracking the drying process, likely related to materials or equipment in a manufacturing or industrial setting. It seems to collect information about the drying process, including multiple stages, equipment conditions, and specific metrics. Before proceeding, double-check that this form is relevant to your specific use case and that you have access to all necessary information.
-
-To ensure data accuracy and completeness, please review the form fields carefully and fill out all required fields. If you're unsure about any field, try to find the relevant information from your available resources or consult with someone familiar with the drying process.
-
-To prevent data duplication, ensure that you're not submitting the same log multiple times.
-
-</thinking>
-
 # Drying Process Log Form - Help Guide
 ## Purpose
 This form is designed to record and track the drying process of materials or equipment. It helps in monitoring and documenting the drying process, which is crucial for quality control, maintenance, and future reference.

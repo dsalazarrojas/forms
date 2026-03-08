@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to express their interest in renting a property. It collects information about the user's email address, contact phone number, address, move-in date, name, rental type, move-in location, type of property, rent range, and a message with additional information. The form is intended for users who are interested in renting a property and are looking for more information or have questions about the rental process.
-The form is a simple, straightforward way for users to provide their contact information and preferences for renting a property. It is not a formal rental application, but rather an expression of interest in renting a property. Users can expect that their information will be reviewed by a representative and contacted for further discussion.
-The fields on this form are designed to gather information about the user's preferences and contact information, and are not intended to be used as a comprehensive rental application. This form is intended for initial contact and follow-up discussions.
-</thinking>
-
 # Rental Application Interest Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and rental preferences from users who are interested in renting a property.

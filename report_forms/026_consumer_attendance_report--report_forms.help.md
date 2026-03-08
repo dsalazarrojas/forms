@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a specific event, including its name, date, start and end times, location, type, organizer details, and attendance statistics. The form aims to gather a comprehensive report about the event, allowing for tracking and analysis of various aspects of the event. The form is likely to be used by event organizers or coordinators to document and review the success and challenges of their events.
-
-The form is composed of several sections, each focusing on a different aspect of the event, such as demographics, objectives, and feedback. The required fields ensure that essential information is captured, while optional fields allow for additional context and details to be added.
-
-Before filling out the form, ensure you have access to the necessary information and resources. It is recommended to complete the form in a quiet and uninterrupted environment, away from distractions.
-
-</thinking>
-
 # Consumer Attendance Report - Help Guide
 ## Purpose
 The Consumer Attendance Report form is designed to collect detailed information about events, allowing for analysis and improvement of future events. This form should be completed by event organizers or coordinators to document and review the success and challenges of their events.

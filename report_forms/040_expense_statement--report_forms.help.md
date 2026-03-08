@@ -1,32 +1,3 @@
-<thinking>
-This form is used to report expenses for reimbursement. Before starting, please ensure that you have not already reported these expenses and that your report is up-to-date.
-The form has the following pages:
-* Expense Statement
-* Category
-* Date
-* Time
-* Amount
-* Description
-* Expense Type (e.g. personal, business)
-* Expense Type Options (e.g. lunch, travel)
-* Total Expenses
-* Assigned User (e.g. who the expense is assigned to)
-* Assigned Tool (e.g. which tool is being used)
-* Submit
-* Notes
-* Email
-* Phone
-* Report Date
-* Report Time
-* Report Form ID
-* Form ID
-* Form Version
-* User Form Version
-* Submitted
-* Form Version Status (e.g. active, inactive)
-
-</thinking>
-
 # Expense Statement - Help Guide
 
 ## Purpose

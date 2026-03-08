@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by customers or clients to submit a rental application for a specific event facility. The form gathers information about the facility, event details, and rental terms. It also includes a section for review and approval of the rental agreement, as well as space for the facility owner's information and the customer's signature. This form is likely to be used by event planners, facility managers, or property managers to manage event rentals and ensure a smooth and hassle-free experience for both parties involved.
-</thinking>
 # Event Facility Rental Agreement Form - Help Guide
 
 ## Purpose

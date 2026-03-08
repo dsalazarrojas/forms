@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for employees to submit treasury reports for approval. The form is designed to be completed by the submitter, who must provide basic details about the report, including the report type, reporting period, start and end dates, and their own contact information. The form is not intended for complex or detailed reporting, but rather as a quick and easy way to submit reports for approval. Before filling out this form, please ensure that you have already checked with the relevant department or manager to verify the need for and approval process of this report. Also, make sure that you haven't already submitted a similar report within the specified reporting period, as this form is only intended for new or updated reports. Please complete each field accurately and thoroughly to ensure that your report can be processed efficiently. 
-</thinking>
-
 # Treasury Reporting Approval Application Form - Help Guide
 ## Purpose
 The Treasury Reporting Approval Application Form is used to submit treasury reports for approval. This form is intended for employees who need to submit reports for review and approval by the relevant department or manager.

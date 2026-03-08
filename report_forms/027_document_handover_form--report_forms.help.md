@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about a document handover process, where users select a client, document type, and upload a file. The form is used to ensure that documents are properly handed over to the relevant parties. The purpose of this form is to prevent duplication and ensure that the correct documents are uploaded. This form is not meant to be used as a general contact form, but rather as a specific tool for document handover.
-
-</thinking>
-
 # Document Handover Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bug Tracker - Help Guide
 ## Purpose
 The Bug Tracker form is a tool used to collect and report technical issues with our software products. It helps our development team to identify and fix problems efficiently, so we can provide the best possible user experience. Fill out this form to report any bugs, feature requests, or other issues you encounter while using our software. Make sure to provide detailed descriptions and step-by-step guides where possible.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's respiratory system and medical condition. It is intended to be used by healthcare professionals to assess a patient's respiratory status and identify potential respiratory issues. This form should only be filled out by authorized personnel and should be reviewed carefully to ensure accurate and complete information. To prevent duplication, please ensure that a patient's previous respiratory assessment form has not been submitted before filling out this form. Please note that some fields are optional and should only be filled out if applicable. When in doubt, refer to your supervisor or medical guide for guidance.
-</thinking>
-
 # Respiratory Assessment Form - Help Guide
 ## Purpose
 The Respiratory Assessment Form is designed to collect information about a patient's respiratory system and medical condition. It is intended to be used by healthcare professionals to assess a patient's respiratory status and identify potential respiratory issues.

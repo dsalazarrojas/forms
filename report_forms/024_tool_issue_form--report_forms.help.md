@@ -1,13 +1,4 @@
-> <thinking>
-Form "tool_issue_form" is used to report any issues with tools used in various categories. This form is typically filled out when an employee encounters a problem with a tool, such as a broken handle or a missing part. The fields in this form help to categorize and track these issues for efficient problem resolution.
-
-This form is not required for all issues, and its completion is usually triggered by an error message or a supervisor's request. It is essential to provide as much detail as possible in each field to ensure that the issue can be resolved as quickly as possible.
-
-Before filling out this form, please ensure that you have the necessary information and permission to access the tool in question. If you are unsure about any field, please don't hesitate to reach out to your supervisor for guidance.
-
-</thinking>
-
-# tool_issue_form - Help Guide
+> # tool_issue_form - Help Guide
 
 ## Purpose
 This form helps to report and track tool issues for efficient resolution. 

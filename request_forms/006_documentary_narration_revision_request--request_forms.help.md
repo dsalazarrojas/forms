@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a revision of a documentary. The purpose of this form is to gather information about the revision request, including the start and end timecodes, urgency level, reference files, file attachments, description, revision details, submitter information, and submitter email. This form should only be used for legitimate requests and not for duplicate or unnecessary revisions. The form is designed to be easy to fill out and understand, with clear labels and explanations for each field.
-</thinking>
-
 # Documentary Narration Revision Request - Help Guide
 ## Purpose
 This form is used to request revisions to a documentary. Please fill out the form completely and accurately to ensure your request is processed efficiently.

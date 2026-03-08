@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Fundraising Event Details Form with ease. The form's purpose is to collect detailed information about fundraising events, including their name, dates, locations, goals, and contact information. This form will be used to track and manage fundraising events within the organization. Before filling out the form, please ensure that you have the necessary information and authorization to proceed. It is recommended to review the form carefully before starting to ensure that all required fields are completed accurately. 
-</thinking>
-
 # Fundraising Event Details Form - Help Guide
 ## Purpose
 The Fundraising Event Details Form is designed to collect and record crucial information about fundraising events, enabling efficient management and follow-up.

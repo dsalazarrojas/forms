@@ -1,6 +1,3 @@
-<thinking>
-The LLC Extension Request Form is designed to collect information from users to process and review. Before proceeding, please ensure you have not already submitted this form. If you're unsure, please contact the relevant department or authority to verify the status of your previous submission. This form is meant to be used for official purposes only and not for personal or testing use.
-</thinking>
 # LLC Extension Request Form - Help Guide
 ## Purpose
 The LLC Extension Request Form is a form designed to collect information from users for the purpose of requesting an LLC (Limited Liability Company) extension. This form is used by the authorities to process and review the request, ensuring that the necessary information is collected and verified before making a decision.

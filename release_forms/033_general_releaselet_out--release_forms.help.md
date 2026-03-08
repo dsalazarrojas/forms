@@ -1,10 +1,3 @@
-<thinking>
-This form is used for releasing general releases, such as product releases, software releases, or other types of releases that require a formal announcement or communication. The form is designed to capture relevant information about the release, including the release date, time, type, and status. It also includes fields for collecting comments, email, phone, fax, address, zip, city, state, and country information. The purpose of this form is to ensure that all necessary information is collected and documented for the release.
-
-The form should only be used for releases that are approved and ready for public or internal circulation. It is recommended to check that the form is not already filled out before submitting a new release, to avoid duplication of work.
-
-</thinking>
-
 # General ReleaseLet Out - Help Guide
 ## Purpose
 The General ReleaseLet Out form is a tool for announcing and documenting general releases, including but not limited to software, product, and marketing releases. This form captures critical information to ensure a smooth and efficient release process.

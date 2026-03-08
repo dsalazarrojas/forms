@@ -1,26 +1,3 @@
-<thinking>
-To create an effective help guide for the "Auto Body Repair Service Request Form", we need to consider the following:
-- The form's purpose is to collect information from customers about their vehicle's repair needs, including personal details, vehicle information, and service requirements.
-- The form is intended for customers who want to submit a repair request for their vehicle.
-- Each field in the form has a specific purpose and should be filled out accordingly.
-
-Given the form's layout and the provided YAML fields, we can infer that the form is designed to gather essential details from customers to expedite the repair process.
-
-The form has several sections: "Customer Details", "Vehicle Details", "Service Details", and a final section for submission.
-
-The "Customer Details" section includes fields for full name, contact email, contact phone number, which indicates that this section is designed to collect personal information from the customer.
-
-In the "Vehicle Details" section, we have fields for car make, car model, car year, and license plate, which points to the form collecting essential vehicle information.
-
-The "Service Details" section includes fields for service required, damage description, whether the repair is an insurance claim, insurance company name (if applicable), and preferred appointment date, indicating the form's focus on the specific service needed.
-
-Lastly, the "vehicle driveable" field is used to determine whether the vehicle needs to be towed to the shop.
-
-Before we proceed, ensure that the form is relevant to the customer's situation, and the customer is aware of the purpose and expectations of this form.
-
-If you've confirmed the form's context, please proceed with the creation of the help guide.
-</thinking>
-
 # Auto Body Repair Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their vehicle's repair needs, ensuring that we can provide efficient and effective service to fix the issues.

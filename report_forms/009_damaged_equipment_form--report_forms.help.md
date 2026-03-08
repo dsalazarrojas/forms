@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Damaged Equipment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parcel Recharge User Agreement - Help Guide
 ## Purpose
 This form is designed for users to express their agreement to the terms and conditions of parcel recharging services. It captures essential information such as contact details, parcel details, consent, and communication preferences. This form helps the user confirm their understanding of the services provided and ensures a smooth and secure experience.

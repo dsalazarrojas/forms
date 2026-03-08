@@ -1,14 +1,3 @@
-<thinking>
-This form is used by campus departments and organizations to request event or meeting spaces for campus facilities. The purpose of this form is to collect information about the event, including the requester's details, the event's title and description, the requested date and time, and the preferred location and equipment needs. This form should only be filled out by authorized individuals, and it's intended to be a one-time request for a single event. 
-
-If you're not sure which event type is suitable for your request, or if you've filled out this form previously, please contact your department's event coordinator or admin to confirm.
-
-When filling out this form, please be as accurate as possible to help us process your request efficiently.
-
-If you need assistance with filling out this form, refer to the Field-by-Field Explanation section for clarification on each field's purpose and expected input.
-
-</thinking>
-
 # Campus Scheduling Form - Help Guide
 ## Purpose
 This form is used to request event or meeting spaces on campus. It's essential to fill it out accurately and truthfully to ensure your request is processed correctly.

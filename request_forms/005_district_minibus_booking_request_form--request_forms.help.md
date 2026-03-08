@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to book and manage minibus services for a district or community, allowing users to submit requests for minibus bookings with specific details such as pickup and dropoff locations, dates and times, contact information, and other relevant details. The form is probably used to ensure that minibus bookings are properly managed and allocated to the right people. The form is also likely used for internal tracking and reporting purposes.
-</thinking>
-
 # District Minibus Booking Request Form - Help Guide
 ## Purpose
 The District Minibus Booking Request Form is used to request a minibus for a specific date and time, with the option to specify a contact person, location, and other details. This form helps to streamline the process of booking and managing minibus services.

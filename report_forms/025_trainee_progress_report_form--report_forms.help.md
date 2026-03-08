@@ -1,7 +1,3 @@
-<thinking>
-The "Trainee Progress Report Form" is designed to gather information about the progress of trainees in various training programs. This form helps assess the trainees' growth, provide feedback, and track their achievements. When filling out the form, please ensure that all relevant fields are filled in accurately to prevent duplicate reports from being generated.
-</thinking>
-
 # Trainee Progress Report Form - Help Guide
 ## Purpose
 The Trainee Progress Report Form is used to track the progress of trainees in various training programs. It is essential to fill in the form with accurate and up-to-date information to provide valuable feedback and insights for the trainees.

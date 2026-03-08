@@ -1,7 +1,3 @@
-<thinking>
-This form is a Device Status Report Form used to record and report the status of devices within an organization. It is likely used by technicians or engineers to document and communicate device status to relevant teams. This form may be completed daily, weekly, or as needed.
-</thinking>
-
 # Device Status Report Form - Help Guide
 ## Purpose
 The Device Status Report Form is a tool used to collect information about the status of devices within the organization.

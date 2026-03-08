@@ -1,13 +1,3 @@
-<thinking>
-
-The "resident_access_badge_renewal_consent_form" form is used for renewal requests for resident badges. This form is used by property managers to obtain resident consent for renewal of their badges, which is a crucial step in the process of renewing their access rights. The form is divided into several sections, each collecting relevant information for the renewal process.
-
-Before filling out the form, please ensure that you have the necessary authorization to access the system and that you have reviewed the relevant policies and procedures related to resident badges.
-
-To avoid duplication of effort, please note that this form is only for renewal requests. If you are requesting a new badge, you will need to use a different form.
-
-</thinking>
-
 # Resident Access Badge Renewal Consent Form - Help Guide
 ## Purpose
 

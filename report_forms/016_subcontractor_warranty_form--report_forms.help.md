@@ -1,11 +1,3 @@
-<thinking>
-The Subcontractor Warranty Form is used for capturing information about a subcontracted job, including the subcontractor's contact details, job description, and payment terms. This form is likely used by project managers or administrators to gather essential data about subcontracted work, ensuring that all necessary details are recorded and easily accessible.
-
-When filling out this form, please ensure you provide accurate and complete information to avoid any potential issues with payment or warranty claims. Ensure that you have permission from the relevant parties before submitting the form.
-
-Note that some fields may have specific requirements or constraints. For example, the `subcontractor_email` field is a required field for email, which typically follows the format "example@email.com". The `job_status` fields are select_one fields, meaning you can only choose one of the provided options (Completed, In Progress, Not Started).
-</thinking>
-
 # Subcontractor Warranty Form - Help Guide
 ## Purpose
 

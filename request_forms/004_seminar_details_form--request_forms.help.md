@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for the seminar details form, which is a crucial part of our organization's event planning process. It's intended for users to provide their attendee's information, such as name, email, and phone number, as well as seminar details like title, date, and location. This form is used internally, so the information provided will be used by our team to organize and manage seminars.
 
 Before proceeding, please ensure that you have the necessary permissions to complete this form, and that you're not duplicating an existing request. If you're unsure, you can contact our team for clarification.</thinking>

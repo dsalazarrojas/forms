@@ -1,18 +1,3 @@
-<thinking>
-The form "Rental Inspection Report Form" is used for reporting issues found during a rental property inspection. It's essential to ensure that the form is filled out correctly to provide accurate information about the inspection, issue, and any subsequent repairs. To prevent errors, please review the form carefully and make sure to complete all required fields. 
-
-The form is designed to gather information about the rental property inspection process, including the tenant's name, property address, and issue details. The form also captures the inspector's comments and any attachments or media related to the issue. 
-
-Please note that the form is intended for internal use only and should not be shared with external parties without permission. 
-
-Before starting, ensure you have all the necessary information and documents ready to complete the form accurately. 
-
-Please fill out the form carefully and completely, and if you have any questions or need clarification, don't hesitate to reach out to the designated contact person. 
-
-This guide will walk you through each field of the form to help you understand its purpose and how to complete it accurately. 
-
-</thinking>
-
 # Rental Inspection Report Form - Help Guide
 ## Purpose
 The Rental Inspection Report Form is used to document issues found during a rental property inspection, ensuring accurate and timely reporting and resolution of these issues.

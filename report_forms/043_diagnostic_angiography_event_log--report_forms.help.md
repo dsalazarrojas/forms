@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document the events that occur during a diagnostic angiography procedure. It captures information about the patient, the medical history, the diagnostic procedure, and the angiography procedure. The form is meant to be completed by medical professionals in a clinical setting. To avoid duplication of effort, please ensure that this form is completed only once per procedure. Please do not fill out this form for multiple procedures.
-</thinking>
-
 # Diagnostic Angiography Event Log - Help Guide
 
 ## Purpose

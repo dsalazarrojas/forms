@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow individuals or groups from the community to submit requests for assistance or collaboration from the organization. To be eligible for submission, requests must be unique and not duplications of previously submitted requests. The form is intended for individuals seeking help, resources, or services and is not for internal team use or for submitting ideas for new projects or initiatives.
-</thinking>
-
 # Community Outreach Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from community members who are seeking assistance, resources, or services from the organization. Please use this form to submit your request and provide detailed information about your needs.

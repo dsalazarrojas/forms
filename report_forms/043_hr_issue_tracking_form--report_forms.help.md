@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to track HR issues within the organization. The HR Issue Tracking Form is intended to help employees, managers, or HR personnel to report and manage various HR-related problems or concerns. This form is not meant to be a comprehensive solution, but rather a tool to help facilitate the resolution of these issues.
-
-  Please ensure that you only submit a single report per issue. If you need to report multiple issues, please create a new report for each one. This will help ensure that each issue is addressed and tracked properly.
-</thinking>
-
 # HR Issue Tracking Form - Help Guide
 ## Purpose
 The HR Issue Tracking Form is used to report and manage HR-related issues within the organization.

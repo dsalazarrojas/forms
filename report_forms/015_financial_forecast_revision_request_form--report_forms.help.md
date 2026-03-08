@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by users who need to request a revision to a financial forecast. The purpose of this form is to provide a clear and concise way for users to submit their requests, allowing the finance team to understand their requirements and make adjustments accordingly. Before filling out this form, please ensure that you have a valid reason for requesting a revision and that you have any supporting documents or information ready to be submitted. This form should not be used to submit duplicate requests; please contact the finance team directly if you have already submitted a similar request.
-</thinking>
-
 # Financial Forecast Revision Request Form - Help Guide
 ## Purpose
 This form is designed to help users request a revision to a financial forecast. It provides a structured way for users to submit their requests, allowing the finance team to understand their requirements and make adjustments accordingly.

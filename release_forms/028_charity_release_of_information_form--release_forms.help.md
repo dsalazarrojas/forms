@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain authorization from an individual to release their personal information to a specific organization or entity. This form is typically used when an organization needs to share information about an individual, such as medical records or financial information, and the individual wants to explicitly grant or deny permission for this sharing. The form ensures that the individual understands what information will be shared, with whom it will be shared, and for how long. It also includes a clear statement of the individual's consent and authorization, as well as their understanding of the duration of the release and their right to revoke it at any time.
-
-Before filling out this form, please ensure that you are not duplicating or sharing information that has already been previously authorized. Also, make sure to review all fields carefully and sign the form only when you are certain that you understand and agree to the terms.
-
-</thinking>
-
 # Charity Release Of Information Form - Help Guide
 ## Purpose
 This form is designed to collect and document an individual's authorization to share their personal information with a specific organization or entity.

@@ -1,10 +1,3 @@
-<thinking>
-The Daily Sales Report form is a vital tool for sales teams to track and report their daily sales activities. This form serves as a centralized platform for capturing essential sales data, ensuring that sales representatives can efficiently document their sales performance on a day-to-day basis. The form's fields are designed to collect specific information that will aid in monitoring sales trends, identifying areas of improvement, and making data-driven decisions.
-
-Before proceeding, make sure you have filled out the form for the corresponding date and not for a duplicate entry. Ensure all required fields are completed accurately.
-
-</thinking>
-
 # Daily Sales Report - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-  This form is used for releasing energy plans. It's crucial to ensure that the energy plan is properly released to avoid any potential issues. Before filling out this form, please ensure you have all the necessary information and that it's correctly entered. The purpose of this form is to capture key details about the energy plan, including the utility name, account number, reason for release, and transfer dates. Please read on to understand how to fill out each field.
-
-</thinking>
-
 # Energy Plan Release Form - Help Guide
 ## Purpose
 This form is used for releasing energy plans to ensure they are properly transferred and managed. It captures essential details about the energy plan, including the utility name, account number, and transfer dates.

@@ -1,10 +1,3 @@
-<thinking>
-The form appears to be designed for capturing information related to a Waterway Safety Work Method Statement. This form likely serves as a template for documenting and recording the details of a waterway safety work method, which may include the contractor's information, site details, safety measures, and other relevant data. To ensure that users understand the purpose and requirements of this form, it's essential to provide clear explanations and examples of each field. This guide will walk users through the process of completing the form and provide a deeper understanding of each field's significance.
-
-This form does not appear to be a duplicate of any other form in the provided context, and its purpose is to gather specific information related to waterway safety work methods. The form is not redundant and is intended to capture essential data to support project management and risk assessment.
-
-</thinking>
-
 # Waterway Safety Work Method Statement - Help Guide
 
 ## Purpose

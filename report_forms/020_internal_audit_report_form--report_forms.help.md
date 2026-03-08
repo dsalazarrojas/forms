@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a basic internal audit report form designed for organizations to document internal audits. I'll assume the form is meant for internal use within a company or institution to report on audit findings, dates, times, locations, auditors' names, and other relevant details. It might be used for quality assurance, risk management, or compliance purposes. Before filling out this form, ensure you understand the organization's internal audit procedures and protocols.
-
-</thinking>
-
 # Internal Audit Report Form - Help Guide
 ## Purpose
 The Internal Audit Report Form is a tool used to document internal audit findings, report on dates and times of audits, locations, auditor names, and other relevant details. This form is typically used for quality assurance, risk management, or compliance purposes within an organization.

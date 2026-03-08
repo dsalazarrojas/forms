@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for reporting suspicious e-commerce activities. It should not be used for actual review purposes, as it is not affiliated with any form platform. The form's purpose is to collect reports of fake reviews, suspicious products, or other e-commerce-related issues that need to be addressed. This form will guide you on how to fill it out correctly, ensuring accurate submission of your reports.
-</thinking>
-
 # E Commerce Fake Review Report Form - Help Guide
 ## Purpose
 This form is designed to help detect and report fake reviews, suspicious products, or other e-commerce-related issues. It is not a real review form, but rather a tool for reporting such incidents.

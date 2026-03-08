@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect requests for process optimization from end-users, providing a structured way to submit their ideas and proposals for improving business processes. Before proceeding, please ensure you are submitting a new request and not duplicating an existing one. This form will guide you through the necessary steps to provide all the required information. If you are unsure or have any questions, please reach out to your supervisor or process owner for clarification.</thinking>
-
 # Process Optimization Roadmap Request Form - Help Guide
 ## Purpose
 

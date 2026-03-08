@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for requesting approval for animal research, typically for scientists and researchers to obtain approval prior to conducting experiments involving animals. To ensure that only legitimate requests are submitted, the form checks for duplication and non-relevance.
-</thinking>
-
 # Animal Laboratory Research Review Request - Help Guide
 ## Purpose
 

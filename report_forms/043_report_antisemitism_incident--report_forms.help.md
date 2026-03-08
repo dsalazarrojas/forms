@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect reports of antisemitism incidents, which are incidents that involve behavior or actions directed towards individuals or groups based on their Jewish identity or perceived Jewishness. This form is intended for reporting such incidents to the relevant authorities or organization.
-
-Before filling out this form, ensure that the incident you are reporting is not a duplicate and that you have not already reported it. To do this, you can check the incident report database or ask the relevant authorities if a similar incident has been reported.
-
-If you are unsure about the purpose or the process of this form, please contact the relevant authorities or organization for guidance.
-</thinking>
-
 # Report Antisemitism Incident - Help Guide
 ## Purpose
 This form is designed to collect reports of antisemitism incidents. Please use this form to provide a detailed report of the incident, including your identity and the incident details.

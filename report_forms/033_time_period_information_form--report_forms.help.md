@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Period Information Form - Help Guide
 ## Purpose
 The Time Period Information Form is designed to collect information about a specific time period, including its start and end dates, name, description, related time periods, status, project ID, and creator. This form is intended to provide a comprehensive overview of a time period, which can be useful for various business needs, such as reporting, analysis, and decision-making.

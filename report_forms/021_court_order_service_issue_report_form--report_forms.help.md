@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect data on issues encountered while serving court orders. It will help the team understand the frequency of service attempts, the number of issues reported, and a detailed description of each issue to identify areas for improvement in the service process. It's essential to fill out this form accurately to provide valuable insights for quality assurance and process optimization. Please ensure you're filling out this form for genuine issues and not duplicate reports. Each attempt and issue should be reported separately, and the form should not be used for routine or minor issues. Only report issues that affect the overall service delivery process.
-
-</thinking>
-
 # Court Order Service Issue Report Form - Help Guide
 ## Purpose
 The Court Order Service Issue Report Form is designed to collect data on issues encountered while serving court orders. This data helps the team identify areas for improvement in the service process, ensuring quality and efficiency.

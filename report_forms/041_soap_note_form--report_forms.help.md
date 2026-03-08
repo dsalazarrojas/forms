@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about patients who are being treated in a medical setting. It's intended for healthcare providers to document their interactions with patients, including patient demographics, medical history, and visit details. The form is likely used in a clinical or hospital setting.
-
-The form's fields cover a range of topics, including patient identification, visit details, and medical notes. It appears to be comprehensive, covering demographics (name, date, gender, race), visit specifics (visit date, visit time, reason for visit), medical conditions, and notes. The form does not require the selection of provider title, patient status, or vital signs, which are often considered optional or secondary information.
-
-The form's design suggests it's meant to be filled out by healthcare providers during or after patient interactions. Given the fields and structure, this form likely serves as a template for documentation and reporting.
-
-Before proceeding to write the help guide, I've identified a few potential issues with the form's design:
-- There's no clear indication of what "patient status" means or how it's used.
-- The form asks for "provider title" but doesn't make it clear what this field represents.
-- The field "allergies" is not strictly necessary since it's not required.
-- "Vital Signs" is a field of type "note", which might be misleading as it's likely expected to be a text field.
-
-</thinking>
-
 # soap_note_form - Help Guide
 ## Purpose
 This form is designed to collect information about patients who are being treated in a medical setting. It's intended for healthcare providers to document their interactions with patients, including patient demographics, medical history, and visit details.

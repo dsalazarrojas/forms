@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advertising Request Form - Help Guide
 ## Purpose
 This form is used to request advertising campaigns for your organization. It helps us understand your advertising needs and goals, allowing us to provide effective and targeted advertising solutions.

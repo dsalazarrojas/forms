@@ -1,13 +1,3 @@
-<thinking>
-This form is used to report and track customer service interactions for a given week. It allows managers to review and analyze the performance of their team members and provide feedback and suggestions for improvement. The report includes various fields that cover key aspects of customer service, such as interaction numbers, resolution rates, satisfaction rates, top issues, and manager notes and approvals. This form is intended for use on a weekly basis to ensure consistent and timely reporting of customer service interactions. It is essential that this form is filled out correctly and thoroughly to provide accurate and meaningful insights for the team and the organization.
-
-Before filling out this form, please ensure that you have a clear understanding of the purpose and requirements of the form. Double-check that you are not duplicating work or reporting unnecessary information.
-
-When filling out this form, please ensure that you are providing accurate and complete information. Review the form carefully and make sure to fill out all required fields. If you are unsure about a particular field, please reach out to your manager or supervisor for guidance.
-
-Please note that this form is used for internal reporting and analysis purposes only. Any sensitive or confidential information should not be included in the report.
-</thinking>
-
 # Customer Service Weekly Interaction Report - Help Guide
 ## Purpose
 This report is a weekly summary of customer service interactions, allowing managers to track and analyze performance and provide feedback and suggestions for improvement.

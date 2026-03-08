@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about fish unloading activities, specifically about the date, vessel, landing site, fish species, quantity, condition, and time of unloading. This form ensures that accurate and consistent data is recorded for each fish unloading event. Please make sure you have all necessary information before filling out this form. Please note that some fields may be optional, but required fields are marked with asterisk (*) after the field label.
-</thinking>
-
 # Daily Fish Unloading Report - Help Guide
 ## Purpose
 The purpose of this form is to collect data about fish unloading activities, including the date, vessel, landing site, fish species, quantity, condition, and time of unloading.

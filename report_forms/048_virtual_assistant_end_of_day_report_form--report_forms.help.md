@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Assistant End Of Day Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Interview Notes Form - Help Guide
 ## Purpose
 The purpose of the Interview Notes Form is to collect and record information about an interview session, including details about the candidate, the conversation, and the rating of the interview. This form is used to facilitate the collection of structured and objective feedback from the interviewer, ensuring consistency and accuracy in assessing candidate performance.

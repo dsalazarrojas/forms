@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for reporting on an employee's performance during a probationary period in an administrative capacity. It collects information on various aspects of the employee's work, such as attendance, punctuality, work quality, and communication skills. The form also includes sections for supervisors to record any incidents or disciplinary actions, areas for improvement, and training needs, as well as their overall recommendation for the employee's future. The form seems to be designed to help managers or supervisors evaluate and provide feedback on an employee's performance during a probationary period. This is a comprehensive report that covers multiple aspects of an employee's work and behavior.
-</thinking>
-
 # Administrative Probation Reporting Form - Help Guide
 ## Purpose
 The purpose of this form is to help supervisors evaluate and provide feedback on an employee's performance during a probationary period. It helps in identifying strengths and areas for improvement, and making informed decisions about the employee's future in the organization.

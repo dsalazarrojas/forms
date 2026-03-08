@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about IT incidents, allowing users to report and track incidents in a structured and organized manner. The form is used for reporting various types of incidents, including security breaches, technical issues, and other IT-related problems. 
-
-The form's purpose is to gather details about the incident, such as its description, category, impact, start and end dates, reporter's information, department involved, priority level, and resolution status. 
-
-Please ensure you only submit one form per incident. Duplicate submissions may cause confusion and affect incident tracking and resolution.
-
-</thinking>
-
 # IT Incident Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...Internal note: This form is designed to gather information for the Human Services Contract Report, which helps track and verify the status of human services contracts. This report is crucial for ensuring the accuracy and completeness of contract-related data. It's essential to complete this form accurately to avoid duplication or incomplete information. Please review the fields carefully to ensure you're providing the necessary details...</thinking>
-
 # Human Services Contract Report - Help Guide
 ## Purpose
 

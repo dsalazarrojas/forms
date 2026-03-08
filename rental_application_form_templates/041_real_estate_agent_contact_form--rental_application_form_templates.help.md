@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect contact information and property details from real estate agents for potential renters or clients. The form includes various fields to capture the contact method, lead source, reality company, property address, contact name, contact email, contact phone, property location, property type, property description, lead status, follow-up date, follow-up time, agent name, agent phone, and agent email. This form is likely used to track and manage leads from real estate agents, providing a structured way to collect and analyze data for real estate business operations.
-
-</thinking>
-
 # real_estate_agent_contact_form - Help Guide
 ## Purpose
 The real_estate_agent_contact_form is designed to collect contact information and property details from real estate agents. It helps track and manage leads from agents, providing a structured way to collect and analyze data for real estate business operations.

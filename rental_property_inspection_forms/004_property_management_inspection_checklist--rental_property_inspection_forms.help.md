@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a comprehensive property management inspection checklist to assess the condition of a rental property. The purpose of this form is to gather information about the property's condition, systems, and maintenance status. This form will likely be used by property managers or inspectors to document the findings and report them to relevant parties. Before starting the inspection, ensure that you have permission to access the property and that you are familiar with the property's history and previous inspections. This form is not intended to be a duplicate of any other property inspection form, so ensure that you are using this form for its intended purpose.
-</thinking>
-
 # Property Management Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the condition and status of a rental property. It will help property managers or inspectors to document their findings and report them to relevant parties.

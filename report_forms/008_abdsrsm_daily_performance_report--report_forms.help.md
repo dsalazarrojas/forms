@@ -1,5 +1,3 @@
-<thinking>As a form designer, when creating a help guide for end-users, I must consider the purpose and structure of the form to ensure that users understand its intended use and how to complete it effectively. In this case, the form "Abdsrsm Daily Performance Report" appears to be a comprehensive report for evaluating employee performance, focusing on tasks, quality, safety, and other key metrics. To create an effective help guide, I will break down the form into sections, explaining each field's purpose and requirements. This guide will help users understand the form's purpose, how to complete it, and what each field means, ensuring they can provide accurate and complete reports.</thinking>
-
 # Abdsrsm Daily Performance Report - Help Guide
 ## Purpose
 The "Abdsrsm Daily Performance Report" is a form used to evaluate an employee's performance during a shift, focusing on tasks completed, quality issues, safety incidents, and other key metrics. This report helps managers and supervisors assess an employee's performance, identify areas for improvement, and provide feedback.

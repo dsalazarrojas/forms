@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from gamers about their gaming experiences, specifically for reporting on why a game was dismissed or terminated. The form is designed to be simple and easy to use, with fields that cover the essential details of the gaming session. The form's purpose is to gather accurate and concise information from players, which can be used for analysis or reporting purposes.
-
-Before proceeding, ensure that the form is not being used to collect redundant or duplicate information. If you're unsure, review the form's content and instructions carefully.
-
-</thinking>
-
 # Gaming Dismissal Report Form - Help Guide
 ## Purpose
 The Gaming Dismissal Report Form is a tool for players to report the reasons behind terminating a game or gaming session. This form helps collect necessary information to provide insights into player behavior and experiences.

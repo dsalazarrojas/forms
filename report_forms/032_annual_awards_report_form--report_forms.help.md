@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from organizations about their awards and recognition programs. The form will help organizations provide a detailed report of their awards, including details such as the number of awards given, recipients, categories, and ceremony information. The form is designed to be completed by the person in charge of submitting the report. Please note that this form is a template and may be subject to changes or updates. Make sure to review the form carefully and ensure that you have all the necessary information before submitting it.
-</thinking>
-
 # Annual Awards Report Form - Help Guide
 ## Purpose
 The Annual Awards Report Form is a template to collect information from organizations about their awards and recognition programs.

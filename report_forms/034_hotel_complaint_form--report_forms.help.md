@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for hotel guests to report any complaints or issues they faced during their stay. It's meant to be completed by the guest themselves, or by a hotel staff member on their behalf. The form will help the hotel understand and address the issue promptly.
-</thinking>
-
 # Hotel Complaint Form - Help Guide
 ## Purpose
 This form is designed to gather information about a guest's experience at the hotel, allowing us to identify and resolve any issues they may have encountered during their stay.

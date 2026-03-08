@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and requirements of the Monthly Treasurer Report Form. The form is intended to be used for reporting monthly financial activities, including income, expenses, and balance. It is crucial to accurately report the income and expenses, as well as the submission date and time, to ensure accurate tracking and analysis of financial data. The form should not be duplicated or submitted for non-relevant purposes.
-</thinking>
-
 # Monthly Treasurer Report Form - Help Guide
 ## Purpose
 The Monthly Treasurer Report Form is a tool for reporting monthly financial activities, including income, expenses, and balance. It is used to track and analyze financial data for the month.

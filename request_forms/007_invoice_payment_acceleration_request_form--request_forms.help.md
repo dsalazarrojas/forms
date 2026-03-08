@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request payment acceleration from a vendor. This process is typically used to expedite payment to a vendor for an invoice that is due soon. It's not meant to be used for general payment requests. To avoid unnecessary requests, please ensure that the payment is truly needed and that the vendor has not been contacted previously.
-</thinking>
-
 # Invoice Payment Acceleration Request Form - Help Guide
 ## Purpose
 The Invoice Payment Acceleration Request Form is used to request expedited payment to a vendor for an invoice that is due soon. This form helps to gather necessary information to facilitate the acceleration of payment.

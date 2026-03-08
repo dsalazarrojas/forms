@@ -1,13 +1,3 @@
-<thinking>
-This form is used for rental application reference requests, where the applicant provides information about their relationship with a referee who can vouch for their rental history and creditworthiness. The referee is typically a landlord, property manager, or other authority figure who can provide information about the applicant's rental history, payment history, and any other relevant details. This form ensures that the applicant provides accurate and complete information about their relationship with the referee, which can help in assessing the applicant's creditworthiness and rental history.
-
-The form is designed to be filled out by the applicant, who will provide information about their relationship with the referee. The form will be used to verify the applicant's information and to provide a written reference for the rental application process.
-
-Before filling out this form, please make sure you have a valid relationship with the referee and that you have their permission to fill out this form. This form should only be used for rental application reference requests and not for any other purpose.
-
-Please note that this form is not intended to be filled out by the referee themselves. If you are the referee, you will not need to fill out this form, but you may be contacted by the rental application team to provide a written reference.
-</thinking>
-
 # Rental Reference Request - Help Guide
 
 ## Purpose

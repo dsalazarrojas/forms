@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the rental credit application form, I'll need to understand the form's purpose, how to complete it, and what each field means. The form appears to be designed to collect information from potential renters to assess their eligibility for rental credit or to gather necessary data for the rental process. The form has multiple sections, including tenant details, address, social security number, employment status, income, and various sections for employment history, rental history, eviction history, and rental property. Each section seems to be focused on gathering specific information to evaluate the individual's creditworthiness or rental eligibility.
-
-To confirm this, I would need more information about the form's specific goals and any business rules or regulations that govern its use. However, based on the structure and field labels, I will create a help guide assuming this is correct.
-
-</thinking>
-
 # rental_credit_application_form - Help Guide
 ## Purpose
 The rental credit application form is designed to collect information from potential renters to assess their eligibility for rental credit or to gather necessary data for the rental process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release a toy collection to a group of people, such as donors or collectors. A release is the act of making a toy collection available for others to claim or adopt. This form helps to gather necessary information about the collection and the release process. Please ensure that you are using this form for its intended purpose and not for other activities such as adding a new collection or editing an existing one.
-</thinking>
-
 # Toy Collection Release Form - Help Guide
 
 ## Purpose
