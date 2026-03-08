@@ -1,0 +1,50 @@
+<thinking>
+
+The privacy policy communication form is used to inform users about an organization's data collection, usage, and sharing practices. This form is crucial for maintaining transparency and accountability between the organization and its users. It's essential to ensure that users understand how their personal data is handled, which can affect their personal rights and interests. 
+
+The purpose of this form is to provide a clear and concise explanation of the organization's data handling practices, allowing users to make informed decisions about their data and its usage.
+
+</thinking>
+
+# privacy_policy_communication_form - Help Guide
+## Purpose
+The privacy policy communication form is used to inform users about an organization's data collection, usage, and sharing practices.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+* Read through each section carefully to understand the organization's data handling practices.
+* Select the relevant options for each section that best describe your understanding of the organization's data handling practices.
+
+## Field-by-Field Explanation
+- **What We Do** (`privacy_practices`, text, optional): Describe the organization's data collection and usage practices in this field.
+- **What We Collect** (`data_collection`, select_one, optional): Select the options that best describe what the organization collects.
+  • Option 1: ...
+  • Option 2: ...
+  • Option 3: ...
+- **Give Us Your Consent** (`consent`, select_multiple, optional): Select the options that best describe your consent.
+  • Option 1: ...
+  • Option 2: ...
+  • Option 3: ...
+- **How We Use Your Data** (`data_use`, text, optional): Describe how the organization uses the collected data.
+- **Who We Share Your Data With** (`data_sharing`, select_one, optional): Select the options that best describe who the organization shares data with.
+  • Option 1: ...
+  • Option 2: ...
+  • Option 3: ...
+- **How You Control Your Data** (`data_control`, text, optional): Describe how users can control their data.
+- **Your Rights** (`data_access`, select_multiple, optional): Select the options that best describe your understanding of your rights.
+  • Option 1: ...
+  • Option 2: ...
+  • Option 3: ...
+- **Contact Us** (`contact_us`, text, optional): If you have any questions or concerns, contact the organization using this field.
+- **Additional Notes** (`notes`, note, optional): Add any additional notes or comments about your understanding of the organization's data handling practices.
+- **Email Address** (`email`, email, optional): Enter your email address to contact the organization.
+- **Phone Number** (`phone`, text, optional): Enter your phone number to contact the organization.
+- **Date Submitted** (`date`, date, optional): The date and time you submit this form will be recorded.
+- **Time Submitted** (`time`, time, optional): The time you submit this form will be recorded.
+- **Category** (`category`, select_one, optional): Select the category that best describes your submission.
+  • Option 1: ...
+  • Option 2: ...
+  • Option 3: ...
+
+Note: The explanations for the options in the select_one and select_multiple fields would depend on the actual options provided in the form schema. You would need to replace "..." with the actual options provided.
