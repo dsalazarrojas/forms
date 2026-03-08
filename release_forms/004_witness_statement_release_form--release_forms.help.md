@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for collecting information from witnesses or individuals who have witnessed an event, incident, or accident. The form captures details about the witness's personal statement, including their statement, statement details, date, time, location, and description of the event. This form helps in gathering accurate and relevant information from witnesses, which can be useful for investigation or documentation purposes.
-
-This form is not intended for any other use and should not be used for any purpose other than collecting witness statements. Please ensure that all fields are filled out accurately and truthfully to avoid any confusion or misinterpretation of the witness's account.
-</thinking>
-
 # Witness Statement Release Form - Help Guide
 ## Purpose
 The Witness Statement Release Form is designed to collect information from witnesses or individuals who have witnessed an event, incident, or accident.

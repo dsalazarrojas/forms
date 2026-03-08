@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about players participating in the Hub City Showcase, an event that showcases local talent. The form is intended to gather personal details, contact information, and preferences to facilitate communication and organization. Please ensure that you only fill out this form once per player. If you have previously registered, your information will not be duplicated.
-</thinking>
-
 # Hub City Showcase - Help Guide
 ## Purpose
 The Hub City Showcase form is used to collect player information for the event. This information will be used to create a database of participants and facilitate communication among organizers, sponsors, and players.

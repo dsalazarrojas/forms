@@ -1,7 +1,3 @@
-<thinking>
-This form is used for SUD (Substance Use Disorder) group participation purposes, where individuals can register their interest to participate in a specific group. The form collects basic demographic information such as name, contact details and some relevant group participation details like schedule and provider information. The non-duplication check is in place to prevent repeated submissions.
-</thinking>
-
 # SUD Group Participation Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in a SUD group. It will help us understand who has expressed interest and when we can schedule their participation in the group.

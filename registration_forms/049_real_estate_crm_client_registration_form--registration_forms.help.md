@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect client registration information for the real estate CRM system. This information will be used to create a client profile and help the CRM system to manage client interactions. 
 
 Before starting the form, please check if you have already registered with us previously. If you are sure you are a returning user, please contact our support team to inquire about reactivating your existing account.

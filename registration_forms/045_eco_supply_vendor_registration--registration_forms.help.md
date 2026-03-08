@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect basic information about a vendor who wants to register with us as an eco supply provider. The form will be used to verify the vendor's details and certifications before allowing them to be listed in our eco-friendly supplier directory. We will not allow vendors who are already registered or have duplicate submissions.
-
-</thinking>
-
 # Eco Supply Vendor Registration - Help Guide
 ## Purpose
 This form is designed to collect information from vendors who want to register with us as eco supply providers. The form will help us verify the vendor's details and certifications.

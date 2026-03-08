@@ -1,14 +1,3 @@
-<thinking>
-The mental health innovation lab registration form is designed to collect relevant information from individuals or organizations seeking to collaborate with our mental health innovation lab. This form is intended for registration and project proposal purposes, and the information collected will be used to evaluate and potentially support projects aligned with the lab's goals and objectives.
-
-The lab is focused on [insert lab's focus area, e.g., mental health research, innovation, and development]. We aim to support projects that align with our core objectives, which include [briefly mention the main goals, e.g., developing novel treatments, improving mental health outcomes, etc.]. Our goal is to facilitate collaboration and innovation among researchers, clinicians, and industry partners.
-
-Before starting, please ensure you are not a duplicate registration. If you have already submitted a project proposal or registered as a participant, please do not submit another entry. This will help us avoid duplicate efforts and streamline the evaluation process.
-
-To ensure we can effectively support your project, please provide accurate and clear information in this form. If you have any questions or need clarification on any field, feel free to contact us.
-
-</thinking>
-
 # Mental Health Innovation Lab Registration Form - Help Guide
 ## Purpose
 The Mental Health Innovation Lab Registration Form is designed to collect information for project registration and proposal purposes. It will be used to evaluate and potentially support projects that align with the lab's objectives.

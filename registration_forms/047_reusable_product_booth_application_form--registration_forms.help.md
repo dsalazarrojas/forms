@@ -1,7 +1,3 @@
-<thinking>
-Before we dive into the guide, let me explain why this form is used internally and why you should complete it accurately. This "Reusable Product Booth Application Form" is used to capture relevant information from vendors interested in showcasing their products. Vendors may be internal or external partners of your company. By filling this form, you will help our internal teams assess their product's fit and compatibility with our business needs. 
-</thinking>
-
 # Reusable Product Booth Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from vendors for the internal assessment of their products. It's essential to complete this form accurately to ensure that our internal teams can evaluate their products efficiently.

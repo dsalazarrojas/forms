@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact and other information from talents (actors, performers, etc.) seeking to register their services with a casting agency. It is likely that this form will be used by casting agents, talent scouts, or other industry professionals who need to gather information from potential talents for auditions, bookings, or other opportunities. To avoid non-duplication, it's recommended to ensure that talents do not fill out this form multiple times. 
-
-</thinking>
-
 # Talent Registration Form For Casting Agency - Help Guide
 ## Purpose
 The purpose of this form is to collect contact and other necessary information from talents (actors, performers, etc.) seeking to register their services with a casting agency.

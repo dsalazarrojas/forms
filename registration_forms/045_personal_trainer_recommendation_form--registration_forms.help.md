@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Trainer Recommendation Form - Help Guide
 
 ## Purpose

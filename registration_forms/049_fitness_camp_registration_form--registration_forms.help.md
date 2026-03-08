@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect basic demographic information from users interested in joining a fitness camp program. It is not meant for camp directors or staff to complete. This form should only be accessed by users who are not already registered in the system. If you are a camp director or staff, please refer to the "Camp Director Registration Form" for your purposes. This form is not meant to be completed in duplicate; each user should only submit one form.
-
-</thinking>
-
 # fitness_camp_registration_form - Help Guide
 ## Purpose
 The fitness camp registration form is a user-facing form designed to collect demographic information from individuals interested in joining a fitness camp program. This form is intended for potential campers and should not be used by camp directors or staff.

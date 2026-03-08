@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for a "Safe Room" registration, which is likely a security-related purpose. This form will likely be used for emergency contact information and location tracking. I will focus on making this explanation clear and concise, avoiding any assumptions about the business logic behind the form.</thinking>
-
 # safe_room_registration_form - Help Guide
 
 ## Purpose

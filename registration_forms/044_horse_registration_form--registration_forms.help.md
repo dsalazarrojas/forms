@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used by horse owners or veterinarians to register horses in a database or system. The form is designed to collect information about a horse, including its breed, age, color, registration date, and registration time. The form may be used for various purposes, such as maintaining a record of registered horses, generating reports, or providing information to veterinary clinics or regulatory agencies. Before filling out this form, ensure that the data you are entering is accurate and up-to-date. You may want to review the form to avoid duplications or errors. For example, ensure that you are not registering the same horse multiple times, or that the registration date and time are correctly entered. If you are unsure about any of the information, please consult the relevant documentation or contact the form owner.</thinking>
-
 # horse-registration-form - Help Guide
 ## Purpose
 The horse-registration-form is used to register horses in a database or system. It collects information about a horse, including its breed, age, color, registration date, and registration time.

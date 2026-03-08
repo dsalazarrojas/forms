@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Release Form - Help Guide
 ## Purpose
 This form is used to manage the release of equipment within the organization. It captures information about the equipment, the user requesting the release, and the details of the release process.

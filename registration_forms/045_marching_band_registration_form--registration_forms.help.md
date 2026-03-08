@@ -1,10 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose of the Marching Band Registration Form and guide them through the process of completing the form.
-
-The purpose of the Marching Band Registration Form is to collect information about students who want to join the marching band. This form is designed to gather essential details about the student, including their identification, contact information, and emergency contact information. Completing this form accurately will ensure that the necessary details are collected for the band's registration process.
-
-</thinking>
-
 # Marching Band Registration Form - Help Guide
 ## Purpose
 The Marching Band Registration Form is used to collect information about students who want to join the marching band. It is essential to provide accurate details in the form to ensure a smooth registration process.

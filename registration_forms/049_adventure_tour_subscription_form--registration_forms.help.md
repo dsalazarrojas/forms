@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from potential subscribers for an Adventure Tour service, allowing them to provide their personal details, preferences, and subscription preferences. This form is a crucial part of the onboarding process for subscribers, ensuring that they can be properly connected with the service and receive relevant information about upcoming tours and events. 
-Before filling out the form, please ensure that you're not already registered with the Adventure Tour service, as you may be contacted to update your information or be automatically subscribed. 
-</thinking>
-
 # Adventure Tour Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential subscribers to the Adventure Tour service. Fill out this form to subscribe to our tour services and receive updates on upcoming tours and events.

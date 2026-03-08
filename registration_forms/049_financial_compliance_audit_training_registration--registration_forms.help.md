@@ -1,11 +1,3 @@
-<thinking>
-
-This is the internal reasoning block to ensure the form purpose and relevance.
-
-The form is intended to be a registration form for financial compliance audit training sessions, allowing users to sign up for sessions that fit their preferences and needs. It is designed to collect essential information about the user, including their contact details, session preferences, and additional comments. The form's purpose is to facilitate effective session planning and organization.
-
-</thinking>
-
 # Financial Compliance Audit Training Registration - Help Guide
 ## Purpose
 The financial compliance audit training registration form is designed to enable users to register for training sessions that suit their needs and preferences. This form collects essential information for session planning and organization.

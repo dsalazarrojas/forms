@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register participants with the Industrial Data Cloud Program. The purpose of this form is to gather information about the participant's organization, experience, and preferences. This form is not meant for general inquiries or sales pitches. Please only fill out this form if you are genuinely interested in joining the Industrial Data Cloud Program. If you have already registered with us, please do not fill out this form again as it may cause duplication of efforts.
-</thinking>
-
 # Industrial Data Cloud Program Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants with the Industrial Data Cloud Program. Please fill out this form to provide us with your organization's information and experience.

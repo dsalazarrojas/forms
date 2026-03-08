@@ -1,7 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Performance Clinic Registration" form, I need to analyze the provided YAML fields and provide a clear and concise explanation of each field. This form appears to be a registration form for participants in a performance clinic, gathering basic information about the participants and their preferences.
-</thinking>
-
 # Performance Clinic Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants to register for a performance clinic. Please fill out this form to provide your details and express your preferences for the clinic.

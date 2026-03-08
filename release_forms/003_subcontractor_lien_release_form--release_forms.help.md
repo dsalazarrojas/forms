@@ -1,23 +1,3 @@
-<thinking>
-We need to determine the internal logic behind this form. The form seems to be related to the release of liens on a construction project. A lien release form is used to inform the relevant parties that a lien claim is being satisfied or released. This form likely serves as a way to communicate this information to relevant stakeholders, such as general contractors, subcontractors, or other parties involved in the project. It is crucial to ensure the form is completed accurately and consistently to avoid confusion and potential disputes. To ensure the correct completion of this form, it is essential to carefully review each field and its corresponding label. The form appears to be designed for completion by a general contractor or subcontractor, and the fields seem to cover essential details about the job, project, and payment. 
-
-The internal logic also suggests that this form may be used in conjunction with other forms or documents, such as payment records, project contracts, or other relevant project documents. Ensuring the form is completed accurately and without duplication will help maintain a clear and organized record of the project's progress and payment.
-
-To prevent duplication, the following fields should be verified for consistency and accuracy before submission:
-- Job Number
-- Job Description
-- Job Site
-- Lien Amount
-- General Contractor Name
-- General Contractor Address
-- Job Site Address
-- Job Site City
-- Job Site State
-- Job Site Zip
-
-Before proceeding, ensure all required fields are filled out completely and accurately to avoid incomplete forms and potential errors.
-
-</thinking>
 # Subcontractor Lien Release Form - Help Guide
 ## Purpose
 This form is used by a subcontractor to release a lien claim on a construction project. It informs relevant parties that the lien claim is being satisfied or released.

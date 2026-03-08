@@ -1,7 +1,3 @@
-<thinking>
-The mission_trip_sign_up_form is used to register a user for a mission trip. The form should only be filled out by users who are authorized to participate in the trip. This form is part of a series of forms that will likely be filled out in order, and the user should not fill out this form if they have already completed the preceding forms in the series.
-</thinking>
-
 # mission_trip_sign_up_form - Help Guide
 ## Purpose
 The mission_trip_sign_up_form is used to register a user for a mission trip. This form captures essential information needed for trip registration, including personal details and trip specifics.

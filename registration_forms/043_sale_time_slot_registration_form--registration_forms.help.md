@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to register a sale event with the customer's information. The form is part of a broader system for managing sales data. 
-This form should not be used if the sale has already been registered in the system or if the customer has already opted out of receiving emails from the system.
-
-</thinking>
-
 # Sale Time Slot Registration Form - Help Guide
 ## Purpose
 The Sale Time Slot Registration Form is used to register a sale event with the customer's information, including their name, email, phone number, and other relevant details.

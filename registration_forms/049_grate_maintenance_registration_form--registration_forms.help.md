@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is used for maintenance registration for Grates, which are critical assets that require regular maintenance. The purpose of this form is to collect necessary information for the maintenance process, ensuring that all relevant fields are completed accurately and thoroughly. Before proceeding, ensure you are registering the correct Grate ID and that this is not a duplicate registration. If you have any questions or concerns, please reach out to our support team.</thinking>
-
 # Grate Maintenance Registration Form - Help Guide
 ## Purpose
 This form is used for maintenance registration of Grates, ensuring the collection of necessary information for the maintenance process.

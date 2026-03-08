@@ -1,16 +1,3 @@
-<thinking>
-To confirm, the form is for registering participants to a Smart Lodging Technology Workshop. This form aims to collect relevant information from potential attendees, including personal details, accommodation preferences, and interests in specific sessions. 
-
-Before filling out the form, please ensure you have not already registered for this event. If you're not sure, you can check your previous registrations or contact our support team to confirm.
-
-This form is designed to be filled out by one person at a time. If you're registering multiple people, please fill out the form multiple times, once for each person.
-
-Please note that the fields requiring a "Yes" or "No" answer are intended to help us gauge your interests in specific sessions. You can select all or some of the options that apply to you.
-
-Now, let's go through the form fields:
-
-</thinking>
-
 # Smart Lodging Technology Workshop Registration - Help Guide
 ## Purpose
 The Smart Lodging Technology Workshop Registration form is designed to collect information from participants interested in attending the workshop. This form helps us understand your interests, preferences, and any special requirements you may have.

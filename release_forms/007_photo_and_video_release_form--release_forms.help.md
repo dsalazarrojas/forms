@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the Photo And Video Release Form is completed correctly and accurately, we first need to determine if it's being used for its intended purpose. This form is typically used to obtain permission from clients for the use of their likeness, property, or other materials. Before filling out the form, please review the following instructions to avoid duplication of effort and ensure the correct information is provided.
 
 ## Photo And Video Release Form - Help Guide

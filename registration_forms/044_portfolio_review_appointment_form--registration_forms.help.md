@@ -1,20 +1,3 @@
-<thinking>
-To confirm, this form is used to schedule a portfolio review appointment for a client. The purpose of this form is to gather information about the client's preferred date and time for the review, as well as their availability for a meeting. 
-
-The form is designed to be completed by the client or their representative, and the information collected will be used to schedule the review meeting at the preferred date and time. 
-
-This form will be used in conjunction with other forms and data to schedule and follow up on the review meeting. 
-
-Please note that this form is not meant to be used for other purposes, and any attempts to use it for other purposes may lead to errors or incorrect scheduling. 
-
-Before filling out this form, please ensure that you have the necessary permissions and access to complete it. 
-
-Also, please note that the fields marked as "required" are mandatory and need to be filled out in order to proceed with the scheduling process. 
-
-The form will guide you through the process of scheduling a portfolio review appointment, and please follow the instructions carefully to ensure that you submit the correct information. 
-
-</thinking>
-
 # Portfolio Review Appointment Form - Help Guide
 ## Purpose
 

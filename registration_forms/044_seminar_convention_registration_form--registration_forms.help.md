@@ -1,11 +1,3 @@
-<thinking>
-This form is for users to register for the Seminar Convention. To ensure accurate completion of the form, please review the following guidelines:
-* Each field is labeled with its corresponding name and type. Required fields are marked as such.
-* Please ensure that you have a valid email address for email fields.
-* For fields with options, choose one from the provided options or leave blank if not applicable.
-* Review all options for Payment Method before submitting.
-</thinking>
-
 # Seminar Convention Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register for the Seminar Convention. Please use this guide to fill out the form correctly.

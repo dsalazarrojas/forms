@@ -1,10 +1,3 @@
-<thinking> 
-This form is used for attendees to register for the Chronic Disease Data Science Symposium. The purpose of the form is to gather necessary information from attendees in order to facilitate a smooth and enjoyable experience for all participants. This includes collecting attendee information, preferences, and requirements for the symposium, such as attendance selection, session tracks, and presentation needs. Additionally, the form collects payment and accommodation information to ensure a seamless registration process. It also includes fields for attendees to express their interests in networking and visiting exhibitors, as well as how they heard about the symposium.
-
-The form consists of multiple sections, including attendee information, professional information, attendance selection, presentation needs, and payment information. The attendee information section includes fields for full name, email address, phone number, job title, and organization. The professional information section includes fields for job title, organization type, field of expertise, years of experience, and symposium date. The attendance selection section includes fields for attendance selection and session tracks of interest. The presentation needs section includes fields for abstract submission, workshop selection, and equipment needs. The payment information section includes fields for registration type, payment method, and accommodation needs. Finally, the networking and travel sections are included to collect information on attendees' preferences and interests.
-
-</thinking>
-
 # Chronic Disease Data Science Symposium Registration - Help Guide
 ## Purpose
 The Chronic Disease Data Science Symposium Registration Form is designed to collect necessary information from attendees to ensure a smooth and enjoyable experience for all participants. This form gathers information on attendee preferences, requirements, and interests, including attendance selection, session tracks, and presentation needs.

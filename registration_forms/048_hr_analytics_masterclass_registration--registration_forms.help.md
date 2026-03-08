@@ -1,9 +1,3 @@
-<thinking>
-This form is used for HR professionals to register for an HR Analytics Masterclass. 
-The purpose of this form is to gather information about the registrants, their experience level, session preferences, and contact details. 
-The form will be used to track registrations and provide relevant information to the event organizers.
-</thinking>
-
 # HR Analytics Masterclass Registration - Help Guide
 
 ## Purpose

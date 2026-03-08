@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect player team commitment form data from parents or players, ensuring the player's and parent's commitment to the team and emergency contact information in case of an emergency. This form will be used by coaches, parents, and administrators to ensure a player's safety and well-being. Before filling out this form, please check if you have already filled out a similar form.
-
-</thinking>
-
 # Player Team Commitment Form - Help Guide
 ## Purpose
 The Player Team Commitment Form is a crucial document that requires the player and parent's commitment to the team, as well as emergency contact information. Please read carefully and fill out the form accurately to avoid any errors.

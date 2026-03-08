@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather information from users about an upcoming "Future Economy Event." The purpose of this form is to collect user data, event details, and event organizers. 
-
-The form does not have any specific requirements for completion, but it's recommended that users fill out all the fields for the best experience. If a user skips a field, they can still submit the form, but they might miss out on valuable information. The form was designed to be user-friendly and adaptable, so users can fill it out at their convenience. It's also worth noting that this form was generated using AI and is not affiliated with any proprietary form platforms. 
-
-</thinking>
-
 # Future Economy Event Registration - Help Guide
 ## Purpose
 The Future Economy Event Registration form is designed to collect information from users about an upcoming event. It gathers user data, event details, and event organizers, allowing organizers to prepare and manage their event smoothly.

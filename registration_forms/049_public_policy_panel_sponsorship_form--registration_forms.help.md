@@ -1,11 +1,3 @@
-<thinking>
-We have a form for registering Public Policy Panel sponsorships. This form is used to gather information from potential sponsors to determine their level of commitment and involvement in the public policy panel. We will be using this form to ensure that we have a clear understanding of each sponsor's goals, expectations, and requirements for the sponsorship.
-
-Before starting, please note that some fields on this form are optional and only required for specific sponsor categories. It's essential to fill in all relevant information accurately to ensure proper processing of your sponsorship application.
-
-Also, ensure that the sponsor is aware that this form must be filled out for each event they wish to sponsor.
-</thinking>
-
 # Public Policy Panel Sponsorship Form - Help Guide
 ## Purpose
 The Public Policy Panel Sponsorship Form is used to gather information from potential sponsors for public policy panel events. It helps us understand each sponsor's goals, expectations, and requirements for the sponsorship.

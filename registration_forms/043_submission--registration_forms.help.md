@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # submission - Help Guide
 ## Purpose
 This form is for users to submit their personal information for registration purposes. It is a critical part of the registration process that allows us to get your details right.

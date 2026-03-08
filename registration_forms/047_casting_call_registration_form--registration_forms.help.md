@@ -1,16 +1,3 @@
-<thinking>
-We're going to create a comprehensive help guide for a Casting Call Registration Form, ensuring that end-users understand the purpose and usage of each field.
-
-To confirm the purpose and scope of this form, we've taken a few key considerations into account:
-
-* The form is called "Casting Call Registration Form".
-* The form appears to be used for casting purposes.
-* Each field in the form seems to be logically categorized into sections: Audition Information, Production Details, Performer Information, Professional Information, and more.
-
-To avoid duplication, we'll be sure to keep the explanations concise and to the point.
-
-</thinking>
-
 # Casting Call Registration Form - Help Guide
 ## Purpose
 This form is used for registration and submission to casting calls. It collects essential information from performers to facilitate the casting process.

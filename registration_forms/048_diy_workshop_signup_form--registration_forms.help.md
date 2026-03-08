@@ -1,5 +1,3 @@
-<thinking>...checking if this form is for internal use, not a public-facing form, and if the form purpose is to collect data for internal workshops and events... checking if the form collects information for different types of workshops and if the form has any required fields... form looks like it's for collecting data for workshops, likely for an organization or company... checking if any fields are required or have specific instructions... thinking... </thinking>
-
 # DIY Workshop Signup Form - Help Guide
 ## Purpose
 This form is for workshop organizers to collect information and registrations for internal workshops and events. It gathers data on attendees' details, workshop specifics, and other relevant information.

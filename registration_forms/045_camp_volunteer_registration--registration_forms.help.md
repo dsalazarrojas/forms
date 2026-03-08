@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who want to volunteer at a camp or similar program. The purpose of this form is to gather contact information, background details, and other relevant data to ensure the volunteer's safety, efficiency, and effectiveness during their volunteering period. The form also includes fields to collect medical information, background check consent, and volunteer participation agreement. 
-
-</thinking>
-
 # Camp Volunteer Registration - Help Guide
 ## Purpose
 The Camp Volunteer Registration form is a crucial tool to collect essential information from potential volunteers to provide a safe, efficient, and effective volunteering experience. 

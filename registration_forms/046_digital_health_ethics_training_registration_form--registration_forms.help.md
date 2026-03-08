@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Health Ethics Training Registration Form - Help Guide
 ## Purpose
 

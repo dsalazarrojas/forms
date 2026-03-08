@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request the release of an artifact for display in a specific venue or institution. The form is used by the owner or lender of the artifact to provide necessary information for the release process. This form is not intended for artifacts that are already released or have expired. Please ensure that the artifact is not already being displayed or released before filling out this form.
-</thinking>
-
 # Artifact Display Release Form - Help Guide
 ## Purpose
 The Artifact Display Release Form is used to request the release of an artifact for display in a specific venue or institution. This form gathers necessary information for the release process and ensures that the artifact is properly handled and displayed according to the owner's or lender's conditions.

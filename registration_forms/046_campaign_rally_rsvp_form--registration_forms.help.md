@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering attendees for a campaign rally event. It captures information required for event organizers to manage attendee data and communicate effectively. This guide will help users understand the purpose and requirements of the form to ensure accurate and helpful completion.
-</thinking>
-
 # Campaign Rally RSVP Form - Help Guide
 
 ## Purpose

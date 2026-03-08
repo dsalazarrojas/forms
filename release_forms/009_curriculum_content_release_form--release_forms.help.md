@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a curriculum content release. The purpose of this form is to ensure that all necessary details are gathered for the release of a new or updated curriculum content. This form should only be filled out when you are requesting to release a new or updated curriculum content for approval. You should not fill out this form for any other purpose.
-</thinking>
-
 # Curriculum Content Release Form - Help Guide
 
 ## Purpose

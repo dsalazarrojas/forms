@@ -1,12 +1,3 @@
-<thinking>
-This form is for the registration of an online hitting program. This form is designed to collect information from users who are interested in participating in a hitting program. The form will ask for details such as the date and time of the hitting, location, coach's name, level of experience, and other relevant information. To ensure that users can provide accurate information, the form will ask for a valid email address and phone number.
-
-To prevent users from duplicating their registrations, the form will check for duplicates based on the user's email address.
-
-Please ensure that you have filled out the form correctly and provided accurate information before submitting it.
-
-</thinking>
-
 # Online Hitting Program Registration - Help Guide
 ## Purpose
 This form is for registering for an online hitting program. It will help us understand your hitting preferences and schedule.

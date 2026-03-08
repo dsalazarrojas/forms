@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose of this form, let's analyze the provided YAML fields:
 
 * The form title is "Join The Global Network", which suggests that this form is intended for people to join a network, potentially a professional or social network.
@@ -7,8 +5,6 @@ To determine the purpose of this form, let's analyze the provided YAML fields:
 * The fact that "Submit" is the last field suggests that this form is meant for submission of some kind, likely to register or enroll in the network.
 
 This form appears to be a registration form for the Global Network.
-
-<thinking>...</thinking>
 
 # Join The Global Network - Help Guide
 ## Purpose

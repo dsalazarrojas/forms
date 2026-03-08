@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Photography Copyright Release Form", I will consider the form's purpose, fields, and options to provide a clear and concise explanation for end users. This form is used to release copyright ownership and permissions for a photograph, allowing users to specify the terms and conditions of its use.
-
-</thinking>
-
 # Photography Copyright Release Form - Help Guide
 ## Purpose
 The Photography Copyright Release Form is a document that allows you to release the copyright ownership of a photograph and set the terms and conditions for its use. This form is used to grant permission for others to use your photograph, and by filling it out, you can specify how and when it can be used.

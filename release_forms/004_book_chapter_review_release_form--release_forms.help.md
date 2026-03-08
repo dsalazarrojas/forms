@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect reviewer feedback and ratings for book chapters. The form will guide reviewers through the process of providing constructive feedback on content quality, clarity, and other aspects of the chapter, as well as their overall rating and recommendation for publication. By filling out this form, reviewers can help authors improve their work.
-To ensure the form is filled out accurately and without errors, it is recommended that the reviewer reviews the form thoroughly before submitting it.
-This form is designed to gather feedback for book chapters, specifically the reviewer's name, email, institutional affiliation, book title, author, chapter number, chapter title, review date, ratings, and other feedback. The form ensures that all the necessary information is collected in a structured and organized way.
-The following sections explain each field in the form:
-
-</thinking>
-
 # Book Chapter Review Release Form - Help Guide
 ## Purpose
 The Book Chapter Review Release Form is designed to collect reviewer feedback and ratings for book chapters. This form helps guide reviewers through the process of providing constructive feedback on content quality, clarity, and other aspects of the chapter, as well as their overall rating and recommendation for publication.

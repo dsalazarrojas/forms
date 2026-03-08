@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Fitness Transformation Challenge Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in participating in the Online Fitness Transformation Challenge. This form helps us understand your goals, current fitness level, and medical conditions to provide a safe and effective transformation experience.

@@ -1,7 +1,3 @@
-<thinking>
-The Career Fair Attendance Form is designed to help attendees register their interest and provide necessary information for a smooth and organized event. This form is not intended for internal use within an organization, but rather for external stakeholders such as students, job seekers, or attendees who are interested in attending the career fair. To ensure the form is completed correctly, please note that all required fields (marked as "True" in the "required" field) must be filled out accurately and truthfully. Please do not duplicate registrations, as this may cause confusion and affect the accuracy of event planning. If you are unsure about any field, please refer to this guide for clarification.
-</thinking>
-
 # Career Fair Attendance Form - Help Guide
 ## Purpose
 The Career Fair Attendance Form is a registration tool for attendees to provide their information and express their interest in attending the career fair. It is used to collect necessary details to ensure a smooth and organized event.

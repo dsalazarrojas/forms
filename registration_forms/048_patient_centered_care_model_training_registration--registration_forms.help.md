@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to collect information from trainees who will be participating in the Patient Centered Care Model Training program. This form is a registration form that will help us understand who is enrolled in the program, which programs they are interested in, and their contact information. We use this form to ensure that we have accurate and up-to-date information about our trainees. Please note that this form is not intended for current trainees who have already been registered in the past. If you are a current trainee, please do not fill out this form again.
-</thinking>
-
 # Patient Centered Care Model Training Registration - Help Guide
 ## Purpose
 This form is a registration form for the Patient Centered Care Model Training program. It is used to collect information from trainees who are interested in participating in the program.

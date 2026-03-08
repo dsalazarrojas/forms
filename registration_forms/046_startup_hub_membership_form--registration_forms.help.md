@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for startups to register with the Startup Hub, a platform that provides resources and support for businesses in their early stages. The form is used to collect information about the startup, its founders, and its business details. This information will be used to create a member profile, which will grant access to exclusive resources and networking opportunities. 
-</thinking>
-
 # Startup Hub Membership Form - Help Guide
 ## Purpose
 The Startup Hub Membership Form is designed to collect essential information about your startup to facilitate its registration and integration with our platform.

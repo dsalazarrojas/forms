@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "mom_s_community_registration_form" form is to collect information about an individual's personal details and family status. This form is likely used for registration or enrollment purposes within a community, such as a neighborhood, club, or organization. The form is meant to be completed by an individual to provide their basic contact information, family status, and demographic details.
-
-To ensure the form is completed correctly and relevant, please note that the form's fields are designed to be used in conjunction with each other. For example, the "Number of Children" field should be completed in conjunction with the "Child Names" and "Child Age" fields. Similarly, the "Family Status" field is related to the "Married", "Single", "Divorced", and "Widowed" options. The form should not be completed multiple times with the same information.
-
-This form is intended to be simple and easy to use, with clear and concise field labels. However, if you have any questions or concerns about the form, please refer to the field-by-field explanation below.
-</thinking>
-
 # Mom's Community Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic contact information and family status details from individuals registering with the community.

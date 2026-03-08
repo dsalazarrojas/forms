@@ -1,7 +1,3 @@
-<thinking>
-Please note that this help guide is designed to assist users in completing the public health digital campaign training registration form. The form's purpose is to register users for training sessions in support of public health initiatives. To ensure accuracy, only one registration will be allowed per user, and if a user is already registered, an error message will be displayed indicating that they are already registered and cannot be registered again.
-</thinking>
-
 # public_health_digital_campaign_training_registration_form - Help Guide
 ## Purpose
 

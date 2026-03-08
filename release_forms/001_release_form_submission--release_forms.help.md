@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for release forms, which are crucial for the smooth execution of events and activities. It's essential that the form is filled out correctly to avoid delays and ensure a successful release. Please ensure you've reviewed the form carefully before submission to avoid duplication of efforts and potential errors. 
-</thinking>
-
 # Release Form Submission - Help Guide
 ## Purpose
 The Release Form Submission is a critical document used to record and manage participant releases for events and activities. This form captures essential details about the participant, including their contact information, event specifics, and consent details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register themselves for a Mobile App Design Bootcamp. The purpose of the form is to gather essential information from participants, such as their name, email, phone number, preferred bootcamp dates, and payment method. The form also includes fields for participants to confirm their enrollment and select their assigned tool. The fields are designed to be completed by the participant, who will be able to provide their preferred bootcamp dates and time, as well as their preferred payment method. The form is meant to be a simple and efficient way for participants to register for the bootcamp.
-</thinking>
-
 # Mobile App Design Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is for participants to register for the Mobile App Design Bootcamp. Fill out the form to provide your registration details.

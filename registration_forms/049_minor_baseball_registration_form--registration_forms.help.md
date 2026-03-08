@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Minor Baseball Registration Form.
-The form is designed to collect information from minor baseball players, including their personal details, contact information, team information, emergency contact details, and parent information. The form is likely used by baseball organizations or leagues to gather essential data from young players, their families, and emergency contacts.
-This guide will provide a clear explanation of each field to ensure users fill out the form accurately and efficiently.
-</thinking>
-
 # Minor Baseball Registration Form - Help Guide
 ## Purpose
 The Minor Baseball Registration Form is a tool used to collect vital information from minor baseball players to ensure their safety and successful participation in the league.

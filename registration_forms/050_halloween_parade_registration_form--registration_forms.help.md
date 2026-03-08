@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicate registrations and ensure accurate information, the form is designed to gather necessary details for the Halloween Parade registration process. The purpose of this form is to collect participant information, including name, age, contact details, and parade preferences. The form has multiple fields to accommodate for various needs and requirements.
-</thinking>
-
 # Halloween Parade Registration Form - Help Guide
 ## Purpose
 

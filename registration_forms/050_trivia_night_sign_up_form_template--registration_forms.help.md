@@ -1,9 +1,3 @@
-<thinking>
-This form template is designed for teams to sign up for a trivia night event. It gathers information about the group, team members, and each player. The purpose of this form is to ensure accurate and efficient registration for the event, helping the organizers to better understand the teams participating and plan the event accordingly.
-
-This form should only be filled out once per team. If you're signing up with the same team, please do not submit this form multiple times. If you're signing up as an individual player, please ensure that all the fields related to the player are filled in correctly.
-</thinking>
-
 # Trivia Night Sign Up Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from teams and players participating in the trivia night event.

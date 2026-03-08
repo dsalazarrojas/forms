@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist end-users in filling out the Learning And Development Society Membership Form. This form is designed to collect information from potential members about their personal and professional details. Please ensure that you are filling out this form with accurate and relevant information. Before proceeding, verify that you have not submitted this form previously.
-</thinking>
-
 # Learning And Development Society Membership Form - Help Guide
 ## Purpose
 The Learning And Development Society Membership Form is designed to collect information from potential members about their personal and professional details. This information will be used to create a member profile, which will be used to facilitate communication and collaboration within the Learning And Development Society community.

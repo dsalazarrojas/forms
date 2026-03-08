@@ -1,10 +1,3 @@
-<thinking>
-This form is for library users to reserve a study room in the library. The form is designed to collect information from users to ensure that the study room is reserved for the intended purpose and to provide a smooth study experience. Before filling out the form, please check that:
-- You have the correct room type for your needs.
-- You have not reserved the room already.
-- You have not exceeded the maximum study room capacity.
-</thinking>
-
 # Library Study Room Reservation Form - Help Guide
 ## Purpose
 The Library Study Room Reservation Form is used to reserve a study room in the library. Please use this form to request a study room for your needs.

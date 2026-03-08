@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect participant details, event information, contact details, and payment information for an event registration process. The goal is to gather relevant data to manage participant registration efficiently. To ensure relevance, this form is not affiliated with, endorsed by, or derived from any proprietary form creation platforms. The form's structure and content are original adaptations inspired by public survey topic metadata, and it is released under the Creative Commons 4.0 license. 
-
-</thinking>
-
 # Event Registration Form - Help Guide
 
 ## Purpose

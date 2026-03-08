@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from a client or patient about their liability and treatment. 
-The form is meant to be completed when the client or patient is providing consent for a medical or dental treatment. 
-This form should be completed for all clients or patients. 
-The purpose of this form is to ensure that the client or patient is aware of the risks and benefits of the treatment, and to provide a legal release of liability.
-</thinking>
-
 # Liability Release And Treatment Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from a client or patient about their liability and treatment for medical or dental procedures. It is meant to be completed by the client or patient before treatment, to ensure they are aware of the risks and benefits of the treatment and to provide a legal release of liability.

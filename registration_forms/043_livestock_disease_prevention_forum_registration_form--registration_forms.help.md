@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from users for the Livestock Disease Prevention Forum. The form is used to collect basic contact information and preferences for the forum members. There are two pages in the form, and it is not required to fill out all fields. The purpose of the form is to register users for the forum, and it is not intended to be reused or duplicated. Please fill out the form carefully to avoid duplication of effort.
-</thinking>
-
 # Livestock Disease Prevention Forum Registration Form - Help Guide
 ## Purpose
 The Livestock Disease Prevention Forum Registration Form is designed to collect basic contact information and preferences from users who want to join the forum. Please fill out the form to register for the forum.

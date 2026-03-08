@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for attendees to register for an Employee Satisfaction Survey Workshop. It collects information about the registration details, attendee details, preferred dates, dietary requirements, discussion topics, date, time, notes, and comments for the event. The form is designed to capture relevant information that will help the organizers plan and execute the workshop efficiently. 
-
-This form will be filled out by attendees who are interested in attending the workshop. It's crucial that each field is completed carefully and accurately to ensure that the attendee's preferences are considered during the event planning process.
-
-To prevent duplicate registrations, please note that only one registration per attendee is allowed.
-
-</thinking>
-
 # Employee Satisfaction Survey Workshop Registration - Help Guide
 
 ## Purpose

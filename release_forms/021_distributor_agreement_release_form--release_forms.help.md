@@ -1,8 +1,3 @@
-<thinking>
-This form is a Distributor Agreement Release Form, which is used to document the release of a distributor from their agreement with a company. This form is used to collect information from the distributor, such as their name, the date of the agreement, the reason for their removal from the agreement, and the effective date of the removal. This form is designed to be completed by a distributor who is being released from their agreement with a company, and it is meant to be used as a reference for the company to keep track of past agreements and releases.
-
-</thinking>
-
 # Distributor Agreement Release Form - Help Guide
 ## Purpose
 The Distributor Agreement Release Form is a document used to officially release a distributor from their agreement with a company.

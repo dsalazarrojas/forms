@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to obtain a client's consent, acknowledgement of risks, and other necessary information to provide massage services. The form must be completed by the client and the business providing the massage services. Each field has a specific purpose, as outlined below:
 
 # Massage Service Release Form - Help Guide

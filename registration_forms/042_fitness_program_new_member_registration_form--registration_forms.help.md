@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering a new member in the fitness program. To verify, a member must have not already registered. This form is used to capture essential information about the new member.
-</thinking>
-
 # Fitness Program New Member Registration Form - Help Guide
 ## Purpose
 This form is used to register a new member in the fitness program. Please use this form only if you have not already registered for the program.

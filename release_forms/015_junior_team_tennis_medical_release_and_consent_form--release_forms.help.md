@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

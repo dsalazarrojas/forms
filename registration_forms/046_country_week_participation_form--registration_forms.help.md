@@ -1,7 +1,3 @@
-<thinking>
-We will be designing a help guide for a form used to collect information from participants for the Country Week event. Before we start, let's clarify the purpose and any specific requirements for completing this form. Please note that the form is designed to collect data for a single participant at a time. This form will be used to gather details about the participant, including their email and name. Since the form is not required, participants are not obligated to fill it out. We will make sure to cover all fields clearly in the help guide to ensure participants understand what to expect.
-</thinking>
-
 # Country Week Participation Form - Help Guide
 ## Purpose
 The Country Week Participation Form is designed to collect information from participants for the Country Week event. This form is not mandatory, and participants are free to fill it out as per their convenience. The gathered data will be used to keep a record of participant information for the event.

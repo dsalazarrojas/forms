@@ -1,6 +1,3 @@
-<thinking>
-This form is an "Audio Release Form" used to document the transfer of ownership and rights related to an audio work. This form helps ensure that all parties involved are aware of the terms of the transfer and provides a record of the agreement. This form is intended to be filled out by the party transferring the rights (Assignor) to the party receiving the rights (Assignee). Please ensure that you have reviewed this form carefully before submitting it as it requires a digital signature from the Assignor. Ensure the form is completed accurately and consistently with the terms of the agreement. This form may need to be reviewed and revised based on specific circumstances or jurisdictional laws and regulations.
-</thinking>
 # Audio Release Form - Help Guide
 ## Purpose
 The Audio Release Form is a document used to transfer ownership and rights related to an audio work from the Assignor to the Assignee.

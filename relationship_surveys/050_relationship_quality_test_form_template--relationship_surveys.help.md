@@ -1,7 +1,3 @@
-<thinking>... The form "relationship_quality_test_form_template" is designed to assess the quality and dynamics of a relationship. It is intended for use in a therapeutic setting, such as a mental health clinic or counseling practice. This form helps identify key aspects of a relationship that can be areas of focus for the therapist, client, or both. To complete this form, the client and therapist work together to answer questions about the relationship's characteristics and challenges. 
-
-</thinking>
-
 # relationship_quality_test_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a client's relationship, including its length, quality, and dynamics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dating Questionnaire - Help Guide
 
 ## Purpose

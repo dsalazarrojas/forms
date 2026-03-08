@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Registration Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information and payment details for childcare registration, including payment date, child and parent/guardian information, program selection, and payment method. This form is required for all new and returning students, as well as for students transferring from another program.

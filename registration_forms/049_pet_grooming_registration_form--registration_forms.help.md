@@ -1,18 +1,3 @@
-<thinking>
-This help guide will cover the Pet Grooming Registration Form, a crucial tool for pet owners to provide accurate and timely information about their pets' grooming needs and preferences.
-To confirm, this form is used in the "registration_forms" category, and its primary purpose is to gather relevant details from pet owners for pet grooming services.
-The form consists of eight (8) fields, each with its specific function:
-- Pet Information (Field 1)
-- Owner Information (Field 2)
-- Appointment (Field 3)
-- Contact Info (Field 4)
-- Pet Health (Field 5)
-- Services (Field 6)
-- Additional Services (Field 7)
-- Payment Info (Field 8)
-Each field is designed to collect specific data for efficient processing and service delivery.
-</thinking>
-
 # Pet Grooming Registration Form - Help Guide
 ## Purpose
 The Pet Grooming Registration Form is designed to collect information about your pet's details, preferences, and requirements for grooming services. Please provide accurate and complete information to help us better serve your pet's needs.

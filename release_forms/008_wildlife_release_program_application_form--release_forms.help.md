@@ -1,21 +1,3 @@
-<thinking>
-To determine the form purpose and ensure relevance, let's analyze the form fields. The purpose of the "wildlife_release_program_application_form" is likely for applicants to provide information about a wildlife release program, which may involve releasing animals back into the wild after rehabilitation or conservation efforts. This form could be used to collect demographic and contact information from the applicants, likely for program management and follow-up purposes.
-
-To determine non-duplication, let's consider the form fields:
-
-- `species_id`: This field might be used to select or enter the species of animal being released.
-- `animal_weight`: This field is likely for entering the weight of the animal.
-- `animal_health`: A text field for commenting on the health status of the animal.
-- `release_date`: This field could be used for scheduling the release date of the animal.
-- `release_location`: The location where the animal will be released.
-- `name`: A field for entering the applicant's name.
-- `email`: An email address for the applicant.
-- `phone`: A field for entering the applicant's phone number.
-
-The form might be used by program administrators or coordinators to review and manage applications for releasing animals into the wild. To avoid duplication, the form could be designed to ensure that each applicant can only submit one application per species and release date. 
-
-</thinking>
-
 # wildlife_release_program_application_form - Help Guide
 ## Purpose
 The wildlife_release_program_application_form is a form designed for applicants to provide information for the wildlife release program. This program aims to release animals back into the wild after rehabilitation or conservation efforts.

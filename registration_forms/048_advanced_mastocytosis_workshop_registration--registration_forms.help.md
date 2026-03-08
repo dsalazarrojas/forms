@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants to register for the Advanced Mastocytosis Workshop. This form is used to collect details such as participant name, institution or practice, medical specialty, contact information, workshop selection, session interests, dietary preference, payment information, and other relevant details. To ensure accurate and efficient processing of registrations, we check for duplication and ineligibility. Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # Advanced Mastocytosis Workshop Registration - Help Guide
 
 ## Purpose

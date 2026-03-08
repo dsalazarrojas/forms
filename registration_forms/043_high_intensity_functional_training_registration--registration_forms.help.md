@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect personal and registration information from individuals interested in participating in High Intensity Functional Training. The purpose of this form is to gather necessary details from registrants, including their personal details and emergency contact information. This form is intended to be completed by individuals who wish to register for the High Intensity Functional Training program. It is essential to complete this form accurately and thoroughly to ensure that the registration process is done correctly.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and its originality is based on the public metadata of the survey topic. The form is released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to use, modify, and even sell derived forms while giving credit.
-
-Before proceeding, please take a moment to review the form and ensure you're submitting the correct information. If you're unsure or need clarification, don't hesitate to reach out to our support team at form@gic.mx.
-</thinking>
-
 # High Intensity Functional Training Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals interested in participating in High Intensity Functional Training.

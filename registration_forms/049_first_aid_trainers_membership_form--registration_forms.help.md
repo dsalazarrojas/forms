@@ -1,6 +1,3 @@
-<thinking> 
-We're going to create a help guide for the "First Aid Trainers Membership Form" that will help users understand its purpose, how to complete it, and what each field means. This form is designed for individuals who want to join the first aid trainers team, and it's crucial to get the necessary information from each applicant. To ensure that users are completing the form correctly, we'll provide clear explanations and examples for each field. We'll also cover some general tips to make the process smoother and more efficient.</thinking>
-
 # First Aid Trainers Membership Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals who want to join the first aid trainers team. It will help us understand their qualifications, experience, and availability to be part of our team.

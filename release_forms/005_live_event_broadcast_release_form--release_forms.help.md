@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain release permission from participants before broadcasting their live event information on various channels. The form is designed to be completed by participants, and it allows them to indicate whether they grant permission for their live event to be broadcasted and, if so, on which channels. This form is not affiliated with or derived from any other form platforms, and it is an original adaptation using public metadata as inspiration.
-
-The form is intended for use on a web-based interface, such as a website, and it is designed to be filled out by users with the least amount of effort.
-
-The form has 5 fields, but only 2 of them are optional. Participants can choose to provide information, but the fields are not mandatory. This form is designed for flexibility and ease of use.
-
-</thinking>
-
 # Live Event Broadcast Release Form - Help Guide
 ## Purpose
 This form is used to obtain release permission from participants before broadcasting their live event information on various channels.

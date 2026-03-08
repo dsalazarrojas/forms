@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Hunt Form - Help Guide
 ## Purpose
 The Talent Hunt Form is a registration form used to gather information from job seekers and candidates who are interested in job opportunities. It is used by the talent acquisition team to collect relevant details about the candidate, their job requirements and job status.

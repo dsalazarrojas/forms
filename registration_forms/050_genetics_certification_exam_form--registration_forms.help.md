@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to assist individuals in registering for a genetics certification exam. The form aims to collect essential information from applicants. To avoid duplicate submissions, it's essential to check the form's purpose and ensure you're filling it out correctly. Please review this guide carefully before proceeding.
-
-</thinking>
-
 # Genetics Certification Exam Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for hackathon participants to register for a hackathon event. The form is used to collect demographic information from individual participants and teams participating in the event. The form is not intended for team leads, so only team members should select "Yes" under "Team Members". The form is also used to collect event type information, but since it's a select_multiple field, participants can choose multiple event types. The form will be used to filter and categorize the participants based on their team affiliation and event type.
-</thinking>
-
 # Hackathon Registration Form Hackathon Applications - Help Guide
 ## Purpose
 This form is intended for hackathon participants to register for a hackathon event.

@@ -1,7 +1,3 @@
-<thinking>
-We need to determine the purpose of the form, which is "Love Survey". It's likely a survey about relationships or romance. We should check if this form is relevant to the user's current activity or goal. Assuming it's a generic survey form, we'll proceed with creating a help guide.
-</thinking>
-
 # Love Survey - Help Guide
 ## Purpose
 The Love Survey form is designed to collect information about relationships or romance. Please answer the questions to help us better understand your experiences and feelings.

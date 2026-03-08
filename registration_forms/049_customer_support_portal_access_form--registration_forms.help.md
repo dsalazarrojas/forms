@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are filling out the Customer Support Portal Access Form. The form is primarily used for customers to request access to the support portal. The purpose of this form is to gather necessary information from customers to verify their identity and ensure that they have a legitimate reason for accessing the portal. The form will guide users through a series of fields to fill out, which will help our support team assess their request. To ensure a smooth process, please ensure that you have filled out all required fields and double-checked the form before submission. Note that fields with the asterisk (*) symbol denote required fields and must be filled out.
-</thinking>
-
 # Customer Support Portal Access Form - Help Guide
 ## Purpose
 This form is used for customers to request access to the Customer Support Portal. To submit a successful request, ensure you have filled out all required fields.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to register their child for a summer camp program. The form will help us gather necessary information to ensure a fun and safe experience for the child. It is essential to fill out this form carefully and accurately to avoid any errors or delays in the registration process. Please note that the form is not intended for children under 18 years old to fill out directly. 
-
-If you have already registered your child, you are welcome to skip this form and proceed with other summer camp activities.
-
-</thinking>
-
 # Summer Camp Child Registration Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to register their child for a summer camp program. 

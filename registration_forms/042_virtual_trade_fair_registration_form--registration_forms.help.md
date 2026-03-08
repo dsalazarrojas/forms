@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Trade Fair Registration Form - Help Guide
 
 ## Purpose

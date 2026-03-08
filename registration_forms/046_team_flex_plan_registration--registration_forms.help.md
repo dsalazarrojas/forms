@@ -1,7 +1,3 @@
-<thinking>
-We have a form used for Team Flex Plan Registration. Its primary purpose is to gather information from team members about their participation in the Flexible Work Schedule. This form will help us understand who will be participating and who will be on the team's management level. It seems like the form is designed for team administrators to collect details about team members and their managers' information, such as email addresses and agreement on participation.
-</thinking>
-
 # Team Flex Plan Registration - Help Guide
 ## Purpose
 The Team Flex Plan Registration form is designed to collect information about team members and their participation in the Flexible Work Schedule. Please fill out this form to provide your team's details and ensure a smooth transition to the new schedule.

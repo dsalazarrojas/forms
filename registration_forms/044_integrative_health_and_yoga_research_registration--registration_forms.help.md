@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to register participants for an Integrative Health And Yoga Research project. The purpose of this form is to collect demographic information and consent from individuals who wish to participate in the research study. This form is not affiliated with, endorsed by, or derived from any form platform, and is a original adaptation based on public survey topic metadata. The form collects registration information, health information, consent, contact information, and other details from participants. It's essential that the form is filled out accurately and truthfully, as the information will be used for the research project. Before starting, ensure that the form is filled out only once for each participant.
-
-Please note that some fields are optional, but providing accurate and comprehensive information is crucial for the research study.
-</thinking>
-
 # Integrative Health And Yoga Research Registration - Help Guide
 ## Purpose
 This form is designed to register participants for an Integrative Health And Yoga Research project. It collects demographic information and consent from individuals who wish to participate in the research study.

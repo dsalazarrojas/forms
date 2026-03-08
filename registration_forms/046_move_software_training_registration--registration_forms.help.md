@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registering users for software training sessions. It is intended for users to provide their training team name, attendee details, session choices, goals and objectives, session start date, session end date, start time, and end time.
-The form is divided into multiple pages, and the user must fill out each page before proceeding to the next. The form is used for administrative purposes and does not require user authentication. 
-The form should not be filled out for test purposes, as it is a production-ready form.
-</thinking>
-
 # move_software_training_registration - Help Guide
 ## Purpose
 This form is used for registering users for software training sessions. It is intended for users to provide their training team name, attendee details, session choices, goals and objectives, session start date, session end date, start time, and end time.

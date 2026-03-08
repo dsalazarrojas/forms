@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "educational-expo-sponsorship-form" is to collect information from institutions and sponsors for an educational event. This form is used to gather details about the event, the institution's contact information, and the sponsor's contact information and sponsorship level. The form is likely used for administrative purposes, such as tracking event details and sponsorships.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and not submitting duplicate or incomplete information.
-
-</thinking>
-
 # Educational-Expo-Sponsorship-Form - Help Guide
 ## Purpose
 The educational-expo-sponsorship-form is used to collect information from institutions and sponsors for an educational event.

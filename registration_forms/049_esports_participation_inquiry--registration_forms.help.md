@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are filling out the esports participation inquiry form. The form is designed to collect information from players who are interested in participating in esports events. It is a one-page form with 8 fields that require different types of information from the player. The form is intended for players who are interested in joining a team or participating in a specific event. To fill out this form, players should follow the instructions below.
-</thinking>
-
 # Esports participation inquiry - Help Guide
 ## Purpose
 The Esports participation inquiry form is designed to gather information from players interested in participating in esports events. This form helps the organizers understand the player's interest, availability, and other relevant details.

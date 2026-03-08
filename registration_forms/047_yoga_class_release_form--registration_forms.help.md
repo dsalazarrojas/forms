@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for use by individuals who need to create or understand a registration form for yoga classes. The form is designed to gather information from participants and is likely used in a fitness or wellness setting. It is not affiliated with or endorsed by any form creation platform, and its contents are original and released under the Creative Commons Attribution 4.0 (CC BY 4.0) license. Please note that while the form is AI-generated, it is based on public survey topic metadata and does not use proprietary content from other form platforms. If you are an end-user of this form, you are free to use, modify, and even sell it, as long as you give credit to the creators.
-
-The following guide explains how to complete and understand the yoga_class_release_form.
-
-</thinking>
-
 # yoga_class_release_form - Help Guide
 ## Purpose
 The yoga_class_release_form is a registration form designed for yoga participants to provide their information and consent for their participation in yoga classes. The form typically collects contact details, medical information, and consent forms for emergency situations.

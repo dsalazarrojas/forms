@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information for a flooring promotion. It's crucial that users understand the purpose and context of this form to ensure accurate and relevant input. Before proceeding, please confirm that you need to register a flooring promotion and that you're not duplicating a pre-existing entry. 
-
-Please review the fields carefully to ensure you're capturing the necessary information. Some fields are required, while others are optional. 
-
-This form is designed to capture details about the promotion, including the individual or team involved, the promotion details, and the desired follow-up actions. 
-
-If you're unsure about any field or its purpose, refer to this help guide for clarification. 
-
-</thinking>
 # Flooring Promotion Registration - Help Guide
 ## Purpose
 The Flooring Promotion Registration form is used to collect information for a flooring promotion. This form will help us track and follow up on promotions in a structured manner.

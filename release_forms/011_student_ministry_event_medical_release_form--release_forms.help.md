@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Ministry Event Medical Release Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to release their child for participation in ministry events, such as camps, retreats, or other activities. It is used to provide critical medical information and emergency contact details to event staff to ensure the child's safety and well-being.

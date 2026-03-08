@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from dance studio customers (or their parents/guardians for minors) regarding their COVID-19 vaccination status, liability waiver, and emergency contact details. This form is intended to ensure that customers and staff are aware of and agree to the studio's policies and procedures related to COVID-19. The form also collects information on visiting teachers/staff and emergency contact details for the studio.
-
-Before completing this form, please ensure you have not already submitted it. If you are a returning customer, you may have previously completed this form, and in that case, it's not necessary to complete it again.
-
-Please note that some fields are optional, but it's essential to review each field's label and explanation carefully to ensure you understand the required information and the purpose of this form.
-
-</thinking>
-
 # Dance Studio COVID 19 Release Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from customers and their families regarding COVID-19 vaccination status, liability waiver, and emergency contact details to ensure a safe and enjoyable experience at the dance studio.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering children to play the Kids Monopoly Game, a fun activity aimed at educating kids on financial literacy. 
-The form is divided into two main sections: personal details and game information. The form collects the child's name, contact details (email and phone), guardian's name, email, and phone, as well as the preferred game session and consent. The form ensures that the child and their guardian provide accurate and complete information, which is essential for the smooth organization and conductance of the game session. The form is designed to be easy to fill out, and all necessary fields are labeled clearly. The form is not meant to be used for any other purpose than registering children for the Kids Monopoly Game.
-</thinking>
-
 # Kids Monopoly Game Registration - Help Guide
 ## Purpose
 This form is used to register children to play the Kids Monopoly Game, a fun and educational activity designed to teach kids about financial literacy.

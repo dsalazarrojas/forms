@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a recreational facility check-out. A user must complete the form to report their check-out from a recreational facility, such as a park or a pool. This form is not intended for check-in, and users must have already checked in at the facility. The form is used to collect information about the user's identity and the facilities they have checked out. It is required that the user completes all fields accurately and truthfully. 
-</thinking>
-
 # recreational_facility_check_out_form - Help Guide
 ## Purpose
 The recreational facility check-out form is used to register a user's check-out from a recreational facility. Please use this form to accurately report your check-out from the facility. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect sensitive personal information from employees, including their name, address, and social security number, for purposes of authorization and release of personal data. This form is typically used for HR-related activities, such as background checks or employee records management. It is essential to ensure that the form is filled out correctly, as inaccurate or incomplete information may cause issues with data processing and authorization.
 
 Before filling out this form, please ensure that you have not already completed a similar form in the past and that the information you are providing is accurate and up-to-date.

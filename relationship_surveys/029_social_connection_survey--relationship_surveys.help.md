@@ -1,6 +1,3 @@
-<thinking>
-The form is a part of the "relationship_surveys" category and has the title "Social Connection Survey". This form's purpose is to collect information about students' experiences with their school environment and relationships with their peers, teachers, and parents.
-</thinking>
 # Social Connection Survey - Help Guide
 ## Purpose
 This form is designed to collect data about students' perceptions and feelings towards their school environment, teachers, and peers. It helps identify areas of strength and weakness in the social connections within the school, enabling better decision-making and improvement of relationships.

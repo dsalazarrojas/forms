@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patients to provide health screening permission, typically for medical or wellness screenings. The purpose of this form is to obtain informed consent from patients before conducting any health screenings or exams. It's essential to ensure that all required fields are filled out correctly to avoid any potential issues or errors during the screening process. Please review this form carefully before completing it, and ensure that the provided instructions are clear and concise. Note that some fields may be optional or required, depending on the specific health screening or exam being conducted. Before starting, review this help guide to ensure you understand each field's purpose and requirements.
-</thinking>
-
 # Health Screening Permission Form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from patients before conducting health screenings or exams. It helps to ensure that patients understand the procedures, risks, and benefits of the screening or exam, and provides an opportunity for them to ask questions or express concerns.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for a massage retreat. The goal is to collect information from individuals who wish to attend the retreat, including contact and personal details, arrival and departure information, massage preferences, and emergency contact information. This form will be used to organize the retreat and ensure that participants have a smooth and enjoyable experience. Before proceeding, please ensure that you have not registered for the same event previously. If you are not sure if you have registered, check with the retreat organizers.
-</thinking>
-
 # Massage Retreat Participation Registration - Help Guide
 ## Purpose
 

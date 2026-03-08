@@ -1,21 +1,3 @@
-<thinking>
-We need to create a help guide for the Mentorship Program Access Form that is clear and concise, while also being mindful of the internal reasoning and non-duplication checks to ensure that end-users understand the form's purpose and requirements.
-
-The form is designed to gather information from users to grant access to the mentorship program. To confirm, the form should only be completed once by the user, and any duplicate attempts should be flagged. This will help prevent multiple attempts to access the form and ensure that users are not mistakenly granted access twice.
-
-The form will be used to collect the following information from users:
-
-* User First Name
-* User Last Name
-* Email Address
-* User Phone
-* Organization
-* User Title
-
-The fields should be self-explanatory, but to provide additional guidance, we can include field-by-field explanations in the help guide.
-
-</thinking>
-
 # Mentorship Program Access Form - Help Guide
 ## Purpose
 The Mentorship Program Access Form is designed to grant access to the mentorship program. Please complete this form to request access to the program.

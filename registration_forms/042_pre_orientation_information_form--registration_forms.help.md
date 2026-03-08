@@ -1,7 +1,3 @@
-<thinking>
-The form is a Pre-Orientation Information Form, which is used for collecting information about new students and their emergency contacts before they enter the institution. This form is designed to ensure that the student's and emergency contact's information is collected accurately and consistently. The form should only be filled out by new students who have not completed the orientation process previously. If a student has already gone through the orientation process, they should not fill out this form again.
-</thinking>
-
 # Pre-Orientation Information Form - Help Guide
 ## Purpose
 The Pre-Orientation Information Form is used to collect information about new students and their emergency contacts before they enter the institution.

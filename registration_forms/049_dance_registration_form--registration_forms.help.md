@@ -1,12 +1,3 @@
-<thinking>
-We're assuming the form is designed to collect information for a specific event or competition related to dance. This form's purpose is to gather registration data from participants, and the fields should be filled out in accordance with the event's requirements. To confirm this is the correct form for your event, please consider the following:
-
-* Check that the fields match the event's specific needs.
-* Look for any existing forms with similar fields to prevent duplication.
-* Confirm that the form's structure aligns with your team's internal processes.
-
-If you're unsure or need further clarification, please consult with the event organizers or your team members.
-</thinking>
 # Dance Registration Form - Help Guide
 
 ## Purpose

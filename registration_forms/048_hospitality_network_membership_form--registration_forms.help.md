@@ -1,10 +1,3 @@
-<thinking>
-To begin with, this form is designed to gather information from individuals who wish to join the Hospitality Network, a platform that connects members with relevant resources, events, and opportunities. To avoid duplication and ensure relevance, please fill out the form accurately and honestly. The form has two main purposes:
-1.  To register new members for the Hospitality Network.
-2.  To collect payment and membership information.
-This form is a multi-page form with several sections, each containing different fields that require specific information. Please follow the instructions carefully and fill out each field as required.
-</thinking>
-
 # Hospitality Network Membership Form - Help Guide
 
 ## Purpose

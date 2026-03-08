@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Join The Change Initiative" form. The purpose of this form is to collect information from individuals interested in joining the initiative, including their participant information and engagement preferences.
-
-Before proceeding, please note that this form is a unique, AI-generated adaptation of a registration form, and its design is based on public survey topic metadata. It is not affiliated with or endorsed by any form platform, and users are free to use, modify, and even sell forms derived from it, as long as they give credit.
-
-To ensure accurate completion, please carefully review each field's requirements and explanations below.
-
-</thinking>
-
 # Join The Change Initiative - Help Guide
 ## Purpose
 The "Join The Change Initiative" form collects participant information and engagement preferences to facilitate the participant's integration into the initiative.

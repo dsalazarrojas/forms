@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Security Badge Training Registration - Help Guide
 ## Purpose
 The `Security Badge Training Registration` form is a tool to collect information from security personnel about their security badge training sessions. This form is meant to be used in conjunction with the organization's security badge training program.

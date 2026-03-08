@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to help individuals register for a skill building session. The information gathered from this form will be used to create an account for each participant and will help the organizers and facilitators to better prepare and manage the session.
-
-This form will be filled out by participants who are interested in joining the session. Each field is there to collect information about the participant that will be helpful for the organizers and facilitators to plan and execute the session smoothly.
-
-Please ensure that you are filling out the form correctly and accurately. Some fields are required while others are not.
-
-To avoid any confusion, ensure that you provide correct information for each field.
-</thinking>
-
 # Skill Building Session Registration Form - Help Guide
 ## Purpose
 The Skill Building Session Registration Form is designed to collect information from participants who are interested in joining the session. This form will help the organizers and facilitators to create an account for each participant and plan the session accordingly.

@@ -1,15 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Worship Event Guide" form. This form is used for registering worship events. It is likely to be used by worship leaders or event organizers to register information about upcoming worship events.
-
-To ensure that we do not create a duplicate guide, let's check the form fields and their types to confirm that this is indeed a registration form for worship events. 
-- The form has fields for "First Name" and "Last Name", which are typical fields for personal identification.
-- The form also has fields for "Email", "Phone", and "Event Date", which are common fields used for communication and scheduling.
-- The form has an "Event Location" field, which is also typical for event registration.
-- Finally, there's a "Feedback" field, which could be used for gathering additional comments or suggestions.
-
-Based on these fields, it's likely that this form is for registering information about upcoming worship events, possibly for event organizers or leaders to plan and manage such events.
-</thinking>
-
 # Worship Event Guide - Help Guide
 ## Purpose
 The Worship Event Guide form is used to register information about upcoming worship events. It helps event organizers or leaders to collect essential details about the event, including the date, time, location, and participants' contact information.

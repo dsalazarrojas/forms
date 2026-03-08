@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect registration information from participants for an investment compliance workshop. The form should be completed by individuals who wish to attend the workshop. The fields are designed to gather relevant information about the participant's registration details, workshop preferences, and contact information. The form is intended for registration purposes only and should not be used for any other purpose. Please note that the form will be reviewed for completeness and accuracy before it is submitted. </thinking>
-
 # investment_compliance_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for an investment compliance workshop.

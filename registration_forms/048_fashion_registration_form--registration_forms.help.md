@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are participating in a fashion-related event. The form is used to gather demographic information, event details, and other relevant data that will help event organizers and sponsors understand the audience they are catering to. The form is divided into sections that cover various aspects of the participant's identity, event details, and additional notes.
-
-Before proceeding, please ensure that you have the necessary information and are not duplicating your entry. This form is designed to be completed only once, and your data will be used to create a unique profile for you.
-
-</thinking>
-
 # Fashion Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are participating in a fashion-related event. This data will be used to create a unique profile for you, and to provide insights to event organizers and sponsors.

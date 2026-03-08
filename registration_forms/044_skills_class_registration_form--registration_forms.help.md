@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect registration information from participants for a skills class. The form is designed to be completed by participants who want to register for a class that suits their needs. The form should not be completed by participants who have already registered for a class.
-
-The fields in this form are meant to collect essential details about the participant, their preferences, and class selection. The form should only be completed once for each participant.
-
-Before starting, please ensure that you have all the necessary information ready. If you have already registered for a class, please do not use this form.
-
-</thinking>
-
 # skills_class_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for a skills class. It is meant to be completed once for each participant, and should not be used for participants who have already registered for a class.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Tattoo Release Form - Help Guide
 
 ## Purpose

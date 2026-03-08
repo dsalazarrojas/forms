@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about Halloween events. 
-It should only be filled out once for each attendee, and the form will be used for contact purposes, so please ensure each entry is unique and not a duplicate.
-The form will collect information about the event name, the attendee, the contact person, the date and time of the event, and a phone number.
-The information will be used to create a record for contact purposes and will not be used for spamming.
-</thinking>
-
 # halloween_registration_form - Help Guide
 ## Purpose
 This form collects information about Halloween events for contact purposes.

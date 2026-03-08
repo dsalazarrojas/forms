@@ -1,13 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for the "yoga_class_release_form" form. This form is likely for release or waiver purposes, possibly for participants in a yoga class. We can infer that the form requires participants to provide information about themselves, their medical status, and their emergency contact details. The form seems to be designed for release or waiver purposes, possibly to protect the participants and the yoga class organizers from potential liabilities. However, the exact purpose and context may vary depending on the specific use case.
-
-Before creating the help guide, let's ensure that the form is not being used for duplicate or unnecessary purposes. For example, if the form is being used for both release and waiver purposes, we should clarify this in the guide.
-
-The form appears to be designed for participants to provide personal and medical information, as well as sign waivers and releases. We should verify that the required fields are clear and understandable.
-
-</thinking>
-
 # yoga_class_release_form - Help Guide
 ## Purpose
 The "yoga_class_release_form" is used to gather participant information, medical status, and waiver/releases for yoga class participants. This form helps protect both the participant and the yoga class organizers from potential liabilities.

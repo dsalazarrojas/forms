@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Team Cohesion Program Application Form - Help Guide
 ## Purpose
 The Remote Team Cohesion Program is designed to help remote teams improve their collaboration and productivity. This form is used to collect information about your team's dynamics, communication channels, and collaboration style. Please fill out this form to apply to the program.

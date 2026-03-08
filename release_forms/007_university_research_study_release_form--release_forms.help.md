@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from university research studies. The form is intended to gather details about the research project, including the participant's name and the project's name and description. This information will help to facilitate the release of study results and findings. Before filling out this form, please ensure that you have permission to complete it and that the information is accurate and up-to-date.
-</thinking>
-
 # University Research Study Release Form - Help Guide
 ## Purpose
 The University Research Study Release Form is a document used to record and share information about a university research study. The form is designed to provide a structured approach to recording project details, allowing for easy tracking and release of study results.

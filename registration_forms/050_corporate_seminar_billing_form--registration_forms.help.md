@@ -1,6 +1,3 @@
-<thinking> 
-This form seems to be a template for a Corporate Seminar Billing Form created using AI-generated data. It appears to be designed for collecting information related to corporate seminars, specifically for billing purposes. The form has four sections, each containing text fields for collecting different types of data. The purpose of the form is likely to gather information from participants or clients about their seminar attendance, their personal details, billing information, and payment methods. Before filling out this form, please ensure that you are filling it out for a valid seminar billing purpose and not duplicating any existing records. If you're unsure, you can reach out to the form creator at form@gic.mx for clarification.</thinking>
-
 # Corporate Seminar Billing Form - Help Guide
 ## Purpose
 This form is designed to collect billing information from participants or clients for corporate seminars. Ensure that you fill out this form for a valid seminar billing purpose and not for any other reason.

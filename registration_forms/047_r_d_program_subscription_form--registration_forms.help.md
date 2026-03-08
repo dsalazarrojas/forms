@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering users in an R&D (Research and Development) program. It is intended for internal employees of the company who want to participate in the R&D program. Please ensure you are eligible to register before filling out this form. If you're already registered in the R&D program, please do not fill out this form again.
-</thinking>
-
 # R&D Program Subscription Form - Help Guide
 ## Purpose
 This form is used to register users in the R&D program for the company.

@@ -1,9 +1,3 @@
-<thinking>
-We will guide a user through a form that seems to be for managing document releases. It appears to be used for obtaining authorization for releasing documents to the public or otherwise. The form asks for various information about the document, the person authorizing the release, and the date/time of the release. We will ensure that the user understands the purpose and requirements of the form. This form is likely to be used in a business or organizational setting, where sensitive information may be involved. We will review each field to determine if it's necessary and relevant to the form's purpose.
-
-Before we proceed, let's confirm that this form is not duplicating other existing forms or processes, and that it covers all the necessary steps for the document release authorization. We will aim to make the explanation clear and concise, ensuring the user can easily understand and complete the form.
-</thinking>
-
 # document_release_authorization_form - Help Guide
 ## Purpose
 The document release authorization form is used to obtain approval for releasing sensitive or confidential documents to the public or otherwise. This form ensures that only authorized personnel can verify and approve the release of documents to maintain data security and compliance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from Small Medium Enterprises (SMEs) for the SME Award Ceremony. This form should only be filled out by SMEs and their representatives. Please ensure that you are registering on behalf of your company and not duplicating an existing registration. If you have already registered, please do not submit this form again.
-</thinking>
-
 # SME Award Ceremony Registration - Help Guide
 ## Purpose
 The SME Award Ceremony Registration form is designed to collect necessary information from Small Medium Enterprises (SMEs) for the award ceremony. This form should be completed by the SME or their representative to register their company for the ceremony.

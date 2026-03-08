@@ -1,9 +1,3 @@
-<thinking>
-We're creating this form to collect information from interested volunteers who want to join our newsletter. This form will help us gather the necessary details to contact and communicate with them efficiently. Before proceeding, please note that:
-* Volunteers can register multiple times, but each submission will be considered a new registration. 
-* This form is intended for new volunteers, not for existing subscribers who want to update their information.
-</thinking>
-
 # Newsletter Volunteer Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from interested volunteers who want to join our newsletter. It's a simple registration form designed to gather necessary details for communication and organization purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This is a registration form for users to sign up for a prayer session. The purpose of this form is to collect information from users who wish to participate in a prayer session. This form will be used to store the user's details and preferences for the prayer session. Please ensure you fill in the form accurately and thoroughly. Before starting, ensure you are signing up for the correct event. If you are unsure, please contact the event organizer.
-</thinking>
-
 # Prayer Signup Form - Help Guide
 ## Purpose
 The Prayer Signup Form is a registration form designed to collect information from users who wish to participate in a prayer session. This form is required for all attendees.

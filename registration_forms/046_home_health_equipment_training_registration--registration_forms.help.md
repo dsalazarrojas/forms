@@ -1,24 +1,3 @@
-<thinking>
-This form is intended for registering home health equipment training sessions. 
-The purpose of this form is to gather information about the training sessions, 
-including the participant's training status, agency status, name, provider, 
-start and end dates, equipment type, location, and other relevant details. 
-This form is typically filled out by the participant or their representative. 
-
-Please note that this form does not require a login or authentication, 
-so it is assumed that the participant or their representative is already registered 
-or has access to the system. 
-
-The form is designed to be completed in multiple steps, with each page 
-containing a few fields to be filled out in sequence. 
-
-Before filling out the form, ensure that you have all the necessary 
-information ready. This will make the process smoother and more efficient. 
-
-The form will guide you through the necessary fields to be filled out. 
-If you are unsure about any of the fields, do not hesitate to seek help.
-</thinking>
-
 # Home Health Equipment Training Registration - Help Guide
 ## Purpose
 The Home Health Equipment Training Registration form is used to collect information 

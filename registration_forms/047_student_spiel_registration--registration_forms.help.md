@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist students in registering for a "Student Spiel" program. The form is composed of 25 form fields, each of which is a text input field. The form's purpose is to collect demographic information from students, including their names, contact details, and other relevant data. This form is intended for internal use within an educational institution and is not affiliated with any external survey platforms. It is an original adaptation of a publicly available template and is released under a Creative Commons license.
-</thinking>
-
 # Student Spiel Registration - Help Guide
 ## Purpose
 The Student Spiel Registration form is designed to collect demographic information from students for the Student Spiel program. This form is intended for internal use within an educational institution and is not affiliated with any external survey platforms.

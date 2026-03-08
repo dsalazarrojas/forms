@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Virtual Trick Or Treat Party Registration Form", we need to first understand its purpose and requirements. This form is likely used for parents to register their children for a virtual trick-or-treat party, providing essential details such as party details, contact information, and preferences for sharing party details on social media.
-
-The form's purpose is to collect information from parents to facilitate the organization and execution of the virtual party. It may include fields for party date and time, RSVPs, contact information, and social media sharing options. The form's design should make it easy for parents to provide the necessary information efficiently and accurately.
-
-Let's review the form's fields to determine their purpose and relevance. We will then create a clear and concise help guide that explains each field's meaning and usage.
-
-</thinking>
-
 # Virtual Trick Or Treat Party Registration Form - Help Guide
 ## Purpose
 The Virtual Trick Or Treat Party Registration Form is designed for parents to register their children for a virtual trick-or-treat party. This form helps us gather essential information to organize and execute the party smoothly.

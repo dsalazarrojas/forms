@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the registration of attendees for the Engineering Lunch And Learn event. It's essential to fill out this form accurately and truthfully to ensure a smooth and successful event. To avoid any issues, please do not reuse or share your login credentials with others. Ensure you are registered as a member of the team before filling out this form. This form is designed for individuals to register for the event; do not attempt to register a team without ensuring all team members have their own accounts and have registered individually.
-</thinking>
-
 # Engineering Lunch And Learn Registration - Help Guide
 ## Purpose
 This form is for registering for the Engineering Lunch And Learn event. It collects essential information from attendees, including session details, personal information, and preferences.

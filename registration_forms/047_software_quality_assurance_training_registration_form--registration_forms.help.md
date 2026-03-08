@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by end-users and that the information collected is accurate and complete. This form is designed to collect information for software quality assurance training registrations. To avoid duplication or incorrect submissions, we'll need to check if users have already submitted this form in the past. If they have, we'll ask them to review and update their previous submission. This will help us maintain a consistent and up-to-date database of registered users.
-</thinking>
-
 # software quality assurance training registration form - Help Guide
 ## Purpose
 This form is used to register for software quality assurance training. Fill out the form with your information to reserve a spot in the training.

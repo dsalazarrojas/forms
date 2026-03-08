@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to RSVP to a startup networking happy hour event. The form should be filled out by individuals who want to attend the event and are able to provide their contact information, job title, and preferences for the event. The purpose of this form is to help the event organizers keep track of attendee RSVPs and ensure an accurate headcount for catering and seating arrangements. Please note that this form is a simple RSVP form and does not require any extensive personal or financial information.
-</thinking>
-
 # Startup Networking Happy Hour RSVP Form - Help Guide
 ## Purpose
 This form is used to RSVP to the Startup Networking Happy Hour event. To complete the form, follow the instructions below.

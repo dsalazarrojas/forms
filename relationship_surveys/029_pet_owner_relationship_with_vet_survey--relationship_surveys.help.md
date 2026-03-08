@@ -1,17 +1,3 @@
-<thinking>
-I've analyzed the form "Pet Owner Relationship With Vet Survey" and determined it's a form designed to collect information about the relationship between pet owners and their veterinarians. This form likely aims to gather data for research, marketing, or customer satisfaction purposes.
-
-Form purpose might include:
-
-* Collecting feedback from pet owners on their interactions with veterinarians
-* Gathering information on pet care and treatment habits
-* Identifying areas for improvement in veterinary services
-* Measuring pet owner satisfaction with current veterinary services
-
-To avoid duplication, ensure this form is not used for sensitive or personal medical information, and consider using it for general, non-sensitive data collection.
-
-</thinking>
-
 # Pet Owner Relationship With Vet Survey - Help Guide
 
 ## Purpose

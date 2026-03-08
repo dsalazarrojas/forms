@@ -1,9 +1,3 @@
-<thinking>
-
-To determine if a form is a duplicate, we need to check the form ID and the user's IP address. This form is a registration form for a PPP (Paycheck Protection Program) Loan Forgiveness Application. It is intended to help businesses apply for loan forgiveness under the PPP program. The form should only be filled out once by each business and should not be submitted if the business has already applied for loan forgiveness.
-
-</thinking>
-
 # PPP Loan Forgiveness Application Form - Help Guide
 ## Purpose
 This form is for businesses that want to apply for loan forgiveness under the PPP program. It helps us understand your business and your loan information so we can process your application.

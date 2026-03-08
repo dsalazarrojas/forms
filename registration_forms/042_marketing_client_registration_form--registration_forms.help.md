@@ -1,11 +1,3 @@
-<thinking>
-The form is designed for marketers to create a registration form that will help them manage client interactions. The form allows them to input details about the client, including their name, email, phone number, source of contact, interested areas (e.g., real estate, properties, services), and lead source. 
-The form will be used in a marketing context. 
-The form fields should not be duplicated, as the goal is to capture unique information from each client. 
-The form purpose is to help marketers interact with clients effectively. 
-Each field will be clearly explained below.
-</thinking>
-
 # Marketing Client Registration Form - Help Guide
 ## Purpose
 The Marketing Client Registration Form is designed to capture crucial information from clients, enabling effective marketing interactions and targeted campaigns.

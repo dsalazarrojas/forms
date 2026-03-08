@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Grooming Masterclass Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners who are interested in attending a pet grooming masterclass. The form will help us understand their preferences and needs, allowing us to tailor the session to their expectations.

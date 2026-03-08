@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request access authorization for an event. The form requires information about the event, such as the event organizer's email and phone number, as well as details about the event itself, like start and end times. The form also asks for information about the people involved, like event staff, attendees, and vendors. Users can choose which staff members, attendees, and vendors should have access to the event. Finally, the form requests access levels and permission for the event. 
-This form should only be filled out by event organizers to request access authorization for their events. 
-Please make sure to fill out the form with accurate and complete information to ensure that the event can be properly authorized.
-</thinking>
-
 # Event Access Authorization Form - Help Guide
 ## Purpose
 This form is used to request access authorization for an event.

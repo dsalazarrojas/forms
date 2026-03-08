@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information from security guards, likely for training, certification, or compliance purposes. The form likely captures personal details, role information, and language proficiency. The fields seem to be a mix of required and optional sections, suggesting that some information is mandatory while others are supplementary.
-</thinking>
-
 # security_guard_exam_form - Help Guide
 ## Purpose
 This form is designed to collect information from security guards for training, certification, or compliance purposes.

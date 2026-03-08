@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to capture essential information from clients for travel registration purposes. It is intended for travelers who need to provide details about their trip, including travel dates, arrival times, contact information, travel destinations, accommodation preferences, travel purposes, and any additional notes. This form does not require fields for travel agents or agencies as it is not intended for travel agency staff to fill out. The purpose of this form is to register travel information for processing and management by the travel organization's internal teams.</thinking>
 
 # travel_registration_form - Help Guide

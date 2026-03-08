@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication, the form was generated using AI and is not affiliated with any form platform.
-The purpose of this Friendship Survey form is to gather information on various aspects of friendships, including types, support, and feelings.
-</thinking>
-
 # Friendship Survey - Help Guide
 ## Purpose
 This form is designed to collect data on friendships, including types, support levels, and feelings towards friends, parents, and teachers.

@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the Theology Class Registration Form. This form is used for registering students for a theology class, likely at a seminary or religious institution. It captures student information, schedule preferences, and other relevant details for registration.
-
-**Non-duplication check:** We need to ensure that users don't accidentally submit the same phone number twice and that users understand how to properly format date/time fields for proper registration.
-
-We'll need to break down the form into sections, clearly explaining each field, and provide tips for users to avoid common pitfalls.
-
-</thinking>
-
 # Theology Class Registration Form - Help Guide
 
 ## Purpose

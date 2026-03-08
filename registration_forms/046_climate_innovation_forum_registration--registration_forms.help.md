@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climate Innovation Forum Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Climate Innovation Forum registration form. The form is intended to gather information from attendees and speakers for the purposes of planning and executing a successful Climate Innovation Forum conference.

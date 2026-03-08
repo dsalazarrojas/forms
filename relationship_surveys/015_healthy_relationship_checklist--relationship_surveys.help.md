@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the quality of relationships in various aspects, such as communication, emotional connection, and satisfaction. The form is designed to be completed by individuals to assess their own relationships with their partner, family, and friends. It is not intended for use in professional or medical settings, and the results should not be used as a diagnosis or treatment plan. This form is meant to be a personal reflection tool to help individuals identify areas for improvement in their relationships.
-</thinking>
-
 # Healthy Relationship Checklist - Help Guide
 ## Purpose
 This form is designed to help you assess the quality of your relationships in various aspects, including communication, emotional connection, and satisfaction. It is a self-reporting tool to help you identify areas where you may want to improve.

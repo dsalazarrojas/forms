@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather personal and academic information from applicants for the 1st PUC (Post-Graduate Diploma in Computer Science) program. This information will be used to evaluate and process your application for admission. Please fill out the form accurately and completely, as any missing or incomplete fields may lead to delays in the admission process.</thinking>
-
 # 1st PUC Application Form 2021 2022 - Help Guide
 
 ## Purpose

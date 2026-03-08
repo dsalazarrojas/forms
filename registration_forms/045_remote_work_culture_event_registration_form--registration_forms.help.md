@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Work Culture Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about remote work culture events, allowing us to understand the scope and details of each event. Please ensure that the event you register is not already registered, and if it is, you will be notified and asked to choose a new name.

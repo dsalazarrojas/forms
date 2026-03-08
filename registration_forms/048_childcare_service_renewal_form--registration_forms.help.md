@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Service Renewal Form - Help Guide
 ## Purpose
 This form is designed to facilitate the renewal process for childcare services. It requires parents or guardians to provide necessary information to update their child's enrollment and schedule. Please ensure that you have all the required information and documents before proceeding.

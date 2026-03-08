@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "employee_casual_cook_registration" form is to collect information from casual cooks who are interested in registering with the organization. This form is used to gather essential details such as title, name, email, experience, preferred cuisines, availability, and any additional notes about their availability and specialties. It's crucial to fill out this form accurately to ensure that the information is up-to-date and relevant to the employee's work. To prevent duplication, please check with the HR department before proceeding to confirm if a similar registration already exists.
-</thinking>
-
 # employee_casual_cook_registration - Help Guide
 ## Purpose
 The "employee_casual_cook_registration" form is designed to gather information from casual cooks who are interested in registering with the organization.

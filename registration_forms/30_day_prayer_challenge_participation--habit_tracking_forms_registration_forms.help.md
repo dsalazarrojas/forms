@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to register for a 30-day prayer challenge, which likely aims to guide users in developing a daily prayer practice. To confirm, the form is used for registration and not for actual challenge tracking or management. This form should only be filled out once by each user.
-
-To confirm, this form is for users who have been referred to this challenge through different means, such as church announcements, social media, or friend recommendations. The form is not designed to be filled out multiple times by the same user, so users should only attempt to access it once and then be directed to their next relevant step in the challenge process.
-
-Before proceeding, ensure that the submitted information will not cause duplicate registrations.
-
-</thinking>
-
 # 30 Day Prayer Challenge Participation - Help Guide
 ## Purpose
 This form is designed to register users for a 30-day prayer challenge. It collects information to understand their current prayer practice, goals, and preferences. Once submitted, the user will be directed to their next relevant step in the challenge process.

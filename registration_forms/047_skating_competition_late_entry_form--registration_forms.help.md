@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect late entry information for participants in a skating competition. It is intended for individuals who missed the initial registration deadline and need to register for the event. The form will ask for details such as participant and event details, contact information, and emergency contact details. This form is not intended for general event registration, but rather for those who are late in registering. Please ensure that you have the necessary permission and approvals to participate in the competition before filling out this form.
-</thinking>
-
 # Skating Competition Late Entry Form - Help Guide
 
 ## Purpose

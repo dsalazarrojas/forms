@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for registration purposes, likely for attendees or participants in a worship conference. The purpose of this form is to collect information from users who wish to attend or participate in the conference. Based on the provided YAML fields, it seems that the form is intended to collect general contact information (user, email, phone), registrant details (registrant type, name, registrants), and conference specifics (date, time). The registrants field seems to be a list of individuals or groups who will be attending or participating in the conference.
-</thinking>
-
 # Worship Conference Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information for attendees or participants of a worship conference.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wellness Retreat Admission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information about a singular event, likely for tracking or analysis purposes... it's probably not meant for general public use, so I'd expect the target audience to have some basic familiarity with the event and its context... I'd guess the form is meant to capture some details about the event, like the date and location, and maybe the type of event... it's likely used within a specific organization or project... </thinking>
-
 # Singles Experience Survey - Help Guide
 
 ## Purpose

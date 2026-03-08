@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release a tax dependency claim in the context of a tax-related process. It may be required for various reasons such as releasing a child's tax dependency claim, terminating a tax dependency relationship, or modifying a tax dependency claim. To complete this form, ensure that all required fields are filled and the claimant's signature is obtained. Review the form carefully to avoid mistakes that may lead to delays or rejections.
-</thinking>
-
 # Tax Dependency Claim Release Form - Help Guide
 ## Purpose
 This form is used to release a tax dependency claim. Complete this form if you are a claimant wishing to terminate or modify a tax dependency relationship.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for registering a future search event, and it's essential to understand the process of filling it out correctly. The purpose of this form is to gather necessary information for the event, including the event details, attendee details, payment information, consents, and other relevant data. It's crucial to fill out the form carefully to ensure that the event is registered correctly and efficiently. Please review the form fields and their explanations to understand the required information. Note that some fields are optional and can be skipped if not applicable.
-
-Please ensure that you're not registering the same event multiple times, as this can cause confusion and duplicate entries. If you're unsure about any field or need help with the form, please refer to this guide for clarity.
-
-</thinking>
-
 # Future Search Event Registration - Help Guide
 ## Purpose
 The Future Search Event Registration form is designed to collect information for registering a future search event. Please fill out this form carefully to ensure that the event is registered correctly and efficiently.

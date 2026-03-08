@@ -1,7 +1,3 @@
-<thinking>
-The form is for emergency volunteers who need to register for training. The purpose of this form is to gather information about the volunteer, including their name, contact information, and preferences for training. The form should only be completed once by each volunteer. 
-</thinking>
-
 # emergency_volunteer_training_registration_form - Help Guide
 ## Purpose
 This form is for emergency volunteers who need to register for training. It is used to gather information about the volunteer and their preferences.

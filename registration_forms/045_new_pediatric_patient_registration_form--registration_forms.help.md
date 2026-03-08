@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering new pediatric patients in a healthcare setting. Its purpose is to collect demographic and medical information about the patient. The form is typically filled out by patients or their guardians, and the data collected will be used for patient records and further medical consultations. To ensure accuracy, please review each field carefully and fill it out according to the guidelines provided.
-
-</thinking>
-
 # New Pediatric Patient Registration Form - Help Guide
 ## Purpose
 The New Pediatric Patient Registration Form is a crucial document used to collect vital information about new pediatric patients. This guide will walk you through each step of the form and explain what each field means in detail.

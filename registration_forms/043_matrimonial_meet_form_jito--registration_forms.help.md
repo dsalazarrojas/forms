@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's personal details for matrimonial purposes. This form will likely be used by a matrimonial agency or organization to gather data on potential candidates for a matchmaking service. The form's fields are carefully crafted to ensure that each piece of information collected is relevant and essential for the service's matchmaking process. Before proceeding, ensure that you are eligible to provide this information and that it is not a duplicate effort. This form should only be filled out once, and the provided data will be used for the purpose of creating matches between individuals with similar interests and preferences.
-
-</thinking>
-
 # matrimonial_meet_form_jito - Help Guide
 ## Purpose
 The "matrimonial_meet_form_jito" form is a collection of fields designed to gather personal information about an individual for matrimonial purposes. This form is meant to be completed by potential candidates for a matchmaking service, which aims to create matches between individuals with similar interests and preferences.

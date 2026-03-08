@@ -1,5 +1,3 @@
-<thinking> This form is designed for vendors to register their information for potential partnerships or collaborations with our organization. The form fields are meant to collect necessary details to verify and establish vendor identity, communication channels, and service offerings. It's essential to ensure that each field is filled out accurately and completely to avoid any issues with account creation or future interactions. Before proceeding, please make sure you have not registered before and that all information is up-to-date. This form should be filled out only by authorized personnel from the vendor company. </thinking>
-
 # Vendor Registration Form - Help Guide
 ## Purpose
 This form is designed to collect and verify vendor information for potential partnerships or collaborations with our organization.

@@ -1,8 +1,3 @@
-<thinking>
-The Elective Procedure Registration Form is a document designed to collect necessary information from patients before they undergo an elective procedure. This form is intended to gather relevant details about the patient's identity, medical history, and procedure specifics to ensure a smooth and safe procedure experience. Please note that this form does not collect any sensitive or protected health information, and it is not intended to replace or substitute professional medical advice. 
-
-</thinking>
-
 # Elective Procedure Registration Form - Help Guide
 ## Purpose
 The Elective Procedure Registration Form is a document used to collect information from patients before undergoing an elective procedure. This form is essential for ensuring that the patient's details, medical history, and procedure specifics are accurately recorded and processed.

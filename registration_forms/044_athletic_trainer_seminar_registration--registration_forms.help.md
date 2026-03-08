@@ -1,14 +1,3 @@
-<thinking>
-
-This help guide is intended to facilitate the successful completion of the Athletic Trainer Seminar Registration form. Before proceeding, please note that:
-
-* This form is designed to collect information about an individual's registration for the athletic trainer seminar.
-* The form should be completed by only one attendee, and it is expected that the user will accurately enter their own information.
-* The form's fields are designed to ensure accurate and complete information collection to facilitate efficient processing.
-* Duplicate or inaccurate entries should not be made without first confirming with a system administrator that the form was already submitted.
-
-</thinking>
-
 # Athletic Trainer Seminar Registration - Help Guide
 ## Purpose
 The Athletic Trainer Seminar Registration form is designed to collect relevant information from attendees to facilitate efficient processing and ensure a smooth experience during the seminar. This guide will walk you through each field's purpose and required information to ensure accurate completion.

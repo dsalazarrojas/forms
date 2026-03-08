@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for individuals who want to participate in testing and providing feedback on mobile loyalty apps. The form is part of a larger testing process that helps product and research teams collect relevant information about potential testers, their devices, and their availability. By filling out this form, participants can help ensure that their unique perspectives and device configurations are considered in the testing process, which can inform the development of more user-friendly and effective mobile loyalty apps.
-
-To prevent duplication of effort, this form should only be filled out by individuals who are interested in participating in mobile loyalty app testing and have not already registered. 
-
-</thinking>
-
 # Mobile Loyalty App Testing Registration - Help Guide
 ## Purpose
 The mobile loyalty app testing registration form helps individuals provide their details, device information, and availability to be considered for participation in testing mobile loyalty apps. 

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are interested in or have participated in HVAC (heating, ventilation, and air conditioning) systems training. The form is likely used for registration, attendance tracking, or other purposes related to the training program. To ensure that you provide accurate and complete information, please review this help guide carefully before completing the form.
-
-</thinking>
-
 # HVAC Systems Training Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in or participating in HVAC systems training programs.

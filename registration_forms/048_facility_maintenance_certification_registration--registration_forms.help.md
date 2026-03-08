@@ -1,13 +1,3 @@
-<thinking>...Internal reasoning block to explain form purpose and relevance...
-
-This form is intended to gather information for the purpose of certification and registration of facility maintenance services. The form collects data about the employer's details and certification schedule. The purpose of this form is to ensure that the facility's maintenance work is properly certified and recorded, which is crucial for regulatory compliance and quality assurance. 
-
-It's likely that the form will be used by employees or facility administrators who need to register their facility maintenance work with their clients or authorities. The form will help in organizing and tracking the certification schedule, making it easier for administrators to keep track of deadlines and ensure timely completion of tasks. 
-
-It's recommended that users fill out the form carefully and accurately to ensure that the registration process is smooth and efficient...
-
-</thinking>
-
 # facility_maintenance_certification_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the certification and registration of facility maintenance services. This form is designed to gather data about the employer's details and certification schedule to ensure regulatory compliance and quality assurance.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register students for a school supply giveaway program. 
-The form is designed to collect information from both students and parents to determine eligibility and ensure accurate distribution of school supplies. 
-This form is not intended for duplicate registrations, so please ensure you only submit this form once per student. 
-</thinking>
-
 # School Supply Giveaway Registration Form - Help Guide
 ## Purpose
 This form is used to register students for a school supply giveaway program. The program aims to provide essential school supplies to eligible students, and this form collects necessary information to verify eligibility and ensure accurate distribution.

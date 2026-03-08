@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a survey about romantic relationships. It's designed to gather information about various aspects of a relationship, including communication skills, conflict resolution, intimacy, trust, and emotional connection. This form is not affiliated with any form platform and is a unique adaptation of public survey topic metadata. The AI has not copied or extracted any proprietary content from existing forms. You are free to use, modify, and even sell this form, just give credit.
-</thinking>
-
 # Romantic Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to confirm participant details for a live demo session. This form is not meant to be used for general contact or inquiry purposes, but rather for specific demo sessions where participants have already been registered and need to provide additional information or confirm their attendance. It's crucial to fill out this form carefully, as it helps us ensure accurate records and smooth event execution.
-
-</thinking>
-
 # Live_Demo_Session_Confirmation_Form - Help Guide
 ## Purpose
 This form is used to confirm participant details for a live demo session. Please fill it out carefully to ensure accurate records and a smooth event execution.

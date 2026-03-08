@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is for farmers to register their interest in the Regenerative Farming Program. The purpose of this form is to collect information from farmers about their farm details, experience level, consent, landowner info, and other relevant details. This form will help us understand the farmers' needs and preferences, which will inform the program's offerings and support.
-We will check for duplicate forms from the same IP address or user account to prevent non-duplication.
-</thinking>
-
 # Regenerative Farming Program Registration - Help Guide
 ## Purpose
 This form is for farmers to register their interest in the Regenerative Farming Program. Please provide us with accurate and truthful information to help us better understand your needs and preferences.

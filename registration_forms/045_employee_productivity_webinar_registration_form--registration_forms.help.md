@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees regarding their attendance and preferences for the Employee Productivity Webinar. This form will help us understand which employees are planning to attend and how they would like to receive their confirmation. This information will aid our team in organizing the webinar effectively and ensure that everyone is kept informed.
-
-To ensure that we get accurate and relevant data, please make sure to complete the form carefully and provide the necessary details. If an employee is not attending, please let us know why so we can adjust our strategy accordingly. This form will only be used for internal purposes and will not be shared with anyone outside the company.
-
-Please do not submit duplicate entries for the same employee. If you need to register multiple employees, please fill out a new form for each employee.
-
-</thinking>
-
 # Employee Productivity Webinar Registration Form - Help Guide
 ## Purpose
 The Employee Productivity Webinar Registration Form is designed to gather information from employees about their plans to attend the Employee Productivity Webinar. This form will help us understand who is attending and how they would like to receive their confirmation.

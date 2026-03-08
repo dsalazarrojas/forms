@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Startup Demo Brunch RSVP Form - Help Guide
 ## Purpose
 This form is designed to collect RSVPs for the demo brunch event. Please fill out the form to let us know if you can attend and any other relevant details about your attendance.

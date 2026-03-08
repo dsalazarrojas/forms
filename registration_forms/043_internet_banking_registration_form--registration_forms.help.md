@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user registration information for online banking services. It includes fields for personal details (First Name, Last Name, Email, Phone) and account information (Username, Password, Confirm Password). The form also includes a review field for any additional comments or questions, and a submit button. This guide will explain each field's purpose to help users complete the form correctly and efficiently.
-
-The form is part of the "internet banking" service, which implies it's used to manage user accounts online. It's likely that this form will be accessed by users who are trying to create new accounts, reset or update their existing accounts, or perform other account-related actions.
-
-Before creating this guide, it's worth mentioning that the "Review" field seems to be more of an optional field for users to add additional comments or notes. This field may not be necessary for most users, but it's there in case someone wants to provide extra information.
-
-</thinking>
-
 # Internet Banking Registration Form - Help Guide
 ## Purpose
 This form is designed to collect user registration information for online banking services. It's intended to be used by users who want to create new accounts, reset or update existing accounts, or perform other account-related actions.

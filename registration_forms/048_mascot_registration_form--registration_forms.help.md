@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a comprehensive registration form for mascots. The purpose of this form is likely to collect data and information about a mascot, its characteristics, and the user's relationship with the mascot. The form includes a mix of text input fields, select-one and select_multiple fields, and upload fields for image and video data. It seems that the form is designed to collect detailed information about the mascot, including its type, color, description, image, video, name, age, breed, gender, country, hobby, occupation, interest, friends, family, habitat, language, height, weight, size, and length. However, I will need to make some assumptions to provide a clear and concise help guide for the user.
-
-The form appears to be designed to collect information about a mascot in a structured and organized manner. The fields are categorized into different sections, such as "User Information", "Mascot Information", and "Miscellaneous". However, some fields may be better described with more specific labels or descriptions to improve understanding.
-</thinking>
-
 # Mascot Registration Form - Help Guide
 ## Purpose
 The Mascot Registration Form is designed to collect detailed information about a mascot and its characteristics. This form will help us better understand the mascot's features, personality, and traits.

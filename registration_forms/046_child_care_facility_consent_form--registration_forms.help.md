@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Care Facility Consent Form - Help Guide
 
 ## Purpose

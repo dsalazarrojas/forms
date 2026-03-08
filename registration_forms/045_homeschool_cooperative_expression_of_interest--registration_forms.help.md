@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Homeschool Cooperative Expression Of Interest - Help Guide
 
 ## Purpose

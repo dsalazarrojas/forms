@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential leads on a campaign, allowing them to express their interest in partnering with the company. This form is intended for users who are exploring potential partnerships or collaborations. It will be used to assess their interest and suitability for partnership opportunities. The form is essential in helping the company understand the lead's expectations, goals, and preferences, which will aid in determining the best-suited partnership. 
-
-Please ensure that the form is being filled out by the correct individual and not duplicate submissions are made. This guide will walk you through the form fields and their respective explanations to make the process smoother.
-
-</thinking>
-
 # Co Branded Campaign Lead Form - Help Guide
 ## Purpose
 

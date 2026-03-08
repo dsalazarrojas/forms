@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is used for workshop attendance requests. It is essential to ensure that users understand its purpose and how to complete it correctly. This form is meant to collect personal information and event-specific details from users, such as first name, last name, email, phone number, date of attendance, time of attendance, event name, date of the event, attendee type (e.g., event host, speaker, or attendee), comments, and assigned tool status.
-Before filling out this form, ensure you're not already registered for the event. Double-check if you've already submitted a registration form in the past.
-</thinking>
-
 # workshop_attendance_request_form - Help Guide
 ## Purpose
 The workshop attendance request form is used to register for a workshop, providing essential information about yourself and your role in the event.

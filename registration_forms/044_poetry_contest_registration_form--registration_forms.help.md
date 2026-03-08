@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # poetry_contest_registration_form - Help Guide
 ## Purpose
 The Poetry Contest Registration Form is designed to collect information from schools and participants about their poetry submissions for the contest. This form helps us to verify the participant's and school's details and to ensure that the submissions meet the contest criteria.

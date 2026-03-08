@@ -1,10 +1,3 @@
-<thinking>
-This form's purpose is for registering users for weekly discussions, capturing relevant information about their interests and preferences. The goal is to ensure accurate and efficient management of session attendees. 
-- Check that you are registering for the correct weekly session type (Regular or Special).
-- Note that this form is not for general feedback, so avoid providing unrelated or unnecessary comments.
-- Be aware that some fields are mandatory to ensure accurate registration.
-</thinking>
-
 # weekly_discussion_registration - Help Guide
 ## Purpose
 The weekly_discussion_registration form is designed to register users for weekly discussions, providing essential information about their interests and preferences.

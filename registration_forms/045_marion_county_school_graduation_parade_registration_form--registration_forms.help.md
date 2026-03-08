@@ -1,8 +1,3 @@
-<thinking>
-This form will serve as a registration form for the Marion County School Graduation Parade. It will be used to collect information from participants and their schools to organize the parade events. This form does not require any specific information, so it's recommended that users fill out all the fields for a more detailed registration. Please ensure that the provided information is accurate and up-to-date.
-
-</thinking>
-
 # marion_county_school_graduation_parade_registration_form - Help Guide
 ## Purpose
 The Marion County School Graduation Parade registration form is designed to gather information from participants and their schools to organize the graduation parade events.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form that allows customers to sign up for a satellite internet service. This form will help us gather essential information about the customer, such as their name, email, phone number, address, desired installation date, and confirmation of service details. To ensure that customers do not sign up for the service multiple times, we will also include fields to collect confirmation of their agreement to our terms and conditions, as well as any additional notes or comments. This form will guide customers through the process of providing necessary information to complete their sign-up process.
-</thinking>
-
 # Satellite Internet Service Sign Up - Help Guide
 ## Purpose
 This form is for customers to sign up for our satellite internet service. Please fill out the form below to provide the required information and complete your sign-up process.

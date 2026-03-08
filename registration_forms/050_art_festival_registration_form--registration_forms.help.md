@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from participants and artists for the Art Festival. It is intended for registration purposes, and the information collected will be used to plan and prepare for the festival. 
-
-Before starting, please ensure you have all the necessary details ready. You will need to provide accurate and up-to-date information for a smooth registration process. 
-
-Also, please review the festival rules and terms before submitting your registration. If you have any questions or concerns, contact the festival organizers.
-
-</thinking>
-
 # Art Festival Registration Form - Help Guide
 ## Purpose
 The Art Festival Registration Form is designed to collect information from participants and artists for the Art Festival. This form helps us plan and prepare for the festival by gathering essential details about you and your participation.

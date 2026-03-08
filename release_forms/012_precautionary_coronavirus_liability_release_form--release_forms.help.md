@@ -1,5 +1,3 @@
-<thinking>Before diving into the user-facing help guide, let's quickly consider the purpose and context of this form. This form is likely intended to inform customers about the potential risks and liabilities associated with a specific service or activity, particularly in relation to the COVID-19 pandemic. The form's purpose is to educate customers about precautionary conditions, medical declaration requirements, and other related matters. To ensure the user understands this context, we'll need to carefully design the help guide to match.</thinking>
-
 # Precautionary Coronavirus Liability Release Form - Help Guide
 ## Purpose
 This form is designed to provide you with important information about the potential risks and liabilities associated with our services, particularly in relation to COVID-19. Please take a few minutes to carefully read and complete this form to ensure you understand your responsibilities and our precautions.

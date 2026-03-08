@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential volunteers for a cleanup event. The purpose of this form is to gather personal details, emergency contact information, event preferences, and any other relevant information to ensure a safe and successful volunteer experience.
-
-To avoid duplication, please do not complete this form if you have already registered for a volunteer event with us.
-
-</thinking>
-
 # Cleanup Volunteer Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential volunteers for a cleanup event. This information will help us ensure a safe and successful volunteer experience.

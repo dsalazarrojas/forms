@@ -1,7 +1,3 @@
-<thinking>
-We've designed this registration form to allow users to provide necessary information for their participation in the Workplace Modernization Lab. This includes participant details, interests, session preferences, and other relevant information. Please ensure that you're not duplicating your registration if you're representing an organization or institution, as we want to ensure accurate headcounts.
-</thinking>
-
 # Workplace Modernization Lab Registration - Help Guide
 ## Purpose
 This form is designed to gather information from participants for the Workplace Modernization Lab. It helps us understand your interests, session preferences, and other details necessary for your participation.

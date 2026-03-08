@@ -1,7 +1,3 @@
-<thinking>
-This form is used for documenting environmental fieldwork releases. It is used to record the details of the project, team members, and other relevant information. Please make sure to fill out all required fields and submit the form once completed. Before filling out this form, please check if there is not an existing documentation release for the same project. 
-</thinking>
-
 # Environmental Fieldwork Documentation Release Form - Help Guide
 ## Purpose
 This form is used to document environmental fieldwork releases. It captures the details of the project, team members, and other relevant information.

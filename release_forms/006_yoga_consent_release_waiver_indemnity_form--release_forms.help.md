@@ -1,8 +1,3 @@
-<thinking>
-This form is used for students to provide consent and sign a release and waiver agreement. It typically includes fields for demographic information, medical history, emergency contact information, insurance information, and signatures. It is intended for students to fill out prior to participating in a yoga class or other activity. This form is not a substitute for a medical release or waiver form, but rather a separate form for liability and consent purposes. Please ensure that you are using this form in conjunction with your institution's medical release and waiver form, if applicable.
-
-</thinking>
-
 # yoga_consent_release_waiver_indemnity_form - Help Guide
 ## Purpose
 The purpose of this form is for students to provide their consent and release information for participating in yoga classes. It is used to collect demographic information, emergency contact details, medical history, insurance information, and signatures.

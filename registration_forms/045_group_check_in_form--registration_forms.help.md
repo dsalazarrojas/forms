@@ -1,9 +1,3 @@
-<thinking>
-This form seems to be a simple form designed for groups or teams to check in, likely for meetings or events. 
-The form's purpose is to gather information from individuals within a group, probably for attendance tracking or contact purposes. 
-No duplicate fields were detected within the form.
-</thinking>
-
 # Group Check In Form - Help Guide
 ## Purpose
 The Group Check In Form is designed for groups or teams to check in during meetings or events. It collects contact and other relevant information from users within the group.

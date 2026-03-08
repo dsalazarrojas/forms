@@ -1,7 +1,3 @@
-<thinking>
-We're creating this help guide for the Zoom Webinar Registration Form to ensure that end-users understand its purpose and how to complete it. The form is used to collect attendee and registrant information for a Zoom webinar, which includes attendee and registrant names, emails, phone numbers, join times, and dates. It's essential to fill out this form accurately to ensure smooth registration and communication for the webinar. Please review this guide to complete the form correctly and ensure you don't need to re-register.
-</thinking>
-
 # Zoom Webinar Registration Form - Help Guide
 ## Purpose
 The Zoom Webinar Registration Form is used to register attendees and registrants for a Zoom webinar. Please fill out this form accurately to ensure a smooth and successful webinar experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Boarding Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information for pet boarding reservations. It is intended for pet owners to provide details about their pet's stay, including pet information, owner contact details, and reservation specifics.

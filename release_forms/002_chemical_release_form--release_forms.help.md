@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the Chemical Release Form is to collect information about a chemical release or spill incident. This form is used to report any incidents involving the release or spill of a hazardous chemical substance. The form is designed to collect details such as the submitter's contact information, site location, type of chemical involved, estimated volume of release, exposure potential, environmental impact, corrective actions planned, and photos or further investigation needed.
-
-This form is a required field and is used for reporting and documenting chemical release incidents. Users must provide accurate and complete information in all fields, as it will be used for regulatory and record-keeping purposes.
-
-To avoid errors, ensure you have the necessary permissions to access this form, and that the information is up-to-date and accurate.
-
-</thinking>
-
 # Chemical Release Form - Help Guide
 ## Purpose
 The Chemical Release Form is used to report and document chemical release or spill incidents.

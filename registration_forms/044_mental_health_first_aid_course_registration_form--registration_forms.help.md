@@ -1,12 +1,3 @@
-<thinking>
-This help guide will be used by end-users to understand how to register for the mental health first aid course.
-
-The mental health first aid course is a valuable resource for individuals who want to learn about mental health and wellness. The form is designed to be simple and easy to fill out. It will be used to register participants for the course and help us prepare for the event.
-
-Before filling out the form, please ensure that you are registering under your own account and not duplicating a previous registration.
-
-</thinking>
-
 # mental_health_first_aid_course_registration_form - Help Guide
 ## Purpose
 The mental health first aid course registration form is a simple form used to register participants for the course.

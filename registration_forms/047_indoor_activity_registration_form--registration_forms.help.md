@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used for its intended purpose and not duplicated. The purpose of this form is to collect information from participants for indoor activities. It's crucial to fill out all required fields to ensure accurate and complete data collection. Before proceeding, please review the form carefully to avoid unnecessary fields. This form will be used internally for reference and communication with participants. Ensure that you have all the necessary details before submission.
-</thinking>
-
 # indoor_activity_registration_form - Help Guide
 ## Purpose
 The indoor activity registration form is designed to collect information from participants for indoor activities. Please provide accurate and complete information to ensure efficient communication and organization.

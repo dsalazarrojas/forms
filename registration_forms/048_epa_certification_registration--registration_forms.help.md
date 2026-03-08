@@ -1,13 +1,3 @@
-<thinking>
-
-To design a user-facing help guide for the EPA Certification Registration form, I will first explain the internal reasoning behind the form's purpose and check for relevance and non-duplication.
-
-The purpose of the EPA Certification Registration form is to collect information from users who have completed a training program and are seeking EPA certification. This form helps to verify their credentials and track their certification status. The form is likely used in an administrative or business setting, where the user may be a training provider or an individual seeking certification. The form collects various details about the user's training and certification, including dates, locations, and contact information.
-
-Before creating the help guide, I will review the form schema to ensure that I am not duplicating any information or providing redundant explanations. Based on the schema, I will design a clear and concise guide that explains each field in a straightforward and practical manner.
-
-</thinking>
-
 # EPA Certification Registration - Help Guide
 ## Purpose
 The EPA Certification Registration form is designed to collect information from users who have completed a training program and are seeking EPA certification. This form helps to verify their credentials and track their certification status.

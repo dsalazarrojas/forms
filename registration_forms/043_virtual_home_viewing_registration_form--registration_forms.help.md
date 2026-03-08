@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will first consider the purpose of the form and ensure it is relevant and not duplicated. The form is for virtual home viewing registration. The user needs to provide their first name, last name, email, phone number, date of visit, and time of visit. The form does not require any specific business logic, so I will explain each field in a straightforward manner. I will also ensure that the explanations are concrete, concise, and practical.
-</thinking>
-
 # Virtual Home Viewing Registration Form - Help Guide
 ## Purpose
 The Virtual Home Viewing Registration Form is a user-friendly form designed to gather essential information from users who wish to view a virtual home viewing. This form is intended to collect personal details and visit information for administrative purposes.

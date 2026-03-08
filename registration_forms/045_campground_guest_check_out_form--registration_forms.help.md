@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information from campers who are checking out of the campground. It is designed to help the management track the camper's experience, cleanliness of the site, and overall satisfaction with the facilities and staff. This form should only be filled out by campers who are checking out of the campground, and it should not be filled out by people who are still on site.
-
-To determine if this form is relevant to the user, you can check if the camper has already checked out of the site. If they have not, they should not fill out this form.
-
-To ensure this form is not duplicated, the system can check if a camper has already checked out of the site and not filled out this form.
-
-The form is divided into two main sections: Guest Information and Experience. The Guest Information section includes fields for the camper's first and last name, contact email, phone number, campsite number, check-in and check-out dates, check-out time, number of nights stayed, number of people in their party, number of adults, and number of children. The Experience section includes fields for the type of accommodation used, RV size (if applicable), site cleanliness rating, facilities rating, staff friendliness rating, favorite part of the stay, least favorite part, and overall experience rating. The form also includes fields for whether the camper left any items behind, if any damage occurred during their stay, and whether they would recommend the campground to others.
-
-Note: Some fields may not be applicable to all campers, such as RV size and whether any items were left behind.</thinking>
-
 # Campground Guest Check Out Form - Help Guide
 ## Purpose
 

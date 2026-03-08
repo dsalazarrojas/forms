@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking to register for a Performance Analytics Certification. The purpose of this form is to gather necessary details such as name, contact information, and payment method to facilitate the certification process. Please ensure that you are not duplicating your registration by checking with the certification authority before proceeding. This form is typically used by individuals who wish to obtain certification in Performance Analytics, a field related to data analysis and metrics evaluation. Please note that not all fields are required, but filling out as much information as possible will aid the certification process.
-</thinking>
-
 # Performance Analytics Certification Registration Form - Help Guide
 ## Purpose
 This form is used for registration purposes only and is not intended for general contact or inquiry.

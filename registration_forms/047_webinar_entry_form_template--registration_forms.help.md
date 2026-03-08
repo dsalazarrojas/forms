@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form, "webinar_entry_form_template", is to create a registration form for a webinar or online meeting event. This form will gather basic information from attendees including their first and last names, email address, phone number, registration date, preferred time, and any additional notes they may want to add. The form will be used to create or edit entries for a specific webinar. This information will likely be used to follow up with attendees, send reminders, or provide updates. Please ensure this form is only used for its intended purpose and for the relevant events.
-</thinking>
-
 # webinar_entry_form_template - Help Guide
 ## Purpose
 The webinar_entry_form_template is a registration form for a webinar or online meeting event.

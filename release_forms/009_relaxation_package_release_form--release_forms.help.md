@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for releasing a relaxation package, which is likely used for customer or user engagement. To ensure accuracy, please fill out this form only when you have been assigned a specific package to release.
-
-Before proceeding, confirm that you have not already submitted a release request for the same package. If you are unsure, please contact your supervisor or the package owner to verify.
-
-</thinking>
-
 # Relaxation Package Release Form - Help Guide
 ## Purpose
 The Relaxation Package Release Form is used to release a relaxation package, which is a collection of tasks or resources used to engage with customers or users.

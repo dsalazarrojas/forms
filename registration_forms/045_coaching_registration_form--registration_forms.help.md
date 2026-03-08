@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users registering for coaching services. The purpose of this form is to gather essential details about the registrant, including their personal and contact information, medical and health status, coaching preferences, and payment details. This form is a critical step in the registration process, and accurate completion is crucial for a smooth and successful coaching experience.
-
-To ensure the form is completed correctly, it is essential to review the guidelines and instructions below.
-
-</thinking>
-
 # Coaching Registration Form - Help Guide
 ## Purpose
 

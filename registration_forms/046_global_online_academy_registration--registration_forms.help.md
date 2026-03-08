@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to collect registration information from users interested in joining the Global Online Academy. This form is used to gather details about the course the user wishes to join and their personal information as a student.
-
-To complete this form, start by entering the requested information in the following fields. Each field is described below for clarity.
-
-</thinking>
-
 # Global Online Academy Registration - Help Guide
 ## Purpose
 This form is used to collect registration information from users interested in joining the Global Online Academy. Enter your details and course preferences, and you will receive more information about the program.

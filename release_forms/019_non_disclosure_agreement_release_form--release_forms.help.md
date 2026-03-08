@@ -1,15 +1,3 @@
-<thinking>
-**Why this form?**
-This form is used for obtaining a release from a non-disclosure agreement (NDA). A non-disclosure agreement is a legal document that prevents someone from sharing confidential information. This form allows the individual to release their non-disclosure agreement, indicating that they are no longer bound by its terms. This form is used to gather information and confirm the release, and it should only be used when the individual has a legitimate reason for releasing their non-disclosure agreement.
-
-**When to use this form?**
-This form should only be used in situations where the individual has a valid reason for releasing their non-disclosure agreement. This could be due to a change in circumstances, a revocation of the agreement, or a transfer of ownership. Use this form only if you are certain that the individual has a legitimate reason for releasing their non-disclosure agreement.
-
-**Is this form already completed?**
-Before completing this form, make sure that you understand the purpose of the non-disclosure agreement and why you are releasing it. If you are unsure, do not complete the form. Consult with an attorney or other relevant party before proceeding.
-
-</thinking>
-
 # Non Disclosure Agreement Release Form - Help Guide
 ## Purpose
 

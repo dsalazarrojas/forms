@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture user information, contact details, session specifics, and any additional context that may be required for a networking session. It is designed to be completed by individuals who wish to participate in a networking session. 
-Please note that this form is not affiliated with or endorsed by any form platform, but rather generated using AI as a tool. The form's structure and content are original and not copied from any other source.
-</thinking>
-
 # Networking Session Application Form - Help Guide
 ## Purpose
 The Networking Session Application Form is designed to help individuals apply for participation in a networking session. This form captures essential information to facilitate a smooth and effective networking experience.

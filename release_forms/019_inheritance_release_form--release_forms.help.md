@@ -1,12 +1,3 @@
-<thinking>
-This form is likely part of a process for managing asset releases, possibly for assets such as equipment, software, or intellectual property. The form is designed to gather information about the asset in question, including its value, type, and release details. The goal is to ensure a smooth and accurate transfer of ownership. 
-
-The form consists of multiple pages, each with a specific set of questions. Page 1 is for asset confirmation, page 2 for claiming a waiver, and so on. Each field is crucial in providing the necessary information for the release process. 
-
-Before proceeding, it's essential to review the form carefully and ensure that all required fields are completed accurately. This guide will walk you through each field to help you complete the form efficiently and effectively.
-
-</thinking>
-
 # Inheritance Release Form - Help Guide
 
 ## Purpose

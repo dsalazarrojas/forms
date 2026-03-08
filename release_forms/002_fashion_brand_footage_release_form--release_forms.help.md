@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Brand Footage Release Form - Help Guide
 ## Purpose
 This form is used to collect information about the usage of footage featuring a fashion brand. It is essential to ensure that the model releases their rights and agrees to the terms of use of their image. Please fill out this form to demonstrate that you have obtained the necessary releases and understand the usage terms.

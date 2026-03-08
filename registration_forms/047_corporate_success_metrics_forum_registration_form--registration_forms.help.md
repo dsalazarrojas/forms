@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who wish to register for a corporate success metrics forum. The purpose of this form is to collect attendee details such as name, company, job title, email, and event-related information. The form should be completed by the individual registering for the event to ensure that their details are accurately recorded.
-
-Before starting the form, it's essential to ensure that the individual has not already registered for the event. To do this, please check if you have previously received a confirmation email from us regarding your registration. If you have, please do not fill out this form again, as your details are already recorded.
-
-Additionally, please note that some fields marked as required will need to be filled out for the form to be submitted successfully.
-</thinking>
-
 # Corporate Success Metrics Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Corporate Success Metrics Forum. Please fill it out to ensure that your registration is recorded correctly.

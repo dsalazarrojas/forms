@@ -1,7 +1,3 @@
-<thinking>
-The Immigration Intake Form is used to collect information about a client's immigration-related data. This form is part of a larger intake process and is used to help gather essential details that will be used to assess and process the client's immigration case. It is not a form for submitting official immigration applications. Please note that this form is for general information gathering purposes only and is not a substitute for official immigration documents or applications. 
-</thinking>
-
 # Immigration Intake Form - Help Guide
 ## Purpose
 The Immigration Intake Form is a form used to collect information about a client's immigration-related data.

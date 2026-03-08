@@ -1,8 +1,3 @@
-<thinking>
-This form is for documenting a child's discharge from a daycare program, which is a crucial process for updating the child's status in the system and ensuring continuity of care. It's essential to complete this form accurately and thoroughly to maintain data integrity. 
-Before filling out this form, verify that you have the necessary information and permissions to proceed. Also, ensure that you are not duplicating efforts, as this form is meant to replace any previous discharge records.
-</thinking>
-
 # Daycare Program Discharge Form - Help Guide
 ## Purpose
 The Daycare Program Discharge Form is used to document a child's discharge from a daycare program. This form is essential for updating the child's status in the system and ensuring continuity of care.

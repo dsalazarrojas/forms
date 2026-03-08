@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-The local impact story publication consent form is used to collect data from end-users about their local impact story publications. It is a crucial form for tracking and monitoring the submission process. This form should only be filled out once for each publication. If a user has already filled out this form for a publication, they should not fill it out again. This form is designed to collect the following information: contact information, submission date, created by information, updated by information, publication details, and any additional notes that may be relevant to the publication. This form helps to ensure that all publications are accounted for and that the necessary information is collected accurately. 
-
-</thinking>
-
 # local_impact_story_publication_consent_form - Help Guide
 ## Purpose
 This form is used to collect data from end-users about their local impact story publications. It is essential for tracking and monitoring the submission process.

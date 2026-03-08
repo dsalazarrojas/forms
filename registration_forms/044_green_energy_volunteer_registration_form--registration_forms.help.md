@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to register as volunteers for the Green Energy initiative. The goal is to collect contact information and role preferences from potential volunteers. The form is part of a larger volunteer management system, and the data collected will be used to assign volunteers to events and projects. Please make sure to fill out this form accurately and completely.
-
-</thinking>
-
 # green_energy_volunteer_registration_form - Help Guide
 ## Purpose
 This form collects information from potential volunteers for the Green Energy initiative.

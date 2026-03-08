@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect data on romance reading habits, including preferred methods of reading, favorite romance subgenres, reading frequency, age group, education level, income level, occupation, employment status, household size, income source, income frequency, employment type, employment status, hours worked per week, education level, household income, marital status, family status, number of dependents, and survey completion experience. The data collected will be used to gain insights into the romance reading habits of individuals and inform future marketing strategies for romance authors and publishers.
-
-</thinking>
-
 # Romance Reading Habits Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your romance reading habits and preferences.

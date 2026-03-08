@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We should create a form that allows employees to provide feedback on their training programs. This form is used to record their attendance status, session details, and other relevant information. It is likely used for quality control, monitoring, and evaluation purposes within the training programs. Please ensure you only fill out the form if you have attended a training session recently.</thinking>
 
 # Employee Training Program Attendance Form - Help Guide

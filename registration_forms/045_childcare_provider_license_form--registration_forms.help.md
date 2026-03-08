@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from childcare providers seeking to obtain or renew a license to operate a childcare facility. It is intended to gather data on the applicant's contact information, facility details, and compliance with state and local regulations. The form is essential for the childcare licensing agency to assess the applicant's qualifications and suitability for a license. This form is not meant to be used for any other purpose.
-
-</thinking>
-
 # Childcare Provider License Form - Help Guide
 ## Purpose
 The Childcare Provider License Form is a document designed to collect information from childcare providers seeking to obtain or renew a license to operate a childcare facility. This form helps the childcare licensing agency assess the applicant's qualifications and suitability for a license.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from participants who want to attend or present at an academic conference. The form is designed to collect contact and demographic information, as well as details about the participant's registration type, attendance dates, presentation preferences, dietary requirements, accessibility needs, accommodation needs, networking preferences, and payment method. This form should not be completed by participants who are not registered for the conference or who do not have permission to submit the form on behalf of another person. Please make sure that you are authorized to complete this form before proceeding.
-
-</thinking>
-
 # Academic Conference Reservation Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a photograph, video, or text release, including details about the photographer, videographer, and client. This form is intended to be used in conjunction with the photograph, video, or text to facilitate the release of rights and permissions. The form is designed to be completed by the photographer or videographer and will collect necessary information to ensure that the release is accurate and complete.
-
-Before completing this form, please ensure that you have reviewed the necessary documentation and have obtained the required permissions and releases from all relevant parties. Additionally, this form should not be used to collect duplicate or sensitive information, and the fields should be filled in only once for each specific release.
-
-To determine the relevance and completeness of this form, the following considerations should be taken into account:
-* The photographer and videographer's name and contact information should match the documentation and contracts in place.
-* The release date should be accurately reflected in the documentation.
-* The client's name and contact information should be accurate and up-to-date.
-* The other uses section should include all applicable uses of the released material.
-* The notes section should be used to record any additional information that may be relevant to the release.
-</thinking>
-
 # rachael_associate_photographvideotext_release_form - Help Guide
 ## Purpose
 This form is used to collect information about a photograph, video, or text release, including details about the photographer, videographer, and client.

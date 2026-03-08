@@ -1,17 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Space Innovation Event Absence Form", I'll follow the provided YAML structure to understand the form's purpose, requirements, and fields. The form appears to be designed for participants to report their absence from events, providing reasons, dates, and possibly additional information such as contact details.
-
-The form might be used for various purposes, such as:
-
-* Allowing event organizers to track attendance and absence patterns
-* Enabling participants to communicate their unavailability
-* Facilitating communication with absent participants
-
-To avoid duplication, the form might be used for a single event or for multiple events, depending on the context.
-
-</thinking>
-
 # Space Innovation Event Absence Form - Help Guide
 ## Purpose
 The Space Innovation Event Absence Form is designed for participants to report their absence from events. This form allows them to provide reasons for their absence, dates they were unable to attend, and optional additional information such as contact details.

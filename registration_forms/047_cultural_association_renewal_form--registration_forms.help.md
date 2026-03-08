@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for cultural associations to renew their membership or affiliation. To complete the form, you must be a current member of the association. The form will be used to verify your current membership status and update your information if needed. 
-
-Before proceeding, please ensure that you are a current member of the association and that you have all necessary information ready. If you are unsure, you can contact our office to confirm your membership status. 
-
-Also, please note that this form should not be used to register for a new membership. If you are interested in joining the association, please fill out the general membership application form.
-
-</thinking>
-
 # Cultural Association Renewal Form - Help Guide
 ## Purpose
 This form is used for cultural associations to renew their membership or affiliation with us.

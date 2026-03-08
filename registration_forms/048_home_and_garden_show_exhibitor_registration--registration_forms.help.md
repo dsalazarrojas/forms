@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect exhibitor information for the Home And Garden Show. It's meant for vendors to register their company and product details. The form has multiple pages, each with its own set of fields. The goal is to gather all necessary information from the exhibitor in a structured and efficient manner. This guide will walk the user through the form process, explaining each field's purpose and required fields.
-</thinking>
-
 # Home And Garden Show Exhibitor Registration - Help Guide
 ## Purpose
 This form is used by vendors to register their company and product information for the Home And Garden Show.

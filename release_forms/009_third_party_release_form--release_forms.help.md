@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a release form for third-party access, allowing users to grant permission for a client or third party to access certain information. The form will help ensure that the user has understood and agreed to the terms of the release, including that they have received the form from their client and understand the scope of the information being released. This form will be used to verify that the user's client has been properly authorized and that the user has provided their explicit consent.
-The form will be used in conjunction with other forms and processes, and it is essential that users understand its purpose and how to complete it correctly.
-</thinking>
-
 # Third Party Release Form - Help Guide
 ## Purpose
 The Third Party Release Form is a document that grants permission for a client or third party to access certain information. It ensures that the user has understood and agreed to the terms of the release, including that they have received the form from their client and understand the scope of the information being released.

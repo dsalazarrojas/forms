@@ -1,22 +1,3 @@
-<thinking>
-The form "osha_certification_training_form" is used for registering certification training programs. It appears to be related to training certifications in Occupational Safety and Health Administration (OSHA). The purpose of this form is to gather data on employees who have completed or are enrolled in specific training programs. The form asks for basic contact information (First Name, Last Name, Email, Phone) and additional information such as training program, training date, type of certification, and status of the training. This form might be used by HR or administrative staff to record employee training data for compliance and tracking purposes.
-
-It seems that the form has a mix of required and non-required fields, which might be based on the organization's internal policies or regulatory requirements. Some fields like "Training Notes" and "Training Status" seem to be specific to the training program, while "Assigned Tool" and "Assigned Date" might be related to resource allocation or task assignments.
-
-To avoid duplication, it is likely that the form is used in conjunction with other systems or databases that store this information. This could be a part of a larger HR or administrative workflow.
-
-This form is probably designed to be filled out by employees or their representatives when they complete a training program. The fields might be self-explanatory, but it's always a good idea to provide clear instructions and guidance to ensure accurate and consistent data collection.
-
-The fields seem to be a mix of basic contact information (First Name, Last Name, Email, Phone), specific to the training program (Training Program, Training Date, Certification Type, Training Status), and tracking information (Assigned Tool, Assigned Date, Submitted On, Created By, Updated By, Deleted By).
-
-The form appears to be used in an administrative or business setting, where accurate and up-to-date information is crucial for decision-making and compliance purposes.
-
-The form has a mix of required and non-required fields, which might be based on organizational policies or regulatory requirements.
-
-This form might be part of a larger HR or administrative workflow, where data collection and tracking are essential for managing employee training and certification programs.
-
-</thinking>
-
 # osha_certification_training_form - Help Guide
 ## Purpose
 

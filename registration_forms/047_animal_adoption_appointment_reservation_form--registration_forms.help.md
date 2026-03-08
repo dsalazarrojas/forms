@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for users to reserve an appointment for animal adoption. The purpose of this form is to gather essential information from users to facilitate the reservation process. Before filling out this form, please ensure you have all the necessary information required for the reservation. If you're unsure about any of the fields, please refer to this help guide for clarification. This form should not be used for duplicate reservations. If you've already made a reservation, please do not submit this form again.
-</thinking>
-
 # Animal Adoption Appointment Reservation Form - Help Guide
 
 ## Purpose

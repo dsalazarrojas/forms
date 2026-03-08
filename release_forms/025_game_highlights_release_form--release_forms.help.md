@@ -1,10 +1,3 @@
-<thinking>
-The form "Game Highlights Release Form" is a tool used to collect information and permissions from participants, particularly gamers, regarding the sharing and distribution of their game highlights. This form is designed to be completed by participants in game-related events, such as tournaments, leagues, or schools. The form is intended to ensure that participants understand and agree to the terms of sharing their game highlights, including their consent for publication, distribution, and other rights. This form aims to clarify the participants' permissions and provide a clear record of their agreements. To ensure accuracy, please review the form carefully and provide all requested information.
-
-Please note that the fields below are essential for the correct completion of the form. If you have any questions or concerns, please contact <form@gic.mx>.
-
-</thinking>
-
 # Game Highlights Release Form - Help Guide
 ## Purpose
 The Game Highlights Release Form is a tool used to collect and document participant permissions for sharing game-related content. It is essential for ensuring that participants' rights are respected and that their agreements are accurately recorded.

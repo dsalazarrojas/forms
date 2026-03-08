@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for registering students for a music conservatory's spring semester. It's crucial to ensure that this form doesn't get duplicated for internal use, and it's essential to follow these steps carefully to maximize its utility. The form seems to be intended for students who are interested in enrolling in the spring semester of a music conservatory. To prevent any potential issues, let's make sure that this form is completed accurately and thoroughly by following the instructions carefully.
-
-</thinking>
-
 # music_conservatory_spring_registration_form - Help Guide
 ## Purpose
 The music conservatory spring registration form is designed to help students enroll in the spring semester of the music conservatory. This form captures essential information from students, including their enrollment details, preferences, contact information, and other relevant details.

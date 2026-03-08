@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about a user's tasting experience, likely for a food or wine tasting event. The form asks for personal details such as first and last name, email, phone number, and credit card information for payment. It also captures information about the event, including event date, time, location, and description. The form may be used for registration or payment purposes.
-</thinking>
-
 # Tasting Experience Registration Form - Help Guide
 ## Purpose
 The Tasting Experience Registration Form is designed to collect information about a user's tasting experience for a food or wine tasting event.

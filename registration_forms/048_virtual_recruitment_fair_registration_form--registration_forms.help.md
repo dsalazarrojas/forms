@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registering for a Virtual Recruitment Fair. The purpose of this form is to collect information from job seekers about their job title, job type, work arrangement, and other relevant details. This form will be used to manage registrations for the fair and provide information to participating employers. To ensure a smooth registration process, please complete this form carefully. Please note that some fields are required to ensure accurate and efficient registration.
-
-</thinking>
-
 # Virtual Recruitment Fair Registration Form - Help Guide
 ## Purpose
 The Virtual Recruitment Fair Registration Form is designed to collect information from job seekers about their job title, job type, work arrangement, and other relevant details. This form will be used to manage registrations for the fair and provide information to participating employers.

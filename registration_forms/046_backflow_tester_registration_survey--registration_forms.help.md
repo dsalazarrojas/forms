@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Backflow Tester Registration Survey - Help Guide
 
 ## Purpose

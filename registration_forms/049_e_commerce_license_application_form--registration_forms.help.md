@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for the registration of an e-commerce business, which is a business that operates online or over the phone. This form will guide you through the necessary steps to complete your e-commerce license application. Please note that if you have already submitted an application for the same e-commerce business, do not fill this form as it will be considered a duplicate submission. Please ensure that all the required fields are filled before submitting the form. If you need any clarification or further assistance, please do not hesitate to reach out to us.</thinking>
-
 # e_commerce_license_application_form - Help Guide
 ## Purpose
 The purpose of this form is to guide e-commerce businesses in registering their license application. It collects essential information about the business structure, ownership, and other relevant details required for the license application process.

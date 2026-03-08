@@ -1,11 +1,3 @@
-<thinking>
-This form is used for campaign pledge validation, which is a process to confirm and verify the legitimacy of a pledge made by a supporter. The form is used to gather necessary information from the supporter, including their name, contact email, pledge amount, pledge date, and other relevant details such as verification method, matched by employer status, expected fulfillment date, and notes. This form is crucial in ensuring that all pledges are properly verified and recorded in the system.
-
-To prevent duplication of efforts, please ensure that this form is not filled out by a supporter if they have already been validated in the system.
-
-This form will be used for internal validation purposes only, and any information collected through this form will be used to update the supporter's pledge status in the system.
-</thinking>
-
 # Campaign Pledge Validation Form - Help Guide
 ## Purpose
 The Campaign Pledge Validation Form is used to collect and verify information from supporters who have made a pledge to a campaign. This form helps to ensure that all pledges are properly recorded and validated in the system.

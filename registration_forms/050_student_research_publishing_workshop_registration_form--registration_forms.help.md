@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Student Research Publishing Workshop Registration Form" accurately and effectively. It is crucial that users understand the purpose of this form and how each field contributes to the successful submission of their registration.
-
-The form is designed for students to register for a workshop focused on research publishing, where attendees can expect to learn about the latest trends, best practices, and techniques in research publishing. The form's purpose is to collect relevant information from students, including their personal details, workshop preferences, and research-related data.
-
-Before proceeding, please ensure that your workshop preferences align with the provided options. This includes selecting the correct language, confirming your registration, and indicating your interest in specific workshop topics. If you are unsure about any of the fields or options, please consult the field explanations below.
-
-</thinking>
 # Student Research Publishing Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed for students to register for a workshop focused on research publishing. It collects essential information for a successful workshop experience.

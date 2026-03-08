@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in the Mergers and Acquisitions Readiness Program. The purpose of this form is to gather data on the teams or organizations that are participating in the program, as well as their key contact information and any additional notes or details. This form is required for all participants, so please ensure you have completed all fields accurately and thoroughly.
-</thinking>
-
 # Mergers And Acquisitions Readiness Program Registration - Help Guide
 ## Purpose
 The Mergers and Acquisitions Readiness Program is a program designed to help teams or organizations prepare for mergers and acquisitions. This form is used to collect information about participants in the program, including their team or organization details, contact information, and any additional notes or details.

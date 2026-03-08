@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be designed for participants to provide consent for their image, voice, and/or likeness to be used in sports broadcasts, promotional media, and other forms of media. The purpose of this form is to get the participant's agreement to release their image, voice, and likeness for a certain period of time. The form also seems to be used to specify the details of the release, including the type of media and the platform where the release will be used. It's possible that this form is used in a sports-related context, such as a sports event or a sports news broadcast. However, I need more context to be sure.
-
-</thinking>
-
 # Sports Broadcast Highlight Release Form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants to release their image, voice, and/or likeness for sports broadcasts, promotional media, and other forms of media. This form is essential for ensuring that participants' rights are respected and their privacy is protected.

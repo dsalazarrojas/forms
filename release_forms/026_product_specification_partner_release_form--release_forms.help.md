@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about product specifications from partners. This form is used in the context of product release management, where partners can input their product specifications, release dates, and other relevant details. The form is designed to facilitate collaboration and ensure that all stakeholders are on the same page.
-
-When completing this form, please ensure that you are using the correct information and that the form is not being submitted multiple times. This will prevent duplication of effort and ensure that the information is up-to-date and accurate.
-
-Please note that the information collected through this form will be used to manage product releases and ensure that all partners have access to the necessary information.
-
-</thinking>
-
 # Product Specification Partner Release Form - Help Guide
 
 ## Purpose

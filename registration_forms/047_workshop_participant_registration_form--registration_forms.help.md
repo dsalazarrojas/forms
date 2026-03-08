@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for workshop participants to register for a workshop. It's crucial to ensure that each participant provides accurate and complete information to facilitate smooth communication and organization during the event. To avoid duplication of effort and potential misunderstandings, it's essential to review this form carefully and fill it out with the correct details. Please take a few moments to review this guide to ensure you're on the right track.
-</thinking>
-
 # Workshop Participant Registration Form - Help Guide
 ## Purpose
 This form is designed to capture essential information about workshop participants to ensure a smooth and successful workshop experience.

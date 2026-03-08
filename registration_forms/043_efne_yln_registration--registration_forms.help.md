@@ -1,8 +1,3 @@
-<thinking>
-The EFNE YLN Registration form is used for registering participants in a meeting or event. The form is intended for individuals to provide their personal and professional information, as well as details about their role and involvement in the meeting. This form ensures that the necessary data is collected in a standardized format for easy reference and follow-up.
-The form is designed to be filled out by participants who are registering for the meeting or event. To complete the form, users should follow the instructions below.
-</thinking>
-
 # EFNE YLN Registration - Help Guide
 ## Purpose
 This form is used to collect information from participants registering for the EFNE YLN meeting or event.

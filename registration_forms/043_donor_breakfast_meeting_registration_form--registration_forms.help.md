@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we must first establish the purpose of the form. The Donor Breakfast Meeting Registration Form is designed to gather essential information from donors about their attendance to a breakfast meeting. This form helps the event organizers to collect the necessary details for a smooth and enjoyable experience for all attendees.
-
-Before we dive into the guide, we check if this form is relevant and not duplicative. Given the nature of the event and the information required, this form should be relevant and not redundant. 
-
-</thinking>
-
 # Donor Breakfast Meeting Registration Form - Help Guide
 ## Purpose
 The Donor Breakfast Meeting Registration Form is designed to gather essential information from donors about their attendance to a breakfast meeting. This form helps the event organizers to collect the necessary details for a smooth and enjoyable experience for all attendees.

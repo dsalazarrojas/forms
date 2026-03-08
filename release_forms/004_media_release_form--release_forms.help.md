@@ -1,5 +1,3 @@
-<thinking>... This form seems to be for collecting media release information from individuals... It appears to be used for general information gathering or public speaking engagements... The form does not seem to have any specific validation rules based on its fields, so it might be for internal use or for simple information collection... I'll assume it's for media relations or event purposes... This form doesn't have any specific rules about which fields are required, so let's assume all are optional... I'll create the help guide based on these assumptions... </thinking>
-
 # Media Release Form - Help Guide
 ## Purpose
 The Media Release Form is a tool used to collect information from individuals for media relations or event purposes. This form is intended to gather basic contact and identification information for the purposes of communicating with you.

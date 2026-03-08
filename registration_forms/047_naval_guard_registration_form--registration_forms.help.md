@@ -1,14 +1,3 @@
-<thinking>
-The Naval Guard Registration Form is intended to collect essential information from naval guards for administrative and operational purposes. This form helps in ensuring that all necessary details are captured correctly, reducing errors, and improving the overall efficiency of the registration process.
-
-The form is designed to be completed by naval guards, and it covers various aspects of their registration, including personal details (first name, last name, date of birth), contact information (email, phone, address), and professional details (role, unit, assigned tools, category). The form also allows for optional fields for additional information and notes. 
-
-It is crucial to ensure that all required fields are completed accurately to avoid any issues during the registration process. Before starting, please review the form carefully and make sure you have all the necessary information to complete it.
-
-This guide will walk you through each field of the form, explaining its purpose and how to fill it out correctly.
-
-</thinking>
-
 # Naval Guard Registration Form - Help Guide
 ## Purpose
 ## How To Complete This Form

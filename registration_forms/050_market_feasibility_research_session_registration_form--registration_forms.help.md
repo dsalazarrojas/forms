@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to register their interest in participating in a Market Feasibility Research Session. The form will not proceed to the next step if the user has already been registered or if there's an existing registration from their company.
-
-The form collects information necessary for identifying the participant: name, contact information, and their affiliation with the company.
-
-To ensure that the form is completed correctly, users will need to follow this guide:
-
-</thinking>
-
 # Market Feasibility Research Session Registration Form - Help Guide
 
 ## Purpose

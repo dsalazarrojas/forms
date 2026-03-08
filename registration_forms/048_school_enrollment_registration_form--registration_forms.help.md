@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to be a straightforward and user-friendly guide for the "School Enrollment Registration Form". The form is designed to collect essential information from parents or guardians who wish to enroll their child in the school. The form's purpose is to facilitate a smooth and hassle-free enrollment process for both the school and the families. By providing this guide, we aim to ensure that users understand exactly what is needed and how to complete the form correctly.
-
-This form is not intended for existing students; it's for new students who wish to join the school. Each field is designed to collect specific details that will be used to create a new student profile. The form will be reviewed and processed by the school administration to ensure that all the required information is accurate and complete.
-
-Before starting, please review this guide carefully and make sure you are not duplicating an existing student's enrollment.
-
-</thinking>
-
 # School Enrollment Registration Form - Help Guide
 ## Purpose
 The School Enrollment Registration Form is designed to gather essential information from parents or guardians to enroll their child in the school. This form is meant for new students only, and it will be reviewed and processed by the school administration to ensure accurate and complete enrollment.

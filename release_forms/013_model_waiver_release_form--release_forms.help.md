@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain model waiver and release information from individuals who participate in photo shoots, events, or other modeling related activities. This form helps in establishing a clear agreement between the model and the photographer or organization, defining the terms and conditions of the photo shoot or event. The form is intended for use by photographers, event organizers, or any entity that requires models to grant permissions for their image use. It is essential to use this form to ensure that the model's rights are respected and that any misuse of their images is avoided.
-</thinking>
-
 # Model Waiver & Release Form - Help Guide
 ## Purpose
 The Model Waiver & Release Form is a document that helps you, as a model, to agree or disagree to the use of your images in photographs. This form is designed to be used by photographers, event organizers, or any entity that requires models to grant permissions for their image use.

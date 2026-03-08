@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register a user for the Flower Arrangement Competition. The form is intended for individuals who want to participate in the competition by providing their personal information, including their name, contact details, and the type of flower arrangement they are entering. This form is not intended for general information or feedback, and users are expected to fill it out thoroughly and accurately to ensure a successful registration process.
-To avoid duplication of effort and unnecessary registrations, please ensure that you only fill out this form if you are a genuine participant and have not already registered for this competition.
-</thinking>
-
 # Flower Arrangement Competition Registration - Help Guide
 ## Purpose
 This form is for participants to register for the Flower Arrangement Competition.

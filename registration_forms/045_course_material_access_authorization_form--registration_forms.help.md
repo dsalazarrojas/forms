@@ -1,5 +1,3 @@
-<thinking>Form purpose is to verify that the user has permission to access course materials. The form is used to determine if the user can access specific course materials based on their ID, institution, role, access level, start date, and end date. This form is used to grant or deny access to course materials.</thinking>
-
 # Course Material Access Authorization Form - Help Guide
 
 ## Purpose

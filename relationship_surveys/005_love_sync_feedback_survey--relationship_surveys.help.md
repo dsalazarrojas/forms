@@ -1,10 +1,3 @@
-<thinking>
-This form is part of the "relationship_surveys" category and is titled "love_sync_feedback_survey". The purpose of this form is to collect feedback and suggestions from users on their overall satisfaction and preferences regarding love and synchronization. It seems that this form is not required, as indicated by the `required: false` tag in the YAML schema.
-
-The form has five main sections or "pages", and each section has various fields for users to fill out. However, no further instructions or context is provided to guide the form completion. This form appears to be a straightforward survey, and each field will be explained in detail below.
-
-Please note that the provided YAML schema does not specify any specific context or business logic for the form, so the explanations will be based on best-effort interpretation.</thinking>
-
 # love_sync_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from users on their overall satisfaction and preferences regarding love and synchronization. It's a straightforward survey to help us understand your thoughts and opinions on these topics.

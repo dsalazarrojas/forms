@@ -1,10 +1,3 @@
-<thinking>
-The Public Service Registration Form is a crucial tool for organizations to collect information from public participants. This form is designed to gather essential details about the participant, including their contact information, phone number, address, and registration date. The form is typically filled out by public participants who wish to join or engage with a particular public service.
-This form helps to ensure that participants' information is accurate and up-to-date, facilitating smooth communication and service delivery. It also helps organizations maintain a record of public participants, allowing them to track engagement and provide targeted services.
-The form is divided into different sections, each focusing on a specific aspect of the participant's information. This guide will walk you through each section to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # Public Service Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We're designing a help guide for the "Cultural Fundraising Night RSVP Form" to ensure that users understand its purpose and how to fill it out correctly. This form is intended for users to RSVP for an event called "Cultural Fundraising Night" where they can provide their personal details, RSVP information, and any additional comments. To complete the form, users will need to provide their Name, Email, Phone, Guest Count, RSVP Time, Comments, and RSVP Date and Time. We'll aim to make the explanations clear and concise, avoiding any unsupported assumptions about the business logic behind the form fields.
-</thinking>
-
 # Cultural Fundraising Night RSVP Form - Help Guide
 ## Purpose
 The "Cultural Fundraising Night RSVP Form" is a simple form designed to collect RSVP information from attendees of the Cultural Fundraising Night event. Please fill out this form to let us know if you can join us and provide any additional comments or details we should be aware of.

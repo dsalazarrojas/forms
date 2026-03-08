@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Visitor Badge Check In Form - Help Guide
 ## Purpose
 The Visitor Badge Check In Form is used to record the details of visitors who enter your premises for a badge check-in process. This helps to ensure that visitors are accurately accounted for and can be quickly checked out when they leave.

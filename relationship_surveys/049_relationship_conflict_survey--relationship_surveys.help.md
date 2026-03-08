@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to gather information about relationships and conflicts. It's intended to help users understand their own thoughts and feelings regarding conflicts in their relationships.

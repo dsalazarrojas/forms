@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to register attendees for a retail buyer conference. It's designed to collect general information, company details, contact preferences, company info, shipping, payment, attendee details, and attendee info from the registrants. 
-
-</thinking>
-
 # Retail Buyer Conference Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from registrants for the Retail Buyer Conference. Please fill out the form with accurate and complete information to ensure a smooth registration process.

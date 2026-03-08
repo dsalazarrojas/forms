@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering new patients in an orthopedic clinic. It collects various demographic and contact information from the patient, including their name, email, phone number, and address. The form also asks for medical-related information such as date of visit, insurance provider, and medical condition. Additionally, it gathers contact information for the patient's emergency contact, including their name, phone number, and relation. The form is designed to be completed by patients themselves, and is meant to be used as an initial step in the registration process. There are 25 fields in this form.
-</thinking>
-
 # orthopedic_clinic_new_patient_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from new patients at an orthopedic clinic, including demographic, contact, and medical-related information. This information will be used to create a patient account and schedule follow-up visits.

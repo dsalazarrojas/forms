@@ -1,16 +1,3 @@
-<thinking>
-This form is for the registration of a vendor for a fitness event. The form is used to collect information from the vendor regarding their contact details, booth preferences, insurance status, and other relevant details. The form is divided into different sections for each type of information. 
-
-The form is designed to be completed by the vendor themselves, and the information collected will be used to manage the vendor's participation in the event.
-
-Before filling out the form, please ensure that you have all the necessary information and documents required. 
-
-Also, please note that some fields are optional, and you can fill them out at your discretion. 
-
-This guide will walk you through each field and what information is expected from you.
-
-</thinking>
-
 # Fitness Event Vendor Space Application - Help Guide
 
 ## Purpose

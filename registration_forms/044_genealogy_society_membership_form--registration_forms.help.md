@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to facilitate membership registration for the Genealogy Society. The primary goal is to collect essential information from individuals interested in joining the society. This form will likely be used by society administrators to process membership applications, so it is essential that the information collected is accurate and complete.
-
-When filling out this form, please ensure that the information provided is up-to-date and true to the best of your knowledge. If you're unsure about any field, please reach out to the Genealogy Society administrators for clarification.
-
-To complete this form efficiently, please follow the instructions below.
-
-The following form fields are explained in detail below:
-</thinking>
-
 # Genealogy Society Membership Form - Help Guide
 ## Purpose
 This form is used to register for membership in the Genealogy Society. Please fill out the form accurately and completely to ensure a smooth membership process.

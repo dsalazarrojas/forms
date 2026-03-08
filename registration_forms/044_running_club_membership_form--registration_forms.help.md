@@ -1,8 +1,4 @@
-> <thinking> 
-  The form is designed to collect information from users who want to join a running club. The form is likely used to process membership applications and gather necessary details from prospective club members. The form should be completed by the applicant to provide accurate and up-to-date information about their membership status. Please ensure that the form is completed honestly and accurately to avoid any potential issues with the membership status. Also, check that you're not completing the form for someone else, as this could create duplicate or invalid records in the system. 
-</thinking>
-
-# Running Club Membership Form - Help Guide
+> # Running Club Membership Form - Help Guide
 ## Purpose
 The Running Club Membership Form is designed to collect information from users who want to join a running club. This form is used to process membership applications and gather necessary details from prospective club members.
 

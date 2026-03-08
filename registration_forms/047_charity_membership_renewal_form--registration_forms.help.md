@@ -1,10 +1,3 @@
-<thinking>
-This form is used for charity membership renewal. 
-The goal of the form is for a member to update their information, confirm their membership type, pay the renewal fee, and provide any other relevant details such as contact information and volunteer interests. 
-We will not allow duplicate or incomplete submissions. Please make sure to fill out this form carefully and accurately.
-
-</thinking>
-
 # Charity Membership Renewal Form - Help Guide
 ## Purpose
 

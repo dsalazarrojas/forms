@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for users to register their participation in a retreat event. It is intended for individuals who want to sign up for a retreat, providing their personal and event-specific information in the process. The form's purpose is to collect data that will help the organizers prepare for the event and ensure that all participants are aware of what to expect.
-
-The form is composed of several sections with different types of fields, including text, multiple select, single select, date, time, and note fields. The participant information and event details section is optional, while the confirm participation section is required for final confirmation.
-
-This form is a public domain creation, and users are free to use, modify, and distribute it as they see fit.
-
-</thinking>
-
 # Retreat Registration Form - Help Guide
 ## Purpose
 The Retreat Registration Form is designed to collect information from participants for a retreat event. It is intended for those who want to sign up for a retreat and want to provide their personal and event-specific details.

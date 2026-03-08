@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for animation studios, production companies, or other organizations to collect release consent from participants, contributors, or talent involved in animation projects. The form ensures that all parties involved in the project are aware of their rights and any terms of use for the footage.
-
-The form is meant to be used when a project's footage needs to be released for marketing, portfolio, or other purposes. The participant's contact information is also captured for release confirmation and any further communication.
-
-Please note that this form is a one-page release consent form, and it's likely used for internal purposes by the organization rather than a standalone document for the end-user. This guide will outline the form fields for the end-users.
-
-</thinking>
-
 # Animation Test Footage Release Consent Form - Help Guide
 ## Purpose
 The Animation Test Footage Release Consent Form is a one-page form used to collect consent and information from participants, contributors, or talent in animation projects. This form is used to ensure that all parties involved are aware of their rights and any terms of use for the project's footage.

@@ -1,11 +1,3 @@
-<thinking>
-The sports_league_participation_extension_form is designed to help individuals register or extend their participation in sports leagues. To ensure this form is completed correctly, we first need to understand its purpose and relevance. This form is meant to gather information from participants about their basic details, team affiliations, and payment preferences. 
-
-Before proceeding, let us check if the form is not a duplicate. In the context of sports leagues, there might be similar forms for joining, registering, or participating, but this particular form is specifically designed for extension. If the user has already registered or participated in a previous season, this form is intended to update or modify their existing information, rather than creating a new registration. 
-
-With that in mind, let's proceed with the help guide.
-</thinking>
-
 # sports_league_participation_extension_form - Help Guide
 ## Purpose
 The sports_league_participation_extension_form is designed for participants to update or modify their existing registration information in sports leagues.

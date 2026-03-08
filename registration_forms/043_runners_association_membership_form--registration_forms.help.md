@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Runners Association Membership Form, used to collect information from users who wish to become a member of the association. Before proceeding, please make sure you are a valid user with a real intention to join the association and have not already filled out this form. Your application will be reviewed and verified by the association before approval.
-</thinking>
-
 # Runners Association Membership Form - Help Guide
 ## Purpose
 The Runners Association Membership Form is used to collect information from users who wish to become a member of the Runners Association. This form is used to gather necessary details for the application and review process.

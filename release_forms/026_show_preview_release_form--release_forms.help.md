@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting data from participants and event organizers before showing a preview of a production or performance. It is used to obtain consent from participants and collect relevant contact information. This form should not be used for actual event production, but rather as a preview or test run. Ensure that you understand the purpose and scope of this form before completing it.
-</thinking>
-
 # Show Preview Release Form - Help Guide
 ## Purpose
 The Show Preview Release Form is used to collect information from participants and event organizers before showing a preview of a production or performance. This form helps to obtain consent from participants and gather contact information.

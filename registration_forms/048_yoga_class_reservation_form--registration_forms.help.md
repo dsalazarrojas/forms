@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Yoga Class Reservation Form, let's first understand the purpose and requirements of this form. The form is designed to collect user information for yoga class reservations, including name, email, phone number, class type (Asana, Vinyasa, or Restorative), time, date, availability, and any notes. The form seems to be used for scheduling and planning purposes, but the exact context and requirements are not explicitly stated. To ensure accuracy and effectiveness, we should carefully review the fields and instructions below.
-</thinking>
-
 # Yoga Class Reservation Form - Help Guide
 ## Purpose
 The Yoga Class Reservation Form is designed to collect information from users for yoga class reservations. Please complete this form to let us know about your interest in joining a yoga class.

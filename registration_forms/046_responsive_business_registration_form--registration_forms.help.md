@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a business, allowing users to input basic contact and category information. It's likely used for an internal business registry, where companies or organizations can create a profile for themselves. Before starting, ensure that you are not duplicating a business already registered in the system. If you need to register multiple businesses, create a new instance.
-</thinking>
-
 # Responsive Business Registration Form - Help Guide
 ## Purpose
 The Responsive Business Registration Form is a tool used to register businesses in a centralized database, providing a quick and easy way to gather and store basic contact and category information. This guide will walk you through the form's sections and fields, helping you complete it efficiently.

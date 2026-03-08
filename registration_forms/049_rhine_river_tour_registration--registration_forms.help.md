@@ -1,9 +1,3 @@
-<thinking>
-We need to design a user-facing help guide for the Rhine River Tour Registration form. 
-This form will be used for tour operators to provide essential information about their tour. 
-We should check the purpose of the form and ensure that the fields are properly explained so there's no duplication of fields. 
-</thinking>
-
 # Rhine River Tour Registration - Help Guide
 ## Purpose
 This form is designed for tour operators to register their tours on the Rhine River. The form collects essential information about each tour, allowing us to efficiently manage and process tour registrations.

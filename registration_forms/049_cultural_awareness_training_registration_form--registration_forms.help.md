@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in cultural awareness training. It's intended for people working in various departments within the organization. By filling out this form, users can register for the training and provide their preferences for category, role, and location.
-</thinking>
-
 # Cultural Awareness Training Registration Form - Help Guide
 
 ## Purpose

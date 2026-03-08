@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for registering a Process Hazard Simulation Course. This form will help users provide details such as course title, dates and times, duration, instructor's information, and course status. It is crucial that the user fills this form accurately to ensure correct course records are kept for future reference and planning purposes. 
-Before proceeding, please ensure that the information you provide is correct and complete. If you are registering the same course multiple times, please do not fill out this form repeatedly. Duplicate entries may cause confusion and lead to unnecessary work for instructors and other staff members.
-</thinking>
-
 # Process Hazard Simulation Course Registration - Help Guide
 ## Purpose
 This form is used to register a Process Hazard Simulation Course, providing essential details for course organization, scheduling, and communication with instructors and participants.

@@ -1,31 +1,3 @@
-<thinking>
-
-This form is designed for registering leads for a virtual shopping assistant demo. The form will be used by the sales team to collect lead information, schedule demo sessions, and assign tools for communication with leads. The form should only be filled out once a lead has been generated and is interested in the virtual shopping assistant demo. 
-
-This form will be used to gather information from the lead, including their goals, preferred time slots, and contact information. This information will be used to schedule demo sessions and communicate with the lead.
-
-The form has been designed with the following fields: 
-- Lead Details
-- Goals
-- Preferred Time Slots
-- Email
-- Phone
-- Notes
-- Assigned Tool
-- Form ID
-- Category
-- Description
-- Output File
-- Assigned Tool 2
-- Output File 2
-- Assigned Tool 3
-
-The form is divided into 13 fields, with most fields being optional. The fields include text, select multiple, select one, and email fields. 
-
-The form is designed to be completed by the sales team, and the information gathered will be used for scheduling demo sessions and assigning tools for communication with the lead.
-
-</thinking>
-
 # Virtual Shopping Assistant Demo Registration - Help Guide
 ## Purpose
 This guide will walk you through completing the Virtual Shopping Assistant Demo Registration form, which is used to register leads for a virtual shopping assistant demo. This form will be used by the sales team to gather information from the lead and schedule demo sessions.

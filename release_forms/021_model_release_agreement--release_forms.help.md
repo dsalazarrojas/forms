@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information about a model release agreement, which is a contract between a model and a business that gives permission for the model's likeness to be used in marketing materials or for commercial purposes. This form is likely used by businesses to gather information about models that have been released from their contracts, and to provide a clear understanding of the terms and conditions of the release. 
-
-This form is not intended to be used for any other purpose, so there is no need to check for duplication.
-
-Before proceeding, please ensure that all required fields have been filled out. The required fields are marked with an asterisk (\*) in their labels.
-
-</thinking>
-
 # model_release_agreement - Help Guide
 ## Purpose
 The model release agreement form is used to gather information about a model release agreement between a model and a business. The form collects details about the business name, contact address, contact information, release date, expiration date, business use, and statements from both the model and the business sides.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants in underwriting training programs. The form is likely used to collect demographic information, training preferences, and registration details from attendees. The form fields should align with the training program's requirements and goals. It's crucial to ensure that the form fields are correctly filled out, as the information collected will be used for various purposes such as participant tracking, training administration, and reporting. To avoid duplication, it's recommended to review the form carefully before submission. Non-duplication checks should be performed to prevent multiple registrations with the same email or phone number. 
-</thinking>
-
 # Underwriting Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals registering for underwriting training programs. Please fill out the form accurately and thoroughly to ensure that your registration is processed correctly.

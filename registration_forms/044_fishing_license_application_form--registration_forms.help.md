@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to apply for a fishing license, and it's crucial to have a clear understanding of its purpose and how to complete it to prevent duplication and ensure accurate submissions. The form is divided into sections, and each field should be filled out accurately to avoid any confusion. Before proceeding, please make sure you have all the necessary information and documents required for the application. If you're unsure about any field, it's always a good idea to contact the relevant authorities for clarification.
-
-</thinking>
-
 # Fishing License Application Form - Help Guide
 ## Purpose
 This form is designed for users to apply for a fishing license. Please complete it accurately to ensure a smooth and efficient application process.

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is only used for its intended purpose and that users don't duplicate their work or data. Therefore, we will add some basic validation and checks on the form submission.
-The form is intended to be used by individuals seeking to be mentored or to mentor someone else, and it is meant to be completed by a single person. Each field is designed to collect relevant information about the mentor and mentee, including contact information, bio, and agreement terms.
-</thinking>
-
 # MentorsMentorshipRegistrationForm - Help Guide
 ## Purpose
 The MentorsMentorshipRegistrationForm is a form designed for individuals seeking to be mentored or to mentor someone else. It collects relevant information about the mentor and mentee, including contact information, bio, and agreement terms.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for the Leadership And Resilience Workshop. It captures details such as participant name, contact information, and other relevant details required for the workshop administration. This form is used to ensure that participants can be effectively managed and contacted regarding the workshop schedule, logistics, and other related activities.
-</thinking>
-
 # Leadership And Resilience Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Leadership And Resilience Workshop.

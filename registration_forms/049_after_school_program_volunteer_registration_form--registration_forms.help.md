@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to be filled out by individuals who wish to volunteer for the after-school program. The form is a comprehensive guide to collect information about the volunteer, including personal details, background information, and volunteer preferences. This information will help the program administrators to better understand the volunteer's qualifications, interests, and availability. The goal is to create a comprehensive and accurate profile of the volunteer that will enable a good match between the volunteer and the program needs.
-
-When filling out this form, please ensure that all required fields are completed accurately and thoroughly. If you have any questions or need assistance, please don't hesitate to reach out to us.
-
-</thinking>
-
 # After School Program Volunteer Registration Form - Help Guide
 
 ## Purpose

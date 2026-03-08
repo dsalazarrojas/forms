@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Loyalty Personalization AI Registration Form - Help Guide
 
 ## Purpose

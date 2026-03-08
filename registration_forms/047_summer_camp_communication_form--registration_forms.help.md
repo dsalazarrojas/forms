@@ -1,6 +1,3 @@
-<thinking>
-The form "Summer Camp Communication Form" is designed to collect information about a camper's personal details, medical conditions, and contact information. This form is intended to be used by parents, guardians, or emergency contacts to register a camper for the summer camp program. The fields on this form are divided into several sections, including Camper Information, Emergency Contact, Medical Information, and Registration Information. To complete this form, the user will need to provide personal details such as camper name, contact information, medical conditions, and registration dates. Some fields, like medical conditions, are optional, as they might not be applicable for every camper. Please make sure to fill in all the required fields to ensure a smooth registration process.</thinking>
-
 # Summer Camp Communication Form - Help Guide
 ## Purpose
 

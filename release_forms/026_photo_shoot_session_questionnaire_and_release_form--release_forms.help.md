@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients for photo shoot sessions, including details about the session, client preferences, and release of photos. The form is designed to be completed by clients before the photo shoot to ensure that all necessary information is collected.
-</thinking>
-
 # photo_shoot_session_questionnaire_and_release_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients before their photo shoot session. It is used to gather details about the session, client preferences, and obtain consent for the release of photos.

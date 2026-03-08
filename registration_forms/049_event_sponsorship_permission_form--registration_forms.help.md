@@ -1,12 +1,3 @@
-<thinking>
-This guide is for the "Event Sponsorship Permission Form". Its purpose is to collect information from event sponsors for events, which is crucial for event organizers to ensure that sponsors are aware of and agree to the terms and conditions of their sponsorship. This form is used to obtain permission and agreement from event sponsors, including the duration of their sponsorship, and to collect any additional information that is relevant to the event. This form should be filled out by event sponsors to provide their details and sign off on the terms of their sponsorship.
-
-This form is a critical component of the event planning process, and its completion ensures that all parties involved are clear on their responsibilities and expectations. The form should not be filled out by anyone other than the event sponsor, as it requires their specific information and agreement.
-
-Before starting to fill out this form, please ensure that you are the authorized representative of the event sponsor, and that you have the necessary information and permission to complete this form on their behalf.
-
-</thinking>
-
 # Event Sponsorship Permission Form - Help Guide
 ## Purpose
 This form is used to collect information from event sponsors for events, including their permission, agreement, and details of their sponsorship.

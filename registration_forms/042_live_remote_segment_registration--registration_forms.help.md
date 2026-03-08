@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to register attendees for a live remote segment. The form is used to collect information about the attendees, including their segment choices, time slots, and additional details. This form is likely used in a conference or event setting where attendees need to be registered for different segments and time slots. 
-
-When filling out this form, please note that some fields are optional, and the required fields are indicated as such. You can choose one or multiple options for the select_one and select_multiple fields. 
-
-This form is designed to be completed by attendees who are interested in participating in the live remote segment. If you are not sure about any of the fields, you can ask for help or clarification.
-
-Before proceeding to fill out the form, check if you have previously filled out this form. 
-
-</thinking>
-
 # Live Remote Segment Registration - Help Guide
 ## Purpose
 This form is used to register attendees for a live remote segment.

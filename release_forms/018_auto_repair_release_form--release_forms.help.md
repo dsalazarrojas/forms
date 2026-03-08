@@ -1,11 +1,3 @@
-<thinking>
-
-Before we dive into the user-facing help guide, let's clarify the purpose and relevance of the form. The "Auto Repair Release Form" is used to capture critical information from customers upon vehicle pickup after repair work. This form aims to ensure that the customer is informed about the vehicle's condition, any outstanding issues, and their responsibilities regarding warranty. By signing the form, the customer acknowledges that they have reviewed the terms of the warranty and release the repair shop from liability for any future issues.
-
-To prevent duplication and ensure accuracy, the form is divided into multiple sections, each focusing on specific aspects of the vehicle's condition, repair, and warranty.
-
-</thinking>
-
 # Auto Repair Release Form - Help Guide
 ## Purpose
 

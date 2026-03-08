@@ -1,7 +1,3 @@
-<thinking>
-This form is used to authorize the sharing of vaccination records. It is intended to be completed by the patient or their representative, and the form's purpose is to determine who and what information should be shared with whom. This form should not be used for other purposes such as creating a new patient record or updating an existing one. The form's purpose is to obtain explicit consent for sharing vaccination records with specific parties. The form's content and structure should be kept consistent across all instances, to avoid confusion and ensure that all relevant information is captured.
-</thinking>
-
 # Vaccination Record Sharing Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information from the patient or their representative about who to share their vaccination records with. It is intended to ensure that the patient's privacy and consent are respected.

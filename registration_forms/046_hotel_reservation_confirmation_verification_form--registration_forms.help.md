@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to verify the details of a hotel reservation in real-time. It's crucial to complete this form correctly to ensure that the reservation information is accurate and up-to-date. 
-The purpose of this form is to confirm the guest's identity and verify their reservation details, which is a critical step in the hotel's operations and billing processes.
-Please note that this form is a simple verification form and does not allow for the submission or modification of existing reservations. It's solely used to confirm the guest's identity and reservation details before proceeding with any further actions.</thinking>
-
 # Hotel Reservation Confirmation Verification Form - Help Guide
 ## Purpose
 The Hotel Reservation Confirmation Verification Form is designed to verify the details of a hotel reservation in real-time. This form helps to confirm the guest's identity and reservation details, which is crucial for hotel operations and billing.

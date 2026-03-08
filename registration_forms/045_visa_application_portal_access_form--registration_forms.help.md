@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to facilitate the registration process for visa applicants. 
-The form is divided into multiple pages, each containing various fields that require input from the applicant. 
-The form's purpose is to collect necessary information from the applicant, including their user information, visa category and subcategory, passport details, contact information, and any supporting documents. 
-The form also includes buttons for navigating between pages, submitting the application, and cancelling/finishing the process. 
-Please ensure that you have all the required information and documents before submitting the application. 
-Also, please note that the "Submit" and "Cancel" buttons will be displayed only when the form is in the last page.
-
-</thinking>
-
 # Visa Application Portal Access Form - Help Guide
 ## Purpose
 This form is designed to collect user information and supporting documents for visa application processing.

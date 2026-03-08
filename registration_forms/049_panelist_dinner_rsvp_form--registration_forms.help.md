@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the Panelist Dinner RSVP Form, which is used to gather information from panelists about their availability and preferences for a dinner event. This form is meant to be completed by both hosts and panelists to ensure a smooth and enjoyable dining experience for everyone involved. Please make sure you are filling out the form correctly and only once to avoid any confusion or duplication of efforts.
-</thinking>
-
 # Panelist Dinner RSVP Form - Help Guide
 ## Purpose
 The Panelist Dinner RSVP Form is used to gather information from panelists about their availability and preferences for a dinner event. This form is used by hosts to collect and manage RSVPs from panelists.

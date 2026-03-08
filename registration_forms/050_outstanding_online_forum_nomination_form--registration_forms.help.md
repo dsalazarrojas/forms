@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for outstanding online forum nominations. The form is intended for users who wish to nominate a person or entity for recognition within their online community. The form's purpose is to gather relevant details about the nominee, the nominator, and the nomination itself. This guide will walk you through the process of completing the form and explain each field in detail.
-
-</thinking>
-
 # Outstanding Online Forum Nomination Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential attendees of a guest experience innovation forum. The purpose of the form is to gather details about the guests' interests, special requirements, and contact information.
-
-To determine the relevance and prevent duplication, this form is intended for guests who have not yet registered for the forum. If the user has already registered, they will be redirected to the confirmation page instead.
-
-The form is divided into 4 pages. Each page has a specific section of the form. The pages are: Guest Experience Innovation Forum Registration, Session Interests, Special Requirements, and Contact Information.
-
-</thinking>
-
 # Guest Experience Innovation Forum Registration - Help Guide
 ## Purpose
 The Guest Experience Innovation Forum Registration form is designed to collect information from potential attendees of the guest experience innovation forum.

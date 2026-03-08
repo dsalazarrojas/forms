@@ -1,10 +1,3 @@
-<thinking>
-This form is for registering participants for the market analysis workshop. It is designed to gather necessary information from participants, including their registration details, payment information, and workshop schedules. This form is intended for workshop organizers to collect accurate and complete data about their participants. Please ensure that you are filling this form for the correct workshop and as a participant.
-
-The form consists of multiple pages with fields that need to be filled in accordingly. Make sure to complete each page carefully and accurately.
-
-Before proceeding, please review the form instructions and ensure you understand the purpose of each field.</thinking>
-
 # market_analysis_workshop_registration_form - Help Guide
 ## Purpose
 This form is for registering participants for the market analysis workshop.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from healthcare professionals, such as doctors and nurses, for the purposes of registration or onboarding. This form will likely be used for HR purposes, and the collected data will be used for administrative tasks such as assigning benefits, tracking professional certifications, or creating employee profiles. To ensure that this form is being used correctly, please make sure that all fields are properly filled out and that any special cases, such as international or non-US healthcare professionals, are handled accordingly.
-</thinking>
-
 # healthcare_professional_application - Help Guide
 ## Purpose
 This form collects information from healthcare professionals for registration or onboarding purposes.

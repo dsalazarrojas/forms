@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about the release of a vehicle, which is a critical process in various industries such as automotive, finance, and law. The form aims to collect details about the vehicle's owner, year, make, model, and other relevant information. Before proceeding, ensure this is the correct form for your specific use case. If not, please refer to other available forms.
-</thinking>
-
 # Title Release Form - Help Guide
 ## Purpose
 The Title Release Form is used to collect information about a vehicle being released. This form is essential for various reasons, including ensuring compliance with regulations, facilitating smooth vehicle transfer processes, and maintaining accurate records.

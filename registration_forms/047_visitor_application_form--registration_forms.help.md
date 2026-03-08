@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect visitor information for security and identification purposes. The form is meant for visitors who wish to enter the premises of a business or organization. 
-The form is used to gather essential details about the visitor, including their name, contact information, and reasons for visiting. The form also includes options for photo and background checks, which are meant for additional security measures. 
-The form is typically used when a visitor arrives at the premises and is required for the following fields: First Name, Last Name, Email Address, Phone Number, Date of Birth, Date of Visit, Time of Visit, Reason for Visit, and Company Name. 
-</thinking>
 # Visitor Application Form - Help Guide
 ## Purpose
 This form is used to collect visitor information for security and identification purposes when visiting a business or organization.

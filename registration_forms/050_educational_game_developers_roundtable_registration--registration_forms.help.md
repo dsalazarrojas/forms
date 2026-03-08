@@ -1,11 +1,3 @@
-<thinking>
-We want to create a comprehensive help guide for the "Educational Game Developers Roundtable Registration" form, ensuring that end-users can easily understand its purpose, complete it correctly, and know what each field means. This form is used to collect information from game developers who want to attend the roundtable, and we need to make sure they can provide the necessary details to be properly registered and prepared for the event.
-
-The form has several pages with different fields, each collecting specific information about the attendee. We'll need to explain each field in a clear and concise way, making sure that our users understand what's expected from them.
-
-Let's break down each field and create a user-friendly help guide.
-</thinking>
-
 # Educational Game Developers Roundtable Registration - Help Guide
 ## Purpose
 The Educational Game Developers Roundtable Registration form is designed for game developers who want to participate in the roundtable discussion. By filling out this form, you'll be able to join the event and share your expertise and experiences with other game developers.

@@ -1,11 +1,5 @@
 <figure><blockquote>
-  <thinking>
-
-This form is designed to gather feedback from users about their feelings of connection within our community. The goal is to help us understand what works and what doesn't, so we can make improvements to better serve our members. Please answer the questions honestly, and feel free to add any additional comments or suggestions in the open-ended questions at the end.
-
-Before filling out the form, make sure to review the questions carefully and answer each one that applies to you. You can select multiple answers for some questions, so don't worry about having to choose just one.
-
-</thinking></blockquote>
+  </blockquote>
 
 # Social Connection Feedback Form - Help Guide
 ## Purpose

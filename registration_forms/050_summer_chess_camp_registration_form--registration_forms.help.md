@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Summer Chess Camp Registration Form is to collect information from parents or guardians to register their child(ren) for the summer chess camp. This form will be used to gather essential details about the participant, their emergency contact, and payment methods. The form is divided into several sections, each focusing on a specific aspect of the participant's information. Please ensure that all required fields are filled out to ensure proper registration.
-
-</thinking>
-
 # Summer Chess Camp Registration Form - Help Guide
 
 ## Purpose

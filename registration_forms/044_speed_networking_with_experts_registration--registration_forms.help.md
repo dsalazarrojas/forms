@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees for the Speed Networking with Experts event. This form aims to gather details from attendees about their preferred time, date, and day of the event, as well as their contact information and preferred options for the speed networking sessions. It is essential to provide accurate and complete information to ensure a smooth and enjoyable experience for all attendees.
-
-</thinking>
-
 # Speed Networking With Experts Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Speed Networking with Experts event. Please provide the required details to help us organize the event according to your preferences.

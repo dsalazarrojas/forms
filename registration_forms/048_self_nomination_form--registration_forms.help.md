@@ -1,7 +1,3 @@
-<thinking>
-This form is used for self-nomination purposes. It is designed to collect information about the user and their role in the organization. The form is not required for any particular process, so it's essential to fill it out voluntarily. Please note that this form is not intended for duplicate submissions.
-</thinking>
-
 # self_nomination_form - Help Guide
 ## Purpose
 The self-nomination form is a tool for users to provide information about themselves and their role in the organization.

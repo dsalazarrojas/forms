@@ -1,5 +1,3 @@
-<thinking>This form is used to register for the corporate inclusion strategy workshop. Before attempting to complete this form, please ensure that you meet the eligibility criteria for the workshop. If you're unsure, check with the workshop organizers or your HR department to confirm your eligibility. This form is meant to be a one-time registration for the workshop.</thinking>
-
 # corporate_inclusion_strategy_workshop_registration_form - Help Guide
 
 ## Purpose

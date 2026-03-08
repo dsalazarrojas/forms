@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a registration form for a free yoga intro class, designed to collect information from interested participants. The purpose of this form is to gather contact and class preferences from individuals who want to attend a free yoga class. The form has four fields, each with specific requirements and purposes.
-
-</thinking>
-
 # Free Yoga Intro Class RSVP Form - Help Guide
 ## Purpose
 This form is used to register for a free yoga intro class. It is designed to collect basic contact information and class preferences from interested participants.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Career Fair Registration Form - Help Guide
 ## Purpose
 This form is for employers to register their company and career fair information for a virtual career fair. The purpose of this form is to gather essential details about the company, such as contact information, company description, and career fair event details. This information will be used to create a profile for the company and promote their career fair event on our platform.

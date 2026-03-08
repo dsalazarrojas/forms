@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Strategic Transformation Lab Registration Form is to collect information from participants regarding their registration for a transformation program. This form likely exists to gather demographic and project-related data from participants to facilitate a transformation process that aims to achieve specific professional goals and objectives. However, I don't have access to the actual transformation program's goals or purpose, so please ensure you review this information with relevant stakeholders for verification. 
-Please note that the following guide will walk you through how to complete the form based on the provided YAML structure. It's essential to review the form's requirements before submitting it to ensure it accurately represents your needs.
-</thinking>
-
 # Strategic Transformation Lab Registration Form - Help Guide
 ## Purpose
 The Strategic Transformation Lab Registration Form is designed to collect information from participants about their registration for a transformation program. The form aims to gather details such as participant contact information, preferences, and goals for the program.

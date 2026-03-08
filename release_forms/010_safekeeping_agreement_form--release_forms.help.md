@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about a safekeeping agreement, which is a legal document that outlines the terms and conditions under which a person or organization is authorized to hold or store something on behalf of another. The form is used to formalize the agreement between two parties, ensuring that all relevant details are clearly documented.
-
-The purpose of this form is to provide a structured and standardized way of collecting information about safekeeping agreements, making it easier to review and understand the terms of the agreement.
-
-To confirm that this form meets the requirements for your organization, please review the following fields and consider the following questions:
-
-- Is the form relevant to your organization's needs and purpose?
-- Does the form cover all necessary elements for a comprehensive safekeeping agreement?
-- Is the form's structure and content consistent with your organization's existing documentation and policies?
-
-If you answer "no" to any of these questions, please provide feedback to help us improve the form.
-
-</thinking>
-
 # Safekeeping Agreement Form - Help Guide
 
 ## Purpose

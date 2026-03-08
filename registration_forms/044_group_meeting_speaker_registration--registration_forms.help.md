@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for speakers to register for a group meeting or event. It collects various information from the speaker, including their contact details, session specifics, and availability. The form may be used by event organizers to manage speaker registrations and ensure a smooth event process. To avoid duplication, ensure that the speaker has not already registered for this event or has not registered for a similar event in the past.
-
-</thinking>
-
 # Group Meeting Speaker Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for golf club membership renewal. It's a form for existing golf club members to renew their membership. The form should only be used for this purpose and not for new membership applications. The form's fields are designed to gather information required for membership renewal, such as member details, payment options, and payment terms. Please ensure you understand the form's purpose and its fields before proceeding.
-</thinking>
-
 # golf_club_membership_renewal_form - Help Guide
 ## Purpose
 The golf club membership renewal form is used for existing golf club members to renew their membership. This form should only be used for this purpose and not for new membership applications.

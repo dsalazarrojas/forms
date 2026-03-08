@@ -1,7 +1,3 @@
-<thinking>
-This is a basic help guide for the Lemonade Stand Registration Form. To ensure the form is completed accurately and consistently, it's essential to understand its purpose and how each field contributes to this goal. This form is primarily used to collect information from participants, specifically for them to provide their details and those of their guardian(s) if applicable. It is likely used in an educational or research context, such as a study on lemonade stand economics or social skills development among children. Given the form's simplicity, the form is not intended to be a duplicate effort or to collect excessive information, so it's best to fill it out once for each participant and guardian.
-
-</thinking>
 # Lemonade Stand Registration Form - Help Guide
 
 ## Purpose

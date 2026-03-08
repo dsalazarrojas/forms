@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from vendors to register their payment details on a specific portal. It's essential to complete this form accurately to ensure seamless integration with the payment system. Before proceeding, please ensure you have the necessary information and permissions to complete the form. If you're unsure about any field, please refer to the explanations below.
-
-Please note that some fields are optional, marked as such in the form. However, providing accurate and complete information will help us process your registration efficiently.
-</thinking>
-
 # Vendor Payment Portal Registration Form - Help Guide
 ## Purpose
 This form is designed to collect payment information from vendors to enable registration on our payment portal. Please provide accurate details to ensure a smooth registration process.

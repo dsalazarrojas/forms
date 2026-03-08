@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form serves its purpose and is not duplicated, let's verify that the form is intended for registering users with the gym. The form collects contact information, personal details such as name and date of birth, and health metrics like height and weight. It also includes goals and terms acceptance, which indicates the user's understanding of the gym's policies. 
-</thinking>
-
 # Gym Registration Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential information from gym users for registration purposes. It includes contact details, personal data, health metrics, and agreements. Please provide accurate and honest answers to ensure smooth registration process.

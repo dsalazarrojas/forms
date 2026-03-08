@@ -1,7 +1,3 @@
-<thinking>
-This form is used to sign up participants for a trivia night event. The form is divided into multiple pages, each with its own set of questions. The form is not required, meaning that participants are not obligated to complete it before attending the event.
-</thinking>
-
 # Trivia Night Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their intention to attend the trivia night event.

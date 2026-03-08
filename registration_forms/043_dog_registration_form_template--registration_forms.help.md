@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for collecting information about a dog's registration. The form is designed to be used in a variety of settings where dog registration is necessary, such as veterinary clinics, dog daycare centers, or animal shelters. To ensure that the form is used correctly, please review the fields below to understand the purpose and requirements for each section. Please note that some fields are required, while others are optional, and some fields are multiple-select options.
-</thinking>
-
 # dog_registration_form_template - Help Guide
 ## Purpose
 This template is a dog registration form used to collect necessary information about a dog's health, vaccinations, and medical history.

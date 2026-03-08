@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather personal and contact information from parents or guardians of children attending a summer camp. The purpose of this form is to collect necessary details for the camp's administration and ensure a smooth experience for both the parents and children. It's essential to fill out this form accurately and completely to prevent any potential issues.
-</thinking>
-
 # Kids Summer Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect personal and contact information from parents or guardians of children attending a summer camp.

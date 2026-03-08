@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Big Heart Farms White Lake Baptist Vbs 2015 - Help Guide
 
 ## Purpose

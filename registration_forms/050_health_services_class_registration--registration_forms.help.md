@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect registration information for users to register their health services class. The purpose of this form is to gather essential details such as first name, last name, email, and phone number to create a record for the user. This form is a critical component of our system, and accurate information is essential for providing proper services.
-
-Before proceeding, please ensure that you have not already registered for this health services class or have not already submitted this form. If you are unsure, please contact our support team to verify your status.
-
-</thinking>
-
 # health_services_class_registration - Help Guide
 ## Purpose
 This form is used to register your health services class account. Please fill out this form with accurate information to ensure proper processing of your registration.

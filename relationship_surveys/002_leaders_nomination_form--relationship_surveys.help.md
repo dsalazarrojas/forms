@@ -1,10 +1,3 @@
-<thinking>
-This form is used to nominate leaders for recognition or awards. It is used to collect information about the nominee, including their first name, last name, date of birth, email address, and phone number. This form is typically used by HR or leadership teams to identify and recognize individuals who have made significant contributions to the organization or team. 
-Before completing this form, please ensure you have the nominee's consent to do so and that you are submitting accurate and up-to-date information. 
-Note that this form does not require submission of any sensitive or confidential information. 
-Also, please check if there are any existing nominations for the same person in your system to avoid duplication of efforts.
-</thinking>
-
 # Leaders Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate leaders who have made significant contributions to the organization or team for recognition or awards.

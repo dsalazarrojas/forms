@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Affiliate Signup Form - Help Guide
 ## Purpose
 This is the registration form for becoming an affiliate with our platform. The form is used to collect information about you and your company, which will be used to create your affiliate account.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for registering a product development project with a company, and the form fields are designed to collect relevant information about the company and the product. The form is probably used by product development teams or project managers to gather necessary details for project planning and execution.
-The fields in this form include company information (company name, email, phone, and address), product information (product name and type), participant type, and contact name. The form is designed for companies and individuals involved in product development, but some fields are optional. 
-</thinking>
-
 # product_development_registration_form - Help Guide
 ## Purpose
 This form is used for registering a product development project with a company, and it gathers necessary information for project planning and execution.

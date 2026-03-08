@@ -1,14 +1,3 @@
-<thinking>... internal reasoning to check form purpose and relevance ...
-
-Form purpose: 
-The Cookie and Tea Party Registration Form is designed to collect information from guests attending the event. The form includes fields for personal details (name, email, phone number), event details (date, time, location), preferences (tea and cookies), and additional information (transportation, gift bringing, and special requests).
-
-Form relevance: This form is meant for registering guests for the Cookie and Tea Party event. The form helps to gather necessary information to plan and organize the party efficiently, including details about the guests, their preferences, and any special requirements.
-
-Non-duplication check: There are no duplicated fields. Each field is designed to collect unique information.
-
-</thinking>
-
 # Cookie and Tea Party Registration - Help Guide
 ## Purpose
 This form is designed to collect information from guests attending the Cookie and Tea Party event. It includes fields for personal details, event details, preferences, and additional information to help plan and organize the party efficiently.

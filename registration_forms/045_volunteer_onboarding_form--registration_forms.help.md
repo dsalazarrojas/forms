@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help volunteers provide their personal and contact information, as well as details about their emergency contact. The form is not affiliated with or endorsed by any form platform. It was generated using public metadata from a survey on volunteer onboarding and adapted into an original form. 
-
-This form has four sections: Personal Information, Contact Details, Emergency Contact, and Volunteer Information. The sections are not mutually exclusive, and users can provide information in any order they choose. However, it's essential to fill out the required fields to ensure the completeness of the onboarding process.
-
-The form's layout and design are optimized for user convenience and clarity. Each field has a clear label and type, making it easy to understand and fill out. If you have any questions or need further clarification, please feel free to contact us at form@gic.mx.
-</thinking>
-
 # Volunteer Onboarding Form - Help Guide
 ## Purpose
 This form collects personal and contact information from volunteers, allowing the organization to get in touch with them and ensure a smooth onboarding process.

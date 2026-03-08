@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual VBS Registration Form - Help Guide
 ## Purpose
 This form is for registering children for Virtual Bible Study (VBS) programs. It collects the required information for program planning and facilitation.

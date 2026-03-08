@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # discover_fine_art_fragrances_registration_forms - Help Guide
 ## Purpose
 This form is designed to register fine art fragrances for various purposes such as Registration Forms, Other, and is used for various tools like chatjimmy and other. The form collects metadata information about the form, including title, description, category, assigned tool, output file, id, and version.

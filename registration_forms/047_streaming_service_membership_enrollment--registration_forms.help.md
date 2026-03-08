@@ -1,11 +1,3 @@
-<thinking>
-  This form is for users to sign up for a streaming service membership. The purpose of this form is to collect user information, including name, email, address, and subscription plan preferences.
-  
-  To ensure that users are not duplicating their membership, we will be checking for existing membership information in our database before processing this form submission.
-  
-  This form consists of 7 fields, each with its own specific purpose and requirements.
-</thinking>
-
 # Streaming Service Membership Enrollment - Help Guide
 ## Purpose
 This form is for users to sign up for a streaming service membership.

@@ -1,11 +1,3 @@
-<thinking>...Internal reasoning:
-
-The form is designed to facilitate the renewal of vehicle registration. It collects information from the vehicle owner, including their personal details, vehicle details, and payment information. The form is likely used by government or transportation authorities to update vehicle registration records. The non-required fields are likely for additional information or convenience features, such as payment status or notes.
-
-To avoid duplication, the form should be used for new vehicle registrations, and any updates to existing registrations should be done through a separate process. This form should only be used for renewal purposes. 
-
-</thinking>
-
 # vehicle_registration_renewal_form - Help Guide
 
 ## Purpose

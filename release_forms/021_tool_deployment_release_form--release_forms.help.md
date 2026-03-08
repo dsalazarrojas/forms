@@ -1,12 +1,3 @@
-<thinking>
-A technical user-facing help guide for the "Tool Deployment Release Form" should be created, explaining the form's purpose, how to complete it, and what each field means. This guide will help end-users understand the form's requirements and ensure accurate and efficient completion.
-
-This form is used to request and track tool deployment releases within the organization. It captures essential information about the release, including the release date, type, environment, and status. The form is designed to streamline the release process and facilitate collaboration among team members.
-
-Before proceeding, please ensure you are filling this form for a valid release request. If you're unsure, refer to the project documentation or ask your team lead for guidance.
-
-</thinking>
-
 # Tool Deployment Release Form - Help Guide
 ## Purpose
 The Tool Deployment Release Form is a standardized form designed to gather and track essential information about tool deployments. It ensures that all necessary details are captured and communicated effectively among team members, promoting a smooth and efficient release process.

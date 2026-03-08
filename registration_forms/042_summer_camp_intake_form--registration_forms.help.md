@@ -1,7 +1,3 @@
-<thinking>
-The Summer Camp Intake Form is designed to collect information from parents or guardians to register their child(ren) for the summer camp program. This form is used to gather essential details about the camper, including contact information, medical history, and emergency contact details. It is not intended for use as a comprehensive medical or emergency contact form, but rather as a supplementary tool to facilitate communication between parents, camp staff, and other relevant parties. Please ensure that you have obtained the necessary permissions and approvals before sharing any information with the camp staff. This form is not meant for use with minors under the age of 18 unless they are accompanied by an adult.
-</thinking>
-
 # Summer Camp Intake Form - Help Guide
 ## Purpose
 The Summer Camp Intake Form is a collection of fields that gather essential information from parents or guardians about their child(ren) for the summer camp program.

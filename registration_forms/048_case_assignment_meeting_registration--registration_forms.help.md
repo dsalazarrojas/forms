@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from participants for a case assignment meeting. It will help the meeting organizer to understand participant preferences and availability. This form must be filled out only once for each participant. 
-Please fill out this form carefully and truthfully to ensure accurate information is collected. 
-Please review the form carefully to avoid duplication of entries. If you are unsure about any field or have any special requirements, do not hesitate to contact the meeting organizer.
-</thinking>
-
 # Case Assignment Meeting Registration - Help Guide
 ## Purpose
 The Case Assignment Meeting Registration form is used to gather participant information for the case assignment meeting. This form collects details such as participant's preferences, availability, and specific requirements for a smooth meeting experience.

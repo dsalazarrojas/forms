@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and release TV interviews. It captures essential details about the participants involved, including their consent, contact information, interview details, and release status. This form is meant to be used for TV releases, and it's essential to ensure that all relevant information is accurately filled out to avoid duplication of effort and ensure consistency throughout the production process. The form is divided into two main sections: participant information and release details. Each field in this form is important and should be filled out accurately to ensure that the release process is handled efficiently and effectively.
-</thinking>
-
 # News Interview TV Release Form - Help Guide
 ## Purpose
 The News Interview TV Release Form is used to gather essential information for TV releases. It captures participant consent, contact information, and release details to ensure a smooth and efficient release process.

@@ -1,9 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Spring Break Day Camp Registration Form" to ensure that end users understand its purpose and can complete it effectively. This guide will cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section. The form appears to be a simple registration form for campers attending a Spring Break Day Camp.
-
-To create this guide, we will review the provided YAML fields and use them as the basis for our explanations.
-</thinking>
-
 # Spring Break Day Camp Registration Form - Help Guide
 
 ## Purpose

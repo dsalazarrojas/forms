@@ -1,31 +1,3 @@
-<thinking>
-This form is designed for individuals to register for small group leader training. It captures essential information about the registrant, including their personal details, emergency contact information, and medical history. The form has multiple pages with various fields, and some fields are required while others are optional. Before proceeding, please review the form carefully to ensure you understand what information is being collected.
-
-This form is intended for individuals who are registering for small group leader training. It is not for use by organizations or businesses.
-
-Before submitting the form, please ensure that you have filled in all required fields, which are marked with an asterisk (*) in their labels.
-
-Please note that the fields marked as optional are not required, but it is recommended to fill them in for a more complete profile.
-
-To complete this form, follow the steps below:
-
-1. Fill in your First Name and Last Name on page 1.
-2. Enter your Email, Phone number, and Date of Birth on page 2.
-3. Select your preferred Training Session on page 3.
-4. Fill in the Training Time on page 4.
-5. Fill in the Additional Comments (if any) on page 5.
-6. Enter your Emergency Contact's Name, Phone number, and Relationship on page 6 and 7.
-7. Fill in your Medical Conditions, Allergies, and Medications on page 8.
-8. Enter your Emergency Contact's Address on page 9.
-9. Fill in your Medical History on page 10.
-10. Enter any other Emergency Contact's Name, Phone number, and Relationship on page 11.
-11. Fill in the rest of the Emergency Contact information on pages 12, 13, 14, and 15.
-12. Finally, fill in any Additional Comments or Medical Notes on page 16.
-
-Please be thorough and accurate when filling out this form. If you have any questions or concerns, please don't hesitate to ask.
-
-</thinking>
-
 # small_group_leader_training_registration_form - Help Guide
 ## Purpose
 This form is used to register individuals for small group leader training.

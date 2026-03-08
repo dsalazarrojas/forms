@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that the Corporate Luncheon Guest Registration Form is completed accurately and effectively by end-users. The form is designed to collect relevant information from guests attending a corporate luncheon event. Before proceeding, please ensure that you are registering for the correct type of guest and that your information is accurate to ensure proper communication with our organization.
-</thinking>
-
 # Corporate Luncheon Guest Registration Form - Help Guide
 ## Purpose
 The Corporate Luncheon Guest Registration Form is a form designed to collect information from guests attending a corporate luncheon event. The form is used to identify guests, their affiliations, and contact information to facilitate effective communication and organization.

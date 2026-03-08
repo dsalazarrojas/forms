@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration of exhibitors and attendees for a Landscaping Trade Show. The form likely aims to collect information about the exhibitors and attendees, including their details, submission details, and contact information. Before starting, please make sure you have not completed this form before and that you are authorized to register on behalf of the exhibitor or attendee. 
-</thinking>
-
 # Landscaping Trade Show Registration - Help Guide
 ## Purpose
 This form is designed for registration of exhibitors and attendees for the Landscaping Trade Show.

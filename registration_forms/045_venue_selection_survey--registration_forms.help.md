@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about user's preference regarding venue selection. The purpose of the form is to gather data on whether a user would like to select a venue for an event or not. This form will be used by the event organizers to get an idea of how many users are interested in each venue. The form is part of a larger set of registration forms, which will help the organizers in planning and organizing the event.
-</thinking>
-
 # Venue Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect information about user's preference regarding venue selection for an event. Please fill out this form to help us get a better understanding of your interest in each venue.

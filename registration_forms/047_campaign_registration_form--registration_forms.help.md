@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Campaign Registration Form" to ensure that end-users understand its purpose, how to complete it, and what each field means. This form is intended for registrants who want to participate in a campaign, and it requires certain information from them to facilitate campaign communication and organization. To avoid duplication, we should check if the registrant already exists in our system before allowing them to register. The form will be completed by users online, and they will be required to provide some specific details about themselves and their preferences.
-
-</thinking>
-
 # Campaign Registration Form - Help Guide
 ## Purpose
 This guide explains how to complete the "Campaign Registration Form" to register for a campaign. The form is designed to collect essential information about you as a registrant, including your contact details, preferences, and interests. This information will help us to communicate with you effectively and organize campaign activities.

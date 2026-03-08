@@ -1,13 +1,3 @@
-<thinking>
-The form is used for registration for men's retreat, which is a program designed to provide a safe and inclusive space for men to connect with each other, share their experiences, and work on personal growth and development. The form is used to collect essential information from participants, including their contact details, medical conditions, dietary restrictions, and payment methods. 
-
-The purpose of this form is to ensure that all participants have a smooth and comfortable experience during the retreat, and that the organizers have all the necessary information to provide the best possible support. 
-
-This form will likely be used by men attending the retreat, and possibly by the organizers to manage participant information and provide the necessary support. 
-
-Please ensure that you are using this form only for the intended purpose and not for other personal or commercial reasons. 
-
-</thinking>
 # Men's Retreat Registration Form - Help Guide
 
 ## Purpose

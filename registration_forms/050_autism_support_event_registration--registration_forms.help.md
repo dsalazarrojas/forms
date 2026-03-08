@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to register for events focused on supporting individuals and families affected by autism spectrum disorder. The form's primary purpose is to collect demographic information from individuals to provide tailored support and accommodations for each participant. 
-
-The form is intended to be completed by individuals who are interested in attending events related to autism support, and it serves as a means of providing necessary information for event planning and organization. 
-
-When users complete this form, their input will be used to determine the number of attendees, their specific needs, and their interests. This information will help event organizers plan and execute the event effectively. 
-
-By completing this form, users also agree to the event terms, which includes the registration confirmation. 
-
-</thinking>
-
 # Autism Support Event Registration - Help Guide
 ## Purpose
 This form collects demographic information from individuals to provide tailored support and accommodations for each participant in the Autism Support Event.

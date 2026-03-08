@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for first responders, likely for emergency services or disaster relief organizations. The form is designed to collect personal information about the first responder, as well as details about their injury or incident. Upon reviewing the form structure, it's clear that each page is designed to collect specific data points, such as name, contact information, and injury-related details. To ensure that this form is used correctly and efficiently, it's essential to have a clear guide on how to complete it and what each field means. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field.
-</thinking>
-
 # First Responder Warrior Registration - Help Guide
 ## Purpose
 This form is designed to collect information from first responders to provide them with necessary support and resources. It is essential to fill out the form accurately and completely to ensure that responders receive the help and care they need.

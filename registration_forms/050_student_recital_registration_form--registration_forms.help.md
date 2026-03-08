@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Recital Registration Form - Help Guide
 ## Purpose
 The Student Recital Registration Form is a form used to collect information from students who are participating in a recital, including their name, age group, grade level, and other relevant details. This form is intended to provide a streamlined way to gather necessary information from students and their teachers, ensuring that the recital runs smoothly and efficiently.

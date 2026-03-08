@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect recording permissions from cultural heritage interview subjects. The purpose of this form is to ensure that the participant is aware of and consents to being recorded during the interview. It is essential to complete this form before starting the recording.
-</thinking>
-
 # Cultural Heritage Interview Recording Consent - Help Guide
 ## Purpose
 This form collects recording permissions from cultural heritage interview subjects, ensuring they are aware of and consent to being recorded during the interview.

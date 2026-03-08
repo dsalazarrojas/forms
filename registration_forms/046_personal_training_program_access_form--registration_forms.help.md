@@ -1,17 +1,3 @@
-<thinking>
-This is a critical step to ensure the form is filled out correctly and accurately. To prevent duplication, we need to check if this form has been filled out by the client before, or if the client has been assigned a trainer already. This ensures that the client is not over-trained, and we can keep track of our training sessions efficiently.
-
-If the form is already filled out by the client, or if the client has been assigned a trainer, we will display an error message and not allow further submission. This will prevent incorrect data from being submitted and maintain data consistency.
-
-We will also check for invalid or missing client data before allowing submission, such as missing or invalid email, phone number, and client name. We will also ensure that the selected trainer and session length are valid options.
-
-This form is designed to be simple, yet comprehensive. Each field is carefully crafted to ensure that the necessary information is collected accurately and consistently. The form will be reviewed and approved by the trainer before being submitted to the client.
-
-Please note that this form is not intended for internal use within the organization, but for external clients to access our training programs. The information collected will be used to schedule and conduct the training sessions.
-
-Please fill out the form carefully and accurately to ensure that we can provide the best possible service to you.
-</thinking>
-
 # Personal Training Program Access Form - Help Guide
 ## Purpose
 The Personal Training Program Access Form is designed for external clients to access your training programs. This form collects essential information to schedule and conduct the training sessions effectively.

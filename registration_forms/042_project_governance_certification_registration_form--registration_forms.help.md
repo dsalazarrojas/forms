@@ -1,14 +1,3 @@
-<thinking>
-We're designing a user-facing help guide for the Project Governance Certification Registration Form.
-
-This form is intended for participants to register for project governance certifications. The form collects information on various aspects related to the project, such as the organization and participant details, project specifics, and certification status.
-
-To ensure accuracy, we should confirm that the form is being filled out for the correct purpose and not being used for any other intention. This includes checking if the form is being filled out by the actual participant and not by someone impersonating or misrepresenting themselves.
-
-Additionally, we should also ensure that each section of the form is filled out correctly to avoid any errors or discrepancies in the data that is collected.
-
-</thinking>
-
 # Project Governance Certification Registration Form - Help Guide
 ## Purpose
 

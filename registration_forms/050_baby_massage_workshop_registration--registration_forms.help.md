@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from parents/guardians and their babies for a baby massage workshop. The form aims to gather essential details about the participant, their baby, and their preferences. It is essential to complete this form accurately to ensure a smooth and enjoyable experience for both the parents/guardians and their babies. Please note that this form is a registration form and is not a medical form. If you have any medical concerns, please consult a healthcare professional before attending the workshop.
-
-</thinking>
-
 # Baby Massage Workshop Registration - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect registration information from individuals interested in attending a team development coaching session. The purpose of this form is to gather essential details about the attendee, their team, and the desired coaching session they wish to attend. 
-
-The form ensures that only one registration per person is allowed to avoid duplications and to ensure accurate planning and resource allocation for the coaching session. 
-
-Please ensure that you fill in your details accurately and completely as this information will be used to plan and manage the team development coaching session effectively. 
-
-Also, please be aware that this form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using AI. 
-</thinking>
-
 # Team Development Coaching Session Registration Form - Help Guide
 ## Purpose
 The Team Development Coaching Session Registration Form is designed to collect information from attendees who wish to participate in a team development coaching session. This form helps us to understand your team's details, contact information, and coaching session preferences.

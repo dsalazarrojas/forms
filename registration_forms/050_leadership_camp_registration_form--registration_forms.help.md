@@ -1,10 +1,3 @@
-<thinking>
-**Internal Context**: This form is part of a leadership camp registration process. It is designed to collect contact information and family member details from participants. The form should only be filled out by participants and their immediate family members.
-
-**Form Duplication Check**: This form is for individual participants and their family members. Please do not register multiple family members on the same form. Each family member should have their own registration form filled out.
-
-</thinking>
-
 # Leadership Camp Registration Form - Help Guide
 ## Purpose
 The Leadership Camp Registration Form is a form used to collect contact information and family member details from participants of the leadership camp. This form helps us to get to know you and your family better, allowing us to provide the best experience for everyone.

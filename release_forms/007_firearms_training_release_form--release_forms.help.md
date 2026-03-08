@@ -1,5 +1,3 @@
-<thinking>...The Firearms Training Release Form is designed to be a comprehensive document that captures participant and emergency contact information, as well as release details. Its purpose is to gather essential information from participants in firearms training sessions. This form aims to ensure that all required fields are completed accurately and thoroughly. To ensure accuracy and relevance, it is essential to fill out the form carefully, without duplication of information. Please note that certain fields are optional, but they are crucial for proper communication and follow-up in case of emergencies...</thinking>
-
 # Firearms Training Release Form - Help Guide
 ## Purpose
 The Firearms Training Release Form is a comprehensive document that captures participant and emergency contact information, as well as release details for firearms training sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for the Solar Conference. It collects attendee information, including session interests, and special requirements. The form is designed to be user-friendly and easy to navigate. Before filling out the form, please ensure that you have a clear idea of which sessions you are interested in attending and whether you have any special requirements.
-</thinking>
-
 # Solar Conference Registration - Help Guide
 ## Purpose
 

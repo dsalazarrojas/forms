@@ -1,29 +1,4 @@
-# <thinking>
-This form is a tool for users to document and record details about romantic events, such as weddings, anniversaries, and birthdays. It's designed to provide a structured way to capture essential information for future reference and reflection. The purpose of this form is to ensure that users can record and track their romantic events efficiently and accurately.
-
-The following is a guide on how to use the Romantic Note Template Form.
-
-## How To Complete This Form
-
-To complete this form, follow these steps:
-
-1.  Enter a brief love message for the event.
-2.  Enter the date of the meeting or encounter where the event took place.
-3.  Enter the date of the last contact with the person involved in the event.
-4.  Enter the time of day for the event.
-5.  Enter the name of the person involved in the event.
-6.  Enter a message or note for that person.
-7.  Enter the name of the person the message is for.
-8.  Enter the name of the event, such as a wedding or birthday.
-9.  Select the status of the relationship, such as married, engaged, or single.
-10. Select the type of event, such as a wedding, anniversary, or birthday.
-11. Enter the date of the event, if applicable.
-12. Enter the time of the event, if applicable.
-13. Enter a note for the host or person responsible for the event.
-14. Enter a note for the guest or person being honored.
-</thinking>
-
-## Field-by-Field Explanation
+# ## Field-by-Field Explanation
 
 - **Love Message**: Enter a short message expressing your feelings or thoughts about the event.
   This field is a space to enter a brief love message or note to record your feelings about the event.

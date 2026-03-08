@@ -1,12 +1,3 @@
-<thinking>
-This is a registration form for organizations seeking to sponsor an exhibit. The form is used to collect contact and financial information from organizations interested in partnering with the organization on a specific exhibit. The main goal of this form is to ensure that the right contact person and financial information are captured accurately and promptly.
-
-Before completing this form, make sure that you have the necessary authority to represent your organization and have all the required information readily available. You can save your progress and return to the form if needed. Please be aware that the form is not intended for personal or commercial purposes.
-
-The form consists of multiple pages with fields for collecting different types of information. Each page is designed to be completed in a specific order, so please follow the instructions below to ensure you provide the correct information in the right page.
-
-</thinking>
-
 # interactive_exhibit_sponsorship_form - Help Guide
 
 ## Purpose

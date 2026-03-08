@@ -1,9 +1,3 @@
-<thinking>
-The Citizen Science Project Signup Form is designed to collect information from individuals interested in participating in citizen science projects. Citizen science projects are initiatives that involve public engagement in scientific research, aiming to advance scientific knowledge and promote public understanding of science. This form is used to gather details about the participant's background, interests, and availability to match them with suitable projects.
-
-To avoid duplication, users are checked internally before participating in a project, and only those without a previous registration will be able to submit this form.
-</thinking>
-
 # Citizen Science Project Signup Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in participating in citizen science projects. This form helps our team to assess your background, interests, and availability to match you with suitable projects.

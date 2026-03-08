@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Motorcycle License Application Form - Help Guide
 
 ## Purpose

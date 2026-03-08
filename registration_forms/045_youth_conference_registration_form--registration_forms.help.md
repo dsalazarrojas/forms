@@ -1,20 +1,3 @@
-<thinking>Before generating the help guide, let's break down the form's purpose and requirements. This form is designed for registering youth conferences. The form requires the following information:
-
-* Conference name
-* Contact email
-* Contact phone number
-* Conference start date
-* Conference end date
-* Conference location
-* Conference description (optional)
-* Conference capacity (optional)
-* Conference price
-* Early bird registration option (Early Bird, Regular, or Late)
-* Registration method (Online or In Person)
-* Additional notes (for both conference and registration)
-
-The form is designed to collect all the necessary information about the conference and registration process. The fields are divided into two main categories: conference details and registration details.</thinking>
-
 # Youth Conference Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about a youth conference, including details such as conference name, location, start and end dates, and registration method. It also allows conference organizers to add additional notes and information about the conference and registration process.

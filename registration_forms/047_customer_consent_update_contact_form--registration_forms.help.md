@@ -1,12 +1,3 @@
-<thinking>
-This form is used to update a customer's consent information, specifically their contact details, in the system. The goal of this form is to gather essential data from the customer to ensure their consents are up-to-date. 
-
-This form will likely be used when a customer has provided new contact information or has changed their consent status. The system will likely check for duplicate customer consents before allowing the form to be completed to prevent overwriting existing data.
-
-The form is used in conjunction with other system functions to ensure data consistency and regulatory compliance. The customer's consent information will be stored and used in conjunction with other customer data to provide a complete customer profile.
-
-</thinking>
-
 # customer_consent_update_contact_form - Help Guide
 ## Purpose
 This help guide is for the customer consent update contact form. The form is used to update a customer's contact information and consent status.

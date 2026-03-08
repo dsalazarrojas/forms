@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from retail franchisees and their affiliates for the purpose of registering their resource portal information on a central database. This registration process allows the franchisees to access a comprehensive platform where they can manage their resource needs, access exclusive benefits, and connect with other franchisees in their network. It's essential to fill out this form accurately and thoroughly to ensure that your registration is completed correctly.
-
-This guide will walk you through the registration process step-by-step, field by field, to help you complete the form efficiently.
-
-</thinking>
-
 # Retail Franchise Resource Portal Registration - Help Guide
 ## Purpose
 This form is designed to collect and manage your retail franchise information, enabling you to access exclusive resources and connect with other franchisees.

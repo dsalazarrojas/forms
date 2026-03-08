@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used in a social or psychological study to assess an individual's relationship status and dynamics. To confirm, the form asks a wide range of questions about one's partner, including their relationship status, satisfaction, quality, and goals. This form may be used to inform research on relationship trends, satisfaction levels, and areas for improvement. It's possible that the form is part of a larger study on relationships, and the data collected will be used to identify patterns and insights that can help improve relationships. However, it's also possible that the form is used for more specific purposes such as matchmaking or compatibility assessments. To ensure the most accurate and helpful guide, it would be best to confirm the form's purpose and intended use.
-
-Please note that this guide will assume the form is part of a social or psychological study, as this seems to be the most likely scenario based on the questions asked.
-
-This guide will be written based on the provided YAML fields.
-</thinking>
-
 # Relationship Status Survey - Help Guide
 ## Purpose
 This form is used to assess an individual's relationship status and dynamics. The questions cover various aspects of a person's relationship, including their partner's characteristics, goals, and the quality of their relationship.

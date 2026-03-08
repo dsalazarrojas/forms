@@ -1,7 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Retail Payment Tech Event Registration Form, I need to understand the form's purpose and ensure that it's not redundant with other forms within the company. The form's purpose is to gather essential information from attendees to facilitate the registration process for retail payment tech events. This form likely collects attendee data such as name, contact information, payment preferences, meal options, and other relevant details. Before proceeding, let's assume that this form is not duplicating any existing forms within the company.
-</thinking>
-
 # Retail Payment Tech Event Registration Form - Help Guide
 ## Purpose
 This form is used to register attendees for retail payment tech events. It helps us gather accurate information about each attendee, ensuring a smooth and organized event.

@@ -1,12 +1,3 @@
-<thinking> 
-To create this help guide, let's analyze the provided form metadata:
-  *   The form is called "Tournament Schedule Communication Form" and is likely used to collect information related to a tournament schedule.
-  *   It's composed of multiple pages with the name "general_info" and 24 "match_info" pages, each representing a match.
-  *   Each match page has a "date" type field, suggesting that the form is used to collect dates for each match.
-  *   All fields are not required, which means users can fill in the form without providing information for each field.
-
-</thinking>
-
 # Tournament Schedule Communication Form - Help Guide
 ## Purpose
 This form is designed to collect and communicate the schedule of a tournament. It consists of general information and 24 match-specific pages, each with a "date" field.

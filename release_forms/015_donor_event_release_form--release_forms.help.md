@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect event details and release information from donors, ensuring accuracy and consistency across all events. It's crucial that each field is filled out correctly to avoid duplication of events and ensure that the information gathered is reliable. This form is designed to be used in conjunction with other tools and systems to streamline the process of releasing donor events and ensuring that all relevant details are captured.
-</thinking>
-
 # Donor Event Release Form - Help Guide
 ## Purpose
 The Donor Event Release Form is used to collect and release event details from donors. This form ensures that all necessary information is captured consistently and accurately.

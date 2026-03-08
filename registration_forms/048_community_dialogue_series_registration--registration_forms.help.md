@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML, I'm assuming this form is for registering attendees to a Community Dialogue Series, which seems to be a series of events focused on discussing and addressing various community-related topics. The purpose of this form is to collect information from attendees, such as their personal details, event preferences, and feedback. This form likely serves as a registration process for the attendees to participate in these dialogues. To ensure that the form is completed correctly, I will provide a clear and concise guide on how to do so.</thinking>
-
 # Community Dialogue Series Registration - Help Guide
 ## Purpose
 The Community Dialogue Series Registration form is used to register attendees to a series of events focused on discussing and addressing various community-related topics. This form collects personal details, event preferences, and feedback from attendees.

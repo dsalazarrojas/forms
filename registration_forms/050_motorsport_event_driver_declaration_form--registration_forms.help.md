@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect necessary information from drivers for a motorsport event. The purpose of this form is to ensure that the drivers have the necessary safety equipment and have made the necessary declaration to participate in the event. The form will be reviewed and verified by the event organizers to ensure that all necessary information and safety measures are in place before the event starts. 
-</thinking>
-
 # Motorsport Event Driver Declaration Form - Help Guide
 ## Purpose
 The Motorsport Event Driver Declaration Form is a document that drivers must complete before participating in a motorsport event. This form is designed to gather essential information about the driver, their vehicle, and their declaration of safety measures.

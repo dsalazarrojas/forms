@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Runway Image Release Form - Help Guide
 ## Purpose
 

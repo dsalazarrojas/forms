@@ -1,11 +1,3 @@
-<thinking>
-The form is for registering a team in a basketball league. The fields in this form are used to gather information from teams about their participation in the league. The form should be completed by the team's manager or representative.
-To complete this form, start by filling out the "Team Information" section, which includes the team's name, city, and the year it was established. Then, move on to the "Team Manager Information" section, which requires the name, email, and phone number of the team's manager. Next, fill out the "Coach Information" section, which includes the head coach's name and years of coaching experience. You can also include assistant coaches' names if you wish.
-After that, you will need to select the league division and team skill level. The league division is the category the team will be playing in, such as youth, teen, adult, or senior. The team's skill level is their level of competitiveness, which is either recreational, competitive, or elite.
-In the "Roster Information" section, you will need to estimate the size of your team's roster. The "League Participation" section is used to determine whether the team has participated in this league before and what season they are registering for.
-The final sections are "Agreement and Confirmation", where you will be asked to agree to the league's rules and regulations, understand the fees, and confirm that the information provided is accurate.
-</thinking>
-
 # Basketball League Registration Form - Help Guide
 ## Purpose
 

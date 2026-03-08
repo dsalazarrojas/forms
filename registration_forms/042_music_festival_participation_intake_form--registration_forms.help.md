@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Festival Participation Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees and performers at music festivals. It will help us understand their preferences, needs, and expectations, allowing us to tailor our festival experience to better serve them.

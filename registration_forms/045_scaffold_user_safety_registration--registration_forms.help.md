@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help collect information for user safety registrations, which is an essential process for ensuring the well-being and protection of users in various situations. By completing this form, users can provide details about their safety concerns, incidents, and experiences, helping to identify potential risks and take necessary measures to prevent future occurrences. It's crucial to fill out this form accurately and thoroughly to provide a clear understanding of the situation. If you're unsure about any section, please refer to the field explanations below.
-</thinking>
-
 # Scaffold User Safety Registration - Help Guide
 
 ## Purpose

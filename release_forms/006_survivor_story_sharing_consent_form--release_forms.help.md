@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from survivors about their willingness to share their story with a organization. The purpose of this form is to understand the individual's consent in sharing their story, as well as the details of the story they are willing to share. This form is likely to be used to collect sensitive information, and it's essential that the survivors understand what they are consenting to and how their information will be used.
-</thinking>
-
 # Survivor Story Sharing Consent Form - Help Guide
 
 ## Purpose

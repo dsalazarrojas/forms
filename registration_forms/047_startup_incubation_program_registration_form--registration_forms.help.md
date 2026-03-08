@@ -1,18 +1,3 @@
-<thinking> 
-The form is designed for startups to register their interest in the Startup Incubation Program, which likely provides resources, funding, and support for startups to grow and develop their businesses. 
-
-The form is likely used by startups that want to apply for the program, and the information collected will be used to evaluate their eligibility and suitability for the program. 
-
-To avoid duplication, the form likely has validation checks in place to prevent users from submitting incomplete or duplicate applications. 
-
-The form fields are structured to collect various aspects of the startup, including name, contact information, legal entity type, industry, team size, and social media profiles. 
-
-The form may also have some fields for additional information, such as the founding date, location, and country. 
-
-It's assumed that some fields are not compulsory and may be left out or skipped, depending on the specific requirements of the program.
-
-</thinking>
-
 # Startup Incubation Program Registration Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the Startup Incubation Program Registration Form. The form is used to register your startup for the program, which provides resources, funding, and support for startups to grow and develop their businesses.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to register participants for a round robin participation. The form captures essential information about the participant, such as name, email, and availability. This information will help to manage the participant schedule for the round robin participation.
-
-Before proceeding, ensure that the form is not a duplicate by checking the participant's name in the database. 
-
-</thinking>
-
 # Round Robin Participation Form - Help Guide
 ## Purpose
 The purpose of this form is to register participants for a round robin participation. 

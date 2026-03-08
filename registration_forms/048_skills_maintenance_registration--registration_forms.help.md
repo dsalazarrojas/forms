@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information for skills maintenance purposes. 
-This form is meant to capture details about the individual's skills. 
-The purpose of this form is to ensure the accuracy and completeness of the skills information, and to help in updating or adding new skills when necessary. 
-Please ensure that the information is accurate and up-to-date as this will help in maintaining a correct and reliable skills inventory. 
-This form should not be used to collect sensitive or personal data that is not related to skills. 
-Ensure that you have the necessary permission or approval to collect and process this data. 
-
-</thinking>
-
 # skills_maintenance_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect and maintain accurate information about an individual's skills for skills inventory purposes.

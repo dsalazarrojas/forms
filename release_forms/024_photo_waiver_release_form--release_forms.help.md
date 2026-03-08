@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain a photo waiver release from a subject, which is a formal declaration that the subject is aware of and consents to the use of their photo by the organization. This form is intended for use by organizations that may take photos of individuals for various reasons, such as events, marketing materials, or research purposes. The purpose of this form is to ensure that the subject is aware of and agrees to the terms of the photo use, including the date and time of the photo release, the purpose of the photo, and the location where the photo was taken.
-</thinking>
-
 # Photo Waiver Release Form - Help Guide
 ## Purpose
 The Photo Waiver Release Form is a document that allows individuals to grant permission for their photo to be used by an organization. This form is used to ensure that the subject is aware of and consents to the use of their photo.

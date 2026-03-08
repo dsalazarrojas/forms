@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect information from travelers registering for a trip. The form is designed to capture basic contact information (first name, last name, and email), travel dates, and trip specifics (trip type, reason, and class). The form is likely used by event planners or travel agents to gather details about attendees for a particular trip, such as an incentive or recognition trip.
-
-The goal of this form is to efficiently collect required information in a structured manner, reducing errors and ensuring consistency. This form can be used in various contexts, such as corporate events, conferences, or training sessions, where knowing attendee details is crucial for organization and logistics.
-
-Before completing this form, ensure that you're registering for the correct type of trip (incentive, recognition, or other). Double-check that you've entered the correct travel dates, class, and reason for the trip.
-
-Also, be aware that some fields, such as "Travel Reason", might require more detailed explanation or description in the form, but it's left optional (note type) for the user to provide more context if needed.
-
-</thinking>
-
 # Top Acheivers Trip Registration - Help Guide
 ## Purpose
 This form is designed to collect information from travelers registering for a trip, capturing basic contact details and trip specifics.

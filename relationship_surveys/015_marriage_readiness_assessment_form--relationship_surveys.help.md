@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess an individual's readiness for marriage, gathering information on their current relationship status, how they met their partner, their expectations for marriage, the challenges they've faced, and their thoughts on how to strengthen their relationship. The form is meant to be a comprehensive assessment of a person's readiness for marriage, helping them identify areas where they may need to work on to make their relationship more successful. It is intended for personal use and should not be filled out by individuals who are not seriously considering marriage or do not have a genuine interest in assessing their relationship readiness. 
-
-This form is not meant to be a scientifically validated assessment tool or a diagnostic test, but rather a helpful guide for individuals looking to evaluate their readiness for marriage.
-</thinking>
-
 # Marriage Readiness Assessment Form - Help Guide
 
 ## Purpose

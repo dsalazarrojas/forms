@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect registration details from attendees for the HR Data Intelligence Conference. The form is intended for individuals interested in attending the conference, and the data collected will be used to manage attendee information and preferences.
-
-Before completing this form, please ensure that you are registering for the correct event and have not already submitted your registration. Duplicate submissions may cause inaccuracies in the event management and attendee tracking.
-
-</thinking>
-
 # HR Data Intelligence Conference Registration - Help Guide
 ## Purpose
 This form is designed to collect registration details from attendees for the HR Data Intelligence Conference. Please fill out the form with accurate and complete information to ensure smooth event management and attendee tracking.

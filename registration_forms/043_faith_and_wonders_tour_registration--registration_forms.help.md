@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a comprehensive registration form for participants in a tour or event. It seems to collect various personal and demographic information from the participants, including their contact details, tour preferences, and special requirements. The form likely serves as a data collection tool for tour operators or event organizers to gather necessary information for participant management and logistics. Before proceeding, let's ensure that the form is not already covered by an existing help guide, and that this guide is consistent with the provided YAML fields.
-
-Upon reviewing the form, it seems that the fields are categorized into several sections, including participant details, tour preferences, and emergency contact information. The form also asks for a variety of fields such as email, phone number, date of birth, gender, age, religion, address, province, city, postal code, language, tour dates, tour time, meal preference, special requirements, vehicles, tour operator, and participant notes.
-
-This guide should cover the purpose, completion process, and individual explanations for each field in a clear and concise manner, making it easier for participants to complete the form accurately and efficiently. The tone should be friendly, approachable, and free of jargon, avoiding any technical terms that may confuse the users.
-
-Let's proceed with writing the help guide for this form.
-</thinking>
 # Registration Forms - Help Guide
 ## Purpose
 

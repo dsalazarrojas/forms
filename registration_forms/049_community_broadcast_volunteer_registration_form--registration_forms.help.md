@@ -1,11 +1,3 @@
-<thinking> 
-
-To prevent duplicate registrations, please ensure that you are not already registered as a volunteer with the community broadcast. If you are unsure, please check with our volunteer coordinator before filling out this form.
-
-This form is designed to collect information from individuals interested in volunteering for the community broadcast. The purpose of this form is to help us get to know you, your skills, and your availability to better match you with volunteer opportunities within our organization.
-
-</thinking>
-
 # Community Broadcast Volunteer Registration Form - Help Guide
 ## Purpose
 The Community Broadcast Volunteer Registration Form is designed to collect information from individuals interested in volunteering for the community broadcast. This form helps us get to know you, your skills, and your availability to better match you with volunteer opportunities within our organization.

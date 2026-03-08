@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining a swim camp program. The form is used to register for the swim camp by providing personal details and agreement terms. 
-
-This information is intended to be used by the swim camp organization to identify the swimmer and their emergency contact, process payments, and confirm agreements.
-
-Please ensure you have the swimmer's and emergency contact's consent before registering them for the swim camp. This form should only be filled out once for each swimmer.
-
-Please review the following help guide to complete the form accurately.
-
-</thinking>
-
 # Swim Camp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in joining a swim camp program. It helps the swim camp organization to identify the swimmer, their emergency contact, and process payments.

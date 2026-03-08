@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # language_test_booking_form - Help Guide
 ## Purpose
 The language test booking form is designed to collect information from users for language tests. This form is used to book appointments for language tests, allowing users to choose a language, schedule, and other relevant details.

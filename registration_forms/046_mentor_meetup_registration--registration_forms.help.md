@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist participants in completing the Mentor Meetup Registration form. This form is designed to gather necessary information from participants for the purpose of registering for a mentorship program. The form should only be completed by individuals who are interested in becoming a mentor or mentee in the program. To ensure accuracy, please review the form carefully before submitting. If you have already registered for the program, please do not submit this form again.
-</thinking>
-
 # Mentor Meetup Registration - Help Guide
 ## Purpose
 This form is used to register participants for the Mentor Meetup program.

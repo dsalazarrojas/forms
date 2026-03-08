@@ -1,7 +1,3 @@
-<thinking>
-This guide is for internal use only. The form is meant for Rachael to release photographs, videos, and text content. Please only use this guide to complete the form as instructed by Rachael or the intended recipient. The form should only be completed for authorized purposes. Do not duplicate this form for unauthorized reasons. This form should only be used for official release of photographs, videos, and text content by Rachael. Only complete this form if you have been instructed by Rachael or the intended recipient to do so. The form is meant for official use only.
-</thinking>
-
 # rachael_resident_photographvideotext_release_form - Help Guide
 
 ## Purpose

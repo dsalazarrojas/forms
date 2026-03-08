@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a registration form for sustainable production practices, aiming to capture information from companies or organizations about their production processes, company details, contact information, and certification requirements. This form will help to assess the applicant's level of commitment to sustainable production practices. It's crucial to ensure that the same company or individual doesn't register multiple times by checking the internal logic. Please make sure you only fill in this form if you are a new user.
-
-</thinking>
-
 # Sustainable Production Certification Registration Form - Help Guide
 
 ## Purpose

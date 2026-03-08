@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of completing the Event Performer Recording Release Form. Before proceeding, it's essential to note that this form is used for recording events, such as performances, where the performer is being recorded. This form is a release form, meaning it's a document that grants permission for the recording to be made and shared. Please read through this guide carefully to ensure you understand each field's purpose and how to complete it accurately.
-</thinking>
-
 # Event Performer Recording Release Form - Help Guide
 ## Purpose
 This form is designed to obtain the consent of event performers for their recording in various formats (video, live streaming, still photography, etc.). It's essential to complete this form carefully to ensure the performer's rights and consent are respected.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form is to register for a community sports event. Before proceeding, check if you have already completed a registration form for this event. If not, this form serves as a registration and waiver for the event. 
-</thinking>
-
 # Community Sports Event Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for a community sports event. It captures essential information required for event management, medical preparedness, and liability purposes.

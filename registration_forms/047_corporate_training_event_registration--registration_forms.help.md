@@ -1,16 +1,3 @@
-<thinking> 
-This form is used for registering attendees for a corporate training event. The purpose of the form is to collect information from attendees, such as their session preferences, special requirements, and contact details. This information will be used to tailor the event to their needs and preferences. 
-
-Please note that the form is not meant to be filled out by the attendees themselves, but rather by the person responsible for registering multiple attendees at once. 
-
-This form is not meant to be filled out multiple times, once a user has filled out this form, it should be saved for future reference. 
-
-Please ensure that you fill out this form accurately and completely, as the information collected will be used to provide the best experience for all attendees. 
-
-The form consists of several sections, each with its own set of fields. Each section will be explained below. 
-
-</thinking>
-
 # Corporate Training Event Registration - Help Guide
 ## Purpose
 

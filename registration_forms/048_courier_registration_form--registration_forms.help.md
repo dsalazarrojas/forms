@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for registering a courier service. The purpose of this form is to collect information from users who want to be registered as couriers. This form is used for internal purposes only and is not intended for public use. It is assumed that the user is already a known entity to the system and is already authorized to access this form. 
-The form is intended for users who are familiar with the system and have the necessary information to complete it. The form is also designed to be completed in a single session, meaning that users are not expected to save their progress or come back to the form at a later time to complete it. 
-The form has the following sections and fields that are relevant to the courier registration process. Please note that some fields might be sensitive or require special attention due to their nature.
-The provided YAML fields are self-explanatory and their purpose should be clear based on their names. Please review the following sections and fields to understand their usage and requirements.
-</thinking>
-
 # Courier Registration Form - Help Guide
 ## Purpose
 This form is designed to register a user as a courier service.

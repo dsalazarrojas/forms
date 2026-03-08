@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate peer check-ins, allowing users to report their activities and interactions within a specific industry or category. The purpose of this form is to provide a structured and standardized way for users to report their peer check-ins, ensuring that the data collected is consistent and comparable across different time periods. Before proceeding, ensure that you are completing this form in the correct context and that your responses are accurate and truthful.
-</thinking>
-
 # R2ise Peer Check In Report - Help Guide
 
 ## Purpose

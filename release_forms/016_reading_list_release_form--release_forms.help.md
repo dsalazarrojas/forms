@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reading List Release Form - Help Guide
 
 ## Purpose

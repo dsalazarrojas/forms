@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Blueprint Records Release Form", I'll assume that the form is used to capture information about the release of music recordings, including artist and recording details, release type, distribution, and licensing agreements. This form is likely used by record labels, management, or publishing companies to formalize agreements with artists. 
-
-The form is structured to collect relevant information about the artist, recording, and release terms, ensuring accurate and complete documentation. This guide aims to walk users through each field, explaining its purpose and required fields to minimize errors and ensure successful form completion.
-
-</thinking>
-
 # Blueprint Records Release Form - Help Guide
 ## Purpose
 The Blueprint Records Release Form is a comprehensive document used to formalize agreements between record labels or publishers and artists regarding the release of their music recordings. This form captures essential details about the artist, recording, and release terms to ensure accurate and transparent documentation.

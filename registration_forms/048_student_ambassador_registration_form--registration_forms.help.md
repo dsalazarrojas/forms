@@ -1,11 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly, the following checks will be performed internally:
-- Check for duplicate submissions from the same IP address in the last 30 minutes
-- Check if the form has been filled out by a non-student user
-- Check if the form has been filled out for the wrong school or category
-The internal checks are done to prevent duplicate submissions and to ensure that the correct school and category are being filled out.
-</thinking>
-
 # Student Ambassador Registration Form - Help Guide
 ## Purpose
 The Student Ambassador Registration Form is a form designed to collect information from students who wish to represent their school as an ambassador. This form is used to gather details such as name, email, phone number, role, and other relevant information to ensure that the student's representation is accurate and up-to-date.

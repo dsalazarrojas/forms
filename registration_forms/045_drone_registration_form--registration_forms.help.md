@@ -1,5 +1,3 @@
-<thinking>This form serves as a centralized location for users to input their personal details and preferences for drone-related activities or events. The form is part of a larger system used to manage and organize drone registration data. To ensure accuracy and consistency in this database, it is essential to fill out this form completely and correctly. Please ensure that you have a valid reason for filling out this form before proceeding and that you are not duplicating existing registrations. Please refer to the following help guide for detailed instructions on how to fill out this form.</thinking>
-
 # Drone Registration Form - Help Guide
 ## Purpose
 The Drone Registration Form is designed to collect personal details and preferences for drone-related activities or events. This information is used to manage and organize drone registration data accurately and consistently.

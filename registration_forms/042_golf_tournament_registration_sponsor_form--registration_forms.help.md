@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect registration information and sponsorship details for a golf tournament. The form is divided into several sections, including participant registration, sponsor information, participant contact information, and payment details. This form will help us manage the registration process, track sponsorships, and ensure that participants have all the necessary information on file for payment processing. The goal is to gather accurate and complete information from both participants and sponsors to ensure that the tournament runs smoothly and efficiently. 
-
-Before completing the form, review the fields carefully to ensure that you're providing accurate and complete information.
-
-</thinking>
-
 # Golf Tournament Registration & Sponsor Form - Help Guide
 
 ## Purpose

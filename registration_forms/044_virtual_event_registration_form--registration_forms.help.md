@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering virtual events. It captures essential information such as first name, email, phone number, name of organization, event name, event date, start and end time, description, registration type, purchase option, and lists of attendees. The form checks for duplication of events and ensures that all required fields are filled out. 
-</thinking>
-
 # Virtual Event Registration Form - Help Guide
 ## Purpose
 The Virtual Event Registration Form is a tool for registering virtual events. This form collects essential information about the event, such as the event name, date, and attendees. The form also captures contact information for event organizers and attendees.

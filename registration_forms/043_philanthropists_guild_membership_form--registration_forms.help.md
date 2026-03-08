@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Philanthropists Guild Membership Form. The form is designed to collect relevant information from users who want to become members of the Philanthropists Guild. The form is split into multiple pages, each focusing on different aspects of the membership registration process. This guide will cover the purpose of the form, how to fill it out, and an explanation of each field to ensure a smooth and efficient experience for users.
-
-Please note that some fields are marked as "required", which means they must be completed for the form to be submitted. Other fields are optional and can be filled out if additional information is desired or needed for the registration process.
-
-Before starting the form, please make sure you have all the necessary information ready to avoid any issues during the submission process.
-</thinking>
-
 # Philanthropists Guild Membership Form - Help Guide
 ## Purpose
 The Philanthropists Guild Membership Form is designed to gather information from users who want to become members of the Philanthropists Guild. This form is used to collect relevant details about the user and their intentions to join the guild.

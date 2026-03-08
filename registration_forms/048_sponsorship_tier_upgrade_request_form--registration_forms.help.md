@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-The purpose of this form is to facilitate the sponsorship tier upgrade request process for organizations. This form allows organizations to submit their upgrade requests, providing necessary information such as their current sponsorship tier, the date they wish to upgrade, and any relevant contact details.
-
-The system checks for duplicate requests and ensures that organizations do not submit duplicate requests for sponsorship tier upgrades. This helps maintain the integrity of the system and prevents duplicate work.
-
-This form is a simple, straightforward way for organizations to initiate the sponsorship tier upgrade process, and the information collected will be used to evaluate and process their upgrade requests.
-</thinking>
-
 # Sponsorship Tier Upgrade Request Form - Help Guide
 ## Purpose
 This form is designed to help organizations upgrade their sponsorship tier. To use this form, please follow the steps below.

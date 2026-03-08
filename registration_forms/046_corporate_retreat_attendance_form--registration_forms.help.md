@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who plan to attend a corporate retreat. The purpose of this form is to gather essential details about each attendee, including their contact information, role in the company, and attendance status. It's crucial to fill out this form accurately and completely to ensure that attendees can be properly tracked and accounted for during the retreat.
-
-This form appears to be a multi-page form, with each page containing a specific set of fields. To avoid duplication, please fill out the form in the order specified, starting from the first page and moving to the next one when prompted. If you're unsure about any field, refer to the field-by-field explanation below.
-
-</thinking>
-
 # Corporate Retreat Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from attendees of the corporate retreat.

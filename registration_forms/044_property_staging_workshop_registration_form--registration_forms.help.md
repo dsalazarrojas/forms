@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from potential attendees for the Property Staging Workshop. The form is designed to collect details about the attendee, their workshop preferences, payment information, and contact details. This form will help the organizers of the workshop to understand who is attending, what their preferences are, and how to contact them for further communication. 
-The form should only be filled out once by each attendee, so make sure to fill it out only once. If you're unsure whether you've already filled out the form, you can check with the organizers or review your own records to avoid duplication.</thinking>
-
 # Property Staging Workshop Registration Form - Help Guide
 ## Purpose
 The Property Staging Workshop Registration Form is designed to gather information from potential attendees for the Property Staging Workshop.

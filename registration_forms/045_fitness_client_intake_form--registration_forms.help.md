@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive intake form for clients who wish to engage in a fitness program. Its purpose is to gather essential information about the client, including their personal details, health history, availability, and goals. The form also ensures that clients acknowledge and agree to various terms, policies, and release of liability. This is a critical step in the onboarding process, as it allows the fitness professional to understand the client's needs, limitations, and expectations, ensuring a safe and effective fitness experience.
-
-</thinking>
-
 # Fitness Client Intake Form - Help Guide
 ## Purpose
 The Fitness Client Intake Form is a necessary step in the onboarding process for all clients. It helps the fitness professional understand the client's needs, limitations, and expectations, ensuring a safe and effective fitness experience.

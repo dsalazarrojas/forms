@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Football League Registration Form - Help Guide
 ## Purpose
 This form is used to register a player and their team in the football league. It collects information about the player, team, and other relevant details.

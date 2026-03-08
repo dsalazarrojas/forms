@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for registering for a Unity Event, which is likely a gathering or gathering of individuals with a shared interest or purpose. It seems to be collecting information about attendees, including their personal details, session interests, accessibility needs, and transportation arrangements. The form requires attendees to provide their first name, last name, email address, and phone number, but not their phone number is optional. Session interests and accessibility needs are also optional, with attendees having the option to choose multiple interests and specify their needs. The form seems to be designed to accommodate a range of attendees, including those with different mobility needs and those arriving by different modes of transportation. The form's purpose is to gather accurate information about attendees, but it appears to be flexible in terms of required fields, suggesting that some questions are optional. The form is not affiliated with any form platforms and was created using AI-generated metadata, so it may not be directly linked to any form platform's features or rules.
-  </thinking>
-
 # Unity Event Registration - Help Guide
 ## Purpose
 This form is used for registering for a Unity Event, which is a gathering of individuals with a shared interest or purpose.

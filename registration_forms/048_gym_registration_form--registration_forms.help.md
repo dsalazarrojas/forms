@@ -1,5 +1,3 @@
-<thinking>As this form is designed for users to register themselves, we need to ensure that the form is easy to understand and complete. The purpose of this form is to gather information about the user for membership purposes. The form will be used to store user contact and emergency contact information. To avoid duplicating existing records, please ensure you are not already registered or have not previously submitted this form. If you're unsure about your registration status, please contact the administration team for verification.</thinking>
-
 # Gym Registration Form - Help Guide
 ## Purpose
 This form is used to register yourself as a member of the gym. Please fill out the form with accurate and complete information to ensure your membership is processed smoothly.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering reptiles for an exhibition. The form collects information about the reptile's name, contact details, species, and event details. The form is not mandatory, but it is recommended to fill it out if you want to participate in the exhibition.
-
-To determine if this form is relevant for the user, we need to check if the user has the necessary permissions to register a reptile for an exhibition. If not, the form will not be displayed.
-
-Before filling out this form, make sure you have the necessary information and permissions to register your reptile. If you're unsure, contact the event organizers.
-</thinking>
-
 # reptile_exhibition_registration - Help Guide
 ## Purpose
 This form is for registering reptiles for an exhibition. You can use it to provide your reptile's details and sign up for the event.

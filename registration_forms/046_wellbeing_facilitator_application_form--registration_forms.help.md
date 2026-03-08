@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registering a wellbeing facilitator. A wellbeing facilitator is an individual who assists others in improving their mental, physical, emotional, and spiritual wellbeing. This form will help collect information about the applicant's details and their expertise in different wellbeing areas. Please ensure that you are using this form for the correct purpose and that you have not already submitted an application using this form.
-
-Before proceeding, check if you have previously submitted an application using this form. If you are unsure, please contact the relevant authority for clarification.
-</thinking>
-
 # wellbeing-facilitator-application-form - Help Guide
 ## Purpose
 This form is used to register as a wellbeing facilitator, providing a platform for individuals to offer their services in areas such as mental, physical, emotional, and spiritual wellbeing.

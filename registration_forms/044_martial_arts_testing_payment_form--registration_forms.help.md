@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to capture payment information for martial arts testing sessions. The goal is to gather details about the testing process, such as the student's first and last name, their date of birth, testing date, testing time, and testing fee. The form also asks about the payment method and options, as well as other relevant details like student ID, dojo name, and instructor name. This form will be used by martial arts schools to collect and process payment information for testing sessions.
-
-Before proceeding, please note that the form has the following fields:
-- First Name (required): A text field to capture the student's first name.
-- Last Name (required): A text field to capture the student's last name.
-- Date of Birth (required): A date field to capture the student's date of birth.
-- Testing Date (required): A date field to capture the testing date.
-- Testing Time (required): A time field to capture the testing time.
-- Testing Fee (required): A text field to capture the testing fee amount.
-- Payment Method (required, options: Yes/No): A select-one field asking if payment is accepted.
-- Payment Method Options (optional, options: Cash/Credit Card/PayPal): A select-multiple field to capture payment method options.
-- Student ID (required): A text field to capture the student's ID number.
-- Dojo Name (required): A text field to capture the name of the dojo.
-- Instructor Name (optional): A text field to capture the instructor's name.
-- Student Name (optional): This field is not used in the form and can be ignored.
-
-This form is part of a larger system for managing martial arts testing sessions. Please ensure that all required fields are filled out correctly to ensure accurate processing of payment information.
-</thinking>
-
 # Martial Arts Testing Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information for martial arts testing sessions.

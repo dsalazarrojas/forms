@@ -1,24 +1,3 @@
-<thinking>
-This form is intended to collect information about a movie release, including the release date, movie title, performer information, production company, and more. It is likely used by film professionals to document and record details about a movie's release. The form might be used by production companies, studios, or other industry stakeholders to gather information and track progress.
-
-To complete this form accurately, users must be aware of the following:
-
-- The "Performer Information" field likely refers to the name and other details of the performer(s) associated with the movie.
-- The "Production Company" field should include the name and any relevant notes about the production company involved.
-- The "Release Form Signed" field is a text field that might require a yes/no answer, possibly indicating whether the release form has been signed or not.
-- The "Release Form Date" field should be filled in with the date the release form was signed or completed.
-- The "Performer Signature" field is likely used for the performer to sign and date their agreement or acknowledgement.
-- The "Release Agreement" field is a text field that might contain the terms of the release agreement.
-- The "Signature Date" field is the date the performer signed the release agreement.
-- The "Signature" field is used to record the performer's signature.
-- The "Performer Notes" field is for the performer to include any additional comments or notes.
-- The "Production Company Signature" field is used for the production company to sign and date their acknowledgement.
-- The "Company Notes" field is a text field that might contain the production company's notes.
-- The "Form Completion" field is likely used to indicate that the form has been completed.
-
-This form is designed to collect a wide range of information about a movie release, and users must ensure that each field is filled in accurately and relevantly to the context.
-</thinking>
-
 # Movie Release Form - Help Guide
 ## Purpose
 The Movie Release Form is a document used to collect and record details about a movie's release, including its release date, title, performer information, production company, and more. It is an essential tool for film professionals to document and track progress.

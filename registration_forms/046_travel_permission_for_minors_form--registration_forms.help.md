@@ -1,12 +1,3 @@
-<thinking>
-The form is intended for obtaining travel permission for minors. This includes gathering essential information about the minor, their travel details, and emergency contact information. The form is likely to be used in situations where minors are traveling without a parent or guardian, such as when they are being picked up by another family member or a trusted adult for a school field trip, or when they are being transported to a different location for a sports event or other activities. This form ensures that necessary permissions and contact information are collected to ensure the minor's safety and well-being during travel. It's essential to note that this form might not be a one-time use form; parents or guardians may need to fill it out each time the minor travels without them.
-
-To prevent duplication of effort, please review the form fields to ensure you are providing accurate and up-to-date information.
-
-The following form will guide you through the travel permission process.
-
-</thinking>
-
 # travel_permission_for_minors_form - Help Guide
 ## Purpose
 

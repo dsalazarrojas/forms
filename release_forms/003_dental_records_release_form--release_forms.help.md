@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a patient's dental records release. This form is required for any patient who wishes to access their own medical records. Please ensure that this form is completed accurately and thoroughly to avoid any issues with record release. Please note that some fields are not required, but it's still important to fill them out for the best possible outcome.
-</thinking>
-
 # Dental Records Release Form - Help Guide
 ## Purpose
 This form is used to collect information for a patient's dental records release.

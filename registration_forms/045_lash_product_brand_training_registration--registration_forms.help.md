@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who want to register for a Lash product brand training session. The form should be completed by anyone interested in attending a training session on lash products, including current or potential customers, partners, or employees of the company. To ensure accurate and comprehensive data collection, it's essential to complete the form with the most up-to-date information. Please make sure to fill out the form only if you are interested in attending a training session, and do not register multiple sessions at once. If you have already registered for a session, you can simply update your information instead of creating a new entry. If you're unsure about any field, please ask your contact person for clarification.
-
-</thinking>
-
 # Lash Product Brand Training Registration - Help Guide
 ## Purpose
 The Lash Product Brand Training Registration form is designed to collect information from individuals interested in registering for a Lash product brand training session. This form helps us understand who is interested in attending the training and ensures that we have the most up-to-date information about our attendees.

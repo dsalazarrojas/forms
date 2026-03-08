@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect participant information for the dance studio's participant release form. This form is intended to be filled out by dance studio participants to provide their contact information, medical information, and consent for the studio to share their contact information with other participants. The purpose of this form is to ensure that the dance studio has the necessary information to communicate with participants and their emergency contacts in case of an emergency. 
-
-</thinking>
-
 # Dance Studio Participation Release Form - Help Guide
 ## Purpose
 This form is used to collect participant information for the dance studio's participant release form. The form is required to ensure the dance studio has the necessary information to communicate with participants and their emergency contacts in case of an emergency.

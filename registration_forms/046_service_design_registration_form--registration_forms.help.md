@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in filling out the Service Design Registration Form, a critical form for registering and managing workshops. The form's primary purpose is to gather essential details about the workshop, including its type, duration, date, and contact information. This form will help the workshop organizers and administrators to efficiently register and manage workshops, and it's crucial to fill it out accurately and comprehensively.
-
-Before proceeding, please ensure you have all the required information ready. The form is divided into several sections, each addressing specific aspects of the workshop. The following guide will walk you through each field, explaining its purpose and how to fill it out correctly.
-
-Please note that some fields are optional, but providing accurate and complete information will ensure that your workshop is effectively registered and managed.
-
-</thinking>
-
 # Service Design Registration Form - Help Guide
 ## Purpose
 The Service Design Registration Form is a critical tool for registering and managing workshops. It gathers essential details about the workshop, including its type, duration, date, and contact information. Accurate and comprehensive information is crucial to ensure that your workshop is properly registered and managed.

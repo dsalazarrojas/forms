@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a user-friendly way for volunteers to request shifts for volunteering opportunities. It is meant to be a simple and straightforward way to collect information from volunteers about their availability and preferences. Before proceeding, please ensure that you have not already submitted a request for the same shift date. If you are unsure or need to make changes, please contact the volunteer coordinator.
-</thinking>
-
 # Volunteer Shift Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers about their availability and preferences for volunteering shifts.

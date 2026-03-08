@@ -1,14 +1,3 @@
-<thinking>
-  To create a user-friendly help guide for the "2017 Artist Jamboree Registration" form, I'll first review the form's purpose and fields. The form is designed to gather information from artists who wish to participate in the 2017 Artist Jamboree event. The form asks for personal information, artistic discipline, experience level, and participation preferences. The form is meant to be completed by attendees, exhibitors, workshop presenters, vendors, volunteers, and performers.
-
-  I'll check for any potential issues with the form's design and make sure it's clear and concise. The form seems well-structured, and each field has a clear label and hint to help guide the user.
-
-  I'll also review the form's fields for any potential issues. All fields have clear labels, hints, and types, which should help the user understand what to expect. The form requires some basic contact information, artistic discipline, experience level, and participation preferences, which are essential for the event organizers. The form also allows for additional comments and notes, which can help the organizers understand the user's specific needs and preferences.
-
-  Overall, the form seems well-designed and should provide a smooth experience for the users.
-
-</thinking>
-
 # 2017 Artist Jamboree Registration - Help Guide
 ## Purpose
 The 2017 Artist Jamboree Registration form is designed for artists who want to participate in the event. The form collects contact information, artistic discipline, experience level, and participation preferences to help the organizers tailor the event to the artist's needs.

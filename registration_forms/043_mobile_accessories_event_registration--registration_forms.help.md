@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from participants who are interested in attending a mobile accessories event. The form should be completed by individuals who want to register for the event and potentially sign up for additional resources or services. The goal is to gather relevant contact and event interest information to facilitate communication and follow-up actions.
-</thinking>
-
 # Mobile Accessories Event Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals interested in attending a mobile accessories event. It's essential to complete this form to provide your details and express your interests.

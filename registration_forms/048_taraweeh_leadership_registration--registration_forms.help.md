@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect registration information from individuals who wish to join the Taraweeh leadership program. This form ensures that each individual's details are accurately captured, and the program can verify their identity. It's crucial to complete this form carefully to avoid any errors or discrepancies in the registration process.</thinking>
-
 # Taraweeh Leadership Registration - Help Guide
 ## Purpose
 The Taraweeh Leadership Registration form is used to collect information from individuals who wish to join the Taraweeh leadership program. This form helps the program verify each individual's identity and ensure accurate registration.

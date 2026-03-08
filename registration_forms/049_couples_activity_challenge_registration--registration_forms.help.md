@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to register for the Couples Activity Challenge, which is likely an event or program that couples can participate in together. This form captures essential information about the couple and their involvement in the challenge. The fields are designed to be filled out by the couple registering for the challenge. 
-The form is not meant to be filled out more than once by each couple. 
-The fields should only be filled out by the couple themselves, not their partners or any other third-party. 
-</thinking>
-
 # Couples Activity Challenge Registration - Help Guide
 ## Purpose
 The Couples Activity Challenge Registration form is designed to collect information from couples participating in the activity challenge. It is intended to be filled out by each couple to provide their relevant details and preferences.

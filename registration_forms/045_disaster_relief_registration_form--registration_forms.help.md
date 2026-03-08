@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Disaster Relief Registration Form. 
-
-Before proceeding, please ensure that you are registering for a legitimate disaster relief effort and that you have not already submitted a registration form for the same event. Duplicate registrations may lead to unnecessary duplication of efforts and resource waste. 
-
-The purpose of this form is to gather information about individuals affected by a disaster, which will aid in providing timely and effective relief efforts. 
-
-This form is designed to be completed by individuals who require relief assistance and is not intended for use by relief personnel or officials.
-
-</thinking>
-
 # Disaster Relief Registration Form - Help Guide
 ## Purpose
 This form is designed to assist individuals affected by a disaster to register for relief assistance. It collects information necessary to provide effective relief efforts, including name, contact details, and information about the disaster.

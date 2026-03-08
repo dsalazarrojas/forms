@@ -1,5 +1,3 @@
-<thinking>...this form is for registering for Trunk or Treat events in a given community. The goal is to collect participant information for event organizers to manage and track participant details. This form should only be filled out once per participant. Please ensure you've filled out the correct information and not duplicated any existing registrations...</thinking>
-
 # Trunk Or Treat Registration Form - Help Guide
 ## Purpose
 This form is used to register for Trunk or Treat events within a community. It collects participant information for event organizers to manage and track participant details.

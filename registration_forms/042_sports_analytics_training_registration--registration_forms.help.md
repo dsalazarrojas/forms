@@ -1,12 +1,3 @@
-<thinking>
-This form is used for the registration of participants for sports analytics training. The purpose of this form is to collect information from potential participants, including their organization name, role, training date, training location, participant name, and other relevant details. This form is used to gather necessary information for the training program and ensure that participants are properly registered and informed about the training schedule.
-
-It is essential to ensure that the form is completed accurately and thoroughly, as the information gathered will be used to tailor the training program to the participants' needs and ensure they receive the necessary information and materials. 
-
-The form should only be filled out once per participant. If a participant needs to register for multiple trainings, they will need to fill out the form multiple times.
-
-</thinking>
-
 # Sports Analytics Training Registration - Help Guide
 ## Purpose
 This form is used to register participants for sports analytics training programs. It is essential to provide accurate and thorough information to ensure a successful and productive training experience.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for warehouse releases. It is intended for users to input necessary details for the release process. To avoid duplication, please ensure that each submission is reviewed and approved before resubmitting.
-</thinking>
-
 # Warehouse Release Form - Help Guide
 ## Purpose
 The Warehouse Release Form is used to collect information from users for warehouse releases. This form is designed to gather necessary details from users for the release process.

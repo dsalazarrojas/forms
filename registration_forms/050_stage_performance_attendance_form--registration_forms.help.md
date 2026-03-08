@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Performance Attendance Form - Help Guide
 ## Purpose
 The Stage Performance Attendance Form is designed to collect information about stage performances, including details about the performance, the performer, and the event. This form helps to track and record attendance and feedback from events, which can be useful for event organizers, performers, and attendees. Please ensure that you are using this form for its intended purpose and not duplicating existing forms.

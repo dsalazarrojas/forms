@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the Martial Arts Waiver Form, I will follow the provided instruction structure and guidelines. The purpose of this form is to collect necessary information for participants to enroll in martial arts training, including personal identification, medical history, emergency contact information, and agreement to participate in training at one's own risk. The form is designed to gather details that help the martial arts school ensure the well-being and safety of its participants. 
-
-</thinking>
-
 # Martial Arts Waiver Form - Help Guide
 ## Purpose
 This form is a legal document that requires all participants to agree on the terms and conditions of their martial arts training.

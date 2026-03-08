@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to allow users to register new products with the company. To ensure that this form is used correctly, please note that it should only be used for new products that have not yet been registered. If you are looking to update or modify an existing product, please contact the relevant department directly. This form will be used to create new products, and any incomplete or duplicate submissions may delay the product's availability in the catalog. 
-
-</thinking>
-
 # Product Of New Brand Registration Form - Help Guide
 ## Purpose
 This form is used to register new products with the company. It is designed to collect necessary information about the product, such as its name, description, and assigned tool. This information will be used to create a new product in the catalog. 

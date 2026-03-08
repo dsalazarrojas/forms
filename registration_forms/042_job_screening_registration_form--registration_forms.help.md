@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from job applicants for internal use within the organization. It is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0 license. This form was created using AI-generated form adaptation and does not use proprietary content from other form creation platforms. The purpose of this form is to gather relevant data from job applicants in a structured and efficient manner.
-</thinking>
-
 # Job Screening Registration Form - Help Guide
 ## Purpose
 This form is meant to collect information from job applicants to facilitate the internal screening process.

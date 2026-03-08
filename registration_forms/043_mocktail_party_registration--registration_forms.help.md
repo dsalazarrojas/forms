@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register a mocktail party event. The purpose of this form is to collect information about the event planner, venue, guests, and other relevant details. This form is not meant for duplicate submissions, and users should ensure that they are registering a new event.
-
-</thinking>
-
 # Mocktail Party Registration - Help Guide
 ## Purpose
 This form is used to register a mocktail party event. It helps collect information about the event planner, venue, guests, and other relevant details.

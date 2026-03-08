@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the necessary information from an adult individual, typically a student or an applicant, to authorize the release of their personal data to a specified organization. The form ensures that the individual is aware of the information being released, the purpose of the release, and the rights associated with it.
-</thinking>
-
 # Consent For Release Adult - Help Guide
 ## Purpose
 The form serves as a consent mechanism for adults to give permission to organizations to access their personal data. This data may include academic records, medical history, employment information, or other relevant details. The form ensures that the individual is informed and willing to share their data with the authorized entity.

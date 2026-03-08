@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for virtual real estate tours. The form will be used to create a registration process for virtual real estate tours, where users can input their personal details, tour preferences, and other relevant information. This form will help the real estate company to efficiently manage and track registrations for virtual tours, reducing paperwork and increasing the speed of processing registrations.
-
-This guide will help users to complete the form correctly and understand what information is required for a successful registration.
-
-This form is not intended to be used for other purposes. Please make sure you understand the purpose and requirements before completing the form.
-
-</thinking>
-
 # Real Estate Virtual Tour Registration Form - Help Guide
 ## Purpose
 The Real Estate Virtual Tour Registration Form is designed to collect information from users for virtual real estate tours. It helps the real estate company to manage and track registrations efficiently.

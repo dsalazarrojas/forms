@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for a library membership application. It will be used to determine if the applicant is eligible for library membership. This form is a simple select form with multiple fields for the applicant to fill out. It does not require the applicant to provide sensitive information, such as social security number or credit card information. The information collected will be used to verify the applicant's identity and to determine their eligibility for library services.
 
 # Library Membership Permission Form - Help Guide

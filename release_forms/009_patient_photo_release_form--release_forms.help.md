@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Patient Photo Release Form. This form is designed to obtain consent from patients for the storage and release of their photo, while also capturing relevant information about the patient's health and the photo release process. It is used by healthcare providers to ensure that patient's photos are handled and stored in accordance with HIPAA and other regulatory requirements.
-</thinking>
-
 # Patient Photo Release Form - Help Guide
 ## Purpose
 The Patient Photo Release Form is a document that is used to obtain consent from patients for the storage and release of their photos. This form is required by healthcare providers to ensure that patient's photos are handled and stored in accordance with regulatory requirements.

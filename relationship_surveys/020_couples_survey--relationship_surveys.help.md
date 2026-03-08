@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey focused on relationships, specifically targeting couples. It asks questions about the partner's name, length and status of the relationship, communication style, conflict frequency, conflict resolution methods, emotional and physical intimacy, emotional support, and relationship satisfaction. The form is designed to collect data about the dynamics within a couple, likely for research or analysis purposes. This guide will help users understand the purpose and usage of the form.
-</thinking>
-
 # Couples Survey - Help Guide
 ## Purpose
 The Couples Survey is designed to collect information about the dynamics of a relationship, including communication style, conflict resolution, emotional and physical intimacy, and relationship satisfaction. This data can be used for research, analysis, or personal reflection purposes.

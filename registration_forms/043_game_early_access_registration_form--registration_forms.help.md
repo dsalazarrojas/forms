@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Game Early Access Registration Form - Help Guide
 ## Purpose
 This form is designed to help us gather information from game developers about their games that are in early access. By filling out this form, you will be providing us with the necessary details about your game, which will help us review and consider it for early access on our platform. Please note that your game must be a new release, and you must be the developer or have permission to represent the game.

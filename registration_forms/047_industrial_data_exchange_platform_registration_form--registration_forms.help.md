@@ -1,7 +1,3 @@
-<thinking>
-# The purpose of this form is to gather information for registration on the Industrial Data Exchange Platform. This form is designed to collect data about the onboarding organization, including its company name, legal name, address, and contact information. The form also includes fields for confirming password, accepting terms and conditions, and selecting the type of organization and industry.
-</thinking>
-
 # industrial_data_exchange_platform_registration_form - Help Guide
 ## Purpose
 The industrial data exchange platform registration form is used to collect data for organizations that wish to join the Industrial Data Exchange Platform. This form is used for onboarding new users and collecting essential information about their organization.

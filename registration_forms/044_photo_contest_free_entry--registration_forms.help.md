@@ -1,7 +1,3 @@
-<thinking>
-To confirm that this form is correctly set up for a photo contest, let's review the provided YAML structure. The form is for user registration, and it seems to be a general-purpose photo contest registration form. I don't see any indications that this form is specifically designed for a particular event or organization. However, I will assume that the form is intended for general photo contest purposes.
-</thinking>
-
 # photo contestประก - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a photo contest. Users will be asked to provide their contact details, photo submission information, and consent to the terms and conditions of the contest.

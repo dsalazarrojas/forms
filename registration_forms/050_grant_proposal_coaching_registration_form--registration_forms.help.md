@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the "Grant Proposal Coaching Registration Form". The form aims to gather crucial information from potential clients to provide them with tailored grant proposal coaching services. Before proceeding, please ensure that you have not previously registered for this service, as duplicate submissions will be discarded. To avoid any confusion, kindly note that the form will only ask for information that will aid in the coaching process, and all data will be treated with confidentiality and respect.
-</thinking>
-
 # Grant Proposal Coaching Registration Form - Help Guide
 ## Purpose
 The Grant Proposal Coaching Registration Form is designed to gather essential information from you to provide personalized grant proposal coaching services. Our goal is to help you create effective grant proposals that increase your chances of securing funding.

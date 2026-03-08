@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for vendors to register their information with a holy convocation event. It's likely being used for a specific industry or community that has its own set of requirements and regulations. The purpose of the form is to gather essential details about the vendor's business, including their contact information, event participation status, and any relevant certifications or licenses.
-
-To avoid duplication or errors, it's essential to review the form carefully before filling it out, ensuring that all required fields are filled in accurately and completely.
-
-</thinking>
-
 # Holy Convocation Vendor Registration Form - Help Guide
 ## Purpose
 

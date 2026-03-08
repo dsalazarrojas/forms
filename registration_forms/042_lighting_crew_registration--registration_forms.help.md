@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering individuals or companies who are part of a lighting crew for event or project management purposes. The form collects information about the individual or company, including experience, role, availability, and contact details. It's likely used by production or events teams to manage their crews and ensure they have the necessary contact information and availability to book them for projects.
-The form is likely used for internal purposes within the production or events industry, but it's possible it could be used for external purposes as well, such as marketing or outreach efforts.
-Before starting, ensure that you are registering for a valid purpose and that you have the necessary permissions or authority to do so. If you are unsure, contact the relevant production or events team for clarification.
-</thinking>
-
 # Lighting Crew Registration - Help Guide
 ## Purpose
 The purpose of this form is to register individuals or companies who are part of a lighting crew for event or project management purposes.

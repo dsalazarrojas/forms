@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a Relationship Attachment Style Questionnaire, which is used to collect information about an individual's attachment style in relationships. This form likely aims to assess the level of attachment in relationships, including attachment style, level, and depth. It might be used in a research or therapeutic setting to understand attachment dynamics between individuals. This form may not be relevant to users who do not have a romantic relationship or do not want to participate in such assessments. Please ensure you have the necessary consent and context to use this form.</thinking>
-
 # Relationship Attachment Style Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about an individual's attachment style in relationships.

@@ -1,12 +1,3 @@
-<thinking>
-The "release_of_information_template" form is designed to collect basic information about non-profit organizations. This template is suitable for release of information purposes, such as providing contact details or other general information about a non-profit organization. Please ensure that the form is completed accurately and thoroughly, and only use this form if the non-profit's information is publicly available and not sensitive.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and its creation was generated using AI. It is released under the Creative Commons Attribution 4.0 license, allowing free modification and reuse.
-
-Before completing this form, ensure you have the necessary permissions and approvals to collect and utilize the non-profit's information.
-
-</thinking>
-
 # release_of_information_template - Help Guide
 ## Purpose
 The "release_of_information_template" form is designed to collect basic contact and address information about non-profit organizations. It helps gather data on non-profits for public or internal purposes.

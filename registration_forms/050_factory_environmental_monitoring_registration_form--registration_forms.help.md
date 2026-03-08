@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a factory's environmental monitoring activities. The form will be used to collect information about the factory's name, contact email, facility address, monitor conditions, monitor start date, monitor stop date, monitor frequency, monitor location, and contact phone. This form is required for all factories to register their environmental monitoring activities. Please ensure that you only register once and accurately provide all required information. 
-</thinking>
-
 # Factory Environmental Monitoring Registration Form - Help Guide
 ## Purpose
 This form is used to register a factory's environmental monitoring activities, including its name, contact information, and monitoring details. It ensures that all factories provide accurate and consistent environmental monitoring data.

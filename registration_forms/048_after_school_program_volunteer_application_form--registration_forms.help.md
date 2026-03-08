@@ -1,5 +1,3 @@
-<thinking>This form is designed for individuals who want to volunteer for an after-school program. To be eligible for this form, you should be 18 years old or older. The form is only for those who are interested in volunteering for the after-school program and are not for staff or students. Please ensure you have not already submitted a volunteer application before filling out this form.</thinking>
-
 # After School Program Volunteer Application Form - Help Guide
 ## Purpose
 The After School Program Volunteer Application Form is designed for individuals who want to volunteer for the after-school program. This form helps the program administrators understand your availability, qualifications, and preferences to place you as a volunteer.

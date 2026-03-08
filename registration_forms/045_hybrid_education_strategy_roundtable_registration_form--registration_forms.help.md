@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for the Hybrid Education Strategy Roundtable registration process. This form is intended for individuals who want to participate in the roundtable event. The form gathers basic contact information (first name, last name, and email) and specific details about the user's role and involvement in the education sector.
-Before filling out this form, please make sure you have not already registered for the event to avoid duplication of effort and unnecessary data entry.
-</thinking>
-
 # Hybrid Education Strategy Roundtable Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Hybrid Education Strategy Roundtable event. To ensure a smooth registration process, please follow the guidelines below.

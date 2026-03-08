@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather information about upcoming multicultural events. Its primary purpose is to collect user details and event specifics to provide a smooth and organized experience for attendees. This form is designed to be a simple and intuitive interface for capturing necessary information without overwhelming the user with unnecessary fields. Before proceeding, please note that this form was generated using AI and is not affiliated with any proprietary form platforms. If you have any similar form in your organization, please consider merging or replacing this form to avoid duplication of efforts.
-</thinking>
-
 # multicultural_event_booking_form - Help Guide
 ## Purpose
 The multicultural_event_booking_form is a tool used to collect information about multicultural events. This form helps event organizers gather essential details about the event, such as event name, date, start and end times, and other relevant information.

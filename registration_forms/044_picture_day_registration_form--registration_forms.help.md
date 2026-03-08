@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose and usage of the Picture Day Registration Form. It is intended for individuals registering for a picture day event. The form is likely to be used for photo shoots or other events where a participant's picture is taken. The form will collect relevant information for the event organizers, such as the participant's first and last name, contact information (email and phone number), birth date, registration time, event date and time, event location, photo location, type of photo, and any additional notes. This guide will walk you through each field's purpose and requirements, ensuring users fill out the form accurately and efficiently.
-</thinking>
-
 # Picture Day Registration Form - Help Guide
 ## Purpose
 The Picture Day Registration Form is a tool for participants to provide necessary information to event organizers before attending a picture day event. 

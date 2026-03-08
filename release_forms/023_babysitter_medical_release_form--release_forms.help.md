@@ -1,7 +1,3 @@
-<thinking>
-The "Babysitter Medical Release Form" is intended for parents or guardians to provide authorization for a babysitter to care for their child and provide emergency medical treatment if needed. This form helps ensure that caregivers are aware of the child's medical needs and conditions, and allows them to provide necessary medical attention in case of emergencies. By using this form, parents can give caregivers peace of mind, while also protecting their child's well-being. This form is to be filled out once per child, and is not a recurring form. Please review the form carefully and ensure all information is accurate and up-to-date.
-</thinking>
-
 # Babysitter Medical Release Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for HR analytics panel registration, likely for a company or organization to manage employee or team member information. The form asks for basic details such as full name, email, department, and position, as well as more specific information like HR panel interests, date of interest, and availability. It also asks for confirmation of certain aspects and comments from the users. The form is designed to be simple and easy to fill out, with most fields having optional or free-formatted text inputs. There doesn't seem to be any redundant or conflicting fields within this form.
-</thinking>
-
 # HR Analytics Panel Registration Form - Help Guide
 ## Purpose
 The HR Analytics Panel Registration Form is a tool for registering HR panel information and managing various aspects of user roles, interests, and availability.

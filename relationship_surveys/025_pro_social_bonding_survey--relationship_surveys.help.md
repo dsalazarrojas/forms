@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be a survey focused on relationships within a social group, aiming to collect information on attachment, participation, leadership, and overall well-being of the individual's relationship with their group.
-
-The form is structured into sections that cover different aspects of relationships such as attachment, leadership, participation, and quality. This is likely to be used in a context where researchers or organizations want to understand the dynamics and characteristics of social groups.
-
-Some questions seem to be redundant or similar, such as "How attached are you to your group" and "How invested do you feel in your relationship with your group". This might indicate that the form could be optimized for better clarity and reduced duplication.
-
-This form appears to be designed for collecting quantitative data through numerical and multiple-choice questions. This might be useful for analyzing and comparing responses. However, it might not be the best tool for collecting nuanced or qualitative feedback, such as open-ended comments on relationship satisfaction.
-
-The form also seems to rely heavily on numerical questions, which might not be suitable for all respondents. Some questions, such as "How often do you participate in group activities" might be more accurately answered with a Likert scale instead of numerical options.
-
-Some questions could be reworded for better clarity, such as "How important is it to have a leader in your group" which could be rephrased as "How much do you value leadership in your group".</thinking>
-
 # Pro Social Bonding Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your relationship with your social group. It aims to understand your attachment, participation, leadership, and overall well-being within the group.

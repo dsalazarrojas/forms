@@ -1,8 +1,3 @@
-<thinking>
-This form is used for end users to sign up for a tournament. Before filling out this form, please ensure that you have not already signed up for the tournament by checking the internal registration system. If you have already registered, do not fill out this form again.
-The purpose of this form is to collect information from end users to register for a tournament. The form will be used to create or update a user's registration data in the internal database.
-</thinking>
-
 # Tournament Sign Up Form - Help Guide
 ## Purpose
 This form is used to register for a tournament. Please ensure that you have not already registered by checking the internal registration system before filling out this form.

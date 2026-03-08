@@ -1,6 +1,3 @@
-<thinking>
-  This form is for registration for the Treasury Innovation Forum. It is a crucial step for attendees to provide their information so that we can properly manage the event. Please fill out the form completely and accurately to ensure you are not duplicating your registration. You must be registered in order to attend the forum.</thinking>
-
 # treasury_innovation_forum_registration_form - Help Guide
 ## Purpose
 The Treasury Innovation Forum registration form is used to collect information from attendees, including their contact details, event preferences, and other relevant information. This form is a prerequisite for attending the forum.

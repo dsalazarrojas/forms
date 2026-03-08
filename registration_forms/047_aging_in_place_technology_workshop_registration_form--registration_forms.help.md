@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aging In Place Technology Workshop Registration Form - Help Guide
 
 ## Purpose

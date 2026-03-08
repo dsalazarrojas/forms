@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the current relationship status of individuals, including their relationship type and partner contact information. It will help us understand the dynamics within a relationship and identify potential areas of accountability and growth.
-
-The form is divided into several sections, each focusing on a different aspect of the relationship. The "Introduction" section is a brief overview of the purpose and context of the survey. The "Relationship Status" section asks about the current relationship status, including options for single, in a relationship, married, engaged, in a civil partnership, or widowed. The "Partner Information" section collects contact information for the partner, including name, email, and phone number. The "My Information" section asks for the individual's own contact information, including name, email, and phone number.
-
-Please note that this form is not intended to be comprehensive, and some questions may not apply to every individual. However, by providing this information, you will help us better understand your relationship dynamics and identify opportunities for growth and improvement.
-
-</thinking>
-
 # Relationship Accountability Survey - Help Guide
 
 ## Purpose

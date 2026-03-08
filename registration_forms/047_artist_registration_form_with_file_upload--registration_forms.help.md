@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about artists who wish to be registered with the organization. The purpose of this form is to collect contact and biographical information, artistic background, and any relevant documents or samples of work. This information will be used to verify the artist's identity and provide them with opportunities for collaboration or representation. 
-Note: The organization will not use this information for spamming or any other malicious purposes. This form should only be completed by artists who are genuine and serious about collaborating with the organization. 
-Please ensure that all the information provided is accurate and complete before submitting the form. 
-</thinking>
-
 # Artist Registration Form With File Upload - Help Guide
 ## Purpose
 The Artist Registration Form is designed to collect information about you as an artist and allow you to upload relevant documents or samples of your work. This form is for artists who wish to be registered with our organization and be considered for collaboration or representation opportunities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect registration information from individuals interested in attending a basketball officials' training session. To complete the form, follow these steps:
 
 ## Basketball Officials Training Registration Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from guests checking in to a vacation home. The purpose of this form is to collect data on their arrival status and any additional comments they may have. This information will be used to provide guests with a smooth and efficient check-in experience. Please note that this form is not affiliated with any specific form platform and is an original adaptation using public survey topic metadata.
 
 # Vacation Home Check In Form - Help Guide

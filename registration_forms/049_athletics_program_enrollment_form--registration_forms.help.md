@@ -1,10 +1,3 @@
-<thinking> 
-The "Athletics Program Enrollment Form" is used to enroll participants in various sports programs. The form asks for personal and contact information, medical history, and permission for participation in athletic activities. It is essential to fill out this form accurately to ensure smooth registration and to understand the participant's qualifications for enrollment.
-
-This form should only be filled out once and not duplicated. If you are filling this form for multiple participants, please submit one form for each participant separately.
-
-</thinking>
-
 # Athletics Program Enrollment Form - Help Guide
 ## Purpose
 The Athletics Program Enrollment Form is used to collect information from participants for enrollment in sports programs. This form requires accurate and complete information to ensure proper enrollment and safe participation in athletic activities.

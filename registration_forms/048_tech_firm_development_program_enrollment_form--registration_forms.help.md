@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from individuals interested in joining the Tech Firm Development Program. The program aims to support developers in advancing their skills and knowledge, and this form will help us identify potential candidates who would be a good fit for the program. To ensure that we do not enroll candidates who have already been part of the program, please check the internal "Program Enrollments" dashboard to see if you are already registered. 
 
 After submitting this form, a member of our team will review your application and contact you with further details.

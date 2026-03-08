@@ -1,12 +1,3 @@
-<thinking> 
-The "Travel Partner Appreciation Event RSVP Form" is intended for travel partners to RSVP for an appreciation event organized by the company. The form is designed to collect information about the guest's name, contact details (email and phone number), and the specific date and time they plan to attend the event. This form is not intended for employees or internal stakeholders. Please ensure that you are a travel partner and not an employee or internal stakeholder before filling out this form.
-
-The form will be reviewed for completeness and relevance before processing the responses. If the form is incomplete or does not meet the required information, it will be sent back to the respondent for correction or clarification. 
-
-The form will be used to generate a list of registered travel partners for the appreciation event. This list will be used to communicate event details and logistics with the registered travel partners.
-
-</thinking>
-
 # Travel Partner Appreciation Event RSVP Form - Help Guide
 
 ## Purpose

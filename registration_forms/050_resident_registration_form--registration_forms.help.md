@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be designed to collect resident information for a housing or residential establishment, likely for purposes of registration, communication, and possibly emergency contact purposes. The form has 8 fields, including resident details, contact information, emergency contact, medical information, lease terms, move-in date, and move-in time. The fields are primarily text-based, allowing for free-form responses, except for the "lease terms" field which is a select_one type, indicating a choice from a pre-defined list. The fields are not explicitly marked as required, suggesting that respondents may provide incomplete or optional information. This form does not appear to be heavily reliant on any specific business logic or proprietary data collection platforms. The form's design seems to be a basic template for collecting general resident information.
-
-</thinking>
-
 # Resident Registration Form - Help Guide
 ## Purpose
 The Resident Registration Form is designed to collect essential information from residents, allowing the housing establishment to keep accurate records and provide efficient communication and services.

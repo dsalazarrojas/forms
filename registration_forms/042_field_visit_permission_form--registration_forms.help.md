@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about field visits, which are visits made by visitors to a school or educational institution. The form is intended to gather details about the visit, including the school ID, parent/guardian's name and contact email, student's name, age, and visit details. This information is crucial for ensuring a smooth and safe visit experience for both the visitor and the student.
-</thinking>
-
 # Field Visit Permission Form - Help Guide
 ## Purpose
 The Field Visit Permission Form is a document used to obtain permission for visitors to visit students at a school or educational institution. It gathers essential details for planning and conducting a successful field visit.

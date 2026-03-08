@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about industrial safety training, which is crucial for ensuring the well-being and safety of workers in industrial settings. This form helps to gather details about the training course, participant information, training status, facility, venue, topic, and more. It's essential to fill out this form accurately and completely to ensure that all relevant information is collected.
-
-The form is divided into several sections, each with specific fields that cater to different aspects of the training process. Before proceeding, please review this help guide to understand each field's purpose and requirements.
-
-Please note that some fields are optional, so you can skip them if they are not relevant to your situation.
-
-</thinking>
 # industrial_safety_training_form - Help Guide
 
 ## Purpose

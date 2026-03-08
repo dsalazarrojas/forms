@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for collecting information from podcast guests regarding their release dates, content permissions, and other relevant details. The form is likely used in an organizational context, such as a media outlet, to ensure that guests are aware of and agree to the terms of their release, including when they will be released from their commitments to the podcast.
-
-This form is probably not meant for general public access. It's a form that's likely used internally by the organization to track and manage guest releases.
-</thinking>
-
 # Podcast Guest Release Form - Help Guide
 ## Purpose
 This guide will walk you through the purpose and usage of the Podcast Guest Release Form.

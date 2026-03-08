@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning check: This form is intended to collect personal information from users interested in participating in strength training programs. The purpose of this form is to gather contact and demographic information from potential participants. This form should not be used to collect sensitive or medical information. It's possible that this form will be used in conjunction with other forms or programs, such as fitness assessments or medical questionnaires. To ensure data accuracy and consistency, we should verify that the form is completed correctly.
-</thinking>
-
 # Strength Training Registration Form - Help Guide
 ## Purpose
 

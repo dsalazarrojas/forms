@@ -1,11 +1,3 @@
-<thinking>
-
-This is a form for capturing information related to a single release within a project. The form should be completed by the project owner to provide details about the release, including contributor permission, contributor signature, project owner name, project owner email, and project owner phone number.
-
-Before filling out this form, please ensure that you are the authorized project owner and that the release details have not been submitted previously.
-
-</thinking>
-
 # Single Release Form - Help Guide
 ## Purpose
 The Single Release Form is a tool used to collect information about a single release within a project. This form is intended to be completed by the project owner, providing essential details about the release, and ensuring that all necessary permissions and information are captured accurately.

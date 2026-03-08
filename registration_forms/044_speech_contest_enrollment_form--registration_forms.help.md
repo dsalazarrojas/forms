@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to help participants enroll in a speech contest by providing necessary information about the participant and their entry in the contest. Before submitting this form, please ensure that you have filled in all required fields and that you are not duplicating an entry.
-
-This form will gather information about the participant's name, contact details, and other relevant details such as their speaker type, category, and school affiliation. If you are a speaker, please select the correct speaker type. If you are a school participant, please fill in your school name and ID. The contest date is optional and only required if you are certain about the contest date.
-
-Please review each field carefully and fill in the correct information to avoid any issues with your entry.
-
-</thinking>
-
 # Speech Contest Enrollment Form - Help Guide
 ## Purpose
 The Speech Contest Enrollment Form is designed to collect necessary information from participants to enroll in a speech contest. It helps the organizers to gather details about the participant and their entry in the contest.

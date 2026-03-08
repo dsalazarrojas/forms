@@ -1,7 +1,3 @@
-<thinking>
-The form "Family Legacy Role Selection Survey" appears to be a comprehensive questionnaire designed to help individuals identify and document the roles and responsibilities associated with preserving family legacies. The purpose of this form is to collect information about family members' relationships with one another and their roles in maintaining family legacy. It seems to be a tool used in research or family planning contexts. There is no indication of duplication, so this form is likely meant to collect new and unique data. The survey has 24 questions, which may be overwhelming, but breaking down the explanation into a field-by-field guide should help clarify the process.
-</thinking>
-
 # Family Legacy Role Selection Survey - Help Guide
 ## Purpose
 The Family Legacy Role Selection Survey is a tool used to identify and document the roles and responsibilities associated with preserving family legacies. It helps individuals understand their relationships with one another and their roles in maintaining family legacy.

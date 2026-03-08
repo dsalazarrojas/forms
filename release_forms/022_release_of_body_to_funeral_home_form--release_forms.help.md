@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Release Of Body To Funeral Home Form - Help Guide
 ## Purpose
 This form is used to release the body to a funeral home for further processing. You will be required to provide the name, address, and other relevant details of the funeral home.

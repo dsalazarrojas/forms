@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior Volunteer Application Form - Help Guide
 ## Purpose
 The Senior Volunteer Application Form is a registration form designed to gather information from individuals interested in volunteering for a particular organization. This form helps the organization to understand the volunteer's background, skills, and availability to determine their suitability for volunteer roles.

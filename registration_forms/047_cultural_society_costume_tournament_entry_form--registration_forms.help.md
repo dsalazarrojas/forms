@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Society Costume Tournament Entry Form - Help Guide
 ## Purpose
 This form is for users to submit entries for the Cultural Society's Costume Tournament. The form collects information about the user's chosen costume, event, and other relevant details.

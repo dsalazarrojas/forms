@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and relevance. The Green Energy Volunteer Application Form is likely intended for individuals interested in volunteering with an organization focused on sustainable energy. The form is designed to collect personal and demographic information from applicants, as well as their willingness to agree to various policies and practices. It's essential to ensure that users understand the form's purpose and requirements to ensure accuracy and relevance of the submitted data.</thinking>
-
 # Green Energy Volunteer Application Form - Help Guide
 ## Purpose
 The Green Energy Volunteer Application Form is a collection of fields designed to gather information from potential volunteers interested in working with our organization on sustainable energy-related projects. The form is used to ensure that we have the necessary contact information and commitment from applicants before moving forward with the volunteer process.

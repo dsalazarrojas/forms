@@ -1,5 +1,3 @@
-<thinking>... This form is designed to capture essential client information for legal purposes, ensuring accurate and efficient legal case management. The primary goal is to provide a comprehensive and standardized data collection process for law firms to gather client details, including contact and identification information... </thinking>
-
 # Legal Client Intake Form - Help Guide
 ## Purpose
 The Legal Client Intake Form is used by law firms to collect essential information from clients, enabling the firm to manage cases effectively and provide high-quality services. This form is a critical tool for gathering client contact and identification details.

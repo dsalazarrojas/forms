@@ -1,5 +1,3 @@
-<thinking>What this form is for and how it's structured will be determined through internal reasoning. This form seems to be for managing historical tours, focusing on attendance, headcounts, and accessibility-related information. It appears that the form will help users track tour dates, times, attendees, headcounts, accessibility requests, and other relevant data. It also seems to have some fields for registration and communication-related purposes. To confirm, the form structure includes fields like "Tour Date", "Tour Time", "Attendees", "Headcount", "Accessibility Requests", and "Notes" which are common in event management. The form will not be a duplicate of an existing form, as each field name and type are unique.</thinking>
-
 # Historical Tour Attendance Form - Help Guide
 ## Purpose
 The Historical Tour Attendance Form is designed to collect information about past tours, focusing on attendance, headcounts, and accessibility-related data. This form will help tour managers track and analyze tour attendance, identify trends, and improve future tour planning.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals and groups to register their interest in participating in prayer and fasting activities. The purpose of this form is to gather information about their intentions, preferences, and circumstances regarding prayer and fasting, in order to provide guidance and support. Please fill in your contact information to ensure we can get in touch with you if necessary. Note that you may not be required to fill out this form if you're already registered in our system. If you're unsure about any of the questions, please contact us to discuss.
-</thinking>
-
 # Prayer And Fasting Participation Form - Help Guide
 ## Purpose
 This form is a registration form for individuals and groups to participate in prayer and fasting activities.

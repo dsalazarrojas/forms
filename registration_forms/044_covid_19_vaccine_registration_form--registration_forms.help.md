@@ -1,14 +1,3 @@
-<thinking>
-This block of code is for a form that is used for COVID-19 vaccine registration. The purpose of this form is to gather information from individuals who want to register for a COVID-19 vaccine. This form is used to collect personal and medical information from registrants, including their name, contact details, vaccination status, preferred vaccine type, and health information. The form also has sections for insurance and emergency contact information.
-
-Before filling out this form, please ensure that you have all the necessary information and documents ready. This form should not be used for duplicate registrations. If you are unsure about any field, please ask a healthcare provider for assistance.
-
-The form is divided into several sections: registrant information, vaccination details, registration information, insurance information, health information, and emergency contact information. Each section has its own set of questions and fields that need to be filled out.
-
-Please take your time to review each section carefully and fill out the form accurately. If you have any questions or concerns, please do not hesitate to reach out to a healthcare provider for assistance.
-
-</thinking>
-
 # COVID 19 Vaccine Registration Form - Help Guide
 ## Purpose
 This form is used to register for a COVID-19 vaccine and gather necessary information from registrants.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the respondent's marital status and relationship satisfaction. It's intended for individuals who are married or in a long-term relationship. The form aims to collect feedback on various aspects of their relationship, such as the length of their marriage, having children, financial and relationship satisfaction, and leisure activities. The survey will help identify areas where couples can work on improving their relationship. The survey should only be filled out by individuals who are married or in a long-term relationship and have not filled out the survey in the past.
-
-</thinking>
-
 # Marriage Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coaching Service Guidelines Form - Help Guide
 
 ## Purpose

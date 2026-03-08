@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about vendors who wish to participate in a music festival. The form will likely be used by festival organizers to review and assess vendor applications. The fields in this form are intended to capture essential details about the vendor, including their name, contact information, product or service offerings, and participation details. To complete this form, users should ensure that they provide accurate and relevant information about their vendor and their offerings. It is essential to note that some fields are optional, but providing as much detail as possible will help festival organizers better understand the vendor's capabilities and preferences.
-
-Before proceeding with the form, please ensure that:
-- You have checked with festival organizers to see if this form is being used for this year's festival.
-- You are not duplicating efforts by submitting a duplicate application.
-
-</thinking>
-
 # music_festival_vendor_extension_form - Help Guide
 ## Purpose
 This form is used to collect information from vendors wishing to participate in a music festival.

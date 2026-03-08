@@ -1,11 +1,3 @@
-<thinking>
-
-The form "process_automation_roundtable_registration" is a registration form used for a specific roundtable discussion on process automation. The form is used to collect information about attendees, including their names, contact information, and interests. The form is likely being used for a business or conference-related event, as it includes fields such as role, company, job function, and location.
-
-Before filling out the form, make sure to review the following fields carefully and accurately. This form may be used to generate a follow-up email or other communication with attendees, so providing accurate information is crucial.
-
-</thinking>
-
 # process_automation_roundtable_registration - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for a roundtable discussion on process automation. The goal is to understand their interests, needs, and expectations from the discussion.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Service Information Form - Help Guide
 ## Purpose
 The Water Service Information Form is used to collect and store information about a customer's water service. This form is used to track and manage customer data, including contact information, service details, and billing history.

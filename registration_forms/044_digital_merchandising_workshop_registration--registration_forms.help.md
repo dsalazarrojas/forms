@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "digital_merchandising_workshop_registration" form, I will assume the provided YAML fields describe a registration form for a workshop about digital merchandising. The purpose of this form is likely to collect information from participants to manage workshop attendance and logistics. I will not duplicate information or add any new fields not found in the YAML.
-</thinking>
-
 # digital_merchandising_workshop_registration - Help Guide
 ## Purpose
 This form is used to collect registration information for a digital merchandising workshop session. Please fill out this form carefully to ensure that your registration is complete and accurate.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to register for a fitness class. The form is meant to gather basic user details and registration information. The purpose of this form is to ensure that users provide their necessary contact and registration information in order to participate in the fitness class. This form is not affiliated with or endorsed by any form platform, and it is an original creation using public survey topic metadata as inspiration. It's released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-</thinking>
-
 # Fitness Class Registration Form - Help Guide
 ## Purpose
 The Fitness Class Registration Form is designed to collect user information for registration purposes.

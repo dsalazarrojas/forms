@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants for the 5K Run event. It is used to collect information for event organization and logistics. The form is a requirement for participation and will be used to verify participant information. Please ensure that you have all necessary information and consent before completing this form. 
-</thinking>
-
 # 5K Run Registration Form - Help Guide
 ## Purpose
 This form is designed for registering participants in the 5K Run event. It is intended to collect essential information from runners for event organization, logistics, and communication purposes.

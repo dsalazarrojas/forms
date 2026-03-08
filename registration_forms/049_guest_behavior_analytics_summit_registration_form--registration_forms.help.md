@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose**: This form is designed to collect demographic information from attendees who are interested in or are already attending the Guest Behavior Analytics Summit. The goal is to gather data on who will be joining us, their job titles, companies, and other relevant details.
-</thinking>
-
 # Guest Behavior Analytics Summit Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from attendees for the Guest Behavior Analytics Summit. Providing accurate and complete information is crucial to help us tailor the event to your interests and ensure a productive experience for all attendees.

@@ -1,26 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "future_cities_forum_registration_form" form. This form is designed to gather information from users who want to register for the future cities forum. The purpose of this form is to collect contact information and preferences from attendees, which will be used to tailor the forum experience to their needs. It's essential to ensure that the form is completed accurately and comprehensively to avoid any miscommunication or misrepresentation.
-
-To confirm the form's purpose and context, let's review the form's fields:
-
-- **Registration Form**: This is the main section of the form.
-- **Attendee Name**: This field is used to collect the name of the attendee.
-- **Email**: This field is used to collect the email address of the attendee.
-- **Confirm Email**: This field is used to confirm the email address provided.
-- **Phone**: This field is used to collect the phone number of the attendee.
-- **Preferred Method of Communication**: This field allows the attendee to choose their preferred method of communication.
-- **Special Requests**: This field is used for attendees to provide any special requests or preferences.
-- **Date**: This field is used to collect the date of the event.
-- **Time**: This field is used to collect the time of the event.
-- **Select Multiple**: This field allows attendees to select multiple options.
-- **Email Address**: This field is used to collect the email address of the attendee again, likely for verification or additional contact information.
-- **Zip/Postal Code**: This field is used to collect the zip code or postal code of the attendee.
-- **Country**: This field is used to collect the country of the attendee.
-- **State**: This field is used to collect the state or province of the attendee.
-- **City**: This field is used to collect the city of the attendee.
-
-</thinking>
-
 # future_cities_forum_registration_form - Help Guide
 ## Purpose
 This form is designed to gather information from users who want to register for the future cities forum. The purpose of this form is to collect contact information and preferences from attendees, which will be used to tailor the forum experience to their needs.

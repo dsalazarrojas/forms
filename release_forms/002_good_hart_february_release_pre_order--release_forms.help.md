@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers who want to pre-order the February release of "Good Hart". The goal is to capture the customer's name, email, phone number, and note for internal processing and follow-up communication. The "February Release" field allows customers to indicate their interest in receiving the release and is an optional field. This form is used internally and the information collected will be used to process pre-orders and follow up with customers.
-</thinking>
-
 # Good Hart February Release Pre Order - Help Guide
 ## Purpose
 The Good Hart February Release Pre Order form is designed to gather information from customers interested in pre-ordering the February release. This information is used for internal processing and follow-up communication with customers.

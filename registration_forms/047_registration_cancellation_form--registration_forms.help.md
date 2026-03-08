@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a cancellation request for a user's registration in a program or service. The purpose of this form is to provide a structured way for users to communicate their cancellation reason and details. This form should only be filled out by users who have already been registered for the program or service and are seeking to cancel their registration. It is assumed that the user has already been registered and is familiar with the registration process. 
-
-The form will only be displayed after the user has already been registered and has access to this form. This form does not serve as a registration form for new registrations, so users should not fill it out if they have not already been registered.
-
-To complete this form, the user will be able to provide their information, select a reason for cancellation, confirm their cancellation, and optionally provide additional details such as cancellation date and time, and notes. The fields in this form are designed to be straightforward and intuitive, making it easy for the user to complete without confusion.
-</thinking>
-
 # Registration Cancellation Form - Help Guide
 ## Purpose
 The Registration Cancellation Form is used to register a cancellation request for a user's registration in a program or service. 

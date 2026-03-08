@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective user-facing help guide for this form, I will focus on breaking down the form's purpose, step-by-step guidance on completion, and field-by-field explanations. I will also ensure that the explanations are concrete, concise, and practical, and address any unclear field labels to the best of my abilities.
 
 # Training Program Calendar - Help Guide

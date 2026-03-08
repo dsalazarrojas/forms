@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to analyze the provided YAML form schema to understand its purpose and requirements. Based on the structure and field types, it appears that this form is for registering a leadership impact workshop. I will create a comprehensive help guide that covers the form's purpose, how to complete it, and a field-by-field explanation for each section.</thinking>
-
 # leadership_impact_workshop_registration_form - Help Guide
 ## Purpose
 The leadership impact workshop registration form is designed to collect information from participants and teams about their interest in attending the workshop. This form helps us to understand the demographics of our attendees and tailor the content of the workshop to their needs.

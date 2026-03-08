@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmaceutical Drug Release Form - Help Guide
 ## Purpose
 The Pharmaceutical Drug Release Form is a document used to record the release of pharmaceutical products from a pharmacy. This form is used to document the details of the release, including the patient's information, medication information, and release data.

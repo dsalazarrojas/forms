@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from corporate finance customers on their experience with the company's service quality, collaboration, and submission process. It will help us identify areas for improvement and provide a follow-up contact information for future feedback. Please ensure that you have the necessary permissions to complete this form. This form is for internal use only and will not be used for external sharing or publishing. 
-
-Please note that the form is divided into several sections: Introduction, Contact Information, Service Quality, Collaboration, Follow-up, and Submission Details.
-</thinking>
-
 # Corporate Finance Relationship Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register attendees and track their check-in status for a trade show. It captures essential information such as name, email, date of birth, and check-in time. The form also allows users to select their checkin status and assign a tool to them. Additionally, it tracks the event ID and checkin location. This form is designed to be completed by trade show attendees to provide their details for registration and tracking purposes.
-</thinking>
-
 # Trade Show Check In Form - Help Guide
 ## Purpose
 

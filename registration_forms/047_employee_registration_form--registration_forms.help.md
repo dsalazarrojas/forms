@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose: to collect employee registration information in a way that is both comprehensive and non-duplicative. This form should only be filled out by authorized personnel, and the information collected should be accurate and up-to-date. We should also consider adding validation and error handling to prevent errors and ensure data integrity.</thinking>
-
 # employee_registration_form - Help Guide
 ## Purpose
 The employee registration form is used to collect essential information about new employees, including their name, contact details, and job title.

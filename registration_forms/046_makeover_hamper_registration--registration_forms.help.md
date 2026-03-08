@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is meant for individuals or organizations to register themselves or their hamper-related information for a makeover. The form is designed to collect basic contact information (name, email, phone number, address) and additional details such as country, consent, and entry date. Non-duplication checks are in place to prevent multiple registrations under the same name or email. The form is accessible through a user-friendly interface, and each field is clearly labeled for ease of use...</thinking>
-
 # Makeover Hamper Registration - Help Guide
 ## Purpose
 The Makeover Hamper Registration form is used to register yourself or your hamper-related information for a makeover. Fill out the form to provide us with your contact details and consent.

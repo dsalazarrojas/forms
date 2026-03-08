@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, my first step is to understand the form's purpose and relevance. Based on the provided YAML fields, it appears that this form is designed to gather information about users' online dating habits and experiences. The form includes questions about their use of dating apps, their relationship status, how they meet their partners, and other related topics. This form is likely to be used for research or data collection purposes.
-
-Before starting the help guide, I will review the form fields to ensure that each field is clearly explained, and the required and optional fields are correctly labeled.</thinking>
-
 # online_dating_survey - Help Guide
 ## Purpose
 The online_dating_survey form is designed to collect information about users' online dating habits and experiences.

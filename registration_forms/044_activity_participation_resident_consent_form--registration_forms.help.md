@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect essential information from participants in activities, ensuring their safety and well-being. It's designed to collect personal data and medical information to provide an adequate level of care and protection. Please note that the participant's emergency contact details are crucial for us to reach out to them in case of any unforeseen circumstances. To fill out this form, please make sure you have all the necessary information readily available.
-</thinking>
-
 # Activity Participation Resident Consent Form - Help Guide
 
 ## Purpose

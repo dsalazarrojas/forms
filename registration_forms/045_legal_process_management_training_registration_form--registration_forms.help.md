@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for the Legal Process Management Training course. It is used by attendees to provide their personal details, contact information, and course details. The form is designed to help the training organizers confirm the registration of attendees for the course. The form should not be filled out by anyone who has already registered for the course or by anyone who is not an authorized attendee. Please fill out the form accurately and thoroughly to ensure a smooth registration process.
-</thinking>
-
 # Legal Process Management Training Registration Form - Help Guide
 
 ## Purpose

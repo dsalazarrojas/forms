@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the COVID-19 Liability Release Waiver form for the Spearman Wedding. The form is designed to gather information from guests attending the event and ensure they understand the risks associated with COVID-19. It is crucial that users complete this form accurately to help the event organizers manage the risk of COVID-19 transmission.
-
-Before proceeding, please note that this form is a critical component of the event planning process, and it is essential to provide accurate and honest information.
-
-Please ensure that you have reviewed the form carefully and answered all questions truthfully to ensure a safe and enjoyable experience for all attendees.
-
-</thinking>
-
 # COVID 19 Liability Release Waiver - Spearman Wedding - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the COVID-19 Liability Release Waiver form for the Spearman Wedding.

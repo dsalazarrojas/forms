@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register participants for the Innovation Lab Crawl, an event where attendees can explore various innovation labs and learn about new technologies, products, and services. This form gathers information from participants, including their name, contact details, and role in the event. It's essential to fill out this form accurately and completely to ensure that we can manage participant expectations and provide them with the necessary information and resources throughout the event.
-</thinking>
-
 # Innovation Lab Crawl Registration - Help Guide
 ## Purpose
 This form is used to register participants for the Innovation Lab Crawl. It collects information about each participant, including their name, contact details, and role in the event.

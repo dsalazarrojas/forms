@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # press_release_communication_form - Help Guide
 
 ## Purpose

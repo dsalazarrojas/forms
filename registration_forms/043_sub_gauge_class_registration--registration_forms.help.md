@@ -1,7 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for a form called "Sub Gauge Class Registration" using the provided YAML fields. The form appears to be designed for registering participants in a class, with fields for enrolling participants, scheduling class dates, capturing attendee information, selecting preferred class times, and adding additional information. The fields for "Additional Info 1", "Additional Info 2", and "Additional Info 3" seem to be redundant and might be worth reevaluating for consolidation or simplification. I'll proceed with the original design, assuming these fields are intended to be kept as is.
-</thinking>
-
 # Sub Gauge Class Registration - Help Guide
 ## Purpose
 This form is for registering participants in a class. It is used to collect information from class attendees, including schedules, participant details, and additional information.

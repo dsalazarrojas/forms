@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help users register for the Twitch Giveaway. The form is intended to collect essential information from the users, including their personal details, stream information, and entry preferences. The purpose of this form is to allow users to participate in the giveaway by providing accurate and complete information. It is crucial to ensure that the form is filled out correctly to avoid any issues or errors.
-
-Before proceeding, please note that some fields are marked as "required" which means they need to be filled out to continue with the registration process. Please ensure that you fill out all required fields accurately to avoid any issues.
-
-Also, please be aware that some fields have specific formats, such as "email" and "time" fields, which require a specific format to be valid. Please refer to the field-by-field explanation for more details.
-</thinking>
-
 # Twitch Giveaway Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users to participate in the Twitch Giveaway.

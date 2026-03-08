@@ -1,8 +1,3 @@
-<thinking>
-The University For You Client Registration Form is designed to collect personal details from clients for administrative purposes. 
-This form will be used to create a client record, and is not meant to be used for any other purposes.
-</thinking>
-
 # University For You Client Registration Form - Help Guide
 ## Purpose
 The University For You Client Registration Form is a form designed to collect personal details from clients for administrative purposes.

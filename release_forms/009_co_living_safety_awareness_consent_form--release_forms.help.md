@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from residents about their safety awareness and compliance with the community's rules and regulations. This form is designed to ensure that residents understand and acknowledge the safety guidelines, emergency procedures, and community rules, which will help create a safe and respectful living environment.
-
-This form is intended for residents who are new to the community and need to provide their personal information, emergency contact details, and acknowledgment of the safety guidelines and rules. It is also a requirement for residents to sign and date this form, indicating their understanding and agreement to comply with the community's regulations.
-
-Before filling out this form, please note that the answers will be used to ensure the well-being and safety of all residents, as well as to provide necessary information to emergency contacts in case of an emergency.
-
-Please fill out this form carefully, and if you have any questions or concerns, reach out to the community staff for assistance.
-
-</thinking>
-
 # Co Living Safety Awareness Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from residents to ensure their safety and compliance with the community's rules and regulations.

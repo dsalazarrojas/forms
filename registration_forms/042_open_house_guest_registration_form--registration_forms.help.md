@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering guests to an open house event. The form will be filled by the event's agents to collect essential information from guests who are expected to attend the open house. The purpose of this form is to ensure accurate guest data collection and enhance the event management process. This form should not be used for other purposes, and all fields are required unless otherwise specified. To avoid duplication of effort, please do not fill out this form if you are an event organizer or staff member.
-</thinking>
-
 # open_house_guest_registration_form - Help Guide
 ## Purpose
 This form is designed for registering guests to an open house event. The form will be filled by the event's agents to collect essential information from guests who are expected to attend the open house.

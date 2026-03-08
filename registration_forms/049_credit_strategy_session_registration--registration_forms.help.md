@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # credit_strategy_session_registration - Help Guide
 ## Purpose
 The `credit_strategy_session_registration` form is designed to collect information for a credit strategy session. This form is intended for users to provide their details and preferences for the session, which will be used to tailor the session to their needs. Please make sure you have a valid reason for filling out this form and that your session details are accurate.

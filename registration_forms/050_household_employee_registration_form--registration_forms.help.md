@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Household Employee Registration Form - Help Guide
 
 ## Purpose

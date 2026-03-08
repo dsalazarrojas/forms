@@ -1,8 +1,3 @@
-<thinking>
-This block is for internal use only and should not be visible to end users.
-This form is used to obtain the consent of an individual's parents or guardians to use their child's photo. It is a legal requirement for various photo shoots, events, or activities. Please fill out this form only once for each child and make sure to get the consent of both parents or guardians if applicable.
-</thinking>
-
 # GDPR Photo Release Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of an individual's parents or guardians to use their child's photo. It is a legal requirement for various photo shoots, events, or activities.

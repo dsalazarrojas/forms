@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help users gather information about their friends, likely for social or networking purposes. It is a three-page form with no required fields, indicating that users have the freedom to provide as much or as little information as they like. The form's structure suggests that it is meant to collect contact information, personal details, or other relevant data to connect with others.
-To determine if this form is relevant for your use case, consider the following questions:
-  - Are you a social network seeking to connect with others?
-  - Do you require a form to collect contact information or personal details about others?
-  - Are you planning to use this form for a one-time event or recurring events?
-
-If you've determined that this form is relevant and not a duplicate, proceed to complete it.
-</thinking>
-
 # Find Friends Form - Help Guide
 ## Purpose
 The "Find Friends Form" is designed to help users connect with others in a social or networking context. It is a three-page form that allows users to provide contact information, personal details, or other relevant data.

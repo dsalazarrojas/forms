@@ -1,8 +1,3 @@
-<thinking>
-This form is for spa membership subscription, where users can provide their personal details and payment information to sign up for a spa membership. To ensure that users do not fill out this form in vain, we will be using this guide to help them understand how to complete it correctly. Please ensure that you have reviewed our spa membership terms and conditions before proceeding. If you have any questions or need further clarification, please refer to our FAQ section or contact our support team.
-
-</thinking>
-
 # Spa Membership Subscription Form - Help Guide
 ## Purpose
 This form is for spa membership subscription, where users can provide their personal details and payment information to sign up for a spa membership.

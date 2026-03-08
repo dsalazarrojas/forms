@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Resident Organizer Registration - Help Guide
 ## Purpose
 This form is designed for non-resident organizers to register their events with our organization. It collects essential information about the event and the non-resident organizer, which will help us process and manage the event details.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to register Home Care Aides, which are individuals who assist seniors or people with disabilities with daily living activities. The purpose of this form is to collect information about the Home Care Aide's personal details, such as their name, contact information, and address. The form is likely used by healthcare or social service organizations to manage their staff or volunteer registry.
-
-The form is designed to be completed by the Home Care Aide themselves, and the information provided will be used for administrative purposes only. The information collected will not be used for any other purpose except for what is stated in the form's purpose and in compliance with relevant laws and regulations.
-
-To ensure that the form is completed accurately and efficiently, please review the following sections carefully.
-
-</thinking>
-
 # Home Care Aide Registration Form - Help Guide
 ## Purpose
 This form is used to collect personal and contact information about Home Care Aides who work with seniors or individuals with disabilities. The information collected will be used for administrative purposes only.

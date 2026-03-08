@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to verify form purpose and non-duplication...
-
-The "Amusement Park Access Extension Form" is designed for guests who wish to extend their park visit beyond its original date. This form is typically used when guests want to stay longer in the park due to various reasons such as not completing all attractions, weather issues, or other special circumstances. The form is used to submit a formal request for an extension of their park access, providing necessary information such as the original visit date, ticket details, and reasons for the extension request.
-
-Before proceeding, please ensure that you have not already submitted a request for extension or that your initial visit has not ended. If you have previously submitted a request, please contact park staff to check the status of your request.
-
-</thinking>
-
 # Amusement Park Access Extension Form - Help Guide
 ## Purpose
 The Amusement Park Access Extension Form is used to request an extension of your park visit beyond its original date. Please fill out this form to provide detailed information about your request.

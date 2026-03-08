@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that each field is filled out with the relevant information. The form is used to register individuals with the tissue bank, and it's essential that the fields are filled out accurately to ensure proper registration. 
-
-We also need to consider that the form will be used by various users with different levels of technical expertise. Therefore, it's crucial to have a clear and concise guide that explains each field and its purpose.
-
-The form has two sections that are not required (Medical Condition, Medical Treatment, and Medication Allergies), which may not be necessary for all users. However, for the purpose of this guide, we will cover these fields as well.
-
-</thinking>
-
 # Tissue Bank Registration Form - Help Guide
 ## Purpose
 The Tissue Bank Registration Form is used to collect relevant information about individuals who register with the tissue bank. The form is designed to gather essential details that will help us understand the individual's needs and preferences.

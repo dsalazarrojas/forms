@@ -1,5 +1,3 @@
-<thinking>This form is for the Organizational Trust Building Program Registration. The purpose of this form is to collect information from participants about their details, scheduling preferences, and expectations from the training program. This form is a critical part of the registration process for the program. The internal reasoning behind this form is to ensure that all participants have a clear understanding of what to expect and that their scheduling preferences are taken into account.</thinking>
-
 # Organizational Trust Building Program Registration - Help Guide
 
 ## Purpose

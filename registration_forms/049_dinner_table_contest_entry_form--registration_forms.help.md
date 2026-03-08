@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, this form is designed to collect information for participants to submit their entries to a dinner table contest. The form will be filled out by each participant who wants to take part in the contest. It's essential that each field is filled out accurately to ensure the submission is complete and can be processed correctly.
-</thinking>
-
 # Dinner Table Contest Entry Form - Help Guide
 ## Purpose
 This form is for participants to submit their entries to a dinner table contest. Fill out this form to share your dish and participate in the competition.

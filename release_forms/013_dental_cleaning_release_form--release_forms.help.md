@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information and medical history for dental cleaning procedures. It is designed to ensure that patients are properly informed and consented before undergoing treatment. The form may be used in a dentist's office or clinic setting. 
-
-This form does not require any proprietary data from other platforms, but rather uses an AI-generated structure based on public survey topic metadata. It is an original adaptation and not a copy or derivative from any other form platform. 
-
-To use this form, please ensure that all required fields are filled in completely and accurately. The form is released under CC BY 4.0 license, allowing users to modify and even sell forms derived from it, as long as proper credit is given.
-
-The form is divided into multiple pages, each with its own section of fields. 
-
-Please note that the form does not store data in real-time, and data should be reviewed before use.
-
-Please make sure to review the form's purpose and usage carefully before using it.
-
-</thinking>
-
 # dental_cleaning_release_form - Help Guide
 ## Purpose
 The "dental_cleaning_release_form" is a form designed to collect patient information and medical history for dental cleaning procedures. It is intended to ensure that patients are properly informed and consented before undergoing treatment.

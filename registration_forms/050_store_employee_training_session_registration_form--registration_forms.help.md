@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from store employees regarding their training sessions. This form is intended to be completed by employees to register for a training session, providing details such as name, email, phone number, and start and end dates of the session. The form also asks about the session name, description, and the number of employees attending and not attending. Additionally, it captures the status of the session, attendance confirmation, and notes. This form is crucial for storing employee training session data for management and reporting purposes.
-</thinking>
-
 # Store Employee Training Session Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from store employees about their training sessions. It helps in organizing and tracking employee training data.

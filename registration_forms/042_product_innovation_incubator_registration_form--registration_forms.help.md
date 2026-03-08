@@ -1,12 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the "product_innovation_incubator_registration_form" form. This form is used for registering a product or idea into the innovation incubator program. The purpose of this guide is to walk users through the form's sections and fields, ensuring they complete it correctly and with clarity. 
-
-The form is divided into sections such as Founder Details, Idea Description, Program Goals, Contact Information, and more. Each section has a specific set of fields that require completion. 
-
-We will follow the form's structure and provide clear explanations for each field, making sure users understand what to expect and what is expected from them.
-
-</thinking>
-
 # product_innovation_incubator_registration_form - Help Guide
 ## Purpose
 The product_innovation_incubator_registration_form is used to register a product or idea into the innovation incubator program. This form gathers essential information about the product or idea, including founder details, idea description, program goals, contact information, and more. 

@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll first understand the provided YAML structure and the context of the form. The form is for registering participants in a Telesales Training Course. It has several fields, including session selection, personal details (name, email, phone number), session date, time, location, trainer details (name, title), and session type. The form appears to be designed for flexibility, allowing optional fields, which might be used for filtering or tracking purpose or other business logic not specified here. I will create a user-facing help guide that explains the purpose, how to complete the form, and provides a field-by-field explanation of each field, ensuring clarity for end-users.</thinking>
-
 # Telesales Training Course Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in the Telesales Training Course. Please fill out the form with your details to sign up for a session.

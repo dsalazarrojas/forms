@@ -1,12 +1,3 @@
-<thinking>
-This form is used for registering players and uploading documents for them to participate in games or events. The form is likely used by administrators or organizers to collect player information and necessary documents before the start of an event. To prevent duplication, the form should be completed only once per player.
-
-This form has 7 fields that need to be filled out, and all of them are optional. However, having accurate and complete information will ensure that the player's registration and document upload is successful.
-
-Before proceeding, please note that all fields are self-explanatory and the instructions in this guide will walk you through each field's intended use.
-
-</thinking>
-
 # Player Registration & Document Upload - Help Guide
 ## Purpose
 This form is used for registering players and uploading documents for them to participate in games or events.

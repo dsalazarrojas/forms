@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect user information for a library storytime session. It will be used to determine attendance for both children and adults, and whether or not additional storytime slots are desired.
-The form will be used to gather data for both child and adult attendance, as well as to confirm that the user has read and understands the form. 
-The "additional_comments" field is intended to be a text area for users to provide any additional comments or information they wish to share.
-This form will only be used for library storytime registration and will not be shared or used for any other purpose.
-The form is not designed to be completed by users under the age of 13.
-</thinking>
-
 # Library Storytime Registration Form - Help Guide
 ## Purpose
 This form is used to register for a library storytime session. Please fill out the form to provide information about yourself and your child's (if applicable) attendance.

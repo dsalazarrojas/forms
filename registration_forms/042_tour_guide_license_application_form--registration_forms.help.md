@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tour Guide License Application Form - Help Guide
 
 ## Purpose

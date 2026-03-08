@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals register for the "Accessibility In Care Design Workshop" event. The purpose of this form is to gather information about potential attendees, including their contact details, professional background, and accessibility requirements. This will enable us to prepare an inclusive environment for all participants. By filling out this form, you will be able to select the sessions you would like to attend, indicate your attendance mode, and let us know about any personal accessibility needs or dietary restrictions you may have.
-</thinking>
-
 # Accessibility In Care Design Workshop Registration - Help Guide
 ## Purpose
 This form is designed to help us prepare an inclusive environment for all workshop participants. Please complete it carefully to ensure your comfort and engagement in the event.

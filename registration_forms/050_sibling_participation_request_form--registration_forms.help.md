@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to allow users to request participation in a sibling program or activity. The purpose of this form is to gather information from siblings who want to participate in the program or activity, and to ensure that they have all necessary information to be considered for participation.
-
-Before filling out this form, please ensure that you are not already registered in the sibling program or activity. If you are already registered, you will not need to fill out this form again. Please also ensure that you have filled out the form completely and accurately, as incomplete or inaccurate submissions may delay your participation.
-
-</thinking>
-
 # Sibling Participation Request Form - Help Guide
 ## Purpose
 The Sibling Participation Request Form is a tool used to request participation in a sibling program or activity. It is designed to collect necessary information from siblings who want to join the program or activity.

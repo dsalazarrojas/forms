@@ -1,9 +1,3 @@
-<thinking>**This form was created using AI to help collect demographic data on transgender individuals, specifically for the purpose of understanding their experiences and providing support services. This guide is to help end users understand how to complete this form accurately and effectively.**
-
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation using public survey topic metadata. The form is released under CC BY 4.0, allowing users to modify and share it freely. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Transgender Survey - Help Guide
 ## Purpose
 The Transgender Survey is a tool designed to collect demographic data on transgender individuals to better understand their experiences and provide support services. This form is intended to be completed by transgender individuals to help them share their information and preferences.

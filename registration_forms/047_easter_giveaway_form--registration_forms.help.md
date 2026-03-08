@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users for an Easter giveaway event. The form is designed to gather essential details about the user, including their name, contact information, and preferences for the event. This form is crucial for the organizers to ensure that all necessary information is collected accurately and in a timely manner.
 
 To complete this form, follow these steps:

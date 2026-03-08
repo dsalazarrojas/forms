@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Community Based Lodging Network. It is intended for hosts to register their lodging offerings and provide necessary information for potential guests. This form should only be completed once for each unique lodging offering. 
-</thinking>
-
 # Community Based Lodging Network Registration - Help Guide
 ## Purpose
 This form is designed to help hosts register their lodging offering with the Community Based Lodging Network. It gathers necessary information about the host and their lodging to facilitate a safe and enjoyable experience for both hosts and guests.

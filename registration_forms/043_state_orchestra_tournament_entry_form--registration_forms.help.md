@@ -1,12 +1,3 @@
-<thinking>
-This form is used for registering a school orchestra for a state tournament. The purpose of this form is to gather information about the school orchestra, including its name, location, and details about the students and teachers participating. This form is likely used by school administrators or orchestra directors to submit their school's information for the state tournament.
-
-Before completing this form, please ensure that you have the necessary information and approval from the relevant authorities. This form should not be submitted multiple times for the same school orchestra.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # state_orchestra_tournament_entry_form - Help Guide
 ## Purpose
 This form is used to register a school orchestra for a state tournament.

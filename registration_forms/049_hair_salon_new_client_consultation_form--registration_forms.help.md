@@ -1,25 +1,3 @@
-<thinking>
-This form is used to collect information from new clients who want to schedule a consultation at a hair salon. It is designed to be completed by the client themselves, and the gathered data will be used by the salon staff to prepare for the appointment.
-The form collects various pieces of information, including the client's contact information, style preferences, schedule details, and notes. The fields are designed to be easy to fill out and understand.
-
-Form fields include:
-- A text field for entering contact information.
-- A select multiple field for indicating multiple style preferences.
-- A date field for scheduling the visit.
-- A text field for selecting a specific hair type.
-- A text field for notes.
-- A text field for style image.
-- A date field for scheduling the date.
-- A time field for scheduling the time.
-- A text field for selecting the stylist.
-- A text field for the stylist's phone number.
-- A text field for the client's phone number (optional).
-- A text field for the client's email (optional).
-- A text field for any additional notes.
-
-The form is designed to be completed by the client in a single page, with the required fields marked as such.
-</thinking>
-
 # Hair Salon New Client Consultation Form - Help Guide
 ## Purpose
 This form is used to collect information from new clients who want to schedule a consultation at a hair salon.

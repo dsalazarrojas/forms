@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cross_border_volunteer_waiver_form - Help Guide
 ## Purpose
 The Cross-Border Volunteer Waiver Form is a document used to register volunteers who will be working or traveling across international borders. This form collects important information about the volunteer, including their contact details, medical history, and emergency contact information.

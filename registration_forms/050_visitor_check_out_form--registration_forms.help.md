@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect visitor information for check-out purposes. It is recommended to complete this form only if you are a genuine visitor who wants to provide feedback or contact information for future reference. Duplicate submissions will be ignored.
 
 </thinking>

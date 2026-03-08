@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information for individuals interested in joining a birdwatching group. The primary goal is to collect contact and personal details, birdwatching experience, and preferences for group excursions. The form is divided into several sections to ensure that members can easily navigate and provide accurate information. The following is a guide on how to complete this form and a brief explanation of each field.
-
-</thinking>
-
 # Birdwatching Group Excursion Membership Form - Help Guide
 ## Purpose
 This form is designed for those interested in joining the Birdwatching Group Excursion Membership program. It collects essential details, birdwatching experience, and preferences for group excursions to ensure a smooth and enjoyable experience for all members.

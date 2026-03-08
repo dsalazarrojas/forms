@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering a Peer To Peer event. Before proceeding, please ensure that you have the necessary permissions to register the event and that the event is not already registered.
-</thinking>
-
 # Peer To Peer Event Registration - Help Guide
 ## Purpose
 This form is used to register a Peer To Peer event. It captures essential details about the event and attendees to facilitate smooth execution and communication among participants.

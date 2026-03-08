@@ -1,7 +1,3 @@
-<thinking>
-The form "Music Business Proposal Form" is designed to gather information from music businesses for proposal purposes. This form is used to collect data on music business proposals, including company details, business model, target market, and financial projections. The form will be reviewed by internal stakeholders to ensure that the business proposal meets the required standards and criteria. Please note that this form is for internal use only and is not a public-facing form. It is intended to be filled out by registered music businesses only.
-</thinking>
-
 # Music Business Proposal Form - Help Guide
 ## Purpose
 This form is used to gather information from music businesses for proposal purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering attendees to a heart health seminar. It's crucial to fill out this form accurately to ensure proper registration and communication with the seminar organizers.
-</thinking>
-
 # Heart Health Seminar Registration - Help Guide
 ## Purpose
 The Heart Health Seminar Registration form is designed to gather essential information from attendees to facilitate their participation in the heart health seminar. Please fill out this form carefully to ensure that the seminar organizers can contact you and make necessary arrangements for the event.

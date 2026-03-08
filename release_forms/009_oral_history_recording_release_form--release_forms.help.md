@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who have provided oral history recordings. It captures essential details about the recording, such as its type, participant's consent, and release terms. The form should only be used for participants who have provided oral history recordings. Please make sure you have the participant's consent before distributing the form. Also, check that the participant's contact information is accurate and up to date. This form is not intended to collect any personal or sensitive data that could infringe on the participant's rights.
-</thinking>
-
 # Oral History Recording Release Form - Help Guide
 ## Purpose
 This form is used to obtain the participant's release and consent for their oral history recording to be released.

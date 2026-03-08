@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to ensure the user understands the purpose and usage of the Fundraising Volunteer Registration Form. It's crucial to verify that the user is aware of the form's objective and the required fields to fill out for a successful submission. This form's primary purpose is to collect information from potential volunteers for fundraising events. The form will be used to gather essential details about the volunteer, including their personal information, availability, and emergency contacts. The form also includes fields for the volunteer's skills, experience, and agreement to the terms and conditions of the event. It's essential to ensure that the user understands the significance of each field and completes it accurately to avoid any issues with their volunteer application.
-
-</thinking>
-
 # Fundraising Volunteer Registration Form - Help Guide
 
 ## Purpose

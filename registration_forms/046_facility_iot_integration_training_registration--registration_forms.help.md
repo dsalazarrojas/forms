@@ -1,26 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Facility IoT Integration Training Registration" form, I will consider the form's purpose, how to complete it, and provide a field-by-field explanation for each section. This will involve analyzing the form's structure and content as per the provided YAML definition.
-
-The purpose of this form is to collect information from facility managers and IT teams for an IoT integration training session. This form will help gather relevant details from users to ensure that the training is tailored to their specific needs.
-
-Upon reviewing the form structure, we can see that it consists of eight fields across four pages:
-- Page 1: "user_details" 
-- Page 2: "session_details"
-- Page 3: "attendees"
-- Page 4: "event_details"
-
-Each page has a specific set of fields to gather relevant information from users.
-
-To complete this form, users should follow these steps:
-1. Enter their details as the "Facility Managers and IT Teams" on Page 1.
-2. Provide details about the training session on Page 2.
-3. Select attendees from the options provided on Page 3.
-4. Enter event details, including a date and time, on Page 4.
-5. Optionally provide their email and phone number.
-
-To provide a concrete, concise, and practical field-by-field explanation, we will analyze each field as per its type and required status.
-</thinking>
-
 # Facility IoT Integration Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information from facility managers and IT teams for an IoT integration training session. This will help us tailor the training to their specific needs.

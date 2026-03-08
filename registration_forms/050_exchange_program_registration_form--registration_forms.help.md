@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "exchange_program_registration_form" form. This form is used for participants to register for an exchange program, providing necessary information for the program administrators to process their registration. To avoid duplication, we'll check if a participant is already registered in the system before allowing them to register. This form is divided into two main categories: participant information and program administrator information. The participant information section includes fields for the participant's personal details such as name, email, phone number, and additional notes. The program administrator information section is optional and includes fields for the program administrator's name, email, phone number, and additional information. The form also includes fields for the participant's program choice, agreement, and signature, as well as additional images and files that can be uploaded.
-</thinking>
-
 # exchange_program_registration_form - Help Guide
 ## Purpose
 The exchange_program_registration_form is used for participants to register for an exchange program, providing necessary information for program administrators to process their registration.

@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning and checks required to ensure the form is completed correctly include verifying that the form is not being resubmitted, that all required fields are completed, and that the email and phone fields are valid and match each other if the email is entered first. This helps prevent incorrect or incomplete submissions and ensures that the data collected is accurate and reliable.
-
-</thinking>
-
 # New Service Discount Registration - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to register for a new service discount. It will help us understand your preferences and provide you with personalized offers and discounts tailored to your needs.

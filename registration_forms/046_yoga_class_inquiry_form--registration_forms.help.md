@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a yoga class inquiry. It's intended for students who are interested in attending a yoga class and want to express their interest in a specific class. The form is not meant for instructors or staff members, so it's not necessary to worry about the internal logic of the form.
-</thinking>
-
 # yoga_class_inquiry_form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and understand your preferences for a yoga class. Please fill out the form to share your first name, last name, email, phone number, preferred class day, available days, available time blocks, class interest, and any comments you might have.

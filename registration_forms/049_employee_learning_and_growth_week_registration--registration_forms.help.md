@@ -1,6 +1,4 @@
-> <thinking>...this form is designed to gather information from employees for employee learning and growth week registration. It's meant to capture essential details such as employee names, emails, departments, job titles, and registration dates. The form also includes fields to collect information from the submitter, including their email, phone number, address, and purpose of submission. This form is likely used for administrative or HR purposes, possibly for tracking employee learning and growth initiatives. Before filling out this form, please ensure that you are submitting the correct information and that it is accurate, as it may be used for reporting and analytics. Please review each field carefully to avoid errors.</thinking>
-
-# employee_learning_and_growth_week_registration - Help Guide
+> # employee_learning_and_growth_week_registration - Help Guide
 ## Purpose
 This form is used to register employees for employee learning and growth weeks, which are likely initiatives or programs designed to improve employee skills, knowledge, and development.
 

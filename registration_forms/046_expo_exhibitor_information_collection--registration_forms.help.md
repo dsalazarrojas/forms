@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from exhibitors who will be participating in an exhibition. The form is designed to gather essential details such as name, contact information, and booth details. To ensure accuracy, please check that you are not duplicating an existing record before submitting this form.
-
-Before filling out this form, please ensure that you have the necessary details ready. This includes:
-- Personal details: First name, last name, email, and phone number
-- Business details: Company name (if applicable) and booth number (if applicable)
-- Exhibition details: Booth location and start date
-
-Please fill out the form carefully, and if you have any issues or concerns, reach out to the exhibition organizers.
-</thinking>
-
 # expo_exhibitor_information_collection - Help Guide
 
 ## Purpose

@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to register event coverage. Event coverage is a process used to ensure that all necessary parties are informed and prepared for an event. This form is meant to be completed by the event organizer or coordinator, and it will help them gather essential information about the event.
-
-To avoid duplicate registrations, please ensure that the event details and contact information are accurate and up-to-date.
-
-Before completing this form, please review the event details and ensure that they are correct.
-
-This form will help you register the event coverage for your event.
-
-Please ensure that all required fields are filled, and the form will be submitted successfully.
-
-This form is not intended to be used for event promotion, but rather for event registration and coverage.
-</thinking>
-
 # Event Coverage Registration - Help Guide
 ## Purpose
 The Event Coverage Registration form is used to gather essential information about an event to ensure proper coverage and preparation.

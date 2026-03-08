@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain photo release from participants in church events or activities. It is intended to ensure that participants are aware of and agree to the use of their photographs in various ways, including on the church website, social media, and promotional materials. The form is required for all participants, and it is the responsibility of the participant's parent or guardian to complete it if the participant is a minor. The form will help to establish a clear understanding of the intended use of photographs, restrictions, and duration of usage rights, and it will help to protect both the church and the participant by setting clear boundaries and expectations.
-
-Please note that the form is designed to be completed by the participant or their parent/guardian, and it is essential to ensure that all participants understand the implications of granting photo release before attending the event.
-
-This guide is intended to help participants complete the form accurately and make informed decisions about their photo release. It is not a substitute for the actual form, but rather a supplementary resource to aid understanding.
-
-Before starting, please make sure to read and understand each section of the form carefully.
-
-</thinking>
-
 # Church Photo Release Form - Help Guide
 ## Purpose
 

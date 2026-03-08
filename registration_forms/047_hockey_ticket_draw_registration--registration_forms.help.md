@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Hockey Ticket Draw Registration - Help Guide
 ## Purpose
 The purpose of this form is to register a person for a hockey ticket draw. The form collects personal information from the registrant, which is used to verify their identity and participation in the draw.

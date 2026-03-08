@@ -1,7 +1,3 @@
-<thinking>
-To ensure a valid registration, we need to verify that the end-user has a genuine interest in participating in the promotional contest. This form is designed to collect contact information and confirm that the user has read and agreed to our terms and conditions. Please note that this form has been thoroughly reviewed to minimize duplication and ensure accurate data collection. 
-</thinking>
-
 # promotional_contest_registration - Help Guide
 ## Purpose
 This form is designed to collect contact information from users interested in participating in our promotional contest. It helps us to verify their interest and confirm their agreement to our terms and conditions.

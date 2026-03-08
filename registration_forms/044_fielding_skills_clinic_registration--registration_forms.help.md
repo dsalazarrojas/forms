@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect player information for the Fielding Skills Clinic, a sports training facility. The purpose of this form is to gather essential details about the player, including contact information, medical history, and waivers. The form is divided into multiple pages, each with its own section to collect specific information.
-To complete this form, follow these steps:
-1. Enter your name, email, and phone number in the Player Details section.
-2. Provide emergency contact information in the Emergency Contacts section.
-3. Disclose any medical information that may be relevant to your training or participation in the clinic.
-4. Sign and date the Waivers section to acknowledge your understanding of the clinic's rules and regulations.
-5. Sign and date the Player Signature section to confirm your agreement.
-6. If a guardian is accompanying you, sign and date the Guardian Signature section to confirm their agreement.
-</thinking>
-
 # Fielding Skills Clinic Registration - Help Guide
 ## Purpose
 

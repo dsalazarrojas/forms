@@ -1,7 +1,3 @@
-<thinking>
-The Mammoth_Ski_&_SB_Sign_Out_Form is designed to gather information from users who participate in snow sports activities at Mammoth Ski Resort and Snowbird (SB) in California, USA. The form is likely used by resort staff to keep track of user attendance, preferences, and other relevant details.
-</thinking>
-
 # Mammoth_Ski_&_SB_Sign_Out_Form - Help Guide
 ## Purpose
 This form is used to gather information from users who participate in snow sports activities at Mammoth Ski Resort and Snowbird (SB) in California, USA. It helps resort staff track user attendance, preferences, and other relevant details.

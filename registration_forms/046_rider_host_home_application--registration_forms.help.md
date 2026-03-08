@@ -1,7 +1,3 @@
-<thinking>
-We are trying to create a user-friendly help guide for the "Rider Host Home Application" form, which is designed to capture information from riders and their hosts. The primary goal of this form is to gather relevant details about the rider's visit, including household details, visiting information, relationships with their host, household rules, emergency contacts, and review dates. It's essential to ensure that the form is completed accurately and thoroughly to avoid any discrepancies or missed information. To achieve this, the user must understand the purpose and requirements of each field.
-</thinking>
-
 # Rider Host Home Application - Help Guide
 ## Purpose
 The "Rider Host Home Application" form is designed to collect information from riders and their hosts to facilitate a smooth and secure experience for both parties. The form is used to gather details about the rider's visit, including household information, visiting dates and times, and emergency contacts.

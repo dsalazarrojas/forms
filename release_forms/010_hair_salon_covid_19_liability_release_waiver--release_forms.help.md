@@ -1,10 +1,3 @@
-<thinking>
-This guide provides an overview of the Hair Salon Covid 19 Liability Release Waiver form, which is used to ensure that customers acknowledge and accept the risks associated with receiving services during the COVID-19 pandemic. This waiver helps the salon to protect themselves from potential legal claims and liabilities related to the transmission of COVID-19. The form is required for all customers visiting the salon and must be completed before services are provided. 
-
-This guide will explain how to complete the form and what each field is intended for.
-
-</thinking>
-
 # Hair Salon Covid 19 Liability Release Waiver - Help Guide
 ## Purpose
 The purpose of this form is to obtain a waiver from customers that they understand and agree to the risks associated with receiving salon services during the COVID-19 pandemic. This form ensures that both the salon and customers are aware of their responsibilities and liabilities.

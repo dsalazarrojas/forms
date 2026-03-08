@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_work_experience_registration - Help Guide
 ## Purpose
 The "Health Work Experience Registration" form is designed to collect and store information about healthcare providers and their work experience in the healthcare industry. This form helps us to create a comprehensive directory of healthcare professionals with relevant work experience, making it easier for others to find and connect with them.

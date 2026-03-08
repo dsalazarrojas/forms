@@ -1,5 +1,3 @@
-<thinking>Before you begin, it's essential to understand the purpose of the "Expansion Pack Release Form" and ensure you're in the right context to fill it out. This form is used for releasing expansion packs for game teams. Please confirm that you are a member of a game team and that you're submitting a new expansion pack for release. Also, be aware that if you've already submitted a release form for the same expansion pack, do not fill out this form again, as it may cause duplication of work.</thinking>
-
 # Expansion Pack Release Form - Help Guide
 ## Purpose
 The "Expansion Pack Release Form" is a crucial step in the expansion pack release process for game teams. It allows you to provide essential information about the expansion pack, ensuring a smooth and organized release.

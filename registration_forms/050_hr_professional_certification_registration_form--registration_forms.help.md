@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to help HR professionals register for certifications. The purpose of this form is to collect relevant information about the individual's certification status and work history. This information will be used for internal record-keeping and may be shared with other departments within the organization. To ensure accurate and complete registration, please complete the form carefully.
-
-Before starting the form, ensure that you have reviewed the information carefully and that your answers are accurate. If you have previously submitted this form, please note that duplicate submissions are not allowed.
-
-</thinking>
-
 # HR Professional Certification Registration Form - Help Guide
 ## Purpose
 This form is designed to help HR professionals register for HR certifications.

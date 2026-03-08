@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and requirements. This form is likely used to obtain consent from individuals to use their media, such as images or videos, for a particular purpose. The form will ask for contact information, release dates, and consent options. The purpose of this form is to ensure that individuals understand how their media will be used and to obtain their explicit consent. This form is not intended for internal use, but rather for external use with customers or clients.</thinking>
-
 # Media Release Permission Form - Help Guide
 ## Purpose
 The Media Release Permission Form is used to obtain consent from individuals to use their media, such as images or videos, for a particular purpose.

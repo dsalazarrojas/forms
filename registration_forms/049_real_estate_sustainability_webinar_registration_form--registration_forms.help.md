@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from individuals interested in attending a webinar about real estate sustainability. This form will help us ensure we have accurate contact information, attendee roles, and relevant details for the event. Please ensure you have all the necessary information before proceeding. This form does not require all fields, so feel free to fill it out with the required information you have available.
-
-Note: Please do not register multiple individuals with the same contact information. Each individual should have a unique entry in the form.
-</thinking>
-
 # Real Estate Sustainability Webinar Registration Form - Help Guide
 ## Purpose
 The Real Estate Sustainability Webinar Registration Form is used to collect information from individuals interested in attending a webinar about real estate sustainability. This form helps us ensure we have accurate contact information, attendee roles, and event details for the event.

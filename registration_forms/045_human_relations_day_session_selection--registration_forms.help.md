@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to select their session preferences and provide registration details for the Human Relations Day event. This form is part of the event registration process and helps event organizers gather essential information about attendees. 
-
-The form is intended to be completed by event attendees who want to reserve a spot in the event session that suits their needs. 
-
-The form is not designed to handle large volumes of data or complex registrations. It is meant to be simple and user-friendly, allowing attendees to quickly provide their details without any hassle. 
-
-This form should not be used to handle sensitive or highly confidential information. All fields are optional, and users can submit the form without providing any information if they so choose.
-
-</thinking>
-
 # Human Relations Day Session Selection - Help Guide
 ## Purpose
 The Human Relations Day Session Selection form is used to select session preferences and provide registration details for the event. This form helps event organizers gather information about attendees and ensures they are assigned to a suitable session.

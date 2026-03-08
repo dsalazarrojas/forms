@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for businesses in the beauty industry to register for a mentorship program. It collects information about the applicant's business, such as name, location, and type, as well as their goals and challenges. The form also asks about the applicant's preferences for mentorship, including preferred meeting frequency and format, desired program duration, and investment readiness. The goal is to help the beauty business find the right mentor for their specific needs. This form is not intended for general public use, so it's likely that the applicant will have some prior knowledge of the beauty industry. Please note that some fields are required, while others are optional. 
-
-</thinking>
-
 # Beauty Business Mentorship Registration Form - Help Guide
 ## Purpose
 This form is used to register for a mentorship program for businesses in the beauty industry. It collects information about your business and your goals, so we can match you with the right mentor.

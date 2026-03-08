@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information for the Spot The Differences Contest. The form has multiple input fields that require the user to provide personal details and preferences. The form is not meant to be used for sensitive or confidential information collection. The form fields and their corresponding labels have been designed to be clear and self-explanatory, but if you need further clarification, please refer to the field-by-field explanations below. Please ensure you have filled out this form accurately and honestly. Please note that this form should be filled out once per user, and duplicates will not be accepted.
-</thinking>
-
 # Spot The Differences Contest Registration - Help Guide
 ## Purpose
 The Spot The Differences Contest Registration form is used to collect user information for the purpose of the Spot The Differences Contest. This form helps the contest organizers to gather details about the users participating in the contest.

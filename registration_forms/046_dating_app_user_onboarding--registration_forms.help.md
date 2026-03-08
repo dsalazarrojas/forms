@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a part of an internal system for managing user data and preferences for a dating app. The purpose of this form is to gather information about a new user's onboarding data, which includes their personal details and preferences. It seems to be a one-time data entry form, meant to be filled out once during onboarding process.
-
-Checking for relevance and non-duplication:
-
-* The form is likely used by users to input their information to get started with the dating app.
-* There might be some overlap with other forms in terms of user information, but the specific focus on onboarding and preferences suggests a more comprehensive collection of details.
-</thinking>
-
 # Dating App User Onboarding - Help Guide
 ## Purpose
 This form gathers information about a new user's onboarding data for the dating app, including personal details and preferences.

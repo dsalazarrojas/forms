@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for releasing music-related information. The form is likely intended for music industry professionals to report music releases, and the fields cover various aspects of the release, including the type of release, copyright details, artist and song information, and publisher details. This form should only be filled out when an actual music release event is occurring, and any duplicate entries should be avoided to prevent data duplication and ensure accurate record-keeping.
 
 </thinking>

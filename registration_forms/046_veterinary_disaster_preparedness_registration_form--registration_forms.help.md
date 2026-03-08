@@ -1,12 +1,3 @@
-<thinking>
-This form is for veterinary disaster preparedness registration. Its purpose is to gather information about an animal's health, owner's contact details, and emergency medical conditions. This form is used to ensure that all necessary information is collected in case of an emergency, such as a natural disaster or an evacuation. The information collected will help the animal's owner and emergency responders to provide the best possible care and assistance. 
-
-This form should only be filled out by the animal's owner or authorized representative. It is essential to fill out this form accurately and completely to ensure that the information is helpful in case of an emergency.
-
-Please note that this form is not intended for veterinary medical diagnosis or treatment. Any medical questions or concerns should be directed to a licensed veterinarian.
-
-</thinking>
-
 # veterinary_disaster_preparedness_registration_form - Help Guide
 ## Purpose
 This form helps to gather information about your animal's health, contact details, and emergency medical conditions to prepare for potential natural disasters or other emergency situations.

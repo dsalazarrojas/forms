@@ -1,11 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide for the "Guest House Registration Form". The form is used for registering guest houses, hotels, resorts, and other types of properties with the system. It is essential that each field is filled accurately to ensure that the registration is successful and the property is listed correctly in the system.
-
-To avoid duplication, please make sure to check if the property already exists in the system before submitting the registration form. You can do this by checking the system's directory or by searching for the property name.
-
-The form has two sections for collecting information about two proprietors, as it seems that some properties might be managed by multiple people.
-</thinking>
-
 # Guest House Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register a guest house, hotel, resort, or other type of property with the system.

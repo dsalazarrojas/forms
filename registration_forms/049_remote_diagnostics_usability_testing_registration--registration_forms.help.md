@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for remote diagnostics usability testing sessions. The form is used to register participants for the testing sessions. It captures information about the participant's profile, their current and previous status in the testing process, and details about the diagnostic session.
-The purpose of this form is to gather information for internal use by the testing team to manage and track the progress of participants through the remote diagnostics usability testing process.
-</thinking>
-
 # Remote Diagnostics Usability Testing Registration - Help Guide
 ## Purpose
 This form is used to register participants for remote diagnostics usability testing sessions.

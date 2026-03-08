@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a form used to register organizational changes. This form likely serves as a way for event organizers, speakers, and attendees to provide details about events, sessions, and attendees. The form might be used internally within an organization to gather information about upcoming events, such as conferences, meetings, or workshops. To ensure that the form is used correctly and efficiently, we should clarify its purpose and the information it requires.
-</thinking>
-
 # Organizational Change Forum Registration - Help Guide
 ## Purpose
 This form is used to register and gather information about organizational changes, such as events, sessions, and attendees. It's essential to provide accurate and complete information to ensure that the event organizers, speakers, and attendees can be correctly notified and prepared for the event.

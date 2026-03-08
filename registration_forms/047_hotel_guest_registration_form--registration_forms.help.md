@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine its name and fields. The form is called "Hotel Guest Registration Form", suggesting it's intended for guests to provide personal and reservation information when arriving at a hotel. Upon reviewing the fields, we see a mix of personal details (name, email, phone, address), reservation specifics (arrival and departure dates, room number, stay duration), and payment information (payment method, amount). This form likely serves as a standardized way for hotel staff to collect necessary information from guests, ensuring accurate and efficient processing. 
-</thinking>
-
 # Hotel Guest Registration Form - Help Guide
 
 ## Purpose

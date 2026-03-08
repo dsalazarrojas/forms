@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to obtain permission from a photographer to use their photos.
-The form is used in various business settings, such as events, marketing materials, or social media. This form ensures that the photographer agrees to the terms and conditions of using their photos.
-</thinking>
-
 # Permission To Use Photo Release Form - Help Guide
 ## Purpose
 The "Permission To Use Photo Release Form" is a document used to obtain permission from a photographer to use their photos in various contexts. This form is used to ensure that the photographer agrees to the terms and conditions of using their work.

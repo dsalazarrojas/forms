@@ -1,5 +1,3 @@
-<thinking>Before proceeding, let's break down the form purpose, and ensure that it's not a duplicate or unnecessary task. The form is designed to gather information from individuals or companies interested in registering their interest in the Retail Personalization API. This form serves as a crucial step in the onboarding process, collecting essential data that will help us understand who they are, their use case, and other vital details. We aim to prevent duplicate registrations and non-relevant submissions. We must ensure that the form accurately and efficiently collects the necessary information for our API.</thinking>
-
 # Retail Personalization API Registration Form - Help Guide
 ## Purpose
 The Retail Personalization API Registration Form is a necessary step for anyone interested in utilizing our Retail Personalization API. By filling out this form, you will be providing us with the necessary information to tailor our API to your specific needs and ensure a smooth onboarding process.

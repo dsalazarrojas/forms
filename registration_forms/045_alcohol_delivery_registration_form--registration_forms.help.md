@@ -1,8 +1,4 @@
-> <thinking>
-This help guide is intended for end-users who need to complete the Alcohol Delivery Registration Form. The form is used for registering for an alcohol delivery service, allowing users to provide their profile information, choose a subscription plan, and agree to the terms and conditions. This guide will walk users through the form step-by-step, explaining each field and its purpose.
-</thinking>
-
-# Alcohol Delivery Registration Form - Help Guide
+> # Alcohol Delivery Registration Form - Help Guide
 ## Purpose
 This form is used to register for our alcohol delivery service. By completing this form, you will be able to create an account, choose a subscription plan, and provide the necessary information for your delivery preferences.
 ## How To Complete This Form

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "expressive_lens_registration_form" form, a form designed to gather information from participants in a workshop, course, or program related to expressive lenses.
-</thinking>
-
 # Expressive_Lens_Registration_Form - Help Guide
 ## Purpose
 This form is designed to collect participant details and preferences for a workshop, course, or program related to expressive lenses. It helps us understand who is participating and what they would like to achieve or contribute to.

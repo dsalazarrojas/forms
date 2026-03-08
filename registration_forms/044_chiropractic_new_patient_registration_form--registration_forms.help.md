@@ -1,7 +1,3 @@
-<thinking>
-This form is used for new patients to register their information for chiropractic services. It is essential to complete this form accurately to ensure that we can provide the best possible care for you. This form should only be filled out once for each new patient. If you have previously registered with us, please do not fill out this form again.
-</thinking>
-
 # Chiropractic New Patient Registration Form - Help Guide
 
 ## Purpose

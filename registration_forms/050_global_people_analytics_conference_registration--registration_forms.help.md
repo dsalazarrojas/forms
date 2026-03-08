@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from attendees for the Global People Analytics Conference. The form is designed to collect basic contact information, such as first and last name, email, and company name. This data will likely be used to create a contact list for attendees and may also be used for follow-up communication.
-
-Before filling out this form, ensure that you have not already registered for the conference. If you have any questions or concerns, please reach out to the contact email: form@gic.mx.
-
-Please note that this form is a public and original adaptation created using AI, and it is released under CC BY 4.0. You are free to use, modify, and distribute this form as you see fit, just give proper credit.
-</thinking>
-
 # Global People Analytics Conference Registration - Help Guide
 ## Purpose
 This form is designed to collect contact information from conference attendees.

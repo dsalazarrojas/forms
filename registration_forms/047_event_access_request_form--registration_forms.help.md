@@ -1,9 +1,3 @@
-<thinking>
-
-The Event Access Request Form is used to request access to an event for an attendee. This form will be used to capture the necessary information for the event organizer to review the request and grant or deny access as needed. It is expected that each field will be filled out accurately and thoroughly to ensure that the event organizer has all the necessary information to make a decision. Please make sure to fill out this form correctly and only submit it once. This form will not be used for any other purpose and the information collected will only be used to review access requests for events.
-
-</thinking>
-
 # Event Access Request Form - Help Guide
 ## Purpose
 The Event Access Request Form is used to request access to an event for an attendee. This form is used to capture the necessary information for the event organizer to review the request and grant or deny access as needed.

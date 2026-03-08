@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Theme Park Ride Filming Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from guests who have been selected for filming by a theme park ride. The form helps to ensure that the guest is aware of and consents to being filmed for the park's media and marketing activities. This form is usually filled out during the ride filming process, and it's essential to provide accurate and clear information to ensure a smooth and safe experience for both the guest and the film crew.

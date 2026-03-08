@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose**
-The purpose of this form is for freelancers to register and pay their registration fees for the service. It is essential to ensure that you understand the form's purpose to complete it accurately.
- 
-**Form Non-Duplication and Relevancy Check**
-Please note that this form is intended for freelancers only. If you are not a freelancer, please do not submit this form. It is also essential to fill in the correct information for each field as any incorrect input may result in processing delays or rejection.
- 
-</thinking>
 # Freelancer Registration Fee Payment Form - Help Guide
 
 ## Purpose

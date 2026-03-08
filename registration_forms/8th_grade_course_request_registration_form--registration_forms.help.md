@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will focus on explaining the purpose, process, and each field of this 8th Grade Course Request Registration Form in a clear and concise manner, ensuring that end-users understand its relevance and how to complete it effectively.</thinking>
-
 # 8th Grade Course Request Registration Form - Help Guide
 
 ## Purpose

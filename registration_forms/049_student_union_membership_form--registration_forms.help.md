@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for registering students with the student union, possibly for various purposes such as membership, activities, or services. The form may be used to gather information about the student's personal details, academic background, and emergency contact information. It's essential to ensure that this form is filled out correctly to avoid missing critical information that might lead to delays or issues in processing. Before proceeding, check if you have already completed this form in the past to avoid duplication of effort and ensure that the information is up-to-date.
-</thinking>
-
 # Student Union Membership Form - Help Guide
 
 ## Purpose

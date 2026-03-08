@@ -1,17 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "mediation-appointment-form" form, which is used for users to schedule a mediation or arbitration appointment. This form is likely used by a mediation or arbitration service that provides a platform for users to resolve disputes. The form's purpose is to collect relevant information from users to facilitate the scheduling process. We should ensure that the form is clear and concise, with each field explained in a way that's easy to understand.
-
-Before creating the help guide, let's review the form's fields:
-
-* Mediation appointment form has 10 fields in total.
-* The form is not required, and most fields are optional.
-* The fields include date, time, mediation type, preferred time, session length, location, contact details, preferred date, and preferred time.
-* Some fields have specific options, such as mediation type, preferred time, and preferred date.
-
-Given this information, let's create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning.
-
-</thinking>
-
 # mediation-appointment-form - Help Guide
 ## Purpose
 The Mediation-Appointment-Form is used to schedule a mediation or arbitration appointment with our service. To get started, please follow the steps below.

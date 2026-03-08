@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a liability release and waiver form for animals undergoing PEMF (Pulsed Electromagnetic Field) therapy. The form is designed to ensure that the animal's owner acknowledges and accepts the risks associated with PEMF therapy and releases the practitioner from any liability. This form is intended to be completed by animal owners who are seeking PEMF therapy for their pets.
-
-Before proceeding, it is essential to verify that the form is relevant and not duplicated. The form should only be used for animals that are actually receiving PEMF therapy, and the owner should not be required to sign this form if they have already signed a similar form for the same therapy.
-
-</thinking>
-
 # Animal PEMF Liability Release And Waiver Form - Help Guide
 
 ## Purpose

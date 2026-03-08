@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registration for the Plant Management Software Training, which is a course designed to educate users on the effective use of the Plant Management Software. This form is meant for employees and stakeholders who wish to enroll in the training session. It will help ensure that the correct amount of resources are allocated for the training and provide essential details for the training process.
-
-This form will guide users through the required and optional fields. Please ensure all required fields are filled in accurately to ensure a smooth training experience.
-</thinking>
-
 # Plant Management Software Training Registration Form - Help Guide
 ## Purpose
 This form is used for registration for the Plant Management Software Training, which is a course designed to educate users on the effective use of the Plant Management Software.

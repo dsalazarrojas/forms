@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering users for a skincare webinar, allowing them to provide their personal details, including first name, last name, email, phone number, date of birth, and select one or multiple options from a list. This form is not required to be filled out completely, as some fields are optional. The purpose of this form is to capture attendee information for the webinar.
-</thinking>
-
 # Skincare Webinar Registration Form - Help Guide
 ## Purpose
 The Skincare Webinar Registration Form is designed to collect attendee information for the webinar. To complete this form, follow the steps outlined below.

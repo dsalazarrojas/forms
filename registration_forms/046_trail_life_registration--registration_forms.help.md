@@ -1,7 +1,3 @@
-<thinking>
-The Trail Life Registration form is a crucial part of our organization's data collection process, designed to gather essential information from our users. To ensure accuracy and consistency, we aim to collect information only once per user. If you've already registered with us, please do not register again. This form is meant to be completed by Trail Life users who are interested in registering for one or more of our services. Please note that this form should only be used for registration purposes, and other forms should be used for other types of data submission.
-</thinking>
-
 # Trail Life Registration - Help Guide
 ## Purpose
 The Trail Life Registration form is designed to collect information from users interested in registering with us. This form is used to gather details about the user's identity, employment, and work history to ensure accurate and efficient registration.

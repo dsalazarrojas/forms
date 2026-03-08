@@ -1,13 +1,3 @@
-<thinking>
-This form is for registering participants for a cultural exchange fair. The purpose of the form is to gather information about the participant's details, cultural background, availability, event information, and payment details. This form is likely used by organizers of cultural exchange fairs to collect necessary information from participants. To ensure that this form is filled out correctly, it's essential to understand each field's requirements and guidelines.
-
-This form is divided into two sections: Registration Form Details and Participant Information. 
-
-The Registration Form Details section should only be filled out once, and it should contain a brief description of the participant's registration form details. 
-
-The Participant Information section requires more in-depth information about the participant. This includes their cultural background, availability, event information, payment details, and whether they have submitted their information.
-</thinking>
-
 # cultural_exchange_fair_registration_form - Help Guide
 ## Purpose
 The cultural exchange fair registration form is used by participants to register for the cultural exchange fair. It is essential to fill this form accurately and completely to ensure a smooth and enjoyable experience for everyone involved.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants for the Volleyball Open Gym program, which is designed to provide a safe and supportive environment for players of all skill levels to play volleyball during their free time. To ensure that the participant information is accurate and up-to-date, it's essential to complete the form correctly. Please verify that the participant and emergency contact information is correct to prevent any confusion.
-</thinking>
-
 # Volleyball Open Gym Registration - Help Guide
 ## Purpose
 The Volleyball Open Gym Registration form is used to collect information from participants who want to join the volleyball program. This information helps the program staff to get in touch with the participants and their emergency contacts in case of any issues or emergencies.

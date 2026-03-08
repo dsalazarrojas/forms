@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a model release form for use in a magazine or media production context. It is likely used to gather information from models (individuals) who have appeared in a publication, including their personal details, contact information, and release status. The form may be part of a larger workflow to ensure that models are properly informed and agreed upon their publication, and that the publication's liability and copyright are managed accordingly. This form should be reviewed for relevance and non-duplication within the organization or publication's existing workflows or databases.</thinking>
-
 # Magazine Model Release Form - Help Guide
 ## Purpose
 This form is used to gather model release information for a magazine or media publication.

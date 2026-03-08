@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Food Product Trial Release Form" that explains its purpose, how to complete it, and what each field means. The form is used to gather information from participants who are part of a food product trial. The form is not required to be completed by all participants, and it is intended to be completed in conjunction with other trial-related documentation. The form does not collect any personal data that would be considered sensitive or sensitive in nature.
-</thinking>
-
 # Food Product Trial Release Form - Help Guide
 ## Purpose
 This form is used to gather information from participants who are part of a food product trial. It is intended to be completed in conjunction with other trial-related documentation and is not required for all participants.

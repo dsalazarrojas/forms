@@ -1,14 +1,3 @@
-<thinking>
-This help guide is for the exam_registration_confirmation_form form. This form is used to confirm the status of participants and exams. It is essential to complete this form to keep track of participant and exam information accurately.
-
-To ensure the form is filled out correctly, follow these steps:
-
-1.  The form is divided into several sections, each corresponding to a specific field. Please fill out each field according to the instructions below.
-2.  Make sure to fill out all required fields. If a field is not required, you can leave it blank.
-3.  Be accurate and consistent in your entries.
-
-</thinking>
-
 # exam_registration_confirmation_form - Help Guide
 ## Purpose
 The exam_registration_confirmation_form is used to confirm the status of participants and exams.

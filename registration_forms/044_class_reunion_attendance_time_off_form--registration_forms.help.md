@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication and ensure the correct completion of the form, we'll first check if a class reunion is actually happening and if the user has already filled out the form. If not, we'll then verify if the user has already filled out the form for a previous reunion. If all checks pass, we'll proceed to guide the user through the form.
-
-This guide will cover the Class Reunion Attendance Time Off Form, which is designed to collect information from class alumni about their attendance and travel plans for the upcoming class reunion. The form is divided into several sections, each focusing on a specific aspect of the reunion.
-
-</thinking>
-
 # Class Reunion Attendance Time Off Form - Help Guide
 ## Purpose
 This form helps us track the attendance and travel plans of class alumni for the upcoming class reunion. It collects information about the attendee's personal details, contact information, reunion plans, and time off requests from work or school. Your input will be used to plan the reunion event and ensure that everyone has a great experience.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Museum Visit Reservation Form. This form is designed to gather information for visitors to reserve a spot at the museum. It should only be filled out by individuals who intend to actually visit the museum, not by museum staff or internal stakeholders. Please do not fill out this form to check its functionality or for test purposes.
-</thinking>
-
 # Museum Visit Reservation Form - Help Guide
 
 ## Purpose

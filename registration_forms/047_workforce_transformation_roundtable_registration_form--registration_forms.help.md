@@ -1,8 +1,3 @@
-<thinking>
-The form is used to register attendees for a roundtable event focused on workforce transformation. To ensure accuracy and to prevent duplication, users are only allowed to register once. 
-The form requires users to provide their registration information, including their name, organization, and email. Users can also specify their role and interests related to the event. For payment, users can choose from various methods (e.g., PayPal, Stripe, Bank Transfer) and terms (e.g., Net 30, Net 60, Payable Now). The form also allows users to provide additional information and confirm their registration.
-</thinking>
-
 # Workforce Transformation Roundtable Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Workforce Transformation Roundtable event. Please fill out this form to provide us with your registration information and event preferences.

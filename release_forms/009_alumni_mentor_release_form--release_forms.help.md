@@ -1,10 +1,3 @@
-<thinking>
-This form is used for releasing an alumni mentor from their responsibilities and agreements, typically after a program has ended. The goal of this form is to provide a clear and formal agreement to release the mentor from their obligations. It is used to document the details of the release and ensure a clean and transparent end to the mentorship agreement. To prevent duplication or non-relevant submissions, please fill out this form only if the mentorship agreement has ended and you want to release the mentor from their responsibilities.
-
-Before submitting this form, please ensure that you have all the necessary information and approvals to complete it accurately.
-
-</thinking>
-
 # Alumni Mentor Release Form - Help Guide
 ## Purpose
 This form is used to formally release an alumni mentor from their responsibilities and agreements, typically after a program has ended.

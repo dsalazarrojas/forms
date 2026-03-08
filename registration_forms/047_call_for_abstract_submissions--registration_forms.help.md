@@ -1,5 +1,3 @@
-<thinking>...The Call for Abstract Submissions form is designed for individuals and teams to submit abstracts for a research conference or competition. It is essential to ensure that the submitted abstracts meet the required criteria and guidelines to be considered for review. To prevent duplication and improve organization, please make sure to review the form carefully before filling it out. Also, please note that all submissions will be reviewed and considered for presentation based on their relevance and merit. This form requires accurate and complete information for a successful submission...</thinking>
-
 # Call For Abstract Submissions - Help Guide
 
 ## Purpose

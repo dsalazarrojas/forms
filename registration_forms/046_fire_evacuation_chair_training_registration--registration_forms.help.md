@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants and trainers for fire evacuation chair training sessions. This form will help us ensure that all necessary details are captured to facilitate the training process. Please note that this form is designed to be filled out by participants and trainers, and it's essential to complete it accurately and thoroughly. Before proceeding, please ensure that you are filling out the correct form and that you have all the necessary information required.
-</thinking>
-
 # fire_evacuation_chair_training_registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants and trainers for fire evacuation chair training sessions. The form is used to ensure that all necessary details are captured to facilitate the training process.

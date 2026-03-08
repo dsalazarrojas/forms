@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect information about athlete participation in a league or tournament. The purpose of this form is to gather essential details from athletes, such as their name, league name, and tournament date, to facilitate monitoring and tracking of participation. To avoid duplication, it is recommended that athletes submit only one entry per tournament. 
-</thinking>
-
 # League Participation Monitoring Form - Help Guide
 ## Purpose
 This form is designed to collect information from athletes about their participation in a league or tournament.

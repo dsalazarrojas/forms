@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tskis - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for membership at a heritage site. The form collects contact information, membership details, and payment information. The form is divided into several sections, including Membership Details, Contact Information, and Payment Information. The form requires users to provide their email address, confirm their email, select their membership type, and confirm their payment method. Users also have the option to provide additional contact information, such as address, city, and phone number. The form includes several fields that are used to confirm the user's payment information, including the expiration month and year of their payment card, and the CVV (card verification value) of their payment card. The form also allows users to submit notes and status comments. The form is intended for users who are registering for membership at the heritage site.
-</thinking>
-
 # Heritage Site Membership Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register for membership at a heritage site.

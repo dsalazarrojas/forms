@@ -1,8 +1,3 @@
-<thinking>
-  This form is for registration for the Sustainability Reporting Workshop. This form is meant to collect participant information for the workshop. To ensure accurate participant registration and to avoid conflicts with existing registrations, please make sure to complete this form correctly. 
-  The form includes 10 fields that need to be filled in. The purpose of the form is to collect participant information, such as contact details, company, department, and workshop experience, to ensure a smooth and effective participation in the Sustainability Reporting Workshop.
-</thinking>
-
 # Sustainability Reporting Workshop Registration Form - Help Guide
 ## Purpose
 The Sustainability Reporting Workshop Registration Form is designed to collect participant information for the Sustainability Reporting Workshop. This form is used to gather essential details such as contact information, company, department, and workshop experience to facilitate a smooth and effective participation in the workshop.

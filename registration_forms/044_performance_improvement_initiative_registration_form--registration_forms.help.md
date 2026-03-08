@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information on the Performance Improvement Initiative from end users. It's crucial to fill this out correctly to ensure accurate data collection. Please make sure you have the necessary permissions to access this form, and if you're unsure, reach out to your supervisor or HR department.
-
-Before starting, review the following fields to ensure you're aware of what's expected:
-
-* Program Selection: Select one or more programs you're interested in participating in.
-* Name: Enter your full name.
-* Email: Enter your work email address.
-* Phone: Enter your work phone number.
-
-Please fill out each field with the requested information, and don't forget to review and submit the form when you're done.
-
-If you're unsure about any field, you can always reach out to the relevant department or your supervisor for clarification.
-</thinking>
-
 # performance_improvement_initiative_registration_form - Help Guide
 ## Purpose
 The Performance Improvement Initiative Registration Form is used to collect information from end users who want to participate in the performance improvement initiatives. It ensures that users are aware of and engaged with the initiatives that can benefit their growth and development.

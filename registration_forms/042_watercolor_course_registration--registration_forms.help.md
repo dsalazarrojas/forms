@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information from students who want to register for a Watercolor Course. The form is divided into several sections, each with a specific purpose. The main goal of this form is to gather essential details about the student, course, and instructor, which will help the course organizers manage and tailor the course to meet the needs of its participants.
-
-The form consists of 25 fields, which can be broadly categorized into three main categories: student information, course details, and instructor details. To avoid duplication and ensure relevance, it is essential to fill out the form carefully and accurately.
-
-</thinking>
-
 # Watercolor Course Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from students who want to join a Watercolor Course. The form helps the course organizers gather essential details about the students and courses, ensuring a smooth and organized course management process.

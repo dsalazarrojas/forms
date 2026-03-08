@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from attendees for access control purposes. This form helps track visitor and attendee details, including their identity, purpose of visit, and expected check-out time. It ensures that the access control and safety policies are enforced by verifying photo identification and obtaining an agreement to comply with site rules. This form is a must-complete for all visitors and attendees.
-</thinking>
-
 # Access Control Check In Form - Help Guide
 ## Purpose
 This form is used for access control and visitor management purposes. It is a mandatory requirement for all visitors and attendees to complete this form to ensure a smooth and secure process.

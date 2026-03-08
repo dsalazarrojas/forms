@@ -1,7 +1,3 @@
-<thinking>
-This is a form for retreat registration, which is a process that requires users to fill out a set of fields to register for a specific retreat. Before proceeding, please make sure you've checked the internal retreat schedule and haven't already been registered. If you're not sure, you can check with your supervisor or team leader for more information.
-</thinking>
-
 # Retreat Registration - Help Guide
 ## Purpose
 This form is used to register for a retreat. Please fill it out to complete your registration.

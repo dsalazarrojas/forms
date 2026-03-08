@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # player_registration_form - Help Guide
 ## Purpose
 The player registration form is designed to collect player information for registration purposes. This form will help administrators collect player details such as name, contact information, and other relevant details for player profiles. To ensure accurate and complete data, please review each field carefully and provide accurate information.

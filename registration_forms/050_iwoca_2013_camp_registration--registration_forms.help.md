@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration purposes, likely for a specific event or program. It collects personal and general information from users, including name, contact details, and preferences. To ensure accuracy and relevance, this form checks for non-duplication to prevent multiple submissions from the same user. This form's purpose is to gather necessary data for event organizers, administrators, or other relevant parties.
-</thinking>
-
 # iwoca_2013_camp_registration - Help Guide
 
 ## Purpose

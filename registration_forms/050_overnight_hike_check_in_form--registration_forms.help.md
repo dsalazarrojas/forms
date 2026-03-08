@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from participants for an overnight hike event. The purpose of this form is to ensure that all participants have provided accurate and complete information about themselves, including their name, contact details, hiking experience, and medical conditions. This form is only accessible to authorized event staff, who will review and manage the participant information. Please note that all fields marked as "required" must be completed before submission.
-
-</thinking>
-
 # Overnight Hike Check In Form - Help Guide
 ## Purpose
 The Overnight Hike Check In Form is used to gather information from participants for an overnight hike event. It ensures that all participants provide accurate and complete information about themselves.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for obtaining work release from an employer. 
-It is meant to collect necessary information from both the patient and their doctor/physician. The form is used to communicate with the employer and provide necessary details for a smooth work release process. It's used to collect patient information, employment details, medical cause, and other relevant information. The employer and doctor/physician sections require the employer and their contact information, doctor/physician name and address, and their contact information, and their signatures. The date of discharge is also a required field for the employer and doctor/physician to sign.
-</thinking>
-
 # Work Release Form - Help Guide
 ## Purpose
 This form is used for obtaining work release from an employer to ensure a smooth and efficient communication process between the employer and the patient's doctor or physician.

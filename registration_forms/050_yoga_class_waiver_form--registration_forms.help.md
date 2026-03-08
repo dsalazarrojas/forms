@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from participants before they attend a yoga class. The form is designed to collect participant's contact information, medical conditions, and waiver of liability. It also includes fields for emergency contact, insurance information, and signature. The form is meant to be completed by participants before attending the class.
-
-Before filling out this form, please ensure that you have read and understand the waiver section carefully. This form is not intended to be a medical evaluation, but rather a general waiver of liability for participating in the yoga class.
-
-Please note that this form is not intended to be a comprehensive medical evaluation, and if you have any concerns, please consult your healthcare provider before participating in the class.
-
-</thinking>
-
 # Yoga Class Waiver Form - Help Guide
 ## Purpose
 This form is used to gather information from participants before they attend a yoga class. It is meant to be completed by participants to provide their contact information, medical conditions, and waiver of liability.

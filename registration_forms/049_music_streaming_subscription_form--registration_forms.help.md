@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to subscribe to a music streaming service. It is not meant to be used for other purposes. This form is intended to collect user information, subscription plan preferences, and payment details for the subscription process. The form should only be filled out once for a new subscription. If a user has already subscribed, they should not use this form.
-</thinking>
-
 # music_streaming_subscription_form - Help Guide
 ## Purpose
 This form is used to collect user information and subscription details for a music streaming service.

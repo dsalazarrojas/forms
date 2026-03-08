@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a stakeholder meeting attendance. It will be used by meeting organizers to track the attendance status of participants and any additional information they need to know. 
-This form will be used by various teams and departments within the company and will be submitted by meeting participants. 
-It is essential to ensure that the form is completed accurately and thoroughly to prevent any confusion or miscommunication. 
-Before submitting, please review the form carefully and ensure that you are providing the required information. 
-Please note that this form will be reviewed by the meeting organizers, and any incomplete or inaccurate information may lead to unnecessary follow-up questions or actions. 
-</thinking>
-
 # stakeholder_meeting_attendance_form - Help Guide
 ## Purpose
 The "stakeholder_meeting_attendance_form" is used to register a stakeholder meeting attendance, enabling meeting organizers to track attendance status and gather additional information from participants.

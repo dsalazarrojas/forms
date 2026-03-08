@@ -1,9 +1,3 @@
-<thinking>
-We are about to create a help guide for the "Strategic Workforce Planning Program Registration" form.
-This form is used for registration and organization of sessions for a workforce planning program. 
-Before creating the help guide, let's ensure that we are not duplicating any existing resources or forms that have a similar purpose or function. The form's structure and fields suggest it is used for planning and management of sessions, but we should confirm that with the form's creator.
-</thinking>
-
 # Strategic Workforce Planning Program Registration - Help Guide
 ## Purpose
 The Strategic Workforce Planning Program Registration form is used to register and manage sessions for the workforce planning program. This form allows you to select and register attendees, provide their details and preferences, and manage the organization of sessions.

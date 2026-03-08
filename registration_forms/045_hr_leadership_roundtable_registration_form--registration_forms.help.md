@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for the HR Leadership Roundtable registration process. This form is intended for HR professionals to provide their details and preferences for the event. To ensure that your details are correctly registered, please complete all required fields.
-
-</thinking>
-
 # HR Leadership Roundtable Registration Form - Help Guide
 ## Purpose
 The HR Leadership Roundtable registration form is designed to collect information for the HR Leadership Roundtable event. Please fill out this form to provide your details and preferences for the event.

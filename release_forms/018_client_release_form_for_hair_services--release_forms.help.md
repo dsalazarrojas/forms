@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to provide information about their hair services, including contact details, service date, services received, and consent for treatment. The form will guide clients through a series of questions to ensure they have been informed of the risks and benefits associated with hair treatments and agree to release the salon and stylist from liability for any adverse reactions.
-</thinking>
-
 # Client Release Form For Hair Services - Help Guide
 ## Purpose
 This form is a client release form for hair services, used to gather information about clients' contact details, services received, and consent for treatment. It is intended to ensure clients are informed about the risks and benefits associated with hair treatments and to provide a clear release of liability for the salon and stylist.

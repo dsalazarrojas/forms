@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm the form's purpose and ensure it's not a duplicate, let's analyze the provided YAML fields. The form is titled "Interior Decorators Society Membership Form," which suggests it's for users who want to join an interior decorators society. The fields include personal details (full name, email, contact number, address, etc.), membership type (individual or organization), payment details, card information, and a confirmatory section for membership. The form appears to be for users to register or become members of the society, and the fields are designed to collect necessary information for the purpose.
-
-To confirm, the form is likely for new members or users who want to join the society, and the fields are a mix of personal and payment information, which suggests it's not for internal use within the society but rather for external users who want to become members.
-
-Let's proceed with the help guide.
-
-</thinking>
-
 # Interior Decorators Society Membership Form - Help Guide
 ## Purpose
 This form is for users who want to register as members of the Interior Decorators Society. It collects personal details, payment information, and confirmatory sections to process your membership application.

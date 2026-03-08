@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect registration information from artists or bands interested in performing at various events. The goal is to gather essential details about the artist/band, such as their name, type, primary contact information, musical genres, performance experience, and availability. This data will be used to facilitate the booking process for events. To avoid duplication, users can only register once for each unique artist/band.
-</thinking>
-
 # Artist Registration - Help Guide
 ## Purpose
 This form is used to collect registration information from artists or bands for events.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals attending a healthcare robotics demonstration. The purpose of this form is to gather data on attendees, their preferences, and any additional details required for the event. To ensure accuracy and consistency, it's essential to understand the purpose and requirements of each field. This form should not be filled out multiple times, and users should ensure that all required fields are completed.
-
-</thinking>
-
 # Healthcare Robotics Demonstration Registration Form - Help Guide
 ## Purpose
 This form is intended to collect information from attendees of a healthcare robotics demonstration event.

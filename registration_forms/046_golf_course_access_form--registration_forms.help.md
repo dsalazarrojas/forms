@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that only relevant individuals, who are not already registered, can access the golf course. This form is designed to collect information about the player, their tee time preferences, and payment details. To prevent duplication, we will check for existing registrations before processing the form data. This form will help us manage the flow of players to the golf course efficiently.
-</thinking>
-
 # golf course access form - Help Guide
 ## Purpose
 The golf course access form is used to collect information from players who want to access the golf course. This form helps us understand their preferences and ensures we manage the flow of players to the golf course efficiently.

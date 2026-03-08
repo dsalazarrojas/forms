@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Planning Event Registration - Help Guide
 ## Purpose
 This form is used for registering events related to urban planning, allowing users to input relevant information such as name, contact details, and registration status.

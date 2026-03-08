@@ -1,8 +1,3 @@
-<thinking>
-This form is used for vendors to fill out their information and waiver for an event. This form is part of the event registration process and is required for all vendors. 
-The purpose of this form is to collect the necessary information from vendors, including their name, contact information, company details, and waiver status. The form is designed to be completed by the vendor themselves, but may be reviewed and signed off by an administrator or other designated person.
-</thinking>
-
 # Event Vendor Waiver Form - Help Guide
 ## Purpose
 This form is used to collect information from event vendors, including their name, contact information, company details, and waiver status.

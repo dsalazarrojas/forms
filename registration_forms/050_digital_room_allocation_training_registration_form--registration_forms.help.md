@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants for digital room allocation training. The purpose of this form is to gather essential details about the participant, including their name, email, phone number, job title, company, department, and other relevant information. The form also requires participants to agree to terms and conditions. To ensure consistency and prevent duplication, the form is designed to collect unique participant data for each training session.
-</thinking>
-
 # Digital Room Allocation Training Registration Form - Help Guide
 ## Purpose
 The Digital Room Allocation Training Registration Form is a tool used to collect information from participants for digital room allocation training. This form helps trainers to gather essential details about each participant and ensure that they agree to the terms and conditions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register new employees for store orientation. This form will likely be used when a new employee joins a store location. To ensure that only one store location and one employee is registered per form, it is recommended to use one form per employee per store location.
-</thinking>
-
 # Store Employee Orientation Registration Form - Help Guide
 
 ## Purpose

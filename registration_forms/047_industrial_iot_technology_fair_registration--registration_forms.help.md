@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect basic information from potential attendees of the Industrial IoT Technology Fair. This information is necessary for the organizers to prepare for the event, including printing name tags and badges for the attendees. The form is likely to be used during the event registration process, where attendees would fill out the form to provide their details. There is no specific indication that the form is used for other purposes, such as internal reporting or analysis. However, it's possible that the information collected could be used for those purposes as well.</thinking>
-
 # Industrial IoT Technology Fair Registration - Help Guide
 ## Purpose
 The Industrial IoT Technology Fair Registration form collects basic information from potential attendees of the fair. It is used for preparing name tags and badges for attendees and may be used for other internal purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help end-users understand the purpose and process of filling out the Virtual Event Abstract Submission Form. It is essential to verify that users have read and understood the form's intent and the fields that need to be filled out. Please note that the form is designed to collect information from users for an event and will ask questions about the presentation, its presenters, and other relevant details.
-</thinking>
-
 # Virtual Event Abstract Submission Form - Help Guide
 ## Purpose
 The Virtual Event Abstract Submission Form is used to collect information from users about their event submission. Users will be asked about their presentation, its presenters, and other relevant details.

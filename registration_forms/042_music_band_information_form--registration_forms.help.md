@@ -1,13 +1,3 @@
-<thinking>
-The form appears to be designed for collecting information about music bands. The purpose of this form is likely to gather general information about the band, their social media presence, venue preferences, and contact information. However, it seems that the form has a large number of optional fields for additional contacts, which might be redundant. To improve the form, it could be simplified by reducing the number of optional fields or adding more context to help users understand the purpose of each field. For example, the "music_bands_additional_contacts" field seems to be a select_multiple field with options for Email, Phone, and Other, but there are 12 additional fields for specific contact information. This might be an opportunity to reduce duplication and make the form more user-friendly.
-
-The form appears to have a mix of text, select_multiple, and text fields. The "music_bands_social_media" field is a select_multiple field, which allows users to select multiple social media platforms. The "music_bands_venue_preferences" field seems to be a group of text fields, each with a label "venue_1", "venue_2", etc.
-
-To improve the form, it would be helpful to provide more context and instructions to help users understand what information is being collected and how it will be used. For example, the "primary_contact" field could include a hint that explains its purpose and what type of information is expected.
-
-The form could also benefit from a more logical organization of fields, such as grouping related fields together or reordering fields in a more logical way.
-</thinking>
-
 # music_bands_information_form - Help Guide
 ## Purpose
 The music_bands_information_form is designed to collect general information about music bands. This includes their name, social media presence, venue preferences, and contact information.

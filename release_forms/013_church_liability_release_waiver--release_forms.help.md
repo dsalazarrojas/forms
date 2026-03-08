@@ -1,19 +1,3 @@
-<thinking>
-The Church Liability Release Waiver form is used to gather information about participants in various church activities, events, and programs. This form aims to protect both the participant and the church by ensuring that all parties involved are aware of and agree to the terms and conditions of the activity, including potential risks and liabilities. 
-
-When filling out this form, it's essential to provide accurate and truthful information, especially if the participant is a minor. The form is a crucial document that helps the church to:
-
-- Verify participant identities and contact details
-- Identify potential health risks or medical conditions
-- Gather information about event or activity participation
-- Obtain consent for medical treatment in emergency situations
-- Secure release of liability agreement
-- Obtain permission for photo and video use
-
-Before you start, ensure that you have completed the form with all necessary information and that it is accurate and truthful. 
-
-</thinking>
-
 # Church Liability Release Waiver - Help Guide
 ## Purpose
 The Church Liability Release Waiver form is used to gather information about participants in various church activities, events, and programs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information from individuals who are interested in or have participated in the Crystal Meditation Experience. The purpose of the form is to collect demographic and medical information to ensure the individual's safety and well-being during their participation. The form may also be used to collect payment information for registration and other logistical purposes. To prevent duplication, the form may include checks to ensure that the individual is not already registered or that they have not already participated in the experience. This will help maintain accurate records and prevent confusion during the registration process.
-</thinking>
-
 # Crystal Meditation Experience Registration - Help Guide
 ## Purpose
 The Crystal Meditation Experience Registration form is used to collect demographic and medical information from individuals who are interested in or have participated in the Crystal Meditation Experience. This information is used to ensure the individual's safety and well-being during their participation.

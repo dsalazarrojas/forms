@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register participants for a weekend trip, collecting general participant information, details, preferences, and emergency contacts in a simple and easy-to-complete manner. There are 4 main fields to fill out: participant info, participant details, trip preferences, and emergency contact. Each field is optional, and users can submit their responses by clicking the "Submit" button.
-
-</thinking>
-
 # Weekend Trip Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for a weekend trip.

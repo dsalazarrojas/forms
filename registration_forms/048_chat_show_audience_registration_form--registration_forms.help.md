@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather information from attendees who wish to register for a chat show. The fields in this form will help the host and organizers plan and prepare for the show, ensuring a smooth and enjoyable experience for all attendees. This form will help gather essential details such as attendee's personal information, preferences, and attendance details. It's a required form for registration, and the fields should not be filled out unless the user is actually registering for the show.
-</thinking>
-
 # Chat Show Audience Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential attendees to help the chat show host and organizers prepare for the event.

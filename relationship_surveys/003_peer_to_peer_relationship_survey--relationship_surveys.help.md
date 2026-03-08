@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about peer-to-peer relationships, allowing users to self-report on their interactions with others. This data can be used to understand the nature and frequency of these relationships. The form is designed to be flexible, allowing users to provide various types of information, including their relationship type, frequency, comments, and ratings. To ensure data quality, it's essential to ensure that users understand what each field means and how to complete the form correctly.
-</thinking>
-
 # Peer To Peer Relationship Survey - Help Guide
 ## Purpose
 The Peer To Peer Relationship Survey is designed to collect self-reported information about interactions with others, helping to understand the nature and frequency of these relationships.

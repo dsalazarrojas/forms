@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect registration information from users who want to participate in the Access Bars workshop. The form has multiple fields, including participant details, workshop preferences, and payment options. The form is designed to ensure that the user has a clear understanding of their workshop preferences and can provide necessary contact information for the organizers. Please note that some fields have specific hints or labels that should be taken into consideration when filling out the form. For example, the "Date of birth" field is not required, but it may be needed for workshop certification or other purposes. Similarly, the "Mailing address" field is optional, but it may be necessary for certificate delivery if applicable.
-
-This form should only be filled out once, and it's not intended for repeat users. The form is designed to be completed by one person at a time. If you're unsure about any of the fields, please contact the workshop organizers for clarification.
-
-Before you start filling out the form, please make sure you have all the necessary information ready. You can fill out the form in multiple steps, but please save your progress and come back to it later if needed. 
-
-This form uses a variety of input types, including text, date, email, and select options. The "Experience level" and "Motivation" fields have specific options, so please choose the one that best fits your situation. 
-
-Please make sure to review the workshop policies, including the cancellation and refund policy, before submitting the form. If you have any questions or concerns, please don't hesitate to reach out to the workshop organizers.
-</thinking>
-
 # Access Bars Workshop Registration - Help Guide
 ## Purpose
 

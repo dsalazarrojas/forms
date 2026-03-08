@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses that wish to integrate their POS system with our platform. It is a trial registration form that will help us understand the business details, POS system information, and other relevant details required for integration. 
-
-The form will be used to collect information from businesses that have not yet integrated their POS system with our platform, so this form will serve as a starting point for further integration and onboarding processes. 
-
-Before proceeding, please ensure that this is the correct form for your business needs. If you have already integrated your POS system with our platform, please do not fill out this form. 
-
-Please note that the information collected through this form will only be used for integration and onboarding purposes and will not be shared with any third parties.
-</thinking>
-
 # Smart POS Integration Trial Registration - Help Guide
 ## Purpose
 This form is used to collect information from businesses that wish to integrate their POS system with our platform for trial purposes. It will help us understand the business details and POS system information required for integration and onboarding.

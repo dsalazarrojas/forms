@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for teams to request field access for upcoming games and practices. To complete this form, please follow the instructions below.
-
-</thinking>
 # Tournament Field Access Application Form - Help Guide
 ## Purpose
 This form is used to request field access for upcoming games and practices. It allows teams to provide necessary information to schedule field access.

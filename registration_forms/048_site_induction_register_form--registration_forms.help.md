@@ -1,7 +1,3 @@
-<thinking>
-This form is used for site induction, which means it's used to record information about new employees or site users. This form is likely to be used by HR or administrative personnel to collect necessary details from new site users before they start work on the site. To ensure accurate and complete data collection, please ensure this form is not duplicated or filled out by multiple users. Please review each field carefully and fill it out accurately to avoid any issues with data validation.
-</thinking>
-
 # Site Induction Register Form - Help Guide
 ## Purpose
 This form is used to collect information from new site users before they start work on the site.

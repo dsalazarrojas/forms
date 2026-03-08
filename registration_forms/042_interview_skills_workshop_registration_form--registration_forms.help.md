@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to allow users to register for an interview skills workshop. It is intended for individuals who are interested in improving their interview skills and would like to attend the workshop. The form should not be completed by users who have already registered for the workshop or who are not interested in attending. 
-
-This form will gather basic user information and preferences for the workshop. 
-
-The form consists of 5 pages with 5 fields:
-- Page 1: User Input (id: 1)
-- Page 2: Contact Information (id: 2)
-- Page 3: Workshop Selection (id: 3)
-- Page 4: Registration Information (id: 4)
-- Page 5: Additional Information (id: 5)
-</thinking>
-
 # Interview Skills Workshop Registration Form - Help Guide
 ## Purpose
 This form allows users to register for an interview skills workshop. The form is intended for individuals interested in improving their interview skills and willing to attend the workshop.

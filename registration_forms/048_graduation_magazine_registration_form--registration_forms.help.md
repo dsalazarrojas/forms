@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from students for graduation registration purposes. The form is intended for students who are graduating from their academic institution and need to provide details about their graduation. This includes personal information such as name, email, and phone number, as well as details about their graduation such as date of birth, university, and graduation date. The form also includes fields to capture additional graduation-related information, like graduation month and year, which might be useful for further processing and analysis. Note: the "photo" field seems to be intended for uploading or selecting a photo, possibly for identification purposes. Please ensure that the field is properly labeled to avoid confusion.
-</thinking>
-
 # graduation_magnitude_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from students for graduation registration purposes, including personal details and graduation-related information.

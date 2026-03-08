@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this form, we need to understand its purpose and the context in which it will be used. Based on the provided YAML fields, it appears that the "PPMT Print Competition Form" is designed for artists and creators to submit their work for a competition or exhibition. The form likely aims to collect information from participants, including their contact details, artwork details, and payment information.
-
-The form seems to be composed of various sections, including registration form, contact information (name, email, phone), artwork details (title, description, price, and upload), and payment information (payment gateway and submit button). The form also includes an "entry form" field, which could be a section for participants to provide additional details about their entry.
-
-To write a clear and concise help guide, we will explain each field in a way that makes sense to the end user.
-
-</thinking>
-
 # PPMT Print Competition Form - Help Guide
 ## Purpose
 The "PPMT Print Competition Form" is designed for artists and creators to submit their work for a competition or exhibition. This form gathers essential information about the participant, their artwork, and payment details to facilitate a smooth and organized process.

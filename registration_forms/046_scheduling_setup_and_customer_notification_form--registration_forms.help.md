@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for scheduling and notification purposes. The form aims to gather essential details about the customer and their scheduling preferences. It is an open-source form, released under CC BY 4.0, allowing users to freely use, modify, and even sell forms derived from it, provided credit is given.
-</thinking>
-
 # Scheduling Setup And Customer Notification Form - Help Guide
 ## Purpose
 This form is intended to collect customer information and scheduling details for appointment setup and notification purposes. It is an essential tool for businesses and organizations to gather necessary data from customers and send personalized notifications.

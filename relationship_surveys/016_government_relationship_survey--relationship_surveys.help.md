@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide help to end users in completing the Government Relationship Survey, a form designed to gauge the relationship between residents and government services. This guide will cover the purpose, steps, and explanations of each field in the survey.
-</thinking>
-
 # Government Relationship Survey - Help Guide
 ## Purpose
 The Government Relationship Survey aims to understand resident satisfaction with government services, the accessibility and transparency of these services, and areas where services can be improved. This survey will help identify areas of strength and weakness in government services and inform decision-making.

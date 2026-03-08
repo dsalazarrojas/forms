@@ -1,7 +1,3 @@
-<thinking>
-The "Group Registration Form" is a form designed for users to register groups and their members. This form is used to collect relevant information about the group and its members. The purpose of this form is to gather data for internal use within your organization or project. Please ensure that you are filling out the form for a valid reason and not duplicating an existing group or member. If you're unsure, check with your team or project administrator.
-</thinking>
-
 # Group Registration Form - Help Guide
 ## Purpose
 The "Group Registration Form" is a tool for users to provide information about a group and its members. This form helps in collecting and organizing data for internal use.

@@ -1,12 +1,3 @@
-<thinking>
-Before we dive into the help guide, let's briefly explain the purpose and requirements of this form.
- 
-This form is for internal training registration and intake. It's designed to capture information from users who are interested in or require internal training. The form is intended for employees who want to register for training sessions within the company. It's essential to fill out this form accurately and completely to ensure that your training request is processed correctly.
-
-To avoid duplication, please check if you've already registered for a training session. If you've submitted the form in the past, please use the same contact information for any subsequent registrations.
-
-</thinking>
-
 # Internal Training Registration Intake Form - Help Guide
 
 ## Purpose

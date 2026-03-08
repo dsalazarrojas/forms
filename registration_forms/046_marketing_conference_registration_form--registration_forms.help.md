@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees for a marketing conference. This form is used to gather event details, attendee's personal information (name, email, and phone number), and additional details such as their preferred date and time of attendance. The form also allows attendees to select their preferred registration options and include any additional notes. It is essential to fill out the form accurately to ensure a smooth and successful event experience.
-
-Before proceeding with the form, please note that:
-
-* This form is not intended for duplicate or test registrations.
-* Please ensure that the information you provide is accurate and up-to-date.
-* The form's fields are designed to be completed in the following order: 
-  1. Event Details
-  2. Personal Information
-  3. Additional Details
-
-Please ensure you have read this guidance carefully before proceeding to complete the form.
-
-</thinking>
-
 # marketing_conference_registration_form - Help Guide
 ## Purpose
 The marketing_conference_registration_form is used to collect information from attendees for a marketing conference. This form is used to gather event details, attendee's personal information, and additional details for a successful event experience.

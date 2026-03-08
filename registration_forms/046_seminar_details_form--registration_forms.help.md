@@ -1,11 +1,3 @@
-<thinking>
-This form is used to capture the details of a seminar, including its title, description, date, time, location, organiser's contact information, attendee's information, and additional notes. 
-The purpose of this form is to ensure that all necessary information is collected and recorded accurately and efficiently. 
-
-The following guide will walk you through how to complete the form.
-
-</thinking>
-
 # Seminar Details Form - Help Guide
 ## Purpose
 The Seminar Details Form is used to collect and record the details of a seminar, such as its title, description, date, time, location, and organiser's contact information. This form is typically used for internal purposes to ensure that all necessary information is collected and recorded accurately and efficiently.

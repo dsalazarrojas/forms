@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting stage setup information from users. It is intended for stages that are part of an event. The form fields are designed to gather details about the stage's layout, equipment, and timing. This form should only be filled out by users who are setting up stages for events. Please ensure you are filling out this form correctly to avoid any confusion or duplication of effort.
-</thinking>
-
 # stage_setup_intake_form - Help Guide
 ## Purpose
 This form is used to collect stage setup information from users.

@@ -1,11 +1,3 @@
-<thinking>
-
-Before creating this form, it's essential to understand the purpose and context. This form is designed to gather information about patients who have received the Covid-19 vaccine. It's intended to be used by healthcare providers to document the patient's vaccination status, medical history, and other relevant information. The form should only be used for patients who have already received the vaccine, and it's crucial to ensure that each patient has a unique medical record number.
-
-The form is composed of several sections, each designed to capture specific information. Please review each section carefully to ensure you're providing accurate and complete data.
-
-</thinking>
-
 # Covid 19 Questionnaire And Release Form - Help Guide
 ## Purpose
 The form is designed to gather information about patients who have received the Covid-19 vaccine. Please only complete this form for patients who have already been vaccinated.

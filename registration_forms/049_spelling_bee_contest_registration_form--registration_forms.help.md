@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from participants and schools for the Spelling Bee Contest. This information will be used to register and prepare for the contest. The form is designed to collect contact information for both the participant and their school, as well as details about the participant's experience and abilities. 
-
-The form will be used to create a participant profile, which will be used for event management and communication. 
-
-This form is intended for schools to register their students for the Spelling Bee Contest. 
-
-</thinking>
-
 # Spelling Bee Contest Registration Form - Help Guide
 
 ## Purpose

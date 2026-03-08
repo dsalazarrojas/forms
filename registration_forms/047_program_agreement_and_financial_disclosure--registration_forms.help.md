@@ -1,7 +1,3 @@
-<thinking>
-This form is used for program participants to agree to the terms and conditions of a program, disclose their financial information, and provide their contact details. The form is a required step for participants to confirm their agreement and participation in the program. To avoid duplication, please note that this form is not meant to be filled out multiple times. It is a one-time requirement for each participant.
-</thinking>
-
 # Program Agreement And Financial Disclosure - Help Guide
 ## Purpose
 The "Program Agreement And Financial Disclosure" form is a mandatory document that requires participants to agree to the terms and conditions of a program and disclose their financial information. This form is used to ensure that participants understand and accept the program's rules and regulations.

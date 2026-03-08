@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ferpa Release Form - Help Guide
 ## Purpose
 The Ferpa Release Form is a form used to collect information for a release or discharge from a service. This form is typically used for administrative purposes, such as releasing a user's account or service.

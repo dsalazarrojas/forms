@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from both the buyer and seller for a pre-contract home purchase. The form is used to collect data that will be used for the contract creation process. 
-
-Before filling out this form, ensure that you have gathered all necessary information and documents required for the contract, including property details, buyer and seller contact information, and loan terms. If you are unsure about any of the information, it's best to consult the relevant parties or seek guidance from the contract creation team.
-
-</thinking>
-
 # Pre Contract Home Purchase Form - Help Guide
 
 ## Purpose

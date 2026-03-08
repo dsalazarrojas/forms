@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register a portrait photo shoot event. The purpose of this form is to collect information from photographers about their upcoming portrait photo shoots, including date, location, and contact details. This form helps event organizers and clients manage photo shoot events efficiently.
-The form should only be completed if you are a photographer or a photographer's assistant. If you've already registered for this shoot, please do not re-register.
-</thinking>
-
 # Portrait Photo Shoot Registration - Help Guide
 ## Purpose
 This form is used to register a portrait photo shoot event. The form collects information from photographers about their upcoming photo shoots, including date, location, and contact details. This helps event organizers and clients manage photo shoot events efficiently.

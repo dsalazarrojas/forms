@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information from conference participants about their declaration, contact details, conference information, and participation type. It is a required form for all attendees to confirm their participation and provide accurate information about their involvement in the conference. The form is split into several sections, each covering a different aspect of the participant's information. By filling out this form, participants confirm their attendance, participation type, and agreement to the conference's code of conduct and data processing policies.
-
-</thinking>
-
 # Conference Participation Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about your conference participation, including your contact details, conference information, and participation type.

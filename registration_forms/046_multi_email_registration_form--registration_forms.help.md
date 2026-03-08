@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users. It's intended for users to provide multiple email addresses, event details, and other relevant information to register for an event or training. The form will be used to track user registrations and assign them to specific teams, training sessions, and follow-up activities. Please ensure that you fill out the form completely and accurately to ensure that your registration is processed correctly.
-</thinking>
-
 # Multi Email Registration Form - Help Guide
 ## Purpose
 This form is for registering multiple email addresses for an event or training. It's used to collect contact information, event details, and other relevant data.

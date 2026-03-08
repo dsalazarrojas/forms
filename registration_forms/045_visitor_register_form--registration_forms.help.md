@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect visitor information for a business or organization, likely for security or customer service purposes. The form is likely used by visitors, customers, or clients to register their presence, providing contact details and the reason for their visit. The purpose of this form is to gather essential data that can be used for future reference, follow-up, or other related activities. To ensure the accuracy and effectiveness of this form, it's essential to review and possibly duplicate this guide to guarantee that the form is used as intended and not misused or misinterpreted.
-</thinking>
-
 # Visitor Register Form - Help Guide
 ## Purpose
 The Visitor Register Form is a tool designed to collect vital information from visitors, allowing businesses or organizations to better understand who is entering their premises, their purpose of visit, and other relevant details. This form will help maintain a record of visitors, which can aid in providing excellent customer service, improving security, or facilitating communication.

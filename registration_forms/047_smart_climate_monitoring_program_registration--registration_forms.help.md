@@ -1,7 +1,3 @@
-<thinking>
-We're checking the form's purpose and ensuring it's not duplicated. This form is for registering a new Smart Climate Monitoring Program. It's a straightforward registration process with minimal required fields, allowing users to provide information about the program's objectives, locations, and equipment preferences. We'll make sure to explain each field clearly, so users know what to expect.
-</thinking>
-
 # Smart Climate Monitoring Program Registration - Help Guide
 ## Purpose
 This form is used to register new Smart Climate Monitoring Programs. It allows users to provide essential information about their program, including objectives, locations, and equipment preferences.

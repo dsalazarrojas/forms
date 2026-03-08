@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to obtain the necessary consent and information for recording test lighting performance. This form likely aims to ensure that participants are aware of and agree to the test conditions and procedures... (this form appears to be a straightforward, generic form for testing, which could be part of a larger process in various fields like theater or entertainment, or possibly in other industries like product development or marketing). The form likely doesn't require deep technical expertise to complete. However, it's good to provide clear instructions for non-experts to fill it out correctly, especially if they're not tech-savvy... (the form's design appears to be simple, but the field labels might need some explanation for non-experts to understand their purpose). The form is probably part of a larger testing or evaluation process, where accurate and clear information is crucial... (given the form's fields are mostly self-explanatory, but a clear explanation will make it even more accessible)...</thinking>
-
 # Performance Lighting Test Recording Consent Form - Help Guide
 
 ## Purpose

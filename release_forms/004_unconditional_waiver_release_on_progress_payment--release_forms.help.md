@@ -1,11 +1,3 @@
-<thinking>
-
-The Unconditional Waiver & Release On Progress Payment form is used to protect a contractor's interest in advance payment in construction work. This form is designed to safeguard you and your employees or agents from potential lawsuits or liability in the event of an injury or accident on a job site. It's essential to complete this form accurately to ensure you're adequately protected.
-
-Before filling out this form, please check if you've already completed a similar form for the same project or client. This will help prevent duplication of effort and ensure you're not inadvertently waiving or releasing unnecessary rights.
-
-</thinking>
-
 # Unconditional Waiver & Release On Progress Payment - Help Guide
 ## Purpose
 The Unconditional Waiver & Release On Progress Payment form is used to protect a contractor's interest in advance payment in construction work. This form is designed to safeguard you and your employees or agents from potential lawsuits or liability in the event of an injury or accident on a job site.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration data for recreational running events. It's meant to gather essential information from participants, including their personal details, emergency contacts, and event preferences. This form ensures that all required fields are filled out to ensure accurate and complete registration. This form has been designed with the following fields: first name, last name, email, phone number, birth date, grade level, school, event date, T-shirt size, notes, volunteer status, volunteer role, volunteer hours, volunteer notes, emergency name, emergency phone, emergency email, guardian name, guardian phone, guardian email, parent permission, event type, event time, volunteer tips, and additional info.
-</thinking>
-
 # Recreational Running Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants in recreational running events.

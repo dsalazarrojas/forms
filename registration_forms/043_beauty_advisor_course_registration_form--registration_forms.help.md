@@ -1,5 +1,3 @@
-<thinking>...This form is intended for students to register for a course in beauty advising. The form should only be completed by students who are interested in registering for the course. The form is not intended for general contact or other purposes...</thinking>
-
 # Beauty Advisor Course Registration Form - Help Guide
 ## Purpose
 This form is intended for students to register for a course in beauty advising. It collects relevant information required for the registration process, including personal details, course selection, and payment preferences.

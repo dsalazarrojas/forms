@@ -1,7 +1,3 @@
-<thinking>
-This form is used to release a child's appearance in a show or event. This form is intended to be completed by the parent or legal guardian of the child. The form is used to capture information about the child, event, and any special needs or accommodations required. Please ensure that the information is accurate and complete before submitting the form. The form should not be used for other purposes.
-</thinking>
-
 # Children Show Appearance Release Form - Help Guide
 ## Purpose
 The Children Show Appearance Release Form is a document that allows you to release a child's appearance in a show or event. This form is used to ensure that the necessary information is collected and that the parent or legal guardian has given their consent for the child's participation.

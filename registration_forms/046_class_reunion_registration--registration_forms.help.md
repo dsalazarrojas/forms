@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm thinking...</thinking>
-
 # Class Reunion Registration - Help Guide
 
 ## Purpose

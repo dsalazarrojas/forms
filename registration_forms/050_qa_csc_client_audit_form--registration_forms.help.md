@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I'm creating a help guide for the QA_CSC_Client_Audit_Form. This form is intended to collect client information, details, and audit data. It's crucial to understand its purpose, so let's break it down:
-
-This form is designed to gather and record vital information about a client. It's meant to be used for auditing purposes, ensuring that all necessary details are up-to-date and accurate. The form is divided into two pages: the main page and a second page where most of the fields are located. The fields are straightforward and self-explanatory, but I'll go over each one in detail below to provide clarity and help you fill out the form smoothly. Before proceeding, ensure that the information you provide is accurate and true to the best of your knowledge, as this form is for auditing purposes only.</thinking>
-
 # QA_CSC_Client_Audit_Form - Help Guide
 
 ## Purpose

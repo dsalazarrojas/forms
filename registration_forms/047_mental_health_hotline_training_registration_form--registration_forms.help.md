@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_hotline_training_registration_form - Help Guide
 ## Purpose
 This form is designed to register participants for training sessions provided by the Hotline, a mental health service. The purpose of this form is to gather essential information from participants, including their details, training preferences, contact information, and other relevant data. Please note that all fields are optional, and you can choose to provide only the required information.

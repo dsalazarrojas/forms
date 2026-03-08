@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a podcast, including details about the guest, the podcast's title, date, and release status. This form will be used to update the release status and release date of a podcast. Before filling out this form, please ensure that you have all the necessary information about the podcast at hand, including the guest's details and the podcast's metadata. Please fill out this form only once for each podcast release.
-</thinking>
-
 # Sample Podcast Release Form - Help Guide
 ## Purpose
 This form is used to update the release status and release date of a podcast.

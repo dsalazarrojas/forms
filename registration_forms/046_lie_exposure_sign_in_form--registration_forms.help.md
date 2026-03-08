@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in a lie exposure event. It is essential to ensure that the participant's information is accurate and complete for proper documentation and follow-up. To check for relevance and non-duplication, we will review the event name, date, and participant's details to verify that the participant is not already registered for the same event.
-</thinking>
-
 # Lie Exposure Sign In Form - Help Guide
 ## Purpose
 The "Lie Exposure Sign In Form" is a critical tool for collecting participant information for a specific event. This form is designed to gather essential details about the participant, including their name, email, phone number, country, state, city, and a brief note if required. Accurate and thorough responses are necessary to ensure that the participant's data is properly recorded and processed.

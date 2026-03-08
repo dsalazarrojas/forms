@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential attendees who wish to register for the Makeup Artist Conference. This form will help us understand which sessions they are interested in attending, if they have any special needs we should be aware of, and how we can contact them for further information. This information will be used to tailor the conference experience accordingly and ensure that all attendees have a great time.
-</thinking>
-
 # Makeup Artist Conference Registration - Help Guide
 ## Purpose
 The Makeup Artist Conference Registration form is a tool used to gather information from potential attendees who want to register for the conference. This form is essential in helping us understand your preferences and needs, which will allow us to provide you with the best possible experience during the event.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information for a Talent Retention Strategy Session. This form is intended to be filled out by participants to provide details about their session. Ensure that each field is filled out correctly to ensure accurate data collection. Note that some fields are optional and only required if applicable. Also, ensure that you are not registering the same session multiple times.</thinking>
-
 # Talent Retention Strategy Session Registration Form - Help Guide
 ## Purpose
 The Talent Retention Strategy Session Registration Form is designed to collect information for a Talent Retention Strategy Session. This form is intended to be filled out by participants to provide details about their session. 

@@ -1,7 +1,3 @@
-<thinking>
-The form is for digital marketing certification enrollment. Before enrolling, check if you have already registered. The enrollment process involves providing personal and professional information to be eligible for the program. Ensure you have all required details before completing this form.
-</thinking>
-
 # Digital Marketing Certification Enrollment Form - Help Guide
 ## Purpose
 The Digital Marketing Certification Enrollment Form is designed to collect personal and professional details from individuals interested in obtaining a digital marketing certification. The information collected will be used for program enrollment purposes.

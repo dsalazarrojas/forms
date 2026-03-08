@@ -1,10 +1,3 @@
-<thinking>
-This form is a Soccer Camp Registration Form designed to collect information from users registering for a soccer camp. The form has 8 fields: Registration Details, Personal Info, Address, Schedule, Payment, Coach Info, Emergency Contact, and Terms and Conditions.
-
-Before proceeding, please confirm that you are registering for a soccer camp and understand that this form is a public adaptation of a survey created using AI. If you're looking to create a similar form for another purpose, you may modify and adapt this form, giving credit to the original source.
-
-</thinking>
-
 # Soccer Camp Registration Form - Help Guide
 ## Purpose
 The Soccer Camp Registration Form is designed to collect information from users registering for a soccer camp. It's essential to fill out this form accurately and carefully to ensure a smooth registration process.

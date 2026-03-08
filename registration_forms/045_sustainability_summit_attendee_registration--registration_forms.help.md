@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Form Purpose:**
 This form is designed to collect information from attendees to the Sustainability Summit, including their activity interests, dietary needs, and policy consent. The form aims to ensure that attendees' preferences are registered accurately, enabling the event organizers to provide a comfortable and inclusive experience.
 

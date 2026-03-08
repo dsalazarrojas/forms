@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in the Ball Person Academy, likely a sports academy focused on tennis training and education. The form is designed to gather personal and professional details from applicants, including their contact information, tennis experience, and availability for events. The form also includes sections for the applicant's experience and background, sports interests, and skills and certifications. 
-
-It is crucial to ensure that each field is filled out accurately and thoroughly to provide the most complete and accurate information possible. This form should not be used for any other purpose than registration for the Ball Person Academy. 
-
-Before proceeding, please review the form and make sure you are filling it out for the correct purpose. If you have filled out this form previously, please ensure that you are not duplicating your submission. Duplicate submissions may cause confusion and delay in your application process. 
-
-</thinking>
-
 # Ball Person Academy Registration Form - Help Guide
 ## Purpose
 

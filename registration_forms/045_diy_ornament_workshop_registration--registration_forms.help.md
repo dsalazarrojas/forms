@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who wish to register for a DIY Ornament Workshop. The form will gather workshop details, contact information, payment details, and shipping information from users. This form is intended for people who want to sign up for the workshop and provide the necessary details for the organizers to proceed with the event.
-</thinking>
-
 # DIY Ornament Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants who wish to register for a DIY Ornament Workshop. It will be used by the workshop organizers to gather necessary details for the event.

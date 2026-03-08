@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed to allow users to request the release of academic records from the system. The form will prompt the user to select a category for the records release, provide a description of the request, select an assigned tool for the records release, and optionally provide a form ID and output file name. The category selection will guide the system to process the request appropriately. The form will be used to ensure that the user's request is correctly categorized and processed by the relevant team. This form will help to prevent duplication of effort and ensure that the user's request is handled efficiently... </thinking>
-
 # Release Of Academic Records Form - Help Guide
 
 ## Purpose

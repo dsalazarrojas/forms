@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Release Information Collection Form" is designed to collect information about individuals who have passed away. This form is intended to be used for the sole purpose of gathering data for the release process. Please do not use this form for any other purpose. If you're not sure if you should use this form, please check with the internal team before proceeding.
 
 # Release Information Collection Form - Help Guide

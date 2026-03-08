@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_registration_form_with_sofort_payment_method - Help Guide
 
 ## Purpose

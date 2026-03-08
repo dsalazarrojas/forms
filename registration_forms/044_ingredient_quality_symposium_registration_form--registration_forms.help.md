@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Ingredient Quality Symposium. The main goal of this form is to gather attendee details and symposium-related information. The form should only be used for symposium registration and should not be used for any other purpose. This form should only be filled out by the person registering for the symposium, not by someone else on their behalf.
-
-Form fields will ask for basic contact information, symposium-related data, and payment status. Symposia can be registered online or on-site, and can be virtual or offline. The symposium location and type will also be collected. Attendees can be registered individually or in groups, and their details will be collected separately.
-
-Each field in this form is designed to collect specific information. Some fields are required, while others are not. Required fields are marked as such and must be filled out in order to complete the form. Please make sure to fill out all required fields accurately and thoroughly.
-</thinking>
-
 # Ingredient Quality Symposium Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information for the Ingredient Quality Symposium. It is designed to gather essential details about the attendee and symposium-related information.

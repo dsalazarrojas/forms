@@ -1,14 +1,3 @@
-<thinking>
-This form is used for releasing a film location. The form is used to gather information about the production company, address, city, state, zip, date of production, release date, cast, crew, equipment, special equipment, notes, email, phone number, and signature of the film location. This form is likely used in a creative industry such as film or television production. The fields in this form are mostly self-explanatory, but some fields require further clarification.
-
-The form is designed to be filled out by a representative of the production company, and the purpose of this form is to ensure that all necessary information is gathered and accurate for the release of the film location. This form is not for public access, it's an internal form used by the company's staff.
-
-This form does not duplicate any other forms in our system, and it is used for a specific scenario, which is the release of a film location.
-
-Please note that the fields "Cast" and "Crew" are select_multiple fields which means they allow multiple selections. Similarly, "Equipment" and "Special Equipment" are also select_multiple fields.
-
-</thinking>
-
 # film_location_release_form - Help Guide
 ## Purpose
 The "film_location_release_form" is used to gather information for the release of a film location. This form is used by production companies to provide accurate and relevant information for the release process.

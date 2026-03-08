@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from students interested in joining the Student Club. The goal is to collect basic contact information and demographic data from the applicants. 
-
-To ensure accuracy, please review the fields carefully and fill them out accordingly.
-
-Please note that this form does not store sensitive or personal identifiable data, so no further validation or checks are required. However, ensure that the email and phone numbers are correct to facilitate communication.
-
-</thinking>
-
 # Student Club Member Application Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,4 @@
-<thinking>...</thinking>
-  
-  This form is intended for users to record machine performance benchmarks. It is required for all submissions. The form should not be used to record benchmarks for machines that do not exist in the database. The form will check for non-duplication by the machine identifier.
+This form is intended for users to record machine performance benchmarks. It is required for all submissions. The form should not be used to record benchmarks for machines that do not exist in the database. The form will check for non-duplication by the machine identifier.
   
   # Machine Performance Benchmark Registration - Help Guide
 ## Purpose

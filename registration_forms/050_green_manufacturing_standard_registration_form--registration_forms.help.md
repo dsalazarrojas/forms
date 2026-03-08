@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will provide a clear and concise explanation of the Green Manufacturing Standard Registration Form. It's essential to ensure that users understand the form's purpose, the step-by-step process, and each field's meaning to accurately complete it. The form is used to register facilities and organizations that follow the Green Manufacturing Standard (GMS), which is a set of guidelines and standards for sustainable and environmentally-friendly practices. The GMS helps organizations reduce their environmental impact and improve their social and economic performance. To avoid duplication, this form should only be used for facilities that have not previously registered under the GMS.
-
-</thinking>
-
 # Green Manufacturing Standard Registration Form - Help Guide
 ## Purpose
 The Green Manufacturing Standard Registration Form is used to register facilities that adhere to the Green Manufacturing Standard (GMS), a set of guidelines and standards for sustainable and environmentally-friendly practices. This form ensures that the organization's practices meet the necessary requirements for registration and certification.

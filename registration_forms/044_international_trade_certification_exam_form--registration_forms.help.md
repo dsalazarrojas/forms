@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for an International Trade Certification Exam. The purpose of this form is to gather information from users who wish to take the exam. This form will be used to verify user registration and ensure that users understand the terms and conditions of the exam. To prevent duplication, we will be checking for existing registrations.
-</thinking>
-
 # International Trade Certification Exam Form - Help Guide
 ## Purpose
 The International Trade Certification Exam Form is a form used to register for the International Trade Certification Exam. This form is used to gather information from users who wish to take the exam and ensure that users understand the terms and conditions of the exam.

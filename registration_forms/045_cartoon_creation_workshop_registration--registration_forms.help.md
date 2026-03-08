@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Cartoon Creation Workshop Registration" form. This guide will cover the form's purpose, how to complete it, and a detailed field-by-field explanation of each section and field. Before diving into the guide, I'll briefly explain the form's purpose and ensure it's relevant and non-duplicate.</thinking>
-
 # Cartoon Creation Workshop Registration - Help Guide
 ## Purpose
 The "Cartoon Creation Workshop Registration" form is designed to gather information from participants to register for a cartoon creation workshop. It collects personal details, workshop preferences, and medical/consent information for participant safety and workshop organization.

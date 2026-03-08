@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to take a language course at a cultural center. The purpose of this form is to gather essential data for administrative and organizational tasks, such as confirming course enrollment status, tracking participant demographics, and ensuring accurate contact and identification information. The form will not ask for any sensitive or confidential data. It's assumed that the cultural center already has a clear policy regarding data retention and protection. This guide will walk the user through the form step by step, ensuring that everyone understands what is required and how to provide the correct information.
-</thinking>
-
 # Cultural Center Language Admission Form - Help Guide
 ## Purpose
 The Cultural Center Language Admission Form is used to collect essential information from individuals who wish to take a language course at the cultural center. This form is required for course enrollment and administrative purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kissing Experience Survey - Help Guide
 
 ## Purpose

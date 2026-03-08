@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teams registering for the 2021 PBE ( probably a sports or gaming competition) registration process. It is intended for team captains to provide their team's details, including team name, division, and contact information. The form also captures emergency contact information, team profile, and special requirements. It's essential to fill out this form accurately to ensure proper communication and event organization.
-</thinking>
-
 # 2021 PBE Registration - Help Guide
 ## Purpose
 This form is for teams registering for the 2021 PBE registration process. It helps us get your team's details right, ensure proper communication, and organize the event successfully.

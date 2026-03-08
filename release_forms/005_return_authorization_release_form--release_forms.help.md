@@ -1,11 +1,3 @@
-<thinking>
-This form is used for customers to initiate a return or exchange of a product after purchase. The form is meant to provide detailed information about the return process, including the product's return date, reason for return, and any other relevant details that are required for the return process.
-
-The form will guide the customer through a series of pages, collecting necessary information about their return, including their contact information, order details, and product information. This will help the customer service team to process the return request efficiently and effectively.
-
-The form will not be used if the customer has already initiated a return or exchange or if the return is past the return window. It's essential to ensure the customer understands the return process and is aware of the implications of initiating a return request.
-</thinking>
-
 # Return Authorization Release Form - Help Guide
 
 ## Purpose

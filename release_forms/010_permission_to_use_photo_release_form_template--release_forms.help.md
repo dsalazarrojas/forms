@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # permission_to_use_photo_release_form_template - Help Guide
 ## Purpose
 The "Permission to Use Photo Release Form" is a template used to obtain permission from individuals or entities to use their photos. This form helps ensure that you have the necessary rights and permissions to use someone's photo, and it serves as a formal agreement between you and the photo owner. It is often used in situations where photos are being taken, published, or shared, and requires the photo owner's consent to use their image.

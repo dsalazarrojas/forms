@@ -1,8 +1,3 @@
-<thinking>
-Is this form for registering children to participate in a soccer camp? If so, are there any specific requirements or rules for participation, such as age or skill level restrictions? Are there any other forms that the user should be aware of, such as medical clearance forms or insurance forms? Are there any specific rules or procedures for emergency contact information or consent to participate? 
-Is this form to be used for registration of new participants or for existing participants to renew or update their information? Are there any specific instructions or guidelines for users to follow when completing the form?
-</thinking>
-
 # soccer_camp_waiver_form - Help Guide
 ## Purpose
 This form is for registration and waiver purposes for children participating in a soccer camp.

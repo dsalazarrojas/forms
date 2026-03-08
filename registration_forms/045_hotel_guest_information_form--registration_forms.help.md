@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Guest Information Form - Help Guide
 ## Purpose
 The Hotel Guest Information Form is a simple form designed to collect basic information from hotel guests. It is intended for guests to provide their personal details for hotel services or to be used for internal reference. 

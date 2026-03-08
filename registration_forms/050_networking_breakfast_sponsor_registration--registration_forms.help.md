@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for registering a sponsor for the Networking Breakfast event. Sponsors can choose a sponsorship package and fill in their details to be included in the event. The form is not required, meaning you can fill it out even if you're not a sponsor.
 
 # Networking Breakfast Sponsor Registration - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Luxury Auto Test Drive Reservation Form". The purpose of this form is to gather information from potential customers about their interest in scheduling a test drive for a luxury vehicle. The form is divided into several pages, each with its own set of fields that the user must complete. Before proceeding, please ensure that you have reviewed the relevant sections carefully and that your input is accurate to ensure a smooth test drive experience.
-
-This form is primarily designed for user input, and users can choose the test drive date and time they are interested in from a list of options. Please note that users may choose multiple vehicle options if desired.
-</thinking>
-
 # Luxury Auto Test Drive Reservation Form - Help Guide
 
 ## Purpose

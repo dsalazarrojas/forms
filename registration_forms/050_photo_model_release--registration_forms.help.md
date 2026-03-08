@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for capturing photo model release information for use in photography and media productions. The goal is to gather necessary details from models or individuals appearing in photos, such as their name, contact information, and release dates. This information will be used to verify model consent and ensure compliance with applicable laws and regulations. Please note that some fields may be unnecessary for certain production types or jurisdictions, but they are included here as a general template.
-
-</thinking>
-
 # Photo Model Release - Help Guide
 ## Purpose
 The Photo Model Release form is designed to collect necessary information from models or individuals appearing in photos used in productions. This form helps verify model consent and ensures compliance with applicable laws and regulations.

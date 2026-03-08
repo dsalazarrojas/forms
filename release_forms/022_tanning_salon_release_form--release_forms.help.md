@@ -1,7 +1,3 @@
-<thinking>
-To prevent potential confusion, the form is designed to be a template with several sections for different types of information. This form is used for liability releases, client communication, and other general purposes. It is recommended to only fill out one section at a time, to avoid overwriting other information already filled out. Please ensure that you have filled out the required fields for each section before moving on.
-</thinking>
-
 # Tanning Salon Release Form - Help Guide
 ## Purpose
 The Tanning Salon Release Form is a template used for various purposes, including liability releases, client communication, and other general uses. It is designed to be filled out in sections, ensuring that each part is completed before moving on to the next.

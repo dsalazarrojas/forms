@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended for users who are unfamiliar with the Nutrition Innovation Seminar Registration Form. The form is designed to collect information from potential participants of the Nutrition Innovation Seminar, and it's essential to complete it correctly to ensure accurate registration. To avoid duplication, we recommend checking the seminar website or contacting the event organizers for the most up-to-date information.
-
-This guide will walk you through the fields and instructions on how to complete the form correctly. Please note that some fields are optional, and it's essential to fill them in only if required or applicable.
-
-</thinking>
-
 # Nutrition Innovation Seminar Registration Form - Help Guide
 
 ## Purpose

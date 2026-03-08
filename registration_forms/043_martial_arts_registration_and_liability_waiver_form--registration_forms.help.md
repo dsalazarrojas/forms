@@ -1,25 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Martial Arts Registration And Liability Waiver Form", I'll first provide a brief internal reasoning block that explains the form purpose and checks for relevance and non-duplication.
-
-The purpose of this form is to collect information from students and their emergency contacts to ensure that the martial arts school has up-to-date contact details and informed consent for administrative and marketing purposes. This form also aims to gather a waiver agreement from students' guardians, which is a standard legal requirement for many organizations, especially martial arts schools, to release liability in case of accidents or injuries during classes.
-
-The form is designed to collect the following information:
-
-*   Student info: This includes general information about the student, such as their name and contact details.
-*   Contact details: This section asks for the contact information of the person responsible for the student's care, such as their name and contact number.
-*   Emergency contact: This section gathers information about the person responsible for the student's emergency contact, including their name, relationship, and contact details.
-*   Student guardian info: This section is for the student's guardian, asking for their contact information and relationship with the student.
-*   Emergency contact relationship: This is a brief description of the relationship between the emergency contact and the student.
-*   Waiver: This is a select multiple field where the guardian can choose whether they give permission for the martial arts school to use their child's name and contact information for administrative and marketing purposes.
-*   Waiver agreement: This is a text field where the guardian can describe their understanding of the waiver agreement.
-*   E Signature: This section is for the electronic signature of the guardian, indicating that they have agreed to the terms of the waiver.
-*   E Signature date: This is the date of the electronic signature.
-*   E Signature title: This is the title of the person signing the waiver.
-
-Before proceeding, please ensure that this form is not already covered by other documentation or processes within the organization, and that its purpose is not already served by other forms or policies. If so, please adjust the form accordingly.
-
-After reviewing the form's purpose and structure, it appears that this form is a necessary step for collecting information and consent from students and their guardians. Please ensure that the form is completed accurately and thoroughly to avoid any potential issues or misunderstandings.</thinking>
-
 # Martial Arts Registration And Liability Waiver Form - Help Guide
 
 ## Purpose

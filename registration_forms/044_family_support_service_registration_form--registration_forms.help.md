@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who are seeking support services for their family. The form is meant to be completed by the individual or their representative, and it will be used to determine the type of support they require. This form will not be used for any other purpose than to provide support services to the individual and their family. It is recommended that the form be completed in its entirety to ensure that all necessary information is collected.
-
-This form is intended to be used by individuals who are seeking support services for their families. It is not intended for general public use and should not be shared or used for any other purpose than to gather information for support services.
-
-Please ensure that the form is completed accurately and truthfully, as the information collected will be used to provide appropriate support services.
-
-Before proceeding, please review the form carefully to ensure you understand what is required and what information is collected.
-
-</thinking>
-
 # Family Support Service Registration Form - Help Guide
 ## Purpose
 The Family Support Service Registration Form is designed to gather information from individuals who are seeking support services for their families. Please review the form carefully and ensure you understand what information is required.

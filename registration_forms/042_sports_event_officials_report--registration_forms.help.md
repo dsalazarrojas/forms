@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data for sports event officials. The purpose of this form is to gather information on the officials present at a sports event, such as their names, positions, and any notable observations or decisions made during the event. The form is meant to be completed by the event officials themselves, and the data collected will be used to improve future event management and official coordination. To ensure accurate and comprehensive data collection, please review each field carefully and fill out the form accordingly.
-
-</thinking>
-
 # sports_event_officials_report - Help Guide
 ## Purpose
 The sports_event_officials_report form is used to gather information on sports event officials for better event management and official coordination.

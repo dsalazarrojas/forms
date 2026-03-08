@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for athletes to register their attendance and participation in training sessions. It captures essential information about the athlete, their status, and the training session details. This form will help coaches and trainers track attendance, monitor athlete progress, and ensure accurate records. Ensure you complete this form accurately and truthfully for your own recordkeeping and for the benefit of the team.
-</thinking>
-
 # Athletics Training Attendance Form - Help Guide
 ## Purpose
 This form is designed to track athlete attendance and participation in training sessions, providing a record of their presence, status, and session details.

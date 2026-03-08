@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from participants attending a corporate retreat. The purpose of this form is to ensure that participants understand and acknowledge the risks associated with the retreat, as well as provide necessary medical and emergency contact information. This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit. Contact: form@gic.mx</thinking>
-
 # Corporate Retreat Waiver Form - Help Guide
 ## Purpose
 

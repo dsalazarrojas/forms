@@ -1,7 +1,3 @@
-<thinking>
-This form is a Roleplay Session Registration form, used for users to register their interest in participating in a roleplay session. The form is designed to collect information about the participant's session preferences and requirements. It's crucial that users read this guide to ensure they understand the form's purpose and complete it accurately, as incorrect or incomplete submissions may lead to misunderstandings or missed opportunities. Please ensure you only fill out this form once for each roleplay session you're interested in.
-</thinking>
-
 # Roleplay Session Registration - Help Guide
 ## Purpose
 The Roleplay Session Registration form is a tool for users to express their interest in participating in a roleplay session. It helps us understand your preferences and requirements for the session, making it easier for us to tailor the experience to your needs.

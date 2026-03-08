@@ -1,20 +1,3 @@
-<thinking>...The purpose of this form is to gather information from individuals who need to release media related to Los Angeles Unified School District (LAUSD). The form likely aims to collect personal details to ensure that the media release process is completed correctly and efficiently. It's essential to review the form's purpose internally to prevent duplication or misplacement of similar forms.
-
-The form "lausd-media-release-form-english" appears to be a generic form, not affiliated with any specific form platform, and its development was guided by public metadata. It's designed to be adaptable, reusable, and distributable, with a CC BY 4.0 license. This form is for general information purposes only and not intended for official LAUSD communications.
-
-This form consists of six fields:
-
-*   First Name
-*   Last Name
-*   Parent or Guardian First Name
-*   Parent or Guardian Last Name
-*   Address 1
-*   Address 2
-
-Each field is a text entry type and is not required for completion. The field labels are self-explanatory.
-
-</thinking>
-
 # lausd-media-release-form-english - Help Guide
 ## Purpose
 The purpose of this form is to collect personal information for media release purposes related to Los Angeles Unified School District (LAUSD).

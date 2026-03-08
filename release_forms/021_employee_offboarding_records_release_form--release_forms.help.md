@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document the offboarding process of an employee, which includes the release of company records and information. The form is designed to be completed by the employee and their manager to ensure a smooth and transparent transition out of the company. This form may be used to ensure that all necessary steps are taken to release company property, equipment, and other assets, and to confirm that the employee has been informed about their rights and responsibilities after leaving the company.
-</thinking>
-
 # Employee Offboarding Records Release Form - Help Guide
 ## Purpose
 This form is used to document the employee offboarding process, including the release of company records and information. It is intended to be completed by the employee and their manager to ensure a smooth and transparent transition out of the company.

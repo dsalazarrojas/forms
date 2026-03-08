@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-The "Adventure Activity Permission Form" is designed to gather critical information from a parent or guardian to ensure the safe participation of children in adventure activities. This form helps to identify potential risks, obtain necessary medical information, and secure permission for emergency medical treatment. The purpose of this form is to provide a clear and informed consent from a parent or guardian before allowing a child to participate in adventure activities.
-
-Before proceeding, please ensure that you are not already registered in the system with a similar form, and that the form is not being used for a different purpose than intended (e.g., not as a general permission form for other activities).
-
-</thinking>
-
 # Adventure Activity Permission Form - Help Guide
 
 ## Purpose

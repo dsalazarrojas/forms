@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Music Selection Survey is designed to capture preferences for wedding music, including the type of dance and the performer(s) who will perform it. This form is part of the wedding planning process, and the answers will help create a memorable and enjoyable wedding experience for the couple and their guests. This form should only be filled out once per wedding.
-</thinking>
-
 # Wedding Music Selection Survey - Help Guide
 ## Purpose
 This form is used to collect music selection preferences for the wedding ceremony and reception.

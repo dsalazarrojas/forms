@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and only once per handyman and customer pair.
-The form is meant to document the release of a handyman, including essential details such as name, customer contact information, and service details.
-The fields in this form are likely to be used for insurance purposes and to ensure that the release process is thorough and accurate.
-To prevent duplication, the form should only be used once per handyman and customer pair.
-</thinking>
-
 # Handyman Release Form - Help Guide
 ## Purpose
 This form is used to document the release of a handyman, including essential details such as name, customer contact information, and service details. It is intended to ensure that the release process is thorough and accurate, and it should only be used once per handyman and customer pair.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Urgent Care Work Release Form", the goal is to ensure that end-users understand the purpose of the form, how to complete it, and the significance of each field. This guide should be concise, practical, and based on the provided YAML fields. The form appears to be used for medical purposes, likely for a patient's discharge from urgent care.
-
-The form includes a mix of text, date, time, and signature fields, suggesting that it requires both patient and witness information, as well as medical staff and patient signatures. 
-
-The fields include patient details (name, date of birth, address, phone number), release information (reason for release, hospital release status), and witness details (witness name, witness title). There is also a field for the physician signature.
-
-This guide should be designed to walk the end-user through each field, explaining its purpose and what information is expected.
-
-</thinking>
-
 # Urgent Care Work Release Form - Help Guide
 
 ## Purpose

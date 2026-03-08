@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used for registering a payment for a performance competition, which is likely used for events such as concerts, performances, or art exhibitions where an artist's or performer's work or talent is showcased and there might be a payment associated with it, like an artist fee for their work. This form will be filled out by the artists or their representatives to provide their payment details for an event they have participated in. It's likely filled out by a single person for their own or their team's performance.
-
-</thinking>
-
 # performance_competition_payment_form - Help Guide
 ## Purpose
 

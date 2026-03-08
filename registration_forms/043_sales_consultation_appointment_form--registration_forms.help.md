@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the scheduling of sales consultations between clients and business representatives. To ensure accurate and efficient consultation scheduling, it's essential to fill out the form correctly. Please verify that you have not previously submitted this form to avoid duplicate submissions. This form is designed for clients to provide their basic contact information and preferences for the consultation.
-</thinking>
-
 # Sales Consultation Appointment Form - Help Guide
 
 ## Purpose

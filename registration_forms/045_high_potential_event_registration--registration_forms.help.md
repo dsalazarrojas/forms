@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to register participants for a high potential event. When filling out this form, please ensure that you do not register for events that you have already attended in the past. Also, double-check that the email and phone numbers provided are accurate... </thinking>
-
 # High Potential Event Registration - Help Guide
 ## Purpose
 This form is used to register participants for a high potential event. Please fill out this form to sign up for an event.

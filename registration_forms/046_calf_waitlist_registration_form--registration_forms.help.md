@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calf Waitlist Registration Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-# Form purpose is to register and gather information about eco-tourism guide accommodations. 
-This form is part of the overall eco-tourism guide registration process. 
-The fields are intended for users to provide their own information about accommodations they provide in their guide. 
-This form must only be filled out once per user, and users are not allowed to edit their previously submitted information. 
-The form is designed for user registration and does not require any specific permissions. 
-</thinking>
-
 # eco_tourism_guide_accommodation_form - Help Guide
 ## Purpose
 The eco_tourism_guide_accommodation_form is a user-facing form designed to register and gather information about eco-tourism guide accommodations. This form is part of the overall eco-tourism guide registration process, intended for users to provide their own information about accommodations they provide in their guide.

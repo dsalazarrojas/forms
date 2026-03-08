@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information from clients about their estate planning needs and provide a comprehensive picture of their assets, beneficiaries, and wishes. This information will help financial advisors or estate planners understand the client's unique circumstances and create a tailored plan to meet their goals.
-Before filling out this form, please ensure that you have not already submitted a similar questionnaire. Duplicate submissions can cause confusion and delay the planning process.
-To complete this form, simply fill in the required information in the designated fields.
-</thinking>
-
 # Estate Planning Client Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your estate planning needs and provide a comprehensive picture of your assets, beneficiaries, and wishes. This information will help us understand your unique circumstances and create a tailored plan to meet your goals.

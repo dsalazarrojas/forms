@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be a user-facing help guide that explains what each field means and how to complete a "Campus Recreational Competition Registration" form. This form is used to register participants for campus recreational competitions, such as sports events, and collect necessary information for liability and emergency contact purposes. It's a comprehensive guide to help users navigate the form and fill out the required fields accurately.
-</thinking>
-
 # Campus Recreational Competition Registration - Help Guide
 ## Purpose
 This form is used to register participants for campus recreational competitions, such as sports events. It collects essential information for liability and emergency contact purposes.

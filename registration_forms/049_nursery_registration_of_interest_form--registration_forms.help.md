@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration of interest in a nursery, likely for parents or legal guardians of children seeking information or services offered by the nursery. The purpose of this form is to collect contact information and demographic data from potential clients. The form is not intended for internal business logic or data analysis. Please ensure this form is not used for any other purpose other than its intended use. 
-</thinking>
-
 # Nursery Registration Of Interest Form - Help Guide
 ## Purpose
 The Nursery Registration Of Interest Form is a simple registration form used to gather basic contact information and interest preferences from parents or legal guardians of children. It allows the nursery to collect demographic data and get in touch with interested parties.

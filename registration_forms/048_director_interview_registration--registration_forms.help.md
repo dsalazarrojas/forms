@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive registration form for interview candidates. Its primary purpose is to gather essential information from candidates, allowing them to provide their details, upload their CV, and schedule an interview. This form also includes a section for the hiring panel to select their preferences, and for HR to take notes and provide approvals/rejections. The form is intended to streamline the interview process by centralizing the registration and scheduling of candidates.
-This form appears to be a duplicate, so please ensure you're not duplicating effort in creating multiple forms with the same purpose. If you've already created a form with a similar purpose, you may want to review it and consider modifying or replacing it.
-</thinking>
-
 # director-interview-registration - Help Guide
 ## Purpose
 The director-interview-registration form is a tool for registering candidates for interviews, gathering their details, and facilitating the hiring process.

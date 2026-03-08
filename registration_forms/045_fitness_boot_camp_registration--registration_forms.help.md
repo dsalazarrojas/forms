@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Fitness Boot Camp program. It is used to register members for the program. Please ensure that you have all the required information before proceeding. If you have registered before, please do not register again to avoid duplication of records.
-</thinking>
-
 # Fitness Boot Camp Registration - Help Guide
 ## Purpose
 The Fitness Boot Camp Registration form is used to register new members for the program. It collects information such as member details, membership status, and payment information.

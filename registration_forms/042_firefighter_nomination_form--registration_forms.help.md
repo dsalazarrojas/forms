@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information for firefighter nominations, which are used to recognize and reward outstanding firefighting efforts. It is essential to ensure that all the fields are completed correctly to ensure the accuracy of the nomination. Please check that you are not nominating the same firefighter multiple times and that the fire department and fire station(s) are correctly selected.</thinking>
-
 # Firefighter Nomination Form - Help Guide
 ## Purpose
 The Firefighter Nomination Form is a tool used to recognize and reward outstanding firefighter efforts. It is essential to complete this form accurately to ensure that the correct firefighter is being recognized and that the nomination is complete and up-to-date.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for individuals or organizations interested in participating in the Beverage Recycling Initiative. The purpose of this form is to gather information about each participant's experience, preferences, and goals to optimize the recycling process. Before proceeding, please make sure you are not already registered in the initiative by checking the "Participant List" page. This guide is intended to help you fill out the form accurately and efficiently.
-
-</thinking>
-
 # Beverage Recycling Initiative Registration Form - Help Guide
 ## Purpose
 This form is for participants who want to join the Beverage Recycling Initiative. It collects information about their experience, preferences, and goals to optimize the recycling process.

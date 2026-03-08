@@ -1,10 +1,3 @@
-<thinking>
-This form is used to submit a music album critic release form, which is used to share music album critic reviews with the public. The form is designed to collect information about a specific music album, including the album's title, artist, release date, rating, and other relevant details. To ensure that the form is used correctly and efficiently, please follow the instructions below.
-
-The form is a text-based form, and each field is designed to collect specific information. The following instructions will guide you through the completion of the form.
-
-</thinking>
-
 # Music Album Critic Release Form - Help Guide
 
 ## Purpose

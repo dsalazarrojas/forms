@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by users who want to register for a network volleyball skills program, providing their details and payment information to secure their spot. It's essential to ensure that users fill out the form correctly to avoid any duplication of registration attempts, which could lead to unnecessary processing and administrative issues. To prevent this, the form should ideally be filled out in one go, without any unnecessary submissions. This form is likely used for internal or external users, and it's crucial to have a clear and concise guide to help them understand what to expect and how to complete it successfully.
-</thinking>
-
 # Network Volleyball Skills Registration & Payment Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Network Volleyball Skills Registration & Payment Form. The form is used to register users for a network volleyball program and gather their payment information.

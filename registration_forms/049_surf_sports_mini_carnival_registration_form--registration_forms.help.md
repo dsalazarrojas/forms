@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a registration form designed for a surf sports mini-carnival event. The form is intended to collect information from attendees, including personal details, emergency contact information, and event preferences. It is crucial to ensure that each participant has provided accurate and complete information, as this will help us better cater to their needs and create a more enjoyable experience for all attendees. To achieve this, we will need to ensure that the form is clear and easy to understand for our end-users.
-</thinking>
-
 # surf_sports_mini_carnival_registration_form - Help Guide
 ## Purpose
 The surf sports mini-carnival registration form is designed to collect essential information from attendees to provide them with a personalized experience. To complete this form, please follow the steps outlined below.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for artists, galleries, or organizations to apply for a license to host an art exhibition. It collects information about the applicant, their exhibition details, venue information, exhibition dates, compliance, and insurance. This form ensures the applicant provides necessary contact and address information, insurance details, and compliance agreement. The form is divided into sections, making it easy to navigate. 
-
-The applicant will be able to apply for different types of exhibitions, and specify the number of artists participating. They will also be able to provide a detailed description of their exhibition, including the venue address and operating hours. The applicant will also need to agree to comply with all local regulations, indicating their understanding and acceptance of the terms. This form helps in streamlining the application process and ensuring all necessary information is collected.
-</thinking>
-
 # Art Exhibition License Application Form - Help Guide
 ## Purpose
 This form is used for artists, galleries, or organizations to apply for a license to host an art exhibition. It helps the applicant to provide necessary information for the exhibition and ensures compliance with local regulations.

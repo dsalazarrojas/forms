@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture event accommodation requests for attendees. It should only be filled out by attendees who are interested in making requests for accommodations, such as booking a hotel room or other accommodations for an event. The form should not be filled out by individuals who are not registered for an event or do not have an event registration code (Event ID). The Event ID should be provided as a code that was given to you at the time of event registration, and you should fill it in carefully to ensure you are filling out the correct form. If you're not sure which form to fill out, please contact event staff for clarification.
-
-</thinking>
-
 # Event Accommodation Request Form - Help Guide
 ## Purpose
 This form is used to request accommodations for an event. It is intended for attendees who require assistance with arranging accommodations for the event, such as booking a hotel room or other types of accommodations.

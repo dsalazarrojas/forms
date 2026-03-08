@@ -1,13 +1,3 @@
-<thinking>... 
-
-To create an effective help guide for the "Festival Stage Time Booking Form", I'll analyze the provided YAML fields and ensure the content is clear, concise, and practical.
-
-The purpose of this form is to allow users to book time slots for performers on festival stages. Users will need to provide information about the stage time, performers, and other relevant details to secure their desired time slots.
-
-Before proceeding, let's ensure the form is correctly filled out by understanding its components.
-
-</thinking>
-
 # Festival Stage Time Booking Form - Help Guide
 ## Purpose
 This form is designed to help festival organizers and performers book time slots for performances on festival stages. It collects essential information to manage stage time allocations and performer scheduling.

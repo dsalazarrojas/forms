@@ -1,7 +1,3 @@
-<thinking>
-We are developing a form for users to provide information about their personal preferences and experiences, particularly in the context of relationships. This form is intended to gather data for internal use, and it's essential to ensure that users understand what information we are collecting and how it will be used. Before we proceed, let's verify that this form is not a duplicate of any other form we have previously created or that it serves a unique purpose within our organization.
-</thinking>
-
 # Dating Survey - Help Guide
 ## Purpose
 The Dating Survey is designed to collect personal information from users to help us better understand their preferences, behaviors, and experiences in the context of relationships. This form is used to gather data for internal analysis and improvement purposes.

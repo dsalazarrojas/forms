@@ -1,16 +1,3 @@
-<thinking>
-This help guide is for the vessel operator orientation registration form, a critical component of the vessel operator management process. 
-
-This form is used to register vessel operators, capturing essential information necessary for effective vessel management. Before proceeding, ensure this is not a duplicate registration.
-
-To be eligible, the registered vessel operator must be one of the following types: marina, boat yard, charter, or other.
-
-The form is divided into 10 fields that gather detailed information about the vessel operator's identity and operational characteristics.
-
-The information provided will help in organizing and categorizing vessels effectively, ensuring a streamlined process for vessel management and related activities.
-
-</thinking>
-
 # vessel_operator_orientation_registration - Help Guide
 ## Purpose
 This form is used to collect information from vessel operators to enable effective vessel management. It is a crucial component in organizing and categorizing vessels for efficient operations.

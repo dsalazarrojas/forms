@@ -1,32 +1,3 @@
-<thinking>
-This form is designed to help users select their gym membership tier, which includes Bronze, Silver, and Gold options. The form will collect information about the user, such as their name, payment method, and other relevant details. The purpose of this form is to ensure that users can easily and accurately choose their membership tier and provide necessary information for the gym administration to process their membership application.
-
-The form will be completed in multiple stages, and users will be able to select their options for each field. The fields will be validated to ensure that users provide correct and consistent information.
-
-This form is designed to collect the following information:
-	* Tier selection (Bronze, Silver, or Gold)
-	* Member name
-	* Plan choices (Monthly, Quarterly, or Annually)
-	* Membership start and end dates
-	* Membership duration (Monthly, Quarterly, or Annually)
-	* Payment method (Credit Card, Bank Transfer, or Check)
-	* Email (optional)
-	* Phone number (optional)
-	* Signed acknowledgment (a note to acknowledge that the user has read and understood the terms)
-
-The form has the following fields:
-	* Tier Selection (required)
-	* Member Name (required)
-	* Plan Choices (required)
-	* Membership Start Date (required)
-	* Membership End Date (required)
-	* Membership Duration (required)
-	* Payment Method (required)
-	* Email (optional)
-	* Phone Number (optional)
-	* Signed Acknowledgment (required)
-</thinking>
-
 # Gym Membership Tier Selection Form - Help Guide
 ## Purpose
 The Gym Membership Tier Selection Form is designed to help users select their gym membership tier and provide necessary information for the gym administration to process their membership application.

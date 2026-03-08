@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to select various attributes related to a group, such as whether the group is selected, their preferences, availability, committees, and clubs. It's likely a form for group management or organization settings.
-</thinking>
-
 # Group Selection Form - Help Guide
 ## Purpose
 The Group Selection Form is a form for users to select attributes related to a group. It's used to configure group settings or preferences.

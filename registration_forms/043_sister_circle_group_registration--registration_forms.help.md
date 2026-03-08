@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll create a comprehensive help guide for the Sister Circle Group Registration form to ensure users understand its purpose, completion process, and each field's significance. This guide will be concise, practical, and based on the provided YAML fields.</thinking>
-
 # Sister Circle Group Registration - Help Guide
 
 ## Purpose

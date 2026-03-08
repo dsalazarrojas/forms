@@ -1,7 +1,3 @@
-<thinking>
-Please review the provided YAML and create a user-facing help guide for the "vessel_preview_registration_form" form. This form is used for previewing registration purposes, and it's likely used for registering vessels or similar items in an inventory or database management system. The fields provided are mostly basic information fields, such as name, email, phone number, and date/time fields. There are also some special fields like "Select One", "Select Multiple", "Decimal", and "Integer" which might imply some sort of selection or numerical data entry. Since the form is for preview purposes, it's possible that the "required" field is more of a validation feature rather than a strict requirement. The purpose of this form is to collect information about a vessel, likely for tracking or management purposes.
-</thinking>
-
 # vessel_preview_registration_form - Help Guide
 ## Purpose
 The "vessel_preview_registration_form" is used for previewing registration purposes, likely for registering vessels or similar items in an inventory or database management system.

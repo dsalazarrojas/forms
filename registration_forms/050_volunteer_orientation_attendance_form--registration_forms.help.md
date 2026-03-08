@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Orientation Attendance Form - Help Guide
 
 ## Purpose

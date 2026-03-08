@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide that explains the purpose, completion steps, and field-by-field explanations for this "Community Book Club RSVP" form.</thinking>
-
 # Community Book Club RSVP - Help Guide
 
 ## Purpose

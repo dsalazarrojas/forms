@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect participant information, course selection, and payment details for a baking class. It aims to gather data on a participant's name, email address, phone number, date of birth, baking experience level, preferred class, class date, class time, session number, and payment status. The form also includes options for special requests, dietary restrictions, and a waiver agreement.
-
-Please ensure the form is used for its intended purpose and not to collect unnecessary data. Avoid duplication of effort by ensuring you only submit one entry per participant. 
-
-</thinking>
-
 # Baking Class Signup Form - Help Guide
 ## Purpose
 This form is designed for participants to sign up for a baking class.

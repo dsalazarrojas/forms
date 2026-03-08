@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential members of the Accountants Society, including personal details, professional information, and membership preferences. The form will be used to assess eligibility for membership and to gather data for society operations. This form is not intended for existing members, only for new applicants. Please ensure that you are not resubmitting a previously completed form.
-</thinking>
-
 # Accountants Society Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential members of the Accountants Society, including personal details, professional information, and membership preferences.

@@ -1,12 +1,3 @@
-<thinking>
-The "Appliance Product Release Form" is a form used to document the release of a product from the manufacturing stage to the next stage of the production pipeline, typically to a warehouse or a distribution center. The form aims to ensure that the product meets the necessary quality and safety standards before being released. The completion of this form serves as a check-list for quality and safety checks, and it helps to track the product's movement through the production pipeline. 
-
-It's essential to fill out this form accurately and comprehensively to ensure a smooth transition of the product through the pipeline, avoid any potential issues or delays. The form is also used to keep a record of the product's history, which can be useful for future reference or audits. 
-
-Before filling out this form, please confirm that you have completed all the necessary checks and tests to ensure that the product is ready for release. If you're unsure about any part of the form, please consult with your supervisor or relevant stakeholders before submitting it.
-
-</thinking>
-
 # Appliance Product Release Form - Help Guide
 ## Purpose
 The Appliance Product Release Form is a critical document that ensures the quality and safety of products before they are released to the next stage of the production pipeline. This form helps to track the product's movement, ensures that all necessary checks and tests are completed, and keeps a record of the product's history.

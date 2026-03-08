@@ -1,8 +1,3 @@
-<thinking>
-The Legal Case Details Release Form is used to document the details of a legal case, including the authorized party's information and the method and date of release. This form helps to ensure that all necessary information is collected and recorded correctly, and that the release is properly authorized. It is essential to fill out this form accurately to avoid any potential issues or disputes.
-To prevent any potential issues or disputes, please review the details of the case carefully before submitting the form, and ensure that you are authorized to release the information.
-</thinking>
-
 # Legal Case Details Release Form - Help Guide
 ## Purpose
 The Legal Case Details Release Form is used to collect and document the necessary information for the release of a legal case. This form ensures that all required details are accurately recorded and that the release is properly authorized.

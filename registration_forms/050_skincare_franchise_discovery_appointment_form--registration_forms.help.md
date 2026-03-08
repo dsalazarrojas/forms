@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Franchise Discovery Appointment Form - Help Guide
 
 ## Purpose

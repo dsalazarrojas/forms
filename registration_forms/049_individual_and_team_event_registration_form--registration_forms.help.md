@@ -1,9 +1,5 @@
 思考
 This is the internal reasoning block:
-<thinking>
-This form is designed for individuals and teams to register for events. It collects personal and team information, event details, and registration status. The form is used to track event registrations and provide necessary data for event management. Please make sure to fill out all required fields and double-check the information before submitting.
-</thinking>
-
 # Individual And Team Event Registration Form - Help Guide
 ## Purpose
 This form is used to register for events as an individual or a team. It collects relevant information to track and manage event registrations.

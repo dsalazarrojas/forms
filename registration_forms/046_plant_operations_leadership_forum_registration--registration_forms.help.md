@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect registration information from individuals interested in participating in the Plant Operations Leadership Forum. The form will be used to gather essential details such as name, contact information, and interests to ensure that the right people are connected with the right resources and facilitators. To avoid duplication of effort, we're checking for existing records in the system before processing a new registration.
-</thinking>
 # Plant Operations Leadership Forum Registration - Help Guide
 
 ## Purpose

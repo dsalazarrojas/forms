@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information about an individual's social support system, which is a crucial aspect of their emotional and mental well-being. The form is designed to assess the frequency and quality of social interactions, providing valuable insights for the individual and potentially for others who may be involved in their care or support network. 
-
-To ensure the information gathered is accurate and comprehensive, please note that this form is not intended for individuals under the age of 18 or for those who may have difficulty understanding the questions due to language or cognitive barriers. It is recommended that individuals complete this form on their own, without assistance, and that they take their time to answer the questions as accurately and honestly as possible. 
-
-Please do not duplicate efforts or complete this form if you have already done so in the past.
-</thinking>
-
 # Social Support Survey - Help Guide
 ## Purpose
 The Social Support Survey is designed to gather information about your social support system, which is essential for your emotional and mental well-being.

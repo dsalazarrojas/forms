@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a trading card deck submission. This form will be used to capture details of a player's trading card deck, including their name, contact information, and deck specifics. Please fill out this form carefully and accurately to ensure the correct submission of your deck. This form does not require any redundant information, so please do not submit a deck more than once. If you have any further questions or concerns, please contact our support team.
-</thinking>
-
 # Trading Card Deck Submission Form - Help Guide
 ## Purpose
 This form is used to collect information about a trading card deck submission.

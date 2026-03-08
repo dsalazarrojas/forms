@@ -1,17 +1,3 @@
-<thinking>
-This form is part of a change management registration process, used to gather information from participants who want to register for a change management training session. The form is intended to collect essential details about the participant, their experience and interests, payment method, and other relevant information. This form is designed to ensure that participants provide accurate and complete information to facilitate a smooth registration process and to enable the organizers to provide the best experience to the participants.
-
-To avoid duplication, this form will only be filled out once for each participant. Please ensure that you only fill out this form once with your correct details.
-
-Before starting the registration, make sure you have all the necessary information and answers ready to provide.
-
-If you have any doubts or concerns, please contact the organizers for clarification.
-
-Please fill out the form carefully and accurately to avoid any issues.
-
-This form is for registration only, please do not use it for other purposes.
-</thinking>
-
 # Change Management Registration Form - Help Guide
 
 ## Purpose

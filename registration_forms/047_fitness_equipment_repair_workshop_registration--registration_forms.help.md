@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Equipment Repair Workshop Registration - Help Guide
 ## Purpose
 The Fitness Equipment Repair Workshop Registration form is designed to allow attendees to register for a workshop on fitness equipment repair. The form helps collect information about the attendee's details, the equipment issue they want to bring to the workshop, their session preferences, and their contact information.

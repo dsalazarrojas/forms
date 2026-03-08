@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering a participant's interest in an IT support course. The form should only be filled out by individuals who are interested in taking a course, not for general inquiries or other purposes. Please ensure you only fill out this form if you are actually interested in taking a course. If you have already completed a course registration form, please do not fill out this form again.
-</thinking>
-
 # IT Support Course Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Team Coaching Network Registration Form is used to capture information from users who want to join the Team Coaching Network, a platform that aims to connect coaches and players for team-building and coaching opportunities. This form is a simple, straightforward way to provide your information and preferences to be considered for coaching or playing with a team. Please ensure that you only submit the form once, as duplicate submissions will not be accepted. Please note that the form will be reviewed and processed in a timely manner, and you will be contacted if your submission is successful.
-</thinking>
-
 # Team Coaching Network Registration Form - Help Guide
 ## Purpose
 The Team Coaching Network Registration Form is designed to gather information from users who are interested in joining the Team Coaching Network. The form asks for basic contact information, preferred team affiliation, and coaching or playing position.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who wish to form a relationship with the company. The goal is to gather essential data to ensure compatibility and suitability for potential partnerships. This form should not be filled out by current partners or employees of the company.
-</thinking>
-
 # Boyfriend Application Form - Help Guide
 ## Purpose
 The Boyfriend Application Form is a tool used to collect essential information from individuals interested in forming a relationship with the company. This data will help us assess compatibility and suitability for potential partnerships.

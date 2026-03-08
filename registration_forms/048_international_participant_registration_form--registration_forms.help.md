@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from international participants, which includes collecting their personal details, contact information, and specific fields like country of origin, nationality, and date of registration. This form is used to ensure that the participants' data is up-to-date and accurate. To prevent duplicate registrations, we should check if a participant with the same first name, last name, and email address is already registered before completing the form.
-</thinking>
-
 # International Participant Registration Form - Help Guide
 ## Purpose
 The International Participant Registration Form is used to collect personal details of international participants, including their name, contact information, country of origin, and registration details.

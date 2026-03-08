@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect registration information from attendees to the Population Health Data Science Workshop. This form will be used to gather essential details such as name, contact information, and any other specified fields. The form is not meant to be used for any other purpose other than registration for the workshop. It's crucial to ensure that the form is filled out correctly to avoid any confusion or miscommunication during the workshop. This form will be reviewed and verified internally before being accepted.
-
-To avoid any confusion, please make sure to fill out the form correctly and ensure that you are only registering for the workshop once.
-
-This is the registration form for the Population Health Data Science Workshop. Please take a moment to review the following fields:
-
-</thinking>
-
 # Population Health Data Science Workshop Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from attendees to the Population Health Data Science Workshop.

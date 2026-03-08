@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Tournament Photography and Filming Consent Form - Help Guide**
 
 ## Purpose

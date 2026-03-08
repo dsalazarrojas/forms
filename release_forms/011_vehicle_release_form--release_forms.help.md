@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed for the "release_forms" category, specifically for "vehicle release forms" used in various industries such as automotive, transportation, or logistics. The form aims to collect information about a vehicle's release, including its owner, license number, type of release, release date, reason for release, assignee's details, and vehicle characteristics. This form ensures that all required fields are marked as "required: true" to ensure accurate and comprehensive data collection. The form is an adaptation of an AI-generated form, ensuring it does not duplicate any proprietary content from other form platforms. This form is released under CC BY 4.0 license, allowing users to freely use, modify, and share the form.
-
-</thinking>
-
 # Vehicle Release Form - Help Guide
 ## Purpose
 This form is designed to collect information about a vehicle's release, including owner details, vehicle characteristics, and release conditions.

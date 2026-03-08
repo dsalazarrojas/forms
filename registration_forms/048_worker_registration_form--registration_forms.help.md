@@ -1,18 +1,3 @@
-<thinking>
-The form purpose is to register workers and collect their information for administrative and management purposes. The form will collect details about the worker's employer, employee, job title, supervision, job status, employment type, and other relevant information.
-
-To prevent potential issues with data duplication, ensure that the worker you are registering is not already in the system. Before proceeding, verify that the worker's information is up-to-date and accurate.
-
-The form is divided into several sections, each with a specific purpose:
-
-*   The first section collects information about the worker's employer, including their address and name.
-*   The second section collects information about the employee, including their address and name.
-*   The third section collects job-related information, including job title, supervisor, job status, employment type, and other relevant details.
-*   The final section collects additional information about the worker's employment, including start and end dates, employment duration, and other relevant details.
-
-The form fields are divided into several types, including text, date, select (single and multiple), and email fields. Some fields are required, while others are optional, depending on the specific requirements of the form.
-</thinking>
-
 # Worker Registration Form - Help Guide
 ## Purpose
 The Worker Registration Form is used to register workers and collect their information for administrative and management purposes.

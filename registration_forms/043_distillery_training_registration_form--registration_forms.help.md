@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Distillery Training Registration Form - Help Guide
 ## Purpose
 The Distillery Training Registration Form is designed for users to register for a training session at a distillery. This form helps distilleries to collect relevant information about attendees, including their distillery name, name, email, phone number, class type, training location, signup date, training start time, class duration, and any additional notes.

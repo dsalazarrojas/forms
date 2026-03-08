@@ -1,11 +1,3 @@
-<thinking> 
-  Before proceeding, please note that this form appears to be for collecting information about pet rescues, likely for an animal shelter or similar organization. The purpose of this form is to gather details about the pet and its owner, which will help the organization provide proper care and support for the pet.
-
-  This form is not explicitly designed for duplicate or repetitive data entry, so it's best to fill it out only once for each pet.
-
-  This form seems to be a basic intake form with some select options and text fields. The fields are not overly complicated, but some explanations might be helpful to ensure the information is provided correctly.
-</thinking>
-
 # Pet Rescue Intake Form - Help Guide
 
 ## Purpose

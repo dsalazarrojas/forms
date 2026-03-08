@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is intended for attendees to register for a workshop on Carbon Reporting, likely for professionals in the sustainability field or those interested in learning more about carbon reporting standards and practices. This form captures details about the workshop itself, the attendee's information, and their professional background. I will now create a user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # Carbon Reporting Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for a workshop on Carbon Reporting. Please fill out the form accurately to ensure a smooth registration process.

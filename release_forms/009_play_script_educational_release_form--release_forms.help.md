@@ -1,5 +1,3 @@
-<thinking>...The "Play Script Educational Release Form" is used to document a script release for educational performances. This form helps track and manage script releases for educational purposes, such as workshops, classroom performances, or readings. Please ensure the form is filled out accurately and consistently, and if you have any questions or concerns, contact us to discuss further.</thinking>
-
 # Play Script Educational Release Form - Help Guide
 ## Purpose
 

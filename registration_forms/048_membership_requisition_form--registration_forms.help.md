@@ -1,7 +1,3 @@
-<thinking>
-The form is for registering a new membership, and it's used to collect information about the member, their contact details, and their role and membership status. This form seems to be part of a broader system for managing member registrations and memberships. To avoid duplication, the form should only be filled out once per member. To ensure accuracy, the member's email address should be valid and not already registered in the system.
-</thinking>
-
 # membership_requisition_form - Help Guide
 ## Purpose
 This form is used to register a new membership, providing essential information about the member, their contact details, and their role and membership status.

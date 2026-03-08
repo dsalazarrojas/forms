@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users to register for a festival of cultures event. This form is not intended for general users but rather for specific event organizers or administrators who need to collect registration data. Please ensure you have the necessary permissions before completing this form. Please note that this form should only be filled out once per user.
-
-</thinking>
-
 # Festival of Cultures Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration data from users for a festival of cultures event. Please fill out this form accurately and completely to ensure your registration is successful.

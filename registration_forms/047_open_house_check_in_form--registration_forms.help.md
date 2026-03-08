@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Open House Check In Form - Help Guide
 ## Purpose
 The Open House Check In Form is designed to collect information from visitors, agents, and staff for events and open houses. This form helps us track attendance, note-taking, and other relevant details. Please ensure you're completing this form only once for each event.

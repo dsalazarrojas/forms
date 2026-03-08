@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees for the Startup Growth Consulting Summit. The form is designed to gather essential details about the attendees, including their name, email, interests, and preferences. The goal is to ensure that attendees can be properly registered and managed for the event. It's recommended that the form be filled out only once, and the provided information be accurate and up-to-date. If you have filled out this form previously, please ensure that you are not duplicating your registration.
-</thinking>
-
 # Startup Growth Consulting Summit Registration - Help Guide
 ## Purpose
 The Startup Growth Consulting Summit Registration form is used to gather information from attendees for the event. The form is designed to collect essential details that will enable us to manage and tailor the event according to our attendees' needs.

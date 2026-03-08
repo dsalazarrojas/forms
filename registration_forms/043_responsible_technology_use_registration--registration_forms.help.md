@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a participant's details for a specific technology program. It collects information such as form data, participant info, program details, consent, submission info, contact info, and submission creation details. This form is likely used for internal administrative purposes to track participant registrations and program submissions.
-</thinking>
-
 # Responsible Technology Use Registration - Help Guide
 
 ## Purpose

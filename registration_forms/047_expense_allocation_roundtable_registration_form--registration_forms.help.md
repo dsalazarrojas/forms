@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be filled out by participants of the expense allocation roundtable. The purpose of this form is to collect information about the attendees' preferences and expectations. This form is not a required step for attendance, but it is highly recommended to submit it to provide the organizers with valuable insights and preferences.
-</thinking>
-
 # Expense Allocation Roundtable Registration Form - Help Guide
 ## Purpose
 The Expense Allocation Roundtable Registration Form is designed to collect information from participants about their preferences and expectations. This information will help the organizers to better understand the needs and priorities of the attendees.

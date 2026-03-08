@@ -1,5 +1,3 @@
-<thinking> This form's purpose is to gather feedback from customers about their relationship with the bank, to help the bank understand their customers' satisfaction, pain points, and areas for improvement. This form asks about the length of time the customer has been with the bank, the type of products they use, their overall satisfaction, and various aspects of the bank's services. It also asks for specific improvement suggestions and new product interest. The form is designed to gather both qualitative and quantitative feedback, providing a comprehensive picture of the customer's experience. </thinking>
-
 # Banking Relationship Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers about their relationship with the bank, to help us understand your satisfaction, pain points, and areas for improvement.

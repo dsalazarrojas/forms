@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from participants in the Amateur Mtb Cup 2016 event. The purpose of this form is to gather essential details about each participant, including their identification, contact information, and emergency contact details. The form is likely used for registration and event management purposes, ensuring that the event organizers have accurate and up-to-date information about each participant.
-
-</thinking>
-
 # The Amateur Mtb Cup 2016 Sheet 4 - Help Guide
 ## Purpose
 This form is used for registration and event management purposes to collect participant details.

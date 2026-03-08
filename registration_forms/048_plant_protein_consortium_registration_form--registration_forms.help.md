@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to help the Plant Protein Consortium register new members or partners to be part of their initiatives. This form will gather information about the organization, such as its name, email, phone number, address, and contact person. Additionally, it will help identify the role of the organization within the consortium and its capacity for collaboration. The form also checks for the availability of data on plant proteins within the organization and provides a note field for any additional comments.
-
-This form is designed to be filled out by authorized individuals within the organization seeking to register. It is intended to help the Plant Protein Consortium understand the organization's capabilities and needs for future collaborations and initiatives. 
-
-Please ensure the information provided is accurate to the best of your knowledge to avoid duplicate or incorrect registrations. If you are not sure about any of the information, or if your organization has already registered, please do not fill out this form.
-
-Please make sure to fill out all the required fields and provide accurate information. If you are unsure about any field, you can always reach out to the Plant Protein Consortium team for assistance.
-</thinking>
-
 # Plant Protein Consortium Registration Form - Help Guide
 ## Purpose
 This form is designed to help the Plant Protein Consortium register new members or partners to be part of their initiatives.

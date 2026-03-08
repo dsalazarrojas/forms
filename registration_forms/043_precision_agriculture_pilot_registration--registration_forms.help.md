@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a larger system for collecting information from farmers or agricultural organizations, and its purpose is to collect details about their farms, participants, and activities. This form may be used for research, monitoring, or data collection purposes. It's essential to confirm that the farmer or participant is correctly filling out the form for their actual farm and not duplicating entries.
-</thinking>
-
 # Precision Agriculture Pilot Registration - Help Guide
 ## Purpose
 This form is designed to collect information from farmers or agricultural organizations about their farms, participants, and activities. It may be used for research, monitoring, or data collection purposes.

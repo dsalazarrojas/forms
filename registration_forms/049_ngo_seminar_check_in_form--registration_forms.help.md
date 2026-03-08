@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to check in for an NGO seminar. It is intended to be filled out by attendees upon arrival at the seminar venue. The form should only be filled out once per attendee. Please ensure that you have a valid seminar ID and attendee ID before filling out this form. If you have any doubts or questions, you can ask the seminar staff for assistance.
-</thinking>
-
 # NGO Seminar Check In Form - Help Guide
 ## Purpose
 This form is used to check in attendees for an NGO seminar. It is designed to gather relevant information about the attendee, including their session participation and arrival time.

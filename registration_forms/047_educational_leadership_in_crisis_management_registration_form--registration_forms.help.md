@@ -1,8 +1,3 @@
-<thinking>
-This form is for educational leadership in crisis management registration. It is used to collect information from users who are interested in registering for a training or course related to crisis management. This form is likely part of a larger system that tracks user registrations and may be used to provide further information or support to the users after they have completed the form.
-Before starting, please ensure that you have not already registered for this training or course. If you have any prior registration records, you will be able to access the information from the same system without needing to complete this form again.
-</thinking>
-
 # Educational Leadership In Crisis Management Registration Form - Help Guide
 ## Purpose
 This form collects information from users to register for a training or course on educational leadership in crisis management.

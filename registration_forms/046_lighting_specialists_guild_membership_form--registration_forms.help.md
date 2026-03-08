@@ -1,39 +1,3 @@
-<thinking>
-This form is intended for individuals seeking membership in the Lighting Specialists Guild. It captures essential information for registration, which includes personal details, professional experience, and payment information. 
-
-The form is designed to be completed by individuals who are interested in becoming a part of the Lighting Specialists Guild, which suggests that it is likely to be filled out by potential members. The purpose of the form is to gather information for the registration process, which implies that the form will only be filled out once by each individual. 
-
-The form fields should be filled out in the following sequence:
-
-1. First Name 
-2. Last Name 
-3. Email 
-4. Phone 
-5. Date of Birth 
-6. Membership Type 
-7. Certification Level 
-8. Work Experience 
-9. Skills 
-10. Professional Services 
-11. Membership Status 
-12. Payment Method 
-13. Payment Status 
-14. Certification Number 
-15. Payment Date 
-16. Payment Method Details 
-17. Payment Status Details 
-18. Work Address 
-19. Work City 
-20. Work State 
-21. Work Postal Code 
-22. Work Phone 
-23. Work Email 
-24. Emergency Contact Name 
-25. Emergency Contact Phone 
-
-Please note that all fields are optional unless stated otherwise in the form description.
-</thinking>
-
 # Lighting Specialists Guild Membership Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for registration with the Lighting Specialists Guild. It is intended for potential members who want to join the guild.

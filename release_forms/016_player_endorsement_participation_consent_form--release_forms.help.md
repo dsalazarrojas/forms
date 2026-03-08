@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Player Endorsement Participation Consent Form - Help Guide
 
 ## Purpose

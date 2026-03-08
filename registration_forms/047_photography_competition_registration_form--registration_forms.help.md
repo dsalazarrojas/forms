@@ -1,18 +1,3 @@
-<thinking>
-This form is a Photography Competition Registration Form used to collect information from participants in a photography competition. The form's purpose is to gather data from individuals interested in joining the competition. The form is not affiliated with any form platform and is an original adaptation using public survey topic metadata as inspiration.
-
-The form has 4 pages with the following fields:
-
-*   **Participant Information** (Page 1)
-*   **Photo Details** (Page 2)
-*   **Submission** (Page 3)
-*   **Additional Information** (Page 4)
-
-The form does not have any options or dependencies, and all fields are text-based. The form does not have any specific requirements for completion.
-
-To complete this form, the participant will need to provide information in all the fields on each page.
-</thinking>
-
 # Photography Competition Registration Form - Help Guide
 
 ## Purpose

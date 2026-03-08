@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Commercial Lease Negotiation Workshop Registration - Help Guide
 
 ## Purpose

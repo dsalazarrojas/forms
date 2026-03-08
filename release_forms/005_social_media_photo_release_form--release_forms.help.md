@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who have taken or will take photos that may be published on social media platforms. The purpose of this form is to collect the necessary details of the photo release, such as the name and contact information of the person releasing the photo, the date and location of the photo taking, and the social media platforms where the photo will be published. It is essential to fill out this form accurately to ensure that the photo release is valid and compliant with any applicable laws or regulations.
-</thinking>
-
 # Social Media Photo Release Form - Help Guide
 ## Purpose
 The Social Media Photo Release Form is a tool used to collect photo release information from users who have taken or will take photos that may be published on social media platforms. This form is essential for ensuring that the photo release is valid and compliant with any applicable laws or regulations.

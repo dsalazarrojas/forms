@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to avoid duplication and that the correct information is collected for the intended purpose. This form is meant for collecting information about households and territories, and we want to make sure that it's filled out accurately and consistently. Let's check to see if this form has been filled out before, so we can avoid redundant data entry. After that, let's provide a clear guide on how to complete this form and what each field means so end-users can do it easily and effectively.
-</thinking>
-
 # Household And Territory Registration - Help Guide
 ## Purpose
 This form is for registering information about households and territories. It's used to collect necessary details for our records and to track changes in property status and territory type.

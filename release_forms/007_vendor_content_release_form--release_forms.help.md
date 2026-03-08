@@ -1,8 +1,3 @@
-<thinking>... 
-This form is intended to collect information from vendors about their content releases. The form is not meant to be completed by internal users, but rather by external vendors. The form is used to collect data from vendors for the purpose of managing and tracking content releases. This form is not meant to be used for internal communication or data collection within the company, and thus, it is not intended to be used by internal users. 
-
-</thinking>
-
 # Vendor Content Release Form - Help Guide
 ## Purpose
 This form is used to collect information from external vendors about their content releases. The form helps track and manage content releases from external vendors.

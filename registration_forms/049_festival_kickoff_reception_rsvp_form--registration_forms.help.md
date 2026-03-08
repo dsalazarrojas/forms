@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from attendees for the Festival Kickoff Reception. It is not a required form, but rather an optional one, allowing attendees to provide their information voluntarily. Please do not complete this form if you are not attending the event. If you have already RSVP'd, please do not submit this form again as it may cause duplication of your information.
-</thinking>
-
 # Festival Kickoff Reception RSVP Form - Help Guide
 ## Purpose
 The Festival Kickoff Reception RSVP Form is a form designed to collect information from attendees who wish to participate in the Festival Kickoff Reception. Please note that this form is not mandatory, and it is up to each attendee to decide whether or not to complete it.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in a professional training program. The form will be used to gather data about the participants, their training experience, and the training details. It will help trainers to understand the participants' background, goals, and expectations from the training, which will help to create a more personalized and effective learning experience for them.
-
-To ensure that the form is completed accurately, it is recommended that participants review the form carefully and fill it out in a quiet and distraction-free environment. It is also essential to ensure that the form is not duplicated or filled out by someone else, to maintain data integrity.
-
-</thinking>
-
 # Time Management In Professional Training Registration - Help Guide
 
 ## Purpose

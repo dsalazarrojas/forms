@@ -1,7 +1,3 @@
-<thinking>
-This form is used to renew a personal trainer's registration. The purpose of this form is to gather updated information from the trainer regarding their new clients, training programs, services offered, and package details. This form is likely to be used when a personal trainer needs to update their profile or register with a new client.
-</thinking>
-
 # personal_trainer_renewal_form - Help Guide
 ## Purpose
 The personal trainer renewal form is used to update the trainer's information, including new clients, training programs, services offered, and package details.

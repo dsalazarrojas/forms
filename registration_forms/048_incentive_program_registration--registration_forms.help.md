@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to register an Incentive Program, which is a program created by an organization to incentivize and reward participants for their actions. This form is used to collect information about the program, the participant, and other relevant details. It is intended for program managers and participants to register their programs and provide necessary details for further actions. To avoid duplicate registrations, please ensure that the program is not already registered before submitting this form.
-
-</thinking>
-
 # Incentive Program Registration - Help Guide
 ## Purpose
 This form is used to register an Incentive Program with the necessary details of the program and participant. Completing this form will help us process your program for further actions.

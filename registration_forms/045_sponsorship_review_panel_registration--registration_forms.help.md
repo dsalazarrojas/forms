@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a panel of reviewers who will assess and review sponsorships for various projects. The purpose of this form is to ensure that the right experts are selected to review sponsorships and provide valuable feedback to project teams. To avoid duplication, please only register new panelists if you have not already registered them through this form or if there are changes to their availability or expertise areas.
-</thinking>
-
 # Sponsorship Review Panel Registration - Help Guide
 ## Purpose
 This form is used to register a sponsorship review panel with expertise in specific areas.

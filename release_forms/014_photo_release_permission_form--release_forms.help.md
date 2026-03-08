@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're glad you're using our Photo Release Permission Form to request photo releases from your subjects. This guide will walk you through the process of filling out the form, and what each field is for.
 
 # photo_release_permission_form - Help Guide

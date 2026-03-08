@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Rental Check In Form - Help Guide
 ## Purpose
 The Vacation Rental Check In Form is used to collect information from guests checking into a vacation rental property managed by a hospitality company. This form is essential for ensuring that guests have a smooth and enjoyable stay by providing necessary details such as name, contact information, and arrival plans.

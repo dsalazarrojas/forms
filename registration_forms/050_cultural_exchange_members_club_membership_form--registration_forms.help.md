@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for potential members of the Cultural Exchange Members Club. This form is used to collect demographic and program interest information from individuals interested in joining the club. The collected data will be used to create a profile for the member and help the club's administrators manage member interests and needs.
-
-The form will be used by individuals who are interested in joining the club and want to provide their contact information and program interests.
-
-Before proceeding, please make sure you have not already completed the form, as duplicates may cause confusion and lead to unnecessary processing delays.
-
-</thinking>
-
 # Cultural Exchange Members Club Membership Form - Help Guide
 
 ## Purpose

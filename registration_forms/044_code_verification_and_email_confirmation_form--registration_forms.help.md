@@ -1,5 +1,3 @@
-<thinking>...this form is used for users to verify their email address and confirm their identity, as well as confirm that they have read and agree to the terms and conditions and privacy policy. It is a crucial step for users to ensure that their account information is accurate and secure. The form is designed to be completed in a few steps, where users first enter their information, then verify their email address by entering a code sent to them, and finally confirm that they have completed the verification process. This guide will walk you through each field of the form to help users understand what is required and why it's essential for their account.</thinking>
-
 # Code Verification And Email Confirmation Form - Help Guide
 
 ## Purpose

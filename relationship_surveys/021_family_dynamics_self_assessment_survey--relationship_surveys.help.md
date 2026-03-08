@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Dynamics Self Assessment Survey - Help Guide
 ## Purpose
 The Family Dynamics Self Assessment Survey is designed to help individuals understand their family dynamics and communication style within their relationships. This survey is intended for use within families to assess how they communicate, handle conflicts, and make decisions. Its purpose is to aid in identifying areas of improvement, fostering healthy relationships, and promoting effective communication.

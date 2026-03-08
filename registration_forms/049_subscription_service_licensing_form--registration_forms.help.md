@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a user-facing form for subscription service licensing. 
-The form has multiple pages. Each page is meant to collect different information from the user. 
-The form is not strictly required to be completed but it is recommended for users to provide all the information to get the best result. 
-The form is used for users to register their subscription service license. 
-</thinking>
-
 # subscription_service_licensing_form - Help Guide
 ## Purpose
 This form is used for users to register their subscription service license. It has multiple pages, each with different fields to collect various pieces of information from the user.

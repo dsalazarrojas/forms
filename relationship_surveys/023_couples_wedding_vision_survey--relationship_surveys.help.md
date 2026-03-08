@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that this form is used to collect relevant and accurate information about a couple's wedding vision without duplicating efforts. This form should be used by couples to share their ideas and preferences for their special day. It's essential to complete this form accurately to help vendors and wedding planners understand their needs.
-
-</thinking>
-
 # couples_wedding_vision_survey - Help Guide
 ## Purpose
 The couples_wedding_vision_survey form is designed to collect essential information about a couple's wedding vision, including their preferences and ideas for their special day. This form helps wedding planners and vendors understand their needs, ensuring that they can provide the best services and accommodations.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect application details for a screenwriting workshop, a program that aims to educate and train individuals on the art of screenwriting. The form is meant to gather information about the applicant, including their name, email address, and writing samples. The workshop's organizers will use this information to assess the applicant's suitability for the program and to communicate with them about their application status.
-
-To complete this form, please follow the steps outlined below.
-
-</thinking>
-
 # Screenwriting Workshop Admission Form - Help Guide
 ## Purpose
 This form is for individuals who wish to apply for the Screenwriting Workshop. The workshop is an intensive program designed to provide in-depth training on screenwriting techniques and principles. By completing this form, you will be submitting your application for consideration.

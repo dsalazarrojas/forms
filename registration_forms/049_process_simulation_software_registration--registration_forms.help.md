@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users interested in registering their simulation software with our organization. To confirm, this form is intended for software vendors to provide details about their product, such as the title, type, and other relevant information. The form should only be filled out by authorized representatives of software vendors, not by end-users.
-</thinking>
-
 # process_simulation_software_registration - Help Guide
 ## Purpose
 This form is used to register simulation software with our organization. It collects information about the software's title, vendor, and other relevant details.

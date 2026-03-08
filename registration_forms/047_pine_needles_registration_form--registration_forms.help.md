@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for participants. 
-The form will be used to store participant information in a database. 
-This guide will help users understand how to complete the form correctly and what each field means, so they can submit their registration information correctly. 
-No other form with the same form ID is expected to be used at the same time. 
-Please note that some of the fields are not required which means they can be left blank. 
-
-</thinking>
-
 # pine_needles_registration_form - Help Guide
 ## Purpose
 This form is used to collect registration information for participants.

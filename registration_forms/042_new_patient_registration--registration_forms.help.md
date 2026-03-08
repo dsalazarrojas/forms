@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering new patients in a medical setting. It is intended to collect information about the patient, including their first name, last name, date of birth, medical practice, phone number, email address, emergency contact, relationship to the emergency contact, and the emergency contact's name and phone number. This information will be used to update our patient database and facilitate communication with the patient. It is recommended to complete this form only once per patient.
-</thinking>
-
 # New Patient Registration - Help Guide
 ## Purpose
 The New Patient Registration form is designed to collect essential information about new patients in a medical setting. The information collected will be used to update our patient database and facilitate communication with the patient.

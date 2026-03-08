@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wedding_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about a wedding, including details about the bride and groom, the date and time of the wedding, and the location and venue. It is intended to be a comprehensive guide for couples planning their special day.

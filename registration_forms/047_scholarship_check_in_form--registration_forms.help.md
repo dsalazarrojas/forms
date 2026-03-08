@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Scholarship Check In Form. The form is designed to gather information from students and scholars for the purposes of tracking and verification of scholarship attendance. Please note that the form will only be accessible to authorized personnel. Before proceeding, ensure that you are accessing this form with the correct permissions. Additionally, ensure that you are not filling out the form for yourself or others who have already been checked in. Duplicate entries may lead to discrepancies in the scholarship records.
-</thinking>
-
 # Scholarship Check In Form - Help Guide
 ## Purpose
 The Scholarship Check In Form is used to register students and scholars for a particular event, providing essential information for tracking and verification purposes.

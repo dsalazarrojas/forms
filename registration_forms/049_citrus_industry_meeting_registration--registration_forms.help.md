@@ -1,9 +1,3 @@
-<thinking>
-This form is likely designed for attendees to register for a citrus industry meeting, providing necessary information to facilitate their participation in the event. The form collects personal details such as names, contact information, job titles, and company sizes, as well as preferences for networking events, meal options, and potential presenters. The form also inquires about interests in sponsorship and presentation opportunities. 
-
-The form should ensure that attendees provide accurate and complete information to facilitate the meeting's organization and planning.
-
-</thinking>
 # Citrus Industry Meeting Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information for attendees of the Citrus Industry Meeting. This information will be used to facilitate event planning and organization.

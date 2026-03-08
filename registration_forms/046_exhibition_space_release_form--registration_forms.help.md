@@ -1,7 +1,3 @@
-<thinking>
-To be clear and concise, we need to understand that this form is for releasing exhibitor information and related details. It seems like exhibitors will be using this form to share their info, booth requests, and any additional contact information that might be required. We should check if this is the correct form for the intended use case to avoid duplication or errors. The fields seem to be for basic information gathering, such as exhibitor details (name, booth info, contact info), their booth requests, and additional notes. It's crucial to note that the "email" and "phone" fields might be for contact purposes, and "booth_requests" is a select-one type, which implies it's a single selection from a dropdown list. We should ensure that users understand the implications of choosing the correct requests.
-</thinking>
-
 # exhibition_space_release_form - Help Guide
 ## Purpose
 This form is designed to gather information from exhibitors for exhibition space releases. It is intended to be used by exhibitors to share their details, booth requests, and other contact information. Please use this form for its intended purpose only.

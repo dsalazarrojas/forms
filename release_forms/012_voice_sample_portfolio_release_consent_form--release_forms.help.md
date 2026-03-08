@@ -1,10 +1,3 @@
-<thinking>
-We will design a help guide for the "voice_sample_portfolio_release_consent_form" form. This form is used to release a voice sample from a portfolio. To determine relevance, we'll consider the form's structure and fields. The purpose of this form is likely to provide a standardized way to release a voice sample, ensuring consistency and accuracy in the process. We'll check for potential duplication of forms or fields that might cause confusion. 
-
-Given the form's properties, we can infer that it's primarily used to collect metadata about the released voice sample. The fields seem to focus on the sample's name, category, description, assigned tool, output file, timestamp, and form ID.
-
-</thinking>
-
 # Voice Sample Portfolio Release Consent Form - Help Guide
 ## Purpose
 The "voice_sample_portfolio_release_consent_form" is used to release a voice sample from a portfolio. This form helps collect relevant information for the sample, ensuring consistency and accuracy in the process.

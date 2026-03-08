@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for high school admission purposes, likely for students applying to a high school or high school programs. 
-The form is designed to collect demographic information about the student, including their contact details, academic history, and citizenship status. 
-The form also includes fields for emergency contact information, student languages, and other relevant details. 
-It is likely that this form will be completed by school administrators or counselors, but also may be used by students to provide information about themselves. 
-The fields seem well-rounded to cover most of the necessary information for a high school admission process, but it's worth noting that some fields might overlap or have similar intent (e.g., contact_email and emergency_contact). 
-</thinking>
-
 # High School Admission Form - Help Guide
 
 ## Purpose

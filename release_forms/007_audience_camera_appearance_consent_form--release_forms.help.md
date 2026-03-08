@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this is a form designed to capture participant information and consent for an audience camera appearance, such as a public event or recording. This form aims to ensure that participants understand how their likeness will be used and to obtain their consent for the duration and type of recording. The form appears to be comprehensive, covering participant details, event information, usage rights, and consent agreements. I will create a user-facing help guide that is clear, concise, and practical, using the provided YAML fields as a reference.
-</thinking>
-
 # Audience Camera Appearance Consent Form - Help Guide
 ## Purpose
 The Audience Camera Appearance Consent Form is designed to capture participant information and obtain their consent for an audience camera appearance. This form ensures that participants understand how their likeness will be used and for what purposes.

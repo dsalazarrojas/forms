@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from senior citizens for an All Night Party event. It is meant to be completed by seniors who wish to participate in this event. Please note that this form does not duplicate any existing event registration form and is intended for a specific event. The purpose of this form is to gather essential details about the event and its participants.
-</thinking>
-
 # Senior All Night Party Registration Form - Help Guide
 ## Purpose
 The Senior All Night Party Registration Form is a tool used to gather information from senior citizens who wish to participate in an All Night Party event. The form helps to ensure that all necessary details are captured in one place.

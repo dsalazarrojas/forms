@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form that captures new client and pet information. This form will likely be used in a business setting, possibly in a veterinary clinic or pet care facility. The purpose of this form is to collect data about new clients and their pets, including basic contact information, pet type and breed, and owner details. To determine if this form is relevant for the user, we can check if the user needs to add new clients or pets to the system. If the user is a new client themselves, this form might be less relevant as they might not have a pet.
-
-Non-duplication is ensured through the unique IDs assigned to each page and field.
-</thinking>
-
 # new_client_and_pet_information_form - Help Guide
 ## Purpose
 The new_client_and_pet_information_form is designed to collect new client and pet information for business purposes. This form is likely used in a veterinary clinic or pet care facility to add new clients and their pets to the system.

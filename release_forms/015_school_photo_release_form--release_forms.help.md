@@ -1,7 +1,3 @@
-<thinking>
-This form is a School Photo Release Form, which is used to obtain permission from parents or guardians to release their child's photograph for school use. This form is designed to be completed by parents or guardians in order to grant or deny permission for the school to use their child's photograph. The form should not be used for any other purpose.
-</thinking>
-
 # School Photo Release Form - Help Guide
 ## Purpose
 The School Photo Release Form is a document that allows parents or guardians to grant or deny permission for the school to use their child's photograph. This form is used to ensure that parents are aware of how their child's photograph will be used and to obtain their consent before it is used.

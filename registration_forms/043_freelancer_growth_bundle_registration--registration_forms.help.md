@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose**
-The Freelancer Growth Bundle Registration form is designed to gather information from freelancers about their enrollment status, goals, experience levels, and other relevant details. This form helps administrators to track and manage the registration of freelancers for various programs and initiatives. The form is typically used to register new freelancers or update existing ones in a database or system.
-
-**Form Relevance Check**
-Before proceeding, please ensure that this form is relevant to your specific use case. If you're unsure or have specific requirements not met by this form, please reach out to your administrator or support team for assistance.
-
-</thinking>
-
 # Freelancer Growth Bundle Registration - Help Guide
 ## Purpose
 This form is used to register or update freelancers in the system, capturing essential details to facilitate efficient management and tracking.

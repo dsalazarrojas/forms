@@ -1,11 +1,3 @@
-<thinking>
-This form is used for long-term care planning registration. The purpose of this form is to gather information from clients or their representatives regarding their long-term care needs and preferences. This includes identifying the contact person, care coordinator, senior living advisor, family support organization, and other relevant details. The form also includes fields for follow-up information such as follow-up date and time, and a text area for notes.
-
-Before starting to fill out this form, please make sure you have all the required information ready. If you are unsure about any field, please ask your care coordinator or healthcare professional for guidance.
-
-This form will be used to create a record for the client in our system and will be used to provide personalized care and support.
-</thinking>
-
 # long_term_care_planning_registration - Help Guide
 ## Purpose
 The long-term care planning registration form is designed to gather information from clients or their representatives to support their long-term care needs and preferences.

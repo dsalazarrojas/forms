@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is not duplicated, it's essential to check if the business is already registered before proceeding with this form. Also, the form should only be filled out by businesses that are part of the retail industry or a subcategory thereof. The purpose of this form is to register a business with the retail point-of-sale system, providing essential information for the system's configuration and data management.
-</thinking>
-
 # retail_pos_system_beta_registration_form - Help Guide
 ## Purpose
 This form is designed to register a business with the retail point-of-sale system. Please fill out this form to provide essential information about your business.

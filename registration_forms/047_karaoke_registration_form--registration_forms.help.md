@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to register for a Karaoke event, providing their name, preferred song, desired date and time, contact information, and any additional message. It is essential to fill out the form accurately and completely to ensure smooth registration and communication with the organiser.
-
-Before proceeding, please ensure that you have read and understood the form's requirements to avoid duplication and misrepresentation.
-
-</thinking>
-
 # Karaoke Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from registrants to participate in a Karaoke event. Please fill it out carefully and completely to ensure accurate registration.

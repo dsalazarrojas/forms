@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # Laser COVID 19 Liability Release Waiver - Help Guide

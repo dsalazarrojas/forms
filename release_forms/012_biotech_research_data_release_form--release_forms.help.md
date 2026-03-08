@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information and facilitate the release of biotech research data to an external entity. The form is intended for researchers requesting data from an internal data repository. The form should only be used for genuine requests and should not be used for duplicate or non-relevant requests. 
-
-The form is divided into several sections, each of which corresponds to specific aspects of the data release process. 
-
-This form requires the following information:
-   - Data release requester details
-   - Data release information
-   - Data recipient details
-   - Purpose and use of data
-   - Data use restrictions
-   - Data compliance and approval information
-   - Authorization and signature
-
-Please review each section carefully and provide accurate information to ensure successful data release.
-</thinking>
-
 # Biotech Research Data Release Form - Help Guide
 ## Purpose
 The Biotech Research Data Release Form is used by researchers requesting data from an internal data repository.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and product data for training purposes. It aims to gather details about the user, contact information, hair-related details, product information, and any additional comments or remarks. The form will serve as a template for training data collection, which can be used for further analysis and processing.
-</thinking>
-
 # Hair Product Brand Training Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register and provide information about themselves, their contact details, and product-related data. The collected data will be used for training purposes.

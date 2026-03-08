@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a youth hockey player. 
-The purpose of this form is to collect relevant player information for registration purposes, which includes player and emergency contact contact information, date of birth, and player position.
-This information is intended to be completed by the parent or guardian of the player, not directly by the player themselves. 
-Please ensure to check with the relevant authority if you are unsure what information is required or what constitutes a valid registration before proceeding. 
-This form has multiple pages, please ensure to complete all pages carefully before submitting the form. 
-</thinking>
-
 # Youth Hockey Registration Form - Help Guide
 ## Purpose
 The Youth Hockey Registration Form is used to register a youth hockey player. This form is intended to be completed by the parent or guardian of the player and is used to collect relevant player information for registration purposes.

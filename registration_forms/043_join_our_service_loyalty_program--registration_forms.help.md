@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the Prophets Loyalty Program. It's used to gather information from customers about their loyalty program experiences or preferences. This form will help us understand customer's loyalty status, their service provider details, and other relevant information. Please ensure you have a valid reason to submit this form and not duplicate your previous submissions.
-</thinking>
-
 # join prophets loyalty program - Help Guide
 ## Purpose
 The join prophets loyalty program form is designed to collect information from customers about their experiences and preferences related to the Prophets Loyalty Program. This form is for customers who want to participate in, or have questions about, the program.

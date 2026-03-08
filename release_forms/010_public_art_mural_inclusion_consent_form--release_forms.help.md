@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by individuals who wish to be featured in a public art mural, and is meant to capture their contact information, the nature of their mural participation (e.g., as a subject, artist, or model), and their consent to be included in the mural's documentation. The form ensures that participants understand the context and implications of being featured in a public art project.
-
-</thinking>
 # Public Art Mural Inclusion Consent Form - Help Guide
 ## Purpose
 This form is used to collect contact information, mural participation details, and consent from individuals who wish to be featured in a public art mural. It is meant to be a simple and straightforward process to ensure that participants are aware of the project's context and implications.

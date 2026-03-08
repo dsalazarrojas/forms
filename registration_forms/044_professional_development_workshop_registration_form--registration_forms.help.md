@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will first analyze the provided YAML to understand the form's purpose and fields. It appears that this form is designed for users to register for a professional development workshop, likely for employees, attendees, or participants. The form asks for basic information such as workshop name, attendee's name, email, phone number, date, time, and note. The form is not strictly required, which implies that it's not a mandatory registration process. This form might be used for internal purposes or for tracking attendance. Before proceeding, I'll check if this form is relevant to the user's current task and if they are not already registered for the workshop.</thinking>
-
 # Professional Development Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to help you register for a professional development workshop. Please fill out this form to provide the required information to secure your spot in the workshop.

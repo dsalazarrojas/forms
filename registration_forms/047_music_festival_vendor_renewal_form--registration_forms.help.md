@@ -1,17 +1,3 @@
-<thinking>
-This form is for vendors who wish to renew their vendor status at the music festival. The form is used to collect information from vendors about their business and contact details. This form is part of the festival's vendor management system, allowing for easy renewal of vendor status without having to create a new form for each vendor.
-
-Before proceeding, please note that:
-
-- This form is for vendors who already have an existing account with the festival.
-- This form will not create a new vendor account.
-
-The goal of this form is to ensure that vendors can easily renew their status and update their information without requiring multiple interactions.
-
-Please review the form fields carefully and ensure that you have all necessary information before submitting the form.
-
-</thinking>
-
 # Music Festival Vendor Renewal Form - Help Guide
 ## Purpose
 The Music Festival Vendor Renewal Form is designed to allow vendors to easily renew their vendor status and update their information.

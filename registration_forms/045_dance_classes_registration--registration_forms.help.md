@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is properly filled out, we need to check that the form purpose and its intended use case are correctly defined. This form is used for the registration of dance classes, which means it should be used by customers or students to sign up for dance classes. To prevent duplication of effort, we should also check that the form is not being filled out for other purposes such as event registration or membership registration. 
-</thinking>
-
 # Dance Classes Registration - Help Guide
 ## Purpose
 This form is used to register for dance classes. Fill out this form to sign up for a dance class that suits your interests and schedule.

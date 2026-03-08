@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for the registration of students and programs for the Open Resources for Programmatic Research and Development (OPRD) initiative. The form will be used to collect information about students and programs, including name, grade level, program name, and contact details for both the student and the program. This will help in creating a database of students and programs that can be used for future reference and research.
-
-</thinking>
-
 # oprf_enrollment_form - Help Guide
 ## Purpose
 The Open Resources for Programmatic Research and Development (OPRD) initiative requires the registration of students and programs for various purposes. This form is designed to collect detailed information about students and programs, which will be stored in the database for future reference.

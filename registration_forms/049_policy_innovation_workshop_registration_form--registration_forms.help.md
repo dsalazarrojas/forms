@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect registration information from participants for the Policy Innovation Workshop. This form is intended for event organizers (Jimmy, John, or Mary) and requires participant information (name, email, and phone number) and workshop details (date, time, and location). The form will help organizers manage registrations efficiently. Please ensure you only register once for the workshop... </thinking>
-
 # Policy Innovation Workshop Registration Form - Help Guide
 ## Purpose
 The Policy Innovation Workshop Registration Form is designed to collect registration information from participants for the workshop. This form helps event organizers manage registrations efficiently and ensures that participants provide accurate and up-to-date information.

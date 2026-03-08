@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about parents' engagement with their child's education, specifically their level of involvement, communication preferences, and daily habits. This data will help us understand how parents interact with their children and identify areas where we can improve our services to better support parents and children.
-
-To confirm that this form is not a duplicate, we'll check for any existing records of the same survey title. If there are no records, we'll proceed to collect new data.
-
-Before proceeding, please make sure you are completing this form with your child in mind and as their primary caregiver.
-
-Please note that answers will be kept anonymous and confidential. We will only use this data to improve our services and support the development of educational programs for children.
-</thinking>
-
 # Parent Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect information about parents' engagement with their child's education. Your participation will help us understand how parents interact with their children and identify areas where we can improve our services.

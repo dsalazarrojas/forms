@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering voter information. The form will ask for basic information about the citizen such as name, email, phone number, address, date of birth, voter status, registration method, and update reason. This information will be used to update the voter status and registration method in the database. To fill this form, the user should have the necessary permissions and access rights. The form is designed for internal use only and should not be filled by anyone without authorization.
-</thinking>
-
 # voter_registration_form - Help Guide
 ## Purpose
 This form is used for registering voter information and updating the voter status and registration method in the database.

@@ -1,15 +1,3 @@
-<thinking> 
-
-The purpose of this form is to collect release and agreement information from participants, such as models, participants, staff, and guests, for Fashion Week Backstage events. It's essential to ensure that everyone has the necessary permissions and agreements in place before allowing them to access the backstage areas. This form will help us manage the flow of people and keep track of their agreements and releases. 
-
-Please note that this form is for participants who need access to the backstage area during Fashion Week events. If you're a participant or staff member, please fill out this form carefully and accurately. If you're unsure about any information, please reach out to the Fashion Week team for guidance. 
-
-Before submitting the form, make sure you have all the required information and have reviewed the agreements carefully. 
-
-Please do not duplicate or submit incomplete forms. 
-
-</thinking>
-
 # Fashion Week Backstage Release Form - Help Guide
 ## Purpose
 

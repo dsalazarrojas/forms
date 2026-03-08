@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about public speaking engagements, such as speaker details, presentation topic, time, and audio-visual (AV) requirements. The form aims to ensure that all relevant information is collected for the speaker's engagement. To ensure accuracy, please complete the form carefully and thoroughly.
-</thinking>
-
 # Public Speaking Engagement Check Out Form - Help Guide
 ## Purpose
 The Public Speaking Engagement Check Out Form is designed to collect essential details about public speaking engagements. This form helps ensure that all necessary information is captured to facilitate a smooth and successful event.

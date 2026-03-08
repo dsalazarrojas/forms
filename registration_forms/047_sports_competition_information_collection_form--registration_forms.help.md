@@ -1,23 +1,3 @@
-<thinking>
-This form seems to be designed to collect information about sports competitions. It appears to be a generic form, likely used for registration or reporting purposes. To confirm, I'll assume it's used to gather details about upcoming or ongoing sports competitions, including participant information and event specifics. This form likely serves as a starting point for further processing or reporting within the organization.
-
-Before proceeding, let's review the form fields:
-
-*   `competition_info`: This field is optional and seems to be a free-text field where users can provide any additional details about the competition.
-*   `participant_info`: Another free-text field for any extra participant information.
-*   `league_info`: Again, an optional free-text field for league details.
-*   `participant_details`: A free-text field for participant specifics.
-*   `registration_info`: An optional free-text field for registration information.
-*   `competition_type`: A dropdown menu with three options: Sports, Event, and Tournament. This field seems to be used to categorize the competition type.
-*   `competition_date`: A date field for specifying the competition date.
-*   `competition_time`: A time field for the competition time.
-*   `participant_name`: A free-text field for the participant's name.
-*   `participant_phone`: An optional free-text field for participant contact information.
-*   `participant_email`: An email field for participant contact information.
-*   `participant_address`: A free-text field for participant contact address.
-
-Considering the fields and the context, there's no apparent duplication or redundancy in the form structure. The form seems well-defined for its intended purpose.</thinking>
-
 # Sports Competition Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information about sports competitions. It's likely used for registration or reporting purposes within the organization. The form helps gather competition details and participant information.

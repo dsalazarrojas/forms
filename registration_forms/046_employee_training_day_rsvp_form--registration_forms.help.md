@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from employees to help plan and organize training sessions. The form will likely be used during or before the employee training day to ensure that the necessary information is collected for the event's organization. This form should only be completed once per employee, and the information collected will be used to tailor the training content and materials to the attendees' needs. Please ensure that you are not duplicating your RSVP, as this may lead to confusion and unnecessary work for the event organizers.
-</thinking>
-
 # Employee Training Day RSVP Form - Help Guide
 ## Purpose
 This form is for employees to register their interest and provide information for the employee training day. Please fill out the form accurately to ensure that the training session is tailored to your needs.

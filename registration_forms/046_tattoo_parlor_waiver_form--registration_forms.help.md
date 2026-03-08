@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to register their information and consent to receive services from a tattoo parlor. The primary goal is to ensure the customer is aware of, and agrees to, the terms and conditions of the parlor's services. The form will be used to collect basic contact information, select the type of service desired, and sign off on the consent form. This is a one-time form that should not be duplicated for each visit. Ensure all fields are filled out accurately to facilitate quick and efficient service processing.
-</thinking>
-
 # Tattoo Parlor Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from customers, including their contact details and service preferences, as well as obtain their consent to receive services at the parlor.

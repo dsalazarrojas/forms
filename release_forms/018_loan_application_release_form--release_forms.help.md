@@ -1,9 +1,3 @@
-<thinking>
-We can create a helpful guide for the Loan Application Release Form. Let's analyze the form fields and their labels to ensure we understand their purpose and intent. Upon reviewing the form YAML, it appears to be collecting personal and employment information, loan details, and contact preferences. Some fields seem to be duplicates or have unclear labels, but we can make assumptions based on common industry practices and provide explanations for each field.
-
-Form fields with unclear or duplicate labels will be addressed with best-effort explanations, but keep in mind that we cannot create new business logic without further context or clarification from the form's creators.
-
-</thinking>
 # Loan Application Release Form - Help Guide
 ## Purpose
 The Loan Application Release Form is designed to collect information about an individual's loan application, including their personal details, employment status, and contact preferences. This form aims to gather all necessary information for the loan application process.

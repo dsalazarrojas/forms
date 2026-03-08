@@ -1,8 +1,3 @@
-<thinking> 
-The Relationship Self Assessment Questionnaire is designed to help individuals evaluate the dynamics and health of their relationships. This form is likely intended for couples or partners to assess their relationship's quality, growth, and satisfaction. It appears to be a comprehensive assessment tool that covers various aspects of relationships, including relationship status, communication, conflict resolution, intimacy, emotional maturity, and relationship growth. To avoid duplication, this form should be used for each unique relationship being assessed, and the results should be analyzed in the context of each relationship.
-
-</thinking>
-
 # Relationship Self Assessment Questionnaire - Help Guide
 ## Purpose
 This guide is designed to help you complete the Relationship Self Assessment Questionnaire. The form is intended to help you evaluate the dynamics and health of your relationship.

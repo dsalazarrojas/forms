@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information from media release. The purpose of this form is to gather details about a media release, which can include a photo, video, audio, written content, or other types of media. The form is designed to be completed by individuals or organizations releasing media to be used by a magazine.
-</thinking>
-
 # magazine_media_release_form - Help Guide
 ## Purpose
 The magazine_media_release_form is used to collect user information from media releases, including details about the type of media and its usage rights.

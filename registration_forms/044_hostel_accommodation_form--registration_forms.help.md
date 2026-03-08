@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will analyze the form's title and fields. 
-This form seems to be for users to provide information about their accommodation preferences and needs. 
-The form has fields for user contact information, accommodation type, check-in and check-out dates, and payment method. 
-These fields suggest that the form is for users to book or arrange for accommodation in a hostel. 
-This guide will help users understand how to complete the form and provide clear explanations for each field to ensure accuracy and consistency in the information provided. 
-</thinking>
-
 # Hostel Accommodation Form - Help Guide
 ## Purpose
 This form is for users to provide information about their accommodation preferences and needs when booking a room in a hostel. 

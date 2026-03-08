@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining photo releases from individuals or their representatives for the use of their photos. The form helps to ensure that the person releasing the photo has given consent for its use and understand the terms of the release. This form is not intended for internal use, but rather for external parties who wish to use the photos.
-</thinking>
-
 # Photo Release Consent Form - Help Guide
 
 ## Purpose

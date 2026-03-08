@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from exhibitors for their badges and shipping details. The form will be used to create their badges and arrange for shipping. It's crucial that the form is filled out accurately, as any mistakes may cause delays or incorrect badges.
-</thinking>
-
 # Exhibitor Badge And Shipping Form - Help Guide
 ## Purpose
 The Exhibitor Badge And Shipping Form is designed to collect essential information from exhibitors for their badges and shipping details. This form helps us to create their badges and arrange for accurate shipping.

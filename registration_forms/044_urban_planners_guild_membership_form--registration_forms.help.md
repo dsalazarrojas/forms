@@ -1,12 +1,3 @@
-<thinking>
-The Urban Planners Guild Membership Form is a tool used for new members to register with the Urban Planners Guild. This form will guide you through the process of creating a new member profile, which will be used for communication and resource sharing. 
-
-Before starting the membership process, ensure that the member is not already listed in the Urban Planners Guild database. If they are, they can skip this form and contact the guild administrators directly to update their information.
-
-The form is divided into several pages, each with its specific purpose. Below is a step-by-step guide to help you understand what information is needed and what to expect from each page.
-
-</thinking>
-
 # Urban Planners Guild Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential members interested in joining the Urban Planners Guild. The form helps the guild maintain a record of its members and ensures that members receive relevant resources, updates, and information.

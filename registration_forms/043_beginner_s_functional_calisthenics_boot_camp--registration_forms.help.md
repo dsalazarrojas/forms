@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for the Beginner S Functional Calisthenics Boot Camp, a fitness program designed for individuals interested in starting a functional fitness journey. The purpose of this form is to gather information about the registrant's background, preferences, and goals to better understand their needs and provide a suitable experience during the boot camp. This form is required for registration and cannot be duplicated.
-</thinking>
-
 # Beginner S Functional Calisthenics Boot Camp - Help Guide
 ## Purpose
 This form is for registering for the Beginner S Functional Calisthenics Boot Camp, a fitness program designed for individuals interested in starting a functional fitness journey.

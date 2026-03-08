@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Serving The Underserved Registration Form Draft", I will first analyze the provided YAML data and understand the form's purpose and structure.
-
-This form appears to be a registration form with several fields related to various aspects of serving the underserved population, such as offering health services and making a difference. The form does not require any specific knowledge or proprietary content from other platforms, as it is AI-generated using public metadata.
-
-The form has seven fields:
-1. Registration form draft (id: 1)
-2. Serving the underserved registration form draft (id: 2)
-3. Registration form template (id: 3)
-4. Offer your health services (id: 4)
-5. Make the difference (id: 5)
-6. Register with this form template (id: 6)
-7. Serving the underserved (id: 7)
-
-The form's purpose is likely to collect information from individuals or organizations interested in serving the underserved population, possibly for registration or membership purposes.
-
-</thinking>
-
 # Serving The Underserved Registration Form Draft - Help Guide
 
 ## Purpose

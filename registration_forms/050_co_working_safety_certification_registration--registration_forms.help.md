@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals registering for the Co-Working Safety Certification program. This form ensures that registrants understand and agree to comply with the building's safety and security regulations, emergency procedures, and protocols. It also requires registrants to provide their personal details, including their full name, email address, and mobile phone number, as well as an emergency contact's name and phone number. The form is divided into sections to guide the registrant through the registration process. This form is intended for internal use, and it's essential to ensure that users have the necessary permissions and agreements in place before starting the registration process.
-
-This form is a critical document that requires specific fields to be filled out by the registrant, ensuring that they have the necessary knowledge and understanding to safely use the co-working space. The form is designed to be completed in a step-by-step manner, making it easy to navigate and understand.
-
-Before completing this form, please note that it's essential to have the necessary permissions and agreements in place to use the co-working space safely and securely.
-
-Please review the fields carefully, as they are mandatory for completion. This form will help ensure that you have a safe and secure experience while using the co-working space.
-
-If you need help or clarification on any of the fields, please don't hesitate to reach out to our support team.
-
-The form is divided into the following sections:
-
-* Section 1: Registrant information
-* Section 2: Session details
-* Section 3: Contact and emergency information
-* Section 4: Policy acknowledgment and agreement
-* Section 5: Registration and submission
-
-Each field is labeled with its corresponding section and a clear description to make it easy to understand the purpose of each field.
-
-Please complete the form carefully, as your registration will not be processed without the required information.</thinking>
-
 # Co-Working Safety Certification Registration - Help Guide
 ## Purpose
 This form is used to register for the Co-Working Safety Certification program, which ensures that you have the necessary knowledge and understanding to safely use the co-working space.

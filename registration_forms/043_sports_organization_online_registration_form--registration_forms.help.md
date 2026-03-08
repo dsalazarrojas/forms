@@ -1,12 +1,3 @@
-<thinking>
-  This form is intended for individuals to register with a sports organization, 
-  providing personal and contact information. It captures essential data 
-  including the name of the sports organization, sports interests, and contact 
-  details. This form ensures that the registrant provides accurate and valid 
-  information, which will be reviewed and potentially approved by the sports 
-  organization.
-</thinking>
-
 # sports_organization_online_registration_form - Help Guide
 ## Purpose
 This form is designed for individuals to register with a sports organization and 

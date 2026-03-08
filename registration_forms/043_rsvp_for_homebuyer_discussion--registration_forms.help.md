@@ -1,7 +1,3 @@
-<thinking>
-The form "rsvp_for_homebuyer_discussion" is designed to collect feedback and attendance information from potential homebuyers. This form is typically used for internal purposes, such as tracking responses and analyzing feedback. To ensure accuracy and relevance, please review this help guide carefully before proceeding.
-</thinking>
-
 # rsvp_for_homebuyer_discussion - Help Guide
 ## Purpose
 This form is used to collect attendance information and feedback from potential homebuyers. Please indicate if you plan to attend the discussion and provide any necessary contact information and other relevant details.

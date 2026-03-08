@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees and exhibitors for a virtual job fair. The form is used to gather contact information, job details, and other relevant data about the job fair. This form is intended for both attendees and exhibitors. The form should only be filled out once per attendee/exhibitor, and the data will be stored for future reference.
-</thinking>
-
 # Virtual Job Fair Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from attendees and exhibitors for a virtual job fair.

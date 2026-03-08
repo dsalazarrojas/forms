@@ -1,10 +1,4 @@
-> <thinking>...
-  
-This form is intended for checking in fundraisers and collecting information from attendees. It's designed to be a general-purpose form for various types of events, such as fundraisers, events, and registrations. Please ensure you're filling out this form for the correct purpose and event type to avoid duplication of efforts. If you're unsure, please refer to your event organizer or the event's description for clarification.
-
-</thinking>
-
-# Fundraiser Check In Form - Help Guide
+> # Fundraiser Check In Form - Help Guide
 ## Purpose
 The Fundraiser Check In Form is designed to collect information from attendees, organizers, and speakers at various events, such as fundraisers, events, and registrations.
 

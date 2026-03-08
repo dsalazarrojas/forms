@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Host Event Legal Release Authorization form. The form is designed to gather necessary information from event participants, including their consent to release their rights and responsibilities to the event host. This form is typically used in events where the host wishes to use the participant's image, likeness, or other identifying information for promotional purposes.
-
-Before filling out this form, ensure that you have not previously submitted this form for the same event, as duplication of submission is not allowed.
-
-</thinking>
-
 # Host Event Legal Release Authorization - Help Guide
 ## Purpose
 The Host Event Legal Release Authorization form is a mandatory document that must be completed by event participants to grant the event host permission to use their image, likeness, or other identifying information for promotional purposes.

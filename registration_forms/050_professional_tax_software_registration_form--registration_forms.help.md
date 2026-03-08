@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a registration form for a professional tax software, possibly for users or businesses that need to report tax-related information. The form's purpose is to collect details about the user, their company, the software they are using, and other relevant information for registration. This form likely serves as a starting point for a tax software's onboarding process or a one-time registration requirement. I will make sure to keep this in mind while explaining each field to the user.
-
-</thinking>
-
 # professional_tax_software_registration_form - Help Guide
 ## Purpose
 The Professional Tax Software Registration Form is designed to collect essential details from users or businesses for tax-related registration purposes. This form helps us understand your requirements and ensures a smooth onboarding process with our professional tax software.

@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the Health Data Transparency Forum Registration Form, ensuring they understand the form's purpose, how to fill it out accurately, and what each field represents. 
-
-The form aims to collect information from users about themselves, including identifying details, contact information, and specific submission data for transparency reasons. Each field has been designed to gather unique details, and users should fill out the form accordingly.
-
-The fields are categorized into two main sections: mandatory fields, which must be filled out by all users, and optional fields, which allow users to provide additional context or alternative information. Mandatory fields include name, email address, password, confirmation of password, submission date, submission time, and submission date and time. Optional fields offer users the possibility to provide alternative contact information and additional notes or details.
-
-Before proceeding, please ensure you've read the help guide to understand the purpose and significance of each field, as accuracy and completeness are essential.
-
-</thinking>
-
 # Health Data Transparency Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from users for the purpose of transparency and record-keeping. Your submission will help maintain the integrity of the Health Data Transparency Forum.

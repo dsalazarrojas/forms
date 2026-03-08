@@ -1,5 +1,3 @@
-<thinking>... I need to carefully review the provided YAML fields and use that information to create a user-facing help guide for the "Insurance Policy Subscription Form". I will make sure to clearly explain each field, provide a concise structure, and ensure that the explanations are concrete and practical. I will also make sure to check if the form purpose and fields are well-suited for the intended use case... </thinking>
-
 # Insurance Policy Subscription Form - Help Guide
 
 ## Purpose

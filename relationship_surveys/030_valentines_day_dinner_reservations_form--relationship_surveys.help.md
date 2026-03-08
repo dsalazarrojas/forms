@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a user to make reservations for a Valentine's Day dinner event. The form is intended to capture the basic contact information (name and email), a phone number for contact, the preferred date and time of the event, the size of the party, and the time slot for the reservation. The form also allows users to provide special requests. This form is likely to be used by event organizers to collect information for the upcoming event. To avoid duplicate reservations, users should make sure to check if they have already made a previous reservation before submitting this form.
-</thinking>
-
 # Valentines Day Dinner Reservations Form - Help Guide
 ## Purpose
 This form is intended to allow users to make reservations for a Valentine's Day dinner event.

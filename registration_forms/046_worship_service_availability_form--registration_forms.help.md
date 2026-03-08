@@ -1,15 +1,3 @@
-<thinking>
-
-To create a help guide for the Worship Service Availability Form, I need to first understand the form's purpose and how it is used. Based on the provided YAML, it appears that this form is designed to collect information from volunteers about their availability to participate in worship services. The form likely serves as a way to organize and manage volunteer schedules for a church or other place of worship.
-
-The form has multiple pages, but only one page (volunteer_availability_1) asks for personal information (volunteer name), while the rest of the pages ask for availability-related questions. The questions cover service frequency, specific days of the week and time slots, number of hours volunteered, duration of volunteering, and preferences regarding short-notice and holiday volunteering. 
-
-Given that the form has a mix of select_one and select_multiple fields, it's likely that this form is designed for volunteers who can choose from multiple slots on specific days of the week, but also provide information about how many hours they can volunteer and how long they are willing to volunteer. The options for select_one fields are limited to specific time slots, which suggests that the form is not asking for open-ended responses but rather specific preferences or availability.
-
-The form is likely used to collect data for the church or place of worship to create a schedule for volunteers, taking into account their preferences and availability.
-
-</thinking>
-
 # Worship Service Availability Form - Help Guide
 ## Purpose
 

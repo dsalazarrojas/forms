@@ -1,9 +1,3 @@
-<thinking>
-Please ensure that the Waterpark Registration Form is used only for registering users who are eligible to use our services. Please note that this form is a general information form and not intended for sensitive or critical data.
-
-The form has multiple pages but all fields are located on the same page. The user can complete the form in multiple steps or at once.
-</thinking>
-
 # Waterpark Registration Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed for speakers to register for a panel discussion event. The form collects essential information about the speaker, including their details, topics, bio and photo, contact information, and confirmation of their attendance. The form is divided into separate sections, and each field is labeled to help speakers understand what to expect. The form's purpose is to ensure smooth communication and preparation for the event.
-</thinking>
-
 # panel_discussion_speaker_registration - Help Guide
 ## Purpose
 The panel discussion speaker registration form is designed for speakers to provide their information and confirm their attendance. This form helps us to prepare for the event, ensuring a smooth and successful discussion.

@@ -1,12 +1,3 @@
-<thinking>
-The "Sponsorship And Resource Registration" form is designed to collect information from sponsors who are providing funding or in-kind resources to an organization. This form helps the organization track and manage sponsorships, including sponsor details, funding levels, and resource contributions.
-
-Before filling out this form, please ensure that you are a legitimate sponsor and have permission from the organization to submit this form. 
-
-Also, note that some fields may be optional, but it's crucial to fill out as much information as possible to accurately represent your sponsorship.
-
-</thinking>
-
 # Sponsorship And Resource Registration - Help Guide
 ## Purpose
 This form is used to collect and track sponsorship information from organizations or individuals providing funding or in-kind resources to our organization.

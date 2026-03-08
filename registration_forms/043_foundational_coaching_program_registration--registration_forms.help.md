@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to register an individual for a Foundational Coaching Program. This form will collect information about the registrant, such as their name, contact information, program interest, coaching level, and other relevant details. The form aims to gather accurate and complete information to ensure a successful program registration process. To ensure data consistency and accuracy, it is recommended to fill out all required fields and confirm information where applicable. Please fill out the form carefully and thoroughly to avoid any potential errors or duplicates.</thinking>
-
 # Foundational Coaching Program Registration - Help Guide
 ## Purpose
 The Foundational Coaching Program Registration form is designed to collect information from individuals interested in or already registered for the program. The form helps to ensure accurate and complete information is gathered for the program registration process.

@@ -1,7 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Umrah Retreat Registration Form" to ensure end-users understand the form's purpose, how to complete it, and what each field means. This guide will be based on the provided YAML fields and will aim to be concrete, concise, and practical.
-</thinking>
-
 # Umrah Retreat Registration Form - Help Guide
 ## Purpose
 The Umrah Retreat Registration Form is designed to collect essential information from participants for a smooth and safe experience during the retreat. This guide will walk you through the form's sections and help you understand the required and optional fields.

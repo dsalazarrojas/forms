@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to register a student's participation in a toothbrushing program. To ensure accurate and efficient data collection, please review this guide carefully before starting the form.
-The form is intended for parents and guardians to provide information about their child's participation in the program, including their personal details, program enrollment dates, and contact information. It is not affiliated with, endorsed by, or derived from any form platform, but rather an original creation based on public survey topic metadata.
-Before filling out the form, please note that some fields are required, marked with an asterisk (*), and others are optional. Please ensure that you fill in all required fields accurately to avoid form submission errors.</thinking>
-
 # Toothbrushing Program Registration - Help Guide
 ## Purpose
 The Toothbrushing Program Registration form is designed to collect information from parents and guardians about their child's participation in the program.

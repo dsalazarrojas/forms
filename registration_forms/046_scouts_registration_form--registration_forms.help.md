@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is being used for its intended purpose and not for any other reason. This form is meant for the registration of scouts, and its purpose is to collect relevant information for their registration. We need to ensure that the user is aware of what each field is for and how to complete it properly. Let's go through each field to make sure they understand what's required and what's optional.
-</thinking>
-
 # Scouts Registration Form - Help Guide
 ## Purpose
 The Scouts Registration Form is a form designed to collect information for the registration of scouts. It's essential to complete this form accurately to ensure that the scout's details are correctly recorded.

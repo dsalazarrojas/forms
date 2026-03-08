@@ -1,17 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form, "photography_workshop_registration_form", appears to be a multi-page form designed for participants to register for a photography workshop. The form collects various details about the participant, including contact information, payment details, and workshop-related information. It seems to be intended for workshop organizers or administrators to gather necessary data for participant management and workshop planning. Upon reviewing the form fields, we notice the following sections:
-
-- **Workshop Details**: This page likely asks for basic workshop information such as title or description.
-- **Participant Details**: Here, the user is asked to provide personal details, including name, email, phone number, and possibly some additional notes.
-- **Payment and Status**: This page involves payment methods, amounts, and status, indicating that the form may be used for tracking payments and participant status (e.g., confirmed, pending, cancelled).
-- **Additional Information**: The last sections are dedicated to capturing participant's photo equipment, agreement, and terms, which might be used for workshop-specific requirements and rules.
-
-Given these observations, the form seems designed to handle participant registration, payment, and status updates for a photography workshop.
-
-</thinking>
-
 # photography_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for a photography workshop.

@@ -1,5 +1,3 @@
-<thinking>Before you begin, let's ensure that this form is relevant and not a duplication of effort. Please review the form's purpose and ensure that it aligns with your current processes and procedures. The "Employee Feedback Release Form" is designed to collect feedback from employees on their experiences, suggestions for improvement, and overall rating of their workplace. This form will help identify areas of strength and areas for improvement, enabling managers to make data-driven decisions.</thinking>
-
 # Employee Feedback Release Form - Help Guide
 ## Purpose
 The "Employee Feedback Release Form" is a tool to collect employee feedback, suggestions, and ratings to help identify areas of strength and areas for improvement in the workplace.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential attendees of the AI-Driven Decision Strategy Workshop. This form will help us understand who is attending, their background, and their interests, so we can tailor the workshop content and make it more valuable for everyone. Please fill out this form carefully and thoroughly. Note that all fields are required unless specified otherwise. This form has been created using AI and is an original adaptation of public survey topic metadata, not affiliated with or endorsed by any form platform.
-</thinking>
-
 # AI Driven Decision Strategy Workshop Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for the AI-Driven Decision Strategy Workshop. The form is designed to collect information about you and your interests, so we can tailor the workshop content and make it more valuable for everyone.

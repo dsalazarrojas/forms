@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # manufacturing_risk_assessment_workshop_registration - Help Guide
 
 ## Purpose

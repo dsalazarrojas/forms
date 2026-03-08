@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tenants to register their security innovations. To ensure relevance and avoid duplication, please only submit one registration per tenant.
-</thinking>
-
 # Tenant Security Innovation Registration Form - Help Guide
 ## Purpose
 The Tenant Security Innovation Registration Form is a document that allows tenants to provide information about themselves and their company. This form is used to collect data that will help us better understand security innovations implemented within our tenant base.

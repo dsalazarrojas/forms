@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to release their travel experience and associated details to the travel agency, ensuring that the agency is aware of any medical conditions, allergies, or emergency contact information. This form is essential for the agency to manage participant safety and ensure a smooth experience for both the participant and the agency.
-</thinking>
-
 # Travel Experience Release Form - Help Guide
 ## Purpose
 This form is used for participants to release their travel experience and associated details to the travel agency.

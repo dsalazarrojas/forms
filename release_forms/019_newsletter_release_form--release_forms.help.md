@@ -1,9 +1,3 @@
-<thinking>
-# The purpose of this form is to collect information about newsletter releases from end users.
-This form is used to gather relevant data for a specific project.
-There is no duplication risk with regards to other forms or projects.
-</thinking>
-
 # newsletter-release-form - Help Guide
 ## Purpose
 The newsletter-release-form is a data collection tool designed to gather relevant information about newsletter releases from end users. This form serves as a means to understand the specific needs and requirements of users, which in turn will help improve the newsletter content and overall release process.

@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to gather information from attendees for the Ingredient Transparency Summit. The purpose of the form is to collect attendee details, session preferences, and consent to ensure a smooth and informed experience for all attendees.
-The form is a two-page form with six fields, each with its own label and purpose. To complete the form, users will need to provide the following information:
-* Page 1: Registration Form (form_1) - This page is optional and serves as an introduction to the form.
-* Page 2: Attendee Details (attendee_details) - This page is also optional, but it's where users will provide information about themselves.
-* Page 3: Session Preference (session_preferences) - This page is optional and allows users to select their preferred session.
-* Page 4: Consent (consent) - This page is required and is used to obtain consent from attendees to process their data.
-* Page 5: Form 5 (form_5) - This page is optional and serves as a placeholder for any additional information.
-* Page 6: Attendee (attendee) - This page is optional and is intended for users to provide further details about themselves.
-Each field in the form has a specific label and type. Here's a breakdown of each field:
-* Registration Form (form_1): <plain explanation of form_1 label>
-* Attendee Details (attendee_details): <plain explanation of attendee_details label>
-* Session Preference (session_preferences): Select your preferred session. This field is a multiple selection field with two options: Yes and No.
-* Consent (consent): Select Yes or No to indicate your consent.
-* Form 5 (form_5): <plain explanation of form_5 label>
-* Attendee (attendee): <plain explanation of attendee label>
-</thinking>
-
 # Ingredient Transparency Summit Registration - Help Guide
 ## Purpose
 The Ingredient Transparency Summit Registration form is a two-page form designed to gather information from attendees for the summit. The form collects attendee details, session preferences, and consent to ensure a smooth and informed experience for all attendees.

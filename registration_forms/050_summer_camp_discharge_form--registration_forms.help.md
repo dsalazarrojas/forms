@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Discharge Form - Help Guide
 
 ## Purpose

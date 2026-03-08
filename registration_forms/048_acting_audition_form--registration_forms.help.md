@@ -1,5 +1,3 @@
-<thinking>As a form designer, I need to explain this form's purpose and functionality while also ensuring it's clear and concise. The "Acting Audition Form" is a critical component of the casting process, allowing actors to showcase their skills and eligibility for specific roles. This form aims to gather essential information about the auditionee, their qualifications, and any relevant details that would make them a suitable candidate. By filling out this form, actors can demonstrate their interest in the role and provide the casting office with the necessary information to make informed decisions.</thinking>
-
 # Acting Audition Form - Help Guide
 
 ## Purpose

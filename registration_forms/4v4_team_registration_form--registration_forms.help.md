@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect guest information and stay details for the 55th Street Guest Form. The form is intended to be used by guests to provide their personal and contact information, as well as details about their stay, such as arrival and departure dates, and preferences. The form is likely used by hosts or property managers to manage guest stays and ensure a smooth and enjoyable experience for all parties involved.
-
-</thinking>
-
 # 55th Street Guest Form - Help Guide
 ## Purpose
 The 55th Street Guest Form is a comprehensive form designed to collect essential information from guests, including their personal details, contact information, and stay preferences. This form helps hosts or property managers to efficiently manage guest stays and ensure a smooth experience.

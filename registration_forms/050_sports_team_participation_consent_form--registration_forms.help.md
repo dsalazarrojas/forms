@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for sports teams to gather information from parents or guardians for their child's participation in team activities. The purpose of this form is to collect consent for the child's participation, capture relevant contact information, and collect the child's date of birth. 
-
-The form will be completed by parents or guardians, typically the child's caregivers. They will provide their contact information and consent for the child's participation in the sports team. This form may be used by sports teams, clubs, or organizations to manage their membership and activity rosters.
-
-The form's content and structure should be reviewed to ensure it meets the needs of the sports team or organization using it. This form's design and functionality are based on publicly available survey topics and metadata, and it is an original adaptation and not affiliated with any form creation or survey platform.
-
-</thinking>
-
 # Sports Team Participation Consent Form - Help Guide
 ## Purpose
 This form is for parents or guardians to provide consent for their child's participation in sports team activities.

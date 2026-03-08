@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly to register drawing tickets in a way that is consistent with our internal processes and does not create duplicate entries. This form should only be used to register a drawing ticket for a specific winner. If an entry already exists for a ticket number, the user should not be able to create a new entry for the same ticket number.
-</thinking>
-
 # Drawing Ticket Registration - Help Guide
 ## Purpose
 The Drawing Ticket Registration form is used to register a drawing ticket for a specific winner. This form ensures that our records are up-to-date and accurate, and helps prevent duplicate entries.

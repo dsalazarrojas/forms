@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Inventory Forecasting Webinar Registration Form - Help Guide
 
 ## Purpose

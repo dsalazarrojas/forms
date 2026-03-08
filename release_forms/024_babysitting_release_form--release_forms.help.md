@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Babysitting Release Form - Help Guide
 
 ## Purpose

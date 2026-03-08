@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of efforts, this guide is only for the Hotel Reservation Extension Form and is intended for users who are already familiar with hotel reservations. This form is designed for guests who need to extend their stay, and its purpose is to facilitate the request process, allowing the guest service staff to process and manage such requests efficiently. The guide aims to provide a clear understanding of the form's requirements and fields to help users complete it correctly.
-</thinking>
-
 # Hotel Reservation Extension Form - Help Guide
 ## Purpose
 This form is used to request an extension of a guest's hotel stay. It collects information necessary for the guest service staff to process and manage such requests.

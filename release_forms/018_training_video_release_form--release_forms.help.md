@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for releasing training videos from participants. It gathers information from participants, details of the video, and their consent for release. To ensure relevance, it's recommended to use this form for internal purposes or when dealing with participants who are directly involved in video production. To avoid duplication, use a similar form for other types of releases, like presentation or workshop releases.
-</thinking>
-
 # Training Video Release Form - Help Guide
 ## Purpose
 This form is for participants to provide their information and consent for the release of training videos. It ensures that participants' details and consent are collected in a standardized manner.

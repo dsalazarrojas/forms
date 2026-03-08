@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:** The Alternate Pick Up Person Form is used to register a person authorized to pick up a child on behalf of a parent or guardian. This form ensures that the school has the necessary information to verify the identity and authorization of the individual picking up the child, and to communicate with them if needed. The form is typically used for situations where a parent or guardian is unable to pick up their child, and a designated alternate person is needed to do so. To ensure that the form is filled out correctly and is valid for the intended purpose, read through the instructions and explanations below.
-
-</thinking>
-
 # Alternate Pick Up Person Form - Help Guide
 ## Purpose
 This form is used to register an individual authorized to pick up a child on behalf of a parent or guardian. The form ensures that the school has the necessary information to verify the identity and authorization of the person picking up the child.

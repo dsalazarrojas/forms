@@ -1,17 +1,3 @@
-<thinking>
-This form is for registering a new affiliate in the Cross Brand Affiliate Network. The form is divided into sections, and each section has a specific purpose. 
-
-This form is designed to gather information from the user to register their affiliate account. 
-
-Before filling out this form, please note that some fields are required and must be filled out in order to submit the form. 
-
-The form is divided into the following pages: 
-
-* Registration: This page has a text input field for the user to enter their name.
-* ... (the rest of the form fields follow)
-
-</thinking>
-
 # Cross Brand Affiliate Network Registration Form - Help Guide
 ## Purpose
 This form is for registering a new affiliate in the Cross Brand Affiliate Network. The purpose of this form is to gather information from the user to create a new affiliate account.

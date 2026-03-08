@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants in a rally class. The purpose of this form is to collect relevant information from participants, including their personal details, class schedule, and payment information. Please ensure that you have all required fields filled out accurately to avoid delays in processing your registration. This form does not support duplicate registrations, so each participant can only register once.
-</thinking>
-
 # Rally Class Registration Form - Help Guide
 ## Purpose
 The Rally Class Registration Form is designed to collect participant information for a rally class. This form is used to register participants and their corresponding details.

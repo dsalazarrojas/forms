@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for organizations to register their regional accommodation data projects. To avoid duplication, please ensure you are not registering the same project multiple times. Please note that the form is not designed for public registration, but rather for internal use within the organization.
-</thinking>
 # Regional Accommodation Data Project Registration Form - Help Guide
 ## Purpose
 This form is used by organizations to register their regional accommodation data projects.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users for the purpose of registration into a financial strategy planning cohort. This will help us ensure that only one user can register into each cohort, preventing duplication. The form will be used to collect basic contact information, cohort details, and ensure that the user has read and agreed to our terms and conditions. This guide will explain each field and how to complete it correctly.
-</thinking>
-
 # Financial Strategy Planning Cohort Registration Form - Help Guide
 ## Purpose
 This form is used to register into a financial strategy planning cohort. Please fill out the form carefully and accurately to avoid any issues with registration.

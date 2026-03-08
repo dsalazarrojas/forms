@@ -1,7 +1,3 @@
-<thinking>
-A waiver form is a document that acknowledges an individual's understanding and acceptance of the risks and rules associated with participating in a workshop or event. In this case, the "Craft Workshop Waiver Form" is designed to ensure that participants understand and agree to the terms and conditions of the workshop. The purpose of this form is to collect essential participant information, including workshop details and personal contact information.
-</thinking>
-
 # Craft Workshop Waiver Form - Help Guide
 ## Purpose
 The Craft Workshop Waiver Form is a necessary document that participants must complete before attending a workshop. It helps ensure their safety and understanding of the workshop's rules and regulations.

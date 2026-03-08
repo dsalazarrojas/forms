@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Friendship Application Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the "Friendship Application Form" with confidence. The form is designed to gather information from potential friends, helping you get to know them better and build meaningful connections. Please note that this form is for personal use and not intended for commercial purposes.

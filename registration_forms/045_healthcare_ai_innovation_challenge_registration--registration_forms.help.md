@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about teams participating in the Healthcare AI Innovation Challenge. Each team will be able to submit their own registration information. This form ensures that all teams' submissions are unique and accurate. 
-The form collects the following information for each team: name, members, project summary, contact email, phone number, project name, category, and status. The form requires a text description of the project, which will help judges evaluate each entry. 
-Before starting, ensure that you're submitting a new registration or update an existing one. You can find existing registrations by looking at the <https://challenge.healthcare.ai/team-registry> page.
-</thinking>
-
 # Healthcare AI Innovation Challenge Registration - Help Guide
 ## Purpose
 The Healthcare AI Innovation Challenge Registration form collects information from teams participating in the challenge. It helps us evaluate each entry and ensure submissions are unique.

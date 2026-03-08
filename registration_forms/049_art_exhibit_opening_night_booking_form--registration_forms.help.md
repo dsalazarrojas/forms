@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Exhibit Opening Night Booking Form - Help Guide
 ## Purpose
 This form is used to book attendance and gather information for the Art Exhibit Opening Night event. The purpose of this form is to collect details from potential attendees, including their name, contact information, and preferences for the event. This information will help us prepare for the event and provide personalized experiences for attendees.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for attendees to register for the Tax Strategy Conference. The purpose of this form is to collect attendee information, event details, and other relevant data from potential attendees. 
-To avoid duplication, it's essential to check the existing registrations and confirm that the event details match the ones you are registering for.
-</thinking>
-
 # Tax Strategy Conference Registration - Help Guide
 ## Purpose
 The Tax Strategy Conference registration form is designed for attendees to provide their information and preferences for the event.

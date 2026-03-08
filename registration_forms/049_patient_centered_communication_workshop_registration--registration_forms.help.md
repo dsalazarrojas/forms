@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from patients for a workshop on patient-centered communication. It's a registration form that allows patients to sign up for the workshop. The purpose of this form is to collect relevant details about the patient, including their user information, preferred sessions, any special needs they may have, and their contact information.
-
-This form is designed to be completed by patients who wish to participate in the workshop. It's essential to ensure that each patient completes the form only once to avoid duplication.
-
-</thinking>
-
 # Patient Centered Communication Workshop Registration - Help Guide
 ## Purpose
 This form is used for patients to register for a workshop on patient-centered communication. It's a straightforward way to gather necessary information for the workshop.

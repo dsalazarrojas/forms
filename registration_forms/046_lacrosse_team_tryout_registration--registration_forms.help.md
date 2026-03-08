@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect player information for a lacrosse team tryout. It includes fields for player contact information, medical conditions, and emergency contact details. The form also requires parent/guardian permission and player consent. The goal is to ensure that players and their emergency contacts are properly registered and informed about the tryout process. It's crucial to understand the form's purpose and the significance of each field to ensure accurate and complete registration.</thinking>
-
 # Lacrosse Team Tryout Registration - Help Guide
 
 ## Purpose

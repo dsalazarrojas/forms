@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate the release of a property, such as a real estate transaction or an asset transfer. This form is used to gather necessary information for the release process, ensuring that all required details are captured and accurately recorded. Before proceeding with this form, please ensure you have all necessary permissions and approvals in place.
-
-To avoid any duplication of efforts or confusion, please note that this form should only be used for the specific purpose of releasing properties and should not be used for other related processes or tasks.
-
-</thinking>
-
 # Property Release Form - Help Guide
 ## Purpose
 The Property Release Form is a document used to record the transfer of ownership of a property from one individual or entity to another. It captures essential details about the property, including its type, address, and sale price. This form ensures that all parties involved in the transfer are aware of the terms and conditions of the sale.

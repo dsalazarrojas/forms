@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from a client about their permanent makeup experience, specifically the technique used and details about the photo and video documentation of the process. This form appears to be related to the "release" stage of the permanent makeup process, possibly for billing or administrative purposes.
-</thinking>
-
 # Permanent Makeup Release Form - Help Guide
 ## Purpose
 The Permanent Makeup Release Form is used to gather information about a client's permanent makeup experience. This form ensures that all relevant details are captured at the end of the process, helping to prevent errors and discrepancies during billing, follow-up, and other administrative tasks.

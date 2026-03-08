@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Employee Photo Release Form, we must start by explaining the purpose of the form and its relevance. This form is used to obtain the necessary permissions and documentation for employees to have their photos taken, which can be used for various official purposes, such as ID cards, company events, or other official company materials. The form should only be completed by employees who have been photographed or are about to be photographed, and it is essential to fill it out accurately and honestly to ensure that their personal data is protected and used properly.
-
-Before filling out the form, please check with your team or supervisor to confirm if you need to fill this form out or if there are any specific requirements for your particular situation.
-
-</thinking>
-
 # Employee Photo Release Form - Help Guide
 ## Purpose
 The Employee Photo Release Form is used to obtain the necessary permissions and documentation for employees to have their photos taken. This includes photos for official company purposes, such as ID cards, company events, or other official company materials.

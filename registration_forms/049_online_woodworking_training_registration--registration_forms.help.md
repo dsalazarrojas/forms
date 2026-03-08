@@ -1,7 +1,3 @@
-<thinking>
-This is a form for registering online woodworking training. The purpose of this form is to collect data from users about their workshop participation. The form is not intended for internal use only, so it's likely used by the general public. This guide will help users understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # Online Woodworking Training Registration - Help Guide
 ## Purpose
 This form is used to register for online woodworking training sessions. Please fill out the form to provide the necessary information about your workshop participation.

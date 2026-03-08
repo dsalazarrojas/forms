@@ -1,6 +1,3 @@
-<thinking> 
-We are creating a registration form for the Interdisciplinary Learning Summit. This form is used to collect information from users who wish to attend the summit. The purpose of the form is to get an overview of who will be attending, what they are interested in, and any additional information they need to make the event successful. To avoid duplications, please check our internal system before submitting this form. If you're already registered, your submission won't be accepted.</thinking>
-
 # Interdisciplinary Learning Summit Registration - Help Guide
 ## Purpose
 The Interdisciplinary Learning Summit registration form is used to gather information from attendees who wish to participate in the summit. This includes collecting user details, session interests, and any accessibility needs. The form is designed to ensure a smooth and productive experience for all attendees.

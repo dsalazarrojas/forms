@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for trade show exhibitors to acknowledge and agree to certain terms and conditions before participating in the trade show. The form is designed to be completed by the exhibitor themselves, either as an individual or as a representative of the exhibiting company. The form will help ensure that the exhibitor is aware of and agrees to the terms and conditions of the trade show, which is a standard practice in the industry.
-
-Before starting, please review the following:
-
-* Does this form apply to your current situation? If not, please do not proceed.
-* Have you already filled out this form in the past? If yes, you can skip this guide and proceed directly.
-</thinking>
-
 # Trade Show Booth Waiver Form - Help Guide
 ## Purpose
 

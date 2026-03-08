@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from travel clients for their travel-related data. We are not sure if this form will serve its intended purpose. Please ensure that you have not already registered this client in the system before proceeding. We are trying to prevent duplicate data entry. If you have any doubt, please clarify with the responsible team member.
-</thinking>
-
 # Travel Client Registration Form - Help Guide
 ## Purpose
 This form is designed to collect travel-related information from clients for efficient travel management and record keeping.

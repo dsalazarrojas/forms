@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I must first understand the form's purpose and the context in which it will be used. This form appears to be designed for releasing patient information to a new dentist or practice. The fields listed in the form schema suggest that it will be used to gather basic contact and identification information for the patient, as well as the new dentist or practice they are visiting. I will now create a clear and concise help guide for end users.
-
-</thinking>
-
 # Dental Record Release Form - Help Guide
 ## Purpose
 The Dental Record Release Form is used to provide a new dentist or practice with relevant patient information to facilitate a smooth transition of care. This form is designed to be completed by the patient or a representative on their behalf, and it will be used to share patient details with the new dentist or practice.

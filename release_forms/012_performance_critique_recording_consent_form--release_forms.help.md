@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the consent of prophets for performance critiquing. This consent form is required for any prophets that want to participate in performance critiquing activities. Please note that this form is only applicable to prophets and not to other types of users.
-</thinking>
-
 # Performance Critique Recording Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to record the consent of prophets for performance critiquing activities.

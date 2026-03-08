@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to assess the strength of the client relationship from the client's perspective. It's meant to be completed by clients and partners to provide valuable feedback on their experiences and perceptions of our organization. By understanding how strong our relationships are, we can identify areas of improvement and make data-driven decisions to build stronger partnerships.
-
-To prevent duplication and ensure accurate results, please make sure to:
-* Only submit one form per partner/organization.
-* Provide honest and genuine feedback, as it will help us better understand your relationship with us.
-* Fill out the form completely and carefully, as any missing or incomplete answers may lead to inaccurate results.
-* If you have any comments or suggestions, please feel free to add them in the "Additional Comments" field.
-</thinking>
-
 # Client Relationship Strength Survey - Help Guide
 ## Purpose
 The Client Relationship Strength Survey is designed to measure the strength of your relationship with our organization. The survey consists of several questions that cover different aspects of our partnership, from trust and communication to commitment and future prospects.

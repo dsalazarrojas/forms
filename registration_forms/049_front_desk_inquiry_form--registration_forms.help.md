@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from guests for front desk inquiries. It is crucial to fill out this form accurately and completely to ensure that the front desk staff can assist you with your inquiry efficiently. Please ensure that you do not submit multiple inquiries for the same purpose, as this may lead to confusion and duplication of effort.
-</thinking>
-
 # Front Desk Inquiry Form - Help Guide
 ## Purpose
 The Front Desk Inquiry Form is used to gather information from guests for front desk inquiries. This form is designed to be completed by guests who need assistance or have questions regarding their stay or hotel services.

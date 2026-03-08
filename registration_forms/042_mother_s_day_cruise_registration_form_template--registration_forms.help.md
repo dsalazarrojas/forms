@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather relevant information from users for Mother's Day cruise registration purposes. It should be completed only by users who are planning to join the cruise, as it collects essential details such as name, contact information, cabin preferences, and travel dates. Please ensure that users only complete this form once to avoid duplication of entries.
-</thinking>
-
 # mother_s_day_cruise_registration_form_template - Help Guide
 ## Purpose
 This form is intended for users to provide their details for the Mother's Day cruise event.

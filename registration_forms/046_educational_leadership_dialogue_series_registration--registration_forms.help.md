@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end users who will be completing the "Educational Leadership Dialogue Series Registration" form. The form is a registration process for individuals to sign up for the Educational Leadership Dialogue Series, a program that aims to bring together educational leaders to share knowledge and best practices. To ensure that each session runs smoothly, it's essential that the form is filled out accurately and without duplicates. This guide will walk you through how to complete the form correctly and what each field entails.
-</thinking>
-
 # Educational Leadership Dialogue Series Registration - Help Guide
 ## Purpose
 The "Educational Leadership Dialogue Series Registration" form is designed for individuals to register for the program. Please fill out the form carefully to ensure a successful registration.

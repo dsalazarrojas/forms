@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to register to access the voter registration portal. The purpose of this form is to gather contact details and demographic information from users, ensuring they can be contacted and verified as part of the registration process. 
-
-This form will not collect any sensitive or personally identifiable information. The information collected will be stored for the duration of the voter registration portal's operational period and then deleted.
-
-It's essential to ensure that users understand the purpose and process of this form to avoid duplication of effort and miscommunication. This will prevent over-registration and ensure that all registered users receive accurate and relevant information.
-</thinking>
-
 # Voter Registration Portal Access Form - Help Guide
 ## Purpose
 This form is designed to collect contact and demographic information from individuals who want to register to access the voter registration portal.

@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect essential information from individuals seeking church membership, ensuring they are properly registered and connected with the local congregation. This form is crucial for the church's internal record-keeping and for the church's ability to communicate effectively with its members. Ensuring that the form is filled out correctly and thoroughly will help the church understand the applicant's spiritual journey, background, and commitment to the church's values and practices.
-
-Before completing this form, please review each field carefully to ensure you provide accurate and relevant information.
-
-The form has a mix of required and optional sections, with different types of fields, such as date, text, email, and select_one/select_multiple options. Please follow the instructions for each type of field to fill it out correctly.
-
-It is crucial to understand that some sections are for the internal administrative use of the church and should not be filled in unless explicitly mentioned.
-
-</thinking>
-
 # Church Membership Form - Help Guide
 ## Purpose
 The Church Membership Form is designed to collect essential information from individuals seeking membership in the local church. This form is used to help the church understand the applicant's spiritual journey, background, and commitment to the church's values and practices.

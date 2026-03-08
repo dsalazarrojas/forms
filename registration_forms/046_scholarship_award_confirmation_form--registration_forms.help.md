@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm receipt of a scholarship award. It is intended to be filled out by the recipient of the award. This form should be filled out for each scholarship award that is given.
-</thinking>
-
 # Scholarship Award Confirmation Form - Help Guide
 ## Purpose
 The purpose of this form is to confirm receipt of a scholarship award. The form is filled out by the recipient of the award and is used to record their confirmation of the award details and any additional information that may be required.

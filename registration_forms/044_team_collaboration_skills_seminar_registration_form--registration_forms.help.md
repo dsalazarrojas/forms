@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, my task is to create a user-facing help guide for the Team Collaboration Skills Seminar Registration Form. This form aims to gather information from participants for a seminar on team collaboration skills. To ensure the guide is clear and concise, I'll base my explanation on the provided YAML fields, focusing on the purpose, completion, and explanation of each field in the form.</thinking>
-
 # Team Collaboration Skills Seminar Registration Form - Help Guide
 ## Purpose
 

@@ -1,23 +1,3 @@
-<thinking>
-To create a user-facing help guide for the `risk_evaluation_framework_training_registration_form`, I'll consider the given YAML fields and provide a clear explanation of the form's purpose, how to complete it, and each field's meaning. Since the form seems to be designed for registration purposes related to risk evaluation and training, I'll assume this form is meant for trainers or administrators to collect information about participants attending a training session.
-
-The form's purpose is likely to gather essential details about participants, such as their contact information, training status, and other relevant details. This information will help trainers or administrators manage the training sessions efficiently and ensure participants receive the necessary tools or support.
-
-Before diving into the form fields, let's break down the form into sections:
-
-1.  **Participant Info**: This section is likely for the trainer or administrator to input basic participant information. 
-2.  **Training Sessions**: This field might be used to track whether the participant has attended or will attend a specific training session. 
-3.  **Participant Details**: This field is probably where trainers or administrators can note any additional participant details not captured in other fields. 
-4.  **Registration Date**: This field is used for logging the date the participant registered for the training. 
-5.  **Participant Phone**: This field is used to capture the participant's phone number. 
-6.  **Participant Email**: This field is used to collect the participant's email address. 
-7.  **Assigned Tool**: This field might be used to assign a specific tool to the participant. 
-8.  **Participant Notes**: This field could be used for additional notes or comments about the participant.
-
-With this understanding, the form is likely used for managing participant information in a training session.
-
-</thinking>
-
 # risk_evaluation_framework_training_registration_form - Help Guide
 ## Purpose
 

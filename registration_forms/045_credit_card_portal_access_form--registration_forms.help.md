@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for credit card portal access. The form will ask for personal details such as name, email, phone number, and address, as well as credit card information like card number, expiration date, security code, and card holder details. The form is required to be completed accurately to ensure a smooth onboarding process for the credit card portal access.
-</thinking>
-
 # credit_card_portal_access_form - Help Guide
 ## Purpose
 The credit_card_portal_access_form is used to collect user information for credit card portal access.

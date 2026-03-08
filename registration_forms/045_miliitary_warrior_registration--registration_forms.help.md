@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in registering as military warriors. This form is designed to gather details about the individual, including their name, email, phone number, date of birth, date of enlistment, military rank, military branch, and years of service. The goal is to streamline the registration process and ensure that all necessary information is provided in a clear and concise manner.
-</thinking>
-
 # military_warrior_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are interested in registering as military warriors.

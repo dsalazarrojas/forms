@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # talent-pool-registration-form - Help Guide
 
 ## Purpose

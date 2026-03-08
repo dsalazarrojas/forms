@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To prevent duplication, ensure the form is only completed once per session participant. If a participant is a minor, their parent or guardian must be present during the session and provide consent. 
 
 The form is used to gather information and obtain consent from participants during an audio engineering session. This includes personal details, recording preferences, and usage rights. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baby Boomers Meeting Registration - Help Guide
 
 ## Purpose

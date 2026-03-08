@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form to ensure that end-users understand its purpose and how to complete it. This form is used for private childbirth class registration, which seems to be used for tracking information about parents and their children, and classes they are interested in or have attended. 
-
-The form is composed of multiple pages, each with its own set of fields. Some fields seem to be related to the parents (Parent's Name, Parent's Phone, Parent's Email, Parent's Address, etc.) while others are related to the child (Child's Name, Child's Birth Date, Child's Phone, Child's Email, etc.). There might be some overlap or duplication between fields, such as the need for both the Parent's Phone and Child's Phone fields. We need to make sure to address this potential issue in the help guide.
-
-To complete this form, users should start by selecting the Registration Date and Expected Birth Date fields. These seem to be related to the class schedule and the parent's or child's birth date. Next, they should fill out the Parent fields (Parent Name, Parent Phone, Parent Email, Parent Address, etc.) and then the Child fields (Child Name, Child Birth Date, Child Phone, Child Email, etc.). The Class fields (Class Date, Class Time, Class Duration, Class Capacity, Class Price, Class Status) might be optional and only relevant for classes the user is interested in or has attended. Finally, the Notes fields (Notes, Child's Notes, Class Notes) can be used for additional information.
-
-The form seems to be designed for a private setting, possibly a small business or organization, and might be used for tracking and managing classes and attendees.
-</thinking>
-
 # Private Childbirth Class Registration Form - Help Guide
 ## Purpose
 The Private Childbirth Class Registration Form is used for tracking information about parents and their children, and classes they are interested in or have attended.

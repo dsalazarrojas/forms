@@ -1,14 +1,3 @@
-<thinking>
-The "mvr_release_consent_form" form is a release consent form, which is used to obtain the consent of employees or applicants for the sharing of information related to their employment. This form is typically used when an employee or applicant is leaving the company or requesting the sharing of their personal data. The form ensures that the individual provides their explicit consent before such information is shared. 
-
-The form's purpose is to gather the required information from the employee or applicant, which may include information related to their employment history, and obtain their signature of consent to share this information.
-
-It is assumed that the individual filling out this form has been previously informed about the purpose and scope of the sharing. 
-
-To avoid duplication, it is recommended to verify with the individual that they have previously signed a release form before proceeding.
-
-</thinking>
-
 # mvr_release_consent_form - Help Guide
 ## Purpose
 This form is used to obtain the consent of employees or applicants for the sharing of information related to their employment.

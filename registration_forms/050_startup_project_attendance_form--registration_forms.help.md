@@ -1,9 +1,3 @@
-<thinking>
-We have a situation where we need to create a user-facing help guide for a form called "Startup Project Attendance Form". The purpose of this form is not explicitly stated, but based on the fields included (e.g. project name, participant name, participant email), it seems to be used for tracking attendance of participants in a project. This form might be used by project managers or coordinators to record the status and details of participants in a project. The form likely serves as a tool for project organizers to monitor and manage the progress and engagement of project participants.
-
-However, without more context, it's difficult to confirm the exact purpose and usage of this form. It's possible that this form is used for another purpose entirely. To ensure the form is being used correctly, it's essential to verify its intended use and purpose with the stakeholders or project team.
-</thinking>
-
 # Startup Project Attendance Form - Help Guide
 ## Purpose
 The Startup Project Attendance Form is used for tracking the attendance and details of participants in a project.

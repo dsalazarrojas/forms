@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for registering a carrier, which is likely a commercial vehicle or a trucking company that operates on the roads. The form collects various details about the carrier, including their main information, carrier details, registration status, address, phone number, email, and other relevant information. The form is divided into different sections or "pages" for a more organized and user-friendly experience.
-
-Before filling out this form, please ensure you are registering a carrier that you are authorized to do so, and that you have all the necessary information required to complete the form accurately.
-
-Please note that this form has multiple "Carrier Status" fields, which might seem redundant, but each of them is meant to capture different aspects of the carrier's status. For example, "Carrier Status 2" and "Carrier Status 5" might be used to track different types of registration or status updates.
-
-This form is designed to collect comprehensive information about the carrier, and it's recommended to fill it out carefully and accurately to ensure that the registration process goes smoothly.
-</thinking>
-
 # Motor Carrier Registration Form - Help Guide
 ## Purpose
 This form is used to register a carrier, providing the required information to update the carrier's status, address, phone number, and other details.

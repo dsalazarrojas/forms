@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about individuals interested in joining the Alpha program, a 13-week course that aims to explore the basics of Christianity. The form will help us understand the participants' motivations, demographics, and preferences, ensuring a smooth and effective experience for all attendees. 
-
-When filling out this form, please note that some fields are required, marked as 'true' in the form schema. Ensure you complete all required fields to avoid any issues with processing your registration. The fields marked as 'false' are optional and can be skipped if you're not comfortable providing that information. 
-
-Before proceeding, ensure you have the necessary permissions to access and share any information you provide. By continuing, you acknowledge you've reviewed and understood our terms of participation. 
-
-</thinking>
-
 # Alpha Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about you and your preferences for joining the Alpha program. It will help us understand your motivations, demographics, and interests, allowing us to tailor the experience to meet your needs.

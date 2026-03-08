@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for the Sculpture Workshop reservation process. This form likely exists to gather contact information, workshop preferences, and other relevant details for the workshop organizers. 
-To avoid duplication and ensure correct usage, please ensure this form is only completed by the intended users and not by automated processes.
-</thinking>
-
 # Sculpture Workshop Reservation Form - Help Guide
 ## Purpose
 This form is used to collect information from users to reserve a spot in the Sculpture Workshop. 

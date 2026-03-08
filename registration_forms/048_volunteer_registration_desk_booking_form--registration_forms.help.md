@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering volunteers for events. The form is used to collect information about the volunteer, including their contact information and event details. Before completing this form, please check that you are registering for an event and that the information provided is accurate. This form is not intended for general inquiries or other non-volunteer related purposes.
-</thinking>
-
 # Volunteer Registration Desk Booking Form - Help Guide
 ## Purpose
 This form is used to register volunteers for events, providing their contact information and event details.

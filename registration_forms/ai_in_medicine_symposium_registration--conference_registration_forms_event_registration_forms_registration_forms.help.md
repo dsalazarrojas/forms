@@ -1,15 +1,3 @@
-<thinking>
-
-We need to ensure that the form is completed correctly for the AI In Medicine Symposium registration. The fields in this form are designed to gather essential information about the attendee, such as their contact details, professional experience, and preferences. Completing this form will allow us to tailor the symposium experience according to the attendee's needs and provide them with valuable resources and networking opportunities.
-
-This form is not a duplicate of other forms, as it is specifically designed for the AI In Medicine Symposium. The purpose of this form is to collect information about the attendee's background, interests, and preferences, which will be used to personalize their experience during the symposium.
-
-The attendee should fill in their full name, email address, and institution or organization to ensure that we can contact them with registration confirmation and updates. The phone number is optional but recommended for urgent communication. The professional title, specialty area, and experience level with AI in medicine will help us understand their background and provide relevant information for the symposium. The attendance type will determine if they will attend in-person, virtually, or a combination of both.
-
-The attendee may have dietary restrictions or allergies that we should be aware of, and they can specify any accessibility requirements or special requests. They can also indicate their networking interests and preferred session topics, which will help us create a personalized schedule for them. Finally, they can provide emergency contact information and indicate how they heard about the symposium.
-
-Please make sure to provide accurate and truthful information in all fields to ensure that we can cater to your needs and interests during the symposium.</thinking>
-
 # AI In Medicine Symposium Registration - Help Guide
 
 ## Purpose

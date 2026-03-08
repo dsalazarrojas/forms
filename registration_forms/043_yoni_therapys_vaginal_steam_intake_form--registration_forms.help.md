@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for patients undergoing vaginal steam treatment. The purpose of this form is to collect relevant medical history and treatment details for the patient. This information will be used by healthcare professionals to provide personalized care and treatment plans.
-</thinking>
-
 # yoni_therapys_vaginal_steam_intake_form - Help Guide
 ## Purpose
 The yoni_therapys_vaginal_steam_intake_form is designed to collect medical history and treatment details for patients undergoing vaginal steam treatment.

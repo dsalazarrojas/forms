@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the "running_tournament_registration_form" to ensure end users understand its purpose, how to complete it, and what each field means. I will base my explanation on the provided YAML fields and aim for clarity, conciseness, and practicality.</thinking>
-
 # running_tournament_registration_form - Help Guide
 ## Purpose
 The "running_tournament_registration_form" is a form designed to collect information from participants for a running tournament. This form is used to gather essential details such as participant names, contact information, team details, and event specifics. The form ensures that all necessary information is collected accurately and efficiently.

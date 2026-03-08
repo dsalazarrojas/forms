@@ -1,11 +1,3 @@
-<thinking>... checking for form purpose and non-duplication of help guides...
-
-The Mental Health Awareness Program Admission Form is used to collect information about participants in the Mental Health Awareness Program. This form is designed to collect basic participant information, medical history, mental health history, contact preferences, emergency contact information, medical provider information, and participant signature details.
-
-The following help guide will cover each field of the form, providing a clear and concise explanation of each section.
-
-</thinking>
-
 # Mental Health Awareness Program Admission Form - Help Guide
 ## Purpose
 The Mental Health Awareness Program Admission Form is used to collect information about participants in the program. This includes basic participant information, medical history, mental health history, contact preferences, emergency contact information, medical provider information, and participant signature details.

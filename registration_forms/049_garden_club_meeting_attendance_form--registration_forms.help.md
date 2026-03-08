@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to record the attendance of a user at a garden club meeting. It captures essential details such as the user's name, email, meeting date, meeting time, event name, attendance status, and any additional comments they may have. The purpose of this form is to ensure that meeting attendance is accurately recorded and communicated effectively to the necessary parties. Please fill in this form only once for each meeting attendance to avoid duplication of records.</thinking>
-
 # Garden Club Meeting Attendance Form - Help Guide
 ## Purpose
 The Garden Club Meeting Attendance Form is a simple form designed to collect information about a user's attendance at a garden club meeting.

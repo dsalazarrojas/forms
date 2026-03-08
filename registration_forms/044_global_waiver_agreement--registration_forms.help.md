@@ -1,7 +1,3 @@
-<thinking>
-The Global Waiver Agreement form is used to collect information from participants and staff members prior to an event or activity. It includes fields for user details, emergency contact information, waiver agreement, date, time, participant name, and other relevant fields. This form is likely used in situations where liability and responsibility need to be clearly defined before proceeding with an event or activity.
-</thinking>
-
 # Global Waiver Agreement - Help Guide
 
 ## Purpose

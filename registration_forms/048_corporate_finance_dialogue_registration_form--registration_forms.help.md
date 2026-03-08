@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who wish to participate in corporate finance discussions, either in the form of roundtables, webinars, or expert discussions. The goal is to create a record of attendees and their preferences for these events. This form will help us track interest, consent, and other relevant details for each individual. Please review each field carefully and ensure your input is accurate, as this information will be used to tailor event content and communication accordingly. This form does not contain any duplicate fields, and each field serves a specific purpose in the registration process.</thinking>
-
 # Corporate Finance Dialogue Registration Form - Help Guide
 ## Purpose
 The Corporate Finance Dialogue Registration Form is designed to collect information from individuals interested in participating in corporate finance discussions. This includes roundtables, webinars, and expert discussions. By filling out this form, you will be helping us understand your interests and preferences for these events.

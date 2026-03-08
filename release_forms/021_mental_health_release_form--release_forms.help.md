@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to provide a release of information between mental health professionals and their patients. It is used to inform patients that they will be disclosing their mental health information to their medical insurance company. The form is intended to be filled out by the patient, with their therapist's input and signature. It's essential to fill out the form accurately and thoroughly to ensure a smooth release process.
-
-Before completing the form, please ensure that you are not duplicating efforts or providing information that has already been released. If you're unsure about any of the fields, refer to the field explanations below.
-
-This guide is intended to walk you through each field of the form step-by-step.
-</thinking>
-
 # Mental Health Release Form - Help Guide
 ## Purpose
 The Mental Health Release Form is a crucial document that enables mental health professionals to share patient information with medical insurance companies. This form is used to inform patients that their mental health data will be disclosed to their insurance provider.

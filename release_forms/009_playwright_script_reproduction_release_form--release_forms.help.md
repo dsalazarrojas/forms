@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track and release information about a production or script reproduction. The purpose of this form is to provide a standardized way of collecting and organizing data about a script reproduction, including production company, title, script version, and other relevant details. This form is likely used by production teams to track the status of script reproductions and ensure that all necessary information is collected and reviewed before release.
-The form should not be used for other purposes, such as tracking general project information or production schedules. Please make sure to use this form only for script reproductions.
-</thinking>
-
 # playwright_script_reproduction_release_form - Help Guide
 ## Purpose
 This form is used to track and release information about a production or script reproduction.

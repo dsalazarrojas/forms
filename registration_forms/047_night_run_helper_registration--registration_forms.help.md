@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users register as volunteers for a night run event, providing essential information for the event organizers and other participants. The form will be used to collect contact details and role-specific information from interested volunteers. This form is a mandatory part of the registration process and will guide users through the required and optional fields to complete their registration. Please ensure that you have read this guide thoroughly before proceeding to avoid any issues with your registration.
-</thinking>
-
 # Night Run Helper Registration - Help Guide
 ## Purpose
 The Night Run Helper Registration form is a mandatory registration process for individuals interested in volunteering for a night run event. It collects essential contact information and role-specific details from volunteers to ensure a smooth and organized event.

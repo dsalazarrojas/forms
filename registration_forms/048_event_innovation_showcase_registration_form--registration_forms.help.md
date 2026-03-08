@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "event-innovation-showcase-registration-form" form is to collect user information, session interests, and event details from attendees to be showcased during an innovation event. This form serves as an entry point for users to provide their details and select their preferred sessions.
-</thinking>
-
 # event-innovation-showcase-registration-form - Help Guide
 ## Purpose
 This form is designed to gather user information and session interests for an innovation event. It is crucial to fill out this form to be considered for the event showcase.

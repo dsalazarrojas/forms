@@ -1,7 +1,3 @@
-<thinking>
-We need to design a user-facing help guide for a form used at a fitness center to obtain consent for audio recordings of its members. The form is called "Fitness Center Audio Recording Consent Form" and is used to ensure that members understand and agree to being recorded. As a designer, I need to consider the purpose and functionality of each field, making sure it's clear and concise, and not duplicating any information already conveyed.
-</thinking>
-
 # Fitness Center Audio Recording Consent Form - Help Guide
 ## Purpose
 The "Fitness Center Audio Recording Consent Form" is a mandatory form that must be completed by every member before recording takes place. It ensures that you understand and agree to being audio recorded during classes, training sessions, or events held at the fitness center.

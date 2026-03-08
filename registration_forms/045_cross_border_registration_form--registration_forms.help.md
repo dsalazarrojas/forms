@@ -1,10 +1,3 @@
-<thinking>
-The Cross Border Registration Form is a crucial tool for ensuring that individuals who enter or exit the country do so in compliance with all applicable laws and regulations. This form is used to collect information from individuals who need to cross borders for various reasons, such as for work, tourism, or other activities. 
-It is essential to note that this form is a critical document that requires accurate and honest information. Providing false or incomplete information can result in serious consequences, including delays or even denial of entry/exit. 
-Before filling out this form, please ensure you understand the questions and answers clearly. It is a good idea to review the instructions carefully to avoid mistakes. 
-
-</thinking>
-
 # Cross Border Registration Form - Help Guide
 ## Purpose
 The Cross Border Registration Form is used to collect information from individuals who need to cross borders for various reasons.

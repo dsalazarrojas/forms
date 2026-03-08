@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a stranger session registration. The purpose of this form is to capture relevant details about a session with a participant, including the session date, time, duration, capacity, and other participant-related information. This form is typically filled out by participants or someone on behalf of the participant. It's essential to ensure that the participant's session information is accurate to ensure proper scheduling and capacity management.
-
-The form should not be filled out by someone who has not participated in a session before or has no intention to do so. It's also crucial to note that while most fields are optional, filling out the required ones will help in creating a more comprehensive record.
-
-For instance, if someone has already attended a stranger session, they should fill out the "participant_scheduling" field accordingly, indicating if they are willing or not willing or unsure about attending future sessions.
-
-</thinking>
-
 # Stranger Session Registration - Help Guide
 ## Purpose
 The Stranger Session Registration form is designed to collect information for a stranger session, ensuring accurate scheduling and capacity management.

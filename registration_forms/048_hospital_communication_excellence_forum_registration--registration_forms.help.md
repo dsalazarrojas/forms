@@ -1,20 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is designed for individuals to register their interest in attending the Hospital Communication Excellence Forum, a professional event focused on best practices for effective communication in healthcare settings. The form collects demographic information, event-related details, and special requests such as dietary and accessibility needs. 
-
-Before completing this form, please ensure you have not already registered or submitted this form. Duplicate entries may cause confusion for event organizers and participants.
-
-The form is divided into four sections: 
-
-1. Event Details (page 1)
-2. Attendee Details (page 2)
-3. Communication Preferences (page 3)
-4. Dietary and Accessibility Needs (page 4)
-
-Please note that some fields are optional and only required when relevant.
-
-... </thinking>
-
 # Hospital Communication Excellence Forum Registration - Help Guide
 ## Purpose
 This form is designed for individuals to register their interest in attending the Hospital Communication Excellence Forum, a professional event focused on best practices for effective communication in healthcare settings.

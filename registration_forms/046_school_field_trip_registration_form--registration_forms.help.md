@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a school field trip, allowing teachers and school administrators to register students for a trip, provide contact details, and track the status and budget of the trip. The form is likely used for internal administrative purposes to ensure that all necessary information is collected and organized in one place. The form is not intended for external users, such as parents or students, to fill out on their own. It's essential to review the form carefully to ensure that all fields are complete and accurate before submitting it.
-
-</thinking>
-
 # School Field Trip Registration Form - Help Guide
 ## Purpose
 This form is used to collect information for a school field trip, including student and teacher contact details, trip details, and status.

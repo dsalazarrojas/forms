@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for the purpose of releasing social media photos, allowing users to specify who they are releasing photos of, what platforms they want to publish on, and providing contact information for the model or subject of the photo. It also includes fields for signed photo releases, dates of signature, and contact information. This form is designed to be completed by individuals who have photos they want to publish on social media and need to provide relevant details to accompany the photos. 
-
-This form will not be used for other purposes, such as photo shoot requests or model releases, so it's essential to complete it only for the intended purpose. If you're unsure about the form's purpose or requirements, please review the provided fields and instructions carefully.
-
-The following guide will walk you through the completion of this form step-by-step.
-</thinking>
-
 # social_media_photo_release_form - Help Guide
 ## Purpose
 The social media photo release form is used to release photos on social media platforms, ensuring that the necessary information is provided to accompany the photos. This form is intended for individuals who have photos they want to publish on social media and need to provide relevant details about the photos and their subjects.

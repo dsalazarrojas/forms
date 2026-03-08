@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users are not duplicating their submissions. Before filling out this form, please check that you haven't already registered in the past. If you've already submitted this form, please do not submit again. If you are unsure about any of the information, contact the relevant authorities or your supervisor for clarification.
-</thinking>
-
 # Global Pandemic Preparedness Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for the purposes of the Global Pandemic Preparedness Forum. This information will be used to create a profile for each user and to facilitate interaction within the forum.

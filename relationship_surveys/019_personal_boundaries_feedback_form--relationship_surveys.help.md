@@ -1,11 +1,3 @@
-<thinking>
-
-This form aims to gather feedback from users on their personal boundaries experiences, focusing on how they found out about the form, their perception of safety and respect, and their desire for more information or support. The form's purpose is to collect qualitative data to help improve the service provided by the organization. This form is designed to be completed by individuals who have either already had a positive or negative interaction with the organization or its services, and their responses will help inform future improvements.
-
-Before starting, please note that this form is not affiliated with any form platform, but rather a custom creation using public metadata as inspiration.
-
-</thinking>
-
 # Personal Boundaries Feedback Form - Help Guide
 ## Purpose
 The Personal Boundaries Feedback Form is designed to gather feedback from users about their personal boundaries experiences with the organization. This information will help us understand how we can better support you and improve our services.

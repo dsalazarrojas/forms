@@ -1,7 +1,3 @@
-<thinking>
-This form purpose is for collecting information from users to register them with a Square. The fields included are for general information and do not include any sensitive or financial details. The "User Email" field is not actually required for the form, but it's included as an optional field in case the user wants to provide their email address for communication or account management purposes. The form has only three fields: User First Name, User Last Name, and User Email. These fields are all text fields, with the first two being free-form text fields and the last one being an email address field. This form is suitable for a general registration process and can be used in various contexts such as events, conferences, or customer databases.
-</thinking>
-
 # Square Registration Form - Help Guide
 ## Purpose
 The Square Registration Form is used to collect general information from users for registration purposes. This form is suitable for a wide range of applications, including events, conferences, or customer databases.

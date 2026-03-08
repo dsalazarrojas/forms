@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PR Session Attendee Registration Form - Help Guide
 
 ## Purpose

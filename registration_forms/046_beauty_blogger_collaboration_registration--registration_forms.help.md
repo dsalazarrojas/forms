@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for beauty bloggers to register their interest in collaborating with your brand. This form will help you gather information about the blogger, their social media presence, their content focus, and their collaboration preferences. Please only fill out this form if you are a beauty blogger looking to collaborate with our brand. 
-</thinking>
-
 # Beauty Blogger Collaboration Registration - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users regarding their interest in being contacted for outreach purposes. It should only be completed once for each user to avoid duplication of efforts. 
-The form asks users to provide their first name, email, phone number (if available), any notes or comments, categorization of their interest, location, industry, brand(s) they are interested in, agency(s) they are interested in, and a way to confirm their submission. 
-</thinking>
-
 # Influencer Outreach Subscription Form - Help Guide
 ## Purpose
 This form is used to collect information from users who are interested in being contacted for outreach purposes by our team. Please fill out this form once to ensure that we do not contact you multiple times.

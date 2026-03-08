@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "symposium_expression_of_interest" form is to collect information about participants who wish to express their interest in attending or contributing to a symposium. This form is designed to be completed by individuals who want to be part of the symposium, and it captures their basic details and preferences.
-
-This form is likely to be used by administrators or organizers to gather information about potential participants before the symposium takes place. The form is meant to be completed by one person per participant, and it ensures that all necessary details are collected in a concise manner.
-
-Before filling out this form, make sure to check if you have already completed it for the same participant. This form is designed to be filled out by one person per participant, so if you see someone else's details, please let us know so we can avoid duplication of effort.
-
-</thinking>
-
 # symposium_expression_of_interest - Help Guide
 ## Purpose
 This form is designed to collect information from participants who are interested in attending or contributing to a symposium.

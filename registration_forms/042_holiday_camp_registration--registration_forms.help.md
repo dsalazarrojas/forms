@@ -1,7 +1,3 @@
-<thinking>
-The "holiday-camp-registration" form is used to register a camper for a holiday camp. This form is typically filled out by parents or guardians to provide information about the camper's activity selection, personal details, and availability. The form may be completed by a parent or guardian to ensure that the necessary information is accurate and up-to-date.
-</thinking>
-
 # holiday-camp-registration - Help Guide
 ## Purpose
 The "holiday-camp-registration" form is used to register a camper for a holiday camp.

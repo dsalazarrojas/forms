@@ -1,7 +1,3 @@
-<thinking>
-The Student Release Form is a document used by schools to authorize the release of a student to return home or to another facility. This form helps to ensure that the student's departure is legitimate and documented. To complete this form, you will need to ensure that it is only used for a legitimate reason and not for duplicate purposes. Please ensure you understand the purpose and context before proceeding.
-</thinking>
-
 # Student Release Form - Help Guide
 
 ## Purpose

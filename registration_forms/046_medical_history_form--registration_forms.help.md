@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical history from patients. Its primary purpose is to gather information about the patient's medical background, including any allergies, medical conditions, and procedures they have undergone. This form is designed to be completed by patients or their representatives and can be used to aid healthcare professionals in providing better care. 
-</thinking>
-
 # Medical History Form - Help Guide
 
 ## Purpose

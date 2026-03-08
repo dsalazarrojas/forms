@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to access video content on demand. The form will check for duplicates and invalid user input, ensuring that users can only access the content once. This form will be used to verify user identity and ensure that users have a valid reason for accessing the content.
-</thinking>
-
 # Video On Demand Access Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from individuals or organizations registering for health maintenance services. The form is intended for internal use and may be used to track registrations, provide services, or store contact information. It's crucial to ensure that the form is completed accurately and thoroughly, as the data collected will be used for official purposes.</thinking>
-
 # Health Maintenance Organization Registration - Help Guide
 ## Purpose
 The Health Maintenance Organization Registration form is a tool used to collect information from individuals or organizations registering for health maintenance services. This guide will walk you through the form's purpose, how to complete it, and provide a detailed explanation of each field.

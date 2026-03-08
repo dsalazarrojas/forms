@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Community Building Workshop Registration Form. This form is used for participants to register for a community building workshop, providing essential information about their registration, contact details, workshop preferences, and payment options. Before starting the form, it's essential to ensure the user understands the purpose and requirements of the form.</thinking>
-
 # Community Building Workshop Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the Community Building Workshop Registration Form, ensuring a smooth and successful registration process.

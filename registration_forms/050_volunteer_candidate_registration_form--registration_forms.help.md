@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form designed for candidates to sign up as volunteers. It captures essential information about the candidate, including their personal details, skills, availability, and availability preferences. To ensure accuracy and consistency, please complete the form with the correct information and avoid duplication or misrepresentation.
-</thinking>
-
 # Volunteer Candidate Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register as volunteers. It collects information that will help us understand your interests, skills, and availability to match you with volunteer opportunities.

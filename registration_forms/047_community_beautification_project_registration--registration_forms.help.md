@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for the Community Beautification Project. It is designed to gather information about volunteers interested in participating in community beautification activities. The purpose of this form is to collect demographic information, volunteer preferences, and contact details from potential volunteers. The form is divided into several sections, each focused on a specific aspect of volunteering, such as registration details, volunteer information, and project preferences. Please make sure to fill out the form accurately and completely, as this information will be used to tailor volunteer opportunities to your needs and interests.
-</thinking>
-
 # Community Beautification Project Registration - Help Guide
 ## Purpose
 The Community Beautification Project Registration form is designed to gather information about volunteers interested in participating in community beautification activities. This form will help us understand your demographic information, volunteer preferences, and contact details.

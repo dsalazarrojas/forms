@@ -1,9 +1,3 @@
-<thinking>Here is a brief internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
-
-This form is designed for individuals to register for the Film Academy, which likely serves as a platform for learning and networking within the film industry. The form's purpose is to collect essential information from users, ensuring they have a valid film-related plan or aspiration. This information is crucial for the Film Academy to tailor its resources and services to meet the needs of its registrants. 
-
-To avoid duplication, we should consider implementing a check or unique identifier (e.g., an email address or a specific ID) to prevent multiple registrations from the same person. This will help maintain an accurate and up-to-date record of registered users.</thinking>
-
 # Film Academy Registration Form - Help Guide
 ## Purpose
 This form is for individuals who want to register for the Film Academy, a platform for learning and networking within the film industry. The purpose of this form is to collect necessary information about the registrant, including their contact details and film-related aspirations or plans.

@@ -1,7 +1,3 @@
-<thinking>
-The Real Estate Waste Reduction Registration Form is used to collect information from property owners and stakeholders about their waste reduction efforts. This form helps to track and monitor progress in waste reduction programs. It is a crucial tool for identifying areas of improvement and developing effective waste reduction strategies. Before filling out this form, please ensure that you are not already registered in the system. If you are unsure, please contact the form owner for assistance.
-</thinking>
-
 # Real Estate Waste Reduction Registration Form - Help Guide
 ## Purpose
 The Real Estate Waste Reduction Registration Form is used to collect information from property owners and stakeholders about their waste reduction efforts. This form helps to track and monitor progress in waste reduction programs, enabling the development of effective strategies to reduce waste.

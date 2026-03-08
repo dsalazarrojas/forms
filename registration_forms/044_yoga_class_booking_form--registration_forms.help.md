@@ -1,23 +1,3 @@
-<thinking>
-**Form Purpose and Logic**
-
-This form is designed to collect user information and preferences for booking a yoga class. The form has the following fields to capture:
-
-- User's First Name
-- User's Last Name
-- User's Email
-- User's Phone Number
-- Preferred Class Type (select multiple options)
-- Preferred Days (select one option)
-- Preferred Class Time (select one option)
-- Start Date of the class (not a dropdown, users can enter any date)
-- End Date of the class (not a dropdown, users can enter any date)
-- Additional notes about the class booking request
-
-The purpose of the form is to provide flexibility to users who want to book a yoga class based on their preferences. The form will then use the collected data to determine whether or not the requested class is available, and the user will be notified via email or phone call with the results.
-
-</thinking>
-
 # Yoga Class Booking Form - Help Guide
 ## Purpose
 

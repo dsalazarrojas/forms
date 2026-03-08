@@ -1,14 +1,3 @@
-<thinking>
-This guide is to help you complete the AI Trainer Bootcamp Registration Form successfully.
-
-To begin, please note that this form is a tool designed to gather information about your participation in the AI Trainer Bootcamp. It is essential to complete this form accurately and thoroughly to ensure that your experience with the bootcamp is a success.
-
-Before proceeding, please make sure you are not duplicating your registration by checking for any previous registrations. If you have already registered for this bootcamp, kindly do not attempt to register again.
-
-This form is intended to collect data about your details, AI training experience, and other relevant information. Please provide your honest answers to facilitate a smooth and enjoyable experience.
-
-</thinking>
-
 # AI Trainer Bootcamp Registration Form - Help Guide
 
 ## Purpose

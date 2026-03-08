@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals seeking visa authorization. The purpose of this form is to gather necessary details from applicants to process their visa requests efficiently. This form will be used by authorized personnel to review and verify the provided information before making a decision on the visa authorization. Please note that this form is not for actual visa application, but rather for authorization purposes only. It is essential to complete this form accurately and truthfully to ensure a smooth processing experience.
-
-</thinking>
-
 # visa-application-authorization-form - Help Guide
 ## Purpose
 

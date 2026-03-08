@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in a 45-day challenge program. This form ensures that participants provide their personal details, fitness goals, and preferred workout types, which will help the trainers create a tailored plan for each participant. This form is not for general public access; it is only accessible to registered participants of the challenge program.
-
-This form is used for registration and is a required step before a participant can start the challenge. The form is split into sections, each with its own fields that need to be filled in. The participant's information will be kept confidential and used only for the purpose of the challenge program.
-
-Before starting the challenge, participants are also required to accept the waiver and terms of the program.
-
-Please ensure that you are filling this form correctly and truthfully. If you have any questions or doubts, please do not hesitate to contact us.</thinking>
-
 # 45 Days Challenge Registration Form - Help Guide
 ## Purpose
 The 45 Days Challenge Registration Form is a required step for participants to register for the 45-day challenge program. It collects personal and goal-oriented information that helps create a tailored plan for each participant.

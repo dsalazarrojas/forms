@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Release Of Medical Information Form - Help Guide
 ## Purpose
 The Release of Medical Information Form is used to collect information about medical conditions, treatments, and other relevant details about a patient's health. This form helps healthcare professionals gather essential information to provide proper care and treatment.

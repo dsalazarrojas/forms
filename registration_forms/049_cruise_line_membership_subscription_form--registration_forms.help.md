@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cruise_line_membership_subscription_form - Help Guide
 
 ## Purpose

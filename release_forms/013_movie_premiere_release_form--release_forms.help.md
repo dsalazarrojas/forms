@@ -1,7 +1,3 @@
-<thinking>
-The movie premiere release form is a crucial document that ensures compliance with media and release regulations. This form is intended for events like movie premieres, press conferences, and Q&A sessions. It is essential to ensure that all fields are filled out accurately and thoroughly, especially for the required fields. This form should not be completed in duplicate, and each event's form should be treated as a unique instance. 
-</thinking>
-
 # Movie Premiere Release Form - Help Guide
 ## Purpose
 The Movie Premiere Release Form is a document used to gather essential information about movie premieres, such as event details, media permissions, and contact information. This form helps in organizing and managing events efficiently and ensures compliance with media and release regulations.

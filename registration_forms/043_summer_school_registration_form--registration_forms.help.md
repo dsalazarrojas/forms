@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students registering for a summer school program. It is intended to gather data on student details, course details, and attendance information. The form should be filled out by students who want to register for the summer school program.
-
-To ensure that the form is filled out correctly, please review the following guide.
-
-</thinking>
-
 # Summer School Registration Form - Help Guide
 ## Purpose
 The Summer School Registration Form is designed to collect information from students registering for a summer school program. This form helps us gather essential details about students and their attendance to better understand their needs and requirements.

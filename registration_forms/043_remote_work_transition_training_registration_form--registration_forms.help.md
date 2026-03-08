@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to register for remote work transition training programs. This form is meant to collect information from interested employees, including their basic contact information (first and last name, email, and phone number), professional details (job title, job category, and company), and training preferences (desired training session and start date). This information will be used to manage and schedule the training program.
-
-The form is divided into 10 fields, which are explained below.
-
-</thinking>
-
 # Remote Work Transition Training Registration Form - Help Guide
 ## Purpose
 This form is used for employees to register for remote work transition training programs. Please fill it out to let us know your interests and preferences.

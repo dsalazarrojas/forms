@@ -1,10 +1,3 @@
-<thinking>
-This is a form for registering new members to the Planetarium Friends program, a community-driven initiative that aims to promote scientific education and exploration of the universe. The form is intended for individual or family memberships, and it captures essential information to facilitate the registration process. The form is designed to be completed by the applicant, providing accurate and relevant details about themselves and their membership preferences.
-
-**Non-duplication check:** This form is designed to be completed by a single person or a group, and it is not intended to be filled out by a representative or proxy.
-
-</thinking>
-
 # Planetarium Friends Membership Form - Help Guide
 ## Purpose
 The Planetarium Friends Membership Form is a registration form designed for those interested in becoming a part of the Planetarium Friends community. By filling out this form, you can express your interest in joining our community and choose from various membership options to suit your needs.

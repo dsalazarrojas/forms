@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form is for users to register for the HR Policy Optimization Conference. The form is not meant for internal staff or employees of the company hosting the conference, but rather for external attendees who want to participate in the conference. It's essential to understand that only one registration per person is allowed. Please do not fill out this form if you are an internal staff or if you have already registered for the conference.</thinking>
-
 # HR Policy Optimization Conference Registration - Help Guide
 ## Purpose
 This form is for registering attendees for the HR Policy Optimization Conference. It is designed for external attendees only. 

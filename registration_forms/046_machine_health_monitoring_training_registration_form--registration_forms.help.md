@@ -1,16 +1,3 @@
-<thinking>
-The Machine Health Monitoring Training Registration Form is designed for users to register their interest in attending the Machine Health Monitoring Training. The training is intended for individuals who want to learn about monitoring and maintaining machines in various environments. The form's purpose is to collect relevant information from users, including their name, email, phone number, and preferred date and time for the training session. Additionally, users can provide any additional notes they would like to share with the training team. The form also includes multiple select options for users to choose from, which will help the training team prepare for the session accordingly.
-
-To ensure that all necessary fields are filled out correctly, the form has been designed to guide users through the process. However, please make sure to review this guide before submitting the form to avoid any duplication of effort or missed questions.
-
-Before starting, please note that the form has the following fields:
-- Registration Form: This is the main section where users can provide their name, email, phone number, and preferred date and time for the training session.
-- Select One: This field allows users to select one option from the list provided.
-- Select Multiple: This field allows users to select multiple options from the list provided.
-
-Now, let's move on to the detailed explanation of each field in the form.
-</thinking>
-
 # Machine Health Monitoring Training Registration Form - Help Guide
 ## Purpose
 This form is designed to register your interest in attending the Machine Health Monitoring Training. Please fill out the form with your details to ensure you get a spot in the training session.

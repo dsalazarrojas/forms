@@ -1,8 +1,3 @@
-<thinking>
-A form for users to register media training appointments. The form is designed to collect relevant information from participants about their preferences and details for the training sessions. The form fields are meant to be optional, allowing users to provide as much or as little information as they need. The form's fields are designed to be completed by participants, and the information gathered will be used by trainers to schedule and tailor media training sessions accordingly. This form does not require duplicate submissions, and users can submit the form once they have completed all the required and optional fields.
-
-</thinking>
-
 # media_training_appointment_form - Help Guide
 ## Purpose
 This form is used for users to register for media training appointments with a trainer. Participants can select their preferred training type, schedule an appointment date and time, and provide their contact information.

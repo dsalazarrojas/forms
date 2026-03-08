@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **sprinting_tournament_entry_form - Help Guide**
 ## Purpose
 The "sprinting_tournament_entry_form" is a form designed to collect user information for registration in a sprinting tournament. It is intended to gather basic contact and verification information for each participant. This form is not intended for duplicate submissions, so ensure you provide accurate and unique details for each user registration.

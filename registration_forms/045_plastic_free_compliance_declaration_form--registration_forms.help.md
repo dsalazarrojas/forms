@@ -1,9 +1,3 @@
-<thinking>...checking the provided YAML fields for relevance and non-duplication...
-
-This form seems to be for collecting information about a company's plastic-free compliance declaration. The fields are organized into different pages, each with a unique id, name, and label. The "company_details" page is optional, while the "vendor_details" and "declaration_comments" pages are not. The "vendor_declaration_date" and "declaration_status" pages have specific options for their respective fields. The "vendor_details" page has a multiple select option, indicating that the user can select multiple vendors. The "declaration_comments" page is a note field, likely for free-text comments.
-
-</thinking>
-
 # plastic_free_compliance_declaration_form - Help Guide
 ## Purpose
 This form is used to declare a company's compliance with plastic-free regulations. It collects information about the company's details, vendor details, declaration date, declaration status, and any additional comments.

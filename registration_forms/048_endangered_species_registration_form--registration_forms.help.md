@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the purpose of this form is to collect data for endangered species registration. The form will gather information on the conservation status, species attributes, and habitat details of the species in question. This will enable the conservation organization to better understand and manage the species populations.
 
 Before starting, ensure that you have all the necessary information and permissions to register the species. If you are unsure about any field, please reach out to the conservation organization for clarification.

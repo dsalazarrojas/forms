@@ -1,7 +1,3 @@
-<thinking>...to clarify the purpose and relevance of the Exhibit Promotion Release Form... The form is used for exhibitors to release their promotion and exhibition materials in a controlled and organized manner. This process helps ensure that all promotion and exhibition materials are reviewed and approved before they are shared or used. It also helps to prevent unauthorized or misleading information from being distributed. The form is typically used for promotions that are not already approved or scheduled. It may be used for exhibitions that require additional approvals or verification, such as art exhibitions, trade shows, or events that have specific rules or guidelines... The form is not meant to be used for routine or non-promotional activities...
-
-</thinking>
-
 # Exhibit Promotion Release Form - Help Guide
 ## Purpose
 The Exhibit Promotion Release Form is used to collect and review information about an exhibitor's promotion and exhibition materials before they are shared or used. This form ensures that all promotion and exhibition materials are reviewed and approved, preventing unauthorized or misleading information from being distributed.

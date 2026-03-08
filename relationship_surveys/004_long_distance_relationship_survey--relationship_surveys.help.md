@@ -1,9 +1,3 @@
-<thinking>
-This is a survey designed to gather information about long distance relationships. The purpose of this form is to collect data on the current status of relationships that are physically distant from each other. This form is likely to be used in research or academic settings to gather insights on the dynamics of long distance relationships. It's essential to note that the form is not intended for personal use or to provide emotional support. The questions are designed to be concise and straightforward, making it easy for respondents to understand and answer them accurately.
-
-Before filling out this form, please ensure that you have not already filled it out. This will help prevent duplicate responses and ensure the accuracy of the data collected.
-</thinking>
-
 # Long Distance Relationship Survey - Help Guide
 ## Purpose
 The Long Distance Relationship Survey is designed to gather information about long distance relationships. It aims to understand the dynamics of relationships that are physically distant from each other. This form is intended for research or academic purposes only.

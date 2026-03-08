@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to gather information for a function sheet submission. The purpose of the form is to allow users to provide details about an event, such as the title, date, and location, as well as the type of function sheet submission they are making. The form is used in conjunction with other forms to gather comprehensive data for internal use. 
-
-The form checks for non-duplication of events based on the event title. This means that if an event with the same title is already in the system, the user will be notified and prompted to use a different title. This ensures that duplicate events are not created in the system.
-
-</thinking>
-
 # Function Sheet Submission Form - Help Guide
 ## Purpose
 This form is used to provide details about a function sheet submission. You will need to fill out the form with relevant information about the event, including the title, date, time, location, and other relevant details.

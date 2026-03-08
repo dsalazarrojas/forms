@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this Digital Wallet Onboarding Form, we need to ensure that the form's purpose and field explanations are clear and concise. This form is intended to collect personal and contact information from users, likely for account registration or onboarding purposes. The form's fields include first name, last name, email, phone number, account type, date of birth, nationality, address, city, state, zip code, country, acceptance, and notes. 
-
-The form's purpose is to gather essential information for registration or onboarding, but it's not explicitly stated. We should assume that the form is for opening a digital wallet account.
-
-We need to ensure that the form is self-explanatory and that users understand what information is required and what format to use.
-
-</thinking>
-
 # Digital Wallet Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect personal and contact information for the purpose of opening a digital wallet account.

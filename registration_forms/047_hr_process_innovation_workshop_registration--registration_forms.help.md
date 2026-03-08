@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to register for the HR Process Innovation Workshop. It's a workshop aimed at helping HR professionals improve their process management skills. The form is used to collect attendee information for registration and planning purposes. 
-
-Before proceeding, please ensure that you are registering for this workshop and not a different event. This form is only for attendees who have not yet registered.
-
-</thinking>
-
 # HR Process Innovation Workshop Registration - Help Guide
 ## Purpose
 The HR Process Innovation Workshop Registration form is used to collect attendee information for the HR Process Innovation Workshop. 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information, support needs, and follow-up details for pregnant or postpartum individuals seeking support. To ensure the form is filled out correctly, please make sure you are the intended recipient of support. The form must be filled out only once for each individual seeking support. If you are seeking support for multiple individuals, please submit a new form for each person.
-</thinking>
-
 # Maternity Support Registration - Help Guide
 ## Purpose
 This form is designed to collect information from pregnant or postpartum individuals seeking support. The form is used to identify their support needs and preferences for follow-up contact.

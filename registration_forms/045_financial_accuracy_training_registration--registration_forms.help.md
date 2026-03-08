@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Accuracy Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending the Financial Accuracy Training. The purpose of this form is to gather details about the attendee, their session date preferences, and any specific goals they may have. This form will help us to better understand your needs and ensure that you receive the most suitable training experience.

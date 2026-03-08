@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Sports League Authorization Form - Help Guide
 
 ## Purpose

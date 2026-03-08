@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from independent artists who wish to apply for tour support. The form is likely to be used by music event organizers, promoters, or festival planners who need to evaluate and approve tour support applications. The purpose of this form is to gather relevant information about the artist's tour, including the title of the tour, start and end dates, budget, and contact information.
-</thinking>
-
 # Independent Artist Tour Support Application Form - Help Guide
 
 ## Purpose

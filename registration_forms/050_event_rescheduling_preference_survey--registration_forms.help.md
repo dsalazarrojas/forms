@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the goal is to create a user-facing help guide for an "Event Rescheduling Preference Survey" form. This form is likely used to collect data from event attendees to gather their preferences for rescheduling events. It would be useful to understand that the form is probably part of an event management or planning process. To avoid duplication, it's essential to ensure that the form's purpose and requirements are clearly communicated to the users. For example, which event is this survey for? How will the gathered data be used? Are there any specific requirements or restrictions for the attendees to be aware of while filling out the form? These are the questions we need to answer to provide a clear and concise guide that helps users understand the form's purpose and requirements.
-</thinking>
-
 # Event Rescheduling Preference Survey - Help Guide
 ## Purpose
 This form is used to gather information from event attendees to understand their preferences for rescheduling events. Please fill out this form to help us better understand your needs and preferences for future event planning.

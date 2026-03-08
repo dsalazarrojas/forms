@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to collect information about an individual's fitness data sharing preferences and agreements. This form is used to share fitness data with a specific person or organization, and the user must provide details about the data they want to share, the reason for sharing, the time frame, and the recipient's contact information.
-
-To prevent duplication, this form should only be filled out once for each unique recipient or organization.
-
-</thinking>
-
 # Fitness Data Sharing Release Form - Help Guide
 ## Purpose
 The Fitness Data Sharing Release Form is used to share individual's fitness data with a specific person or organization. This form ensures that the data shared is done so in a secure and informed manner.

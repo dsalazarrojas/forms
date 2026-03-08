@@ -1,7 +1,3 @@
-<thinking>As I analyze the form YAML, I notice that it's a comprehensive registration form for an AI Conference. The form captures attendee information, registration details, and payment methods. The form is divided into two sections: "Attendee Information" and "Payment & Billing". Each field is designed to gather specific information that will help the conference organizers with attendee registration, communication, and logistics.
-
-To ensure form completion, I'll focus on providing clear explanations and examples for each field, avoiding any assumptions or invented business logic.</thinking>
-
 # AI Conference Attendance Form - Help Guide
 ## Purpose
 The AI Conference Attendance Form is designed to collect information from attendees, including their details, registration preferences, and payment methods. This form ensures that the conference organizers have accurate and up-to-date information for attendee management, communication, and logistics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gender Violence Prevention Awareness Survey - Help Guide
 
 ## Purpose

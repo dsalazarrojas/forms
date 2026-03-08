@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Zumba In The Park Registration Form is a form designed for registering participants in Zumba dance classes held in outdoor parks. The form aims to gather essential information from individuals who wish to join the classes, which will be used to manage participant details and ensure a smooth registration process. 
 
 Before proceeding, please make sure you are registering for the correct form and do not duplicate your registration, as this might cause unnecessary confusion and affect the registration process.

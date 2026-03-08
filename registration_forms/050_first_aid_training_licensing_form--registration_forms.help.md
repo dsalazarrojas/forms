@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for the purpose of first aid training licensing, likely for certification or registration purposes. The form aims to gather participant details, including emergency contact information, payment details, and training date and time. This form is likely used by healthcare professionals or organizations to manage their first aid training programs. It's essential to ensure the form is filled out correctly to avoid duplication or incomplete records. Before filling out this form, please review all fields carefully to provide accurate information.
-</thinking>
-
 # first_aid_training_licensing_form - Help Guide
 ## Purpose
 The first aid training licensing form is a crucial document for certification or registration purposes of healthcare professionals or organizations offering first aid training. This guide will walk you through the process of filling out the form correctly.

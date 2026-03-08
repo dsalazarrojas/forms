@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Record Release Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information for releasing a patient's medical record. It is essential to complete this form accurately to ensure the correct release process and minimize potential issues.

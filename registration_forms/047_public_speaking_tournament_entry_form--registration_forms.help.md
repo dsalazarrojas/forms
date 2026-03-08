@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering entries for public speaking events. It is likely used for speakers who want to participate in a public speaking tournament or similar event. This guide will help end-users understand the purpose and fields of this form, which is meant to gather information from speakers and their organizers/submitters. Before filling out the form, ensure you don't already have a registration open under your name and that you're filling out all required fields. If any of your information matches the required field labels below, please be cautious that you might have a duplicate entry.
-</thinking>
-
 # Public Speaking Tournament Entry Form - Help Guide
 ## Purpose
 

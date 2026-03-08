@@ -1,6 +1,3 @@
-<thinking>...
-</thinking>
-
 # Financial Intelligence Program Registration Form - Help Guide
 ## Purpose
 The Financial Intelligence Program Registration Form is a form used to register participants for the Financial Intelligence Program. This form collects information from the participant to facilitate the program's administration and communication.

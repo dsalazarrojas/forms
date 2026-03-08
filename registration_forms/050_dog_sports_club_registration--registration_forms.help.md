@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for registering a dog in the Dog Sports Club. The purpose of this form is to collect information about the dog and its owner, including the owner's contact details, dog's breed and weight, class and activity preferences, and instructor signature. This form is intended for both new and existing club members. To avoid duplication, it is recommended that owners register their dogs once and do not attempt to register them multiple times. This ensures data consistency and accurate records for future reference.
-
-</thinking>
-
 # Dog Sports Club Registration - Help Guide
 ## Purpose
 The purpose of this form is to register your dog in the Dog Sports Club. This form helps us gather information about your dog and your preferences for training classes and activities.

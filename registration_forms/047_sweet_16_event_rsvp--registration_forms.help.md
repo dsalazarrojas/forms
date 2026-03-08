@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect RSVPs for the "Sweet 16" event. The form is meant to be filled out by guests who have been invited to the event. The purpose of the form is to gather essential information from guests, including their name, email, phone number, event date and time, event venue, RSVP status, number of attendees, and any comments they may have.
-The form is divided into two sections: personal information and event-specific details. Guests will be asked to provide their personal details, such as name, email, and phone number. They will also be asked to confirm their attendance by indicating whether they will be attending or not. In case of multiple attendees, they can select the number of people attending. Additionally, they can provide any comments about the event.
-</thinking>
-
 # sweet16_event_rsvp - Help Guide
 ## Purpose
 The sweet16_event_rsvp form is designed to collect RSVPs for the "Sweet 16" event.

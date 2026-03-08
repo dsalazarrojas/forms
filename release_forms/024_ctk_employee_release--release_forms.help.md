@@ -1,14 +1,3 @@
-<thinking>
-This is a guide for designing a help document for the CTK Employee Release form. The form is used for employees to formalize their release and waiver of claims and liabilities after termination of employment. 
-
-The form has several sections that cover employee's personal details, release of claims, return of company property, final compensation, and signature. 
-
-To complete the form, the user will need to provide their personal details, confirm the release of claims, acknowledge their ongoing confidentiality obligations, agree to the non-disparagement clause, return company property, confirm the return of company items, and sign the form.
-
-The form is composed of 17 fields in total. Each field should be explained clearly to guide the user through the form completion process.
-
-</thinking>
-
 # CTK Employee Release - Help Guide
 ## Purpose
 The CTK Employee Release form is used to formalize an employee's release and waiver of claims and liabilities after termination of employment. This form is required for the employee to confirm their understanding and agreement with the company regarding the terms of their separation.

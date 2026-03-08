@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from models for a photography session, ensuring they understand the usage rights of the images taken, how their personal data will be used, and providing them with a way to verify their age and consent to the usage of their images. This form is essential for the photographer to obtain necessary permissions and releases before sharing or using the model's images. 
-</thinking>
-
 # Boudoir Model Release Form - Help Guide
 
 ## Purpose

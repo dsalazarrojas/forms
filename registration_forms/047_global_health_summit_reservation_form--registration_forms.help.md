@@ -1,8 +1,3 @@
-<thinking>...
-The form is designed to collect information from users who want to reserve a spot at a Global Health Summit. It is intended for individuals or entities that need to book a place at the summit. The form's purpose is to gather the necessary details to accommodate their reservation. To prevent duplication, users should check if they have already submitted their reservation form before proceeding. This form is meant for single submissions only, so users should not attempt to resubmit their form if they have already done so.
-
-</thinking>
-
 # Global Health Summit Reservation Form - Help Guide
 ## Purpose
 This form is for individuals or entities that want to reserve a spot at the Global Health Summit. It is meant to collect the necessary information to accommodate their reservation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect permission and medical release information from parents or guardians on behalf of their children. The form is meant to be filled out by a parent or guardian, and it contains various fields that ask for their permission, medical conditions, emergency contact information, and other relevant details. This form is likely used in educational or healthcare settings where parental consent is required. The form's purpose is to ensure that parents or guardians are aware of and agree to any treatment or activities that their child will be involved in. To avoid duplication, please note that this form is for new users only.
-</thinking>
-
 # Permission And Medical Release Form - Help Guide
 ## Purpose
 This form is used to collect permission and medical release information from parents or guardians on behalf of their children. It is essential for ensuring that parents or guardians are aware of and agree to any treatment or activities that their child will be involved in.

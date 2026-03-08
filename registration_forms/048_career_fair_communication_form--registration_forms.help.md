@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Career Fair Communication Form" which is used to facilitate communication between exhibitors and event organizers during career fairs. This form helps ensure that exhibitors can reach out to the event organizers with any necessary information, requests, or questions.
-
-Before proceeding, please ensure that you're completing this form for a legitimate reason and not simply for testing or demonstration purposes. This form is designed to collect information that will be shared with event organizers, so be cautious with your responses and only provide information you're comfortable sharing.
-
-Also, please review your responses for duplication before submitting the form, to avoid redundant submissions.
-
-</thinking>
-
 # Career Fair Communication Form - Help Guide
 ## Purpose
 The Career Fair Communication Form is used for exhibitors to send messages to event organizers, such as requesting booth assignments, providing additional information, or asking questions about the career fair.

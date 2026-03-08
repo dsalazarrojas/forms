@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals participating in a cycling retreat or similar outdoor activity. It is likely used to gather emergency contact details, participant information, and confirmation of terms and conditions. The form's structure suggests it is intended for people who may be part of a group or team, with multiple emergency contact fields for different relationships.
-</thinking>
-
 # cyclingRetreatFormGrey - Help Guide
 ## Purpose
 

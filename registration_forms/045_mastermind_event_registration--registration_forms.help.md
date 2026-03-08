@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Mastermind Event Registration" form, we'll follow these steps:
 
 1. Define the form's purpose and check for relevance and non-duplication.

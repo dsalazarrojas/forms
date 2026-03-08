@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a model release, which is a critical process in various industries such as entertainment, media, and photography. A model release is a legal document that confirms a model has given their consent to be photographed or filmed. It's essential to have this form filled out accurately to ensure the model's rights are respected and to minimize potential legal issues. This form will guide you through the process of filling out the model release form, including the purpose of each field and how to fill it out correctly.
-
-Please note that this form should only be used for models who are 18 years or older, as this is the minimum age requirement in most jurisdictions for a model to give consent. Also, ensure that you have the model's informed consent before filling out this form.
-
-</thinking>
-
 # Model Release Form - Help Guide
 ## Purpose
 The model release form is used to obtain the model's consent to be photographed or filmed. It's a critical document that ensures the model's rights are respected and minimizes potential legal issues.

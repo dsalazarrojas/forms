@@ -1,15 +1,3 @@
-<thinking>
-We are creating a help guide for the "Pediatric Rehabilitation Course Registration" form. This form is likely used to capture information from parents or guardians of children undergoing pediatric rehabilitation courses. The form is designed to be completed online, making it accessible and convenient for users.
-
-The form appears to be a registration form for pediatric rehabilitation courses, and its primary purpose is to gather relevant information from users to process their course registrations. It is not a payment form, nor is it intended for users to upload documents or attachments. 
-
-The form asks users to select whether they would like to attend a session, and if so, when they would like to attend. It also asks for their name, contact number, and email (if they consent to receive emails), course name (if applicable), and session time (if they choose to attend a session). Additionally, it asks for consent to receive phone calls and SMS messages.
-
-The form's fields are designed to be straightforward and easy to understand, with clear labels and options. The "session_selection" field allows users to choose whether they would like to attend a session, and if so, when. The "parent_name" field is where users can enter their name, and "contact_number" is where they can enter their contact number. "Parent_email" is optional, but users can choose to consent to receiving emails from the system. "Course_name" is also optional, but likely for users to enter the name of the course they are registering for. "Session_time" and "Consent_to_phone" and "Consent_to_sms" are additional options related to communication preferences.
-
-Please note that some fields are not required, indicating that users are not mandatorily required to fill them out.
-</thinking>
-
 # Pediatric Rehabilitation Course Registration - Help Guide
 
 ## Purpose

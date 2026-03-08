@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to release temporary accounts held by employees. It's intended to provide a standardised process for releasing these accounts, ensuring that necessary information is collected from employees and that all relevant details are documented. When filling out this form, ensure that the information entered is accurate and up-to-date. It's recommended to review the form carefully before submission to avoid any mistakes. This form should only be used for temporary accounts and not for permanent ones. 
-
-</thinking>
-
 # Temporary Account Information Release Form - Help Guide
 ## Purpose
 The Temporary Account Information Release Form is used to release temporary accounts held by employees. This form helps to gather necessary information and document details for the account release process.

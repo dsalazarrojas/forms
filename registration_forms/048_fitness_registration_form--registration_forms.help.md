@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who are interested in participating in a fitness-related program or activity. The purpose of this form is to collect personal and contact information, as well as application and motivation details from potential participants. The form is intended to be used by individuals who are seeking to register for a fitness program or activity, and it is not meant to be used for commercial purposes.
-</thinking>
-
 # Fitness Registration Form - Help Guide
 ## Purpose
 The Fitness Registration Form is a tool used to gather information from individuals who want to participate in a fitness-related program or activity.

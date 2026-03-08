@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a release form for audio recordings, used to clarify the terms and conditions of a recording session, including the rights and responsibilities of both the talent and the producer. It's likely used in the music, film, or media industry to ensure that all parties involved are clear on the terms of the recording project. This form should not be used for other types of projects, such as video games or events. Please ensure that this form is used for its intended purpose and not duplicated or used in a different context.
-</thinking>
-
 # Audio Recording Release Form - Help Guide
 ## Purpose
 This form is used to document the agreement between a talent and a producer for an audio recording project. It outlines the rights and responsibilities of both parties, including the transfer of intellectual property rights, distribution rights, reproduction rights, and other related permissions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from employees for the Employee Appreciation Luncheon event. This form helps us gather guest information, dietary needs, RSVP status, meal preferences, and any other relevant details. Please ensure you fill out the form accurately and completely to help us plan the event effectively. This form is intended for internal use, so please do not submit duplicate entries.
-</thinking>
-
 # Employee Appreciation Luncheon Registration - Help Guide
 ## Purpose
 The Employee Appreciation Luncheon Registration form is designed to collect necessary information from employees attending the appreciation luncheon event. This form is used to ensure accurate headcount, dietary needs, and other relevant details for the event.

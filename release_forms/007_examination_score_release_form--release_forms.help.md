@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information from a school administration or instructor to release examination scores to the appropriate parties. To prevent duplication, please only submit this form once per examination. Ensure that you are submitting for the correct exam and student. The form will collect information on the exam name, school name, grade level, student name, parent contact information, teacher contact information, department, and authorized recipient information. Please provide accurate and complete information to ensure the score release process is completed correctly...</thinking>
-
 # Examination Score Release Form - Help Guide
 ## Purpose
 

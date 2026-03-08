@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to be a workshop billing form, which means it is used to record and store information related to the workshop participants' billing details, payment information, and workshop details. 
-
-The form is likely to be used in a registration process for a workshop, where participants and organizers can input their information, payment details, and workshop-related data.
-
-The form has 25 fields, ranging from participant details to payment information and workshop details.
-
-Before proceeding, ensure that you are in the correct context and that the form is being filled out for the correct workshop and participant.
-
-</thinking>
-
 # Workshop Billing Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and record billing details, payment information, and workshop-related data for workshop participants.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Theme Park Image Release Form is to collect information from guests who have provided images or videos of our theme park. This form is used to obtain their explicit consent to use their content in promotional materials and media. The form is designed to ensure that we can properly attribute the content to the guest and obtain any required permissions for its use.
 
 The form is part of a larger process to manage image and video releases in a theme park setting, ensuring that we can respect the rights of our guests while using their content in our marketing efforts.

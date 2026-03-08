@@ -1,7 +1,3 @@
-<thinking>
-This form is for students to register as volunteers for a workshop. It is meant for students who want to participate in the workshop as facilitators, presenters, or participants. The form collects personal details, volunteer roles, workshop preferences, and emergency contact information. To prevent duplicate registrations, users should not reuse the same email address multiple times.
-</thinking>
-
 # Student Workshop Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who want to volunteer for a workshop. It's a registration form for participants, facilitators, and presenters.

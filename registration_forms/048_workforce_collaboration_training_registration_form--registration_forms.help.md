@@ -1,10 +1,3 @@
-<thinking> 
-This is a help guide for the Workforce Collaboration Training Registration Form, which is used to collect information about employees' training needs and preferences. The form is designed to facilitate communication and collaboration among training administrators, employees, and managers. This guide will help users understand the purpose and structure of the form, as well as the meaning and requirements of each field.
-
-Before proceeding, please ensure that you are familiar with the purpose and scope of the form. This guide will assume that you have access to this form and are ready to complete it.
-
-</thinking>
-
 # Workforce Collaboration Training Registration Form - Help Guide
 ## Purpose
 The Workforce Collaboration Training Registration Form is a tool used to register employees' training needs and preferences. It helps training administrators communicate with employees and ensures that training is delivered effectively.

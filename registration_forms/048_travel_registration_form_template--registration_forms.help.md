@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a template for travelers to register for a trip, gathering essential information to ensure a smooth and safe journey. The form is designed to be completed by the traveler, and its purpose is to collect relevant details about the trip, contact information, and emergency contacts. The form is not affiliated with any specific platform and is released under a Creative Commons license, allowing users to modify and use it for free, as long as they give credit.
-
-</thinking>
-
 # Travel Registration Form Template - Help Guide
 ## Purpose
 This travel registration form is a template designed to collect important information from travelers. It is intended to be used by individuals or organizations to gather details about their travel plans, contact information, and emergency contacts.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clearly understood and that end users are not registering for the same workshop multiple times. This form will ask for personal information, workshop attendance preferences, and confirmations. The "Workshop Attendance Confirm" field should be carefully reviewed to prevent duplicate registrations. 
-</thinking>
-
 # Education Data Governance Workshop Registration Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to create a new user account on our platform. The form is designed to ensure that users provide accurate and consistent information, particularly with regards to their email and phone number. 
-
-Before submitting the form, the system will check for any existing accounts with the same email address or phone number to prevent duplication. 
-
-Please note that this form is not intended for users who are updating or editing their existing account information. If you already have an account, please use our "Login" form instead.
-</thinking>
-
 # New User Account Request Form - Help Guide
 ## Purpose
 

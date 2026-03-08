@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help you book a team practice session. It is a straightforward form that gathers necessary information to facilitate the organization and management of team practice sessions. Before proceeding, please ensure that you have reviewed the form carefully and have all the required information available. If you have already booked a practice session for the same team and date, please do not fill out this form again. You can refer to your previous booking for the relevant details.
-</thinking>
-
 # Team Practice Session Booking Form - Help Guide
 ## Purpose
 This form is used to book a team practice session. It will help you create a record of the session details, including date, time, location, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parental authorization, where a parent or guardian provides permission for a child's participation in a certain activity. The form may be used in educational institutions, medical settings, or other organizations where parental consent is required. The form asks for basic information such as first and last name, birth date, and contact details, as well as more specific information like relationship to the child, guardian's contact information, and authorization details. The fields are designed to gather necessary data for the child's participation, and the form should be filled out by the parent or guardian who is providing the authorization.
-</thinking>
-
 # parental_authorization_form - Help Guide
 ## Purpose
 The Parental Authorization Form is a document that provides parental consent for a child's participation in various activities, programs, or events. It ensures that the child's parents or guardians are aware of and agree to their child's involvement.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information for registering attendees to free sessions. It is designed for event organizers to gather necessary details for attendee tracking and communication. The form should only be filled out once per attendee. Please ensure that each attendee's information is accurate and complete before submitting. If an attendee has already registered, do not resubmit their information, as it may cause duplication in the database.</thinking>
-
 # free-introduction-session-registration - Help Guide
 ## Purpose
 The "free-introduction-session-registration" form is used to collect registration information from attendees for free sessions. The form includes fields for attendee name, email, phone number, date, time, notes, confirmation status, registration status, session type, and confirmation message. The collected information helps event organizers track and communicate with attendees effectively.

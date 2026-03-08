@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture a user's interest in enrolling in promotional offers and discounts. To prevent duplicate enrollments, this form should only be completed once. If you're unsure which fields to fill out, please refer to the following guide.
-
-</thinking>
-
 # promotional_offer_enrollment_consent_form - Help Guide
 ## Purpose
 This form is used to enroll in promotional offers and discounts provided by our company. It will only take a few minutes to complete.

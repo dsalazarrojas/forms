@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Host/Hostess Application Form - Help Guide
 ## Purpose
 This form is for individuals to apply to be a host or hostess for events and gatherings at a restaurant. It is meant to collect information about the applicant's qualifications, experience, and availability to host events.

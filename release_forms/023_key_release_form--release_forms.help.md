@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a multi-page form with 25 fields, which is quite extensive. Upon examination, I notice it has a mix of text input fields, selection fields, date and time fields, email fields, and note fields. Each field appears to be optional, which may make it more complex for users to complete. To help users navigate through this form efficiently, I will create a detailed explanation for each page and field.
-
-The form seems to be used for capturing various types of information, possibly for data analysis or reporting purposes. Without further information about the specific business context, I will assume that each field is meant to collect a specific type of data.
-
-Given the form's complexity, users may need help understanding the purpose and relevance of each field. I will attempt to provide clear and concise explanations for each field, using the field labels as a starting point.</thinking>
-
 # key_release_form - Help Guide
 ## Purpose
 The key_release_form is a comprehensive form designed to collect various types of information for data analysis or reporting purposes. This form has 25 fields across multiple pages, and each page and field are designed to capture specific data points.

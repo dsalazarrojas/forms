@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to grant publicity authorization for their child. It's used by production teams to obtain necessary approvals before using a child's image or likeness in a project. The form ensures that the rights of the child are respected and that the child's image is used according to the law. To prevent non-duplication, this form should only be used for new projects that don't involve children already covered by a previous release form.
-</thinking>
-
 # Parent Guardian Publicity Authorization And Release Form - Help Guide
 
 ## Purpose

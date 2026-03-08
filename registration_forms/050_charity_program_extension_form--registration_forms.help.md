@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Program Extension Form - Help Guide
 ## Purpose
 

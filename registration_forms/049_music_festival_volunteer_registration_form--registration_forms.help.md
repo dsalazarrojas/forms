@@ -1,5 +1,3 @@
-<thinking>... We're going to assume that this form is for volunteers to register for a music festival, with the goal of helping the festival organizers manage volunteer schedules and preferences. To complete this form, users will likely be providing information about their personal details, availability, and preferences. This will ensure that the right volunteers are assigned to the right shifts and tasks... </thinking>
-
 # Music Festival Volunteer Registration Form - Help Guide
 ## Purpose
 The Music Festival Volunteer Registration Form is a comprehensive registration form designed to gather essential information from volunteers about their personal details, availability, and preferences. This guide will walk you through each section of the form to help you complete it accurately and efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for authors or representatives of authors to request permission to use a book excerpt. The form is used to collect information about the book, the author, the intended use of the excerpt, and the terms and conditions of the release. This guide is designed to help the requestor understand what information is required and what to expect during the process.
-
-Please note that the form is not intended for general public use and should only be used by authorized individuals. If you are not authorized to use this form, please do not proceed.
-</thinking>
-
 # Book Excerpt Release Form - Help Guide
 ## Purpose
 This form is used to request permission to use a book excerpt. Fill out this form to provide the necessary information for your request.

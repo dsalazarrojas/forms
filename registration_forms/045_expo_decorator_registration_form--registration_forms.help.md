@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be a registration form for Expo Decorators, which is used to capture essential information about the individual or organization registering to become an Expo Decorator. The form includes a variety of fields to gather contact, address, and other relevant details. 
-
-The form is designed to be completed by potential Expo Decorators to provide a standardized way of capturing their registration information. This information will be used to facilitate their participation in Expo events and ensure they are aware of the terms and conditions of their involvement. 
-
-Please note that this form is not intended to be a comprehensive application process, but rather a registration form to gather necessary information. Further review and verification will be required to complete the registration process. 
-
-Please ensure that you are not duplicating your submission, as this form is intended for new registrations only. If you have previously submitted your registration, please do not resubmit.
-
-</thinking>
-
 # expo_decorator_registration_form - Help Guide
 ## Purpose
 The Expo Decorator Registration Form is a standardized form used to gather essential information about individuals or organizations registering to become Expo Decorators. This form is intended to facilitate their participation in Expo events and ensure they are aware of the terms and conditions of their involvement.

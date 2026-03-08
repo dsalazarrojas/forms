@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended to provide clear instructions and explanations for filling out the Military Appreciation Event Registration form. 
-
-To avoid duplication and ensure accurate information is captured, please review the form carefully before proceeding. 
-
-Each section of the form is designed to gather specific details about an event, and filling out the form accurately will ensure that your event is properly registered and communicated to relevant parties. 
-
-Please note that this guide will cover each field of the form and explain its purpose in a clear and concise manner.
-</thinking>
-
 # Military Appreciation Event Registration - Help Guide
 
 ## Purpose

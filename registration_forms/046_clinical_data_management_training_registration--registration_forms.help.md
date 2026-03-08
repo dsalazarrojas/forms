@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in attending the Clinical Data Management Training program. The form is divided into several sections, each focusing on different aspects of the applicant's information. The program is looking for participants with diverse backgrounds and interests, and the form is designed to accommodate their needs. By completing this form, applicants will be able to express their preferences and provide relevant details about themselves.
-
-The form will be reviewed internally to ensure that it is suitable for the program's goals and resources. If there are too many applicants for the program, priority will be given to those with more relevant experience and specific goals in mind. This helps to create a better fit for the program's participants and instructors.
-
-Before filling out the form, please make sure that you have a clear idea of your goals and expectations from the training program. Be as specific as possible when answering the questions, and don't hesitate to ask if you have any doubts or questions.
-
-</thinking>
-
 # Clinical Data Management Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending the Clinical Data Management Training program. It will help us tailor the program to your needs and interests.

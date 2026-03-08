@@ -1,8 +1,3 @@
-<thinking>
-This form is a registration form that allows users to create an account. It is intended for personal or professional registration. The form is not meant for sensitive or confidential information. Please note that all fields are optional, but the form cannot be completed without at least one of the required fields.
-
-</thinking>
-
 # Create Account - Help Guide
 ## Purpose
 This form is designed to collect information about the user for registration purposes.

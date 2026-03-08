@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "voter_registration_records_release_form" form, I will follow the provided YAML structure to understand the form's purpose, requirements, and field explanations. I will assume that the form is used for releasing voter registration records, and users need to provide personal information to complete the form. The form likely has multiple fields for personal data, reason for request, and confirmation, and additional comments.
-</thinking>
-
 # voter_registration_records_release_form - Help Guide
 ## Purpose
 This form is used to release voter registration records. Complete it to provide personal information required for the process.

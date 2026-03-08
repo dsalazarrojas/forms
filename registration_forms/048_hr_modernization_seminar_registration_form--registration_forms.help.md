@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from registrants for an HR Modernization Seminar. The form collects details such as seminar preferences, contact information, and confirmations of provided information. The fields are designed to ensure accurate and consistent data collection for seminar organizers.
-
-Before proceeding, please ensure that you are completing this form for the correct seminar. If you're unsure, contact the seminar organizers at form@gic.mx.
-
-Please note that the form is designed to guide you through the process, but if you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # HR Modernization Seminar Registration Form - Help Guide
 ## Purpose
 The HR Modernization Seminar Registration Form is used to collect information from registrants for an HR Modernization Seminar. This form ensures that seminar organizers collect accurate and consistent data from attendees.

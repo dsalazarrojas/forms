@@ -1,5 +1,3 @@
-<thinking>...the form is used to register participants for a specific event. This form gathers event information, participant contact info, and any additional notes about the participant. Ensure that you are registering for the correct event and providing accurate contact information. If you have registered for the same event previously, you may need to update your registration or contact the event organizer to confirm changes. Please review the fields below to complete the form accurately...</thinking>
-
 # Participant Preamble Form - Help Guide
 ## Purpose
 The Participant Preamble Form is used to register participants for a specific event.

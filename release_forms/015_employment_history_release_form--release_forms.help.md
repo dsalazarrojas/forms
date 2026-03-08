@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about an individual's employment history. The purpose of this form is to verify and document an individual's previous employment details for official purposes. This form should not be used for employment opportunities or applications. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Employment History Release Form - Help Guide
 ## Purpose
 The Employment History Release Form is used to collect and document an individual's employment history for official purposes.

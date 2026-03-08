@@ -1,5 +1,3 @@
-<thinking>This form is used for festival submission and communication. It is intended to gather information from artists and vendors to better understand their submissions and communicate with them. To avoid duplication, please make sure to submit only one form per festival submission. If you have multiple submissions, please submit a new form for each one.</thinking>
-
 # festival_submission_communication_form - Help Guide
 ## Purpose
 This form is used to gather information from artists and vendors for festival submissions. Please fill out the form accurately and thoroughly to ensure that your submission is processed correctly.

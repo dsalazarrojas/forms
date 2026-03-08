@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for hotel guests to subscribe to the hotel's membership program. The form is used to collect contact and membership information from the guests. The form will be used to create a membership account for the guest, which will grant them access to exclusive perks and benefits. 
-Before filling out this form, please ensure that you have not previously submitted a membership application for this hotel. If you have already submitted a membership application, please do not resubmit. 
-</thinking>
-
 # Hotel Membership Subscription Form - Help Guide
 ## Purpose
 This form is used to collect membership information from hotel guests who want to join the hotel's membership program. By filling out this form, you will be able to join the program and receive exclusive benefits and perks.

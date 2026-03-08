@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are attending a transportation forum. The purpose of this form is to gather participant details and their transportation preferences. This form is not affiliated with any form platform and is an original adaptation created using AI. The form collects data for the organization's internal use and helps in planning and organizing the event more efficiently. This form should not be used for any other purpose other than the intended one.
-
-</thinking>
-
 # Transportation Forum RSVP Form - Help Guide
 ## Purpose
 The Transportation Forum RSVP Form is designed to collect participant information and their transportation preferences for the event.

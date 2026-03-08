@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a school field trip accommodation, which typically involves organizing logistics and arrangements for students to stay during a trip. This form likely aims to gather details about the trip, students, and accommodations to ensure a smooth and safe experience for all parties involved. It is essential to fill out this form accurately to provide the necessary information for trip planning and organization.
-
-Before starting, please ensure you are authorized to fill out this form and that the trip details are correct. Duplicate entries may lead to confusion, so please review this form carefully before submitting it.
-
-This form is typically used by school administrators or trip organizers to collect data on school field trips. If you're unsure about any part of this form, please consult the trip leader or school supervisor.
-
-</thinking>
-
 # School Field Trip Accommodation Form - Help Guide
 ## Purpose
 The School Field Trip Accommodation Form is a data collection tool used to organize and arrange accommodations for school field trips.

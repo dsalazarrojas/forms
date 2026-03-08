@@ -1,12 +1,3 @@
-<thinking>
-# Internal explanation
-This form is used to collect information and enroll a passenger into the airline's baggage subscription service. 
-The form asks for basic contact information, passenger details, subscription preferences, and payment details. 
-This information is required to process the subscription and provide relevant services. 
-Please ensure that you provide accurate information and understand that providing incorrect or incomplete information may cause errors in the processing of your subscription. 
-This form should not be used for duplicate enrollments. 
-</thinking>
-
 # Airline Baggage Subscription Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and enroll a passenger into the airline's baggage subscription service. This form asks for basic contact information, passenger details, subscription preferences, and payment details to process your subscription and provide relevant services.

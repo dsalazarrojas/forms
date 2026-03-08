@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for release team managers and team members to provide information about new soda flavor releases. The form captures various details about the release, including the flavor name, flavor description, submission status, team member information, and other relevant details. This form is likely used for administrative purposes, such as tracking and organizing releases. To ensure accurate and consistent data entry, it's essential to review the form carefully and ensure that all required fields are completed.
-</thinking>
-
 # Soda Flavor Release Form - Help Guide
 ## Purpose
 This form is used to collect information about new soda flavors and their release status.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for restaurant owners and staff to register with our platform. The form is used to collect information about the restaurant's details, including contact information, address, and business hours. This form should only be filled out by authorized personnel of the restaurant.
-To avoid duplication, please ensure that you are not already registered on our platform before filling out this form. If you are already registered, please do not fill out this form again.
-</thinking>
-
 # Restaurant Online Registration Form - Help Guide
 ## Purpose
 This form is used for restaurant owners and staff to register their restaurant on our platform. It is a one-time registration process that provides us with the necessary information to verify and showcase your restaurant's details.

@@ -1,5 +1,3 @@
-<thinking>First, we need to understand that this form is for registering a team for a "Touch Rugby Tournament". This form collects various details about the team, including team information, payment details, and contact information. It seems like the form is designed for teams to provide their details to participate in the tournament. It's possible that this form is used to manage registrations and collect fees from teams. We should ensure that the fields are clear and easy to understand for end-users.</thinking>
-
 # Touch Rugby Tournament Registration Form - Help Guide
 ## Purpose
 The Touch Rugby Tournament Registration Form is for teams to provide their details to participate in the "Touch Rugby Tournament". This form is used to collect essential information about the team to ensure a smooth and successful tournament experience.

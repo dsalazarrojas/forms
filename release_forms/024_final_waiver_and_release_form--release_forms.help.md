@@ -1,37 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for an event waiver and release agreement from participants. The goal is to ensure that participants understand and agree to the terms and conditions of the event, as well as provide necessary information for emergency contact and medical purposes. This form must be completed carefully and thoroughly by participants to ensure accurate and complete records.
-
-To complete this form:
-
-1. Provide Event Information (page 1)
-2. Provide Participant Information (page 2)
-3. Waiver (page 3)
-4. Release (page 4)
-5. Event Terms (page 5)
-6. Participant Terms (page 6)
-7. Emergency Contacts (page 7)
-8. Medical Information (page 8)
-9. Waiver Signature (page 9)
-10. Release Signature (page 10)
-11. Event Organizer (page 11)
-12. Participant Organizer (page 12)
-13. Event Sponsor (page 13)
-14. Participant Sponsor (page 14)
-15. Medical Procedure (page 15)
-16. Medical Condition (page 16)
-17. Medical History (page 17)
-18. Medical Insurance (page 18)
-19. Emergency Contact Information (page 19)
-20. Participant Agreement (page 20)
-21. Event Agreement (page 21)
-22. Participant Information (page 22)
-23. Participant Signature (page 23)
-24. Event Signature (page 24)
-25. Event Review (page 25)
-
-</thinking>
-
 # Final Waiver And Release Form - Help Guide
 ## Purpose
 

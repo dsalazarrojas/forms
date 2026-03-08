@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_coordination_workshop_admission_form - Help Guide
 
 ## Purpose

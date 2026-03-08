@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for past player events, which is likely used for administrative purposes or record-keeping. This form may be used by event organizers, administrators, or registrars to gather details about past events, such as dates, times, names, contact information, and statuses. The form likely serves as an archive or reference document for future planning and reporting.
-</thinking>
-
 # Past Players Event Registration - Help Guide
 ## Purpose
 The Past Players Event Registration form is used to collect and store information about past events involving players.

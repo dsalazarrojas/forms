@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for releasing information about an interview, which includes details about the participant, publication, and consent given. It seems that this form is part of a process where information about an interview is being shared or published in some medium. The fields included in this form cover the key aspects of the interview, such as participant name, email, and consent status, as well as metadata about the form itself, like the form owner and submission date.
-
-Before proceeding, please confirm that this form is relevant and not a duplicate of another existing form. If it is a duplicate, please provide the original form ID so we can update the fields accordingly.
-</thinking>
-
 # Interview Quote Release Form - Help Guide
 ## Purpose
 This form is used to release information about an interview to a specific individual or organization. It captures essential details about the participant, publication status, and consent given.

@@ -1,23 +1,3 @@
-<thinking>
-This form is intended to help users register for a soccer referee training program. It is likely used for administrators to collect information from potential or existing referees. The form is probably used during or after an event, such as a tournament or match. 
-
-This guide is designed to be used by end-users who need to register for the soccer referee training program. It is not designed for developers or administrators, so the explanation will focus on user-centric language. 
-
-The form is divided into several fields that are likely part of a registration process. Each field has a specific purpose and the guide will explain each one in turn. 
-
-The form fields are likely collected for the following reasons:
-  - First name: To capture the user's first name.
-  - Last name: To capture the user's last name.
-  - Email: To capture the user's email address, potentially for verification or communication purposes.
-  - Contact number: To capture the user's phone number or contact information.
-  - Training date: To capture the date for which the user is registering for training.
-  - Referee experience: To capture the user's previous experience as a referee, which might affect the training requirements or recommendations.
-
-This guide is designed to be used by end-users who may not be familiar with the form's purpose or how to complete it. It will cover the form's purpose, how to complete it, and explain each field's purpose in turn.
-
-The following guide is a user-friendly, step-by-step guide to help end-users complete the form correctly and efficiently.
-</thinking>
-
 # Soccer Referee Training Participation Form - Help Guide
 ## Purpose
 The Soccer Referee Training Participation Form is designed to help users register for a soccer referee training program. This form collects information from potential or existing referees for administrative purposes.

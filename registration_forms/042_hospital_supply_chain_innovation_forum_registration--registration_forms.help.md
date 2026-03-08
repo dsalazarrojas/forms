@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Supply Chain Innovation Forum Registration - Help Guide
 
 ## Purpose

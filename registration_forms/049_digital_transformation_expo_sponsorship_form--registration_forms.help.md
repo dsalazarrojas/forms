@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect sponsorship information from interested parties for the Digital Transformation Expo. This form aims to gather essential details about the sponsor, including their company name, contact person, email, phone number, role in the company, event details, and sponsorship type. The form is not a mandatory requirement for attendance, and it's meant to be a voluntary submission.
 
 ## Digital Transformation Expo Sponsorship Form - Help Guide

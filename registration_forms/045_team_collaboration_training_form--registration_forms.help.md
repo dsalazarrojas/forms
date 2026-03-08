@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect participant information for team collaboration training sessions. The form should only be used for participants who have been invited to a training session. It's recommended to fill out the form before the session to ensure that all participants are accounted for and can be reached for any communication or follow-up purposes. Please make sure to fill out the form accurately and completely to ensure that the training session goes smoothly.
-
-</thinking>
-
 # Team Collaboration Training Form - Help Guide
 ## Purpose
 

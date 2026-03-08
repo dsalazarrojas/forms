@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and preferences for an Event Coordination Training program. It is intended for users who want to register for the training. The form will be used to gather data on user preferences for various sessions, dates, and durations of the training. Please ensure that the information you provide is accurate to get the most suitable training experience. To avoid duplicate entries, we will only process the first submission for each user.
-</thinking>
-
 # Event Coordination Training Registration Form - Help Guide
 ## Purpose
 The Event Coordination Training Registration Form is a form used to collect information from users who want to register for the Event Coordination Training program. It helps us understand user preferences and requirements to tailor the training experience accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users onboard new models to the system. The form is used to collect information from users who want to register for a new model. The purpose of the form is to gather basic contact information and other details to help facilitate the onboarding process. The form is not intended for existing users or models that are already registered in the system.
-</thinking>
-
 # new_model_onboarding_form - Help Guide
 ## Purpose
 This form is used to onboard new models to the system, collecting basic contact information and other details to facilitate the registration process.

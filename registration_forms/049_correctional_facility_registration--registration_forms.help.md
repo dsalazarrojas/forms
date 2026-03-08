@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from registrants (e.g. visitors, patients, or individuals) visiting or interacting with a correctional facility. This form likely serves as a standard template for intake or registration processes in such settings. To ensure accuracy and consistency, this form may be used to gather essential details about registrants, including contact information, visit frequency and dates, and specific rules or protocols they need to acknowledge or comply with during their visit. This form's fields and options might be tailored to accommodate varying needs and circumstances, and it's possible that certain fields are only applicable in specific scenarios or for specific registrant types. This guide will walk you through each field to help registrants understand what's expected of them and ensure they provide accurate and complete information.
-</thinking>
-
 # Correctional Facility Registration - Help Guide
 ## Purpose
 This form is designed to collect information from registrants visiting or interacting with a correctional facility. It's essential to fill out this form accurately and completely to ensure a smooth and safe experience for everyone involved.

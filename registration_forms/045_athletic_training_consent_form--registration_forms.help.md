@@ -1,14 +1,3 @@
-<thinking>
-
-To prevent duplication and ensure accuracy, the following questions should be reviewed prior to completing this form:
-
-- Are you an athletic trainer or medical professional?
-- Have you completed the athletic training consent form before? If so, is this a new or follow-up form?
-
-This form is intended for athletes and parents/guardians to provide necessary information and consent for the athlete to participate in athletic training programs. It ensures that the athlete and their parent/guardian understand the risks associated with training, the level of medical clearance needed, and the scope of treatment that can be provided.
-
-</thinking>
-
 # Athletic Training Consent Form - Help Guide
 ## Purpose
 The athletic training consent form is a crucial document that ensures athletes and their parents/guardians understand the risks and benefits of participating in athletic training programs. It gathers essential information about the athlete's medical history, insurance, and contact details. By completing this form, you will be providing necessary consent for your child to participate in our programs.

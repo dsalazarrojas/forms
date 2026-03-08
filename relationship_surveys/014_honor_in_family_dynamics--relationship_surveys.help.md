@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's perceptions and experiences with honor in their family dynamics. It inquires about their family structure, conflict resolution strategies, and the role of honor in their relationships. This form is likely used to gather data for research or surveys related to family relationships, conflict resolution, and the concept of honor. It is possible that the form is designed to be completed by individuals from diverse family backgrounds, including different cultural, religious, and socio-economic contexts. 
-</thinking>
-
 # Honor In Family Dynamics - Help Guide
 ## Purpose
 

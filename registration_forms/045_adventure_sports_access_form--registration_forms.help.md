@@ -1,7 +1,3 @@
-<thinking>
-  The form is intended for participants to provide necessary information to access adventure sports facilities. This includes their name, the activity they wish to access, the level of access they require, and other relevant details such as ID verification and liability waiver acceptance. To prevent duplications, this form should only be submitted once and not repeatedly.
-</thinking>
-
 # Adventure Sports Access Form - Help Guide
 ## Purpose
 The Adventure Sports Access Form is a mandatory registration form for participants to access adventure sports facilities. This form is used to collect essential information from participants, including their name, activity selection, access level, and other relevant details.

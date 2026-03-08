@@ -1,18 +1,3 @@
-<thinking>
-I must first ensure that the form is properly configured for the end users. The form is called "Leadership Retreat Enrollment Form" and is designed to collect information from individuals who want to participate in a leadership retreat. The fields include:
-
-* `first_name` (optional text field)
-* `last_name` (optional text field)
-* `role` (select_one field with options leader, speaker, staff)
-* `email` (optional email field)
-* `date` (optional date field)
-* `time` (optional time field)
-* `note` (optional note field)
-* `confirm_email` (optional email field)
-
-This form does not have any required fields, so users can fill it out as much or as little as they want. The purpose of this form is to collect contact information and preferences from potential participants in the leadership retreat.
-</thinking>
-
 # Leadership Retreat Enrollment Form - Help Guide
 ## Purpose
 The Leadership Retreat Enrollment Form is designed to collect information from individuals who want to participate in the leadership retreat.

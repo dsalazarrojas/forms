@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Amateur Athletic Waiver And Release Of Liability - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and medical information from participants in a sports or athletic activity, and to obtain their signature of waiver and release of liability. This form aims to protect the participant, organization, coaches, staff, and facility owners from potential legal claims related to injuries or accidents that may occur during the activity.

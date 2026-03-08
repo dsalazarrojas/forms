@@ -1,8 +1,3 @@
-<thinking>
-This form is used for guests to RSVP (Response to Service Provider's Usage of Social) to events organized by Expo Networking, a platform that allows professionals to connect and network. The goal is to collect information from attendees about their intention to attend a networking event, which helps the event organizers in planning and managing attendees' expectations and arrangements.
-This guide aims to ensure that end-users understand the form's purpose and how to complete it accurately.
-</thinking>
-
 # expo_networking_cocktail_rsvp_form - Help Guide
 ## Purpose
 This form is a registration form for networking events organized by Expo Networking, used to RSVP (Response to Service Provider's Usage of Social) and provide information about your intention to attend.

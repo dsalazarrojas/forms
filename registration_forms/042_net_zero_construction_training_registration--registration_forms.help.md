@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly by the end users. Let's break down the form's purpose and fields to prevent confusion and duplication of efforts. The form "Net Zero Construction Training Registration" is designed to capture information from attendees who want to register for training sessions. The form asks for details about the training provider, attendee information, session preferences, and attendee requirements. We'll need to highlight the importance of understanding these fields to complete the form accurately and efficiently.</thinking>
-
 # Net Zero Construction Training Registration - Help Guide
 ## Purpose
 The Net Zero Construction Training Registration form is designed to collect information from attendees who want to register for training sessions related to Net Zero construction. The form helps us understand the attendee's preferences, requirements, and session choices to provide a seamless training experience.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is a simple guest list form used for registering guests for events. The form is used for collecting guest information such as event name, date and time, guest name, contact information, and other relevant details. The form does not have any strict validation or submission requirements, making it a basic registration form. 
-</thinking>
-
 # Simple Guest List Form - Help Guide
 ## Purpose
 The Simple Guest List Form is used to register guests for events. This form collects relevant information about the event and the guests attending it.

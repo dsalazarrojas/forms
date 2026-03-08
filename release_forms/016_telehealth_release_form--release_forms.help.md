@@ -1,7 +1,3 @@
-<thinking>
-The "telehealth-release-form" form is used for releasing patient health information, providing a convenient and secure way for patients to grant consent for the release of their medical records. This form is typically used in telehealth settings, where patients may not have direct access to their healthcare providers for signature and consent. It's essential to ensure that each patient completes this form accurately and truthfully, as it affects the sharing of their sensitive medical data. 
-</thinking>
-
 # telehealth-release-form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from patients about the release of their medical records, including their medical information, consent date, and relationship with the healthcare provider.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for students and interns to access a portal for internship information. The purpose of this form is to collect personal and professional information from students to facilitate the process of getting access to the internship portal. 
-The form should only be completed by students or interns who have not already submitted this information, as it is intended for first-time users.
-</thinking>
-
 # Internship Portal Access Form - Help Guide
 ## Purpose
 The Internship Portal Access Form is a simple form designed to collect essential information from students and interns to provide them access to the portal for internship opportunities. This form is meant to be completed by students or interns who are new to the portal and are looking to get started.

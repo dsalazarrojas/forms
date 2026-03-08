@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to facilitate the registration of pro bono services. This includes collecting user information, service request details, contact information, and other relevant details. Please note that not all fields are required, and users can fill in as much or as little information as they need to.
-This form is part of an internal process, so ensure that you're using this form in the right context and not duplicating existing registrations. If you're unsure, please consult with your team or supervisor before proceeding.
-</thinking>
-
 # Pro Bono Service Registration - Help Guide
 ## Purpose
 This form is used to collect information for the registration of pro bono services. It is intended to be filled out by users to provide details about themselves and their service requests.

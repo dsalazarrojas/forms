@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Yoga Class Signup & Schedule Preference Form", we need to understand its purpose and how to complete it. This form is designed to collect information from participants who want to sign up for a yoga class. The form has multiple pages, each with different sections to fill in. We need to ensure that participants understand what information is required and what each field means.
-
-This form is intended for participants who want to sign up for a yoga class. The form collects information in several sections:
-
-*   Participant info (name, contact info, etc.)
-*   Schedule preference
-*   Preferred classes
-*   Class preferences (e.g., difficulty level, style)
-
-The form is not a duplicate of any other form on the platform, so participants can provide unique information for each section.
-
-The form is designed to be completed by participants who want to sign up for a yoga class. The purpose of the form is to gather relevant information to schedule a class and ensure that the participant is aware of their preferences.
-</thinking>
-
 # Yoga Class Signup & Schedule Preference Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who want to sign up for a yoga class. The form has multiple sections to gather relevant information about the participant and their schedule preferences.

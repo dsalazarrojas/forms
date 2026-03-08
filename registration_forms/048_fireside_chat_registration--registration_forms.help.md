@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fireside Chat Registration - Help Guide
 ## Purpose
 The Fireside Chat Registration form is designed to collect demographic information and preferences from users interested in attending a fireside chat event. The form is used to gauge user engagement levels, topic interest, and social media follow-up preferences.

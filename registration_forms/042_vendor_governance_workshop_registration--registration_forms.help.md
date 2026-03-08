@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for vendors to register for the Vendor Governance Workshop. Vendors are individuals or business entities that wish to attend the workshop. The purpose of this form is to gather information about the vendor, including their name, contact information, and session preferences. This form is typically completed by vendors who are interested in learning about the latest developments in vendor governance and how to improve their business practices.
-
-To ensure that vendors can easily register for the workshop, we've kept the form simple and intuitive. However, it's essential to fill out the form accurately and completely to ensure that we can provide the best experience for you.
-
-Before starting the form, please ensure that you have the necessary information ready, such as your name, email address, and the type of business you represent.
-
-</thinking>
-
 # Vendor Governance Workshop Registration - Help Guide
 ## Purpose
 The Vendor Governance Workshop Registration form is a tool for vendors to provide information about themselves and their interests in attending the workshop. This guide will walk you through each section of the form to help you complete it accurately.

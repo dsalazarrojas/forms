@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect user information and preferences. Upon submission, the form will be used to create user profiles for further analysis and processing. To ensure the form is filled out correctly, please review each field carefully to ensure accuracy and completeness. Please do not fill out this form multiple times, as duplicate records may result in confusion and data duplication. If you have any issues or concerns, contact the support team for assistance.
-
-</thinking>
-
 # Registration Form Ortus 032023 - Help Guide
 ## Purpose
 

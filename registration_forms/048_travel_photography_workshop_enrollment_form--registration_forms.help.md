@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to enroll in a travel photography workshop. The form has several fields that require user input, and some fields are required while others are optional. The form's purpose is to ensure that the user provides accurate and complete information, which will be used to tailor the workshop experience to their needs and preferences.
-
-To prevent duplicate enrollments, we will check for existing registrations with the same email address. If a user tries to enroll multiple times, they will be notified that they are already registered.
-
-This form will be used by the workshop administrators to prepare for the workshop, so it's essential to fill it out accurately and completely.
-</thinking>
-
 # travel_photography_workshop_enrollment_form - Help Guide
 ## Purpose
 

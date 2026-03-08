@@ -1,10 +1,3 @@
-<thinking>... 
-
-**Form Purpose and Non-Duplication Check**
-This form is designed to collect data from individuals or organizations registering for emergency medicine data analytics events, such as workshops or conferences. Before proceeding, please ensure you are registering for the correct type of event and that you are not duplicating your registration. If you have already registered for this event, please do not submit this form again. If you are unsure about any aspect of the registration process, please contact the event organizers for clarification.
-
-</thinking>
-
 # emergency_medicine_data_analytics_registration_form - Help Guide
 ## Purpose
 This form is intended for individuals or organizations to register for emergency medicine data analytics events, such as workshops or conferences.

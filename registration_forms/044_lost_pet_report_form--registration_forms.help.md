@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help pet owners report a lost pet to the authorities. It is essential that you have the correct information about your pet and the circumstances surrounding their disappearance. Before filling out this form, please ensure that you have all necessary details about your pet and the location where they were last seen. Also, please note that this form should only be filled out once for each lost pet.
-</thinking>
-
 # lost_pet_report_form - Help Guide
 ## Purpose
 The lost pet report form is a tool to help pet owners report lost pets to the authorities. Fill out this form with the required information about your pet and their last known location to aid in their safe recovery.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rv Space Rental Application - Help Guide
 ## Purpose
 This form is designed to collect information and details from renters applying for short-term or long-term rental of a property. It covers essential aspects such as lease signing, background checks, renter information, payment terms, and lease terms.

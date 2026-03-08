@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jazz Event Registration - Help Guide
 
 ## Purpose

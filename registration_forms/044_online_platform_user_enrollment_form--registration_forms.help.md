@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users enroll themselves on an online platform. The purpose of this form is to collect essential information from users, including their details, contact information, preferences, and enrollment confirmation. The form is divided into sections, and each section contains fields that are explained in detail below.
-</thinking>
-
 # online_platform_user_enrollment_form - Help Guide
 ## Purpose
 The online_platform_user_enrollment_form is designed to collect user information for platform enrollment.

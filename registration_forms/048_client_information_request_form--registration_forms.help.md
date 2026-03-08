@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from clients and potential clients about their identification, contact preferences, and service requirements. The form is intended to be completed by individuals interested in registering for services offered by the organization. The form is not designed for internal use, but rather for public-facing purposes. The purpose of this form is to ensure accurate and timely service delivery, and to establish clear communication channels with clients. It is essential to fill out the form accurately to avoid any confusion or miscommunication. 
-
-</thinking>
-
 # Client Information Request Form - Help Guide
 ## Purpose
 The Client Information Request Form is a tool used to collect essential information from clients and potential clients about their identification, contact preferences, and service requirements. This information is crucial for us to provide personalized services and communicate effectively with you.

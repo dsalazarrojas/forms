@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed for users to provide information for event sponsorship extensions. Event sponsorship extensions are additional funds that an event sponsor provides to support an event beyond their initial sponsorship commitment.
-
-This form is intended to gather information about the additional support provided by the event sponsor. It is not a replacement for the original sponsorship agreement, but rather an addendum to it. The form should only be completed for event sponsors who have already agreed to provide some level of support for the event.
-
-Before completing this form, ensure that you have discussed and agreed on the extension with the event sponsor and that it does not exceed the original sponsorship commitment.
-
-</thinking>
-
 # Event Sponsorship Extension Form - Help Guide
 
 ## Purpose

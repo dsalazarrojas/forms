@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register and join the Innovation Membership Club. The purpose of this form is to collect user information for membership purposes.
-</thinking>
-
 # Innovation Membership Club - Help Guide
 ## Purpose
 The Innovation Membership Club is a platform for individuals to join, learn, and grow with like-minded innovators. This form is used to register and become a member of the club. Members will be able to access exclusive resources, network with others, and participate in discussions and events.

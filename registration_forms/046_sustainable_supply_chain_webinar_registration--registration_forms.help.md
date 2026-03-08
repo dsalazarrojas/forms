@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from attendees for a webinar on sustainable supply chain management. The purpose of this form is to gather relevant details about the attendee, including their name, email, company, role, topic interests, and consent to receive updates. This form is not intended for internal use, so there's no need to worry about duplicating internal records. The form is designed to be completed by external users, so it's essential to make it clear, concise, and easy to use.
-</thinking>
-
 # Sustainable Supply Chain Webinar Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for a webinar on sustainable supply chain management.

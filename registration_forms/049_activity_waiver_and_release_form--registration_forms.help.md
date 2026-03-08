@@ -1,7 +1,3 @@
-<thinking>
-The "Activity Waiver And Release Form" is designed for participants to acknowledge and understand the risks associated with a particular activity and release liability for any injuries or medical conditions that may arise during or after the activity. This form is a crucial document that protects both the participant and the organizers of the activity by clearly outlining the participant's consent and acknowledgment of the potential risks involved. Before filling out this form, please ensure that you have read and understood the activity's rules, regulations, and risks. If you have any questions or concerns, please contact the organizers of the activity.
-</thinking>
-
 # Activity Waiver And Release Form - Help Guide
 ## Purpose
 The Activity Waiver And Release Form is a document that requires participants to acknowledge and understand the risks associated with a particular activity and release liability for any injuries or medical conditions that may arise during or after the activity.

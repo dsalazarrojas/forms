@@ -1,11 +1,3 @@
-<thinking>
-
-Rideshare User Registration Form is designed to collect information from both riders and drivers who want to participate in a rideshare service. This form is intended to ensure that all users are properly registered and their data is accurate and up-to-date. The form will be used to create a record of each user, including their contact information, vehicle details, and ride-related data.
-
-Before proceeding, please ensure that you are not already registered in the system. If you are unsure, please contact our support team to verify your status.
-
-</thinking>
-
 # Rideshare User Registration Form - Help Guide
 ## Purpose
 The Rideshare User Registration Form is designed to collect information from both riders and drivers who want to participate in a rideshare service. This form is intended to ensure that all users are properly registered and their data is accurate and up-to-date.

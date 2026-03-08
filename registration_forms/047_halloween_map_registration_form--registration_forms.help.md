@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for homeowners to register for a Halloween event, such as a costume contest or a trick-or-treat event, and to provide necessary information for the event organizers. It may be used to collect contact information, event preferences, and other relevant details from homeowners. To avoid duplication, this form should only be filled out by the homeowner once for each event.
-</thinking>
-
 # halloween_map_registration_form - Help Guide
 
 ## Purpose

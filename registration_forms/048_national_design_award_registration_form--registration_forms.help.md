@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register a national design award project. It collects contact information, project details, and supporting materials such as images, videos, and audio files. The form has several pages, each with a specific set of fields. Please note that this form is generated based on public survey topic metadata and is not affiliated with any form platform. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, provided they give credit.
-</thinking>
-
 # national-design-award-registration-form - Help Guide
 ## Purpose
 This form is designed to register a national design award project. It collects necessary contact and project information to help with the registration process.

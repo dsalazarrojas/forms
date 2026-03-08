@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to collect registration information for an event. The purpose of this form is to gather data from registrants to track their attendance and other relevant details.
-Please check if the form is relevant to your current process. If you have already submitted a registration for the same event, it will be displayed below. In that case, you can review and update your previous registration. This form will not allow multiple registrations for the same event with the same email.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect registration details for an event. It is designed to gather information from registrants to track their attendance, confirm their registration status, and provide them with a confirmation page after completing the form.

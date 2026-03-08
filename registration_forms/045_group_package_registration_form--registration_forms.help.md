@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a registration form designed to collect information from users, likely for group package-related purposes. The form likely serves to collect demographic, package, and participant information. Given the absence of specific requirements for each field, it's best to assume that all fields are optional unless specified otherwise. The form's purpose might be for internal use within an organization or for tracking purposes. It's essential to ensure that users understand the form's relevance and that they don't fill it out multiple times. The form's creator likely intended for users to fill out as much information as they have, and it's okay to leave empty fields blank if not applicable. Before proceeding, make sure to review this help guide to understand what information is required and what's optional.</thinking>
-
 # Group Package Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from users regarding group packages.

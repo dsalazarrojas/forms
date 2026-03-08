@@ -1,9 +1,3 @@
-<thinking>
-This form is a crucial document that allows clients to grant permission for the use of their photos, videos, and audio recordings. It's used to ensure that all parties involved are aware of the terms and conditions of the content's usage. The client will be asked to provide their name, a description of the content they are releasing, and other relevant details such as the material's usage, their permission to use it, and any credits or acknowledgments required.
-
-Before filling out this form, please ensure that you have obtained any necessary permissions or approvals from the client or relevant authorities. This form is for informational and reference purposes only, and it's essential to keep it accurate and up-to-date.
-
-</thinking>
 # Photo And Video Release Form - Help Guide
 ## Purpose
 This form is used to obtain permission from clients for the use of their photos, videos, and audio recordings. It's a crucial document to ensure that all parties involved are aware of the terms and conditions of the content's usage.

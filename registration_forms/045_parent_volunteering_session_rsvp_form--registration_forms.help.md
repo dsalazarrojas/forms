@@ -1,7 +1,3 @@
-<thinking>
-This form is for parents to RSVP for their child's volunteer session. It's crucial to ensure each family's information is accurate and up-to-date to avoid any miscommunications and misassignments. Before filling out this form, please check if you've already RSVPed for this session or have any other active registrations. This will save time and effort for both parties involved.
-</thinking>
-
 # Parent Volunteering Session RSVP Form - Help Guide
 ## Purpose
 This form is designed to help parents sign up for their child's volunteer session. It collects essential information such as name, contact details, and volunteer preferences.

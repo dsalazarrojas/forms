@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, the purpose of this form is to gather information from individuals who wish to release employment-related information. This form will help them provide the necessary details about their employment history, such as their job title, dates of employment, and reason for leaving. The form's data will be used for various internal purposes, possibly for employment verification processes or other related tasks.
-
-Before proceeding, it is essential to ensure this form is relevant and necessary. If the user has already completed this form in the past or is not applicable, they can skip it.
-
-This form contains several fields that require input. Please ensure you complete each field accurately and honestly. If you're unsure about any field, feel free to ask for assistance.</thinking>
-
 # employment_verification_release_form - Help Guide
 ## Purpose
 The employment verification release form is used to gather employment-related information from individuals. This form helps to document their job history, including job title, dates of employment, and reason for leaving.

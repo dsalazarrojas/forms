@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Model Release Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain the consent of models (people appearing in photographs) for the use of their images. The form helps ensure that the model is aware of and agrees to the terms of use of their images.

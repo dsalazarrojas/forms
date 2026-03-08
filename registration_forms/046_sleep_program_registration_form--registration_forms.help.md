@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sleep Program Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration details from individuals interested in participating in a sleep program. The form helps us understand your sleep history, preferences, and any additional notes that may be relevant to your participation.

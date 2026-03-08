@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regional Brand Incubator Registration Form - Help Guide
 ## Purpose
 The Regional Brand Incubator Registration Form is a tool designed to help potential incubators register their brand and provide essential information for the regional brand development process. This form is intended to gather necessary data from applicants, which will be used to support the development and growth of local brands in the region.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for participants of a dance class to fill out before attending the class. It's used to capture their personal information and medical status to ensure that everyone's safety and well-being is considered. 
-
-</thinking>
-
 # Dance Class Waiver Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from participants prior to their attendance in the dance class. It asks for their personal details, medical history, and emergency contact information.

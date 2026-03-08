@@ -28,8 +28,6 @@ To complete this form, follow these steps:
 23. If necessary, enter any additional comments or information about your performance in the "Additional Comments" field.
 24. If necessary, select the photo permission for your performance from the "Photo" dropdown menu.
 
-<thinking>...</thinking>
-
 # Performance Night Check In Form - Help Guide
 ## Purpose
 The Performance Night Check In Form is for artists, performers, or participants to provide information about their performances. This form is used for event organization, registration, or reporting.

@@ -1,12 +1,3 @@
-<thinking>
-The "Lifelong Learning Advocate Network Registration" form is a crucial step for individuals interested in joining the Lifelong Learning Advocate Network. This network aims to connect like-minded professionals and organizations that share a passion for lifelong learning. To ensure the accuracy and relevance of registrations, it's essential to fill out this form carefully and completely.
-
-This form helps the Lifelong Learning Advocate Network team verify your registration details and understand your interests and motivations for being part of the network. Please ensure that you're submitting the form only once, as duplicate submissions can lead to confusion and delay the processing of your application.
-
-To confirm, the following fields are optional, but filling out all the relevant information will help the network team get a complete picture of your interests and qualifications.
-
-</thinking>
-
 # Lifelong Learning Advocate Network Registration - Help Guide
 ## Purpose
 The purpose of this form is to register as a member of the Lifelong Learning Advocate Network. This network connects professionals and organizations passionate about lifelong learning, facilitating collaboration, and knowledge sharing.

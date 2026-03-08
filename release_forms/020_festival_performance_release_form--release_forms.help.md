@@ -1,7 +1,3 @@
-<thinking>
-The Festival Performance Release Form is used to collect information from performers for festival performances. This form is used by festival organizers to gather details about the performance, including performer data, release permissions, recording information, and contact details. This form is typically filled out by the performer or their representative. To ensure accurate and complete information is collected, please fill out this form carefully and completely. If you are unsure about any of the fields, please contact the festival team for clarification. This form should not be duplicated or submitted on behalf of another person without their knowledge and consent.
-</thinking>
-
 # Festival Performance Release Form - Help Guide
 ## Purpose
 The Festival Performance Release Form is used to collect information from performers for festival performances.

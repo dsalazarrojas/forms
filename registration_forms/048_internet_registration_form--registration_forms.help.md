@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering a user's information for an internet-related purpose.
-To check for relevance and non-duplication:
-* Check if the user has already registered with a similar email address or phone number.
-* Verify that the user's email and phone number match the ones in the system.
-The purpose of this form is to collect and store user's contact information for further use.
-</thinking>
-
 # Internet Registration Form - Help Guide
 ## Purpose
 The Internet Registration Form is used to collect user's contact information for registration and verification purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Data Release Authorization - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # relationship_statement_submission - Help Guide
 ## Purpose
 This form is intended for individuals to provide a detailed account of their relationships, including relationship history, supporting documents, and contact information. The form is used to gather information for internal purposes, such as tracking and analysis.

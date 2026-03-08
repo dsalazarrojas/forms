@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for mutual release agreements. The purpose of this form is to facilitate the exchange of information between two parties in a mutual release agreement. This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and can be used, modified, and even sold by anyone. This form is not intended to collect sensitive or confidential information. Before completing the form, please review it carefully to ensure you understand the purpose and fields.
-
-</thinking>
-
 # Mutual Release Form - Help Guide
 ## Purpose
 This form is designed to collect information for mutual release agreements, allowing two parties to exchange information and terms.

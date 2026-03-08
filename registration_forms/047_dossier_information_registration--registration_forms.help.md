@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to input information about a dossier, which is likely a collection of documents or data related to an individual or organization. The purpose of this form is to collect basic contact information from users, including first name, last name, email, and phone number. This information will be used to create a new dossier in the system.
-Before filling out this form, please ensure that you have not already registered the required information for this dossier. If you are unsure, please check the system's search function to see if the information already exists.
-</thinking>
-
 # Dossier Information Registration - Help Guide
 
 ## Purpose

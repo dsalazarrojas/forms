@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow individuals to apply as a yoga instructor to be listed in a directory. This form is not intended for current instructors or individuals who have already been listed in the directory. If you are a current instructor or have already been listed, please do not fill out this form.
-The form is designed to collect information about the applicant, including their personal details, experience, and credentials.
-</thinking>
-
 # Yoga Instructor Application Form - Help Guide
 ## Purpose
 The Yoga Instructor Application Form is a tool for potential applicants to provide their information and details for inclusion in the yoga directory.

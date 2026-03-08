@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide payment information for an e-learning program. The form collects various details such as payment method, payment date, and total amount. This form will likely be used by users to enroll in or pay for an online course. Please ensure that the form is not being used in a context where payment information is not relevant or necessary. It's also essential to review the form's required fields and options to avoid duplication of effort.
-</thinking>
-
 # e-learning-program-payment-form - Help Guide
 ## Purpose
 This form is for users to provide payment information for an e-learning program. It helps the administrator to collect payment details for the program.

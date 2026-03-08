@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering the transfer of a digital title, which likely refers to the transfer of ownership of a digital asset such as a car or other vehicle. The purpose of this form is to document the transfer of this digital asset, including information about the dealer, vehicle, seller, buyer, transfer details, and signatures. This form may be used in conjunction with other legal or regulatory requirements for title transfers. 
-
-</thinking>
-
 # Digital Title Transfer Registration Form - Help Guide
 ## Purpose
 The Digital Title Transfer Registration Form is used to document the transfer of digital assets such as cars or other vehicles. This form collects information about the dealer, vehicle, seller, buyer, transfer details, and signatures.

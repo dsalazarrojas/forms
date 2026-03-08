@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for conservation volunteers to check in with the organization, providing essential information about their participation in conservation activities. Volunteers are required to provide details about their check-in and check-out dates and times, as well as their personal and project-specific information. The form also collects data on their volunteer experience, safety briefing, health status, and any special skills they can share. This form ensures that volunteers are accounted for, their work hours are tracked, and any necessary waivers or releases are signed. It also allows the organization to plan for future events and manage volunteer transportation and accommodations. 
-
-</thinking>
-
 # Conservation Volunteer Check In Form - Help Guide
 ## Purpose
 

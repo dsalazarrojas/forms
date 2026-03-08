@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect essential information and preparation tasks for an open house event. The form is meant to be completed by individuals or teams responsible for preparing and hosting such events. This form does not duplicate any existing form, and its purpose is to provide a clear and concise way to gather relevant details for event organization and preparation. The form's fields are designed to be easily understandable and fillable by the target audience. I will now provide a help guide for the form.
-
-</thinking>
-
 # Open House Preparation Checklist - Help Guide
 ## Purpose
 The Open House Preparation Checklist is a form designed to collect essential information and preparation tasks for an open house event. This form helps individuals or teams responsible for organizing and hosting the event to gather relevant details, making it easier to prepare and execute the event successfully.

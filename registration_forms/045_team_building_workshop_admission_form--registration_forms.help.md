@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for a team-building workshop. It gathers information about the participant's details, workshop preferences, and registration data. Before filling out this form, ensure you have the necessary details ready. Please note that this form is for one-time registration. If you need to register for multiple workshops, please fill out a new form for each workshop.
-</thinking>
-
 # Team Building Workshop Admission Form - Help Guide
 ## Purpose
 The Team Building Workshop Admission Form is designed to collect information from participants for the team-building workshop. This form is used to gather details about the participants and their preferences for the workshop.

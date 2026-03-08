@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a new examination plan. Before proceeding, please ensure that you are filling out this form for the correct purpose and not duplicating an existing record. The form has six fields: Project Name, Project Details, Lead Name, Plan Documents, Project Type, and Start and End Dates. Please make sure to fill out all required fields accurately and completely.
-</thinking>
-
 # Plans Examination Registration - Help Guide
 ## Purpose
 The purpose of this form is to register a new examination plan. It is used to capture relevant information about a project, including its name, details, lead name, plan documents, project type, and start and end dates.

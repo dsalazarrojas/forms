@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # intouch_after_school_program_registration - Help Guide
 ## Purpose
 The Intouch After School Program registration form is designed to collect information from students who are interested in participating in the Intouch After School Program. This form is used to gather demographic data, program preferences, and contact information from students. By filling out this form, students will be able to register for the program and provide the necessary details for program administration.

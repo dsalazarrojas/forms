@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manifestation Journey Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your journey with a coach or coaching program. It's meant to gather insights on your experiences, progress, and outcomes from coaching sessions.

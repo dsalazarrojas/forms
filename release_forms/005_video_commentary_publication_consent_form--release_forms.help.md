@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for users to provide consent for the publication of their video commentary. The purpose of this form is to ensure that users understand how their commentary will be used and shared, and to obtain their explicit approval for its publication. This form should not be submitted multiple times for the same video, nor should it be used for videos that are not yet ready to be published.
-</thinking>
-
 # Video Commentary Publication Consent Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Video Commentary Publication Consent Form.

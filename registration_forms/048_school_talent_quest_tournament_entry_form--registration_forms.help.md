@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students and their families for the School Talent Quest Tournament. The purpose of this form is to collect demographic details and contact information for participating students. Before filling out this form, please ensure that you have all necessary information ready. Please note that this form is not intended for multiple submissions from the same student. 
-</thinking>
-
 # School Talent Quest Tournament Entry Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sale Proceeds Release Form - Help Guide
 
 ## Purpose

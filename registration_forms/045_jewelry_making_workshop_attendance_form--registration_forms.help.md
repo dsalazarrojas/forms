@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from attendees of a jewelry making workshop. This form will be used to keep track of who has registered for the event, their contact information, and details about the workshop.
-The form fields should be filled out with the relevant information for each attendee. Please ensure that the "Form Completed by" field is filled out accurately to indicate your role in relation to this form submission.
-This form is not intended to be filled out multiple times by the same person. If you're unsure about the form purpose or have any questions, please reach out to us.
-</thinking>
-
 # Jewelry Making Workshop Attendance Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees of a jewelry making workshop.

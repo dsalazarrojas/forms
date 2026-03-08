@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a property, including the owner's details and property specifics. The form is divided into several sections, each focusing on a different aspect of the property.
-
-To ensure accuracy and relevance, please note that:
-
-* This form is not intended for emergency or urgent situations.
-* If you have already submitted this form, you may not need to resubmit it, as the information may still be available in our system.
-</thinking>
-
 # Property Owner Information Form - Help Guide
 ## Purpose
 This form is used to collect and store information about a property, including its owner's details and specific characteristics.

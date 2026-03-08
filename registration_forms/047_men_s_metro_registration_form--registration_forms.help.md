@@ -1,15 +1,3 @@
-<thinking>
-To ensure that the user understands the purpose and context of the form, let's first establish the form's purpose and any relevant information that should be considered while completing it. 
-
-The "Men's Metro Registration Form" is designed to collect information from individuals who are interested in participating in a metro event. This form is used to gather basic information such as name, contact details, and event preferences. It's essential to fill out the form accurately and honestly, as the information collected will be used to process the user's registration and ensure a smooth experience during the event.
-
-Before proceeding with filling out the form, please consider the following:
-- Ensure that you've provided the correct contact information to enable easy communication about the event.
-- Be honest about your event preferences to get the most relevant and interesting content.
-- Double-check the accuracy of the information you provide to avoid errors and inconvenience.
-
-</thinking>
-
 # Men's Metro Registration Form - Help Guide
 ## Purpose
 The Men's Metro Registration Form is designed to collect information for the metro event registration.

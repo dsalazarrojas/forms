@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Government Training Registration Form - Help Guide
 
 ## Purpose

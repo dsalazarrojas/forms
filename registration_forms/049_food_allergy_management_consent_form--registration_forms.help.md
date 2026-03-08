@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents to provide information about their child's food allergies and medical treatments. It is designed to be completed by parents or guardians to inform healthcare providers about their child's allergy management plan. This form should only be filled out once per child, and if there are multiple children with the same parent, each child should have their own form. Please ensure that you have read and understood the form before completing it, and if you are unsure about any of the questions, you should contact the relevant healthcare provider or school administration for clarification.
-</thinking>
-
 # Food Allergy Management Consent Form - Help Guide
 ## Purpose
 The Food Allergy Management Consent Form is a document used by parents or guardians to provide information about their child's food allergies and medical treatments. This form helps healthcare providers and school staff understand the child's allergy management plan, ensuring their safety and well-being.

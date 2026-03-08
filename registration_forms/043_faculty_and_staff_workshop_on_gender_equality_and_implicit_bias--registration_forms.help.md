@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for the "Faculty and Staff Workshop on Gender Equality and Implicit Bias". As an expert form designer and technical writer, I'm about to create a comprehensive user-facing help guide for this form. 
-
-This form is meant to gather data from faculty and staff members for a workshop on gender equality and implicit bias. The form has 17 fields, each with its specific label, type, and purpose. I will ensure that each field is thoroughly explained to facilitate smooth completion of the form.
-
-Upon reviewing the form structure, I noticed that there are no duplicates in terms of field type. However, some field labels could be improved for clarity. For instance, "Note 1", "Note 2", etc. could be rephrased to provide a better understanding of what these fields represent.
-
-To create a user-friendly form, it's essential to break down each field type and purpose, making it easier for users to comprehend the expected input.
-
-</thinking>
-
 # Faculty and Staff Workshop on Gender Equality and Implicit Bias - Help Guide
 ## Purpose
 This form is designed to collect information from faculty and staff members for the workshop on gender equality and implicit bias.

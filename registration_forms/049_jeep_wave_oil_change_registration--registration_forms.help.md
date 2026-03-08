@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering a Jeep Wave oil change service. The form captures vehicle information, selects the Wave program, specifies the oil type, chooses a service center, selects a date for the appointment, and provides additional service details. This form is not intended for other purposes, such as scheduling a vehicle inspection or requesting a loaner vehicle. Please ensure that you have all the necessary information ready before filling out this form.
-</thinking>
-
 # Jeep Wave Oil Change Registration - Help Guide
 ## Purpose
 This guide will walk you through the fields and process of filling out the Jeep Wave Oil Change Registration form. Please read each section carefully to ensure accurate and complete submission.

@@ -1,12 +1,3 @@
-<thinking>
-To create the help guide for the Junior Golf Program Registration Form, first let's break down the form's purpose and relevance. This form seems to be for registering participants in a junior golf program, likely for kids, with their parent's information and other relevant details.
-
-Upon reviewing the form, we can see it's asking for personal details such as first and last name, email, phone, program type, session preference, start and end dates, parent's name and contact information. It seems this form is used by the parents/guardians of the junior golfers to register themselves and their children in the program.
-
-Before proceeding with the guide, let's ensure that this form is not intended for other types of registrations or purposes. Based on the field labels and types, it appears this form is specifically designed for junior golf program registrations.
-
-</thinking>
-
 # Junior Golf Program Registration Form - Help Guide
 ## Purpose
 This form is used to register your child for the junior golf program. Please fill out the form with your child's and your own information to complete the registration process.

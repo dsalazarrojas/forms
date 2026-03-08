@@ -1,8 +1,3 @@
-<thinking>
-To check for relevance: This form is intended for customers or users who want to express their interest in a product launch. It is not meant for general public use.
-To check for non-duplication: This form is meant to be a one-time submission form, meaning each entry should be unique. Submissions with duplicate customer details (e.g., same customer name and email) should not be accepted.
-</thinking>
-
 # Interest Registration For Product Launch - Help Guide
 ## Purpose
 The "Interest Registration For Product Launch" form is a tool for customers or users to register their interest in a product launch. This form helps us gauge interest and gather feedback for future product developments.

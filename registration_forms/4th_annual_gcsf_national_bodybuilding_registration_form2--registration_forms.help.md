@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from respondents on the 50:50 agreement, which is a proposed split of contributions and benefits between parties. This form is designed to gather information on the respondent's understanding, perceptions, and concerns regarding the 50:50 arrangement, as well as their willingness to proceed under the current terms. The form is intended to be completed by individuals who have a stake in the 50:50 agreement, such as partners, managers, or stakeholders.
-
-Before filling out this form, please make sure you understand the context and the purpose of the 50:50 agreement. If you are not sure about the purpose or context of this form, please contact the relevant authorities for clarification.
-
-Please note that this form collects personal data. The data will be used to improve the 50:50 agreement and to inform decision-making.
-
-Also, please note that some fields are required and some are optional. Please fill out all the required fields to ensure that your feedback is complete and accurate.
-
-Before starting, ensure that you have all necessary information and that you are filling out this form on behalf of yourself or your organization, as the form is designed to collect individual feedback.
-
-</thinking>
-
 # 50:50 Agreement Survey - Help Guide
 ## Purpose
 The 50:50 Agreement Survey is designed to collect feedback and opinions from respondents on the proposed 50:50 agreement. The survey aims to gather information on the respondent's understanding, perceptions, and concerns regarding the 50:50 arrangement, as well as their willingness to proceed under the current terms.

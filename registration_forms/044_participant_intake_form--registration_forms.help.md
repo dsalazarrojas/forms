@@ -1,5 +1,3 @@
-<thinking>
-This form is intended to capture information about participants in a program, including their contact information, status, and other relevant details. The purpose of this form is to ensure that all necessary information is collected accurately and consistently, which will help us process participant data efficiently. This form is not designed to be completed by participants who have already been in the program or have an existing record in our system. If you're an existing participant, please do not fill out this form as it may cause duplication of records. Please fill out this form only if you're new to the program or need to update your information.</thinking>
 # Participant Intake Form - Help Guide
 ## Purpose
 The Participant Intake Form is used to collect contact information and other relevant details about new participants in a program.

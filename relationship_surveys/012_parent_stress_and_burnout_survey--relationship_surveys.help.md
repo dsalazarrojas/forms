@@ -1,8 +1,3 @@
-<thinking>
-The form "parent_stress_and_burnout_survey" is designed to collect data on various aspects of a parent's stress and burnout levels, coping mechanisms, and relationships with their child and spouse. The purpose of this form is to gather information that can be used to better understand the stress and burnout experiences of parents, which can inform interventions and support strategies to improve their well-being and relationship with their child. This form is likely to be used by researchers or clinicians in a therapeutic or research setting.
-
-</thinking>
-
 # parent_stress_and_burnout_survey - Help Guide
 ## Purpose
 The parent_stress_and_burnout_survey form is designed to collect data on parent's stress and burnout levels, coping mechanisms, and relationships with their child and spouse. This information will help understand the stress and burnout experiences of parents and inform interventions and support strategies.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect registration information from athletes for the Usa Powerlifting program. This form likely serves as a registration process for athletes to sign up for the program, providing necessary contact and demographic details. To avoid duplication, it is essential to check if a similar form already exists within the organization. 
-</thinking>
-
 # Usa Powerlifting - Help Guide
 ## Purpose
 The Usa Powerlifting registration form is designed to collect essential information from athletes for the registration process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect registration information from individuals who wish to register as a Girl Scout. The form is meant to gather basic contact information and emergency contact details. It is a public form, and any information submitted through this form will be publicly visible. Please ensure you have a valid reason for submitting this form and are aware that your information will be shared publicly.
-</thinking>
-
 # Girl Scout Registration Form - Help Guide
 ## Purpose
 The Girl Scout Registration Form is used to collect registration information from individuals who wish to join the Girl Scouts. The form is designed to gather basic contact information and emergency contact details to ensure that we can effectively communicate with you and keep you safe.

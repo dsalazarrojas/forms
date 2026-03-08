@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from beta readers about their background, experience, and preferences in order to match them with manuscripts that suit their interests and expertise. Beta readers will be asked to provide their full name, email address, phone number, and mailing address. They will also be asked to indicate their beta reading experience, preferred genres, and expected completion date of their review. Additionally, beta readers will be asked to choose their preferred format for receiving the manuscript and providing feedback, as well as their preferred areas of focus for their feedback. Finally, they will be asked to agree to keep the manuscript confidential and to provide their electronic signature... </thinking>
-
 # Beta Reader Agreement Form - Help Guide
 ## Purpose
 The Beta Reader Agreement Form is designed to collect information from beta readers about their background, experience, and preferences in order to match them with manuscripts that suit their interests and expertise.

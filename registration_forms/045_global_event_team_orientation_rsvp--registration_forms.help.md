@@ -1,15 +1,3 @@
-<thinking>
-The purpose of the "global_event_team_orientation_rsvp" form is to collect attendee information and preferences for a global event team orientation. This form is used to gather details about the event, the attendees' information, their session preferences, and any special requirements they may have. It is crucial to fill out this form correctly to ensure that the event organizers have accurate and up-to-date information about the attendees and their needs.
-
-To complete this form, users will navigate through multiple pages, with each page containing various fields. The form is designed to be user-friendly and straightforward, with clear labels and instructions guiding the users through the process.
-
-Before proceeding, take note of the following:
-
-* Please ensure that the information you provide is accurate and true to your needs.
-* You can skip fields that are not applicable to your situation.
-* If you have any issues or questions, please contact the event organizers.
-</thinking>
-
 # global_event_team_orientation_rsvp - Help Guide
 ## Purpose
 The "global_event_team_orientation_rsvp" form is designed to collect event details, attendee information, session preferences, and any special requirements for a global event team orientation.

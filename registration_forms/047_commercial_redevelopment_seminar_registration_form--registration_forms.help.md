@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll briefly review the form to ensure I understand its purpose and ensure there's no duplication of information. The form is for registering attendees for a "Commercial Redevelopment Seminar", which involves selecting a seminar track, providing attendee profile information, and making a payment registration. The required fields are name, email, organization, job title, industry sector, selected track, preferred payment method, and how the user heard about the seminar.</thinking>
-
 # Commercial Redevelopment Seminar Registration Form - Help Guide
 ## Purpose
 This form is used to register attendees for a Commercial Redevelopment Seminar. Please fill out the required fields to complete your registration.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect visitor information for trail check-in. This form is intended to be used by visitors arriving at a trailhead or park. The fields in this form are designed to capture essential details such as trailhead information, arrival time, and visitor comments. Please fill out this form carefully and accurately to ensure a smooth check-in process.
-
-</thinking>
-
 # Trail Visitor Check In Form - Help Guide
 ## Purpose
 

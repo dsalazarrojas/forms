@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Transcript Release Authorization Form", we need to understand that this form is used to obtain authorization from parents or guardians to release student records, likely for transcript purposes. This form is likely used in educational settings to verify the identity and consent of parents or guardians before releasing sensitive student information. The form should be filled out by parents or guardians to provide necessary contact information, student details, and authorization for transcript release. To complete this form, users will need to fill in all required fields, including student name, grade level, date of birth, and other relevant details. The form should also include two sections, suggesting that it's intended for multiple students. This guide will walk the user through each field to ensure they understand what is expected of them.
-</thinking>
-
 # Transcript Release Authorization Form - Help Guide
 ## Purpose
 The Transcript Release Authorization Form is used to obtain authorization from parents or guardians to release student records, likely for transcript purposes.

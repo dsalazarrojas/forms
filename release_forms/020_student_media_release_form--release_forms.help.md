@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students and their parents/guardians regarding the release of media featuring the student. This form is designed to obtain consent from students for the use of their image/video/audio in media production, and to collect contact information for schools and other relevant details. This form helps to ensure that students' privacy and personal information are respected and that the media production process is conducted with their consent. This form is typically used in educational settings, such as schools, to promote transparency and accountability in media production. The fields in this form are designed to be completed by students and their parents/guardians, and are intended to be easy to understand and fill out.
-</thinking>
-
 # Student Media Release Form - Help Guide
 ## Purpose
 The Student Media Release Form is used to obtain consent from students for the use of their image, video, or audio in media production and to collect contact information for schools and other relevant details.

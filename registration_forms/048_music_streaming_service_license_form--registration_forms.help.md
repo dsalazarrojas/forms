@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a music streaming service license application. This form is used to gather essential details from artists and their managers to facilitate the licensing process. The form should only be completed by artists or their authorized representatives.
-</thinking>
-
 # music_streaming_service_license_form - Help Guide
 ## Purpose
 This form is used to gather information for a music streaming service license application. It is intended for artists and their authorized representatives.

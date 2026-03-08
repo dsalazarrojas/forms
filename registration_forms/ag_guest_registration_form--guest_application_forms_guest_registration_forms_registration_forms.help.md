@@ -1,5 +1,3 @@
-<thinking>...To ensure accurate and non-duplicative information is collected for the AG Guest Registration Form, please perform a quick self-check to confirm that you're ready to submit the form. If you've already provided your information, please don't submit this form... </thinking>
-
 # AG Guest Registration Form - Help Guide
 ## Purpose
 This form is for guests to provide their personal and event-related information for registration and to help us best serve them during their visit.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Worth And Connection Survey - Help Guide
 
 ## Purpose

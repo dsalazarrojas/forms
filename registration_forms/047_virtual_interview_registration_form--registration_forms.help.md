@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is designed to collect user data for virtual interviews, which will aid in the scheduling and preparation of such interviews. The form ensures that users can input their first name, last name, email, job title, resume, preferred language for the interview, and other relevant details. The purpose of this form is to ensure accurate and efficient communication between the interviewers and the interviewees. We must ensure that users fill out the required fields for the interview to be successful. To avoid duplication of efforts, we will use this form to track and manage the interview process.
-</thinking>
-
 # Virtual Interview Registration Form - Help Guide
 ## Purpose
 This form is used to collect necessary information from users for virtual interviews. This includes personal details, job information, and scheduling preferences.

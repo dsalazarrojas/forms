@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information for a liability release and waiver related to COVID-19. It is essential to ensure that the form is completed accurately and thoroughly to provide the necessary information for the relevant parties. Please review the form carefully and ensure that you are providing the correct information. If you have any questions or concerns, please reach out to the relevant authorities for clarification.
-
-This guide will walk you through the process of completing the form.
-
-</thinking>
-
 # supreme_nails_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is used to collect information for a liability release and waiver related to COVID-19. It is essential to ensure that the form is completed accurately and thoroughly to provide the necessary information for the relevant parties.

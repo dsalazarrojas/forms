@@ -1,7 +1,3 @@
-<thinking>... internal reasoning: This form is designed for users to register their talents and provide essential information about themselves. The form will be used to collect data for internal purposes, such as tracking user registration and talent pool management. It is essential to ensure that the form is filled out accurately and completely to provide the best possible experience for the users and the organization. The fields should only be filled out once, to avoid duplicate entries and data inconsistencies.
-
-</thinking>
-
 # talent_registration_form - Help Guide
 ## Purpose
 The Talent Registration Form is designed for users to register their talents and provide essential information about themselves. This form is used for internal purposes, such as tracking user registration and talent pool management.

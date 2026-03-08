@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register customer retention pilot participants. It captures personal and professional details of the individual. The form aims to gather information about the individual's job status, job function, department, and location, which will be used to create a customized retention strategy. Please ensure that this form is only filled out by intended participants and not by anyone else. If the same person is already registered for the customer retention pilot, please do not register them again using this form.
-</thinking>
-
 # customer_retention_pilot_registration_form - Help Guide
 ## Purpose
 The customer retention pilot registration form is used to gather information about potential participants in the customer retention pilot program. The form is designed to collect personal and professional details about the individual, which will be used to create a customized retention strategy.

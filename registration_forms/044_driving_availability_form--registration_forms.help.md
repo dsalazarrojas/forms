@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # driving_availability_form - Help Guide
 
 ## Purpose

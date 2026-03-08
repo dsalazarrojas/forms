@@ -1,18 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Reentry Simulation Participant Registration" form. This form is used for registering participants for reentry simulation events. The purpose of this form is to collect demographic information and consent from individuals participating in the reentry simulation. 
-
-The form is divided into several sections, each focusing on different aspects of the participant's information and consent. 
-
-Before starting the form, please ensure that you are not already registered. 
-
-After filling out the form, review your information carefully and submit it for review. 
-
-This form is intended for participants of reentry simulation events. It is not intended for general public use.
-
-Please provide accurate and honest information in the form to ensure that your registration is processed correctly.
-
-</thinking>
-
 # Reentry Simulation Participant Registration - Help Guide
 ## Purpose
 The Reentry Simulation Participant Registration form is used to collect demographic information and consent from individuals participating in reentry simulation events. This information is used to better understand the needs and concerns of participants and to provide a safe and effective experience.

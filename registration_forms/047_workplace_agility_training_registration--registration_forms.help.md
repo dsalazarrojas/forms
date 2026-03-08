@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Agility Training Registration - Help Guide
 ## Purpose
 The Workplace Agility Training Registration form is designed to collect information from users interested in participating in workplace agility training. This form helps us understand your preferences and requirements for the training session.

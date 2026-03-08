@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from dancers registering for a dance competition. The form is intended to gather details such as name, contact information, competition details, and other relevant data from the dancers. The form has multiple fields to accommodate diverse information types. To ensure accuracy, it's essential to fill out the form correctly. This form was created using AI and is released under CC BY 4.0, allowing free use, modification, and distribution. Please use the provided fields to ensure a smooth and error-free registration process.
-
-</thinking>
-
 # Dance Competition Registration Form - Help Guide
 ## Purpose
 The Dance Competition Registration Form is designed to collect information from dancers registering for a dance competition. The form gathers details such as name, contact information, competition details, and other relevant data to facilitate the registration process.

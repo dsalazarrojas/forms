@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their relationships. Specifically, it's designed to gather data about a person's best friend, such as personal details, contact information, and preferences. This form is likely used in a social or business setting to understand the dynamics of relationships and gather insights for research or analysis. To ensure data quality and consistency, it's essential to complete the form carefully and accurately.
-</thinking>
-
 # Best Friend Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your best friend, including personal details, contact information, and preferences. The data collected will help us understand the dynamics of relationships and provide insights for research or analysis.

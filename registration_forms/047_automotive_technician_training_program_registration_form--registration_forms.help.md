@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended for Automotive Technician Training Program applicants, and it is crucial to ensure each field is correctly filled out to avoid any issues in the processing and evaluation of their applications.
-  Please note that this form is part of our program's application process, and it will be considered complete when all required fields are filled out correctly and accurately.
-  Please ensure that you provide your genuine contact information, including your email address and phone number, as this will be used for official communication and updates about the program.
-  If you have any questions or concerns, please do not hesitate to contact us.
-</thinking>
-
 # Automotive Technician Training Program Registration Form - Help Guide
 ## Purpose
 The Automotive Technician Training Program Registration Form is designed to collect essential information about you as an applicant to our program. This form will help us get to know you better, understand your background, and ensure a smooth and effective application process.

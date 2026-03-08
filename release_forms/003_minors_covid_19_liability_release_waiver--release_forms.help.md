@@ -1,7 +1,3 @@
-<thinking>
-To determine if the user has read and understood the terms and conditions of the waiver.
-</thinking>
-
 # Minors COVID 19 Liability Release Waiver - Help Guide
 ## Purpose
 This form is a liability release waiver for minors, designed to inform parents or guardians of their legal rights and responsibilities regarding COVID-19 vaccinations for their children. It is intended to be completed by parents or guardians to acknowledge their understanding of the terms and conditions of the waiver.

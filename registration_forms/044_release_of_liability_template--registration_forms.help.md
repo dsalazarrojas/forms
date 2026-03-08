@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are signing a release of liability contract. The purpose of this form is to ensure that the individual understands and agrees to the terms of the contract, which outlines their liability and responsibilities. This form is typically used in situations where an individual is signing a contract, such as for a new employee, a contractor, or a business partner. The form is meant to be completed by the individual signing the contract, but it may also be used by administrators or other personnel to track the status of contracts and ensure compliance.
-</thinking>
-
 # Release Of Liability Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are signing a release of liability contract. This form ensures that the individual understands and agrees to the terms of the contract, which outlines their liability and responsibilities.

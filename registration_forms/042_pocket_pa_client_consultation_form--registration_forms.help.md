@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to provide information about their consultation preferences. The purpose of this form is to collect data that will help the consultant to schedule an appointment with the client. It is intended for internal use by the consulting firm and does not require any additional validation or authentication checks. This form should not be used for external purposes, such as marketing or promotional activities.
-</thinking>
-
 # pocket_pa_client_consultation_form - Help Guide
 ## Purpose
 The pocket_pa_client_consultation_form is a registration form for clients to provide information about their consultation preferences. This form is used to gather essential details that will help the consultant to schedule an appointment with the client.

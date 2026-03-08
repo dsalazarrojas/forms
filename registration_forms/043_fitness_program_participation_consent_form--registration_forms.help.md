@@ -1,17 +1,3 @@
-<thinking>
-This form is a Fitness Program Participation Consent Form designed to collect information from participants in a fitness program. The form is intended to gather essential data, including participant's name, contact information, emergency contact details, fitness level, medical conditions, and consent status. 
-
-To determine the relevance and non-duplication of the form, consider the following:
-
-- The form is used to ensure that participants are aware of and agree to the terms and conditions of the fitness program.
-- The form is a legal requirement for liability protection and to ensure that participants are aware of their responsibilities and risks associated with the program.
-- The form is designed to be completed by participants, and the information gathered will be used to communicate with them and to ensure their safety and well-being.
-- The form is a one-time document, and once completed, it will be stored and kept confidential.
-
-Please note that the form is not designed to be duplicated or shared with others without the participant's consent.
-
-</thinking>
-
 # fitness_program_participation_consent_form - Help Guide
 ## Purpose
 The Fitness Program Participation Consent Form is a critical document that ensures participants understand and agree to the terms and conditions of the fitness program.

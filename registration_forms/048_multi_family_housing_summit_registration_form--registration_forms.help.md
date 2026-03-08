@@ -1,15 +1,3 @@
-<thinking>
-This form design involves creating a user-facing help guide for the "Multi Family Housing Summit Registration Form". 
-This form will be used for registering attendees, speakers, and organizers for the summit. 
-The form is composed of several fields that require different types of input from users. 
-Each field is assigned a unique id and name, and some fields have labels, hints, and options. 
-The fields are organized into several pages, but since this form is quite simple, we will treat it as a single page form. 
-The form fields are: First Name, Last Name, Email, Phone, Company Name, Job Title, Job Description, Role, Attending with, Company Size, Registration Type, Comments, Registration Date, Registration Time, Submitted By, and Submitted By E-Mail. 
-The form requires input for First Name, Last Name, Email, Role, Attending with, Company Size, and Registration Type. 
-The form's fields are mostly text or select input types, with a few date and time fields. 
-The form is intended for user registration, so the user needs to be informed about the purpose and how to fill the form correctly. 
-</thinking>
-
 # Multi Family Housing Summit Registration Form - Help Guide
 ## Purpose
 The Multi Family Housing Summit Registration Form is a form designed for registering attendees, speakers, and organizers for the summit. It helps us collect necessary information from you to plan and organize the event.

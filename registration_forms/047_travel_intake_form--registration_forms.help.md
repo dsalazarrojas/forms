@@ -1,17 +1,3 @@
-<thinking>
-The "Travel Intake Form" is designed to collect travel-related information from users. This form will likely be used by travel agencies or travel-related businesses to collect data on travel plans, preferences, and documents. Before filling out this form, please ensure that:
-* You have a valid reason for traveling (e.g., business, leisure, personal).
-* You have not already completed this form for the same travel date or destination.
-
-To complete this form, follow these steps:
-1. Select the travel date from the available options.
-2. Choose a destination for your travel.
-3. Answer "Yes" or "No" regarding travel preferences, documents, and other relevant questions.
-4. Select a travel agency for your travel (if applicable).
-5. Confirm your travel agency selection (if multiple options are available).
-
-</thinking>
-
 # Travel Intake Form - Help Guide
 ## Purpose
 This form collects travel-related information from users to help travel agencies or businesses understand their needs and preferences.

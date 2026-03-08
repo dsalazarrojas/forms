@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to register for spa appointments, provide their customer information, specify appointment details, select services, choose a payment method, and submit their email and phone number. Before filling out the form, please ensure you have a legitimate reason for accessing the spa appointment portal and are not attempting to register multiple times. To avoid duplication, please make sure to register with a unique email address and phone number. If you've already registered, please do not attempt to register again.
-</thinking>
-
 # spa_appointment_portal_access_form - Help Guide
 ## Purpose
 This form is designed to facilitate registration for spa appointments, allowing users to enter their details and preferences for a smooth and efficient spa experience.

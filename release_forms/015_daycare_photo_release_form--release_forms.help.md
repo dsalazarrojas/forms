@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning: The purpose of this form is to gather information from parents or guardians for photo and video media release, which will be used by the daycare center or school to use or share photos and videos of children. This form ensures that parents/guardians are aware of and agree to the release of their child's photos and videos. The form will be filled out by a parent or guardian and will be used to obtain their consent before any photos and videos are shared or used. The form will also serve as a record of the parent's/guardian's agreement to the release of their child's photos and videos.
-
-To prevent duplication, this form will be used only for new photo and video media releases. If a parent/guardian has already agreed to the release of their child's photos and videos in the past, this form will not be filled out again.
-
-This form will be kept on file and will be used as a reference for future photo and video media releases.
-
-</thinking>
-
 # Daycare Photo Release Form - Help Guide
 ## Purpose
 

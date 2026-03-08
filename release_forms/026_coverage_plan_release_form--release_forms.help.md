@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Coverage Plan Release Form". This form is used to document the details of an employee's termination, including the date, reason, and effective period of the termination. It is intended to be completed by the employee or their representative, and will likely be used by HR or other authorized personnel to process the termination.
-
-Before starting, ensure you have all necessary information and authorization to complete this form. Please do not duplicate or submit incomplete forms.
-
-</thinking>
-
 # Coverage Plan Release Form - Help Guide
 ## Purpose
 The Coverage Plan Release Form is used to document the details of an employee's termination, ensuring a smooth and accurate processing of the release.

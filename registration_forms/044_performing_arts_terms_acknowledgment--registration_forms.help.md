@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in performing arts activities, such as dance classes, concerts, or theatrical productions. The purpose of this form is to ensure that all participants have read, understand, and agree to the terms and conditions of the performing arts program. This form may be used by event organizers, instructors, or staff members to collect participant contact information, agreement status, and other relevant details.
-Please ensure that you complete this form accurately and thoroughly. If you have any questions or concerns, please do not hesitate to reach out to the relevant authority. This form should not be completed by participants unless specifically instructed to do so.
-</thinking>
-
 # Performing Arts Terms Acknowledgment - Help Guide
 ## Purpose
 

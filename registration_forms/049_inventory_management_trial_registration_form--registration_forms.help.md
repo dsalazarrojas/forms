@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Management Trial Registration Form - Help Guide
 
 ## Purpose

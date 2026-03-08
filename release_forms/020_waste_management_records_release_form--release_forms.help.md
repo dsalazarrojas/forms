@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # waste_management_records_release_form - Help Guide
 ## Purpose
 This form is used for releasing waste management records. It is intended to capture essential information about the company, individual, or department being released, and to gather consent for the release. The form is usually used for official purposes such as reporting, auditing, or regulatory compliance.

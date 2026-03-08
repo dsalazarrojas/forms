@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for guests to RSVP to a brand collaboration mixer event. The form will collect information about the guest, their professional role, event details, RSVP status, and any dietary or accessibility requirements.
-We've created this guide to help you navigate the form and provide the necessary information for a smooth and enjoyable experience. Please ensure that you've reviewed the form carefully before submitting it to avoid any last-minute cancellations.
-</thinking>
-
 # Brand Collaboration Mixer RSVP Form - Help Guide
 ## Purpose
 

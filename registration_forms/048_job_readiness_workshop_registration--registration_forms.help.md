@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants who are interested in attending a Job Readiness Workshop. This form will help us understand their name, contact details, and other relevant information to provide a smooth experience. It's essential to fill out this form accurately to ensure that we can reach out to you and keep you updated on the workshop schedule. Please note that the form is not intended for duplicate submissions. If you've already registered for this workshop, please do not submit this form again.
-</thinking>
-
 # Job Readiness Workshop Registration - Help Guide
 ## Purpose
 This form is designed to gather necessary details from you to register for the Job Readiness Workshop. It's crucial to provide accurate information to ensure we can keep you informed about the workshop schedule and any updates.

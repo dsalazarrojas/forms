@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Student Ministry Medical Release Form - Help Guide
 ## Purpose
 This form is used to obtain medical information and emergency contact details from parents or guardians for students participating in the church student ministry programs. It helps us to ensure that we can provide proper care and support in case of any medical emergencies.

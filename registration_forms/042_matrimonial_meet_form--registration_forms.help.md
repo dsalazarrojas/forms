@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to meet with someone for a matrimonial purpose, such as a date or a potential partner. The form is typically filled out by users who are interested in meeting someone, and it's a crucial part of the process for potential matches to get in touch with each other.
-This form is not intended for general information gathering or other purposes not related to matrimonial meets.
-Before filling out the form, ensure that you are providing accurate information to avoid any potential issues.
-</thinking>
-
 # Matrimonial Meet Form - Help Guide
 ## Purpose
 The Matrimonial Meet Form is designed to collect information from individuals interested in meeting for a matrimonial purpose.

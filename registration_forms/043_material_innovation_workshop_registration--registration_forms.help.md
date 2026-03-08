@@ -1,8 +1,3 @@
-<thinking> 
-This form is meant to gather information from users for a Material Innovation Workshop. The purpose of the form is to collect demographic and interest information from attendees. The form will be used to tailor the workshop experience to the needs of the attendees. The form should only be filled out by attendees who are interested in participating in the workshop. 
-
-</thinking>
-
 # Material Innovation Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect demographic and interest information from attendees of the Material Innovation Workshop. Please fill out this form to help us tailor the workshop experience to your needs.

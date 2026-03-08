@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect information about the release of a patient's medical record or other protected information. This form ensures that releases are properly authorized and documented, which is crucial for maintaining confidentiality and security of patient data.
-
-</thinking>
-
 # X RAY Release Form - Help Guide
 
 ## Purpose

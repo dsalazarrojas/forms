@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from visitors when they visit a hospital. The form is likely used by hospital staff to collect general information about the visitor, including their name, contact details, and the purpose of their visit. This form is probably used to manage visitor flow and ensure that visitors are able to access the necessary areas of the hospital. There should not be any duplicate forms with the same purpose in our system.
-</thinking>
-
 # Hospital Visitation Form - Help Guide
 
 ## Purpose

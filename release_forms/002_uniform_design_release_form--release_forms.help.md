@@ -1,9 +1,3 @@
-<thinking>
-The Uniform Design Release Form is used to capture the design use and release information of a uniform, including signatures, documentation, and other relevant details. It is essential to fill out this form accurately to ensure that all necessary information is recorded correctly. 
-
-Please ensure you are filling out this form for a valid release and not duplicating an existing one. If you are unsure about any of the fields, please contact your supervisor or the relevant team member for clarification. 
-</thinking>
-
 # Uniform Design Release Form - Help Guide
 ## Purpose
 The Uniform Design Release Form is used to document the release of a uniform, ensuring that all necessary information is recorded correctly. It's essential to fill out this form accurately to avoid errors and ensure that the release process is complete.

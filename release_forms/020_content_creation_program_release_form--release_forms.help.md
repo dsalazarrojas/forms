@@ -1,10 +1,3 @@
-<thinking>
-This form is used by content creators to capture participant information and obtain releases and consents for various types of content creation programs.
-To ensure that the form is filled out correctly and accurately, please review the form carefully before submitting. 
-Ensure that you are filling out the form for the correct participant and that all required fields are completed.
-Please note that if the participant is a minor, additional information is required to be filled out.
-</thinking>
-
 # Content Creation Program Release Form - Help Guide
 ## Purpose
 The Content Creation Program Release Form is used to capture participant information and obtain releases and consents for various types of content creation programs.

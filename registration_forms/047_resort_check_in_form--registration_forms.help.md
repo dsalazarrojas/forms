@@ -1,5 +1,3 @@
-<thinking>**Resort Check In Form** is a form used to facilitate the check-in process for guests arriving at the resort. This form will help the resort staff to gather the necessary information about the guest in a timely and efficient manner. It is recommended to use this form for all arriving guests to ensure accurate and up-to-date information is recorded. Please note that this form should only be used for guests who are not already registered with the resort. If a guest has previously checked in, please use the "Existing Guest Check In" form. This form will only be used for guests arriving during the current check-in period, as specified by the resort.</thinking>
-
 # Resort Check In Form - Help Guide
 ## Purpose
 The Resort Check In Form is a tool used by resort staff to gather essential information from arriving guests to facilitate a smooth and efficient check-in process.

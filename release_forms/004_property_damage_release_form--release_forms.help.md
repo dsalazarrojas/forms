@@ -1,7 +1,3 @@
-<thinking>
-The Property Damage Release Form is a document used to record and verify the release of property, such as a vehicle or equipment, from one party to another. The form is used to provide a written record of the release, which can be useful for insurance, repair, or other purposes. Before filling out this form, please ensure that you understand the terms of the release agreement and the parties involved. Please use this form only for property releases between two parties. This form is not intended for other purposes.
-</thinking>
-
 # Property Damage Release Form - Help Guide
 ## Purpose
 This form is used to record and verify the release of property between two parties.

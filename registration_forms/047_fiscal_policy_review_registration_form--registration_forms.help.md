@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for the Fiscal Policy Review, a process that allows users to review and comment on policy changes. The purpose of this form is to ensure that users can provide feedback and suggestions on the policies that affect their work or business. The form is not intended to be a replacement for existing procedures or to override existing policies, but rather to complement them with additional feedback. Before completing this form, please ensure that you have read and understood the existing policies and procedures related to the fiscal policy review process. Additionally, please note that this form should only be completed once per user, and duplicate submissions will not be accepted.
-</thinking>
-
 # Fiscal Policy Review Registration Form - Help Guide
 ## Purpose
 The Fiscal Policy Review Registration Form is used to provide feedback and suggestions on policy changes that affect your work or business. It is not intended to replace or override existing policies, but to complement them with additional feedback.

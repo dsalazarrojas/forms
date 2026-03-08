@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic information from participants in a microdose program, likely for research or other purposes. It appears to be a simple, one-page form with five fields: participant details, health information, intentions, consent, and a note-taking field. The purpose of this form is to collect data from individuals who are involved in a microdose program, which may involve taking small amounts of medication or substances. The form is likely used to ensure that participants are aware of their involvement and have provided necessary information to proceed with the program. This form does not appear to have any sensitive or complex data collection requirements, and the fields seem to be mostly optional.
-</thinking>
-
 # Microdose Registration Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from participants in a microdose program. It is intended to ensure that participants are aware of their involvement and have provided necessary information to proceed with the program.

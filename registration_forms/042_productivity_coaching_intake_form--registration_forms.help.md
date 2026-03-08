@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for clients to provide their information and preferences for productivity coaching sessions. This form aims to collect data on the client's availability, work schedule, language, time zone, and preferred communication method for coaching sessions. This information will be used to personalize and schedule coaching sessions effectively.
-
-Before you start completing this form, please note that this form is a multiple-page form with 25 fields. You will be required to complete each field, but some of them are optional. Please fill in the required fields first and move on to the optional ones.
-
-To complete this form, please follow the instructions below:
-
-1.  Start by filling in the required fields, which are marked as "required" in the form.
-2.  Once you have filled in all the required fields, you can move on to the optional fields.
-3.  Please make sure to fill in the fields that best match your preferences and schedule.
-4.  If you need help or clarification on any field, please do not hesitate to ask.
-
-</thinking>
-
 # productivity_coaching_intake_form - Help Guide
 ## Purpose
 The Productivity Coaching Intake Form is designed to gather information from clients to personalize and schedule coaching sessions effectively.

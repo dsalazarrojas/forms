@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect medical information and consent from parents or guardians of children attending a summer camp. The form asks for general contact information, emergency contacts, medical history, allergies, and medications. The form also includes a code of conduct and terms and conditions that parents must agree to. This form is intended to be completed by parents or guardians, and it is not a medical form for camp staff.
-
-</thinking>
-
 # summer_camp_parental_release_medical_information_code_of_conduct - Help Guide
 ## Purpose
 This form is designed to collect medical information and consent from parents or guardians of children attending the summer camp.

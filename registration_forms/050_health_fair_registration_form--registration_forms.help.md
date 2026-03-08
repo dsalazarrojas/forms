@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Fair Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from participants and attendees of the Health Fair event. It is designed to gather relevant details for registration, medical history, and emergency contact information. 

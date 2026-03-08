@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Workshop Participant Access Form is to gather relevant information from workshop participants, ensuring that they have access to the necessary resources and information during the workshop. 
-This form should only be filled out for each workshop participant. 
-Before filling out this form, please ensure that you have not already filled it out for the same participant. 
-</thinking>
-
 # Workshop Participant Access Form - Help Guide
 ## Purpose
 The Workshop Participant Access Form is used to collect information from workshop participants, ensuring they have the necessary access and resources during the workshop.

@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Tour Guides Club Membership Form, I need to consider the following fields and their respective types, labels, and options. The form is designed to collect information from users interested in joining the Tour Guides Club, a community of travel enthusiasts. Upon reviewing the form fields, I notice that the form is intended to collect personal details, membership preferences, and payment information from users.
-
-The form has two types of fields: text (first_name, last_name, email, password, contact_number), select_multiple (membership_preferences, tour_preferences, payment_terms), select_one (preferred_language), and note fields (agree_terms, confirm_membership). The required and optional status of each field is also noted. Based on this analysis, my internal reasoning block is as follows:
-
-* The form is likely used for registration and membership purposes.
-* The form is not designed for a specific product or service, but rather for a community or club membership.
-* The form collects personal details such as name, email, contact number, and password.
-* Membership preferences, tour preferences, and payment terms are collected using select_multiple fields.
-* The form also collects preferred language using a select_one field.
-* There is no payment information collected, implying that payment might be handled separately.
-* The last two fields, agree_terms and confirm_membership, are likely used to confirm user agreement and confirmation of membership, respectively.
-
-To avoid duplication, I will not include any information already implied by the form's label or type. For instance, if a label is self-explanatory (e.g., "email"), I will not add an additional explanation.
-
-With this internal reasoning in mind, I will now create the user-facing help guide for the Tour Guides Club Membership Form.
-</thinking>
-
 # Tour Guides Club Membership Form - Help Guide
 ## Purpose
 This form is used for registration and membership purposes to collect personal details and membership preferences from users interested in joining the Tour Guides Club, a community of travel enthusiasts.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to allow users to enter a mobile device giveaway entry. It is designed to gather information from users who want to participate in a giveaway. To be eligible to complete this form, users must not have already registered for this specific giveaway. 
-</thinking>
-
 # mobile_device_giveaway_entry_form - Help Guide
 ## Purpose
 The mobile device giveaway entry form is used to register for a mobile device giveaway. This form is designed to gather information from users who want to participate in the giveaway.

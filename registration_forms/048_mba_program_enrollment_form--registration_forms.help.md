@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from candidates for the MBA program enrollment. It is likely used by the program administrators to review and process applications. The form fields cover a range of topics, including candidate details, contact information, education background, work experience, and other relevant details. It's essential to ensure that the form is completed accurately and thoroughly to avoid duplication or incorrect data entry. Before proceeding, please review the form carefully and ensure that you have all the necessary information ready.
-</thinking>
-
 # MBA Program Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from candidates for the MBA program enrollment. Please use this guide to ensure that you complete the form accurately and thoroughly.

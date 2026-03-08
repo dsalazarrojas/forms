@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Running Shoe Demo Day Registration - Help Guide
 ## Purpose
 The Running Shoe Demo Day Registration form is a simple, user-friendly form designed to collect basic information from attendees for the event "Running Shoe Demo Day". The form is meant to gather details about the attendees, such as their contact information and scheduling preferences.

@@ -1,13 +1,3 @@
-<thinking>
-
-To understand why this form exists, let's break it down.
-
-The Non Conformance Form is designed to capture details of non-conforming or non-compliant behavior or issues that have occurred within the organization. This form serves as a means to report incidents of non-compliance, providing a standardized way to gather information and track such occurrences. 
-
-The form should only be filled out for genuine non-conforming or non-compliant incidents, and not for routine matters or minor discrepancies. To avoid duplication, ensure that this form is not filled out for issues already reported or being investigated. If you're unsure, reach out to your supervisor or department head for guidance.
-
-</thinking>
-
 # Non Conformance Form - Help Guide
 ## Purpose
 The Non Conformance Form is used to report non-conforming or non-compliant behavior or issues that have occurred within the organization.

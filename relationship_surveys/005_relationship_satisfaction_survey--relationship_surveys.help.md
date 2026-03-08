@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Relationship Satisfaction Survey - Help Guide
 ## Purpose
 The Relationship Satisfaction Survey is designed to assess the quality and dynamics of relationships between patients and their healthcare providers or therapists. The survey gathers information on several key areas, including patient-therapist expectations, communication skills, conflict resolution, emotional intelligence, and relationship satisfaction. This information can help healthcare providers improve their relationship-building skills and ultimately enhance patient outcomes.

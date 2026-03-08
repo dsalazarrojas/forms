@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture medical information related to students who are participating in the ministry. The purpose of this form is to collect the student's name, the parent's name, any medical conditions, allergies, and medications they may be taking. Additionally, the form asks for contact information for an emergency contact, the relationship between the contact and the student, and the contact's phone number. The form also includes space for the student's email address and the name of the medical facility they are being treated at. This form is typically used when a student has a medical condition that requires special accommodation or attention while they are participating in the ministry.
-
-Note that the fields are designed to be completed by either the student or their parent/guardian.
-
-Before starting to fill out this form, make sure to review it carefully and ensure that you have all the necessary information required for each field. 
-
-Please ensure that all mandatory fields (indicated by **required: true**) are completed before submitting the form.
-
-</thinking>
-
 # Student Ministry Medical Release Form - Help Guide
 ## Purpose
 The Student Ministry Medical Release Form is used to collect medical information for students participating in the ministry, including their name, contact information for an emergency contact, and any medical conditions or medications they may be taking.

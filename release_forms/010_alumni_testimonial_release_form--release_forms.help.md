@@ -1,5 +1,3 @@
-<thinking>Alumni Testimonial Release Form: A guide for students and graduates to release their testimonials and media usage permissions for the institution's promotional purposes. This form is designed to ensure that alumni are aware of the usage rights and permissions granted to the institution for sharing their testimonials and media.</thinking>
-
 # Alumni Testimonial Release Form - Help Guide
 ## Purpose
 The Alumni Testimonial Release Form is a necessary step for students and graduates to release their testimonials and media usage permissions to the institution for promotional purposes. It's essential to understand this form's requirements and implications before proceeding.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from exhibition management training attendees for the purpose of event management and organization. It is meant to be filled out by individuals who have participated in the training program. The form's 25 pages are intended to be filled out in sequential order, from page 1 to page 25. Each page has the same label "Page X" and is a text field with no options or specific guidance for input. This form is not affiliated with, nor has it been derived from, any commercial form creation platforms. It is an original adaptation using only public survey topic metadata as inspiration.
-</thinking>
-
 # exhibition-management-training-form - Help Guide
 ## Purpose
 This form is designed to collect information from exhibition management training attendees for event management and organization purposes.

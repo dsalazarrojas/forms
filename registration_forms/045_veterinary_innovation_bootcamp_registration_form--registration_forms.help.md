@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for participants to register for the Veterinary Innovation Bootcamp. The purpose of the form is to collect basic contact information and motivations from potential participants. This information will be used to facilitate communication and ensure that the participant is properly registered for the event. 
-
-The internal reasoning is to prevent duplication of effort by ensuring that only unique email addresses are registered and that each participant provides the necessary information to be properly registered and contacted.
-
-The following fields must be filled out in order for the participant to complete the form: name, contact email, and optionally phone number.
-
-</thinking>
-
 # Veterinary Innovation Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Veterinary Innovation Bootcamp. It will collect your contact information and motivations for participating in the event.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants registering for an outdoor cycling tour. The form is meant to gather general information, participant details, emergency contact, medical information, billing information, and registration details. 
-
-To avoid duplication and ensure accurate representation of participant information, it is essential to ensure that only one participant registers per form submission. 
-
-Please make sure you have completed all fields carefully and accurately to ensure seamless registration process.
-
-</thinking>
-
 # Outdoor Cycling Tour Registration Form - Help Guide
 
 ## Purpose

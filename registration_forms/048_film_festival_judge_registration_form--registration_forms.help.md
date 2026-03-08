@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Film Festival Judge Registration Form, we need to consider the form's purpose, how to complete it, and what each field means. 
-
-The form is designed for film festival judges to register their information and preferences for the festival. It includes fields for personal details, judging preferences, and availability. The form's purpose is to gather relevant data for festival organizers to manage judges' involvement.
-
-The following guide will help users understand each field's significance and how to fill it out correctly.
-
-</thinking>
-
 # Film Festival Judge Registration Form - Help Guide
 ## Purpose
 The Film Festival Judge Registration Form is designed for film festival judges to provide their personal details, preferences, and availability to the festival organizers. This data will be used to manage the judging process and communicate with the judges effectively.

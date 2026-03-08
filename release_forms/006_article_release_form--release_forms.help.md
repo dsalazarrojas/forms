@@ -1,13 +1,3 @@
-<thinking>
-The Article Release Form is used to obtain the necessary permissions and rights to release an article for use in various contexts. This form is typically used by authors, researchers, or creators of academic or professional articles to request permission to reuse, republish, or adapt their work. The form helps ensure that the rights holder (the author or their organization) grants the necessary permissions and specifies the terms and conditions of the release.
-
-Before completing this form, please ensure that you have the legal authority to grant the requested rights. If you are not the rights holder, please do not submit this form.
-
-Please note that some fields may require specific information or permissions to be granted, and failure to provide accurate and complete information may result in delays or rejections of the release request.
-
-Also, be aware that the permissions and terms granted through this form may vary depending on the specific context and use case of the article, so please carefully review the form before submitting it.
-</thinking>
-
 # Article Release Form - Help Guide
 ## Purpose
 The Article Release Form is used to obtain the necessary permissions and rights to release an article for use in various contexts.

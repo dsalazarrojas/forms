@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, let's quickly review the form purpose and fields. This form is for IT Certification Exam Registration, which likely involves registering for a certification exam. The goal is to collect information about the exam participant. The form has various fields such as name, email, phone, exam date and time, course name, organization, payment method, payment amount, payment status, and status. There are also fields for comments and submitting the form.
-
-To prevent non-duplication, we'll check if an exam participant has already been registered with the same name and exam date.</thinking>
-
 # IT Certification Exam Registration Form - Help Guide
 
 ## Purpose

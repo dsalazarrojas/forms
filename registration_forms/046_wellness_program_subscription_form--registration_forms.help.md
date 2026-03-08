@@ -1,14 +1,3 @@
-<thinking>
-To create a robust help guide for the user-facing Wellness Program Subscription Form, let's analyze the provided YAML fields and identify the form's purpose, fields, and any potential areas where additional explanation or clarification is needed.
-
-The form title is "Wellness Program Subscription Form", indicating it's likely designed for users to subscribe to a wellness program. This form appears to collect various pieces of information from users, including their personal details, program selection, date preferences, contact information, and other metadata such as assigned tools, submitted dates, and form details. The form might be used for program administration, participant management, or tracking user preferences.
-
-The form structure seems to follow a typical pattern of gathering demographic and program-specific information, which is useful for managing the wellness program efficiently. 
-
-Given the complexity of the form, it might be helpful to have some sections explained in a more detailed manner to help users understand the purpose and usage of each field.
-
-</thinking>
-
 # Wellness Program Subscription Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the renewal of short term rental agreements. It is intended for tenants to provide information about their current rental agreement, including any existing terms and conditions. The form will be used to update and modify these details, ensuring that the rental agreement accurately reflects any changes to the tenancy period, renewal terms, or other relevant factors. It is essential to carefully review and understand the form's contents to ensure accuracy and completeness. 
-
-Before starting the form, ensure that all required information is available and that you have all the necessary signatures and authorizations to proceed. This form is a critical document in maintaining accurate records and ensuring compliance with regulatory requirements.
-
-</thinking>
-
 # Short Term Rental Renewal Form - Help Guide
 
 ## Purpose

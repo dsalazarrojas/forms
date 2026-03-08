@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from parents and guardians for the purposes of the Family Educational Rights and Privacy Act (FERPA) release form. This form is used to obtain consent from parents for the release of student information, such as grades and disciplinary records. It's essential to complete this form accurately and thoroughly to ensure that the school has the necessary permission to share this information with the parents or guardians. 
-
-Before starting, please ensure that you are the parent or guardian of the student. If you are unsure about any of the fields, please ask a school representative for clarification.
-</thinking>
-
 # FERPA Release Form For Parents - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for the release of student information, such as grades and disciplinary records.

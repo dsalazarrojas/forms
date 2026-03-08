@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the release of Quality Assurance (QA) records, which is a critical process in ensuring the quality of products or services. It is used by Quality Assurance teams to formally document the release of records and provide a clear understanding of the process for all stakeholders. Before completing this form, please ensure that you are authorized to release these records and that this is a valid request. Please also check that you are not duplicating any existing records.
-</thinking>
-
 # Quality Assurance Records Release Form - Help Guide
 ## Purpose
 The Quality Assurance Records Release Form is a crucial document used to record the release of Quality Assurance records. This form helps to ensure that the QA process is properly documented and communicated to all stakeholders. It is used to capture the necessary information regarding the release of records and provides a clear audit trail for future reference.

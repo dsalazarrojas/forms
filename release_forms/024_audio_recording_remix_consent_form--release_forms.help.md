@@ -1,9 +1,3 @@
-<thinking>
-
-This form, the "Audio Recording Remix Consent Form", serves to gather essential information from copyright holders to ensure that any upcoming remix projects adhere to copyright laws and respect the original creators' rights. This form is crucial for clarifying the terms and conditions under which a remix can be created, distributed, and shared.
-
-</thinking>
-
 # Audio Recording Remix Consent Form - Help Guide
 
 ## Purpose

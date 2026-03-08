@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mum And Baby Fitness Registration - Help Guide
 
 ## Purpose

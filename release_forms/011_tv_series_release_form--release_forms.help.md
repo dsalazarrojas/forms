@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for participants to provide their information and consent for the release of their TV series content. The form is not affiliated with, endorsed by, or derived from any form platform. It is a public, AI-generated adaptation created using the metadata from public surveys and topic information.
-The form will collect participant's name, email address, and other relevant information for the release process. It is crucial that participants understand the purpose and implications of this form, as it involves sharing personal data. Therefore, please review each field carefully.
-</thinking>
-
 # TV Series Release Form - Help Guide
 ## Purpose
 The TV Series Release Form is designed to collect information from participants, allowing them to agree or disagree to the release of their content. Please fill out the form carefully to ensure accurate and secure data submission.

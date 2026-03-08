@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect bidder registration information from companies or individuals interested in bidding on projects. This form is used to capture personal and business contact details, company information, financial data, and other relevant details necessary for the bidding process. This form is designed to be completed by authorized representatives of the company.
-
-This form will be used to determine the eligibility of the bidder to participate in the bidding process. Please fill out this form accurately and completely to ensure a successful registration.
-
-**Duplicate registration will be prevented, ensuring only one registration per company.**
-
-Before starting the form, ensure that you are authorized to register your company.
-</thinking>
-
 # Bidder Registration Form - Help Guide
 ## Purpose
 The Bidder Registration Form is used to collect information from companies or individuals interested in bidding on projects. This form captures personal and business details, as well as financial and other relevant information required for the bidding process.

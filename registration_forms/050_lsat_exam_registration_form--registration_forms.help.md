@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for LSAT (Law School Admission Test) exam registration. It's a standard form for students who are registering for the LSAT exam. The form collects demographic data for students and their test preferences. The fields in this form should be filled out by a student registering for the exam. Please fill out all fields if you have the necessary information. You are not required to fill out all fields if they do not apply to you.
-</thinking>
-
 # LSAT Exam Registration Form - Help Guide
 ## Purpose
 The LSAT Exam Registration Form is designed to collect demographic information from students registering for the LSAT exam. This information will be used to process the registration and provide personalized test experience.

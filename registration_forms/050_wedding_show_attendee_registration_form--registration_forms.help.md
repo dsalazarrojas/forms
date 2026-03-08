@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who plan to attend a wedding show. It is likely used to track attendance, gather contact details, and possibly follow up with attendees after the show. It's possible that this form is used for internal tracking purposes within the wedding industry or for marketing efforts. Given the multiple "Attendee Information" fields, it's likely that the form is designed to collect information for multiple attendees at once. To avoid duplication, it's essential to ensure that each field is filled out correctly and uniquely for each attendee.
-</thinking>
-
 # Wedding Show Attendee Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who plan to attend a wedding show. It's intended for tracking attendance, gathering contact details, and possibly following up with attendees after the show.

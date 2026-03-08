@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose and scope of this form. This form is for registering participants in a paintball and airsoft event. It's crucial that users understand that this form is for event registration, not for general contact or feedback purposes. We should also ensure that users don't attempt to fill out the form without meeting the basic requirements, which include providing participant details, scheduling preferences, safety acknowledgement, and contact details. With these in mind, let's create a clear and concise help guide for end-users.</thinking>
-
 # Paintball And Airsoft Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a paintball and airsoft event. To ensure a successful and safe experience, please fill out this form thoroughly and accurately.

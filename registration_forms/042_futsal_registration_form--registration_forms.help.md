@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to register a futsal team for a sports tournament. The form gathers information about the team's details, tournament details, team player details, and team staff details. This form is designed to be completed by team representatives or managers to provide essential information about the team's participation in the tournament.
-
-To ensure accurate and efficient completion of the form, please review each field carefully and fill it in according to your team's information. This guide will walk you through each field to help you understand what is required and how to complete it correctly.
-
-Please note that this form is for registration purposes only and any information provided will be used solely for the purpose of organizing the tournament.
-
-Before starting, ensure that you have all the necessary information about your team at hand, including team members' details, staff contacts, and tournament preferences.
-
-</thinking>
-
 # Futsal Registration Form - Help Guide
 ## Purpose
 This form is designed to collect team details for the futsal tournament registration. The information collected will be used to organize and manage the teams participating in the tournament.

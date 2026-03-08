@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact and registration information from parents and guardians to facilitate the process of registering children for a summer day camp. It is intended for parents and guardians to provide accurate and complete information about themselves and their children. To ensure the accuracy and completeness of the information, please fill out this form carefully and thoroughly.
-
-</thinking>
-
 # Summer Day Camp Registration Form - Help Guide
 ## Purpose
 The Summer Day Camp Registration Form is a tool used to collect contact and registration information from parents and guardians to facilitate the process of registering children for the summer day camp. It is essential to fill out this form accurately and completely to ensure that your child's registration is processed correctly and that you receive important updates and information about the camp.

@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are registering for a youth retreat online. This form will gather essential details such as name, contact information, and role to ensure accurate and efficient registration and event management.
-
-Before starting the form, please ensure that you have not submitted it previously. If you have, please do not resubmit. This form is designed for new registrations only.
-
-The form consists of eight fields:
-
-*   First Name: This is the first and last name of the individual registering.
-*   Last Name: This is the surname of the individual registering.
-*   Email: This is the contact email address of the individual.
-*   Phone: This is the contact phone number of the individual.
-*   Date: This is the date the individual will be attending the retreat.
-*   Time: This is the time the individual will be attending the retreat.
-*   Role: This is the role of the individual at the event. Options include Participant, Chaperone, Staff, and Other (specify).
-*   Other Role: This is an optional field for individuals who select the "Other" role.
-
-Please note that some fields are required and some are optional. Ensuring all required fields are completed will guarantee a successful registration.</thinking>
-
 # youth_retreat_online_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals for a youth retreat online event.

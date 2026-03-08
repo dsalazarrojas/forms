@@ -1,25 +1,3 @@
-<thinking>
-The purpose of the "Booth Sitter Request Form" is to collect information from exhibitors about their booth needs for event coverage. This form ensures that booth sitters are adequately prepared and informed about the exhibitor's booth and requirements. It is essential to provide this information accurately to avoid miscommunication and confusion. By filling out this form, exhibitors can ensure a smooth and successful event experience. This guide will explain how to complete this form, field by field.
-
-This guide applies to the following form fields:
-  - Exhibitor Name: The name of the exhibitor.
-  - Contact Person: The full name of the contact person.
-  - Email Address: The contact email address.
-  - Phone Number: The contact phone number.
-  - Event Name: The name of the event.
-  - Event Dates: The dates of the event.
-  - Booth Number: The assigned booth number.
-  - Date Sitter Needed: The date the booth sitter is needed.
-  - Start Time: The time the booth sitter should start.
-  - End Time: The time the booth sitter should end.
-  - Sitter Responsibilities: A list of tasks the booth sitter is expected to perform.
-  - Booth Background Information: A brief description of the booth.
-  - Key Messages for Sitter: Optional information about the key messages the sitter should know.
-  - Materials Location: Optional information about the location of materials.
-  - Special Instructions: Any other important details or special instructions.
-
-</thinking>
-
 # Booth Sitter Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from exhibitors about their booth needs for event coverage. This form helps ensure that booth sitters are adequately prepared and informed about the exhibitor's booth and requirements for a smooth and successful event experience.

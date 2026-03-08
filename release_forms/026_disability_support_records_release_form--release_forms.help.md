@@ -1,9 +1,3 @@
-<thinking>
-
-The Disability Support Records Release Form is a crucial document used to officially record and document a person's consent to access and manage their disability-related records. This form ensures that the individual's personal data is only accessed and shared with authorized parties, in accordance with their wishes and regulations. The form is typically filled out when a person wants to grant or revoke access to their disability records, and it's essential to complete this form accurately to ensure that the records are handled appropriately.
-
-</thinking>
-
 # Disability Support Records Release Form - Help Guide
 
 ## Purpose

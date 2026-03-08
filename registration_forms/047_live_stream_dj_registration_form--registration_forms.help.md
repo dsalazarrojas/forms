@@ -1,12 +1,3 @@
-<thinking>
-This guide assumes that the end user understands the context of the Live Stream DJ Registration Form in relation to live music streaming events. To confirm, the form is intended for DJs to register for a live stream event, providing details about their performance, bio, and availability.
-
-It's also assumed that the form is not a one-time event, but rather a recurring form for multiple live stream events. To avoid duplication, ensure you're not registering for the same event more than once.
-
-This guide is designed to help you fill in the form accurately and efficiently.
-
-</thinking>
-
 # Live Stream DJ Registration Form - Help Guide
 ## Purpose
 The Live Stream DJ Registration Form is for DJs to register for live music streaming events. It collects information about your DJing details, profile, and availability for the event.

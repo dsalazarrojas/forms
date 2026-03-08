@@ -1,20 +1,3 @@
-<thinking>...
-This form is intended for remote housing providers to register their details and information with our organization. The form is used to collect data from housing providers who offer services to our organization. This form is designed to be completed by the providers themselves, ensuring accuracy and authenticity of the information submitted.
-
-To ensure that this form is completed correctly, please note that:
-
-* Each field is optional, unless marked as "required".
-* If a field is marked as "required", please ensure that you complete it accordingly.
-* If you are unsure about any field, please consult the field's hint or description for clarification.
-
-Please ensure that you do not submit duplicate registrations. If you are a housing provider and have already registered, please do not complete this form again.
-
-Please ensure that you complete all the required fields accurately and honestly. Your information is critical in helping us understand your services better.
-
-Before we proceed, please review this help guide carefully and complete the form accordingly.
-
-</thinking>
-
 # Remote Housing Provider Registration - Help Guide
 ## Purpose
 The Remote Housing Provider Registration form is designed for remote housing providers to register their details and information with our organization.

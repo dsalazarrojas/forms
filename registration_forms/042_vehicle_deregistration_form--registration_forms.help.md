@@ -1,7 +1,3 @@
-<thinking>
-This form is for de-registering a vehicle. It is used to gather information about the vehicle being de-registered and the reason for de-registration. The form is split into several sections, each with its own fields that must be filled out to complete the de-registration process. This guide will walk you through each section and field on the form. Please ensure you have a vehicle to de-register before proceeding.
-</thinking>
-
 # vehicle_deregistration_form - Help Guide
 ## Purpose
 The vehicle_deregistration_form is used to de-register a vehicle from the system. This involves filling out the required information about the vehicle and reason for de-registration. Please review the form carefully before submitting it.

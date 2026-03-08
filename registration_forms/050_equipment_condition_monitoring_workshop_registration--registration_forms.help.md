@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect registration information from participants who want to attend the Equipment Condition Monitoring Workshop. It is crucial to fill this form accurately and completely to ensure that the required details are captured and that the correct information is sent to the workshop organizers. To fill this form, the participant should first ensure that they have the correct information about the event dates, name, email, phone number, and if any specific requirements they may have. 
-
-The "Preferred Workshop Dates" field should only be filled if the participant is unable to attend on the default date provided. This field is optional, so participants should only select dates they are available for.
-</thinking>
-
 # Equipment Condition Monitoring Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect registration information from participants who want to attend the Equipment Condition Monitoring Workshop.

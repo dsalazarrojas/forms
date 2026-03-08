@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is for individuals to register as cultural workshop facilitators. It's essential to ensure that the form is filled out correctly by providing guidance on each field, which will help facilitate the registration process for potential facilitators.
-
-The form has five sections, but only the "email" field is required. This means users must provide an email address in this field for the registration to be successful. The other fields are optional but can be useful for providing more information about the user and their workshop.
-
-To complete this form successfully, users should focus on providing accurate and up-to-date information, especially in the required "email" field.
-
-The following are the specific fields and their expected inputs:
-
-</thinking>
-
 # Cultural Workshop Facilitator Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register cultural workshop facilitators. It helps to collect information about the facilitators and their workshops, which can be useful for organizing and promoting cultural events.

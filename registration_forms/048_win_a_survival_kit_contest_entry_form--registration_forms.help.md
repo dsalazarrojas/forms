@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in the "Win A Survival Kit Contest". It is intended to gather essential details such as full name, contact information, and contest-specific information. Each field is designed to be filled out by the participant, and some fields are required to ensure that all necessary details are captured. The form is not associated with any specific platform or company, and it's an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Win A Survival Kit Contest Entry Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in the Win A Survival Kit Contest. It is essential to provide accurate and complete details to increase your chances of winning.

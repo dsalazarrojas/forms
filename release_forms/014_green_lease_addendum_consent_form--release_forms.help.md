@@ -1,5 +1,3 @@
-<thinking>As the form is designed to gather information and obtain consent from both the landlord and tenant in a green lease addendum, the form must be completed in a way that ensures the accuracy of the data collected. This form is intended for internal use within an organization, and the purpose of this guide is to provide a clear and concise explanation of each field and its requirements to help the user complete the form correctly.</thinking>
-
 # Green Lease Addendum Consent Form - Help Guide
 ## Purpose
 The Green Lease Addendum Consent Form is a critical document that ensures the accuracy of information collected between landlords and tenants. This form is essential for maintaining the integrity and trust between the two parties involved.

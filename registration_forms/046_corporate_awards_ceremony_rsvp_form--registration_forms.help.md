@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Corporate Awards Ceremony RSVP Form - Help Guide
 ## Purpose
 This form is for guests to RSVP (Respond to an Invitation) to the Corporate Awards Ceremony. It is intended for individuals, their spouses, or colleagues to express their interest in attending the event and provide details about their guest(s) and the number of guests they will be bringing.

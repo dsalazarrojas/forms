@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user profile information for premium users. It's intended for users who want to showcase their professional profile, skills, and services offered. The purpose of this form is to gather relevant details about the user, including name, contact information, location, experience, and availability.
-
-Before filling out this form, please ensure that you have not already created a profile, as this form is primarily for editing existing profiles.
-</thinking>
-
 # Your Premium Profile - Help Guide
 ## Purpose
 This form is designed to collect user profile information for premium users. It's intended for users who want to showcase their professional profile, skills, and services offered.

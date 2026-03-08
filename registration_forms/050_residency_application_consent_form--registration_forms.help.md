@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be a simple, user-friendly tool for individuals to provide their consent for a residency application process. The form is intended for those applying for residency in a specific program or institution, and it covers essential aspects of the application process, data collection, and consent. The purpose of this form is not to be a comprehensive guide to the residency application process but rather a means to establish a clear understanding between the applicant and the institution about the collection and use of the applicant's personal data. This form will help to prevent miscommunication and potential disputes by outlining the terms and conditions of data collection and use during the application process.</thinking>
-
 # Residency Application Consent Form - Help Guide
 ## Purpose
 The Residency Application Consent Form is a document that outlines the terms and conditions of the residency application process. It's a crucial step for applicants to understand how their personal data will be collected, used, and protected throughout the application process.

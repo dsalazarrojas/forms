@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from teams participating in the Double Dutch Competition, a competition that likely involves teams competing in a specific event or game. The form is likely used to register teams for this competition, gathering necessary details such as team members' contact information, emergency contact details, and other relevant data. This form might be used by event organizers or administrators to manage team registrations, verify participants' information, and ensure smooth communication during the competition.
-</thinking>
-
 # Double Dutch Competition Registration - Help Guide
 
 ## Purpose

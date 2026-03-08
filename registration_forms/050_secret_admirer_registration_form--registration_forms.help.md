@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to provide registration details for a secret admirer program, where users can register their interest in receiving a gift or message from someone else, without revealing their own identity. The form is designed to collect relevant information about the registrant, including their name, email, phone number, delivery preferences, and a personal message. 
-
-Before filling out this form, please ensure that you're not attempting to register your own identity, as this would defeat the purpose of the program. Also, make sure you're not attempting to register someone who has already registered with the same name and email.
-
-</thinking>
-
 # Secret Admirer Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register your interest in receiving a secret gift or message from someone else. Please fill out the form with your details to be part of this special program.

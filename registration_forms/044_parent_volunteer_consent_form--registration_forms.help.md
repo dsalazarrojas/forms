@@ -1,7 +1,3 @@
-<thinking>
-This form is used for parents to provide their consent for their child(ren) to participate in a volunteer activity. This form helps to ensure that parents are aware of and agree to the terms and conditions of the volunteer program, including the activities that their child will be involved in, the contact information of the organization, and the dates and times of the activities. This form should only be completed by parents/guardians, not by children or other individuals without parental consent.
-</thinking>
-
 # Parent Volunteer Consent Form - Help Guide
 ## Purpose
 This form is used to obtain parental consent for a child's participation in a volunteer activity.

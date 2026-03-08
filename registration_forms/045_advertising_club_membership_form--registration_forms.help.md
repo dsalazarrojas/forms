@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is for individuals interested in joining the Advertising Club, a professional organization for networking and professional development in the advertising industry. The form is divided into several sections, each focused on a different aspect of membership eligibility and requirements. To complete this form, follow these steps:
-
-</thinking>
-
 # Advertising Club Membership Form - Help Guide
 ## Purpose
 This form is for individuals interested in joining the Advertising Club, a professional organization for networking and professional development in the advertising industry.

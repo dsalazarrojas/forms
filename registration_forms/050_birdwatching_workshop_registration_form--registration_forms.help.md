@@ -1,5 +1,3 @@
-<thinking>... internal validation and consistency checks are performed on the form to ensure that all required fields are filled out correctly and that the user has provided sufficient information to complete the form. For example, the form checks that the user has provided a valid email address, a phone number, and a registration fee. The form also ensures that the user has selected a valid workshop location and duration. Additionally, the form checks that the user has provided a valid emergency contact name and phone number. The form is designed to be user-friendly and guide the user through the registration process step-by-step. The form is also designed to be completed in a logical and sequential order, making it easier for the user to understand the purpose of each field and what information is required.</thinking>
-
 # Birdwatching Workshop Registration Form - Help Guide
 ## Purpose
 The Birdwatching Workshop Registration Form is a form used to register participants for various birdwatching workshops offered by the organization. The form collects participant information, workshop preferences, and payment details.

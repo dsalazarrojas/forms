@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to gather information from individuals interested in volunteering for disaster relief efforts. It's essential to ensure that each field is completed accurately to provide the best possible experience for our volunteers and the affected communities. Before proceeding, double-check that you're not already registered and that you're submitting the form for the correct volunteer opportunity. Please ensure that you're using an email address and phone number that you're willing to share with the organization and other volunteers...</thinking>
-
 # Disaster Relief Volunteer Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register individuals interested in volunteering for disaster relief efforts.

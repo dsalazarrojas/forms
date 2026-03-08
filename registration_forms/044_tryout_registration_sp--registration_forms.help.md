@@ -1,8 +1,3 @@
-<thinking>
-This form is for player registration, used to gather information about players. Before attempting to register, please ensure that you are an authorized representative and that the player is not already registered. 
-To prevent duplication, this form will only be accessible when a player is not already in the system. The form is designed to be completed by an authorized person, typically a parent or guardian, and requires the following information: Player Name, Player Group, Player Email, Player Phone, Player Notes, Date, Time, Time 2, Date 2, and Player Notes 2.
-</thinking>
-
 # Tryout Registration Sp - Help Guide
 ## Purpose
 The Tryout Registration form is used to gather information about players for registration purposes.

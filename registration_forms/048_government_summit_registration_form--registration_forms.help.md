@@ -1,7 +1,3 @@
-<thinking>
-This is a guide for creating a Government Summit Registration Form that is clear and easy to understand for end-users. This form is designed to collect information from participants attending the Government Summit. It is not intended for government officials or internal use, but rather for participants. It is best-effort assumed that users already have a basic understanding of the Government Summit context.
-</thinking>
-
 # Government Summit Registration Form - Help Guide
 ## Purpose
 The Government Summit Registration Form is designed to collect essential details from participants to facilitate a smooth and enjoyable experience at the summit.

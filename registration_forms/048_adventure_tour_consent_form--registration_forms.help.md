@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting consent from participants before they embark on an adventure tour. The purpose of this form is to gather crucial information, ensure the participant's safety, and obtain their consent for the tour. It's crucial to complete this form accurately and thoroughly to avoid any issues during the tour. Ensure you have filled the form out correctly before proceeding. This form should not be filled out by anyone who has already completed it in the past.
-</thinking>
-
 # Adventure Tour Consent Form - Help Guide
 
 ## Purpose

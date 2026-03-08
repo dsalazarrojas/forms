@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the RSVP form for the Performing Arts Webinar is clear and easy to complete for end-users. We should verify that the form purpose is well-understood, and we should not have any duplication of fields or logic that might confuse users. Let's analyze the YAML input schema and create a user-facing help guide for the form.
-</thinking>
-
 # RSVP For Performing Arts Webinar - Help Guide
 ## Purpose
 This form is designed to collect RSVP (Response to Invitation) information from users who are interested in attending the Performing Arts Webinar. Please fill out the form with your details to register for the event.

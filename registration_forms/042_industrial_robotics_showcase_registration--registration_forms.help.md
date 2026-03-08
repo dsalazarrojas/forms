@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers, exhibitors, and attendees for an industrial robust showcase event. This guide will help users understand the form's purpose, complete it accurately, and clarify each field's meaning. Before starting, please note that the form is not a mandatory requirement for participation, but it's recommended to be filled out for a better event experience.
-
-Please read this guide carefully to ensure you fill out the form correctly and provide the required information accurately.
-
-Please note that the form has many optional fields, and you only need to fill out the ones that apply to you.
-
-</thinking>
-
 # industrial_robust_showcase_registration - Help Guide
 
 ## Purpose

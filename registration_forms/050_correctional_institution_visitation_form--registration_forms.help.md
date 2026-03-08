@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a general-purpose visitation form for a correctional institution, likely used to collect visitor information and contact details for security and administrative purposes. The form doesn't seem to have any specific conditional logic, so all fields are displayed to all users.
-The form collects visitor contact information, visit date, and travel arrangements. The form is likely used for general information collection and does not seem to have any conditional or branching logic.
-</thinking>
-
 # Correctional Institution Visitation Form - Help Guide
 ## Purpose
 The Correctional Institution Visitation Form is designed to collect visitor information and contact details for security and administrative purposes. This form is used to gather essential contact details and visit date to ensure a smooth and secure visitation process.

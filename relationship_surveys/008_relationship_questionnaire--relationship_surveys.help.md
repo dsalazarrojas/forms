@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this "relationship_questionnaire" form is to gather data about the relationship between two individuals, likely a couple. This form is designed to collect various aspects of their relationship, including their relationship status, demographics, goals, and communication styles. The form likely serves for research, analysis, or other administrative purposes, and its completion is likely required for participating in a study or program.
-</thinking>
-
 # relationship_questionnaire - Help Guide
 ## Purpose
 The purpose of this relationship questionnaire is to gather information about your relationship with your partner. This form will help us understand your dynamics, goals, and overall satisfaction with the relationship.

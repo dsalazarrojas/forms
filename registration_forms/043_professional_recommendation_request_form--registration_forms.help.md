@@ -1,13 +1,3 @@
-<thinking>
-The Professional Recommendation Request Form is a tool used by the organization to gather information from professionals who can vouch for an individual's skills and qualifications. The form serves to provide a standardized way to collect relevant data that can be used to evaluate an individual's potential fit for certain roles or positions within the organization. The form can be completed by an individual or their supervisor/mentor who can provide a professional recommendation.
-
-It is essential to note that this form is meant for internal use only. The information collected will be used to inform internal hiring decisions and should not be submitted to external parties without proper clearance.
-
-Before starting to fill out the form, ensure that you are aware of the individual you are providing a recommendation for and that you have the necessary permissions to complete the form. 
-
-Also, please check with the organization's HR department to see if a similar form has already been submitted for the individual in question.
-</thinking>
-
 # Professional Recommendation Request Form - Help Guide
 ## Purpose
 This form is used to collect professional recommendations from individuals who can vouch for an individual's skills and qualifications. It is used to provide a standardized way to collect relevant data that can be used to evaluate an individual's potential fit for certain roles or positions within the organization.

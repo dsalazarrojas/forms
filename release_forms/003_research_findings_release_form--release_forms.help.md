@@ -1,4 +1,3 @@
-<thinking>Research Findings Release Form - Purpose: This form is used for researchers to release their research findings to relevant stakeholders, ensuring that the findings are properly documented and reviewed by the right people. By filling out this form, researchers can provide a clear and transparent process for the release of their research results, reducing duplication and promoting collaboration. The form should only be completed once, as it serves as an official record of the research release process.</thinking>
 # Research Findings Release Form - Help Guide
 
 ## Purpose

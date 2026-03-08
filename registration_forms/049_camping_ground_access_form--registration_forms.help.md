@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from visitors to a campground for access purposes. The form requires visitors to provide personal and contact information, details about their visit, and acknowledgment of the campground's rules and liability waiver. This form will help the campground staff manage access and ensure a smooth experience for visitors.
-
-The form consists of multiple fields, including text, email, phone, and date fields for general information, as well as select_one and select_multiple fields for more specific questions. The form also includes fields for visitors to describe their purpose of visit, number of people, vehicles, and pets they are bringing. Additionally, the form requires visitors to provide their signature and confirm their understanding of the campground's rules and liability waiver.
-
-This form is intended for individual visitors, family groups, organizations, and commercial groups. It should not be used for other purposes. Please ensure you are using this form correctly and only for its intended purpose.
-
-</thinking>
-
 # Camping Ground Access Form - Help Guide
 ## Purpose
 The Camping Ground Access Form is used to collect information from visitors for access purposes. This form helps the campground staff manage access and ensure a smooth experience for visitors.

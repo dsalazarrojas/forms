@@ -1,11 +1,3 @@
-<thinking>
-
-The Ultimate Beneficial Owner Registration Form is a crucial form used to collect information about the ultimate beneficial owner of a legal entity. This form is essential for compliance with regulatory requirements and internal record-keeping purposes. It's vital to ensure that the form is filled out accurately and completely, as incorrect or incomplete submissions can lead to delays or even rejection of the entity's registration. Before filling out this form, please verify that the information you provide is accurate and up-to-date.
-
-To complete this form, start by selecting the relevant information for the legal entity. The form is divided into multiple pages, each with its specific fields. Make sure to fill out each field correctly and thoroughly, as incomplete or incorrect submissions can lead to issues during the registration process.
-
-</thinking>
-
 # Ultimate Beneficial Owner Registration Form - Help Guide
 ## Purpose
 The Ultimate Beneficial Owner Registration Form is designed to collect information about the ultimate beneficial owner of a legal entity. This form is used for compliance and internal record-keeping purposes.

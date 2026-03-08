@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a registration form for a social impact hackathon event. It's likely used to collect information about attendees, such as their names, contact details, and other relevant information. Before filling out this form, ensure that you're registering for the correct event and not duplicating your registration.
-
-</thinking>
-
 # Social Impact Hackathon Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Social Impact Hackathon event. Please fill out the form completely and accurately to ensure your registration is processed correctly.

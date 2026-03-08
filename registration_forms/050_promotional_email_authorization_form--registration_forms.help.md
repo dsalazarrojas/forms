@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promotional Email Authorization Form - Help Guide
 
 ## Purpose

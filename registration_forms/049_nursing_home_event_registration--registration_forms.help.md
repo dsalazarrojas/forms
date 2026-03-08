@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by nursing home staff to register events related to residents or guests within the facility. The purpose of this form is to gather necessary information for efficient management and reporting of these events. To ensure accurate reporting, it is essential that the form is completed accurately and consistently. 
-Please note that the form should not be used for duplicate registrations. If you have already registered an event, please do not register it again. 
-</thinking>
-
 # Nursing Home Event Registration - Help Guide
 ## Purpose
 The Nursing Home Event Registration form is used to record events happening in the facility, such as resident or guest arrivals, departures, or other events. This information is crucial for staff to track and manage these events efficiently.

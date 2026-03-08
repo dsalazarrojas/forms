@@ -1,14 +1,3 @@
-<thinking>
-We are creating a help guide for a "Poetry Reading Registration Form", a form designed to collect information from attendees and performers for poetry readings. The form is crucial for organizing and managing events, ensuring that all necessary details are captured accurately and efficiently.
-
-To confirm, the form is intended to gather data for attendees and performers, including personal identification information, contact details, and event-specific details. 
-
-The form will serve as a centralized database for event organizers to track attendee and performer registrations, making it easier to communicate with them and manage the event.
-
-Let's ensure that the form is clear, concise, and easy to understand for end-users.
-
-</thinking>
-
 # Poetry Reading Registration Form - Help Guide
 ## Purpose
 The Poetry Reading Registration Form is designed to gather information from attendees and performers for poetry readings. It helps event organizers collect and manage registrations efficiently, ensuring a smooth event experience.

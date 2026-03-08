@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering events or presentations, and its purpose is to collect information about the event, attendees, and contact details. The form is likely to be used for internal tracking and organization purposes. To ensure that you're using the correct form, please check that you're in the correct category ("registration_forms") and that you're viewing this guide.
-</thinking>
-
 # Glasswork Presentation Registration - Help Guide
 ## Purpose
 This form is used to register events or presentations for internal organization and tracking purposes.

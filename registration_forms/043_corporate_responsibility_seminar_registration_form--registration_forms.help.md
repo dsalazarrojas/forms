@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Responsibility Seminar Registration Form - Help Guide
 
 ## Purpose

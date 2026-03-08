@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a registration form for veterinary pharmaceutical demos, which are presentations or events that demonstrate the use of veterinary pharmaceuticals in a real-world setting. The form's purpose is to collect information from participants who are interested in attending or participating in these demos. The fields in this form are intended to capture essential details about the participants, including their contact information and their area of interest within the veterinary pharmaceuticals industry.
 
 </thinking>

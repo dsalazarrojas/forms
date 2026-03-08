@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering products in the Farmers Dairy Group. The purpose of this form is to gather essential product information such as product name, description, price, image, category, and other relevant details. To avoid duplication, it's essential to ensure that the form is filled out for each unique product.
-</thinking>
-
 # Farmers Dairy Group - Help Guide
 ## Purpose
 The Farmers Dairy Group registration form is used to collect and store product information for farmers. This information includes product name, description, category, price, and other relevant details.

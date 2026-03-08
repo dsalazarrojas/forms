@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for the Palliative Care Communication Training Registration. The form is intended for those interested in registering for the workshop, and its purpose is to gather necessary information to facilitate the workshop's organization and coordination. 
-
-Before proceeding, ensure that you are not duplicating your registration. If you have already registered for the workshop, please do not fill out this form again. 
-
-This guide will walk you through each step of the form, explaining what each section is for and how to complete it. 
-
-</thinking>
-
 # Palliative Care Communication Training Registration - Help Guide
 ## Purpose
 This form is for participants interested in registering for the Palliative Care Communication Training. It collects essential information to organize and coordinate the workshop.

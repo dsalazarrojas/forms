@@ -1,5 +1,3 @@
-<thinking>Internal review and validation are crucial to prevent duplicate submissions and to ensure that the form is being used for its intended purpose. Review the form to confirm that the "Tech User Testimonial Release Form" is being used to collect feedback and testimonials from technical users, and that the form is not being used for other purposes such as product orders or sales inquiries. Ensure that the form is being submitted correctly and that all required fields are filled out before proceeding with the submission process.</thinking>
-
 # Tech User Testimonial Release Form - Help Guide
 ## Purpose
 The "Tech User Testimonial Release Form" is a document that collects feedback and testimonials from technical users about our products or services. This form is designed to gather information about their experience and opinions, which will be used to improve our technical services and products.

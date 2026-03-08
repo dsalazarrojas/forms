@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture information from potential event sponsors, including their contact details, sponsorship terms, and any additional information they'd like to provide. The form will likely be filled by event organizers and sponsors. The goal is to create a comprehensive document that allows for easy data collection and management. 
-
-Please make sure this form is not used for duplicate submissions or for events that have already been sponsored. 
-
-Please note that the form fields might need adjustments based on specific business requirements and local laws and regulations.
-</thinking>
-
 # Event Sponsorship Authorization Form - Help Guide
 ## Purpose
 This form is used by event organizers to collect information from potential sponsors for events, including their contact details, sponsorship terms, and additional information.

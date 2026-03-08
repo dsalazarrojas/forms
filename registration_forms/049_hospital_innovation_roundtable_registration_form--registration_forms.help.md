@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Hospital Innovation Roundtable Registration Form. The purpose of this form is to gather information from attendees who wish to register for the Hospital Innovation Roundtable event. The form is designed to collect contact and event-related information from users, including their name, role, organization, and event preferences. The form is not intended for users to submit sensitive or confidential information, and it is recommended that users fill out the form carefully and accurately to ensure a smooth registration process.</thinking>
-
 # Hospital Innovation Roundtable Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees who wish to participate in the Hospital Innovation Roundtable event. Please fill out the form accurately and carefully to ensure a smooth registration process.

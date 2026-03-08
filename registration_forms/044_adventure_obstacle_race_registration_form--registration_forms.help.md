@@ -1,13 +1,3 @@
-<thinking>
-
-To create an accessible and user-friendly help guide for the Adventure Obstacle Race Registration Form, we need to consider the following factors:
-
-* The form's purpose is to gather information from participants who wish to join an adventure obstacle race. The form collects details such as participant and team information, medical conditions, emergency contact details, and payment methods.
-* To avoid duplication, the form should be clear and concise in its instructions and explanations.
-* Each field should be explained in a way that is easy to understand and follow.
-
-</thinking>
-
 # Adventure Obstacle Race Registration Form - Help Guide
 ## Purpose
 The Adventure Obstacle Race Registration Form is designed to collect information from participants who wish to join an adventure obstacle race. This form helps us get to know you better and provide an enjoyable and safe experience for everyone involved.

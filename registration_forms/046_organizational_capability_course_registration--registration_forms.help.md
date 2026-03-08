@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for registering participants in various organizational capability courses. It collects contact information, course selections, and payment details. To prevent duplication, the form includes checks for uniqueness of the participant and course selections. This guide helps users navigate the form and understand each field's purpose and requirements.
-
-The form is split into several sections, including participant information, contact information, course selection, participant agreement, and payment details. The user can choose one or multiple courses to register for. Upon selecting the courses, the form will display a participant status dropdown menu to select the participant's status. Finally, the form includes payment method and terms and conditions sections.
-
-Before proceeding, please ensure you have the correct information and approvals for the participant and courses selected.
-</thinking>
-
 # Organizational Capability Course Registration - Help Guide
 ## Purpose
 This form is designed for registering participants in various organizational capability courses.

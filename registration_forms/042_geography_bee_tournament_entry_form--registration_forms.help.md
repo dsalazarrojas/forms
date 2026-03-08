@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geography Bee Tournament Entry Form - Help Guide
 ## Purpose
 The Geography Bee Tournament Entry Form is a document used for registering participants in a geography-themed competition. This form collects necessary information from students and parents/guardians to ensure a smooth and secure competition process.

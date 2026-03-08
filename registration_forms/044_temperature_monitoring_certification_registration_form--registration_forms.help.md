@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants in temperature monitoring certification programs. It collects information about the participant, such as their name, email, phone number, and company. It also includes a dropdown menu to select the type of certification they are registering for. The form is intended to be a general-purpose registration form, and the goal is to collect basic participant information. To avoid duplication, users are encouraged to use a unique email address for their registration. If a participant has previously registered, this form can be used to update their existing registration. The form is designed to be completed in a few minutes and does not require extensive knowledge of temperature monitoring certifications.
-</thinking>
-
 # Temperature Monitoring Certification Registration Form - Help Guide
 ## Purpose
 This form is for registering participants in temperature monitoring certification programs. It is a general-purpose registration form that collects basic participant information.

@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block to confirm form purpose and non-duplication:
-
-This form is intended to register individuals for cultural responsiveness training sessions. The purpose of the form is to collect information from users, such as their name, email, phone number, session preferences, participation consent, session date, session time, session time note, and additional notes. This form is a crucial tool for trainers to organize and manage their sessions effectively.
-
-To prevent duplication, we need to ensure that the same user is not registered multiple times. This form should be used for one-time registration of users for cultural responsiveness training sessions.
-
-</thinking>
-
 # Cultural Responsiveness Training Registration - Help Guide
 ## Purpose
 This form is used to register individuals for cultural responsiveness training sessions.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect liability release and waiver information from clients, specifically in the context of COVID-19-related matters. The purpose of this form is to gather necessary contact and identification information from clients, including their name, contact details, and emergency contact information. This form is likely to be used by businesses or organizations that require clients to sign a liability release and waiver before proceeding with services or activities related to COVID-19.
-
-Before proceeding, ensure that this form is not a duplicate effort. Review the client's existing records and ensure that the information required by this form is not already available. If it is, you can skip this form. If not, proceed with caution and ensure that you are not inadvertently overwriting existing information.
-
-Please note that this form includes multiple fields for emergency contact information, which seems excessive. However, it's essential to understand the context and purpose behind this design choice. In this case, the form might be intended for clients who require multiple emergency contacts or have a complex contact structure. It's crucial to verify this with the stakeholders or the form's creator to ensure that the design aligns with the actual business needs.
-
-</thinking>
-
 # visage_client_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is designed to collect liability release and waiver information from clients, specifically in the context of COVID-19-related matters.

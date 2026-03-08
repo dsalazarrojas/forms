@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting professional membership fees from users. It is designed to gather information from users about their organization and fee payment preferences. The form will likely be used by administrators to manage and process professional membership requests. To ensure accurate and relevant data is collected, please review this guide to complete the form correctly and avoid duplication of requests.
-</thinking>
-
 # professional_membership_fee_request_form - Help Guide
 ## Purpose
 This form is for requesting professional membership fees. It is intended for users to provide details about their organization and payment preferences when requesting a membership fee.

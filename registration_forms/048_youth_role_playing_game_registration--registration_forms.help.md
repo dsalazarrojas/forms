@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure the form is clear and easy to understand for end users. This form is designed to collect information for a Youth Role Playing Game Registration. This form is used for participants in a youth role playing game, collecting information about their sessions, participant details, and any medical conditions or special needs they may have. It's essential to review the form carefully to ensure that all required fields are filled in accurately. This form is not a duplication of any other form, so there is no need to worry about data redundancy.
-
-</thinking>
-
 # Youth Role Playing Game Registration - Help Guide
 ## Purpose
 The Youth Role Playing Game Registration form is designed to collect information from participants in a youth role playing game, including their session details, medical conditions, and special needs.

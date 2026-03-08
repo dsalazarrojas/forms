@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate registration, we need to understand the purpose of this form and its intended use case. The Retail Digital Payment Summit Registration form is designed to collect information from attendees, organizers, or sponsors about their participation in the summit. This form will help us gather necessary details to manage the event smoothly. Before filling out the form, please ensure you are not already registered or participating in the summit. If you're unsure, double-check your previous responses or contact the organizers for clarification.
-</thinking>
-
 # Retail Digital Payment Summit Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from attendees, organizers, or sponsors about their participation in the Retail Digital Payment Summit. This includes details about the event, the type of participation, attendee information, and any special requirements.

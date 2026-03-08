@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "participation_waiver_and_release_form" form. The form is a waiver and release form designed to be completed by participants in a program or activity. It is used to capture information about the participant's participation and to obtain their agreement to certain terms and conditions.
-Before starting, it is essential to ensure that you are completing this form for the correct purpose and that you have not previously completed it. This will ensure that your information is accurate and up-to-date. Please take a moment to review the form carefully to understand its purpose and requirements.
-</thinking>
-
 # participation_waiver_and_release_form - Help Guide
 
 ## Purpose

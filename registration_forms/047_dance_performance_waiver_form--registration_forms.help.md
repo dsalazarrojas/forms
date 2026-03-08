@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form is used for its intended purpose: to collect waiver information from participants and their guardians for dance performance events. The form should not be used for other purposes, such as data collection or surveys. This form is designed to be a straightforward and user-friendly way to obtain necessary waiver information from participants and their guardians. Please fill out the form carefully and accurately to ensure that all relevant information is provided.
-</thinking>
-
 # Dance Performance Waiver Form - Help Guide
 ## Purpose
 The Dance Performance Waiver Form is designed to collect waiver information from participants and their guardians for dance performance events. It is an essential document that helps protect the rights and safety of both the participant and the event organizers.

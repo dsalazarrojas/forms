@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Student Academic Records Release Form - Help Guide
 ## Purpose
 The Student Academic Records Release Form is a document that enables students to grant or deny authorization to access their academic records. This form is intended for students to control who can access their records and for how long. By completing this form, students can provide or withhold access to their academic information from institutions, individuals, or entities.

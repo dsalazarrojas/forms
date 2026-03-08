@@ -1,11 +1,3 @@
-<thinking>
-
-To avoid duplication, ensure that all forms in this category are reviewed for consistency. 
-
-This form is designed to gather information about a patient's dental health history. 
-
-</thinking>
-
 # Dental Health History Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's dental health history. It is intended to help healthcare professionals understand the patient's medical and dental conditions, current medications, and medical procedures. This information is crucial for providing personalized care and treatment.

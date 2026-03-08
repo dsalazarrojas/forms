@@ -1,13 +1,3 @@
-<thinking> 
-  This form is meant to gather information from startups interested in exhibiting
-  at an exhibition. It asks for registration information, contact details, 
-  booth preferences, and extra details. This form will likely be used by
-  exhibition organizers to manage exhibitor registrations.
-  - Does this sound right?
-  - Is this form going to be reused or one-time?
-  - Are there any other forms with similar content?
-  - Does it need any adjustments?
-</thinking>
 # startup_exhibition_booth_registration_form - Help Guide
 ## Purpose
 The startup exhibition booth registration form is designed to collect information from startups interested in exhibiting at an exhibition. This form gathers necessary details to manage exhibitor registrations.

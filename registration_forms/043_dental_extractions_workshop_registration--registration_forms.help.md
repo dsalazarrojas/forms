@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for a Dental Extractions Workshop, a hands-on training session for dental professionals. The purpose of this form is to collect information from attendees, including their session preferences, contact details, and any additional notes. This form is not intended for internal use only, but also for external users who may register for the workshop. To avoid duplication, please note that only one session can be selected.
-</thinking>
-
 # Dental Extractions Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect information from attendees who wish to register for the Dental Extractions Workshop. It is used to determine which session attendees will attend and to gather their contact details for communication purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for a "Stand In And Double" scenario, where a production or service needs to be temporarily taken over by another person or entity, and then handed back over to the original operator. This form ensures that all relevant details are captured for smooth handover and handback processes.
-To avoid non-duplication, the system checks for existing registrations. If a registration already exists for the same production and double name combination, the user will be notified and asked to confirm if they want to update the existing registration or create a new one.
-</thinking>
-
 # Stand In And Double Registration Form - Help Guide
 ## Purpose
 This form is used to register a production or service for temporary takeover by another person or entity. It captures essential details for a seamless handover and handback process.

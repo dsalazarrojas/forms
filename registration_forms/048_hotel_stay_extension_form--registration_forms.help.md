@@ -1,16 +1,3 @@
-<thinking>
-To confirm hotel stay extension, we want to ensure all relevant and required fields are filled out properly.
-- The "guest_name" field is to be filled out with the guest's name.
-- The "checkin_date" field is to be filled out with the date the guest plans to check in.
-- The "checkout_date_request" field is to be filled out with the date the guest plans to check out.
-- The "reason_for_request" field is to be filled out with a clear and concise reason for the extension.
-- The "contact_number" field is to be filled out with the guest's contact number.
-- The "email" field is to be filled out with the guest's email address.
-- The "assigned_staff" field is a multi-select field where staff members can be assigned or not.
-- The "comments" field is to be filled out with any additional comments or notes regarding the extension request.
-- The "confirm" field is a confirmation of the extension request.
-</thinking>
-
 # hotel_stay_extension_form - Help Guide
 ## Purpose
 The hotel stay extension form is used for guests to request an extension to their existing hotel stay. This form is used to collect information from the guest to assess and process their request.

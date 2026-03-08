@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from employees to register for training sessions in the workforce scheduling system. This form helps employees to provide their details such as their name, training preferences, and contact information. 
 
 This form is intended for employees who want to sign up for training sessions, and it is crucial to fill in all the required fields accurately to ensure smooth processing of their registration.
