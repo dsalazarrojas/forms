@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to gather information on the nursing practices that have been evaluated in a healthcare setting. This information is crucial for identifying areas of improvement and ensuring that nursing practices are up-to-date and effective. To avoid duplication of efforts, please ensure that only one form is completed per patient.
-</thinking>
-
 # Nursing Practices Audit Form - Help Guide
 ## Purpose
 The Nursing Practices Audit Form is designed to gather information on the nursing practices that have been evaluated in a healthcare setting. This information is crucial for identifying areas of improvement and ensuring that nursing practices are up-to-date and effective.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Supervisor Evaluation Form, designed for human resources-related tasks. It seems to be used for assessing the performance of employees or staff members under supervision. The form includes fields for employee name, dates of start and end of evaluation, supervisor comments, evaluation outcome, recommended actions, assigned tools or equipment, category, and form ID/output file names. The fields suggest a structured evaluation process, likely used for tracking progress or providing feedback.
-</thinking>
-
 # Supervisor Evaluation Form - Help Guide
 ## Purpose
 The Supervisor Evaluation Form is a tool for supervisors to evaluate and provide feedback on the performance of employees or staff members under their supervision.

@@ -1,13 +1,3 @@
-<thinking>
-
-The "Paid Leave Request Form" is used to request paid leave from the company. This form is used to submit requests for paid leave for various reasons such as vacation, sick leave, bereavement, or other personal reasons. The form is typically used by employees to provide information about their leave request, including the start and end dates of the leave, the type of leave, and any other relevant details.
-
-The form is usually reviewed and approved by a designated approver within the company, who will review the request and add their comments and signature. The approver's information and signature are recorded on the form for reference.
-
-Before filling out this form, please ensure that you are requesting paid leave for a valid reason and that your request has not been previously submitted. If you are unsure, you can check with your HR department for guidance.
-
-</thinking>
-
 # Paid Leave Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a human resources manager, you're likely to use this form to gather information about an employee's inquiry or request for HR analytics consultation. This form will help you collect relevant details about the employee's needs and preferences for the consultation. To ensure accuracy and consistency, please be aware that this form will only be used for this specific purpose, and not for any other use. Before completing the form, please review the following instructions to understand how to fill it out correctly.</thinking>
-
 # HR Analytics Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's request for HR analytics consultation, including their inquiry details, analytics needs, preferred date and time, and any follow-up details.

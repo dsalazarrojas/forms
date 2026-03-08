@@ -1,10 +1,3 @@
-<thinking>
-This form, called "Patient Visit Summary Report," is designed for medical professionals to document and report on patient visits in a clear and concise manner. The form is intended to be completed by healthcare providers to gather and record information regarding a patient's medical history, complaints, vital signs, medication list, allergies, medical conditions, and more. This form is likely used in a clinical or healthcare setting to facilitate efficient and accurate patient care.
-
-Before proceeding, it is essential to ensure that the form is being used in a manner that is consistent with its intended purpose and does not duplicate efforts elsewhere in the patient's care process.
-
-</thinking>
-
 # Patient Visit Summary Report - Help Guide
 ## Purpose
 The "Patient Visit Summary Report" form is a comprehensive document used to record and report on patient visits in a clinical or healthcare setting. It serves as a tool for healthcare providers to gather and document essential information about a patient's medical history, current condition, and treatment.

@@ -1,17 +1,3 @@
-<thinking>
-The form is designed to collect information about a mobile home for inspection purposes. The form is intended to be used by inspectors to gather data about the mobile home's address, type, size, and other relevant details. This form will help inspectors to conduct thorough and accurate inspections of mobile homes. 
-
-The form should only be used for mobile homes, not traditional homes or other types of properties. The form is not intended to be used for other purposes, such as listing or buying/selling a mobile home. 
-
-The form should only be used by authorized personnel, such as inspectors or appraisers. 
-
-The form has multiple pages and sections, each with its own specific fields and questions. Each field is marked as required or optional, depending on its importance for the inspection process.
-
-The form's fields are designed to gather information in a structured and consistent manner. The fields are grouped into sections that make sense for the inspection process.
-
-The form's layout and design should be easy to navigate and complete. The form should be completed carefully and accurately to ensure that the data collected is reliable and useful.
-</thinking>
-
 # Mobile Home Inspection Form - Help Guide
 ## Purpose
 The mobile home inspection form is designed to collect information about a mobile home's address, type, size, and other relevant details to facilitate a thorough and accurate inspection process.

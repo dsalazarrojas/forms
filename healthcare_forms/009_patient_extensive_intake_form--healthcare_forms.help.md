@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for use by healthcare professionals and patients. The purpose of this form is to gather information about a patient's personal and medical history for the purpose of providing comprehensive care. It is designed to be completed by the patient or their legal representative.
-
-When completing this form, it is essential to carefully provide accurate and up-to-date information. This information will be used to create a thorough understanding of the patient's medical condition and create an effective treatment plan.
-
-Before completing this form, please review the information carefully and ensure that you provide complete and accurate responses. If you are unsure about any question or have any concerns, please reach out to your healthcare professional for guidance.
-
-</thinking>
-
 # patient_extensive_intake_form - Help Guide
 ## Purpose
 The patient_extensive_intake_form is a comprehensive form designed to gather personal and medical information from patients for the purpose of providing comprehensive care.

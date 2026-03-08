@@ -1,9 +1,3 @@
-<thinking>
-
-The Resume Questionnaire form is designed to collect detailed information about a candidate's work experience, skills, and career goals. This form will help us assess their qualifications and fit for the role. Please note that some fields are optional and are intended to provide additional context, so feel free to fill in as much or as little information as you're comfortable with. Before starting, make sure you've got all necessary documents and information readily available.
-
-</thinking>
-
 # Resume Questionnaire - Help Guide
 ## Purpose
 The Resume Questionnaire form is a tool used to gather information about your work experience, skills, and career goals for the hiring process.

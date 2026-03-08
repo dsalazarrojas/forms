@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to physician supervision agreements. The "Physician Supervision Agreement" form is intended for use in a medical setting, likely within a practice or clinic environment. It appears to be used for recording or agreeing upon supervision schedules or arrangements between physicians.
-</thinking>
-
 # Physician Supervision Agreement - Help Guide
 ## Purpose
 The Physician Supervision Agreement form is used to document the supervision arrangements between physicians, including supervision start date, frequency, and duration.

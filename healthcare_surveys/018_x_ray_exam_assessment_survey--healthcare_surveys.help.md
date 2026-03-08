@@ -1,10 +1,3 @@
-<thinking>
-The form's primary purpose is to collect patient information and physician feedback after an X Ray examination, aiming to provide a comprehensive assessment of the patient's condition and the physician's professional evaluation. This form will help gather data for patient care and treatment planning, as well as ensure that the patient's medical history and needs are accurately recorded.
-
-Before proceeding, please ensure that this form is being used appropriately and not duplicated. If you have any questions or concerns, refer to your healthcare organization's standard operating procedures or consult with a medical professional.
-
-</thinking>
-
 # X Ray Exam Assessment Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for remote work ergonomic assessment. This form is intended for employees working from home to assess their home office setup to identify potential ergonomic issues. It's essential for employees to complete this form to ensure their workspace meets the necessary ergonomic standards to prevent discomfort and injuries. Please ensure that each employee completes this form accurately and thoroughly. This form should be completed by employees only once, and there's no need to fill out this form again if they've already done so. If you're unsure about any field, consult with your supervisor or HR representative before proceeding.
-</thinking>
-
 # Remote Work Ergonomic Assessment - Help Guide
 ## Purpose
 The Remote Work Ergonomic Assessment form is designed to help employees working from home identify potential ergonomic issues in their workspace setup.

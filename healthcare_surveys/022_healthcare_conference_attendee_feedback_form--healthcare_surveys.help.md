@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of a healthcare conference. It will help us understand your experience at the conference, whether you had a positive or negative experience, and provide an opportunity for you to rate the conference on a scale from 1 to 5. This will help us improve future conferences and make them more valuable to attendees. It is not required to complete this form, but it will help us better understand your needs and preferences. Please ensure you are filling in the correct information, as any feedback will be taken into consideration. Please do not repeat this form more than once.
-</thinking>
-
 # Healthcare Conference Attendee Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of a healthcare conference. It helps us understand your experience at the conference and provide an opportunity for you to rate the conference on a scale from 1 to 5.

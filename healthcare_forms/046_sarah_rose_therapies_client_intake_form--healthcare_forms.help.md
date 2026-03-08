@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for clients to provide information to the healthcare providers at Sarah Rose Therapies. The form aims to collect general information about the client, their medical history, current medications, and emergency contacts. It's essential to be as accurate as possible when filling out this form, ensuring that the healthcare provider has a clear understanding of your needs and conditions. Please note that this form is not a substitute for a comprehensive medical evaluation. It's a preliminary step in the intake process. To avoid any confusion or misinterpretation, please review the form carefully before submitting it.
-
-</thinking>
-
 # sarah_rose_therapies_client_intake_form - Help Guide
 ## Purpose
 

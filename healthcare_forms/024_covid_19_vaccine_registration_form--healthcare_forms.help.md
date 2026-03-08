@@ -1,7 +1,3 @@
-<thinking>
-We will be designing a help guide for the COVID 19 Vaccine Registration Form. This form is intended to collect essential information from patients to ensure they can receive the COVID 19 vaccine. The form will help us verify the patient's identity, medical history, and eligibility for the vaccination. It is crucial to fill in the form accurately to facilitate the vaccination process. Please ensure that all information is up-to-date and correct to avoid any issues.
-</thinking>
-
 # COVID 19 Vaccine Registration Form - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from patients to facilitate the COVID 19 vaccination process. It is essential to complete this form accurately to ensure you can receive the vaccine.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the competencies of employees. It is intended to be used as a template for Human Resources to gather information from employees regarding their job title, years of experience, job type, education details, skills and qualifications, job references, job satisfaction, date of birth, and email. Before filling out this form, please ensure that you have not already completed this form for the same employee in the past 30 days. This form is meant to be used as a recurring process, and filling it out too frequently can lead to redundant data entry and potential errors.
-</thinking>
-
 # Employee Competency Verification Form Template - Help Guide
 ## Purpose
 The Employee Competency Verification Form Template is a tool used by Human Resources to gather information from employees regarding their job title, years of experience, job type, education details, skills and qualifications, job references, job satisfaction, date of birth, and email.

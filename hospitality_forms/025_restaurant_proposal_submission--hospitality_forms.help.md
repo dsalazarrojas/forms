@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Restaurant Proposal Submission" form, I considered the provided YAML structure and the typical expectations of users who might be filling out a restaurant proposal form. The form seems to be designed for restaurant operators or entrepreneurs to submit proposals for potential restaurants. Each field is likely related to essential details about the proposed restaurant, including its concept, business plan, contact information, chef's name, type of cuisine, seating capacity, location, and communication channels (email and phone number). The form does not appear to be redundant as it covers a range of necessary details without overlapping on obvious aspects such as restaurant operations or financials, which might be covered in other forms or sections of the proposal process. It seems to be designed for initial proposals, possibly with the intention of gathering basic information before further discussion or evaluation. Therefore, the form's purpose is likely to collect a foundation or starting point for restaurant proposals. Given the variety of fields, the form seems to aim at gathering a broad range of essential details to support the proposal.
-</thinking>
-
 # Restaurant Proposal Submission - Help Guide
 ## Purpose
 This form is designed for restaurant operators or entrepreneurs to submit proposals for new restaurant concepts. It gathers basic information about the proposed restaurant, including its concept, business plan, and essential contact details.

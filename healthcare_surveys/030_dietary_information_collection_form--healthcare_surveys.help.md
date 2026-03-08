@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect information about a patient's dietary habits and preferences. The form is intended to gather specific data about their food intake, including daily sugar, sodium, fat, fiber, and water consumption. We also want to know about their dietary preferences and restrictions. This information will be used to provide personalized nutrition advice and guidance. Please make sure to fill in all required fields accurately to ensure the best possible outcome.
-</thinking>
-
 # Dietary Information Collection Form - Help Guide
 
 ## Purpose

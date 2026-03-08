@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be used for requesting revisions to existing job descriptions. It is crucial to ensure that all required fields are filled out accurately to ensure that the request is processed correctly. Please review the form carefully before submitting it. Ensure that you are not submitting duplicate requests for the same job description revision.
-
-</thinking>
-
 # Job Description Revision Request Form - Help Guide
 ## Purpose
 This form is used to request revisions to an existing job description. It is a crucial process in maintaining accurate and up-to-date job information.

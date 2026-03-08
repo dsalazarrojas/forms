@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather patient information for the assessment of chronic pain. The form is intended for patients to report their experiences and details about their chronic pain, and the information collected will be used for medical evaluation and treatment planning. It is not intended for patients with acute pain or non-chronic pain conditions. Please note that this form is for assessment purposes only and is not for diagnostic or clinical decision-making. 
-
-To complete this form, patients will be asked to provide personal and medical information. The form will be split into multiple pages, and each page will have a brief description of the field and what information is being collected. Please review this guide to understand the purpose and requirements of each field.
-</thinking>
-
 # Chronic Pain Assessment Questionnaire Form - Help Guide
 ## Purpose
 The Chronic Pain Assessment Questionnaire Form is designed to gather patient information for the assessment of chronic pain. This form will help healthcare professionals understand the patient's experiences and details about their chronic pain, which will aid in treatment planning and evaluation.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect Team Member Data Management Consent from employees, allowing them to manage their personal data and consent to various data handling practices by the organization. 
-
-This form is a crucial tool for the human resources department to ensure that employees are aware of and consent to the handling of their data. It's essential to have a clear understanding of how this form works to facilitate accurate and compliant data management. 
-</thinking>
-
 # Team Member Data Management Consent Form - Help Guide
 ## Purpose
 This form is designed to collect Team Member Data Management Consent from employees, allowing them to manage their personal data and consent to various data handling practices by the organization.

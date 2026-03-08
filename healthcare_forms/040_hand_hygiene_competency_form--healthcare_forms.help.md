@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the hand hygiene competency of healthcare workers in various settings. Hand hygiene is a crucial aspect of maintaining a clean and safe environment for patients. This form helps healthcare workers evaluate their own hand hygiene practices and identify areas for improvement. 
-
-The goal of this form is to ensure that healthcare workers understand the essential steps involved in hand hygiene, including preparing patients, maintaining hand preparation, and practicing hand hygiene correctly. 
-
-This form is likely to be used in healthcare settings such as hospitals, clinics, and nursing homes. However, it is not specific to any particular setting or region.
-
-</thinking>
-
 # Hand Hygiene Competency Form - Help Guide
 
 ## Purpose

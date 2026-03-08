@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Discharge Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect information for the discharge process of a patient after their hospital stay. It helps healthcare providers gather necessary details to ensure a smooth transition for the patient and their families.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information for a patient undergoing surgery. The form includes fields for patient information, contact details, allergies, medical conditions, medications, medical history, surgery details, patient signature, doctor signature, and completion date and time. To determine the form's purpose, it seems to be used for pre-surgical clearance or consultation. The fields suggest a comprehensive review of the patient's health status before proceeding with surgery. The form does not appear to be designed for a specific type of surgery, but rather as a general template for any surgical procedure. Therefore, the form's purpose is likely to ensure that the patient and doctor are on the same page before the surgery, and that all necessary information is collected for a smooth and safe surgical process.
-</thinking>
-
 # Surgery Clearance Form - Help Guide
 ## Purpose
 This form is designed to be filled out by a patient before undergoing surgery. It collects essential information about the patient, including their contact details, allergies, medical conditions, medical history, and other important health-related information. This form is a crucial part of the pre-surgical clearance process, ensuring that the patient's health status is thoroughly reviewed and assessed before the operation.

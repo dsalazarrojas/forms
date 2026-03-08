@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help customers claim their holiday coupons. It collects information about the claimant, including their name, email address, and preferred shipping method. The form also helps the customer confirm their eligibility for the coupon, consent to receive marketing materials, and provide any additional notes or instructions for redemption. The form has multiple fields, including select_one and select_one for shipping options, which may be confusing. To avoid submission errors, the claimant must confirm their eligibility before submitting the form. Additionally, some fields are optional but provide additional context to the customer's order, such as promo code and additional notes. To avoid duplication of forms, please note that only one submission per claimant is accepted.</thinking>
-
 # Claim Your Holiday Coupon - Help Guide
 ## Purpose
 This form is used to collect information from customers to claim their holiday coupons, including their name, email address, and preferred shipping method.

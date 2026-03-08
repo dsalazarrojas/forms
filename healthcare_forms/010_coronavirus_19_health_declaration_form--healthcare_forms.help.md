@@ -1,10 +1,3 @@
-<thinking>
-Checking the form fields to understand its purpose and relevance.
-The form is a Coronavirus 19 Health Declaration Form, likely used for gathering information about individuals who have been exposed to or infected with COVID-19.
-The form fields are categorized into sections that cover medical organization, symptoms, exposure history, travel history, medical history, emergency contact information, and patient details.
-The form is used to collect information that helps healthcare professionals assess the risk level of exposure to COVID-19, identify potential symptoms, and gather contact information for emergency purposes.
-</thinking>
-
 # Coronavirus 19 Health Declaration Form - Help Guide
 
 ## Purpose

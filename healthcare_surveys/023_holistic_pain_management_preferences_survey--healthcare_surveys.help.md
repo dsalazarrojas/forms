@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holistic Pain Management Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's pain management preferences, including their current pain level, medical treatment, and interest in holistic therapies. This data will help us better understand individual needs and provide personalized recommendations for managing pain.

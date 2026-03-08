@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their dental records, including personal details, medical history, and contact information. The form can be used to update or transfer a patient's dental records to a new dentist or healthcare provider. The form will guide you through the process of filling out the information, and explain each field's purpose and requirements.</thinking>
-
 # dental_record_release_form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the "dental_record_release_form" which is used for updating or transferring a patient's dental records to a new dentist or healthcare provider.

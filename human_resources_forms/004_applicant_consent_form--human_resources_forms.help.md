@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain the applicant's consent for processing their personal data, including contact information, background checks, and reference checks. This form ensures that the applicant understands what data will be collected and processed and provides their explicit consent for these activities. It's essential to complete this form accurately and truthfully, as it's a crucial step in the hiring process. Ensure that you only fill out this form if you are the applicant, as it's not intended for use by third parties. If you've already filled out this form, please do not duplicate your efforts.
-</thinking>
-
 # Applicant Consent Form - Help Guide
 ## Purpose
 The Applicant Consent Form is a crucial document that helps us understand your preferences for data processing and collection. This form is used to obtain your explicit consent for various activities related to your job application, such as contact, background checks, and reference checks.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting clarification on medical reports. It is intended for patients or their representatives to submit a request for more information on a specific medical report.
-</thinking>
-
 # Medical Report Clarification Request Form - Help Guide
 ## Purpose
 This form is used to request clarification on a medical report. Please use this form to ask for additional information or clarification on a medical report.

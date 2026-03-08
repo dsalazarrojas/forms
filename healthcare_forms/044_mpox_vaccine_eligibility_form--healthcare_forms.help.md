@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding and completing the Mpox Vaccine Eligibility Form. This form is designed to gather information from users about their eligibility for the MPOX vaccine. The form is not a comprehensive medical evaluation, but rather a means to collect information that may be used to assess eligibility for the vaccine. Users should not consider this form as a substitute for professional medical advice or a medical evaluation.
-</thinking>
-
 # Mpox Vaccine Eligibility Form - Help Guide
 ## Purpose
 This form is designed to collect information about your eligibility for the MPOX vaccine. Please complete this form to help us assess your eligibility.

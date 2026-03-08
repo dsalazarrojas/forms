@@ -1,8 +1,6 @@
 >
 
-# <thinking> This form is designed to facilitate the process of releasing a hospital patient, ensuring that the patient and medical facility have a clear record of the patient's condition and treatment plan. It aims to improve communication and reduce errors during the discharge process. </thinking>
-
-# Hospital Patient Release Form - Help Guide
+# # Hospital Patient Release Form - Help Guide
 
 ## Purpose
 This form is used to document the release of a patient from a medical facility. It collects information about the patient's name, condition, and treatment details to ensure a smooth and safe transfer or discharge process.

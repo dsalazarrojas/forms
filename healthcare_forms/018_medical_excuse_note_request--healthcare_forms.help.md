@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request medical excused notes from various healthcare professionals, such as doctors or specialists. It is intended to be used by patients or their representatives to request medical notes for specific purposes, such as obtaining medical clearance, insurance claims, or other medical-related purposes. This form should only be filled out by authorized individuals, and the request should be properly validated before proceeding. Please ensure that you have the necessary permissions and authorization to fill out this form.
-</thinking>
-
 # Medical Excuse Note Request - Help Guide
 ## Purpose
 The Medical Excuse Note Request form is used to request medical notes from healthcare professionals for various purposes.

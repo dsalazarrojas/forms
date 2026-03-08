@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication, we need to ensure that the Nursing Home Application Form is only filled out once per individual. This form is for people who are looking to be admitted to a nursing home due to their own medical needs or preferences. It is not intended for emergency contacts or healthcare providers. The form will be used to gather information on the individual's personal details, medical conditions, contact information, and preferred language. We will review this form carefully to avoid duplication and ensure that the individual has been properly assessed for admission.</thinking>
-
 # Nursing Home Application Form - Help Guide
 ## Purpose
 This form is for individuals who are looking to be admitted to a nursing home due to their own medical needs or preferences. It is used to gather information on personal details, medical conditions, contact information, and preferred language.

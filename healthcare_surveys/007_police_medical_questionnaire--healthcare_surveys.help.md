@@ -1,11 +1,3 @@
-<thinking>
-This is a medical questionnaire designed for law enforcement officers, aimed at gathering information about their health, medical history, and other relevant factors. The goal is to ensure that officers have the necessary information and support for their well-being and performance on the job. 
-
-Before proceeding, please ensure that you have not filled out this form previously. If you have already completed this form, please do not duplicate the information and only update if there are significant changes.
-
-The purpose of this form is to collect personal and sensitive information about police officers, and it's essential to approach this exercise with care and respect for the individual's privacy.
-</thinking>
-
 # Police Medical Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather personal and sensitive information about police officers to ensure their well-being and performance on the job.

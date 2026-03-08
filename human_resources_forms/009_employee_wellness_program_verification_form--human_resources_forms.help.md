@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I've analyzed the provided YAML file. The form is called "Employee Wellness Program Verification Form" and is categorized under "human_resources_forms". This suggests that it is related to employee wellness programs and human resources management.
-
-The form appears to be a verification form, which implies that it is used to verify certain information about employees participating in a wellness program. The fields suggest that the form is used to collect data on employee participation, program dates, status, and other relevant details.
-
-To ensure that this form is used correctly, it is essential to prevent duplication and non-relevant submissions. Therefore, the form should be used by authorized personnel only, and each submission should be reviewed and verified before acceptance.
-
-</thinking>
-
 # Employee Wellness Program Verification Form - Help Guide
 
 ## Purpose

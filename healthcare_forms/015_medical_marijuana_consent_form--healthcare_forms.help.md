@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Marijuana Consent Form - Help Guide
 ## Purpose
 This form is used to collect information and consents from patients regarding their medical marijuana use. It is intended for medical professionals to assess the patient's eligibility for medical marijuana treatment.

@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect feedback from patients on their recent visit to a healthcare facility. The purpose of this form is to gauge the overall satisfaction of patients with their visit, allowing the facility to identify areas of improvement and make necessary changes to enhance patient care. The form is intended to be completed by patients themselves, providing a direct and honest account of their experiences. It is expected that the form will be completed in a way that is clear and concise, and that the information provided will be used to improve the quality of care and services offered by the facility.</thinking>
-
 # Client Satisfaction Survey AH - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients on their recent visit to a healthcare facility, allowing us to gauge overall satisfaction and identify areas for improvement.

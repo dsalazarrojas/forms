@@ -1,7 +1,3 @@
-<thinking>
-The "Medical Student Evaluation Form" is a crucial document that helps instructors assess the progress and performance of medical students. This form should be used by professors to evaluate the students' performance, attendance, and conduct, as well as provide recommendations for their future development. It is essential to ensure that each submission is completed carefully and accurately, to avoid duplication or miscommunication.
-</thinking>
-
 # Medical Student Evaluation Form - Help Guide
 ## Purpose
 

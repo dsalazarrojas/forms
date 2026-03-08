@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from new hires or existing employees to ensure they have the necessary knowledge and skills to perform their quality assurance roles and responsibilities effectively. This form helps to identify potential knowledge gaps and provides an opportunity for the employee to express their readiness to take on quality assurance responsibilities. The form should only be filled out once during onboarding, and it is not intended to be used for ongoing monitoring or evaluation purposes.
 
 ### Quality Assurance Onboarding Checklist - Help Guide

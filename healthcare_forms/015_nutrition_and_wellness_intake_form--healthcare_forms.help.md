@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather detailed information from patients regarding their medical history, allergies, nutrition, and wellness goals. This form is designed to be completed by patients themselves or by healthcare professionals to ensure accurate and comprehensive information about each patient. The form's fields aim to collect essential data to provide personalized care and support patient well-being. Before proceeding, please ensure that the information provided is not a duplicate and is relevant to your needs. If you have previously completed this form, it is not necessary to do so again unless there are significant changes in your circumstances....</thinking>
-
 # Nutrition And Wellness Intake Form - Help Guide
 ## Purpose
 This form is designed to gather detailed information from patients about their medical history, allergies, nutrition, and wellness goals to provide personalized care and support.

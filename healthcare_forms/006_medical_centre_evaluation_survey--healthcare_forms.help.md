@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this Medical Centre Evaluation Survey is to gather feedback from patients on their overall experience at the medical centre, including their satisfaction with their visit, the department they visited, the time of day they visited, the length of time they waited for services, and any comments or suggestions they have. This survey is intended to improve the medical centre's services and provide a better experience for patients in the future. Please note that the survey should only be filled out by patients who have actually visited the medical centre, and it's recommended that the form be filled out while the experience is still fresh in the patient's mind.
-
-</thinking>
-
 # Medical Centre Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients on their overall experience at the medical centre, including their satisfaction, visit details, and suggestions for improvement.

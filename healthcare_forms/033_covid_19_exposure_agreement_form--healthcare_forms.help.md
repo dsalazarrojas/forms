@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients or individuals who may have been exposed to COVID-19. The goal is to understand their personal details, exposure history, current health status, and agreement to follow recommended health guidelines. This form should be filled out by a patient or individual who has been exposed to COVID-19 or has concerns about their current health status.
-</thinking>
-
 # COVID 19 Exposure Agreement Form - Help Guide
 
 ## Purpose

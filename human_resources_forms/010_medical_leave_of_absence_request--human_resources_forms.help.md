@@ -1,9 +1,3 @@
-<thinking>
-
-To create a Medical Leave of Absence Request form, you need to gather information from an employee and their manager to facilitate their request for leave. This form is used to track and process employee requests for medical leave. Ensure that you only submit this form for genuine medical reasons and that you have not already submitted a form for the same reason. Please note that this form should only be used for personal medical issues and not for other types of leave such as vacation or family medical leave.
-
-</thinking>
-
 # Medical Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to provide a standardized process for employees to submit medical leave requests. This form collects employee and manager information, and is used to track and process employee requests for medical leave.

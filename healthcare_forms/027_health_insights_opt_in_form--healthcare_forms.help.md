@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their medical history, contact details, and emergency contacts. This form is intended for health professionals to gather insights into a patient's health and medical background for better patient care. 
-Before filling out this form, please ensure that you are a valid patient or authorized to fill out this form on behalf of the patient. 
-Please do not complete this form if you are not a patient or authorized to access this information.
-</thinking>
-
 # health_insights_opt_in_form - Help Guide
 ## Purpose
 The health_insights_opt_in_form is designed to collect medical information from patients to provide healthcare professionals with valuable insights into their health and medical background.

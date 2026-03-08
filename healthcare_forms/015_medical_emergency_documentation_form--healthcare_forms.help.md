@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a medical emergency situation. This information will be used to document and report the emergency. The form is designed to be completed by a healthcare professional or emergency responder who is on the scene. Please ensure that you are eligible to complete this form as it may contain sensitive information. To avoid duplicate entries, please use the following criteria to determine if this form has been completed for the same incident: If the incident has already been reported and documented, or if you are not directly involved in the emergency situation.
-</thinking>
-
 # Medical Emergency Documentation Form - Help Guide
 
 ## Purpose

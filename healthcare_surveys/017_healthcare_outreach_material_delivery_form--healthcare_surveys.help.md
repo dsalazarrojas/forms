@@ -1,11 +1,3 @@
-<thinking>
-The primary purpose of this form is to collect information about healthcare outreach materials, including patient names, material types, distribution channels, and other relevant details. This form aims to ensure that healthcare providers and materials are matched correctly and that the delivery process is efficient and well-organized. It is essential to complete this form accurately to prevent duplication of efforts and ensure that materials are distributed correctly to the intended recipients.
-
-Before filling out this form, please check if a similar form has been filled out recently to avoid duplication of efforts. If you are unsure, please contact the relevant authorities for further clarification.
-
-This form should be filled out by healthcare providers and administrators to record information about healthcare outreach materials.
-</thinking>
-
 # Healthcare Outreach Material Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information about healthcare outreach materials to ensure accurate and efficient delivery to patients.

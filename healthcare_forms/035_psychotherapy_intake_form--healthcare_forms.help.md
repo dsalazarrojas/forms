@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from patients for their psychotherapy intake process. To ensure the integrity of the intake process, we want to ensure that users understand exactly what the form is for and how to complete each field properly. This guide will walk users through each step of the process.
-</thinking>
-
 # Psychotherapy Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for psychotherapy intake purposes. It is meant to be used by patients to provide their personal and medical history, which will be used by healthcare professionals to better understand their mental health needs and provide effective treatment.

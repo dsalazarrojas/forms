@@ -1,9 +1,3 @@
-<thinking>
-
-The Independent Party Interview Evaluation form is used to assess the performance of an independent party in an interview, typically used by recruiters to evaluate candidates after an interview has taken place. This form helps to gather information on the candidate's skills, experience, and overall fit for a role. The form is usually completed by the recruiter or hiring manager who conducted the interview. 
-
-</thinking>
-
 # Independent Party Interview Evaluation - Help Guide
 ## Purpose
 The Independent Party Interview Evaluation form is used to assess the performance of an independent party in an interview, gathering information on the candidate's skills, experience, and overall fit for a role.

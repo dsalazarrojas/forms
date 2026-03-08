@@ -1,5 +1,3 @@
-<thinking>As I understand that the Employee Reference Form is used to provide information about an employee for purposes of employee references or background checks. This form should help to gather essential details about the employee, such as their name, company, and job title. To avoid duplication, it's crucial to fill this form for each employee separately, as each one's information is unique. The form fields are designed to be straightforward and easy to understand. Now, let's dive into the help guide for the user-facing form.</thinking>
-
 # Employee Reference Form - Help Guide
 ## Purpose
 The Employee Reference Form is used to collect essential information about an employee that can be used as a reference for future checks. This form helps our team to understand the employee's background, experience, and work history.

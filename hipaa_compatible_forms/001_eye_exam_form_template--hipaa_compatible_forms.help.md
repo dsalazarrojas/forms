@@ -1,7 +1,3 @@
-<thinking>
-The "Eye Exam Form Template" is designed to collect patient information for eye examination purposes, such as recording patient name, date of birth, and medical history. This form template is intended to be completed by patients or medical practitioners to gather data for eye exams. The primary goal is to streamline the data collection process and provide a structured format for examining eyes.
-</thinking>
-
 # Eye Exam Form Template - Help Guide
 ## Purpose
 The "Eye Exam Form Template" is designed to gather patient information for eye examination purposes.

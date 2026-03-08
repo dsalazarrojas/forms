@@ -1,6 +1,3 @@
-<thinking>
-The form "Form For Any Doctor" is a generic form that appears to collect information from a medical professional (doctor). The fields within this form cover a range of categories including personal details (phone and email), visit history (date of last visit), and medical status (selecting multiple options). This form seems designed for general use, possibly for insurance or medical billing purposes. However, without more specific context, it's hard to determine the exact purpose and intended use of this form. It would be beneficial to add more fields or options to make it more specific to a particular use case or industry (e.g., medical history, patient demographics, etc.)</thinking>
-
 # Form For Any Doctor - Help Guide
 ## Purpose
 The Form For Any Doctor is designed to collect various information from medical professionals. This form is likely intended for general use, possibly for insurance or medical billing purposes.

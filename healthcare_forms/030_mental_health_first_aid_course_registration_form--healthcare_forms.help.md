@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow individuals to register for a mental health first aid course. The purpose of this form is to collect information from potential attendees to ensure they have a thorough understanding of the course and to gather any necessary details for course administration. Before completing this form, please ensure you have not already registered for the course as this will be checked internally to prevent duplicate registrations.
-
-</thinking>
-
 # Mental Health First Aid Course Registration Form - Help Guide
 ## Purpose
 

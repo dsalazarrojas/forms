@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from the user for a hotel request for proposal (RFP). The purpose of this form is to collect contact details, event details, room requirements, and other relevant information to help the hotel assess the user's needs and provide an accurate quote.
-The form is divided into several sections, each focusing on a different aspect of the user's request. The user is required to provide contact details, including name, email, phone number, and message. The user must also provide event details such as date in, date out, time in, and time out. Additionally, the user must select the type of room they are interested in, the room rate, and whether they would like to include any room amenities. The user must also provide a brief description of the event and select the type, size, and frequency of the event.
-The form is a simple text-based input form, with most fields requiring the user to type in a specific piece of information. The only exceptions are the room type and event type fields, which are select one fields with a limited set of options.
-</thinking>
-
 # Hotel RFP Form Template - Help Guide
 ## Purpose
 This form is designed to gather information from the user for a hotel request for proposal (RFP). The purpose of this form is to collect contact details, event details, room requirements, and other relevant information to help the hotel assess the user's needs and provide an accurate quote.

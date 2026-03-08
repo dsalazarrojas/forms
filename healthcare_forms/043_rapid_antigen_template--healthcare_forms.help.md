@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rapid Antigen Template - Help Guide
 
 ## Purpose

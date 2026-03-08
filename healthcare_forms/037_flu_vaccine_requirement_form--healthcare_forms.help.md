@@ -1,15 +1,3 @@
-<thinking>
-The form "Flu Vaccine Requirement Form" is used to gather information from patients regarding their flu vaccine requirements. This includes details about the patient's name, date of birth, type of flu vaccine administered, healthcare provider, and more. The form is designed to be completed by the patient or their representative and is likely used for record-keeping and administrative purposes within a healthcare setting.
-
-To determine if this form is necessary, consider the following:
-
-* Is the patient seeking flu vaccine information or is this form part of an existing protocol in the healthcare setting?
-* Is the patient's healthcare provider information already available in the system?
-
-If the form is necessary, proceed with the help guide.
-
-</thinking>
-
 # Flu Vaccine Requirement Form - Help Guide
 ## Purpose
 This form is used to capture essential information from patients about their flu vaccine requirements, including the type of vaccine administered, healthcare provider, and more. Please complete this form accurately and thoroughly to ensure that your healthcare provider has the necessary information to provide optimal care.

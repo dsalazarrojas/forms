@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the support needs and awareness of homeless veterans. It is intended for individuals who interact with homeless veterans, such as social workers, healthcare providers, or support service providers. This form should only be completed by authorized personnel who are aware of the specific needs and circumstances of the veterans they serve. Please note that this form should not be filled out if you are a homeless veteran, as it is not intended for individual veterans to complete. If you are unsure whether you should complete this form, please contact your supervisor or the person who requested you to fill out this form.
-</thinking>
-
 # Homeless Veteran Support Awareness Survey - Help Guide
 ## Purpose
 This form is a tool for authorized personnel to collect data on the awareness and support needs of homeless veterans they serve. The purpose of this form is to identify the services and resources that are most effective in supporting homeless veterans.

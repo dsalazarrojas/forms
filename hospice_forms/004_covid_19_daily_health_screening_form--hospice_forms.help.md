@@ -1,12 +1,3 @@
-<thinking>
-The COVID 19 Daily Health Screening Form is used for assessing the risk of COVID-19 exposure and clearance for individuals who are interacting with the campus or organization. This form helps to quickly identify potential risks and ensure the necessary precautions are taken.
-
-To complete this form, first ensure that you have read and understood the purpose of the form. If you are unsure about the purpose or your role, please refer to your campus or organization's guidelines.
-
-This form is divided into several sections. Please complete each section carefully and answer honestly. Remember that all answers are confidential and used solely for health and safety purposes.
-
-</thinking>
-
 # COVID 19 Daily Health Screening Form - Help Guide
 
 ## Purpose

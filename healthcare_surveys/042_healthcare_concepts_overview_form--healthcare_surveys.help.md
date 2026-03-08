@@ -1,11 +1,3 @@
-<thinking>
-
-The form's purpose is to gather information about a patient's healthcare concepts, including their relationships with healthcare providers, feedback, and ratings of various aspects of their care experience. This form will help users identify areas of the healthcare system where patients feel they need more support.
-
-Before filling out this form, please make sure it's not a duplicate of an existing survey. 
-
-</thinking>
-
 # Healthcare Concepts Overview Form - Help Guide
 ## Purpose
 This form is designed to help patients share their thoughts and feelings about their healthcare concepts and experiences. It will help us identify areas where we can improve our services.

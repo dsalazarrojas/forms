@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and not duplicated for the same individual. This form is meant to collect information about the current union leader, which could be the president, secretary, treasurer, or any other union representative. 
-</thinking>
-
 # union_leader_information_form - Help Guide
 ## Purpose
 The union leader information form is used to collect data about the current union leader. This form is essential for maintaining accurate and up-to-date information about the union's key representative. Please fill out this form with the most recent and accurate information about the current union leader.

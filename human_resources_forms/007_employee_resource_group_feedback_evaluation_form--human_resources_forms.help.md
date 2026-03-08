@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate feedback from employees regarding their resource group, which is a team or department within the company. The purpose of this form is to gather input from employees on their experiences, thoughts, and opinions about their resource group. This form is likely to be used by HR or management to gather data and insights on how well the resource group is functioning.
-</thinking>
-
 # employee_resource_group_feedback_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their experiences and thoughts about their resource group. The feedback provided will help identify areas of improvement and provide valuable insights for the team and department.

@@ -1,7 +1,3 @@
-<thinking>
-The Nwspm Pc Ptsd form is designed to collect patient information, screening questions, trauma experience, symptoms, clinical findings, patient status, treatment plan, and follow-up details. This form will guide clinicians in assessing the patient's condition and providing an effective treatment plan. Before filling out this form, please ensure that the patient's data is accurate and up-to-date. It is recommended that the form be filled out in a single session to avoid information duplication.
-</thinking>
-
 # Nwspm Pc Ptsd - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from a user about their experiences with various beauty services such as hair cuts, coloring, and other treatments. This form aims to collect consent from users for these services and provide a space for notes.
-</thinking>
-
 # Easy Facials Consent Form - Help Guide
 ## Purpose
 The "Easy Facials Consent Form" is a user-facing form designed to collect information about a user's experiences with various beauty services. This form aims to gather consent from users for these services and provide a space for notes.

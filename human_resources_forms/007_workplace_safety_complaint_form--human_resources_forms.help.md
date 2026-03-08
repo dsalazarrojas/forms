@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Safety Complaint Form - Help Guide
 ## Purpose
 This form is for reporting incidents or near-miss events that occurred in the workplace. It helps our safety team to understand what happened, where it happened, and how we can prevent similar incidents in the future.

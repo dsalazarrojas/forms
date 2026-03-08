@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Disease Coaching Outcome Survey - Help Guide
 
 ## Purpose

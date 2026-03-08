@@ -1,11 +1,3 @@
-<thinking>
-
-This form template is designed for reporting incidents, injuries, or near misses that occur within an organization. Its primary purpose is to collect detailed information about an incident, its causes, and the subsequent actions taken. This template helps ensure that all relevant information about incidents is recorded accurately and consistently, facilitating thorough analysis and effective risk management.
-
-Before filling out this form, please make sure that the incident is not being reported multiple times. If you have reported the same incident previously, please do not fill out this form again. Duplicate reports can lead to confusion and hinder the incident investigation process.
-
-</thinking>
-
 # Incident Injury Reporting Form Template - Help Guide
 ## Purpose
 The incident injury reporting form template is a comprehensive document used for reporting incidents, injuries, or near misses within an organization. Its purpose is to gather detailed information about an incident, including its causes, consequences, and the subsequent actions taken.

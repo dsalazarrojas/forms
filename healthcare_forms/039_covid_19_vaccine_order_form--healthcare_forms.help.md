@@ -1,5 +1,3 @@
-<thinking>... This form is intended to gather information from facilities or organizations that need to order COVID-19 vaccines. It will help us track the number of doses needed, the type of vaccine, and the delivery requirements for each order. The form also asks for contact and facility information, which will help us verify the order and ensure that the vaccine is delivered correctly. It is a required form for any organization that needs to order COVID-19 vaccines. ...</thinking>
-
 # COVID 19 Vaccine Order Form - Help Guide
 ## Purpose
 This form is used to collect information from facilities or organizations that need to order COVID-19 vaccines. It helps us track the number of doses needed, the type of vaccine, and the delivery requirements for each order.

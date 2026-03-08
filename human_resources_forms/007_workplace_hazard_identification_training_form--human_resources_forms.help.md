@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information about workplace hazards, their identification, and the procedures for reporting and controlling them. The form likely aims to standardize the process of identifying and addressing workplace hazards, ensuring the health and safety of employees. This guide will explain the form's purpose and the steps to complete it.
-
-Before filling out this form, ensure you understand the workplace's hazard identification and reporting processes. If you're unsure, refer to your workplace's health and safety manual or consult with your safety officer.
-
-The form is composed of several fields:
-* A text field for the user to input relevant information about the workplace hazard.
-* A field for the user to identify whether they have identified a workplace hazard.
-* A field for the user to input the procedure for reporting the hazard.
-* A field for the user to input control measures to mitigate or remove the hazard.
-* A field for the user to input emergency contact information.
-* A field for the user to specify if there is a reporting procedure in place.
-* A field for the user to specify if reporting is done regularly.
-* A field for the user to specify if a person is responsible for reporting.
-* A field for the user to input the method of reporting the hazard.
-</thinking>
-
 # Workplace Hazard Identification Training Form - Help Guide
 ## Purpose
 The Workplace Hazard Identification Training Form is designed to collect information about workplace hazards, their identification, and procedures for reporting and controlling them.

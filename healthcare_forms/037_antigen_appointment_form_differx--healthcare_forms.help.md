@@ -1,8 +1,3 @@
-<thinking>
-This form is used to book a rapid antigen test appointment at the clinic. Antigen appointments are subject to availability and may be booked in advance. The form will ask for personal contact and appointment details, which are required fields. 
-Please make sure to fill it out carefully and thoroughly. Note that if you've recently been exposed to a confirmed case or are currently symptomatic, the form will ask for this information.
-</thinking>
-
 # Antigen Appointment Form Differx - Help Guide
 
 ## Purpose

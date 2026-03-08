@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback and nominations from employees for their peers who have contributed to their work. The purpose of this form is to identify employees who have gone above and beyond in their roles and to provide recognition for their efforts.
-
-Before completing this form, please ensure you are not nominating someone you have a personal relationship with, and that you are not duplicating a nomination that has already been submitted. Nomination submissions are anonymous, but they are reviewed and verified by the HR department to ensure accuracy.
-
-</thinking>
-
 # Employee Recognition Program Questionnaire - Help Guide
 
 ## Purpose

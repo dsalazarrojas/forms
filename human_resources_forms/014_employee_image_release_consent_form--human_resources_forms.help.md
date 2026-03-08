@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from employees to release their images, audio, or video recordings. The form is used to manage the consent process for HR and related teams, ensuring that employees are aware of and agree to the release of their personal media. The form is not intended to be filled out by employees in general, but rather by those who will be releasing their images, audio, or video recordings, such as HR representatives or managers.
-</thinking>
-
 # Employee Image Release Consent Form - Help Guide
 ## Purpose
 The Employee Image Release Consent Form is used to obtain consent from employees to release their images, audio, or video recordings for official purposes such as HR and communications projects.

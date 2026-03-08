@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's experiences with visual imagery, including their frequency, intensity, and impact on daily life. This form is designed to collect detailed responses from participants to help researchers better understand the characteristics and patterns of visual imagery in healthy individuals. It's essential to complete this form carefully, as the information collected will be used to inform research on the nature of visual imagination and its potential applications in various fields.
-
-To complete this form, follow the instructions below:
-
-1.  Answer each question truthfully, based on your personal experiences.
-2.  For questions with options, select the response that best describes your experiences.
-3.  For questions that ask for specific events or memories, provide detailed descriptions in the text fields.
-
-Before proceeding, ensure that you understand the following:
-
-- The questions are designed to be clear and concise.
-- You can answer "True" or "False" for questions that ask about specific events or experiences.
-- You can select one or multiple options for questions that ask about frequencies or habits.
-- Be as accurate as possible when describing your experiences.
-
-Please note that this form is meant to be completed by a single individual, and their responses should reflect their personal experiences and perceptions.
-</thinking>
-
 # Vividness Of Visual Imaginary Questionnaire (VVIQ) - Help Guide
 
 ## Purpose

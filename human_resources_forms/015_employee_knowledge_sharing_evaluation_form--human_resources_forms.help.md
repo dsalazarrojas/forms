@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Knowledge Sharing Evaluation Form - Help Guide
 ## Purpose
 The Employee Knowledge Sharing Evaluation Form is used to assess an employee's knowledge sharing behavior in the company. This form helps to evaluate how well an employee has shared their knowledge, ideas, and expertise with their colleagues, and what can be improved to encourage more sharing. The form is used to provide feedback and guidance to employees on their knowledge sharing practices, helping them to become better contributors to the team.

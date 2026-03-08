@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I will analyze the form's purpose and fields.</thinking>
-
 # Employee Time Off Request Form - Help Guide
 
 ## Purpose

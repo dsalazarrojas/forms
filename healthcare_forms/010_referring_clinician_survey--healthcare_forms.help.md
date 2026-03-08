@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from referring clinicians for patients who are being referred to a medical facility. The purpose of this form is to gather essential details from the referring clinician to facilitate efficient communication and treatment planning. It is intended for use by healthcare professionals, and it should only be completed by the referring clinician who has direct knowledge of the patient's medical history and status.
-
-Before proceeding, please verify that you have not completed this form for this specific patient previously. If you are unsure, please double-check the patient's information and contact the relevant healthcare team.
-</thinking>
-
 # Referring clinician survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from referring clinicians for patients being referred to a medical facility.

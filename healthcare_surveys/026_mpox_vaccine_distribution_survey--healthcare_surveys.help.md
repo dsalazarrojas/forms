@@ -1,8 +1,3 @@
-<thinking>
-This form is part of the healthcare_surveys category and titled "Mpox Vaccine Distribution Survey". The purpose of this form is to collect information about the distribution of Mpox vaccine to recipients, which likely involves tracking vaccine doses administered, distribution dates, locations, and other relevant details. This form is likely used for healthcare professionals or administrators to record and analyze data related to vaccine distribution. Before completing this form, ensure that you are authorized to access and complete it, and that you are not duplicating any information already collected.
-
-</thinking>
-
 # Mpox Vaccine Distribution Survey - Help Guide
 ## Purpose
 The Mpox Vaccine Distribution Survey is designed to collect information about the distribution of Mpox vaccine to recipients. This form will help healthcare professionals and administrators track vaccine doses, distribution dates, locations, and other relevant details.

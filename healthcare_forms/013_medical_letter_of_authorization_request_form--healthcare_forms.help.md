@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Letter Of Authorization Request Form - Help Guide
 ## Purpose
 This form is used to request medical treatment authorization from a doctor. It is intended to be filled out by a patient and signed by their doctor, providing necessary information for medical treatment authorization processing.

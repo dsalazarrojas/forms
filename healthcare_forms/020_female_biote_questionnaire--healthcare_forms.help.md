@@ -1,7 +1,3 @@
-<thinking>
-This form is a general Female BioTe questionnaire aimed at gathering information about a female patient's demographic details, contact information, medical history, medications, and health status. The form is not designed to be used for any specific medical diagnosis or treatment, but rather to collect data that can be used for research or statistical purposes. Please ensure you are completing this form honestly and accurately, as it will be used for statistical purposes only.
-</thinking>
-
 # Female BioTe Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect demographic and health-related information from female patients. Please complete the form accurately and honestly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sick Leave Cash Out Request - Help Guide
 ## Purpose
 This form is for requesting a sick leave cash out, which allows employees to receive pay for accrued sick leave hours. The form is typically submitted to the HR department, but in some cases may also be submitted to a manager. The goal of this form is to provide detailed information about the employee's request, including their contact information and the department and branch they belong to.

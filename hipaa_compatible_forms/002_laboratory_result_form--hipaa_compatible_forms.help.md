@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for laboratory professionals to document and report laboratory results in a standardized and accurate manner. The purpose of this form is to ensure that laboratory results are correctly attributed to patients and lab orders, and are easily accessible for medical staff to review and act upon. To avoid errors, the form is designed to be completed with accurate and complete information. It is not intended for non-laboratory professionals to use.
-</thinking>
-
 # Laboratory Result Form - Help Guide
 ## Purpose
 This form is used by laboratory staff to document and report laboratory results for patients. It ensures that results are accurately attributed to patients and lab orders, and are easily accessible for medical staff to review and act upon.

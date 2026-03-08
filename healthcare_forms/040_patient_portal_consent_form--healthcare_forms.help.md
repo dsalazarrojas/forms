@@ -1,7 +1,3 @@
-<thinking>
-The patient portal consent form is a crucial document that enables healthcare providers and insurance companies to access a patient's personal and medical information. This form is typically used in conjunction with electronic health records (EHRs) systems. Its purpose is to obtain patients' consents for sharing their information with healthcare providers and/or insurance companies. The form is usually completed by the patient or their authorized representative. It's essential to understand that the form's content and layout may vary depending on the specific healthcare organization or practice.
-</thinking>
-
 # Patient Portal Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for sharing their personal and medical information with healthcare providers and/or insurance companies. It's essential to complete this form accurately and truthfully to ensure that your medical information is shared correctly.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from guests about their accommodation preferences, including their contact details, booking preferences, and accommodation details. It is meant to be used by staff members to process guest requests and provide accurate and efficient service. This form is not meant to be used for general contact or inquiry purposes.
-The purpose of this form is to gather relevant information from guests to facilitate smooth interactions between guests and staff.
-To avoid duplication, please fill out this form only if you are a guest seeking accommodation.
-</thinking>
-
 # Hostel Accommodation Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests about their accommodation preferences, including their contact details, booking preferences, and accommodation details.

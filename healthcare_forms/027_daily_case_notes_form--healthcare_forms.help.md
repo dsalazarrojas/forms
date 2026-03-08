@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # daily_case_notes_form - Help Guide
 ## Purpose
 The daily case notes form is designed to document essential information about each patient's visit, including session notes, case manager involvement, client name, dates of visit, and follow-up plans. This form helps healthcare professionals gather and record crucial details to ensure comprehensive patient care and continuity.

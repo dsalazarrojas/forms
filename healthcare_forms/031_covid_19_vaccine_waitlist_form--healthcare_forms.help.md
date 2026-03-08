@@ -1,5 +1,3 @@
-<thinking>...The COVID-19 Vaccine Waitlist Form is used to collect information from individuals interested in receiving the COVID-19 vaccine. This form helps to assess the individual's priority status for vaccination and gather necessary contact information for follow-up. By filling out this form, individuals can provide their name, address, contact details, and other relevant health information that will help healthcare professionals prioritize and manage vaccine distribution...</thinking>
-
 # COVID 19 Vaccine Waitlist Form - Help Guide
 ## Purpose
 The COVID-19 Vaccine Waitlist Form is a tool used to collect information from individuals interested in receiving the COVID-19 vaccine. This form helps to:

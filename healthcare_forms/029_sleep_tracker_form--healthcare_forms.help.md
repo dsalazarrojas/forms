@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "sleep_tracker_form" form, we need to first understand the form's purpose and the reasoning behind its design. The form is likely used to track users' sleep patterns, quality, duration, and frequency, possibly for personal or professional use in the healthcare industry. However, without more information about the specific use case or business logic, we can only assume that the form is designed to collect data about users' sleep habits. The form has multiple fields, including text inputs for "Sleep Patterns", "Sleep Quality", "Sleep Duration", "Wake Time", and "Sleep Time", and select options for "Sleep Frequency" and "Sleep Frequency Options". 
-
-We will assume that the form is designed to collect data about users' sleep habits and provide guidance on completing the form accordingly. This form may be used for tracking sleep patterns, quality, and frequency for people who need to monitor their sleep.
-
-</thinking>
-
 # sleep_tracker_form - Help Guide
 ## Purpose
 The sleep_tracker_form is designed to help users track their sleep habits. This form collects information about users' sleep patterns, quality, and frequency to help monitor and improve sleep.

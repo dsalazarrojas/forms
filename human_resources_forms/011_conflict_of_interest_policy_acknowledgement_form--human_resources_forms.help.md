@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I checked the provided YAML fields and ensured that the form is for an "Conflict Of Interest Policy Acknowledgement Form". This form is likely used to gather information about an employee's understanding and agreement with the company's conflict of interest policy. The form collects various details such as employee identification, department, and job title, as well as their acknowledgement of the policy, understanding of its requirements, and agreement to comply with it. The form also includes sections for training and annual disclosures. I will create a clear and concise help guide based on this information.</thinking>
-
 # Conflict Of Interest Policy Acknowledgement Form - Help Guide
 
 ## Purpose

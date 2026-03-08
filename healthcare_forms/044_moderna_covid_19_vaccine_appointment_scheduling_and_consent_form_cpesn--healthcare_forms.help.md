@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect patient information and consent for COVID-19 vaccination scheduling. The purpose of this form is to gather details about the patient's appointment, personal information, and vaccination details, as well as their insurance and health status. This form likely serves as an intake process for healthcare providers to prepare for patient appointments and ensure they have all necessary information for treatment. The form's structure seems comprehensive, covering various aspects of patient information and consent.
-</thinking>
-
 # Moderna COVID 19 Vaccine Appointment Scheduling And Consent Form CPESN - Help Guide
 ## Purpose
 This form is designed to collect patient information and consent for COVID-19 vaccination scheduling.

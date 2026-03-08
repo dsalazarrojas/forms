@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Publication Leave Of Absence Request - Help Guide
 
 ## Purpose

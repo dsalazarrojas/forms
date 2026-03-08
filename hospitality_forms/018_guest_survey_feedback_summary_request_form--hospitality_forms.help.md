@@ -1,8 +1,3 @@
-<thinking>
-# Purpose
-This form is used to collect guest survey feedback and summary requests. It is designed to help us gather information about your stay and identify areas for improvement. Please note that you will only be able to submit a single summary request per guest visit date. If you have already submitted a request for the same date, please do not resubmit.
-</thinking>
-
 # Guest Survey Feedback Summary Request Form - Help Guide
 ## Purpose
 This form is used to collect guest survey feedback and summary requests.

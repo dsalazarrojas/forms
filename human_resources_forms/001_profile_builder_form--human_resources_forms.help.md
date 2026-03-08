@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Profile Builder Form" for HR purposes, ensuring they provide accurate and complete information about their profile. This form is not intended for multiple submissions, so please fill it out once and carefully. The form fields are designed to collect essential details about the user's contact information, work experience, and skills, which are crucial for profile completion. The purpose of this guide is to help users understand each field's relevance and requirements to avoid any confusion or errors during the submission process.
-</thinking>
-
 # Profile Builder Form - Help Guide
 ## Purpose
 The Profile Builder Form is designed to collect information about your profile, ensuring that your HR profile is up-to-date and accurate. This form is used to gather essential details about your contact information, work experience, and skills, which are vital for profile completion.

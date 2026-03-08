@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect general information about a patient, their medical history, and their rehabilitation plan. This form is designed for healthcare professionals to assess a patient's physical rehabilitation needs and create a personalized plan for their recovery. The form should only be completed by patients who are undergoing or have undergone a physical rehabilitation program.
-Please ensure that each patient's information is collected only once. If you have previously completed this form for this patient, please do not complete it again. If you have any questions or concerns, contact the healthcare team for assistance.
-</thinking>
-
 # Physical Rehabilitation Center Assessment Form - Help Guide
 ## Purpose
 This form is used by healthcare professionals to assess a patient's physical rehabilitation needs and create a personalized plan for their recovery.

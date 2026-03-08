@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and data from users about their interaction with a hospitality AI chatbot. The form will help us better understand user behavior and preferences when interacting with the chatbot, which will ultimately improve the chatbot's performance and user experience.
-
-The form will be used to collect data on various aspects of the interaction, including:
-
-* User demographics (gender, language)
-* Interaction details (phone number, email address)
-* Interaction preferences (time of day, date of interaction)
-* Chatbot performance (rating, chatbot name, chatbot version)
-* Hotel information (hotel ID)
-* Department and location information (department name, user location)
-
-The purpose of this form is to gather accurate and detailed information from users to help us improve the chatbot's functionality and user experience.
-
-</thinking>
-
 # Hospitality AI Chatbot Survey - Help Guide
 
 ## Purpose

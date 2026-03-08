@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Proxy Consent Form - Help Guide
 ## Purpose
 The Health Proxy Consent Form is a document that grants permission to a designated healthcare professional to act on behalf of a patient in medical situations. This form is used to establish a legal agreement between the patient and their chosen proxy, ensuring that the healthcare provider can make decisions and take actions on behalf of the patient as per their wishes.

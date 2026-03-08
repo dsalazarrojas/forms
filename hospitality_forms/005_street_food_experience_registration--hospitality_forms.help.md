@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture the experience of street food consumers, including their name, contact information, and preferences. It's likely used for marketing, feedback, or research purposes. To avoid duplication, ensure you've filled out this form previously and are not a robot. Please fill in the form accurately and honestly.
-</thinking>
-
 # Street Food Experience Registration - Help Guide
 ## Purpose
 This form is designed to gather information about your street food experience. Please take a few minutes to fill it out accurately and honestly. The data will be used for marketing, feedback, or research purposes.

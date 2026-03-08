@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a job posting subscription requisition to the management team for review and approval. The form is used to ensure that all necessary information is captured and communicated effectively to the team. Before filling out this form, please ensure that you have reviewed the job posting guidelines and that the job posting is complete and accurate. This form should not be used to resubmit a job posting that has already been submitted and approved.
-</thinking>
-
 # Job Posting Subscription Requisition Form - Help Guide
 ## Purpose
 This form is used to submit a job posting subscription requisition to the management team for review and approval.

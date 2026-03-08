@@ -1,7 +1,3 @@
-<thinking>Here's a brief internal note about the form:
-
-This form is used for employee workers to claim for compensation due to work-related injuries or accidents. Before proceeding, it's essential to ensure that the form is filled out correctly and accurately to avoid any potential issues or duplication of efforts. It's also crucial to note that this form is for employees, not supervisors or employers, so please ensure that only authorized personnel fill this form out. Before starting, review the fields for clarity and relevance.</thinking>
-
 # Worker Compensation Claim Form - Help Guide
 ## Purpose
 The Worker Compensation Claim Form is a document used to report and claim for compensation due to work-related injuries or accidents.

@@ -1,10 +1,3 @@
-<thinking>
-The "required_screening_questions" form is designed to collect essential information from patients or individuals to facilitate a comprehensive health screening process. This form is typically used in healthcare settings to gather critical data that helps medical professionals assess a patient's health status and provide personalized care. The information collected in this form may be used to identify potential risks, monitor health trends, and inform treatment decisions.
-
-To ensure the integrity and accuracy of the data collected, it's essential to review and validate each field before submitting the form. This form is not intended for patients who have already undergone a health screening or have a known medical condition. Please fill out the form only if you are a new patient or if your medical situation has changed since your last screening.
-
-</thinking>
-
 # required_screening_questions - Help Guide
 ## Purpose
 The purpose of this form is to collect essential health information from patients to facilitate a comprehensive health screening process.

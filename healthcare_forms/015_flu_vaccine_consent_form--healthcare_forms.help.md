@@ -1,7 +1,3 @@
-<thinking>
-To be used in the context of flu vaccination, this form captures essential information about the patient's consent status, vaccine type, and other relevant details. It is crucial for medical professionals to have a clear and accurate record of patient consents. This form aims to standardize the collection of patient information and consent statuses for flu vaccination, reducing potential errors and inconsistencies. It should only be used for flu vaccine administration purposes. Please check for any updates or changes before using this form, ensuring it meets your institution's specific needs and regulations. 
-</thinking>
-
 # Flu Vaccine Consent Form - Help Guide
 ## Purpose
 The Flu Vaccine Consent Form is a document used to obtain and record patients' consents for flu vaccination. It captures essential information about the patient's status, vaccine type, and other relevant details.

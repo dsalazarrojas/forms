@@ -1,5 +1,3 @@
-<thinking>Form purpose is to gather information on patients' medical conditions, pain management, and social support needs. This form is used to assess the palliative care program's appropriateness and effectiveness for the patient. The form asks end-users to select multiple options for certain questions, indicating that patients may have multiple conditions or needs. For example, a patient may have both Heart failure and Lung disease. Form fields are designed to collect relevant information, but some fields are optional, so end-users should only fill out what's applicable to the patient's situation. This form should only be filled out for patients who are already enrolled in the palliative care program or are being evaluated for admission.</thinking>
-
 # palliative-care-program-assessment-form - Help Guide
 ## Purpose
 This form is used to assess the palliative care program's appropriateness and effectiveness for the patient. It collects information on patients' medical conditions, pain management, and social support needs.

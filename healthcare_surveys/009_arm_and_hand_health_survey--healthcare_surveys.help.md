@@ -1,14 +1,3 @@
-<thinking> 
-This help guide is intended to assist users in understanding the purpose and functionality of the "Arm and Hand Health Survey" form, which is used to collect information on the health status of patients. The form is used to gather data on symptoms, medical history, and functional impact of arm or hand issues. This guide will help users navigate each section of the form and understand what information is required.
-
-Please note that the purpose of this form is to collect information on arm and hand health, and it is not a diagnostic tool. Users should only complete this form with the permission of the patient.
-
-If you have previously completed this form, please do not repeat your input. However, if you need to update your existing input, you can do so by providing new data in the required fields.
-
-Also, note that while some fields are not required, they are still optional and may provide valuable information for further analysis.
-
-This form is part of the "healthcare_surveys" category.</thinking>
-
 # Arm And Hand Health Survey - Help Guide
 ## Purpose
 The Arm and Hand Health Survey is a form used to collect information on the health status of patients with arm or hand issues. This form is designed to gather data on symptoms, medical history, and functional impact of these issues.

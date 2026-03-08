@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Referral Request Form - Help Guide
 
 ## Purpose

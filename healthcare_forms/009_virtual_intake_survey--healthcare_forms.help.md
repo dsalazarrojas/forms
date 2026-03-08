@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Intake Survey - Help Guide
 
 ## Purpose

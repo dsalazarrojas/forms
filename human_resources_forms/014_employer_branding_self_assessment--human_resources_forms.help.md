@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees who want to provide their thoughts and opinions about the company's employer branding. The Employer Branding Self-Assessment form is not meant to be a comprehensive evaluation, but rather a starting point for internal discussions and improvements. It should not be used to create a formal, official report or document. This form is meant to help the company's internal teams gather insights from employees and understand their perspectives on the employer brand.
-</thinking>
-
 # Employer Branding Self-Assessment - Help Guide
 ## Purpose
 The Employer Branding Self-Assessment form is a tool for employees to provide their opinions and thoughts about the company's employer brand. The form is designed to help internal teams understand employee perceptions and gather insights for potential improvements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # X Ray Refusal Form - Help Guide
 
 ## Purpose

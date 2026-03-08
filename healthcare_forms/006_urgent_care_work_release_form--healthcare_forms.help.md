@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to facilitate the process of work release for patients visiting urgent care centers. The purpose of this form is to gather essential information from both the patient and their employer to streamline the work release process. This form is typically completed by patients who require time off from work due to urgent care visits. The form fields are designed to collect the necessary details from the patient and their employer to ensure a smooth and efficient work release process.
-</thinking>
-
 # Urgent Care Work Release Form - Help Guide
 ## Purpose
 The Urgent Care Work Release Form is a document used to facilitate the process of work release for patients visiting urgent care centers. It collects information from both the patient and their employer to provide an efficient and smooth work release process.

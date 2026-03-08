@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and medical information from patients or individuals for healthcare-related purposes. The form appears to be a standard registration or intake form, and its fields are likely used to create a profile or record for a patient. I do not have information about the specific context or organization that would allow me to confirm this assumption. However, based on the fields included, I will provide a general help guide for end-users.
-</thinking>
-
 # nicole_pass_1 - Help Guide
 ## Purpose
 The **nicole_pass_1** form is used to collect personal and medical information from patients or individuals for healthcare-related purposes.

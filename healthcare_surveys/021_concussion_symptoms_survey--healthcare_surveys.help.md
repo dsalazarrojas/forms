@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concussion Symptoms Survey - Help Guide
 ## Purpose
 This form is used to gather information about a patient's symptoms after a concussion. It's essential to complete this form accurately to help healthcare professionals assess the severity of the symptoms and provide proper care.

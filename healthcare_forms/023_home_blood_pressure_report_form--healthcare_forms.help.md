@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for healthcare professionals to record patient information regarding their home blood pressure readings. This form likely aims to collect data on patient's vital signs such as blood pressure, heart rate, date and time of measurement, and other related information. Before proceeding, verify that this form is not already created elsewhere in the system and that there are no existing forms with overlapping purposes to avoid duplication of work.
-</thinking>
-
 # Home Blood Pressure Report Form - Help Guide
 ## Purpose
 The Home Blood Pressure Report Form is designed to collect data from patients regarding their home blood pressure measurements. This form helps healthcare professionals track and record vital signs, enabling them to monitor patients' conditions and provide accurate medical care.

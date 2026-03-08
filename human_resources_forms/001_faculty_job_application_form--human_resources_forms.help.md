@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for faculty job applications, allowing applicants to provide information about themselves and their qualifications. The form likely serves as a tool for academic institutions to gather data on potential candidates. It's essential to ensure that the form is completed accurately and thoroughly to increase the chances of a successful application. To avoid duplication of effort, it's recommended that applicants review the form carefully before submitting it. 
-</thinking>
-
 # faculty_job_application_form - Help Guide
 ## Purpose
 This form is intended for faculty job applications, collecting essential information about the applicant's identity, qualifications, and experiences.

@@ -1,10 +1,4 @@
-> <thinking>
-This form is a Home Health Aide Skills Checklist, which is used to assess the skills and abilities of home health aides in the field of healthcare. The purpose of this form is to ensure that home health aides have the necessary skills and knowledge to provide quality care to patients in their homes. 
-We are using this form to gather information about the home health aide's skills and abilities, and it is not intended to be used for other purposes. 
-Please make sure to complete the form accurately and honestly, as the information will be used to evaluate the aide's suitability for providing care. 
-</thinking>
-
-# Home Health Aide Skills Checklist - Help Guide
+> # Home Health Aide Skills Checklist - Help Guide
 ## Purpose
 The Home Health Aide Skills Checklist is used to assess the skills and abilities of home health aides in the field of healthcare.
 

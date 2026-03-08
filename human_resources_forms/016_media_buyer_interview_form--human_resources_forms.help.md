@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from media buyers about their experiences and preferences. This form is designed to be used in an interview setting to collect data on the buyer's background, skills, and expectations from a media buying platform. The form consists of 12 pages, each with its own set of questions and fields. The form's design and questions are intended to be flexible and adaptable to different use cases, allowing for a comprehensive understanding of the media buyer's profile.
-
-Before proceeding, we'll review the form's structure and ensure that it's suitable for its intended purpose. This form seems to be a general template and may require adjustments to be specifically tailored for actual use in an interview setting.
-
-This form is intended for use by media professionals, possibly in a recruitment or research context. Each page appears to be a simple note page, which is unusual for a form designed for collecting detailed information from individuals. This form is likely intended for a quick snapshot of information or for a specific, narrow purpose. However, without further context, it's difficult to determine its exact use case.</thinking>
-
 # Media Buyer Interview Form - Help Guide
 ## Purpose
 The Media Buyer Interview Form is designed to gather information from media buyers about their experiences and preferences in the media buying process. This form is intended for use in an interview setting to collect detailed and structured data from media professionals.

@@ -1,5 +1,3 @@
-<thinking>...this form is used to request a pay grade evaluation for a specific employee, allowing managers and HR personnel to assess and update the employee's compensation grade based on their performance and job responsibilities. The form is designed to be completed by employees, but it may also be used by managers or HR representatives to initiate the evaluation process.</thinking>
-
 # Pay Grade Evaluation Request Form - Help Guide
 
 ## Purpose

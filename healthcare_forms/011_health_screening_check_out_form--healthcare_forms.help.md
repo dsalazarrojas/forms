@@ -1,17 +1,3 @@
-<thinking>
-The purpose of the Health Screening Check Out Form is to collect information from patients as they are discharged from the hospital. This form is used to ensure that the patient's contact information is up-to-date and that they have a smooth transition out of the hospital. The form is intended to be completed by the patient or their representative, and it's not a form for medical staff to fill out.
-
-The form will be used to gather data on the following:
-- Patient's name
-- Date of discharge
-- Patient's phone number
-- Patient's email
-- Address
-
-The form will not be used for medical diagnosis, treatment, or billing purposes.
-
-</thinking>
-
 # Health Screening Check Out Form - Help Guide
 ## Purpose
 The Health Screening Check Out Form is used to collect patient contact information and ensure a smooth transition out of the hospital.

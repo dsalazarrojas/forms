@@ -1,7 +1,3 @@
-<thinking>
-The Annual Manager Self Evaluation Form is designed to help managers evaluate their performance and provide feedback on areas of strength and improvement. This form is used by management to assess their performance in key areas such as leadership, communication, problem-solving, and budget management. The form is usually filled out once a year and is used for internal evaluation and development purposes. To ensure consistency and fairness, please fill out this form honestly and thoroughly, providing specific examples and supporting details wherever possible.
-</thinking>
-
 # Annual Manager Self Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate your performance as a manager and identify areas of strength and improvement. It will help you reflect on your achievements, skills, and challenges faced during the year, and set goals for the next year.

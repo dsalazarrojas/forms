@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the usability of a health informatics system. It assesses various aspects of the system's user interface, navigation, and overall user experience. The form includes questions about the clarity and ease of use of different features, such as navigation menus and search bars, as well as the speed and responsiveness of the system's components. The purpose of this form is to collect feedback from users about their experience with the health informatics system, which will help developers identify areas for improvement and make the system more user-friendly.
-
-Form submission will help to:
-
-* Identify areas of the system where users experience difficulties or confusion
-* Gather feedback on the speed and responsiveness of the system's components
-* Evaluate the overall usability of the system
-
-</thinking>
-
 # health_informatics_system_usability_evaluation_form - Help Guide
 
 ## Purpose

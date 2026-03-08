@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to verify health benefits coverage information. The form will help ensure that health benefits information is accurate and up-to-date, and it will help identify any gaps or discrepancies in coverage. This form should only be filled out by authorized personnel. Please do not submit this form if you are not authorized to do so.
-
-</thinking>
-
 # health_benefits_coverage_verification_form - Help Guide
 ## Purpose
 This form is designed to gather and verify health benefits coverage information from various sources. This information is crucial for ensuring accurate coverage, identifying potential gaps, and making informed decisions about healthcare benefits.

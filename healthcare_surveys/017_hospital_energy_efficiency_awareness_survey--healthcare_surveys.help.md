@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the level of awareness and understanding of hospital staff regarding energy efficiency measures in the hospital, which is crucial for identifying areas where staff could use improvement. This form is designed for staff members to provide their insights on their current understanding and implementation status of energy efficiency measures. This will help in identifying knowledge gaps and areas where staff requires support.
-</thinking>
-
 # Hospital Energy Efficiency Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gauge the awareness and understanding of hospital staff regarding energy efficiency measures. It will help in identifying areas where staff requires improvement and support.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Education Platform Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients on the effectiveness and usability of our patient education platform. Your input will help us improve the platform and provide better services to patients in the future.

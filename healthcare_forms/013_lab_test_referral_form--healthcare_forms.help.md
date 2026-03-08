@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to create a referral for laboratory tests. The goal is to provide a simple and efficient way for patients to request and schedule lab tests. The referral form is designed to be completed by patients or medical staff, and it will likely be used in conjunction with other healthcare systems and processes.
-
-To confirm relevance and non-duplication, let's assume this form will be used in a healthcare setting where medical professionals need to refer patients to lab tests, such as blood draws, imaging studies, or other clinical lab tests. This form will likely be completed before a patient is scheduled for a lab test, and it will help streamline the process by providing essential information for lab technicians and other medical staff.
-
-This guide will cover the form's purpose, how to complete it, and a field-by-field explanation to help users understand each section. Please review the guide to ensure you're using the form correctly and provide feedback if you have any questions or concerns.
-</thinking>
-
 # Lab Test Referral Form - Help Guide
 ## Purpose
 

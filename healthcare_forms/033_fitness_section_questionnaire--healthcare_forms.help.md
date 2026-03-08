@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's health habits and lifestyle, including their physical activity level, diet, sleep habits, medical conditions, and medical history. This data can be used to assess their overall health and wellness, as well as identify potential risks or areas for improvement.
-
-To ensure that the collected data is accurate and relevant, this form should only be used for individuals who are willing to provide honest and detailed information about their health habits and medical history. To prevent duplication of effort, it is recommended that only one form be completed per individual.
-
-</thinking>
-
 # Fitness Section Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your health habits and lifestyle.

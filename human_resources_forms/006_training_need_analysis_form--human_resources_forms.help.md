@@ -1,11 +1,3 @@
-<thinking>
-This form is used to analyze training needs for employees, managers, and other stakeholders within the organization. The purpose of this form is to identify areas where training is necessary to ensure that employees have the necessary skills and knowledge to perform their job duties effectively. By providing detailed insights into training needs, this form helps the training and development team to plan and deliver targeted training programs that meet the specific needs of the organization.
-
-Before completing this form, please make sure to review the training needs of your team members, managers, and stakeholders, and ensure that you are not duplicating effort. This form should only be completed by authorized personnel.
-
-Please note that this form is divided into multiple pages for ease of use. Each page is a continuation of the previous one, and you should complete each page sequentially.
-</thinking>
-
 # Training Need Analysis Form - Help Guide
 ## Purpose
 The purpose of this form is to analyze training needs for employees, managers, and other stakeholders within the organization.

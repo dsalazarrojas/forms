@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # onboarding_signature_collection - Help Guide
 ## Purpose
 This form is used to collect essential information from new hires as part of the onboarding process. It helps HR teams gather necessary details for employee onboarding, including job titles, hire dates, and policy acknowledgments. 

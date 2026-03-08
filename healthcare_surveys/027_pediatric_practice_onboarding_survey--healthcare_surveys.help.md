@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from pediatric healthcare providers who are new to the practice. The primary goal of this form is to collect the necessary details of new patients, their parents, emergency contacts, and consent information. The form will help the onboarding process by providing a structured way to collect the required information, ensuring that all relevant details are captured accurately and efficiently. 
-
-Before completing this form, please ensure that you are not already a registered user in this practice. If you are a registered user, there is no need to submit this form again.
-
-Please note that this form does not store any data, it is meant to serve as an example for demonstration purposes only. Real-world use should be adapted from this form with actual backend integrations.
-</thinking>
-
 # Pediatric Practice Onboarding Survey - Help Guide
 ## Purpose
 The Pediatric Practice Onboarding Survey is designed to gather essential information from new patients, their parents, and emergency contacts to facilitate a smooth onboarding process in a pediatric healthcare setting.

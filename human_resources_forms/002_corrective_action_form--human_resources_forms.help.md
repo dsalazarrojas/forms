@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corrective Action Form - Help Guide
 ## Purpose
 The Corrective Action Form is used to document and track corrective actions taken in response to issues or incidents that have occurred in the workplace. This form helps ensure that all necessary steps are taken to address the issue, and that the outcome and next steps are properly documented and communicated to relevant parties.

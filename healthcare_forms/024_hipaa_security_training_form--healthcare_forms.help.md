@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users who need to complete the HIPAA Security Training Form for the organization. This form is part of the organization's HIPAA security training program, designed to record employee participation in mandatory training sessions. It helps maintain accurate records of employee training completion, including dates of training, topics covered, and supervisor signatures. Before completing this form, ensure you have all the necessary information and approvals.
-</thinking>
-
 # HIPAA Security Training Form - Help Guide
 ## Purpose
 

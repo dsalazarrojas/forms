@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather employee non-solicitation agreement information from employees. This form is likely used by HR or management to ensure employees understand their obligations and responsibilities when it comes to non-solicitation, which is a crucial aspect of employment law. Before creating this form, ensure that it aligns with your company's specific policies and procedures.
-
-To confirm, I will not be duplicating or copying content from other platforms or forms. This form will be a unique adaptation of the provided metadata.
-</thinking>
-
 # Employee Non Solicitation Agreement - Help Guide
 ## Purpose
 The purpose of this form is to obtain an employee's acknowledgment of their understanding and agreement to the non-solicitation terms and conditions of their employment. This form is essential for HR or management to ensure employees comprehend their obligations and limitations when it comes to non-solicitation.

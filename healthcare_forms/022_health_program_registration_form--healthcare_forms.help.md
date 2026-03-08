@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather participant information and program details for a healthcare-related program. The form is intended to be a registration form for participants who are interested in or currently enrolled in a health program. The purpose of the form is to collect demographic information, contact details, and other relevant data that will help the program administrators understand the participant's profile and needs. The form is also meant to facilitate communication between the program administrators and participants.
-</thinking>
-
 # health_program_registration_form - Help Guide
 ## Purpose
 This form is a registration form designed for participants of healthcare-related programs. It is meant to gather participant information, program details, and other relevant data to facilitate communication between program administrators and participants.

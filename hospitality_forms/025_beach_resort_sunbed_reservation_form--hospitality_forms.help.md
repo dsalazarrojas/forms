@@ -1,8 +1,3 @@
-<thinking>
-As a sunbed reservation form, this form is used to collect information from guests staying at the beach resort to reserve a sunbed for their use. The form aims to gather essential details such as guest name, room number, contact information, preferred sunbed type, location, and other preferences to ensure a comfortable and enjoyable experience for guests. 
-The form is designed to cater to various needs and preferences, including the number of sunbeds required, umbrella, towel service, and additional services. The form also collects information on special occasions, accessibility needs, and estimated total cost to provide personalized and tailored services. 
-To prevent duplication of reservations, the form is not publicly accessible until the guest has accepted the cancellation policy, which is a requirement for all reservations.</thinking>
-
 # Beach Resort Sunbed Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve a sunbed at the beach resort for guests' use.

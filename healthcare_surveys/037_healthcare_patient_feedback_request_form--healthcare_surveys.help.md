@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # healthcare patient feedback request form - Help Guide
 ## Purpose
 This form is used to collect feedback from patients about their doctor's performance and their overall experience during their visit. The feedback is used to improve the quality of care provided by our healthcare staff. Please note that only completed forms will be taken into consideration for our internal processes. If you have already provided feedback, there is no need to fill out this form again.

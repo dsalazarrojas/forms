@@ -1,12 +1,3 @@
-<thinking>
-The hotel reservation form is a crucial tool for guests to make a reservation at your hotel. To ensure that the form is filled out correctly, let's take a look at its purpose and fields. The main reason for this form is to collect information from guests so that hotel staff can process their reservation requests efficiently. 
-
-To prevent duplication and ensure accuracy, please review this form carefully before completing it.
-
-This form is divided into multiple fields that require specific information to create a reservation. Let's walk through each field and what they're intended to collect.
-
-</thinking>
-
 # Hotel Reservation Form - Help Guide
 ## Purpose
 The hotel reservation form is designed to collect information from guests to create a reservation at the hotel.

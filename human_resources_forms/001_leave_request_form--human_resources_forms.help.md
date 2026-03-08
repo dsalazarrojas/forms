@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Leave Request Form" is to allow employees to submit requests for leaves such as vacation, sick leave, or holidays. The form is designed to gather essential information from the employee, including their employee ID, name, leave type, start and end dates, reason for leave, department, and any additional comments or attachments. By understanding the fields on this form, employees can accurately report their leave requests and ensure that their leave is processed smoothly.
-</thinking>
-
 # Leave Request Form - Help Guide
 ## Purpose
 The "Leave Request Form" is a crucial tool for employees to communicate their leave requests to the management. The form helps to streamline the leave process, ensuring timely processing of employee leaves.

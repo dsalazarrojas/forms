@@ -1,7 +1,3 @@
-<thinking>
-This block is to ensure that I only output the help guide once I've confirmed that I've fully understood the provided YAML fields and their context.
-</thinking>
-
 # Tip Pool Agreement Form - Help Guide
 ## Purpose
 The Tip Pool Agreement Form is designed for employees to agree on how tips earned from customers are shared among team members. This form helps to formalize the agreement among team members, ensuring everyone is on the same page regarding tip-sharing policies and methods.

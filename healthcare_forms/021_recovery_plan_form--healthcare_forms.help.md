@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to aid businesses, organizations, or individuals in devising and executing a strategy to return to normalcy after a disruptive event. This form is part of the "healthcare_forms" category and is used to create a recovery plan.
-</thinking>
-
 # Recovery Plan Form - Help Guide
 ## Purpose
 The Recovery Plan Form is a template designed to help businesses, organizations, or individuals create a comprehensive recovery plan in response to a disruptive event. The form is used to gather information and develop a strategy to return to normalcy.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from community health workers and other public health professionals on the effectiveness and impact of nutrition education sessions. The purpose of this form is to assess the reach and effectiveness of these sessions in disseminating knowledge and promoting healthy behaviors.
-Before filling out this form, please ensure that it is not a duplicate of a previous survey or report you have completed on the same topic.
-</thinking>
-
 # Public Health Nutrition Education Impact Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from community health workers and other public health professionals on the effectiveness and impact of nutrition education sessions.

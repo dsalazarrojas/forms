@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employment_eligibility_verification_form - Help Guide
 
 ## Purpose

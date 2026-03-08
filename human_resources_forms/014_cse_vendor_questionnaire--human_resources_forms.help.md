@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information from vendors who are interested in providing services to the CSE. The purpose of this form is to gather the vendor's profile and contact information, as well as details about their services and payment terms. This information will be used to assess the vendor's qualifications and suitability for potential work with the CSE.
-
-The following sections of the form must be completed to provide the required information:
-
-1. Vendor Profile and Contact: This section requires the vendor's full legal name, taxpayer identification number, contact email address, and business mailing address.
-2. Service Description: This section requires a description of the services to be provided by the vendor.
-3. Payment Terms: This section requires the vendor to provide their agreed-upon compensation rate and total not-to-exceed amount.
-4. Vendor Relationship: This section requires information about the vendor's relationship with the CSE and whether they are related to any MICA employees.
-
-The vendor must answer the questions as accurately and completely as possible to ensure that the CSE has the necessary information to make informed decisions about potential work.
-</thinking>
-
 # CSE Vendor Questionnaire - Help Guide
 ## Purpose
 ## How To Complete This Form

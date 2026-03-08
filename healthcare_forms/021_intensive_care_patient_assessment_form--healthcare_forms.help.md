@@ -1,18 +1,3 @@
-<thinking>
-The Intensive Care Patient Assessment Form is designed to gather critical information about patients in an intensive care unit, including their medical history, allergies, and medical devices. This form is intended to be used by healthcare professionals to quickly and accurately assess a patient's condition and prioritize their care. It's essential to complete this form accurately and thoroughly to ensure the best possible outcomes for the patient.
-
-To avoid duplication of effort, please ensure that you have reviewed the patient's previous medical records and assessments before filling out this form. If you're unsure about any information, consult with the patient's primary care physician or other relevant healthcare professionals.
-
-When completing this form, please keep the following in mind:
-
-* All questions marked as "required" must be answered.
-* Select "Yes" or "No" for select_multiple fields.
-* Provide a brief description for text fields.
-* Be thorough and accurate in your responses.
-
-Before proceeding, review this guide to understand each section and field.
-</thinking>
-
 # Intensive Care Patient Assessment Form - Help Guide
 ## Purpose
 

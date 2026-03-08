@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dermal Filler Treatment Medical Consent Form - Help Guide
 
 ## Purpose

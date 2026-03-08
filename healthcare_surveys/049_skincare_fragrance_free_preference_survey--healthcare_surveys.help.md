@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide users with clear instructions on how to complete the Skincare Fragrance Free Preference Survey form.
-</thinking>
-
 # Skincare Fragrance Free Preference Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your skin type, concerns, and preferences to help us better understand your skincare needs and preferences, specifically regarding fragrance-free products.

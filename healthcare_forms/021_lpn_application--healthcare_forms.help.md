@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information from Licensed Practical Nurses (LPNs) applying for a specific program or service. This information will help the organization assess the applicant's eligibility and provide a more accurate experience. To prevent duplication, please ensure that you have not submitted this form previously.
-</thinking>
-
 # LPN Application - Help Guide
 ## Purpose
 This form is designed to collect basic demographic information from LPNs applying for a specific program or service. The information collected will help us assess your eligibility and provide a more tailored experience.

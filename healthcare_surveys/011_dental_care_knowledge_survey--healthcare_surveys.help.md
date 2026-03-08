@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from dental care professionals and educators on their knowledge, assessments, and experiences related to oral health. The goal is to gather data on their perceptions of oral health awareness, assessments, and risk factors among their patients. The form may be used to inform educational materials, policy development, or other research purposes.
-
-Please ensure that this form is not being used for duplicate purposes, such as collecting the same information from the same users. If you're unsure about the form's purpose or relevance, please consult with the responsible party or project lead before proceeding.
-</thinking>
-
 # Dental Care Knowledge Survey - Help Guide
 ## Purpose
 The Dental Care Knowledge Survey is designed to collect information from dental care professionals and educators on their experiences and perceptions related to oral health. This form will help us understand the current state of oral health awareness, assessments, and risk factors among your patients.

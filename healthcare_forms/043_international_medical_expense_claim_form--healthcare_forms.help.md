@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from claimants regarding their medical expenses. The form is intended for international medical providers and patients to report medical expenses and claims. Each field in this form is crucial for processing the claim accurately and efficiently. Please ensure that you fill out this form with precise and accurate information.
-
-To avoid duplicate claims, ensure that you do not submit multiple claims for the same medical expense. If you are unsure about any field, please seek assistance from the healthcare representative or support team.
-
-</thinking>
-
 # international_medical_expense_claim_form - Help Guide
 ## Purpose
 The international medical expense claim form is used to report medical expenses incurred while traveling abroad. This form is required for processing claims for medical expenses related to international travel.

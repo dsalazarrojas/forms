@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of the Urology Grand Rounds, a regular educational session for healthcare professionals. The purpose of this form is to help organizers understand attendees' opinions and suggestions about the session's content, speakers, and overall experience. This will help them improve future sessions and better serve the urology community. The form is meant to be completed by attendees to provide their personal feedback and suggestions. Before filling out this form, please make sure you've already submitted any official evaluation or rating through other means (e.g., session evaluation forms provided on-site or online).
-</thinking>
-
 # Urology Grand Rounds Feedback - Help Guide
 
 ## Purpose

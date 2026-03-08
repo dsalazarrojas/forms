@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare providers to gather information about the medical history and coverage of their patients. The form is designed to be completed by patients or their representatives, and the data collected will be used to assess the patient's qualifications for health coverage. This form should not be used for medical diagnosis or treatment purposes. It is essential to ensure that the patient's information is accurate and up-to-date to avoid duplication of effort and unnecessary medical procedures. Please fill out this form carefully, and if you are unsure about any information, consult with the patient or their representative.
-</thinking>
-
 # Health Coverage Qualification Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about a patient's medical history and coverage for health coverage qualification purposes.

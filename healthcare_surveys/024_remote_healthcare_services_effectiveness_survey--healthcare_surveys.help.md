@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from patients about their experience with remote healthcare services. The purpose of this form is to understand the effectiveness of these services in providing quality care to patients. The information collected will be used to identify areas of improvement and to make informed decisions about the services offered.
-
-</thinking>
-
 # Remote Healthcare Services Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their experience with remote healthcare services. The collected information will be used to understand the effectiveness of these services and identify areas for improvement.

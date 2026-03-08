@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is used for the purpose of making hotel reservations and bookings. It captures information about guests for booking purposes. The form is designed for end users to provide details about themselves and their preferences. Please verify that the form is correctly configured to match hotel reservation and booking requirements and that no other form serves this purpose. Please ensure that this form is only used for its intended purpose and not for other activities that may compromise its effectiveness or create redundancy in data collection.
-</thinking>
-
 # Maltese English Reservation & Booking - Help Guide
 ## Purpose
 This form is designed to gather information from guests for hotel reservation and booking purposes. It captures details about the guests and their preferences to ensure a smooth and efficient booking process.

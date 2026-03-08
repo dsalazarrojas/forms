@@ -1,7 +1,3 @@
-<thinking>
-The "Medical Reimbursement Claim Form" is used to submit a claim for medical expenses to an insurance provider. This form is typically used by claimants to request reimbursement for medical services received. To avoid duplication of effort, it's essential to review the claimant's information before submitting the form to ensure accuracy. This form is intended for individual claimants, not for group or company claims.
-</thinking>
-
 # Medical Reimbursement Claim Form - Help Guide
 ## Purpose
 The Medical Reimbursement Claim Form is used to submit a claim for medical expenses to an insurance provider.

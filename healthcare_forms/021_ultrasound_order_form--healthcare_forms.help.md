@@ -1,6 +1,3 @@
-<thinking>
-This form is for healthcare professionals to order an ultrasound examination for a patient. The form will gather information such as patient demographics, appointment details, payment information, and medical report details. Please ensure that each field is filled out accurately and completely to ensure that the ultrasound examination can be conducted smoothly and without any issues. This form should not be used for duplicate or unnecessary examinations, and all fields should be relevant to the patient's appointment.</thinking>
-
 # Ultrasound Order Form - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to order an ultrasound examination for a patient.

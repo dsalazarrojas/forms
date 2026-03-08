@@ -1,24 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for this form, we need to understand its purpose and how it should be filled out in the context of healthcare surveys. Given the provided YAML, it appears that the form is designed to collect feedback, ratings, and other information from patients about their care procedures. The form has multiple sections and questions, including rating and feedback forms, date and time entries, and select-one and select-multiple options. We should focus on explaining each field in a clear and concise manner, ensuring that users understand its purpose and how to fill it out correctly.
-
-To avoid duplication, we should also consider the following:
-
-* There seems to be multiple fields for date and time entries, which might be unnecessary. We can consider combining these into one field.
-* Some fields have similar labels, such as "rating" and "rating_2", which might be confusing. We can consider renaming these to make them more specific.
-* Some fields have similar types, such as "text" and "select_one". We can consider making these more distinct in their labels.
-* The form has a mix of required and optional fields, which might be confusing. We can consider clarifying which fields are required and which are optional.
-
-Before we dive into the help guide, let's consider the following questions:
-
-* What is the primary purpose of this form?
-* Who is the target audience for this form?
-* What are the expected outcomes or benefits of filling out this form?
-
-Assuming that the primary purpose of this form is to collect feedback and ratings from patients, and the target audience is healthcare professionals, the expected outcomes might be to improve patient care procedures and services.
-
-With these considerations in mind, let's create a comprehensive help guide for the form.
-</thinking>
-
 # Patient Care Procedure Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather insights on the perception of healthcare data transparency among participants in the healthcare industry. The form will help to identify how much trust participants have in sharing their data, what concerns they have, and what frequencies of data sharing they are comfortable with. The form will be useful for researchers and stakeholders to understand the current state of healthcare data transparency.
-</thinking>
-
 # global_health_data_transparency_perception_survey - Help Guide
 ## Purpose
 This form is designed to gather insights on the perception of healthcare data transparency among participants in the healthcare industry.

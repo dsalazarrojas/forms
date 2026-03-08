@@ -1,7 +1,3 @@
-<thinking>
-As a healthcare professional, it's essential to understand the process of releasing medical device records for patients. This form is designed to gather information from patients or their representatives to ensure that medical device records are handled properly. The form will help identify the patient, their relationship to the device, and whether the records should be shared or not. Please note that this form might be part of a larger process, such as HIPAA compliance, and should be reviewed carefully to avoid any duplication or unnecessary steps. The following guide will walk you through the form fields and their purpose, helping you to complete it efficiently and accurately.
-</thinking>
-
 # medical_device_records_release_form - Help Guide
 ## Purpose
 This form is used to record the release of medical device records for patients, ensuring that these records are handled correctly and according to regulatory guidelines. It helps identify the patient, their relationship to the device, and whether the records should be shared or not.

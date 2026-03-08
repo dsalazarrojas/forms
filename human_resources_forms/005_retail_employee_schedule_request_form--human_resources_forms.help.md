@@ -1,5 +1,3 @@
-<thinking>This form is designed to help retail employees request schedule changes. To determine if the form is relevant, please confirm that you are a retail employee. If you are a manager or HR representative, you should review the form carefully to ensure that it is being filled out correctly. To avoid duplicating requests, please review the current schedule and only submit this form if the change is not already reflected in the schedule. This will help ensure that the schedule is up-to-date and accurate. </thinking>
-
 # Retail Employee Schedule Request Form - Help Guide
 ## Purpose
 The Retail Employee Schedule Request Form is used to request changes to your retail work schedule. This form helps ensure that all schedule changes are accurately recorded and communicated to management and other employees.

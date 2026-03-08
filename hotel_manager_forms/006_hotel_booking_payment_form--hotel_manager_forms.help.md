@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from guests booking a hotel room, including personal details, room preferences, and payment methods. The form is likely used by hotel managers or staff to collect and process booking requests. To avoid duplication, ensure that guests are not filling out the form multiple times for the same booking. If a guest has already filled out the form, they should not be asked to do so again.
-</thinking>
-
 # hotel_booking_payment_form - Help Guide
 ## Purpose
 This form is used to collect information from guests booking a hotel room, including personal details, room preferences, and payment methods.

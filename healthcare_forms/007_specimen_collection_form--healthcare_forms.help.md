@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect specimen information from patients. The form is designed to be completed by medical professionals to gather details about the patient's health and specimen collection. The purpose of this form is to collect accurate and comprehensive information for future reference. To ensure the form is completed accurately, please review the fields below carefully.
-
-</thinking>
 # Specimen Collection Form - Help Guide
 ## Purpose
 The Specimen Collection Form is used by medical professionals to gather patient information for future reference. This form is essential in ensuring that patient data is accurate and up-to-date.

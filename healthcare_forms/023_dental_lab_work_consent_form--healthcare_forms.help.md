@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and consent for dental lab work. The form will help dental professionals gather essential details about the patient, their contact information, and their consent to disclose and share their medical information. This form should be used by healthcare professionals to ensure that patients are aware of how their medical information will be handled and shared. To avoid duplication, please use this form only for dental lab work purposes.
-</thinking>
-
 # Dental Lab Work Consent Form - Help Guide
 
 ## Purpose

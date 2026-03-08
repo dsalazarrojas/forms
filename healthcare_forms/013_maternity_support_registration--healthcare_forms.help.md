@@ -1,9 +1,3 @@
-<thinking>
-To be completed before explaining the form to the users.
-The purpose of this form is to register information from expectant mothers for maternity support. This form will help healthcare workers gather necessary information for providing support to new mothers and their families.
-Each form submission should be unique and not duplicate any existing records. Ensure that the form is completed accurately and completely to provide the best possible support.
-</thinking>
-
 # Maternity Support Registration - Help Guide
 
 ## Purpose

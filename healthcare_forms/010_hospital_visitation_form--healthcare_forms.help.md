@@ -1,8 +1,3 @@
-<thinking>
-We are designing a help guide for the Hospital Visitation Form, a crucial tool for healthcare professionals to document and track patient visits. This form is designed to collect essential information about patients, their authorized visitors, and visit details to ensure accurate and efficient record keeping. The form aims to streamline the process of hospital visitation, improve data accuracy, and reduce errors. This guide will walk users through the form's purpose, how to complete it, and explain each field in a concise and practical way.
-
-</thinking>
-
 # Hospital Visitation Form - Help Guide
 ## Purpose
 The Hospital Visitation Form is a document used to record and manage visits to the hospital, ensuring that patient care and visitor interactions are accurately tracked and authorized.

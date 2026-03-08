@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting patient information for the Soul Wound Clinic. It is not a mandatory form and can be completed by patients or healthcare professionals for reference purposes. 
-</thinking>
-
 # Soul Wound Clinic Registration - Help Guide
 ## Purpose
 This form is designed to collect patient information for the Soul Wound Clinic. It is not a mandatory form and can be completed by patients or healthcare professionals for reference purposes.

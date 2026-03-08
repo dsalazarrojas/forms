@@ -1,9 +1,3 @@
-<thinking>
-
-We need to explain that this form is used to gather patient data at the time of discharge from a healthcare facility. It is crucial to ensure that all required fields are filled out accurately and consistently. This form should not be duplicated for the same patient across different visits. The goal is to gather information that will help healthcare providers evaluate the patient's discharge experience and make necessary adjustments for future encounters.
-
-</thinking>
-
 # Patient Discharge Experience Questionnaire - Help Guide
 ## Purpose
 The Patient Discharge Experience Questionnaire is a healthcare form used to gather important information about patients at the time of discharge from a healthcare facility. This form will help healthcare providers evaluate and document the patient's discharge experience, ensuring accurate records and future care planning.

@@ -1,7 +1,3 @@
-<thinking>
-The Hotel Daily Report Form is designed to capture a hotel manager's daily report, gathering crucial information such as start and end times, hours worked, important situations that occurred during the shift, activity summary, and any notable situations that require attention. This form serves as a tool for managers to provide a brief overview of their daily activities and challenges. It helps ensure that all relevant information is documented for future reference, facilitating better management and decision-making. By requiring certain fields, the form ensures that essential details are always captured, reducing the likelihood of missing critical information.
-</thinking>
-
 # Hotel Daily Report Form - Help Guide
 ## Purpose
 The Hotel Daily Report Form is a tool for hotel managers to document their daily activities, hours worked, and notable situations that occurred during their shift. This form helps ensure that all relevant information is captured and recorded for future reference.

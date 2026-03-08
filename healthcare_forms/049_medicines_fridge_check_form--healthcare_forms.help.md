@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medicines Fridge Check Form - Help Guide
 ## Purpose
 This form is used to check the temperature range of the medicines fridge and record the action taken. It's essential to ensure that the fridge is within a safe temperature range to store medications.

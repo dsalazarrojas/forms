@@ -1,7 +1,3 @@
-<thinking>
-  To avoid duplication, this form was created using only public survey topic metadata as inspiration. This form is an original adaptation and does not copy, extract, or use proprietary content from any form creation platform. The form's purpose is to collect information about patient exercise habits, nutrition, health professional involvement, and fitness goals. This form will help gather data to better understand patient health and wellness.
-</thinking>
-
 # Fitness Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your patient's exercise habits, nutrition, and fitness goals. The data collected will help us better understand your patient's health and wellness.

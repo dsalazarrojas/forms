@@ -68,10 +68,6 @@ To complete this form, please follow these steps:
 * **Emergency Contact Relationship Description** (`emergency_contact_relationship_description`, `text`, required): Briefly describe your relationship with your emergency contact.
 * **Emergency Contact Relationship Since** (`emergency_contact_relationship_since`, `text`, required): Describe how long you've known your emergency contact.
 
-<thinking>
-This guide is intended to be used by candidates applying for video editor positions. The form is designed to gather necessary information to assess the candidate's qualifications and fit for the position. This information will only be used for internal purposes and will not be shared with external parties. Please ensure that you answer all required fields to ensure a thorough evaluation of your application.
-</thinking>
-
 ### Tips
 * Please provide specific examples of your work experience and video editing skills.
 * Ensure that you answer all required fields to ensure a thorough evaluation of your application.

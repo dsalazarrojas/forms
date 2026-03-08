@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general medical information for patients, including their medical history, medical conditions, medications, and other relevant health-related details. The form will be used to gather information from patients at the beginning of their care episode, such as when they are admitted to the hospital or when they visit a healthcare provider. This form is meant to be a general survey, not a comprehensive medical evaluation, and is not intended to be used in place of a more in-depth medical history. By completing this form, patients can provide healthcare providers with a baseline understanding of their health status, which can inform treatment and care decisions. Please note that answers provided in this form will not be used for diagnosis or treatment decisions.
-</thinking>
-
 # Health History General Survey - Help Guide
 ## Purpose
 The Health History General Survey is a form used to gather general medical information from patients at the beginning of their care episode.

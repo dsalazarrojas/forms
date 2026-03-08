@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help staff and guests plan for a smooth and efficient transportation experience. It captures essential information about the guest shuttle route, including the date, start and end times, pick-up and drop-off locations, number of guests, and contact details. This form ensures that the transportation team has all the necessary information to provide an excellent service. The information will not be duplicated if the form is filled out multiple times, so it's essential to fill it out thoroughly and accurately. Please review the form carefully before submitting it to ensure all required fields are completed.
-</thinking>
-
 # Guest Shuttle Route Request Form - Help Guide
 ## Purpose
 The Guest Shuttle Route Request Form is designed to help staff and guests plan for a smooth and efficient transportation experience. The form gathers essential information about the guest shuttle route, which will be used by the transportation team to provide an excellent service.

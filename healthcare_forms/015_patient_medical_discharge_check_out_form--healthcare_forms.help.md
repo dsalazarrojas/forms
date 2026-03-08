@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to record patient information and discharge instructions when a patient is being checked out of a healthcare facility. It is essential to ensure that the patient's medical history is up-to-date and that they have a clear understanding of their post-discharge care instructions. This form is designed to be simple and concise, making it easy for healthcare professionals to quickly capture the necessary information.
-</thinking>
-
 # Patient Medical Discharge Check Out Form - Help Guide
 ## Purpose
 This form is used to record patient information and discharge instructions when a patient is being checked out of a healthcare facility. The goal is to ensure that the patient's medical history is up-to-date and that they have a clear understanding of their post-discharge care instructions.

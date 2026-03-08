@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information for booking cruises. The form likely serves as an intake tool for travel agents or staff members to gather essential details from customers, including their contact information, travel preferences, and payment methods. This form might be part of a larger system that helps manage cruise bookings and provides a centralized repository of customer data. The form is likely used by travel agents to communicate with customers and ensure that all necessary details are captured before proceeding with the booking process. 
-</thinking>
-
 # Cruise_Booking_Form - Help Guide
 ## Purpose
 The Cruise_Booking_Form is used to collect customer information for booking cruises. 

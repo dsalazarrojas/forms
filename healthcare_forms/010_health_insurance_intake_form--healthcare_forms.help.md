@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from patients or their representatives for the purpose of enrolling them in a health insurance program. The form is designed to gather basic contact information, medical history, and insurance details in a simple and straightforward manner. 
-
-The form is not intended to be used for any other purpose than health insurance intake, and it is not a medical record or a substitute for a medical professional's evaluation. 
-
-Please make sure to complete the form accurately and truthfully to ensure the best possible outcomes for the patient. 
-</thinking>
-
 # Health Insurance Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from patients or their representatives for the purpose of enrolling them in a health insurance program.

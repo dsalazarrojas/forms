@@ -1,7 +1,3 @@
-<thinking>
-The "operations_lead_application_form" form is used by operations team members to collect and store information about job openings, including job titles, job descriptions, and required skills. This form is typically used to gather information for internal job postings or external job listings. The form should only be used by authorized personnel in the operations department.
-</thinking>
-
 # operations_lead_application_form - Help Guide
 ## Purpose
 The "operations_lead_application_form" form is used to collect and store information about job openings.

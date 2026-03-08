@@ -1,7 +1,3 @@
-<thinking> 
-  The YoniVaginal Steam Intake Form is a form used to collect information from users about their medical condition, contact details, and other relevant information. This form is likely used for healthcare professionals to gather necessary data to provide accurate and efficient care. To ensure accuracy, please make sure to fill in all required fields. If you're unsure about any field, refer to this guide for guidance.
-  </thinking>
-
 # YoniVaginal Steam Intake Form - Help Guide
 ## Purpose
 The YoniVaginal Steam Intake Form is a document used to collect essential details from users about their medical condition, contact information, and other relevant data. This form is designed for healthcare professionals to gather accurate and comprehensive information to provide optimal care.

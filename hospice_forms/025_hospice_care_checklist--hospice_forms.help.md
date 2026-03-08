@@ -1,8 +1,3 @@
-<thinking>
-This form is a comprehensive checklist for evaluating the care needs of a patient or individual. It's designed to assess the level of care required for the patient's comfort, well-being, and quality of life. The form helps caregivers and healthcare providers identify the patient's needs and preferences for various services, including medical, emotional, spiritual, and logistical support. By using this form, healthcare providers can ensure that patients receive the right level of care and support at the right time. This form is intended for use by healthcare professionals and caregivers in the hospice care setting, but it's also useful for anyone involved in patient care to understand the patient's needs and preferences. It's essential to complete this form carefully and thoroughly to ensure that the patient receives the most appropriate care.
-
-</thinking>
-
 # Hospice Care Checklist - Help Guide
 ## Purpose
 

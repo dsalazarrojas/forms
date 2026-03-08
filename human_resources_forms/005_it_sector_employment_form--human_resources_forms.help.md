@@ -1,5 +1,3 @@
-<thinking>Form purpose: The IT Sector Employment Form is a data collection tool used to gather employment information from job applicants in the IT sector. This form is intended to capture essential details about the applicant, including contact information, job position preferences, and resume details. The form is designed to be easy to complete, and the purpose of each field is explained below. Before proceeding, please ensure that you are completing this form for a valid employment opportunity and not for any other purpose. If you have previously submitted a form for the same position or a different position in the IT sector, please ensure that you are not duplicating efforts and that this form is a new submission.</thinking>
-
 # IT Sector Employment Form - Help Guide
 
 ## Purpose

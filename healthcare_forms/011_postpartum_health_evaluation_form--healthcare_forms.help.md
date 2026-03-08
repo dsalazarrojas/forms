@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Postpartum Health Evaluation Form - Help Guide**
 ## Purpose
 This form is designed to collect information about a patient's postpartum health and well-being. It helps healthcare professionals assess the patient's postpartum complications and recovery trends, and identify potential issues that require attention. Completing this form ensures that patients receive accurate and timely care.

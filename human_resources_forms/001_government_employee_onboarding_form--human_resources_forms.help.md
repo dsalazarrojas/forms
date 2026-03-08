@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Government Employee Onboarding Form - Help Guide
 
 ## Purpose

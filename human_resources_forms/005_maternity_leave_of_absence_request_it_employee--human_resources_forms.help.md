@@ -1,5 +1,3 @@
-<thinking>...checking if form purpose is for new mothers only and if there are specific rules for IT department employment... thinking</thinking>
-
 # Maternity Leave Of Absence Request (IT Employee) - Help Guide
 ## Purpose
 This form is intended for IT department employees who are new mothers and need to request maternity leave. The purpose of this form is to gather information about the employee's leave request, including the duration, start date, and end date of their leave. The IT department has specific rules and regulations regarding maternity leave, so please ensure you have reviewed and understood these before filling out this form.

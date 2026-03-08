@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about the services offered by a data scientist business partner. The form is designed to be completed by a data scientist or business partner who wants to provide services such as massage therapy, data science, data collection, data analysis, and data storage to the user. The form is not meant to be a comprehensive survey, but rather a way to get a brief understanding of the services offered by the partner. To avoid duplication of effort, the form will only need to be completed once per partner.
-</thinking>
-
 # Data Scientist Business Partner Form - Help Guide
 ## Purpose
 This form is designed to collect information about the services offered by a data scientist business partner.

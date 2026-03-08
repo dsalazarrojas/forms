@@ -1,5 +1,3 @@
-<thinking>Internal reason for this form: The "Vision Care Feedback Form" is designed to collect feedback from patients about their experiences at a healthcare clinic, allowing the clinic to improve its services and patient care. This form will help identify areas of improvement, understand patient expectations, and gather demographic information. To avoid duplicate submissions, patients are required to provide a valid email address for follow-up contact. The form will be reviewed internally to identify trends and areas of concern.</thinking>
-
 # Vision Care Feedback Form - Help Guide
 ## Purpose
 The Vision Care Feedback Form is a tool used to collect patient feedback and suggestions for improvement of the clinic's services. Your input will help us understand your experiences and make necessary changes to provide better care.

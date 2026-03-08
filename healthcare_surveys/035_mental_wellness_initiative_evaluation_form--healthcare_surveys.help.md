@@ -1,7 +1,3 @@
-<thinking>This form, "Mental Wellness Initiative Evaluation Form," is used to gather information from program participants about their experiences and outcomes in a mental wellness initiative. To ensure that the form is filled out correctly, please review this help guide carefully. 
-
-Note: This form is for program participants to provide feedback and evaluation on their experience. Ensure that you are a program participant before filling out this form.</thinking>
-
 # Mental Wellness Initiative Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from program participants regarding their experiences and outcomes in the mental wellness initiative.

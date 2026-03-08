@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for telemedicine services. It includes various fields to gather details about the patient's medical history, allergies, medications, emergency contact, insurance information, emergency procedures, medical specialties, and medical histories. The form is intended for patients to provide accurate and comprehensive information to ensure safe and effective telemedicine care.
-</thinking>
-
 # telemedicine_patient_information_form - Help Guide
 ## Purpose
 This form is designed to collect patient information for telemedicine services, providing a comprehensive overview of a patient's medical history, allergies, and other essential details.

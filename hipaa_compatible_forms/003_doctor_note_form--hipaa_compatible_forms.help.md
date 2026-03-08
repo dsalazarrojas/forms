@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Doctor Note Form is to gather information about a patient's visit to a healthcare provider, including the date of the visit, patient's name, the doctor's name, and the medical condition being treated. This form is not intended to replace the actual medical consultation, but rather to provide a standardized template for healthcare providers to document their interactions with patients. It is essential to fill out this form accurately and completely to ensure that the patient's medical history and treatment are properly recorded. Please note that this form is not a medical consultation or a substitute for professional medical advice. 
-</thinking>
-
 # Doctor Note Form - Help Guide
 ## Purpose
 The Doctor Note Form is a tool for healthcare providers to document patient information and medical interactions.

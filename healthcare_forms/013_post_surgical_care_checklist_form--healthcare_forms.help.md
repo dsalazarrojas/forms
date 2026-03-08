@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients after a surgical procedure, ensuring they receive proper care and follow-up instructions. The form should not be used for medical diagnosis or treatment purposes. Please review the form carefully to ensure you are providing accurate and relevant information. This form is a general template and may need to be adapted or modified according to your specific use case or healthcare organization's guidelines.
-</thinking>
-
 # Post Surgical Care Checklist Form - Help Guide
 ## Purpose
 The Post Surgical Care Checklist Form is designed to gather essential information from patients after a surgical procedure. This form helps healthcare professionals ensure that patients receive proper care and instructions following their surgery.

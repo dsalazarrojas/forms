@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a patient's sleep experiences and habits, helping healthcare professionals understand their insomnia symptoms and history. The goal is to gather data that can be used to identify potential causes and treatment options for the patient's sleep issues. To avoid duplication of effort, we should ensure that the patient has not already undergone an assessment for insomnia.
-
-</thinking>
-
 # Insomnia Questionnaire - Help Guide
 ## Purpose
 

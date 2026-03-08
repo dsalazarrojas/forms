@@ -1,7 +1,3 @@
-<thinking>
-... (The form is designed for massage salons to collect information from clients about their health status, travel history, and medical conditions before providing massage services. This information is used to ensure the safety and well-being of both the client and the massage therapist. The form is not intended to be a substitute for medical advice or diagnosis. By completing this form, clients acknowledge that they are providing accurate and truthful information and that the massage salon has the right to refuse service if any information is found to be false or misleading.)
-</thinking>
-
 # Massage Salons Coronavirus Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's health status, travel history, and medical conditions before providing massage services. It is used to ensure the safety and well-being of both the client and the massage therapist.

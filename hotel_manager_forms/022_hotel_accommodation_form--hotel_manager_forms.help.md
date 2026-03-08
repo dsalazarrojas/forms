@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help hotel staff understand the purpose of the "Hotel Accommodation Form" and how to complete it correctly. This form is a crucial tool for guests to provide their accommodation preferences and requirements, which will help the hotel's management team to process their requests efficiently.
-
-The form should not be filled out by guests if they are checking in directly to the hotel without making an advance booking. It is designed to be filled out online or on a physical copy provided by the hotel before their arrival.
-
-The fields in this form are carefully chosen to cover the essential details of the guest's stay. Here is a breakdown of each field to ensure you understand its purpose and what information it collects:</thinking>
-
 # Hotel Accommodation Form - Help Guide
 ## Purpose
 The Hotel Accommodation Form is designed to gather information from guests to provide a comfortable and tailored stay experience. It is a crucial tool for the hotel's management team to process requests for accommodation, manage room preferences, and ensure a smooth stay for guests.

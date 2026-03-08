@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information on various aspects of mpox, a viral disease. The purpose of this form is to collect data on public awareness, risk factors, symptoms, healthcare access, and more. Please note that this form is a public-facing representation and does not reflect any affiliation, endorsement, or use of proprietary content from any form platform. The form's fields and options are meant to provide a comprehensive overview of the mpox, allowing for a well-rounded analysis of the topic. The form's data collection and analysis are for informational and research purposes only.</thinking>
-
 # Mpox Survey - Help Guide
 ## Purpose
 The Mpox Survey is designed to gather information on various aspects of mpox, a viral disease. This form collects data on public awareness, risk factors, symptoms, healthcare access, and more.

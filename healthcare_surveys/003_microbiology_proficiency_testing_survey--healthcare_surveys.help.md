@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about microbiology proficiency testing in a healthcare setting. This form is meant to be completed by laboratory personnel, such as technicians, medical professionals, or other individuals involved in microbiology testing. The form aims to collect data on participation levels, methods, challenges, improvement ideas, laboratory participation, testing frequency, sample handling, and testing methods. The data collected will help in assessing the proficiency level of microbiology testing in the healthcare setting.
-
-This form is a crucial tool for evaluating the effectiveness and accuracy of microbiology testing in a healthcare setting.
-
-It is essential to complete this form accurately and attentively, ensuring that the answers reflect the current practices and procedures of the laboratory.
-</thinking>
-
 # Microbiology Proficiency Testing Survey - Help Guide
 ## Purpose
 This form is designed to gather information about microbiology proficiency testing in a healthcare setting.

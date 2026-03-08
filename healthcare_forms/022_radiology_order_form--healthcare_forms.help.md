@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information and radiology order details for healthcare professionals to schedule and manage radiology exams efficiently. This form is designed to ensure that all necessary information is captured to facilitate effective communication between healthcare providers and radiology departments. 
-
-When filling out this form, please ensure that all required fields are completed accurately and thoroughly. If a field is marked as optional, feel free to provide additional information if relevant. 
-
-Please note that some fields may require specific formatting or input types (e.g., date, time, or email addresses). 
-
-The following instructions will guide you through the form fields and their meanings to help you complete it accurately.
-
-</thinking>
-
 # Radiology Order Form - Help Guide
 
 ## Purpose

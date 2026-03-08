@@ -1,14 +1,3 @@
-<thinking>
-This guide will help you complete the "Hearing History Questionnaire" form. 
-
-Before starting, ensure you have relevant information about the patient's hearing history. This form is intended for patients who have experienced hearing loss or have other relevant hearing-related concerns. If you're unsure if this form is relevant to your situation, please review the provided information carefully.
-
-The form is designed to gather comprehensive data about the patient's hearing history, symptoms, and treatment history. This information will help medical professionals understand the patient's condition better.
-
-If you have already filled out a similar form or have relevant documentation, please review the questions carefully to avoid duplication.
-
-</thinking>
-
 # Hearing History Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the patient's hearing history, including their symptoms, treatment history, and other relevant details. This information will help medical professionals understand the patient's condition and provide better care.

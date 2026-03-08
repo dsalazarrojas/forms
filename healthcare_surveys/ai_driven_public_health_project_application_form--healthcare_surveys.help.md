@@ -1,12 +1,3 @@
-<thinking>
-This form is a comprehensive application form for projects related to AI-driven public health projects. It is designed to collect detailed information about each project, including its title, focus area, scope, budget, and expected outcomes. The form is intended to help reviewers evaluate and assess the feasibility and potential impact of each project.
-
-By using this form, applicants can provide a clear and structured overview of their project, making it easier for reviewers to understand the project's goals, objectives, and requirements. The form also allows applicants to showcase their project's innovative use of AI technology and its potential to address public health challenges.
-
-To ensure consistency and fairness in the review process, it is essential to complete this form carefully and accurately. Please note that the form is designed to collect relevant information, and any incomplete or inaccurate submissions may lead to a delay or rejection of the application.
-
-</thinking>
-
 # AI Driven Public Health Project Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about AI-driven public health projects. This form is used to help reviewers evaluate and assess the feasibility and potential impact of each project.

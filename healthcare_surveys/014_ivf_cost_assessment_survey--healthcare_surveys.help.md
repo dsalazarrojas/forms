@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # IVF Cost Assessment Survey - Help Guide
 ## Purpose
 The IVF Cost Assessment Survey is a form used to gather information about a patient's demographics, insurance coverage, and treatment interests for In Vitro Fertilization (IVF) and other fertility treatments. This form helps healthcare providers understand the patient's needs and provide accurate quotes for treatment costs. By completing this form, you will be able to assess the costs associated with IVF and other fertility treatments.

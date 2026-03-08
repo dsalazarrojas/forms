@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients or individuals seeking healthcare services. It may be used by medical professionals, clinics, or hospitals to gather essential details about the patient's medical history, emergency contacts, and other relevant information. Before filling out this form, please ensure you haven't already filled it out in the past, as it may be used to update existing records. If you have any questions or concerns, feel free to contact the relevant healthcare provider.
-</thinking>
-
 # Health Intake Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from patients or individuals seeking healthcare services. It's essential to fill it out accurately and completely to provide the best possible care.

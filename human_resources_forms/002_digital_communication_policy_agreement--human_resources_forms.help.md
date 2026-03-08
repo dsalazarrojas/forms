@@ -1,8 +1,3 @@
-<thinking>
-The form "Digital Communication Policy Agreement" is likely used by an organization to collect agreement from individuals about their digital communication preferences. The form may be part of an onboarding process or a regular review process to ensure that employees or contractors understand and agree to the company's digital communication policy. This policy probably outlines the types of digital communications that the individual will receive, the channels through which they will be communicated (e.g., email, phone), and their options for opting out of these communications. The form is likely used by HR or administrative staff to manage and track individual preferences.
-
-</thinking>
-
 # Digital Communication Policy Agreement - Help Guide
 ## Purpose
 This form is used to collect agreement from individuals about the company's digital communication policy. It ensures that users understand and agree to the terms of the policy, which outlines the types of digital communications they will receive and their options for opting out.

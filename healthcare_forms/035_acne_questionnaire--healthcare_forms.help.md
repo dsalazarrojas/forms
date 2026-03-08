@@ -1,7 +1,3 @@
-<thinking>
-This form, the Acne Questionnaire, is a comprehensive document designed to help healthcare professionals gather essential information from patients regarding their skin condition, specifically acne. It is intended for patients with a history or current experience with acne. The form helps identify potential triggers, medical history, and treatment preferences to aid in providing personalized guidance.
-</thinking>
-
 # Acne Questionnaire - Help Guide
 ## Purpose
 The Acne Questionnaire is a tool for healthcare professionals to gather information from patients about their acne condition. It is a detailed form used to gather medical history, potential triggers, and preferences for treatment, helping healthcare providers offer personalized guidance and care.

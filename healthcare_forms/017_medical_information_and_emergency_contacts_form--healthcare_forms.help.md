@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Information And Emergency Contacts Form - Help Guide
 ## Purpose
 This form is designed to collect medical information and emergency contacts for patient care and administration. It is intended for use in healthcare settings to gather essential details about patients' medical history, contact information, and relationships.

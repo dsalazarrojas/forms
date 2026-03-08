@@ -1,8 +1,3 @@
-<thinking>
-Mobility Allowance Request Form is used for submitting a request for mobility allowance when a company employee travels for business purposes. This form is intended for employees who need to travel frequently for work-related activities. It is crucial to ensure that the form is completed accurately and thoroughly to process the request efficiently.
-Before proceeding, ensure that you have not already submitted a request for the same travel period or destination. Duplicate requests can cause confusion and delay the processing time.
-</thinking>
-
 # Mobility Allowance Request Form - Help Guide
 ## Purpose
 The Mobility Allowance Request Form is a form designed to facilitate employees' requests for mobility allowance when traveling for business-related activities. This guide will walk you through the form's structure and what to expect in each field.

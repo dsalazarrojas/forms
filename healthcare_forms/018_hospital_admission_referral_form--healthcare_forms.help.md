@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's medical history, contact details, and other relevant data from healthcare providers to facilitate efficient hospital admission. The form aims to gather accurate and up-to-date information to ensure smooth and safe patient care. Before filling out this form, please ensure that you are not duplicating an existing patient's information. If you are unsure or have any questions, contact us at form@gic.mx.
-</thinking>
-
 # Hospital Admission Referral Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from healthcare providers about a patient's medical history, contact details, and other relevant data for efficient hospital admission.

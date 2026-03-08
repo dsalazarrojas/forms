@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting new stater status in the company, allowing employees to submit their requests for starting a new role. 
-Before submitting, please ensure that you have not already submitted a request for the same role and that you are eligible for this request. If you are unsure, please contact your manager or HR representative for guidance.
-</thinking>
-
 # New Stater Request Form - Help Guide
 ## Purpose
 The New Stater Request Form is used to submit a request for new stater status to start a new role in the company. This form requires information about the employee's new company name, job title, manager's name, department, email, phone number, start date, and any notes.

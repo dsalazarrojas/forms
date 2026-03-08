@@ -1,5 +1,3 @@
-<thinking>Pre-Operative Clearance Forms are used to collect and record important medical information before a patient undergoes surgery or other invasive procedures. This form helps to identify potential risks and ensure that the patient's medical history and allergies are well understood by the medical team. By providing accurate and up-to-date information, the form helps to reduce the risk of complications during and after the procedure. It's essential that the form is completed accurately and thoroughly, and that it's checked for duplication and relevance before submission. This form is intended for use by patients who are planning to undergo surgery or other invasive procedures, and should be reviewed and signed by the patient before submission.</thinking>
-
 # Pre Op Clearance Form - Help Guide
 ## Purpose
 The Pre Op Clearance Form is used to collect and record important medical information before a patient undergoes surgery or other invasive procedures.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from golfers for booking a golf course. It is intended to gather details such as the golfer's name, contact information, and preferences for the booking. The form should be used by golf course staff to efficiently collect and process booking requests.
-
-The form is not intended for public use, so it's likely only available to internal users, possibly through a login system. 
-
-The form may contain redundant fields or options, which should be removed for a more streamlined user experience.
-
-It's assumed that the form is used to book tee times and handle reservations for the golf course. The number of players and holes played will be used to determine the capacity and logistics of the booking. 
-
-The form will likely be used by a variety of users, so a clear and concise explanation will be beneficial for a smooth and efficient user experience.
-
-</thinking>
-
 # Golf Booking Form - Help Guide
 ## Purpose
 

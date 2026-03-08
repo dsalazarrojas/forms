@@ -1,9 +1,3 @@
-<thinking>
-Is this form used to help users find skincare products based on their skin type, concerns, and current products used? This form likely helps identify user preferences and concerns to provide personalized product recommendations.
-
-Is this form redundant with existing products or processes within the organization? If so, what are the differences and how can it be improved or streamlined?
-</thinking>
-
 # Skincare Quiz - Help Guide
 
 ## Purpose

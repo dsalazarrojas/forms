@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_termination_discharge_form - Help Guide
 
 ## Purpose

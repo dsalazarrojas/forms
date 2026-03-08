@@ -1,7 +1,3 @@
-<thinking>
-This form is a job application form for JIS, designed to collect information from individuals interested in teaching positions. It is not affiliated with or endorsed by any form platform, and its content is generated using public survey topic metadata as inspiration. The purpose of this form is to gather relevant information from applicants, ensuring that it is accurate and easy to read. Before starting, please ensure that you are completing this form for a genuine reason, avoiding duplication. If you are unsure, review this help guide before proceeding.
-</thinking>
-
 # Teaching Job Application For JIS - Help Guide
 
 ## Purpose

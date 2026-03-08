@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to evaluate the implementation of healthcare policies. It assesses the policy's status, effectiveness, and impact on healthcare services. This form is intended for use by healthcare professionals to provide feedback on policies that have been implemented or are planned to be implemented. The form's questions are meant to gather information on the policy's title, area of focus, description, status, and effectiveness. The form also asks about potential barriers and benefits of the policy, as well as its recommendation and awareness among healthcare staff. 
-
-This form is likely to be used by healthcare administrators, policymakers, or researchers to gather data on the effectiveness of healthcare policies. It is essential to complete this form accurately and thoroughly to ensure that the data collected is reliable and useful for decision-making purposes. 
-
-Please ensure that you have the necessary permissions and approvals before completing this form, as it may contain sensitive information.
-
-Also, note that this form is part of a larger process, and your input will be reviewed and analyzed to identify areas for improvement in healthcare policies. 
-
-Please answer the questions based on your genuine experiences and knowledge about the healthcare policy in question.
-
-</thinking>
-
 # Healthcare Policy Implementation Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the implementation of healthcare policies. It gathers information on the policy's status, effectiveness, and impact on healthcare services.

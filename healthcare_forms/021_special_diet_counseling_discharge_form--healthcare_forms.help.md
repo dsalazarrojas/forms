@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document the patient's discharge status, including their discharge date, dietary restrictions, and any other relevant information such as follow-up appointments, healthcare providers, patient allergies, and medications. This form is likely to be used by healthcare professionals to ensure that patients with specific medical conditions or allergies are properly discharged and monitored after their treatment. It is essential to fill out this form accurately to prevent any potential risks or complications.
-
-To avoid duplication of effort, please fill out this form carefully, ensuring that all required fields are completed before submitting. This form should only be filled out once after a patient has been discharged from treatment.
-</thinking>
-
 # Special Diet Counseling Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge status of patients, including their dietary restrictions, medical conditions, and follow-up appointments.

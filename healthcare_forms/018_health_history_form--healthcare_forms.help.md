@@ -1,12 +1,3 @@
-<thinking>
-To ensure that this form is relevant and not a duplicate, let's review its purpose. The "health_history_form" is designed to collect patient information, contact details, and medical history for healthcare-related purposes. This form aims to gather essential data that healthcare professionals can utilize to provide personalized care and services.
-
-Before proceeding with this form, please confirm that you are a healthcare professional or a patient seeking medical care. Additionally, ensure that the information you provide is accurate and up-to-date.
-
-The form has three sections: personal information, contact details, and medical history. Each section is self-explanatory, and the fields are labeled and described in the following guide.
-
-</thinking>
-
 # health_history_form - Help Guide
 ## Purpose
 This form is designed to collect patient information, contact details, and medical history for healthcare-related purposes.

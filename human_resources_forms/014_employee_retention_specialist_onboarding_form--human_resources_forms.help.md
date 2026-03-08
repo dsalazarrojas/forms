@@ -1,8 +1,3 @@
-<thinking>...
-The form "Employee Retention Specialist Onboarding Form" is designed to collect essential information about new employees, specifically those who are part of the employee retention department. The primary goal of this form is to onboard new team members and ensure a smooth transition into their new role within the company.
-...
-</thinking>
-
 # Employee Retention Specialist Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to gather crucial information about new employees joining the employee retention team. This includes basic personal details such as their name and contact information.

@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for residential or commercial property inspections, where an inspector collects information about the property, its condition, and the inspection process. The form might be used by real estate agents, property managers, or government agencies to assess the property's condition, identify potential issues, and provide a record of the inspection results. This form's purpose is to gather relevant information to help inspectors and stakeholders understand the property's condition. 
-
-Please review the provided fields and ensure this guide covers all the necessary aspects for end-users to complete the form accurately and efficiently.
-</thinking>
-
 # Home Inspection Form - Help Guide
 ## Purpose
 This form is used for conducting home inspections, gathering information about the property's address, date of birth of occupants, phone number, email, inspection type, inspector's name, inspection results, inspection date, agent's name, inspector's license, and other relevant details. The goal is to collect comprehensive data to aid in assessing the property's condition and identifying potential issues.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about workplace injuries, their causes, and the steps taken to address them. It's designed to ensure that incidents are documented thoroughly and efficiently, reducing the risk of future occurrences. Before proceeding, please confirm that this form is the correct one to use in your situation, as it's meant for workplace-specific injuries only. Make sure to fill in all required fields to ensure the form is complete and accurate.
-</thinking>
-
 # workplace_injury_report_form - Help Guide
 ## Purpose
 This form is used to report workplace injuries and their details. It's essential to fill in all required fields carefully and accurately to ensure the incident is properly documented.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document an employee's fitness for duty, which means their ability to perform their job safely and without any physical or mental limitations. The purpose of this form is to gather information about an employee's current status and any related medical conditions or injuries that may affect their ability to work. This form is typically used by supervisors or HR personnel to assess an employee's fitness for duty and make decisions about their return to work.
-
-</thinking>
-
 # fitness_for_duty_form - Help Guide
 ## Purpose
 This form is used to document an employee's fitness for duty, which means their ability to perform their job safely and without any physical or mental limitations.

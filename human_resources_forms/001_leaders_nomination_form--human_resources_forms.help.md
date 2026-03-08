@@ -1,11 +1,3 @@
-<thinking>
-The Leaders Nomination Form is a tool used by organizational leaders to nominate team members who possess exceptional skills, strengths, and qualities that can aid in the growth and improvement of the team. Before completing this form, ensure that the leader being nominated is not currently being nominated for the same award or recognition, and that there is no conflict of interest or duplicate nominations for the same leader. This will help ensure a fair and unbiased nomination process.
-
-Please note that the form is designed to capture essential information about the leader's qualifications, strengths, and areas for improvement. The nomination process involves providing detailed information about the leader, including their name, leadership position, expertise, and areas of improvement. Additionally, the form requires an assessment of the leader's nomination status and type.
-
-This guide will walk you through each field in the Leaders Nomination Form to help you provide accurate and comprehensive information.
-</thinking>
-
 # Leaders Nomination Form - Help Guide
 ## Purpose
 The Leaders Nomination Form is used to collect information about exceptional team members who have demonstrated outstanding skills, strengths, and qualities that can aid in the growth and improvement of the team.

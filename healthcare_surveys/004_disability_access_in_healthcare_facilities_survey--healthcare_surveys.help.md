@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the accessibility features and barriers in healthcare facilities. This data will help healthcare providers understand the needs of patients with disabilities and take steps to improve their facilities' accessibility. The survey will cover various aspects of accessibility, including physical and sensory accessibility, and allow respondents to provide suggestions for improving the accessibility of their facilities.
-</thinking>
-
 # Disability Access In Healthcare Facilities Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from couples seeking therapy sessions. It will help the couples therapist understand their relationship dynamics, communication patterns, and treatment preferences. This form ensures that both partners have a chance to provide their insights on their relationship, which is essential for effective couples counseling. It also gathers payment information to facilitate the treatment process.
-
-</thinking>
-
 # Couples Therapy Intake Form - Help Guide
 
 ## Purpose

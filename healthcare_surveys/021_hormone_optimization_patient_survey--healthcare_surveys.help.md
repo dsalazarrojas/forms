@@ -1,7 +1,3 @@
-<thinking>
-This guide is being created as a one-time task. This form, "Hormone Optimization Patient Survey", is part of a larger set of surveys used to gather information about patients' health and lifestyle habits related to hormone optimization. The purpose of this survey is to help healthcare professionals understand the patient's current symptoms, medical history, and other factors that may be impacting their hormone levels. This information can be used to provide personalized recommendations for hormone optimization.
-</thinking>
-
 # Hormone Optimization Patient Survey - Help Guide
 
 ## Purpose

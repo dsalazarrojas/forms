@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess a person's risk of suicide. The questions asked in this form aim to identify potential suicidal thoughts, feelings, and behaviors that may indicate a risk of suicide. The assessment is meant to be used in a clinical setting to identify individuals who may be at risk and to guide further evaluation and treatment. Please note that this form is not a substitute for professional medical evaluation. 
-
-</thinking>
-
 # Suicide Risk Assessment Form - Help Guide
 ## Purpose
 The Suicide Risk Assessment Form is designed to help identify individuals who may be at risk of suicide. Please complete the form if you are experiencing suicidal thoughts, feelings, or engaging in risk-taking behaviors.

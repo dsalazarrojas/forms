@@ -1,7 +1,3 @@
-<thinking>
-This form is a Family Planning Application Form designed to collect user information, demographic data, and medical history for family planning purposes. The form is divided into multiple pages, each with its own set of fields. This form does not have any specific industry or company affiliation, and it's an AI-generated adaptation based on public survey metadata. It is an original creation and does not use proprietary content from any form platform.
-</thinking>
-
 # Family Planning Application Form - Help Guide
 ## Purpose
 This form is intended to gather information about the user, including their demographics, medical history, and contact details. The form can be used by healthcare professionals to assess the user's suitability for family planning services.

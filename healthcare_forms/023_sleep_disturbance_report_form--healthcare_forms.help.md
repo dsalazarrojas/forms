@@ -1,13 +1,3 @@
-<thinking>
-To confirm the purpose and relevance of this form, let's break down the fields and potential uses:
-- The form is designed to collect various data points related to sleep disturbances, such as sleep patterns, quality, and duration. 
-- It also inquires about medical history, sleep environment, and medications. 
-- Several fields are related to sleep metrics, like sleep latency, wake time, and sleep efficiency. 
-- There seems to be some overlap between fields, which might be a result of redundant or inconsistent data entry. 
-- To ensure the form serves its purpose effectively, let's review the fields to identify potential redundancy and make sure each field is used correctly. 
-- This form is likely used by healthcare professionals to assess and manage sleep disturbances in patients.
-</thinking>
-
 # Sleep Disturbance Report Form - Help Guide
 ## Purpose
 The Sleep Disturbance Report Form is designed to collect detailed information about a patient's sleep patterns, quality, and environment. This form is typically used by healthcare professionals to assess and manage sleep disturbances in patients.

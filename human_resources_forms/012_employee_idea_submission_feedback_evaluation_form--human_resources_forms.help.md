@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to provide a structured way for employees to submit their ideas for evaluation and feedback. This form is used to assess the feasibility and potential impact of each idea, ensure that it aligns with the company's goals and objectives, and make informed decisions about its implementation. 
 
 When submitting ideas, employees should only do so once per idea, and ensure that the idea is not already in the pipeline for review. 

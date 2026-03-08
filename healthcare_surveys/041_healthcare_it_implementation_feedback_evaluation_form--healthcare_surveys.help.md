@@ -1,6 +1,3 @@
-<thinking>
-Please note that this form is a feedback evaluation form, intended to help healthcare organizations collect information about their Healthcare IT (HIT) implementation. The form is meant to gather data on the effectiveness, ease of use, and overall satisfaction of the implemented technology. This form should be used by healthcare professionals and employees to provide input on their experience with the HIT implementation, which will aid in making data-driven decisions for future technology improvements.</thinking>
-
 # Healthcare IT Implementation Feedback Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a standard patient-facing form used in the healthcare industry. It is used to record and document patient data, medical history, medication, patient goals, assessment and plan, patient outcomes, follow-up appointments, additional notes, medical contact information, and submission. 
-</thinking>
-
 # Rheumatology Clinic Monthly Report Form - Help Guide
 ## Purpose
 The Rheumatology Clinic Monthly Report Form is used to record and document the patient's information, medical history, goals, and follow-up plans for the rheumatology clinic. It is designed to provide a comprehensive overview of the patient's status and ensure that their medical needs are met.

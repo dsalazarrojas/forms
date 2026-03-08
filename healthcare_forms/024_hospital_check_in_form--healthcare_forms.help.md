@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to provide their information and medical history to the hospital. The purpose of this form is to ensure that patients provide accurate and comprehensive information to the hospital staff to provide better care. It is a general form and not specific to any particular medical condition or treatment. It is recommended that patients fill out this form carefully and thoroughly to avoid any potential issues during their stay.
-</thinking>
-
 # Hospital Check In Form - Help Guide
 ## Purpose
 The Hospital Check In Form is a general form designed to collect patient information and medical history to ensure that our staff provides you with the best possible care during your stay.

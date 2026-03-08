@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to obtain a pet boarding waiver and consent from pet owners before boarding their pets. The form is used to gather information about the pet's owner, their boarding preferences, and the owner's consent for the pet to be boarded. This form is likely used by pet boarding facilities or hotels to ensure that the owner's wishes and expectations are met and to protect both the pet and the facility.
-
-Before creating a help guide for this form, we need to check if similar forms already exist and if this form is necessary. If it is, we can continue.
-
-This help guide will cover the purpose, steps to complete, and a field-by-field explanation of the form, making it easy for pet owners to understand the information required and what to expect.
-
-</thinking>
-
 # Pet Boarding Waiver And Consent Form - Help Guide
 ## Purpose
 The Pet Boarding Waiver And Consent Form is used to obtain a waiver and consent from pet owners before boarding their pets. This form ensures that the pet owner's wishes and expectations are met and protects both the pet and the boarding facility.

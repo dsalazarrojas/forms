@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees about their experiences and preferences regarding the workplace feedback channel. The form is intended to gather information on various aspects of the feedback channel, including the employee's ID, name, email, preferred feedback channel, comment, contact request, time of day, manager's ID, department, feedback frequency, employee department, channel preference, manager name, feedback request, follow-up details, and last contact information. This form is meant to be completed by employees to provide their honest feedback and suggestions for improving the workplace feedback channel.
-
-To prevent duplication and ensure relevance, this form should only be used for legitimate feedback purposes and not for other reasons such as reporting incidents or making personal complaints.
-
-Before filling out this form, please make sure you are providing genuine feedback to help us improve the workplace feedback channel.
-
-</thinking>
-
 # workplace_feedback_channel_survey - Help Guide
 ## Purpose
 The workplace feedback channel survey is a tool designed to collect feedback from employees on their experiences and preferences regarding the feedback channel. This form will help us understand your needs and preferences to improve the channel.

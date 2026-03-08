@@ -1,6 +1,3 @@
-<thinking>
-The Phone Screening Form is designed to collect contact information, employment status, available date, and other relevant details from a user to facilitate a phone screening process. This form is likely used in a hiring process or recruitment setting, where the goal is to gather necessary information from applicants or candidates. The form appears to be a comprehensive one, with multiple fields for contact details, employment status, and other work-related information. This guide will provide a step-by-step explanation of each field to help users complete the form accurately and efficiently.</thinking>
-
 # Phone Screening Form - Help Guide
 ## Purpose
 This form is designed to gather contact information, employment status, and other relevant details from a user to facilitate a phone screening process.

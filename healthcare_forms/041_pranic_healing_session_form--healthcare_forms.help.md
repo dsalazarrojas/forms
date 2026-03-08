@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture details about a Pranic Healin session, which is a type of energy healing treatment. The form will be used to record information about the session, including the client's details, session dates and times, status, and notes. 
-
-This form is intended for use by healthcare professionals to record and manage Pranic Healin sessions. 
-
-Please note that this form should only be used for Pranic Healin sessions and not for other types of treatments or sessions. 
-
-Also, please ensure that you are using the correct options for each field as per the form's requirements. 
-
-</thinking>
-
 # Pranic Healin Session Form - Help Guide
 ## Purpose
 

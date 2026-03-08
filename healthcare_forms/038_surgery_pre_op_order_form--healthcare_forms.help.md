@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be for medical professionals to document a patient's information prior to surgery. It's likely used to gather essential data for the patient's medical history, allergies, and system review. The form might be used in conjunction with other patient data, such as lab results or radiology images, to inform the surgical team about the patient's overall health status.
-
-To confirm, the form is not a part of any proprietary platform, and its content is based on publicly available metadata about surgery pre-op forms. The form's design is an AI-generated adaptation of this metadata, with the goal of being user-friendly and easy to use.
-
-Before proceeding, ensure that this form is not already covered by another, similar form within your organization, and that it aligns with your current workflows and policies.
-
-</thinking>
-
 # surgery pre op order form - Help Guide
 ## Purpose
 This form is designed to help medical professionals document a patient's information before surgery, gathering essential data for the surgical team to review.

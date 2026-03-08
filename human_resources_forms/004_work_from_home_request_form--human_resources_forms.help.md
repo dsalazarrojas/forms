@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request to work from home on a specific day. It is essential that only one request per employee per day is made to avoid overloading the team with unnecessary requests.
-Before submitting this form, please ensure that you have not already made a request for the same day. Re-submissions will be reviewed on a case-by-case basis.
-</thinking>
-
 # Work From Home Request Form - Help Guide
 ## Purpose
 This form is designed to help employees request to work from home on a specific day. It allows employees to provide their details, reasons for requesting to work from home, and other relevant information that will be reviewed by the approved staff member.

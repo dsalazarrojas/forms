@@ -1,5 +1,3 @@
-<thinking>...The PRP Consent Form is a healthcare-specific form designed to gather information and consent from patients. This form is likely used to collect patient data and ensure informed consent for medical treatment or procedures. Please ensure you are using the correct form and that this documentation aligns with your organizational policies and procedures before completing it. If you're unsure, consult with a healthcare professional or your organization's relevant department...</thinking>
-
 # PRP Consent Form - Help Guide
 ## Purpose
 The PRP Consent Form is a healthcare form used to gather information and obtain consent from patients before medical treatment or procedures. This form captures patient contact information, medical history, and consent statements.

@@ -1,12 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Animal Shelter Emergency Preparedness Survey" form. This guide will ensure that the end-users understand the purpose of the form, how to complete it, and what each field means. We will also cover all 28 fields that make up the form, making sure that each one is explained clearly and concisely.
-
-The form is part of the "healthcare_surveys" category and is designed to help animal shelter organizations prepare for emergency situations. It covers various aspects of emergency preparedness, including plans, evacuation, resources, communication, and challenges. The guide will be structured around these categories and cover each field in detail.
-
-Before we start, let's review the form fields and their properties to ensure we cover all the essential information. The form is divided into six sections: Shelter Name, Contact Information, Organization Type, Animal Care, Emergency Plan, Evacuation, Resources and Supplies, Communication, and Challenges. Each section is designed to gather specific information about the organization's emergency preparedness.
-
-</thinking>
-
 # Animal Shelter Emergency Preparedness Survey - Help Guide
 ## Purpose
 The Animal Shelter Emergency Preparedness Survey is a tool for animal shelter organizations to assess their emergency preparedness. The survey covers various aspects of emergency preparedness, including plans, evacuation, resources, and communication. This guide will walk you through each field in the survey, ensuring you understand what information is required and how to complete it accurately.

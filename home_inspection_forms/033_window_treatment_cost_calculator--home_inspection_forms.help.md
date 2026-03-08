@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Window Treatment Cost Calculator form. This form is designed to estimate the total cost of window treatments, including fabric and labor costs, based on the measurements of windows. The form is meant to be a quick and easy-to-use tool for users to calculate costs without requiring extensive background knowledge or expertise. Please note that this form does not account for all possible variables that may affect window treatment costs and should be used as a rough estimate only.
-
-Before using this form, ensure that you are not duplicating work that has already been done. If you have previously calculated the costs for similar windows, consider using those results instead of recreating the form.
-
-This guide assumes that users are familiar with basic arithmetic operations and can follow the instructions provided.
-
-</thinking>
-
 # Window Treatment Cost Calculator - Help Guide
 ## Purpose
 The Window Treatment Cost Calculator is a form designed to provide an estimate of the total cost of window treatments, including fabric and labor costs, based on the measurements of windows.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the discharge process of patients from mental health facilities. It is essential to ensure that all necessary information is captured to facilitate smooth and safe discharges. The form should only be completed by authorized personnel in the facility.
-
-</thinking>
-
 # Mental Health Facility Discharge Form - Help Guide
 ## Purpose
 

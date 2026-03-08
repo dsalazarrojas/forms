@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on a person's mental health status, coping mechanisms, and access to support during the pandemic. The goal is to assess an individual's emotional well-being and provide personalized recommendations for self-care and professional support. This form should only be filled out once per individual and not be used as a replacement for professional diagnosis or therapy. Please ensure that the information collected is accurate and honest.
-
-</thinking>
-
 # pandemic_mental_health_survey - Help Guide
 ## Purpose
 This form is intended to help individuals assess their mental health status, coping mechanisms, and access to support during the pandemic.

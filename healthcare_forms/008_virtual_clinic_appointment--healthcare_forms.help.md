@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information for a virtual clinic appointment. This form is used to gather details about the patient, the appointment type, date, time, physician name, medical record, insurance provider, appointment duration, and follow-up needs. This information will be used to create a virtual clinic appointment schedule and prepare for the consultation. Before proceeding, ensure that the form is not a duplicate and that the provided information is accurate and relevant. Please review the form carefully to ensure a smooth and efficient virtual clinic appointment process.
-
-</thinking>
-
 # Virtual Clinic Appointment - Help Guide
 ## Purpose
 The Virtual Clinic Appointment form is designed to collect necessary information for a virtual clinic appointment. This form is used to gather details about the patient, appointment type, date, time, physician name, medical record, insurance provider, appointment duration, and follow-up needs.

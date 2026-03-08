@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to facilitate communication between healthcare providers and patients. Its purpose is to collect and record relevant information about the patient's medical record, including their name, contact information, medical history, and communication preferences. This form is likely used in healthcare settings where providers need to communicate with patients, such as hospitals, clinics, or private practices.
-
-</thinking>
-
 # medical_record_communication_form - Help Guide
 ## Purpose
 The medical record communication form is a tool for healthcare providers to collect and record relevant information about a patient's medical record. This information is used to ensure effective communication between the provider and the patient.

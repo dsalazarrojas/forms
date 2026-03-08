@@ -1,12 +1,3 @@
-<thinking>
-This is a help guide for a form designed for healthcare organizations. The form, named "tell_us_about_yourself", is designed to collect demographic and personal information from individuals, aiming to gather data about their characteristics, employment status, and other relevant details. The form is likely used to create a comprehensive dataset for analysis, research, or administrative purposes.
-
-Before starting the form, it's essential to ensure that the information provided is accurate and up-to-date. If you've filled out this form previously, please review your answers carefully to confirm they are still correct.
-
-The form consists of 28 fields, which can be divided into several categories, including personal details, employment status, and contact information. Please take your time to fill out the form accurately and completely.
-
-</thinking>
-
 # tell_us_about_yourself - Help Guide
 ## Purpose
 This form collects demographic and personal information to create a comprehensive dataset for analysis, research, or administrative purposes.

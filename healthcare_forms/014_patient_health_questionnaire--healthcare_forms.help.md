@@ -1,13 +1,3 @@
-<thinking>
-
-The Patient Health Questionnaire form is designed to collect detailed information about a patient's health history and medical conditions. The form has been generated based on public survey metadata in the healthcare industry and is not affiliated with any specific form platform.
-
-This form is intended to be used for general healthcare purposes, such as patient intake, medical histories, and health assessments. It is not meant to be used for emergency situations or as a substitute for professional medical advice.
-
-Before filling out this form, please ensure that you are not duplicating any existing patient information and that you are not attempting to create multiple versions of the same patient form.
-
-</thinking>
-
 # Patient Health Questionnaire - Help Guide
 ## Purpose
 The Patient Health Questionnaire is a comprehensive form designed to collect detailed information about a patient's health history and medical conditions. This form is intended to be used for general healthcare purposes, such as patient intake, medical histories, and health assessments.

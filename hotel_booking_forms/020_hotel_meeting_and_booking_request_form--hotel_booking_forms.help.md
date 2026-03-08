@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users for hotel meetings and bookings. The fields are categorized into different sections to ensure that users can easily provide the necessary details for the event. The form should only be filled out once for each specific meeting or booking request. Repeatedly filling this form with the same information may lead to duplicate records in the system.
-</thinking>
 # Hotel Meeting And Booking Request Form - Help Guide
 ## Purpose
 This form is used to gather information for hotel meetings and bookings. It helps us understand the requirements of the event, ensuring that the meeting or booking can be arranged effectively and efficiently.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holiday Giving Campaign Registration Form - Help Guide
 
 ## Purpose

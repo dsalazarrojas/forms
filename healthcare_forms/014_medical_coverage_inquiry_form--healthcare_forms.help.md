@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather user information and medical coverage details for potential clients or customers. This form is designed to be completed by users who seek medical coverage or insurance services. To prevent duplicate submittals, users with the same name will receive a notification that they must be unique. This check is performed to ensure that users have a unique identifier in the system.
-</thinking>
-
 # medical_coverage_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect user information and medical coverage details for potential clients or customers.

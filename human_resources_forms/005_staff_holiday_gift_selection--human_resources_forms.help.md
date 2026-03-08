@@ -1,11 +1,3 @@
-<thinking>
-This form is used by HR teams to collect information about employee preferences for holiday gifts, including delivery methods, gift types, and confirmation of receipt. The form is intended to be completed by employees, and the information collected will help HR teams make informed decisions about holiday gift distribution.
-
-The Staff Holiday Gift Selection form consists of 9 fields across 1 page. Each field is designed to be completed by the employee, providing insight into their preferences and requirements.
-
-The fields and their corresponding explanations are as follows:
-</thinking>
-
 # Staff Holiday Gift Selection - Help Guide
 ## Purpose
 The Staff Holiday Gift Selection form is used by HR teams to collect information about employee preferences for holiday gifts.

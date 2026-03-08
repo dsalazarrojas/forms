@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "Screen For Child Anxiety Related Disorders 2" form. This form is designed to help identify potential anxiety-related disorders in children, with questions for the child's name, parent's name, child's age, anxiety level, fears, sleep difficulties, eating difficulties, social difficulties, concentration difficulties, and anxiety disorder diagnosis and symptoms. The form asks both parents to provide their child's information, so you will be asked to fill out the form twice, once with your child's information and once with your own contact information. Please note that this form is not meant to be a definitive diagnostic tool, but rather a starting point for further evaluation and consultation with a qualified healthcare professional.
 
 # Screen For Child Anxiety Related Disorders 2 - Help Guide

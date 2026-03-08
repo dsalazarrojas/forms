@@ -1,8 +1,4 @@
-> <thinking>...
-This form is designed for evaluating the performance of employees in the food service department. It is meant to provide an assessment of the employee's strengths and weaknesses, as well as identify areas for improvement. Please use this form to collect feedback from supervisors or managers who have direct experience working with the employee. Ensure that only authorized personnel complete this form, as it involves sensitive information about individual employees. This form was generated based on the standard format for performance evaluations in the human resources category.
-</thinking>
-
-# Food Service Employee Evaluation Form - Help Guide
+> # Food Service Employee Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of an employee in the food service department. It collects feedback on their strengths, weaknesses, and areas for improvement.
 

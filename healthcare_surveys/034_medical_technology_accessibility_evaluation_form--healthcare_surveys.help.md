@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Technology Accessibility Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the accessibility of medical technology, such as electronic health records, telemedicine, and medical apps, to identify areas for improvement and provide input for healthcare organizations to enhance patient care. Please note that this form is specific to the Medical Technology Accessibility Evaluation Form and is used to gather information from patients or healthcare providers to understand the usability and accessibility of medical technology.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # f45 Greatwood Par Q Form - Help Guide
 
 ## Purpose

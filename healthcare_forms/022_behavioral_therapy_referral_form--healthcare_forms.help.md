@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Behavioral Therapy Referral Form - Help Guide
 ## Purpose
 This form is used to refer patients to behavioral therapy services for mental health treatment. It collects information about the patient's referral status, personal details, clinical diagnosis, treatment history, and requested services.

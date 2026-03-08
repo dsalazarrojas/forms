@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently to collect accurate information from day workers. To confirm, this form is intended for gathering data from temporary workers, typically for a specific project or period, and will be used to create a schedule for their work assignments. The goal is to capture essential details about each worker, including contact information, availability, and experience, to efficiently coordinate their work. 
-</thinking>
-
 # Day Worker Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about day workers for scheduling and coordination purposes.

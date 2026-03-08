@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request an estoppel in a Homeowners Association context, which is likely related to property management or legal matters. The form is meant to capture information from the homeowner regarding their estoppel type, name, address, phone number, email, authorization dates, delivery preferences, and any additional notes. It's possible that this form is used for internal purposes within a company or organization, possibly for record-keeping or documentation.
-
-Before proceeding, it's essential to verify that this form is not a duplicate or unnecessary, and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Homeowners Association Estoppel Request - Help Guide
 ## Purpose
 The Homeowners Association Estoppel Request form is used to obtain information from homeowners regarding their estoppel type, name, address, phone number, email, authorization dates, delivery preferences, and additional notes. This form is likely used for property management or legal purposes.

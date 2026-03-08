@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from new patients, focusing on their personal details, contact information, and medical history. The form is meant to be a comprehensive tool to gather necessary data for patient care and treatment. Please ensure that the form is filled out correctly and accurately, and that the information is not duplicated or incomplete. This form is intended for use by medical professionals and patients, and the data collected will be used for patient care and treatment purposes only.
-</thinking>
-
 # new_patient_enrollment_form - Help Guide
 ## Purpose
 The new patient enrollment form is designed to collect comprehensive information from new patients, including their personal details, contact information, and medical history. This information is essential for patient care and treatment.

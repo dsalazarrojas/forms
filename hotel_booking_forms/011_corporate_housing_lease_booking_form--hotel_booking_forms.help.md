@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a corporate housing lease booking request. It is intended to be used by employees or representatives of a company to book accommodations for business travel purposes. The purpose of the form is to gather essential details about the booking, including arrival and departure dates, cities and airports of arrival and departure, number of guests, and accommodation preferences. This form is likely to be used in an HR or travel department of a company.
-
-Please ensure you have all the necessary information before completing this form to ensure accurate submission. If you are booking for multiple people, please fill out this form multiple times and submit each one separately.
-
-This form should only be used for corporate housing lease bookings and not for personal or leisure travel bookings.
-
-</thinking>
-
 # corporate_housing_lease_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information for a corporate housing lease booking request.

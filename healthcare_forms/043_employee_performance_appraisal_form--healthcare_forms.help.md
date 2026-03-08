@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be used by managers or HR personnel to conduct regular employee performance appraisals. The purpose of the form is to assess an employee's performance over a specific period, identify areas for improvement, and provide feedback and guidance for future development. This form is typically used as part of the regular review process, where employees are evaluated on their job performance, goals, and overall contribution to the organization. By using this form, managers can ensure that employees receive consistent and fair feedback, and that performance issues are addressed in a timely and constructive manner.
-
-</thinking>
-
 # Employee Performance Appraisal Form - Help Guide
 ## Purpose
 The Employee Performance Appraisal Form is a tool used to evaluate an employee's performance over a specific period. It is designed to provide a comprehensive assessment of an employee's goals, achievements, and areas for improvement.

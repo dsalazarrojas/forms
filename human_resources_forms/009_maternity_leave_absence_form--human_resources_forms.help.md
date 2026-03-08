@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maternity Leave Absence Form - Help Guide
 
 ## Purpose

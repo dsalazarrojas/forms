@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a hospice agency's operations, services, and qualifications. This form is used to gather data that will help the agency's leadership and management team better understand the agency's current state and plan for the future. 
-
-Before filling out this form, please review the following guidelines to ensure you are providing accurate and relevant information:
-
-* This form is intended for use by agencies that provide hospice care and services.
-* Please only fill out the form for your own agency.
-* Do not provide information about other agencies or entities.
-* Be as specific and detailed as possible in your responses.
-* Review your answers for accuracy and completeness before submitting the form.
-</thinking>
-
 # hospice-agency-questionnaire-form - Help Guide
 ## Purpose
 This form is designed to collect information about your hospice agency's operations, services, and qualifications.

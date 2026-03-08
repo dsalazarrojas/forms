@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Patient Monitoring Confidence Survey - Help Guide
 
 ## Purpose

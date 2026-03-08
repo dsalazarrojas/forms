@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a tool for evaluating the effectiveness and quality of our database systems. It's intended to gather feedback from users to help us improve our systems and services. To ensure the form is relevant to your needs, please consider the following:
-
-* This form is for assessing the overall quality and functionality of our database systems.
-* The form is designed to be a self-assessment tool, meaning you will be evaluating your own experience with our systems.
-* Please answer the questions truthfully and to the best of your abilities.
-
-If you've already provided feedback on this topic, you may not need to complete this form again. However, if you've experienced changes or updates to our systems since your last evaluation, your feedback is still valuable and appreciated.
-
-</thinking>
-
 # personnel_database_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback on the quality and usability of our database systems. Your responses will help us identify areas for improvement and make informed decisions to enhance your experience.

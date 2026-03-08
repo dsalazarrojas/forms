@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users on their demographics and health-related metrics. It's meant to be used for health coaching purposes. Please note that this form is not intended for clinical diagnosis or medical evaluation. If you're unsure about any question or value, please seek medical attention from a qualified professional.
-
-</thinking>
-
 # health_coaching_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from users on their demographics and health-related metrics for health coaching purposes.

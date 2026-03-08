@@ -1,10 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the Informed Consent For Counseling Form to ensure end users understand its purpose, how to complete it, and what each field means.
-
-This form is used to obtain informed consent from clients before commencing counseling sessions. It's essential that clients acknowledge and understand their rights, the counseling process, and agree to the terms of counseling. By completing this form, clients demonstrate their willingness to engage in the counseling process, which is a crucial aspect of providing confidential and respectful services.
-
-</thinking>
-
 # Informed Consent For Counseling Form - Help Guide
 ## Purpose
 The Informed Consent For Counseling Form is a crucial document that clients must complete before starting counseling sessions. It serves as a record of their understanding and agreement to the counseling process and terms.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for hotel room reservations. This form is designed to be used in conjunction with Skrill, an online payment system. The form is used to collect various details such as customer's first and last names, email, phone number, desired date and time of visit, note, Skrill ID, booking date, check out date, room type, number of rooms, room price, payment method, credit card number, CVV, and expiration date. This form aims to provide a convenient and streamlined process for customers to make hotel reservations while using Skrill for secure payment processing.
-
-This form should be used by customers to provide their information accurately and securely. Please review the fields carefully to ensure you have filled out all required and optional fields correctly.
-
-Before proceeding, please note that this form is designed specifically for hotel reservations with Skrill. If you're looking to book a hotel reservation without using Skrill, please use our alternative form.
-
-Also, please be aware that certain fields may be required or optional depending on your specific reservation needs. Required fields are marked as "required" in the form.
-
-Please use this guide to walk through the form carefully and ensure you complete it accurately and securely.
-</thinking>
-
 # Hotel Reservation Form With Skrill - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for hotel room reservations while utilizing Skrill as the payment method.

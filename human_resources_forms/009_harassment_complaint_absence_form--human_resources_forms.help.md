@@ -1,8 +1,3 @@
-<thinking>
-The "Harassment Complaint Absence Form" is designed for reporting incidents of harassment in the workplace. This form is intended to capture information about incidents of harassment, including the type of incident, the date and location of the incident, and the resolution status. To ensure that all incidents are thoroughly investigated and addressed, it is essential to provide accurate and detailed information about each incident. Please ensure that you are filling out this form for the correct reason and not duplicating efforts.
-
-</thinking>
-
 # Harassment Complaint Absence Form - Help Guide
 ## Purpose
 The "Harassment Complaint Absence Form" is designed to document incidents of harassment in the workplace, enabling the relevant authorities to investigate and address these incidents efficiently and effectively.

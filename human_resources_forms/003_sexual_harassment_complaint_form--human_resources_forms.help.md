@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sexual Harassment Complaint Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The lounge_amenities_survey form is a tool used to collect feedback on the quality of lounge services provided in a hospitality environment, such as hotels, restaurants, or airports. The form is designed to help identify areas of strength and weakness in the amenities and services offered to guests, with the goal of improving overall guest satisfaction and loyalty. 
-
-The survey typically includes questions about various aspects of the lounge experience, including guest information, ratings of food, drinks, and staff, as well as feedback on available amenities and any additional comments or suggestions guests may have. 
-
-This form is likely to be used by hospitality staff to monitor and improve the overall quality of services offered in the lounge, ensuring that guests have a positive experience.
-
-</thinking>
-
 # lounge_amenities_survey - Help Guide
 ## Purpose
 The lounge amenities survey is a tool designed to gather feedback on the quality of lounge services to help identify areas of improvement and increase guest satisfaction.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from end-users for the purpose of enquiring about nursing services. It is a template that will be filled out by clients or patients to request for services such as consultation, appointment, or other services offered by healthcare professionals. The form is meant to be completed by providing basic information such as name, contact information, and other relevant details. It will help healthcare professionals to understand the client's needs and provide the necessary services in a timely and efficient manner...</thinking>
-
 # nursing-services-enquiry-form-template - Help Guide
 ## Purpose
 This form is designed to collect information from clients or patients for enquiring about nursing services. It is a template that will help healthcare professionals to understand the client's needs and provide the necessary services.

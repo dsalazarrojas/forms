@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record and store data regarding an interview conducted for a candidate. It is meant to be completed by the person conducting the interview to provide a comprehensive and fair evaluation of the candidate's performance. 
-This form should only be used for recording interviews of candidates, not for any other type of evaluation or assessment. To ensure accurate and consistent data, it's crucial to fill out this form for each candidate's interview separately.
-</thinking>
-
 # Interview Scorecard Form - Help Guide
 ## Purpose
 The Interview Scorecard Form is used to record and store data regarding an interview conducted for a candidate. This form is designed to provide a comprehensive and fair evaluation of the candidate's performance.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the details of the Employee Overtime Survey, let's take a moment to understand its purpose and relevance. This form is designed to gather feedback from employees on their experiences with rendering overtime, which is a crucial aspect of ensuring that they are working effectively and efficiently. The information collected through this form will help management identify areas where overtime procedures can be improved, reducing the likelihood of burnout and fatigue among employees. It's essential to complete this form honestly and thoroughly to provide valuable insights. If you have already filled out a similar form, please review your answers and update them with any new information you'd like to share.</thinking>
-
 # Employee Overtime Survey - Help Guide
 ## Purpose
 The Employee Overtime Survey is a crucial tool for gathering insights into employees' experiences with rendering overtime. Your input will help management identify areas where overtime procedures can be improved to better support you and your colleagues.

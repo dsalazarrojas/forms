@@ -1,10 +1,3 @@
-<thinking>
-This form is a template for creating a pre-operative order form in a medical setting, specifically for plastic surgery procedures. The form aims to collect essential information about the patient, their medical data, and the planned surgery and medications. It is not intended for actual patient registration or appointment scheduling; its purpose is to serve as a guide for medical staff to document patient data and surgical details before the procedure.
-
-To avoid duplication of effort, this form should only be used for new patients or when significant changes occur in the patient's medical history or surgery details. If the patient has already been registered or has a pre-existing surgery order form, use that instead.
-
-</thinking>
-
 # Plastic Surgery Pre Op Order Form - Help Guide
 ## Purpose
 This form is designed to gather and document essential information about patients undergoing plastic surgery procedures. It will help medical staff prepare for the surgery and ensure that all necessary data is collected and reviewed before the procedure.

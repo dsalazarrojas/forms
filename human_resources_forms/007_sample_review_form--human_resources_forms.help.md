@@ -1,7 +1,3 @@
-<thinking>
-The "Sample Review Form" is designed to gather feedback from employees about a specific performance area in which they are being reviewed. The form is typically used by managers or supervisors to conduct regular check-ins with employees, focusing on their strengths, weaknesses, and areas for improvement. This form helps employees grow professionally and provides valuable insights for managers to make informed decisions about development opportunities and performance evaluations. Ensure that the form is only completed by employees who are being reviewed, and not as a generic feedback or complaint mechanism.
-</thinking>
-
 # Sample Review Form - Help Guide
 ## Purpose
 The "Sample Review Form" is used for managers or supervisors to conduct regular check-ins with employees, focusing on their performance in a specific area.

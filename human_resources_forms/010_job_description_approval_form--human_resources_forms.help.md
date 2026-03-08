@@ -1,7 +1,3 @@
-<thinking>
-The form "job_description_approval_form" is designed to collect information for job descriptions, specifically to obtain approval on active, inactive, or pending job status, as well as to capture details about the job's approval process. This form is intended for internal use within an organization, and its primary purpose is to standardize the process of job description approvals. It is possible that a similar form may already exist in the company, and the use of this AI-generated form does not aim to replace existing processes. However, this form's structure and field explanations should help clarify how to fill it out accurately and efficiently.
-</thinking>
-
 # job_description_approval_form - Help Guide
 ## Purpose
 This form is used to gather information for job description approvals. It includes details such as job status, approval date, approved personnel, and any additional notes.

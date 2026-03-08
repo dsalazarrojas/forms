@@ -1,11 +1,3 @@
-<thinking>
-
-The Telehealth Patient Registration Form is designed to capture essential patient information for telehealth consultations. This form is intended for patients who have never been to this healthcare provider before or have not completed a registration form in the past 2 years. It is used to collect patient contact information, medical history, allergies, and other relevant details to provide personalized care and ensure compliance with regulatory requirements.
-
-Before filling out the form, please ensure that you have not completed this form in the past 2 years or have not visited our healthcare provider previously. If you have any doubts or concerns, please contact our staff for assistance.
-
-</thinking>
-
 # Telehealth Patient Registration Form - Help Guide
 ## Purpose
 The Telehealth Patient Registration Form is a necessary step to complete before your telehealth consultation. It helps our healthcare provider to gather essential information about you and your medical history.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their experience and preferences for veterinary continuing education courses. This form is likely used by educational institutions or organizations that offer continuing education courses for veterinarians and veterinary professionals. The form helps to gather feedback and data that can be used to improve course offerings and tailor them to the needs and preferences of their target audience. It's essential to ensure that this form is completed accurately and thoroughly to provide valuable insights.
-</thinking>
-
 # Veterinary Continuing Education Course Survey - Help Guide
 ## Purpose
 This form is designed to collect information from veterinary professionals about their experience and preferences for continuing education courses. This data will help educational institutions or organizations improve their course offerings and better serve their target audience.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document the agreement between a client and a speech therapy service provider. This form is used to ensure that both the client and the service provider have a mutual understanding of the terms of the service, including the start date of the service and the status of the signed agreement. This agreement is an essential document for both parties to reference and rely on throughout the service period.
-
-Before proceeding, please review the form carefully to ensure that it accurately reflects your needs and circumstances.
-
-</thinking>
-
 # Speech Therapy Service Agreement - Help Guide
 ## Purpose
 This form is used to document the agreement between a client and a speech therapy service provider.

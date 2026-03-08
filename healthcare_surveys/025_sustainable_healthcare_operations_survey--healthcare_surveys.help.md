@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on hospital operations and sustainability practices. It's essential to ensure that the information provided is accurate and up-to-date. Please complete the form carefully, and ensure that you have permission to access and share the hospital's data. If you're unsure about any field, it's best to clarify with the hospital administrator or data owner.
-</thinking>
-
 # Sustainable Healthcare Operations Survey - Help Guide
 ## Purpose
 This form is designed to collect data on hospital operations and sustainability practices. It's a crucial tool for hospitals to assess their performance and identify areas for improvement.

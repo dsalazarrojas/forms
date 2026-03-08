@@ -1,5 +1,3 @@
-<thinking>...This form is used to report medication errors that occurred during medical treatment. When completing this form, please ensure that all fields are filled out accurately and thoroughly. Please note that some fields are not required, but it's still important to fill them out if possible. This form is designed to gather information about the patient, medication, and error that occurred. Please ensure that you are reporting the correct information to provide a clear and accurate picture of the incident...</thinking>
-
 # Medication Error Report Form - Help Guide
 ## Purpose
 The Medication Error Report Form is used to report medication errors that occurred during medical treatment. This form helps to gather information about the patient, medication, and error that occurred.

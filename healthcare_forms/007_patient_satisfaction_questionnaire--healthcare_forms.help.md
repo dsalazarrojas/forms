@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Patient Satisfaction Questionnaire is a form designed to measure patient satisfaction with the healthcare services provided. This form is typically used to collect feedback from patients after they have received medical care.

@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Internship Applicant Registration Form, I need to understand the form's purpose and how to complete it. The form appears to be for registering internship applicants, and based on the provided YAML, it seems to collect general contact information (name, email, phone), address, skills, and experience. It also seems to collect information about referees (managers or supervisors) and a manager's contact information.
-
-The form has a mix of text inputs (first name, last name, date of birth, skills, experience, address, education), email, phone, and text inputs for referees and a manager. The form also has a select multiple options for referees, which suggests that the user can choose multiple referees.
-
-The form requires no specific information to be filled out, but based on the label and hint text, it seems that all fields are optional.
-
-To complete the form, the user should start by filling out their personal information (first name, last name, email, phone), address, skills, experience, and education. 
-
-After that, they can choose the referees they'd like to provide references for. They should select "Manager 1", "Manager 2", "Manager 3" from the select multiple options list.
-
-For each referee, they need to fill out their name, contact information, and position.
-
-Finally, they need to fill out their manager's name and position.
-
-The form should be used by students and professionals looking to register for an internship with your organization.
-</thinking>
-
 # Internship Applicant Registration Form - Help Guide
 ## Purpose
 This form is for registering as an internship applicant. It collects general contact information, skills, experience, and referees.

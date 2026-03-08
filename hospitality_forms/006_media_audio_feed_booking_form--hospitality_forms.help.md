@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for booking media audio feeds. It is intended for users to provide their details, including contact information, event information, and media feed preferences. The form is used to ensure accurate and efficient booking of media audio feeds.
-
-Before filling out this form, please make sure you are not submitting duplicate requests. If you are unsure or have questions, contact form@gic.mx for assistance.</thinking>
-
 # Media Audio Feed Booking Form - Help Guide
 ## Purpose
 This form is used to collect information for booking media audio feeds.

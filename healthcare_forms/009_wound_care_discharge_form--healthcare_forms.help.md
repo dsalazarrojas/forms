@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document the discharge of a patient's wound care treatment. This form will help healthcare providers collect and record information about the patient's current wound care treatment plan, discharge instructions, and signatures from both the provider and the patient. This form will serve as a reference for future care and treatment. Please ensure this form is used only once the patient has been discharged from wound care treatment.
-
-</thinking>
-
 # Wound Care Discharge Form - Help Guide
 ## Purpose
 The Wound Care Discharge Form is used to document the discharge of a patient's wound care treatment, ensuring a smooth transition of care and treatment.

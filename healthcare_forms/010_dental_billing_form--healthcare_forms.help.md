@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is part of a system that processes patient billing information for dental services. It is crucial to understand the form's purpose and functionality to ensure accurate and efficient completion. To ensure the form is completed correctly, users must have a clear understanding of each field's purpose. This guide will walk through each field and its intended use, providing clarity on how to complete the form with accuracy and precision.</thinking>
-
 # Dental Billing Form - Help Guide
 ## Purpose
 The Dental Billing Form is a tool used to capture essential information for billing purposes after dental services are provided. It helps track insurance details, patient specifics, and other relevant information for accurate billing and record-keeping.

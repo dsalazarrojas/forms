@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used for healthcare professionals to refer patients to specialists, such as optometrists, for further examination and treatment. The purpose of this form is to provide relevant information about the patient, including their contact details, medical history, and the reason for the referral. This form should only be used for genuine referrals and not for duplication or redundant submissions.
-</thinking>
-
 # Optometry Referral Form - Help Guide
 ## Purpose
 The Optometry Referral Form is used by healthcare professionals to refer patients to optometrists for further examination and treatment.

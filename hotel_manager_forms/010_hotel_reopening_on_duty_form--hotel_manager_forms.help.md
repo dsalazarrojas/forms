@@ -1,7 +1,3 @@
-<thinking>
-The Hotel Reopening On Duty Form is designed to gather essential information from hotel management to facilitate a smooth and safe reopening process after a closure due to COVID-19. This form helps the management team to track and document the current status of the hotel's reopening plan, including safety measures, employee training, and equipment needs. This information will be used to ensure compliance with health and safety protocols and to provide guidance for the reopening process. This form is intended for hotel management and should only be completed by authorized personnel. Please ensure that this form is not duplicated or submitted by unauthenticated users.
-</thinking>
-
 # Hotel Reopening On Duty Form - Help Guide
 ## Purpose
 The Hotel Reopening On Duty Form is a crucial tool to gather essential information for a successful hotel reopening after a closure due to COVID-19. This form helps hotel management to track and document the current status of the hotel's reopening plan, ensuring a smooth and safe reopening process.

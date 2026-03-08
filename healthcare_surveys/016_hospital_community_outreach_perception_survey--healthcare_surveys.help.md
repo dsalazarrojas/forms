@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather data on the perceptions and experiences of individuals in the hospital community. The goal is to collect feedback on the effectiveness of the hospital's community outreach programs, services offered, and overall satisfaction. This data will help inform future initiatives and improve the hospital's community engagement.
-
-To avoid duplication and ensure accurate responses, please complete the form in its entirety, and be honest in your answers.
-
-</thinking>
-
 # Hospital Community Outreach Perception Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the hospital's community outreach programs, services, and overall satisfaction. Your responses will help us improve our community engagement and better serve the community.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prettyampgold-body-contouring-amp-spa-yoni-therapys-vaginal-steam-intake-form - Help Guide
 ## Purpose
 The Pretty Amp Gold Body Contouring & Spa Yoni Therapy Vaginal Steam Intake Form is used to collect information about a client's body contouring and vaginal steam therapy experiences. This form is designed to ensure that clients can provide their preferences and concerns before undergoing the treatment.

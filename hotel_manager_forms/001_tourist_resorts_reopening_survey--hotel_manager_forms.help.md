@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to gather feedback from tourists who have visited our resort. This will help us to understand their experiences, identify areas of improvement, and make informed decisions to enhance our services. Please note that this form is anonymous and will be treated confidentially. Your feedback is crucial in helping us to provide better services to our guests.
-</thinking>
-
 # Tourist Resorts Reopening Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from tourists who have visited our resort. Your input will help us understand your experiences, identify areas for improvement, and make informed decisions to enhance our services.

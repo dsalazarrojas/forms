@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect data for COVID-19 testing. The fields are designed to gather essential information about the patient, including their name and contact details, the date of the test, and the results of the test. The form will also ask for consent, which is a crucial part of the testing process. Please ensure that you have the necessary permissions to access this form and that the data collected is accurate and up-to-date.</thinking>
-
 # covid_testing_form - Help Guide
 ## Purpose
 This form is used to collect data for COVID-19 testing.

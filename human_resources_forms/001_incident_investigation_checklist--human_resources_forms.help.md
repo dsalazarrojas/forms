@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # incident_investigation_checklist - Help Guide
 ## Purpose
 This form is designed to gather information about incidents that require investigation. The purpose of this form is to collect details about incidents, including their type, date, and status. The information collected will help to track and resolve incidents efficiently.

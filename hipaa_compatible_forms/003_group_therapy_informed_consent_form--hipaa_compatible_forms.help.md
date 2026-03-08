@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect informed consent from clients prior to group therapy sessions. It outlines the services provided, risks, benefits, and consequences of the therapy, as well as the client's consent and signature. The form is intended to ensure that clients are informed and agree to the terms of the therapy.
-
-It is essential to note that this form is a critical component of the therapy process and should be completed carefully and accurately. The form will help to establish a clear understanding between the client and the therapist, and it is crucial for maintaining the trust and confidentiality required in the therapy relationship.
-
-This form should not be duplicated or replaced with another version, as it is a legally binding document. Each field in the form has a specific purpose and should be completed according to the instructions.
-
-</thinking>
-
 # Group Therapy Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to collect informed consent from clients prior to group therapy sessions. It outlines the services provided, risks, benefits, and consequences of the therapy, as well as the client's consent and signature.

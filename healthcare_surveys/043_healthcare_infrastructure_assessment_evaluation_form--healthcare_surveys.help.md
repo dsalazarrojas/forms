@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess and evaluate the healthcare infrastructure in a given facility. The goal of this form is to collect information about the facility's infrastructure, including its name, address, and various aspects of its quality and safety standards. The form is intended for healthcare professionals or assessors to evaluate the facility's performance and identify areas for improvement. It is not intended for patient use or to collect personal medical information. Please ensure that the form is filled out by authorized personnel and in a professional capacity.
-
-To ensure the accuracy and relevance of the data collected, please review the form carefully and only fill it out if you are authorized to do so. If you have filled out this form in the past, please ensure that your responses are up-to-date and reflect any changes that may have occurred since the last assessment.
-
-</thinking>
-
 # healthcare_infrastructure_assessment_evaluation_form - Help Guide
 ## Purpose
 This form is used to assess and evaluate the healthcare infrastructure in a given facility.

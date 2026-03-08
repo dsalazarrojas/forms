@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining health screening permissions from patients or clients, typically in a healthcare setting. The form may be used in various contexts, such as prior to a medical examination, as part of a health maintenance program, or for patients undergoing a specific treatment or therapy. To ensure the form is completed correctly, review the fields below to understand their purpose and required information.
-
-</thinking>
 # Health Screening Permission Form - Help Guide
 ## Purpose
 The Health Screening Permission Form is used to obtain health screening permissions from patients or clients in a healthcare setting. This form helps healthcare providers gather essential information and consent from individuals before performing certain medical screenings, procedures, or treatments.

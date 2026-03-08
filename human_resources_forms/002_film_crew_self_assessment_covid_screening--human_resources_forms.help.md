@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help film crew members assess their COVID-19 risk level and provide a self-assessment of their COVID-19 risk status. The form is part of a larger system for managing and monitoring COVID-19 risks within the film industry. 
-
-To complete this form, please follow the steps below. 
-
-This form should not be completed if you have already done so in a recent period (e.g., 1 week, 1 month). Please ensure that you have not already completed this form before proceeding.
-
-</thinking>
 # Film Crew Self Assessment COVID Screening - Help Guide
 ## Purpose
 The Film Crew Self Assessment COVID Screening form helps film crew members assess their personal COVID-19 risk level and provide a self-assessment of their status. This information is used for internal monitoring and management of COVID-19 risks within the film industry.

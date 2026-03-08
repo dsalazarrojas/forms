@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help healthcare practitioners collect information from patients about their vaccination history. It is likely used in settings where patients need to provide proof of vaccination, such as in immigration, travel, or school registration. It's possible that this form is used in conjunction with other documents, like a medical record or a patient's chart, to verify the patient's vaccination status. Please ensure that the form is not submitted multiple times for the same patient, as this may create redundant data entry. The form is designed to be completed by a patient or their representative, and it's best to fill it out carefully and accurately.
-</thinking>
-
 # Vaccination Attestation Form - Help Guide
 ## Purpose
 

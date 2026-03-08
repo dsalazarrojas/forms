@@ -1,5 +1,3 @@
-<thinking>By reviewing this patient review form, you will be able to understand its purpose and how to complete it efficiently. This form is used to collect information about patients, their medical history, and treatment details. Review this form carefully to ensure you complete it accurately.</thinking>
-
 # Patient Review Form - Help Guide
 ## Purpose
 The Patient Review Form is used to collect comprehensive information about a patient's medical history, treatment details, and contact information. This form is essential for healthcare professionals to gather accurate data for patient care and treatment planning.

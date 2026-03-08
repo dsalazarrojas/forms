@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure that healthcare professionals understand the purpose and usage of the COVID 19 Patient Screening Questionnaire form. Before using this form, please review the following instructions and considerations. The form is designed to screen patients for risk factors related to COVID-19. Please ensure that you have the necessary permissions and authorizations to administer this form. This form should not be duplicated for non-COVID-19 patients. If you are unsure, please reach out to your supervisor or departmental lead for clarification.
-</thinking>
-
 # COVID 19 Patient Screening Questionnaire - Help Guide
 
 ## Purpose

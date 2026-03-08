@@ -1,13 +1,3 @@
-<thinking>
-This form is a tool for patients to provide feedback on their experience at a healthcare facility. It is designed to gather anonymous and unbiased feedback to help the healthcare staff improve their services. The form is divided into several sections that cover different aspects of the patient's visit. This guide will help you understand the purpose of each section and the fields included in it.
-
-To ensure that your feedback is accurate and helpful, please answer these questions carefully and honestly.
-
-Before starting, it's essential to note that some fields are optional. You can skip them if you're not comfortable providing information or if it's not relevant to your experience.
-
-This guide is designed to be a quick reference for you. If you need more information or have questions, please don't hesitate to contact the healthcare staff.
-</thinking>
-
 # Healthcare Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their experience at a healthcare facility. Your input will help the healthcare staff improve their services and provide better care for future patients.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dandelionz_intake_form_2 - Help Guide
 
 ## Purpose

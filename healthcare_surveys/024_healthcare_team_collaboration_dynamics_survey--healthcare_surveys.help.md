@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the "Healthcare Team Collaboration Dynamics Survey" form. The form is designed to collect input on various aspects of team collaboration and dynamics within a healthcare setting. The purpose of this form is to collect feedback and insights from healthcare team members on how they perceive their team collaboration, communication, and challenges. By completing this form, users will be providing valuable input that can help inform and improve team collaboration dynamics. Please ensure that you have reviewed and understand each field before proceeding.
-</thinking>
-
 # Healthcare Team Collaboration Dynamics Survey - Help Guide
 
 ## Purpose

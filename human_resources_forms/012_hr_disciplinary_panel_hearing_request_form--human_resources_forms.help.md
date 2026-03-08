@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for requesting a disciplinary panel hearing for an employee who may have committed a breach of company policies or procedures. The form is intended to document the specific incident and gather information for the hearing process.
-
-To avoid duplication of effort, this form is designed to collect all relevant information in one place, making it easier for HR to review and process the request. The form is meant to be completed by the employee's manager and should not be used to request a hearing for non-work-related incidents.
-
-Please note that this form is a tool to assist in the documentation process, and the disciplinary action will be taken as per the company's policies and procedures.
-
-</thinking>
-
 # HR Disciplinary Panel Hearing Request Form - Help Guide
 ## Purpose
 The HR Disciplinary Panel Hearing Request Form is used for requesting a hearing for an employee who may have committed a breach of company policies or procedures. The form helps to document the incident, gather information, and facilitate the hearing process.

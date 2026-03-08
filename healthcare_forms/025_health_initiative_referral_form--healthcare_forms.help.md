@@ -1,18 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the "health_initiative_referral_form" form, we must first understand the purpose and context of the form. This form appears to be designed for healthcare professionals to refer patients to various health initiatives, capturing relevant patient information, medical history, and follow-up details.
-
-The form includes multiple fields for patient information, medical conditions, referral reason, healthcare provider, and follow-up information. It seems to be intended for healthcare providers to gather and document necessary information for referring patients to appropriate healthcare initiatives. However, to confirm the form's purpose and ensure it's being used correctly, we should verify the following:
-
-* The form is not being used for non-healthcare-related purposes.
-* The form is not being duplicated or used in conjunction with other forms that serve a similar purpose.
-* The form's fields and their labels are clear and concise, with no ambiguity.
-* The form's fields are correctly ordered and grouped for logical flow.
-* The form's options are correctly selected and not redundant or overlapping.
-
-Assuming the form is properly designed and intended for its intended use, we can proceed with creating the help guide.
-
-</thinking>
-
 # health_initiative_referral_form - Help Guide
 ## Purpose
 The "health_initiative_referral_form" is designed for healthcare professionals to refer patients to various health initiatives, gathering necessary information for proper patient care and follow-up.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participant information and consents for global wellness research recording. The form aims to capture essential details from participants, such as contact information, contact method, and consents. This form will likely be used in a healthcare setting to gather necessary information from participants before proceeding with research.
-</thinking>
-
 # global_wellness_research_recording_consent_form - Help Guide
 ## Purpose
 This form is designed to collect participant information and consents for global wellness research recording in a healthcare setting.

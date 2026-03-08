@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on patient experiences and information from healthcare providers regarding Vitamin B 12 treatment. The form will help gather insights into the effectiveness and side effects of the treatment, as well as demographic information about the patient and healthcare provider. It will also provide a space for additional comments and contact details.
-Please fill out this form carefully and thoroughly. If you need help or clarification on any of the fields, refer to the field-by-field explanations provided below.
-</thinking>
-
 # Vitamin B 12 Treatment Survey - Help Guide
 ## Purpose
 This form is designed to collect data on patient experiences and information from healthcare providers regarding Vitamin B 12 treatment. The form will help gather insights into the effectiveness and side effects of the treatment, as well as demographic information about the patient and healthcare provider.

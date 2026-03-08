@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to verify the skills of medical practitioners in suturing labs by evaluating their ability to perform specific procedures and techniques. This form is used to assess the competence of medical professionals in this area, ensuring they have the necessary knowledge and skills to perform suturing procedures safely and effectively.
-
-The form is designed to be a checklist that covers various aspects of suturing, including the type of suturing device used, the presence of patient safety precautions, and the practitioner's knowledge of suturing techniques. The form is intended to be completed by medical practitioners who are being assessed, and the data collected will be used to evaluate their skills and competence in this area.
-
-Before completing this form, medical practitioners should confirm that they have the necessary knowledge and skills to perform suturing procedures, and that they have not been involved in any cases where a suturing procedure resulted in a patient injury or harm. They should also confirm that they have not been subject to disciplinary action or malpractice suits related to suturing procedures.
-
-This form should not be used to assess the skills of medical practitioners in other areas of medicine, and should only be used in the context of evaluating their skills in suturing labs.
-
-Please note that this form is not a replacement for hands-on training or in-person assessments, but rather a tool to help evaluate the skills of medical practitioners in a more efficient and structured way.
-</thinking>
-
 # Suturing Lab Skill Check Off Form - Help Guide
 ## Purpose
 This form is designed to assess the skills of medical practitioners in suturing labs by evaluating their ability to perform specific procedures and techniques.

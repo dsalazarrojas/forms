@@ -1,14 +1,3 @@
-<thinking>**Form Purpose:**
-This form is designed to collect information about a person's thoughts, feelings, and behaviors in response to a specific upsetting situation. The purpose of the Thought Record is to identify patterns and triggers that may contribute to distress, provide a safe space for self-reflection, and offer insights for personal growth and improvement.
-
-**Before you start, please note:**
-
-* This form is not a substitute for professional mental health advice.
-* The information collected will be used for internal purposes only.
-* Please answer honestly and to the best of your ability.
-
-</thinking>
-
 # Thought Record - Help Guide
 ## Purpose
 The Thought Record is a personal reflection tool designed to help individuals gain insight into their thoughts, feelings, and behaviors in response to a specific upsetting situation. By filling out this form, you will be able to identify patterns and triggers that may contribute to your distress, and gain a better understanding of yourself.

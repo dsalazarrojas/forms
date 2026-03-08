@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their preferences for a care facility. This form is designed to gather data about the respondent's relationship to the patient, the most important factors when selecting a facility, the maximum budget, preferred location or area, required services, priority for in-person visit, and consent to share information with facilities. This form will be used to provide personalized results to users.
-
-This form is not meant to be completed multiple times, and each response will be treated as a single submission.
-
-Please make sure to fill out this form carefully, as the information collected will be used to find the best care facility for your needs.
-
-</thinking>
-
 # Care Facility Selection Survey - Help Guide
 ## Purpose
 The Care Facility Selection Survey is designed to help users find the best care facility for their needs. It collects information about the user's relationship to the patient, their preferences for selecting a facility, and other important details that will influence the facility selection process.

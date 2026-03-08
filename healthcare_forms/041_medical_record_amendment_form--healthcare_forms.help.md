@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for patients or their authorized representatives to request a medical record amendment. A medical record amendment is a process by which a patient or their representative can correct inaccuracies or update information in a patient's medical record. The form is used to provide a structured and formal way to submit such requests, ensuring that the necessary information is collected and handled consistently. 
-To avoid duplication, this form is meant to be used for one-time requests, not for ongoing medical record changes or updates. 
-Please ensure that the information you provide is accurate and complete to facilitate a smooth and efficient amendment process.
-</thinking>
-
 # medical_record_amendment_form - Help Guide
 ## Purpose
 The medical record amendment form is designed to allow patients or their authorized representatives to request corrections or updates to a patient's medical record. This form is used to collect the necessary information for the amendment process, ensuring that the record is accurate and up-to-date.

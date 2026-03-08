@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients who have received counselling services from a therapist. The purpose of this form is to gather opinions and ratings from clients on various aspects of their counselling experience, including client satisfaction, therapy effectiveness, communication skills, time management, and overall rating. This form is meant to be completed by clients after each session, allowing them to provide feedback that can help therapists improve their services.
-
-The form will be used to identify areas where clients are satisfied or dissatisfied with the services provided, and to help therapists adjust their methods and techniques accordingly. The form is not intended for clients to rate their satisfaction with the form itself or the experience of filling out the form.
-
-The form has several questions that ask clients to rate their satisfaction or rating on a scale, and some questions that allow for free-form text responses. The client is asked to provide their name, email, phone number, client organization (if applicable), and therapist name (if applicable). The form also asks for the date and time of the session, and the number of hours and minutes spent in the session.
-
-Before you begin, make sure to review the form carefully to ensure that you understand what each question is asking and how to answer it accurately.</thinking>
-
 # Counselling Client Opinion Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients on their counselling experience. The form has several questions that ask clients to rate their satisfaction or rating on a scale, and some questions that allow for free-form text responses.

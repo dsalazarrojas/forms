@@ -1,13 +1,3 @@
-<thinking>
-# This form is meant to collect feedback on the quality of health benefits
-provided to employees. It helps the benefits administration team assess and
-improve their services. It may be used internally or shared with external
-parties such as HR or insurance providers. The form is not meant to
-collect sensitive or confidential information. Please fill it out as
-accurately as possible to help the benefits team make data-driven
-decisions.
-</thinking>
-
 # health_benefits_feedback_form - Help Guide
 ## Purpose
 The health benefits feedback form is designed to collect feedback from employees on

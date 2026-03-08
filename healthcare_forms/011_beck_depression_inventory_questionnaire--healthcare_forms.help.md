@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be filled out by a patient, as well as a clinician or other healthcare provider. It is a self-report instrument used to measure the presence and severity of depression in patients, with 27 questions that cover various aspects of depression.
-</thinking>
-
 # Beck Depression Inventory Questionnaire - Help Guide
 ## Purpose
 

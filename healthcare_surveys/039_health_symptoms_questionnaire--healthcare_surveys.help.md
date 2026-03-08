@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's health symptoms, 
-to aid healthcare professionals in providing accurate diagnoses and treatments. 
-Please ensure that you have the patient's consent before sharing any collected data. 
-Duplicate entries are not allowed, please do not submit this form multiple times with the same symptoms.
-</thinking>
-
 # Health Symptoms Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's health symptoms, including general symptoms, pain locations, specific symptoms, and personal details such as phone number and email. This data will be used to aid healthcare professionals in providing accurate diagnoses and treatments.

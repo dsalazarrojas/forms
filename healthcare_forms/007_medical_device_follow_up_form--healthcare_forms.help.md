@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_device_follow_up_form - Help Guide
 ## Purpose
 The medical device follow-up form is designed to gather information about the status of a medical device, including its condition, feedback, and follow-up details. This form is used to track the progress of medical devices that have been returned or require ongoing monitoring.

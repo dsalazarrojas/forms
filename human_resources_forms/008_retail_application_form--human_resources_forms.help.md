@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for retail application form users. The form is used to capture information from retail employees to create or update their job records. The form is divided into two main sections: personal details and work schedule. To complete the form, users must provide accurate and complete information about themselves and their work schedule.
-</thinking>
-
 # Retail Application Form - Help Guide
 ## Purpose
 The Retail Application Form is used to capture information from retail employees to create or update their job records.

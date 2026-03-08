@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Time Punch Correction Form - Help Guide
 ## Purpose
 The Employee Time Punch Correction Form is used to correct inaccuracies or mistakes made in an employee's time punches. This form is meant to be filled out by employees to report discrepancies in their time records and provide a reason for the correction. This form should be used only for genuine corrections, not for changes to regular work hours or unauthorized leave.

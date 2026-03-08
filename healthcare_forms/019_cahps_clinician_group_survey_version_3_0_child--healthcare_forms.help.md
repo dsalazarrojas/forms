@@ -1,7 +1,3 @@
-<thinking>
-  This is the help guide for the CAHPS Clinician & Group Survey 3.0 (Child), which is a form designed to collect feedback from parents/guardians about their child's recent visit to a pediatrician or clinician. To ensure that this survey reaches its target audience, please note that only parents/guardians who have recently visited the clinic should complete this form. This guide will help explain each field to assist in the completion of the survey.
-</thinking>
-
 # CAHPS Clinician & Group Survey 3.0 (Child) - Help Guide
 ## Purpose
 The CAHPS Clinician & Group Survey 3.0 (Child) is a form designed to collect feedback from parents/guardians about their child's experience in a pediatric clinic. This feedback will help improve the quality of care provided by the clinic and its staff.

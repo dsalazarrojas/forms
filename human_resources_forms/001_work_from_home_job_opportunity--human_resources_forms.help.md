@@ -1,8 +1,3 @@
-<thinking>
-  To ensure that the form is used correctly, it's essential to understand the purpose and requirements of the "Work From Home Job Opportunity" form. This form is designed to gather information about job opportunities that can be completed from home, allowing employees or job applicants to submit their interest in working on these opportunities. 
-  Before filling out this form, it's crucial to check that you're not submitting duplicate entries. If you've already submitted a previous application or are interested in multiple job opportunities, you can edit your existing application or submit a new one.
-</thinking>
-
 # Work From Home Job Opportunity - Help Guide
 ## Purpose
 The "Work From Home Job Opportunity" form is used to allow employees or job applicants to express their interest in job opportunities that can be completed from home. This form gathers necessary information about the job opportunity, such as category, description, pay rate, payment terms, application link, and more.

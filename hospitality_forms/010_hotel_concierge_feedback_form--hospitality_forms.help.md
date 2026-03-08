@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from hotel guests on their concierge experience. It should only be used by hotel guests to provide their honest assessment of the services rendered by the hotel's concierge staff. 
-To avoid duplication, please do not use this form to submit feedback that you have already expressed in other channels or forums. 
-</thinking>
-
 # Hotel Concierge Feedback Form - Help Guide
 ## Purpose
 The Hotel Concierge Feedback Form is designed to collect feedback from hotel guests on their concierge experience. It helps us to understand your experience and improve our services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an experience certificate for an employee. The purpose of this form is to collect information about the employee's experience, which can be used for various purposes such as job certification, education, or other official documentation. The form is typically submitted by an employee to their manager or HR department to obtain an experience certificate. To ensure that the form is completed correctly, the user should first read this help guide to understand the fields and requirements clearly.
-</thinking>
-
 # Experience Certificate Request Form - Help Guide
 ## Purpose
 The Experience Certificate Request Form is used to request an experience certificate for an employee, which can be used for various purposes such as job certification, education, or other official documentation.

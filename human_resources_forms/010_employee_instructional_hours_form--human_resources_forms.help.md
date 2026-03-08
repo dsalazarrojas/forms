@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Instructional Hours Form - Help Guide
 
 ## Purpose

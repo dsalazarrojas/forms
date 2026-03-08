@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microblading Release Form - Help Guide
 ## Purpose
 This form is designed to facilitate the release process for microblading procedures. It is intended to be used by patients to provide their consent and release information after undergoing microblading treatment. This form is a standard template and can be adapted or modified as needed to suit specific business needs.

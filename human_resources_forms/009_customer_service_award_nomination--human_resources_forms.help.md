@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Award Nomination - Help Guide
 ## Purpose
 This form is designed to submit a nomination for the customer service award. The goal is to acknowledge and reward employees who have demonstrated excellent customer service skills and have made significant contributions to their team and the organization.

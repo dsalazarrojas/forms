@@ -1,12 +1,3 @@
-<thinking>
-The Hair Quiz form is designed to collect information from patients about their hair-related health, preferences, and demographic details. This form is part of a larger health survey aimed at gathering comprehensive data for a medical research study. The goal of this form is to provide accurate and personalized recommendations for hair care and styling. 
-
-The form is divided into sections that cater to different aspects of hair health and care. Section 1, "Patient Info," requires basic contact and personal details. Section 2, "Hair Type" and "Hair Condition," ask about the characteristics of the patient's hair, including its texture and condition. Section 3, "Hair Problem," allows patients to select multiple issues they are experiencing with their hair, such as dandruff, itchiness, or color loss. Section 4, "Hair Length," "Face Wash," "Scalp Condition," "Hair Color," and "Hair Problems" ask about specific hair characteristics and concerns. Section 5, "Hair Procedure," and "Hair Product," gather information about the patient's hair treatment preferences and usage. Section 6, "Notes," "Email," "Phone," and "Address," capture additional demographic and contact details. Section 7, "Location," "Time," "Date," "Age," "Gender," "Marital Status," "Ethnicity," "Occupation," and "Income," cover various social and demographic factors.
-
-Ensure you have completed the form for the correct purpose. If you are unsure, please refer to the study's instructions or contact a research coordinator for assistance.
-
-</thinking>
-
 # Hair Quiz - Help Guide
 
 ## Purpose

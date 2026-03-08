@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from third parties who have interacted with employees or clients. It is intended to be used by assessors or raters who are asked to evaluate the performance of another individual, known as the ratee. The form is used to gather information about the ratee's strengths and weaknesses, as well as the rater's own comments and ratings. This information will help management and HR teams make informed decisions about employee performance and development.
-To complete this form, please ensure that you are a valid rater and are authorized to complete this assessment. The form should only be completed by a single rater at a time, and should not be duplicated or shared with other raters.
-</thinking>
-
 # Third Party Assessment Form - Help Guide
 
 ## Purpose

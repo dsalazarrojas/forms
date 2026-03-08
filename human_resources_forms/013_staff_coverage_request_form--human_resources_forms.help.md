@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used by staff members to request staff coverage during a specific shift. It is meant to be submitted by staff members to their manager or team leader to request time off or coverage for a particular shift. The form includes fields for the staff member's name, shift date, start and end times, team leader's name, request details, coverage approvals, and manager comments. The form is designed to ensure that staff members can request coverage in a clear and efficient manner, and that managers and team leaders can approve or decline requests in a timely and organized fashion.
-
-To complete this form, staff members should fill in the required fields with accurate and detailed information. They should enter their manager's name in the "Manager Name" field, the shift date in the "Shift Date" field, and the start and end times in the "Start Time" and "End Time" fields, respectively. They should also select "Approved" or "Declined" for the "Team Leader" field, and enter their request details in the "Request Details" field.
-
-For the "Coverage Approvals" field, staff members should select "Approved" if their team leader has approved their request, "Declined" if their team leader has declined their request, and "Held" if their request is still pending. For the "Manager Comments" field, staff members can enter any comments or feedback they have for their manager, if needed.
-
-Managers and team leaders should check the "Team Approval" field to see if a staff member has requested coverage, and select "Approved" or "Declined" accordingly. They should also enter their comments in the "Manager Comments" field, if necessary. For the "Team Approval Date" field, managers and team leaders should enter the date they approved or declined the request.
-
-The "Submission Date" fields are intended for the dates of submission, whether it's for the staff member or the manager/ team leader. The "Staff Comments" field is for any additional comments or feedback from the staff member, and the "Team Comments" field is for any additional comments or feedback from the team leader.
-
-</thinking>
-
 # Staff Coverage Request Form - Help Guide
 ## Purpose
 This form is used by staff members to request staff coverage during a specific shift.

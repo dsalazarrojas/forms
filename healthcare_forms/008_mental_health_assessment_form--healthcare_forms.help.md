@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to gather information about an individual's mental health status, which will be used to assess their mental well-being and provide support if needed. The form is divided into several sections, each containing different types of questions. The purpose of this form is not to replace professional medical advice or diagnosis, but rather to offer a quick and easy way to assess one's mental health. 
-
-This form has been designed to be completed by individuals, not to be used as a diagnostic tool for professionals. It is essential to take this form seriously and answer truthfully, as the information gathered will help identify potential mental health concerns.
-
-Before starting, make sure you have not completed this form recently and that you have not answered the same questions in another context. Completing this form multiple times can provide biased results. 
-
-</thinking>
-
 # Mental Health Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess an individual's mental health status, providing a quick and easy way to identify potential concerns. 

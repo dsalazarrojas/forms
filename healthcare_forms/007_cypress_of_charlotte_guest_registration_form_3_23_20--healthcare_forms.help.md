@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect contact information, medical history, and other relevant details from guests visiting the Cypress Of Charlotte healthcare facility. The fields in this form aim to gather information about the guest's contact details, medical history, and medical procedures, allowing staff members to provide personalized attention to their needs. 
-We have checked the form for duplication and relevance to confirm that it is not a duplicate form and it contains all necessary fields for a comprehensive guest registration process. 
-</thinking>
-
 # Cypress Of Charlotte Guest Registration Form 3.23.20 - Help Guide
 ## Purpose
 This form is designed to collect contact information, medical history, and other relevant details from guests visiting the Cypress Of Charlotte healthcare facility.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form purpose is clear, I will follow the instructions to create the help guide. The form is called "Innkeeper Agreement Form", and its purpose is to gather information about a property owner and their innkeeper. This form will help the innkeeper understand their responsibilities and the terms of their agreement. To avoid non-duplication, I will make sure to check if there are similar forms or processes in the system that cover the same topics.
-</thinking>
-
 # Innkeeper Agreement Form - Help Guide
 ## Purpose
 The "Innkeeper Agreement Form" is a document used to record the details of a property owner and their innkeeper, including the innkeeper's responsibilities and the length of their agreement. This form helps ensure that all parties involved are aware of their roles and obligations.

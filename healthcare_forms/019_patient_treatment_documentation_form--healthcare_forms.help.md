@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to document patient treatment information, providing a comprehensive record of the patient's medical history. This form is used to track the treatment date, location, and type, as well as any notes or comments made during the treatment. It also includes fields for medical record status and update information.
-
-To ensure accurate and consistent use of this form, please review the fields carefully and ensure that the form is completed in a way that captures all relevant information about the patient's treatment. It is essential that you understand the purpose and usage of each field to ensure accurate and comprehensive patient documentation.
-
-If you're unsure about any field or its intended use, please refer to this help guide for guidance. Additionally, if you've used this form before, please ensure that your previous experience with this form does not impact your completion of this new form, and that each new instance is completed independently.
-
-To prevent duplication or incomplete information, please do not copy information from previous forms or incomplete records. Each new instance of the form should be treated as a new, independent event.
-</thinking>
-
 # Patient Treatment Documentation Form - Help Guide
 ## Purpose
 The purpose of this form is to document patient treatment information, including treatment date, location, type, and any associated notes or comments.

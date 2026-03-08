@@ -1,23 +1,3 @@
-<thinking>
-This form is used to collect information about a microorganism growth control survey. The purpose of this form is to gather data on various practices and conditions related to microorganism growth control. This form is designed to be completed by individuals who have experience with microorganism growth control, and it is intended to be a quick and easy way to provide information that can be used for research, analysis, or quality control purposes.
-
-The form is divided into several sections, each covering a different aspect of microorganism growth control. The sections are:
-
-1. "Microbial-control-practices" - This section requires the user to select multiple options for controlling microorganism growth.
-2. "Sampling-and-inoculation" - This section asks the user to enter information about sampling and inoculation procedures.
-3. "Incubation-conditions" - This section asks the user to select a specific time value for incubation conditions.
-4. "Incubation-period" - This section asks the user to select a specific option for incubation period.
-5. "Temperature-control" - This section asks the user to enter a numerical value for temperature control.
-6. "Incubation-duration" - This section asks the user to enter a numerical value for incubation duration.
-7. "Results-obtained" - This section asks the user to enter any results or observations obtained from the survey.
-8. "Notes" - This section is for users to add any additional comments or notes about their survey.
-
-It is essential that the user completes this form to ensure that all the necessary information is provided to support the microorganism growth control process.
-
-Please ensure that you have carefully read and understood the instructions before proceeding with the form.
-
-</thinking>
-
 # Microorganism Growth Control Survey - Help Guide
 
 ## Purpose

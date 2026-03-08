@@ -1,7 +1,3 @@
-<thinking>
-This form is used for emergency care records release, which allows patients or authorized parties to access medical records, lab results, or other healthcare information. The form is used to grant permission for healthcare providers to share or disclose sensitive patient information. This form is typically used in situations where patients need to access their records for travel, insurance, or other personal reasons.
-</thinking>
-
 # Emergency Care Records Release Form - Help Guide
 ## Purpose
 The Emergency Care Records Release Form is a document used to grant permission for healthcare providers to share or disclose medical records, lab results, or other healthcare information with authorized parties. This form is typically used to facilitate the access of sensitive patient information in emergency or urgent situations.

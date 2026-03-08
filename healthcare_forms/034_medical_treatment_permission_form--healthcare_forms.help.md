@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining medical treatment permissions in a healthcare setting. The form will be used by healthcare professionals to collect necessary information about patients, their medical history, and treatment details. This form should only be used for patients who are receiving non-emergency medical treatment. Ensure that you have permission from the patient before submitting this form.
-</thinking>
-
 # Medical Treatment Permission Form - Help Guide
 ## Purpose
 The Medical Treatment Permission Form is used to obtain medical treatment permissions for patients in a non-emergency setting. This form is meant for patients who are receiving treatment that is not immediately life-threatening.

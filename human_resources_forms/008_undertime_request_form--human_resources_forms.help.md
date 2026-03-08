@@ -1,9 +1,3 @@
-<thinking>
-The Undertime Request Form is used to request time off from work, providing an opportunity for employees to submit their requests for leave and ensure that their managers are informed and able to approve or decline the request.
-Before filling out this form, please ensure that you have checked the company's leave policy and that you are not submitting duplicate requests. If you have already submitted a request for the same time period, it's likely to be rejected as a duplicate request.
-Please note that this form is for internal use only and should not be filled out by anyone without company clearance.
-</thinking>
-
 # Undertime Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request time off from work. It allows employees to submit their requests for leave, and the manager is able to approve or decline the request.

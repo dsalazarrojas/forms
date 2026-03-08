@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the candidate's retail experience, skills, and focus areas. This form will help in assessing the candidate's suitability for a retail role.
-The form includes questions about the candidate's sales experience, marketing knowledge, retail environment, and time commitment. It's a mix of multiple choice and open-ended questions.
-We should ensure that the candidate fills out the form accurately and thoroughly, as it will help in making informed decisions about their eligibility for the role.
-</thinking>
-
 # Retail Onboarding Quiz - Help Guide
 ## Purpose
 The Retail Onboarding Quiz is a form designed to collect information about the candidate's retail experience, skills, and focus areas.

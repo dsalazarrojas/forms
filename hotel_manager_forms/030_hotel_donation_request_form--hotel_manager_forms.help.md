@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and avoid duplication ...
-
-The "Hotel Donation Request Form" is a tool for hotel employees to submit a request for donations or contributions from guests, partners, or other stakeholders. This form is used to document and communicate the specific needs of the hotel, allowing the relevant parties to provide support. The form serves as a centralized and organized way for hotel staff to present their requests, making it easier for others to understand the hotel's requirements and provide the necessary assistance.
-
-This form is likely to be used by hotel staff, such as event coordinators, marketing managers, or customer service representatives, who need to ask for donations or contributions for events, charity events, or other purposes. To ensure that the form is completed accurately and effectively, it is essential to understand its purpose and the information it requires.
-
-</thinking>
-
 # Hotel Donation Request Form - Help Guide
 
 ## Purpose

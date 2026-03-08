@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to manage employee holiday requests. It captures essential information to process and approve or deny these requests. The form is used by HR or managers to review and manage the submitted requests. This form is not intended for general employee use.
-
-</thinking>
-
 # tco_holiday_request - Help Guide
 ## Purpose
 The "tco_holiday_request" form is used to manage employee holiday requests. It captures essential information to process and approve or deny these requests.

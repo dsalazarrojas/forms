@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to measure employee retention and satisfaction. It is used to collect data on how employees perceive their work environment, engagement, and overall job satisfaction. The form is not intended to be a formal evaluation of an employee's performance, but rather a way to gather feedback on the company's policies, practices, and work culture.
-
-</thinking>
-
 # employee_retention_survey_form - Help Guide
 ## Purpose
 The Employee Retention Survey Form is designed to measure employee satisfaction and retention. It is used to collect feedback on the work environment, engagement, and overall job satisfaction.

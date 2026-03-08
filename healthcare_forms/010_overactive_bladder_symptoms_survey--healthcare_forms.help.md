@@ -1,13 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Overactive Bladder Symptoms Survey" form, I first need to clarify the purpose and requirements of this form. This form seems to be designed to collect information about patients' experiences with overactive bladder symptoms, which is a common condition affecting millions of people worldwide. The form is likely used to gather data that will help healthcare providers understand the severity and frequency of these symptoms in order to provide better patient care.
-
-The form is composed of 17 fields, each with its own label, type, and optional requirements. The fields can be categorized into two main groups: patient information (3 fields) and symptom questions (12 fields). Patient information includes the patient's name, symptoms, and other relevant details. Symptom questions cover various aspects of overactive bladder, including frequency, urgency, and voiding volume and time.
-
-The form has been designed with multiple-choice options and free-text fields to accommodate both structured and unstructured data. However, it's essential to note that some fields have no visible options or hints, which might cause confusion for end-users. In such cases, I will provide clear explanations to help users understand the expected input.
-
-Before proceeding, I will review the form's structure and content to ensure that it meets the requirements and is user-friendly.
-</thinking>
-
 # Overactive Bladder Symptoms Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Admission Form - Help Guide
 ## Purpose
 The Hospital Admission Form is designed to collect information from patients during the admission process in a hospital setting. This form helps hospital staff gather essential details about the patient's medical history, allergies, and current medications, which are crucial for providing proper care and treatment.

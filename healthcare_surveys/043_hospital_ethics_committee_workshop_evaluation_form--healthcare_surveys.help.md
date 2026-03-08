@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Ethics Committee Workshop Evaluation Form - Help Guide
 ## Purpose
 The Hospital Ethics Committee Workshop Evaluation Form is designed to evaluate the effectiveness and satisfaction of the hospital's ethics workshop. This form is intended to gather feedback from attendees on the workshop's quality, content, and overall experience. The form will help the hospital's ethics committee to identify areas of improvement and make informed decisions about future workshops.

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for the Radiology Consent Form, which is designed to be used in a clinical setting to obtain informed consent from patients before undergoing any radiological procedures. This form helps healthcare professionals understand the patient's medical history, allergies, and potential risks and benefits associated with the procedure. It also allows patients to provide contact information and emergency contact details.
-
-</thinking>
-
 # Radiology Consent Form - Help Guide
 ## Purpose
 The Radiology Consent Form is used to obtain informed consent from patients before undergoing any radiological procedures. It helps healthcare professionals understand the patient's medical history, allergies, and potential risks and benefits associated with the procedure.

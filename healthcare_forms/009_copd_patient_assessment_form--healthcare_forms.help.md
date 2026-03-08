@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for users who are filling out the COPD Patient Assessment Form. This form is used to gather information about patients with Chronic Obstructive Pulmonary Disease (COPD) for healthcare providers to assess and manage patient care. The form is designed to collect relevant demographic information and clinical data to help healthcare providers make informed decisions about patient treatment and care.
 
 ## Purpose

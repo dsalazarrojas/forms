@@ -1,7 +1,3 @@
-<thinking>
-Form design and writing expert mode activated. The purpose of this form is to assess team leadership styles, dynamics, and members' influence within a team. This form helps in evaluating how a team works together, identifying strengths and challenges, and determining the most influential team member. To avoid any duplication of effort, please ensure that you have not already completed this form for the same team in the past.
-</thinking>
-
 # Team Leadership Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the leadership style, dynamics, and member influence within a team. It helps evaluate how a team works together, identifies strengths and challenges, and determines the most influential team member.

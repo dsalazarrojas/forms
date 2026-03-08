@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to capture information about an employee's exit interview. The purpose of this form is to gather data on the reasons for an employee's departure, their new company details, and other relevant information that can help the organization understand the reasons behind the employee's decision to leave. This form should be completed by the employee who is leaving the organization.
-
-To complete this form, follow these steps:
-
-1. Enter your employee ID.
-2. Provide the reason for leaving the organization.
-3. If applicable, provide details of your new company.
-4. Enter your last date of work.
-5. Answer whether you had a last title.
-6. If you had a last title, enter the corresponding salary range.
-7. If you are currently employed, enter the current salary range.
-8. Enter your new job title.
-9. Enter your last manager's name.
-10. Enter your last manager's phone number.
-11. Enter the date of your last termination.
-12. If applicable, provide the reason for termination.
-
-</thinking>
-
 # Employee Exit Interview Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an employee's exit interview.

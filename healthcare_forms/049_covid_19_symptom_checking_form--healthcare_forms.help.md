@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Symptom Checking Form - Help Guide
 
 ## Purpose

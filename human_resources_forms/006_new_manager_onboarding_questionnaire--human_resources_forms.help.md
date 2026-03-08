@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Manager Onboarding Questionnaire - Help Guide
 ## Purpose
 The New Manager Onboarding Questionnaire is a form designed to gather essential information from new managers to ensure a smooth transition and effective onboarding process. This form helps to understand their background, preferences, and expectations, which is essential for creating a productive and comfortable work environment. Please note that this form is required for all new managers.

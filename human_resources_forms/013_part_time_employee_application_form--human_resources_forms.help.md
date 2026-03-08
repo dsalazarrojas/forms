@@ -1,8 +1,3 @@
-<thinking>
-This help guide is generated based on a template for a "Part Time Employee Application Form", a form created to collect information from potential part-time employees. Before starting, ensure you are not a duplicate application, and this form is not affiliated with or endorsed by any form platform.
-
-</thinking>
-
 # Part Time Employee Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential part-time employees, including their personal details, work experience, availability, and job preferences. This form will help the relevant department assess their suitability for part-time positions within the organization.

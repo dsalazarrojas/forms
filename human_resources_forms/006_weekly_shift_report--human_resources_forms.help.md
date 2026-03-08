@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees about their weekly shifts, including their name, start and end dates, shift days, hours worked, start and end times, comments, employee ID, and manager ID. This information is likely used for payroll or scheduling purposes. Ensure that the fields are relevant to your role and responsibilities before filling out this form. If you are not an employee, please do not fill out this form.
-</thinking>
-
 # weekly_shift_report - Help Guide
 ## Purpose
 The weekly shift report form is used to collect information from employees about their weekly shifts, including start and end dates, shift days, hours worked, and other relevant details.

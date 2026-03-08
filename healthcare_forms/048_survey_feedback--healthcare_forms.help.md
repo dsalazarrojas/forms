@@ -1,11 +1,3 @@
-<thinking>
-  To ensure that the user understands the purpose and content of this form, we will first need to identify the main goal of the form. From the input schema, we can see that the form is called "Survey Feedback" and its main purpose is to collect feedback from users about their experience with the form itself. This form is likely used for usability testing and improvement purposes.
-
-  We will also need to check if the form has been previously filled out by the same user to avoid duplication of effort and prevent users from providing the same feedback multiple times.
-
-  Finally, we will make sure that the form is clear and easy to understand by breaking down each field and explaining its purpose and expected input in a concise and practical way.
-</thinking>
-
 # Survey Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the form itself. It's meant to help us understand what works well and what can be improved.

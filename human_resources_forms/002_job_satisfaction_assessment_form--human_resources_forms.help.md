@@ -1,14 +1,3 @@
-<thinking>
-This help guide is for the Job Satisfaction Assessment Form, used to evaluate employee satisfaction with their job. This form is intended to help employees provide feedback on their job satisfaction, work environment, and company values. 
-
-Please note that this form is not mandatory, but it's recommended that employees complete it for their manager to better understand their needs and improve their job satisfaction.
-
-Before starting this form, make sure that you're completing it on your own behalf and not as a representative of your team or department.
-
-Please answer the questions honestly, and provide as much detail as possible to help your manager understand your perspective.
-
-</thinking>
-
 # Job Satisfaction Assessment Form - Help Guide
 ## Purpose
 This form is used to assess your job satisfaction and provide feedback on your work environment and company values.

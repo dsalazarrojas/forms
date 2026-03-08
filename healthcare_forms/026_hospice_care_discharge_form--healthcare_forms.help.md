@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a discharge document for hospice care patients. The purpose of this form is to gather patient information, care team details, and other relevant details for the discharge process. The form is likely used to document the patient's current care status, next care setting, and any follow-up care instructions.
-
-Before filling out this form, please ensure that you have all the necessary information and approvals in place. You may need to review the patient's medical history, care team information, and other relevant documents to ensure accurate and complete information.
-
-This form appears to be a standardized template for healthcare providers to document patient discharges. Please fill out the form carefully and accurately to ensure that the patient receives proper care and attention after discharge.
-</thinking>
-
 # hospice_care_discharge_form - Help Guide
 ## Purpose
 The hospice care discharge form is a document used to gather and document the necessary information for a patient's discharge from a care facility. This form helps healthcare providers to ensure a smooth transition of care and provides important information for future care instructions.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help individuals track and record their daily experiences with anger triggers, intensity ratings, coping strategies, and outcomes. The goal of this form is to provide a systematic and structured approach to understanding and managing anger episodes. By completing this form, users can gain insights into their anger patterns and develop strategies to manage their emotions more effectively.
-
-Before completing this form, ensure you have a clear understanding of what you want to record for each day. This form is not meant to be a one-time activity, but rather a daily exercise to help you track your progress.
-
-Please ensure that each field is completed with the utmost care, as the data collected will help you understand your anger patterns and develop strategies to manage them. If you have any questions or concerns, refer to this help guide for clarification.
-
-If you have already completed the form before, please review the fields below to see if any updates are required.
-
-</thinking>
-
 # Anger Log - Help Guide
 ## Purpose
 The Anger Log is a form designed to help individuals track and record their daily experiences with anger triggers, intensity ratings, coping strategies, and outcomes. By completing this form, users can gain insights into their anger patterns and develop strategies to manage their emotions more effectively.

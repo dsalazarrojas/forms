@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information for a Speech and Language Screening Survey in the healthcare context. The purpose of this survey is to assess an individual's communication skills, social abilities, and medical history. The survey is used to help healthcare professionals identify potential issues that may require further evaluation or treatment. 
-
-The survey consists of multiple sections, each focusing on a different aspect of the individual's health. The "General Information" section is optional and provides an opportunity for the individual to share any relevant details about their health status. The "Communication Questions" section asks the individual to indicate their ability to communicate effectively, the "Social Skills" section assesses their social interaction abilities, and the "Behavioral Assessment" section evaluates their behavioral patterns. 
-
-The "Medical History" section is also optional and allows the individual to provide information about their medical history. The "Speech Therapy" and "Language Therapy" sections are used to determine the individual's need for speech and/or language therapy. The "Medical Professionals" section asks the individual to indicate if they have consulted any medical professionals. The "Speech-Language Pathology Assessment" section is used to evaluate the individual's speech and language pathology. 
-
-This survey is an internal-use only document and the collected data will be reviewed by healthcare professionals. 
-
-</thinking>
-
 # Speech And Language Screening Survey - Help Guide
 ## Purpose
 This form is designed to gather information for a Speech and Language Screening Survey in the healthcare context. The purpose of this survey is to assess an individual's communication skills, social abilities, and medical history.

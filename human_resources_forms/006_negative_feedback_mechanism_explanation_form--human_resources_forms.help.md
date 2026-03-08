@@ -1,10 +1,3 @@
-<thinking>
-This form is used to provide an explanation for a negative feedback mechanism, which is a system that allows users to report issues or concerns they've experienced with a product or service. The purpose of this form is to document and track these issues to help improve the overall user experience. This form will be used by support teams or administrators to gather information about the issue, who is handling it, and what steps are being taken to resolve it.
-
-To avoid duplication, please do not submit this form if you have already reported the same issue in the past. 
-
-</thinking>
-
 # Negative Feedback Mechanism Explanation Form - Help Guide
 ## Purpose
 This form is used to provide an explanation for a negative feedback mechanism. It helps to document and track issues reported by users and guide the support team on how to handle them.

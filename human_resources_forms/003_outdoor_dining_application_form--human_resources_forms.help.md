@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to facilitate the processing of outdoor dining applications for employees. It's possible that similar requests have been made through other channels. Before filling this form, please confirm that you haven't already submitted one through another method. Ensure that all required fields have a value to ensure form submission is successful.</thinking>
-
 # Outdoor Dining Application Form - Help Guide
 ## Purpose
 The Outdoor Dining Application Form is designed to collect information from employees for outdoor dining purposes.

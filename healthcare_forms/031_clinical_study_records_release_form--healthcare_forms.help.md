@@ -1,23 +1,3 @@
-<thinking>
-We need to ensure that the clinical study records release form is used correctly and consistently across our organization. This form is used to authorize the release of a patient's medical records for clinical research purposes. Before starting, we need to check that we are not duplicating an existing authorization or using this form for a different purpose. Please read the instructions carefully to ensure you understand the form's purpose and how to complete it.
-
-To complete this form, start by filling out your patient's demographic information, including their full name, date of birth, current address, phone number, and email address. This will ensure that we have accurate contact information for our patients. 
-
-Next, select the types of records you would like to release, such as medical history, laboratory results, or imaging reports. 
-
-After that, specify the date range of records you would like to release. 
-
-You will also need to indicate the purpose of the records release, such as for clinical research or data analysis. 
-
-Please specify the person or organization receiving the records and their contact information.
-
-You will also have the option to request a preferred format for the records release, such as electronic or paper copies.
-
-Finally, ensure that you have properly authorized the release of sensitive information, if any, and indicate whether you understand that you can revoke the authorization if needed.
-
-Please review all the fields in this form carefully to ensure you understand what information you are authorizing to be released and to whom.
-</thinking>
-
 # Clinical Study Records Release Form - Help Guide
 ## Purpose
 The Clinical Study Records Release Form is used to authorize the release of a patient's medical records for clinical research purposes.

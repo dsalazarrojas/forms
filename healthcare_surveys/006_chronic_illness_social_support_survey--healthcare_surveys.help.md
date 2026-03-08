@@ -1,5 +1,3 @@
-<thinking>As we design user-facing help guides, it's essential to ensure that they are concrete, concise, and practical. This help guide will outline the purpose and usage of the Chronic Illness Social Support Survey form. The form is designed to collect information from respondents about their experiences with chronic illnesses and their social support systems. This data will help researchers understand the social support needs and barriers faced by individuals with chronic illnesses, ultimately informing healthcare policies and resource allocation. This guide will walk through each field and provide explanations to facilitate accurate and efficient completion of the survey.</thinking>
-
 # Chronic Illness Social Support Survey - Help Guide
 ## Purpose
 The Chronic Illness Social Support Survey is designed to gather information about your experiences with chronic illnesses, including your social support systems, satisfaction with support, and any unmet needs or challenges you face. The data collected will be used to improve healthcare services and policies.

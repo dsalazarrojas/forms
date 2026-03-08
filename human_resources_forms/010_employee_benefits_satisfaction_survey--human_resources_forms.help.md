@@ -1,10 +1,3 @@
-<thinking>
-The Employee Benefits Satisfaction Survey is a form designed to gauge employee satisfaction with various aspects of their benefits package. This survey aims to gather feedback on the importance and effectiveness of each benefit, as well as the level of satisfaction with the overall benefits package. It also seeks to identify areas of improvement and suggestions for enhancements.
-
-Before filling out this form, please note that it is a voluntary and anonymous survey. Your responses will be used to help the organization better understand your needs and preferences, but individual responses will not be tied to any specific employee. If you have already filled out this survey, your responses will not be resubmitted.
-
-</thinking>
-
 # Employee Benefits Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on employee benefits package, including importance, effectiveness, and overall satisfaction. Your input will help the organization better understand your needs and preferences.

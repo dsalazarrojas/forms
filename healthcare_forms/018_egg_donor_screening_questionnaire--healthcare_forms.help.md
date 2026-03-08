@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about an individual's medical history, family history, and contact information for egg donation purposes. It is intended for individuals who want to donate eggs and is not affiliated with or endorsed by any specific form platform. This form is an original adaptation of public survey topic metadata and is released under the Creative Commons BY 4.0 license.
 
 </thinking>

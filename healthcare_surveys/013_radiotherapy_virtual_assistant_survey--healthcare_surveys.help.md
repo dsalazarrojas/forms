@@ -1,5 +1,3 @@
-<thinking>As I analyze the form "Radiotherapy Virtual Assistant Survey" in the healthcare_survey category, I notice that it's designed to gather user feedback and opinions about the virtual assistant's performance. This form is likely used for quality assurance and improvement purposes, ensuring that the virtual assistant meets the needs and expectations of users. I will create a user-facing help guide for this form, following the provided instructions and structure. Here is the help guide in Markdown format:</thinking>
-
 # Radiotherapy Virtual Assistant Survey - Help Guide
 ## Purpose
 This form collects your feedback and opinions about the virtual assistant, to help us improve its performance and better serve you. Your input is valuable to us, and we appreciate your time and effort in filling out this survey.

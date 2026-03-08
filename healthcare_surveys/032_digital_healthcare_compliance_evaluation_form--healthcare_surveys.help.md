@@ -1,10 +1,3 @@
-<thinking> 
-  This form was designed to evaluate the compliance of digital healthcare services in various areas such as healthcare organization, telehealth provider, consultant, documentation collection, centralize evaluation data, and customize form template.
-  This form is used to collect information about these areas and help organizations assess their digital healthcare compliance.
-  Please ensure that the form is filled out accurately and completely, and that the information collected is relevant to the specific healthcare organization being evaluated.
-  If you are unsure about any of the fields, please consult with the relevant stakeholders or seek clarification from the form's creator.
-</thinking>
-
 # digital_healthcare_compliance_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate the compliance of digital healthcare services in various areas such as healthcare organization, telehealth provider, consultant, documentation collection, centralize evaluation data, and customize form template.

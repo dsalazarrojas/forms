@@ -1,10 +1,3 @@
-<thinking>
-The "10 Panel DOA Form" is a comprehensive form designed for collecting patient information and specimen collection details for drug testing purposes. This form is used in various healthcare settings, such as clinics, facilities, or laboratories, to gather essential data for medical testing and result interpretation. The form is divided into several sections, including patient information, specimen collection details, and collector's observations. This guide will help you understand each section and what's required for completing the form accurately.
-
-Before filling out this form, please ensure that you have the necessary information and permissions from the patient. It's also essential to complete the form correctly to avoid any confusion or errors during the testing process.
-
-</thinking>
-
 # 10 Panel DOA Form - Help Guide
 
 ## Purpose

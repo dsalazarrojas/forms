@@ -1,27 +1,3 @@
-<thinking>
-This form is used to report on the shift information and activities that occurred during a shift in the accommodation department of a hotel or similar establishment. The purpose of this form is to provide a clear and concise summary of the shift's activities, allowing for accurate reporting and handover to the next shift manager. This form should only be completed by the shift manager or staff member in charge during the shift. Please ensure that all required fields are filled in accurately and thoroughly.
-
-Before completing this form, please check the following:
-
-* Make sure you are completing the form for the correct shift and date.
-* Verify that you have all necessary information and materials to complete the form.
-* Review the form carefully to ensure you have captured all relevant information.
-
-To complete this form, follow these steps:
-
-1. Enter the **Property Name** of the hotel or establishment you are working at.
-2. Select the correct **Shift Date** from the calendar or clock.
-3. Choose the correct **Shift Type** (Morning, Afternoon, Night, or Split shift).
-4. Enter the start and end times of your shift using the **Shift Start Time** and **Shift End Time** fields.
-5. Enter the name of the **Shift Manager** who was in charge during your shift.
-6. Enter the number of **Staff On Duty** and **Staff Absent**.
-7. Enter the **Total Check-Ins During Shift**, **Total Check-Outs During Shift**, **Total Rooms Occupied at End of Shift**, and **Total Rooms Available at End of Shift**.
-8. Describe any **Maintenance Issues Reported**, **Guest Complaints Received**, and **Incidents or Unusual Occurrences**.
-9. Enter the **Cash on Hand at End of Shift**.
-10. Leave any **Handover Notes for Next Shift** for the incoming shift manager.
-
-Please note that some fields are optional and may not be applicable to your shift. Make sure to fill in all required fields accurately and thoroughly.</thinking>
-
 # Accommodation Shift Report Form - Help Guide
 ## Purpose
 

@@ -1,29 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive document that captures essential information for appointments and invoices in the context of healthcare services. The primary purpose of this form is to streamline and standardize the process of creating appointments and managing invoices for patients/clients. Each field is carefully crafted to ensure accuracy and efficiency in data collection. 
-
-The following form sections and fields can be divided into several categories: 
-* Appointment details: This section contains information specific to the appointment such as duration, date, and rate. 
-* Client information: This section captures essential contact information and payment methods of the client. 
-* Additional information: This section includes fields for capturing notes, appointment type, and invoice status. 
-
-The following fields are part of this form: 
-* appointment-details: A field for entering a brief description of the appointment. 
-* appointment-rate: A field for selecting the rate of the appointment. 
-* therapist-name: This field is intended to capture the name of the person performing the appointment, likely the healthcare professional. 
-* appointment-duration: A numerical field for indicating the duration of the appointment. 
-* costing-amount: A numerical field for indicating the amount charged for the appointment. 
-* invoice-date: A date field for recording the date of the invoice. 
-* notes: A text field for capturing additional comments or notes about the appointment. 
-* invoice-status: A field for selecting the status of the invoice. 
-* invoice-email: A field for entering the email address of the client. 
-* phone-number: A field for entering the phone number of the client. 
-* appointment-type: A field for selecting the type of appointment. 
-* payment-method: A field for selecting the payment method. 
-
-Please ensure that this form is only used for its intended purpose and within the scope of your organization's policies and procedures. 
-
-</thinking>
-
 # Spark Appointment And Invoice Form - Help Guide
 ## Purpose
 This form is designed to capture essential information for appointments and invoices in the context of healthcare services, allowing for streamlined and standardized data collection.

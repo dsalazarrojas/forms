@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new staff members, including their personal details, job title, work experience, and job requirements. The form is intended to be completed by staff members who are applying for new positions or updating their existing information. The form will be used to create a staff member record that will be stored in the system and used for various administrative purposes.
-
-Before filling out this form, please make sure you are not already registered as a staff member. If you are unsure, please check your email or contact the HR department.
-
-</thinking>
-
 # Online Staff Registration Form - Help Guide
 ## Purpose
 The Online Staff Registration Form is used to register new staff members or update existing information. Please fill out this form to create or update your staff record.

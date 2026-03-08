@@ -1,13 +1,3 @@
-<thinking>**Checking form purpose and relevance**
-
-This form is used for hotel opening release, which means it's a form for hotels to provide information about their opening status. It's essential to ensure that the form is filled out correctly to avoid duplication and ensure accuracy.
-
-The form is designed to gather hotel details, owner information, and manager contact details. The owner and manager fields are optional, but it's crucial to fill them out if they are applicable.
-
-This form is likely used for administrative purposes, such as tracking hotel openings or sending notifications to owners and managers.
-
-</thinking>
-
 # hotel_opening_release_form - Help Guide
 ## Purpose
 The hotel opening release form is used to provide information about a hotel's opening status.

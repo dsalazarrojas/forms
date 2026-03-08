@@ -1,9 +1,3 @@
-<thinking>Out Patient Department Triage Form - Help Guide
-
-**Form purpose:** This form is used to gather information from patients in the Out Patient Department for triage and assessment. It is designed to be completed by patients or their family members/representatives. Please review the form carefully and ensure that all required fields are completed accurately and truthfully.
-
-</thinking>
-
 # Out Patient Department Triage Form - Help Guide
 
 ## Purpose

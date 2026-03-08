@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about a doctor's background and qualifications. It will likely be used for internal HR or administrative purposes, such as updating a doctor's profile or verifying their credentials. To ensure accuracy and prevent duplication, please review the form carefully before submitting it. This will help us keep our records up to date and accurate...</thinking>
-
 # Doctor Bio Collection Form - Help Guide
 ## Purpose
 The Doctor Bio Collection Form is used to collect and store information about a doctor's background, qualifications, and credentials. This form helps maintain accurate and up-to-date records for internal use.

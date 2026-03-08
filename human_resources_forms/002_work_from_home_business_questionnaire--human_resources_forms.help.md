@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information from employees regarding their work from home business arrangements. This includes requests to work from home, employee contact information, and other details necessary for management to facilitate work from home operations effectively.</thinking>
-
 # Work From Home Business Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from employees regarding their work from home business arrangements. It is used by HR to ensure accurate documentation and to facilitate effective management of work from home operations.

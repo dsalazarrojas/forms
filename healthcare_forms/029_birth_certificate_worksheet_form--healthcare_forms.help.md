@@ -1,16 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-To prevent duplication, let's first check if the form has been used recently or is a duplicate birth certificate request. If it has, provide an error message and redirect to the correct path. If not, proceed with the form.
-
-The purpose of this form is to gather necessary information for a birth certificate, which is a legal document that proves an individual's birthdate, place, and other details. This form will guide users through the required fields to complete the birth certificate accurately.
-
-The form is divided into several sections, each focusing on a different aspect of the birth details. The user will need to fill in the infant's details, the mother's information, and the father's information, if applicable. Additionally, the user will provide details about the birthplace and certifying official.
-
-Please note that some fields may not be applicable in certain situations, and users will be able to skip them accordingly.
-
-</thinking>
-
 # Birth Certificate Worksheet Form - Help Guide
 
 ## Purpose

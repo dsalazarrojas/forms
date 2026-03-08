@@ -1,8 +1,6 @@
 # Workplace Accident Absence Form - Help Guide
 
 ## Purpose
-<thinking>Before filling out this form, please ensure that the incident has occurred in the workplace and the employee's absence is related to the incident. If the incident is not related to the workplace or the employee's absence is not due to the incident, please refrain from filling out this form. This form is used to report and document workplace accidents and absences caused by such incidents. By providing accurate and detailed information, you will help us in investigating and addressing the incident effectively. Please note that the information collected through this form will be used for internal purposes only.</thinking>
-
 ## How To Complete This Form
 To complete this form, follow the steps below:
 

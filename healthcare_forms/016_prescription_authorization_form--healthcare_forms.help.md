@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to authorize a prescription for a patient. It collects information about the patient, the authorized person for the prescription, the medication, and the pickup details. The purpose of this form is to ensure that the patient's healthcare provider can accurately document and authorize the prescribed medication.
-</thinking>
-
 # Prescription Authorization Form - Help Guide
 ## Purpose
 The Prescription Authorization Form is used to authorize a prescription for a patient. It is a crucial document that ensures the patient's healthcare provider has verified the prescribed medication and the patient's pickup details.

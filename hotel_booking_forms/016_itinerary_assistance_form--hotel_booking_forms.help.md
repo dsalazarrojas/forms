@@ -1,9 +1,3 @@
-<thinking>
-This form is used for hotel booking assistance, and its purpose is to gather information from customers about their travel plans and requirements. It is designed to be filled out by customers who need help with booking a hotel room or have specific requests for their stay. The form will help the hotel staff to better understand the customer's needs and provide the best possible assistance.
-
-The form consists of several fields that the customer needs to fill out, and it is recommended that the customer carefully reads and understands each field before proceeding. The form is not intended to be a duplicate effort, but rather to gather specific information that will aid the hotel staff in providing a smooth and pleasant experience for the customer.
-</thinking>
-
 # Itinerary Assistance Form - Help Guide
 
 ## Purpose

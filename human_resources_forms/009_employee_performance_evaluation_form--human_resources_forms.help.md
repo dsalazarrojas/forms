@@ -1,13 +1,3 @@
-<thinking>Before creating a help guide for the employee performance evaluation form, let's consider the following internal reasoning:
-
-* The form is used for evaluating an employee's performance, providing a structured way to assess their achievements and areas for improvement.
-* The form is designed to be completed by a supervisor or manager, who will be evaluating the employee's performance.
-* The form includes fields for various aspects of performance evaluation, such as goals met, performance score, comments, and evaluation date.
-* Some fields are optional, allowing for customization of the evaluation process.
-* The form is used for both internal and external stakeholders to track and analyze employee performance.
-
-</thinking>
-
 # employee_performance_evaluation_form - Help Guide
 ## Purpose
 The Employee Performance Evaluation Form is used to assess an employee's performance over a specific period. It helps supervisors and managers to evaluate an employee's progress towards goals, identify areas for improvement, and provide feedback and guidance.

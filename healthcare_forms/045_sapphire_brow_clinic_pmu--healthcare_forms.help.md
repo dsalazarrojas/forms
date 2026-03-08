@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sapphire Brow Clinic PMU - Help Guide
 ## Purpose
 This form is used for scheduling and tracking PMU (Permanent Makeup Usher) appointments at Sapphire Brow Clinic. It collects patient contact information and details for PMU services.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information on a patient's breast imaging history, which is essential for healthcare providers to assess the patient's risk factors and make informed decisions about future imaging procedures. The purpose of this form is to gather details about the patient's medical history, including previous breast imaging experiences, cancer history, and family history. This information will help healthcare providers identify potential risks and create personalized follow-up plans for the patient.
-
-Before starting this form, ensure that the patient's information is not duplicated or redundant, and the data collected is accurate and up-to-date. 
-
-</thinking>
 # Breast Imaging History Survey - Help Guide
 ## Purpose
 The Breast Imaging History Survey is designed to gather information on a patient's breast imaging history, helping healthcare providers assess risk factors and create informed decisions about future imaging procedures.

@@ -1,13 +1,3 @@
-<thinking>
-To confirm, this form is designed to gather information for AI bias awareness in the healthcare sector. Before we begin, let's ensure you're familiar with this form's purpose and requirements: 
-
-This form will collect data from healthcare professionals or individuals with healthcare experience, aiming to understand AI biases in the industry. It's essential to provide truthful and honest feedback to contribute to the improvement of AI systems.
-
-When answering the questions, please consider your personal experience with AI systems in healthcare. The survey will cover various aspects of AI, including its application, concerns, and potential impact on the industry. 
-
-We've double-checked the form requirements to ensure that you'll get a complete picture of your experiences and opinions. If you've filled this form before, kindly review the changes and fill it out again for the updated information.
-</thinking>
-
 # HealthCare AI Bias Awareness Survey - Help Guide
 ## Purpose
 The purpose of this HealthCare AI Bias Awareness Survey is to collect feedback and information from healthcare professionals or individuals with healthcare experience on their experiences with AI systems in the industry.

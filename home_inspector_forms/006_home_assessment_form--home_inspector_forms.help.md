@@ -1,23 +1,3 @@
-<thinking>
-
-This form appears to be a template for collecting metadata about a home assessment. The "home_address" field suggests that the form is used for inspecting or evaluating a home in some way. The "condition" field indicates that the form might be used to report on the condition of a home, whether it's for a maintenance request, a home inspection, or something else. The "equipment_list" field implies that the form is used to track or report on the equipment present in the home.
-
-The "notes" field and "email" field suggest that the form might be used in a professional or business setting, where communication and additional comments are necessary. The "phone" field could be used to collect contact information for further communication.
-
-The "date" and "time" fields imply that the form has timestamps associated with it, which might be used to track when the form was submitted, created, or updated.
-
-The "signature" field could be used for authentication or verification purposes.
-
-The "uploaded_documents" field suggests that the form might be used to collect or upload attachments or files.
-
-The "submitted_by", "created_by", "updated_by", "submitted_at", "updated_at", "created_at", "submitted_by_user_id", "updated_by_user_id", "created_by_user_id", "created_user_id" fields appear to be system-generated metadata fields, used to track the form's history and ownership.
-
-The "user_name" field could be used to collect the username of the user who submitted the form.
-
-This guide is intended to help users understand how to fill out the form correctly, without requiring extensive background knowledge of the form's intended use.
-
-</thinking>
-
 # Home Assessment Form - Help Guide
 
 ## Purpose

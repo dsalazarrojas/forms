@@ -1,7 +1,3 @@
-<thinking>
-The form "credit_reference_request" is used to collect information about an employee's professional reference, including their name, contact information, and details about their work relationship with the employee. This form is likely used in the context of employment or professional certification processes.
-</thinking>
-
 # credit_reference_request - Help Guide
 ## Purpose
 This form collects information about an employee's professional reference for employment or certification purposes.

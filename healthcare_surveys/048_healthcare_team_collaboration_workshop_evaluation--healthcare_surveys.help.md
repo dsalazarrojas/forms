@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Healthcare Team Collaboration Workshop Evaluation form. The form is designed to gather feedback on the quality and effectiveness of healthcare team collaboration workshops. It is not meant to be a comprehensive evaluation, but rather a brief and focused assessment of specific aspects of the workshop. 
-
-Before starting, ensure that you have relevant information about the workshop you are evaluating. This form is not intended for duplicate evaluations, so please only complete this form for a unique workshop.
-
-To complete this form, follow the steps below:
-
-1. Answer each question honestly and thoroughly, providing your genuine feedback.
-2. For select-one and select-multiple fields, choose the response that best describes your assessment.
-3. For text fields, provide detailed and specific comments.
-
-</thinking>
-
 # Healthcare Team Collaboration Workshop Evaluation - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Healthcare Team Collaboration Workshop Evaluation form. The form is designed to help evaluate the quality and effectiveness of healthcare team collaboration workshops.

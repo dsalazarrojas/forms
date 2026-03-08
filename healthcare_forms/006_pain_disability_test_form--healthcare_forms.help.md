@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess the level of pain disability in patients, providing a comprehensive overview of their pain experience. The form is divided into several sections, each focusing on a different aspect of pain disability. It's essential to fill out this form accurately to ensure that your responses are valid and reliable. Please note that the form is not intended to diagnose or treat any medical condition, and the information provided will be used solely for statistical purposes to help healthcare professionals understand the pain disability prevalence among patients. Before starting, review each section carefully and ensure you've answered all questions truthfully. If you have any doubts or concerns, please feel free to ask for clarification.</thinking>
-
 # Pain Disability Test Form - Help Guide
 ## Purpose
 

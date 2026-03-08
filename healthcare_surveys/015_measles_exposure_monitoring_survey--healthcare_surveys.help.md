@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Measles Exposure Monitoring Survey form to end users. The form is designed to collect data on potential Measles exposure incidents, including the date, location, and contact information of individuals who may have been exposed to the virus. The form is typically used by healthcare professionals to gather information quickly and accurately in response to suspected or confirmed Measles exposure incidents. To ensure that the correct data is collected, please review the form carefully before proceeding.
-
-This guide is for information and educational purposes only and should not be used to make decisions regarding actual exposure incidents.
-
-The survey consists of several fields that need to be completed for accurate data collection. Please note that while most fields are optional, some are required to ensure that the necessary information is captured.
-
-The form is organized into several sections, each with its own set of fields that need to be completed. Please refer to each field explanation below for a detailed explanation of each section.</thinking>
-
 # Measles Exposure Monitoring Survey - Help Guide
 ## Purpose
 The Measles Exposure Monitoring Survey is a form designed to collect information on potential Measles exposure incidents, allowing for quick and accurate data collection by healthcare professionals.

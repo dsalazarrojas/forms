@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather feedback from patients or their representatives about their experience with a neurointerventionist. This form aims to collect information on the patient's current experience, rating of the neurointerventionist's communication skills, whether their concerns were addressed, their satisfaction with the session, any additional comments or suggestions, and their recommendation of the neurointerventionist to others. This form is likely used to assess the quality of care provided by the neurointerventionist and to identify areas for improvement.
-</thinking>
-
 # neurointerventionist_feedback_survey - Help Guide
 
 ## Purpose

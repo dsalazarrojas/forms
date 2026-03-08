@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's exposure risk to Mpox (also known as the smallpox virus). Mpox is a rare but potentially severe illness. This form is used to gather information about a person's travel history, symptoms, and contact with others who may be sick, as well as other relevant details that can help healthcare providers identify potential risks. Before filling out this form, please confirm that you have not already submitted an assessment for this patient or individual. If you have submitted an assessment, please do not resubmit this form.
-</thinking>
-
 # Mpox Exposure Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers assess an individual's risk of exposure to Mpox (also known as the smallpox virus). Please answer the questions honestly to help us better understand your situation.

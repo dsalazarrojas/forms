@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's health insurance inquiry. The form is intended to be filled out by policy holders or their agents, and is used to capture relevant details about the individual's insurance policy. This form will help the insurance provider gather necessary information to process the inquiry efficiently.
-</thinking>
-
 # Health Insurance Inquiry Form - Help Guide
 ## Purpose
 This form is used to collect information about an individual's health insurance inquiry. It is used to gather details about the policy holder's health, insurance policy, and other relevant information.

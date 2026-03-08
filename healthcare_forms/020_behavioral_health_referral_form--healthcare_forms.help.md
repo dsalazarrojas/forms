@@ -1,7 +1,3 @@
-<thinking>
-This is a Behavioral Health Referral Form, used to document the referral process for patients seeking behavioral health services. This form is designed to gather essential information from both the referring provider and the patient, ensuring that all necessary details are captured to facilitate efficient and effective care. Before proceeding, please ensure this form is not already completed for the same patient by another referring provider.
-</thinking>
-
 # Behavioral Health Referral Form - Help Guide
 ## Purpose
 The Behavioral Health Referral Form is used to gather crucial information for referring providers and patients seeking behavioral health services. It is designed to streamline the referral process, ensuring that all necessary details are captured for efficient and effective care.

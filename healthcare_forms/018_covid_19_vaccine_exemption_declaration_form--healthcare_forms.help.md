@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals and patients to declare a Covid-19 vaccine exemption. The purpose of this form is to gather information about the patient's reason for exemption from the Covid-19 vaccine, including the patient's contact information and the medical practitioner or assessor's details. This form should not be used for other purposes, such as scheduling appointments or sharing medical records. Please fill out the form carefully, and make sure to review and complete all sections before submission.
-</thinking>
-
 # Covid 19 Vaccine Exemption Declaration Form - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals and patients declare a Covid-19 vaccine exemption.

@@ -1,11 +1,3 @@
-<thinking> 
-To determine the purpose and relevance of the form and prevent duplication with other forms, let's analyze its structure and contents. 
-This form appears to be a comprehensive survey designed for the assessment and management of dyspnea, which is a medical condition characterized by shortness of breath. 
-The form gathers various information regarding the severity of shortness of breath, triggers, and symptoms associated with breathing, including medication usage and healthcare provider involvement. 
-Based on this analysis, it's unlikely that this form is a duplicate of another form with a similar purpose. 
-
-</thinking>
-
 # Dyspnea Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about the patient's shortness of breath, its severity, triggers, and associated symptoms. This data will help healthcare providers assess and manage the patient's condition effectively.

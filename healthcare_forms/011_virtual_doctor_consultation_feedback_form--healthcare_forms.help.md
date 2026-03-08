@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients after a virtual doctor consultation. The purpose of this form is to help healthcare providers understand how well they performed during the consultation, and to identify areas for improvement. Please ensure that you complete this form honestly and thoroughly, and do not submit duplicate feedback.
-
-</thinking>
-
 # Virtual Doctor Consultation Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their recent virtual doctor consultation. Your input will help us improve the quality of care we provide.

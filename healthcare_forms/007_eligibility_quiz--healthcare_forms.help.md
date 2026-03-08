@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a person's eligibility for some sort of healthcare benefit or service. The goal is to determine whether the individual meets certain criteria. This form will ask a series of questions about the person's age, medical conditions, lifestyle, and other factors that may impact eligibility.
-The form is divided into multiple pages, each with a specific question or set of questions. The questions are designed to be straightforward and easy to understand.
-The form does not appear to have any complex conditional logic or branching, suggesting that it is intended to be a simple eligibility assessment tool.
-</thinking>
-
 # Eligibility Quiz - Help Guide
 
 ## Purpose

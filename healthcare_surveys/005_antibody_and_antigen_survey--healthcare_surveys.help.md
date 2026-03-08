@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antibody And Antigen Survey - Help Guide
 ## Purpose
 The Antibody And Antigen Survey is a tool to gather information about the respondent's health status, including their age group, previous diagnosis, vaccination status, symptoms, exposure history, and other relevant health-related details. This form is intended to collect data for research purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Card Replacement Form - Help Guide
 ## Purpose
 This form is used to request a replacement for your COVID-19 vaccination card. Please fill out the form below to provide information about your vaccination history and preferences for receiving your replacement card.

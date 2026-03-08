@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on hospital outpatient volume, which is an essential metric for healthcare providers to track and analyze the number of patient visits, cancellations, and wait times. The data collected through this form will help healthcare administrators and practitioners make informed decisions about resource allocation, patient flow, and quality of care. This form will also help identify trends and patterns in outpatient volume that may indicate areas for improvement or opportunities for growth. Please ensure that you have reviewed the data carefully before submitting it, as it will be used for administrative and statistical purposes.
-</thinking>
-
 # Hospital Outpatient Volume Report - Help Guide
 ## Purpose
 The Hospital Outpatient Volume Report is a form used to collect data on the number of patient visits, cancellations, and wait times in outpatient settings. This report provides valuable information for healthcare administrators and practitioners to make data-driven decisions and improve patient care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for drone-based roof inspections. It captures information about the roof's condition, the date of the inspection, details about the inspector and contractor, the model of the drone used, the location of the inspection, and any additional inspection notes. It also allows users to upload images or videos related to the inspection. The information gathered from this form will help in creating a comprehensive report about the roof's condition and any necessary repairs or maintenance. This form is intended to be used by inspectors, homeowners, or other stakeholders involved in roof inspections. There is no duplication of this form in the system currently. 
-</thinking>
-
 # Drone Roof Inspection Checklist - Help Guide
 ## Purpose
 The Drone Roof Inspection Checklist is a form designed to collect information about the condition of a roof and any necessary repairs or maintenance. This form will help inspectors and other stakeholders in creating a comprehensive report.

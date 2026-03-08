@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a straightforward form for collecting votes from the community on land use issues, likely for a municipal or local government setting. The purpose of this form is to gather information from residents or property owners on their stance on specific land use decisions. The form appears to be designed to be completed by individuals who are eligible to vote, with the option to confirm their eligibility. The form also includes an optional section for voters to provide a reason for their vote, as well as an area for additional comments. The form does not seem to be designed for anonymous voting, as it requires the voter's name and email address for verification and confirmation purposes. This form's structure and fields suggest that it's intended for a formal voting process, possibly within a public or government entity.
-</thinking>
-
 # Community Land Use Vote - Help Guide
 ## Purpose
 This form is for collecting votes from community members on land use decisions. It is designed to gather information from eligible residents or property owners.

@@ -1,9 +1,3 @@
-<thinking>
-
-The "interview_questionnaire" form is used to collect information from candidates during an interview process. The form collects personal details, contact information, and answers to questions about the candidate's motivation and suitability for a job. This information helps the hiring manager to assess the candidate's qualifications and fit for a role. Please ensure that the form is filled in accurately and completely to ensure the best possible outcome. 
-
-</thinking>
-
 # interview_questionnaire - Help Guide
 ## Purpose
 The "interview_questionnaire" form is used to collect information from candidates during an interview process.

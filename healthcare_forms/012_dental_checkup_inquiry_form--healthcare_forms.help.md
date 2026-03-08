@@ -1,12 +1,3 @@
-<thinking>
-The "dental_checkup_inquiry_form" is a form used to collect information from patients about their dental checkup inquiries. This form is designed to gather details such as patient name, date of birth, email, and medical history, among other relevant information. It's intended to be completed by patients or their representatives to provide essential data for dental inquiries or appointment scheduling purposes. The form is not mandatory, and users can submit or skip fields as per their needs. 
-
-Before proceeding, ensure you have the necessary information ready to fill out the form accurately. The form is not designed to be completed multiple times, so please fill it out once with the required information. This form is meant for single-user input and is not meant for batch processing or automated submissions.
-
-Please note that some fields may have specific requirements or restrictions based on the form's design and purpose. If you're unsure about any field, refer to the field-by-field explanation for clarification.
-
-</thinking>
-
 # dental_checkup_inquiry_form - Help Guide
 ## Purpose
 The "dental_checkup_inquiry_form" is a form used to collect information from patients about their dental checkup inquiries.

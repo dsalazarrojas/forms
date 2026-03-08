@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the physical activity readiness of an individual, helping healthcare professionals gather information about a patient's physical activity level, pain or discomfort experienced during exercise, and any visits to a doctor regarding their pain. This form may be used to identify potential health risks or limitations related to physical activity and inform treatment or recommendation decisions.
-</thinking>
-
 # Physical Activity Readiness - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals understand an individual's physical activity level, pain or discomfort experienced during exercise, and any visits to a doctor regarding their pain.

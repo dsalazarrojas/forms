@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of a team lead within the tech team, gathering feedback from both peers and the manager, and providing a platform for setting goals and expectations for the upcoming year. This form is meant to be completed by both the team lead and their manager, ensuring that both parties have a clear understanding of the team lead's strengths and areas for improvement. By filling out this form, both parties can work together to establish a plan for growth and development, helping the team lead to excel in their role.
-</thinking>
-
 # Tech Team Lead Annual Evaluation Form - Help Guide
 ## Purpose
 The Tech Team Lead Annual Evaluation Form is designed to assess the performance of a team lead within the tech team, gathering feedback from peers and the manager to help identify areas of improvement and set goals for the upcoming year.

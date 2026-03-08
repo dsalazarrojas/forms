@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users interested in the Mpox vaccine. This form will likely be used by healthcare providers or medical institutions to collect data on individuals who are interested in receiving the Mpox vaccine. The form should only be filled out by individuals who are actually interested in the vaccine, as it is not intended for people who are not interested. The form should not be filled out multiple times by the same person. The form fields are designed to collect information such as contact details, medical history, and eligibility for the vaccine. 
-</thinking>
-
 # Mpox Vaccine Interest Form - Help Guide
 ## Purpose
 

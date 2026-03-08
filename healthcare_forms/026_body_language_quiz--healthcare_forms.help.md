@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals, possibly students or healthcare professionals, assess and improve their knowledge on nonverbal body language. This form aims to gather information on the interpretation of body language cues, which can be crucial in various social and professional settings. The form's purpose is to educate and self-assess, and it's not affiliated with or endorsed by any specific platform or organization. This form is an original adaptation, created using AI, and released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, with proper credit given.
-</thinking>
-
 # Body Language Quiz - Help Guide
 ## Purpose
 The Body Language Quiz is designed to help you understand and interpret nonverbal body language cues. This quiz will ask you to identify what a particular body language indicates, and you'll be able to assess your confidence level in your answers.

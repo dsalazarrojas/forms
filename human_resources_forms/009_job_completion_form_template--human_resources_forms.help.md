@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about job completions, which can include job titles, start and end dates, hours worked, and other relevant details. The purpose of this form is to provide a structured and efficient way to document job completions, making it easier to track and analyze this information. This form is likely to be used by HR or management teams to record job completions for employees, and it's essential to ensure that all required fields are completed accurately to avoid duplication of effort and ensure data consistency. This guide will help users understand how to complete the form correctly and utilize it effectively.
-</thinking>
-
 # Job Completion Form Template - Help Guide
 
 ## Purpose

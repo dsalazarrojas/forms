@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect new employee information for HR purposes. It is intended for employees who have recently joined the company and need to provide details about their job title, job type, department, and other relevant information. The form is not intended for external use, and all data collected will be used internally for HR management.
-
-To determine if this form is relevant to you, please check if you are an employee who has recently joined the company.
-
-Please note that the fields in this form are designed to be completed only once, when an employee first joins the company. If you need to update your information, please contact your HR department for assistance.
-</thinking>
-
 # New Employee Details Form - Help Guide
 ## Purpose
 The New Employee Details Form is a simple form designed to collect essential information about new employees. This form helps the HR department to keep track of employee details and maintain accurate records.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Opportunity Questionnaire - Help Guide
 ## Purpose
 The Job Opportunity Questionnaire is a form used to gather information about job opportunities within the company. This form helps to ensure that all relevant details about a job opening are captured accurately and consistently. The data collected will be used to support internal hiring processes and help in identifying potential candidates for job openings.

@@ -1,8 +1,3 @@
-<thinking>
-The provided YAML defines a comprehensive form for capturing COVID-19 daily health checklists. The form appears to be designed for healthcare providers or administrators to collect information on a patient's health status, contact history, travel history, and test results. The form likely serves as a tool for risk assessment, surveillance, and tracking of COVID-19 cases. To avoid duplication of effort, it is essential to ensure that the correct form is completed for each patient, taking into account their specific circumstances.
-
-</thinking>
-
 # template_covid_19_daily_health_checklist_city_of_fresno - Help Guide
 ## Purpose
 This form is designed to collect information on a patient's health status, contact history, travel history, and test results to aid in the assessment and surveillance of COVID-19 cases.

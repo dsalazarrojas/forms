@@ -1,7 +1,3 @@
-<thinking>
-The Hospital Discharge Communication Form is a crucial document used to convey essential information about a patient's hospitalization and post-discharge care. This form is typically completed by healthcare professionals in a hospital setting to ensure smooth communication between the patient, family members, and caregivers after a patient's hospital stay. The form's data helps track patient progress, identify potential follow-up needs, and document the discharge status accurately.
-</thinking>
-
 # Hospital Discharge Communication Form - Help Guide
 ## Purpose
 This form is designed to facilitate effective communication between healthcare providers, patients, and their families after a hospital stay. It provides a structured format for documenting a patient's discharge details, including discharge status, follow-up appointments, and any necessary care instructions.

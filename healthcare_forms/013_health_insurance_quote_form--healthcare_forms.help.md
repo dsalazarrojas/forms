@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal and insurance-related information from users. It will guide them through a series of questions that will help us better understand their needs and preferences. This form does not collect sensitive or confidential information, and the information collected will be used for the purpose of providing a health insurance quote only. Please note that some fields are optional, but providing accurate and complete information will help us provide a more accurate quote.
-</thinking>
-
 # Health Insurance Quote Form - Help Guide
 ## Purpose
 The Health Insurance Quote Form is designed to collect information from users to provide them with a personalized health insurance quote. Please follow the steps below to complete the form.

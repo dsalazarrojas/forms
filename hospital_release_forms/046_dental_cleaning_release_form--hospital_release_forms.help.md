@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their dental cleaning appointments. It's essential to understand that this form is used to gather medical history, allergies, medications, and emergency contact information, as well as obtaining consent for treatment. This form is typically used by healthcare providers to ensure they have the necessary information to provide proper care. Please ensure you have the necessary permissions and clearances to use this form.
-</thinking>
-
 # dental_cleaning_release_form - Help Guide
 ## Purpose
 This form is used to collect information from patients regarding their dental cleaning appointments, including medical history, allergies, medications, and emergency contact information, as well as obtaining consent for treatment.

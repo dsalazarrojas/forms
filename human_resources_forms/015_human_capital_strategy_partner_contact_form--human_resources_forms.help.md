@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the Human Capital Strategy Partner Contact Form. This form is a tool for capturing information from partners who are working with Human Capital Strategy. The purpose of this form is to collect relevant details about these partners, including their name, category, description, and other contact information.
-
-To ensure that the form is filled out correctly and efficiently, we need to make sure that each section has the right information. Before filling out the form, please check that you have the necessary information ready.
-
-</thinking>
-
 # Human Capital Strategy Partner Contact Form - Help Guide
 ## Purpose
 The Human Capital Strategy Partner Contact Form is a tool for capturing information from partners who are working with Human Capital Strategy. This form is used to collect relevant details about these partners, including their name, category, description, and other contact information.

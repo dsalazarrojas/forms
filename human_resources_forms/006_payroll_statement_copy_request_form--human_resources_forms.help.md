@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a copy of an employee's payroll statement. Before filling out this form, please ensure that you have the necessary authorization and that the request is not a duplicate. The completed form should be submitted to the relevant department, and the employee's manager will be notified.
-</thinking>
-
 # Payroll Statement Copy Request Form - Help Guide
 ## Purpose
 The Payroll Statement Copy Request Form is used to request a copy of an employee's payroll statement. This form is designed to provide a convenient way for employees to request a copy of their payroll statement in a secure and organized manner.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient satisfaction survey responses from individuals who have received care or services. To ensure accurate and relevant data collection, please note that only individuals who have received care or services within the past 30 days are eligible to fill out this form. If you have filled out this survey before, please do not submit this form again, as your data will not be recorded for the same time period.
-
-</thinking>
-
 # Patient Satisfaction Questionnaire - Help Guide
 
 ## Purpose

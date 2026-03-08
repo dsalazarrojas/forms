@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to the rollout of policies within an organization. It aims to gather details about the assignees involved, their roles, and the policies being rolled out. The form is intended to be used in a controlled environment, such as HR or management teams, to standardize the process of policy implementation. It ensures that all necessary steps are taken for a successful policy rollout, reducing errors and increasing transparency.
-</thinking>
-
 # Policy Rollout Checklist - Help Guide
 ## Purpose
 This form is designed to collect and document information related to the rollout of policies within the organization. It helps to track the progress and status of policy implementation, ensuring a smooth and error-free process.

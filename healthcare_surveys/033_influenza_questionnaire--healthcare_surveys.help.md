@@ -1,10 +1,3 @@
-<thinking>
-
-The internal reasoning block to check for relevance and non-duplication:
-We will be using this form to collect information from patients about their recent influenza symptoms, potential exposure to the virus, and related factors such as medical history, treatment received, and medical conditions. This form is not intended for patients who have already been vaccinated or have a history of allergies to the influenza virus. The goal is to gather accurate and complete information from each patient, and the form will be reviewed by medical professionals for further evaluation and treatment.
-
-</thinking>
-
 # influenza_questionnaire - Help Guide
 ## Purpose
 The influenza_questionnaire form is designed to collect information from patients about their recent influenza symptoms, potential exposure, and related factors. This information will be used by medical professionals to further evaluate and treat the patient.

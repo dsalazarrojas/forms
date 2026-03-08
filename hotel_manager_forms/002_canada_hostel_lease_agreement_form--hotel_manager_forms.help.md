@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential tenants for a hostel lease agreement in Canada. The form is meant to be used to ensure that all necessary information is collected for the lease, including tenant identification, contact details, lease terms, and emergency contact information. This form will help hostel staff to process the lease agreement and ensure that all necessary details are captured. Please ensure that the information is accurate and up-to-date to avoid any issues during the lease period.
-
-</thinking>
-
 # Canada Hostel Lease Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information for a hostel lease agreement in Canada. Please fill out the form accurately to ensure a smooth and secure lease experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential clients or hotels about their sales and revenue goals, operations, contact details, and other relevant information. This form helps the hotel management team to understand the client's needs and preferences, and to provide a tailored solution to their requests. Please note that this form should only be used for hotels that are interested in our services, and not for general inquiries or feedback.
-</thinking>
-
 # Hotel RFP Form Template - Help Guide
 ## Purpose
 This form is a comprehensive template for hotel managers to submit their sales, revenue, and operations requirements. It helps us to understand their needs and provide a tailored solution to their requests.

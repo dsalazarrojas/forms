@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "medicare_consultation_intake_form" form, I'll need to understand the context and purpose of the form based on the provided YAML schema. The form appears to be a general intake form for medical consultations, collecting information on various aspects of a patient's health and insurance details. This guide will aim to break down the form into a user-friendly and approachable manual.
-
-</thinking>
-
 # medicare_consultation_intake_form - Help Guide
 ## Purpose
 The medicare_consultation_intake_form is a comprehensive form designed to gather general information and health-related details from patients. It aims to streamline medical consultations by collecting necessary data in a structured manner, facilitating efficient and informed discussions between healthcare providers and their patients.

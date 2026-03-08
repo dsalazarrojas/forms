@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Patient Safety Assessment Survey form is to gather information about patient safety incidents, including the healthcare setting where the incident occurred, the date and time of the incident, and the patient's name and contact information. This form is essential for identifying potential safety issues and taking corrective actions to prevent future incidents. Please ensure that you are in the correct context to complete this form, and do not duplicate efforts by using this form when other relevant forms are already in process.
-</thinking>
-
 # Patient Safety Assessment Survey - Help Guide
 ## Purpose
 The Patient Safety Assessment Survey form is designed to collect information about patient safety incidents, allowing healthcare professionals to identify potential safety issues and take corrective actions to prevent future incidents.

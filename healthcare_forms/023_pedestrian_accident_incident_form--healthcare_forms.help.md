@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a pedestrian accident incident. The purpose of this form is to collect details about the incident from the user, which will be used to report the incident and potentially aid in any future investigations or inquiries. To avoid duplication of effort and ensure accurate reporting, please ensure that you only complete this form for incidents that occur on the road or sidewalk, and not for incidents that occur off-road or in a non-pedestrian-related context.
-</thinking>
-
 # Pedestrian Accident Incident Form - Help Guide
 ## Purpose
 The Pedestrian Accident Incident Form is used to report incidents involving pedestrians that occur on the road or sidewalk. This form helps gather important details about the incident, which will be used to aid in investigations or inquiries.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_information_sharing_preferences_survey - Help Guide
 ## Purpose
 This form is designed to collect information about individuals' preferences regarding the sharing of their health information. It aims to gather data on what type of health information should be shared with whom, how often, and any concerns or preferences individuals may have about sharing their data.

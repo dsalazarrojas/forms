@@ -1,12 +1,3 @@
-<thinking>
-The operating room design survey form is intended to gather user feedback on the design of operating rooms in a healthcare setting. This form captures information about the user's preferences and experiences with specific aspects of operating room design. The form is likely to be completed by healthcare professionals, such as doctors, staff, and visitors, to provide valuable insights for improving the design of operating rooms.
-
-To avoid duplication of efforts and ensure relevance, it is essential to review the existing literature and research on operating room design before completing this form. The form's purpose is to collect data that will inform design decisions and improve the overall operating room experience.
-
-This form is not intended to be a replacement for existing evaluation methods, such as focus groups or surveys. Instead, it is designed to provide an additional channel for users to provide their opinions and preferences.
-
-</thinking>
-
 # operating_room_design_survey - Help Guide
 ## Purpose
 The operating room design survey form is designed to gather user feedback on the design of operating rooms in a healthcare setting. Its purpose is to collect data that will inform design decisions and improve the overall operating room experience.

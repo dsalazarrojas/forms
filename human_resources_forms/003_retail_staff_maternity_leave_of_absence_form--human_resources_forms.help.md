@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Retail Staff Maternity Leave Of Absence Form - Help Guide
 ## Purpose
 The Retail Staff Maternity Leave Of Absence Form is a required form for any retail staff member requesting maternity leave of absence from their work. This form is used to inform management about the staff member's absence and to document necessary information for their return to work after maternity leave.

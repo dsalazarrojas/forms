@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the necessary information for completing the "Healthcare Volunteer Application Form" for healthcare volunteers. The form is used to collect information from potential volunteers who wish to contribute to the healthcare industry. It's crucial to ensure the accuracy and relevance of the information provided, so this guide will walk you through each field to help users understand its purpose and how to complete it effectively.
-</thinking>
-
 # Healthcare Volunteer Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from potential healthcare volunteers, including their personal details, availability, healthcare experience, and medical certifications. This form will help us assess their suitability and prepare them for the volunteer role.

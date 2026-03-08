@@ -1,5 +1,3 @@
-<thinking>...The Organizational Chart Update Request Form is used by employees to request updates to the company's organizational chart, such as adding, removing, or modifying job roles and reporting relationships. This form is used to track and manage changes to the organizational structure of the company. To avoid confusion, please ensure that you only submit one form per request. If you are unsure about which form to fill out or need clarification on the purpose of this form, please reach out to your HR representative or the organizational development team...</thinking>
-
 # Organizational Chart Update Request Form - Help Guide
 ## Purpose
 The Organizational Chart Update Request Form is used to request updates to the company's organizational chart. This form is used to track and manage changes to the organizational structure of the company.

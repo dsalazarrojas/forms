@@ -1,9 +1,3 @@
-<thinking>From the provided YAML schema, it appears this form is designed for a doctor to refer a patient to a specialist or another doctor. The form collects patient's personal and medical information to facilitate the referral process.
-
-To avoid duplication of effort, this form should not be used for initial patient intake or medical record updating. It is intended for referral purposes only. Before filling out this form, ensure that the patient's medical history is up to date and that they are aware of the referral request.
-
-Please note that while this form is designed for healthcare professionals, its primary purpose is to aid in communication between doctors. If you are unsure about any information or have questions, please consult with the patient's primary care physician or the referred specialist.</thinking>
-
 # Doctor Referral Form - Help Guide
 ## Purpose
 This guide will walk you through the Doctor Referral Form. This form is designed to facilitate referrals between doctors to ensure that patients receive the best possible care.

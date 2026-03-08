@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from patients prior to therapy sessions. The form is designed to ensure that patients understand and agree to the terms of their treatment, including obtaining informed consent and consent to share information. The purpose of this form is to protect both the patient and the therapist while ensuring that the patient is aware of their rights and responsibilities.
-</thinking>
-
 # Teletherapy Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from patients prior to therapy sessions. The form is designed to ensure that patients understand and agree to the terms of their treatment, including obtaining informed consent and consent to share information.

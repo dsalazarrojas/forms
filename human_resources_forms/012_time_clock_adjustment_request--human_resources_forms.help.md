@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of the "Time Clock Adjustment Request" form is to enable employees to request changes to their time clock records. This form is meant to be completed by employees seeking to adjust their recorded working hours, such as to reflect a time off or a pay adjustment. 
-
-It is essential to use this form only for legitimate reasons and not as a substitute for other existing HR processes. Before proceeding, ensure that you have a valid reason for your adjustment request and that it aligns with your company's policies and procedures. 
-
-Please note that this form is for requesting adjustments to your own time clock records, not for others. If you are requesting adjustments on behalf of someone else, please ensure that you have their permission to do so and that you accurately represent their requests. 
-
-Also, ensure that you provide all the required information to facilitate the processing of your request. 
-
-</thinking>
-
 # Time Clock Adjustment Request - Help Guide
 ## Purpose
 The "Time Clock Adjustment Request" form is used to make changes to your recorded working hours. This guide will walk you through the steps to complete the form correctly.

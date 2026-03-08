@@ -1,7 +1,3 @@
-<thinking>
-The Team Leader Report Form is used to gather information from team leaders about their team's performance and progress. The form is meant to be completed by team leaders on a regular basis, typically at the end of each reporting period, to provide an update on their team's status and challenges. It is essential to complete this form accurately and thoroughly to ensure that the team's performance and progress are tracked effectively. To avoid duplication of effort, please ensure that you only complete this form for the intended reporting period.
-</thinking>
-
 # Team Leader Report Form - Help Guide
 
 ## Purpose

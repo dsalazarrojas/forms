@@ -1,20 +1,3 @@
-<thinking>
-  The purpose of the Weekly Work Shift Summary form is to collect information from employees about their work shifts for a given week. This form likely aims to gather data on employees' working hours, breaks, and overtime, allowing the organization to track work hours and ensure compliance with labor laws and regulations. The form's design seems to be focused on collecting factual information, making it a straightforward and efficient tool for data collection. It's essential to review the form's purpose and the required fields carefully to ensure accurate completion. 
-  The form's fields are designed to collect the following information:
-  - Employee Name: A text field for the employee's name.
-  - Date: A date field for the date of the work shift.
-  - Start Time: A time field for the start time of the work shift.
-  - End Time: A time field for the end time of the work shift.
-  - Duration: A text field for the duration of the work shift.
-  - Shift Details: A note field for any additional details about the shift.
-  - Overtime: A select-one field indicating whether the employee worked overtime.
-  - Lunch Break: A select-one field indicating whether the employee took a lunch break.
-  - Meal Breaks: A select-multiple field for selecting multiple meal breaks.
-  - Shift Type: A select-one field for selecting the type of shift (Regular, Overtime, or Vacation).
-  - Additional Info: A text field for any additional information the employee wishes to provide.
-  The form seems to be intended for daily or weekly reporting, possibly for payroll purposes or attendance tracking. It's essential to complete the form correctly to provide accurate information and avoid missing important data.
-</thinking>
-
 # Weekly Work Shift Summary - Help Guide
 ## Purpose
 

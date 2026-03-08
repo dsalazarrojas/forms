@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from staff after a quarterly meeting. It's essential to ensure that all staff members have a chance to provide their input to help improve the quality and effectiveness of future meetings. To avoid duplicating feedback, please fill out this form only after attending the meeting in question.
-
-Before you start, please review the form carefully to ensure you understand the purpose and requirements. Some fields are not required, but the more information you provide, the more valuable the feedback will be. If you have any questions or concerns, don't hesitate to reach out to the meeting organizers.
-
-</thinking>
-
 # Quarterly QAPI Meeting Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback and suggestions from staff after a quarterly meeting. Please provide your honest feedback to help us improve future meetings.

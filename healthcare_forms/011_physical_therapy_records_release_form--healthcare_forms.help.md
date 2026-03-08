@@ -1,27 +1,3 @@
-<thinking>
-This form is used to release a patient's physical therapy records, allowing the patient to authorize the sharing of their medical information with healthcare providers. This form is essential for patients to grant permission to healthcare providers to access their medical records. 
-
-To create a new record in this form, a patient can fill in the required fields, which are marked with an asterisk (*) in the form. Required fields include:
-- Medical Record ID: The patient's unique identifier.
-- Authorized to Share: A selection of options to choose whether the patient is authorized to share their medical information.
-- Contact Number: The patient's contact phone number.
-- Healthcare Provider Name: The name of the healthcare provider authorized to access the patient's records.
-- Authorization Date: The date the patient gives permission to share their records.
-- Reason for Release: A brief explanation of why the patient is releasing their records.
-- Authorization Expires: The date the patient's authorization will expire.
-
-The following sections are optional:
-- Patient Name: A field for the patient to input their name.
-- Date of Birth: The patient's date of birth.
-- Email Address: The patient's email address.
-- Healthcare Organization: The name of the healthcare organization the patient is affiliated with.
-- Patient Signature: The patient's signature to confirm they authorized the release.
-- Healthcare Provider Signature: The healthcare provider's signature to confirm they received the authorization.
-- Additional Information: A field for any additional information the patient wants to include.
-
-Please note that all fields should be filled in accurately and completely to ensure the correct authorization and sharing of the patient's medical records.
-</thinking>
-
 # Physical Therapy Records Release Form - Help Guide
 ## Purpose
 This form is used to release a patient's physical therapy records, allowing the patient to authorize the sharing of their medical information with healthcare providers.

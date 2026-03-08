@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to provide a means for employees to evaluate and document performance. It is intended to gather feedback and ratings on the employee's work, with the goal of improving their performance and contributing to their growth within the company. This form should be filled out periodically to ensure that performance evaluations are up to date and accurate. Please note that this form should only be filled out for employees who are currently employed by the company and should not be used for non-employee purposes. It would be a good idea to ensure that the form is completed in a fair and unbiased manner, taking into account each employee's unique contributions and performance metrics...</thinking>
-
 # employee_performance_evaluation_form - Help Guide
 ## Purpose
 The employee performance evaluation form is used to document and provide feedback on an employee's performance. It is intended to be filled out periodically to ensure that performance evaluations are up to date and accurate.

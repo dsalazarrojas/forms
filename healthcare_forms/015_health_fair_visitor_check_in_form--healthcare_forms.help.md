@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to check in visitors for health services, likely in a medical or healthcare setting. This form aims to collect essential information from visitors, including their first and last names, email, phone number, service interest, check-in time, on-site service preferences, and any additional information they may have. 
-Please note that some fields are required, and the user should ensure they complete all mandatory fields to ensure accurate and complete information collection.
-</thinking>
-
 # health_fair_visitor_check_in_form - Help Guide
 ## Purpose
 This form is designed to gather information from visitors for health services check-in.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for employee reimbursement requests. It should be used by employees to submit requests for reimbursement for work-related expenses. This guide will help users understand how to fill out the form correctly.
-</thinking>
-
 # Request For Reimbursement Form - Help Guide
 
 ## Purpose

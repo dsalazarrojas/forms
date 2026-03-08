@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect necessary information for pre-vaccination procedures, ensuring a safe and efficient vaccination process for the patient. This guide will help users understand the form's requirements and how to fill it out correctly.
-
-To ensure we are not duplicating effort, this form is intended for healthcare professionals to gather crucial information about patients before administering COVID-19 vaccines. This guide will be used to help users understand the form's purpose and requirements.</thinking>
-
 # Pre Vaccination Checklist For COVID 19 Vaccines - Help Guide
 ## Purpose
 The Pre Vaccination Checklist For COVID 19 Vaccines form is designed to collect essential information from healthcare professionals about patients before administering COVID-19 vaccines. This form helps ensure a safe and efficient vaccination process by gathering crucial data on patient medical conditions, allergies, and other important factors.

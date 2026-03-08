@@ -1,11 +1,3 @@
-<thinking>
-
-The Mental Health Counseling Checklist Form is a tool used to gather information about a client's mental health status, assess their treatment needs, and schedule follow-up appointments. This form is designed to help mental health professionals provide consistent and high-quality care to clients. The form collects data on various aspects of the client's mental health, including their current mental state, engagement level, and treatment plans. It also allows mental health professionals to document follow-up notes, schedule next appointments, and communicate with clients through various methods.
-
-Before starting to complete this form, please make sure that you have reviewed and understand the purpose and structure of the form, as well as any relevant clinical guidelines or policies that may apply to your practice.
-
-</thinking>
-
 # Mental Health Counseling Checklist Form - Help Guide
 ## Purpose
 The Mental Health Counseling Checklist Form is a comprehensive tool used to assess and document a client's mental health status, treatment needs, and schedule follow-up appointments.

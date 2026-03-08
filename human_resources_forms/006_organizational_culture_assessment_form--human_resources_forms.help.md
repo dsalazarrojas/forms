@@ -1,7 +1,3 @@
-<thinking>
-This is the Organizational Culture Assessment Form, used by HR to gauge the organizational culture within a department or team. This form is designed to collect data on various aspects of the organizational culture, such as communication styles, values, and overall job satisfaction. To ensure data quality, please complete this form honestly and thoroughly.
-
-</thinking>
 # Organizational Culture Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the organizational culture within a department or team, providing insights into the values, communication styles, and overall job satisfaction of its members.

@@ -1,6 +1,3 @@
-<thinking>
-The Dental Screening Form is a crucial tool for healthcare professionals to gather essential patient information and medical history for effective diagnosis and treatment. The form helps identify potential risks and allergies, as well as previous medical procedures, which can impact treatment decisions. It's designed to be completed by patients or their representatives, providing a comprehensive overview of the individual's health status. To ensure accurate and complete information, please review the form carefully before submission. This form is not a substitute for medical evaluation or diagnosis; it's a tool to guide healthcare professionals during the examination process.</thinking>
-
 # Dental Screening Form - Help Guide
 ## Purpose
 The Dental Screening Form is a patient information collection tool used by healthcare professionals to gather essential details about a patient's medical history, allergies, and previous procedures.

@@ -1,10 +1,3 @@
-<thinking>
-We have designed this form to help employees clarify their employment status. 
-- This form is intended for employees who need to adjust their employment status, such as changing job titles or roles.
-- Before filling out this form, please ensure that you have the necessary clearance from your manager or HR department.
-- To avoid duplication, please do not submit this form if you have already done so in the past 30 days.
-</thinking>
-
 # employment_status_clarification_request_form - Help Guide
 ## Purpose
 

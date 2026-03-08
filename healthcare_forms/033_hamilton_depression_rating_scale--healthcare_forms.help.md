@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my approach to creating a user-facing help guide for this form, "Hamilton Depression Rating Scale," is to ensure it's clear, concise, and practical. I will first consider the form's purpose and ensure it's relevant and not duplicated. Then, I will focus on explaining each field in a way that's concrete, yet without inventing unsupported business logic. Here's my reasoning:</thinking>
-
 # Hamilton Depression Rating Scale - Help Guide
 ## Purpose
 

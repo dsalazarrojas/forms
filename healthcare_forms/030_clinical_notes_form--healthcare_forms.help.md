@@ -1,14 +1,3 @@
-<thinking>
-The form "Clinical Notes Form" is designed to collect clinical information about a patient's health condition. This form is intended for healthcare professionals to document their observations, assessments, and treatment plans for patients. The form includes sections for the clinician's name, patient's full name, patient ID number, date of encounter, and other relevant clinical information.
-
-To determine if this form is relevant to your needs, consider the following scenarios:
-
-* If you are a healthcare professional looking for a standardized form to document patient information, this might be a useful tool.
-* If you are a patient or a family member looking for information on how to provide clinical data to healthcare providers, this form might not be directly applicable to your needs.
-* If you are unsure, consider reviewing the form fields below to determine if it aligns with your requirements.
-
-</thinking>
-
 # Clinical Notes Form - Help Guide
 
 ## Purpose

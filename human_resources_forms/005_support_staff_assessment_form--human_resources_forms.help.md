@@ -1,10 +1,3 @@
-<thinking>
-This is to ensure that the form's purpose and field labels are clear and understandable for the end-user, without duplicating or misrepresenting the information provided in the YAML.
-
-This form is used to assess and evaluate the performance and development of support staff members within an organization. It helps reviewers to identify areas of improvement, provide feedback, and suggest recommendations for growth and development. By completing this form, reviewers can provide a comprehensive and unbiased assessment of the support staff member's performance, taking into account various factors such as job title, date of hire, performance ratings, and next steps for improvement.
-
-</thinking>
-
 # Support Staff Assessment Form - Help Guide
 
 ## Purpose

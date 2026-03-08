@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to provide a standardized way for healthcare professionals to document and communicate patient information and treatment plans for home health services. It should be used to record patient details, visit information, medical history, medications, allergies, medical conditions, and other relevant data. This form may be used for a variety of healthcare-related tasks, such as documenting patient progress, tracking treatment plans, or recording patient data for research purposes. It is essential to ensure all required fields are completed accurately and thoroughly to provide optimal patient care. 
-
-Please ensure you complete the form with the most up-to-date information about the patient, and be aware that this form may need to be reviewed and updated periodically to reflect any changes in the patient's condition or treatment plan.
-</thinking>
-
 # Home Health Physician Order Form - Help Guide
 
 ## Purpose

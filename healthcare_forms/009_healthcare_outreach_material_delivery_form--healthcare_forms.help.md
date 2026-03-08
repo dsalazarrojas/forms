@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for health care outreach material delivery, likely for sending medical information or materials to patients or caregivers. The form is meant to collect information from users about the recipient (patient or caregiver), the material being delivered, and the delivery method.
-
-The form should only be submitted once per material delivery. Duplicate entries will be discarded, so please do not submit this form again if you have already submitted it in the past.
-
-</thinking>
-
 # health-care-outreach-material-delivery-form - Help Guide
 ## Purpose
 This form is used to collect information for delivering healthcare outreach materials. Please fill out the form with the requested information to facilitate the delivery of materials to the right recipient.

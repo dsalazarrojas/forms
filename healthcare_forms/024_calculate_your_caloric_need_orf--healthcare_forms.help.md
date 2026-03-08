@@ -1,10 +1,3 @@
-<thinking>
-We will assume that the "Calculate Your Caloric Need Orf" form is designed for users to estimate their daily caloric needs based on their personal characteristics, activity level, and fitness goals. This form will likely be used by individuals seeking to lose weight, build muscle, or maintain general fitness and health. The form will ask for various personal information, including name, age, gender, height, weight, and activity level, as well as information about their fitness goals and preferred diet type. This form is likely intended for individuals interested in optimizing their nutrition for optimal health and fitness.
-
-The form's internal logic and calculations will likely involve determining the user's basal metabolic rate (BMR), taking into account their age, sex, height, and weight, and then adjusting it based on their activity level and fitness goals. The output of the form will likely be the user's estimated daily caloric needs.
-
-</thinking>
-
 # Calculate Your Caloric Need Orf - Help Guide
 ## Purpose
 This form helps you estimate your daily caloric needs based on your personal characteristics, activity level, and fitness goals.

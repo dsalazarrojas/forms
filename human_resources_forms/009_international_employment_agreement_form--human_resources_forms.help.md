@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document agreements between employees and their managers on international employment contracts. It helps ensure that all necessary details are captured for compliance and record-keeping purposes. This form is likely part of an HR (Human Resources) process to formalize agreements between the company and its employees. Before proceeding, ensure that you have the necessary approvals and understand the implications of completing this form. Please review the fields below to ensure you are providing accurate information.
-</thinking>
-
 # International Employment Agreement Form - Help Guide
 ## Purpose
 This form is used to document agreements between employees and their managers on international employment contracts.

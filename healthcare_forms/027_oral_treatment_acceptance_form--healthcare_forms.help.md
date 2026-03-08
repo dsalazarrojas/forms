@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Oral Treatment Acceptance Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to collect information for a nutrition reform consultation. The form has four main sections: Registration Information, Contact Details, Appointment Details, and Notes. The form is intended to gather essential data from individuals interested in consulting with a healthcare professional about nutrition-related matters. This form is not affiliated with, endorsed by, or derived from any form platform, and its content is an original adaptation of public survey topic metadata. The form is released under CC BY 4.0 and can be freely used, modified, and even sold with proper credit.
-
-</thinking>
-
 # Nutrition Reform Consultation Registration Form - Help Guide
 ## Purpose
 The Nutrition Reform Consultation Registration Form is a tool for individuals to register their interest in consulting with a healthcare professional about nutrition-related matters. This form helps healthcare providers gather essential information from clients, ensuring a smooth and efficient consultation process.

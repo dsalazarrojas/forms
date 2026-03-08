@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from applicants who wish to provide care services to our organization. This form is not applicable to existing employees and contractors of our organization. It is a one-time application form that needs to be filled out completely and accurately to ensure proper processing of the application. Please make sure to fill out all required fields, which are marked as 'required' in the form.
-</thinking>
-
 # Care Provider Application Form - Help Guide
 ## Purpose
 The Care Provider Application Form is a form designed to collect information from applicants who wish to provide care services to our organization. This form is not applicable to existing employees and contractors of our organization.

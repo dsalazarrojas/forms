@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by hospitality staff to collect information from guests for various purposes such as verifying identities, understanding their stay details, and managing their contact information.
-The form is designed to be completed by the guest themselves or by an authorized person on their behalf. It is not clear from the form schema if there is a specific business logic that checks for duplication, but it is possible that the form is designed to be completed only once for each guest.
-</thinking>
-
 # Accommodation Bulletin - Help Guide
 ## Purpose
 The Accommodation Bulletin form is used to collect essential information from guests staying in a hotel, hostel, or rental property for various purposes such as verifying identities, understanding their stay details, and managing their contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for surveying healthcare professionals on their practices and perceptions regarding pressure injury prevention. The goal of this form is to gather information on the effectiveness and challenges associated with pressure injury prevention practices. This form is meant to be completed by healthcare workers who have experience with pressure injury prevention practices. Please make sure to only complete this form if you are a relevant healthcare professional with experience in pressure injury prevention practices. This form is not meant to be completed by someone who does not have experience in this area, as the information gathered may not be reliable or accurate. Also, please do not complete the form if you have already completed it in the recent past, as new information and updates may have been added since then.
-</thinking>
-
 # Pressure Injury Prevention Survey - Help Guide
 
 ## Purpose

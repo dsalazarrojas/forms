@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a survey for medical content specialists, designed to gather information about their qualifications, experiences, and background. The form has multiple pages with various fields, including text, select multiple, select one, time, number, and date fields. Some fields are required, while others are optional. The form seems to be designed for internal use within the healthcare industry. However, further investigation is needed to confirm the form's purpose and ensure it's not a duplicate of an existing form. It's also worth noting that the presence of multiple "form_comments" fields suggests that this form might be intended for feedback or comments from the users. 
-
-</thinking>
-
 # Medical Content Specialist Survey - Help Guide
 ## Purpose
 This form is designed to collect information about medical content specialists' qualifications, experiences, and background to better understand their skills and expertise.

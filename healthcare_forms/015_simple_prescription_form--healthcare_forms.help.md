@@ -1,7 +1,3 @@
-<thinking>
-The "Simple Prescription Form" is a form designed to gather essential information for patients' prescriptions. Its purpose is to collect patient data, medication details, and prescriber information for healthcare providers. This form should only be used for prescriptions that do not require special attention or follow-up actions. Ensure this form is not used for prescriptions that need to be duplicated or followed up on. If you are unsure, please refer to your organization's policies and procedures.
-</thinking>
-
 # Simple Prescription Form - Help Guide
 ## Purpose
 The Simple Prescription Form is a basic form used to collect information for prescriptions that do not require special attention or follow-up actions. It is designed for everyday prescriptions and helps healthcare providers gather essential information efficiently.

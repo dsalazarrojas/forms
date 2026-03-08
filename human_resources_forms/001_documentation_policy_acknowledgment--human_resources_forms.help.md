@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to acknowledge an employee's documentation policy, which is an essential part of maintaining accurate records and ensuring compliance with regulatory requirements. This form should only be completed by employees who are responsible for documenting policy-related activities. Please note that this form is not intended for other purposes, such as reporting or tracking progress, so please fill it out only if you are specifically required to document policy-related activities. Additionally, please ensure that this form is not duplicated by checking if the employee has already completed the form in the past, as duplication may cause confusion and lead to unnecessary documentation.
-</thinking>
-
 # Documentation Policy Acknowledgment - Help Guide
 ## Purpose
 This form is used by employees to acknowledge their documentation policy, allowing for the accurate tracking and record-keeping of regulatory compliance.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for hospital admissions, ensuring that patients and medical staff have a comprehensive and accurate record of a patient's medical history, contact information, and other relevant details. This form is intended for patients and healthcare providers to use during the hospital admission process. It is not meant to be a substitute for actual medical documentation, but rather a tool to supplement and support the medical record. Please ensure you are using this form in conjunction with your healthcare provider's guidance and advice. If you have already completed this form for a patient, you do not need to complete it again. Please proceed with caution and review the form's requirements and limitations carefully before using it.
-
-</thinking>
-
 # Hospital Admission Form - Help Guide
 ## Purpose
 

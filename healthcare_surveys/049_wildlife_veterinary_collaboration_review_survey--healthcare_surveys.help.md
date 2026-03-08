@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback and information from individuals involved in collaboration between organizations in the wildlife veterinary field. The form is likely used to understand the nature of these collaborations, the benefits and challenges they face, and how they impact their work or organization. It's essential to ensure that the responses are accurate and relevant to the specific context of the wildlife veterinary field. Before proceeding, please review the following questions to confirm that they align with your experiences and knowledge. If you're unsure or have questions, please ask your supervisor or the form administrator for clarification. To avoid duplicating responses, please only complete the form once and only for yourself.
-</thinking>
-
 # Wildlife Veterinary Collaboration Review Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your collaboration experiences in the wildlife veterinary field. It includes questions about the type of collaboration you engage in, the benefits and challenges you face, and how it affects your work or organization.

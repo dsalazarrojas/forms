@@ -1,12 +1,3 @@
-<thinking>
-The Bereavement Leave Form is a crucial document for employees to request time off for bereavement-related reasons. This form is intended for use by employees within an organization to request leave for personal or family member's bereavement, death, or significant loss. The form ensures that employees can provide necessary information for the HR department to process their leave request efficiently and effectively. The purpose of this form is to gather essential details from the employee, such as their personal information, selection, and any additional comments or notes.
-
-Before proceeding, please ensure that you are filling out the correct form for your specific purpose. If you are unsure, please reach out to your HR department for assistance.
-
-Please note that some fields are mandatory and are required to be filled out. Failure to fill out these mandatory fields may cause delays in processing your leave request.
-
-</thinking>
-
 # Bereavement Leave Form - Help Guide
 ## Purpose
 This form is used to request bereavement leave for personal or family member's death or significant loss.

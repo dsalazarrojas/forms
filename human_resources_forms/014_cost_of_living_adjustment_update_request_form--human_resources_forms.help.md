@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate a cost of living adjustment update request from an employee. This form allows employees to submit a formal request for a cost of living adjustment, which may be necessary due to changes in the cost of living in their area. The form will be reviewed and processed by the HR department.
-
-When completing this form, please ensure that you are requesting a cost of living adjustment that is not currently pending or previously submitted. If you have already submitted a request for this adjustment, please do not resubmit another request. If you are unsure whether you have a pending or previously submitted request, please contact the HR department for clarification.
-
-</thinking>
-
 # Cost Of Living Adjustment Update Request Form - Help Guide
 ## Purpose
 This form is used to request a cost of living adjustment. Please use this form to submit a formal request for a cost of living adjustment due to changes in the cost of living in your area.

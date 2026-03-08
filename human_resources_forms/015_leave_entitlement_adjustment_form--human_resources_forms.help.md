@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR personnel to adjust the leave entitlements of employees. The purpose of this form is to update the leave balance of an employee based on their individual circumstances. This form should only be filled out by authorized HR personnel. Please ensure that you are filling this form for a valid reason and do not duplicate an existing adjustment. Before submitting this form, double-check the employee's information to avoid errors.
-</thinking>
-
 # Leave Entitlement Adjustment Form - Help Guide
 ## Purpose
 The Leave Entitlement Adjustment Form is used by HR personnel to update the leave balance of an employee. This form is used for making adjustments to an employee's leave entitlements, such as adding or subtracting leave balance based on individual circumstances.

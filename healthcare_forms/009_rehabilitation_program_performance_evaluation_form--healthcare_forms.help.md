@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide, let's consider the purpose and context of this form. The "rehabilitation-program-performance-evaluation-form" is designed to evaluate the performance of rehabilitation programs. This form will likely be used by healthcare professionals to assess the effectiveness of their programs, track patient progress, and identify areas for improvement. It may be used by program coordinators, staff, and physicians to ensure that patients are receiving the best possible care and to meet program goals and objectives.
-
-To create a useful help guide, we should focus on making it concrete, concise, and practical. Each field should have a clear explanation of its purpose and any necessary instructions for completion.</thinking>
-
 # rehabilitation-program-performance-evaluation-form - Help Guide
 ## Purpose
 The rehabilitation-program-performance-evaluation-form is a tool used to evaluate the performance of rehabilitation programs in healthcare settings. This form helps healthcare professionals assess patient progress, track evaluation results, and identify areas for improvement.

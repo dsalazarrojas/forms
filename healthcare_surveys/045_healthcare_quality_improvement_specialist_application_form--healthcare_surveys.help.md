@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by individuals who are interested in applying for the position of Healthcare Quality Improvement Specialist. To ensure that the form is completed correctly, please follow the instructions below. Before filling out this form, please note that the form is for informational purposes only and does not guarantee any outcome or consideration for a position. It is not a substitute for the hiring process.
-
-To complete the form, please provide as much information as you can. If you have any experience or qualifications that are not mentioned in the form, please include them in the notes section.
-
-</thinking>
-
 # Healthcare Quality Improvement Specialist Application Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's cognitive functioning, memory symptoms, behavioral changes, medical history, social interaction, emotional symptoms, and other related factors. The form is used to collect data for research or clinical purposes, such as identifying potential risk factors for dementia or monitoring the effectiveness of treatments. The form is composed of multiple select_one or select_multiple questions, each with a set of pre-defined options. To ensure accurate and consistent data, it is essential to complete the form carefully and answer each question based on the individual's actual experiences.
-</thinking>
-
 # Dementia Questionnaire - Help Guide
 ## Purpose
 The Dementia Questionnaire is designed to gather information about an individual's cognitive functioning, memory symptoms, behavioral changes, medical history, social interaction, emotional symptoms, and other related factors. This information can be used for research, clinical, or administrative purposes.

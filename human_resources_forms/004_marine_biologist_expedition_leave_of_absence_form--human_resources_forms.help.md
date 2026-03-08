@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information for marine biologist expedition leaves of absence. The form is meant to be used by employees who need to take leave from their work to participate in marine biologist expeditions. The form is not intended to be used for other types of leaves such as vacation, sick leave, etc. The form is designed to be completed by the employee and submitted to the relevant authorities for approval.
-</thinking>
-
 # Marine Biologist Expedition Leave Of Absence Form - Help Guide
 ## Purpose
 

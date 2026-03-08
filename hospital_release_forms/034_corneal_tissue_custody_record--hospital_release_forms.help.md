@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document and track the corneal tissue custody record, which is essential for maintaining the integrity and chain of custody of corneal tissue samples. This form is meant to be completed by authorized personnel in the hospital, lab, or biorepository, and it is not meant to be used for routine patient information or sample collection. Before completing this form, ensure that you have the proper authorization to access and record custody information.
-
-</thinking>
-
 # Corneal Tissue Custody Record - Help Guide
 ## Purpose
 The Corneal Tissue Custody Record is a document used to track and store information regarding the custody of corneal tissue samples. This record is essential for maintaining the integrity and chain of custody of the samples, ensuring that they are handled and stored properly.

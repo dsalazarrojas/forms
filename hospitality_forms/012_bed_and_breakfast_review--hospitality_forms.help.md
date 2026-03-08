@@ -1,13 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-This form is designed for guests to provide feedback on their stay at a Bed and Breakfast establishment. The form asks for information about their experience, including details about the room, staff, amenities, and overall satisfaction with their stay.
-
-**Before filling out this form:**
-Please note that this form is intended for individual guests to provide their personal feedback. If you are representing a group or organization, please contact us directly to discuss alternative arrangements.
-
-</thinking>
-
 # Bed And Breakfast Review - Help Guide
 ## Purpose
 This form is designed for guests to provide feedback on their stay at a Bed and Breakfast establishment.

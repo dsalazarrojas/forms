@@ -1,16 +1,3 @@
-<thinking>
-The form "Pre Employment Assessment Practice Feedback" is designed to gather information about an individual's experience with a practice assessment. This form will help us better understand their impressions and opinions about the assessment's difficulty, clarity, and overall effectiveness. 
-
-To ensure we get the most useful feedback, the form asks three key questions: 
-* What were your thoughts about the practice assessment? 
-* How would you rate the practice assessment? 
-* What was your overall experience with the practice assessment? 
-We'll use this feedback to improve future assessments, so be as honest and detailed as you can when answering these questions. 
-
-Please note that this form is completely optional, and you can choose to answer only the questions that you feel are relevant to your experience. 
-
-Before starting, make sure you haven't completed this form before, as repeating feedback might not provide the best insights for us.</thinking>
-
 # Pre Employment Assessment Practice Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with the practice assessment, helping us to improve it for future users.

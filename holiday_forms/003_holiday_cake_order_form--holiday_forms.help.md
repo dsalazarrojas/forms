@@ -1,10 +1,3 @@
-<thinking>
-The form's purpose is to allow users to order a holiday cake with various customization options, including cake type, size, and payment method. This form is likely used by a bakery or similar business to take orders for holiday cakes from customers. The form's design is intended to be user-friendly and easy to understand, but may require some guidance for users who are unsure about how to complete it.
-
-This guide will cover the basics of how to complete the form, but keep in mind that some fields may have specific requirements or restrictions that are not explicitly stated.
-
-</thinking>
-
 # Holiday Cake Order Form - Help Guide
 
 ## Purpose

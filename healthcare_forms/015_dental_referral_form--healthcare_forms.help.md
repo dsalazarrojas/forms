@@ -1,11 +1,3 @@
-<thinking>
-The form "Dental Referral Form" is a crucial tool for healthcare professionals to document and communicate patient information. The purpose of this form is to collect and share details about the patient's dental needs, medical insurance, and other relevant details with other healthcare providers. This form is used for referrals between dentists, doctors, and specialists.
-
-To avoid duplication of efforts and ensure accurate completion, please follow the instructions carefully.
-
-This form consists of multiple pages with various fields. Each field has a specific purpose, and a brief explanation is provided below to ensure you understand the context and requirements.
-
-</thinking>
 # Dental Referral Form - Help Guide
 ## Purpose
 This form is designed to facilitate communication and referrals between healthcare providers, ensuring that patients receive optimal care. It collects and shares essential information about patients' dental needs, medical insurance, and other relevant details.

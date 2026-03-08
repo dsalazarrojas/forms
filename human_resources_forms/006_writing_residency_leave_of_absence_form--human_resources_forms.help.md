@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request a leave of absence for a specific period of time. The form is used to submit a request for a leave of absence, which includes details such as the category of the request, a brief description of the reason for the leave, and the dates of the absence. The approval status of the request is also captured. This form is likely used by HR or management to manage employee leave requests.
-
-To ensure that this form is used correctly, please review the fields carefully to understand the required and optional fields. The form should only be submitted if the user has a genuine reason for requesting a leave of absence. If the user is unsure about any field, they should contact HR or the assigned user for clarification.
-</thinking>
-
 # Writing Residency Leave Of Absence Form - Help Guide
 ## Purpose
 

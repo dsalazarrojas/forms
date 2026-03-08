@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect patient information in a comprehensive and HIPAA-compliant manner. It's intended for use in hospital settings and is meant to be completed by patients themselves or on their behalf. The form is divided into several sections, each covering a different aspect of patient care.
-
-The form will be used to collect information on patient demographics, insurance details, contact information, medical history, medication and allergy status, emergency contact details, medical procedures, next of kin, and finally, the patient's and doctor's signature. This form is designed to be completed in a step-by-step fashion, with each section building upon the previous one.
-
-It's essential to ensure that each page is completed fully before proceeding to the next one. This form will be reviewed by medical professionals before it's submitted.
-
-To avoid duplication of effort, please check for the existence of any similar forms before starting to fill it out.
-</thinking>
-
 # Hospital Patient Registration Form - Help Guide
 ## Purpose
 The Hospital Patient Registration Form is a comprehensive document designed to collect patient information in a HIPAA-compliant manner.

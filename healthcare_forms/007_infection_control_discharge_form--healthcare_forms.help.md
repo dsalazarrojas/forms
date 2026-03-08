@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to the discharge of a patient from a healthcare facility, particularly in the context of infection control. It is crucial to ensure that all relevant details are collected to prevent the potential spread of infection to other patients or the community. This form should only be used for discharging patients who have been under observation or treatment for an infection. If the patient's infection status is not relevant, do not use this form.
-</thinking>
-
 # Infection Control Discharge Form - Help Guide
 ## Purpose
 The Infection Control Discharge Form is used to collect information related to the discharge of a patient from a healthcare facility, ensuring that all necessary details are captured to prevent the potential spread of infection to other patients or the community.

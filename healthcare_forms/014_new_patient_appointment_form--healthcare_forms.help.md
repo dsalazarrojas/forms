@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for new patients to provide essential information to facilitate the scheduling of their appointment. Please ensure you provide accurate and complete information to ensure a smooth appointment process.
-The form is divided into several sections, each focused on collecting specific details. The fields have been designed to guide you through the necessary information needed to create a new patient appointment. To avoid any issues, double-check that you've filled out all required fields.
-</thinking>
-
 # New Patient Appointment Form - Help Guide
 ## Purpose
 This form is designed for new patients to submit necessary details for their appointment with our healthcare professionals.

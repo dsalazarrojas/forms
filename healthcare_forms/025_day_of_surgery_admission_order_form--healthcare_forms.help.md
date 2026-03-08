@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect patient contact information and medical history for a day of surgery admission order. It is intended for use in a healthcare setting to ensure that patients have provided necessary contact and medical information before undergoing surgery.
-
-Please note that the form's purpose and fields may overlap with other forms or medical records, but its primary function is to gather essential information for the day of surgery admission process.
-
-Before filling out this form, ensure that you have the patient's consent and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Day Of Surgery Admission Order Form - Help Guide
 ## Purpose
 The Day Of Surgery Admission Order Form is used to collect patient contact and medical information prior to their admission for surgery. This information helps the healthcare team to better understand the patient's needs and prepare for a smooth and safe surgical experience.

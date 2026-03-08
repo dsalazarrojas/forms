@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block:
-The "Journal Prompts" form is designed to gather information from users about their journaling practices and preferences. This form is intended to be a brief and non-intrusive way to collect insights into users' journaling habits, such as how they approach journaling, what they find helpful, and what they're currently doing. This form may be used in various contexts, including research, development, or analysis of journaling practices. Please ensure that you're filling out this form only once, as repeating the process may lead to redundant data and unnecessary effort.
-</thinking>
-
 # Journal Prompts - Help Guide
 
 ## Purpose

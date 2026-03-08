@@ -1,7 +1,3 @@
-<thinking>
-The Employee Mood Check In Survey is a form designed to help employees express their emotions and provide feedback on their current state. It is likely used by HR department to monitor employee well-being and identify potential issues. This form should only be filled out by employees who are currently working, and it's best to complete it on a regular basis (e.g., daily or weekly) to provide accurate and consistent feedback. Please fill out this form only once per day/time period to avoid duplication.
-</thinking>
-
 # Employee Mood Check In Survey - Help Guide
 ## Purpose
 The Employee Mood Check In Survey is a form designed to help employees express their emotions and provide feedback on their current state. It is likely used by HR department to monitor employee well-being and identify potential issues.

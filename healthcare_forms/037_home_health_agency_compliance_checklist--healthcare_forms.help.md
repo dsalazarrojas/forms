@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare agencies to ensure compliance with regulations and standards. The form helps agencies to provide accurate and reliable data, which is crucial for maintaining their license and reputation. It's essential to fill out this form correctly to avoid any potential issues or penalties. Please ensure that you have all necessary information before proceeding.
-</thinking>
-
 # Home Health Agency Compliance Checklist - Help Guide
 ## Purpose
 This form is a tool for healthcare agencies to ensure they are in compliance with regulations and standards. It helps agencies to provide accurate and reliable data, which is essential for maintaining their license and reputation.

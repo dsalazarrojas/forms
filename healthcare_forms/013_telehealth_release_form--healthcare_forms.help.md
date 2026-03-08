@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the release of a patient from a healthcare facility, allowing the patient to acknowledge and agree to their discharge. The fields on this form are intended to collect necessary information, such as the patient's name, contact information, and reasons for release. The form also requires signatures from the doctor and patient to confirm the release. This form should only be completed when a patient is being discharged from the facility.
-</thinking>
-
 # Telehealth Release Form - Help Guide
 ## Purpose
 The Telehealth Release Form is used to document the discharge of a patient from a healthcare facility, ensuring a smooth and secure transition of care.

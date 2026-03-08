@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and information about team members from team members themselves or other team members. It is likely used in a work environment where team members need to evaluate each other's performance, skills, and contributions to the team.
-
-When filling out this form, make sure to follow the instructions carefully and provide thorough responses. The form is divided into multiple sections with varying types of questions. Some questions may be mandatory while others are optional.
-
-</thinking>
-
 # Team Member Evaluation Form - Help Guide
 ## Purpose
 The Team Member Evaluation Form is designed to gather feedback from team members about each other's performance, skills, and contributions to the team. It helps in evaluating team members' strengths and weaknesses, and provides valuable insights for team development.

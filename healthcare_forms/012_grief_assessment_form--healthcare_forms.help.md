@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive assessment tool for evaluating reactions and thoughts related to grief, likely used in a healthcare setting. The form is structured into several sections, including "Physical Reactions", "Cognitive Reactions", "Emotional Reactions", and "Behavioral Reactions", each with "More" and "Most Significant" sub-sections. The goal of this form is to gather detailed information about a patient's or individual's experiences and reactions to grief, which can be used for diagnostic, therapeutic, or research purposes. It's crucial to ensure that the responses are genuine and comprehensive, as this information can be used to inform treatment plans or interventions.
-
-Before starting the form, please review the sections and questions carefully and answer honestly. If you need help or clarification on any of the questions, you can ask for assistance. This form should take around 15-20 minutes to complete, depending on your pace and the level of detail you provide.
-
-</thinking>
-
 # Grief Assessment Form - Help Guide
 ## Purpose
 

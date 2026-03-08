@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to record immunization information for patients. Immunizations are crucial for preventing and protecting against various diseases. This form captures essential details about the patient, the vaccination administered, and the healthcare professional who provided the immunization. To ensure accurate and complete records, it's essential to fill out the form carefully. Before starting, verify that you have the necessary information and that it's not already recorded in the patient's file.</thinking>
-
 # Immunization Record Form - Help Guide
 ## Purpose
 This form is intended to gather and document immunization details for patients, facilitating accurate and up-to-date health records.

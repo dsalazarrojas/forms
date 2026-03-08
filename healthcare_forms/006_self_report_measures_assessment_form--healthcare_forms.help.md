@@ -1,6 +1,3 @@
-<thinking>
-This form is used to assess an individual's symptoms, physical activity, social and mental health, self-care and support, and additional information. It is intended for individuals who want to report their own health status and experiences. Please ensure that you are filling out this form accurately and honestly, and that all fields are completed if they are marked as required. The form consists of multiple pages, each with a different set of questions or options. If you are unsure about what a particular question or option means, please refer to the field-by-field explanation below.</thinking>
-
 # Self Report Measures Assessment Form - Help Guide
 ## Purpose
 ## How To Complete This Form

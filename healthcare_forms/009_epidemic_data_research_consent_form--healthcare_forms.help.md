@@ -1,7 +1,3 @@
-<thinking>
-The form "epidemic-data-research-consent-form" is designed to collect information about a study or research project. The form is intended to gather demographic data for participants, their contact information, and study details including description, data collection permissions, and identifiers. It also includes fields for participant consent, data sharing consent, and study duration. This form will likely be used in a healthcare setting to collect data for a study or research project.
-</thinking>
-
 # epidemic-data-research-consent-form - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic data from participants and gather information about the study or research project they are involved in.

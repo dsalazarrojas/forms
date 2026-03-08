@@ -1,8 +1,3 @@
-<thinking>
-The Hippotherapy Interest Form is designed to collect information from individuals interested in hippotherapy, a form of therapy that utilizes horses as a form of treatment. This form helps us gauge interest and collect relevant information for potential patients.
-Before filling out this form, please ensure that you haven't already expressed interest in hippotherapy by contacting us previously. Filling out this form multiple times can lead to redundant information and confusion.
-</thinking>
-
 # Hippotherapy Interest Form - Help Guide
 ## Purpose
 The Hippotherapy Interest Form is used to collect information from individuals interested in hippotherapy. The form helps us understand your interest and gather relevant information for potential patients.

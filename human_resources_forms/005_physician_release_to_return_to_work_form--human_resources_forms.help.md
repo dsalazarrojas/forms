@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physician Release To Return To Work Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medicare_opt_out_form - Help Guide
 ## Purpose
 The Medicare Opt-out Form is used to document a healthcare provider's or practice's opt-out status and related details. This form is required for providers or practices that wish to opt-out of Medicare services.

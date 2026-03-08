@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the Holiday Recognition Awards, which aim to recognize and reward employees for their contributions and efforts during the holiday season. Before proceeding, ensure that the nomination is not a duplicate and that the information provided is accurate and up-to-date. Nominations should ideally be submitted by the end of the holiday season.
-</thinking>
-
 # Holiday Recognition Awards Nomination - Help Guide
 ## Purpose
 The Holiday Recognition Awards Nomination form is used to recognize and reward employees for their contributions and efforts during the holiday season. This form allows you to submit a nomination for an employee who deserves recognition.

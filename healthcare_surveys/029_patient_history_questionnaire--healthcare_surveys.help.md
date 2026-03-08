@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather patient history information for healthcare professionals to better understand and manage patient care. This information will help in the assessment of patient risk factors and potential medical issues.
-Before proceeding, please ensure that this form does not contain duplicate or redundant information. It is designed to collect data for new patients only.
-</thinking>
 # Patient History Questionnaire - Help Guide
 ## Purpose
 The Patient History Questionnaire is a collection of questions about a patient's medical history to aid in the assessment and management of their care.

@@ -1,10 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "healthcare_experience_review_request_form" form to ensure that end-users understand its purpose and how to complete it effectively. This guide will cover the form's purpose, the step-by-step process for completing it, and a field-by-field explanation of each section. The form is designed to gather feedback and ratings from patients about their experience at healthcare facilities, including hospitals, clinics, and doctors.
-
-Before starting, let's ensure that this form is relevant to our organization's goals and not a duplication of existing efforts. The form's purpose is to collect data on patient satisfaction and experience, which can be used to improve quality of care and services. This form will help us identify areas of excellence and areas that need improvement, ultimately enhancing patient outcomes and experiences.
-
-</thinking>
-
 # healthcare_experience_review_request_form - Help Guide
 
 ## Purpose

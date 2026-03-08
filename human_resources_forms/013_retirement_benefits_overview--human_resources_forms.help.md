@@ -1,16 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to provide a summary overview of retirement benefits. The form likely serves as a template or a report used within an HR or benefits department to gather and present information on retirement benefits, such as age of retirement, available benefits, and associated costs. This form might be used by HR representatives or benefits administrators to review and update employee benefits packages or to communicate with employees about retirement benefits. To ensure that the information presented is up-to-date and accurate, it is essential to review and fill out this form correctly.
-
-Before filling out this form, please review the following:
-
-*   Is this form relevant to the specific benefit package or employee you are working with?
-*   Have you reviewed and updated the form recently to reflect any changes to the benefit package?
-
-If you have any doubt about the form's purpose or your responsibilities, please check with your HR or benefits representative for clarification.
-
-</thinking>
-
 # Retirement Benefits Overview - Help Guide
 ## Purpose
 The Retirement Benefits Overview form is used to gather and present information on employee retirement benefits.

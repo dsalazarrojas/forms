@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's geriatric care, including their medical condition, medication, medical history, care team, family contact, social services, discharge date, location, instructions, follow-up care, discrepancies, patient concerns, and comments. The form is intended to be used by healthcare professionals to document a patient's information during the discharge process. It is not affiliated with or endorsed by any form platform, but rather an original adaptation created using public survey topic metadata. This form is released under a Creative Commons BY 4.0 license, allowing for modification and use, including commercial use, as long as credit is given.
-</thinking>
-
 # Geriatric Care Discharge Form - Help Guide
 
 ## Purpose

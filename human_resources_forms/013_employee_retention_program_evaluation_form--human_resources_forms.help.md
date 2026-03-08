@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and evaluate the effectiveness of the Employee Retention Program in the organization. It will help identify areas of improvement and provide insights to make data-driven decisions to enhance the program's efficiency. This form will not be used as a standalone evaluation tool, and results will be used in conjunction with other data sources for a comprehensive review. Please ensure that you fill out this form thoroughly and accurately to provide valuable feedback.
-
-</thinking>
-
 # Employee Retention Program Evaluation Form - Help Guide
 ## Purpose
 The Employee Retention Program Evaluation Form is a tool used to gather feedback and evaluate the effectiveness of the Employee Retention Program in the organization. It helps to identify areas of improvement and provide insights to make data-driven decisions to enhance the program's efficiency.

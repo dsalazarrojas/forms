@@ -1,14 +1,3 @@
-<thinking>
-The "public_awareness_of_preventive_medicine_survey" is designed to gather information on public awareness and perception of preventive medicine practices. This survey aims to collect demographic data, medical history, and awareness of preventive medicine practices from respondents. It is crucial that the survey responses be genuine and accurate, as the data collected will help inform healthcare professionals and policymakers to better understand public awareness and develop targeted interventions to promote preventive medicine practices.
-
-Before proceeding, please ensure that you have not already completed this survey. Duplicates will be flagged, and you will be prompted to revisit the guide to ensure accuracy in your responses.
-
-The purpose of this guide is to walk you through the survey questions and help you understand what each question entails.
-
-Please note that some questions might seem repetitive, but they all contribute to the overall goal of collecting comprehensive data.
-
-</thinking>
-
 # public_awareness_of_preventive_medicine_survey - Help Guide
 ## Purpose
 

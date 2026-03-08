@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare surveys, specifically for evaluating wellbeing support. It is essential to fill out this form to assess the wellbeing support provided by healthcare institutions or services. This form will help evaluate the quality of care and support given. Please note that this form should not be filled out if the user has already completed the wellbeing support evaluation survey in the past.
-</thinking>
-
 # wellbeing_support_evaluation_survey - Help Guide
 ## Purpose
 This form is used to evaluate the wellbeing support provided by healthcare institutions or services. It assesses the quality of care and support given to individuals.

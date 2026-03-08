@@ -1,17 +1,3 @@
-<thinking>Before creating the help guide, I will briefly review the provided YAML to check for any inconsistencies and ensure the form's purpose is clear.
-
-Upon reviewing the YAML, it appears that the form is designed to collect information from job applicants, including job title, job description, contact details, resume, work experience, education, work hours, job references, and application status. This form seems to be used for internal HR management purposes, such as tracking job applications and applicant data.
-
-To ensure that this form is not duplicated in our system, I will ask a few questions:
-
-* Are there any existing forms or processes for job applications that might overlap with this form?
-* Are there any specific requirements or regulations that need to be adhered to when filling out this form?
-* Are there any specific fields that should be prioritized or highlighted as critical for users to fill out?
-
-Assuming there are no conflicts or special requirements, I will proceed with creating the help guide.
-
-</thinking>
-
 # Online Job Application Form - Help Guide
 ## Purpose
 The Online Job Application Form is designed to collect information from job applicants for internal HR management purposes. This form helps track job applications, including contact details, work experience, education, and job references.

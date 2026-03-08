@@ -1,12 +1,3 @@
-<thinking>
-As a human resources manager, it's essential to ensure that you're getting the right information from your tech developers' applications. This form is designed to collect all the necessary details to create a comprehensive profile of the applicant. 
-
-This form is divided into sections that cover various aspects of the applicant's employment. The purpose of this form is to gather essential information about the applicant's skills, experience, and work preferences. 
-
-Please note that the form fields are designed to be concise and focused on the essential details required for the hiring process. Make sure to review each field carefully to ensure you're providing accurate and complete information.
-
-</thinking>
-
 # Tech Developer Hiring Employment Form - Help Guide
 
 ## Purpose

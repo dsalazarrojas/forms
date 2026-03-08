@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from visitors about the healthcare organization's visitor policy, ensuring that the visitors' experiences meet the organization's standards. This guide will help you understand the purpose of the form and how to complete it, along with explanations of each field.
-
-</thinking>
-
 # Healthcare Visitor Policy Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the "Healthcare Visitor Policy Feedback Survey". The purpose of this form is to gather your feedback on your experience with the healthcare organization's visitor policy. Please take a few minutes to complete this form and help us improve our visitor policy.

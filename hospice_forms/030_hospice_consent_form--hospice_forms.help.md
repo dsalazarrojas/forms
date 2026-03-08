@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect consent information from patients or their representatives for the purpose of providing hospice care. This form ensures that the patient's wishes and medical information are accurately documented, and that the patient's rights and responsibilities are respected.
-</thinking>
-
 # hospice_consent_form - Help Guide
 ## Purpose
 This form is intended to collect consent from patients or their representatives for hospice care. It gathers essential information about the patient's admission and demographic details, as well as their consent for care.

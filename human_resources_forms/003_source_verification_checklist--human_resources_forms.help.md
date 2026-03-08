@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to verify the source of an employee, including their background, employment, and identity. This form is likely used in HR or recruitment processes to ensure that the candidate's information is accurate and trustworthy. The form has multiple pages with various fields to collect different types of information, including background checks, employment verification, and identity verification. The fields are a mix of dropdown menus and text fields, indicating that some questions might require more specific answers than others. The form might be used by HR personnel or recruiters to assess an applicant's eligibility for a position.
-</thinking>
-
 # Source Verification Checklist - Help Guide
 ## Purpose
 This form is used to verify the source of an employee, ensuring that their background, employment, and identity information is accurate and trustworthy.

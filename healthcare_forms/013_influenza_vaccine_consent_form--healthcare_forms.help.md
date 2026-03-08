@@ -1,11 +1,3 @@
-<thinking>
-
-This guide will cover the Influenza Vaccine Consent Form, a crucial document for healthcare providers to obtain patient consent for flu vaccination treatment. Before we dive into the guide, let's ensure that you are familiar with the form's purpose and requirements. This form is designed to collect essential information from patients to provide an informed consent for the influenza vaccine. 
-
-The form is divided into several sections, which includes fields for the patient's name, contact details, medical history, allergies, emergency contact information, and the date of vaccination. Each field has a specific purpose, and we will cover each one in detail below.
-
-</thinking>
-
 # Influenza Vaccine Consent Form - Help Guide
 ## Purpose
 The Influenza Vaccine Consent Form is a vital document that allows healthcare providers to obtain informed consent from patients before administering the influenza vaccine. This form ensures that patients are aware of the risks and benefits associated with the vaccine and provides a legal basis for the healthcare provider to administer the treatment.

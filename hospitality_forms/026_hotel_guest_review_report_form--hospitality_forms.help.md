@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from hotel guests about their stay, including their checkin, room details, rating, comments, and contact information. This form will likely be used by hotel management to improve their services and provide better experiences for future guests. This form should not be used for duplicate entries or submissions that do not pertain to specific hotel stays. It is assumed that each submission is for a unique stay and will be handled accordingly.
-</thinking>
-
 # Hotel Guest Review Report Form - Help Guide
 ## Purpose
 The Hotel Guest Review Report Form is designed to gather feedback from hotel guests about their stay. This feedback will help hotel management identify areas for improvement and make necessary changes to provide a better experience for future guests.

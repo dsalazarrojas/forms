@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a patient about releasing their medical records, providing an opportunity for them to consent to the release of their personal information. It is essential to ensure that the information gathered is accurate and that the patient is aware of what is being released. This form should be used when a patient wants to share their medical history or other health information with someone else, such as a doctor, family member, or insurance company. To use this form, a patient will need to fill out their contact information, the reason for releasing their information, the details of the person receiving the information, and their consent. The form also requires the date and signature of both the patient and the person authorizing the release. This form will help maintain transparency and trust between the patient and the person receiving their information.
-</thinking>
-
 # Release Of Medical Information Form - Help Guide
 ## Purpose
 This form is used by patients to release their medical records to another person or entity. It allows patients to provide their consent and identify the purpose and recipient of the information release.

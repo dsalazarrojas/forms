@@ -1,7 +1,3 @@
-<thinking>
-  The healthcare_access_declaration_form is used to declare patient access needs, insurance details, and medical information for healthcare services. This form is designed to collect relevant details from patients or their representatives to provide accurate and timely care. It is not intended for emergency or critical situations. Please ensure that the form is completed accurately and honestly to avoid any miscommunication or misallocation of resources.
-</thinking>
-
 # healthcare_access_declaration_form - Help Guide
 ## Purpose
 This form is used to gather essential information from patients or their representatives to ensure that healthcare providers can deliver timely and appropriate care.

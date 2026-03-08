@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed to gather information about language proficiency in various languages, particularly for employees or applicants with a background in hospitality. It asks for a title and name, contact information (email and phone), language proficiency levels in several languages, and details about a specific German occupation, including education level and institution. It also allows for additional information for an "Other" occupation. The purpose of this form is to collect data for employment purposes or other related activities.
-
-Before creating a help guide, it is essential to review the provided form structure and ensure that all necessary fields are covered.
-
-</thinking>
-
 # Hospitality Language Proficiency Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about language proficiency in various languages and related details about a specific German occupation or other occupation. This data is intended for employment purposes or other related activities.

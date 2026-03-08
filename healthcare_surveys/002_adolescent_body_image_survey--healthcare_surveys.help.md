@@ -1,12 +1,3 @@
-<thinking>
-We'll create a help guide for the "Adolescent Body Image Survey" form. This form is designed to understand the body image perceptions and experiences of adolescents. The form collects self-reported data on body satisfaction, sources of influence, frequency of comparison, focus on specific features, impact on mood, positive body aspects, pressure to change appearance, interest in support groups, and contact information. This form is likely to be completed by healthcare professionals, researchers, or educators working with adolescents to identify areas of concern and develop targeted interventions.
-
-Before creating the form, we will ensure that the questions are clear and concise, and the language is free from jargon and complex terminology. The form's layout and design should be user-friendly and visually appealing to facilitate easy completion.
-
-We'll start by creating a brief introduction explaining the purpose and expectations of the form.
-
-</thinking>
-
 # Adolescent Body Image Survey - Help Guide
 
 ## Purpose

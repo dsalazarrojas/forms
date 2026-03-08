@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from job applicants for a position within an organization. The form has 6 pages, each containing a text field with no other fields or options. The pages may seem sparse at first, but each field provides essential information for the hiring process. This form is intended for internal use within the organization and is not affiliated with any external form platforms.
-</thinking>
-
 # Fancy Job Application - Help Guide
 ## Purpose
 The Fancy Job Application form is a tool for job applicants to provide their information and qualifications for a position within the organization. The form helps the hiring team to gather relevant details about the applicant and streamline the hiring process.

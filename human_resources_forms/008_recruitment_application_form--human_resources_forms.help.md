@@ -1,5 +1,3 @@
-<thinking>As a form expert, I will create a user-facing help guide for the "recruitment application form" that is clear, concise, and practical. I will base the explanation on the provided YAML fields and provide a detailed field-by-field explanation to ensure users understand the form's purpose, how to complete it, and what each field means. The guide will be in Markdown format, following the required structure: # recruitment application form - Help Guide, with sections on "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips".</thinking>
-
 # recruitment application form - Help Guide
 ## Purpose
 The "Recruitment Application Form" is a tool used by organizations to collect information from applicants interested in a job opening. This form helps to gather relevant data about the applicant, such as their job title, contact information, education background, skills, and job experience. The collected data is then used to filter and evaluate potential candidates for the position.

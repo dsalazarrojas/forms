@@ -1,5 +1,3 @@
-<thinking>Form purpose is to obtain authorization for medical treatment, providing the user with information to be filled out for medical staff and other stakeholders. It should be completed by the person receiving treatment. The form is not to be completed by the person providing treatment. This form may be duplicated if the user is receiving treatment for a long period of time, or if the user has a different medical condition than previously reported.</thinking>
-
 # Medical Treatment Authorization Form - Help Guide
 ## Purpose
 This form is used to provide authorization for medical treatment. It is intended to be completed by the person receiving treatment, and should be filled out by them accurately and thoroughly.

@@ -1,23 +1,3 @@
-<thinking> This form is designed for healthcare professionals to report medication errors that have occurred during patient care. The form is meant to capture information about the patient, the medication that was administered, the error that occurred, and the action taken to address the error. 
-
-It's essential to use this form only for reporting medication errors that have occurred during patient care. Do not use this form to report other types of errors or incidents.
-
-To complete this form, please ensure that all required fields are filled out. 
-
-The form is divided into multiple pages, each with its own set of questions. 
-
-The first page asks for the patient's name, date of the error, and other essential contact information. 
-
-The second page asks about the details of the error, including the medication administered, dose, time of administration, and route of administration. 
-
-The rest of the pages ask for further details about the error, such as the type of error, the patient's condition at the time of the error, the treatment taken, and the outcome.
-
-Please note that all fields with "required: true" are mandatory and must be filled out. 
-
-The form must be completed by a healthcare professional authorized to report medication errors.
-
-</thinking>
-
 # Medication Error Report Form - Help Guide
 ## Purpose
 This form is designed for healthcare professionals to report medication errors that have occurred during patient care.

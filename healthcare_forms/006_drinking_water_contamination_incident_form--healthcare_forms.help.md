@@ -1,26 +1,3 @@
-<thinking>
-The form purpose is to report incidents of drinking water contamination, which is crucial for public health officials to identify and address potential risks to the public. This form will guide users through the process of providing detailed information about the incident, including the date and location of the incident, the source of the drinking water, the type of contamination, and the actions taken or planned to address the issue. It is essential to ensure that all required fields are completed accurately and completely to provide a comprehensive understanding of the incident. Users should not submit multiple instances of the same incident.
-
-This form will help users to report incidents efficiently and effectively, and the information gathered will aid in the prevention and mitigation of water-borne illnesses.
-
-To complete this form, users will need to provide the following information:
-* Date and location of the incident
-* Source of the drinking water
-* Type of contamination
-* Reporting party (the person or organization responsible for reporting the incident)
-* Contact information for follow-up
-* Details about the incident
-* Actions taken or planned to address the issue
-* Outcome of the incident
-* Notes (any additional information about the incident)
-* Contact information for the submitter
-* Assigned tool or equipment used for investigation and mitigation
-* Version of the form used
-* Date and time the form was last modified
-* Person who last modified the form
-
-The form is divided into several sections, each with a specific field type and label. Users should refer to each field explanation below for further information.</thinking>
-
 # Drinking Water Contamination Incident Form - Help Guide
 ## Purpose
 This form is used to report incidents of drinking water contamination to aid public health officials in identifying and addressing potential risks to the public.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use by healthcare providers to document a patient's ability to return to work after a medical evaluation. It is not a form for collecting patient data, but rather for recording information from the physician's perspective. Please use this form only for its intended purpose, and ensure that it is filled out correctly to avoid any potential issues.
-</thinking>
-
 # Physician Release To Return To Work Form - Help Guide
 ## Purpose
 This form is designed to record a physician's statement regarding a patient's work status after a medical evaluation. It should only be used by healthcare providers to document their professional opinion and should not be used for other purposes.

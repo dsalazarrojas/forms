@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hand Washing Training Form - Help Guide
 ## Purpose
 This form is used to record information for hand washing training sessions. It captures details about the training form, questions, submitter information, and training completion status. This form is intended for healthcare professionals to provide information about the hand washing training they have conducted or attended.

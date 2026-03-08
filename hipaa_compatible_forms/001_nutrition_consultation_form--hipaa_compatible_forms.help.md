@@ -1,8 +1,3 @@
-<thinking> 
-The form is designed to collect information from patients for nutrition consultation purposes. It's meant to be used by healthcare professionals to assess the nutritional needs and health status of patients, likely for dietary planning and treatment recommendations. This form should only be used for patients who have a medical condition or concern related to nutrition. Please ensure that you're completing this form for the correct purpose and not for marketing or sales purposes. If you're unsure, please review the form's purpose and fields carefully before proceeding. 
-
-</thinking>
-
 # Nutrition Consultation Form - Help Guide
 ## Purpose
 The Nutrition Consultation Form is designed to collect information from patients for nutrition consultation purposes. It's meant to be used by healthcare professionals to assess the nutritional needs and health status of patients, likely for dietary planning and treatment recommendations.

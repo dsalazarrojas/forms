@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ObGynPatientHistoryForm - Help Guide
 ## Purpose
 The ObGynPatientHistoryForm is a medical history form used to collect information about a patient's medical history, including any allergies, obstetric history, and medical conditions. This form is designed to help healthcare providers gather essential information to provide personalized care and treatment.

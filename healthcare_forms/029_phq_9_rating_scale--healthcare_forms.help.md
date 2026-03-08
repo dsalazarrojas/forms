@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a mental health assessment tool, specifically designed to evaluate a person's emotional state and well-being over a period of time. The PHQ-9 (Patient Health Questionnaire-9) rating scale is a widely used, standardized instrument for assessing depression and anxiety symptoms. 
-
-The form consists of 25 questions, each with four possible answers, ranging from "None" to "More than 2 weeks". The questions cover various aspects of a person's emotional state, including feelings of depression, anxiety, energy levels, difficulty making decisions, concentration issues, enjoyment of life, hope, happiness, guilt, feeling useful, and other emotional states. 
-
-This form is designed to help healthcare professionals assess the severity of a person's symptoms and identify potential areas of concern.
-
-</thinking>
-
 # phq 9 rating scale - Help Guide
 ## Purpose
 The phq 9 rating scale is a mental health assessment tool used to evaluate a person's emotional state and well-being over a period of time.

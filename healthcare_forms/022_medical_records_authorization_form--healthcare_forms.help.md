@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial document that enables healthcare providers to access and share patient medical records. The Medical Records Authorization Form serves as a legal and official authorization from a patient to grant access to their medical records. It's a standard process in healthcare settings to ensure patients' confidentiality and consent is respected. Before filling this form, please ensure you have the patient's consent and understanding of the form's purpose and implications.
-</thinking>
-
 # Medical Records Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization from a patient to access and share their medical records.

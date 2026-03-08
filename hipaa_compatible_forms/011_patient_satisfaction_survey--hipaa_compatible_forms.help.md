@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect patient satisfaction data and gather insights into the care and services provided by healthcare providers. The form is intended for patients to share their experiences, opinions, and concerns about their medical treatment and interactions with healthcare staff. The purpose of this form is to help healthcare providers identify areas of improvement and ensure that patients receive high-quality care. 
-
-The form is a multi-page survey that covers various aspects of patient care, including patient demographics, medical history, contact information, and satisfaction survey questions.
-
-Before proceeding, please ensure that you have permission to access this form and that the form's contents are relevant to your specific situation.
-
-</thinking>
-
 # Patient Satisfaction Survey - Help Guide
 ## Purpose
 The form is designed to collect patient satisfaction data and gather insights into the care and services provided by healthcare providers.

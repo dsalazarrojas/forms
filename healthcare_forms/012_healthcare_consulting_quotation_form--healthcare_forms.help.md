@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Healthcare Consulting Quotation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from patients or individuals about their health status, medical history, and medical conditions. The goal is to provide a comprehensive view of the patient's health status, which can be used by healthcare professionals to assess and address any potential health concerns. To avoid duplication of effort, please ensure that you are not creating multiple forms with similar content. This form is intended for use in the healthcare industry, specifically for collecting information from patients or individuals.
-</thinking>
-
 # Health Advisory Communication Form - Help Guide
 ## Purpose
 The Health Advisory Communication Form is designed to collect relevant information from patients or individuals about their health status, medical history, and medical conditions. This information can be used by healthcare professionals to assess and address any potential health concerns.

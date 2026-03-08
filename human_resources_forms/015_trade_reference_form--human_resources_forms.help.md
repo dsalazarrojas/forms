@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a trade reference from a professional contact. The reference will be used for future job opportunities. Please ensure that the reference provided is from a relevant contact. 
-</thinking>
-
 # Trade Reference Form - Help Guide
 ## Purpose
 This form is used to collect information for a trade reference from a professional contact. The reference will be used for future job opportunities.

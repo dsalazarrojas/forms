@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Booster Vaccine Consent Form - Help Guide
 ## Purpose
 This form is intended to gather essential information and obtain consent from patients before administering the COVID-19 booster vaccine. It is crucial to understand the purpose of this form and ensure that the patient is properly informed about the vaccine's benefits, risks, and any potential contraindications.

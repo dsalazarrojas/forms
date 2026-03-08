@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients, including their personal details, medical history, and appointment scheduling preferences. It is intended to be used in a healthcare setting to streamline patient data collection and improve patient care.
-</thinking>
-
 # Nutrition - Help Guide
 ## Purpose
 This form is used to collect information from patients, including their personal details, medical history, and appointment scheduling preferences.

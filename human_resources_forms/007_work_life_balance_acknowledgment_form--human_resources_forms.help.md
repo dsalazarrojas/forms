@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Life Balance Acknowledgment Form - Help Guide
 ## Purpose
 

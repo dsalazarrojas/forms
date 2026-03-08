@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle Low Occupancy Leave Of Absence (LOA) requests, a process where an employee may be temporarily removed from their role due to various reasons such as health issues, family emergencies, or other personal reasons. Before proceeding, please ensure that you have consulted with your supervisor or HR department to determine if an LOA is the appropriate course of action. Also, ensure that the information provided is accurate and up-to-date to avoid any potential issues or delays in the processing of the request.
-</thinking>
-
 # Low Occupancy Leave Of Absence Request - Help Guide
 ## Purpose
 The Low Occupancy Leave Of Absence Request form is used to document and track employee leave of absence requests. This form helps to ensure that necessary information is collected and that the request is properly communicated to relevant parties.

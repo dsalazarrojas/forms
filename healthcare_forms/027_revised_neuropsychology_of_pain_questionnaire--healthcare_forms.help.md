@@ -1,11 +1,3 @@
-<thinking>
-
-This guide will help you complete the Revised Neuropsychology Of Pain Questionnaire, which is designed to assess your pain experience and gather information about your overall well-being. Before starting, please ensure that you have not already taken this survey, as it is intended to be a one-time assessment.
-
-This guide will walk you through each section of the form, explaining what each field is asking for and how to fill it out properly.
-
-</thinking>
-
 # Revised Neuropsychology Of Pain Questionnaire - Help Guide
 ## Purpose
 

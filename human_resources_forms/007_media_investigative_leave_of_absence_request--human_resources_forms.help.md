@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request a media investigative leave of absence for an employee. The form must be completed by the employee and their manager, and is used to track and approve or decline requests for leave. Please ensure that the form is completed accurately and thoroughly before submitting it, as this will help the approvers make an informed decision. Also, note that some fields are required and some are optional. If the form is not relevant to your situation, please do not submit it. This form will be used to track and process leave requests for media investigations. Please ensure that the form is completed in a timely manner to avoid delays in the approval process.</thinking>
-
 # Media Investigative Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a media investigative leave of absence for an employee. The form must be completed by the employee and their manager, and is used to track and approve or decline requests for leave.

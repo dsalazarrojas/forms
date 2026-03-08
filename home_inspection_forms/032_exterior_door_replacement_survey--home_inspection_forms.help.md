@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for exterior door replacement projects. It's essential to ensure that the form is filled out correctly to provide accurate and comprehensive data for the project. Please review the form carefully to avoid any duplication or omission of information.
-</thinking>
-
 # Exterior Door Replacement Survey - Help Guide
 ## Purpose
 The Exterior Door Replacement Survey is a form used to gather information about exterior door replacement projects. It helps in collecting data on various aspects of the project, including replacement requests, project details, client information, and other relevant details.

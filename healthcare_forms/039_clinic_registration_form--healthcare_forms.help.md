@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect patient registration information for a clinic. The purpose of this form is to ensure that patients can provide accurate and complete information about themselves, which is essential for healthcare providers to provide effective care. The form is designed to be completed by patients themselves, and the information collected will be used for administrative and clinical purposes.
-</thinking>
-
 # Clinic Registration Form - Help Guide
 
 ## Purpose

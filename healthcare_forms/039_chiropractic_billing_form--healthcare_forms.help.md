@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect billing information for chiropractic services rendered to a patient. The form will help healthcare providers gather necessary data for payment from insurance companies or directly from patients. It will likely be used in a clinical setting, such as a chiropractic office or clinic. This form is a standard template and should not be modified without proper authorization from the relevant authorities.
-</thinking>
-
 # Chiropractic Billing Form - Help Guide
 ## Purpose
 This form is used to collect billing information for chiropractic services, including patient name, billing address, insurance provider (if applicable), policy number, services rendered, total amount due, payment method, billing contact phone, and billing notes.

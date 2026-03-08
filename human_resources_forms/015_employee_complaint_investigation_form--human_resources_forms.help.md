@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <em>employee_complaint_investigation_form</em> - Help Guide
 
 ## Purpose

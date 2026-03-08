@@ -1,8 +1,3 @@
-<thinking>
-This form, "hotel_booking_payment_form", is a crucial part of the hotel booking process. It collects information for hotel bookings, payment methods, and other essential details. To ensure the correct completion and submission of this form, please review the following guidelines carefully.
-
-Given the form's purpose and the fields it contains, it's possible that this form might be part of a broader system that automates or assists with internal hotel operations, such as managing bookings, payments, or customer interactions. However, without explicit information about the form's usage or integration, we will focus on the provided fields and create a guide that covers its most likely intent and usage scenarios.</thinking>
-
 # hotel_booking_payment_form - Help Guide
 ## Purpose
 This form is designed for hotel customers to provide information necessary for their booking. It's likely used during the final stages of the booking process, where guests can enter their details and payment preferences. By filling out this form, guests can finalize their booking with the selected hotel.

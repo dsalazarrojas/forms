@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from patients, specifically children, for audiology assessments. It gathers data on the patient's first and last name, age, gender, medical condition, and other relevant details. The form is designed to be completed by a healthcare professional and is intended to aid in the diagnosis and treatment of audiological disorders. To ensure that the form is being used appropriately, please review the following guide carefully.
-</thinking>
-
 # Paediatric Audiology Questionnaire - Help Guide
 ## Purpose
 The Paediatric Audiology Questionnaire is a form used to collect information from patients, specifically children, for audiology assessments. This form is designed to aid healthcare professionals in diagnosing and treating audiological disorders.

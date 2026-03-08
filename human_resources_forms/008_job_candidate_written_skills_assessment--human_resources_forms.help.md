@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information about a job candidate's written skills assessment. It is likely used to assess a candidate's written communication skills, such as writing a sample job application or a short essay response. The form may be used by recruiters or hiring managers to evaluate a candidate's writing style, grammar, and creativity.
 
 This form does not appear to have any redundant or duplicate fields, and it is designed to collect specific and relevant information about a candidate's written skills.

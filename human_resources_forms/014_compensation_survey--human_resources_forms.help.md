@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data for a compensation and benefits survey. The purpose is to gather feedback and insights from employees on their current compensation, satisfaction, and benefit priorities. This data will be used to inform future compensation and benefits policies and decisions. To ensure accuracy, please complete this form carefully, and avoid duplicating submissions if you have already completed this survey in the past.
-
-</thinking>
-
 # Compensation Survey - Help Guide
 ## Purpose
 

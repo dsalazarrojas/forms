@@ -1,5 +1,3 @@
-<thinking>Form purpose is to gather input from homeowners to identify potential improvements for the HOA Community. This form will be used by HOA Management to gather feedback and suggestions from residents regarding their neighborhood. It's essential to fill out this form only once for each project, and please be sure to not submit duplicate entries.</thinking>
-
 # HOA Community Improvement Voting Form - Help Guide
 ## Purpose
 The HOA Community Improvement Voting Form is a way for homeowners to provide suggestions and feedback on potential community improvements. This form helps the HOA Management identify areas of need and make informed decisions about which projects to undertake.

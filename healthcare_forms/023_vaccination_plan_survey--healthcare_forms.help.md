@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand how to complete the "Vaccination Plan Survey" form. The form is designed to collect information about vaccination status, medical history, and other relevant details to help healthcare providers understand the vaccination needs of their patients. This guide will cover the purpose of the form, how to complete it, and provide field-by-field explanations to ensure clarity and accuracy in the responses.
-
-Please note that this form is meant to be used for general guidance and may not cover all possible scenarios or medical conditions. If you have any doubts or concerns, please consult with a healthcare professional.
-
-</thinking>
-
 # Vaccination Plan Survey - Help Guide
 ## Purpose
 The Vaccination Plan Survey is designed to gather information about your vaccination status, medical history, and other relevant details to help healthcare providers make informed decisions about your care.

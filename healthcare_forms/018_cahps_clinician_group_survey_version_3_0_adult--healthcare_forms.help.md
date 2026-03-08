@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CAHPS Clinician & Group Survey 3.0 (Adult) - Help Guide
 
 ## Purpose

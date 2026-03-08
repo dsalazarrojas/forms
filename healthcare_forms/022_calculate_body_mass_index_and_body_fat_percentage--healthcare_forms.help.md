@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for calculating body mass index (BMI) and body fat percentage. 
-
-This form is intended for individuals who want to assess their body mass index (BMI) and body fat percentage based on their personal information. 
-
-It's likely to be used by individuals concerned about their weight or body composition, such as people who want to lose weight or maintain a healthy body mass.
-
-</thinking>
-
 # Calculate Body Mass Index And Body Fat Percentage - Help Guide
 
 ## Purpose

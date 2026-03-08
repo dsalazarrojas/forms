@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's dental health status, medical history, and other relevant details. To ensure the form is used correctly, it's essential to follow the guidelines outlined below.
-
-The form consists of several sections, each designed to capture specific information. Please review each section carefully to ensure you're providing accurate and complete answers.
-
-Before starting, make sure you're familiar with the form's requirements and that you're not duplicating any information already recorded for the patient.
-
-</thinking>
-
 # Dental Health Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess a patient's dental health status, medical history, and other relevant details. The information collected will help healthcare professionals make informed decisions about the patient's care.

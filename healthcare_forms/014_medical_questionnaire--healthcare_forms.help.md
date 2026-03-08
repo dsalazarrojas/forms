@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose of the "medical_questionnaire" form and how to complete it in a clear and concise manner. The form is used to gather information about a patient's health status, medical history, and other relevant factors. Before proceeding, ensure that you have reviewed any relevant medical records and understand the context in which this form is being used.
-
-</thinking>
-
 # medical_questionnaire - Help Guide
 ## Purpose
 The medical_questionnaire form is designed to collect information about a patient's health status, medical history, and other relevant factors to aid healthcare providers in making informed decisions.

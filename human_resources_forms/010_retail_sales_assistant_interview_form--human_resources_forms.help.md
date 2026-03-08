@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for Retail Sales Assistant Interview, a form designed to collect data about the store's sales assistants. It includes fields to gather details about the store name, candidate information, availability, experience, and contact information. To complete this form, one should ensure that the information is accurate and relevant to the store's sales assistant role. The form does not duplicate any fields, ensuring that users can provide unique and detailed information about each sales assistant. Before filling out this form, review the provided fields to ensure that you have all the necessary information to fill out this form correctly.
-</thinking>
-
 # Retail Sales Assistant Interview Form - Help Guide
 ## Purpose
 This form is used to collect information for Retail Sales Assistant Interview, a form designed to gather data about the store's sales assistants.

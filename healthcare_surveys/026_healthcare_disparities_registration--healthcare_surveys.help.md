@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about healthcare disparities, which refer to the differences in health outcomes and access to healthcare services among various subpopulations. The purpose of this form is to gather data on the experiences of patients and healthcare providers in accessing and providing healthcare services, with a focus on identifying and addressing potential barriers and disparities.
-
-Before proceeding, we'll assume that the form's fields are relevant and not duplicated, and that the end user is aware of the importance of providing accurate and honest information.
-
-</thinking>
-
 # Healthcare Disparities Registration - Help Guide
 ## Purpose
 The Healthcare Disparities Registration form is designed to collect data on the experiences of patients and healthcare providers in accessing and providing healthcare services, with a focus on identifying and addressing potential barriers and disparities.

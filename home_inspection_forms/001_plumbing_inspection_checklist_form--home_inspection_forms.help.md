@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # plumbing_inspection_checklist_form - Help Guide
 ## Purpose
 The **plumbing_inspection_checklist_form** is a form designed to collect information during a home inspection. It helps to record and track details about the inspection, including the date and time of the visit, the name and ID of the inspector, the type of job, and other relevant details. This form is meant to be used by plumbers or inspectors to document their visits and provide a professional and organized record of their work.

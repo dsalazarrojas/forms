@@ -1,11 +1,3 @@
-<thinking>
-This form is used for healthcare providers to review a patient's medical chart. It is likely used for various purposes, such as documenting patient information, tracking medical history, and monitoring treatment plans. To ensure that this form is not filled out unnecessarily, consider the following questions: 
-Does the healthcare provider have access to the patient's electronic medical record? 
-Is the patient's medical chart already up-to-date and reviewed regularly? 
-The goal of this form is not to create redundant data or duplicate effort. 
-Please fill out this form carefully and only when necessary.
-</thinking>
-
 # Medical Chart Review Form - Help Guide
 
 ## Purpose

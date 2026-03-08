@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assess the knowledge, practice, and confidence of dental professionals regarding asepsis, which is a crucial aspect of infection control and prevention in dental settings. Asepsis refers to the practices and protocols used to prevent the spread of infections in dental clinics. This form will help us understand the current state of asepsis knowledge, practice, and confidence among dental professionals. 
-
-Please ensure that this form is not filled out more than once by the same person. If you are a healthcare professional who has already completed this survey, you may not need to do so again.
-</thinking>
-
 # Dental Asepsis Knowledge Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect general information from patients about their health and medical history, as well as details about the healthcare practice they are enrolling in. The purpose of this form is to ensure that patients provide accurate and comprehensive information about their health status, medical history, and practice details, which will be used to improve patient care and practice management.
-The form is not intended to be a substitute for actual medical care or consultation, but rather a tool to help patients and practices communicate effectively.
-</thinking>
-
 # Enrolment Form GP Practices In New Zealand - Help Guide
 
 ## Purpose

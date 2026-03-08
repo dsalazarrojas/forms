@@ -1,13 +1,3 @@
-<thinking>
-The purpose of the hospitality_audit_form is to collect feedback on the services provided by a hospitality establishment, specifically assessing various aspects of the experience, including service quality, staff attitude, communication, cleanliness, amenities, overall satisfaction, and other important factors. This form is used to gather information that can help the establishment identify areas for improvement and make informed decisions to enhance their services.
-
-The form is designed to be completed by customers or guests of the hospitality establishment, who will provide their honest feedback on their experience. The feedback will be used to help the establishment understand their strengths and weaknesses, and make data-driven decisions to improve their services.
-
-The form is not intended to be a comprehensive evaluation of the establishment, but rather a snapshot of the experience at a specific point in time. It is recommended that the form is completed honestly and thoroughly, to provide valuable insights for the establishment.
-
-Before proceeding, please ensure that you have completed the form for the correct purpose and that your feedback is specific to the experience you are evaluating.
-
-</thinking>
 # hospitality_audit_form - Help Guide
 ## Purpose
 The hospitality_audit_form is a tool used to collect feedback on the services provided by a hospitality establishment. It is designed to be completed by customers or guests of the establishment, and the feedback will be used to help the establishment identify areas for improvement and make informed decisions to enhance their services.

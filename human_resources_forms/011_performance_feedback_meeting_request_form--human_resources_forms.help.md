@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect performance feedback from employees. It is intended for managers to gather information about employee performance and to help identify areas for improvement. Before completing this form, please ensure that you have the necessary information and clearance to request performance feedback. Please do not submit a request for performance feedback for a manager or for someone who has not provided you with the necessary clearance.
-</thinking>
-
 # performance_feedback_meeting_request_form - Help Guide
 ## Purpose
 This form is used to request performance feedback from a meeting or discussion. It collects information about the meeting date, time, location, and attendees, as well as feedback and comments from the performance evaluator.

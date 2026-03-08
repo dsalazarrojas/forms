@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help users track their hormonal health cycles. To confirm, the form should be used by individuals who need to monitor and record their daily or regular experiences related to their menstrual cycles, symptoms, and lifestyle factors. This form is likely to be used by healthcare professionals or individuals seeking to understand their own or another's health. The form does not appear to have any duplication or overlap with other forms in the "healthcare_forms" category, so it should be a unique and useful tool.
-</thinking>
-
 # Hormonal Health Cycle Tracking Log - Help Guide
 ## Purpose
 This form is designed to help individuals track their hormonal health cycles, including menstrual phases, symptoms, and lifestyle factors.

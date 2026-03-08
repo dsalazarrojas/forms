@@ -1,11 +1,3 @@
-<thinking>
-The Newborn Care Leave Of Absence Request form is used by employees to request a leave of absence for new parental care duties. The form is intended to be completed by the employee who is requesting the leave, as well as their manager and the People Operations team. This form is used to track and manage leave requests, ensuring that all necessary approvals and dates are documented.
-
-Please ensure that you are not duplicating a request that has already been made or approved. Check your email and internal systems for any pending or approved leave requests before submitting this form.
-
-This form requires all necessary fields to be completed in order to be submitted. Please ensure that you have all the required information before proceeding.
-</thinking>
-
 # Newborn Care Leave Of Absence Request - Help Guide
 ## Purpose
 The Newborn Care Leave Of Absence Request form is used to request a leave of absence for new parental care duties.

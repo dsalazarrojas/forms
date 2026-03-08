@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended for end-users to assist them in completing the respirator medical evaluation questionnaire. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. It's essential to ensure that the user understands the form's requirements and provides accurate information to ensure a thorough evaluation.
-
-To avoid duplication of effort and ensure the form is filled out correctly, please review the form's purpose before proceeding.
-
-The form is a comprehensive evaluation tool designed to assess a patient's respirator medical history and needs. It will help clinicians understand the patient's medical condition, medication history, and other essential factors that may affect their respirator care.
-
-This form is not intended for patients to fill out on their own. It should only be completed by a healthcare professional, such as a doctor or nurse, after a thorough medical examination and consultation.
-
-Before filling out the form, please ensure you have reviewed the patient's medical history and have a thorough understanding of their current medical condition.
-
-</thinking>
-
 # respirator_medical_evaluation_questionnaire - Help Guide
 ## Purpose
 The respirator medical evaluation questionnaire is designed to gather essential information about a patient's medical condition, medication history, and other factors that may affect their respirator care. The form is completed by a healthcare professional after a thorough medical examination and consultation.

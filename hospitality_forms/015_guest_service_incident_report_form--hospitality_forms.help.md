@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from staff members regarding incidents that occur within the hospitality sector. The purpose of this form is to gather specific details about the incident, including the date, time, description, and any actions taken. The form will also capture the outcome of the incident, manager's review, and follow-up information. This form is intended to be used by staff members to report incidents and provide a clear and concise format for collecting and tracking incident data.
-</thinking>
-
 # Guest Service Incident Report Form - Help Guide
 ## Purpose
 The Guest Service Incident Report Form is a tool used by staff members to report incidents that occur within the hospitality sector. It helps to collect and track incident data, ensuring that the necessary steps are taken to address and resolve the issue effectively.

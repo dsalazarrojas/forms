@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the grievance_form, a document used for reporting and managing grievances in the workplace. It is essential to ensure that the form is completed accurately and thoroughly, as it will be used to track and address employee concerns. This guide will provide step-by-step instructions on how to complete the form, along with explanations of each field to help users understand the purpose and significance of each section.
-</thinking>
-
 # grievance_form - Help Guide
 ## Purpose
 The grievance_form is a critical tool used to document and track employee grievances in the workplace. It helps ensure that all complaints, issues, or concerns are addressed promptly and professionally. This guide will walk you through the process of completing this form to provide accurate and comprehensive information.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather essential information for the restaurant staff to provide a smooth and personalized dining experience for the guests. This form should not be used for duplicate reservations, and the fields are designed to capture specific details about the guest's preferences, needs, and expectations. Each field is carefully crafted to ensure that the restaurant staff can effectively cater to the guest's requirements. The form's purpose is to provide a positive and memorable experience for the guests.
-</thinking>
-
 # Restaurant Dining Experience Check In Form - Help Guide
 ## Purpose
 This form is designed to help the restaurant staff gather essential information about your dining experience, ensuring that you have a smooth and enjoyable meal. Please take a few minutes to fill out this form to help us tailor your experience to your preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Birth Doula Client Intake Form - Help Guide
 
 ## Purpose

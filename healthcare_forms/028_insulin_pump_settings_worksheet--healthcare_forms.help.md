@@ -1,36 +1,3 @@
-<thinking>
-The Insulin Pump Settings Worksheet appears to be a form for healthcare professionals to document settings for patients using insulin pumps. The form collects information about the patient's insulin pump model, basal settings, bolus settings, and other related parameters. The fields are divided into different sections, likely to help healthcare providers quickly access and update patient settings as needed.
-
-To determine the purpose of this form, I have analyzed the fields and their labels. The form seems to be used to collect data on the following:
-
-- Patient name (patient_name)
-- Insulin pump model (pump_model)
-- Provider notes (provider_notes)
-- Basal settings (basal_settings)
-- Bolus settings (bolus_settings)
-- Basal frequencies (basal_frequencies)
-- Basal frequencies 2 (basal_frequencies_2)
-- Basal settings frequency (basal_settings_frequency)
-- Basal settings dose (basal_settings_dose)
-- Bolus dose (bolus_dose)
-- Bolus units (bolus_units)
-- Basal units (basal_units)
-- Basal settings unit (basal_settings_unit)
-- Bolus settings unit (bolus_settings_unit)
-- Basal settings frequency 2 (basal_settings_frequency_2)
-- Basal settings dose 2 (basal_settings_dose_2)
-- Bolus dose 2 (bolus_dose_2)
-- Bolus units 2 (bolus_units_2)
-- Basal units 2 (basal_units_2)
-- Basal settings unit 2 (basal_settings_unit_2)
-- Basal frequencies 2 (basal_frequencies_2)
-
-The form seems to be used for both initial and follow-up settings.
-
-I have checked for any potential duplication of fields or sections, but it appears that each field has a unique label and purpose.
-
-</thinking>
-
 # Insulin Pump Settings Worksheet - Help Guide
 ## Purpose
 The Insulin Pump Settings Worksheet is a form used by healthcare professionals to document settings for patients using insulin pumps. This form helps providers quickly access and update patient settings as needed.

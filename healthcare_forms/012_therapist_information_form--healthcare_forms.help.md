@@ -1,5 +1,3 @@
-<thinking>This form is for gathering information about a therapist. Please ensure that you are filling it out for the correct purpose and not duplicating existing information. If you're unsure, double-check with your supervisor or the person who initiated this form.</thinking>
-
 # Therapist Information Form - Help Guide
 ## Purpose
 The Therapist Information Form is used to collect and record information about a therapist. This form is typically used in conjunction with other forms, such as patient records, to provide a comprehensive view of the therapist's contact and contact method.

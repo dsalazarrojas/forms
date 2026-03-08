@@ -1,6 +1,3 @@
-<thinking>
-Is this a form for assessing patients with peripheral vascular emergencies? If so, the form is likely used in a medical setting. Is the form part of a larger assessment process or part of an individual evaluation? Is it for emergency responders, medical professionals, or both? Has the form been reviewed and validated by medical professionals for accuracy and relevance? Has the form been tested and refined based on feedback from users in a healthcare setting?</thinking>
-
 # Peripheral Vascular Emergency Assessment - Help Guide
 ## Purpose
 This form is used to assess patients with peripheral vascular emergencies. It collects information on patient's vital signs, medical history, allergies, current medications, and other relevant information to help healthcare professionals make informed decisions.

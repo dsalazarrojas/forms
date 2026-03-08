@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information about healthcare employees' satisfaction levels, engagement, and perceptions of their work environment, including satisfaction with their job, communication, management, and overall experience.
-The form is not intended to be used in situations where the employees' responses will be used as a basis for performance evaluations or disciplinary actions, but rather to collect anonymous and confidential feedback to improve workplace conditions and employee experience.
-This guide is intended for healthcare employees who will be completing the survey.
-The form is not intended for use in any other context.
-</thinking>
-
 # Healthcare Employee Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your opinions and experiences as a healthcare employee. Your feedback is anonymous and confidential, and will be used to help us understand and improve our work environment.

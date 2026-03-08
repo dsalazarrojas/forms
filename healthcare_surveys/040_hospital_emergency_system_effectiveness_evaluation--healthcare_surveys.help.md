@@ -1,7 +1,3 @@
-<thinking>
-We will be evaluating the effectiveness of the hospital's emergency system through this form. Before completing this form, please ensure that you have not already submitted an evaluation on the same topic. This form is intended for individuals who have recently visited the hospital's emergency department. If you are a healthcare professional, please note that this form is for patient feedback, not staff performance evaluation.
-</thinking>
-
 # Hospital Emergency System Effectiveness Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients on their experience with the hospital's emergency system. The information collected will help us identify areas of improvement and provide insights to enhance the emergency care and services provided.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting access to the Guest LoyalitY Program. It's designed to help the hospitality team understand the needs and preferences of guests, such as their preferred contact method and communication preferences. Before completing this form, ensure that you haven't already been contacted about your membership in the Guest LoyalitY Program, and that you've reviewed the program's terms and conditions. This form will help the team understand your requests and preferences, ensuring a personalized experience when you interact with the program.
-
-</thinking>
 # Guest LoyalitY Program Request Form - Help Guide
 ## Purpose
 The Guest LoyalitY Program Request Form is designed to gather essential information from guests about their preferences and requests for interacting with the program.

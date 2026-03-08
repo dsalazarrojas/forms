@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and to avoid duplication. This form is designed to gather information about individuals' attitudes and experiences regarding COVID-19 vaccination, including their interest in getting vaccinated, concerns, and sources of information. It is meant to provide insights that can inform public health initiatives, policy, and education programs. To ensure accurate and meaningful data collection, it's essential that users understand the form's purpose and how to complete it properly.
-</thinking>
-
 # COVID 19 Vaccine Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences, attitudes, and concerns regarding COVID-19 vaccination. Your responses will help inform public health initiatives, policy, and education programs.

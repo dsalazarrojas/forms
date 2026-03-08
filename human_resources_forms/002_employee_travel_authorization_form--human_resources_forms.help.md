@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain approval for employee travel, ensuring that all necessary details and approvals are recorded. The form is designed to gather information about the travel dates, purpose, destination, duration, employee name, department, supervisor and manager approval, and any additional comments or reasons for the travel. It's likely that this form will be used in an organizational or business setting where employee travel needs to be authorized in advance.
-</thinking>
-
 # employee_travel_authorization_form - Help Guide
 ## Purpose
 This form is used to request approval for employee travel, providing a structured way to gather necessary information and approvals before the trip takes place.

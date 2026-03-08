@@ -1,7 +1,3 @@
-<thinking>...To help users complete the 'influenza_questionnaire' form, let's first understand its purpose and how it should be filled out. This form is designed to collect information about a patient's flu-like symptoms, recent travel, and vaccination status. The form is divided into different sections, each with specific fields that ask for various details. Before filling out the form, ensure you have the necessary information and answers to the questions being asked.
-
-Please note that the form is not for diagnosis purposes but rather to gather information that may be used for further assessment or treatment. If you have any concerns or queries, it's always best to consult with a healthcare professional.</thinking>
-
 # influenza_questionnaire - Help Guide
 ## Purpose
 The 'influenza_questionnaire' form is a tool for collecting information about a patient's flu-like symptoms, recent travel, and vaccination status. This information can be used for further assessment or treatment by healthcare providers.

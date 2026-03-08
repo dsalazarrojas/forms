@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for assessing a patient's health status and gathering essential information from their home environment. The purpose of this form is to collect data on the patient's medical condition, medical history, medication, and other relevant factors.
-
-This form is designed to be completed by the patient or their caregiver, and it should not be a duplication of any other assessment form used in the healthcare setting. If you are unsure about the purpose or the fields in this form, please refer to your healthcare provider for guidance.
-
-</thinking>
-
 # Home Health Assessment Form - Help Guide
 ## Purpose
 The Home Health Assessment Form is a tool used to gather information about a patient's health status in their home environment. This form helps healthcare providers to assess the patient's medical condition, identify potential health risks, and develop a care plan tailored to their specific needs.

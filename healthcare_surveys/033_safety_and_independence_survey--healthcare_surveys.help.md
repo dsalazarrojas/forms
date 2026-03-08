@@ -1,5 +1,3 @@
-<thinking>...This form was designed to collect information from users about their personal safety and independence concerns, which is a critical aspect of healthcare surveys. The purpose of this form is to gather details about a user's care and support needs, independence levels, and safety concerns. This form is a part of the "healthcare_surveys" category and is intended to be used in a healthcare setting. Please note that this form is an original adaptation created by AI and not derived from any existing form platform. It's free to use, modify, and even sell under CC BY 4.0 license. If you have any questions or need help, contact form@gic.mx...</thinking>
-
 # Safety And Independence Survey - Help Guide
 ## Purpose
 

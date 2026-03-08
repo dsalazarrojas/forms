@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be based on the provided YAML fields, which seem to represent a form for tracking denture processing steps. The form includes fields for patient information, doctor information, treatment type, impressions, fabrication, try-in, and delivery dates. The goal is to create a clear and concise guide for end-users to understand what each field means and how to complete the form efficiently.
-</thinking>
-
 # Denture Processing Checklist - Help Guide
 ## Purpose
 The Denture Processing Checklist is a form used to track and document the steps involved in the denture processing process. This form is designed to ensure that each step is completed accurately and on time, reducing the risk of errors and improving patient care.

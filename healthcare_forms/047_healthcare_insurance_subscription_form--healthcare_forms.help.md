@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for healthcare insurance subscription purposes. It is intended for clients to provide their personal and insurance details, billing information, and contact information. The form includes various fields such as client information, insurance enrollment, billing details, contact information, insurance provider, insurance plan, subscription date, subscription start date, subscription end date, billing frequency, billing amount, billing method, payment method, notes, email, phone, confirm email, and confirm phone. Ensure that the form is filled out accurately and completely as incomplete or inaccurate information may lead to issues with the insurance subscription process.
-
-</thinking>
-
 # healthcare_insurance_subscription_form - Help Guide
 ## Purpose
 This form is used to collect healthcare insurance subscription information from clients. It includes fields for client information, insurance enrollment, billing details, contact information, and payment method.

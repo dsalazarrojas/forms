@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests for hotel reservations. It's crucial to ensure the form is filled out correctly to avoid any confusion or errors during the booking process. To prevent any duplication, it's essential to check that the form is not submitted multiple times with the same information. This form is designed to gather essential details from guests, including their personal information, room preferences, and special requests. 
-</thinking>
-
 # Reservation Form - Help Guide
 ## Purpose
 The Reservation Form is used to collect information from guests for hotel reservations. This form is designed to gather essential details for a smooth and successful booking experience.

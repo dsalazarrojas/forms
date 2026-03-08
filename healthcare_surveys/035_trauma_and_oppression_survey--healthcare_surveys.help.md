@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users report on their experiences with trauma and oppression. The purpose of this form is to gather information about the user's feelings, support systems, and level of trauma/oppression experienced. This form will help users identify the types of trauma and oppression they have faced and their impact on their lives. To prevent duplicate responses, users can only complete the form once. Users will be able to select one or multiple options for each field, and some fields will be optional.
-</thinking>
-
 # Trauma And Oppression Survey - Help Guide
 ## Purpose
 This form is designed to help users report on their experiences with trauma and oppression. It will help users identify the types of trauma and oppression they have faced and their impact on their lives.

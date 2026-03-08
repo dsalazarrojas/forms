@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to help users complete the Healthcare Design Accessibility Survey form efficiently and accurately. 
-
-Before proceeding, it's essential to understand that this form is designed to collect information about patient interactions with healthcare services, focusing on accessibility aspects. Ensure that you have all necessary permissions and consent to provide your feedback. 
-
-Please ensure that you are completing the form for your own experiences or on behalf of a patient, if you're a healthcare professional, and not for any other purpose. 
-
-Please note that the form is designed to be completed only once per visit, and any changes will require the form to be completed again from the beginning.
-
-</thinking>
-
 # Healthcare Design Accessibility Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the accessibility of healthcare services from patients' perspectives. It aims to collect detailed information about your experiences with healthcare services, focusing on accessibility aspects such as communication, navigation, and overall comfort. Please answer these questions based on your recent interaction with our healthcare services.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to assess the presence and severity of symptoms related to Post-Traumatic Stress Disorder (PTSD) in civilians. It is an adapted version of a form used in various clinical settings, but its primary purpose here is to provide a comprehensive evaluation of PTSD symptoms in a non-clinical setting. The form is intended to help healthcare professionals identify potential cases of PTSD and refer them for further evaluation and treatment if necessary.
-
-Please note that this form is not a substitute for a comprehensive medical evaluation by a licensed professional. If you are experiencing symptoms of PTSD, please seek help from a qualified healthcare provider.
-
-Before proceeding, ensure that you are completing the form for a civilian population. If you are unsure, please contact the form administrator at `form@gic.mx` for guidance.
-
-This form is designed to be completed by a healthcare provider and is not intended for general public use. If you are not a healthcare provider, please do not use this form.
-
-This form is released under a CC BY 4.0 license, allowing modification and use of derived forms. However, please respect the original authorship and do not use it for commercial purposes without permission.
-
-</thinking>
-
 # ptsd_checklist_civilian_version_pcl_c - Help Guide
 ## Purpose
 The ptsd_checklist_civilian_version_pcl_c form is designed to assess the presence and severity of symptoms related to Post-Traumatic Stress Disorder (PTSD) in civilians.

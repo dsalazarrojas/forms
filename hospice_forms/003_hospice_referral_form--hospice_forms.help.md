@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospice Referral Form - Help Guide
 
 ## Purpose

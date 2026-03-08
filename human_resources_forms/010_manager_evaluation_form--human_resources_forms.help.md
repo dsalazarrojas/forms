@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate an employee's performance by a manager. This form should only be filled out by a manager who directly supervises the employee being evaluated. This form should not be used to evaluate a team member's performance by a colleague or someone in a different department. The form is designed to be a simple and quick assessment of the employee's skills and performance, and can be completed at any time. There is no time limit on when the form can be filled out, but it is best to evaluate performance at regular intervals (e.g. quarterly).
-</thinking>
-
 # Manager Evaluation Form - Help Guide
 ## Purpose
 The Manager Evaluation Form is used to evaluate an employee's performance by a manager who directly supervises them. This form helps managers assess an employee's strengths and weaknesses, providing a quick and simple way to document their performance.

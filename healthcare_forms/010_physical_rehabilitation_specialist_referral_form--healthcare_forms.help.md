@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from patients and healthcare providers to refer patients to a physical rehabilitation specialist. This form should only be completed by a healthcare provider, such as a doctor or nurse, as part of the patient's treatment plan. The form is not a duplicate of other forms or assessments that may be used in the healthcare setting. The purpose of this form is to provide a clear and concise referral for physical rehabilitation specialists, including the patient's contact information, medical history, and rehabilitation goals.
-
-</thinking>
-
 # Physical Rehabilitation Specialist Referral Form - Help Guide
 ## Purpose
 This form is used to refer patients to a physical rehabilitation specialist for further treatment. It provides a clear and concise referral that includes patient contact information, medical history, and rehabilitation goals.

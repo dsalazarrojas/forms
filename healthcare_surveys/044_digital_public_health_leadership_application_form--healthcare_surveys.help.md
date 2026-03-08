@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to collect applications for leadership positions in a healthcare setting. This form should only be filled out by candidates interested in applying for one of these positions. If you are a healthcare professional with the skills and experience necessary to lead, you are encouraged to submit this form. Please ensure that the information you submit is accurate and up to date. This form should not be used for purposes other than application.
-</thinking>
-
 # Digital Public Health Leadership Application Form - Help Guide
 ## Purpose
 The Digital Public Health Leadership Application Form is a tool used to collect applications for leadership positions in a healthcare setting. This guide will walk you through the process of completing this form.

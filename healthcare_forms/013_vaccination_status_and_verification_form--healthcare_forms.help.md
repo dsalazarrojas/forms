@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information on an individual's vaccination status and verification method. This form should only be completed for those who have received a vaccination or have not received one, or whose vaccination status is unknown. Please note that the form is designed for individual data collection and should not be used for group or bulk data collection.
-</thinking>
-
 # Vaccination Status And Verification Form - Help Guide
 ## Purpose
 This form is used to collect information on an individual's vaccination status and verification method.

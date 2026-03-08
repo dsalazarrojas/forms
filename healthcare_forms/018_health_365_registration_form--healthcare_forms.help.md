@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect basic information for patient registration, including name, contact details, medical condition, and other relevant information. The fields are designed to be as minimal and straightforward as possible for a smooth and efficient registration process. Before filling this form, please ensure that you are providing accurate and up-to-date information. This form should only be filled once, unless you have a valid reason to update your registration details. 
-
-</thinking>
-
 # Health 365 Registration Form - Help Guide
 ## Purpose
 The Health 365 Registration Form is a basic registration form designed to collect essential information from patients. It contains the following sections to gather details about the patient, medical conditions, and other relevant information.

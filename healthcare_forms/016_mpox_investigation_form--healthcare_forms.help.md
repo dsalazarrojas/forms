@@ -1,14 +1,3 @@
-<thinking>
-The Mpox Investigation Form is designed to collect information about Mpox cases, contacts, and investigations. To ensure that you are using this form correctly, please confirm that you are filling out this form for a legitimate Mpox case or contact. If you are unsure or have already filled out a similar form, please contact your supervisor or refer to our documentation for guidance.
-
-This form is used to track and investigate Mpox cases, and it is essential to provide accurate and complete information to aid in the investigation process.
-
-Note that some fields may be required, and you cannot submit the form without providing the necessary information. You will be prompted to provide details about the case or contact, including demographic information, symptoms, and case status.
-
-Before starting, please ensure that you have the necessary permissions and access to collect and enter the required information.
-
-</thinking>
-
 # Mpox Investigation Form - Help Guide
 ## Purpose
 The Mpox Investigation Form is designed to collect and track information about Mpox cases and contacts to aid in the investigation and management of the disease.

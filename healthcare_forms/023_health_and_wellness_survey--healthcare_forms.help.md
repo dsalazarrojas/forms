@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about a patient's health and wellness, including their medical professionals, health conditions, lifestyle habits, and healthcare coverage. 
-Before filling out this form, please note that the questions are designed to be as non-intrusive and non-invasive as possible. This form is meant to help healthcare providers understand the patient's situation, and is not intended to diagnose or treat any medical conditions.
-Please ensure that you have the necessary consent and approval to fill out this form, especially if you have a medical history or are seeking healthcare coverage.
-If you have filled out this form before, please do not fill it out again. The goal is to capture a comprehensive picture of your health and wellness over time.
-</thinking>
-
 # Health And Wellness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your health and wellness to help healthcare providers better understand your situation. Your answers will be used to create a comprehensive picture of your health and wellness, which will aid in providing you with more effective care.

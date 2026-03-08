@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Public Health SWOT Analysis Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "medicine_delivery_form" form, I will follow the provided instructions and the YAML structure of the form.
-
-The purpose of this form is to collect information from healthcare providers or patients regarding the delivery of medicines, which is a crucial part of patient care and management. This form is designed to capture details about the patient's identity, contact information, and the medication delivery schedule, including date, time, and address.
-
-Before filling out the form, please ensure that you have all the necessary information at hand to provide accurate and complete details. This form should not be used for multiple purposes or for sharing sensitive patient information.
-
-</thinking>
-
 # medicine_delivery_form - Help Guide
 ## Purpose
 The medicine_delivery_form is a form designed to collect information from healthcare providers or patients regarding the delivery of medicines as part of patient care and management.

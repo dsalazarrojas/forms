@@ -1,5 +1,3 @@
-<thinking> This form is likely used to obtain a waiver or consent from an individual or their legal representative for the use of a certain substance. The form would be completed by a medical professional or authorized individual, and the purpose is likely to establish a record of the waiver or consent for future reference or legal purposes. This form appears to be a comprehensive waiver form that captures various information, including the substance used, dosage instructions, medical conditions, medical history, and emergency contact information. To the best of my knowledge, there is no duplication of similar forms within our system.</thinking>
-
 # substance_usage_waiver - Help Guide
 
 ## Purpose

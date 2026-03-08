@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## # rehab_solutions_quote_request_form - Help Guide
 
 ## ## Purpose

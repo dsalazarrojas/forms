@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to register a new collaboration between agencies, research institutions, or non-profit organizations. It's a way to establish partnerships and share data for public health initiatives. Before filling out this form, please ensure that you're submitting from a valid organization and that the information provided is accurate and up-to-date. This form should not be used for personal or non-authorized collaborations. 
-</thinking>
-
 # Public Health Data Collaboration Registration Form - Help Guide
 ## Purpose
 This form is used to register a new collaboration between agencies, research institutions, or non-profit organizations for public health initiatives. It's essential to fill out this form accurately and truthfully to facilitate smooth data sharing and collaboration.

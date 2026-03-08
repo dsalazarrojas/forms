@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's emergency contact information in a residential community setting. The purpose of this form is to ensure that the community has up-to-date and accurate information about each resident's emergency contacts, in case of an emergency. This form should be completed by every resident who lives in the community.
-</thinking>
-
 # Residential Community Rules Acknowledgment - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an individual's emergency contact information in a residential community setting.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to assist in compensation band adjustments, allowing employees to request changes to their current compensation band. The form is intended for use by employees who wish to request a change to a higher or lower band due to exceptional performance, promotions, or other reasons. The form's purpose is to provide a structured and standardized process for requesting compensation band adjustments.
-
-It is assumed that the employee has reviewed and agrees to the terms and conditions outlined in the form's introduction and that the information provided will be used for internal HR purposes only. The form is not intended for use by external parties or for any other purpose.
-
-Before beginning, please ensure that you have reviewed the form's purpose and have a clear understanding of the information required to complete it. If you are unsure about any aspect of the form, please consult your HR representative for clarification.
-
-This guide is intended to provide a clear understanding of each field's purpose and requirements. Please read each section carefully and complete the form accordingly.
-
-</thinking>
-
 # Compensation Band Adjustment Form - Help Guide
 
 ## Purpose

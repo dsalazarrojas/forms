@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking and managing employee absences in a healthcare setting, such as a hospital or clinic. The purpose of this form is to gather information about an employee's absence, including the reason for their absence, dates of absence, and whether a medical certificate is required. This form is likely used by HR or administration staff to keep track of employee absences and ensure that necessary documentation is collected. There might be similar forms used in the organization, and the fields in this form should be reviewed carefully to prevent duplication of effort and ensure that the information is correctly captured.
-</thinking>
-
 # Health Screening Absence Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an employee's absence, including the reason for their absence, dates of absence, and whether a medical certificate is required.

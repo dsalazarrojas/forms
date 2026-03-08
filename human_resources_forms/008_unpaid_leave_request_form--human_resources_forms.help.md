@@ -1,11 +1,3 @@
-<thinking>
-  We will be creating a help guide for the "unpaid_leave_request_form" form that explains its purpose, how to complete it, and each field's meaning.
-  This form is used to submit an unpaid leave request from an employee.
-  This form should only be completed if an employee has not already submitted a leave request for the same date range.
-  The form should be completed by the employee who is requesting the leave.
-  Each field is explained below.
-</thinking>
-
 # unpaid_leave_request_form - Help Guide
 ## Purpose
 The "unpaid_leave_request_form" is used to submit an unpaid leave request from an employee.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to request authorization for an employee to work at a specific location. The form will be reviewed and approved by the manager and team lead before being completed. The form is used to track and manage work location requests.
 
 # Work Location Authorization Form - Help Guide

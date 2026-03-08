@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for part-time employees who are leaving the organization. It's used to document the details of their exit and help with the transition process. 
-This guide will walk the user through each field and explain what's required or optional in the process.
-
-To complete this form, please ensure you have all the necessary information about the part-time employee's situation ready. You can access the form from the "Human Resources" section.
-</thinking>
-
 # part_time_employee_offboarding_form - Help Guide
 ## Purpose
 This form is for part-time employees to provide their exit details, such as exit date, reason for leaving, and notice period, to ensure a smooth transition process.

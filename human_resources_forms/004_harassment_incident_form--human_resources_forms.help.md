@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents of harassment in the workplace. It is intended to gather details about the incident, including the date it occurred, its location, and a description of what happened. The form is for internal use by human resources personnel to document and investigate such incidents.
-</thinking>
-
 # Harassment Incident Form - Help Guide
 ## Purpose
 This form is used to document incidents of harassment in the workplace. Human resources personnel will use the information gathered here to investigate and address the incident.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for individuals who wish to register as home care aides. The form collects personal details such as first name, last name, email, phone number, and medical practice information. It also asks whether the individual is a caretaker or companion, a healthcare worker, and if they are a volunteer. This information is used to verify identity and categorize the individual's status in the home care context.
-</thinking>
-
 # Home Care Aide Registration Form - Help Guide
 
 ## Purpose

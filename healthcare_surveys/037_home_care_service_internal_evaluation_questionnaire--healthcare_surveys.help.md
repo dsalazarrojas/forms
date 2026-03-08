@@ -1,5 +1,3 @@
-<thinking>... The purpose of this form is to gather feedback on the Home Care Service Internal Evaluation Questionnaire from home care service teams. This form is intended to evaluate the quality of services provided by the teams, including overall satisfaction, communication, responsiveness, and reliability. It will also collect information about the types of services provided, the time of day or night that assistance is usually needed, and any issues or limitations experienced. This form will help home care service teams to identify areas of improvement and provide better services to their clients... </thinking>
-
 # Home Care Service Internal Evaluation Questionnaire - Help Guide
 ## Purpose
 The Home Care Service Internal Evaluation Questionnaire is designed to gather feedback from clients on the quality of services provided by home care service teams. This form will help teams identify areas of improvement and provide better services to their clients.

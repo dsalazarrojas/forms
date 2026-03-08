@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about hospitality events, allowing event managers to conduct audits and gather data on various aspects of an event, such as start and end dates, location, planner, and score. This form is likely used by hospitality professionals to evaluate event performance, identify areas for improvement, and provide feedback to event planners. Before proceeding, please ensure you have not already completed this form for the same event to avoid duplicating effort and ensuring consistency in your assessment.
-
-</thinking>
-
 # Hospitality Event Management Audit Form - Help Guide
 ## Purpose
 The Hospitality Event Management Audit Form is a tool used to gather information about hospitality events. It helps event managers assess various aspects of an event and provides valuable data for future improvements.

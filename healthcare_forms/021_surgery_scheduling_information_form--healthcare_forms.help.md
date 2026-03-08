@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I have reviewed the form and will provide a concise and practical help guide for end-users to understand the form's purpose, how to complete it, and a field-by-field explanation.
-
-The form is called the "Surgery Scheduling Information Form" and its purpose is to collect information from patients about their current medical status, allergies, medical history, and other relevant details for surgical procedures. This form will help healthcare professionals assess the patient's condition and prepare for the surgery.
-
-</thinking>
-
 # Surgery Scheduling Information Form - Help Guide
 ## Purpose
 The Surgery Scheduling Information Form is a crucial document that helps healthcare professionals assess the patient's condition and prepare for the surgery. Please complete the form accurately and thoroughly to ensure a smooth and successful surgical process.

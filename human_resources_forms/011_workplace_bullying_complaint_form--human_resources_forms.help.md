@@ -1,6 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Workplace Bullying Complaint Form, we need to consider the purpose of the form, how to complete it, and what each field means. The form's purpose is to provide a platform for employees to report incidents of workplace bullying, which is a serious issue that affects not only individual well-being but also the overall work environment. It is essential to approach this form with sensitivity and respect towards the employees who may be experiencing or witnessing bullying. To avoid duplication or irrelevant reports, it's crucial to ensure that users understand what kind of incidents qualify as bullying and how to fill out the form accurately. We should also consider that some fields might not be applicable in all cases, so it's vital to make that clear in the guidance.</thinking>
-
 # Workplace Bullying Complaint Form - Help Guide
 
 ## Purpose

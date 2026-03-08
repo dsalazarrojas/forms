@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess kidney health, and its purpose is to gather information about a patient's medical history, symptoms, and lifestyle habits. This form is likely used in a healthcare setting, such as a hospital or clinic, to gather data for research, diagnosis, or treatment purposes.
-</thinking>
-
 # Kidney Health Assessment Survey - Help Guide
 ## Purpose
 The Kidney Health Assessment Survey is designed to collect information about patients' medical history, symptoms, and lifestyle habits to help healthcare professionals assess their kidney health.

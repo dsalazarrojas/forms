@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather permission from patients to conduct telehealth consultations or share patient records with healthcare providers. The form ensures that patients have provided consent and healthcare providers have the necessary permissions to perform telehealth services. This form should only be used for telehealth consultations, and the healthcare provider's signature should be obtained from a licensed healthcare provider. If you are a non-licensed healthcare provider, you should not sign this form.
-</thinking>
-
 # Telehealth Permission Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the Army Interview Questionnaire form to ensure that end-users understand the purpose of the form, how to complete it, and what each field means. This will help users navigate the form smoothly and accurately provide their information.
-
-The form is a comprehensive questionnaire designed to gather information about an individual's personal and professional background, qualifications, and motivations for joining the Army. The form is divided into several sections, each focusing on a specific aspect of the individual's profile.
-
-The purpose of this form is to assess a candidate's suitability for joining the Army, ensuring that they possess the necessary qualifications, skills, and qualities required for military service. By completing this form, candidates will provide the Army with essential information about their background, skills, and motivations, which will help the Army make informed decisions about their potential for service.
-
-The form is designed to be user-friendly, with clear instructions and explanations for each field. Each section and field has been carefully crafted to gather specific information that will aid the Army in evaluating the candidate's potential for military service.
-
-To ensure accuracy and consistency, please review the form carefully before completing it, and do not hesitate to contact the Army if you have any questions or need clarification on any field.
-
-</thinking>
-
 # Army Interview Questionnaire - Help Guide
 ## Purpose
 The Army Interview Questionnaire is a comprehensive form designed to gather information about an individual's personal and professional background, qualifications, and motivations for joining the Army.

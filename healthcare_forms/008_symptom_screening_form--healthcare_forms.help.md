@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Symptom Screening Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # interdisciplinary_team_meeting_template - Help Guide
 ## Purpose
 The interdisciplinary_team_meeting_template form is designed to help teams schedule and document their meetings. It provides a structured format for capturing essential information about each team meeting, including date, start and end times, location, topic, and other relevant details.

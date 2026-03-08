@@ -1,9 +1,3 @@
-<thinking>
-
-This form was designed to collect feedback and awareness on healthcare privacy regulations from healthcare professionals, administrators, and patients. The form is not an actual healthcare survey, but rather an original adaptation inspired by the metadata of public surveys on this topic, and does not collect any actual data on real individuals or healthcare practices. This form is meant to be used for educational and testing purposes only.
-
-</thinking>
-
 # Healthcare Privacy Regulation Awareness Survey - Help Guide
 ## Purpose
 This guide is here to help you complete the Healthcare Privacy Regulation Awareness Survey form. Follow the instructions carefully to ensure you provide accurate and informative responses.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Occupational Therapy Progress Note Template - Help Guide
 
 ## Purpose

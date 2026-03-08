@@ -1,5 +1,3 @@
-<thinking>As an employee support program launch registration form, this form is designed to collect essential information from employees to initiate the Employee Support Program. The form is typically completed by the employee who is seeking support and is a critical step in the registration process. It serves as a record of the employee's application for support, ensuring that all necessary details are captured accurately. To avoid duplication, the form checks if the employee has already registered for the Employee Support Program. If an employee has already registered, the system will prevent them from completing the form again.</thinking>
-
 # Employee Support Program Launch Registration Form - Help Guide
 ## Purpose
 The Employee Support Program Launch Registration Form is used to register for the Employee Support Program. This form captures essential information about the employee, their job title, and program details. It also requires the approval of the approver and reviewer, ensuring that the employee's application is reviewed and validated before being activated.

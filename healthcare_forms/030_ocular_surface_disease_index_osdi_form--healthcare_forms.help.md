@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from patients about their ocular surface disease (OSD) symptoms and experiences. The form is likely used in a healthcare setting to aid in the diagnosis and treatment of OSD.
-
-To avoid duplication, the form is likely used by healthcare professionals to gather data for research, patient records, or treatment planning.
-
-Please ensure that the form is filled out accurately and completely, as the data will be used to provide the best possible care.</thinking>
-
 # Ocular Surface Disease Index (OSDI) Form - Help Guide
 ## Purpose
 The Ocular Surface Disease Index (OSDI) Form is a patient intake form used to collect information about ocular surface disease (OSD) symptoms and experiences.

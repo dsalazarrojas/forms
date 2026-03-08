@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to help healthcare professionals gather information about a patient's headache experiences, including symptoms, medications, triggers, and other relevant details. This form is likely used in a clinical setting to aid in diagnosis and treatment planning. Please ensure that this form is not being used for duplicate or unrelated purposes, and that the collected data will be used for its intended purpose.
-
-</thinking>
-
 # Headache Diary Form - Help Guide
 ## Purpose
 The Headache Diary Form is designed to collect information about a patient's headache experiences, helping healthcare professionals to better understand the patient's condition and provide more effective treatment.

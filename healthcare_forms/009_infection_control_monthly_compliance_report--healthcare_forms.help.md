@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, the Infection Control Monthly Compliance Report is a crucial document that helps track and manage infections in healthcare settings. This report is used to monitor and control infections, ensuring that patients receive the best possible care. The form is used to report incidents of infections, including their location, status, and follow-up dates. It also allows reviewers to provide oversight and commentary on these incidents. To complete this form effectively, ensure that you enter accurate and relevant information about each incident, including dates and descriptions. Additionally, be mindful of the required fields and options, as indicated in the form.</thinking>
-
 # Infection Control Monthly Compliance Report - Help Guide
 ## Purpose
 The Infection Control Monthly Compliance Report is a document used to monitor and control infections in healthcare settings. This report tracks incidents, including their location, status, and follow-up dates, ensuring that patients receive the best possible care.

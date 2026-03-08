@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to guide end-users through the process of completing the Severance Settlement Form, ensuring they understand its purpose, how to fill it out correctly, and what each field entails. This guide will be presented in a concise and practical manner, focusing on the provided YAML fields.
-
-The form is designed to capture information related to an employee's severance settlement, including their name, reason for departure, dates of out-date and termination, benefits, and payment terms. To ensure accurate and thorough completion, it is essential to review each field carefully. If you've used this form previously, please note that some details may have changed, so double-check each section.
-
-To determine if you've filled out this form before, please refer to your previous severance settlement records. This form should not be duplicated; each submission is a new record.
-
-</thinking>
-
 # Severance Settlement Form - Help Guide
 ## Purpose
 The Severance Settlement Form is used to document an employee's severance package details, including their name, reason for departure, dates, and payment terms. This helps ensure accurate and efficient processing of severance settlements.

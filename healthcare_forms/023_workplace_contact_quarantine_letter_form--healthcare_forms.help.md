@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from employers and healthcare providers to document the status of an employee's quarantine, providing a clear record of their health status, contact history, and any relevant procedures or symptoms. The purpose of this form is to help employers and healthcare providers communicate effectively with employees, ensuring a smooth and safe return to work.
-
-This form is intended for use in a workplace setting, specifically for employees who have been quarantined due to health concerns. It is not meant for personal or medical emergencies.
-
-Please note that this form does not store or process personal data. The information collected is for internal use only and will be used for administrative purposes.
-
-</thinking>
-
 # Workplace Contact Quarantine Letter Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employers and healthcare providers about an employee's quarantine status, including their health status, contact history, and any relevant procedures or symptoms.

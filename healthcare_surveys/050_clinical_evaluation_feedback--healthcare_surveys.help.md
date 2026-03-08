@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to gather feedback on the evaluation process used in clinical settings. It aims to assess various aspects of the evaluation, including the clarity of the process, fairness and objectivity, professionalism and respect from the evaluator, and the usefulness and specificity of feedback. The form is intended to be completed by clinical evaluators, and it will help them improve the evaluation process over time.
-</thinking>
-
 # Clinical Evaluation Feedback - Help Guide
 ## Purpose
 The Clinical Evaluation Feedback form is designed to collect information about the clinical evaluation process, allowing evaluators to assess its quality, fairness, and usefulness. This form helps evaluators identify areas for improvement and provide constructive feedback to ensure better evaluation processes in the future.

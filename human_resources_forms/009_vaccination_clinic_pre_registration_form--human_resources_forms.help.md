@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from patients prior to a vaccination clinic session. The purpose of this form is to gather necessary details about the patient's vaccination appointment, including their personal information, vaccination schedule, contact details, and any additional comments. 
-
-Before completing this form, please ensure that you have not already registered for a vaccination clinic session with this healthcare facility. 
-
-This form will be reviewed by healthcare professionals before the appointment, and the collected information will be used to prepare for the session.
-
-Form fields are divided into several sections, please read below for a detailed explanation of each field:
-
-</thinking>
-
 # vaccination_clinic_pre_registration_form - Help Guide
 
 ## Purpose

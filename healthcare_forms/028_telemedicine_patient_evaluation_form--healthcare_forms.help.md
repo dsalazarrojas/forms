@@ -1,10 +1,3 @@
-<thinking>
-We will create a help guide for the "Telemedicine Patient Evaluation Form". This form is used to gather essential information about patients, including their name, medical history, symptoms, medication allergies, medical conditions, treatment goals, medication side effects, and medical history. This form is designed to be completed by patients, and its fields are intended to guide the patient in providing accurate and comprehensive information about their health. We will review the form's purpose and ensure that it is not duplicating any other form in the organization.
-
-Before filling out this form, please ensure that you have read this guide carefully. If you have any doubts or concerns, do not hesitate to reach out to our support team.
-
-</thinking>
-
 # Telemedicine Patient Evaluation Form - Help Guide
 ## Purpose
 

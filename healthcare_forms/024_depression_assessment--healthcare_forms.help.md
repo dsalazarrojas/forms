@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Depression Assessment" form, we need to understand the purpose of the form and how users can complete it. The form appears to be a survey designed to assess various aspects of a person's mental health, specifically in relation to depression. It includes questions about feelings and experiences related to sadness, hopelessness, burden, and episodes of depression. The form seems to be a tool for healthcare professionals to gather information about the patient's mental state.
-
-Before proceeding, let's confirm that this form is relevant to the user's needs and not a duplicate of any other existing form. Assuming it is, we can now create a help guide for the form.
-
-</thinking>
-
 # Depression Assessment - Help Guide
 ## Purpose
 The Depression Assessment form is a survey designed to help healthcare professionals understand your mental health. It will ask you questions about your feelings, experiences, and behaviors related to depression. Please answer these questions honestly, and the information you provide will help your healthcare provider better understand your needs.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to healthcare communication research applications. This form serves as a comprehensive tool to gather and track applications, review process, and associated communication channels. To avoid duplication and ensure accuracy, please note that this form is meant to be filled out only once for each unique research application.
-
-The form's purpose is to facilitate efficient tracking and management of research applications and communications within the healthcare domain. It includes fields for applicant information, research details, and communication channels. To avoid confusion, each field is designed to capture specific relevant data points, and some fields are mandatory to ensure data completeness and consistency.
-
-Before proceeding, take a moment to review the form layout and ensure that you have all the necessary information to complete it. If you are unsure about any field or section, refer to the provided guidance below.
-
-</thinking>
-
 # Healthcare Communication Research Application Form - Help Guide
 
 ## Purpose

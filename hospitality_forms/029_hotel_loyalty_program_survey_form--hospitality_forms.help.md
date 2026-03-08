@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from guests about their loyalty program participation, contact details, and preferences. The primary objective is to understand customer satisfaction and preferences to improve hotel services. Before answering the questions, please ensure you haven't filled this form previously, as we'll use the data to identify recurring patterns and optimize our services. If you're a member of the hotel's loyalty program, you might find some questions relevant and interesting! If not, feel free to skip or answer based on your current or past experiences.</thinking>
-
 # Hotel Loyalty Program Survey Form - Help Guide
 ## Purpose
 This form aims to collect information about your experience and preferences related to our hotel's loyalty program, to help us better serve you and our other guests.

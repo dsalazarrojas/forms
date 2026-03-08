@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to upload photos related to holiday parties. The purpose of this form is to gather information and media about holiday parties. The form should only be used for holiday parties and not for other events. Please ensure that you are using this form correctly to avoid duplication of effort. If you have already used this form for a holiday party, you should not use it again. This form is intended to capture a specific type of information and should only be submitted once per holiday party.
-</thinking>
-
 # Holiday Party Photo Upload - Help Guide
 ## Purpose
 The Holiday Party Photo Upload form is designed to allow users to upload photos related to holiday parties. This form gathers information and media about holiday parties to capture memories and share with others.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 International Health Certificate Exam Application Form - Help Guide
 =============================================
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for HR personnel to document the process of assigning or promoting E-Learning Specialists within the organization. The purpose of this form is to collect information about the candidate's qualifications, experience, and availability for E-Learning roles. This form will help HR to assess the candidate's fit for the position and make informed decisions. Please note that this form is not intended to be a comprehensive evaluation tool but rather a quick reference point for HR to start the process of identifying suitable candidates. It is essential to ensure that each form is completed accurately and in a way that is relevant to the specific job requirements and organizational needs. Before proceeding, please verify that this form is not already filled out for the same candidate or that you are not duplicating effort. If you are unsure, please check with the HR department to confirm the current status of the candidate.
-</thinking>
-
 # E Learning Specialist Interview Form - Help Guide
 ## Purpose
 The E Learning Specialist Interview Form is a tool used by HR personnel to document the process of assigning or promoting E-Learning Specialists within the organization.

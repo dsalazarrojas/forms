@@ -1,7 +1,3 @@
-<thinking>
-We need to create a comprehensive user-facing help guide for the Employee Happiness Survey form that explains its purpose, how to complete it, and what each field means to ensure end-users understand the form's significance and requirements. The form's purpose is to gather feedback and sentiment from employees about their job satisfaction, happiness, and overall well-being, which can help management identify areas of improvement and implement policies to enhance employee happiness. This form will be used to collect data about employee's general information, manager's name, department, employee's name, job title, job description, job grade, job status, work location, job level, job type, work status, team, and other related details. This form will help in creating a positive work environment and increase employee engagement.
-</thinking>
-
 # Employee Happiness Survey - Help Guide
 ## Purpose
 

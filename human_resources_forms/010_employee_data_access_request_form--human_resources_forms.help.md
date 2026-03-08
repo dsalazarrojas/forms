@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for employees to request access to sensitive data related to their own employment history. This form is intended for internal use and should only be filled out by employees themselves. To avoid duplication, please do not fill out this form if you have already submitted one in the past.
-
-</thinking>
-
 # employee_data_access_request_form - Help Guide
 ## Purpose
 The employee data access request form is used by employees to request access to their own employment history data.

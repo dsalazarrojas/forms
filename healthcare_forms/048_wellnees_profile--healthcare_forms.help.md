@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Wellnees Profile" form that helps users complete it in a way that makes sense. Before we dive into the guide, let's quickly review the form's purpose and required fields.
-
-The purpose of this form is to collect user information for healthcare professionals, specifically their well-being and medical profile. While we can't determine the exact purpose without more context, we'll make some educated guesses based on the provided YAML fields. Let's assume this form collects information like name, email, date of birth, medical license, specialty, contact number, and medical school. We will also assume that "specialty" is a required field.
-
-The form has 8 fields, but only 1 field is required, which is "specialty". The other fields are optional. We'll guide the user through each field to ensure they understand what information is needed and how to complete it correctly.
-
-</thinking>
-
 # Wellnees Profile - Help Guide
 ## Purpose
 The "Wellnees Profile" form is used to collect information about healthcare professionals, specifically their well-being and medical profile. This form is designed to help us better understand your background and qualifications.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "golds_gym_dc_metro_par_q". The form is likely used in a healthcare setting, possibly for scheduling appointments or medical consultations. The form collects various personal and medical information from users, including their name, contact details, and medical condition. The purpose of the form is to gather relevant information from users to facilitate efficient and effective medical care. To avoid duplication, we should ensure that users understand the form's purpose and usage correctly, which will help prevent unnecessary submissions or incorrect data entry. We should also verify that the form is not used for any other purpose than its intended use in the healthcare setting.
-</thinking>
-
 # golds_gym_dc_metro_par_q - Help Guide
 ## Purpose
 The purpose of this form is to gather personal and medical information from users for efficient and effective medical care in a healthcare setting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect participant consent and demographic information for social research publications. The purpose of this form is to gather data from participants to help researchers better understand the impact of social health research. This form will be used to collect contact information (name, email, phone), demographic information (first name, last name), and publication status (consent status, story title). To ensure accurate completion, please make sure to review the form carefully. 
-</thinking>
-
 # social_health_research_story_publication_consent_form - Help Guide
 ## Purpose
 This form is used to collect participant consent and demographic information for social research publications. It is a required form for participants to provide their details and status of publication.

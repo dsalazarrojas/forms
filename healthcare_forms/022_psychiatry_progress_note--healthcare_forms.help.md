@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, the Psychiatry Progress Note form is an essential tool for recording and tracking patient information. Before starting, please note that this form is intended for general use and should be customized according to your organization's specific policies and procedures. To ensure accuracy and consistency, please review the form carefully and only fill it out for patients with whom you have a valid doctor-patient relationship. Also, please be aware that this form is not intended for use in emergency situations or as a substitute for in-person consultations.</thinking>
-
 # Psychiatry Progress Note - Help Guide
 ## Purpose
 The Psychiatry Progress Note form is designed to record and track the progress of patients with mental health conditions. It helps healthcare professionals to document the patient's current mental state, treatment plan, and follow-up appointments.

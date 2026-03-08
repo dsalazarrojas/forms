@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for therapy collaboration between clients and clinicians. The purpose of this form is to gather essential information from the client and clinician, including contact details, consent, and other relevant information for therapy collaboration. To ensure accuracy and consistency, please complete this form carefully and thoroughly.
-
-</thinking>
-
 # Therapy Collaboration Consent Form - Help Guide
 ## Purpose
 The Therapy Collaboration Consent Form is used to gather essential information from clients and clinicians for effective therapy collaboration.

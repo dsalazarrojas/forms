@@ -1,8 +1,4 @@
-> <thinking>
-This form is used to evaluate and document a healthcare facility's accessibility plan. It gathers information on the accessibility features and services provided by the facility, and asks for feedback and patient satisfaction. The data collected will help healthcare providers understand their accessibility strengths and weaknesses, identify areas for improvement, and make informed decisions about future facility development.
-</thinking>
-
-# healthcare_accessibility_plan_evaluation_form - Help Guide
+> # healthcare_accessibility_plan_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate a healthcare facility's accessibility plan, gathering information on accessibility features and patient feedback.
 

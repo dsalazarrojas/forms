@@ -1,12 +1,3 @@
-<thinking>
-As a seasoned form designer and technical writer, I understand that creating a comprehensive help guide for a form is crucial for users to complete it effectively. In this case, the Recruitment Submission Form is a crucial tool for collecting information about job openings.
-
-Before diving into the guide, I'd like to emphasize that this form is designed to gather data about various aspects of a job posting, including the candidate name, job title, job description, work experience, education, and other relevant details. The form is likely to be used by HR or recruitment teams to streamline the hiring process and ensure consistency in the data collected.
-
-To prevent duplication of effort, it's essential to ensure that only one submission is made for each job opening. To avoid duplication, users should check the form carefully before submitting it, ensuring that they've filled in all required fields and haven't made any unnecessary submissions.
-
-</thinking>
-
 # Recruitment Submission Form - Help Guide
 ## Purpose
 The Recruitment Submission Form is designed to collect comprehensive information about job openings, including job title, description, work experience, education, and other relevant details. This form helps HR or recruitment teams streamline the hiring process and ensure consistency in the data collected.

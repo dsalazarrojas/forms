@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order medical equipment for hospice care. It is crucial that the patient's information is accurate and up-to-date to ensure the best possible treatment and care for them. Before proceeding, please check that the form is filled out completely and accurately, and that you have not filled out this form previously. If you have any questions or concerns, please reach out to the medical team.
-</thinking>
-
 # Hospice Medical Equipment Order Form - Help Guide
 ## Purpose
 This form is used to order medical equipment for hospice care. It is crucial that the patient's information is accurate and up-to-date to ensure the best possible treatment and care for them.

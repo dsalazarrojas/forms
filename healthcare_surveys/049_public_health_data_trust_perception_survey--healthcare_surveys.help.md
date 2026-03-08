@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Public Health Data Trust Perception Survey" is designed to gauge the trust and concerns related to data in the public health sector. This survey aims to understand how individuals perceive and interact with public health data, which is crucial for improving data trust and security in the sector.
-
-To avoid duplicating efforts, this survey should not be filled out if a similar survey has been completed in the past.
-
-</thinking>
-
 # Public Health Data Trust Perception Survey - Help Guide
 ## Purpose
 This survey is designed to gauge the trust and concerns related to data in the public health sector. Your input will help us understand how individuals perceive and interact with public health data, which is crucial for improving data trust and security in the sector.

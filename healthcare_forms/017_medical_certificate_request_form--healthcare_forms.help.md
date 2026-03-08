@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the Medical Certificate Request Form, let's start by considering the form's purpose and how it will be used. The form is likely used to request medical certificates for patients, and it will require various information from the user. 
-
-This form is probably used in a healthcare setting, where medical professionals need to provide documentation for patients' medical conditions or treatments. The form should be clear and easy to understand for end-users, including patients, healthcare providers, and administrators.
-
-Before we begin creating the help guide, let's quickly review the form's sections and fields to confirm we're covering all the necessary information.
-
-</thinking>
-
 # Medical Certificate Request Form - Help Guide
 ## Purpose
 The Medical Certificate Request Form is used to request medical certificates for patients. This form will help healthcare providers collect and document necessary information for medical certification.

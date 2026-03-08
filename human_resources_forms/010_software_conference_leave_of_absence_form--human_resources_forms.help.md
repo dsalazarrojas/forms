@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to submit a leave of absence request for attending a software conference. This form captures the necessary details to process the request, including the conference information, employee details, dates of absence, reason for leave, and any additional notes. Please note that this form is not affiliated with or endorsed by any specific platform or organization.
-To ensure accurate processing, please complete the form accurately and thoroughly. If you have already submitted a request for the same conference, please do not resubmit. This form should only be used for new requests.
-</thinking>
 # Software Conference Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed for employees to submit a leave of absence request for attending a software conference. It captures necessary details to process the request, including conference information, employee details, dates of absence, reason for leave, and additional notes.

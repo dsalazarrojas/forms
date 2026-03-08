@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to create or update "Healthcare Forms" with a unique identifier and description, which will be associated with a specific tool. It's crucial to provide accurate and clear information in the form fields to ensure successful form creation or modification.
-</thinking>
-
 # formulachallengemgl - Help Guide
 ## Purpose
 The "Formulachallengemgl" form is used to create or update healthcare forms with a unique identifier and a description associated with a specific tool.

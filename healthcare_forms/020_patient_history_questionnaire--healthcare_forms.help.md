@@ -1,7 +1,3 @@
-<thinking>
-The patient history questionnaire is used to collect comprehensive information about a patient's medical history, including their identification, medical history, medication usage, allergies, chief complaint, and additional medical history details. This form helps healthcare providers to gather necessary information for accurate diagnosis and treatment. It's essential to fill out the form completely and accurately to ensure that the patient's medical history is well-documented.
-</thinking>
-
 # patient_history_questionnaire - Help Guide
 ## Purpose
 The patient history questionnaire is used to collect comprehensive information about a patient's medical history.

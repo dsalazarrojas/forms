@@ -1,6 +1,3 @@
-<thinking>
-This form is used for remote employee offboarding, which is the process of officially ending an employee's employment with the company while they are not physically present in the office. The form gathers information about the employee's last day of service, reason for departure, benefits, and other relevant details to ensure a smooth transition. This form is typically filled out by HR or management personnel.
-</thinking>
 # remote_employee_offboarding_form - Help Guide
 ## Purpose
 The remote_employee_offboarding_form is used to collect information about an employee's departure from the company. This form helps to document the reason for leaving, last day of service, and other important details to facilitate a successful offboarding process.

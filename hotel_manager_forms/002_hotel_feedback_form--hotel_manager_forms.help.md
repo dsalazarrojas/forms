@@ -1,11 +1,3 @@
-<thinking>
-We want to collect feedback from guests on their experiences in our hotel. This form will allow us to understand what we're doing well and where we can improve. To ensure that each guest has a unique feedback, we will check for duplication by IP address before saving the feedback.
-
-We want to keep the form simple and straightforward, with clear fields that guide the guest through the process. 
-
-We will be analyzing the feedback to identify patterns and trends, so please answer the questions as honestly and thoroughly as possible.
-</thinking>
-
 # Hotel Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from hotel guests, allowing us to understand their experiences and identify areas for improvement. Each guest's feedback is checked for duplication to prevent multiple submissions from the same person.

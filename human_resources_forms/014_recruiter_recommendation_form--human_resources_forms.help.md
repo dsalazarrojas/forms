@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from users on the effectiveness of a recruiter in finding a job for them. It is meant to be filled out by the user after a job interview or a meeting with the recruiter. The form is not necessarily tied to a specific job opening, so users can fill it out with any recruiter they have interacted with. The feedback will help us understand how well our recruiters are doing and identify areas for improvement.
-
-To fill out this form, please follow the instructions below.
-
-</thinking>
-
 # Recruiter Recommendation Form - Help Guide
 ## Purpose
 This form is used to collect feedback from users on the effectiveness of a recruiter. It is meant to be filled out by the user after a job interview or a meeting with the recruiter.

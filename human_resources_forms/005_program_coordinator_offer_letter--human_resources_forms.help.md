@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "program-coordinator-offer-letter" form. This guide will cover the purpose of the form, step-by-step instructions on how to complete it, and a detailed explanation of each field. I will follow the provided YAML structure and ensure that the explanations are concise, concrete, and practical.</thinking>
-
 # program-coordinator-offer-letter - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-The Emergency Medicine Residency Evaluation Form is designed to collect feedback and assessment data from evaluating officers on the performance and competencies of medical residents during their emergency medicine residency program. This form is used to evaluate the resident's technical and professional skills, as well as their ability to work effectively under pressure and make sound judgments in high-stress emergency situations. This form helps the program directors and evaluation officers to identify areas of strength and weakness for improvement and make informed decisions on resident promotions and further educational needs.
-
-</thinking>
-
 # Emergency Medicine Residency Evaluation Form - Help Guide
 ## Purpose
 This form is used by evaluating officers to assess the performance and competencies of medical residents during their emergency medicine residency program. It helps identify areas of strength and weakness for improvement.

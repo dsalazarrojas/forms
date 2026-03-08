@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visitation Attestation Form - Help Guide
 ## Purpose
 The Visitation Attestation Form is designed to verify the details of patient visits, ensuring that accurate records are kept for patient care and billing purposes. This form captures essential information about patients, including their name, visit date, location, and interaction with staff members.

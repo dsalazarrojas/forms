@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from hotel guests, including their personal details, contact information, and booking data. This form is likely used by hotel managers or staff to update guest records or prepare for guest arrivals.
-To complete this form, follow these steps:
-
-1.  Ensure you have the necessary information ready, as some fields are required.
-2.  Enter your first name in the "First Name" field.
-3.  Enter your last name in the "Last Name" field.
-4.  Enter your email address in the "Email" field (ensure it is in a valid format).
-5.  Enter your phone number in the "Phone" field.
-6.  Choose the date you will check in with the "Checkin Date" field.
-7.  Choose the date you will check out with the "Checkout Date" field.
-8.  Select your country from the "Country" dropdown (yes or no, indicating whether you have a connection or no).
-9.  Select the type(s) of room you will occupy from the "Room Type" dropdown (yes or no, indicating availability).
-10. Enter any assigned tool or equipment in the "Assigned Tool" field.
-</thinking>
 # Guest Registration Form - Help Guide
 ## Purpose
 The Guest Registration Form is used by hotel staff to collect information from arriving guests, ensuring accurate records and a smooth check-in process.

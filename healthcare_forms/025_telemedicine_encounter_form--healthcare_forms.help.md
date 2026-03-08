@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for telemedicine encounters, which are online consultations between patients and healthcare providers. This form is intended for healthcare providers to document the details of these virtual sessions. To avoid duplication of effort, please ensure that this form is not used for other purposes.
-</thinking>
-
 # Telemedicine Encounter Form - Help Guide
 ## Purpose
 This form is used to record the details of a patient's telemedicine encounter, including patient information, session details, and other relevant data.

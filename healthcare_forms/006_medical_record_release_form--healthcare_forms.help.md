@@ -1,7 +1,3 @@
-<thinking>
-The Medical Record Release Form is a document used to request access to a patient's medical records from a healthcare provider. This form is typically used when a patient wants to share their medical information with a third party, such as an insurance company or a family member. The form is usually completed by the patient or their representative and submitted to the healthcare provider for review and approval.
-</thinking>
-
 # Medical Record Release Form - Help Guide
 ## Purpose
 The Medical Record Release Form is a document used to request access to a patient's medical records from a healthcare provider.

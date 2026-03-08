@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Member Engagement Survey - Help Guide
 
 ## Purpose

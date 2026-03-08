@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about a client's aesthetics concerns and lifestyle habits that may impact their skin health. By completing this form, the client will be assessed for potential areas that may benefit from treatment, allowing the aesthetician to create a personalized plan to address their concerns.
-This form is designed to be completed by the client themselves, without the need for guidance or consultation. Please answer all questions honestly and thoroughly to provide the most accurate information.
-</thinking>
-
 # Aesthetics Supplementary Assessment - Help Guide
 
 ## Purpose

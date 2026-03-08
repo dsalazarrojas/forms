@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a patient's medical history, including personal details, medical history, physical examination, allergies and medications, social history, and family medical history. This form may be used by healthcare professionals to collect comprehensive data on a patient's health status. It is not intended for use in high-stakes or clinical trial settings, and the fields and options provided should not be considered a substitute for professional medical judgment. Please ensure that the form is reviewed and approved by relevant medical professionals before use in any setting.
-</thinking>
-
 # Medical History And Physical Examination Form - Help Guide
 ## Purpose
 This form is used to collect comprehensive data on a patient's medical history, including personal details, medical history, physical examination, allergies and medications, social history, and family medical history.

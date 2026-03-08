@@ -1,17 +1,3 @@
-<thinking>
-This form is likely used to collect information for patients who are nearing the end of their life, providing caregivers and medical staff with necessary information to offer support. It may be used in hospice care, hospices, or other healthcare settings. This form is used to gather details about the patient's current condition and medical history, ensuring that their needs are met during this sensitive time.
-
-This form is not intended to collect redundant or duplicative information. Please ensure you are only filling out one form per patient.
-
-Please note that the following fields must be filled out for the form to be considered valid:
-* Date of Death
-* Date Of Death Reported
-* Patient ID Number
-
-This form can be completed on a single page.
-
-</thinking>
-
 # End Of Life Support Survey - Help Guide
 ## Purpose
 This form is used to collect information about patients who are nearing the end of their life, enabling healthcare providers to offer appropriate support and care.

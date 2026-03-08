@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for employees to provide feedback on the office organization. The feedback will likely be used to identify areas for improvement and to make data-driven decisions for office space and resource allocation. Before providing an example help guide, let me first explain that each field is designed to gather specific information to assess the overall satisfaction with office space and resources. The form will likely be used by office managers or decision-makers.
-
-</thinking>
-
 # office_organization_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from employees on the office organization, including space and resource satisfaction. This feedback will help office managers to understand the needs and concerns of employees and make data-driven decisions for office space and resource allocation.

@@ -1,17 +1,3 @@
-<thinking>
-
-This help guide is intended to assist individuals in completing the "Access To Affordable Care Perception Survey" form. This form is designed to gather insights on individuals' experiences and perceptions of accessing healthcare services. To ensure the accuracy and relevance of the responses, it is crucial to understand the purpose and scope of the survey, as well as the intended use of the collected data. 
-
-The survey's primary goal is to gather information on various aspects of healthcare access, including age, income, insurance coverage, geographic location, and other factors influencing access to healthcare services. This data will be used to identify areas of improvement and inform policies to enhance accessibility and affordability of healthcare.
-
-Before proceeding, please consider the following:
-
-* Ensure you have a genuine interest in sharing your opinions and experiences regarding healthcare access.
-* Be aware that your responses will be used for research and data analysis purposes only.
-* Please do not answer if you have already completed this survey previously.
-
-</thinking>
-
 # Access To Affordable Care Perception Survey - Help Guide
 ## Purpose
 

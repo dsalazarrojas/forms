@@ -1,13 +1,3 @@
-<thinking>
-
-This guide will cover the Pregnancy and Development Survey form, a crucial tool for tracking and understanding pregnancy-related data. Before diving into the form's specifics, it's essential to note that this guide assumes a basic understanding of healthcare terminology and survey concepts. If you're not familiar with these terms, please refer to external resources for a more in-depth understanding.
-
-This guide will cover the purpose and use of the Pregnancy and Development Survey form. To ensure accuracy and consistency, please review each field carefully and answer questions truthfully to the best of your ability.
-
-To ensure non-duplication of data, please fill out this form for each unique pregnancy case or individual.
-
-</thinking>
-
 # Pregnancy And Development Survey - Help Guide
 ## Purpose
 The Pregnancy and Development Survey is designed to gather information about pregnancy, birth, and postnatal data. This form will help healthcare professionals track and analyze pregnancy-related data, enabling them to better understand pregnancy development and outcomes. The data collected will help in improving maternal and newborn care, as well as inform public health policies and research.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's insurance policy, including contact information, medical history, policy details, and provider information. Before filling out this form, please ensure that you are authorized to do so and that the information you provide is accurate and up-to-date. If you are unsure about any of the questions or fields, please contact your healthcare provider or supervisor for guidance.
-</thinking>
-
 # Insurance Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about a patient's insurance policy, including their contact information, medical history, policy details, and provider information.

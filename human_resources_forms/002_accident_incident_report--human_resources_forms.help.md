@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Accident Incident Report" form, we need to consider the purpose and requirements of the form. This form is used to report accidents or incidents that occur in the workplace, and its primary purpose is to document and track such events. The form is likely to be used by HR or management to gather information about incidents, assess their severity, and take follow-up actions to prevent recurrence.
-
-The form is designed to gather detailed information about the incident, including the date and time it occurred, the location, the individuals involved, and a clear description of what happened. It also asks about any injuries sustained, first aid or emergency response actions taken, and property damage. Furthermore, the form includes questions about the incident's severity, whether external authorities were notified, and the recommended follow-up actions. The form's completion requires a thorough and accurate description of the incident, including witness information and any other relevant details.
-
-</thinking>
-
 # Accident Incident Report - Help Guide
 ## Purpose
 The Accident Incident Report form is used to document and track workplace accidents or incidents. It gathers information about the incident, its severity, and recommended follow-up actions to prevent recurrence.

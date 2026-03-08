@@ -1,7 +1,3 @@
-<thinking>
-We should create a form that collects information about a candidate's skills and experience for hiring purposes. This form should ensure that the candidate has a first name, last name, and a valid phone number and email address. Additionally, we should get an indication of whether the candidate has a bachelor or masters degree. We should also ask about the candidate's skills, which can be multiple selected from a predefined list. We should check for non-duplication and relevance before proceeding. This form is primarily meant for internal use, so we should keep the language and tone clear and concise for easy understanding by end-users.
-</thinking>
-
 # Tech Industry Candidate Skills Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate's skills and experience for hiring purposes. It helps us to assess a candidate's suitability for our tech industry job openings. Please fill out this form to provide us with accurate and up-to-date information about your background.

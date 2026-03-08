@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information for a home health supply order. The purpose of the form is to collect patient information, order details, payment information, and other relevant details required for the home health supply order. The form is likely used in a healthcare setting, such as a hospital or medical facility, to ensure accurate and efficient ordering of health supplies for patients.
-
-To avoid duplication and ensure correct completion of the form, it is essential to carefully review each field and its corresponding instructions.
-
-The form has multiple pages, but the main sections include patient information, order details, payment information, and billing and shipping addresses. Each section has its own fields, which are explained below.
-
-</thinking>
-
 # home_health_supply_order_form - Help Guide
 ## Purpose
 The home health supply order form is used to collect patient information, order details, payment information, and other relevant details required for the home health supply order.

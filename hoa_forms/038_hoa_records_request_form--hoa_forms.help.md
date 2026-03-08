@@ -1,7 +1,3 @@
-<thinking>
-This form is used by homeowners and other stakeholders to request various records from the HOA. The purpose of this form is to collect the necessary information to facilitate the record request process. This form should not be used for other purposes. Please ensure that you are using this form for its intended purpose.
-</thinking>
-
 # HOA Records Request Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information on mental wellness among staff members in a healthcare setting. The purpose of this survey is to assess the mental wellness of staff members, identifying areas where they may be experiencing stress, burnout, or other concerns that can impact their well-being. This information will be used to inform interventions and support initiatives that can help improve the mental health of staff.
-Before filling out this form, please take a moment to read the purpose of this survey to ensure it is relevant to your situation.
-</thinking>
-
 # Mental Wellness Among Staff Survey - Help Guide
 ## Purpose
 This survey aims to understand the mental wellness of staff members in a healthcare setting, identifying areas where they may be experiencing stress, burnout, or other concerns that can impact their well-being.

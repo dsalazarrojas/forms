@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about incidents that occur in a dental office, including their nature, location, and outcomes. This form will be used to document and review incidents to help identify root causes and take corrective action to prevent similar incidents in the future. It's essential to ensure that all relevant information is accurately reported to maintain a safe and efficient work environment. 
-
-This form is designed to be completed by staff members or authorized personnel. Please ensure that you are filling out this form accurately and thoroughly, and that all fields are completed to the best of your ability. 
-
-If you are unsure about the nature of the incident or the relevance of any information, please consult with your supervisor or HR representative before submitting the form.
-
-Before starting, make sure to review the form to understand what information is required for each field. This guide will walk you through the process step-by-step.
-
-</thinking>
-
 # Dental Office Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to document and report incidents that occur in the dental office, including incidents involving patients, staff, or third parties.

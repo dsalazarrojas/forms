@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or caregivers about the symptoms exhibited by a child. 
-The form is meant to be filled out in conjunction with a healthcare professional, and its primary purpose is to aid in the assessment and diagnosis of common pediatric symptoms. 
-This form should not be used as a substitute for medical diagnosis. 
-Please ensure that you fill out the form accurately and thoroughly, and consult with a healthcare professional if you are unsure about any of the symptoms or their severity.
-</thinking>
-
 # Pediatric Symptom Checklist - Help Guide
 ## Purpose
 This form is designed to gather information from parents or caregivers about the symptoms exhibited by a child in order to aid in the assessment and diagnosis of common pediatric symptoms with the help of a healthcare professional.

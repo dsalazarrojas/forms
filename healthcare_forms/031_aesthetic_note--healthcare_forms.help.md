@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Aesthetic Note" form, we'll first consider the form's purpose and the requirements for its completion. The "Aesthetic Note" form is designed to capture essential information related to aesthetic medical procedures. It includes fields for patient details, skin analysis, treatment details, and post-procedure follow-up plans. 
-
-The form is intended to be completed by medical professionals, particularly aesthetic practitioners, to record and document patient information and treatment outcomes. To ensure the form is completed accurately, it's crucial to understand the purpose and relevance of each field.
-
-Before proceeding, let's consider a few essential questions:
-- Is the form meant to be completed for a specific type of aesthetic procedure or as a general template?
-- Are there any specific medical or regulatory requirements that must be adhered to while completing this form?
-- Can some sections be skipped or filled out differently depending on the patient's situation or the practitioner's preference?
-
-These questions will help us create a guide that's more focused and useful to the users who will be handling the form. However, for the sake of this exercise, we'll proceed with the provided information to create a comprehensive help guide that covers the form's purpose, how to complete it, and explanations of each field. Let's assume the form is meant for general use in aesthetic medical procedures and that the fields are to be filled as instructed.
-
-</thinking>
-
 # Aesthetic Note - Help Guide
 
 ## Purpose

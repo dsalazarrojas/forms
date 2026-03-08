@@ -1,12 +1,3 @@
-<thinking>
-This form is used to conduct a thorough home security survey. This form is designed to assess the presence of security risks in a home and determine if there are any security measures in place to mitigate them. The form is meant to be completed by a home inspector, who will be collecting information about the client's contact information, the security risks and measures present in the home, and any comments or suggestions for improvement. The inspector will also be required to sign the form, indicating that they have conducted the inspection and reviewed the results.
-
-The form is intended to be used by home inspectors to gather information about the security risks and measures present in a home, and to provide a clear and concise way of documenting their findings.
-
-This guide will walk you through each section of the form, explaining each field and its purpose, to ensure that the form is completed accurately and efficiently.
-
-</thinking>
-
 # Home Security Survey - Help Guide
 ## Purpose
 This form is used to conduct a thorough home security survey. The survey aims to assess the presence of security risks in a home and determine if there are any security measures in place to mitigate them.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Work Life Balance Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate an employee's work-life balance. It is used to assess their overall balance between work and personal life, including communication, support, and engagement. This form helps management and HR teams to understand each employee's current state and make informed decisions to support their well-being and productivity.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Provider Referral Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for end-users who will be completing the Medical Innovation Awareness Survey.
-The purpose of this form is to collect information on medical innovation awareness, familiarity, and engagement. It appears that the form is designed to capture a range of responses, including familiarity with various options, attitudes towards certain categories, sources of information, and demographic data (healthcare organizations, researchers, health technology, etc.). However, it seems that the form might be redundant or contain some fields that are not necessary, such as 'survey_title2' and 'submission_time'. The form is likely used to gather data for internal or external research purposes.
-
-To provide a comprehensive help guide, I will include explanations for all fields, regardless of their potential redundancy.
-</thinking>
-
 # Medical Innovation Awareness Survey - Help Guide
 ## Purpose
 The Medical Innovation Awareness Survey is designed to gather information on your awareness and familiarity with various medical innovation topics. This survey is intended for your convenience, and your participation is voluntary.

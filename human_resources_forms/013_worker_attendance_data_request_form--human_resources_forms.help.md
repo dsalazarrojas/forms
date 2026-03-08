@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request attendance data from the worker. 
-Before proceeding, please note that you are only able to submit one request at a time. If you have already submitted a request, it will not be duplicated. 
-</thinking>
 # Worker Attendance Data Request Form - Help Guide
 ## Purpose
 The Worker Attendance Data Request Form is used to gather attendance information from workers. This form is designed to be used when you need to know if a worker is present or absent on a specific date and time.

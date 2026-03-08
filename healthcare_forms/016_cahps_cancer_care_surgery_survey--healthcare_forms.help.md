@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CAHPS Cancer Care Surgery Survey - Help Guide
 ## Purpose
 The CAHPS Cancer Care Surgery Survey is a patient feedback form designed to measure the quality of care provided during a cancer surgery experience. The survey aims to gather information about the patient's experience with the care team, hospital facilities, and overall satisfaction with the surgery process.

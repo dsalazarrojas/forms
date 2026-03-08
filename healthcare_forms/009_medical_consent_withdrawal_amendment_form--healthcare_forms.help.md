@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a simple registration form used in a healthcare setting, possibly for patients or visitors. The form likely serves to collect basic information from individuals, such as their name, contact information, and potentially their email and phone number. The fields are not required, suggesting that the form may be optional or used for additional documentation purposes. I will assume that the form is used to gather contact information for patients, and my explanation will be based on this understanding.</thinking>
-
 # prophets_form - Help Guide
 ## Purpose
 The "prophets_form" is a healthcare registration form used to collect patient contact information for documentation and record-keeping purposes. It appears to be an optional form, allowing users to provide their details if they wish.

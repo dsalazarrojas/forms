@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners about their preventive care habits for their pets. The purpose of this form is to gather data on whether pet owners vaccinate their pets, administer flea and tick preventatives, and follow regular veterinary check-ups. This information will help us better understand pet owner behavior and identify areas for improvement in our services.
-
-Before you start, please note that this form does not aim to collect sensitive or personal information. It is meant to be a brief and straightforward inquiry into pet care practices.
-
-</thinking>
-
 # pet_owner_preventive_care_habits_survey - Help Guide
 ## Purpose
 This form helps us understand pet owners' preventive care habits for their pets, specifically on vaccinations, flea and tick preventatives, and veterinary check-ups.

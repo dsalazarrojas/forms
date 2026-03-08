@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants who are applying for medical-related services or programs. It's likely used by healthcare providers or organizations to collect data about applicants' health conditions, medical history, and other relevant details. This form is probably not intended for general public use, but rather for internal purposes within a specific healthcare-related context.
-</thinking>
-
 # Health Application Form - Help Guide
 ## Purpose
 This form is meant to collect information about an individual's health condition, medical history, and contact details for a medical-related purpose.

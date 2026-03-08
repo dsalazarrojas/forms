@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the registration of attendees for a hospitality conference. The form should be completed by individuals wishing to participate in the conference, providing necessary information about themselves and their registration details. The form is designed to be completed by one person at a time, and it is recommended that each attendee submit their own form.
-</thinking>
-
 # Hospitality Conference Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from attendees for the hospitality conference. This form is used to register attendees and ensure that we have the necessary details to provide the best experience for them during the conference.

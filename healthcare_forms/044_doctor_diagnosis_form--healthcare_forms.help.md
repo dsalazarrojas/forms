@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting patient information and diagnosis details for medical purposes.
-The form has 25 fields, but only the following fields are required: doctor_specialty, patient_gender, patient_age, doctor_name, doctor_signature, doctor_approval, patient_approval, and doctor_comment.
-</thinking>
-
 # Doctor Diagnosis Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a patient's medical history, diagnosis, and treatment plan. It is intended for healthcare professionals to use for accurate and efficient record-keeping.

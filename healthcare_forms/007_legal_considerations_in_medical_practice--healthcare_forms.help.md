@@ -1,38 +1,3 @@
-<thinking>
-
-The form "legalConsiderationsInTheMedicalPractice" is designed to collect important legal information from healthcare providers, ensuring they are aware of and adhere to relevant laws and regulations in their medical practice. This form is used to verify that healthcare providers are taking steps to protect their patients' rights and interests, maintain confidentiality, and comply with legal requirements. 
-
-To ensure that healthcare providers are aware of the purpose and scope of this form, it is essential to review the following fields:
-
-*   **Patient Name**: This field is used to collect the patient's full name.
-*   **Date of Birth**: This field is used to collect the patient's date of birth in the "YYYY-MM-DD" format.
-*   **Contact Information**: This field allows you to select the preferred method of contact for the patient. Options include:
-    *   Address
-    *   Phone Number
-    *   Email
-*   **Legal Representative**: This field is used to determine if there is a legal representative involved in the patient's care.
-*   **Medical License Number**: This field is used to collect the healthcare provider's medical license number.
-*   **Consent Date**: This field is used to collect the date of the patient's consent in the "DD-MMM-YYYY" format.
-*   **Medical Practice Type**: This field is used to determine the type of medical practice. Options include:
-    *   Private Practice
-    *   Hospital
-    *   Clinic
-*   **Medical Board Certification**: This field is used to determine if the healthcare provider has medical board certification.
-*   **Patient Relationship**: This field is used to define the relationship between the healthcare provider and the patient. Options include:
-    *   Patient
-    *   Family
-    *   Doctor
-    *   Nurse
-*   **Consent Status**: This field is used to determine the status of the patient's consent. Options include:
-    *   Active
-    *   Inactive
-    *   Expired
-*   **Legal Consideration**: This field is used to collect any additional legal information.
-*   **Additional Information**: This field is used to collect any additional information that may be relevant to the patient's case.
-*   **Legal Document**: This field is used to collect any relevant legal documents.
-
-</thinking>
-
 # legalConsiderationsInTheMedicalPractice - Help Guide
 ## Purpose
 The form "legalConsiderationsInTheMedicalPractice" is used to collect important legal information from healthcare providers, ensuring they are aware of and adhere to relevant laws and regulations in their medical practice.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trauma Bag Checklist - Help Guide
 
 ## Purpose

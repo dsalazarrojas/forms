@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide a framework for employees to request and managers to approve training budgets for professional development. The form should be completed by employees to submit their training requests, and by managers to review and approve or reject these requests. 
-
-Please ensure that the form is completed accurately and thoroughly to avoid delays in processing the request. Additionally, ensure that you do not submit duplicate requests as this can cause confusion and delay the approval process.
-
-To verify the form's integrity, please check that you are using the latest version of the form.
-
-</thinking>
-
 # employee_training_budget_approval_form - Help Guide
 ## Purpose
 This form is used for employees to request and managers to approve training budgets for professional development.

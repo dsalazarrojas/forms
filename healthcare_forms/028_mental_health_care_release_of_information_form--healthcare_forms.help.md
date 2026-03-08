@@ -1,12 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "mental_health_care_release_of_information_form" form. To start, we need to ensure that the form is being used for its intended purpose and that users understand its relevance. This form is used for releasing mental health care information, typically for patients who are authorized to access their medical records. To avoid duplication, we'll want to check if the user is already authorized to access this information or if they have any other forms pending completion.
-
-The form is designed to collect various information from the patient and the authorized person, including their contact details, authorization type, and facility information. Users will need to fill in this information accurately to ensure that the form is completed correctly.
-
-Before proceeding with the guide, let's review the form's YAML structure. We have 12 fields across 5 pages, each with its own label, type, and hint. We'll break down each field and provide a concise explanation for users to understand its purpose.
-
-</thinking>
-
 # mental_health_care_release_of_information_form - Help Guide
 ## Purpose
 The mental health care release of information form is used to release confidential mental health care information from a patient's medical record. This form is typically used when a patient has given permission for someone else to access their medical records.

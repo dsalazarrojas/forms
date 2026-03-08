@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Home Health Intake Form Template - Help Guide**
 =====================================================
 

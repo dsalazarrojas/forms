@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block:
-This form is used to collect information about language preferences from employees or applicants. It is not a required form, but rather a voluntary declaration of language preferences. The form will be used to understand individual preferences for languages they can understand, communicate, and work in, and to determine if they need translation support. The purpose of this form is to help us better tailor our internal communication and training materials to meet the needs of our diverse workforce. We want to ensure that all employees and applicants feel welcome and supported in our company, regardless of their language proficiency.
-</thinking>
-
 # language_preference_declaration_form - Help Guide
 ## Purpose
 This form is designed to collect information about language preferences from employees or applicants. It will help us understand individual preferences for languages they can understand, communicate, and work in, and to determine if they need translation support.

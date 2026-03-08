@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from guests to facilitate the reservation of a room at a guest house. This form is likely used by a hotel or a similar accommodation provider to gather essential details from guests such as their preferred dates of stay, room preferences, and contact information.
-</thinking>
-
 # Guest House Reservation Form - Help Guide
 ## Purpose
 This form is used to collect information from guests to make a reservation at a guest house. It is intended to be completed by guests who are interested in booking a room for a specific period.

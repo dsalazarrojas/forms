@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the voting process for co-operative board elections, gathering information from members about their preferences and feedback. To ensure the integrity and accuracy of the voting process, each member must submit their own ballot, including their name, membership ID, and property address or unit number. The form also includes a section for verification, a certification of good standing, and a digital signature for ballot verification. Members can select up to three candidates for the Board of Directors and vote on special resolutions related to the co-operative's budget and bylaws. The form concludes with an optional feedback section for members to provide comments on board candidates and current leadership.
-
-</thinking>
-
 # Co-Operative Board Election Voting Form - Help Guide
 ## Purpose
 The Co-Operative Board Election Voting Form is a secure and confidential ballot system designed to allow co-operative members to cast their votes for the Board of Directors and weigh in on special resolutions. This guide will walk you through each section of the form to ensure you complete it accurately and efficiently.

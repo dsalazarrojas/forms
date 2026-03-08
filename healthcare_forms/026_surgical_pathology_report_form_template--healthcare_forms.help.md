@@ -1,5 +1,3 @@
-<thinking>...This form is used to document the details of a surgical pathology report. The form includes fields for providing information on specimen details, pathologist details, specimen condition, specimen description, diagnosis, hospital details, and other relevant information. This form template is designed to provide a structured format for reporting and documenting the results of a surgical pathology examination. Each field is carefully crafted to gather specific information required for an accurate and comprehensive pathology report. This form can be used by pathologists, lab technicians, or other healthcare professionals to document their findings and observations...</thinking>
-
 # Surgical Pathology Report Form Template - Help Guide
 ## Purpose
 The Surgical Pathology Report Form Template is designed to document the details of a surgical pathology report. This form is used by pathologists, lab technicians, and other healthcare professionals to gather and record information about a specimen, including specimen details, pathologist details, and other relevant information.

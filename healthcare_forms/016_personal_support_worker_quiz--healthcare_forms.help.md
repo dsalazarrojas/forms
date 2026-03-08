@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from personal support workers, including their contact details, role, experience, training, and quiz responses. It's essential to complete this form accurately to ensure that the collected data is useful for further analysis and decision-making. The form is not meant to be a survey or a test, but rather a tool for gathering information about personal support workers.
-</thinking>
-
 # Personal Support Worker Quiz - Help Guide
 ## Purpose
 The Personal Support Worker Quiz is a form designed to gather information from personal support workers, including their contact details, role, experience, and training. This information will help us better understand their qualifications and provide them with more tailored support and resources.

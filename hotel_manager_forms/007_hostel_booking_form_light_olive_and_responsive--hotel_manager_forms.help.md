@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to assist hostel management staff in understanding and completing the Hostel Booking Form Light Olive And Responsive. The form is designed to collect essential information from guests for accommodation and booking purposes. Please ensure that you complete the form accurately and thoroughly to ensure a smooth booking process.
-
-Before proceeding, it is essential to verify that the form is relevant to your specific role as a hostel manager. This form is not intended for duplicate entries or internal purposes. Ensure that you only submit the form for genuine guest bookings.
-
-To ensure a seamless experience, it is recommended that you carefully read and understand the field-by-field explanation provided below to accurately complete the form.
-
-</thinking>
-
 # Hostel Booking Form Light Olive And Responsive - Help Guide
 ## Purpose
 The Hostel Booking Form Light Olive And Responsive is designed to collect essential information from guests for accommodation and booking purposes. This information enables our staff to efficiently process guest requests and ensure a smooth stay.

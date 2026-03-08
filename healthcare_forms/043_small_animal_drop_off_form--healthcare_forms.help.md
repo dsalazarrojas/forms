@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # small_animal_drop_off_form - Help Guide
 
 ## Purpose

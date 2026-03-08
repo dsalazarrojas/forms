@@ -1,10 +1,3 @@
-<thinking>
-The "orthotic_device_consent_form" is a form used to gather patient consent and information for the use of orthotic devices in a healthcare setting. This form is used to ensure that patients understand and agree to the use of these devices, which can include walkers, canes, and other types of orthotic equipment. The form is typically filled out by patients before they begin using an orthotic device, and it serves as a record of their consent and medical history.
-
-To ensure that this form is being filled out correctly and consistently, it's essential to verify that it's not a duplicate form and that the patient understands its purpose.
-
-</thinking>
-
 # orthotic_device_consent_form - Help Guide
 ## Purpose
 This form is used to gather patient consent and medical history for the use of orthotic devices in a healthcare setting.

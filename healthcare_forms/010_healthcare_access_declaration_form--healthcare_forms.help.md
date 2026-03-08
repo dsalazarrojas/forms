@@ -1,11 +1,3 @@
-<thinking> 
-**Internal Reasoning Block**
-
-This form is designed to collect information from patients about their healthcare access needs, medical history, and other relevant details. The form is divided into several sections, each covering different aspects of a patient's healthcare experience. The purpose of this form is to help healthcare providers understand the patient's needs and provide appropriate care.
-
-**Duplicated sections are likely a result of a design or data error.**
-
-</thinking>
 # healthcare_access_declaration_form - Help Guide
 
 ## Purpose

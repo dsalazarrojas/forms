@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee improvement suggestions from employees, allowing them to submit their ideas and proposals for implementing improvements in the company. This form is used by HR department to collect, review, and track the suggestions, and to ensure that they are properly managed and implemented. To prevent duplication of suggestions, this form has a unique ID assigned to each suggestion, and it's also reviewed manually by HR staff before allowing submission.
-</thinking>
-
 # employee_improvement_suggestion_form - Help Guide
 ## Purpose
 The employee improvement suggestion form is a tool for employees to submit suggestions and ideas for improving the company. This form is meant to be used by all employees to submit their suggestions, which are then reviewed and managed by the HR department.

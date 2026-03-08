@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to gather information from patients for nutrition referrals. Its purpose is to collect data for healthcare professionals to make informed decisions regarding patient care. 
-
-The form is not intended to replace professional medical consultations or assessments, but rather as an aid to support healthcare teams. 
-
-Please ensure this form is completed by patients and healthcare professionals with the understanding that the information gathered will be used for the betterment of the patient's health and well-being.
-
-</thinking>
-
 # Nutrition Referral Form - Help Guide
 ## Purpose
 The Nutrition Referral Form is designed to collect essential information from patients to help healthcare professionals make informed decisions regarding their nutrition needs and referrals.

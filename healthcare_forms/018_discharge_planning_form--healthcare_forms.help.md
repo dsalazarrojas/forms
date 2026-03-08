@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discharge Planning Form - Help Guide
 ## Purpose
 The Discharge Planning Form is a tool to gather essential information about a patient's discharge from the hospital. This form helps healthcare providers ensure a smooth transition of care and provides a comprehensive overview of the patient's post-discharge needs.

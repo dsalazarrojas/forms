@@ -1,6 +1,3 @@
-<thinking>
-The Employee Onboarding Bot Setup Form is a comprehensive form used to gather essential details and status information about new hires and their onboarding progress within a company. This form is crucial for ensuring a smooth onboarding process, which is essential for new employees to get familiar with their new work environment, tasks, and team members. The form should not be completed if the onboarding process is already in place or if the employee has already been onboarded.</thinking>
-
 # Employee Onboarding Bot Setup Form - Help Guide
 ## Purpose
 The Employee Onboarding Bot Setup Form is designed to collect details about new hires and their onboarding status. It helps to streamline the onboarding process and ensures that new employees have all the necessary information and resources to perform their tasks effectively.

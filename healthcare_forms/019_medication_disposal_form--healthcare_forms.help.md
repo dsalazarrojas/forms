@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to guide users through the process of disposing of medications in a safe and responsible manner. The form will likely be used by healthcare professionals to record medication disposal events, track the quantity and type of medication disposed of, and provide a way to note any relevant details about the disposal process. Before proceeding with this guide, please ensure you are familiar with your organization's internal policies and procedures for medication disposal.
-
-</thinking>
-
 # medication_disposal_form - Help Guide
 ## Purpose
 The medication_disposal_form is designed to help healthcare professionals safely and accurately dispose of medications in a way that follows regulatory requirements and organizational policies. This form provides a structured format for recording key information about medication disposal events, ensuring consistency and completeness of data.

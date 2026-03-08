@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Recently Contacted List" form is used to document and track information about individuals who have recently been in contact with. This form is used by healthcare staff to quickly and accurately record essential details about each individual, including their name, contact date, and contact method (phone number or email). The purpose of this form is to maintain a comprehensive and organized record of patient interactions, facilitating efficient communication and care coordination. 
 
 This form is intended for use by healthcare staff, including nurses, doctors, and administrative personnel. It is crucial to complete this form accurately and consistently to ensure that the information provided is reliable and useful for patient care.

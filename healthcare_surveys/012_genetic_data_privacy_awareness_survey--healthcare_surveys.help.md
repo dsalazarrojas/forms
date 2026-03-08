@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting genetic data privacy awareness in the healthcare industry. The form is intended to be a survey that collects data on users' awareness of genetic data privacy, which is a critical concern in the healthcare sector. The form's purpose is to gauge users' knowledge and understanding of genetic data privacy, likely to inform education or training programs. I will review the form's fields and provide explanations for end-users in this help guide.
-</thinking>
-
 # Genetic Data Privacy Awareness Survey - Help Guide
 ## Purpose
 The Genetic Data Privacy Awareness Survey is a tool used to collect information on genetic data privacy in the healthcare industry. This survey is designed to gauge users' awareness of genetic data privacy, which is essential in the healthcare sector.

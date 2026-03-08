@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm that employees have read and understand the various policies that govern business operations within the company. The policies covered include Code of Conduct, Confidentiality, Anti-Harassment, Data Security, Attendance, Health and Safety, and others. By completing this form, employees are acknowledging their understanding of these policies and their commitment to adhere to them.
-</thinking>
-
 # Business Operations Policy Acknowledgment - Help Guide
 ## Purpose
 This form is used to confirm that employees have read and understand the various policies that govern business operations within the company.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the form purpose and relevance. This form is used for an "Employee Exit Non Disclosure Agreement", which suggests it's related to a departing employee's non-disclosure obligations after leaving the company. The form likely serves to formalize the agreement and ensure the employee understands the terms of their non-disclosure, including any acknowledgments or confirmations they must provide. The form's fields should support this purpose. Now, let's create a user-facing help guide for this form.</thinking>
-
 # Employee Exit Non Disclosure Agreement - Help Guide
 ## Purpose
 The Employee Exit Non Disclosure Agreement is a form designed to ensure a departing employee understands their non-disclosure obligations after leaving the company. This form is used to gather acknowledgments and confirmations from the employee, formalizing their agreement to maintain confidentiality.

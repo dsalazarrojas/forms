@@ -1,9 +1,3 @@
-<thinking>
-To provide a thorough help guide for the Employee Performance Evaluation VC form, I need to understand the form's purpose and its fields. This form is for evaluating an employee's performance, and it seems to assess their performance across different aspects. The form has fields for employee performance, evaluation criteria, performance level, evaluation period start and end dates, and no other fields. This form appears to be used for periodic performance reviews, which is a common practice in the workplace.
-
-I will create a user-friendly help guide that explains each field and how to complete the form step-by-step.
-</thinking>
-
 # Employee Performance Evaluation VC - Help Guide
 ## Purpose
 This form is used for evaluating an employee's performance across different aspects. It is intended for periodic performance reviews to assess an employee's growth and progress over a specific period.

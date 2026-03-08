@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's dietary habits and frequency of eating. It is likely to be used in a healthcare context, perhaps as part of a patient survey or assessment. To ensure the form is being used correctly, please review the fields and their labels to understand their intended purpose.
-
-</thinking>
-
 # Dietary Habits And Frequency Survey - Help Guide
 ## Purpose
 This form is intended to collect information about an individual's dietary habits and frequency of eating.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for hotel staff to request services such as cleaning, disinfecting, and maintenance for specific rooms. This form will help hotel staff keep track of which tasks are assigned to which rooms and who is responsible for completing them, as well as keep track of the progress and status of these tasks. It will also help in ensuring that the hotel's rooms are kept clean and tidy, and that guests are provided with a pleasant and safe environment. 
-
-Please ensure that you only submit one request at a time, and do not duplicate requests for the same room.
-
-</thinking>
-
 # Housekeeping Service Request Form - Help Guide
 ## Purpose
 The Housekeeping Service Request Form is used to request services such as cleaning, disinfecting, and maintenance for specific rooms in the hotel. This form helps hotel staff keep track of which tasks are assigned to which rooms and who is responsible for completing them.

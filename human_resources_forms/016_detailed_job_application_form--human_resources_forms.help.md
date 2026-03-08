@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from job applicants for HR-related purposes. This form is typically used to gather personal and professional details of individuals applying for a job position. To prevent duplication, please ensure that you're using this form for its intended purpose and not for any other HR-related tasks.
-
-Before filling out this form, make sure you're familiar with the company's job posting and requirements. This form is intended for internal use within the company and should not be filled out without authorization.
-
-</thinking>
-
 # Human Resources Forms - Help Guide
 ## Purpose
 This form is for collecting personal and professional details of individuals applying for a job position.

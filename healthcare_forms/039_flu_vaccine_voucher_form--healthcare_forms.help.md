@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for patients, healthcare providers, or administrators to collect information about flu vaccine administration. The form is likely used to track and report vaccine distribution, administration, and patient data for public health monitoring and research purposes.
-
-Before proceeding, please ensure this form is not already filled out for the same purpose and date. This form should only be filled out once per patient, per flu vaccine administration.
-
-Please note that the provided information is for general guidance only and may need to be adapted or modified according to your organization's specific policies and procedures.
-
-</thinking>
-
 # Flu Vaccine Voucher Form - Help Guide
 ## Purpose
 This form is used to collect information about flu vaccine administration, including patient details, vaccination status, and provider information.

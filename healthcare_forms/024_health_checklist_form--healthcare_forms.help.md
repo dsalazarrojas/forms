@@ -1,13 +1,3 @@
-<thinking>
-This form is a general health assessment tool designed to collect information on various aspects of an individual's health and well-being. It is intended for use in healthcare settings to gather data on the physical and mental health, medical history, social habits, and lifestyle of patients. The form is not a medical diagnostic tool and should not be used as a substitute for professional medical advice or diagnosis. Users should consult a healthcare professional for accurate and personalized health advice.
-
-This form is an adaptation of a public survey on healthcare topics and is not affiliated with, endorsed by, or derived from any specific form platform. It is released under the Creative Commons BY 4.0 license, allowing free use, modification, and distribution.
-
-Before completing this form, please ensure you have the necessary permissions and clearance to collect and use this information in your healthcare setting. If you are unsure, please consult your organization's policies and procedures.
-
-This form should not be used to collect information on minors or sensitive populations without proper consent and clearance.
-</thinking>
-
 # Health Checklist Form - Help Guide
 ## Purpose
 The Health Checklist Form is a tool to collect and assess information on various health-related topics to support healthcare providers in making informed decisions about patient care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide for the "reviewed_doctors_form" form, which is designed to collect information from doctors who have reviewed a medical case. The form is used to gather contact details of the doctors and ensure that their reviews are valid and complete.
 
 </thinking>

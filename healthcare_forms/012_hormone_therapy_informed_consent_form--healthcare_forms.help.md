@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather informed consent from patients prior to undergoing hormone therapy, which involves administering hormones to treat various medical conditions. This form ensures that the patient has been fully informed about the benefits and risks of the treatment, as well as any potential side effects. It also collects important identifying information about the patient and the healthcare provider administering the therapy.
-
-Before proceeding, please ensure that you have reviewed and understood the relevant medical literature and guidelines for hormone therapy. This form should not be used as a substitute for medical guidance, but rather as a supplementary tool to ensure that patients are well-informed about their treatment options.
-
-</thinking>
-
 # Hormone Therapy Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to collect informed consent from patients before undergoing hormone therapy.

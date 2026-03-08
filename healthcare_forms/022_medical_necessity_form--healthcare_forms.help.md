@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information about a patient's medical necessity, which is used to determine if a specific medical treatment or service is required. This form is typically filled out by a healthcare professional to justify a medical treatment or service that is not typically covered by insurance. The field types and labels should be self-explanatory and consistent with standard medical terminology.
-
-</thinking>
-
 # Medical Necessity Form - Help Guide
 ## Purpose
 This form is used to document a patient's medical necessity, which is essential for determining if a particular medical treatment or service is required.

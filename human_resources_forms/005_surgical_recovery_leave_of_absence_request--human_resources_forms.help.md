@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surgical Recovery Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence due to surgical recovery. It is essential to fill out this form accurately and completely to ensure a smooth and efficient leave process.

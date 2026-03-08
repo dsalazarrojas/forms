@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use in the human resources department to document the details of an employee's severance agreement. It collects information on employee details, severance terms, and agreement status. The form should be filled out by HR staff when an employee is leaving the company. The purpose of this form is to ensure that all necessary information is collected and stored accurately, making it easier to reference and manage severance agreements in the future.
-</thinking>
-
 # Severance Agreement Authorization Form - Help Guide
 ## Purpose
 

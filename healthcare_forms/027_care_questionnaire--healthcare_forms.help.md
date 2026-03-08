@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals about their healthcare needs and experiences. The form's purpose is to gather data on a person's relationship to the patient, their physical and mental health concerns, social support availability, mobility status, medication list, care goals, and any additional comments they may have.
-
-To ensure data quality, we will only allow users to complete this form once per patient. If you need to submit information for multiple patients, please create a new instance of this form for each patient.
-
-The AI-generated form was created to adapt the structure and content to the provided metadata and industry standards in the healthcare category. It is not affiliated with or endorsed by any form platform and is an original adaptation.
-</thinking>
-
 # Care Questionnaire - Help Guide
 
 ## Purpose

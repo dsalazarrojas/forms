@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # food journal - Help Guide
 
 ## Purpose

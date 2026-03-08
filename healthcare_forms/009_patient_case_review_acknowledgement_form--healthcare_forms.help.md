@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to obtain acknowledgement and feedback from users on the case review process for patients. This form ensures that users have reviewed the case and understand their role and responsibilities in the process. It also allows users to provide additional information or comments, if needed. To avoid duplication, please complete this form only once, after reviewing the entire case. Completing this form is mandatory for users to confirm their understanding and commitment to the case review process.
-
-</thinking>
-
 # Patient Case Review Acknowledgement Form - Help Guide
 ## Purpose
 The Patient Case Review Acknowledgement Form is a document that ensures users have reviewed and understood the case review process for patients.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # performance_bonus_request_form - Help Guide
 
 ## Purpose

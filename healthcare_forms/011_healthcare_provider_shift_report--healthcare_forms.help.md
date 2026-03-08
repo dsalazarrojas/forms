@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a healthcare provider's shift, including the start and end times, staff present, incidents, patient updates, handover notes, medication administered, important incidents, and other relevant details. The form is likely used by healthcare providers to report their shifts, provide updates, and communicate with other staff members.
-
-It is assumed that the form will be used for internal purposes, such as shift reporting and communication between healthcare providers, rather than for public consumption or external reporting. The form's purpose is to facilitate collaboration and information-sharing among healthcare staff.
-
-The form's structure and field types are designed to accommodate the needs of healthcare providers, allowing them to easily report their shifts and provide relevant information. The form's required fields are likely minimal, as the primary focus is on collecting additional details rather than mandating specific information.
-
-</thinking>
-
 # Healthcare Provider Shift Report - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from speakers or individuals who would like to propose a new event to be hosted at a health institution. This form will be used to gather details about the proposed event, including the speaker's contact information, the event's details, and the speaker's qualifications.
-
-To confirm, this form is intended for speakers who are proposing a new event, not for event organizers or administrators. The form will help to streamline the process of event proposal and submission.
-
-To avoid duplication, the form will be reviewed and assessed by the event organizers before being accepted or rejected.
-</thinking>
-
 # health_institution_speaker_proposal_form - Help Guide
 ## Purpose
 

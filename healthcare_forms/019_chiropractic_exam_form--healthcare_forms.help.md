@@ -1,5 +1,3 @@
-<thinking>Internal reasoning check: Chiropractic Exam Form is used by healthcare professionals like chiropractors to gather patient information for examination and diagnosis purposes. This form helps to ensure that all necessary details are collected in a standardized way to aid in accurate diagnosis and effective treatment. Before creating this form, the designer has taken into account the required fields for patient demographics, medical history, and treatment planning. The form's layout is designed to be user-friendly and efficient for clinicians to fill out.</thinking>
-
 # Chiropractic Exam Form - Help Guide
 ## Purpose
 The Chiropractic Exam Form is designed to gather patient information for examination and diagnosis purposes. It helps healthcare professionals like chiropractors to collect necessary details in a standardized way.

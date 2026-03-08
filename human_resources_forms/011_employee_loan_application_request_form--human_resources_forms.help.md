@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a loan from the company, and it appears that the purpose is to provide a standardized way to handle such requests from employees. To avoid non-duplication of requests, it's likely that this form will be used to track and manage employee loans centrally. The fields provided in the form seem to cover the necessary information for a basic loan application, including employee name, loan amount, term, and manager approval status. It's not clear if the form is used for all types of loans or just a specific type of loan. However, it can be assumed that the form is used for internal company purposes only.
-</thinking>
-
 # Employee Loan Application Request Form - Help Guide
 ## Purpose
 The Employee Loan Application Request Form is used by employees to request a loan from their company. This form is used to gather necessary information for the loan request, which is then reviewed and processed by the relevant authorities.

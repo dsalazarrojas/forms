@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify the education credentials of a candidate for employment purposes. It is meant to gather information about the candidate's level of education, the institution they attended, and their employment status. This form is not intended to be a comprehensive employment application, but rather a supplementary form to support employment verification processes. Before filling out this form, ensure that the provided information is accurate and up-to-date, as it will be used to verify the candidate's credentials.
-</thinking>
-
 # Education Credentials Verification Employment Form - Help Guide
 ## Purpose
 This form is designed to verify the education credentials of a candidate for employment purposes. It is meant to gather information about the candidate's level of education, the institution they attended, and their employment status.

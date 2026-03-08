@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from hospital staff, patients, and visitors about their experiences and perceptions of the hospital's community relations. This feedback will help the hospital understand areas of improvement and identify opportunities to enhance its community engagement. The form is not intended to be a comprehensive evaluation of the hospital's services, but rather a snapshot of how people perceive the hospital's community relations. 
-
-Before completing this form, please ensure that you have not already provided feedback in the past, as this will help us avoid duplicated responses and save time for our team to address new and unique concerns. 
-
-Please take about 5-7 minutes to answer the following questions. Your input will help us better understand our community's needs and concerns. Thank you for your time and participation!
-
-</thinking>
-
 # Hospital Community Relations Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from hospital staff, patients, and visitors about their experiences and perceptions of the hospital's community relations.

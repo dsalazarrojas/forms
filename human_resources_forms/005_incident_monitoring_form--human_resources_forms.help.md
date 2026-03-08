@@ -1,9 +1,3 @@
-<thinking>As the form designer and technical writer for this "Incident Monitoring Form", I will first clarify the purpose and context of this form before explaining it in detail for end users.
-
-The "Incident Monitoring Form" is a tool designed to capture and track incidents or events that have occurred within an organization. The form is intended to collect essential information about the incident, including details such as the date, time, and location, to aid in the prompt and effective handling of the incident. The purpose of this form is to provide a structured and organized way to document and monitor incidents, ensuring that all relevant information is collected and readily available for reference.
-
-</thinking>
-
 # Incident Monitoring Form - Help Guide
 ## Purpose
 The "Incident Monitoring Form" is a tool designed to capture and track incidents or events that have occurred within an organization.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential volunteers who are interested in participating in hospice care activities. This form will help us assess your suitability for volunteer roles such as General Volunteer, Team Leader, or Care Partner. Please note that this form does not collect any sensitive or personal data that would compromise your confidentiality. We will use the data collected to review and process your application.
-</thinking>
-
 # Hospice Volunteer Application Form - Help Guide
 ## Purpose
 The form is designed to collect information about you and your preferences for participating in hospice care activities.

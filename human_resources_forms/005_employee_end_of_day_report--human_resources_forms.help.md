@@ -1,5 +1,3 @@
-<thinking>...The Employee End of Day Report form is used to capture information from employees at the end of each day, ensuring they are able to report their tasks completed and any notes they'd like to record for that day. This data will be used to track employee progress and productivity, as well as for future reference. Please review the form carefully to ensure accuracy and completeness. Please do not duplicate your reports unless specifically requested to do so by your manager or HR representative. Ensure that you complete all required fields for this report to be considered complete.</thinking>
-
 # Employee End Of Day Report - Help Guide
 ## Purpose
 The Employee End of Day Report is a daily form that helps track employee progress and productivity by recording tasks completed and any notes from the day. It's essential to fill out this form accurately to ensure your work is tracked and accounted for.

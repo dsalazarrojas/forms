@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction information from Medicaid beneficiaries about their current health plan. 
-The survey is intended to help the plan administrators understand areas for improvement in their service delivery. 
-This form will be used for Adult Medicaid 5.0, and the information collected will help in evaluating the health plan's performance.
-</thinking>
-
 # CAHPS Health Plan Survey - Adult Medicaid 5.0 - Help Guide
 ## Purpose
 

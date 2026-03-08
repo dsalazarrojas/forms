@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for creating a personalized holiday letter for a child, allowing them to share their thoughts, experiences, and wishes with a recipient, usually a parent or guardian. It's a fun way for kids to reflect on their year, express themselves, and show appreciation for those around them. This form is designed to be completed by the child themselves, with some fields requiring parental input and supervision. It's essential to review the answers before submitting, ensuring the child's responses are suitable and respectful.
-</thinking>
-
 # Child's Holiday Letter Creator - Help Guide
 ## Purpose
 The "Child's Holiday Letter Creator" form is a tool for kids to create a personalized holiday letter, sharing their thoughts, experiences, and wishes with a recipient. It's a fun and interactive way for them to reflect on their year and show appreciation for those around them.

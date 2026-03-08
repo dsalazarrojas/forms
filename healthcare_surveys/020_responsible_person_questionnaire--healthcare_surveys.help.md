@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about the responsible person in charge of a patient's care. This form is likely to be used in a medical setting, such as a hospital or clinic, where staff need to keep accurate records of who is responsible for providing care to patients. The goal of this form is to gather detailed information about the responsible person, including their name, email, phone number, address, relationship status, position, date of birth, and any additional notes about their role. Before proceeding, please ensure that the data collected is relevant and not duplicating existing information already stored in your system. Please review the form carefully to ensure that you are providing accurate and complete information.
 
 # Responsible Person Questionnaire - Help Guide

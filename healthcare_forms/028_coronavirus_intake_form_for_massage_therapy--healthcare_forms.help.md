@@ -1,10 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information related to massage therapy for patients who have or are experiencing symptoms of COVID-19. This form aims to gather details about the patient's health status, medical history, and treatment preferences. It is essential to complete this form carefully and accurately to ensure that the patient receives the best possible care.
-
-Before filling out this form, please make sure that you have not already completed it for the same patient. Completing the form multiple times can lead to confusion and errors in the patient's medical records.
-
-</thinking>
-
 # coronavirus_intake_form_for_massage_therapy - Help Guide
 ## Purpose
 The coronavirus_intake_form_for_massage_therapy is designed to collect information about a patient's health status, medical history, and treatment preferences for massage therapy. This form helps healthcare professionals gather essential details to provide safe and effective care.

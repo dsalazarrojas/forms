@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient medical history information, including personal details, weight, allergies, medical information, healthy habits, and unhealthy habits. The form is intended to be completed by patients before medical procedures or appointments. To avoid data duplication, ensure that patients complete the form once and do not submit multiple versions.
-
-</thinking>
-
 # Patient Medical History Form - Help Guide
 ## Purpose
 This form is used to collect and document patients' medical history, including personal details, health habits, and medical information. It helps healthcare professionals to understand the patient's overall health status and provide appropriate care.

@@ -1,13 +1,3 @@
-<thinking>
-
-The Public Health Information Credibility Survey is a form designed to gather information about the sources of public health information and the trust levels associated with those sources. The survey is intended to help understand how individuals use and trust different sources of public health information, which can inform the development of effective public health interventions and communication strategies. This form is part of a larger research project aimed at improving public health literacy and promoting healthy behaviors. 
-
-To ensure accurate and reliable data, please complete the form carefully and honestly. If you are unsure about any question or feel that it is not applicable to you, please select "Don't know" or provide a brief explanation in the relevant field. 
-
-The survey is designed to be self-explanatory, but if you have any questions or concerns, please contact us at [insert contact information]. We will be happy to assist you.
-
-</thinking>
-
 # Public Health Information Credibility Survey - Help Guide
 ## Purpose
 The Public Health Information Credibility Survey aims to gather information about public health sources and individual trust levels associated with those sources.

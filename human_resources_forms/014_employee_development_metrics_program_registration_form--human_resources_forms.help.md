@@ -1,7 +1,3 @@
-<thinking>
-This form is used by Human Resources teams and managers to collect information from employees participating in development programs. The primary purpose of this form is to gather essential details about the employee, their development program, and registration date to facilitate tracking and monitoring of employee development metrics. To avoid duplication and ensure accuracy, please ensure that each submission is submitted only once and that the form is completed thoroughly and correctly.
-</thinking>
-
 # Employee Development Metrics Program Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees participating in development programs, enabling Human Resources teams and managers to track and monitor employee development metrics.

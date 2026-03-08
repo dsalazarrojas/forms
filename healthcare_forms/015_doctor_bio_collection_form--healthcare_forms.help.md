@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting basic information about a doctor's bio, likely for use in a directory or professional website. It is essential to ensure the information collected is accurate and up-to-date. This form should be used for new doctor additions or updates only, as duplicate entries may occur if used for frequent data changes. Ensure that you have the doctor's permission before collecting and storing their information.
-</thinking>
-
 # Doctor Bio Collection Form - Help Guide
 
 ## Purpose

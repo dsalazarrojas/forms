@@ -1,12 +1,3 @@
-<thinking>
-To avoid duplication, the internal reasoning should ensure that the guest has a clear understanding of the purpose and expectations of the accommodation acknowledgement form. This form is designed to gather essential information about a guest's stay, including their identification details, accommodation preferences, and acknowledgement of the property's policies. It aims to ensure a smooth and secure experience for both the guest and the property. 
-
-To minimize potential errors or misunderstandings, the form fields are carefully crafted to provide clear and concise explanations, and the required fields are strictly enforced. The form is meant to be completed before the guest's arrival, serving as a pre-check to ensure a seamless transition.
-
-The form's internal reasoning should also consider the property's liability and legal considerations, such as the liability disclaimer and the rules for using property amenities. This ensures that the guest is fully aware of their responsibilities and the property's expectations.
-
-</thinking>
-
 # Accommodation Acknowledgement Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about a guest's stay, including their identification details, accommodation preferences, and acknowledgement of the property's policies.

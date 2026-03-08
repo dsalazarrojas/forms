@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to gather information from healthcare providers about mental health cases they have encountered. This form is likely used for tracking and analyzing mental health cases in a clinical setting. To ensure that the submitted cases are useful and accurate, it's essential that the healthcare provider completes the form correctly. This guide will walk you through the steps to complete the form and what each field is used for.
-
-The form has several fields that need to be filled out, so please ensure that you complete all required fields before submitting the form.
-
-</thinking>
-
 # Mental Health Case Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information about mental health cases from healthcare providers. Please complete the form accurately and thoroughly for better analysis and tracking.

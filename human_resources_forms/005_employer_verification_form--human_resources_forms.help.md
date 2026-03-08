@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the employer verification form, a key component in the human resources domain. The form's primary objective is to collect information about an employee's employment status, which includes their name, title, and job-related details. This data will help administrators or HR personnel verify the employee's work history and background check status. To fill out this form, you will need to provide accurate and up-to-date information.
-</thinking>
-
 # employer_verification_form - Help Guide
 ## Purpose
 The employer verification form is used to collect and verify employee work history information. This form is essential for HR and administrative purposes to ensure accurate employment records.

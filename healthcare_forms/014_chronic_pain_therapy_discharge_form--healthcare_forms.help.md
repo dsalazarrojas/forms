@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for medical professionals to document the discharge process of patients undergoing chronic pain therapy. The purpose of this form is to provide a standardized and structured way of capturing essential information related to a patient's condition, treatment, and post-discharge instructions. This form should not be used as a standalone medical diagnosis tool but rather as a companion to the patient's medical record.
-
-</thinking>
-
 # Chronic Pain Therapy Discharge Form - Help Guide
 ## Purpose
 This form is intended for medical professionals to document the discharge process of patients undergoing chronic pain therapy. It is a standardized and structured guide to ensure that essential information is captured accurately and consistently.

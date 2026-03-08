@@ -1,6 +1,3 @@
-<thinking> 
-The form "Job Analysis Form" is used for analyzing and documenting employee job details for Human Resources purposes. This form helps in maintaining up-to-date records of job status, job categories, and other relevant job-related information. To ensure relevance, please fill out this form only for active and recently updated jobs. If a job has already been analyzed, please do not duplicate efforts by filling out this form again. </thinking>
-
 # Job Analysis Form - Help Guide
 
 ## Purpose

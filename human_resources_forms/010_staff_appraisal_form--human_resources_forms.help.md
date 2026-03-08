@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Staff Appraisal Form is to gather feedback and evaluation data from team members to assess an employee's performance and growth. This form will help team leaders and HR representatives to identify areas of strength and weakness, set goals and objectives, and track progress over time. It's essential to fill out this form accurately and thoroughly to ensure that your performance is evaluated fairly and comprehensively. Please complete this form only once a year, during the annual performance review process.
-
-Before proceeding, check if you have already submitted a Staff Appraisal Form for the current year. If you have, please do not submit this form again, as it may cause duplicate data entry issues. If not, proceed with the form.
-</thinking>
-
 # Staff Appraisal Form - Help Guide
 ## Purpose
 The Staff Appraisal Form is a performance evaluation tool used to assess an employee's job performance, objectives, and growth areas.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient information, procedure details, and consent for needle-less injections. It is intended for healthcare professionals to gather necessary data for patient treatment and care. To ensure accuracy, please fill out this form completely and truthfully. If you have any questions or concerns, please don't hesitate to ask. This form was created using AI-generated metadata, but it does not copy or extract content from any form platforms or platforms. This form is released under CC BY 4.0, allowing you to freely use, modify, or even sell forms derived from it, as long as you give credit.
-
-</thinking>
-
 # Needle Less Injections Consent Form - Help Guide
 
 ## Purpose

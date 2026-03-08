@@ -1,5 +1,3 @@
-<thinking>As a designer, I need to ensure that the "Retreat Form" helps users understand the form's purpose and how to complete it effectively. This form is likely used for planning or organizing retreats, which are events where attendees come together to discuss and decide on important topics. The form is likely intended for event planners or organizers to collect information about the retreat, including details about the event's title, date, time, location, speakers, and other relevant information.</thinking>
-
 # Retreat Form - Help Guide
 ## Purpose
 The Retreat Form is used to collect information for planning and organizing retreats. This form is meant to gather all the necessary details about the retreat to ensure that it runs smoothly and successfully.

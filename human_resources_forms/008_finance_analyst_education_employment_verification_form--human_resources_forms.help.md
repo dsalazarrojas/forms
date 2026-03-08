@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to verify the employment details of a Finance Analyst. The form is a multi-page form with various fields for the user to select and input information. This form is likely used in an HR or employment verification process.
 
 To confirm that this form is not being used inappropriately, please review the fields to ensure that each one is relevant and accurate for your needs.

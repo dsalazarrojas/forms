@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users of the "Project Management Interview Schedule" form, which is used to record and manage schedules for project management interviews. This form should only be used for projects that require a more formalized interview process to assess a candidate's fit for a role. This form helps project teams to better manage the interview process, including scheduling, follow-up information, and status updates. This guide will walk through each field of the form to help users understand what to fill out and why.
-</thinking>
-
 # Project Management Interview Schedule - Help Guide
 ## Purpose
 

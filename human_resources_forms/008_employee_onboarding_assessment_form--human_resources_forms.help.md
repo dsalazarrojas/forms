@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee onboarding processes and feedback. It is intended for use by HR or other relevant departments to assess the efficiency and effectiveness of their onboarding processes. The goal is to gather data that can be used to evaluate and improve the onboarding experience for new hires. This form should only be filled out once for each new hire, and the information collected will help us better understand the progress and outcome of our onboarding process.
-</thinking>
-
 # Employee Onboarding Assessment Form - Help Guide
 ## Purpose
 

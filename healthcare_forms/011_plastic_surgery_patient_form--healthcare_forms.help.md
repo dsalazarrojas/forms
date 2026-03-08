@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from plastic surgery patients for the purpose of pre-screening and preparing for the surgery. This form helps to gather essential details such as medical history, contact information, medical condition, and other relevant information that will help the healthcare team make informed decisions regarding the patient's care. It's essential to fill out this form accurately to ensure the best possible outcome for the patient.
-
-This form does not appear to be a redundant form, and filling it out will help the patient's medical team understand their medical background, contact details, and any allergies they may have. Completing this form will enable the medical team to provide tailored care and attention to the patient's needs during the surgery and recovery process.
-
-</thinking>
-
 # Plastic Surgery Patient Form - Help Guide
 
 ## Purpose

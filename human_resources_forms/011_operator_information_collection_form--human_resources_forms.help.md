@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Operator Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect operator information for various purposes, such as record-keeping, reporting, and communication. Please fill out this form with accurate and up-to-date information about the operator to ensure that their status and schedule are properly reflected in our records.

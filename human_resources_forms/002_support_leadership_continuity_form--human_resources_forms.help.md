@@ -1,7 +1,3 @@
-<thinking>
-The "Support Leadership Continuity Form" is used to identify and document potential successors to key leadership positions in the organization, as well as the resources needed to ensure leadership continuity. This form is intended to be completed by leadership teams, succession planning working groups, or individual leaders in preparation for succession planning and leadership handoffs. The form should not be used for other purposes and should only be filled out by authorized personnel.
-</thinking>
-
 # Support Leadership Continuity Form - Help Guide
 ## Purpose
 The Support Leadership Continuity Form is used to identify and document potential successors to key leadership positions and the resources needed to ensure leadership continuity.

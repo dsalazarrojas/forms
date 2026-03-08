@@ -1,8 +1,3 @@
-<thinking>
-...The "Oncology Nursing Innovation Survey" is designed to gather information about the current state of oncology nursing innovation, including new practices, barriers, and areas of support needs. This form aims to collect data from nurses who are actively engaged in oncology nursing practices. The survey will help identify trends, challenges, and opportunities for innovation in the field of oncology nursing. This guide is to ensure that nurses understand the purpose and requirements of the survey and can complete it accurately and efficiently...
-
-</thinking>
-
 # Oncology Nursing Innovation Survey - Help Guide
 ## Purpose
 The Oncology Nursing Innovation Survey is a tool designed to gather information about current trends, challenges, and opportunities in oncology nursing innovation. The survey aims to collect data from nurses who are actively engaged in oncology nursing practices, with the ultimate goal of identifying areas for improvement and innovation.

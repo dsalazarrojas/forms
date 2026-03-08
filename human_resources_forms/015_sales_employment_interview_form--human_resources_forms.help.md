@@ -1,11 +1,3 @@
-<thinking>...
-This form is used to collect information about employment history and work experience during a sales employment interview. It is meant to be filled out by the applicant to provide details about their past work experience, job status, and other relevant information. 
-
-Please ensure this form is filled out correctly and only once for each sales employment interview. 
-
-This form is a critical part of the hiring process and helps us get a clear picture of the candidate's employment history. If you have already completed this form in the past, please do not fill it out again. Thank you for your cooperation.
-...</thinking>
-
 # Sales Employment Interview Form - Help Guide
 ## Purpose
 The Sales Employment Interview Form is used to collect information about employment history and work experience during a sales employment interview. It is a critical part of the hiring process to get a clear picture of the candidate's employment history.

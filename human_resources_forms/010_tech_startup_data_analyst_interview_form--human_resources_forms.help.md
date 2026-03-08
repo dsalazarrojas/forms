@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential candidates for a data analyst position in a tech startup. The form is designed to gather details about the candidate's personal and professional background, experience, and qualifications. The form includes fields for the candidate's first and last name, email address, phone number, job title, job level, work experience, education level, languages spoken, programming languages known, available start date, earliest start date, earliest end date, earliest end date reason, availability, role, salary range, salary currency, expected salary, job type, job status, job category, job sector, and job location. This form is intended to help the hiring team evaluate candidates based on their experience, skills, and availability. Before filling out this form, please ensure that you have all the necessary information and that it is accurate. Note that some fields are optional, and you should only fill out the fields that apply to you.
-</thinking>
-
 # Tech Startup Data Analyst Interview Form - Help Guide
 ## Purpose
 The Tech Startup Data Analyst Interview Form is used to gather information from potential candidates for a data analyst position in a tech startup. This form helps the hiring team to evaluate candidates based on their experience, skills, and availability.

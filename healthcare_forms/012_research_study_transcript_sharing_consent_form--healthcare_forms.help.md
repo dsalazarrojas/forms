@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # research_study_transcript_sharing_consent_form - Help Guide
 ## Purpose
 This form is designed to obtain consent from participants to share their research study transcripts. The purpose of this form is to ensure that participants understand how their transcripts will be used, stored, and shared. It's crucial to complete this form accurately to ensure that all necessary permissions are obtained.

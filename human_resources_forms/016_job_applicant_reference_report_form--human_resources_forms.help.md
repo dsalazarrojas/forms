@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a job applicant's previous work experience, specifically from their employer. This form is used to verify the applicant's work history and gather details about their job role, supervisor, and work dates. 
-This form helps to avoid duplication and ensure accuracy of the information. 
-
-To complete this form, the supervisor or HR representative of the applicant's previous employer will be asked to fill in their company's name, the applicant's job title, the start and end dates of their employment, as well as the name and contact information of their direct supervisor. The supervisor is also asked to select a reference type (e.g., performance, professional, character) that best describes their relationship with the applicant.
-
-</thinking>
-
 # Job Applicant Reference Report Form - Help Guide
 ## Purpose
 The Job Applicant Reference Report Form is used to collect information about a job applicant's previous work experience from their employer. This form helps to verify the applicant's work history and gather details about their job role, supervisor, and work dates.

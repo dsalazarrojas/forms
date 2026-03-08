@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is intended to be used when an employee is taking parental leave. The form purpose is to capture necessary information such as the employee's name, job title, and dates of the leave. It also captures the reason for the leave and whether it is paid or unpaid.
-The form is not intended to be used for other types of leave, such as vacation or sick leave.
-Please note that the form fields are mostly self-explanatory, but this guide will provide additional context and explanations where necessary.
-</thinking>
-
 # Parental Leave Time Off Form - Help Guide
 ## Purpose
 This form is used to request parental leave for an employee. It captures necessary information to process the leave request.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for social workers in the healthcare setting. This form will help social workers understand the client's personal and medical history, as well as their current contact methods and medication list. By completing this form, social workers can better understand the client's situation and provide more effective support.
-The form can be completed on a single page, making it convenient to fill out and review. However, please note that some form fields are not required, allowing social workers to fill out only what is necessary.
-This guide will walk you through the form fields and their purposes, helping you to fill out the form accurately and efficiently.
-</thinking>
-
 # social-worker-interview-form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients in the healthcare setting for social workers to better understand their needs and provide effective support.

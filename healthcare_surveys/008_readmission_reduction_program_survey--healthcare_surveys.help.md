@@ -1,15 +1,3 @@
-<thinking>
-The purpose of the "Readmission Reduction Program Survey" is to gather feedback and insights from patients who have participated in a readmission reduction program within a healthcare setting. This program aims to identify areas for improvement and measure the effectiveness of the program in reducing readmissions. The survey is designed to collect information about the patient's experiences, challenges, and suggestions for quality improvement. By analyzing this data, healthcare providers can make informed decisions to enhance the program and better serve their patients.
-
-Before completing the survey, please note that:
-
-* This survey is for patients who have participated in the readmission reduction program.
-* You are providing your honest and unbiased opinions to help us improve the program.
-* All answers will be kept confidential and anonymous.
-* This survey should take approximately [X] minutes to complete.
-
-Please ensure you have not completed this survey before as it may be considered duplication of efforts. If you have already provided feedback, please do not complete this survey again.</thinking>
-
 # Readmission Reduction Program Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather your feedback and suggestions on the effectiveness of the readmission reduction program.

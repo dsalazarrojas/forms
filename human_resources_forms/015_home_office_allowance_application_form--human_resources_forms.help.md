@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate home office allowance applications from employees. It captures necessary information to process the application efficiently. Please ensure that only eligible employees submit the form and that the fields provided are filled with accurate and sufficient information to aid in a fair evaluation process. It is recommended to carefully review the form before submission to avoid rejections.
-</thinking>
-
 # home_office_allowance_application_form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for home office allowance applications from employees. It is used to process requests for home office allowance, ensuring that all required details are captured accurately and efficiently.

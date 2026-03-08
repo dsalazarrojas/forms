@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I am tasked with creating a user-facing help guide for the `skin_treatment_feedback_survey` form in the `healthcare_forms` category. Upon analyzing the provided YAML fields, I understand that this form aims to collect feedback from patients or clients regarding their experience with skin treatments. The form is designed to gather information on the treatment outcome, overall experience, satisfaction, any issues encountered during treatment, feedback on the treatment, and suggestions for improvement. Additionally, it asks for contact information, follow-up preferences, and allows for additional comments or feedback. The form appears to be focused on gathering constructive feedback for service improvement. I will now create a comprehensive help guide for the form.</thinking>
-
 # skin_treatment_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with our skin treatment service. Your responses will help us identify areas of improvement and ensure we provide the best possible care for our clients.

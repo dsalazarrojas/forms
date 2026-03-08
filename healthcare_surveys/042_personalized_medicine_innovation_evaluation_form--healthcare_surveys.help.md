@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to evaluate innovations related to personalized medicine. The evaluation will assess the innovation's name, project team leaders, and scores for innovation, impact, feasibility, and evaluation. The form is intended to provide a structured and comprehensive way to assess and evaluate the innovation. This form is not meant to be filled out if the innovation has already been evaluated or if the user is not authorized to complete the evaluation.
-
-It is recommended to fill out the form in the following order: 
-- Start with the introduction, which provides context and background information about the innovation.
-- Select the innovation name.
-- Identify the project team leads, which are usually the people in charge of the project.
-- Score the innovation based on its perceived impact, feasibility, and evaluation.
-
-This evaluation will be used to track and compare the progress and effectiveness of different projects related to personalized medicine.
-</thinking>
-
 # Personalized Medicine Innovation Evaluation Form - Help Guide
 
 ## Purpose

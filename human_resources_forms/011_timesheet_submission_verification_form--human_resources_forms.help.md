@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to verify timesheet submissions from employees. The purpose of this form is to ensure that the submitted timesheets are accurate and complete. The form helps managers verify that employees have submitted their timesheets correctly and that all required fields are filled out.
-
-To prevent duplication of effort, this form should only be used when an employee's timesheet has not been verified previously. If an employee's timesheet has already been verified, this form should not be filled out again.
-
-</thinking>
-
 # Timesheet Submission Verification Form - Help Guide
 ## Purpose
 This form is used to verify the accuracy and completeness of employee timesheet submissions. Use this form when an employee's timesheet has not been verified previously.

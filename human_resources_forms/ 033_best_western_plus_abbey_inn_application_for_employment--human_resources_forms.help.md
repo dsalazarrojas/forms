@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for applicants to submit their information and preferences for employment opportunities at Best Western Plus Abbey Inn. The form is probably used by HR or management personnel to assess candidate qualifications and suitability for various roles within the hotel. The fields are a mix of personal identification, contact information, and relevant details for the role. The form might be used for both internal and external applicants. To avoid duplication, the system could check for existing applications from the same person, either by email or other unique identifiers. This form requires a mix of personal contact information, a specific date selection, primary selection, agreement, and other details.
-</thinking>
-
 # Best Western Plus Abbey Inn Application For Employment - Help Guide
 ## Purpose
 This form is designed to collect personal and relevant information from applicants for employment opportunities at Best Western Plus Abbey Inn. Please complete the form accurately and thoroughly to help our team assess your qualifications and suitability for available roles.

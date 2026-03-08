@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the resources and facilities in a healthcare setting. It is meant to be completed by healthcare professionals to assess the availability, distribution, and effectiveness of resources within a facility. The form can be used to identify areas of improvement and make informed decisions about resource allocation. 
-The form should not be completed by individuals who are not healthcare professionals, and it is not intended for patients or general users.
-</thinking>
-
 # healthcare_facility_resource_allocation_evaluation_form - Help Guide
 ## Purpose
 This form is used by healthcare professionals to evaluate the resources and facilities in a healthcare setting. It helps to identify areas of improvement and make informed decisions about resource allocation.

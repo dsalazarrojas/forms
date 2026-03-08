@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Verification Affidavit Form - Help Guide
 ## Purpose
 The Employment Verification Affidavit Form is designed to verify an employee's employment details, including contact information, rental and loan history, background information, and employer details. This form helps ensure accuracy and consistency in employment verification processes, ensuring that employees' personal and professional records are up-to-date and secure.

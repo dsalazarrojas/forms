@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from candidates during the sales interview process. The purpose of this form is to collect relevant details from both the candidate and the recruiter, making it easier to track and compare candidate responses and notes across sales interviews. This form should be filled out for every sales interview, and it's essential to ensure that the required fields are completed accurately to get the most out of this form.
-</thinking>
-
 # sales_interview_form_with_voice_record - Help Guide
 ## Purpose
 This form is used to gather information from candidates during the sales interview process.

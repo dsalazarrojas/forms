@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to obtain a patient's consent for a treatment plan, which is a document that outlines the care and treatment plan for a patient. The purpose of this form is to ensure that the patient understands their treatment plan and is aware of their rights and responsibilities. It is typically used in healthcare settings to provide a clear understanding of the treatment and care plan to both the patient and the healthcare provider. This form may need to be filled out by the patient themselves, and the completion of this form may be a requirement for treatment or services to proceed.
-</thinking>
-
 # Treatment Plan Consent Form - Help Guide
 ## Purpose
 The Treatment Plan Consent Form is a document that outlines the care and treatment plan for a patient. It is used to ensure that the patient understands their treatment plan and is aware of their rights and responsibilities.

@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication of work and to ensure accurate and consistent performance improvement declarations, this form is designed for employees to submit their performance improvement plans, issue descriptions, and other relevant information in a structured and organized manner. This form will help management track and analyze employee performance and improvement plans, enabling data-driven decisions and targeted support.
-</thinking>
-
 # performance_improvement_declaration_form - Help Guide
 ## Purpose
 The performance improvement declaration form is a tool used to document and track employee performance improvement plans, allowing for data-driven decision-making and targeted support.

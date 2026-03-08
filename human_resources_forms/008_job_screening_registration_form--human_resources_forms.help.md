@@ -1,11 +1,3 @@
-<thinking>...
-
-This form is designed to collect information about job screening registrations from applicants. This form is used by hiring managers and recruiters to register job openings and gather information about the applicants. The form is divided into several sections, each containing relevant fields that need to be filled in by the applicant or hiring manager. 
-
-Before proceeding, please note that this form is for internal use only. Please ensure that you are authorized to access and submit this form.
-
-</thinking>
-
 # job_screening_registration_form - Help Guide
 ## Purpose
 This form is used to register job openings and collect information from applicants.

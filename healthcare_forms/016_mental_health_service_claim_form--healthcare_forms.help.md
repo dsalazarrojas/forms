@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to mental health services claims. It includes fields for patient and claimant information, service details, claim status, and other relevant particulars. This form will help in organizing and processing such claims efficiently. Please ensure that all fields are completed accurately and thoroughly. Note that some fields may be optional, but all required fields must be filled in order to process the claim.
-</thinking>
-
 # mental_health_service_claim_form - Help Guide
 ## Purpose
 This form is intended to gather information related to mental health service claims. It is used to collect data on patients, claimants, and healthcare providers, helping to streamline the claim processing process.

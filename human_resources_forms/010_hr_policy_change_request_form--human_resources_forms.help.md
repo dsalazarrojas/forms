@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a tool for HR personnel to request and manage changes to organizational policies. The form should only be used for submitting requests for changes to policies that are not yet implemented or are in the review process. Submitter and reviewer information is required for tracking and approval purposes.
-</thinking>
-
 # HR Policy Change Request Form - Help Guide
 ## Purpose
 The HR Policy Change Request Form is used for requesting changes to existing or new organizational policies. The form gathers information about the policy change request, including the employee who submitted the request, the proposed changes, and the reviewers and approvers assigned to review and approve the change.

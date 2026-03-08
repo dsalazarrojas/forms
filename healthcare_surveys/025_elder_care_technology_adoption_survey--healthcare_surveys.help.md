@@ -1,12 +1,3 @@
-<thinking>
-The form, "Elder Care Technology Adoption Survey," is designed to collect information from caregivers and care receivers about their experiences with and attitudes towards elder care technologies. The form aims to assess the effectiveness and challenges associated with these technologies in providing quality care.
-
-Please ensure you understand the form's purpose and the types of information it collects before proceeding. This form's content may be similar to or related to other forms used in the healthcare industry, so please double-check that you're not duplicating your response or providing irrelevant information.
-
-If you have any questions or concerns about the form or its content, please reach out to the relevant support team for assistance.
-
-</thinking>
-
 # Elder Care Technology Adoption Survey - Help Guide
 ## Purpose
 

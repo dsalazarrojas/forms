@@ -1,5 +1,3 @@
-<thinking>As I generate this help guide, I'll keep in mind that the form "iv_sedation_medical_history_form_iv_sedation" is used for recording and managing the medical history of patients undergoing sedation. The form aims to gather essential information about the patient's medical history, allergies, medications, and other relevant details. This guide will walk you through how to complete the form accurately and effectively.</thinking>
-
 # iv_sedation_medical_history_form_iv_sedation - Help Guide
 ## Purpose
 The "iv_sedation_medical_history_form_iv_sedation" is a medical form used to record and manage the medical history of patients undergoing sedation. This form helps healthcare professionals gather essential information about the patient's medical history, allergies, medications, and other relevant details to ensure accurate and safe sedation administration.

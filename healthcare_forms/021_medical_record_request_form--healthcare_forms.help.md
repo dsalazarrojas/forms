@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Record Request Form - Help Guide
 ## Purpose
 The Medical Record Request Form is used to request access to a patient's medical records from a healthcare provider or facility. This form is typically used when a patient needs to access their medical records for personal reasons, such as for insurance purposes or to share medical information with a new healthcare provider. The form requires patient and provider/facility information, as well as the reason for the request. The form will be sent to the relevant parties and they will sign and date it to acknowledge the request.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the usage and availability of medical supplies. It is designed to help staff track and report on the usage of products, including which products need to be restocked. This form will help with inventory management and restocking decisions. It is recommended that this form be completed by staff members who have access to medical supply usage information and are able to accurately report on which products have been used and need to be restocked. Please ensure that the information submitted is accurate and up-to-date, as this will help with making informed decisions regarding inventory management.</thinking>
-
 # medical_supplies_usage_report_form - Help Guide
 ## Purpose
 The medical_supplies_usage_report_form is designed to collect information on the usage and availability of medical supplies. This form helps with inventory management and restocking decisions.

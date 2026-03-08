@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "medication-incident-report-form" form. This form is used to report medication incidents, which is a crucial process in the healthcare industry. The form is designed to collect information about patient medication incidents, including patient name, date and time of the incident, medication name, dose, and description of the incident. The form also captures contributing factors, reported by, action taken, and additional actions taken. This form is a vital tool for healthcare professionals to document and review medication incidents, which helps in maintaining patient safety and quality of care.
-
-</thinking>
-
 # Medication Incident Report Form - Help Guide
 ## Purpose
 The Medication Incident Report Form is designed to report medication incidents that occurred during patient care. This form helps healthcare professionals document and review medication incidents to ensure patient safety and quality of care.

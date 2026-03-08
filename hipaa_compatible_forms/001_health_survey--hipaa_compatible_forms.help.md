@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "health_survey" form that is easy to understand for end-users. This form is used to gather general information, medical history, medical conditions, medications, and contact information, among others. It seems to be designed for healthcare or insurance-related purposes. However, we need to ensure that the form's purpose is clearly stated and each field's explanation is provided in a simple and concise manner.
-
-Before proceeding, we should also double-check if the form is HIPAA-compliant, as suggested by the category "hipaa_compatible_forms". 
-
-We should also verify that there's no duplication of fields with similar purposes, such as multiple "Medical History" fields (id: 2, 8). We can merge these into one field to improve the form's structure and reduce redundancy.
-
-Assuming the form is HIPAA-compliant and the field duplication issue is addressed, we can proceed with the guide.
-
-</thinking>
-
 # health_survey - Help Guide
 ## Purpose
 The "health_survey" form is a collection of questions designed to gather general information, medical history, and other relevant details about an individual's health and medical conditions. This form aims to provide a comprehensive overview of an individual's health status, which can be used by healthcare professionals or insurance providers to better understand their health and provide suitable care.

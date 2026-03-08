@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the "Health Consultation Intake Form" used to collect information about patients' medical history, symptoms, and treatment plans. 
-The form is designed to be completed by patients before their medical consultation appointment. It includes sections for demographic information, medical record details, and appointment scheduling. 
-The form is required for all medical consultations to ensure that patients' medical histories are up-to-date and accurate. 
-Please note that this form is intended for patients only and should not be completed by healthcare providers. 
-</thinking>
-
 # Health Consultation Intake Form - Help Guide
 
 ## Purpose

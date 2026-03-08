@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Nursing Burnout Self Test Maslach Burnout Inventory MBI Course Registration Form". To start, the form is designed to collect information from nurses who are registering for a course related to burnout prevention. However, I'd like to verify that this form is not a duplicate or redundant in any way. After checking, I found that the form is intended to collect demographic and course-related information from nurses to help them register for the course.
-
-The form is divided into several sections that cover basic demographic information, course details, and clinical site specifics. Here's a breakdown of the form and its fields:
-
-The form's primary purpose is to ensure that course registrants provide accurate and complete information. By understanding the form's structure and requirements, nurses can fill it out efficiently and effectively.
-
-</thinking>
-
 # Nursing Burnout Self Test Maslach Burnout Inventory MBI Course Registration Form - Help Guide
 ## Purpose
 The form is designed to collect demographic and course-related information from nurses who are registering for a course on burnout prevention. Please fill out the form accurately to ensure successful course registration.

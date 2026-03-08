@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to manage the movement of hospitality items within the organization. It allows users to select the type of transfer (internal or external), the departments involved in the transfer, and other relevant details such as item name, quantity, and status. The form also includes fields for notes, created by, date, and time. The form is used to track the movement of hospitality items, ensuring accurate inventory management and efficient communication among teams.
-
-To prevent duplication, this form should only be used for new transfers, not for tracking existing ones. Users should not use this form for internal purposes, such as creating new forms or editing existing ones.
-
-This guide is intended to be read in conjunction with the provided YAML fields, which describe the form's structure and options. The guide aims to provide a clear understanding of each field's purpose and usage.
-
-</thinking>
-
 # hospitality_inventory_movement_form - Help Guide
 ## Purpose
 The hospitality_inventory_movement_form is designed to facilitate the movement of hospitality items within the organization. It helps to track item transfers, including internal and external transfers.

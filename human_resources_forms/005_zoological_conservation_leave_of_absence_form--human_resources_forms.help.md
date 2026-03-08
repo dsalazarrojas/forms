@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a leave of absence for a Zoological Conservation employee. It is essential to ensure that all required fields are filled out accurately to ensure that your leave request is processed correctly. Please review the form carefully and complete it as instructed. If you have any questions or concerns, please reach out to your supervisor or HR department.
-</thinking>
-
 # zoological_conserveion_leave_of_absence_form - Help Guide
 ## Purpose
 The zoological_conserveion_leave_of_absence_form is used for requesting a leave of absence for a Zoological Conservation employee. This form is required for all employees who need to take a leave of absence for any reason.

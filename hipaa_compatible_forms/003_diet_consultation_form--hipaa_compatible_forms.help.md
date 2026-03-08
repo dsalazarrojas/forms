@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Diet Consultation Form", we need to ensure that the form's purpose and requirements are clearly understood by the end-users. The form's purpose is to collect information from individuals seeking diet consultation services. To achieve this, we will break down the form into sections and explain each field's purpose and requirements.
-
-</thinking>
-
 # Diet Consultation Form - Help Guide
 ## Purpose
 The Diet Consultation Form is designed to collect information from individuals seeking diet consultation services. Please take a few minutes to read through this guide to understand each field's requirements and complete the form accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a standardized template for assessing patients who are being transferred from one healthcare facility to another. The purpose of this form is to collect information about the patient, their current condition, and the transfer process to ensure smooth transition of care. To ensure that this form serves its intended purpose, it is essential to review its content carefully and not duplicate or create a new form with the same purpose or overlapping content.
-</thinking>
-
 # Care Transfer Assessment Form - Help Guide
 
 ## Purpose

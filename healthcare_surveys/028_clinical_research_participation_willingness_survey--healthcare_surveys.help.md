@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clinical Research Participation Willingness Survey - Help Guide
 ## Purpose
 This survey is designed to help researchers understand your willingness to participate in clinical research studies. Your participation will help us to better understand your preferences, concerns, and availability, which will aid in matching you with suitable studies. Your responses will be kept confidential and will not affect your medical treatment.

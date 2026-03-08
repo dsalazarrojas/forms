@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect information for an Employer Sponsored Visa Application. This form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and public metadata from the given category "human_resources" and "visa". This form is intended to gather details from both the applicant and the employer for the application process. To ensure that the form is completed accurately, please review each field carefully and ensure that all required fields are filled out. If you are unsure about any section, please refer to the field explanations below.
-</thinking>
-
 # Employer Sponsored Visa Application Form - Help Guide
 
 ## Purpose

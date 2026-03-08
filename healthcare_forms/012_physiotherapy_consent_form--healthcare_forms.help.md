@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for patients to provide information about their physiotherapy sessions, including their personal details, medical history, emergency contact information, and consent. This form likely aims to streamline the physiotherapy management process and improve patient care. It seems to have a comprehensive list of fields to collect necessary information but does not appear to have any fields that are clearly specific to a particular physiotherapy management system, so it could be a generic form for general patient data collection.
-</thinking>
 # physiotherapy_consent_form - Help Guide
 ## Purpose
 The Physiotherapy Consent Form is used to collect patient information, medical history, and consent for physiotherapy sessions.

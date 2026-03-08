@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, I need to analyze the provided YAML metadata. The form is designed for mental health monitoring, as evident from its title "Mental Health Monitoring Form" and the various fields related to health and wellness indicators. This form appears to be a comprehensive assessment tool for monitoring mental health status, with questions covering different aspects such as anxiety, depression, stress, and other related factors.
-
-Upon closer inspection, I see that the form consists of 25 pages, each with different types of questions. Some pages have multiple-choice options, while others are free-text fields for respondents to provide more detailed responses. The form requires answers on certain pages, while others are optional.
-
-To determine the form's relevance, I consider the presence of pages that ask about stress levels (id: 6, 7, 16, 18, 20, 22), anxiety and depression status (id: 8, 14, 25), and other mental health indicators. These pages seem to cover a broad range of mental health concerns.
-
-I also consider the form's structure and organization, with pages grouped into different categories (e.g., id: 1-5 seems to be an introduction and background information). The use of page names and labels, such as "mental_health_monitoring_form_page_1" and "mental_health_monitoring_form_page_2", suggest a clear and organized structure.
-
-However, I couldn't find any explicit information on the form's purpose or any indication that it's not a duplication of an existing form. I'll assume that the form's purpose is to provide a comprehensive mental health monitoring tool for individuals or organizations.
-
-</thinking>
-
 # Mental Health Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help monitor mental health status, covering various indicators of stress, anxiety, and depression. It provides a comprehensive assessment tool for individuals or organizations to track and evaluate mental health progress.

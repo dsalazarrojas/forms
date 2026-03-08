@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect necessary information from guests checking into an Airbnb unit. This form is designed to be completed by the guest prior to arrival, ensuring the host is prepared for their stay and can provide a smooth experience. The form fields are intentionally kept to a minimum, focusing on essential details that are crucial for host and guest communication and unit management.
-</thinking>
-
 # Airbnb Check In Form - Help Guide
 
 ## Purpose

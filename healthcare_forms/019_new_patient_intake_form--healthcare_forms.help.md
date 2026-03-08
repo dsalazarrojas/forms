@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_patient_intake_form - Help Guide
 ## Purpose
 The New Patient Intake Form is designed to collect essential information from new patients. This form helps our medical staff understand the patient's medical history, current conditions, and insurance details, ensuring a smooth and efficient intake process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to help executives and leaders express their interest in executive coaching within the company. The purpose of this form is to gather information about the individual's background, goals, and preferences regarding executive coaching. This form will be used by the Human Resources department to determine which executives would benefit from executive coaching and to tailor the coaching process to their specific needs.
 
 </thinking>

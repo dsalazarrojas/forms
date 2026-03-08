@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Sponsorship Alignment Reception RSVP" form, we first need to understand the form's purpose and how it should be presented to end users. The form appears to be related to managing sponsorship and reception information, potentially for event or conference purposes.
-
-Given the fields provided in the YAML configuration, it seems to be designed to collect information about reception details, such as date, contact details, dietary preferences, and RSVP responses. However, some fields might be redundant or overlapping in their purposes due to the presence of "Additional Message" and "Additional Note" fields, which could potentially be combined or clarified for more clarity.
-
-The main goal of this form should be to gather accurate and complete information from guests and contacts regarding their sponsorship alignment, reception preferences, and RSVP responses. It's essential to clearly explain each field to ensure end users understand what information is expected of them.
-
-For the sake of clarity and organization, we will focus on presenting each field in a straightforward and practical manner, taking into account the fields provided in the YAML configuration. This guide aims to make the form easy to use and minimize confusion for end users.</thinking>
-
 # Sponsorship Alignment Reception RSVP - Help Guide
 ## Purpose
 The "Sponsorship Alignment Reception RSVP" form is designed to collect information from guests and contacts regarding their sponsorship alignment, reception preferences, and RSVP responses. This form is a crucial tool for managing reception details and ensuring that guests have a smooth and enjoyable experience.

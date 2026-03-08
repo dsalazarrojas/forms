@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for collecting information about a patient's allergies, either known or suspected. The purpose of this form is to gather details about the patient's allergies, such as the name, description, and status of the allergies, as well as any suspected allergies and corresponding allergists. The form also collects contact information for follow-up and potential emergency contact, and the date and time the form was signed. This form should not be used for other purposes, such as medical histories or medication tracking.
-</thinking>
-
 # Daycare Allergy Form - Help Guide
 ## Purpose
 The Daycare Allergy Form is designed to collect information about a patient's known and suspected allergies for the purpose of providing safe and effective care.

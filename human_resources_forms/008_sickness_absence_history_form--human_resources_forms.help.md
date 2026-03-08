@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to track an employee's sickness absence history. The purpose of the form is to record the start and end dates of each sickness absence, the reason for the absence, the type of sickness, the duration of the absence, any supporting documents, and any comments related to the absence. This form is intended for use by HR personnel or other authorized individuals to maintain accurate and up-to-date records of employee absences. It is essential to ensure that the form is completed accurately and consistently to avoid any potential duplication of effort or errors in processing. 
-
-</thinking>
-
 # sickness_absence_history_form - Help Guide
 ## Purpose
 This form is used to record and track an employee's sickness absence history.

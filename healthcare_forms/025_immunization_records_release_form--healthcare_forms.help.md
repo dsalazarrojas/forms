@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is for releasing immunization records, which are sensitive medical information. The form is meant to be completed by healthcare providers or authorized personnel. The goal is to provide a secure way to share immunization records with schools, childcare facilities, or other entities that require them. The form should not be completed by patients themselves, as it requires authorized personnel to verify the release of sensitive information. This form must be reviewed and approved internally before being shared with external parties. The form's fields are a mix of patient information, consent, and facility information, indicating that it's a multi-faceted document...</thinking>
-
 # immunization_records_release_form - Help Guide
 ## Purpose
 The immunization records release form is used to share sensitive medical information about a patient's immunization records with schools, childcare facilities, or other entities that require it. This form ensures that the release of this information is done in a secure and controlled manner.

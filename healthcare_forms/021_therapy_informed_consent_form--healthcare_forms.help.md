@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose of this form is crucial to ensure a smooth and secure data collection process for patients. This form is intended for gathering information and consent for therapy sessions, which is a critical aspect of healthcare. Ensuring that the form is completed accurately and thoroughly will help prevent any potential miscommunications or misunderstandings during the therapy process. This form should not be duplicated for other purposes, as it contains sensitive patient information. To avoid any confusion, please complete the form according to the instructions below.</thinking>
-
 # Therapy Informed Consent Form - Help Guide
 ## Purpose
 This form is used to gather informed consent for therapy sessions, ensuring that patients understand and agree to the terms of their treatment. It is a critical aspect of the healthcare process and requires accurate and thorough completion.

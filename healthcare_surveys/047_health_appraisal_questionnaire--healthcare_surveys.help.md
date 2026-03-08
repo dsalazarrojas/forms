@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Appraisal Questionnaire - Help Guide
 ## Purpose
 The Health Appraisal Questionnaire is a comprehensive form designed to gather information about an individual's health status, medical history, and lifestyle factors. This form will help healthcare professionals assess the patient's overall health and identify potential risks or areas of concern. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the internship rotation dates, departments, supervisors, and learning goals of a specific internship program. The purpose of this form is to provide a structured way for the internship participants to report their progress and achievements during the rotation period. This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using AI.
-</thinking>
-
 # internship_rotation_overview - Help Guide
 ## Purpose
 The internship rotation overview form is designed to collect information about the internship program's progress and achievements.

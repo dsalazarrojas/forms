@@ -1,7 +1,3 @@
-<thinking>
-The form "employment_application_form" is used for applicants to provide information about themselves in the context of a job application. This form is likely used in the recruitment process of a company to gather essential details about the applicant. The form should only be filled out once, and the purpose is to create a single submission for the application.
-</thinking>
-
 # employment_application_form - Help Guide
 
 ## Purpose

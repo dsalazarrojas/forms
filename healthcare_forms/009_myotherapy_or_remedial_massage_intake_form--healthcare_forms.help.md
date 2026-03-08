@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect general information, medical history, contact details, and specific massage therapy preferences from clients before their initial session. This form helps the massage therapist understand the client's needs and medical history, allowing for a more tailored and safe massage experience. It's essential to fill out this form thoroughly to ensure accurate medical assessments and proper treatment planning.
-</thinking>
-
 # Myotherapy Or Remedial Massage Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about clients before their massage therapy sessions. The information collected helps us provide the best possible experience and ensure your safety and well-being during treatment.

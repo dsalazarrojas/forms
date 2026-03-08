@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block:
-
-This form, "Patient Information," is designed to collect essential details about a patient. The form's purpose is to capture a patient's basic demographic information, including their name, contact details, and relevant identification numbers, such as a social security number, which is optional. This information will likely be used for patient communication, identification, and data analysis.
-</thinking>
-
 # Patient Information - Help Guide
 ## Purpose
 This form is used to collect and store patient information for various purposes.

@@ -1,13 +1,3 @@
-<thinking>
-
-This guide provides an overview of the Hospice Discharge Summary Form, its intended purpose, and the steps required to complete it effectively. 
-
-The form is designed to collect information related to the discharge process of a patient, capturing vital details about the patient's condition, medication, medical info, and discharge diagnosis. The form serves as a comprehensive document that can be used for reference and continuity of care post-discharge. 
-
-Before starting the form, confirm that you are not duplicating a similar form for the same purpose and that the provided information is accurate and up-to-date. 
-
-</thinking>
-
 # Hospice Discharge Summary Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients about their health records release. It's crucial to ensure that the form is properly filled out to maintain patient confidentiality and data accuracy. Before filling out this form, please check with your healthcare provider to ensure that you are not duplicating any existing forms. If you have already filled out this form, do not resubmit it.
-</thinking>
-
 # Public Health Records Release Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and authorization for releasing their health records. It is essential to provide accurate and up-to-date health information to healthcare providers for proper care and treatment.

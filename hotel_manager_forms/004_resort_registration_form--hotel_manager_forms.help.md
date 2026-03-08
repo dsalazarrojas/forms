@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from resort guests for registration purposes. The purpose of this form is to gather basic contact and demographic information from guests, including name, email, phone number, date of birth, and gender. This information will be used to create a guest profile, which can be used for various resort operations such as room allocation, event planning, and personalized communication.
-Before starting, please ensure that you have not already filled out this form in the past. If you're unsure, you can check with the resort staff for guidance. It's also a good idea to review the form fields carefully to ensure you provide accurate and complete information.
-</thinking>
-
 # Resort Registration Form - Help Guide
 ## Purpose
 The Resort Registration Form is designed to collect information from resort guests for registration and administrative purposes.

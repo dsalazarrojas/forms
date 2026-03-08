@@ -1,13 +1,3 @@
-<thinking>
-
-The form "patient_belongings_inventory_form" is used to record and manage patient belongings. It is designed to track the status, location, and value of patient's belongings. The form is divided into several sections, each representing a specific aspect of the patient's belongings. The form will help healthcare professionals to maintain an accurate inventory of patient's belongings, which is crucial for patient care and asset management.
-
-The form is not meant to be used for patient registration or identification purposes. It is intended for administrative use only.
-
-Before filling the form, ensure that you have the necessary information about the patient's belongings. This form is a reference guide for healthcare professionals who need to complete it.
-
-</thinking>
-
 # patient_belongings_inventory_form - Help Guide
 ## Purpose
 The patient belongings inventory form is used to track and manage patient's belongings, including their status, location, and value.

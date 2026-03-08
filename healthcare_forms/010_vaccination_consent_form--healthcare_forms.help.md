@@ -1,9 +1,3 @@
-<thinking>Here is the internal reasoning block:
-
-The Vaccination Consent Form is a crucial document used to record the essential patient information and vaccination details in a standardized and structured format. This form helps ensure that all relevant patient data is collected accurately and consistently, facilitating better healthcare service delivery. To avoid duplication and ensure accuracy, healthcare professionals should only complete this form for patients who have not already been vaccinated or for whom vaccination details are not recorded in their medical record. Please review the form carefully to ensure that it is completed with the correct information for each patient.
-
-</thinking>
-
 # Vaccination Consent Form - Help Guide
 ## Purpose
 The Vaccination Consent Form is a document that captures the necessary patient information and vaccination details for accurate and efficient healthcare service delivery.

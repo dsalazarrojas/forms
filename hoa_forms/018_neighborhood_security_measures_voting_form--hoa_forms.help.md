@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and track neighborhood security and safety measures. Before proceeding, please ensure that you have not already submitted a similar form for the same neighborhood, as duplicate submissions can lead to confusion and unnecessary work. Please review the form carefully to ensure you are providing accurate and relevant information.
-</thinking>
-
 # Neighborhood Security Measures Voting Form - Help Guide
 ## Purpose
 This form is designed to collect information on the security and safety measures present in a neighborhood. The data collected will be used to identify areas that require improvement and provide valuable insights for decision-making purposes.

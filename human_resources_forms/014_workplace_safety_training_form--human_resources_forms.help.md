@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to record information on employee training sessions, including dates, training providers, locations, topics, and other relevant details. The fields should be filled out accurately and comprehensively to capture the necessary data for tracking and management purposes.
-The form is likely used by HR or management departments to keep track of employee safety training records.
-It's essential to ensure that all required fields are filled out, and the form should be used for a specific type of training session (e.g., safety, emergency procedures, etc.). 
-</thinking>
-
 # Workplace Safety Training Form - Help Guide
 ## Purpose
 The Workplace Safety Training Form is used to record and track employee training sessions, including dates, providers, locations, topics, and other relevant details.

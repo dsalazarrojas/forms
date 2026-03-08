@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants about their perceptions and experiences with anonymous health data. This form is part of a larger initiative to better understand how individuals in the healthcare industry view and interact with health data. The purpose of this form is to collect information on participants' attitudes towards health data, their comfort with using anonymous data, and their preferences for how they would like to be informed about changes to their health data. This form is a follow-up to ensure that the data collection process is transparent and user-friendly. It's intended for healthcare professionals and researchers to gain insights into public perceptions of health data ethics. The form is designed to be completed by individuals who have already participated in health data collection activities, providing valuable feedback on how to improve the process.
-
-</thinking>
-
 # Public Health Data Ethics Survey - Help Guide
 ## Purpose
 The Public Health Data Ethics Survey is designed to collect feedback from participants on their perceptions and experiences with health data. This survey aims to ensure that the data collection process is transparent, user-friendly, and meets the needs of its users.

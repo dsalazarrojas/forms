@@ -1,7 +1,3 @@
-<thinking>
-This form was created for healthcare professionals to review and manage patient health insurance exclusions. It's designed to gather information about a patient's medical conditions, insurance policy, and provider details. 
-</thinking>
-
 # health_insurance_exclusions_review_form - Help Guide
 ## Purpose
 The health_insurance_exclusions_review_form is a tool used to review and manage patient health insurance exclusions. This form helps healthcare professionals gather essential information about a patient's medical conditions, insurance policy, and provider details.

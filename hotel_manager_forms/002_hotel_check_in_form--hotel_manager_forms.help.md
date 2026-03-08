@@ -1,7 +1,3 @@
-<thinking>
-This guide provides a brief explanation of the form's purpose, step-by-step instructions, and field-by-field explanation, aimed at ensuring end users understand the form's requirements and how to complete it accurately.
-</thinking>
-
 # Hotel Check In Form - Help Guide
 ## Purpose
 The Hotel Check In Form is designed to collect information from guests checking into a hotel for an event or stay. The form is used to gather contact details, check-in/check-out dates, and any special requests or notes related to the guest's stay.

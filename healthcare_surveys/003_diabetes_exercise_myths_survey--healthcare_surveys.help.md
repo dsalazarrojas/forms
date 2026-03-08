@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and completion process for the Diabetes Exercise Myths Survey form. The form is designed to gather information on common myths or misconceptions related to exercise and diabetes management. This survey aims to collect data on how people perceive and address these myths, which can inform education and awareness efforts for individuals living with diabetes.
-</thinking>
-
 # Diabetes Exercise Myths Survey - Help Guide
 
 ## Purpose

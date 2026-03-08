@@ -1,7 +1,3 @@
-<thinking>
-This form is used for documenting disciplinary communications within an organization. Before proceeding, please ensure that this form is the correct template for your use case. If you're looking for a different template, please review the available options to avoid duplication of work. The form collects information about employee incidents, including employee details, incident specifics, and follow-up actions. It's essential to complete this form accurately and thoroughly to ensure a comprehensive record is kept.
-</thinking>
-
 # Disciplinary Communication Form - Help Guide
 ## Purpose
 

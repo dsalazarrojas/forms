@@ -1,11 +1,3 @@
-<thinking>
-This form was created as a tool to gather information from patients to provide them with personalized nutrition counseling services. It aims to collect essential details about the patient's health and nutrition needs.
-
-Before proceeding, ensure that you haven't filled out a similar form in the past as this information may still be relevant or available in our system. Completing this form multiple times is not only unnecessary but also a waste of time.
-
-If you're an existing patient, please do not attempt to complete this form again. You can contact your healthcare provider for more information on what to do next.
-</thinking>
-
 # Nutrition Counseling Application Form - Help Guide
 ## Purpose
 This form is used to collect essential information about you, the patient, to create a personalized nutrition plan tailored to your unique health and nutrition needs.

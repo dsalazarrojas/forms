@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Ear Wax Removal Consent Form" which is used to obtain consent from patients before performing an ear wax removal procedure. The form is designed to collect relevant patient information, medical history, and other related details to ensure a safe and effective procedure. 
-</thinking>
-
 # Ear Wax Removal Consent Form - Help Guide
 ## Purpose
 The Ear Wax Removal Consent Form is used to obtain consent from patients before performing an ear wax removal procedure. It is essential to understand the form's purpose and ensure you fill it out accurately to avoid any complications or issues during the procedure.

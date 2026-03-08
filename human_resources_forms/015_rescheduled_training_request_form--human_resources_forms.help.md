@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for requesting a reschedule of a training session. The form is used by individuals who need to change the date of a training session they are attending. This form will help the training coordinator to keep track of the rescheduled training sessions and update the training status accordingly. The purpose of this form is to ensure that the training sessions are rescheduled in a organized and efficient manner. Please note that this form should only be used for rescheduling purposes and not for requesting new training sessions. Also, please make sure that you are not rescheduling the session for a date that already has a session scheduled. If you are unsure, please contact the training coordinator to verify the availability of the new date.
-</thinking>
-
 # Rescheduled Training Request Form - Help Guide
 ## Purpose
 The Rescheduled Training Request Form is a tool used to request the rescheduling of a training session. This form will help the training coordinator to keep track of the rescheduled sessions and update the training status accordingly.

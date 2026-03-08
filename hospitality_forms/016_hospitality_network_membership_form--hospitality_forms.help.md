@@ -1,5 +1,3 @@
-<thinking>This form was designed to be a simple membership application for the Hospitality Network. Its purpose is to collect information from potential members, including their user details, membership preferences, and payment information. This form is intended for both personal and business use cases. Please review the sections below to learn how to complete it successfully.</thinking>
-
 # Hospitality Network Membership Form - Help Guide
 ## Purpose
 The Hospitality Network Membership Form is designed to collect information from potential members, including their personal details, membership preferences, and payment information. This form is meant for both personal and business use cases.

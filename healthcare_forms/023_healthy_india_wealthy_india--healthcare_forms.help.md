@@ -1,9 +1,3 @@
-<thinking>
-Form designers use this form to collect information from people who are affected by various diseases in India. This form is designed to be a general survey to help people who are not able to fight with disease problems. 
-This form is not affiliated with, endorsed by, or derived from any form creation platform. It is an original adaptation created by AI using public survey topic metadata as inspiration. 
-The form's purpose is to gather data on the most effective diseases in nearby areas and how people are discriminated against due to these diseases. 
-</thinking>
-
 # healthy india wealthy india - Help Guide
 ## Purpose
 This form is a general survey designed to help people who are affected by various diseases in India. It is meant to collect information from individuals who are not able to fight with disease problems.

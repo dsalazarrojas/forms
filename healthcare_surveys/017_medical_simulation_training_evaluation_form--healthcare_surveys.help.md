@@ -1,11 +1,3 @@
-<thinking>
-This form will be used to evaluate medical simulation training events. Medical simulation training events are designed to mimic real-world medical scenarios, allowing trainees to practice their skills and receive feedback on their performance. This form is meant to gather feedback from trainers and evaluators on the effectiveness of the simulation training experience.
-
-This form should only be filled out for events that have already taken place. Trainers and evaluators will use the data collected here to identify areas of improvement for future simulation training events.
-
-The form should not be used to report on simulation training events that have not yet occurred.
-</thinking>
-
 # Medical Simulation Training Evaluation Form - Help Guide
 ## Purpose
 The Medical Simulation Training Evaluation Form is designed to gather feedback from trainers and evaluators on the effectiveness of medical simulation training events.

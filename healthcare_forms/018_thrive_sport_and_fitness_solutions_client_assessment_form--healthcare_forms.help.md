@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed to gather information about a client's sport and fitness goals, medical conditions, and medical procedures. The form will help the client provide their details and feedback, which will be used to assess their fitness needs and provide personalized advice.
-This form is intended for clients of a sport and fitness solution provider. It is crucial to ensure that the form is filled out correctly by the client, as the information will be used to provide accurate and effective services.
-Before filling out the form, the client should ensure that they have a clear understanding of their sport and fitness goals, medical conditions, and any relevant medical procedures they may have undergone.
-</thinking>
-
 # thrive_sport_and_fitness_solutions_client_assessment_form - Help Guide
 ## Purpose
 The form is used to gather information about a client's sport and fitness goals, medical conditions, and medical procedures, which will help the client provide their details and feedback used to assess their fitness needs and provide personalized advice.

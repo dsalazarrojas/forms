@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Disciplinary Process Feedback Survey" form. To ensure the guide is helpful, let's first clarify the purpose and context of the form.
-
-The "Disciplinary Process Feedback Survey" form is designed to gather feedback from employees on their experience with the disciplinary process within their organization. This form helps to identify areas of improvement and provides insights for management to make informed decisions to enhance the process.
-
-Before creating the guide, I would like to confirm that this form will be used to gather feedback on the disciplinary process, and not on any other aspect of the organization.
-
-Please let me know if this is correct, and I'll proceed with creating the guide.</thinking>
-
 # Disciplinary Process Feedback Survey - Help Guide
 ## Purpose
 The "Disciplinary Process Feedback Survey" form is designed to gather feedback from employees on their experience with the disciplinary process within their organization. This feedback helps identify areas of improvement and informs management decisions to enhance the process.

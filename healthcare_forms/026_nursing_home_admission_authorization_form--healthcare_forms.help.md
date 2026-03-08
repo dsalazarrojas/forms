@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information for the admission process of a patient into a nursing home. It is a critical document that requires accurate and truthful answers to ensure the patient receives proper care and attention. Before starting, please note that this form is not a substitute for a thorough medical evaluation. It is essential to fill it out carefully and truthfully to avoid any issues during the admission process. If you are unsure about any question or section, please ask for assistance from the nursing home staff.
-</thinking>
-
 # Nursing Home Admission Authorization Form - Help Guide
 ## Purpose
 This form is used to collect personal and medical information from individuals who require admission to a nursing home. It's essential to fill it out accurately and truthfully to ensure the patient receives the necessary care and attention.

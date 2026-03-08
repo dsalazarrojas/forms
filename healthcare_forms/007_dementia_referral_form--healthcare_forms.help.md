@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Dementia Referral Form used to collect information from healthcare providers to refer patients to a specialist unit for further treatment and care. The form should only be completed by authorized healthcare providers and should not be submitted multiple times for the same patient. Before completing the form, please ensure that you have all necessary patient information and have discussed the referral with the patient and their family members if necessary.
-
-</thinking>
-
 # Dementia Referral Form - Help Guide
 ## Purpose
 This form is used to refer patients with dementia to a specialist unit for further evaluation and treatment.

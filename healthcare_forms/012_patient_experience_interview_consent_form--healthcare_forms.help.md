@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from patients to better understand their experiences within a healthcare organization. Its purpose is to capture demographic data, gather their preferences for contact, and identify any concerns or expectations they may have. This form is likely used for internal quality improvement and patient satisfaction evaluation purposes.
-To fill out this form, the patient will be presented with a series of questions that cover various aspects of their experience within the healthcare organization. Please ensure that all required questions are completed accurately to help ensure the form is successfully submitted.
-</thinking>
-
 # Patient Experience Interview Consent Form - Help Guide
 ## Purpose
 The Patient Experience Interview Consent Form is designed to collect information from patients about their experiences within this healthcare organization. This form helps healthcare providers understand patient needs and preferences, enabling them to improve patient satisfaction and outcomes.

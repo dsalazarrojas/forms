@@ -1,8 +1,3 @@
-<thinking>
-We're designing a form to capture employee referrals and recommendations for job openings. This form will be used by HR teams to gather essential information about the employee's job title, contact details, department, job title preferences, salary range, job status, job type, job category, job description, job location, job URL, job open date, job status notes, job requisition notes, and job urgency. The form has 25 fields in total, with various input types such as text, select_one, select_multiple, date, and number. Some fields are required, while others are optional.
-We want to ensure that employees understand the purpose and requirements of this form to fill it out accurately and efficiently. Please note that some fields are not required, but it's still essential to fill them out if you have the information available.
-</thinking>
-
 # Employee Referral Recommendation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about job openings and referrals from HR teams. It will help in creating a comprehensive and organized record of job openings, making it easier for the HR team to manage job postings and employee referrals.

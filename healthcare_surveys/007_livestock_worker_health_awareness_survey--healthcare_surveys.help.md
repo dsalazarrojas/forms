@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information on livestock worker health awareness, which can help identify potential health risks and provide insights for improving worker safety and health. This form is part of a series of surveys designed to gather data for the "Healthcare Surveys" category. It's essential to complete this form accurately and thoroughly to ensure the data collected is reliable and useful for future analysis.
-
-Before starting, please check if you have already completed this form to avoid duplication. If you've completed it previously, your data will be updated accordingly.
-</thinking>
-
 # Livestock Worker Health Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from livestock workers about their health awareness, including safety equipment usage, health issues, and access to care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # healthcare_provider_meet_and_greet_survey - Help Guide
 ## Purpose
 The Meet and Greet Survey is designed to collect feedback about the experience of patients with healthcare providers, nurses, and office staff. This survey aims to assess their overall satisfaction, clinical skills, communication effectiveness, and quality of care. Your responses will help us improve our services and better serve our patients.

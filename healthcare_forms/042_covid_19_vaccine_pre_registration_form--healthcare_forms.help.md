@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Pre Registration Form - Help Guide
 ## Purpose
 This form is designed to collect pre-registration information for COVID-19 vaccinations. It helps healthcare providers and administrators to understand your vaccination preferences and medical history before administering the vaccine. Please provide accurate and up-to-date information to ensure a smooth and efficient vaccination process.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help caregivers gauge their well-being and identify potential areas of support. The survey assesses their relationship to the care receiver, caregiving hours, stress levels, sleep duration, perceived social support, burnout symptoms, coping strategies, need for additional support, immediate concerns, and any additional comments. This form is designed to provide a comprehensive understanding of a caregiver's well-being and potential needs.
-
-</thinking>
-
 # Caregiver Wellbeing Index Survey - Help Guide
 
 ## Purpose

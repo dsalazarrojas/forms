@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from guests making a hotel room reservation. It will be used to gather relevant details such as guest names, arrival and departure dates, room preferences, contact information, and payment methods. This form is not intended for employees of the hotel, and only guests making a room reservation should fill it out. Please make sure to provide accurate and complete information to ensure a smooth and efficient reservation process.
-</thinking>
-
 # Hotel Room Reservation Form - Help Guide
 ## Purpose
 This form is used to collect necessary information from guests making a hotel room reservation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help parents and caregivers assess their levels of stress, burnout, and well-being. It's a self-reporting survey that aims to understand their experiences, coping mechanisms, and access to support services. Please ensure you are not already taking this survey and that your responses are personal and honest. This survey is intended for personal use and will not be shared with third parties unless explicitly stated otherwise. 
-</thinking>
-
 # Parent Stress And Burnout Survey - Help Guide
 ## Purpose
 The Parent Stress And Burnout Survey is designed to help parents and caregivers understand their levels of stress, burnout, and well-being. The survey is a self-reporting tool that assesses their experiences, coping mechanisms, and access to support services.

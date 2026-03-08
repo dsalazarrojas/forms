@@ -1,18 +1,3 @@
-<thinking>
-This help guide will be based on the provided YAML fields to assist end-users in completing the Post Vaccination Questionnaire form. The form is likely used for tracking and documenting post-vaccination experiences, side effects, and follow-up appointments of patients. To confirm this assumption, I'll need to verify that the form fields align with the typical information collected during such a process.
-
-Upon reviewing the inputSchema, the form indeed appears to be designed for post-vaccination activities, such as:
-- Recording patient ID
-- Identifying vaccine types
-- Noting side effects (if any)
-- Scheduling follow-up appointments
-- Collecting contact information (phone number and email)
-- Recording medical histories
-
-Given the fields and their types, it's unlikely that this form is being used for other purposes, such as appointment scheduling or patient check-in. This guide will aim to provide clear instructions and explanations for end-users to efficiently and accurately complete the form.
-
-</thinking>
-
 # Post Vaccination Questionnaire - Help Guide
 
 ## Purpose

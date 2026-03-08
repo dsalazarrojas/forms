@@ -1,10 +1,3 @@
-<thinking>
-Before proceeding, please confirm that this form is relevant to your role and responsibilities. This form is meant to assess your skills in various aspects of social-emotional learning in the workplace, such as communication, conflict resolution, collaborative skills, emotional intelligence, stress management, time management, feedback and criticism, empathy, prioritization, trust building, and change management. It is essential to answer the questions honestly, as your responses will help in understanding your current level of proficiency in these areas.
-
-Please note that this form is not a formal evaluation or assessment, but rather a tool to help you self-evaluate your skills.
-
-</thinking>
-
 # Social Emotional Learning In The Workplace Test Form - Help Guide
 ## Purpose
 

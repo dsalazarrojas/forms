@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to check if the user is compliant with the flu mask policy. This form is likely to be used in healthcare settings where flu masks are required to be worn by staff members. The purpose of this form is to ensure that users are aware of the policy and understand their responsibilities in maintaining compliance. This form should not be used for other purposes, as it is specifically designed to address flu mask compliance. 
-</thinking>
-
 # flu_mask_compliance_form - Help Guide
 ## Purpose
 This form is used to determine if a user is compliant with the flu mask policy in healthcare settings. It helps to ensure that users are aware of the policy and understand their responsibilities in maintaining compliance.

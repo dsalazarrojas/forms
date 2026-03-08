@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document an employee's job history and details of their previous employment. The form is used for internal purposes and should not be used for external purposes. Please ensure that you are completing this form for a valid reason and not for external sharing. This form will not be used for external sharing or publication. This form has been designed to be completed by employees and HR/management personnel. Please ensure that all fields are correctly filled in to avoid incomplete or incorrect information.
-</thinking>
-
 # employee_reference_request_form - Help Guide
 ## Purpose
 The employee_reference_request_form is used to document an employee's job history, details of their previous employment, and other relevant information.

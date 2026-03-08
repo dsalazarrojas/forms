@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect patient demographic information in a healthcare setting. The purpose of this form is to gather essential details about patients, including their identification, contact information, and vital signs. 
-
-When completing this form, it's essential to ensure that the data entered is accurate and up-to-date. Duplicate entries should be avoided to prevent errors and inconsistencies in patient records.
-
-Before filling out the form, please review the fields and the provided instructions below.
-
-</thinking>
-
 # Patient Demographic Information Form - Help Guide
 ## Purpose
 The Patient Demographic Information Form is a healthcare form designed to gather essential details about patients. It collects information on patients' identification, contact details, and vital signs.

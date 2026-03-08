@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their understanding and agreement with HR policies. It's essential to have this declaration form filled out by all employees to maintain compliance with company regulations. This form should not be completed by non-employees or without understanding of the policies. It's crucial to ensure that each section of the form is filled out accurately and thoroughly. I've reviewed the provided YAML fields and understand the purpose and requirements for this form.
-</thinking>
-
 # hr_policy_compliance_declaration_form - Help Guide
 ## Purpose
 The HR Policy Compliance Declaration Form is designed to gather information from employees about their understanding and agreement with company HR policies. This form is essential for maintaining compliance and should be filled out by all employees.

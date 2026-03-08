@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record safety observations during a job, capturing details such as the job title, location, and observer information. It's essential for maintaining accurate records of work site safety and ensuring employee well-being. Please note that this form can be completed by the observer (the person submitting the form) and may require multiple observations, making it important to understand that not all fields may be required. This guide will walk through each field to clarify expectations and requirements.
-</thinking>
-
 # job_safety_observation_form_template - Help Guide
 
 ## Purpose

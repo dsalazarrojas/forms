@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_physical_examination_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about an employee's medical history, current medical conditions, and allergies. It is intended for medical professionals to review and use as part of an employee's physical examination.

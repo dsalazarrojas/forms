@@ -1,11 +1,3 @@
-<thinking>**Form Purpose and Validation**
-
-This form is designed to assess the communication between patients and clinicians in a healthcare setting. The form is intended to gather insights into the effectiveness of communication between patients and clinicians, and to identify areas where improvements can be made. 
-
-Before starting, please make sure you have read this guide carefully and understand the form's purpose and how it is structured. If you have any prior experience with similar forms or surveys, you may be able to complete this one more efficiently. 
-
-Additionally, please ensure that you have not completed this form before, as it may not be necessary to complete it again. If you're unsure, please review your previous responses and ensure that this one does not contain any redundant or identical questions.</thinking>
-
 # Patient Clinician Communication Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic and program participation information from individuals interested in joining a weight loss program. The purpose of the form is to gather essential details about the participant, including their program name, location, age, height, weight, weight loss goal, medical conditions, medications, contact number, emergency contact, and email address. This form is intended to be completed by participants before they begin the weight loss program. It is essential to ensure that the provided information is accurate and up-to-date to help the program team provide effective support and guidance throughout the participant's journey. Please ensure that you are eligible for the program and do not duplicate your application.
-
-</thinking>
-
 # Weight Loss Program Participant Intake Form - Help Guide
 ## Purpose
 This form is used to collect demographic and program participation information from individuals interested in joining a weight loss program.

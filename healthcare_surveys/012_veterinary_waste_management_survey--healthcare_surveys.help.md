@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from veterinary clinics and hospitals about their waste management practices. The purpose of this form is to gather data on the types of waste generated, disposal practices, and challenges faced by these institutions. This data will be used to improve waste management policies and practices within the industry. To avoid duplication of effort, this form should only be filled out by authorized personnel with knowledge of the institution's waste management practices. If you're unsure or have questions, please consult with your institution's waste management team or contact the administrators of this form.
-</thinking>
-
 # Veterinary Waste Management Survey - Help Guide
 ## Purpose
 This form is designed to collect information from veterinary clinics and hospitals about their waste management practices. The data collected will be used to improve waste management policies and practices within the industry.

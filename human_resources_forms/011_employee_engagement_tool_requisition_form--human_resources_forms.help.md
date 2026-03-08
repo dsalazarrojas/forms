@@ -1,5 +1,3 @@
-<thinking>...The Employee Engagement Tool Requisition Form is intended for employees to request the creation or modification of a new engagement tool. This form is used to capture specific details about the tool's category, description, output file format, and any additional information or requirements from the employee. The goal is to ensure accurate and efficient processing of the request, minimizing errors and delays. The form is reviewed by HR to verify that the requested tool is valid and relevant, and to prevent duplication of requests... </thinking>
-
 # Employee Engagement Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to request the creation or modification of a new engagement tool. It is essential to fill in all required fields to ensure the request is processed accurately and efficiently.

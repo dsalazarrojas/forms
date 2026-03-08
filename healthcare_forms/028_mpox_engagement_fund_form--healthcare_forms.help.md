@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form purpose and context, I assume the "Mpox Engagement Fund Form" is intended to gather contact information, organization type, prevention services, education, public health response, and funding request from individuals or organizations seeking support for Mpox (monkeypox) prevention and response efforts. This form is likely used to assess the need for funding, resources, and services related to Mpox. Before proceeding, please ensure this interpretation aligns with your organization's internal requirements and context.
-</thinking>
-
 # Mpox Engagement Fund Form - Help Guide
 ## Purpose
 The Mpox Engagement Fund Form is designed to collect information from individuals or organizations seeking support for Mpox prevention and response efforts. This form will help assess the need for funding, resources, and services related to Mpox.

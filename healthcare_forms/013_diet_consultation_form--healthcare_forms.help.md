@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diet Consultation Form - Help Guide
 
 ## Purpose

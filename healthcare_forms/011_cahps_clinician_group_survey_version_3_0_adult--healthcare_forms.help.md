@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to support end users in completing the CAHPS Clinician & Group Survey Version 3.0 (Adult) form, which is used to assess the quality of care provided by healthcare clinicians and groups. 
-
-The guide should cover the form's purpose, steps to complete the form, and field-by-field explanation of each field. 
-
-</thinking>
-
 # CAHPS Clinician & Group Survey Version 3.0 (Adult) - Help Guide
 ## Purpose
 This survey is used to gather feedback from patients about their experiences with healthcare clinicians and groups. It helps to identify areas of strength and weakness in the care provided, allowing clinicians and healthcare organizations to make improvements.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a healthcare cybersecurity awareness video consent process. The purpose of this form is to ensure that participants understand and agree to the terms of their participation in the video screening, online training, or training session. It is essential to review this form carefully and provide accurate information to avoid any issues or misunderstandings.
-
-</thinking>
-
 # Healthcare Cybersecurity Awareness Video Consent Form - Help Guide
 ## Purpose
 This form is used to collect information and obtain consent from participants in the healthcare cybersecurity awareness video screening, online training, or training session. It is a mandatory form that must be completed accurately to ensure a smooth and secure participant experience.

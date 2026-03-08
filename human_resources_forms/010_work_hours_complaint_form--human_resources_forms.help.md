@@ -1,8 +1,3 @@
-<thinking>... (Form purpose and non-duplication check)
-This form is used for reporting work hours complaints, allowing employees to submit issues or concerns regarding their work hours. It is essential to report any discrepancies or problems with their assigned work hours, such as incorrect clocking in or out, miscalculation of pay, or issues with time-off requests. Please ensure that you are using this form for legitimate reasons and not for reporting non-work-related issues. Additionally, please note that this form is a formal complaint channel and should not be used for non-complaint purposes. If you're unsure whether this form is the correct channel, please reach out to your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Work Hours Complaint Form - Help Guide
 ## Purpose
 The Work Hours Complaint Form is used to report work-related issues or concerns regarding work hours, such as clocking errors, pay disputes, or time-off request problems.

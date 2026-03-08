@@ -1,7 +1,3 @@
-<thinking>
-Is this form part of an application for HIPAA-compliant forms or a part of a larger healthcare system? If the latter, is it part of a medical practice's workflow, and will it be reviewed by a healthcare professional?
-</thinking>
-
 # Dental Treatment Waiver - Help Guide
 ## Purpose
 This form is for dental treatment waiver purposes. It collects information from the patient to understand their medical history, allergy status, and other relevant details for safe and effective treatment. 

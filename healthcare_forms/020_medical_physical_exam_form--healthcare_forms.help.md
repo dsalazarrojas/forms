@@ -1,12 +1,3 @@
-<thinking>...
-This form is used for medical professionals to gather information from patients about their medical history, current chief complaint, and other relevant details. It aims to provide a comprehensive view of the patient's health status, helping healthcare providers make informed decisions about treatment and care. 
-
-This form should only be used for patients with a valid medical condition. Repeatedly using this form for the same patient may lead to unnecessary duplication of information and may not reflect the patient's current health status.
-
-Please note that the form is not intended for patients to fill out themselves. It is designed for medical professionals to collect information from patients during a consultation or examination.
-
-</thinking>
-
 # medical_physical_exam_form - Help Guide
 ## Purpose
 The medical physical examination form is a tool used by healthcare professionals to collect and document patient information in a structured format. It helps healthcare providers gather essential details about a patient's medical history, chief complaint, and other relevant factors.

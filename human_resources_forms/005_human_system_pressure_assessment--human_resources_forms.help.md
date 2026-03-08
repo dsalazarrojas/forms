@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the current state of employee pressure and satisfaction in the workplace. It is not intended for daily reporting or tracking, but rather for regular check-ins to monitor and address potential issues. Please answer the questions honestly, and if you need help or clarification, don't hesitate to reach out to your HR representative.
-</thinking>
-
 # Human System Pressure Assessment - Help Guide
 ## Purpose
 The Human System Pressure Assessment is a form designed to evaluate the current state of pressure and satisfaction levels among employees. It is used to identify areas that need improvement and provide insights for creating a more supportive and productive work environment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare providers to collect information from pediatric patients' parents or guardians. It is meant to gather essential details about the patient's medical history, family history, and other relevant information. This form should not be used for any other purpose than collecting data for medical treatment or diagnosis. Please make sure to review the form carefully and only use it for its intended purpose.
-</thinking>
-
 # Pediatric Patient Intake Form - Help Guide
 ## Purpose
 This form is a comprehensive medical intake form designed for pediatric patients. It helps healthcare providers gather information about the patient's medical history, family history, and other relevant details to ensure accurate diagnosis and treatment.

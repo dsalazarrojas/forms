@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about individuals who have been exposed to a contagious disease. The form is meant to be completed by those who have been in close contact with someone who has tested positive for the disease. The purpose of this form is to help healthcare professionals track the spread of the disease and identify potential risks.
-The form is divided into six fields that collect information about the individual's exposure to the disease. The fields are:
-* Exposed Contact: This field is intended to capture the individual's name and contact information of the person they had contact with.
-* Exposure Location: This field asks for the location where the exposure occurred.
-* Exposure Date Range: This field captures the date range during which the exposure occurred.
-* Exposure Duration: This field is meant to capture the length of time the individual was exposed to the disease.
-* Exposure Symptoms: This field is for describing any symptoms the individual is experiencing.
-</thinking>
-
 # TTC Contact Tracing Form Card - Help Guide
 ## Purpose
 This form is designed to gather information about individuals who have been exposed to a contagious disease. It helps healthcare professionals track the spread of the disease and identify potential risks.

@@ -1,9 +1,3 @@
-<thinking>
-This form, COVID 19 Vaccine Screening Form, is designed to collect vital information from employees about their eligibility for the COVID-19 vaccine. The form will help healthcare providers assess whether an employee is eligible for the vaccine based on their health status, medical history, and other factors.
-This form is intended for employees who are candidates for the COVID-19 vaccine. It is not intended for non-employees or for individuals who are not candidates for the vaccine. If you are not an employee or are not a candidate for the vaccine, please do not complete this form.
-Before completing this form, please note that some questions will ask about sensitive medical information. This information will only be used for the purpose of determining vaccine eligibility.
-</thinking>
-
 # COVID 19 Vaccine Screening Form - Help Guide
 ## Purpose
 This form is designed to collect information about your medical status and history to help determine whether you are eligible for the COVID-19 vaccine.

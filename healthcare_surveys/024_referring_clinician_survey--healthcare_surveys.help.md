@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for Referring Clinicians to provide information about their patients, including contact details, patient status, and referral reason. The purpose of this form is to streamline the referral process and ensure accurate communication between the clinic and the referring clinician. Please complete this form carefully, as it will help us provide better care to your patients.
-</thinking>
-
 # Referring Clinician Survey - Help Guide
 ## Purpose
 

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# mental_health_quiz - Help Guide
+> # mental_health_quiz - Help Guide
 ## Purpose
 The mental health quiz is a form designed to assess an individual's mental health risks, demographics, and other relevant factors. This quiz is meant to be a self-assessment tool to provide a general overview of potential mental health concerns and recommendations for further evaluation or support.
 

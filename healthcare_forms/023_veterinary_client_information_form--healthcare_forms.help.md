@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a pet and its owner for veterinary purposes. It is likely used by veterinarians to gather essential data for medical records, treatments, and follow-up procedures. The form is designed to be completed by pet owners or veterinarians, and it is crucial to ensure that all required fields are filled in accurately to avoid errors or incomplete records.
-</thinking>
-
 # Veterinary Client Information Form - Help Guide
 ## Purpose
 The Veterinary Client Information Form is designed to collect and store information about a pet and its owner for veterinary purposes. This form is used to gather essential data for medical records, treatments, and follow-up procedures.

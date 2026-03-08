@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by hospital staff to document and report hospitalization claims. The form is designed to collect information about a patient's medical condition, treatment, and procedures performed during their hospital stay. The form is likely to be used for administrative and billing purposes, as well as for tracking patient outcomes and improving hospital operations.
-
-Before starting this form, please ensure that you are not duplicating an existing claim. If you're unsure, please check with your supervisor or hospital records department.
-
-This form is divided into 6 sections. Please complete each section as instructed:
-
-</thinking>
-
 # hospitalization_claim_form - Help Guide
 ## Purpose
 The hospitalization claim form is designed to document and report hospitalization claims, collecting information on patient medical conditions, treatments, and procedures. It's used for administrative and billing purposes, as well as for tracking patient outcomes and improving hospital operations.

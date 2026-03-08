@@ -1,9 +1,3 @@
-<thinking>
-
-**Purpose of this form**: To gather information from employees or students about their health screenings, including their name, reason for absence, department, and other relevant details. This form is used by HR or administration to track and document absences, ensuring timely responses and efficient communication. **Please note that this form may not be applicable to all employees or situations, as some absences may be subject to specific policies or procedures.**
-
-</thinking>
-
 # Health Screening Absence Form - Help Guide
 
 ## Purpose

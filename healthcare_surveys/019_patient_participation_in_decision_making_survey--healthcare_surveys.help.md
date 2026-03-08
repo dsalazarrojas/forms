@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about patients' preferences and needs regarding communication with their healthcare providers. This includes their preferred language of contact, occupation, method of contact, communication frequency, and other personal attributes. The form will be used by healthcare providers to better understand and cater to the unique needs of each patient.</thinking>
-
 # Patient Participation In Decision Making Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your preferences and needs as a patient. Your responses will help your healthcare provider better understand and meet your individual needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coarc Employer Survey 2017 - Help Guide
 
 ## Purpose

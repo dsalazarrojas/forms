@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The online_quote_request form is a template for requesting quotes or estimates from our team members. It is used to collect necessary information about the customer's travel plans, such as travel dates, locations, and budget constraints. The form should only be used for customers who are interested in getting a quote or estimate for their trip.
 
 This form will help you get all the necessary information to provide an accurate quote for your next trip. Please make sure to fill out all relevant fields to ensure that our team can provide you with the best possible quote for your travel plans.

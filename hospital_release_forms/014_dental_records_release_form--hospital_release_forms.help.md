@@ -1,10 +1,3 @@
-<thinking>
-We are designing a help guide for the "Dental Records Release Form". This form is used to collect and manage information related to a patient's dental records. It is essential to ensure that the data provided is accurate and up-to-date to maintain proper care and treatment for the patient. Before proceeding, please double-check that this form is not a duplicate and has not been filled out previously, as this could impact the accuracy of the data and potentially lead to duplicate entries being recorded.
-
-To fill out this form, please review the following steps and explanations.
-
-</thinking>
-
 # Dental Records Release Form - Help Guide
 
 ## Purpose

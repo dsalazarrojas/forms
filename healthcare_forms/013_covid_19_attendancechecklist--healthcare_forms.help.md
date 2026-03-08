@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 AttendanceChecklist - Help Guide
 ## Purpose
 The COVID-19 Attendance Checklist is a form designed to help track the attendance of students in a class, while ensuring their health and safety during the pandemic. This form will guide you through collecting information about your class, the participants, their health status, and clearance to attend.

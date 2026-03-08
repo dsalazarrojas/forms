@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a dental implant consent form used in a healthcare setting. Its primary purpose is to gather information from patients about their dental implant procedures, including their medical history, allergies, insurance information, and details about the implant itself, such as location, type, surface, and other relevant specifics. The form likely serves as a way to document the patient's consent and understanding of the procedure, as well as provide valuable information for the dental team to prepare for the procedure.
-</thinking>
-
 # Dental Implant Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients undergoing dental implant procedures. It helps the dental team understand the patient's medical history, allergies, insurance information, and details about the implant, ensuring a smooth and safe experience for the patient.

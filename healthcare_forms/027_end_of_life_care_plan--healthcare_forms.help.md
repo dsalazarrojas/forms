@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document an individual's end-of-life care plan. The purpose of this form is to gather information about the individual's medical preferences, wishes, and instructions for end-of-life care. This form should only be used for individuals who are near the end of their life or have a terminal illness. 
-</thinking>
-
 # End Of Life Care Plan - Help Guide
 ## Purpose
 This form is designed to help individuals document their wishes and preferences for end-of-life care, including their medical care, hospice care, and emergency contacts.

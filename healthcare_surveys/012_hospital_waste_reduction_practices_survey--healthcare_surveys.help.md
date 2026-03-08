@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help healthcare facilities assess their current waste reduction efforts, identify barriers, and gather suggestions for improvement. The form's purpose is to provide a standardized framework for healthcare facilities to evaluate and report on their waste reduction practices, which can help them identify areas for improvement and develop data-driven strategies to reduce waste.
-
-The form includes questions that cover various aspects of waste reduction, such as current status, barriers, data collection, reporting, training, education, communication, policies, procedures, monitoring, evaluation, corrective action, certification, and certification date.
-
-The goal of this form is to help healthcare facilities collect and analyze data on their waste reduction practices, identify areas for improvement, and develop strategies to reduce waste and improve sustainability.
-
-Please note that this form is based on publicly available metadata and is not affiliated with, endorsed by, or derived from any specific form platform.
-
-</thinking>
-
 # Hospital Waste Reduction Practices Survey - Help Guide
 ## Purpose
 The Hospital Waste Reduction Practices Survey is a standardized form designed to help healthcare facilities assess their current waste reduction efforts, identify barriers, and gather suggestions for improvement.

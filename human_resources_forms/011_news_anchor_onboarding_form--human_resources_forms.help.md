@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for new employees joining our team. This form helps us understand the necessary details for onboarding and setup. Please ensure you only fill out this form once. Duplicate submissions will not be accepted. Ensure you submit accurate and up-to-date information.
-</thinking>
-
 # News Anchor Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to collect personal and professional information for new employees joining our team, ensuring a smooth onboarding process and efficient setup.

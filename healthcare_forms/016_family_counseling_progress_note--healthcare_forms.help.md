@@ -1,5 +1,3 @@
-<thinking>As a healthcare provider, it's essential to document the progress of family counseling sessions accurately and efficiently. This form, called the "Family Counseling Progress Note," is designed to help you track the date of the session, the family members involved, their participation levels, and the focus areas of the session. To ensure you complete this form correctly, please read through each section carefully.</thinking>
-
 # Family Counseling Progress Note - Help Guide
 ## Purpose
 The Family Counseling Progress Note form is used to document the progress of family counseling sessions. This form helps healthcare providers gather information about the family's dynamics, goals, and response to the counseling process. It's crucial to complete this form accurately to ensure that you can track the family's progress and make informed decisions about future sessions.

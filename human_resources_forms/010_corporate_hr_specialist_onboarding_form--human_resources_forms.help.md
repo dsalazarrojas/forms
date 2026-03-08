@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for corporate HR specialists to onboarding new employees. It's meant to collect contact information, job details, and other essential details to efficiently onboard employees. Before proceeding, make sure you have all the necessary information and consent to share it with HR. Please do not submit duplicate or outdated information. This form is intended for use by HR specialists, so only submit accurate and complete responses.
-</thinking>
-
 # corporate_hr_specialist_onboarding_form - Help Guide
 ## Purpose
 The corporate HR specialist onboarding form is a tool for HR specialists to collect and store essential information about new employees. This form helps HR professionals gather necessary details to effectively onboard and integrate new staff into the company.

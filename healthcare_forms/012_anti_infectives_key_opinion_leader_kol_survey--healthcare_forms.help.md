@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect opinions and insights from healthcare professionals on various aspects of anti-infective treatments, including their level of concern about antibiotic resistance, involvement in stewardship programs, and awareness of new therapies. The form aims to understand their prescribing patterns, challenges in treatment, and preferences for communication and educational resources. The survey questions cover a range of topics, from clinical experience and specialty areas to research interests and preferred communication methods. The purpose of this form is to gather information that will inform the development of education and resource materials for healthcare professionals.
-
-Before beginning the survey, please take a moment to review the instructions and ensure that you have completed it for the correct purpose. This survey should only be completed by healthcare professionals and should not be duplicated or shared outside of your institution.
-
-Please ensure that you have read all the questions carefully and answer them to the best of your ability. If you have any questions or concerns, please do not hesitate to reach out to the survey administrator.
-
-</thinking>
-
 # Anti Infectives Key Opinion Leader (KOL) Survey - Help Guide
 ## Purpose
 The Anti Infectives Key Opinion Leader (KOL) Survey is designed to gather information from healthcare professionals on various aspects of anti-infective treatments. This form aims to understand your opinions, insights, and experiences in the field of anti-infective treatments.

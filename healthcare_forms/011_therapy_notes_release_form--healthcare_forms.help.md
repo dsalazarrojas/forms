@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a client and a healthcare provider for therapy notes release purposes. The form aims to gather essential details such as client contact information, consent, and provider information, as well as date and time of last contact. The form also includes a section for client and provider names, which can be used to identify the individuals involved in the therapy process. This form can be used in healthcare settings to facilitate the release of therapy notes, ensuring that both the client and the healthcare provider have provided their consent and information.
-</thinking>
-
 # Therapy Notes Release Form - Help Guide
 ## Purpose
 The Therapy Notes Release Form is designed to collect necessary information from clients and healthcare providers to ensure the release of accurate and secure therapy notes. 

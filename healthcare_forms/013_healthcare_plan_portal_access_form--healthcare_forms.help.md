@@ -1,7 +1,3 @@
-<thinking>
-This form is used to access the Healthcare Plan Portal, which provides users with a personalized health plan and medical group information. This form is typically used by patients or healthcare providers to access their medical history, health insurance information, and other relevant health data. To prevent duplication, users are not allowed to submit the form multiple times, and the system checks for existing submissions before processing the form.
-</thinking>
-
 # Healthcare Plan Portal Access Form - Help Guide
 ## Purpose
 This form is used to access the Healthcare Plan Portal, which provides users with a personalized health plan and medical group information.

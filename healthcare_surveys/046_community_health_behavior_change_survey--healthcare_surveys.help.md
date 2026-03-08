@@ -1,5 +1,3 @@
-<thinking>This help guide is for the "Community Health Behavior Change Survey" form, designed to collect information about participants' experiences with health behavior change programs. This form is intended for individuals who have completed a program and are willing to share their feedback. It is a crucial part of program evaluation and improvement, allowing us to gather data on how the program has helped (or hindered) participants' health outcomes.</thinking>
-
 # Community Health Behavior Change Survey - Help Guide
 ## Purpose
 

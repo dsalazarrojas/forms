@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from adults who are seeking chiropractic treatment. The purpose of this form is to collect personal and health-related information from the patient, including their contact details, medical history, and treatment preferences. This information will be used by healthcare professionals to provide personalized care and to ensure that the patient is aware of their treatment options and expectations. This form is intended for adult patients who are seeking chiropractic treatment, and the information collected will be used to create a comprehensive profile of the patient's needs and preferences.
-</thinking>
-
 # Adult Chiropractic Treatment Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from adults who are seeking chiropractic treatment.

@@ -1,18 +1,3 @@
-<thinking>This form is used to onboard new sales staff members to the company's sales team. To ensure that all relevant information is collected, please follow these steps and provide accurate details for each field. This form aims to gather essential data for the sales staff member's profile, which will be used to track their performance, sales channels, and reporting relationships.
-
-Before filling out this form, please make sure that the provided information is up-to-date and accurate. If you are unsure about any field, please reach out to the relevant department for clarification.
-
-This form is divided into several sections, each with its specific purpose:
-
-1. First Name, Last Name, and Email: Please provide your personal details as a sales staff member.
-2. Job Title, Company, and Manager Name: Provide your sales title, current company, and manager's name for reference and reporting purposes.
-3. Sales Channel, Sales Region, and Sales Product: Specify your sales channel, sales region, and sales product for which you are responsible.
-4. Reporting Manager: If you have a reporting manager, please provide their name, email, and phone number for proper reporting and escalation purposes.
-
-Please note that some fields are not required, but it's essential to complete as much information as possible to ensure accurate tracking and performance evaluation.
-
-</thinking>
-
 # sales_staff_onboarding_form - Help Guide
 ## Purpose
 

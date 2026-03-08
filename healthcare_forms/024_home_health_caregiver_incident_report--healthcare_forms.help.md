@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for caregivers and healthcare professionals to report incidents that occurred while providing care to patients. The form is meant to collect information about the incident, including the date, location, and description of the incident, as well as contact information for follow-up. The purpose of this form is to ensure that incidents are documented and reported in a timely and accurate manner.
 
 # Home Health Caregiver Incident Report - Help Guide

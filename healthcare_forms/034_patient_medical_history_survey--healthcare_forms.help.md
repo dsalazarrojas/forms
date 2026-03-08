@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is intended to help healthcare professionals and other users understand the purpose and usage of the "Patient Medical History Survey" form. This form is meant to collect comprehensive medical history information from patients, which can be used for diagnosis, treatment, and follow-up care.
-
-Before starting the survey, it is essential to ensure that the form is being used for its intended purpose and not duplicated. This form is designed to collect information on a patient's medical history, conditions, medication use, allergies, and other relevant details. It is not intended for other purposes, such as billing or insurance claims.
-
-The form is divided into multiple pages, each with its own set of fields. The following guide will walk you through each field, explaining its purpose and how to complete it.
-
-</thinking>
-
 # Patient Medical History Survey - Help Guide
 ## Purpose
 This form is designed to collect comprehensive medical history information from patients.

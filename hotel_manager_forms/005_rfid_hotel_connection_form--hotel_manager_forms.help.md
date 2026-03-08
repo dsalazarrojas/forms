@@ -1,7 +1,3 @@
-<thinking> 
-This form is for hotel managers to connect with RFID keycards. Hotel staff can fill out this form to provide access information to guests, and the keycard details will be stored in a database for later reference. This form ensures that guests' information is correctly recorded and linked to their RFID keycards. 
-</thinking>
-
 # RFID Hotel Connection Form - Help Guide
 ## Purpose
 This form is designed to collect and store guest information, including their RFID keycard details, for hotel management purposes. It's essential to fill out this form accurately and completely to ensure that guest access is managed correctly and efficiently.

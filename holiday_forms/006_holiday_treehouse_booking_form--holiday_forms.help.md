@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users book a treehouse for holiday purposes. The form collects information about the guest's stay dates, special requests, treehouse details, host information, contact preferences, payment information, and additional notes.
-
-To ensure that the form is used correctly and does not duplicate or misrepresent existing data, it's essential to understand the purpose and requirements of each field. This form is not affiliated with any specific survey or form platform, and its creation was inspired by public survey topics in the holiday and form categories. The form's structure and content are original adaptations, and it's released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-</thinking>
-
 # holiday_treehouse_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information for booking a treehouse during holidays. It's essential to fill out the form accurately to ensure a smooth and enjoyable stay.

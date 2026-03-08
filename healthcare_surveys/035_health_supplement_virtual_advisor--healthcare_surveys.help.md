@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their health goals and supplement preferences. The form is not intended for users with a known medical condition or those who are currently seeking medical advice. Please ensure that you are not already seeking medical advice or treatment from a healthcare professional before completing this form. Also, note that this form is not intended to diagnose or treat any medical conditions. If you are unsure about your health status, please do not use this form. If you have already filled out this form, do not fill it out again.</thinking>
-
 # Health Supplement Virtual Advisor - Help Guide
 ## Purpose
 The Health Supplement Virtual Advisor is a tool to help you get tailored recommendations on supplements to support your health goals. Please answer the questions below to get started.

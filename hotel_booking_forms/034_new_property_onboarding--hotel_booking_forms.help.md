@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide property owners through the onboarding process for their properties, ensuring they have all the necessary information for their guests. The form is intended for properties that offer accommodations, and the goal is to collect data for guest management and communication. Before proceeding, ensure this form is relevant to your business needs and not a duplicate of an existing form.
-</thinking>
-
 # New-Property-Onboarding - Help Guide
 ## Purpose
 This form is a tool for property owners to provide essential information about their properties, allowing them to effectively manage guest interactions and communications.

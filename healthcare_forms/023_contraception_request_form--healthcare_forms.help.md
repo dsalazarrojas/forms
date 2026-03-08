@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users to assist them in completing the Contraception Request Form. The form is used to gather information about a patient's request for contraception, including demographic data, medical history, and preferences for contact and follow-up.
-
-Before filling out this form, please ensure that you are not duplicating an existing request or that you have the necessary permissions to access the patient's medical records. 
-
-This form requires a valid date of birth, and you must ensure you are entering the correct date of birth to prevent any issues with the patient's medical history.
-
-This form will only be used to gather information about the patient's contraception request and will not be used for any other purpose. 
-
-</thinking>
-
 # Contraception Request Form - Help Guide
 ## Purpose
 This form is used to gather information about a patient's request for contraception, including demographic data, medical history, and preferences for contact and follow-up.

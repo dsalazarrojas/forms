@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report incidents of discrimination, which is a critical aspect of maintaining a respectful and inclusive work environment. Before proceeding, please ensure that you have a legitimate reason to fill out this form and that you have not already reported the same incident. If you are unsure about the purpose of this form or have concerns, consult with your HR department or a designated reporting officer.
-</thinking>
-
 # Discrimination Report Form - Help Guide
 ## Purpose
 The Discrimination Report Form is a document used to report incidents of discrimination within the organization. This form helps to gather information about the incident and provide a formal channel for reporting such incidents.

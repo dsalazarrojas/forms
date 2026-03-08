@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning block: This form is designed to collect information related to Mpox, a disease caused by the Monkeypox virus. This form is intended for healthcare providers to gather necessary patient information to assess and diagnose Mpox cases. It's essential to ensure that the form is completed accurately and consistently to provide reliable data for further analysis... </thinking>
-
 # Mpox Quiz - Help Guide
 
 ## Purpose

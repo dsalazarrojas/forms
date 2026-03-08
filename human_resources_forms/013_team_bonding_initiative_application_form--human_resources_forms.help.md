@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for team bonding initiative applications. It is intended to help employees understand their team dynamics, preferences, and requirements for team bonding activities. This form will help the team leaders to better plan and organize team bonding initiatives that cater to the diverse needs and interests of all team members.
-
-To ensure accurate and relevant information is collected, please fill out this form carefully. If you have already participated in a team bonding activity, you should not fill this form again.
-
-</thinking>
-
 # team_bonding_initiative_application_form - Help Guide
 ## Purpose
 The team bonding initiative application form is designed to gather information about team members' preferences, requirements, and availability for team bonding activities. This helps team leaders plan and organize activities that cater to everyone's needs and interests.

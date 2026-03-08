@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information and track the status of job pre-employment checklists, which are used to monitor and record the progress of new hires through the hiring process. The form is likely used by HR or recruitment teams to ensure that all necessary steps are taken for new employees to start working, and to keep track of the documents and information required for onboarding.
-Before filling out this form, please make sure that it is not already completed for the same job pre-employment checklist. If you are unsure, contact your team lead or the hiring manager to confirm.
-</thinking>
-
 # Job Pre Employment Checklist - Help Guide
 ## Purpose
 This form is used to monitor and record the progress of new hires through the hiring process.

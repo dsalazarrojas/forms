@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to the transfer of veterinary records between practices. The purpose of this form is to ensure that the transfer of records is done in a secure and compliant manner. This form should not be used for other purposes such as requesting medical records for a pet that is not under the care of the current veterinary practice. Please ensure that you are using this form for its intended purpose and not duplicating the effort by using other forms.
-</thinking>
-
 # Veterinary Records Release Form - Help Guide
 ## Purpose
 The Veterinary Records Release Form is a document used to facilitate the transfer of veterinary records between practices. This form is used to ensure that the records are handled properly and in compliance with relevant laws and regulations.

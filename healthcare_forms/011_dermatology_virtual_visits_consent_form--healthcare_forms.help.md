@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Dermatology Virtual Visits Consent Form" is to gather information from patients before conducting virtual or in-person visits with a healthcare provider. This form is designed to ensure that the patient understands and agrees to the terms of the visit, including the location and type of visit. The form is typically used by dermatology clinics and providers to establish a record of the patient's consent and to ensure that they are aware of their rights and responsibilities during the visit.
-
-The form can be completed by patients and healthcare providers alike, but it is primarily intended for the patient's use. To complete this form, follow the steps below.
-
-</thinking>
-
 # Dermatology Virtual Visits Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from patients before conducting virtual or in-person visits with a healthcare provider. It ensures that the patient understands and agrees to the terms of the visit, including the location and type of visit.

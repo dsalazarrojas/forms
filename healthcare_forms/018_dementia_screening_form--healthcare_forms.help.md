@@ -2,8 +2,6 @@
 
 ## Purpose
 
-<thinking>This form is designed to help healthcare professionals quickly identify and assess potential cases of dementia. The form includes sections to collect patient information, screening questions, risk factors, medical history, and cognitive function assessment. It also allows for the recording of a diagnosis, treatment plan, and medications, as well as a status update for the patient.</thinking>
-
 ## How To Complete This Form
 
 ### Step 1: Collect Patient Information

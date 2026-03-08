@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for employees who require a leave of absence to manage estate affairs. This could be due to a death in the family, a change in marital status, or another significant life event. The purpose of this form is to capture essential information about the employee's request, ensuring that HR and management are informed and can support the employee during this time.
-Please ensure you're only submitting a single request for estate affairs per form instance. Duplicate submissions will not be processed.
-
-</thinking>
-
 # Leave of Absence Request for Estate Affairs - Help Guide
 ## Purpose
 This form is used by employees to request a leave of absence to manage their estate affairs, such as dealing with a death in the family, a change in marital status, or other significant life events.

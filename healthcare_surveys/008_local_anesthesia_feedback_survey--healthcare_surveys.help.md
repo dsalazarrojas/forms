@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experience with local anesthesia, which is an essential part of medical care. By understanding the patient's perspective, the healthcare provider can identify areas of improvement and provide better care to their patients. This form should only be filled out by patients who have undergone a procedure involving local anesthesia. 
-Please ensure that you do not fill out this form if you have not undergone a procedure involving local anesthesia.
-</thinking>
-
 # Local Anesthesia Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their experience with local anesthesia.

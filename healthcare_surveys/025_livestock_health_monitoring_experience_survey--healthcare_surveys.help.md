@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Livestock Health Monitoring Experience Survey. The form is designed to gather information from farmers and veterinarians on their experiences with monitoring livestock health. The purpose of this survey is to identify areas for improvement in animal health monitoring practices and to gather insights on how these practices can be enhanced. By completing this form, users will be able to provide valuable feedback on the challenges they face when monitoring animal health and suggest ways to improve existing programs. This guide will walk users through each question on the form, explaining what each section is meant to accomplish and how to provide accurate and helpful responses.
-</thinking>
-
 # Livestock Health Monitoring Experience Survey - Help Guide
 ## Purpose
 This survey aims to gather information on your experiences with monitoring livestock health. Your feedback will help identify areas for improvement and provide insights for enhancing existing animal health monitoring practices.

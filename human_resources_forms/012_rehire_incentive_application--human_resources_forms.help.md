@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent duplicate rehire requests and ensure accurate data, this form is intended to be used only for legitimate reasons such as when an employee is rehired after leaving for a valid reason like maternity/paternity leave, military service, or a temporary job change. Please ensure that the reason for rehire is not a personal request and that you have your manager's approval. 
-
-Please provide a valid reason for rehire in the 'Reason for Rehire' field and ensure that the 'Rehire Incentive Amount' field is only filled out if approved.
-
-</thinking>
-
 # Rehire Incentive Application - Help Guide
 ## Purpose
 The Rehire Incentive Application form is used to request rehire for an employee after they have left the company. This form helps to track the reason for rehire, category, date of rehire, and other relevant details.

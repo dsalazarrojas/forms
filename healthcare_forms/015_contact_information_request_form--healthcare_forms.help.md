@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from patients, including their personal details, medical history, and preferences. The form is intended for medical facilities to gather essential information about potential patients, enabling them to provide better care and services. To avoid duplication, users should not submit the form if they have already provided the same information to the clinic.
-</thinking>
-
 # Contact Information Request Form - Help Guide
 ## Purpose
 The Contact Information Request Form is a tool for medical facilities to gather essential patient information, including contact details, medical history, and preferences.

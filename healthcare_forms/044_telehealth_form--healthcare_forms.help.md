@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # telehealth_form - Help Guide
 
 ## Purpose

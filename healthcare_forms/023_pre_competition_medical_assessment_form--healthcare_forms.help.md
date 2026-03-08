@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather general information about a person, including their medical history, injury history, and other relevant health-related information. This form is intended for pre-competition medical assessment, which is a process to ensure that individuals are physically fit and healthy enough to participate in a particular activity or event. The form helps to identify potential health risks and ensures that necessary precautions are taken to prevent injuries or health complications. 
-
-This form will be completed by the individual or their representative, and the data collected will be reviewed and evaluated by medical professionals. The purpose of the form is to provide a comprehensive assessment of the individual's health status, and to ensure that they have the necessary medical clearance to participate in the activity or event.
-
-</thinking>
-
 # Pre-Competition Medical Assessment Form - Help Guide
 ## Purpose
 

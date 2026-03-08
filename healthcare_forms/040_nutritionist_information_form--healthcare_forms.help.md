@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from healthcare professionals, specifically nutritionists, for various administrative purposes. The form is intended to capture relevant details about the user, their contact information, medical history, dietary guidance, client goals, emergency contacts, medical conditions, medical tests, and allergies. It is possible that similar forms might exist in other industries or platforms, but this specific form was created using public metadata and is not affiliated with any particular platform or entity. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and distribute it freely, provided they give credit to the original creator.
-
-</thinking>
-
 # Nutritionist Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from healthcare professionals, specifically nutritionists, for various administrative purposes.

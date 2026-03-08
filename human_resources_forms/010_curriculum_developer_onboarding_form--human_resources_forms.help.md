@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for onboarding new curriculum developers for an educational institution. The form likely aims to collect essential information about the individual's background, education, and onboarding expectations. To confirm, the fields suggest that the form will collect details such as user contact information (user_details), onboarding expectations (onboarding_expectations), education level (education_level), education field (education_field), institution attended (education_institution), date of completion (education_date), location of the institution (education_location), and possibly other relevant data fields (onboarding_data_field_1, 2, and 3). Before proceeding, I will provide a user-facing help guide for this form based on the provided YAML fields.
-
-</thinking>
-
 # Curriculum Developer Onboarding Form - Help Guide
 ## Purpose
 This form is designed for new curriculum developers to provide essential information about themselves and their onboarding expectations. It will help the institution's team understand your background, qualifications, and what you need to get started with your new role.

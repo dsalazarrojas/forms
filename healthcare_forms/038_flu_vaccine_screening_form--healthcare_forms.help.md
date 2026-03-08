@@ -1,13 +1,3 @@
-<thinking> This form is designed to help healthcare providers screen and document patient information and vaccination status regarding flu vaccines. The form is meant to be filled out by patients or their representatives, and will likely be used by healthcare providers to track and verify vaccination status, as well as gather relevant medical history and consent information.
-
-The purpose of the form is to provide a comprehensive and structured way to collect and store patient data, ensuring that healthcare providers have the necessary information to make informed decisions about patient care. This includes verifying vaccination status, tracking medical history, and collecting consent for treatment. By using this form, patients can be assured that their information is being collected in a systematic and secure manner.
-
-The form is divided into multiple pages, each of which focuses on a specific aspect of the patient's information. The first page collects basic contact information, while the second page focuses on medical history and vaccination status. The third page gathers more specific information about the patient's medical conditions, allergies, and vaccination history. The final pages are devoted to consent and signature verification, as well as submission and date tracking.
-
-This form is not designed to replace the advice of a healthcare professional, but rather to serve as a tool to aid in the collection and tracking of patient data. It is essential to fill out the form accurately and thoroughly to ensure that the information is complete and useful for healthcare providers.
-
-</thinking>
-
 # Flu Vaccine Screening Form - Help Guide
 ## Purpose
 The Flu Vaccine Screening Form is designed to collect and track patient information, including vaccination status, medical history, and consent for treatment. This form is intended to aid healthcare providers in making informed decisions about patient care and to provide a systematic way to collect and store patient data.

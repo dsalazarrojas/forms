@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients after a therapy session. The purpose of this form is to gather information about the client's experience with the therapist, including their satisfaction with the session effectiveness, rating, and any additional feedback. This form is typically used by therapists or session administrators to monitor client satisfaction and identify areas for improvement in their practice. Before completing this form, please ensure you have already completed any necessary therapy sessions and are not repeating a session that has already occurred. Please also ensure that the session date and time fields are accurate and reflect the date and time of the actual session.
-</thinking>
-
 # emdr_session_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback from clients after a therapy session.

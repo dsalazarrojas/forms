@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information for a holiday luncheon event. This is a critical form as it helps the event planners to get a headcount, track RSVPs, and gather necessary details like entrée choice and dietary restrictions. Before you start, please check that you're not filling out the form for a previous holiday event. If you're sure this is your intended event, proceed to fill out the form accurately.
-</thinking>
-
 # Holiday Luncheon Entrée Selection - Help Guide
 ## Purpose
 The form is designed to gather information for a holiday luncheon event. It helps event planners get a headcount and track RSVPs, as well as gather details such as entrée choice and dietary restrictions.

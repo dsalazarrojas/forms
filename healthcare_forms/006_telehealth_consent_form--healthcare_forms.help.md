@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from patients for telehealth services, ensuring they understand and agree to participate in online consultations and other remote healthcare services. This form collects essential patient information, including their name, date of birth, email, phone number, and signature, which are all required fields. The consent field is also crucial, as it confirms whether the patient is willing to receive telehealth services. This form is designed to be filled out by patients themselves, and the information collected will be used to provide personalized and secure care.
-
-Before filling out this form, please ensure you have read and understood the instructions carefully. If you are unsure about any of the fields, please ask a healthcare professional for clarification.
-
-</thinking>
-
 # Telehealth Consent Form - Help Guide
 
 ## Purpose

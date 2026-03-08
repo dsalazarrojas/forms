@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a roofing inspection. The purpose of this form is to gather data about the condition and type of a roof, including any damage or issues found during the inspection. This form is likely used in a residential or commercial property management context, such as when a landlord or property owner needs to document the status of a roof before and after repairs. 
-
-To ensure the form is filled out correctly, the user should review each field carefully and enter the required information. 
-
-Please note that some fields may not be required, but it's still important to fill out as much information as possible to provide a comprehensive picture of the roof's condition.
-
-Before filling out the form, please read the field explanations to understand what each field is used for.
-
-</thinking>
-
 # Roofing Inspection Form - Help Guide
 
 ## Purpose

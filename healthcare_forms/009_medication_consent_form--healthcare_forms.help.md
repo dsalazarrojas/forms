@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect patient information and medication details for healthcare providers. The form is intended for patients to provide their consent and signature, as well as gather other relevant information about their medication usage. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI-generated form design principles.
-
-To ensure relevance and non-duplication, this form has been designed to meet the specific needs of healthcare providers, and its purpose is to assist in collecting accurate and essential patient data. 
-
-</thinking>
-
 # medication_consent_form - Help Guide
 ## Purpose
 The medication_consent_form is designed to collect patient information and medication details for healthcare providers.

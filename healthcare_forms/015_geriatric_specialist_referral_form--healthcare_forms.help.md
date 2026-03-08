@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather relevant information from patients for referral to a geriatric specialist. The purpose of this form is to collect data that will aid in determining the best course of action for the patient's care. This form should be used by healthcare professionals to collect information from patients that will help guide their treatment decisions. To ensure accurate and comprehensive information is collected, it is recommended that this form is only used once for each patient referral.
-</thinking>
-
 # Geriatric Specialist Referral Form - Help Guide
 
 ## Purpose

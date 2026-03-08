@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from patients after a physiotherapy session, which will help the physiotherapist evaluate the effectiveness of the session, identify areas for improvement, and make data-driven decisions for future sessions. This form is meant to be completed by the patient, providing a subjective evaluation of their experience and the session's outcomes. It's essential to ensure that this form is completed accurately and thoroughly, as the feedback will directly influence the quality of care provided by the physiotherapist. To avoid duplication of effort, please ensure that the form is only completed once after each session. This form has several fields that require explanation to ensure that the patient understands what information is being asked for. Please read on to learn how to complete this form correctly. 
-
-</thinking>
-
 # Physiotherapy Session Feedback Form - Help Guide
 ## Purpose
 The Physiotherapy Session Feedback Form is designed to collect your feedback and evaluation of the physiotherapy session you've just attended. Your feedback will help the physiotherapist assess the session's effectiveness and make improvements for future sessions.

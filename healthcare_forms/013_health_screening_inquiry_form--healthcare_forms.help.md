@@ -1,7 +1,3 @@
-<thinking>
-...the purpose of this form is to collect relevant health screening information about a patient. This information is required to ensure the patient's safety and proper treatment during a healthcare visit. The form is designed to be used in conjunction with other healthcare documentation and medical screening procedures. Please note that the completion of this form should only be done by authorized personnel with proper patient consent.
-</thinking>
-
 # Health Screening Inquiry Form - Help Guide
 ## Purpose
 The Health Screening Inquiry Form is a tool for healthcare professionals to collect important health screening information about patients prior to treatment or medical procedures. This form ensures that the patient's health and safety are considered in the decision-making process.

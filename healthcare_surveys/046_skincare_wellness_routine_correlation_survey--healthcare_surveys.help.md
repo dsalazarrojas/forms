@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the skincare routines and habits of survey participants, as well as their exposure to skincare products and their perceived benefits. This form is intended to gather information on how often participants practice their skincare routines, what products they use, and whether or not they have consulted with healthcare professionals about their skin health. The data collected will help us better understand the correlations between skincare habits, product usage, and overall wellness. This form is not intended to replace medical consultations or advice, but rather to provide insight into individual and collective skincare behaviors.
-</thinking>
-
 # Skincare Wellness Routine Correlation Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your skincare routines, habits, and practices. Your responses will help us better understand how skincare routines relate to overall wellness.

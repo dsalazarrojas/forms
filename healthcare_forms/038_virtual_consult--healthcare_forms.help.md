@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for a virtual consultation. The user will provide their name, email address, and preferred email type (business or personal). They will also have the option to schedule a virtual consult, which includes selecting a date and time for the consultation. The purpose of this form is to collect the necessary details for the virtual consult, ensuring a smooth and efficient process. Please ensure that you have a legitimate reason for completing this form and that you're not duplicating your efforts.
-</thinking>
-
 # Virtual Consult - Help Guide
 ## Purpose
 The Virtual Consult form is designed to gather information for a virtual consultation, allowing users to schedule and prepare for an online appointment with a healthcare professional.

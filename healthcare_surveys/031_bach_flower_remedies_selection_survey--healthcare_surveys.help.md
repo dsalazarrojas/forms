@@ -1,24 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a client's emotional state, symptoms, and desired outcomes from Bach flower remedies. The survey aims to understand the client's primary emotional state, symptom severity, sleep quality, stress triggers, and desired outcome from using Bach flower remedies. The form also seeks to gather consent for treatment and record keeping. 
-
-The form consists of the following fields:
-
-*   **Client name**: Optional field for the client's name.
-*   **Assessment date**: Required field for the date of the survey.
-*   **Primary emotional state**: Select multiple emotions that the client is currently experiencing, such as anxious, sad, overwhelmed, irritable, indecisive, or lonely.
-*   **Symptom severity**: Select the level of severity of the client's symptoms, from 1 (low) to 5 (high).
-*   **Sleep quality**: Select the client's recent sleep pattern, which can be poor, fair, good, or excellent.
-*   **Primary stress triggers**: Select multiple stress triggers that the client is currently experiencing, such as work, family, health, finances, or other.
-*   **Desired outcome**: Optional field for the client to describe what they hope to achieve from using the remedies.
-*   **Prior remedy use**: Optional field for the client to mention any previous Bach flower or other remedies they have used.
-*   **Practitioner notes**: Note field for the clinician to record any additional information.
-*   **Consent to treatment and record keeping**: Select whether the client consents to treatment and record keeping, which is a required field.
-
-This help guide is intended for end-users who will be completing the form to ensure they understand the purpose and requirements of the form, and to provide clear guidance on how to complete each field accurately and effectively.
-
-</thinking>
-
 # Bach Flower Remedies Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a client's emotional state, symptoms, and desired outcomes from Bach flower remedies.

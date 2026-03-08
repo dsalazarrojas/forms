@@ -1,13 +1,3 @@
-<thinking>
-
-**Purpose:** The OCD Monitoring Form is designed for healthcare professionals to collect and track information on patients with Obsessive-Compulsive Disorder (OCD). This form gathers vital details about the patient's symptoms, treatment plans, and other relevant medical information. By filling out this form, healthcare providers can better understand the patient's condition and create personalized treatment plans to improve outcomes.
-
-**Relevance:** This form is intended for medical professionals to use as a tool for assessment and monitoring. Non-medical users are not expected to use this form without proper training and clearance.
-
-**Non-duplication:** This form is not intended to be used as a standalone diagnostic tool. It is meant to be used in conjunction with a thorough medical evaluation and diagnosis.
-
-</thinking>
-
 # ocd_monitoring_form - Help Guide
 ## Purpose
 The OCD Monitoring Form is designed to collect and track information on patients with Obsessive-Compulsive Disorder (OCD) for healthcare professionals.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to track gain servicing outbounds leads. Gain servicing outbounds occur when an out-of-network provider or facility offers care or services to a member of another health plan. This form is used to record information about these interactions for future reference and to help ensure compliance. Please ensure that all fields are completed accurately and comprehensively to avoid errors and inaccuracies in the records.
-
-</thinking>
-
 # Gain Servicing Outbound Lead - Help Guide
 ## Purpose
 This form is used to record information about gain servicing outbounds, which occur when an out-of-network provider or facility offers care or services to a member of another health plan.

@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:**
-This survey is designed to gather information about the experiences and perceptions of individuals in a juvenile setting, such as a school or organization. The purpose of this form is to collect feedback and insights on the spacing and environment of the school, with a focus on physical comfort, support, and overall experience.
-</thinking>
-
 # Juvenile Spacing Survey - Help Guide
 ## How To Complete This Form
 

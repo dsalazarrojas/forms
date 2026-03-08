@@ -1,13 +1,3 @@
-<thinking>
-This guide will help healthcare professionals understand the purpose and requirements of the Clinical Protocol Assessment Form. The form is used to assess and document clinical protocol compliance and effectiveness. Its primary goal is to evaluate the current state of the protocol, identify areas for improvement, and provide recommendations for updates and changes.
-
-Before starting to complete the form, please ensure that you have a clear understanding of the protocol being assessed and its current implementation status. This form is designed to be completed by clinical managers, quality assurance specialists, and department heads, but anyone involved in the protocol's implementation can use it.
-
-Please note that this form is a tool for assessing the protocol, not a replacement for the protocol itself. It is meant to be used in conjunction with the clinical guidelines and policies to ensure that they are effective, accessible, and compliant.
-
-This guide will walk you through each section of the form, explaining the purpose and requirements for each field.
-</thinking>
-
 # Clinical Protocol Assessment Form - Help Guide
 
 ## Purpose

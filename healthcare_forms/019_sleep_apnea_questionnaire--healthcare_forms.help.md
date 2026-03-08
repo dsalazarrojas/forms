@@ -1,8 +1,3 @@
-<thinking>
-**Note: The form is part of the "healthcare" category and is designed to collect information about sleep apnea. It is likely to be used by healthcare professionals to gather data from patients or individuals who are experiencing sleep apnea symptoms. The form's purpose is to assess the severity of sleep apnea and provide a standardized framework for collecting relevant information.**
-
-</thinking>
-
 # sleep_apnea_questionnaire - Help Guide
 ## Purpose
 The sleep apnea questionnaire is designed to collect data about sleep apnea symptoms and severity.

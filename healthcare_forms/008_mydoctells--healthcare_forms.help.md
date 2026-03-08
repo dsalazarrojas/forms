@@ -1,6 +1,3 @@
-<thinking>
-We are creating a help guide for the "Mydoctells" form, which is used in the healthcare industry to collect information from patients. This form is designed to collect personal and medical data, including daily life activities, sexual life, medical history, contact information, and more. The form is crucial for healthcare professionals to gather accurate and complete information to provide quality care. Before proceeding, ensure that you are filling this form for the correct purpose and that you have the necessary permissions and approvals to do so. Please note that this form is intended for personal health information and should be handled with care and confidentiality.</thinking>
-
 # Mydoctells - Help Guide
 ## Purpose
 The "Mydoctells" form is designed to collect essential information from patients to help healthcare professionals provide accurate and personalized care. This form includes questions about daily life activities, sexual life, medical history, and contact information.

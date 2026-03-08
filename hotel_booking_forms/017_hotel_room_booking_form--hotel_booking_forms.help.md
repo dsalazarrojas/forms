@@ -1,16 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and functionality of the Hotel Room Booking Form. Before diving into the detailed explanations, let's briefly consider the following:
-
-*   The form is designed to collect information from users for hotel room booking purposes.
-*   The form is likely not intended for internal or non-user-facing applications, making it a user-facing tool.
-*   Given the structure of the form, it's reasonable to assume the data collected will be used to create or manage hotel room bookings, including guest information, room preferences, and other relevant details.
-*   This assumption is further supported by the presence of fields like `room_type`, `room_size`, `room_amenities`, which are typical considerations for room booking.
-*   The optional fields like `room_number` and `phone_number` may be intended to provide more specific information about the guest's preferences or contact details, but their optional nature indicates they are not critical to the primary booking process.
-*   The `email` field is a common piece of information required for most forms, especially for booking purposes, where it could be used for follow-up communication or confirmation emails.
-*   The form's fields, such as `booking_date`, `departure_date`, and `arrival_time`, suggest a time-sensitive booking process, implying a need to schedule or confirm specific dates and times.
-
-</thinking>
-
 # Hotel Room Booking Form - Help Guide
 
 ## Purpose

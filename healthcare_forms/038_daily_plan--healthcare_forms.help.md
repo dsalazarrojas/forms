@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal reasoning block to check for relevance and non-duplication:**
-
-The "Daily Plan" form is a tool designed to help individuals prioritize and organize their daily activities. It consists of six sections: Productive, Physical, Social, Entertaining, Meaningful, and Relaxing, each focusing on specific aspects of daily life. The form asks users to select activities from each category, indicating the ones they plan to engage in on a daily basis. The "Notes" field allows for additional comments or reminders, while the "Email Reminders" field enables users to input email addresses for receiving notifications or reminders. This form is intended to facilitate reflection and planning for users' daily routines.
-
-</thinking>
-
 # Daily Plan - Help Guide
 ## Purpose
 The Daily Plan form helps individuals prioritize and organize their daily activities, focusing on different aspects of their lives such as productive, physical, social, entertaining, meaningful, and relaxing activities.

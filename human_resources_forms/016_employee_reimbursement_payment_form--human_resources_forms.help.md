@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request reimbursement payment from employees. It allows employees to submit their expenses and the submitted_by field is used to track who initiated the request. This form is designed for internal use only and should not be filled out by anyone outside of the organization. The fields are mostly optional, which means that employees can fill out as much or as little information as they need. Please ensure that you are submitting a valid expense_type and payment_method, as these options will impact how the payment will be processed.
-</thinking>
-
 # employee_reimbursement_payment_form - Help Guide
 ## Purpose
 This form is used to request reimbursement payment from employees.

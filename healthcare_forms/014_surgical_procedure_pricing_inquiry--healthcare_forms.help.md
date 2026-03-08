@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a surgical procedure pricing inquiry from a user. This form is meant to gather details about the surgical procedure, the personnel involved, and the costs associated with it. This form will help the hospital or clinic to provide accurate pricing information to the user.
-
-The form is designed to be completed by a user who has scheduled a surgical procedure and wants to inquire about the associated costs. The user will fill out the form with their contact information and details about the surgical procedure, including the type of surgery, the duration of the procedure, and the names of the surgeons, anesthetists, and other personnel involved. The form will also ask for the total estimated fee for the procedure and any additional comments or information the user wants to provide.
-
-</thinking>
-
 # Surgical Procedure Pricing Inquiry - Help Guide
 ## Purpose
 This form is used to collect information about a surgical procedure pricing inquiry from a user. It helps the hospital or clinic to provide accurate pricing information to the user.

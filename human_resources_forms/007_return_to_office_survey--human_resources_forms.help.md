@@ -1,18 +1,3 @@
-<thinking>
-We are checking for form relevance and non-duplication...
-
-This form is intended for employees to submit their feedback and suggestions on returning to the office. The purpose of this form is to gather data on various aspects of remote work, including travel frequency, reasons for returning, and the potential impact on productivity, culture, and employee satisfaction.
-
-The following guidelines are in place to ensure the form is filled out accurately and consistently:
-
-* Only one response per employee should be submitted.
-* Duplicate submissions will be discarded.
-* Please fill out all required fields.
-
-Please note that some fields are optional and can be skipped if not applicable.
-
-</thinking>
-
 # return_to_office_survey - Help Guide
 ## Purpose
 The return_to_office_survey form is designed to collect feedback and suggestions from employees on returning to the office. This will help management understand the feasibility and potential benefits of remote work arrangements.

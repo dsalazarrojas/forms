@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to document the results of skin tests, which is an essential part of patient care in the healthcare industry. This form is designed to gather information about test results, test dates, test sites, result interpretations, healthcare providers, and patient names. It is crucial to complete this form accurately and thoroughly to ensure that patient records are up-to-date and comprehensive. 
-
-Please note that this form is not intended for duplicate submissions, and users should only complete the form once for each unique set of test results. If you are unsure about any of the information or fields, please consult with the relevant healthcare professionals or seek clarification before proceeding.
-</thinking>
-
 # tb_skin_test_results_form - Help Guide
 ## Purpose
 The tb_skin_test_results_form is designed to collect and document the results of skin tests for patients. It is used to record the test results, test dates, test sites, and other relevant information.

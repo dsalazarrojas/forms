@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal Reasoning Block:**
 
 To prevent duplication and ensure relevant usage, this guide should only be used by authorized healthcare workers for COVID-19 testing registration and consent purposes. Non-authorized users should not access this form as it contains sensitive patient information. 

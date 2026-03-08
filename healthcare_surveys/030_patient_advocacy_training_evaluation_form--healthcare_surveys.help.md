@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # patient-advocacy-training-evaluation-form - Help Guide
 
 ## Purpose

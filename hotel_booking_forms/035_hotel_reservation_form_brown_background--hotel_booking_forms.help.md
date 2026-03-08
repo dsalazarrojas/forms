@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect hotel reservation information from guests, which will be used by hotel staff to process their requests. The form includes fields for selecting a hotel, choosing a check-in and check-out date, selecting room type, providing personal details such as first and last name, email, and phone number. 
-</thinking>
-
 # Hotel Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to provide hotel staff with necessary information to process a guest's hotel reservation request.

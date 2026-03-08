@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "employee_exit_interview_form" is to gather information from departing employees to understand their reasons for leaving the company, provide a platform for feedback and suggestions, and collect contact details for future reference. This form helps to maintain open communication and ensure a smooth transition for both the departing employee and the organization. It is essential to complete this form as accurately and thoroughly as possible to provide valuable insights for future employee retention and development strategies.
-</thinking>
-
 # employee_exit_interview_form - Help Guide
 ## Purpose
 The "employee_exit_interview_form" is a crucial tool for gathering information about departing employees. Its primary function is to collect reasons for leaving, gather feedback and suggestions, and obtain contact details for future reference.

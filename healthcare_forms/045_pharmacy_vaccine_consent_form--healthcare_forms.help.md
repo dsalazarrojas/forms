@@ -1,25 +1,3 @@
-<thinking>
-**Checking for relevance and duplication**
-
-Before creating the user-facing help guide, I'm reviewing the provided form YAML to understand its purpose and content. The form, "Pharmacy Vaccine Consent Form", appears to be a document used to gather patient consent for vaccine administration. The fields included in the form suggest it's used to collect basic patient information, vaccination details, and refusal reasons.
-
-The form has 11 fields, each with a specific purpose:
-- "Vaccine Consent Form" (select_one): Selecting whether the patient consents or refuses the vaccine.
-- "Patient Name" (text): Collecting the patient's name.
-- "Contact Number" (text): Gathering the patient's contact information.
-- "Medical Practice Name" (text): Recording the name of the medical practice or pharmacy.
-- "Date of Birth" (date): Capturing the patient's date of birth.
-- "Medical Practice ID" (text): Recording the medical practice or pharmacy identifier.
-- "Date of Consent" (date): Logging the date the patient provided consent.
-- "Reason for Refusal" (text): Explaining the reason for vaccine refusal.
-- "Vaccine Refused" (select_multiple): Selecting reasons why the vaccine was refused.
-- "Reason for Refusal Details" (text): Providing additional details about the refusal reason.
-- "Note" (note): Including any additional comments or notes about the patient.
-
-The form appears to be designed for healthcare professionals to obtain informed consent from patients before administering vaccines.
-
-</thinking>
-
 # Pharmacy Vaccine Consent Form - Help Guide
 
 ## Purpose

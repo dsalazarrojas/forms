@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Job Application Form In Chinese" to explain its purpose, how to complete it, and provide field-by-field explanations to aid users in filling out the form correctly. This guide will be based on the provided YAML fields and will be written in Markdown format.
-
-</thinking>
-
 # Job Application Form In Chinese - Help Guide
 ## Purpose
 This form is designed for users to submit their job applications in a professional and organized manner. It collects essential information about the applicant, including personal details, education background, work experience, and job preferences.

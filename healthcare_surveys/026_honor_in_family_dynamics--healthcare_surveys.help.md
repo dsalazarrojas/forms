@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about family dynamics, which refers to the relationships within a family, including how family members interact with and influence each other. The form will help to gather insights on the family's values, conflict resolution strategies, emotional intelligence, and other factors that contribute to the overall dynamics of the family.
-Before filling out this form, please ensure that you have not previously submitted an "Honor In Family Dynamics" form, as this form is intended to collect unique and individual responses.
-</thinking>
-
 # Honor In Family Dynamics - Help Guide
 ## Purpose
 The "Honor In Family Dynamics" form is designed to gather information about the relationships within a family, focusing on how family members interact with and influence each other. This form will help you provide insights into the family's values, conflict resolution strategies, emotional intelligence, and other factors that contribute to the overall dynamics of the family.

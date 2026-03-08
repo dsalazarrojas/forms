@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request an extension to a guest's late departure date, typically when they have been unable to depart as originally planned due to unforeseen circumstances. The form will be reviewed and approved by relevant parties in the organization, and an answer to the request will be provided.
-
-This form should only be used to request an extension for guests who are still on-site or have not yet departed. Repeated or excessive use of this form for extensions may be considered a non-compliant behavior by management.
-
-Please note that the form will ask for information to be filled out in a specific order, and not all fields are mandatory. The fields are designed to gather relevant information for the request and will help the review process.
-</thinking>
-
 # Late Departure Extension Request Form - Help Guide
 
 ## Purpose

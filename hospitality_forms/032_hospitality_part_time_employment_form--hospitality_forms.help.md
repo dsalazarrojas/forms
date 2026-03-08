@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be designed for part-time employment applications in the hospitality industry. The purpose of this form is to gather information from applicants for part-time job positions in various hospitality settings, such as restaurants, hotels, cafes, and event venues. The form likely collects demographic and job-specific details from applicants, including contact information, work availability, skills, and education, to facilitate the hiring process.
-
-The form seems to be designed for both part-time and full-time job applications, with fields for different employment statuses, job titles, job descriptions, and job types. There is also a field for work hours, shift frequency, and work location. The form also asks for a start and end date, available days, and notice period.
-
-The form has a mix of single-select fields for job type, work location, and shift frequency, as well as multi-select fields for employment status, job availability, and emergency relationship. There are also fields for contact information, such as phone number and email, and emergency contact fields for relationship and phone number.
-
-The form seems to be designed to collect comprehensive information from applicants, making it suitable for various hospitality settings.
-
-</thinking>
-
 # Hospitality Part Time Employment Form - Help Guide
 ## Purpose
 This form is designed to gather information from applicants for part-time job positions in the hospitality industry.

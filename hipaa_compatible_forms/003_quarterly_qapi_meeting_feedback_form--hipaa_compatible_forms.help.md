@@ -1,7 +1,3 @@
-<thinking>
-To ensure that we're not duplicating work or misusing company resources, it's essential that this form is filled out with precision and attention to detail. This form is for gathering feedback from employees after a QAPI meeting. Please review each field carefully to ensure that your responses accurately reflect the meeting's progress and outcomes.
-</thinking>
-
 # quarterly_qapi_meeting_feedback_form - Help Guide
 ## Purpose
 The quarterly QAPI meeting feedback form is designed to gather feedback and information about meetings attended by employees. This form should be filled out by each attendee to ensure that we're using our time effectively and improving our processes.

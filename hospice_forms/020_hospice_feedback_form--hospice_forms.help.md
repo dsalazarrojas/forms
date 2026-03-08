@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "hospice_feedback_form" form, which is designed to gather feedback from patients about their experience at the hospice care center.
-</thinking>
-
 # hospice_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients about their experience with the hospice care center. This includes information about their patient information, experience at the hospice, services used, services not used, suggestions for improvement, overall experience, comments, and patient signature.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about massage therapy sessions, including details about the client, session specifics, and billing and payment information. It is likely used in a healthcare setting to document sessions for billing and insurance purposes.
-</thinking>
-
 # Massage Therapy Session Notes - Help Guide
 ## Purpose
 This form is used to collect and record information about massage therapy sessions, including client details, session specifics, and billing and payment information.

@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, this form is designed to collect information about a patient care incident that has occurred. This form is typically used to document incidents such as medical errors, near misses, or other events that affect patient care. When filling out this form, please make sure that the information provided is accurate and relevant to the incident. Please do not submit duplicate incidents, as this can cause unnecessary confusion and delay in the follow-up process.</thinking>
-
 # Patient Care Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient care incident that has occurred, allowing healthcare professionals to document and follow up on incidents in a timely and effective manner.

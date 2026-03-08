@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a principal's background, experience, and qualifications. The purpose of this form is to ensure that principals who are applying for a position, or seeking promotion, or seeking to be a part of a team, have a clear and comprehensive resume that showcases their expertise and experience. This form will guide you through the process of filling out your resume, making sure that all necessary details are covered.
-</thinking>
-
 # Principal Resume Submission Form - Help Guide
 ## Purpose
 The Principal Resume Submission Form is a tool used to create a professional and comprehensive resume for principals to showcase their background, experience, and qualifications. This form will help you to provide a clear and concise overview of your work and educational experience.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients about their overall experience in a hospital, specifically in the areas of care and services provided, cleanliness, wait time, comfort of the hospital room, food service, and overall experience. It's likely that this form is used in a hospital setting to identify areas of improvement and enhance patient satisfaction.
-
-The purpose of this form is to gather opinions and ratings from patients about their experience in the hospital, providing an opportunity for patients to express their satisfaction or dissatisfaction with various aspects of care and services. This form is intended for patients to provide their honest feedback, which can help the hospital administration identify areas that need improvement.
-
-Please note that this form is not intended to be a comprehensive survey, but rather a brief and concise way to gather patient feedback. Each question is designed to be answered with a rating or a simple yes/no response, making it easy and quick to complete.
-
-</thinking>
-
 # Hospital Patient Care Improvement Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience in the hospital, specifically in the areas of care and services provided, cleanliness, wait time, comfort of the hospital room, food service, and overall experience.

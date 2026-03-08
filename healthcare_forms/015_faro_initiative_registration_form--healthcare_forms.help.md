@@ -1,7 +1,3 @@
-<thinking>
-The form "FARO Initiative Registration Form" is a collection of fields designed to collect demographic and medical information from users. It appears to be used for patients or individuals to register for a specific healthcare-related program or initiative. The form is composed of multiple fields across various pages, including personal details, medical conditions, emergency contacts, and insurance information. It seems to be a general-purpose form for collecting information without strict validation rules. However, please review the form configuration to ensure it aligns with your specific use cases and data requirements.
-</thinking>
-
 # FARO Initiative Registration Form - Help Guide
 ## Purpose
 The FARO Initiative Registration Form is a collection of fields to gather demographic, medical, and insurance information for healthcare-related purposes.

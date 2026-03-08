@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Otolaryngology Discharge Form - Help Guide
 ## Purpose
 The Otolaryngology Discharge Form is a document that records the information necessary for the discharge of a patient from an otolaryngology consultation. This form aims to gather general information, medical history, allergies, medications, surgical details, follow-up instructions, and the discharge diagnosis. It is designed to ensure that the patient's care is properly documented and that the necessary information is communicated to the patient or their representative.

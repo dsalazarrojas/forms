@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the experience of healthcare providers with cognitive aids, which are tools or systems used to aid cognitive function. The purpose of this survey is to collect data on how providers use cognitive aids, their effectiveness, challenges, and time spent using them. This form will help healthcare organizations understand the impact and effectiveness of cognitive aids in clinical settings.
-</thinking>
-
 # Provider Experience Survey On Cognitive Aids - Help Guide
 ## Purpose
 The Provider Experience Survey On Cognitive Aids is designed to collect information about healthcare providers' experiences with cognitive aids. The data collected will help healthcare organizations understand the benefits and challenges of using cognitive aids in clinical settings.

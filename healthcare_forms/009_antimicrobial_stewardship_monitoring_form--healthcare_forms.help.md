@@ -1,5 +1,3 @@
-<thinking>Antimicrobial Stewardship Monitoring Form is a tool used to track and analyze antimicrobial use in a healthcare facility. This form helps healthcare professionals monitor and reduce the misuse of antibiotics, promoting better patient care and reducing the development of antibiotic-resistant bacteria. The form is designed to be completed by healthcare staff responsible for antimicrobial stewardship in their facility. Before starting, please ensure you have the necessary information and permissions to complete this form accurately and without duplicating efforts.</thinking>
-
 # Antimicrobial Stewardship Monitoring Form - Help Guide
 ## Purpose
 The Antimicrobial Stewardship Monitoring Form is a tool used to track and analyze antimicrobial use in a healthcare facility. This form helps healthcare professionals monitor and reduce the misuse of antibiotics, promoting better patient care and reducing the development of antibiotic-resistant bacteria.

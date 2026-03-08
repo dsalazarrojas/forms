@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect demographic information and opinions from veterinary industry professionals. The purpose of this survey is to assess the current state of diversity and inclusion within the veterinary industry. By collecting data on demographics, work environment, and cultural experiences, this survey aims to provide insights on how the industry is performing in terms of diversity and inclusion.
-
-This survey is part of a larger initiative to improve diversity and inclusion in the veterinary industry. Please answer all questions honestly, and feel free to skip questions that do not apply to you. Your responses will be kept confidential and anonymous.
-
-</thinking>
-
 # Veterinary Industry Diversity & Inclusion Survey - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's general health, medical history, current medications, and any medical conditions they may have. The purpose of this form is to gather comprehensive data to help healthcare providers make informed decisions about patient care.
-
-This form has five sections: General Health, Medical History, Medication, Medical Conditions, and Other Medical Conditions. The form is designed to be completed by patients, but it can also be used by healthcare providers to update or review patient information.
-
-To ensure the accuracy and completeness of the data, please note that this form is not intended for patients with multiple medical conditions or complex medical needs. If you have multiple medical conditions or complex medical needs, please seek guidance from a healthcare professional.
-
-</thinking>
-
 # statement_of_health_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's general health, medical history, current medications, and any medical conditions they may have.

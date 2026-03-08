@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information from supervisors, likely for administrative or organizational purposes. The form should only be filled out by supervisors, not employees. It is possible that this form might be a duplicate of another form, so please make sure to check if a similar form already exists before submitting this one. If you are unsure, please contact your HR department for clarification.</thinking>
-
 # Supervisor Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from supervisors for administrative purposes. Please ensure that you are filling out this form as a supervisor and not as an employee. If you're unsure, please contact your HR department for clarification.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a cleaning inspection, typically performed on residential or commercial properties. The purpose of this form is to assess the cleanliness and overall condition of the property, including kitchen, bathroom, living areas, and general cleanliness.
-
-To determine the relevance of the form, it's essential to identify if the property is in a residential or commercial setting. If it's a residential setting, the form should be filled out by the property manager or owner. If it's a commercial setting, the form might be used by a facilities manager or operations staff. 
-
-Additionally, it's essential to ensure that the form is not being duplicated, as it might lead to unnecessary work or confusion. This form should be used for a one-time evaluation and not for routine inspections or follow-up assessments. 
-
-Before starting the form, ensure you have the necessary information and authorization to conduct the inspection. This form is designed for general cleaning inspections, not for health and safety audits or other specific assessments.
-
-</thinking>
-
 # Cleaning Inspection Form - Help Guide
 ## Purpose
 This form is used to assess the cleanliness and overall condition of a residential or commercial property during a cleaning inspection.

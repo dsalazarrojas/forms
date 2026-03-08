@@ -1,10 +1,3 @@
-<thinking>
-This help guide aims to assist end-users in completing the COVID 19 Immunization Screening And Consent Form. The form is designed to gather essential information about a patient's medical history, current health status, and consent to receive the COVID-19 vaccine. This guide will walk users through the form's purpose, how to complete it, and provide explanations for each field to ensure accurate and informed input.
-
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and the required fields. This form is not to be used for other purposes and is specific to COVID-19 vaccine screening and consent.
-
-</thinking>
-
 # COVID 19 Immunization Screening And Consent Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect demographic and health-related information from respondents. The purpose of this form is to gather data on the frequency and duration of various health-related behaviors and conditions. This data can be used to inform public health policy, research, and education initiatives. To ensure the accuracy and completeness of the data, please answer each question truthfully and to the best of your ability.
-
-Before starting the form, please make sure to have a clear understanding of the questions and the corresponding options. This guide will help you walk through each field and explain its purpose in an effort to ensure clarity and consistency in your responses.
-
-The form consists of 25 questions that are grouped into different categories. Please answer each question carefully and thoroughly, and feel free to ask if you have any questions or concerns about any of the fields. This guide will explain each field in the following structure:
-
-*   **<label>** (required/optional): <plain explanation>
-
-</thinking>
-
 # Research Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect demographic and health-related information from respondents. The purpose of this form is to inform public health policy, research, and education initiatives.

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for employees who are completing a conflict resolution evaluation form to report and document workplace conflicts. The purpose of this form is to ensure that conflicts are properly documented, allowing for a resolution process to be implemented and to track the progress of resolving the conflict. This form is only to be used by employees and team leaders who are directly involved in or aware of the conflict.
-
-</thinking>
-
 # employee_conflict_resolution_evaluation_form - Help Guide
 ## Purpose
 The employee conflict resolution evaluation form is a tool used to document and evaluate workplace conflicts. It allows employees to report and describe conflicts, provide information about the resolution outcome, and document any actions taken. This form helps to ensure that all conflicts are properly documented and that the resolution process is tracked.

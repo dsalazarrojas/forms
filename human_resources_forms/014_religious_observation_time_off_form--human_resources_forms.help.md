@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request time off for religious observation, which is a legitimate reason for absence from work under the law. This form is not intended for duplicate or frivolous submissions. Please fill it out correctly and only if you have a genuine religious observation to report.
-</thinking>
-
 # Religious Observation Time Off Form - Help Guide
 ## Purpose
 The Religious Observation Time Off Form is used to request time off for a valid religious observation. This form ensures that your request is properly documented and submitted for approval.

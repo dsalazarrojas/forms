@@ -1,10 +1,3 @@
-<thinking>This form is used to request a per diem reimbursement for travel-related expenses. The form is intended for employees to submit their travel-related expenses for reimbursement. To ensure accurate and efficient processing, please ensure that you are submitting a valid request by checking that you meet the following criteria:
-
-* The form should only be filled out for actual travel-related expenses.
-* The form should not be duplicated or repeated for the same travel period.
-* The form should only be filled out by authorized employees.
-</thinking>
-
 # per_diem_request_form - Help Guide
 ## Purpose
 This form is used to request a per diem reimbursement for travel-related expenses.

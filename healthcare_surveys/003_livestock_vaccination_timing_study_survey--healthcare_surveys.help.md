@@ -1,10 +1,3 @@
-<thinking>
-This form, "livestock_vaccination_timing_study_survey," is a tool used to collect data on livestock vaccinations. It is used to record and analyze the timing of vaccinations administered to livestock in a given population. This form helps in tracking and monitoring the effectiveness and frequency of vaccinations, which is crucial for animal health and disease control. This form is part of a larger study aimed at understanding the timing of vaccinations and its impact on animal health and welfare.
-
-Before starting the survey, please ensure you are using it for a relevant purpose and that it's not a duplicate data collection effort.
-
-</thinking>
-
 # livestock_vaccination_timing_study_survey - Help Guide
 ## Purpose
 The livestock_vaccination_timing_study_survey form is designed to collect data on the timing of vaccinations administered to livestock. This data is essential for tracking and monitoring the effectiveness and frequency of vaccinations, which is crucial for animal health and disease control.

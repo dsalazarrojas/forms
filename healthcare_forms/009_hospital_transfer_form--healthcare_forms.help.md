@@ -1,6 +1,3 @@
-<thinking> 
-The form's purpose is to collect information for hospital transfers, allowing healthcare professionals to efficiently document and process patient transfers. This form is designed to ensure accurate and comprehensive data collection, streamlining the process for healthcare providers. It is essential to fill out this form to facilitate smooth hospital transfers. Please ensure that the form is not duplicated or used for purposes other than its intended use. If you have already completed a similar form, please do not fill this out. If you are unsure, please contact form@gic.mx for clarification. </thinking>
-
 # Hospital Transfer Form - Help Guide
 ## Purpose
 The Hospital Transfer Form is designed to collect information for hospital transfers, ensuring accurate and comprehensive data collection and streamlining the process for healthcare providers.

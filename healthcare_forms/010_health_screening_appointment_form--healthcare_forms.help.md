@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients for their health screening appointments. The form is designed to be completed by patients or their representatives, and the data collected will be used to schedule and prepare for the appointment. It is essential to ensure that all required fields are completed accurately and truthfully to ensure the best possible care and service.
-
-Before filling out this form, please make sure you have all the necessary information and documents ready. This form should not be used as a replacement for a face-to-face consultation with a medical professional.
-
-Please note that this form is designed to be a general template and might not cover specific requirements for all medical specialties. If you have any doubts or concerns, please consult with a medical professional before proceeding.
-
-</thinking>
-
 # Health Screening Appointment Form - Help Guide
 ## Purpose
 The Health Screening Appointment Form is designed to collect patient information for health screening appointments.

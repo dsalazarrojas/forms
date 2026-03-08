@@ -1,8 +1,3 @@
-<thinking>
-**Frostbite Awareness And Prevention Quiz** is a form designed to assess individuals' awareness and understanding of frostbite, a condition caused by exposure to extreme cold temperatures. The form is intended for people working in industries or situations where frostbite is a potential risk, such as in cold weather conditions. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # Frostbite Awareness And Prevention Quiz - Help Guide
 ## Purpose
 The purpose of this form is to evaluate your awareness and knowledge about frostbite, its risks, symptoms, and prevention strategies.

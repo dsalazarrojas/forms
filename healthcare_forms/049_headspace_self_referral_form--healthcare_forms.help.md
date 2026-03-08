@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Headspace Self Referral Form - Help Guide
 
 ## Purpose

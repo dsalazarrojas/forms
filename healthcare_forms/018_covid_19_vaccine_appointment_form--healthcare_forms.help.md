@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for a COVID-19 vaccine appointment. The form includes sections for patient information, appointment details, insurance and medical history, and special requests. It is required that the form be filled out completely and accurately to ensure proper preparation and care for the patient's appointment.
-</thinking>
-
 # COVID 19 Vaccine Appointment Form - Help Guide
 ## Purpose
 This form is used to gather essential information from patients before their COVID-19 vaccine appointment.

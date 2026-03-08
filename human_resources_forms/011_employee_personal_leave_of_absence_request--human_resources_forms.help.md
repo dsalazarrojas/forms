@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Personal Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to request a personal leave of absence for an employee. This form is used to gather information about the employee's leave dates, reason, and supervisor comments. It will be reviewed by designated managers for approval.

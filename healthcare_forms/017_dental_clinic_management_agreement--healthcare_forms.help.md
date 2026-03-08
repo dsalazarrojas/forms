@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Clinic Management Agreement - Help Guide
 
 ## Purpose

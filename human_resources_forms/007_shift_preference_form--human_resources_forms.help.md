@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a shift preference submission from employees. This form may need to be used when an employee is requesting to change their shift status or when a manager is approving or denying a shift request. It's likely this form will be used by HR personnel to process requests in an efficient and organized manner.
-
-Before filling this form, please ensure that:
-- You have the necessary permissions to access and modify employee data.
-- You're using the correct form for your shift preference submission, as there may be multiple forms designed for different purposes.
-
-</thinking>
-
 # shift_preference_form - Help Guide
 ## Purpose
 This form is used to collect information for a shift preference submission from employees.

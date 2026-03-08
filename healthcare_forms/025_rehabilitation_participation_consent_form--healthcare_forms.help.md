@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rehabilitation Participation Consent Form - Help Guide
 ## Purpose
 

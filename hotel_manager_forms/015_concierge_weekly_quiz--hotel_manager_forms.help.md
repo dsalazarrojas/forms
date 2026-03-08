@@ -1,12 +1,3 @@
-<thinking>
-This form, "Concierge Weekly Quiz," is designed to assess the performance of concierge staff in a hospitality setting, specifically focusing on their knowledge of customer service scenarios, local attractions, safety protocols, and other essential areas of their role. This form is meant to be completed by concierge staff on a regular basis (weekly), ideally as a self-assessment tool for personal performance evaluation and improvement. The form is intended to help concierge staff identify areas where they may need further training or guidance and provide actionable feedback to their supervisors. By using this form, staff can track their progress over time, receive constructive feedback, and work towards enhancing their performance.
-
-Before completing this form, ensure you understand the specific questions and their relevance to your role. If you're unsure about any aspect of the form, refer to this guide for clarification.
-
-Please note that the form is designed for individual self-assessment. You are encouraged to be honest in your self-evaluation and identify areas where you'd like to improve.
-
-</thinking>
-
 # Concierge Weekly Quiz - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Disease Prevention Program Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, it is essential to evaluate the discharge process of patients to identify areas of improvement and provide quality care. This form is designed to gather feedback on the overall experience of patients during their hospital stay, focusing on various aspects such as communication, environment, and care team. Please ensure that the form is completed honestly and thoroughly, providing specific examples or incidents that highlight your experiences. This form will help us refine our processes to provide better care for future patients.</thinking>
-
 # Hospital Patient Discharge Process Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>This form appears to be a comprehensive health assessment form designed for patients to provide medical information. It seems to be used for patients with multiple medical conditions, requiring a detailed medical history, current medical conditions, and other relevant health-related information. The form includes fields for general patient information, height and weight, medical conditions, medications, allergies, and emergency contact details. Given the extensive nature of this form, it's essential to ensure that patients complete it accurately and thoroughly to provide the necessary health information for healthcare professionals.</thinking>
-
 # Zusmanb - Help Guide
 ## Purpose
 This form is designed to collect comprehensive health information from patients for the purpose of assessment and treatment.

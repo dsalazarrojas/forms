@@ -1,11 +1,3 @@
-<thinking>
-
-To create this form, I analyzed publicly available metadata from surveys related to store managers and interviews. The form is designed to be a comprehensive guide for store managers to provide information about their store, their team, and their performance. It's intended to be used in human resources management.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using only public survey topic metadata.
-
-</thinking>
-
 # Store Manager Interview Form - Help Guide
 
 ## Purpose

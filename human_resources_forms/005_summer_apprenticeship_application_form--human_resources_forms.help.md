@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in participating in a summer internship program. The purpose of the form is to gather details about the applicant's background, skills, and experience in order to assess their eligibility for the internship. 
-
-To avoid duplication, we recommend that applicants only complete this form once.
-
-This form is designed to be filled out by a single person, but it can be adapted for group applications with some technical adjustments.
-
-The form has 11 fields in total, including text, select_one, select_multiple, time, and date fields. 
-
-The fields are divided into two main sections: "Applicant Details" and "Internship Application". 
-
-Please note that some fields are optional and others are required.
-
-</thinking>
-
 # Summer Apprenticeship Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who are interested in participating in a summer internship program.

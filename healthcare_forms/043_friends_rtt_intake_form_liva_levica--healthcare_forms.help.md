@@ -1,11 +1,3 @@
-<thinking>
-The Friends RTT Intake Form Liva Levica is a form used to collect information about a patient's contact and medical history. It's intended for healthcare professionals to gather relevant details about patients and their relationships, medical conditions, and medical histories. 
-
-This form should only be used for patients who have a pre-existing relationship with the healthcare provider (RTT = "Relationship to be Treated") or for new patients who are seeking treatment from the provider. 
-
-Please ensure that you are not duplicating information already provided by the patient or their family during previous visits. 
-</thinking>
-
 # Friends RTT Intake Form Liva Levica - Help Guide
 ## Purpose
 The Friends RTT Intake Form Liva Levica is designed to collect and document contact and medical information about a patient, helping healthcare professionals provide accurate and effective care.

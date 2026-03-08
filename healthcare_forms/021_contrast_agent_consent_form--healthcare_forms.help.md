@@ -1,9 +1,3 @@
-<thinking>
-
-Before creating this help guide, I've reviewed the provided form data to ensure understanding and relevance. This form appears to be designed to obtain informed consent from patients before administering contrast agents during medical procedures, such as CT scans, MRIs, or other imaging techniques. The form gathers essential information about the patient's health history, medical conditions, and consent for the administration of contrast agents. This guide is intended to explain each field's purpose and requirements to ensure patients complete the form accurately and with confidence.
-
-</thinking>
-
 # Contrast Agent Consent Form - Help Guide
 ## Purpose
 This form is designed to gather informed consent from patients before administering contrast agents during medical procedures. It collects information about the patient's health history, medical conditions, and consent for the administration of contrast agents.

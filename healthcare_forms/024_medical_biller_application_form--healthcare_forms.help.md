@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from healthcare professionals who are applying for a medical billing position. The form will help the organization assess the applicant's qualifications, experience, and availability for the role. Please ensure that you provide accurate and truthful information to avoid any potential issues or delays in the application process. The fields in this form are meant to gather specific details about your work experience, availability, and qualifications for the medical billing position. Please take the time to read through each field carefully to provide the necessary information.
-</thinking>
-
 # Medical Biller Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants applying for a medical billing position. It will be reviewed by our team to assess your qualifications and schedule for the role.

@@ -1,7 +1,3 @@
-<thinking> 
-  To ensure relevance, this form is intended to gather contact information and medical details from patients who are interested in receiving the Mpox vaccine. It's crucial to verify if the form is being filled out for the right reason and by the right person. The form should be filled out only once per person, and it should not be used to sign up multiple individuals at the same time. To prevent duplication, we need to ensure that each entry is unique and not a duplicate of an existing entry. This form is used by healthcare professionals or administrators to gather essential contact and medical information from patients who are interested in receiving the Mpox vaccine. The form should only be filled out if the patient is eligible for the vaccine and has not already been vaccinated. If any of these conditions are not met, the form should not be filled out or the entry should be removed. 
-</thinking>
-
 # Mpox Vaccine Waitlist Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and medical details from patients who are interested in receiving the Mpox vaccine. It is essential to fill out this form accurately and truthfully to ensure that you are eligible for the vaccine and that your contact and medical information is up-to-date.

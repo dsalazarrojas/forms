@@ -1,9 +1,3 @@
-<thinking>
-This form is a part of the hotel's operational process, aimed at collecting information regarding guest transport requirements. The purpose of this form is to gather relevant details about the guest's arrival and departure, such as preferred transport method, travel times, and personal preferences. This data will be used to provide optimal services to the guests. The form is designed to be completed by guests to inform hotel staff about their specific needs. It is not a duplication of existing forms, but rather a unique adaptation of public survey topic metadata.
-
-Please note that the form submission status will also be tracked, and it is a required field for the form to be valid.
-</thinking>
-
 # Guest Transport Change Request Form - Help Guide
 ## Purpose
 This form is designed to collect important information about your guest's transport needs to ensure you get the best experience at our hotel.

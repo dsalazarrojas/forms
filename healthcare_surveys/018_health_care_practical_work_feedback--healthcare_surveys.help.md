@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure form purpose and relevance are understood before outputting the help guide ...
-
-The form "Health Care Practical Work Feedback" is designed to collect feedback from students, placement directors, and other stakeholders on the practical work experience of students in healthcare settings. The form is meant to help assess the effectiveness of placements and provide valuable insights for improvement. It should only be filled out by students who have undergone practical work in healthcare settings. Relevance and non-duplication of form submissions are ensured by ensuring that each student fills out the form only once per placement experience. 
-
-</thinking>
-
 # Health Care Practical Work Feedback - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from patients to screen for potential COVID-19 risk factors. The purpose is to ensure that patients receive proper medical attention and guidance. It is essential to complete this form accurately and thoroughly to provide healthcare providers with the necessary information to make informed decisions. Please note that this form should not be filled out for patients who have already been diagnosed or treated for COVID-19.
-</thinking>
-
 # daily_covid_19_pre_screening_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients to identify potential risks associated with COVID-19. It helps healthcare providers to make informed decisions and provide proper medical attention.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from parents or guardians regarding their child's experience at an eye care clinic. The form aims to measure patient satisfaction and gather insights to improve the quality of care provided. Before filling out this form, please ensure that you have not already submitted feedback for the same visit. 
-</thinking>
-
 # Pediatric Eye Care Feedback Form - Help Guide
 ## Purpose
 

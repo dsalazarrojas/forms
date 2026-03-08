@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from workers on a specific topic, providing a summary of the feedback and the worker's thoughts and suggestions. This form is designed to be used for employee feedback, performance evaluation, or other purposes as needed. 
-
-Before filling out this form, please ensure that the feedback is relevant and not a duplicate of an existing issue.
-
-</thinking>
-
 # worker_feedback_summary_request_form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-This form is for verifying the identity and dependents of individuals who wish to access certain services or benefits. It is used to gather information about the dependent's details, address, and proof of relationship. This form is usually filled out by the service provider to verify the dependent's identity and ensure that they meet the required criteria. 
-
-Before filling out this form, please ensure that you have all the necessary documents and information to complete it accurately. 
-
-The fields on this form are designed to gather information in a structured and efficient way. Each field has been crafted to ensure that the required information is collected, and the form should not be filled out multiple times as this may cause confusion and duplication of efforts.
-</thinking>
-
 # Dependent Verification Form - Help Guide
 ## Purpose
 

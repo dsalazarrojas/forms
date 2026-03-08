@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to book a time slot on a video wall display. The form collects contact information, a specific booking date and time, whether the display requires a meeting or event, and a terms agreement.
-</thinking>
-
 # video_wall_display_booking_form - Help Guide
 ## Purpose
 The video wall display booking form is used to book a time slot on the video wall display for events, meetings, and other purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used for referring a patient to an oral surgeon for treatment. It's intended for healthcare professionals to collect information about the patient's medical history, medications, and current condition before referral. This form should not be used for any other purpose. Ensure you only use this form for oral surgery referrals and not duplicate it for other medical procedures or patient intake.
-</thinking>
-
 # Oral Surgeon Referral Form - Help Guide
 
 ## Purpose

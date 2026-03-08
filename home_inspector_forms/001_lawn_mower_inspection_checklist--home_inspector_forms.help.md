@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to be a checklist for a lawn mower inspection, ensuring that the mower is in good working condition before use. The purpose of this form is to help the user verify that the mower's engine is in a satisfactory state and that there is sufficient fuel level. This form is intended for internal use within an organization that handles lawn mower maintenance and inspection.
-
-</thinking>
-
 # lawn_mower_inspection_checklist - Help Guide
 ## Purpose
 This form is designed to ensure the lawn mower's engine is in good working condition and that there is sufficient fuel level for optimal use.

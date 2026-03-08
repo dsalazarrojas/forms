@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who wish to access healthcare services and support for their therapy. The purpose of this form is to collect information on the user's therapy needs and financial support requirements. To avoid duplication of efforts, please ensure that you have not submitted a similar request in the past.
-</thinking>
-
 # Therapy Sponsorship Application Form - Help Guide
 ## Purpose
 This form is designed to support individuals seeking therapy sponsorship. Please fill out this form accurately and thoroughly to ensure a smooth application process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ultrasound Cavitation Consent Form - Help Guide
 ## Purpose
 This form is for obtaining patient consent for ultrasound cavitation procedures. Ultrasound cavitation involves using high-frequency sound waves to break up kidney stones or other solidified masses. It's a non-invasive treatment option for patients with certain medical conditions, such as kidney stones or cysts.

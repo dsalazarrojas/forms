@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is relevant to the correct audience, please note that this form is used for hotel booking purposes. It is likely intended for guests to book a room at a hotel or lodge. This form should not be used for other purposes as it may not be applicable to other contexts.
-</thinking>
-
 # Hotel Booking Appointment Form - Help Guide
 ## Purpose
 The Hotel Booking Appointment Form is designed for guests to book a room at a hotel or lodge. This form helps the hotel staff to collect necessary information about the guest's stay.

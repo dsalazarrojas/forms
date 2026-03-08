@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to initiate a patient refund request process. A refund is only granted when a patient confirms that they have not received the services they paid for or are disputing the services they received. This form must be completed for every refund request to ensure accurate processing and to prevent duplication. Please ensure that the patient's email and phone number are accurate as these will be used for communication and verification purposes.
-
-</thinking>
-
 # Patient Refund Request - Help Guide
 ## Purpose
 The purpose of this form is to allow patients to request a refund for services they have paid for but not received or are disputing.

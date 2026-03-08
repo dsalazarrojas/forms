@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leave Request Form (Spain) - Help Guide
 
 ## Purpose

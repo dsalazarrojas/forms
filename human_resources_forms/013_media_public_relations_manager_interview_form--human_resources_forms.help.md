@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's clarify the form's purpose and its relevance. This form is designed to collect information about Media Public Relations Manager candidates, specifically their details, PR experience, and responses to written interview questions. It's intended to be used for internal evaluation and assessment purposes. This form should only be used for new hires, and it's essential to ensure that all required fields are completed accurately and thoroughly.</thinking>
-
 # Media Public Relations Manager Interview Form - Help Guide
 ## Purpose
 The Media Public Relations Manager Interview Form is designed to collect information about Media Public Relations Manager candidates. This form is used for internal evaluation and assessment purposes, and it's essential to complete it accurately and thoroughly for new hires.

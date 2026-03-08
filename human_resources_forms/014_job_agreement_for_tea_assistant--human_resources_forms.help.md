@@ -1,7 +1,3 @@
-<thinking> 
-This form is for creating a job agreement for a tea assistant. This form is used by HR departments to manage the employment details of tea assistants in a structured and organized manner. It is essential to ensure that all necessary information is collected accurately to avoid any misunderstandings or miscommunications. Please make sure to review and understand each field carefully before submitting the form. 
-</thinking>
-
 # Job Agreement For Tea Assistant - Help Guide
 ## Purpose
 This form is used to record the job agreement details for a tea assistant, including their name, job title, start and end dates, hourly wage, payment frequency, and termination details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing tool used for tracking nutrition information for individuals, specifically designed for use in the healthcare sector. Its purpose is to collect data on a weekly basis, ensuring that users can input and review their nutritional intake, select specific preferences, and provide any additional comments or notes. This form is intended to be used by patients or clients, and the data collected will be reviewed by healthcare professionals.
-</thinking>
-
 # Tandem Nutrition Weekly Check In Form - Help Guide
 ## Purpose
 The Tandem Nutrition Weekly Check In Form is a tool designed to help users track their nutrition information on a weekly basis. This form is intended to gather data on an individual's first name, email address, phone number, date, time, and other relevant details. The form aims to streamline the process of collecting and reviewing nutritional information, making it easier for healthcare professionals to provide personalized guidance and support.

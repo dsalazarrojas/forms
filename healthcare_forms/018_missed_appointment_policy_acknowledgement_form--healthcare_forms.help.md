@@ -1,14 +1,3 @@
-<thinking>
-This form is used for patients to acknowledge and understand the policy that will be carried out in case of a missed appointment. The form is designed to ensure that patients are aware of the policies and consequences associated with missing appointments. 
-
-The purpose of the form is to gather information about the patient's understanding of the policy and to obtain their acknowledgment of it.
-
-The form will be used to track patient understanding of the policy and to provide a record of their acknowledgement.
-
-The form is not a replacement for the actual policy, but rather a way to document the patient's understanding of it.
-
-</thinking>
-
 # Missed Appointment Policy Acknowledgement Form - Help Guide
 ## Purpose
 The Missed Appointment Policy Acknowledgement Form is used to obtain a patient's acknowledgement of the policy that will be carried out in case of a missed appointment.

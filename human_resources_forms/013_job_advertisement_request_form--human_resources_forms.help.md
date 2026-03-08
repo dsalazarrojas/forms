@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request the creation of a new job advertisement. The purpose of this form is to provide essential information about the job opening, contact person, job title, department, and job type. This form is intended for internal use within the organization, and its completion is required to initiate the job posting process. Please ensure that you are filling out this form for a genuine request and not simply testing or experimenting with the form.
-
-</thinking>
-
 # Job Advertisement Request Form - Help Guide
 ## Purpose
 This form is used to create a new job advertisement for your department's needs.

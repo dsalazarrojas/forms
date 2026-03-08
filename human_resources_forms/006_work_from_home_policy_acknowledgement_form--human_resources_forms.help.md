@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for employees to acknowledge their understanding and agreement with the work from home policy. The purpose of this form is to ensure that employees are aware of and agree to the expectations and guidelines set forth in the policy. This form is typically completed by employees when they are approved to work from home.
-
-Before completing this form, please ensure that you are in a valid work-from-home arrangement and that the necessary approvals have been obtained from your supervisor and manager.
-
-Please note that this form is not a substitute for the formal work from home policy document. You should refer to the policy document for the complete guidelines and expectations.
-
-</thinking>
-
 # Work From Home Policy Acknowledgement Form - Help Guide
 ## Purpose
 The Work From Home Policy Acknowledgement Form is used by employees to confirm their understanding of the work from home policy and their agreement to adhere to its guidelines.

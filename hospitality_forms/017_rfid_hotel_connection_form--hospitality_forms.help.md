@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form, "RFID Hotel Connection Form," is to gather information from guests in a hotel setting, likely for check-in or guest registration purposes. The form is designed to collect data about the guest's connection to the hotel, which may include details such as their name, contact information, and room assignments. The form's design and structure suggest that it is intended to be completed by hotel guests, with the goal of efficiently processing their registration and providing them with a seamless experience.
-
-The fields in this form appear to be primarily focused on guest information and room assignments, with some fields being labeled as "Room [Number]" for each of the hotel's rooms. This structure implies that the form is used to assign guests to specific rooms within the hotel. 
-
-Before proceeding, it's essential to ensure that the data collection process is transparent, and guests understand what information they're providing. It's also crucial to verify whether the form is being used for its intended purpose and not for any other reasons that might breach guest privacy or confidentiality.
-
-</thinking>
-
 # RFID Hotel Connection Form - Help Guide
 ## Purpose
 The "RFID Hotel Connection Form" is designed to gather information from guests in a hotel setting, primarily for check-in or guest registration purposes.

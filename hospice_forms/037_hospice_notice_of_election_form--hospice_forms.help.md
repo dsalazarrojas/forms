@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Hospice Notice Of Election Form is to inform patients and their families about the benefits and services provided by a hospice, and to document their election for care. This form is used by hospices to ensure that patients and their families understand the services and benefits they are eligible for, and to provide them with a clear and concise summary of the care they are choosing. It is essential to ensure that this form is completed accurately and thoroughly, as it will be used to guide the care provided by the hospice team. 
-
-Please note that this form is a standard template and may not cover every possible scenario. If you have any specific concerns or questions, please consult with the patient's primary care provider or hospice team member.
-
-</thinking>
-
 # Hospice Notice Of Election Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from patients and their families about their medical organization, contact details, and care wishes. It is designed to ensure that patients and their families understand the services and benefits provided by the hospice and make informed decisions about their care.

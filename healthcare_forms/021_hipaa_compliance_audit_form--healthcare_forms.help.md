@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for auditing compliance with the Health Insurance Portability and Accountability Act (HIPAA) standards in the healthcare industry. The fields included seem to cover various aspects of patient information and the compliance audit process. I will assume that the form is intended to collect data for internal use within the healthcare organization or for external reporting purposes. To confirm, I will review the fields and provide a help guide to ensure that the form's purpose and each field's intent are clear to end-users.
-
-</thinking>
-
 # HIPAA Compliance Audit Form - Help Guide
 ## Purpose
 The HIPAA Compliance Audit Form is designed for healthcare professionals to collect and document information for auditing HIPAA compliance. This form helps ensure that all relevant patient and audit information is accurately and comprehensively recorded.

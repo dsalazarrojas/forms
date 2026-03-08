@@ -1,7 +1,3 @@
-<thinking>
-We're checking for relevance and non-duplication to ensure the user-facing help guide is created without any unnecessary steps.
-</thinking>
-
 # Skin Barrier Repair Product Interest Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your skin concerns and interests in skin barrier repair products. Your responses will help us better understand your needs and preferences.

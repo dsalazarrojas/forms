@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for hotel managers to conduct regular maintenance checks on various aspects of a hotel's facilities, including electrical systems, plumbing systems, HVAC, furniture, fixtures and equipment, flooring, appliances, doors and hardware, windows, walls and paint, ceilings, floors, fire safety equipment, emergency equipment, electrical systems 2, electrical systems 3, electrical systems 4, plumbing systems 2, plumbing systems 3, HVAC 2, HVAC 3, HVAC 4, furniture 2, and furniture 3. The purpose of this form is to provide a comprehensive checklist for hotel managers to ensure that all areas of the hotel are well-maintained, safe, and compliant with regulations.
 
 </thinking>

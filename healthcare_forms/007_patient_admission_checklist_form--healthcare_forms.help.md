@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for the patient admission process, where healthcare professionals can collect information from patients to better understand their medical history and needs. The form is part of a broader patient assessment and admission process, and its purpose is to collect relevant details about the patient's identity, contact information, medical condition, and medical history. 
-
-The form is likely to be used by medical staff at a hospital or healthcare facility to gather necessary information to provide proper care and treatment to the patient. 
-
-The form should not be used to request confidential or sensitive information without proper authorization and handling according to local data protection laws and regulations.
-
-</thinking>
-
 # patient_admission_checklist_form - Help Guide
 ## Purpose
 The patient admission checklist form is used to collect information from patients to help healthcare professionals understand their medical history and needs during the admission process.

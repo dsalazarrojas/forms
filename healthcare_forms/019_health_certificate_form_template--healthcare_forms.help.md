@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form, "Health Certificate Form Template," is to provide a structured template for capturing essential information related to a patient's health status and work capacity. This form serves as a vital tool for healthcare professionals to assess a patient's health conditions, work-related injuries, and overall well-being. By filling out this form, healthcare providers can accurately document patient data, which is essential for medical decision-making, insurance claims, and compliance with regulatory requirements.
-
-The form consists of 14 fields, divided into two main categories: patient information and medical status.
-
-</thinking>
-
 # Health Certificate Form Template - Help Guide
 ## Purpose
 The Health Certificate Form Template is a tool for healthcare professionals to document essential information about a patient's health status and work capacity.

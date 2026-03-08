@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the ergonomic comfort and safety of a workstation, ensuring that it meets the needs and expectations of employees. This form will guide you through a series of questions and prompts to gather crucial information about the workstation's ergonomic status, including its comfort, safety, and risk factors. Before completing this form, please ensure you have reviewed and understand the questions and prompts, and that the information you provide is accurate and relevant to the workstation being assessed.
-</thinking>
-
 # Workstation Ergonomic Assessment Form - Help Guide
 ## Purpose
 This form is designed to help assess the ergonomic comfort and safety of a workstation, ensuring that it meets the needs and expectations of employees.

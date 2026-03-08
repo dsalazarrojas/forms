@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to record the employee time clock check in and check out information, capturing details such as user name, employee ID, check in and check out times, shift length, and overtime hours worked. This form aims to provide a concise and organized way to track employee attendance and hours worked. The form is not meant to be a comprehensive timekeeping system, rather a supplementary tool to aid in monitoring and record-keeping.
-</thinking>
-
 # Employee Time Clock Check In/Check Out Log - Help Guide
 ## Purpose
 The Employee Time Clock Check In/Check Out Log is a form used to record employee time clock check in and check out information, providing a concise and organized way to track employee attendance and hours worked.

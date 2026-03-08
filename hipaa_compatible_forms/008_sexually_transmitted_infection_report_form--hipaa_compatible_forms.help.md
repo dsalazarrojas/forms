@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's sexually transmitted infections (STIs) symptoms and history, in order to provide accurate and effective treatment and follow-up care. This form is designed to be completed by a healthcare provider, and the information collected will be used to inform diagnosis and treatment decisions. It is essential to ensure that the patient's symptoms align with the STI type selected, and that the patient understands the importance of accurate reporting to receive proper care. Please ensure that you are filling out this form for the correct patient and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Sexually Transmitted Infection Report Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's sexually transmitted infections (STIs) symptoms and history, which will be used to inform diagnosis and treatment decisions.

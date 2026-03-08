@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Researcher Collaboration Lodge Booking Form - Help Guide
 
 ## Purpose

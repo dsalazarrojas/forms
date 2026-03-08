@@ -4,13 +4,7 @@
 
 The healthcare_plan_discharge_form is a tool designed to collect information about a patient's discharge from a healthcare facility. This form is intended to gather essential details to ensure a smooth transition for the patient's next steps in their healthcare journey.
 
-### <thinking>
-
-This form is meant to be used by healthcare professionals to document patient information, medical history, and discharge details. The form is not intended for patient self-completion. It's essential to ensure that the patient is properly discharged and receives the necessary follow-up care, and that the next appointment is scheduled correctly. Each field is crucial in maintaining accurate and up-to-date patient records.
-
-</thinking>
-
-## How To Complete This Form
+### ## How To Complete This Form
 
 To complete this form, please follow these steps:
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is used for documenting the process of terminating a director position. This form is crucial for ensuring that all necessary information is collected and reported accurately. 
-
-To ensure that this form is properly filled out, please make sure that you are completing it for a legitimate reason and that you are not duplicating effort with other forms or procedures. 
-
-Please note that if you are unsure about any of the fields, it's best to consult with your supervisor or HR department before proceeding.
-
-</thinking>
-
 # Director Termination Notice Form - Help Guide
 ## Purpose
 The Director Termination Notice Form is used to document the termination of a director's position. It is a critical part of the company's human resources process and ensures that all necessary information is collected and reported accurately.

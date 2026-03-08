@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect medical history information from patients. The purpose of this form is to gather relevant medical information that healthcare professionals can use to provide better care. 
-This form is not intended to be a substitute for a comprehensive medical evaluation or diagnosis. It is meant to serve as a starting point for further assessment and care.
-</thinking>
-
 # Medical History Information Form - Help Guide
 ## Purpose
 This form is designed to collect medical history information from patients. It is not a substitute for a comprehensive medical evaluation or diagnosis.

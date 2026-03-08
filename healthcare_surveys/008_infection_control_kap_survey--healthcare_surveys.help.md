@@ -1,16 +1,3 @@
-<thinking>
-
-We need to ensure that the user understands the form's purpose and how to complete it effectively. Since the form is part of the "healthcare-surveys" category, it's likely used for data collection and research in the healthcare industry. This particular form seems to be designed to gather information about various aspects of infection control and patient safety. Before proceeding, let's consider the following:
-
-* The form has two main sections: "introduction" and "conclusion".
-* It appears to be a series of yes/no questions to gauge the user's opinions or experiences related to infection control.
-* There are 11 questions in total, with some being multiple-choice and others being single-choice.
-* Each question has a corresponding response field.
-
-To ensure that the user understands the form's purpose and how to complete it effectively, we need to provide clear and concise instructions and explanations for each field.
-
-</thinking>
-
 # Infection Control KAP Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and opinions related to infection control in the healthcare industry. Your responses will help us better understand the current state of infection control practices and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for hotel bookings, allowing users to provide details about their stay. It is essential to fill out this form accurately to ensure that your booking is processed correctly. Before starting, please ensure that you have not filled out this form previously, as it will help avoid duplicate bookings.
 
 </thinking>

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to support employees returning to work after an extended absence. The form is used to collect information from employees who are returning to their work station after a prolonged period of time off. The form is intended to be filled out by employees who are required to provide a reason for their return, as well as any other relevant comments or feedback.
-
-Before proceeding, please confirm that you are returning to work and that you have been authorized to do so. If you are unsure or have any concerns, please contact your HR or management representative for guidance.
-
-The form should not be used for other purposes, such as requesting leave or vacation time. If you need to request time off, please use the designated leave or vacation request form.
-</thinking>
-
 # return_to_work_form - Help Guide
 ## Purpose
 The return to work form is used to collect information from employees returning to their work station after an extended absence. This form is a crucial tool for HR and management to track employee returns, ensuring a smooth transition back to work.

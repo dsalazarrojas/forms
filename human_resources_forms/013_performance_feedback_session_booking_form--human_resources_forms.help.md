@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, I'd like to note that the form appears to be designed for booking a performance feedback session. This form likely aims to collect information from an employee, including their name, email, and job title, and details about the session such as date, time, and duration. It's also likely used to capture additional information about the submitter, such as their department and phone number. The purpose of this form is to facilitate communication and organization of performance feedback sessions between employees and their superiors. Before filling out this form, make sure you're booking a session for the correct employee and that the details are accurate.</thinking>
-
 # Performance Feedback Session Booking Form - Help Guide
 
 ## Purpose

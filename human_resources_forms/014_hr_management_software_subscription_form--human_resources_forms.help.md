@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is being used correctly by checking if the user is accessing it directly as an end-user or if they have the necessary permissions to access the form. To prevent duplication, we should consider implementing form validation to check for duplicate subscriptions before saving new entries.
-</thinking>
-
 # hr_management_software_subscription_form - Help Guide
 
 ## Purpose

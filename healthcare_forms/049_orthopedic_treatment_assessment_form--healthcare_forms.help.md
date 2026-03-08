@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for orthopedic treatment assessments. The purpose of this form is to gather details about a patient's condition and treatment process. It is intended to be filled out by a healthcare professional for a patient's orthopedic treatment assessment. The form is not intended for patient self-reporting, and it is assumed that the healthcare professional has access to the patient's medical history and condition.
-
-Before starting, please confirm that this form is not a duplicate of any other form you have already created, and that you have permission to fill out the form.
-
-</thinking>
-
 # orthopedic_treatment_assessment_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for orthopedic treatment assessments.

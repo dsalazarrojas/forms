@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sugaring Waiver Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for patients to provide informed consent for aesthetic treatments, ensuring they understand the procedures, risks, and benefits. The form likely exists in a digital or paper format and is filled out by patients before undergoing treatment. Before starting the form, ensure that you have the necessary patient information and that the form is not already completed for the same patient. The fields and questions on this form cover various aspects of the treatment, including patient details, treatment specifics, and medical history. Review the form carefully and ensure it's complete and accurate before proceeding.
-</thinking>
-
 # Aesthetic Treatment Consent Form - Help Guide
 ## Purpose
 The Aesthetic Treatment Consent Form is designed to gather information from patients before undergoing aesthetic treatments. This form ensures that patients understand the treatment procedure, potential risks, and expected benefits. By signing this form, patients acknowledge their consent to receive the treatment and agree to the terms outlined.

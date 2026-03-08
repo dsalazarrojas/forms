@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended for users who will be interacting with the "Digital Inclusion In Care Delivery Survey" form. The form is designed to gather information about the use and access of digital tools in healthcare settings, as well as the comfort and barriers faced by clinicians and patients when using these tools.
-
-This guide will help users understand the purpose and function of each field in the form, ensuring that they can complete it correctly and effectively.
-
-</thinking>
-
 # Digital Inclusion In Care Delivery Survey - Help Guide
 ## Purpose
 

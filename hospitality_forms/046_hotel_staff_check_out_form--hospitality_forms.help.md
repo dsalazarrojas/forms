@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information from hotel staff members when they are leaving the premises, including their department, reason for leaving, and contact preferences. 
-This form will likely be completed by staff members when they are leaving the hotel during their shift. 
-To ensure accurate completion, staff members should carefully review the form and select the correct options for their department and contact preferences. 
-The form should not be completed by non-staff members, and should only be used for official staff check-out procedures. 
-</thinking>
-
 # Hotel Staff Check Out Form - Help Guide
 ## Purpose
 This form is used to collect information from hotel staff members when they are leaving the premises during their shift. 

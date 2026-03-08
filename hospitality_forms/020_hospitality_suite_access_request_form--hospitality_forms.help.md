@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospitality Suite Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to the Hospitality Suite for guests and staff. It is a mandatory form to ensure that all visitors are aware of and comply with the rules and regulations of the suite.

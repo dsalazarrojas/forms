@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to assess the level of service awareness and accessibility among individuals with social care needs, and to gather feedback on the current state of social services. This form is likely used by healthcare organizations to gauge the effectiveness of their social care services and identify areas for improvement. It's essential to ensure that the form is not duplicated or unnecessary, as it may cause confusion among users or lead to data duplication.
-</thinking>
-
 # Social Care Accessibility Survey - Help Guide
 
 ## Purpose

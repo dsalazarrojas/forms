@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about roleplay scenarios, which are simulated exercises used to train and assess employees in various situations. This form will guide you through each scenario, asking you to provide details such as scenario title, description, objective, outcome, and risk involved.
-
-Before starting, please ensure that you have all the necessary information about the scenarios ready. You can complete this form multiple times, each time addressing a different scenario.
-
-</thinking>
-
 # Roleplay Scenario Assessment - Help Guide
 ## Purpose
 The Roleplay Scenario Assessment form is a tool to collect information about roleplay scenarios, allowing you to record and analyze details about each scenario.

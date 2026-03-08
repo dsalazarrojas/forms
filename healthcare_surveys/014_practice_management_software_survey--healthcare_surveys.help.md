@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, the primary goal here is to create a user-facing help guide that provides a clear and concise explanation of the form's purpose, how to complete it, and a detailed field-by-field explanation of each section. This guide should be tailored to the specific needs and requirements of the end-users, in this case, healthcare professionals likely using the practice management software. To achieve this, I'll start by analyzing the form's YAML structure and content to understand its purpose and functionality.</thinking>
-
 # Practice Management Software Survey - Help Guide
 ## Purpose
 The Practice Management Software Survey is designed to gather feedback and opinions from healthcare professionals about their experience with practice management software. This survey aims to understand the current state of practice management systems, identify areas for improvement, and provide valuable insights to software developers and vendors.

@@ -2,8 +2,6 @@
 
 ## Purpose
 
-<thinking>This form is designed for patients or individuals to provide information about their personal details, health status, and medical history. It helps healthcare professionals assess and review the individual's health and identify any potential risks or concerns. The form is typically used in clinical settings, such as hospitals, clinics, or medical offices, to gather accurate and detailed information about the individual's health status.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

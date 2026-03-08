@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a COVID-19 case, including demographic data, medical history, contact information, and exposure details. This form will likely be used for surveillance, outbreak investigation, and resource allocation. Please verify that a new case is indeed a new case, and not a duplicate of a previously reported case.
-</thinking>
-
 # COVID 19 Case Investigation Form - Help Guide
 ## Purpose
 The COVID 19 Case Investigation Form is used to collect information on COVID-19 cases, including demographic data, medical history, contact information, and exposure details. This form is used for surveillance, outbreak investigation, and resource allocation.

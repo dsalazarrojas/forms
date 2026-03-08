@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect data from patients or individuals to help healthcare professionals assess their psychological well-being, cognitive abilities, and other relevant factors. This form is likely used for psychological testing and assessment purposes. The purpose of the form is likely to identify potential areas of concern or need for treatment.
-</thinking>
-
 # psychometric_test - Help Guide
 ## Purpose
 The psychometric test form is designed to collect information about patients or individuals for healthcare professionals to assess their psychological well-being, cognitive abilities, and other relevant factors.

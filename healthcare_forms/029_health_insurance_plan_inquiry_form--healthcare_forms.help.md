@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to inquire about health insurance plans. It is likely used in a healthcare setting, such as a medical office or insurance agency, to gather information from potential customers. To ensure accuracy, please note that this form should be used to gather information from new customers only, as existing customers may have different forms or processes in place. This form should not be used to update or modify existing customer information.
-</thinking>
-
 # Health Insurance Plan Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from new customers inquiring about health insurance plans. Please complete the form accurately to ensure that the insurance agency or representative can best assist with your plan needs.

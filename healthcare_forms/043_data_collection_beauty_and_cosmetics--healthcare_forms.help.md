@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user information, product information, and contact details for the beauty and cosmetics industry. The form is not affiliated with or derived from any existing form platforms, and its purpose is to provide an original adaptation of a public survey topic metadata. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given. The form collects user, product, and contact details through three separate text fields.
-
-</thinking>
-
 # data_collection_beauty_and_cosmetics - Help Guide
 ## Purpose
 This form collects user, product, and contact information in the beauty and cosmetics industry.

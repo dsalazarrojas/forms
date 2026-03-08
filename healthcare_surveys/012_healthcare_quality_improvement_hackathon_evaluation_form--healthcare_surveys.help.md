@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the outcome of a healthcare quality improvement hackathon event. The form aims to gather feedback and ratings on various aspects of the event, including innovation, impact, clarity, effectiveness, sustainability, value, and other related factors. This evaluation will help organizers and participants assess the event's success and identify areas for improvement.
-
-The form is designed to collect both numerical ratings and text-based feedback. Each rating field allows respondents to select one of the provided options, while the text fields allow for more in-depth comments. The ratings fields include:
-* Innovation, impact, clarity, effectiveness, sustainability, and value, which are essential for assessing the event's overall quality.
-* Prophets Id and Prophets Id are not clearly defined, but they may refer to a unique identifier for the event or a specific feature of the hackathon.
-* Additional Comments is a text field for any other thoughts or suggestions.
-
-This form is not intended for real-time submission. It should be filled out by event organizers or participants after the hackathon has concluded. The form should only be used for evaluation and feedback purposes.
-
-Please note that Prophets Id and Prophets Id fields seem to be duplicates and may be redundant. They should be reviewed and potentially removed or merged.
-</thinking>
-
 # Healthcare Quality Improvement Hackathon Evaluation Form - Help Guide
 ## Purpose
 The Healthcare Quality Improvement Hackathon Evaluation Form is designed to assess the success of a hackathon event focused on quality improvement in healthcare. This form will help organizers and participants evaluate the event's innovation, impact, clarity, effectiveness, sustainability, value, and other related factors.

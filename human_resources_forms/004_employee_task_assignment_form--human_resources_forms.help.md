@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll help create a user-facing help guide for the "Employee Task Assignment Form" to ensure end-users understand its purpose, how to complete it, and what each field means.
-
-This form is primarily used for tracking and assigning tasks to employees. The goal is to collect information about the tasks assigned to employees, including the employee's name, the task name, start and end dates, and other relevant details such as assigned tools and progress.
-
-Before proceeding, ensure that you have all the necessary information required for the form. The form is not meant to be a replacement for existing task management systems, but rather a supplemental tool to provide additional context and insights.
-
-</thinking>
-
 # Employee Task Assignment Form - Help Guide
 ## Purpose
 The Employee Task Assignment Form is a tool for tracking and documenting tasks assigned to employees. It provides a structured format for collecting and storing information about task assignments, including employee details, task details, and other relevant context.

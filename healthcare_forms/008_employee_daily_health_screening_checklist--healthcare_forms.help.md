@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from employees for daily health screenings. It is intended to be completed by employees on a daily basis to provide their health status, any symptoms they may be experiencing, and other relevant contact information. Please note that this form is not intended for emergency or critical health situations, but rather for routine health screenings. If an employee is experiencing a critical or emergency situation, please contact emergency services immediately. This form should not be used to replace or substitute for medical attention. This form is for informational purposes only and should not be relied upon as a substitute for professional medical advice.
-
-</thinking>
-
 # Employee Daily Health Screening Checklist - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees on their daily health status and other relevant contact information. 

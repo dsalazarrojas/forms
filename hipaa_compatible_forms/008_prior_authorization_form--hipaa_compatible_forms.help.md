@@ -1,12 +1,3 @@
-<thinking>
-**Prior Authorization Form Purpose and Relevance Check**
-This form is for requesting prior authorization for a medication. It is a critical step in the process of ensuring that a medication is safe and effective for a patient, as well as compliant with relevant medical guidelines.
-To use this form, you must be authorized to use it. This form is not intended for general public use. If you are not authorized, you will not be able to complete this form.
-The form will not be completed if any of the following conditions are met:
-- If the form has been completed before for the same patient.
-- If the form has been completed for the same patient in the past 30 days.
-</thinking>
-
 # Prior Authorization Form - Help Guide
 
 ## Purpose

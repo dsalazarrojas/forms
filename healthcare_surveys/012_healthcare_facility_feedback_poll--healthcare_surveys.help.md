@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to be a clear and concise resource for end-users to understand the purpose and requirements of the Healthcare Facility Feedback Poll form. It aims to provide a straightforward process for completing the form, along with detailed explanations for each field to ensure that users can provide accurate and helpful feedback.
-</thinking>
-
 # Healthcare Facility Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients regarding their experiences with a healthcare facility. This feedback is essential for the facility to understand areas of improvement and make necessary changes to provide better care and services to patients.

@@ -1,10 +1,3 @@
-<thinking>
-This form is part of the Hospital AI Training Initiative, which aims to evaluate the hospital's progress in adopting AI technologies. This form will collect feedback from hospital staff on their experiences with AI-assisted tools and services. It will help us understand how well the hospital's AI system is performing and identify areas for improvement. Please note that this form is not intended for patients or visitors of the hospital, but rather for internal staff use. This guide is meant to ensure that staff fill out the form correctly and provide valuable feedback.
-
-Please make sure to fill out this form only if you have used the hospital's AI-assisted tools or services. If you are not a member of the hospital's staff, or if you have not used these tools, please do not fill out this form.
-
-</thinking>
-
 # hospital_ai_training_initiative_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate the hospital's progress in adopting AI technologies. Your feedback will help us understand how well the hospital's AI system is performing and identify areas for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the owner's consent and preferences for the transfer of veterinary care records to another clinic. The form is used when an owner wants to transfer their pet's medical records to a new clinic. The form ensures that the owner's consent and details about the transfer are properly documented and communicated to the receiving clinic.
-
-It is essential to fill out this form accurately and completely to avoid any potential issues or miscommunication during the transfer process. This form should not be used for any other purpose.
-
-</thinking>
-
 # veterinary_care_records_release_form - Help Guide
 ## Purpose
 The veterinary care records release form is a document that allows an owner to transfer their pet's medical records to another clinic. This form is a crucial step in ensuring a smooth transfer process and maintaining continuity of care for the pet.

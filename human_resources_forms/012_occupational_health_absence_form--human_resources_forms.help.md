@@ -1,7 +1,3 @@
-<thinking> 
-
-This form is used to record and report occupational health and safety incidents, absences, and related data. It is essential for maintaining accurate records and compliance with relevant regulations. The form should only be filled out for legitimate absences related to employee health and well-being, such as accidents, illnesses, or injuries. To ensure accuracy and efficiency, please review and understand each field before filling out the form.</thinking>
-
 # occupational_health_absence_form - Help Guide
 ## Purpose
 The occupational health absence form is used to report and record occupational health and safety incidents, absences, and related data.

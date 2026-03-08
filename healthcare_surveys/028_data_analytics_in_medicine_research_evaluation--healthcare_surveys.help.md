@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a data collection tool for evaluating research projects in the field of medicine. The purpose of this form is likely to gather information about research projects, such as the research institution, area of research, outcomes, and contact details of the person submitting the project. 
-
-The form is likely used by researchers or project leaders to submit their research projects for evaluation, and the collected data is used for data analytics in medicine.
-
-Before filling out this form, please ensure that you are submitting a new project for evaluation and not duplicating an existing one. This form is designed to gather information about research projects, and duplicate submissions may cause confusion and inaccuracies in the data.
-
-Please note that some fields are optional, and you are not required to fill them out if they are not applicable to your project. However, providing more information will help in a more comprehensive evaluation of your research project.
-
-Please make sure to fill out all the required fields and provide accurate information to ensure a smooth and efficient evaluation process.</thinking>
-
 # Data Analytics In Medicine Research Evaluation - Help Guide
 ## Purpose
 The form is designed to collect information about research projects in medicine for data analytics evaluation.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help potential clients book a space at Co Living, a hospitality provider for entrepreneurs. The form is used to gather information about the client's needs and preferences for their stay. This form is typically filled out by entrepreneurs looking to book a space for meetings, events, or work sessions. It is essential to fill out this form accurately to ensure that Co Living can provide the best possible experience for the client. Please make sure to fill out the form only once you have all the necessary information.
-
-</thinking>
-
 # Co Living Entrepreneur Space Booking Form - Help Guide
 ## Purpose
 This form is designed to help Co Living understand your needs and preferences for your upcoming stay with us. It will help us provide you with the best possible experience.

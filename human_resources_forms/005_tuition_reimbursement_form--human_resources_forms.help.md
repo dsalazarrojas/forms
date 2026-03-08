@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to help employees manage their tuition reimbursement requests. This form is used for employees to provide information about their employee details, the amount of tuition they want to reimburse, and other relevant details such as the start and end dates of the tuition period, the reimbursement amount, and the rate at which the tuition will be reimbursed. The form also allows employees to provide an optional reason for the reimbursement and any additional notes about the request. 
-
-Please note that this form should not be used for non-qualifying purposes, such as requesting reimbursement for personal expenses.
-
-When filling out this form, employees should ensure that they accurately fill out all the required fields and provide clear and concise information to help the reimbursement team process their request efficiently.
-</thinking>
-
 # Tuition Reimbursement Form - Help Guide
 ## Purpose
 This form is used to help employees manage their tuition reimbursement requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their medical history, allergies, and other relevant details before undergoing an anesthetic procedure. The form is meant to help medical professionals understand the patient's condition and make informed decisions about their care. Please note that this form is a generated form, not a template or copy of any existing form. It's a unique adaptation of public survey metadata, released under Creative Commons BY 4.0 license. You can use, modify, or even sell forms derived from this original adaptation, just give credit.
-</thinking>
-
 # Pre Anesthetic Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients about their medical history, allergies, and other relevant details before undergoing an anesthetic procedure. This information will help medical professionals make informed decisions about their care.

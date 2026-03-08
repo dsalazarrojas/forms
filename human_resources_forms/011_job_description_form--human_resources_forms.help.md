@@ -1,9 +1,3 @@
-<thinking>... (Internal Reasoning Block)
-
-This form is designed to collect relevant information about a job posting, allowing job applicants to provide a concise and detailed description of their skills, experience, and qualifications. The form is intended to be used by HR professionals or hiring managers to assess candidate suitability for a position. The form's structure and field explanations are based on common practices in the human resources and hiring industries.
-
-</thinking>
-
 # job_description_form - Help Guide
 ## Purpose
 The job_description_form is a collection of fields that helps job applicants provide a detailed description of their skills, experience, and qualifications for a job posting. This form is designed to be completed by job seekers and is intended to be reviewed by HR professionals or hiring managers to assess candidate suitability for a position.

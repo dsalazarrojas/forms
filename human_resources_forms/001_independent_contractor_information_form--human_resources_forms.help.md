@@ -1,13 +1,3 @@
-<thinking>
-The form is for collecting information about independent contractors, including contract details, contact information, tax identification, payment terms, and payment status. This form aims to gather necessary data for the organization to manage and track independent contractor engagements efficiently.
-Before filling out this form, please note that the fields marked as "required" are essential for the organization to process your data correctly. Ensure you have all the necessary information before proceeding.
-The form consists of multiple pages, each with a unique set of fields. Please complete each page thoroughly and accurately.
-For any field labeled as "select_one" or "select_multiple," choose only one or multiple options from the provided list.
-Fields marked as "note" are free-text fields for additional comments or explanations.
-For date fields (contract_start_date and contract_end_date), enter the dates in the format mm/dd/yyyy.
-For time fields (work_start_time and work_end_time), enter the times in the format 12:00 AM/PM.
-</thinking>
-
 # Independent Contractor Information Form - Help Guide
 ## Purpose
 The Independent Contractor Information Form is designed to collect essential details about your independent contractor engagement with the organization. This form is used to track and manage your contract, payment, and tax information.

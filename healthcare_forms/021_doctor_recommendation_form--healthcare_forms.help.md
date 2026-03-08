@@ -1,11 +1,3 @@
-<thinking>... internal reasoning: This form is designed to collect information about a patient from a doctor or medical professional. The purpose of this form is to document the doctor's recommendation for the patient's care, including their medical history, reason for referral, and any necessary next steps. The form is likely to be used in a healthcare setting, such as a hospital or clinic.
-
-This form has 15 fields, but not all fields are required. The fields are divided into several sections, which are likely related to different aspects of the patient's care. To ensure accurate and complete information, please review each field carefully and complete it accordingly.
-
-Before starting to complete the form, please make sure that you are familiar with the patient's medical history and current condition. This form is intended for use by medical professionals, so please be aware of your role and responsibility in documenting the patient's care.
-
-</thinking>
-
 # doctor_recommendation_form - Help Guide
 ## Purpose
 The purpose of this form is to document a doctor's recommendation for a patient's care, including their medical history, reason for referral, and any necessary next steps.

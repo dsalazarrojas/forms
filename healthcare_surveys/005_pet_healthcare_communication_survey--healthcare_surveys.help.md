@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for pet owners to provide information about their pets' healthcare. The purpose of this form is to gather data from pet owners about their pets' medical history, communication preferences, and any comments they may have. This information can be used by veterinary professionals to provide better care and services to the pet. To ensure that the data collected is accurate and comprehensive, it is essential that the form is completed carefully and thoroughly.
-</thinking>
-
 # Pet Healthcare Communication Survey - Help Guide
 ## Purpose
 The Pet Healthcare Communication Survey is a tool designed to gather information about your pet's healthcare needs and preferences. It is intended to help veterinary professionals provide better care and services to your pet.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for employees to provide their remote work arrangement details, including their name, contact information, and work schedule. The form is also used to obtain the employee's consent to work remotely. This form is required for all employees who will be working remotely. Please ensure you have filled out any necessary paperwork before completing this form. If you have already completed this form, there is no need to re-complete it. Please note that some fields may require additional information depending on your work arrangement.</thinking> 
-
 # Remote Work Consent Form - Help Guide
 ## Purpose
 The Remote Work Consent Form is used to obtain the employee's consent and details of their remote work arrangement. This form is required for all employees who will be working remotely.

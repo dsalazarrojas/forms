@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about the health status of visitors to the roastery, with the goal of identifying potential health risks and ensuring the safety of our customers and staff. This form is not intended for medical diagnosis or treatment, but rather as a tool for health professionals to assess risks and take necessary precautions.
-
-Before filling out this form, please note that it is not a substitute for a medical professional's evaluation. If you are experiencing severe symptoms or have concerns about your health, please contact a healthcare professional.
-
-To complete this form, please answer each question to the best of your ability. If you are unsure about any question, feel free to ask for clarification.
-
-Please note that some questions are not required, but answering them will help us better understand your health status.
-
-</thinking>
-
 # Roastery Visitor Health Questionaire - Help Guide
 ## Purpose
 This form is designed to gather information about your health status and help us assess potential risks.

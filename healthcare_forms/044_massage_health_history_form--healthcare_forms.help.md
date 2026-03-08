@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a client's massage therapy session history, including their contact details, medical conditions, medication, allergies, surgical history, and current health status. The goal is to gather relevant information for the massage therapist to provide effective and safe treatment. Ensure that the form is filled out in its entirety for accurate and reliable data collection.
-</thinking>
-
 # Massage Health History Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive health history information from clients, ensuring that the massage therapist has the necessary details to provide personalized and safe massage therapy sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to claim workplace mentorship expenses. A user can fill in a form to report a mentorship expense they have incurred. The form is used by HR department to verify and process the expense claims. To ensure accurate processing, please ensure that the form is filled out correctly and thoroughly. This form is not meant to be filled out multiple times for the same expense, so please only submit one claim per expense.
-</thinking>
-
 # Workplace Mentorship Expense Claim Form - Help Guide
 ## Purpose
 The Workplace Mentorship Expense Claim Form is used to report and claim workplace mentorship expenses. This form is used by HR department to verify and process expense claims.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Medicare Prior Authorization Form, designed to facilitate the pre-authorization process for medical services and treatments. 
-
-*   The form is intended to be filled out by healthcare providers (e.g., doctors, nurses, etc.) to request approval for a patient to receive specific medical services or treatments. 
-*   This form is not intended for patients to fill out, but rather for healthcare providers to gather relevant information about the patient and the medical treatment they are seeking to provide.
-*   The form is designed to streamline the prior authorization process by collecting necessary information in an efficient and organized manner.
-
-</thinking>
-
 # medicare_prior_authorization_form - Help Guide
 ## Purpose
 The medicare_prior_authorization_form is a form used to request prior authorization for medical services and treatments for Medicare patients.

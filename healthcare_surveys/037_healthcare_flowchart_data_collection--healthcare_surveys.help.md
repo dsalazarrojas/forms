@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data for healthcare flowcharts, which are visual representations of patient care pathways. It's intended to gather information about patient concerns, symptoms, medical history, and other relevant details. To ensure that you're using the correct flowchart, please review the form fields carefully and only use this form if you're authorized to do so.
-
-Before completing this form, please note that some fields are not required. However, filling out all fields will provide a more comprehensive understanding of the patient's situation. If you're unsure about any field, please consult with your healthcare professional.
-
-Please ensure that you're providing accurate and up-to-date information to maintain the highest level of patient care.
-</thinking>
-
 # Healthcare Flowchart Data Collection - Help Guide
 ## Purpose
 This form collects data for healthcare flowcharts, which are visual representations of patient care pathways.

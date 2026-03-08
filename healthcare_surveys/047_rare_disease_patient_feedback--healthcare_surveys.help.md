@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from patients with rare diseases on their experience with the healthcare system, focusing on their symptoms management, treatment challenges, satisfaction with support, and contact information. This information will help healthcare providers understand the effectiveness of their services and identify areas for improvement. 
-
-Before proceeding, ensure that you haven't completed this form recently, as this will be a duplicate submission. If this is a new submission, please provide your feedback. 
-
-Please note that all fields are optional, and you can skip questions that don't apply to you.
-</thinking>
-
 # rare_disease_patient_feedback - Help Guide
 ## Purpose
 The rare_disease_patient_feedback form is designed to gather feedback from patients with rare diseases on their experience with the healthcare system.

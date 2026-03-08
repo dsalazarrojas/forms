@@ -1,14 +1,3 @@
-<thinking>
-This form, "gswo_health_information_and_release_form", is used to collect and document essential health information for the individual, including their parent/guardian's contact details, medical history, and emergency contact information. This form is likely used in a healthcare setting, such as a hospital or clinic, to gather information that is necessary for the patient's care and treatment. 
-
-It's essential to ensure that the form is completed accurately and thoroughly, as the information gathered will be used to inform treatment decisions and ensure the individual's safety. 
-
-Before starting, review the form carefully to ensure you don't duplicate any previously collected information. If you're unsure about any information, ask your healthcare provider for guidance. 
-
-Ensure to complete the form for each individual, and provide the necessary contact information and medical details. 
-
-</thinking>
-
 # gswo_health_information_and_release_form - Help Guide
 ## Purpose
 The "gswo_health_information_and_release_form" is used to collect and document essential health information for the individual, including their parent/guardian's contact details, medical history, and emergency contact information.

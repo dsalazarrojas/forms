@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Internal reasoning:
 This form is designed to collect information about senior on-site hotel managers from applicants. The primary goal is to assess their work experience, references, contact details, and date of birth. To ensure the application process is efficient and accurate, it's essential to provide clear guidelines for end-users on how to complete the form and what each field represents.
 

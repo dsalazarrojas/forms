@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to track the presence of corporate employees, which can be crucial for attendance records, HR management, and other organizational tasks. The form is likely part of a system for recording employee presence and absence in the workplace. 
-
-When completing this form, employees need to provide basic personal information (name, location, and time) and confirm their presence status for the day (department, location, and submitted by). They also might need to add any additional comments or notes for record-keeping purposes. The submitted_by field is intended to identify whether the form was submitted by the employee themselves or someone else on their behalf.
-
-Before submitting the form, ensure that all required fields are filled in according to the form's instructions.
-</thinking>
-
 # Corporate Employee Presence Check In - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Disease Prevention Project Evaluation Form - Help Guide
 
 ## Purpose

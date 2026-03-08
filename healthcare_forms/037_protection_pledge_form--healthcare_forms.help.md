@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Protection Pledge Form - Help Guide
 ## Purpose
 The Protection Pledge Form is a crucial document that allows students or employees to express their commitment to protecting themselves and others from workplace hazards. This form is designed to ensure that individuals understand their responsibilities and obligations in maintaining a safe working environment.

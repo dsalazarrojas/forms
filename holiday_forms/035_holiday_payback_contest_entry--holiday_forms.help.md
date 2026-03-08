@@ -26,16 +26,6 @@ To complete this form, follow these steps:
 * **Prize Value** (`prize_value`, `number`, required: false): If you have won a prize, enter the value of the prize.
 * **Entry Status** (`entry_status`, `select_one`, required: false): Check if your entry is active or inactive.
 
-<thinking>
-This form is for users to submit their entries for a holiday payback contest. The form asks for information about the entry, including a brief story, contact details, and entry status. 
-
-When filling out the form, make sure to include a brief story about your entry in the Entry field, and a detailed story about your holiday payback in the Story field. Enter your contact phone number and email address in the Contact and Email fields respectively. If you have won a prize, enter the value of the prize in the Prize Value field. If the entry is still active or inactive, select the corresponding option in the Entry Status field.
-
-Please note that the form is not intended for duplicate entries. Each entry should be unique and not a repeat submission. 
-
-Also, please ensure that you enter valid contact information and prize values. 
-</thinking>
-
 ## Tips
 
 * Make sure to include a brief and detailed story about your holiday payback.

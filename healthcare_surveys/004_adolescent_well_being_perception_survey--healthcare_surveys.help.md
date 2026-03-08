@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the "Adolescent Well Being Perception Survey" provides accurate and actionable insights, we must consider the purpose of this form. The survey aims to collect perceptions about well-being among adolescents, focusing on various aspects such as happiness, stress levels, sense of belonging, peer support, adult support, extracurricular involvement, sleep quality, and wellness goals.
-
-Before creating this help guide, we should check whether there are any similar existing forms or surveys that this form might be duplicating or conflicting with. Let's assume that there are no similar forms.
-
-Now, we'll proceed to create the help guide, keeping in mind the form's purpose and the fields included in the provided YAML.
-
-</thinking>
-
 # Adolescent Well Being Perception Survey - Help Guide
 ## Purpose
 The Adolescent Well Being Perception Survey is designed to gather your perceptions on various aspects of your well-being as an adolescent. Your feedback will help us improve support systems and better understand your needs and concerns.

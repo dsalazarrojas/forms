@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experiences with virtual health consultations. The form aims to gauge patient satisfaction, identify technical issues, and gather insights on the effectiveness of telehealth equipment and platforms. To ensure accurate and relevant feedback, please answer the questions honestly and thoroughly. If you have previously completed a similar survey, please do not submit duplicate responses.
-
-This form is divided into two main sections: patient information and survey questions. Please complete the form in the following order:
-
-1.  Patient information: This section is used to collect demographic and contact information about the patient. Please fill in the patient's name, email address, and phone number accurately.
-2.  Survey questions: This section consists of multiple-choice questions, numerical ratings, and open-ended comments that cover various aspects of the virtual health consultation experience. Please answer each question honestly and to the best of your ability.
-
-Please note that some questions are optional, but answering them will help us gather more comprehensive feedback.
-</thinking>
-
 # Virtual Health Consultation Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experiences with virtual health consultations.

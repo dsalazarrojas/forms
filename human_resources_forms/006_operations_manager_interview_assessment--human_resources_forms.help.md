@@ -1,5 +1,3 @@
-<thinking>...the form is designed to collect information about a candidate in a specific job role, specifically the Operations Manager position. The form is not meant to be used for other job roles or purposes. It's assumed that the candidate has already passed other screening processes and is now going through an interview assessment. The form's fields should be filled in accordingly to provide accurate data for future reference. It's also expected that the candidate is familiar with the job description and has some basic understanding of the company's operations. The assessment is not meant to be a comprehensive evaluation, but rather a way to get more in-depth information about the candidate's fit for the role... </thinking>
-
 # Operations Manager Interview Assessment - Help Guide
 ## Purpose
 The Operations Manager Interview Assessment is a form designed to collect information about a candidate's qualifications and fit for the Operations Manager position. This form is meant to be completed by the candidate after they have passed other screening processes and are being assessed for this specific role.

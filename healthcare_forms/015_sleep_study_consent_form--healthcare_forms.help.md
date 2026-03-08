@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for the "sleep_study_consent_form" form. The form's primary purpose is to gather information from patients for a sleep study, including their contact details, medical history, and consent for the study. This form is crucial for healthcare professionals to ensure that patients understand the potential risks and benefits of the sleep study and can make an informed decision. 
-
-To ensure accuracy and relevance, we need to check that the form is up-to-date and that there are no duplicate fields or forms with similar purposes. 
-
-The form consists of 18 fields, divided into several pages, each with its own set of fields. 
-
-</thinking>
-
 # sleep_study_consent_form - Help Guide
 ## Purpose
 The "sleep_study_consent_form" is designed to gather essential information from patients for a sleep study, including their contact details, medical history, and consent for the study. This form helps healthcare professionals to ensure that patients understand the potential risks and benefits of the sleep study and can make an informed decision.

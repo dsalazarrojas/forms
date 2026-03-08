@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect detailed information regarding incidents that have occurred within the organization. It allows users to report and track various incidents, providing a comprehensive record of events that can be used for reference and analysis. 
-</thinking>
-
 # incident_report_check_in_form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-  The purpose of the "desired_accommodation_request_form" is to collect information from users about their accommodation preferences for booking. This form is used to gather essential details about the user's desired accommodation, allowing users to specify their preferred type of accommodation (e.g., hotel, hostel, etc.), their preferred check-in and check-out dates, room type, room capacity, number of guests, contact name, contact email, and contact phone number.
-  Before starting, please ensure that you have a good understanding of the types of accommodations available and the relevant dates. 
-  To avoid any confusion or mistakes in the form, we recommend carefully reviewing and filling out each field accurately.
-</thinking>
-
 # desired_accommodation_request_form - Help Guide
 ## Purpose
 The "desired_accommodation_request_form" is a form designed to collect information about your desired accommodation for booking.

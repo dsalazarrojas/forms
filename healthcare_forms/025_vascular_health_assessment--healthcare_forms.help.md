@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive assessment of patient's vascular health, gathering information on various factors that contribute to cardiovascular well-being. The form asks for the patient's name, birthdate, address, and relationships with primary caregivers, as well as medical history and current health conditions. It also inquires about medications, allergies, and surgical history, likely for a comprehensive evaluation of the patient's overall health status.
-The form likely serves as a template for healthcare providers to collect and evaluate patient data, potentially guiding diagnosis, treatment, or preventative measures.
-To complete this form, users will need to fill out information about the patient's medical history, current health conditions, and potential cardiovascular risk factors.
-The form has several fields that require specific information from the patient or their primary caregiver.
-</thinking>
-
 # Vascular Health Assessment - Help Guide
 ## Purpose
 This form is designed to assess the patient's vascular health, gathering essential information on their medical history, current health conditions, and potential cardiovascular risk factors. It helps healthcare providers evaluate and address the patient's overall health status.

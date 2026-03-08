@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request supplies for Mpox, a medical condition. The Mpox Supply Request Form is intended for individuals who need to request supplies related to Mpox, such as equipment, medications, or other materials. This form will be reviewed and processed internally to ensure that the request is legitimate and meets the necessary requirements. 
-Please note that this form should only be used for genuine requests and not for duplication or non-relevant purposes. 
-</thinking>
-
 # Mpox Supply Request Form - Help Guide
 ## Purpose
 The Mpox Supply Request Form is used to request supplies for Mpox, a medical condition. This form gathers information to ensure that the request is legitimate and meets the necessary requirements.

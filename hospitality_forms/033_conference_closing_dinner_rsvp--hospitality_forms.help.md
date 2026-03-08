@@ -1,10 +1,3 @@
-<thinking>
-To confirm, we are designing a help guide for a form titled "Conference Closing Dinner RSVP". This form likely collects information from attendees to reserve their spots at a closing dinner event. The purpose of this guide is to walk users through how to complete the form, what information is required, and what each field represents. 
-
-We should consider that some field labels might be weak or unclear, and we'll explain their intent best-effort without inventing unsupported business logic. The guide will focus on being concrete, concise, and practical.
-
-</thinking>
-
 # Conference Closing Dinner RSVP - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the evaluation of global health data governance practices within an organization or institution. It covers various aspects of data governance, including data privacy policies, security measures, data quality standards, data sharing arrangements, stakeholder involvement, and challenges. This form is meant to provide an objective evaluation and rating of these practices. Please fill out this form if you wish to evaluate your organization's global health data governance practices.
-
-</thinking>
-
 # Global Health Data Governance Evaluation Form - Help Guide
 ## Purpose
 The Global Health Data Governance Evaluation Form is a self-assessment tool designed to evaluate your organization's global health data governance practices. This form will help you rate and identify areas for improvement in data privacy policies, security measures, data quality standards, data sharing arrangements, stakeholder involvement, and challenges.

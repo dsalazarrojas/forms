@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplication and ensure relevance, this form is designed to collect essential information from employees for their workplace readiness, particularly in situations related to health-related incidents or absences. It helps in assessing the employee's ability to work safely and efficiently during and after such incidents. This form is crucial in facilitating effective communication and decision-making among HR, supervisors, and other relevant parties. 
 
 # workplace_readiness_declaration_form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutrition Behavior Change Motivation Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-To start with, we should confirm that the purpose of the ICU Discharge Form is to collect information about a patient's discharge from the Intensive Care Unit (ICU). This form is likely to be used by medical professionals in a hospital setting.
-
-We should also review the form's content and ensure that it doesn't duplicate any other forms or procedures within the hospital. A quick scan of the provided YAML suggests that this form is quite comprehensive, covering various aspects of patient care and discharge. Let's assume that this form is a standard template used within the hospital.
-
-</thinking>
-
 # ICU Discharge Form - Help Guide
 ## Purpose
 The ICU Discharge Form is a template used to document the details of a patient's discharge from the Intensive Care Unit (ICU). This form is essential in ensuring that the patient's care transitions smoothly from the hospital to their home or other care settings.

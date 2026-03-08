@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Employee Transfer And Pay Rate Survey" form, which is used to track employee transfers and updates their pay rates. This form helps managers and HR teams to gather information about employees' job titles, pay frequencies, transfer dates, and reasons for transfer, ensuring accurate and up-to-date records. The form is intended for employees with varying levels of experience and job categories. Before using this form, please verify that you are completing the correct survey for your department's needs and that the data is not already being tracked in another form.
-</thinking>
-
 # Employee Transfer And Pay Rate Survey - Help Guide
 ## Purpose
 The "Employee Transfer And Pay Rate Survey" form is used to collect information about employees' job titles, pay frequencies, transfer dates, and reasons for transfer. This form helps managers and HR teams to update employee records and ensure accurate tracking of employee data.

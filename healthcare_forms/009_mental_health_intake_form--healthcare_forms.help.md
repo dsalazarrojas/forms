@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Intake Form - Help Guide
 ## Purpose
 This form is a tool to collect patient information for mental health services.

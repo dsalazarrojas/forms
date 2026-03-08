@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Verification Request Form - Help Guide
 ## Purpose
 The Employment Verification Request Form is used to request verification of employment details for an employee. It provides an overview of the employee's job title, department, and employment status, as well as the reason for the request. This form is used to gather information for external agencies or services that require employment verification.

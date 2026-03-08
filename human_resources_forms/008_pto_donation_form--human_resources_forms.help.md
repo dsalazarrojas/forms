@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for a Professional Development Opportunity (PTO) donation, which allows employees to donate their PTO hours to a colleague in need. This form is intended to be used by employees who want to donate their PTO to support a colleague's absence or request for time off. The form ensures that the donation is properly documented and approved.
-To avoid duplication, please check the company's PTO donation tracking system before submitting this form.
-</thinking>
-
 # PTO Donation Form - Help Guide
 ## Purpose
 This form helps you donate your available PTO hours to a colleague in need.

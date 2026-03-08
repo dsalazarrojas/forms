@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the Virtual Care Workflow Assessment Evaluation Form. The form is designed to collect information about the workflow evaluation of care provided to patients. This form will help healthcare professionals evaluate the effectiveness of the care workflow and identify areas for improvement. 
-
-Please note that this form is only intended for healthcare professionals to evaluate their own workflows and is not a clinical assessment form. 
-
-</thinking>
-
 # Virtual Care Workflow Assessment Evaluation Form - Help Guide
 
 ## Purpose

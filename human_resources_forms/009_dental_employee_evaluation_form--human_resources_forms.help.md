@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Employee Evaluation Form - Help Guide
 
 ## Purpose

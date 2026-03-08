@@ -1,16 +1,3 @@
-<thinking>
-This form seems to be a questionnaire designed for screening and monitoring symptoms and health-related information for premenstrual syndrome in women. The purpose of this form appears to be to gather information about a woman's experience with premenstrual symptoms, such as their frequency, duration, and severity. It may be used by healthcare professionals to identify potential cases of premenstrual syndrome, track patient progress, or monitor changes in symptoms over time.
-
-The form does not appear to be asking for any sensitive or protected information, but rather is focused on medical history and health-related information. As such, it is likely intended for use in a clinical setting or by healthcare providers.
-
-Before proceeding, it is worth noting that there is no indication that this form has been designed with any specific medical conditions or diagnoses in mind. It appears to be a general screening tool for premenstrual symptoms. However, the questions and fields included suggest that it may be useful for identifying risk factors or patterns associated with premenstrual syndrome. 
-
-The form asks a variety of questions, including about the frequency and duration of symptoms, medical history, and other health-related information. Some fields may be relevant to the identification of specific medical conditions or risk factors associated with premenstrual syndrome, while others seem more open-ended, allowing respondents to provide additional context or comments.
-
-It is also worth noting that the form does not appear to have any fields asking for payment or sensitive information. However, it is always a good idea to review and understand the privacy and security policies of the platform or organization administering this form before proceeding.
-
-In any case, the form seems to be well-structured and easy to follow, and it is likely to be useful for its intended purpose. Please review the form carefully and complete it accurately to provide helpful and relevant information.</thinking>
-
 # Premenstrual Symptom Screening Questionnaire - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals identify and monitor symptoms and health-related information for premenstrual syndrome in women. It is a general screening tool for premenstrual symptoms and does not imply any specific medical conditions or diagnoses.

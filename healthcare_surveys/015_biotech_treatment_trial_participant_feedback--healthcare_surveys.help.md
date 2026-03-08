@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Biotech Treatment Trial Participant Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in biotech treatment trials. Your responses will help us understand your experiences, satisfaction, and perception of the treatment, as well as identify areas of improvement. Please provide honest and detailed feedback to help us better design future trials.

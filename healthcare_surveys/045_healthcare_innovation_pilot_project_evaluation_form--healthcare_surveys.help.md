@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the progress and outcomes of a healthcare innovation pilot project. The goal is to gather feedback and insights from providers on the project's performance, successes, and challenges. Before starting, please ensure that you have read and understood the project's context and objectives. This form will help us assess the project's effectiveness and identify areas for improvement. Please answer the questions honestly and thoroughly, and if you are unsure about any field, it's best to err on the side of caution and provide a brief explanation.
-</thinking>
-
 # Healthcare Innovation Pilot Project Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from providers on the progress and outcomes of a healthcare innovation pilot project. The goal is to assess the project's effectiveness, identify areas for improvement, and provide insights for future developments.

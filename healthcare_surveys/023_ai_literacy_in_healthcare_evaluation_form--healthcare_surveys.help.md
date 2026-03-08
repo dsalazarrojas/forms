@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Literacy In Healthcare Evaluation Form - Help Guide
 ## Purpose
 This form is designed to assess your level of AI literacy and familiarity in the healthcare sector. It will help us evaluate your current understanding and comfort level with AI-related concepts, applications, and concerns.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees regarding diversity and inclusion practices within the organization. It is essential to ensure that the form is filled out by the correct employee and not duplicated or submitted multiple times by the same person. To avoid duplication, please make sure to check if a similar form has been submitted recently before proceeding.
-</thinking>
-
 # Diversity And Inclusion Report Form - Help Guide
 ## Purpose
 The Diversity And Inclusion Report Form is a tool for employees to share their experiences, thoughts, and feelings about diversity and inclusion practices within the organization. It helps the HR department to track and analyze the progress and identify areas for improvement.

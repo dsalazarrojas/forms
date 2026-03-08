@@ -2,10 +2,6 @@
 
 ## Purpose
 
-<thinking>
-This form is used to register workers for ergonomic safety purposes. It is meant to collect information about the worker's job title, work location, hours, and shift pattern. This information is crucial to ensure that workers are performing tasks within safe ergonomic parameters. Please fill out this form to register your worker's information accurately and ensure their safety in the workplace.
-</thinking>
-
 ## How To Complete This Form
 
 1. Review the form carefully and fill it out completely and accurately.

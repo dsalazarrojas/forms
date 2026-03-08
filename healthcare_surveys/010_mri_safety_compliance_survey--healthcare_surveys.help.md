@@ -1,14 +1,3 @@
-<thinking>
-I'll create a help guide for the MRI Safety Compliance Survey form. To make sure this guide is useful and relevant, let me think for a moment about the form's purpose and context.
-
-The purpose of the MRI Safety Compliance Survey form seems to be to collect information about a patient's safety risks related to an MRI scan, including their medical history, medications, medical devices, and potential safety risks associated with the scan. This form likely serves as a pre-screening tool to ensure the patient's safety before undergoing an MRI procedure.
-
-The form appears to be designed for patients or their representatives to provide information about the patient's medical history, medications, and any claustrophobia (fear of enclosed spaces), as well as acknowledge potential safety risks and scheduling risks. The form's fields are mostly multiple-choice and select options, with some text fields for patient information.
-
-I won't duplicate the form's fields in the guide, but instead, I'll provide a clear explanation of each field's purpose and how to complete it.
-
-</thinking>
-
 # MRI Safety Compliance Survey - Help Guide
 ## Purpose
 The MRI Safety Compliance Survey form is a pre-screening tool to assess a patient's safety risks related to an MRI scan. This form helps healthcare professionals identify potential safety risks and take necessary precautions to ensure the patient's safety during the procedure.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Staff Deployment And Wellbeing Survey - Help Guide
 ## Purpose
 This form is designed to help employees report their current status, overall wellbeing, and assess their job satisfaction and engagement levels. The information gathered from this form will be used to identify areas where support is needed and to provide targeted resources to help staff members thrive.

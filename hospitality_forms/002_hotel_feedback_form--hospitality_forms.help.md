@@ -1,11 +1,3 @@
-<thinking>
-
-Internal reasoning block: This form is used to collect feedback from guests about their stay at the hotel. The form is designed to be completed by the guests themselves, and its purpose is to gather information on their overall satisfaction, room condition, services quality, food quality, and any other feedback or suggestions they might have. 
-
-To complete this form, guests will be asked to provide their name, email address, and other relevant information. The form will guide them through different sections, including their room details, services and facilities, food and drink, and overall satisfaction. Each section is designed to be clear and concise, making it easy for guests to provide their feedback and suggestions.
-
-</thinking>
-
 # Hotel Feedback Form - Help Guide
 ## Purpose
 The Hotel Feedback Form is used to collect feedback from guests about their stay at the hotel. This form is designed to gather information on their overall satisfaction, room condition, services quality, food quality, and any other feedback or suggestions they might have.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Hospital Environment Feedback Form, which is used to collect feedback from hospital users about their experience with the hospital's facilities, cleanliness, overall satisfaction, and other aspects such as parking and communication effectiveness.
-To ensure that this feedback is actionable and helpful, we need to carefully design this form to collect specific information that is relevant to the user's experience. Therefore, before filling out this form, please review our internal guidelines for what information we are looking for.
-</thinking>
-
 # Hospital Environment Feedback Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, it's essential to understand the purpose and process of completing the health screening communication form accurately. This form is used to capture and document information about a patient's health screening and communication history. To ensure that your submissions are relevant and not duplications, please only use this form when a new patient is being screened or when an update is necessary. If you're unsure, please use your clinical judgment to determine the best course of action.</thinking>
-
 # health_screening_communication_form - Help Guide
 ## Purpose
 The health screening communication form is a crucial tool for healthcare professionals to document and track patient health screening and communication history. This form helps ensure that patients receive the necessary care and attention they require, and that healthcare providers have accurate and up-to-date information about each patient's health status.

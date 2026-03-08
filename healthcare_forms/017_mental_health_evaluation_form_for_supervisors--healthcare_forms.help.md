@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the mental health and performance of employees. It's intended for supervisors to assess an employee's current mental health status, their job performance, and any potential mental health issues they may be experiencing. This form should not be used for routine performance evaluations or performance management purposes. It's recommended that supervisors only fill out this form when there are concerns about an employee's mental health.
-
-Before filling out this form, supervisors should consider whether an employee's mental health has been affected by recent events, such as a change in work environment, a recent move, or a significant change in personal life. It's also important for supervisors to be aware of their own biases and cultural sensitivity when filling out this form.
-
-To avoid duplication of effort, supervisors should only fill out this form when there are specific concerns about an employee's mental health. If an employee is already receiving mental health support or services, supervisors should not fill out this form.
-
-</thinking>
-
 # Mental Health Evaluation Form For Supervisors - Help Guide
 ## Purpose
 This form is designed for supervisors to assess an employee's current mental health status, job performance, and any potential mental health issues they may be experiencing.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Communication Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of patient communication. It captures patient feedback, communication quality, and satisfaction with healthcare providers in different categories. The form is designed to provide an objective measure of patient communication and help healthcare providers identify areas for improvement.

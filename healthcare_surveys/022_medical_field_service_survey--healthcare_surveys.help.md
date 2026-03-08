@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting information from patients about their experiences with a medical field service, a type of healthcare facility or institution. The form's primary purpose is to gauge patient satisfaction and provide feedback on the quality of care received from the medical field service. This form should only be used for patients who have recently interacted with the service. It's essential to ensure that the information submitted is accurate and relevant to the patient's experience.
-
-</thinking>
-
 # Medical Field Service Survey - Help Guide
 ## Purpose
 The Medical Field Service Survey is a feedback form designed to collect information from patients about their recent interactions with a medical field service. This survey will help us understand the level of satisfaction and quality of care provided by our service.

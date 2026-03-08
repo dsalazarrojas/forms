@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with a chiropractic office. The form is meant to be completed by patients who have visited the office and are being asked to provide their thoughts and opinions on various aspects of their visit. The form is likely used to gauge patient satisfaction and identify areas for improvement within the office.
-
-To ensure the form is being completed for its intended purpose, it's essential to review the form's design and content to avoid duplication of effort. Reviewing the form's fields and options will help in identifying potential issues or concerns that need to be addressed.
-
-The form is comprised of two main sections: Patient Information and Office Experience. The Patient Information section is for collecting basic contact information and demographic data, while the Office Experience section is for gathering feedback on the office's facilities, staff, and services.
-
-Upon reviewing the form, it's clear that some fields may overlap or be redundant. For instance, the "Overall Satisfaction" and "Value for Money" fields may be similar in nature. Similarly, some fields may be too broad or open-ended, such as "Open Feedback" and "Any Additional Comments." These fields may require more specific guidance or structure to ensure they are completed effectively.
-
-To ensure the form is completed accurately and efficiently, it's essential to review the form's instructions and guidance provided to patients. This may include providing clear explanations for each field, examples of what patients should expect, and specific guidance on how to complete the form.
-
-The form's fields and options are well-structured, but some may be unclear or confusing. For example, the "Staff Evaluation" field is a "note" type field, but its options are not specified. This may cause confusion for patients who are unsure what to expect.
-
-To address these concerns, this guide will provide clear explanations and guidance on how to complete the form, including the purpose of each field, what patients should expect, and specific tips for completing each section effectively.
-
-</thinking>
-
 # Chiropractic Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience with a chiropractic office. The form is used to identify areas of satisfaction and areas for improvement within the office.

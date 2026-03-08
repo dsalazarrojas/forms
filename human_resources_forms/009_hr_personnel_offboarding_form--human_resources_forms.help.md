@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll craft a comprehensive help guide for the HR Personnel Offboarding Form. This guide will break down the form's purpose, step-by-step instructions, and field explanations to ensure end-users understand how to complete it correctly.</thinking>
-
 # HR Personnel Offboarding Form - Help Guide
 ## Purpose
 The HR Personnel Offboarding Form is used to document an employee's departure from the company, including their last day worked, reason for leaving, and any company property returns. This form helps maintain accurate records and facilitates a smooth transition for both the departing employee and the organization.

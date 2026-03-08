@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vaccination Record Form - Help Guide
 
 ## Purpose

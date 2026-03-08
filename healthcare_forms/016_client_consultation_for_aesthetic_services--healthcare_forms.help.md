@@ -1,9 +1,3 @@
-<thinking>...to ensure the form's purpose and relevance, and to verify it's not a duplicate form...the purpose of this form is to gather information from clients regarding their aesthetic services consultation. This form is intended to be used by clients who are interested in receiving aesthetic treatments, such as Botox injections, dermal fillers, and chemical peels. The form asks for personal and demographic information, medical history, and treatment preferences to provide the best possible care and treatment for the client.
-
-Please note that this form is not intended for medical professionals or healthcare providers, and it's not a medical history form. It's a client consultation form for aesthetic services.
-
-</thinking>
-
 # Client Consultation For Aesthetic Services - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients regarding their aesthetic services consultation. It's essential to complete this form accurately to ensure that the consultation process is conducted efficiently and effectively.

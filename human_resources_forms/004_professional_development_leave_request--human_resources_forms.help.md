@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from employees requesting professional development leave. The form is used by HR or management to evaluate and approve or deny such requests. The form is typically filled out by employees when they need time off for education, training, or personal development. It's possible that an employee might have already filled out this form before, and it's essential to review the submitted information to avoid duplication.
-</thinking>
-
 # professional_development_leave_request - Help Guide
 ## Purpose
 The "Professional Development Leave Request" form is used to request professional development leave from an employee. This form helps HR or management evaluate and approve or deny such requests.

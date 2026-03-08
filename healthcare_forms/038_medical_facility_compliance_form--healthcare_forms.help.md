@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the compliance status of a medical facility with various regulatory requirements. This form serves as an internal tool to collect information on the facility's compliance with risk assessments, audit reports, and medical certifications. The form is intended to be completed by authorized personnel within the facility and is not intended for external use. It is crucial to ensure that each field is filled out accurately and truthfully to provide a comprehensive picture of the facility's compliance status.
-</thinking>
-
 # Medical Facility Compliance Form - Help Guide
 ## Purpose
 The Medical Facility Compliance Form is a tool used to assess the compliance status of a medical facility with various regulatory requirements. This form is designed to collect information on the facility's risk assessments, audit reports, and medical certifications.

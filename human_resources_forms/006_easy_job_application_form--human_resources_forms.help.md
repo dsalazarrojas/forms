@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "easy_job_application_form" is to gather essential information from candidates to streamline the hiring process. This form collects data about the candidate, including their name, contact details, employment status, available start date, and address. This information is necessary for the hiring team to review and evaluate candidates for potential employment opportunities.
-
-To ensure consistency and avoid duplication, this form should be filled out by each candidate only once, and for the intended purpose of application for a specific position.</thinking>
 # easy_job_application_form - Help Guide
 ## Purpose
 The "easy_job_application_form" is a tool for candidates to provide their application details for a specific job position. It helps our hiring team to efficiently review and evaluate candidates for the position.

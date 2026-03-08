@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a tool for employees to evaluate and provide feedback on their own performance, and to help managers track and discuss performance with employees. This form should only be used for self-assessment and not as a formal evaluation instrument. The form will be completed by the employee in question and then reviewed by their manager. To ensure consistency, please fill out the form for all employees in the same time period, e.g., annually or semi-annually, and avoid duplicate efforts.
-</thinking>
-
 # Employee Self Appraisal Form - Help Guide
 ## Purpose
 The Employee Self Appraisal Form is a tool for employees to evaluate and provide feedback on their own performance. This form is designed to help employees take ownership of their goals and objectives, and for managers to track and discuss performance with employees.

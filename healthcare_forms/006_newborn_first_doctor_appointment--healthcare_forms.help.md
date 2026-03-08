@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a newborn's first doctor appointment. It is intended for medical staff to gather relevant details about the newborn and their mother or parent. To determine if this form is relevant, consider if you are a healthcare provider and need to schedule or document a newborn's first doctor appointment. If not, please do not complete this form.
-</thinking>
-
 # Newborn First Doctor Appointment - Help Guide
 ## Purpose
 This form is used by healthcare providers to collect information for a newborn's first doctor appointment.

@@ -1,5 +1,3 @@
-<thinking>As a medical professional, you will likely be familiar with the importance of accurate and timely assessments of a patient's level of care. This form is designed to help healthcare providers gather and document essential information about a patient's medical status, history, and needs. The purpose of this form is to ensure that all relevant details are captured and communicated effectively, allowing for informed decision-making and optimal patient care.</thinking>
-
 # Level Of Care Assessment Form - Help Guide
 ## Purpose
 The Level Of Care Assessment Form is a crucial tool used to gather information about a patient's medical status, history, and needs. This form helps healthcare providers assess the patient's level of care requirements, ensuring that they receive the necessary care and attention to maintain their well-being.

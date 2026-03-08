@@ -1,7 +1,3 @@
-<thinking>
-Please verify that the form "precautionary_coronavirus_liability_release_form" is being used in a relevant context and not as a duplicate form, as it seems to contain duplicate fields. Also, ensure that the form's purpose is still valid and up-to-date.
-</thinking>
-
 # Precautionary Coronavirus Liability Release Form - Help Guide
 ## Purpose
 This form is used to release a patient's liability for medical treatment related to COVID-19, including acknowledging the risks associated with the virus, listing any medical conditions or symptoms, and providing information about insurance coverage and medical care.

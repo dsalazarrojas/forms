@@ -1,8 +1,3 @@
-<thinking>
-This is a help guide for the veterinary_clinic_check_in_form form.
-This form is likely used to gather information from pet owners when they bring their pets to a veterinary clinic for check-in purposes. The form is probably used to collect relevant details such as pet and owner information, appointment details, contact information, and other relevant details. Before filling out this form, it's essential to review the form carefully and ensure you are completing the required fields.
-</thinking>
-
 # veterinary_clinic_check_in_form - Help Guide
 ## Purpose
 This form is used to gather information from pet owners when their pets are being checked in at a veterinary clinic.

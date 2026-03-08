@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "medical_weight_loss_consent_form" form, which is designed to gather patient information and consent for weight loss programs. This form is intended for patients who are seeking weight loss services, and it is essential to ensure they understand the purpose and requirements of the form. To confirm, the form is used to collect patient data and obtain consent for contact and communication. Please ensure that the form is not duplicated or used for other purposes without proper clearance.
-</thinking>
-
 # Medical Weight Loss Consent Form - Help Guide
 ## Purpose
 The Medical Weight Loss Consent Form is used to gather patient information and obtain consent for weight loss programs. It is essential to understand that this form is required for patients seeking weight loss services.

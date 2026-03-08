@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, the task requires creating a help guide for the "Daily Health Attestation Form" that provides end users with a clear understanding of the form's purpose and how to complete it. The form is used to gather information from patients and clinicians, and the guide should cover each field's purpose and how to fill it out correctly.</thinking>
-
 # Daily Health Attestation Form - Help Guide
 ## Purpose
 The Daily Health Attestation Form is a tool used to collect essential information from patients and clinicians for health-related purposes. This form helps to ensure that patients and clinicians are able to communicate effectively and provide accurate details about their health and well-being.

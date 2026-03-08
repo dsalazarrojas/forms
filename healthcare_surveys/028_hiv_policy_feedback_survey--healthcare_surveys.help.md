@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback on HIV policy implementation, its effectiveness, and barriers to implementation. The form will help in understanding the current state of HIV policy implementation in different regions and identify areas of improvement. The form is intended for healthcare professionals and policy makers who are involved in HIV policy development and implementation.
-
-This form is part of a larger assessment process and will help in creating a comprehensive report on HIV policy implementation. The feedback collected through this form will be used to inform policy decisions and improve the effectiveness of HIV policy implementation in the long run.
-
-It is essential to fill out this form accurately and honestly, as the feedback will be used to support data-driven decision-making. Please note that this form is designed to be completed by one respondent per region.
-
-Before starting, please review the questions carefully and ensure that you have the necessary knowledge and information to provide accurate answers.
-</thinking>
-
 # hiv_policy_feedback_survey - Help Guide
 
 ## Purpose

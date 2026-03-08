@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vital Signs Tracking Form - Help Guide
 ## Purpose
 The Vital Signs Tracking Form is a form used to track vital signs for patient health monitoring. This form is intended to collect body temperature, pulse rate, respiration rate, and blood pressure readings for patients. This information is used to monitor patient health and provide necessary medical attention if required.

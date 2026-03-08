@@ -1,8 +1,3 @@
-<thinking>
-The Conflict Resolution Checklist Form is designed to provide a structured framework for mediating conflicts between employees in the workplace. This form helps facilitators and HR representatives to track progress, identify areas of agreement, and develop solutions to resolve conflicts efficiently. It is essential to complete this form accurately and thoroughly to facilitate effective conflict resolution. Before starting, please ensure that you are filling out the correct form and that your responses are clear and concise. This form should not be used as a substitute for in-depth mediation or counseling sessions. It is intended to complement these processes, not replace them.
-
-</thinking>
-
 # Conflict Resolution Checklist Form - Help Guide
 ## Purpose
 The Conflict Resolution Checklist Form is designed to help facilitators and HR representatives track progress, identify areas of agreement, and develop solutions to resolve conflicts between employees in the workplace.

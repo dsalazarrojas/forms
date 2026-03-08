@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Covid Waiver Form - Help Guide
 
 ### Purpose

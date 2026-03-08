@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "dental_narrative_submission_form" form, I'll follow these steps:
-
-1. Identify the form's purpose and required information.
-2. Explain how to complete the form in a step-by-step manner.
-3. Provide a field-by-field explanation of each section.
-4. Offer tips and best practices for completing the form efficiently.
-
-The purpose of this form is to gather information from patients about their dental health and history, including their current medical status, dental conditions, and treatment plans. The form is designed to capture detailed descriptions of the patient's dental situation, and each field should be filled in accordingly.
-
-</thinking>
-
 # dental_narrative_submission_form - Help Guide
 ## Purpose
 The dental_narrative_submission_form is a comprehensive document that collects detailed information from patients about their dental health and history. This form should be filled out by patients to provide their healthcare providers with a clear understanding of their current dental status, medical history, and treatment plans.

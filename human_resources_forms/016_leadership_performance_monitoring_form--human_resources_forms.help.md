@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess leadership performance, typically used for evaluating leadership skills, team performance, and overall effectiveness. It's designed to provide a structured framework for evaluating leadership strengths and areas for improvement. This form is likely to be used by managers, supervisors, or team leaders to evaluate the performance of their team members, or by team members to self-assess their leadership abilities. 
-</thinking>
-
 # leadership_performance_monitoring_form - Help Guide
 ## Purpose
 The leadership performance monitoring form is designed to evaluate a leader's skills, abilities, and performance. It helps to identify areas of strength and areas for improvement.

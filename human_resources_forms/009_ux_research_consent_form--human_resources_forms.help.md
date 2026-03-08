@@ -1,16 +1,3 @@
-<thinking>
-
-The UX Research Consent Form is designed to collect informed consent from research participants and researchers involved in user experience (UX) research activities. This form ensures that participants understand the purpose, scope, and risks involved in the research study, and agree to participate or conduct research under specific conditions. It's essential that participants and researchers acknowledge and agree to the terms outlined in this form to maintain transparency, accountability, and respect for all parties involved.
-
-To prevent duplication or misinterpretation, this form should only be completed by authorized personnel or participants. If you're an authorized researcher or participant, please ensure you understand your role and responsibilities before filling out this form.
-
-Before filling out this form, please make sure to review the following information carefully:
-
-* This form is part of a research study and the information collected is for research purposes only.
-* All personal identifiable information (PII) will be handled according to the applicable laws and regulations.
-* By filling out this form, you're giving consent to participate or conduct research under the conditions outlined.
-</thinking>
-
 # UX Research Consent Form - Help Guide
 ## Purpose
 This form collects informed consent from research participants and researchers to ensure transparency and accountability in UX research activities.

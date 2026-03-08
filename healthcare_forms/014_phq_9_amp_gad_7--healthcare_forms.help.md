@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the psychological health and well-being of an individual, specifically the severity of symptoms of Generalized Anxiety Disorder (GAD) and Depression. It is used to evaluate the frequency and intensity of feelings experienced by the individual across various emotional states. The form is intended to provide a quantitative assessment of psychological distress, which can help identify potential cases of anxiety and depression.
-
-Before proceeding, please ensure you are filling out the form for the intended purpose and not duplicating your efforts.
-
-</thinking>
-
 # phq-9-and-gad-7 - Help Guide
 ## Purpose
 The PHQ-9 and GAD-7 form is a screening tool used to assess symptoms of Generalized Anxiety Disorder (GAD) and depression. This form helps evaluate the frequency and intensity of feelings related to anxiety, worry, and other emotional states.

@@ -1,7 +1,3 @@
-<thinking>
-The modern_hotel_booking_form_mobile_responsive form is designed to collect information from customers for hotel booking purposes. The form is intended for mobile devices, hence the "mobile_responsive" label. This form should only be used when a customer is booking a hotel room, and the purpose of the form is to capture relevant details for booking processing.
-</thinking>
-
 # modern_hotel_booking_form_mobile_responsive - Help Guide
 ## Purpose
 This form is used to collect information from customers for hotel booking purposes.

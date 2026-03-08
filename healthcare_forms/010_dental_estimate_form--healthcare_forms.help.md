@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive estimate of a patient's dental procedure. This form is designed to collect relevant information from the patient, the healthcare provider, and the insurance payer, and to generate an estimate of the costs associated with the procedure.
-
-To avoid duplication, this form is only intended to be used for new procedures. If you are trying to estimate the cost of a continuing or follow-up procedure, please use the relevant section on the existing estimate form.
-
-</thinking>
-
 # Dental Estimate Form - Help Guide
 ## Purpose
 This form is used to generate an estimate of the costs associated with a dental procedure. It requires the following information from the patient and the healthcare provider.

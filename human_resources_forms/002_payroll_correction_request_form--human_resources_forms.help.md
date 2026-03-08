@@ -1,5 +1,3 @@
-<thinking>This form is designed to help employees correct errors in their pay. A payroll correction request form is used when an employee believes there is an error in their paycheck. This form is typically used to report overpayments, underpayments, or other types of payroll errors. To avoid duplication, only submit one form per error. If the employee has multiple errors, they should submit one form per error. Please ensure the form is filled out correctly and thoroughly, and submit it to the relevant department or personnel for review and action.</thinking>
-
 # Payroll Correction Request Form - Help Guide
 ## Purpose
 The Payroll Correction Request Form is a tool for employees to report errors in their pay. This form helps to identify and correct discrepancies in paychecks, ensuring accuracy and fairness in the payroll process.

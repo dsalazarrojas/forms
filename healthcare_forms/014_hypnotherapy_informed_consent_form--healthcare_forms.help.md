@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect informed consent from patients before undergoing hypnotherapy sessions. Informed consent is a critical aspect of healthcare, ensuring patients understand the risks, benefits, and procedures involved in the treatment they are about to receive. This form will guide patients through the consent process, ensuring they are well-informed and comfortable with the decisions they make.
-
-To prevent duplication, please ensure this form is not used for commercial purposes or for collecting sensitive data not intended for the specific purpose of hypnotherapy.
-
-</thinking>
-
 # Hypnotherapy Informed Consent Form - Help Guide
 ## Purpose
 The Hypnotherapy Informed Consent Form is designed to obtain informed consent from patients before undergoing hypnotherapy sessions. It ensures patients are aware of the risks, benefits, and procedures involved in the treatment.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's skincare habits, specifically their sunscreen usage frequency, type, application method, desired SPF level, and other related preferences. The purpose of this form is to gather data that can be used to create more effective skincare products and recommendations. Before filling out this form, please consider the following:
-
-* Is this form relevant to your current skincare routine or preferences?
-* Have you filled out this form before? If so, you may be able to provide more accurate information or skip certain questions if your answers haven't changed.
-
-</thinking>
-
 # Skincare SPF Usage Survey - Help Guide
 ## Purpose
 This form collects information about your skincare habits, specifically your sunscreen usage habits, to help us create more effective skincare products and recommendations.

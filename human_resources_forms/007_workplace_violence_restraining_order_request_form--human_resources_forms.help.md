@@ -1,7 +1,3 @@
-<thinking> 
-This form is likely used by employees or HR departments to report and document workplace violence restraining order requests. This form should only be used for reports of actual incidents or threats of workplace violence, not for general concerns or complaints. If you are unsure, please review your company's policy on workplace violence before proceeding. Please do not duplicate reports for the same incident.
-</thinking>
-
 # Workplace Violence Restraining Order Request Form - Help Guide
 ## Purpose
 This form is designed to document and report incidents of workplace violence, allowing HR to take necessary steps to protect employees and maintain a safe work environment.

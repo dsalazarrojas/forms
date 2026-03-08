@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help veterinary professionals complete the Veterinary Technology Adoption Survey. The survey is used to gather information about the adoption and use of various technologies in veterinary practices. The goal is to understand the current state of technology adoption and its relation to practice size, specialty, and other factors that might influence its adoption.
-
-Before beginning, please take a moment to verify that this form is relevant to your needs. If you are not a veterinary professional or do not have experience with technology adoption, your feedback may not be applicable.
-
-This guide is divided into four sections: "Purpose," "How To Complete This Form," "Field-by-Field Explanation," and "Tips." Please read each section carefully and do not hesitate to ask if you have any questions or concerns.
-</thinking>
-
 # Veterinary Technology Adoption Survey - Help Guide
 ## Purpose
 The Veterinary Technology Adoption Survey is designed to collect information about the current state of technology adoption in veterinary practices. This includes the types of technology used, the frequency of use, and the factors that influence its adoption. Your input is valuable in helping us understand how technology affects veterinary practices and inform future development and support.

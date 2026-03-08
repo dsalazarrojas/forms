@@ -1,7 +1,3 @@
-<thinking>
-The pediatric intubation checklist form is designed to capture crucial information about a patient's medical history, anesthesia, vital signs, patient status, and other relevant details. This form likely serves as a reference for medical professionals to ensure a safe and effective intubation process. To avoid errors, it's essential to complete this form carefully and accurately. This form appears to be a general medical checklist, but it might be used in conjunction with specific medical procedures or protocols. Before using this form, ensure you have the necessary permissions and approvals from your medical institution or team.
-</thinking>
-
 # Pediatric Intubation Checklist Form - Help Guide
 ## Purpose
 This form is designed to gather critical information about a patient's medical history, anesthesia, and other relevant details to ensure a safe and effective intubation process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for maintenance requests, and it's essential to ensure that each field is filled in correctly to provide accurate and efficient service. To start, make sure to review each field carefully, as some fields are required and others are optional.
-</thinking>
-
 # Maintenance Request Form - Help Guide
 ## Purpose
 The Maintenance Request Form is a tool for requesting maintenance on buildings. It's used to report any issues that need to be addressed and track the progress of the maintenance requests.

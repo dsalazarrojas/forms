@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for collecting and recording patient information related to medications. The Universal Medication Form is intended to help healthcare professionals gather essential details about a patient's current and past medications, allergies, medical history, and other relevant medical information. This form should not be used for any other purpose or context.
-
-Before proceeding, please ensure that you are using this form within a healthcare setting and for its intended use. If you are unsure, please consult with the relevant healthcare authorities or professionals.
-
-</thinking>
-
 # Universal Medication Form - Help Guide
 ## Purpose
 This form is designed to collect and record essential information about a patient's medications, allergies, and medical history for healthcare professionals.

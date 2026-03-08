@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form serves its purpose effectively. The "Food Preference Questionnaire" form aims to gather information about a user's food preferences, dietary restrictions, allergies, and other related details. To avoid duplication of effort, we should ensure that this form is used for its intended purpose and not for other purposes. Let's review the form's structure and content before proceeding.
-</thinking>
-
 # Food Preference Questionnaire - Help Guide
 ## Purpose
 

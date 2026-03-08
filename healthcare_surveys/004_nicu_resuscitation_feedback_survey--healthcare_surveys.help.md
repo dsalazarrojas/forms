@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the "NICU Resuscitation Feedback Survey", I must first understand the purpose and design of this form.
-
-The form, with 25 pages, seems to be designed for collecting feedback about neonatal care in the NICU (Neonatal Intensive Care Unit). Each page represents a question, and the type of questions asked range from single-choice questions (select_one and select_multiple) to free-text questions and numerical inputs.
-
-The structure of the form suggests that it is meant for healthcare professionals or parents/caregivers to provide feedback on various aspects of NICU care, perhaps with the aim of improving the quality of care and service provided to newborns. However, without further information, I'll proceed based on the provided YAML structure.
-
-</thinking>
-
 # NICU Resuscitation Feedback Survey - Help Guide
 ## Purpose
 The NICU Resuscitation Feedback Survey is designed to collect feedback from healthcare professionals or parents/caregivers about their experiences with neonatal care in the NICU. This survey aims to gather information that can help improve the quality of care and service provided to newborns.

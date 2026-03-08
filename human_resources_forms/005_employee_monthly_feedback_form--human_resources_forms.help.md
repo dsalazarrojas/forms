@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees on various aspects of their work experience, including job satisfaction, work-life balance, communication effectiveness, job security, management support, team collaboration, and goals. The form is meant to be completed on a monthly basis, hence the name "Employee Monthly Feedback Form". It's likely that HR or management will review this feedback to understand areas of improvement and identify trends or patterns in employee satisfaction.
-
-The form is designed to be completed by employees themselves, but there's no indication that it's mandatory.
-
-Before providing a detailed explanation of each field, here's some general tips on how to complete the form:
-
-* Please answer all questions honestly and sincerely.
-* Choose the options that best describe your current state of mind or experience.
-* If a field has multiple options, select all that apply.
-* If a field is a number field, please enter a numerical value.
-
-</thinking>
-
 # Employee Monthly Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees on their work experience, allowing HR or management to identify areas of improvement and track trends over time.

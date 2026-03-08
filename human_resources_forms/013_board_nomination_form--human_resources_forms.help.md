@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used for nominating candidates to join the board. The purpose of the form is to gather information about the nominator and the nominee, including the nominee's qualifications and skills, in order to make informed decisions about board nominations. This form helps to prevent duplicate nominations by requiring the nominator to provide a unique nomination date. 
-
-When filling out this form, please note that the nominator must be a current employee of the company. If you are not a current employee, you will not be able to access this form. 
-
-Each field is required to ensure that the nomination is complete and accurate. If a field is not filled out, the form will not be able to be submitted. 
-
-This form is typically filled out by current employees of the company who want to nominate a colleague for a board position. The nominator must be a good fit for the role and the nominee must have the skills and qualifications required for the position.
-
-Please fill out each field carefully and accurately to ensure that your nomination is considered.
-
-</thinking>
-
 # Board Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information for nominating candidates to join the board. It is used to collect details about both the nominator and the nominee, including their names, positions, email, and qualifications.

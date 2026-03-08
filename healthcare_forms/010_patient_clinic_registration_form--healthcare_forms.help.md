@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect patient information for clinic registration purposes. It is intended for patients to provide their personal details, medical history, medical conditions, and contact information. The form will help medical staff to have a comprehensive understanding of the patient's needs and provide better care.
-
-The form is divided into several sections, including:
-
-* Personal details (Name, Contact Number, Email Address)
-* Medical History (Date of Birth)
-* Medical Conditions (Allergies, Asthma, Diabetes)
-* Medications (select multiple from a list)
-* Emergency Contact Information (Contact Number, Contact Relationship, Emergency Contact 2, Emergency Contact 3)
-* Medical Specialist (name and phone number)
-* Medical Facility (name and phone number)
-* Additional information (Patient Address, Doctor Name, Doctor Phone, Medical License 1-10)
-
-Please note that most of the fields are optional, and users can skip them if not necessary.
-
-Before filling out the form, please ensure you have all the necessary information ready. If you have any questions or need help, do not hesitate to ask.
-
-</thinking>
-
 # patient_clinic_registration_form - Help Guide
 ## Purpose
 The patient_clinic_registration_form is designed to collect patient information for clinic registration purposes.

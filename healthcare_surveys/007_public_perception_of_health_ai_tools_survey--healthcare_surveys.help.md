@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Perception Of Health AI Tools Survey - Help Guide
 
 ## Purpose

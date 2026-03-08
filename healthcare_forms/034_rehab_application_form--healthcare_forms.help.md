@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Rehab Application Form is to gather information from healthcare providers about a patient's rehabilitation plan and progress. This form should only be used for patients who are currently undergoing or have recently completed a rehabilitation program. Please ensure that you only complete this form for patients who meet these criteria to avoid unnecessary data duplication.
-</thinking>
-
 # Rehab Application Form - Help Guide
 ## Purpose
 The Rehab Application Form is a tool used by healthcare providers to document a patient's rehabilitation plan and progress. This form helps track a patient's treatment goals, services received, and discharge status.

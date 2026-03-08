@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swimming Pool Rental Form - Help Guide
 ## Purpose
 The Swimming Pool Rental Form is designed to collect information from customers interested in renting a swimming pool for a specific period. This form helps pool owners or managers to gather essential details from customers, such as contact information, booking details, and payment information, which aids in efficient and secure pool rental management.

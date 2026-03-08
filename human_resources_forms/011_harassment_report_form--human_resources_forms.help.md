@@ -1,10 +1,3 @@
-<thinking>
-We are creating a form to collect information about workplace harassment incidents. This form is meant to gather details about the incident, the parties involved, and the resolution status. To ensure that each incident is properly documented and addressed, it's essential to complete the form accurately and thoroughly. Please review the form carefully to avoid any potential mistakes or omissions.
-
-This form has multiple sections and fields, each with specific purposes and requirements. Please note that some fields may be optional, but filling out all relevant information is crucial for a proper resolution. Before starting, make sure to read each field explanation carefully and ask for clarification if you're unsure about any part of the form.
-
-</thinking>
-
 # Harassment Report Form - Help Guide
 ## Purpose
 The Harassment Report Form is designed to collect information about workplace harassment incidents, ensuring that each case is properly documented and addressed.

@@ -85,10 +85,6 @@ To complete this form, please follow these steps:
 * **Confirm Recipient Email**: Confirm that the recipient's email address is correct (True or False).
 * This field is used to confirm that the recipient's email address is accurate.
 
-<thinking>
-This form is designed to release disability support records in a secure and controlled manner. It is crucial that you understand the purpose and process of this form before completing it. Please review the form carefully and ensure you are filling out the correct information. If you are unsure about any part of the form, please reach out to your support team for clarification.
-</thinking>
-
 Note: The following fields are used to confirm that the information provided is accurate:
 * Confirm Signature
 * Confirm Recipient

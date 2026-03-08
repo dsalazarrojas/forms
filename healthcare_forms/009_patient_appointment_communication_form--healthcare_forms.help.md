@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by healthcare professionals to communicate with patients about their appointments. This guide is intended to help users understand the purpose and functionality of the form.
-</thinking>
-
 # Patient Appointment Communication Form - Help Guide
 ## Purpose
 This form is used to collect and record information about patient appointments, including patient details, appointment schedule, and any relevant communication from the provider. It helps healthcare professionals to effectively communicate with patients and ensure accurate record-keeping.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates during the interview process for an Insurance Data Analyst position. The form is meant to gather details about the candidate's job location, job title, job description, job requirements, candidate name, contact information, insurance experience, education, work experience, job type, work experience 2, job type 2, job location 2, insurance certifications, job type 3, job location 3, insurance company, job description 2, job title 2, job type 4, job location 4, job description 3, job title 3, and submission date. The fields are not marked as required, so candidates can provide as much or as little information as they want. However, providing accurate and complete information will help with the evaluation process. This form is not affiliated with any proprietary form platforms and is released under the Creative Commons Attribution 4.0 license, allowing for free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # Insurance Data Analyst Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates during the interview process for an Insurance Data Analyst position.

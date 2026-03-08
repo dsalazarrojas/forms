@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Telehealth Service Poll Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from patients who have used our telehealth services. The information collected will help us understand how we can improve our services and provide better care to our patients in the future.

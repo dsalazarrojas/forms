@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I notice that this form is designed to collect information about a patient's referral to an orthodontist. It seems to be used by healthcare providers to refer patients to specialists for further treatment. I will create a user-facing help guide that explains the purpose of the form, how to complete it, and what each field means, ensuring that end-users understand the context and expectations.</thinking>
-
 # Orthodontist Referral Form - Help Guide
 ## Purpose
 This form is used by healthcare providers to refer a patient to an orthodontist for further treatment and evaluation. Please complete this form with accurate and relevant information to facilitate the referral process.

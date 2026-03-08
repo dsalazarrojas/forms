@@ -1,8 +1,3 @@
-<thinking>
-This form is used to create or update a corporate social responsibility specialist exit offboarding form. Before filling out this form, please ensure that you are creating a new form or updating an existing one, and that you have all the necessary information ready. This form is designed to be used once per specialist's offboarding process. If you're unsure about the form's purpose or the process, please consult with your supervisor or HR department.
-
-</thinking>
-
 # corporate_social_responsibility_specialist_exit_offboarding_form - Help Guide
 ## Purpose
 This form is used to document and track the exit offboarding process of a corporate social responsibility specialist. It collects information about the specialist's departure, including their title, category, description, assigned tool, and output file.

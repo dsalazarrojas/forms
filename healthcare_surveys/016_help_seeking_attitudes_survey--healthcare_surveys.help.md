@@ -1,7 +1,3 @@
-<thinking>
-This form is used to understand individuals' attitudes and preferences when seeking help, especially in a healthcare setting. The form aims to collect information on various aspects of help-seeking, including preferred help sources, comfort levels with seeking support, and preferred contact methods. This data will be used to inform healthcare organizations on how to improve their support services and better meet the needs of their patients. Please note that this form is meant to be completed by individuals who have experience with healthcare-related help seeking, so the responses will be most relevant to that context.
-</thinking>
-
 # Help Seeking Attitudes Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your attitudes and preferences when seeking help, particularly in a healthcare setting.

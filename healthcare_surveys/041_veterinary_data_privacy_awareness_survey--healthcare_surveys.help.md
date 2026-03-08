@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess healthcare professionals' understanding and awareness of data privacy policies and procedures. This form is likely to be used in a healthcare setting to evaluate the knowledge and compliance of staff members with regards to sensitive patient data. 
-
-Please note that before filling out this form, it's essential to confirm that your role in the organization is relevant to the content. If you're unsure, please check with your supervisor or the relevant department head. 
-
-</thinking>
-
 # veterinary_data_privacy_awareness_survey - Help Guide
 ## Purpose
 The veterinary_data_privacy_awareness_survey form is designed to assess your understanding and awareness of data privacy policies and procedures in the healthcare setting.

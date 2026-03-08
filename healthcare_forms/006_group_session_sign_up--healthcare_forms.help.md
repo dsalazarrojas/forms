@@ -1,5 +1,3 @@
-<thinking>...the form is intended to allow patients to sign up for group sessions, which are sessions led by healthcare professionals that bring people together for specific health-related topics. The form should only be completed once for each group session, and users will be able to submit it to join the session. Please ensure that you fill out all required fields correctly...</thinking>
-
 # group_session_sign_up - Help Guide
 ## Purpose
 The group_session_sign_up form is designed to collect information from patients to sign up for group sessions led by healthcare professionals. This form helps us to organize and track session attendance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Partner Exit Notice Request Form - Help Guide
 
 ## Purpose

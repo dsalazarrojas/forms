@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help medical practices create a comprehensive marketing plan tailored to their specific needs and goals. This template guides them through the essential aspects of their marketing strategy, including target audience analysis, services offered, marketing budget, social media platforms, and more. To ensure accuracy and relevance, medical practice administrators should carefully fill out this form, providing detailed information about their practice, target audience, and marketing goals. Before proceeding, please review each section carefully to ensure that the information provided is up-to-date and relevant to your practice.
-
-</thinking>
-
 # Medical Practice Marketing Plan Template - Help Guide
 ## Purpose
 This template is designed to assist medical practices in creating a customized marketing plan that aligns with their specific needs and objectives. It covers essential areas such as target audience analysis, services offered, marketing budget, social media platforms, and more, to help practices develop a comprehensive marketing strategy.

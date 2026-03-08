@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for registering and managing payments for vaccines. The purpose of the form is to collect registration and payment information for individuals or organizations receiving vaccinations. The form should be used to track and update payment status, amounts, and other relevant details. It's likely used within a healthcare setting.
-</thinking>
-
 # pubn-regis-amp-pay-vaccine-snp - Help Guide
 ## Purpose
 This form is designed to collect and manage payment information for individuals or organizations receiving vaccinations. It includes fields for registration details, payment amounts, status updates, and other relevant details.

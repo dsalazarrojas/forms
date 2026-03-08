@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Coronavirus Suspected Patient Intake Form - Help Guide
 
 ## Purpose

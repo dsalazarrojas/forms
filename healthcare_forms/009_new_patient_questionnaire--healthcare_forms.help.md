@@ -1,7 +1,3 @@
-<thinking>
-This form is a New Patient Questionnaire, designed to collect essential information about a patient. The purpose of this form is to gather demographic data and medical history for new patients. Before completing this form, please ensure that you are filling it out for the correct patient and that all required fields are filled out correctly. Please be aware that this form is for internal use only and does not replace any medical consultation or diagnosis. Please also be aware of any duplication of effort, and try to avoid creating duplicate forms.
-</thinking>
-
 # New Patient Questionnaire - Help Guide
 ## Purpose
 The New Patient Questionnaire is a form designed to collect essential information about new patients, including demographic data and medical history.

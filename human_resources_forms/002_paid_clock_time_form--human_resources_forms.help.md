@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on an employee's clocked time for a specific project. This form includes fields for clock hours, project selection, start and end times, dates, notes, assigned to, comments, email, phone number, clock in and out status, clock type, hours worked, pay type, pay rate, pay rate currency, pay rate currency symbol, clock rounding options, break in and out times, and break duration. This form is likely used by HR departments or payroll teams to record and manage timekeeping for employees.
-
-To prevent duplication, this form should only be filled out for each employee's timeclocked hours for a unique project. If the same form is filled out more than once for the same project, the data entered will be overwritten.</thinking>
-
 # Paid Clock Time Form - Help Guide
 
 ## Purpose

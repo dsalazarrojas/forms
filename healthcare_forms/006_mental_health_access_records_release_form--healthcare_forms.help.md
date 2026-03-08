@@ -1,8 +1,3 @@
-<thinking>
-This form is a mental health access records release form, which is used to grant access to a patient's mental health records to authorized providers. The purpose of this form is to provide a clear and straightforward way to document the authorization process, ensuring that providers have the necessary information to access a patient's records. This form is designed to be used in a healthcare setting, where patients' mental health records are sensitive and confidential. The fields on this form are carefully crafted to ensure that all necessary information is collected, while maintaining the patient's privacy and security. It is essential to fill out this form accurately and completely, as it will be used to make decisions about accessing the patient's mental health records. Please ensure that all fields are filled out correctly, and if you are unsure about any field, refer to the field-by-field explanation below.
-
-</thinking>
-
 # mental-health-access-records-release-form - Help Guide
 
 ## Purpose

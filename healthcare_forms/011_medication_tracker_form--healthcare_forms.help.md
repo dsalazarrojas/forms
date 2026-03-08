@@ -1,10 +1,3 @@
-<thinking>
-The Medication Tracker Form is designed to help healthcare professionals monitor and track patient medication intake. It is meant to be used for recording medication schedules, dosages, and other relevant details. This form is meant to be used for patients who are taking multiple medications or have complex medication regimens. By using this form, healthcare professionals can quickly and easily access vital information about a patient's medication schedule, reducing the risk of medication errors and ensuring that patients receive the best possible care.
-
-Before filling out this form, please ensure that you are using it for its intended purpose and that it is not being used to duplicate effort or create unnecessary work. This form should only be used for recording medication schedules for patients who are taking multiple medications or have complex regimens.
-
-</thinking>
-
 # Medication Tracker Form - Help Guide
 ## Purpose
 The Medication Tracker Form is designed to help healthcare professionals monitor and track patient medication intake.

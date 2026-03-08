@@ -1,32 +1,3 @@
-<thinking>
-
-To determine the correct form purpose and fields, let's analyze the input YAML schema provided.
-
-The form is named "Move In Move Out Inspection Form" and is intended to collect information about the inspection process when a property is being moved in or out. This form will likely be used by landlords or property managers to inspect properties and record their findings.
-
-The form has several fields, including:
-- Move In Move Out Inspection: This field is likely where the inspector will provide a brief description of the property's condition at the time of move-in or move-out.
-- Notes: This field is for any additional comments or notes the inspector wants to make about the inspection.
-- Inspection Date: This field is for recording the date of the inspection.
-- Inspector: This field is for recording the name or ID of the inspector conducting the inspection.
-- Property Address: This field is for recording the address of the property being inspected.
-- Inspector Phone: This field is for recording the contact phone number of the inspector.
-- Inspector Email: This field is for recording the contact email of the inspector.
-- Inspection Status: This field is for recording the status of the inspection (Not Conducted, Conducted, or Pending).
-- Inspection Comments: This field is for recording any comments or notes about the inspection.
-- Recommendations: This field is for recording any recommendations or suggestions made by the inspector.
-- Issues: This field is for selecting any issues found during the inspection.
-- Deficiencies: This field is for selecting any deficiencies found during the inspection.
-- Recommendations and Comments: This field is for recording any additional comments or recommendations.
-- Move Out Date: This field is for recording the date the property was moved out.
-- Move Out Status: This field is for recording the status of the move-out inspection (Not Conducted, Conducted, or Pending).
-- Additional Comments: This field is for recording any additional comments or notes.
-- Additional Issues: This field is for selecting any additional issues found during the inspection.
-
-Given the form's purpose and fields, we can see that it's used to document the inspection process when a property is being moved in or out, and it captures information about the inspection date, status, and findings.
-
-</thinking>
-
 # Move In Move Out Inspection Form - Help Guide
 ## Purpose
 

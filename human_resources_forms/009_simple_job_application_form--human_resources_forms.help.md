@@ -1,7 +1,3 @@
-<thinking>
-The Simple Job Application Form is designed to collect information about a candidate's employment history in a concise and efficient manner. This form is meant to be used by candidates applying for a job within the company. It is intended to be completed by the candidate themselves, providing an opportunity for them to showcase their skills, experience, and job history. The form's data will be reviewed internally to evaluate the candidate's qualifications and assess their fit for the position they are applying for. It's essential to ensure that each section is filled out accurately and thoroughly to provide a fair evaluation.
-</thinking>
-
 # Simple Job Application Form - Help Guide
 ## Purpose
 The Simple Job Application Form is used by candidates to provide their job history and qualifications when applying for a job within the company.

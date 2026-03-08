@@ -1,5 +1,3 @@
-<thinking>...The form is used to communicate medical test results to patients and healthcare providers... This form is meant to be completed by healthcare staff to ensure accurate and standardized communication of test results... It's essential to ensure that all required fields are filled out to maintain the quality of care and patient safety... Please review the form carefully and ensure you understand the purpose and requirements...</thinking>
-
 # Medical Test Result Communication Form - Help Guide
 ## Purpose
 The Medical Test Result Communication Form is used to communicate medical test results to patients and healthcare providers in a standardized and secure manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # healthy_human_evaluation_form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from instructors about their interests, background, and qualifications. This form is designed for instructors who are considering participating in various programs or training sessions, and the data collected will help the organizers understand their needs and preferences.
-
-Before proceeding, please confirm that you are an instructor and not a participant, as this form is not intended for participants.
-
-Also, please note that some fields are optional and can be skipped if not applicable. However, completing all fields will provide more accurate and detailed information to the organizers.
-
-Before submitting the form, make sure to review all fields carefully and provide accurate information.</thinking>
-
 # Instructor Interest Form - Help Guide
 ## Purpose
 The Instructor Interest Form is designed to collect information from instructors about their background, qualifications, and interests. This data will help organizers understand their needs and preferences for participating in various programs or training sessions.

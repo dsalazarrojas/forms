@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to document and track grievances, which are complaints or problems that need to be addressed. This form is used to gather information and categorize grievances to help manage and resolve them in a structured manner. It's essential to ensure that each grievance is thoroughly documented and that its status is accurately reflected in the system to prevent duplication of effort and ensure that all relevant stakeholders are informed of the progress.
-
-Before filling out this form, please make sure that you have not already submitted a similar grievance. If you're unsure, double-check the system to avoid duplication.
-
-The form consists of several fields that help us understand the details of the grievance. Please fill out each field carefully to provide the necessary information.
-
-</thinking>
-
 # Grievance Intake Form - Help Guide
 
 ## Purpose

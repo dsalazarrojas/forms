@@ -1,11 +1,3 @@
-<thinking> 
-This form is a "Digital Health Literacy Survey" aimed at assessing the level of digital health literacy among its users. The form is designed to collect information from users about their demographics, health-related habits, and other health-related questions. The form is intended to be completed by individuals who are familiar with digital technologies and the internet. It is not designed to be a medical diagnosis tool, but rather a tool to understand the general level of digital health literacy among the population.
-
-The form is structured in a way that makes it easy to understand and complete, and each field has a clear label and explanation to guide the user through the process.
-
-Before starting the form, make sure to review the instructions and the fields to understand what is expected of you.
-</thinking>
-
 # Digital Health Literacy Survey - Help Guide
 ## Purpose
 The "Digital Health Literacy Survey" is designed to assess the level of digital health literacy among its users. This form is intended to collect information about your demographics, health-related habits, and other health-related questions.

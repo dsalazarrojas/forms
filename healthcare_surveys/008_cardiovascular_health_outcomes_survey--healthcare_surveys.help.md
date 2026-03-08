@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or healthcare professionals about cardiovascular health outcomes. Its purpose is to gather data on respondent demographics, medical history, lifestyle habits, and treatment information. 
-
-This form is intended for use by healthcare professionals who require patient data for research, medical record-keeping, or clinical decision-making. The data collected will contribute to a comprehensive understanding of cardiovascular health outcomes, helping to inform clinical practice and policy development.
-
-Before using this form, ensure that the information collected aligns with relevant medical regulations and patient privacy laws. Duplicate or redundant data collection should be avoided.
-
-</thinking>
-
 # Cardiovascular Health Outcomes Survey - Help Guide
 ## Purpose
 The Cardiovascular Health Outcomes Survey is a tool for healthcare professionals to collect data on patient demographics, medical history, lifestyle habits, and treatment information related to cardiovascular health.

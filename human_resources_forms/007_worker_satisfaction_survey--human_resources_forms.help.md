@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from workers in an organization on various aspects of their work experience, satisfaction, and communication within the company. This form aims to gather information that can help improve the work environment, communication, and overall well-being of employees. It is essential to ensure that the responses are honest and genuine, so please provide your authentic opinions.
-Before filling out this form, make sure to check if you have already completed it in the past to avoid duplication of effort. If you are unsure or have any questions, please feel free to contact the HR department.
-</thinking>
-
 # worker_satisfaction_survey - Help Guide
 ## Purpose
 The Worker Satisfaction Survey is designed to collect feedback and opinions from workers on various aspects of their work experience.

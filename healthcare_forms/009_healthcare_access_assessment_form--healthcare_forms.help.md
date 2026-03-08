@@ -1,18 +1,3 @@
-<thinking>
-
-The healthcare-access-assessment-form form is designed to collect information about a patient's healthcare needs and access to services. This form is likely used in a healthcare setting to assess the patient's requirements and create a personalized plan for their care. Before filling out this form, please ensure that you have the necessary permissions and clearance to access patient information.
-
-To complete this form, follow these steps:
-
-1. Fill in the form title to give a brief description of the form's purpose.
-2. Enter the patient's last name, first name, and date of birth.
-3. Provide the patient's email address and phone number.
-4. Enter the name of the healthcare provider.
-5. Identify any barriers the patient may be facing.
-6. Schedule the next and follow-up visit dates (if applicable).
-
-</thinking>
-
 # healthcare-access-assessment-form - Help Guide
 ## Purpose
 The healthcare-access-assessment-form is designed to collect information about a patient's healthcare needs and access to services in a healthcare setting.

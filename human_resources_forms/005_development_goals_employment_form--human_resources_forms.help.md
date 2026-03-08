@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from job candidates about their development goals and employment status. It is likely used to help hiring managers or HR departments assess the qualifications and fit of potential employees. The form is not intended for sensitive or confidential information and is designed for general use.
-The form does not appear to be a part of any specific business process or system, so it is assumed to be a standalone form for collecting and storing candidate information.
-</thinking>
-
 # Development Goals Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information from job candidates about their development goals and employment status.

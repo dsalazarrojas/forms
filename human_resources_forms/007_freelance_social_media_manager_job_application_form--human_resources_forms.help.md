@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 This form is designed to collect information from freelance social media managers applying for a job. It's essential to fill out this form accurately to increase the chances of being considered for the position. 
 The form includes fields for personal information, work experience, education, and skills. Please note that this form is for internal use only, and we kindly request that you do not submit duplicate applications. If you have previously submitted an application, please do not resubmit. 
 </thinking>

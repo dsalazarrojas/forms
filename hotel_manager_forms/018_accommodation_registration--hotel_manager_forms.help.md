@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form is designed to collect primary contact and group/event information for accommodation registration. The form consists of two main sections: "Primary Contact Information" and "Group and Event Details". The "Primary Contact Information" section collects the basic contact details such as name, email, phone number, and company/organization name. The "Group and Event Details" section is used to gather more specific information about the group/event, including the name, number of guests, check-in and check-out dates, and other requirements such as room preferences, meal plan, and special requirements. This form is meant to be used by groups and events to provide essential information for accommodation arrangements.
-
-</thinking>
-
 # Accommodation Registration - Help Guide
 ## Purpose
 This form is designed to collect primary contact and group/event information for accommodation registration, which is essential for accommodation arrangements.

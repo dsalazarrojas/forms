@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inside Sales Daily Calls Report Form - Help Guide
 
 ## Purpose

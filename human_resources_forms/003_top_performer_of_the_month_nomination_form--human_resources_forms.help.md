@@ -1,5 +1,3 @@
-<thinking>...the form is designed to recognize and appreciate the outstanding efforts and contributions of employees within a company or team. Its purpose is to identify individuals who have demonstrated exceptional performance, leadership, or teamwork, and to acknowledge their hard work and dedication. To ensure the nomination process is fair and unbiased, the form helps to prevent duplicate nominations by allowing administrators to review and validate the submissions. This way, the chosen top performers can be recognized and celebrated without duplication or unfair advantages. The form's data will help to maintain a record of past top performers, enabling future planning and decision-making based on their achievements. To complete this form, follow the instructions below.</thinking>
-
 # Top Performer Of The Month Nomination Form - Help Guide
 
 ## Purpose

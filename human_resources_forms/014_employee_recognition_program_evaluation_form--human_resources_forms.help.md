@@ -1,13 +1,3 @@
-<thinking>
-
-The employee recognition program evaluation form is used to gather information about the effectiveness of the employee recognition program. It is essential to understand that this form is meant to evaluate the program's strengths and weaknesses, as well as identify areas for improvement. The form is designed to be completed by managers and HR representatives to provide a comprehensive overview of the program's performance. 
-
-To ensure that this form is completed accurately and effectively, it is recommended that the questions are reviewed carefully before starting, and the answers should be based on factual information. 
-
-This form has 25 questions and is divided into different sections to make it easier to complete and understand. Each section provides information about a different aspect of the employee recognition program.
-
-</thinking>
-
 # employee_recognition_program_evaluation_form - Help Guide
 ## Purpose
 The employee recognition program evaluation form is used to assess the effectiveness of the employee recognition program and identify areas for improvement. This form is designed to be completed by managers and HR representatives to gather data on the program's performance and make informed decisions to enhance it.

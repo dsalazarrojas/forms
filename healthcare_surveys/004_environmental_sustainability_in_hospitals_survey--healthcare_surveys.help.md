@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about the environmental sustainability practices of hospitals. It is intended for healthcare professionals to evaluate and improve the sustainability of their hospital's operations. The form has multiple pages with various questions and fields that cover different aspects of environmental sustainability, including patient safety and wellness, hospital operations, facilities and equipment, and more. This form is part of a larger initiative to promote environmental sustainability in healthcare settings.
 
 # Environmental Sustainability In Hospitals Survey - Help Guide

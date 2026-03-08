@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Accommodation Form - Help Guide
 
 ## Purpose

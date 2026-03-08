@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Overall Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is a tool to measure overall employee satisfaction. The goal is to gauge employees' happiness and understanding of the company's mission, as well as their willingness to recommend the company to others. This information will help management understand areas of improvement and make informed decisions to enhance employee experience and satisfaction.

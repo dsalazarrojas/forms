@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect work information from employees. The form is likely used in an organizational context to gather details about an employee's job, work schedule, and other relevant work-related information. It could be used in HR, recruitment, or performance review settings. The form's layout and fields may seem extensive, but the goal is to collect as much relevant data as possible to better understand employee work situations.
-</thinking>
-
 # work_information_collection_form - Help Guide
 ## Purpose
 This form is intended to collect detailed information about an employee's work schedule, job title, department, and other relevant work-related details.

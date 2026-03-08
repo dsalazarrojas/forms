@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used by a healthcare organization to collect payment information from patients after receiving medical consultations. The form's purpose is to record and process payments for medical services. It is not a payment form for insurance claims or other non-payment related purposes.
-
-This form is used for payments related to medical consultations, not insurance claims or other purposes.
-
-To avoid duplication of efforts and ensure accurate data collection, it is recommended that this form be used only for medical consultations. This form should not be used for other types of payments, such as insurance claims, refunds, or other purposes not related to medical consultations.
-
-</thinking>
-
 # Medical Consultation Payment Form - Help Guide
 ## Purpose
 The Medical Consultation Payment Form is designed to collect payment information from patients after receiving medical consultations. This form helps healthcare professionals record and process payments accurately and efficiently.

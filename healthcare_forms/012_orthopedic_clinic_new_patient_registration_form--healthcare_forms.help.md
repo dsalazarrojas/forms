@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect new patient registration information for the orthopedic clinic. It appears to be a generic form with basic contact information fields and a field for medical history, which suggests it might be intended for initial patient intake before they see a doctor. The form does not appear to be highly specific to the orthopedic clinic or require any specialized knowledge.
-</thinking>
-
 # Orthopedic Clinic New Patient Registration Form - Help Guide
 ## Purpose
 This form is designed to gather basic contact and personal information from new patients.

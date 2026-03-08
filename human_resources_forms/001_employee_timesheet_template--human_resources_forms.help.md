@@ -1,7 +1,3 @@
-<thinking>
-We designed this form to gather employee workweek data in an organized and structured manner. This template captures the essential information needed for tracking employee work hours, including start and end dates and times, hours worked and billed, and other relevant details. To avoid confusion and ensure accuracy, please review each section carefully and fill out the form for each workweek worked. If you have any questions or concerns, feel free to reach out to your supervisor or HR department. Before starting, please ensure you've completed this form for every workweek worked to maintain accurate records.
-</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 This form is a standard template for tracking employee work hours for each workweek. It helps in maintaining accurate records and facilitates the calculation of hours worked and billed, as well as other relevant metrics.

@@ -1,7 +1,3 @@
-<thinking>
-The "precision_nutrition_research_initiative_application_form" is designed to gather information from researchers applying to the Precision Nutrition Research Initiative. This form helps in understanding the focus, funding, and status of various research projects. It is essential to ensure that the information provided is accurate and complete to facilitate the review process. Ensure that each field is filled out correctly to avoid delays or rejection of applications. If you have already filled out a similar application, please do not reuse information from previous applications; provide new and unique details for this form.
-</thinking>
-
 # precision_nutrition_research_initiative_application_form - Help Guide
 ## Purpose
 

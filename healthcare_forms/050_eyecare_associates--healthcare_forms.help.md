@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # eyecare_associates - Help Guide
 
 ## Purpose

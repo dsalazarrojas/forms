@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback from healthcare professionals on various aspects of patient care, staff support, and other related topics. The main purpose of this form is to monitor the effectiveness of healthcare services and identify areas for improvement. 
-
-The form consists of 25 fields, divided into various sections. Some fields are multiple-choice questions, while others require text or numerical input. 
-
-Before filling out the form, please ensure that you have reviewed and understood the instructions for each field. If you need clarification, please refer to the field explanations below.
-
-This form is intended for healthcare professionals to provide feedback and opinions on their experiences and perceptions. Please provide honest and constructive feedback to help improve patient care and services.
-
-</thinking>
-
 # HealthCare Professional Effectiveness Monitoring Form - Help Guide
 ## Purpose
 The HealthCare Professional Effectiveness Monitoring Form is designed to gather feedback from healthcare professionals on various aspects of patient care, staff support, and other related topics.

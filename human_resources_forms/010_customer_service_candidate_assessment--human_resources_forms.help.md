@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and easy to understand. I will review the provided form YAML and craft a help guide that explains each field, its purpose, and its requirements. I will ensure that the guide is organized and follows the specified Markdown structure.
-
-The Customer Service Candidate Assessment form is used to assess candidates for customer service roles within the organization. The form collects various details about the candidate, their contact information, work experience, availability, skills, references, and other relevant information. The form is used to evaluate candidates for potential hiring, and the assessment is typically completed by hiring managers or other authorized personnel.</thinking>
-
 # Customer Service Candidate Assessment - Help Guide
 ## Purpose
 The Customer Service Candidate Assessment form is used to evaluate candidates for customer service roles within the organization. This form is completed by candidates and assessors (hiring managers or other authorized personnel) to collect and document candidate information, qualifications, and other relevant details.

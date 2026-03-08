@@ -1,11 +1,3 @@
-<thinking>
-This form is a new hire orientation survey template used to track the onboarding process and gather information from new hires. To ensure that this form is completed accurately and effectively, please check that you are not duplicating information by checking the form's purpose, which is to assist in the orientation and onboarding process.
-
-Please note that the form is not meant to be a comprehensive survey but rather a tool to help new hires adjust to the company culture and get familiar with the company's onboarding process.
-
-The form has a mix of text, select one, select multiple, and email fields that need to be filled out accordingly.
-</thinking>
-
 # new_hire_orientation_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to guide new hires through the onboarding process and gather information about their experiences and needs.

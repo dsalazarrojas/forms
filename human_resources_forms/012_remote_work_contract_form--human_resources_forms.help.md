@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the remote_work_contract_form, which is intended to assist in managing and tracking remote work arrangements. The form's purpose is to provide a structured way to capture essential details about an employee's remote work contract, including employee information, job details, and work schedule. It's a simple form designed to be used by HR departments and administrators to streamline the process of managing remote work contracts.
-</thinking>
-
 # remote_work_contract_form - Help Guide
 ## Purpose
 The remote_work_contract_form is a tool used to manage and track remote work arrangements for employees. It collects information about employee names, job titles, job descriptions, work locations, start and end dates, remote work status, and work hours. This form aims to standardize the process of recording and reviewing remote work contracts.

@@ -1,10 +1,3 @@
-<thinking>
-Please note that this form is designed to gather information about a family's background, contact details, and treatment goals for family therapy sessions. This form will be used by healthcare professionals to assess and address the family's needs and concerns.
-
-The form collects information on the family's relationship status, contact person, insurance details, medical history, allergies, and therapy goals, frequency, and duration. Please ensure that all required fields are completed, and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Family Therapy Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about a family's background and treatment goals for family therapy sessions.

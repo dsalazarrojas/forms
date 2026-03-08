@@ -1,7 +1,3 @@
-<thinking>...
-The form is likely used by HR or IT departments to request authorization for employee badges, which are typically digital badges that represent an employee's role, department, or permissions within an organization. This form will help determine whether or not an employee is authorized for badge issuance. The form might be used to streamline the process of badge management, ensuring that only authorized individuals receive the necessary badges for their work roles and responsibilities. This form's fields will be used to gather relevant information about the employee and their manager, which will help in the approval process. It's essential to complete this form correctly to avoid any errors or delays in badge issuance. Please review the form carefully and make sure to fill out all required and optional fields accurately. If you're unsure about any field or its purpose, refer to this help guide for clarification. 
-</thinking>
-
 # Employee Badge Issuance Authorization Form - Help Guide
 
 ## Purpose

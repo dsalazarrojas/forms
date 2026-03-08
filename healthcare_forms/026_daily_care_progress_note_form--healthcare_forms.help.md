@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for healthcare professionals to document daily progress notes for patients or clients. The purpose of the form is to provide a clear and concise summary of the visit details, patient status, and care plan. The form aims to ensure that essential information is recorded accurately and consistently, facilitating better communication and decision-making within the care team.
-
-</thinking>
-
 # Daily Care Progress Note Form - Help Guide
 ## Purpose
 The Daily Care Progress Note Form is a comprehensive tool for healthcare providers to document patient progress, visit details, and care plans. It helps to ensure that accurate and timely information is shared among the care team, promoting efficient and effective care coordination.

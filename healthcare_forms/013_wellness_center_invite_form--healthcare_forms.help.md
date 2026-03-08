@@ -1,16 +1,3 @@
-<thinking>
-**Internal Reasoning and Validation**
-
-This form is used for inviting patients or contacts to visit a wellness center. The primary goal of this form is to gather essential information for scheduling and communication with the invitees. The following fields are crucial for this purpose:
-
-*   **Expected Visit**: This field is used to record the date of the expected visit. This is a key field as it helps in scheduling appointments and coordinating logistics.
-*   **Contact Method**: This field allows the user to select a contact method (email or phone). This ensures that the invitee is reached in their preferred mode of communication.
-*   **Follow-up**: This field indicates whether follow-up actions are required. This is a critical aspect of maintaining good communication with the invitee.
-*   **Visit Purpose**: This field is used to record the purpose of the visit. This helps in preparing for the visit, such as preparing necessary resources or information.
-
-The other fields in the form are optional and provide additional information that can be useful for further communication or planning. These include name, contact information, additional comments, and other details.
-</thinking>
-
 # wellness_center_invite_form - Help Guide
 ## Purpose
 The wellness center invite form is designed for inviting patients or contacts to visit a wellness center. It is used to gather essential information for scheduling and communication.

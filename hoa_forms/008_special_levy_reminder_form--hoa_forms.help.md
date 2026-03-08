@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or businesses regarding a special levy reminder, likely for billing, accounting, or legal purposes. The form should only be used for this specific purpose and not for other unrelated tasks. Please ensure that the form is not used for any other purpose, as it may contain sensitive information.
-
-The following sections are not required but can help clarify the form's intent and usage:
-
-* The form is likely used by accounting or legal professionals to remind clients or customers of outstanding payments or levies.
-* The form may be used to update the status of a levy, such as indicating that the payment has been made or that the account is delinquent.
-* The form can be used to track the date and time of acknowledgment of the levy, which may be important for legal or record-keeping purposes.
-</thinking>
-
 # Special Levy Reminder Form - Help Guide
 ## Purpose
 The Special Levy Reminder Form is designed to collect information from individuals or businesses regarding a special levy reminder. This form helps accounting or legal professionals to track outstanding payments, update the status of levies, and maintain accurate records.

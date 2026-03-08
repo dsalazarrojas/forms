@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request and manage equipment within the organization. This form should be used to submit a request for new equipment or to release existing equipment. It is essential to ensure that you have the necessary permissions to access this form and that your request is not a duplicate.
-</thinking>
-
 # Equipment Request And Release Form - Help Guide
 ## Purpose
 The Equipment Request And Release Form is used to request new equipment or release existing equipment within the organization. This form helps to streamline the process of managing equipment and ensures that all necessary information is captured for tracking and record-keeping purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients or their representatives to request access to their immunization records. The form is intended to be used by patients or their legal representatives to request access to their immunization records, which are typically stored in a secure and confidential database. This form will help the healthcare provider verify the identity of the requestor and ensure that the records are released to the correct person. 
-
-</thinking>
-
 # Immunization Record Request Form - Help Guide
 ## Purpose
 The Immunization Record Request Form is used to request access to a patient's immunization records. This form is for patients or their legal representatives who need to obtain a copy of their immunization records for personal or official purposes.

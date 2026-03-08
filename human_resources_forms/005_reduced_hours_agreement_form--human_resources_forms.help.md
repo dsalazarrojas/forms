@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to document an agreement between an employee and their manager regarding reduced hours of work. This form will help in keeping track of the employee's reduced hours, the agreement period, and any associated notes or approvals. It's essential to complete the form accurately to ensure that all necessary details are documented correctly. Ensure that the form is completed only when the employee's hours have actually been reduced, and not for other purposes. Please ensure that you complete the form for each employee who has reduced hours.
-</thinking>
-
 # Reduced Hours Agreement Form - Help Guide
 
 ## Purpose

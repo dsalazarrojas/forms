@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a property's onboarding status. The form is likely used by real estate professionals to gather data about a property's condition, features, and ownership information. It's possible that this form is used in conjunction with a larger onboarding process, such as when a property is being purchased or rented. The form's fields suggest that it's focused on both the physical property itself and the people involved in its ownership and management.
-
-</thinking>
-
 # property-onboarding-analysis-form - Help Guide
 ## Purpose
 This form is used to collect information about a property's onboarding status, including its address, condition, and ownership details. The form is designed to help real estate professionals assess the property's status and provide insights for potential buyers or renters.

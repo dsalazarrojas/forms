@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll provide a clear and concise help guide for the "t_l_l_temple_foundation_student_loan_repayment_program_employment_verification_employer_portion" form.</thinking>
-
 # t_l_l_temple_foundation_student_loan_repayment_program_employment_verification_employer_portion - Help Guide
 ## Purpose
 This form is used by the Temple Foundation's Student Loan Repayment Program to verify employment information for students who have taken out loans through the program. The form asks for details about the employer, job title, employment duration, and other relevant employment information to confirm the student's current employment status.

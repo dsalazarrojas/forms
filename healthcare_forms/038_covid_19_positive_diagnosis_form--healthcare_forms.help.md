@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from employees who have tested positive for COVID-19, including their personal details, test results, symptoms, and medical status. This form is intended to help track the spread of the virus and provide essential information for the management and prevention of the disease. To ensure data accuracy, please fill in the form completely and accurately. If you have already submitted a previous form, please do not resubmit. If you're unsure about any field or section, refer to the field-by-field explanation below.
-</thinking>
-
 # COVID 19 Positive Diagnosis Form - Help Guide
 ## Purpose
 This form is used to collect information from employees who have tested positive for COVID-19. It is essential for tracking and managing the spread of the virus and ensuring the well-being of other employees.

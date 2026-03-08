@@ -1,14 +1,3 @@
-<thinking>
-This form is used to document a student's absence from school due to a dental appointment or procedure. The purpose of this form is to ensure that the student's absence is legitimate and to gather information about the reason for the absence, the dates of the appointment, and any other relevant details. 
-
-This form is typically filled out by a parent or guardian of the student, and it is used by the school to keep track of student absences and ensure that the student does not fall behind in their studies due to unforeseen circumstances.
-
-The form is divided into several sections, each with its own set of fields. The fields are designed to collect specific information about the student's absence, and the user should fill out the form accurately and completely to ensure that the school has all the necessary information to process the absence correctly.
-
-The form can be filled out online or on paper, but it is recommended that it be completed online to ensure that the information is transmitted accurately and efficiently.
-
-</thinking>
-
 # Dental Excuse Form - Help Guide
 ## Purpose
 This form is used to document a student's absence from school due to a dental appointment or procedure.

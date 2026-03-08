@@ -1,11 +1,3 @@
-<thinking>
-This form is for customers registering for a nutrition program. 
-The form is used to collect basic contact information, address, and physical characteristics of the customer. 
-The purpose of this form is to ensure the nutrition program's team has accurate and up-to-date contact information and physical characteristics of the customers. 
-Please note that the form is not intended to be used for any other purpose than customer registration for the nutrition program. 
-Please ensure that you have checked if you have already registered a customer with the same email or contact phone number. 
-</thinking>
-
 # Nutrition Program Customer Registration Form - Help Guide
 ## Purpose
 The Nutrition Program Customer Registration Form is a form used to collect customer information and physical characteristics for the nutrition program. This form is intended for customers registering for the nutrition program and ensures the program's team has accurate and up-to-date contact information and physical characteristics.

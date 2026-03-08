@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents of sexual harassment that have occurred within an organization. This form is not intended to be a legal document, but rather a means to gather details of the incident and any actions taken. Please ensure you are filling out this form if you are a victim of harassment or if you have witnessed an incident. If you have already reported this incident, please do not fill out this form again.
-</thinking>
-
 # Sexual Harassment Complaint Form - Help Guide
 ## Purpose
 The Sexual Harassment Complaint Form is designed to collect information about incidents of sexual harassment that have occurred within the organization.

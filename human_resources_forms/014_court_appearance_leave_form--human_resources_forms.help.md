@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request leave from an employee to appear in court. This is likely for a specific court proceeding related to the employee's work or personal life. To complete this form, please ensure you have the necessary information at hand. The form should not be filled out on behalf of an employee without their consent. Ensure you're not submitting duplicate or outdated requests, as this may cause confusion and delay the process.
-</thinking>
-
 # Court Appearance Leave Form - Help Guide
 ## Purpose
 This form is used to request leave from an employee to attend a court proceeding.

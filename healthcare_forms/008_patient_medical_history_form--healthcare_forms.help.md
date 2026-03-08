@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive patient medical history form used for collecting vital information about a patient's health status. Its purpose is to gather data on a patient's personal characteristics, medical history, and lifestyle habits. 
-</thinking>
-
 # Patient Medical History Form - Help Guide
 ## Purpose
 The form is intended for patients to provide a detailed account of their health background, which will be used by healthcare professionals to inform diagnosis, treatment, and care planning.

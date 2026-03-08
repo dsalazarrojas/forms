@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patient data collection and consent purposes, especially during telehealth appointments. It's essential to ensure all required fields are filled in accurately and completely.
-</thinking>
-
 # Telehealth Intake And Signature Form - Help Guide
 ## Purpose
 This form is designed to collect essential patient information and obtain consent for telehealth services. It also includes a space for patients to sign and date their consent.

@@ -1,5 +1,3 @@
-<thinking>As a healthcare expert, I understand that the Personal Care Assistant Authorization Form is used to gather information from families and caregivers about their loved ones' medical conditions, care requirements, and emergency contacts. This form is essential for healthcare providers to have necessary documentation and authorization to provide care services. Before proceeding, please ensure that this form is not already completed for the same individual, and the information gathered is accurate and up-to-date.</thinking>
-
 # Personal Care Assistant Authorization Form - Help Guide
 ## Purpose
 The Personal Care Assistant Authorization Form is used to gather information from families and caregivers about their loved ones' medical conditions, care requirements, and emergency contacts. This information enables healthcare providers to offer personalized care services.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for HR to request access to research data for a specific employee. The purpose of this form is to ensure that HR can track and manage these requests in a structured and consistent manner. Before filling out this form, please make sure you have a valid reason for requesting access to an employee's research data and that the employee's privacy is respected. To avoid duplicates, check the HR Research Data Access Request Form database to see if a similar request has already been made.
-
-</thinking>
-
 # HR Research Data Access Request Form - Help Guide
 ## Purpose
 This form is for requesting access to an employee's research data. This data includes information about their work projects, department, and other relevant details.

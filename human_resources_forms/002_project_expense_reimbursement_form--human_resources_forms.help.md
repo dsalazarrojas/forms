@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to request reimbursement for project expenses. The purpose of this form is to gather information about the expense and to ensure that it is properly accounted for. 
-</thinking>
-
 # Project Expense Reimbursement Form - Help Guide
 ## Purpose
 The Project Expense Reimbursement Form is used to request reimbursement for expenses related to a specific project. This form helps track and manage project expenses and ensures that they are accurately accounted for in the organization's financial records.

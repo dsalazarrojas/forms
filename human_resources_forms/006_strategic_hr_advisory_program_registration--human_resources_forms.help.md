@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a Strategic HR Advisory Program, which is likely a program aimed at providing guidance and support to HR teams on strategic matters. To ensure relevance and non-duplication, it's essential to review the existing records before proceeding. This form might be part of a larger HR system, and it's crucial to double-check that the program is not already registered before creating a new one. 
-</thinking>
-
 # Strategic HR Advisory Program Registration - Help Guide
 ## Purpose
 The Strategic HR Advisory Program Registration form is designed to register a new HR advisory program, providing essential information about the program's details.

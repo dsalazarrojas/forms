@@ -1,9 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from hospitality industry job applicants. The form is used to gather contact details, work experience, education background, personal statement, and other relevant information from the applicants. The form is likely to be used by hiring managers or HR personnel in the hospitality industry to screen and select candidates for a job position. To avoid duplication, ensure that you have not submitted an application recently for this or a similar role within the company.
-
-Please note that some fields might be optional, but providing accurate and comprehensive information will increase your chances of being considered for the position.
-</thinking>
-
 # Hospitality Application Form - Help Guide
 ## Purpose
 The Hospitality Application Form is designed to collect information from job applicants in the hospitality industry. This form helps hiring managers and HR personnel to screen and select suitable candidates for a job position.

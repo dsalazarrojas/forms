@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to onboard new employees into the hotel's staff. This form is designed to collect essential information about new employees, including their personal details, contact information, and emergency contact information. The form is intended to be completed by the new employee themselves, and the information collected will be used for internal management and communication purposes. Please note that this form is not intended for public-facing use, as it contains sensitive personal and business information. It's essential to ensure that the form is completed accurately and thoroughly to avoid any potential issues with data accuracy.
-</thinking>
-
 # Hotel Staff Onboarding Form - Help Guide
 ## Purpose
 This form is designed to onboard new employees into the hotel's staff. It collects essential information about new employees for internal management and communication purposes.

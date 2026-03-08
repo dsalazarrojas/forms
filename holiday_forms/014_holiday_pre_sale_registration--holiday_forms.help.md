@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information from users for holiday pre-sale registration. This form is likely used by businesses or organizations to gather essential details from customers or clients before a holiday sale or promotion. The form's design and fields are intended to be user-friendly and easy to navigate, ensuring that users can quickly and accurately provide the required information. However, before proceeding, ensure that this form is relevant to your specific use case and that you are not duplicating efforts by reviewing the form's purpose and comparing it with other relevant forms. Also, make sure to review the fields below to determine which ones are required and which ones are optional to tailor your experience accordingly.
-</thinking>
-
 # Holiday Pre Sale Registration - Help Guide
 ## Purpose
 

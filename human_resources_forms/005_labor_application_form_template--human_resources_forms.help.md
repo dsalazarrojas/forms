@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Labor Application Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from potential applicants for labor or staffing positions within our organization. It helps us evaluate their qualifications and experience to consider their application for the available roles.

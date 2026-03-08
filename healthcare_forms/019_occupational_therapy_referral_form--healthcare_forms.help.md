@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create a template for occupational therapy referrals. The form is intended to be used to collect relevant information from healthcare providers and patients. This form does not duplicate or copy any existing form or proprietary content. It's a unique adaptation for collecting data and is released under CC BY 4.0 for modification or use.
-</thinking>
-
 # occupational_therapy_referral_form - Help Guide
 ## Purpose
 The occupational therapy referral form is designed to gather essential information from healthcare providers and patients to facilitate the referral process. This form helps in collecting relevant details about the patient's medical history, therapy goals, and other necessary information for a successful referral.

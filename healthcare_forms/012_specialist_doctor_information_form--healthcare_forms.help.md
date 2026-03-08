@@ -1,6 +1,4 @@
-> <thinking>How to create a user-friendly help guide for a complex form, while ensuring the form's purpose and requirements are met.</thinking>
-
-**<thinking>Understanding the form's purpose and requirements</thinking>**
+> ****
 
 The Specialist Doctor Information Form is a tool used to collect information from specialists who will be performing medical procedures. The form helps in gathering essential data about the provider's availability, medical specialties, licenses, and other crucial details.
 

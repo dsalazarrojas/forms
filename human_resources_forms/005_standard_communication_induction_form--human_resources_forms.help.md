@@ -1,9 +1,3 @@
-<thinking>
-This form is used for the standard communication induction process for new employees. To ensure that the onboarding process is smooth and effective, the form helps to collect necessary information about the employee and their reporting line. This information includes personal details, communication preferences, and onboarding status.
-
-Before filling out this form, please make sure you are completing it for the right purpose and not duplicating information. This form is intended for new employees, and your manager or HR representative will use the collected information to facilitate your onboarding process.
-</thinking>
-
 # Standard Communication Induction Form - Help Guide
 ## Purpose
 The Standard Communication Induction Form is used to collect information about new employees and their reporting line, ensuring a smooth and effective onboarding process.

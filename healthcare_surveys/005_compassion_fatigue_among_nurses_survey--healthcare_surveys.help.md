@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to help nurses provide honest and accurate feedback about their experiences with compassion fatigue. The survey is designed to assess levels of stress, burnout, and support among nursing professionals in various healthcare settings. By providing feedback on this form, nurses can help identify areas where healthcare organizations may need to improve support and resources to better care for their staff.
-
-Before starting the survey, please note that all responses will be kept anonymous and confidential.
-
-</thinking>
-
 # Compassion Fatigue Among Nurses Survey - Help Guide
 ## Purpose
 

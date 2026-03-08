@@ -1,5 +1,3 @@
-<thinking>...I need to create a user-facing help guide for the Job Satisfaction Survey form. This form is used to gather feedback from employees on their job satisfaction, including their overall job satisfaction, manager support, manager communication, department, and other relevant factors. The form should be completed by employees to provide an honest and accurate assessment of their job satisfaction. I will check for relevance and non-duplication in the form fields... </thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to help management understand the job satisfaction of employees and identify areas for improvement. The form is designed to gather feedback from employees on various aspects of their job, including their overall job satisfaction, manager support, manager communication, department, and other relevant factors.

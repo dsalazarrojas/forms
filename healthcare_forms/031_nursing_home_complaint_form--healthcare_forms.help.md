@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about complaints from nursing home residents or their families. It's intended to help the nursing home administration identify and address issues in a timely manner. To ensure that complaints are properly documented and resolved, it's essential that this form is filled out accurately and completely. Please note that this form should not be used to report general concerns or suggestions; it's meant for formal complaints only.
-</thinking>
-
 # Nursing Home Complaint Form - Help Guide
 ## Purpose
 The Nursing Home Complaint Form is a document used to report incidents or issues that have occurred in a nursing home. It's a tool for the facility's administration to gather information about the complaint and take necessary actions to resolve it.

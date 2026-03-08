@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hiv Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain patient consent for an HIV test, allowing healthcare professionals to collect essential information and ensure that patients understand the testing process. It is a crucial document that outlines the patient's rights, responsibilities, and expectations before undergoing the test.

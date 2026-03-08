@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the "Home Safety Checklist" form. This form is designed to help users assess the safety and potential hazards of their home. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation based on public survey topic metadata.
-
-The form is used to identify potential safety hazards in different rooms of a home, and to gather comments or special notes on each item.
-
-</thinking>
-
 # Home Safety Checklist - Help Guide
 ## Purpose
 The Home Safety Checklist form is a tool to help you identify potential safety hazards in your home and gather comments or special notes on each item.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Disease Prevention Policy Evaluation Form - Help Guide
 ## Purpose
 The Chronic Disease Prevention Policy Evaluation Form is designed to gauge the effectiveness and accessibility of current policies related to chronic disease prevention. It assesses the awareness, familiarity, and implementation of various policy types, as well as their impact on health equity and accessibility. This form aims to identify areas that require improvement and gather recommendations for future policy development.

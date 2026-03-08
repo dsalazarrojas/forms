@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to provide their personal and room information to access hotel amenities. The purpose of this form is to gather data for hotel staff to efficiently manage guest requests and provide a better experience. This form is typically used in a hotel or resort setting to streamline the process of accessing amenities such as Wi-Fi, extra towels, or special requests like late check-out or early check-in. To ensure accuracy, please note that this form should only be filled out by guests who have actually arrived at the hotel or have a confirmed booking.
-</thinking>
-
 # Hotel Amenties Access Form - Help Guide
 ## Purpose
 The Hotel Amenities Access Form is a tool for guests to provide their personal and room information to access hotel amenities. This form helps hotel staff to efficiently manage guest requests and provide a better experience.

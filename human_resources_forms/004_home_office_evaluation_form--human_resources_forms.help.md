@@ -1,11 +1,3 @@
-<thinking>
-
-The Home Office Evaluation Form is a tool used by employees to evaluate their work-from-home setup. This form is designed to assess an employee's work-from-home arrangement, including their user experience, name, contact information, and other relevant details. It's essential to complete this form accurately to ensure that your work-from-home arrangement is properly recorded and can be effectively managed.
-
-Before filling out the form, please review the form carefully to ensure you're providing the most accurate information. This form is meant to be filled out once for each work-from-home request, so please make sure you're submitting the latest version each time you complete this form.
-
-</thinking>
-
 # Home Office Evaluation Form - Help Guide
 ## Purpose
 The Home Office Evaluation Form is designed to collect information about your work-from-home arrangement for evaluation and management purposes.

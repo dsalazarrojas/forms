@@ -1,15 +1,3 @@
-<thinking>
-
-The Labor Rights Compliance Declaration Form is a crucial document that helps employees express their understanding and commitment to adhere to labor laws and regulations. This form serves as a declaration of an employee's rights and duties under these laws, ensuring that the employee is aware of their responsibilities and obligations. 
-
-The form is typically completed by an employee in conjunction with their supervisor or HR representative and is used to ensure compliance with relevant labor laws.
-
-The form is not a one-time task, and employees should update it regularly to reflect any changes in their employment status or work environment.
-
-This form is not a substitute for actual labor laws and regulations, but rather a tool to help employees understand and comply with them.
-
-</thinking>
-
 # Labor Rights Compliance Declaration Form - Help Guide
 ## Purpose
 The Labor Rights Compliance Declaration Form is a document that helps employees declare their understanding and commitment to adhere to labor laws and regulations. This form is used to ensure that employees are aware of their rights and duties under these laws.

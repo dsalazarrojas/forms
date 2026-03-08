@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to provide medical clearance for individuals who need to undergo a medical examination or treatment. It's essential that the issuer of this form signs and dates it to confirm that the individual has undergone the necessary medical examination or treatment. The form should only be completed by authorized healthcare professionals.
-
-Before starting, please ensure you have the relevant information and documentation required to fill in the form accurately. If you're unsure about any part of the form, please consult the issuer or medical professional responsible for your care.
-
-This form has multiple fields for different types of information, but it's crucial to ensure that all fields are correctly filled in and signed. Please take your time and fill in the form accurately.
-
-To avoid duplication, please use this form only for the specific medical examination or treatment being sought.
-
-</thinking>
-
 # Medical Clearance Form - Help Guide
 ## Purpose
 This form is used to provide medical clearance for individuals who need to undergo a medical examination or treatment.

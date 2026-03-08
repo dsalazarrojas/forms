@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the condition of hotel rooms during inspections. This form will likely be used by hotel staff or management to assess the cleanliness, maintenance, and amenities of a room. I will assume that this form is used for internal record-keeping and reporting purposes, and that the fields are designed to provide a standardized and structured way of collecting this information. I will also assume that the form is intended to be completed by authorized staff members, who are familiar with the hotel's policies and procedures. I will base my explanation on the fields provided in the YAML configuration, but I will try to provide a clear and concise explanation for each field, without inventing unsupported business logic.
-</thinking>
-
 # Hotel Room Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about the condition of hotel rooms during inspections, allowing hotel staff or management to assess and report on the cleanliness, maintenance, and amenities provided in each room.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Emergency Incident Form - Help Guide
 ## Purpose
 

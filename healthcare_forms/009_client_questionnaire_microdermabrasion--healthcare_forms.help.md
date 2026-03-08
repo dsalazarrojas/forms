@@ -1,15 +1,3 @@
-<thinking>
-To prevent duplication and ensure the form is used correctly, let's quickly review the form's purpose and potential issues that could arise if not filled out properly.
-
-This client questionnaire is designed to gather information about the client, their skin type, and their medical history to better understand their needs and provide effective microdermabrasion treatment. 
-
-To use the form correctly, each field should be filled in according to the guidelines provided in the help guide. For instance, the "Contact number" field should ideally be a number that can be used for follow up or communication with the client. 
-
-Please note, the "Skin type" field is a select one field, meaning the client can only choose one option from the list provided. Ensure that the client understands this and chooses the correct option according to their skin type. Similarly, the "Expected outcome" field should be a clear and concise statement of what the client hopes to achieve from the treatment. 
-
-The "Consent to treatment" field should be filled out with "True" if the client is willing to proceed with the treatment, otherwise "False". 
-</thinking>
-
 # CLIENT QUESTIONNAIRE Microdermabrasion - Help Guide
 
 ## Purpose

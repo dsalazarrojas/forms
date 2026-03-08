@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information for medical purposes. It includes fields for medical questionnaires, medical history, patient identifiers, medical procedures, medical test results, and contact details. The form is intended for healthcare professionals to gather relevant patient data for medical treatment and care. Before proceeding, please ensure you have the necessary permissions and approvals to collect and handle patient data in accordance with HIPAA regulations. If you're not sure about the purpose or usage of this form, please consult your supervisor or medical authority.
-</thinking>
-
 # QeMedicalQuestionnaire - Help Guide
 ## Purpose
 The QeMedicalQuestionnaire form is designed to collect patient information for medical purposes, including medical questionnaires, medical history, patient identifiers, medical procedures, medical test results, and contact details.

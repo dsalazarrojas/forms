@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the release of medication to patients in healthcare settings. It is intended for use by healthcare staff to gather information on patient satisfaction, whether an incident occurred, and other relevant details. Please ensure this form is used only once for each medication release to avoid duplication of effort and ensure accurate data collection.
-</thinking>
-
 # Medication Release Feedback Form - Help Guide
 ## Purpose
 This form is intended for healthcare staff to collect feedback on the release of medication to patients. It helps gather information on patient satisfaction, incident occurrence, and other relevant details.

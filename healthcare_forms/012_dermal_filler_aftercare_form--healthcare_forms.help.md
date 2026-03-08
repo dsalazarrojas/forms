@@ -1,12 +1,3 @@
-<thinking>
-This form is for recording and managing follow-up appointments, contacts, and instructions for dermal filler procedures. The form ensures that patients receive proper aftercare and follow-up guidance, improving the overall patient experience and ensuring successful treatment outcomes.
-
-This form is intended for patients who have undergone dermal filler procedures and need to be scheduled for follow-up appointments. The form's design and questions help healthcare professionals gather essential information about the patient's recovery, any symptoms or complications, and necessary follow-up instructions.
-
-The form's fields are designed to collect detailed and specific information about the patient's needs and schedule, ensuring that they receive the best possible care and attention from healthcare professionals.
-
-</thinking>
-
 # Dermal Filler Aftercare Form - Help Guide
 ## Purpose
 The Dermal Filler Aftercare Form is designed to help healthcare professionals gather essential information about patients who have undergone dermal filler procedures. This information ensures that patients receive proper aftercare and follow-up guidance, which is crucial for successful treatment outcomes.

@@ -1,13 +1,3 @@
-<thinking>
-
-The Staff Holiday Gift Selection form is used by employees to choose their holiday gift preferences and details for the gift-giving occasion. The form is designed to collect information from employees about their gift preferences, delivery preferences, and other relevant details. 
-
-Before filling out the form, please ensure that you have reviewed the holiday gift budget and policies in your organization to ensure that your choices align with these guidelines. 
-
-If you have filled out this form previously, you may still need to review and update your preferences before submitting this form.
-
-</thinking>
-
 # Staff Holiday Gift Selection - Help Guide
 ## Purpose
 The purpose of this form is to help employees select and manage their holiday gifts. It allows employees to express their gift preferences, confirm delivery details, and provide any additional notes or comments.

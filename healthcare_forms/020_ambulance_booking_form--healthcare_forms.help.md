@@ -1,15 +1,3 @@
-<thinking>
-We will create a help guide for an "Ambulance Booking Form" that provides clear instructions on how to complete the form. This form is intended for patients, family members, or caregivers to book medical transportation services. The form is divided into several sections, each with specific fields to collect relevant information. The form requires the following fields to be filled out for a booking to be processed:
-- Patient information (name, date of birth, gender)
-- Contact information (name, phone number, email)
-- Pickup information (date, time, location)
-- Destination information (location, address, ZIP code)
-- Medical needs assessment (mobility status, level of care, medical condition)
-- Payment information (payment type, insurance company, policy number)
-- Special requirements (any special needs or instructions)
-The form will also ask for additional comments or any other important information that may be required.
-</thinking>
-
 # Ambulance Booking Form - Help Guide
 ## Purpose
 The Ambulance Booking Form is a comprehensive tool designed to gather essential information for medical transportation services. It ensures that all necessary details are collected accurately and efficiently to provide the best care for the patient.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Aid Risk Assessment Form - Help Guide
 ## Purpose
 The First Aid Risk Assessment Form is used to assess the risk level of first aid equipment and supplies in a facility. This information helps identify potential risks and enables the facility to take necessary measures to ensure a safe working environment.

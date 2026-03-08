@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for hospitals to evaluate their transition to green energy, specifically to understand their current energy usage, potential energy sources, and sustainability initiatives. This form will help hospitals identify areas of improvement and create a plan to transition to a more sustainable energy source. Before proceeding, please confirm that this form is relevant to your hospital's energy management and sustainability goals. Additionally, please note that this form is not intended for duplicate evaluations, if you have already completed this form, you can simply refer to your previous responses.
-</thinking>
-
 # hospital_green_energy_transition_evaluation_form - Help Guide
 ## Purpose
 This form is designed to help hospitals evaluate their current energy usage and identify potential areas for improvement. It will guide hospitals in creating a plan to transition to a more sustainable energy source.

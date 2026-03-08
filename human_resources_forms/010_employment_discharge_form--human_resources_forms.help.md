@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of documenting an employee's employment discharge. The purpose of this form is to gather necessary information for administrative and HR purposes. This form should only be completed if the employment relationship has been terminated or if an employee has resigned. Please ensure that the form is completed accurately and thoroughly to avoid duplication of work.
-</thinking>
-
 # Employment Discharge Form - Help Guide
 ## Purpose
 The Employment Discharge Form is used to document the termination or resignation of an employee. This form is necessary for administrative and HR purposes to track employee discharges.

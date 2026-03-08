@@ -1,7 +1,3 @@
-<thinking>
-The Student Disability Verification Form is used to verify a student's disability status and provide information about their accommodation needs. This form helps to ensure that students with disabilities receive appropriate support and services during their academic journey. To ensure accurate and helpful responses, please review each field carefully and fill out this form as accurately as possible. Before starting, check if this form has been submitted by your institution previously, or if it's part of an existing application or process.
-</thinking>
-
 # Student Disability Verification Form - Help Guide
 ## Purpose
 The Student Disability Verification Form is used to collect information about a student's disability status, type, and accommodation needs. This form helps the student's institution to understand their requirements and provide necessary support.

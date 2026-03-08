@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will create a user-facing help guide for the "electronic_medical_record_access_consent_form" in Markdown format. I will include a brief internal reasoning block to explain the form purpose and checks for relevance and non-duplication.
-</thinking>
-
 # electronic_medical_record_access_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from healthcare providers for electronic medical record access. It is crucial for ensuring that healthcare providers' records are kept secure and their consent is obtained before accessing their information. This form should only be used when it is necessary to access a healthcare provider's medical records.

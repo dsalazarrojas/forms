@@ -1,13 +1,3 @@
-<thinking>
-
-The "Employee Leave Request Approval Form" is designed to help employees submit a request for time off from work, including vacation, sick leave, or other types of absences. This form helps to streamline the request process, ensuring that all necessary information is collected and reviewed by the approver before the leave is approved.
-
-To ensure that all requests are properly reviewed and processed, please note that this form should only be used for new leave requests and not for existing leave requests that have already been approved or denied.
-
-Before completing this form, please make sure you have the necessary information and approvals from your manager or HR representative.
-
-</thinking>
-
 # Employee Leave Request Approval Form - Help Guide
 ## Purpose
 The "Employee Leave Request Approval Form" is used to submit a request for time off from work, including vacation, sick leave, or other types of absences. This form helps streamline the request process, ensuring that all necessary information is collected and reviewed by the approver before the leave is approved.

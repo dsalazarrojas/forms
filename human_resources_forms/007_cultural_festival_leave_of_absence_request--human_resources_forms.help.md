@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a cultural festival leave of absence from work. It is essential to complete this form accurately and thoroughly to ensure that your leave request is processed efficiently. Please note that this form is not meant to be duplicated or re-submitted if it has already been filled out.
-</thinking>
-
 # Cultural Festival Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a cultural festival leave of absence from work. You can use it to provide necessary details about your absence, including your contact information, the specifics of your leave, and any supporting documents you may need to attach.

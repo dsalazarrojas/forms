@@ -1,11 +1,3 @@
-<thinking>
-
-The form is used to conduct daily screenings for COVID-19 among employees. It is designed to collect information about employee health and travel status to help prevent the spread of the virus. To ensure accurate and helpful data collection, it is essential to complete the form carefully and truthfully.
-
-Before proceeding, check that you have not already completed this form today. If you have any doubts or concerns, please consult your HR representative or supervisor.
-
-</thinking>
-
 # Daily Company Covid 19 Screening - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your health and travel status to help prevent the spread of COVID-19 within the company.

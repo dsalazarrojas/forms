@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be a Health and Wellness Program Report form, which is used to report on the progress of health and wellness programs within an organization or institution. This form captures information about the program, including its name, type, location, and goals. It also includes fields for tracking outcomes, challenges, and recommendations. The form is primarily used for reviewing and assessing the program's effectiveness and making necessary adjustments. 
-
-To determine if this form is necessary for your organization, consider the following:
-- If you are responsible for managing health and wellness programs within your organization.
-- If you need to track the progress and effectiveness of these programs.
-
-If you have already completed a similar form, please review the updated fields and ensure that this form meets your specific needs.
-
-</thinking>
-
 # Health and Wellness Program Report Form - Help Guide
 ## Purpose
 The Health and Wellness Program Report Form is designed to gather information about health and wellness programs within an organization or institution. It helps in tracking and reviewing the progress and effectiveness of these programs.

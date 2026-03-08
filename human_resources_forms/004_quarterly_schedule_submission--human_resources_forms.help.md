@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that the form "Quarterly Schedule Submission" is intended to collect information from employees about their quarterly schedules, including their weekly and quarterly plans, risk notes, and employee details. The purpose of this form is to gather relevant data for management purposes, such as monitoring employee productivity and identifying potential risks. To ensure accurate completion, please note that some fields are marked as required or optional. Please fill in the form accordingly.</thinking>
-
 # Quarterly Schedule Submission - Help Guide
 ## Purpose
 The "Quarterly Schedule Submission" form is a collection of fields that gather information from employees about their quarterly schedules, plans, and other relevant details. This form helps management track employee productivity and identify potential risks.

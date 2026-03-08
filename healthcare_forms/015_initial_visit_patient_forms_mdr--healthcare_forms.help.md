@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Initial Visit Patient Forms (MDR) are completed accurately and consistently to provide quality care and maintain patient records. It's crucial to review this form carefully and avoid duplicating or omitting essential information. Please follow this guide to understand the form's purpose and requirements.
-</thinking>
-
 # Initial Visit Patient Forms (MDR) - Help Guide
 ## Purpose
 The Initial Visit Patient Forms (MDR) are used to collect essential patient information during the first visit to a medical provider. This form helps the provider to understand the patient's medical history, conditions, and needs, enabling them to provide personalized care and treatment.

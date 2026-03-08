@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for recording and summarizing daily charges, which may be related to billing or financial transactions. The purpose of the form could be to collect data for accounting, finance, or administrative tasks. The exact use case may vary depending on the organization's business needs. It's possible that this form is intended to be completed by someone who is responsible for managing or reviewing financial transactions on a daily basis. There might be multiple users completing this form, and the data collected could be used for reporting, analysis, or decision-making. The form appears to be designed for single-page completion, with fields for various types of information, such as dates, numbers, text, and selections. The required fields may indicate that some information is essential for the form's purpose. The optional fields might be used for additional context or notes.
-</thinking>
-
 # Daily Charge Summary Form - Help Guide
 
 ## Purpose

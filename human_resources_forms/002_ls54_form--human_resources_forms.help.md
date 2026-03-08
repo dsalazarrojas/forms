@@ -1,15 +1,3 @@
-<thinking>
-The LS54 Form is a form used to record and manage information about employee terminations. It is intended to be used by HR professionals and administrators to gather necessary data for tracking and reporting. 
-
-This form is part of the "human_resources_forms" category, which means it is related to HR-related tasks and procedures. The form is designed to be filled out by HR personnel and administrators who need to document and analyze employee termination data. This information can be used for various purposes such as compliance with labor laws, tracking employee turnover rates, and identifying trends in termination reasons.
-
-Before starting to fill out the form, please ensure that you are completing it for the correct purpose and that all required fields have been filled out. If you have already completed a similar form in the past, it is best to use this as a guide and fill out this form again to ensure consistency in your documentation.
-
-When filling out this form, please note that some fields may be optional but are still important for accurate data tracking. Make sure to complete all required fields accurately and provide as much detail as possible for optional fields.
-
-This guide will walk you through each field of the form and provide explanations for each one. If you are unsure about a specific field, please refer to your HR manual or consult with your supervisor.
-</thinking>
-
 # LS54 Form - Help Guide
 ## Purpose
 The LS54 Form is used to document and manage employee termination information. It is designed to be filled out by HR personnel and administrators to record details about employee terminations.

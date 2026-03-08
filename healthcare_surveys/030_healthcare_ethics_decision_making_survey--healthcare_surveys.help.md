@@ -1,9 +1,3 @@
-<thinking>
-This form was created using AI to generate a survey on healthcare ethics decision making. The goal of this survey is to understand healthcare professionals' attitudes and behaviors when making decisions that involve challenging situations, patient-reported outcomes, handling conflicts, and technology use in patient care. The survey aims to identify areas where healthcare professionals may face difficulties in making decisions and how technology can be used to support or hinder patient care.
-
-To ensure the form's purpose is relevant to your needs, please review the sections below to help you understand what each field means.
-
-</thinking>
 # Healthcare Ethics Decision Making Survey - Help Guide
 
 ## Purpose

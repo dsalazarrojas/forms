@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Specialist Doctor Access Form, let's analyze the provided form schema and identify its purpose, required steps, and field explanations.
-
-The purpose of this form is to allow users to request an appointment or share medical history with a specialist doctor. The form likely serves as a digital entry point for healthcare services, enabling users to provide essential information necessary for a specialist doctor to assess their needs and provide appropriate care.
-
-Before filling out this form, we should check if we have already filled out a similar form for the same purpose, and also if the information we're about to fill out is up-to-date and accurate.
-
-</thinking>
-
 # Specialist Doctor Access Form - Help Guide
 ## Purpose
 This form is designed to help you request an appointment or share medical history with a specialist doctor. Fill out this form to provide essential information for your specialist doctor to assess your needs and provide proper care.

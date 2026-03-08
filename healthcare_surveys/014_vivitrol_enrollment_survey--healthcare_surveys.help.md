@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about patient details, medical history, consent, follow-up outreach, patient phone, patient email, treatment eligibility, notes, and assigned user and date for the Vivitrol program. It is likely used to assess patient readiness and suitability for the program. Please verify that the information provided is accurate and up-to-date.
-</thinking>
-
 # Vivitrol Enrollment Survey - Help Guide
 ## Purpose
 This form is used to gather information about patients who are potential candidates for the Vivitrol program. The collected data is used to assess patient readiness and suitability for the program.

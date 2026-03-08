@@ -1,9 +1,3 @@
-<thinking>
-A Pediatric Consent Form is a document that parents or guardians must sign to provide consent for a procedure or treatment on their child. This form is used to ensure that the parent or guardian understands and agrees to the procedure or treatment being performed on their child. 
-The form typically includes information about the child's name, address, date of birth, and emergency contact details. It also includes details about the procedure or treatment, such as the name of the medical provider and a description of the procedure. 
-Before creating this form, it is essential to ensure that a similar form is not already in use within the organization. 
-</thinking>
-
 # Pediatric Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for procedures or treatments performed on their child.

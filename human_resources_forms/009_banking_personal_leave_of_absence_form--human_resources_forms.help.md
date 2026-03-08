@@ -1,7 +1,3 @@
-<thinking>This form is used to request and track personal leave of absence for employees in the company. It is essential to use this form to ensure that all employees are properly documented and approved for their leave of absence to avoid any conflicts or misunderstandings. Before filling out this form, please ensure you have reviewed and understood the company's leave policies and procedures.
-
-Please note that all fields marked as "required" must be filled out for the form to be complete and processed.</thinking>
-
 # Banking Personal Leave Of Absence Form - Help Guide
 ## Purpose
 

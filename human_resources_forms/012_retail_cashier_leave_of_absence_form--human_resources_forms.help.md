@@ -1,8 +1,3 @@
-<thinking> 
-The Retail Cashier Leave Of Absence Form is used to record a leave of absence request from a retail employee. It captures essential information about the employee's leave period, including the start and end dates of the leave, the type of leave, and any other relevant details. This form helps to streamline the process of tracking and managing employee leaves, ensuring that all necessary information is captured in one place. When filling out this form, ensure that you are requesting a leave of absence that is actually happening or has already happened to avoid duplication of effort.
-
-</thinking>
-
 # Retail Cashier Leave Of Absence Form - Help Guide
 ## Purpose
 The Retail Cashier Leave Of Absence Form is a tool used to document leave of absence requests from retail employees. It helps to gather all necessary information regarding the employee's leave period, including start and end dates, type of leave, and other relevant details.

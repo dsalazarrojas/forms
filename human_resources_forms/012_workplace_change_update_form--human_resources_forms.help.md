@@ -1,6 +1,3 @@
-<thinking> 
-This form is used by HR personnel or employees to update information about a workplace change. This could be a change of location, department, or manager. The form helps to keep track of updates and ensure that all changes are documented and approved by the right people. Before filling out this form, please check to ensure that this is the correct form and that you are not duplicating an existing change. </thinking>
-
 # Workplace Change Update Form - Help Guide
 ## Purpose
 The Workplace Change Update Form is used to document and manage changes to employee work details. Fill out this form to update information about a change of location, department, or manager, and get manager approval for the changes.

@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It seems to be used for evaluating digital health adoption strategies. The form appears to be designed for users to provide information about a project, including user and project details, health outcomes, and methods of data collection and analysis. The fields seem to be focused on the digital health strategies and methods used, as well as evaluation criteria. This form likely aims to collect data for research or evaluation purposes, perhaps to inform or improve healthcare practices. I'll now create a help guide based on this understanding.</thinking>
-
 # Digital Health Adoption Strategy Evaluation Form - Help Guide
 
 ## Purpose

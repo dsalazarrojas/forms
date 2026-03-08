@@ -1,5 +1,3 @@
-<thinking>...checking the form for relevance and non-duplication...</thinking>
-
 # Orthodontic Intake Form Template - Help Guide
 
 ## Purpose

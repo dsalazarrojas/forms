@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to confirm and finalize dental appointments, including payment details. This form is likely used by healthcare professionals to process patient payments and gather feedback after an appointment.
-The form should be completed by the patient or authorized healthcare staff member.
-Each field in the form will be explained below.
-</thinking>
-
 # dental_appointment_check_out_form - Help Guide
 ## Purpose
 The dental_appointment_check_out_form is used to confirm and finalize dental appointments, including payment details. This form is completed by the patient or authorized healthcare staff member to process patient payments and gather feedback.

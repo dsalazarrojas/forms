@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to assess a patient's suitability for intravenous vitamin C treatment. The form is designed to collect essential information from the patient, including their details, preferred appointment time, and any additional notes. The form is not intended to replace a medical professional's evaluation but rather to aid in the decision-making process.
-  Before completing this form, ensure that the patient is aware of the specific requirements and procedures involved in intravenous vitamin C treatment. This form should only be filled out once the patient has been informed and has consented to proceed.
-  This form should not be used to diagnose or treat any medical condition. If you are not a medical professional, please do not fill out this form without first consulting a qualified healthcare expert.
-</thinking>
-
 # intravenous_vitamin_c_assessment - Help Guide
 ## Purpose
 The intravenous vitamin C assessment form is used to collect information from patients that will be used to determine their suitability for intravenous vitamin C treatment. This form is not intended to replace a medical professional's evaluation, but rather to aid in the decision-making process.

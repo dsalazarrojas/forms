@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to book an appointment with an acupuncturist. The form is used to gather patient information, schedule an appointment, and provide a brief health summary. The form will likely be used by healthcare professionals to assess the patient's needs and prepare for the appointment. The form's design ensures that all necessary information is collected in a clear and concise manner, making it easier for patients to provide accurate and detailed information. The form's fields are carefully crafted to ensure that all required information is collected without overwhelming the patient with unnecessary questions. This form does not duplicate any other form in the organization's database, ensuring that patient information is collected once and accurately reflected in their records.
-</thinking>
-
 # Acupuncture Appointment Form - Help Guide
 ## Purpose
 The Acupuncture Appointment Form is a tool for patients to book an appointment with an acupuncturist. The form is used to gather important information about the patient, including their contact details, appointment preferences, and a brief health summary.

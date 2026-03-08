@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from users on the effectiveness of our health archive system. The form is meant to understand user experience and gather data to improve the system.
-This form is not a mandatory part of any user's journey, but rather an optional way for users to share their thoughts and opinions. Users should only complete this form if they have something to contribute or want to provide feedback.
-Please only complete this form once. If you have already filled out this form, your responses will be recorded.
-</thinking>
-
 # Health Archive Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to help us improve our health archive system by collecting your feedback and suggestions. Please take a few minutes to fill out this form to share your thoughts and opinions.

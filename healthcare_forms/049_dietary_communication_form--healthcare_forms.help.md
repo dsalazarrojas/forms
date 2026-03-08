@@ -1,11 +1,3 @@
-<thinking>
-Please note that the form is used for patients to communicate their dietary allergies, medical conditions, and other relevant information to healthcare providers. This form is likely part of a larger healthcare system, and the information gathered here will be used to inform treatment decisions and patient care. 
-
-The form has multiple pages, each covering different aspects of patient information. The fields on this form are designed to be filled out by patients or their caregivers, and the information is used by healthcare providers to make informed decisions about the patient's care.
-
-To avoid duplicating information, please fill out this form only once. If you have already completed this form, you can simply submit it again without making any changes.
-</thinking>
-
 # Dietary Communication Form - Help Guide
 ## Purpose
 This form is designed to collect patient information about their dietary allergies, medical conditions, and other relevant details. This information will be used by healthcare providers to inform treatment decisions and patient care.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to calculate the Body Mass Index (BMI) of the user based on their weight and height, providing a quick and convenient way for users to get an estimate of their BMI category. The form will guide users through a series of questions to gather necessary information and provide a calculated BMI value at the end. This form is intended for general use and should not be used as a diagnostic tool for medical professionals. Please note that the calculated BMI is for reference only and should not be used to make any medical decisions without consulting a healthcare expert.
-
-The purpose of this form is to collect demographic information about the user and calculate their BMI. However, it's essential to acknowledge that BMI is not a perfect measure and can vary depending on several factors, such as muscle mass and bone density. 
-
-This form is not meant to be a substitute for professional medical advice or diagnosis.
-
-</thinking>
-
 # Body Mass Index Calculator - Help Guide
 ## Purpose
 

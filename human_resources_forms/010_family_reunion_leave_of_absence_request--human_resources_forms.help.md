@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist employees in understanding the purpose and completion of the Family Reunion Leave Of Absence Request form. Before proceeding, please note that this guide assumes you are accessing the form as an employee requesting leave for a family reunion. If you are a manager reviewing leave requests, please refer to the manager-facing guide for detailed instructions on how to process and approve leave requests.
-
-The Family Reunion Leave Of Absence Request form is used to submit a formal request for a family reunion-related absence from work. Employees can use this form to inform their manager of their planned leave and ensure that all necessary details are captured.
-</thinking>
-
 # Family Reunion Leave Of Absence Request - Help Guide
 ## Purpose
 The Family Reunion Leave Of Absence Request form is used to submit a formal request for a family reunion-related absence from work. This form helps ensure that all necessary details are captured, and your manager is informed of your planned absence.

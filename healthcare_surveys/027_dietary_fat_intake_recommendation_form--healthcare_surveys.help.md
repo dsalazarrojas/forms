@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a patient's dietary fat intake goals and sources. The purpose of this form is to collect data that will help healthcare professionals provide personalized recommendations for fat intake management. This form is likely to be used in a healthcare setting to assess a patient's current fat intake habits and provide guidance on achieving healthy fat intake levels. The form will help healthcare professionals evaluate the patient's daily fat goals, sources of fat from various food categories, and other factors that might impact their fat intake.
-
-</thinking>
-
 # Dietary Fat Intake Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a patient's dietary fat intake goals and sources to help healthcare professionals provide personalized recommendations for fat intake management.

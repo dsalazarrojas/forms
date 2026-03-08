@@ -1,5 +1,3 @@
-<thinking>...This form is designed for healthcare professionals to collect information and authorization for counseling sessions. This form should be used to schedule and manage counseling appointments, ensuring that all necessary details are captured for session planning and follow-up. When filling out this form, please ensure that you are providing accurate and relevant information, and that all fields are completed only once to prevent data duplication...</thinking>
-
 # counseling_appointment_authorization_form - Help Guide
 ## Purpose
 The counseling appointment authorization form is used to collect information and authorization for counseling sessions.

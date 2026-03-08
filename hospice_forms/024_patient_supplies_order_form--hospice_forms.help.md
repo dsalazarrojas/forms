@@ -1,9 +1,3 @@
-<thinking>...To ensure the form is correctly filled out and accurate, please note the following:
-The form's purpose is to collect information about a patient's supply needs, including any medical supplies, services, or other items required. 
-The form should only be completed for patients who require medical attention or supplies. 
-Please ensure that you are only duplicating efforts by not filling out the form if you have already received the same information or have completed a similar form previously. 
-...?</thinking>
-
 # Patient Supplies Order Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's supply needs, including any medical supplies, services, or other items required for their care.

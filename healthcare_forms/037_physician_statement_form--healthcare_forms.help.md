@@ -1,9 +1,3 @@
-<thinking>
-This form is part of the healthcare domain and is designed to collect information from physicians regarding medical conditions, treatment plans, diagnoses, patient names, medical specialties, and medical histories. The form is likely to be used by healthcare professionals for documentation, research, or administrative purposes.
-The form does not contain any fields that require special attention or sensitive information that would necessitate additional security measures. However, the collected data may be subject to confidentiality and HIPAA regulations. To ensure compliance, please ensure that you have the necessary permissions and follow your organization's policies.
-The form has a simple structure with multiple pages, each containing text fields. This design allows for a flexible and user-friendly experience. There is no indication of any complex logic or dependencies between fields.
-</thinking>
-
 # physician_statement_form - Help Guide
 ## Purpose
 This form is designed to collect information from physicians regarding medical conditions, treatment plans, diagnoses, patient names, medical specialties, and medical histories.

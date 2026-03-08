@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Daily Clinical Evaluation Form is designed to collect essential information from healthcare professionals to evaluate the clinical status of patients on a daily basis. This form helps in gathering crucial data about the patient's medical condition, medication administration, and medical history, which is used for further analysis and decision-making.
 
 </thinking>

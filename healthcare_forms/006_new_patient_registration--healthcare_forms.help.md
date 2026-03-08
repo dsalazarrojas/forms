@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "new_patient_registration", is a crucial part of the healthcare system, as it allows patients to provide essential information about themselves and their medical practices. The form is used to register new patients in the system, ensuring that their data is accurately recorded and easily accessible for healthcare professionals.
-
-Before proceeding, please ensure you have the necessary information and permissions to complete this form. This form is not intended to be completed multiple times, so please ensure that you are not duplicating any existing patient records.
-
-</thinking>
-
 # new_patient_registration - Help Guide
 ## Purpose
 This form is used to register new patients in the system, collecting essential information about the patient, their medical practice, and contact details.

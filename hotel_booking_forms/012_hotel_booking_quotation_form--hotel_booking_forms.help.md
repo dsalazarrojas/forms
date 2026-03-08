@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for users to create a detailed hotel booking quotation for a client. The form's primary purpose is to collect essential information from the client to provide an accurate quote for their hotel booking needs. This form will guide users through the process of filling out the form, explaining each field's significance and requirement status. The form's design and structure have been created based on the provided YAML schema, which defines 25 fields in total. Each field is labeled and explained in a clear and concise manner to ensure users understand the information required for a successful hotel booking quotation.
-</thinking>
-
 # Hotel Booking Quotation Form - Help Guide
 ## Purpose
 The Hotel Booking Quotation Form is designed to collect essential information from clients for the purpose of providing an accurate quote for their hotel booking needs.

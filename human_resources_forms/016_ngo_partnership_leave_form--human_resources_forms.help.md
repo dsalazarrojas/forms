@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to manage leave requests from employees and their partners, allowing for efficient handling of leave applications, approvals, and related notes. It is crucial to ensure that all necessary fields are completed accurately to avoid any misunderstandings or delays in the leave approval process. The form can be filled out by employees and their partners, and will help in keeping a record of leave requests and approvals for easy reference.</thinking>
-
 # NGO Partnership Leave Form - Help Guide
 ## Purpose
 The NGO Partnership Leave Form is a tool for NGOs to manage leave requests from employees and their partners. It helps in keeping a record of leave requests, approvals, and related notes, ensuring a smooth and efficient process.

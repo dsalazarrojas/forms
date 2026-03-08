@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback and opinions from employees on their experience with the company. The purpose of this form is to understand what employees value and appreciate about the company, what they dislike, and whether they would recommend the company to others. This form is intended for internal use within the company, and the feedback collected will help inform business decisions and improve employee engagement. Before completing this form, please ensure that you have not already provided feedback on the company in the past, as this form is meant to be a new and separate opportunity to provide feedback.</thinking>
-
 # employee_experience_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from employees on their experience with the company.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to be used for smoke alarm authorization, which is an important safety feature to ensure the well-being of occupants in a property. This form is likely used to verify the authorization of a smoke alarm system in a residential or commercial property. The form's fields are designed to collect relevant information about the property and its owner, including type, owner's name, phone number, email, address, installation date, and any additional notes. The fields are not all required, but rather optional, which may mean that the form is not mandatory for all properties but rather a supplement to the standard process. It's essential to ensure the correct completion of this form for accurate and efficient record-keeping. Please ensure the form is not duplicated or submitted with incorrect information.
-
-</thinking>
-
 # Smoke Alarm Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize and document the details of a smoke alarm system in a property.

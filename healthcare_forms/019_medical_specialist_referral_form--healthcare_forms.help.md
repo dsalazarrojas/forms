@@ -1,11 +1,3 @@
-<thinking>...
-
-As a healthcare form designer and technical writer, my primary goal is to create a user-friendly guide that helps end-users understand the purpose and functionality of the "Medical Specialist Referral Form". This form is designed for healthcare professionals to refer patients to specialized medical services or treatments. The form collects essential information from the patient, referring doctor, and specialist to facilitate smooth and efficient referrals.
-
-I will review the form layout, analyze each field's purpose, and craft clear explanations for each section. I will ensure that the guide is concise, practical, and easy to follow.
-
-</thinking>
-
 # Medical Specialist Referral Form - Help Guide
 ## Purpose
 The "Medical Specialist Referral Form" is a tool for healthcare professionals to refer patients to specialized medical services or treatments. It helps gather necessary information from the patient, referring doctor, and specialist to facilitate efficient referrals and ensure that the patient receives the best possible care.

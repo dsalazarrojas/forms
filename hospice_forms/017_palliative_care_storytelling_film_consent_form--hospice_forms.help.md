@@ -1,13 +1,3 @@
-<thinking>
-This form will be used to gather information for a palliative care storytelling project, where patients and their caregivers share their personal stories and experiences through video recordings. The form is designed to collect all necessary details about the patient, the storyteller, and the film, including the patient's consent to record, share, and publish their story. 
-
-The purpose of this form is to ensure that patients and their loved ones are aware of and agree to the terms of their story being recorded, shared, and published. This includes consent to delete the story in the future.
-
-To complete this form, the user will be asked to select the patient, provide information about the storyteller, and details about the film, including the title, description, date, time, location, video file, and video title. The user will also be asked to provide their consent to record, share, and publish the story, as well as their contact information and other details about themselves. 
-
-The form is designed to be completed by the patient or their representative, and will help ensure that all necessary information is gathered to create a high-quality, respectful, and impactful video storytelling project.
-</thinking>
-
 # Palliative Care Storytelling Film Consent Form - Help Guide
 ## Purpose
 

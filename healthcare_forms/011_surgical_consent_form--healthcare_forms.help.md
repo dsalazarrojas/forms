@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for collecting patient information, medical history, and consent for surgeries. It should only be used for patients who are scheduled for a surgical procedure. The form includes sections for patient identification, emergency contact information, medical history, and acknowledgment of the procedure. The purpose of this form is to gather necessary information for the medical team to ensure the patient's safety and well-being during the surgery.
-
-</thinking>
-
 # Surgical Consent Form - Help Guide
 ## Purpose
 The Surgical Consent Form is a document that helps the medical team gather essential information about the patient, including their identification, medical history, and acknowledgment of the procedure. This form is designed to be used for patients who are scheduled for a surgical procedure.

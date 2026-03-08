@@ -1,7 +1,3 @@
-<thinking>
-This help guide is generated based on the provided YAML file and is intended to guide end-users in completing the laboratory result form. This form is designed to collect information about test results and specimen analysis from clinical laboratories. The purpose of this form is to streamline the process of reporting test results and to improve communication between healthcare professionals. It is crucial to ensure that the form is used correctly to maintain accurate and reliable information. Please ensure that you have read this guide carefully before starting the form. If you have any questions or concerns, do not hesitate to reach out to the form creators at form@gic.mx.
-</thinking>
-
 # Laboratory Result Form - Help Guide
 ## Purpose
 The Laboratory Result Form is designed to collect information about test results and specimen analysis from clinical laboratories. This form is used to streamline the process of reporting test results and improve communication between healthcare professionals.

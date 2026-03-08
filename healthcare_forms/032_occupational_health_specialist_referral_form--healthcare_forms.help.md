@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information for occupational health specialist referrals. It's meant for healthcare providers to document patient information, medical history, and referral details for further treatment. This form ensures that all necessary information is collected and stored for future reference. Please ensure this form is being used in the correct context and not for any other purpose. 
-
-</thinking>
-
 # occupational_health_specialist_referral_form - Help Guide
 ## Purpose
 The occupational health specialist referral form is used to gather and document patient information, referral details, and healthcare provider information for further treatment and referral processes.

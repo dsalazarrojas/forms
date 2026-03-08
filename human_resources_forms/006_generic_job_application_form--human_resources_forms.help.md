@@ -1,7 +1,3 @@
-<thinking>
-We are building a form to collect general information about a job applicant. The form is designed to be used for various job openings within the company. It will help us to understand the applicant's background, work experience, and other relevant details that will help in the hiring process. To ensure that the form is filled out correctly, please make sure to fill it out accurately and thoroughly. The form should only be filled out once per job application. If you have already filled out this form for a different job, do not fill it out again. Please provide truthful information and attach any necessary documents that support your application. The form will be reviewed internally to verify the information provided. Thank you for your cooperation.
-</thinking>
-
 # Generic Job Application Form - Help Guide
 
 ## Purpose

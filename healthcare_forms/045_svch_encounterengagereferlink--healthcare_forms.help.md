@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information about patient encounters, including the date and time of the visit, the provider involved, the patient's demographic information, and the facility where the visit took place. This form is intended for use in healthcare settings where patient referrals are common. It should only be used for patients who have been referred to a facility for care, and not for new patients. To ensure consistency, please review the form carefully before completing it.
-</thinking>
-
 # svch_encounterengagereferlink - Help Guide
 ## Purpose
 This form is used to record patient referral information for healthcare facilities.

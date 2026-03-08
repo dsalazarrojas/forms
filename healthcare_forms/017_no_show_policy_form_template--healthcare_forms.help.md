@@ -1,10 +1,3 @@
-<thinking>
-The no_show_policy_form_template form is designed to document a patient's no-show policy. This form is used to capture information about a patient's business information, customer information, and policy details. It also allows providers to select the reasons for the patient's no-show. The form is primarily used to maintain accurate and up-to-date patient records and to provide a consistent no-show policy across the healthcare organization.
-
-Before filling out this form, ensure that the patient's no-show status is not already documented in their chart. To complete this form, follow the steps below.
-
-</thinking>
-
 # no_show_policy_form_template - Help Guide
 
 ## Purpose

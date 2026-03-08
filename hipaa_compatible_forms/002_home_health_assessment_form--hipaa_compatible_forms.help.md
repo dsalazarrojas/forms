@@ -1,13 +1,3 @@
-<thinking>
-As a form designer and technical writer, I will carefully review the provided YAML form structure and create a user-facing help guide that explains the form's purpose, completion instructions, and field-by-field explanations. The form, titled "home_health_assessment_form", appears to be a comprehensive assessment form for patients' medical history and healthcare provider information. The fields cover various aspects of the patient's medical condition, healthcare provider's details, and other relevant information.
-
-Upon reviewing the form structure, I note that the fields seem to be designed for both collecting patient data and healthcare provider information. To ensure accuracy and clarity, I will carefully address the field-by-field explanations and provide guidance on filling out each field.
-
-Please note that some fields' labels might be unclear or not well-defined, so I will use my best effort to provide a reasonable interpretation of the field's intent.
-
-After reviewing the form, I will create the help guide in the required Markdown structure.
-</thinking>
-
 # home_health_assessment_form - Help Guide
 ## Purpose
 

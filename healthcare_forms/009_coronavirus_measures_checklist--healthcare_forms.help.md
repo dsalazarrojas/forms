@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information on various aspects related to the COVID-19 pandemic, including symptoms, travel history, and contact information. It is crucial to fill out this form accurately and thoroughly to ensure that the relevant authorities and healthcare providers receive the necessary information to take appropriate actions. 
-
-The form should only be filled out by individuals who have been diagnosed with or are suspected to have COVID-19, or those who have been in contact with someone who has been diagnosed with the virus.
-
-Please note that this form might be used for screening purposes, and some answers may be subject to change as the situation evolves.
-
-If you have any questions or concerns, please contact your healthcare provider or the relevant authorities for guidance.</thinking>
-
 # coronavirus_measures_checklist - Help Guide
 ## Purpose
 This form is designed to collect information about your COVID-19 symptoms, travel history, and contact information. It will help healthcare providers and authorities assess your situation and provide guidance on necessary measures to take.

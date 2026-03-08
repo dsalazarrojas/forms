@@ -1,8 +1,3 @@
-<thinking>
-This form is for editors to apply for projects with our channel. The purpose of this form is to gather information about the editor's experience, skills, and availability for potential projects. The form is divided into several fields that ask for specific information about the editor, such as their experience with video editing, their skills, and their availability for projects. By completing this form, the editor will be able to showcase their qualifications and experience to be considered for project work.
-To avoid duplication, please make sure you have not already applied or are not currently working for us before submitting this form.
-</thinking>
-
 # Editor Application Form Template - Help Guide
 ## Purpose
 The Editor Application Form Template is a tool designed to help editors apply for projects with our channel.

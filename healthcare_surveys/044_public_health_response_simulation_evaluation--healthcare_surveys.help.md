@@ -1,9 +1,3 @@
-<thinking>
-
-The "public_health_response_simulation_evaluation" form is a tool used to collect general feedback and ratings from users on exercises 01 and 02. It is designed to assess the performance and progress of users in response to public health scenarios. This form is intended to be completed by users who have gone through a simulation exercise and are being evaluated on their response. The form should only be completed by users who have actually undergone the simulation.
-
-</thinking>
-
 # public_health_response_simulation_evaluation - Help Guide
 ## Purpose
 The "public_health_response_simulation_evaluation" form is used to collect feedback and ratings from users on exercises 01 and 02, which simulate real-world public health scenarios. This form helps to assess user performance and progress.

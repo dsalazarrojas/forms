@@ -1,7 +1,3 @@
-<thinking>
-The COVID 19 Vaccine Registration Form is designed to gather crucial patient information for the vaccination process. This form ensures the collection of accurate and complete data for the healthcare system, enabling efficient and secure vaccination services. The purpose of this form is not only to register patients but also to ensure that all necessary precautions are taken before administering the vaccine. It is essential to complete this form accurately to avoid any potential errors or complications that may arise during the vaccination process.
-</thinking>
-
 # COVID 19 Vaccine Registration Form - Help Guide
 ## Purpose
 This form is designed to gather personal and vaccination details from patients. It is used to collect and store data for healthcare systems, allowing for efficient and secure vaccine administration.

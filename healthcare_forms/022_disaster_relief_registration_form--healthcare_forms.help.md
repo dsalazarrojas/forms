@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # disaster_relief_registration_form - Help Guide
 
 ## Purpose

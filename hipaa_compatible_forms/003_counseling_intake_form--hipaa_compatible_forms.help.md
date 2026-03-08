@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist end-users in understanding the purpose and requirements of the Counseling Intake Form. The form is intended to collect relevant information from clients, including contact information, medical history, and insurance details. This form will help ensure that clients receive the necessary care and attention they require. Please review the following instructions carefully to ensure that you complete the form accurately and thoroughly.
-</thinking>
-
 # Counseling Intake Form - Help Guide
 ## Purpose
 The Counseling Intake Form is a crucial document that helps us understand your background, medical history, and contact information. This form will be used to create a comprehensive profile of you and your needs, ensuring that we provide you with the best possible care and support.

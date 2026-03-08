@@ -1,7 +1,3 @@
-<thinking>...This form is for nominating employees for holiday recognition awards. It allows users to submit nominations for team members who have made significant contributions or gone above and beyond during a holiday season or other specific time frame. The form is designed to be completed by the employee's nominator, providing information about the nominated employee's achievements and reasons for recognition. To be eligible for nomination, the employee must be a real person, and the nominator must provide a valid email address for the nominated employee.
-
-Please note that this form is not meant to be used for anonymous or fictional employees. All submissions will be reviewed and verified before being considered for recognition.</thinking>
-
 # Holiday Recognition Awards Nomination - Help Guide
 ## Purpose
 The purpose of this form is to submit nominations for holiday recognition awards. This form is used to provide information about the achievements of employees who have made significant contributions during a holiday season or other specific time frame.

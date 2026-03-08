@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to help individuals understand and potentially reduce their sedentary behaviour. Sedentary behaviour is a type of physical inactivity that can lead to various health issues. This form aims to collect information on an individual's daily habits and activities to provide insights on their sedentary behaviour. To ensure the most accurate and helpful results, please answer the questions truthfully and thoroughly.
-
-Before proceeding, please note that this form does not contain any sensitive or personal information. The form is for educational purposes only.
-
-</thinking>
-
 # Sedentary Behaviour Questionnaire - Help Guide
 ## Purpose
 The Sedentary Behaviour Questionnaire is designed to collect information on daily habits and activities that can help individuals understand their sedentary behavior. The form is for personal use only and aims to provide insights on potential physical inactivity.

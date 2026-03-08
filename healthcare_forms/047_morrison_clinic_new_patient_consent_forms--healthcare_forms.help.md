@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is relevant to the target audience and not duplicated. This form is intended for new patients arriving at Morrison Clinic, and it's a consent form for gathering their information and emergency contact details. This form is likely to be filled by patients or their legal representatives, and the purpose is to collect essential information for providing care and emergency response in case of an accident or other unforeseen medical situation. Let's confirm this form is not duplicated in the existing library, and we should tailor the explanation to the specific audience.</thinking>
-
 # morrison_clinic_new_patient_consent_forms - Help Guide
 
 ## Purpose

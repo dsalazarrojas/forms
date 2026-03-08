@@ -1,9 +1,3 @@
-<thinking>Before we create a user-facing help guide for the "Restricted Antibiotic Request Form", let's consider the purpose of this form and the potential issues it might address. This form is likely used in a healthcare setting to manage requests for antibiotics, ensuring that they are prescribed and used appropriately. The form might help healthcare providers and pharmacists assess the necessity of antibiotics, prevent overuse, and promote responsible antimicrobial stewardship.
-
-The form seems to be designed to collect information about the patient, the request, and the healthcare provider's approval. It might also be used to track and manage antibiotic use, reduce resistance, and improve patient safety.
-
-Let's ensure that the guide covers the essential points and explains each field clearly, avoiding unnecessary complexity and jargon.</thinking>
-
 # Restricted Antibiotic Request Form - Help Guide
 ## Purpose
 The "Restricted Antibiotic Request Form" is designed to help healthcare providers assess and manage requests for antibiotics in a responsible and safe manner. This form is used to gather information about the patient, the request, and the healthcare provider's approval, promoting antimicrobial stewardship and patient safety.

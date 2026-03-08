@@ -1,12 +1,3 @@
-<thinking>
-Checking the form purpose:
-- The form is designed for healthcare professionals to gather information and track the progress of patients who are part of support programs (e.g., emotional support, peer group support, etc.)
-- The form is used during the discharge process from these programs
-- The goal is to ensure proper handover of care and provide necessary information for ongoing care
-- It is essential to fill out this form thoroughly and accurately to ensure continuity of care
-
-</thinking>
-
 # Cancer Support Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge process of patients from support programs, ensuring a smooth transition of care and providing necessary information for ongoing support. It is crucial to complete this form accurately and thoroughly to guarantee the best possible outcomes for patients.

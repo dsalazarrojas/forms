@@ -1,9 +1,3 @@
-<thinking> 
-The purpose of this form is to collect data on healthcare access, affordability, and quality in a global context. This survey aims to gather insights on factors influencing healthcare access and equity, which can be used to inform policy and resource allocation decisions. 
-Please note that the survey is not intended to be completed by the same individual multiple times. Respondents' data will be kept anonymous to ensure their confidentiality. 
-This form is intended for completion by a specific individual who has never completed it before. If a user has already completed the survey, they will not be able to submit the same data again. 
-</thinking>
-
 # Global Health Equity Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect data on healthcare access, affordability, and quality in a global context to inform policy and resource allocation decisions.

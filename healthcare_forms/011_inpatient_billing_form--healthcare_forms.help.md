@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for inpatient billing purposes. It is intended for healthcare providers to submit billing information for services provided to patients. The form will help ensure that all necessary information is collected and accurately recorded for billing and payment processing.
-
-Before using this form, please ensure that you are familiar with the relevant healthcare billing policies and procedures. If you are unsure about any of the information required, please consult with your healthcare team or contact our billing department for guidance.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Inpatient Billing Form - Help Guide
 ## Purpose
 This form is used to collect information for inpatient billing purposes. It is intended for healthcare providers to submit billing information for services provided to patients.

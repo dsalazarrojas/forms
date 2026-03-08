@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Internship Referral Form - Help Guide
 ## Purpose
 This form is used to refer a potential candidate for a restaurant internship position. It helps us to track and evaluate candidates' referrals from our staff members.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants who are interested in training or employment opportunities with the organization. This form will help the organization's HR team to collect and assess the applicant's contact information, employment history, skills, and work experience. It's essential to fill out this form accurately and completely to ensure that the organization has a clear understanding of your background and qualifications.
-</thinking>
-
 # Training And Employment Application - Help Guide
 ## Purpose
 This form is used to collect information from applicants who are interested in training or employment opportunities with the organization.

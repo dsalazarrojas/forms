@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from individuals who have participated in a community health program, evaluating the program's effectiveness and areas for improvement. The goal is to understand the respondent's perspective on the program's quality, relevance, and overall impact on their daily life. The form should be completed by the respondent, who can be a participant, staff member, volunteer, or other individual involved with the program.
-
-</thinking>
-
 # Community Health Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from community health program participants on their experience with the program. It will help us understand what works and what doesn't, and identify areas for improvement to better serve the community.

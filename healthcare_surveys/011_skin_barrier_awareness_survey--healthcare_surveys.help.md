@@ -1,11 +1,3 @@
-<thinking>
-We are creating a form to assess skin barrier awareness among individuals. This form is intended to gather information about the individual's skin type, concerns, habits, and knowledge related to skin health and care. The goal is to understand how individuals perceive and manage their skin health. To ensure accurate and relevant data collection, please note that:
-
-* This form should only be completed by individuals aged 18 years or older.
-* Responses should not be duplicated if the individual has already completed this form in the past.
-* All fields marked as required are indeed mandatory for form completion.
-</thinking>
-
 # Skin Barrier Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your skin health awareness, habits, and concerns. Your responses will help us understand how to better support your skin health.

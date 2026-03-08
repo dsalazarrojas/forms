@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for human resources or payroll management tasks, possibly for updating information related to employee payments or team member status changes. Given the field types and labels, it appears to be used for updating or modifying data on a specific team member's payment details, possibly as part of an HR-related process. However, without more specific information about the organization or company using this form, it's difficult to provide a definitive explanation. If you have any additional context or details about the purpose of this form, I can offer more tailored advice.
-</thinking>
-
 # Team Member Payment Update Form - Help Guide
 ## Purpose
 This form is designed to update information related to team member payments or status changes. Please use it to accurately and efficiently modify the relevant data.

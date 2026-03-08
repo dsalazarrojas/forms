@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about the measures taken to prevent the spread of the coronavirus. It is designed to be completed by individuals who have been in contact with someone diagnosed with COVID-19 or have traveled to a country with a high risk of transmission. The form's purpose is to gather relevant details about the individual's health status, travel history, and other factors that may impact their risk of infection. This form is not intended for individuals who have not had direct contact with someone diagnosed with COVID-19 or have not traveled to a country with a high risk of transmission. Please complete this form carefully and accurately to help public health officials assess the risk of infection.
-
-</thinking>
-
 # coronavirus_measures_checklist - Help Guide
 ## Purpose
 The coronavirus measures checklist is a form designed to collect information about the measures taken to prevent the spread of the coronavirus. It is intended for individuals who have been in contact with someone diagnosed with COVID-19 or have traveled to a country with a high risk of transmission.

@@ -1,11 +1,3 @@
-<thinking>
-
-A Night Supervision Task Checklist is used to ensure the safety and well-being of individuals under supervision during a night shift. It helps supervisors verify that required tasks are completed and monitor incidents that may have occurred during the shift. This form is used to gather information on the tasks finished, any incidents that happened, and the supervisor's verification.
-
-The form is not a substitute for a thorough incident report or a detailed shift summary. It is a streamlined tool to quickly capture essential information for administrative and regulatory purposes.
-
-</thinking>
-
 # Night Supervision Task Checklist - Help Guide
 ## Purpose
 The Night Supervision Task Checklist helps supervisors ensure that required tasks are completed and monitor incidents that may have occurred during the night shift, promoting a safe and secure environment for those under supervision.

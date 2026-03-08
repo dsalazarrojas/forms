@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about employee performance and progress on a monthly basis. It is used to track the progress and performance of employees, particularly in the context of teams and projects. This form is likely used by a manager or supervisor to assess the performance of their team members, track progress, and identify areas for improvement. The form is typically completed by employees, but it is intended to be used by managers and administrators to monitor and analyze performance data.
-
-</thinking>
-
 # Monthly Performance Reporting Form - Help Guide
 ## Purpose
 The Monthly Performance Reporting Form is a tool used to collect and track employee performance and progress on a monthly basis.

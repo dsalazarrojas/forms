@@ -1,25 +1,3 @@
-<thinking>
-The form purpose and fields should be reviewed for relevance and duplication to ensure that the form is designed correctly. Upon reviewing the inputSchema, it appears that the form is intended to collect information about a home inspection, specifically:
-
-* The address of the property being inspected
-* The name of the person filling out the form
-* Their contact information (phone and email)
-* The date of the inspection
-* Any additional notes or comments
-* The name of the home inspector performing the inspection
-
-There doesn't appear to be any obvious duplication or redundancy in the fields. The form seems to be collecting necessary information for a home inspection. However, it's worth noting that the "phone" field is marked as optional, which may be an oversight. In a typical home inspection scenario, contact information would usually be required.
-
-It's also worth noting that the "home_inspector" field is a select multiple field, which suggests that the user may be selecting multiple options from a list of available home inspectors. This could be clarified to ensure that users understand that they can select one or more home inspectors from the available options.
-
-The form's purpose is likely for a home inspection process, where the user is required to provide their contact information, the address of the property, and the date of the inspection, with additional notes or comments optional. The home inspector(s) performing the inspection are also a required field.
-
-After reviewing the fields, it seems that the form is mostly designed for data collection and reporting, with the home inspection date being a key field in the form. The date is likely used for tracking and referencing the inspection event.
-
-The form's title and labels suggest that the form is for checking in or reporting on the home inspection status.
-
-</thinking>
-
 # home-inspection-check-in-form - Help Guide
 
 ## Purpose

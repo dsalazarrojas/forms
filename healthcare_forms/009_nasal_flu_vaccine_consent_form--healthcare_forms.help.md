@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to obtain informed consent from patients or their authorized representatives for the administration of the Nasal Flu Vaccine. This form is designed to be filled out by the patient or their representative before the vaccine is administered. The form is a part of the patient's medical record and serves as a legal document to confirm that the patient or their representative has provided consent for the administration of the vaccine.
-
-When completing this form, please ensure that the form is filled out accurately and thoroughly, taking into consideration the specific requirements and guidelines of your facility or organization.
-
-The form includes fields for various personal and medical information, including date of consent, patient name, date of birth, contact number, address, allergies, medical conditions, insurance ID, medical group, emergency contact, patient signature, healthcare provider, vaccine administered by, vaccination date, and vaccine doses.
-
-Before filling out this form, please review the fields carefully and ensure that you understand the information required for each field.
-
-</thinking>
-
 # Nasal Flu Vaccine Consent Form - Help Guide
 
 ## Purpose

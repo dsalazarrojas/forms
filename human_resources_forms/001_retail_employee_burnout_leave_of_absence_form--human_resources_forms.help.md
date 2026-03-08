@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Employee Burnout Leave Of Absence Form - Help Guide
 ## Purpose
 This form is designed to help retail employees request and document their leave of absence (LOA) for burnout. A LOA is a period of time off work due to exhaustion, depression, or other mental health concerns that are not work-related. This form will help the store management team assess and address the employee's situation, ensuring a smooth transition and support for the employee during their time off.

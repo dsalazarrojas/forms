@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the wellbeing of a healthcare workforce. This form will likely be used by healthcare administrators or HR personnel to assess the overall wellbeing of healthcare workers, such as doctors, nurses, and other medical staff. It's crucial to understand that this form is designed to gather information about the workers' physical and mental health, stress levels, and other related factors. This form should not be used for other purposes, and the information collected will be used to identify areas where support or interventions are needed to improve the workers' wellbeing.
-
-</thinking>
-
 # healthcare_workforce_wellbeing_evaluation_form - Help Guide
 ## Purpose
 The healthcare workforce wellbeing evaluation form is used to assess the overall wellbeing of healthcare workers, focusing on physical and mental health, stress levels, and other relevant factors.

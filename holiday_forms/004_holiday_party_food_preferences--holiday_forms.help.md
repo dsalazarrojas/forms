@@ -1,22 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to understand the purpose of the form and its relevance. The form is called "Holiday Party Food Preferences" and is likely used to collect information from people about their food preferences and restrictions for a holiday party. This form may be used by party planners or hosts to gather information about guests' dietary needs and make sure they have enough options for everyone.
-
-Upon analyzing the form's YAML structure, we can see that it has the following fields:
-
-- **Food Preferences**: a text field where guests can provide their food preferences
-- **RSVP**: a dropdown list of options to choose from (Attending/Not Attending)
-- **Dietary Restrictions**: a multiple-select field where guests can choose their dietary restrictions (Vegetarian, Vegan, Gluten-free, Dairy-free)
-- **Allergies**: a multiple-select field where guests can choose any allergies they have (Peanuts, Shellfish, Soy)
-- **Cuisine Preferences**: a multiple-select field where guests can choose their preferred cuisine (Mexican, Italian, Chinese)
-- **Additional Notes**: a free-text field for guests to provide any other information
-- **RSVP Email**: an email field where guests can provide their contact information
-- **RSVP Phone**: a text field where guests can provide their phone number
-
-This form seems to be used to gather information about guests' food preferences and restrictions, as well as contact information for RSVPs. The form is likely used for internal purposes by party planners or hosts to plan food arrangements and communication.
-
-</thinking>
-
 # Holiday Party Food Preferences - Help Guide
 ## Purpose
 The "Holiday Party Food Preferences" form is designed to gather information from guests about their food preferences and restrictions for a holiday party. This information will help the party planners or hosts to plan food arrangements that cater to everyone's needs.

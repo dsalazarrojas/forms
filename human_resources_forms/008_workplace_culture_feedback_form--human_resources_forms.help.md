@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to help employees provide feedback on their current workplace culture, enabling the organization to identify areas that need improvement and implement changes to foster a more positive and productive work environment. This form is intended for internal use only, and responses will be treated confidentially. Please note that this form is not meant to be a one-time activity, but rather an ongoing effort to gather regular feedback from employees. This will help ensure that we're making progress and addressing concerns as needed...</thinking>
-
 # Workplace Culture Feedback Form - Help Guide
 ## Purpose
 

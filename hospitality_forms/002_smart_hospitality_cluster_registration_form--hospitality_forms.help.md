@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Smart Hospitality Cluster Registration Form. This form is used to collect information about hospitality businesses and their owners. The purpose of this form is to gather essential details required for the Smart Hospitality Cluster initiative.
-
-This form should only be completed by hospitality businesses that are interested in joining the Smart Hospitality Cluster. If you are not a hospitality business, please do not complete this form.
-
-Before starting, ensure that you are filling in a form that belongs to your business or organization. If you are unsure, please contact your cluster administrator for guidance.
-
-Please note that some fields are required and must be filled out for the form to be submitted. These required fields are marked as such and will be indicated on the form itself.
-</thinking>
-
 # smart_hospitality_cluster_registration_form - Help Guide
 ## Purpose
 The Smart Hospitality Cluster Registration Form is designed for hospitality businesses to join the Smart Hospitality Cluster initiative. This form helps the cluster administrators collect necessary information from businesses that are interested in joining the cluster.

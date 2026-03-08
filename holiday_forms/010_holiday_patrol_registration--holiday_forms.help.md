@@ -1,22 +1,3 @@
-<thinking>
-To provide a user-friendly help guide for the Holiday Patrol Registration form, we need to understand the purpose and requirements of the form. This form is likely used for registering holiday patrols, which involves a series of steps and data collection. It's essential to ensure that users fill out the form correctly to ensure accurate and complete information is collected. 
-
-We can infer that the form is required for security and administrative purposes, and it's crucial to follow the guidelines carefully to avoid duplication or missing critical information. 
-
-Let's assume that the form is used to gather information about holiday patrols, including categories, descriptions, travel dates, property owner details, security contact information, and submission details. Users need to provide accurate and relevant information to ensure the form is completed correctly. 
-
-Before proceeding, let's consider the following: 
-
-* The "Holiday Forms" category might be a subcategory within a larger category system. If users are unsure, they can choose the top-level category "Holiday Forms" for general holiday-related purposes.
-* Users might be required to choose between "ChatJimmy" and "Another Security" for the assigned security contact. This could be a hierarchical system where users are assigned to specific contacts based on their holiday patrol roles or locations.
-* The "Submit Date" field might be a timestamp, indicating when the form was submitted, not the dates the holiday patrol will take place.
-* Users might need to provide a description of the holiday patrol in the "Description" field.
-* "Travel Dates Start" and "Travel Dates End" likely refer to the duration of the holiday patrol.
-* "Property Owner Name" and "Security Contact Name" are essential for contact and coordination purposes.
-* "Security Contact Phone" should be a working phone number.
-* "Security Notes" can be used for any additional information or concerns.
-</thinking>
-
 # Holiday Patrol Registration - Help Guide
 ## Purpose
 The Holiday Patrol Registration form is used to collect information for holiday patrols, ensuring accurate and efficient management of security and administrative tasks.

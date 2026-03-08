@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect patient and specialist information for referrals in the healthcare industry. The form is intended to capture essential details about the patient, the specialist, and the referral process. It's crucial that the form is filled out accurately and completely to ensure that referrals are processed correctly and efficiently.
-
-Before proceeding, please ensure that you have reviewed the patient's medical history and that the specialist is available and licensed to perform the procedure. This form should not be used to submit multiple referrals for the same patient. If you need to refer multiple patients to the same specialist, please create a new form for each patient.
-
-Please note that some fields are marked as required, meaning you must fill out these fields to submit the form successfully. If you're unsure about any field or require assistance, please reach out to the relevant team member for guidance.
-
-</thinking>
-
 # Hip Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information for referrals from patients to specialists. It ensures that all necessary details are captured accurately and efficiently, enabling effective and safe care.

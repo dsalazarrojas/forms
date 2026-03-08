@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to evaluate the effectiveness of training programs, specifically in the field of pharmacodynamics, which is the study of the effects of drugs on living organisms. This form is not intended to be a comprehensive evaluation, but rather a brief assessment of the attendee's experience and perceived value of the training. It is likely to be used for feedback and improvement purposes, and may be used to inform future training program development. Before proceeding, please ensure that this form has not been filled out previously and that you have not already provided feedback on this topic...</thinking>
-
 # Pharmacodynamics Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness of training programs in the field of pharmacodynamics. Your input will help us understand your experience and perceptions of the training, and will inform future program development.

@@ -1,29 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is for collecting information from new patients who are interested in pursuing weight loss. It is meant to gather essential details about the patient's medical history, weight loss goals, and treatment needs. This form should only be filled out by patients who are new to the healthcare system, hence the "New Patient" page. 
-
-The form does not require a medical professional's review before submission. The data collected will be used to create a personalized plan for the patient's weight loss journey. 
-
-The patient can choose one or more of the medical conditions they are currently experiencing. If they are not experiencing any medical conditions, they can select "None of the above". 
-
-The "Weight Loss Goals" field is for the patient to indicate how much weight they want to lose. Please provide a numerical value in pounds. 
-
-The "Start Date of Weight Loss" and "End Date of Weight Loss" fields are for recording the patient's target timeline for weight loss. 
-
-Please note that the medical conditions listed are examples and not exhaustive. If none of the provided options match the patient's condition, they can select "Other" and provide their own condition.
-
-The "Treatment Needs" field is where the patient can select one or more of the following: Nutrition Counseling, Medication, Exercise, or Surgery.
-
-The "Health Goals" field is for the patient to specify their top health priorities.
-
-The "Medical Specialties" field is where the patient can select one or more of the following: Cardiology, Gastroenterology, Nephrology, Pulmonology, Endocrinology, Gynecology, Urology, or Other.
-
-The "Emergency Contact" field is for recording the patient's emergency contact information.
-
-The "Contact Phone" field is for recording the patient's contact phone number.
-
-</thinking>
-
 # Weight Loss Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from new patients who are interested in pursuing weight loss. The data collected will be used to create a personalized plan for the patient's weight loss journey.

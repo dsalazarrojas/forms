@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Class 1 New Hires Offer Letter - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document an employee's return to work after an absence. The purpose of this form is to collect information about the employee's absence reason, return date, and any other relevant details. This form is typically completed by the employee when they are physically back on the job. It's essential to ensure this form is filled out accurately and not duplicated, as it helps to track absences and maintain accurate records for the employee's leave history. Please review the form carefully to ensure you're filling it out correctly.
-
-</thinking>
-
 # Employee Absence Return To Work Form - Help Guide
 ## Purpose
 The Employee Absence Return To Work Form is used to document an employee's return to work after an absence. It's essential to fill out this form accurately to ensure correct leave history records.

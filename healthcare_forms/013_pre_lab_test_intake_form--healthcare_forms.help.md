@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information from patients before they undergo lab tests. The purpose of this form is to gather essential details about the patient's medical history, contact information, and any relevant test-related information. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using public survey topic metadata. If you're a healthcare professional or administrator filling out this form for a patient, you'll know what to expect. If you're a patient filling it out for yourself, this form will guide you through the necessary steps.
-
-</thinking>
-
 # Pre Lab Test Intake Form - Help Guide
 ## Purpose
 The Pre Lab Test Intake Form is designed to collect essential information from patients before they undergo lab tests. This form helps healthcare professionals gather crucial details about the patient's medical history, contact information, and test-related information.

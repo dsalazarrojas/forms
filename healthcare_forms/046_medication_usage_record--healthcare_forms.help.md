@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a patient's medication usage. It appears to be a simple form meant to gather basic details such as user information, medication information, dosage details, and medical history. The form seems to be focused on collecting data from patients for medical purposes, likely for healthcare professionals to monitor and manage medication usage effectively. There is no indication that this form is intended for mass surveys, research, or any other non-medical purpose. The required fields are "User information", "Medication information", "Dosage Information", and "Signature", suggesting that these are critical details that need to be collected for the form's intended use.
-
-</thinking>
-
 # Medication usage record - Help Guide
 ## Purpose
 This form is designed to collect medication usage information from patients, allowing healthcare professionals to monitor and manage medication usage effectively.

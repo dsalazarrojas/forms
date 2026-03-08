@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help healthcare providers assess their own healthcare services' level of health equity and inclusion. It is not affiliated with, endorsed by, or derived from any form platform. The purpose of this form is to help healthcare providers evaluate how well they include and serve diverse patients, staff, and communities in their care. The form will help healthcare providers understand their strengths and weaknesses in terms of health equity and inclusion, and identify areas for improvement.
-
-Before filling out this form, please ensure that you have not completed it previously and that you are answering as a healthcare provider who serves diverse patients. This form should only be filled out by healthcare providers, not patients.
-
-The form consists of 10 questions, each with multiple options to choose from. Please read each question carefully and choose the option that best reflects your experience and opinions.
-
-</thinking>
-
 # Health Equity And Inclusion Perception Survey - Help Guide
 ## Purpose
 This form is designed to help healthcare providers assess their own healthcare services' level of health equity and inclusion. It is not affiliated with, endorsed by, or derived from any form platform. The purpose of this form is to help healthcare providers evaluate how well they include and serve diverse patients, staff, and communities in their care.

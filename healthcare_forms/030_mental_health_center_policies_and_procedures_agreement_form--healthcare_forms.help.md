@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for use by mental health centers to obtain agreements from patients regarding the policies and procedures of the center. The purpose of the form is to ensure that patients are aware of and agree to the center's policies, which helps to maintain a safe and respectful environment for clients and staff. 
-
-The form is likely to be used in a healthcare setting where patients are seeking mental health services. It is likely that the center will use this form to ensure that patients understand their rights, confidentiality, and the code of conduct expected of them during their stay. 
-
-The form should not be used as a template for other types of mental health services, such as individual therapy sessions or medical procedures. 
-
-The form should not be used for patients under the age of 18, as they may not have the capacity to provide informed consent.
-</thinking>
-
 # mental_health_center_policies_and_procedures_agreement_form - Help Guide
 ## Purpose
 The Mental Health Center Policies and Procedures Agreement Form is a template used to ensure that patients are aware of and agree to the mental health center's policies and procedures.

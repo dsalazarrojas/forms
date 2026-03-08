@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from patients or caregivers about the comfort and speech of a patient during a medical procedure or appointment. It seems that the form is likely used by healthcare professionals to gauge the comfort and satisfaction of patients, which can help in improving the quality of care and services provided. However, I would like to review the YAML provided to ensure that there is no duplication and that all fields are relevant to the form's purpose.
-</thinking>
-
 # Veneer Comfort And Speech Survey - Help Guide
 ## Purpose
 The Veneer Comfort And Speech Survey is designed to collect information about the comfort and satisfaction of patients or caregivers during a medical procedure or appointment. This feedback is essential for healthcare professionals to understand the effectiveness of their care and services, allowing them to make necessary improvements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Daily Health Screening Form - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals screen individuals for potential COVID-19 symptoms. It will guide you through a series of questions to determine if you are at risk for COVID-19 and what steps to take next.

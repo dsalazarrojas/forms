@@ -1,12 +1,3 @@
-<thinking>
-The emergency department assessment form is used to collect patient information and medical history for assessment and treatment purposes. This form is designed to be completed by medical staff in emergency department settings, such as hospitals or clinics, to quickly gather necessary information about the patient. The form should only be completed for patients who have not already been assessed and treated in the emergency department.
-
-When completing this form, please ensure that the patient's medical history and current condition are accurately documented. The information collected will help medical staff make quick and informed decisions about patient care.
-
-Note: Only patients who have not been previously assessed and treated should be completed using this form.
-
-</thinking>
-
 # emergency_department_assessment_form - Help Guide
 ## Purpose
 The emergency department assessment form is used to collect patient information and medical history for assessment and treatment purposes.

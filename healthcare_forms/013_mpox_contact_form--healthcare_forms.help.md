@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the Mpox Contact Form is being used correctly by the end users. The form is used to collect information about individuals who may have been exposed to mpox (a rare and contagious disease). The form is designed to gather essential details such as contact method, address, exposure date, symptoms, and travel history to help healthcare professionals identify potential cases and take necessary actions. It's crucial that the form is filled out accurately and completely to ensure that the information collected is useful for public health purposes.
-
-</thinking>
-
 # Mpox Contact Form - Help Guide
 ## Purpose
 The Mpox Contact Form is used to collect information from individuals who may have been exposed to mpox. This form helps healthcare professionals identify potential cases and take necessary actions to prevent the spread of the disease.

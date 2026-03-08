@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who need to fill out the "Perimenopause Quiz" form. The purpose of this form is to gather information on menopause symptoms and experiences from users. It seems that the form is designed to be used for a specific medical context, possibly for women who are approaching or are in the perimenopausal stage. The form collects demographic information, symptoms, benefits, and other related details.
-
-To determine relevance and non-duplication, I noticed that some field names have "perimenopause_quiz_form" as a prefix, suggesting a close relationship with the form's purpose, while others are standalone labels like "Menses" which may refer to the Menstrual Cycle. It's possible that some fields are duplicates with slightly different wording, but they might be used to collect more specific information. I will try to explain each field in detail without duplicating information.
-
-</thinking>
-
 # Perimenopause Quiz - Help Guide
 
 ## Purpose

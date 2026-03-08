@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Collaboration Check In Form - Help Guide
 
 ## Purpose

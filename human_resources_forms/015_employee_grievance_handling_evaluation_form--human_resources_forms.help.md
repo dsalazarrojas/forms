@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Grievance Handling Evaluation Form - Help Guide
 ## Purpose
 The Employee Grievance Handling Evaluation Form is designed to gather information about a grievance or issue reported by an employee. The form is used to document the grievance, its resolution, and feedback from both the employee and their supervisor. It helps in evaluating the effectiveness of the resolution mechanism and identifying areas for improvement.

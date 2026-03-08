@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Review Approval Form - Help Guide
 
 ## Purpose

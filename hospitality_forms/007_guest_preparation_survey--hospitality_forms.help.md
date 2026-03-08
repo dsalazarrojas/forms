@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from guests arriving at a hospitality establishment. It is used to prepare for their stay, taking into account their type, arrival date and time, number of guests, accommodation type, contact information, arrival method, and special requests. The form ensures that the staff is informed and prepared to provide a good experience for the guests.
-
-This guide is to ensure that end-users understand the form's purpose and how to complete it correctly to gather the necessary information.
-
-</thinking>
-
 # Guest Preparation Survey - Help Guide
 ## Purpose
 

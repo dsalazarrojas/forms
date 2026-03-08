@@ -1,10 +1,3 @@
-<thinking> 
-The Hospital Discharge Questionnaire is a form designed to collect information about a patient's experience during their hospital stay, their discharge process, and their post-discharge care. This form is intended for hospital staff to gather feedback and insights from patients, which can help improve the quality of care provided. The form is not meant to be a comprehensive assessment, but rather a tool to gather specific feedback on certain aspects of the patient's experience.
-
-This form is not part of any proprietary platform, and its design and content are original adaptations of publicly available survey topics. It is released under a Creative Commons BY 4.0 license, allowing users to modify and use it as needed. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Hospital Discharge Questionnaire - Help Guide
 ## Purpose
 The Hospital Discharge Questionnaire is designed to gather feedback and insights from patients about their experience during their hospital stay and post-discharge care.

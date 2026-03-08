@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Vaccine Wait List Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to join a waitlist for COVID-19 vaccination. By completing this form, you will be able to provide your contact details, vaccination eligibility, and other relevant information to be added to the waitlist. This form will help us better understand who should receive the vaccine and how to contact you with further information.

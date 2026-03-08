@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from donors who wish to contribute to a hospice care organization. The form is designed to be simple and easy to complete, with fields for collecting donor and contact information, donation details, and payment information. By understanding how to complete this form correctly, users can ensure that their donation is processed efficiently and effectively.
-
-</thinking>
-
 # hospice donation form - hospice forms - Help Guide
 ## Purpose
 This form is designed to collect information from donors who wish to contribute to a hospice care organization. It helps the organization to process donations efficiently and effectively.

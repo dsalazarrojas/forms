@@ -1,9 +1,3 @@
-<thinking>
-The "health_services_capacity_assessment" form is designed to collect information about a hospital or healthcare facility's capacity, services, and contact details. This form is likely used for healthcare planning, assessment, or resource allocation purposes. 
-
-It's essential to note that this form may not be designed for real-time emergency or patient-specific scenarios. Before proceeding, ensure that you are familiar with the form's purpose and the context in which you will be using it. If you're unsure about the form's relevance or purpose, please review it with your supervisor or colleague to ensure you are using it correctly.
-</thinking>
-
 # health_services_capacity_assessment - Help Guide
 ## Purpose
 This form is used to collect information about a hospital or healthcare facility's capacity, services, and contact details.

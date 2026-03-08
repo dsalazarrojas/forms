@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather feedback and understanding from healthcare professionals on the impact of healthcare policies. This form is meant to gauge awareness and understanding of policy-related information. Please ensure you complete this form only once you have finished reviewing the provided policy information. Please note that this form is not a mandatory task, and your responses will contribute to improving the policies and services we offer. This form is designed to capture your opinions, thoughts, and feedback on the impact of healthcare policies on your practice or profession.
-
-This form is divided into several sections to help you navigate through it easily. Make sure to review each section carefully and enter your thoughts and opinions accordingly.
-
-</thinking>
-
 # Healthcare Policy Impact Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and understanding from healthcare professionals on the impact of healthcare policies. It is meant to gauge awareness and understanding of policy-related information.

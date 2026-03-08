@@ -1,9 +1,3 @@
-<thinking>
-This form is used to verify the eligibility of a patient or individual for healthcare services. The form is required for patients to be covered under a specific insurance plan. The purpose of this form is to ensure that the patient's information is accurate and up-to-date, and that they are eligible for the services they are seeking.
-This form should only be completed once per patient or individual, and any duplicate submissions will be flagged for review.
-The patient's information will be verified with the selected insurance provider.
-</thinking>
-
 # Healthcare Eligibility Verification Form - Help Guide
 ## Purpose
 The Healthcare Eligibility Verification Form is used to verify the eligibility of a patient or individual for healthcare services.

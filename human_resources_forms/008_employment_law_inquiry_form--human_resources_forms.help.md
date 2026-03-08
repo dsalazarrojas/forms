@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of the "employment_law_inquiry_form" is to collect information about employment law inquiries that require attention from HR department. It allows users to provide contact information, details about their employment type, status, law areas of concern, and the issue at hand. The form will help the HR team understand the nature of the inquiry, enabling them to provide accurate and timely assistance. Before proceeding, please ensure that you are not repeating a previous inquiry, as this form is intended to capture new or follow-up requests. 
-
-</thinking>
 # employment_law_inquiry_form - Help Guide
 ## Purpose
 The "employment_law_inquiry_form" is used to submit new or follow-up employment law inquiries that require HR attention.

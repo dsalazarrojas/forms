@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on their compensation and rewards program. The purpose of this form is to gather anonymous and non-anonymous feedback from employees to help the HR team understand what they do well and where they can improve. By providing this feedback, employees can help shape the company's compensation and rewards program to better meet their needs and expectations. 
-
-This form is intended to be completed once by each employee and will help the HR team to:
-
-*   Identify areas of satisfaction and dissatisfaction with the compensation and rewards program
-*   Understand the importance of different types of rewards (e.g. base salary, bonuses, benefits, flexible hours, recognition)
-*   Gather feedback on the transparency of pay decisions
-*   Gather suggestions for improvements to the rewards program
-
-Please note that responses will be kept anonymous unless the employee requests to be contacted to discuss their feedback.
-
-Please fill out this form carefully and honestly, and feel free to provide as much detail as you like.
-
-</thinking>
-
 # Compensation And Rewards Feedback Questionnaire - Help Guide
 ## Purpose
 The Compensation And Rewards Feedback Questionnaire is designed to collect feedback from employees on their compensation and rewards program. This form is intended to gather anonymous and non-anonymous feedback from employees to help the HR team understand what they do well and where they can improve.

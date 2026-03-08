@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about personal care products and services. It is likely used in the healthcare industry to gather data on patient experiences, satisfaction, and demographics. The form includes a variety of questions about different aspects of personal care, such as the patient's usage and preferences. It's possible that this form is used for research or quality improvement purposes within the healthcare system.
-
-To determine the relevance of this form, let's take a look at the form's structure. It appears to have multiple pages, but only one page is currently defined. The page contains a mix of questions with different types, such as text, select, date, and email fields. The required fields seem to cover various aspects of personal care, including demographics, experiences, and satisfaction.
-
-Given the form structure and content, it's unlikely that this form is for creating new users or users with no prior experience. Therefore, it's assumed that the user is already familiar with the healthcare industry and personal care concepts.
-
-This guide will focus on explaining each field and providing guidance on how to complete the form.</thinking>
-
 # personal_care_product_survey - Help Guide
 ## Purpose
 This form is designed to collect information about personal care products and services in the healthcare industry.

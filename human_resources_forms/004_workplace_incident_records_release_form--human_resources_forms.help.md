@@ -1,8 +1,3 @@
-<thinking>
-The workplace incident records release form is designed to gather information about incidents that have occurred in the workplace, including details about the incident, the date it occurred, and the individual who reported it. The form is used to document and track incidents, which is essential for maintaining a safe and healthy work environment.
-To ensure the accuracy and completeness of the incident data, the form should only be completed once for each incident, and any subsequent updates should be made through a separate process.
-</thinking>
-
 # workplace_incident_records_release_form - Help Guide
 ## Purpose
 This form is used to document and track incidents that have occurred in the workplace, including details about the incident, the date it occurred, and the individual who reported it.

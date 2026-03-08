@@ -1,11 +1,3 @@
-<thinking>
-The Pharmaceutical Care Plan Form is designed to collect information from healthcare professionals to ensure patient safety and effective medication management. This form helps to assess the patient's medical status, medication adherence, and any follow-up appointments or actions required. 
-Ensure this form is filled out for every patient interaction to maintain accurate and up-to-date records, preventing potential medication errors or non-adherence. 
-
-Before completing this form, ensure you have reviewed the patient's medical history, current medications, and any previous care plans. If you've completed this form recently, please check the 'Last Updated' field to avoid duplicating effort. 
-
-</thinking>
-
 # Pharmaceutical Care Plan Form - Help Guide
 
 ## Purpose

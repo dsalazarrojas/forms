@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I have reviewed the provided YAML form schema and have crafted a user-facing help guide to ensure end-users understand the form's purpose and how to complete it accurately and efficiently. Here is the final help document in Markdown format:</thinking>
-
 # Pre Job Technical Assessment - Help Guide
 ## Purpose
 The Pre Job Technical Assessment form is designed to collect essential information from job applicants to help us better understand their skills, experience, and availability for the position. Please take a few minutes to fill out this form accurately and honestly, and do not hesitate to reach out if you have any questions or concerns.

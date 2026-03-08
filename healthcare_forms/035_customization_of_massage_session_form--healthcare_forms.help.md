@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a custom massage session. The purpose of this form is to allow clients to express their interest in customizing their massage session, which may involve selecting their preferred massage style and session length. Since the form is not strictly required, it is up to the client to decide how to proceed. There is no duplication of other forms, and the data collected will be used for internal purposes only.
-
-</thinking>
-
 # Customization Of Massage Session Form - Help Guide
 ## Purpose
 This form is used to customize a massage session for a client. Clients can choose their preferred massage style and session length.

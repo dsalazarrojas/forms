@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect biological indicator monitor log data. It is intended for use in a healthcare setting to monitor the status of patient treatments and tests. It is likely used to track patient progress and ensure accurate reporting of test results. Please ensure that this form is not used for any other purpose, and that all required fields are filled out accurately.
-</thinking>
-
 # toothworks_biological_indicator_monitor_log_form - Help Guide
 ## Purpose
 This form is designed to collect biological indicator monitor log data for patients in a healthcare setting.

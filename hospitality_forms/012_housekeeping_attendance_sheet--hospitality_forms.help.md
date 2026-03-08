@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect housekeeping attendance information from employees in a hospitality setting, likely for a hotel or restaurant. The primary goal is to track employee attendance during their shifts, which can help with scheduling, payroll, and staff management. This form is likely to be used by staff members or their supervisors to record their attendance status, reasons for absence, and any comments or issues that need to be addressed. It's essential to ensure that all employees complete this form accurately and regularly to maintain accurate records and ensure smooth operations. Ensure that you are completing this form for the correct purposes and do not duplicate efforts by checking with your supervisor or HR representative if you're unsure.
-</thinking>
-
 # Housekeeping Attendance Sheet - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information from patients undergoing orthodontic treatment. It collects general information about the patient, their health status, medications, allergies, and medical conditions. The form also inquires about their medical and dental history, pain management, and medical concerns. Additionally, it asks questions about medications, pain symptoms, and dental history. The form is used to gather information from patients before, during, and after their orthodontic treatment. This form is not intended to be used for other purposes, such as insurance claims or legal documents.
-
-This form will ask you for various types of information, which may require you to:
-- Provide general information about yourself and your treatment.
-- Describe your health status, allergies, and medical conditions.
-- List any medications you are currently taking.
-- Share your medical and dental history.
-- Report any pain symptoms.
-- Answer questions related to your medical and dental coverage.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
-
 # Orthodontic Treatment Supplemental Health Questionnaire - Help Guide
 ## Purpose
 The Orthodontic Treatment Supplemental Health Questionnaire is designed to gather necessary information from patients before, during, and after orthodontic treatment. This information will help your healthcare provider understand your overall health and medical history, which will aid in providing the best possible care for you.

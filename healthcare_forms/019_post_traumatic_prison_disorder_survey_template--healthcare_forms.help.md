@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information about an individual's experiences with post-traumatic stress disorder (PTSD) in the context of their incarceration. The purpose of this form is to gather data on the prevalence, severity, and impact of PTSD symptoms among individuals who have been incarcerated. This form is not intended to be a diagnostic tool, but rather a means of collecting self-reported data to inform research, policy, or program development related to mental health in correctional settings. It is assumed that the individual completing the form has a basic understanding of their own experiences with PTSD and can provide honest and accurate information. Please note that this form is a sample and should not be used as a substitute for professional medical or mental health evaluation and treatment. If you are experiencing distress or need immediate support, please seek help from a qualified mental health professional or crisis hotline.
-
-</thinking>
-
 # Post-Traumatic Prison Disorder Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the experiences of individuals with post-traumatic stress disorder (PTSD) in the context of their incarceration.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for inspecting and documenting the condition of a building's framing, foundation, walls, roof, electrical, plumbing, heating, ventilation, and exterior systems. It appears to be a comprehensive checklist for assessing the structural integrity and safety of a building. The form has 10 fields, each representing a different system or component of a building. The fields are all "text" type, suggesting that users will provide free-form text descriptions or notes about each system. The form does not require users to select from pre-defined options, indicating that users will provide their own written answers. The form is designed for a general building inspection, but it could also be used in other contexts, such as construction, renovation, or property assessment. It is not clear whether this form is intended for internal use within an organization or for external users. The form does not ask for sensitive information and seems to be focused on collecting descriptive information.
-</thinking>
-
 # Framing Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to help users inspect and document the condition of a building's framing, foundation, walls, roof, electrical, plumbing, heating, ventilation, and exterior systems. It provides a comprehensive checklist for assessing the structural integrity and safety of a building.

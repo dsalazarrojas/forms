@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifemark_consent_form_and_questionnaires - Help Guide
 ## Purpose
 The Lifemark consent form and questionnaires are used to gather essential information from patients about their health and medical history, contact information, and consent for treatment. This form is designed to be completed by patients and healthcare workers, and it helps ensure that all necessary information is recorded and communicated effectively.

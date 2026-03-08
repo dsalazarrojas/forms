@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the quality of a preventive medicine training course. It is meant to be completed by participants who have attended the course. The form is not intended to be a formal evaluation, but rather a way to gather informal feedback that can help improve future courses. 
-</thinking>
-
 # Preventive Medicine Training Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on the quality of a preventive medicine training course.

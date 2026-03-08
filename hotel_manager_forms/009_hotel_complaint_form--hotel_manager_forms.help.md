@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Hotel Complaint Form" that will assist end-users in understanding its purpose, completing it efficiently, and clarifying each field's meaning. The form is designed to collect information about hotel complaints, which will help hotel management to identify and address issues promptly. It's essential to ensure that users fill in the form accurately and completely, as this will help hotel management to resolve the complaint effectively. To avoid any confusion, we will review each field carefully and provide explanations that are concrete and practical.
-
-This guide will be divided into four sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips". The "How To Complete This Form" section will guide users through the process of filling out the form, while "Field-by-Field Explanation" will provide detailed descriptions of each field, making it easier for users to understand what is expected of them. The "Tips" section will offer additional advice to help users complete the form efficiently.
-
-</thinking>
-
 # Hotel Complaint Form - Help Guide
 ## Purpose
 The Hotel Complaint Form is designed to collect information about hotel complaints, which will help hotel management to identify and address issues promptly. Fill in this form accurately and completely to ensure that your complaint is handled effectively.

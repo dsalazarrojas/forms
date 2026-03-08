@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to estimate their fitness level based on their demographics and physical activities. This form should only be used for individuals who are at least 18 years old.
-
-This form will likely be used for various purposes, such as:
-
-* Estimating an individual's overall fitness level
-* Providing guidance on improving physical activity and exercise habits
-* Assisting in health risk assessments or screenings
-
-Before filling out this form, please make sure that you have not previously submitted this form or that the information provided has changed significantly since your last submission.
-</thinking>
-
 # Fitness Calculator - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users to estimate their fitness level based on their demographics and physical activities.

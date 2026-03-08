@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect new patient intake information for medical professionals to gather essential data about the patient's personal and medical history, relationships, medications, medical conditions, and other relevant information. This form is designed to streamline the process of collecting and documenting patient data in a structured and efficient manner. It should not be used for other purposes or duplicated for other forms, as it contains sensitive patient information.
-
-</thinking>
-
 # FLOURISH_New_Patient_Intake - Help Guide
 ## Purpose
 The FLOURISH_New_Patient_Intake form is used to collect new patient intake information, including personal and medical history, relationships, medications, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for employees who will be leaving the company and need to complete the knowledge transfer offboarding form. The form is used to capture information about the employee's departure from the company, including their contact details, projects they were working on, knowledge domains, and any relevant next steps. This form is not intended for general employee onboarding or other HR purposes. Please ensure that you only fill out this form if you are actually leaving the company or have been instructed to do so by management.
-</thinking>
-
 # knowledge_transfer_offboarding_form - Help Guide
 ## Purpose
 The knowledge transfer offboarding form is a critical step in the offboarding process, which helps to ensure that the departing employee's knowledge and responsibilities are transferred to the right team members and that the company's continuity and security are maintained.

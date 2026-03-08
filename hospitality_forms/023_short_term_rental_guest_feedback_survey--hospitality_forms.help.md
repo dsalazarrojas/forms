@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from short-term rental guests, aiming to gather insights into their experiences, likes, and dislikes about the property they stayed at. This information will help property managers and owners understand their guests' needs and preferences, enabling them to improve the quality of their services and facilities.
-</thinking>
-
 # Short Term Rental Guest Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "CNA Unit Completion Form", we need to understand the purpose of this form and ensure that the instructions provided are clear and concise. This form appears to be used for Certified Nursing Assistants (CNAs) to document their completion of a shift, including their name, employee ID, shift date and time, unit name, supervisor's name, and several key tasks and observations completed during the shift. The form also asks about any incidents that occurred during the shift, equipment or supply issues, and feedback from the supervising nurse. This form seems to be relevant for healthcare organizations to gather information on CNA performance and identify areas for improvement. However, it's essential to confirm with the stakeholders if this form is not duplicative or redundant in the context of existing processes.
-</thinking>
-
 # CNA Unit Completion Form - Help Guide
 ## Purpose
 The CNA Unit Completion Form is used to document your completion of a shift as a Certified Nursing Assistant (CNA). This form helps healthcare organizations gather information on your performance and identify areas for improvement.

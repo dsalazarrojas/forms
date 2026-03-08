@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients who have received a flu vaccination, specifically to provide proof of vaccination. The purpose of this form is to ensure accurate and timely recording of patient data, reducing the risk of errors or miscommunication. This form is intended for use by healthcare providers in a clinical setting, such as hospitals or clinics. Please ensure that this form is completed in accordance with your institution's policies and guidelines. If you have any questions or concerns, consult your institution's administrative staff or healthcare provider before using this form. Please review the form carefully before completing it to ensure you understand its purpose and the fields required for completion.
-
-</thinking>
-
 # Flu Shot Proof Form - Help Guide
 ## Purpose
 The Flu Shot Proof Form is designed to collect information from patients who have received a flu vaccination. This information is crucial for healthcare providers to accurately record and verify patient data, ensuring timely and efficient follow-up care.

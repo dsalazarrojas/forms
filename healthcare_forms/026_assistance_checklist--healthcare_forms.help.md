@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive checklist for healthcare providers to document the assistance they have provided to their patients. The purpose of this form is to track and record the various activities and services provided to patients, including personal hygiene, toileting, mobility, medication administration, nutrition, hydration, wound care, catheter/ostomy care, pain management, vital signs monitoring, cognitive and mental health support, activity engagement, environment and safety checks, documentation, and supplies needed. This form is designed to be completed by healthcare providers after each patient interaction, ensuring that all necessary aspects of patient care are accurately recorded. The form has multiple sections, each representing a different category of care, and requires healthcare providers to select the status of each activity from a range of options. This form is an essential tool for healthcare providers to ensure that patients receive comprehensive care and that all necessary information is recorded for future reference. I will now create the help guide for this form.
-</thinking>
-
 # Assistance Checklist - Help Guide
 ## Purpose
 The Assistance Checklist form is a comprehensive tool for healthcare providers to document the assistance they have provided to their patients. This form helps track and record various activities and services provided, ensuring that patients receive comprehensive care and that all necessary information is recorded for future reference.

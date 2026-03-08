@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplication and ensure the form is filled out correctly, please review the following guide carefully before submitting the Incident Resolution Absence Form.
-
-This form is intended to document incidents that occurred within the organization, and it's crucial to fill it out accurately and completely. The form is meant to be used for recording incidents that require resolution, such as accidents, injuries, or other significant events. Please make sure to provide detailed and accurate information to ensure that the incident can be properly investigated and resolved.
-
-Before starting to fill out the form, please review the incident and make sure it's not already documented in your system or that it's not a duplicate of an existing incident. If it's a duplicate, please don't proceed with the form. If it's not already documented, please fill out the form completely and submit it.
-
-</thinking>
-
 # Incident Resolution Absence Form - Help Guide
 ## Purpose
 This form is designed to document and resolve incidents that require attention within the organization. It's essential to accurately report incidents to ensure that they are properly addressed, and the necessary steps are taken to prevent them in the future.

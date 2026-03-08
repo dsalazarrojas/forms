@@ -1,11 +1,3 @@
-<thinking>
-
-The IT Employee Onboarding Form is used to capture relevant information from new IT employees to facilitate their onboarding process. This form is intended for internal use within the company's IT department. 
-
-The onboarding process typically involves collecting information from the employee, such as their email address, supervisor's contact details, and onboarding tasks completed. This form should only be completed by new IT employees, and should not be used for other purposes. If you're unsure about your onboarding status or have already completed the onboarding process, please contact the IT department for assistance.
-
-</thinking>
-
 # IT Employee Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from new IT employees to help them get settled into their role efficiently. It's essential to provide accurate and complete information to ensure a smooth onboarding process.

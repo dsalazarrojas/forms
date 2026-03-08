@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation results from healthcare professionals who have attended a pharmacy grand rounds session. The purpose of this form is to gather information on the session's attendees, the session's outstanding items, and the attendees' evaluation of the session's quality. This form will help the organizers of the pharmacy grand rounds to improve future sessions.
-
-The form is composed of 11 fields, each with a specific purpose:
-- **Session ID**: A unique identifier for the session.
-- **Session Date**: The date on which the session took place.
-- **Session Time**: The time at which the session took place.
-- **Session Start Time**: The start time of the session.
-- **Session End Time**: The end time of the session.
-- **Session Location**: The location where the session took place.
-- **Session Attendees**: Whether the session was well-attended or not.
-- **Session Outstanding Items**: Outstanding items or topics that were discussed during the session.
-- **Evaluation Score**: An evaluation score out of 5, indicating the session's quality.
-- **Feedback**: Any additional feedback or comments about the session.
-
-</thinking>
-
 # Pharmacy Grand Rounds Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation results from healthcare professionals who have attended a pharmacy grand rounds session.

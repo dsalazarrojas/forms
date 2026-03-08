@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's appointment with a healthcare provider. The purpose of this form is to ensure that all necessary details are captured for the appointment, including patient demographics, appointment schedule, and medical history. This form is intended to be used by patients or their representatives to provide information to healthcare providers prior to an appointment. Please ensure that you have the necessary permissions and consents to complete this form.
-</thinking>
-
 # doctors_appointment_form - Help Guide
 ## Purpose
 The **doctors_appointment_form** is a form used to capture information about a patient's appointment with a healthcare provider. It collects patient demographics, appointment schedule, and medical history to ensure a smooth and efficient appointment experience.

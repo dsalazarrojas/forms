@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the "Functional Analysis Screening Form", let's break down the purpose and requirements.
 
 *   The form is designed to collect information related to a patient's functional abilities in various aspects, which is essential for healthcare professionals to assess and provide care or treatment.

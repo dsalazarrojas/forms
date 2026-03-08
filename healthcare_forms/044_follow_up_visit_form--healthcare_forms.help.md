@@ -1,7 +1,3 @@
-<thinking>
-The follow up visit form is a crucial document used to monitor the progress of patients and ensure they receive proper care. This form is usually completed during follow-up visits to gather essential information about the patient's health status. It's essential to fill it out accurately to get the most out of the follow-up visit. Before proceeding, ensure that the information entered is not duplicated or incorrect. Review the form carefully to avoid errors and ensure you are providing the required data.
-</thinking>
-
 # follow_up_visit_form - Help Guide
 ## Purpose
 The "follow_up_visit_form" is designed to record information about a patient's progress during a follow-up visit.

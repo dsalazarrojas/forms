@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the aptitude of a candidate for a Fintech role. The form consists of multiple questions and fields that aim to evaluate the candidate's skills, experience, and qualifications. To avoid redundancy, please ensure that you have not completed this form in the past or are not currently taking the assessment. If you have already completed this form, your submission will not be counted. This form is for internal use only and all fields are required to ensure accurate assessment.
-</thinking>
-
 # fintech_role_aptitude_exam - Help Guide
 ## Purpose
 The fintech role aptitude exam is a test designed to evaluate the knowledge, skills, and abilities of a candidate for a Fintech role. It is a multiple-choice questionnaire that assesses the candidate's understanding of various aspects of Fintech, including their technical expertise, industry trends, and soft skills.

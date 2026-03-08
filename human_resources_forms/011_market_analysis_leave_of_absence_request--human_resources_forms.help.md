@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Analysis Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence for a Market Analysis project. The form is used to capture information about the employee's leave request, including the start and end dates of the leave, the reason for the leave, and the status of the leave within the organization.

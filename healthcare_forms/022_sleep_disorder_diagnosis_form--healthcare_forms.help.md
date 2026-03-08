@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's sleep patterns, habits, and experiences. It will help healthcare professionals diagnose potential sleep disorders and provide personalized guidance. Before filling out this form, please ensure you have not recently filled it out or have a similar form to fill out, as this will help prevent duplication of effort and ensure accurate data collection.
-</thinking>
 # Sleep Disorder Diagnosis Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's sleep patterns, habits, and experiences. It will help healthcare professionals diagnose potential sleep disorders and provide personalized guidance.

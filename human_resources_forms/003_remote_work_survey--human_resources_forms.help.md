@@ -1,9 +1,3 @@
-<thinking>
-The Remote Work Survey form is a tool used to gather information about the remote work policies and practices of a company or organization. This form is designed to collect data on various aspects of remote work, including work from home policies, response syncing options, policy changes, and policy update frequencies.
-The form is meant to be used by HR professionals or department administrators to gather insights into employee experiences and preferences related to remote work. This data can be used to make informed decisions about policy updates and adjustments.
-It's recommended that you fill out this form carefully and thoroughly, providing accurate and detailed information to ensure the most valuable insights are gained from the survey results.
-</thinking>
-
 # Remote Work Survey - Help Guide
 ## Purpose
 The Remote Work Survey form is designed to collect information about remote work policies and practices within your organization. This data will help HR professionals and department administrators make informed decisions about updates and adjustments to these policies.

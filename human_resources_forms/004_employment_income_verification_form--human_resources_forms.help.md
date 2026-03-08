@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to verify employment income for an individual, typically for the purpose of obtaining a loan or other financial services. The form gathers information from both the employee and their employer to confirm employment details, including employment date, salary start and end dates, and certification status. This form is likely used by financial institutions to assess creditworthiness or other business purposes. Please ensure that the employee and employer have access to this form and that it is filled out accurately and completely.
-</thinking>
-
 # Employment Income Verification Form - Help Guide
 ## Purpose
 This form is designed to verify employment income for an individual, allowing financial institutions or other businesses to assess creditworthiness or other business purposes.

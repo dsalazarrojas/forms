@@ -1,5 +1,3 @@
-<thinking>...This form is for developers who are interested in working in the tech industry to apply for job positions. It's a general form that gathers information about the applicant's personal details, work experience, education, skills, and any relevant certifications or work examples. The form is intended to be completed by applicants who want to be considered for tech industry job positions. Note that this form is not for internal use and should not be used for internal personnel purposes. Also, the form does not have any specific validation or approval flows, so the user can complete it without being guided through any specific process... </thinking>
-
 # Tech Industry Developer Job Application - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, the "Pre Consultation Checklist", appears to be a general-purpose form designed for data collection in a healthcare setting, likely for preparation before an appointment or consultation. The fields seem to be intended for gathering information about the client, their symptoms, and the appointment details. It doesn't seem to be specifically designed for any particular medical condition or consultation type. I'll create a help guide for this form based on the provided YAML fields.
 
 # Pre Consultation Checklist - Help Guide

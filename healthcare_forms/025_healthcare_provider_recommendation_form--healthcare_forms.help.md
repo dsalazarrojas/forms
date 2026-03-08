@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for healthcare providers to recommend a course of treatment to a patient. The form should be completed by the healthcare provider to convey their professional assessment of the patient's needs and make informed recommendations for the patient's care.
-This form is used for general purposes and can be used for various clinical scenarios. 
-The form will be completed by the healthcare provider and should only be used by authorized individuals.
-To complete this form accurately, the healthcare provider must be aware of the patient's medical history, current condition, and any relevant medical records.
-To ensure the form is not duplicated, ensure that you are completing the most recent version of the form.
-</thinking>
-
 # healthcare_provider_recommendation_form - Help Guide
 ## Purpose
 The healthcare provider recommendation form is used to capture the healthcare provider's assessment of the patient's needs and make informed recommendations for their care.

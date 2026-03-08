@@ -1,7 +1,3 @@
-<thinking>
-We are providing a form for referrals to our cultural guides. To ensure we get the most out of these referrals, we need accurate and thorough information. This form is not for general feedback, so please do not use it for that purpose. If you have already submitted a referral, please do not submit another one unless the circumstances have significantly changed.
-</thinking>
-
 # hospitality_cultural_guide_referral_form - Help Guide
 ## Purpose
 The hospitality cultural guide referral form is used to gather information about guests who are being referred to our cultural guides. This form helps us to better understand the guest's background, preferences, and needs, which allows us to provide them with a more personalized and effective experience.

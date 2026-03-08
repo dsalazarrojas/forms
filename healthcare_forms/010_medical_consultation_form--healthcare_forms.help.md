@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to collect medical consultation information from patients or individuals seeking medical attention. It may be used in various healthcare settings, such as doctor's offices, hospitals, or clinics. Please note that this form is not affiliated with any specific healthcare platform and is an original adaptation generated using public metadata.
-</thinking>
-
 # Medical Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect personal and medical consultation information from patients or individuals seeking medical attention.

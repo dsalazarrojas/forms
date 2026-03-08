@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's health, including their level of anxiety, medical conditions, and coping mechanisms. This form is designed to be completed by a healthcare provider, such as a doctor or nurse, to assess the patient's overall health status and identify potential areas of concern. The form may be used for various purposes, including diagnosis, treatment planning, and patient education.
-
-To ensure that the form is being used correctly, it's essential to understand its purpose and the information it collects. This guide will walk you through each section of the form, explaining what to expect and how to complete it effectively.
-
-Before proceeding, please note that the form has a total of 11 fields, divided into several categories. Each field has a specific label, type, and optional or required status. Please review the form carefully to ensure you understand the purpose of each field and its relevance to the patient's health.
-
-</thinking>
-
 # Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire - Help Guide
 ## Purpose
 The Patient Health Questionnaire and Generalized Anxiety Disorder Questionnaire is a comprehensive form designed to collect information about a patient's health status, including their level of anxiety, medical conditions, and coping mechanisms. This form is intended for use by healthcare providers to assess the patient's overall health and identify potential areas of concern.

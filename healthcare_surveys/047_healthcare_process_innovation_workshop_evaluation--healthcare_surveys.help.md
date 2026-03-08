@@ -1,7 +1,3 @@
-<thinking>...
-This help guide is intended to be used by healthcare professionals who are evaluating the outcome of a process innovation workshop. The form is not intended for internal use within an organization. The form should not be filled out by someone who has not participated in the workshop. Please ensure that you have actually attended the workshop before completing this form.
-
-</thinking>
 # Healthcare Process Innovation Workshop Evaluation - Help Guide
 
 ## Purpose

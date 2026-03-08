@@ -1,8 +1,3 @@
-<thinking>
-To determine the relevance and non-duplication of this form, let's analyze its purpose. The "Lab Data Analyst Onboarding Form" is designed to onboard new staff members in a lab setting, providing essential information to help them get started with their new role. This form likely aims to collect details about the new staff member's role, internal acknowledgments, onboarding status, lab setup, research teams, role name, job title, contact information (email and phone), and role identification. To avoid duplication, the form likely serves as a centralized repository for all necessary information that needs to be collected during the onboarding process.
-
-</thinking>
-
 # Lab Data Analyst Onboarding Form - Help Guide
 ## Purpose
 The "Lab Data Analyst Onboarding Form" is designed to onboard new staff members in a lab setting, providing essential information to help them get started with their new role. This form collects details about the new staff member's role, internal acknowledgments, onboarding status, lab setup, research teams, role name, job title, contact information (email and phone), and role identification.

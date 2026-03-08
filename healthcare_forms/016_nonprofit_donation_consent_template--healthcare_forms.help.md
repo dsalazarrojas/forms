@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating a help guide for the NonProfit Donation Consent Template form. Before we begin, it's essential to note that this form is designed for non-profit organizations to collect donations from individuals, ensuring they consent to their information being shared with the organization for donation purposes. This form is crucial in maintaining transparency and compliance with data protection regulations. Please confirm that you are creating this form for a non-profit organization and that you're familiar with the general concept of donation consent.
-
-</thinking>
-
 # NonProfit Donation Consent Template - Help Guide
 ## Purpose
 The NonProfit Donation Consent Template is a form used by non-profit organizations to collect donations from individuals, ensuring they consent to their information being shared with the organization for donation purposes.

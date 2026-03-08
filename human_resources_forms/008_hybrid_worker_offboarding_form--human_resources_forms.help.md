@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose and relevance of the Hybrid Worker Offboarding Form, let's break down the form's structure and the information it captures. This form appears to be designed for the offboarding process of employees, particularly focusing on the return of company properties. It's essential to understand the form's relevance and purpose to ensure users complete it correctly. After reviewing the form schema, it seems that this form is used to collect information about an employee's departure, including their department, company properties returned, the status of these returns, and additional details. To avoid duplication of effort and ensure accurate completion, it's crucial to clearly understand and follow the form's instructions.
-
-The form's purpose is likely to document the offboarding process, including the return of company properties, which is a critical aspect of an employee's departure.
-
-</thinking>
-
 # Hybrid Worker Offboarding Form - Help Guide
 ## Purpose
 The Hybrid Worker Offboarding Form is designed to document the offboarding process, particularly the return of company properties, when an employee departs from the company.

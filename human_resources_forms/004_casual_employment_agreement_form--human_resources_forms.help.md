@@ -1,7 +1,3 @@
-<thinking> 
-This form appears to be an employment agreement for casual employees, requiring information about the employee's personal details, employment terms, and financial information. The form seems to be comprehensive, covering various aspects of employment, including address, contact information, employment start date, hourly rate, work schedule, and payment frequency. Before proceeding, I will assume that the form is for a specific business or organization and that the purpose is to capture relevant information for internal record-keeping and HR management. I will not duplicate any information already known to the organization.
-
-</thinking>
 # Casual Employment Agreement Form - Help Guide
 ## Purpose
 The Casual Employment Agreement Form is a comprehensive document used for capturing essential information about employees, including their personal details, employment terms, and financial information. This form helps the organization to maintain accurate records and communicate effectively with employees.

@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect user demographic information and opinions about their work environment. This form is likely for internal use within the company, to gather data from employees about their work experience and conditions. The purpose is to understand employee perspectives and improve work processes. Ensure you are only completing this form if you are an employee of the company. If you are not, please do not submit this form. If you have already submitted this form, do not submit it again. Please make sure you have filled out all fields correctly before submitting. If you are unsure about any field, please contact your HR department for clarification. Please complete the form honestly, as the information will be used to improve work processes... </thinking>
-
 # Pulse Survey - Help Guide
 
 ## Purpose

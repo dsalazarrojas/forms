@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to record the release of a hospital patient, capturing relevant information to ensure that the patient's medical records are properly updated and communicated. This form is intended for patients who are being released or discharged from the hospital, and it serves as a formal record of the release process. By filling out this form, patients and their authorized representatives can provide necessary information to update the patient's records and communicate with the hospital or healthcare providers after discharge. This form should only be used for patients being released or discharged from the hospital, and should not be used for other purposes.
-</thinking>
-
 # Hospital Discharge Records Release Form - Help Guide
 ## Purpose
 This form is used to record the release of a hospital patient, ensuring that the patient's medical records are properly updated and communicated after discharge.

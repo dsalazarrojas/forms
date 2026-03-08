@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anti Racism Employee Training Registration - Help Guide
 
 ## Purpose

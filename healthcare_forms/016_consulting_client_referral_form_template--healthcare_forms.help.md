@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information for a client referral in the healthcare industry. It appears to be used by consultants to refer clients to other specialists for additional care or services. The fields collected include information about the consultant making the referral, the client being referred, and details about the client's health and care needs. This form is likely used to facilitate communication and ensure that all necessary information is gathered and documented for future reference.
-
-</thinking>
-
 # Consulting Client Referral Form Template - Help Guide
 ## Purpose
 The Consulting Client Referral Form Template is a tool used by consultants to refer clients to other specialists for additional care or services. This form helps gather necessary information about the client being referred and the referral process.

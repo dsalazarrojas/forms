@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Safety And Concerns Form - Help Guide
 ## Purpose
 This form is intended for employees to report any safety or concerns they may have about their work environment. This includes any concerns related to the spread of COVID-19 or other safety-related issues. By filling out this form, employees can report their concerns and ensure that their well-being and that of their colleagues is protected.

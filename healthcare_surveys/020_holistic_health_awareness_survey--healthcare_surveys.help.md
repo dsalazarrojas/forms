@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Holistic Health Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your overall health and wellness, including your demographic information, stress levels, coping mechanisms, and physical and mental health conditions. It is intended to help healthcare providers and researchers understand your needs and provide personalized support and guidance.

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a Cataract Awareness Quiz designed for public education and awareness on cataracts. It likely aims to educate individuals about cataracts, their symptoms, risks, and when to seek medical attention. This form is not meant to be a substitute for professional medical advice, and users should not rely solely on this quiz for diagnosis or treatment.
-The quiz appears to be a self-assessment tool, allowing users to gauge their knowledge about cataracts. By analyzing the user input, it may help identify areas where users need further education or medical attention.
-This form likely collects participant information (name, email, age group), assesses their knowledge on cataracts, and captures their willingness to schedule a follow-up consultation or receive further information. The form's structure and questions seem to be straightforward, aiming to educate and inform rather than diagnose.
-To avoid duplication, it's essential to check if this form is not already being used in other applications or contexts.
-</thinking>
-
 # Cataract Awareness Quiz - Help Guide
 ## Purpose
 The Cataract Awareness Quiz is a self-assessment tool designed to educate individuals about cataracts, their symptoms, risks, and when to seek medical attention. It's intended to be a helpful resource for the public to increase awareness and understanding of cataracts.

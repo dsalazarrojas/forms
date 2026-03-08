@@ -1,10 +1,3 @@
-<thinking> 
-The goal of this form is to gather information necessary for providing hospice care services to patients. A hospice is a type of care that focuses on alleviating suffering and improving the quality of life for individuals with serious medical conditions. This form is completed by patients, caregivers, or healthcare providers to provide essential details for hospice care authorization.
-
-To avoid duplication, the form should only be completed once for each patient and should be updated when changes occur.
-
-The information gathered through this form will be used to determine the best course of action for the patient's care. It is crucial to ensure that all required fields are filled out accurately and completely to guarantee the provision of quality care. </thinking>
-
 # Hospice Care Authorization Form - Help Guide
 ## Purpose
 The Hospice Care Authorization Form is a crucial document used to provide essential information for hospice care services. It is completed by patients, caregivers, or healthcare providers to gather necessary details for authorizing hospice care.

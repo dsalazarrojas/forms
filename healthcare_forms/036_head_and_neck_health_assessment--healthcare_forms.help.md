@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the health of the head and neck region of patients. The purpose of this form is to gather information about the symptoms and conditions affecting the patient's head and neck. This form should only be used for patients who have not already completed a similar assessment or who have a new or worsening condition. Please ensure that the patient's previous assessments are reviewed before completing this form to avoid duplication of effort.
-</thinking>
-
 # Head And Neck Health Assessment - Help Guide
 
 ## Purpose

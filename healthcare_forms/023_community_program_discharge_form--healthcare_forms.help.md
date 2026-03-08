@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document the discharge process of participants in the community program, ensuring a smooth transition for the participant and for the program itself. This form captures information about the participant's personal details, program involvement, and the discharge process, including the reason for discharge, any referrals made, and the participant's feedback. By using this form, staff can ensure that all necessary information is collected and documented accurately and comprehensively.
-</thinking>
-
 # Community Program Discharge Form - Help Guide
 ## Purpose
 The Community Program Discharge Form is used to document the discharge process of participants in the community program. This form helps ensure a smooth transition for the participant and for the program itself by capturing key information about the participant's involvement and the discharge process.

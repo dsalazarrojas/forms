@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from clients interested in intensive therapy sessions. The purpose of this form is to collect details about the client's goals, concerns, and preferences for therapy sessions. By completing this form, clients can express their interests and needs, which will help the therapist tailor the sessions to their individual needs. Please ensure this form is only used for intensive therapy and not for other purposes. This form has been designed using only public survey topic metadata and does not copy or use proprietary content from any form platform. 
-
-</thinking>
-
 # Intensive Therapy Interest Survey - Help Guide
 ## Purpose
 This form is used to collect information from clients interested in intensive therapy sessions. Please complete this form to help us understand your goals, concerns, and preferences for therapy.

@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Boutique Hotel Online Booking Form", we need to consider the following:
-
-* The form is designed to collect guest information and reservation details for a hotel booking.
-* The form should be clear and concise, with each field explained in a way that helps the user understand its purpose.
-* Each field should be labeled and explained in a way that matches the provided YAML specification.
-* The form has multiple sections, but we can group them into categories like "Guest Information", "Reservation Details", "Room Preferences", "Special Requests", and "Payment Information".
-* The form requires some fields to be filled out, while others are optional.
-
-</thinking>
-
 # Boutique Hotel Online Booking Form - Help Guide
 ## Purpose
 The Boutique Hotel Online Booking Form is used to collect guest information and reservation details for a hotel booking. This form helps the hotel management team to efficiently process and manage reservations.

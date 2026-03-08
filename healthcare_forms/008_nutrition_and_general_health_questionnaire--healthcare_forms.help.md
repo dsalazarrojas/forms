@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutrition And General Health Questionnaire - Help Guide
 ## Purpose
 The "Nutrition And General Health Questionnaire" is designed to gather information about a patient's general health, dietary habits, and medical history. This form is used to collect data for healthcare professionals to better understand a patient's overall health status and make informed decisions for their care.

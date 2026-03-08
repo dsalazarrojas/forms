@@ -1,13 +1,3 @@
-<thinking>**Purpose of the Medical Lab Access Form**
-This form is used to request access to a medical lab for a specific user. It allows users to select the lab they need access to, the level of access, and the duration of access. The form also collects information about the user, lab, and authorized staff members.
-
-**Non-redundant and redundant checks:**
-
-*   To prevent duplicate requests from the same user, the form will only allow submissions from unique users.
-*   To prevent unauthorized access, the form will only allow selection of authorized staff members.
-
-</thinking>
-
 # medical lab access form - Help Guide
 ## Purpose
 The Medical Lab Access Form is used to request access to a medical lab for a specific user.

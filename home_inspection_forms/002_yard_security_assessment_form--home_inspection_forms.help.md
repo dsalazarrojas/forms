@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the security risks and control measures in place at a yard or property. The form is used to identify potential security threats and determine the effectiveness of existing security systems. It is intended to be completed by property owners or managers to ensure the safety and security of their property. The form is not affiliated with any form platform and is a unique adaptation of the original form design.
-
-</thinking>
-
 # Yard Security Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the security risks and control measures in place at a yard or property. 

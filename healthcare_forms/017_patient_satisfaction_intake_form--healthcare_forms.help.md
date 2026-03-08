@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experience at your healthcare organization. The purpose of this form is to collect patient satisfaction data that can be used to identify areas of improvement and enhance the overall patient experience. 
-
-To ensure that this form is completed accurately and consistently, please follow the instructions carefully.
-
-Before completing this form, please ensure that you have the necessary information and permissions to complete it. If you have already completed this form, please do not repeat your comments.
-
-When completing the form, please answer the questions honestly and to the best of your ability. If you need assistance or clarification on any of the questions, do not hesitate to ask.
-
-Please note that some fields are required and some are optional. Required fields are indicated by a * below the label.
-
-Please complete this form on one of the following pages:
-</thinking>
-
 # Patient Satisfaction Intake Form - Help Guide
 ## Purpose
 The Patient Satisfaction Intake Form is designed to gather feedback from patients about their experience at our healthcare organization. This form helps us understand areas where we excel and areas for improvement, allowing us to enhance the overall patient experience.

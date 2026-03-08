@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, you are about to use the "elder_care_authorization_form" for authorizing healthcare services for an elderly patient. This form is designed to gather essential information about the patient's care and consent for medical treatment. Please ensure that the information provided is accurate and up-to-date to avoid any potential risks or complications.</thinking>
-
 # elder_care_authorization_form - Help Guide
 ## Purpose
 The elder_care_authorization_form is designed for healthcare professionals to authorize care and medical treatment for elderly patients. It ensures that the necessary information is gathered to provide effective and safe care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # job_citizen_self_assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Is the purpose of this form to create a comprehensive document for an employee's exit interview, which will serve as a formal record of their departure from the company? This form is intended to capture relevant information regarding the employee's new hire date, exit date, reasons for departure, feedback comments, personal contact details, and next steps. Before filling out this form, please ensure that you're doing so after the employee has departed and not before, as it's essential to have accurate and honest information. Duplicate or incomplete forms can lead to confusion and may be rejected. 
-</thinking>
-
 # exit_interview_appointment_form - Help Guide
 ## Purpose
 The exit interview form is used to document the details of an employee's departure from the company. This form is meant to gather relevant information about the employee's new hire date, exit date, reasons for leaving, feedback comments, and contact details.

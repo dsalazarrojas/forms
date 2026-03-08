@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to register for the HR Data Governance Forum. The purpose of this form is to gather relevant information about attendees who want to participate in the event. Before filling out this form, ensure that you are not already registered for this event and that you have the necessary information ready to be filled out accurately. Please make sure to fill out the form completely and accurately to ensure that your registration is successful. If you have any questions or concerns, do not hesitate to reach out to the event organizers.
-</thinking>
-
 # HR Data Governance Forum Registration Form - Help Guide
 
 ## Purpose

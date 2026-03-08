@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information and consent from employees to create their employee bio. This form is designed to gather details such as employee information, employee bio, consent, date of birth, and a photo. The form is likely used in HR (Human Resources) settings to create a public profile for each employee, which can be used for various internal and external purposes, such as company directories, events, and social media.
-
-The form's purpose is to ensure that employees have a say in how their bio is displayed and used. By providing a range of consent options, employees can choose how much personal information to share, and HR can ensure that sensitive data is handled responsibly.
-
-Before starting, ensure that this form is not a duplicate or a variation of any existing form in your organization. If you're unsure, please verify with the relevant HR department.
-
-</thinking>
-
 # employee_bio_release_consent_form - Help Guide
 
 ## Purpose

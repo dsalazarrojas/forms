@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the SLAA Recovery Questionnaire form is to gather information about the individual's recovery progress and experiences. To ensure that the form is properly completed, it's essential to understand its context and intended use. The form is designed to collect feedback from individuals who have gone through a recovery process, which could be related to a medical or psychological condition, and it is meant to be used in the context of the "healthcare_surveys" category. Before proceeding, please ensure that you are filling out this form in the correct context and that you have permission to do so. Additionally, make sure that you are not duplicating your responses, as this form is designed to collect unique feedback from each individual.
-</thinking>
-
 # SLAA Recovery Questionnaire - Help Guide
 ## Purpose
 The SLAA Recovery Questionnaire is a tool designed to collect information about your recovery progress and experiences. It's essential to answer these questions honestly and thoroughly to provide valuable feedback.

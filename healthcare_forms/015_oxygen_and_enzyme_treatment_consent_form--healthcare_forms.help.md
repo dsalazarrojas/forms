@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients undergoing oxygen and enzyme treatment. It's essential to verify that the patient understands the treatment's benefits and potential risks before proceeding. Ensure that the patient's medical history, allergies, and interactions are taken into account when filling out this form.
-</thinking>
-
 # Oxygen And Enzyme Treatment Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to create a requisition form for recruiting new team members. This form will gather essential information to facilitate the hiring process. This guide will help ensure that the form is filled out correctly and consistently by all users. It is essential to avoid duplicating efforts and ensure the correct information is submitted for each job opening.
-</thinking>
-
 # Recruitment Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for the recruitment process. It will guide users through the steps to create a complete and accurate requisition form.

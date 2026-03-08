@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to ensure that the office is well-equipped to provide first aid in case of an emergency. The form checks off equipment and supplies necessary for basic first aid. Each section of the form corresponds to a different area or category of first aid equipment. The purpose of this form is to help the user ensure that the necessary equipment and supplies are available and in working order, which can save lives in case of an emergency.
-
-The form asks for the following information: descriptions of the equipment in each category, lists of items in each category, and whether the tool is assigned.
-
-Please fill out this form to check off the first aid equipment in your office.
-</thinking>
-
 # Office First Aid Equipment Checklist Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants to fill out a Curriculum Vitae (CV) application. This form will be used to collect personal details, work experience, education, and skills. The form will help the hiring team to evaluate and select the most suitable candidate for the position applied for.
-
-To avoid duplication of efforts, please do not fill out this form if you have already applied for a position at our company in the past.
-
-Before filling out this form, please make sure you have a clear and concise summary of your work experience, education, and skills.
-
-</thinking>
-
 # CV Application Form - Help Guide
 ## Purpose
 The CV Application Form is designed to collect information from applicants to fill out a Curriculum Vitae (CV) application.

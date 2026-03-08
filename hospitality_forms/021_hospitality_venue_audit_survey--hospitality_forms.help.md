@@ -1,7 +1,3 @@
-<thinking>
-...this form is designed for hospitality venues to gather anonymous feedback from customers. This feedback will help the venues identify areas of improvement and provide a better experience for their customers. To ensure the highest quality of input, please make sure the form is filled out for each visit to a venue and that the feedback is specific and concrete. If you've already completed this form for the same venue in the past, your input will not be recorded again to avoid duplication of effort.
-</thinking>
-
 # Hospitality Venue Audit Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience at hospitality venues such as hotels, restaurants, or bars. The purpose of this form is to help venues understand their strengths and weaknesses and make improvements to provide a better experience for their customers.

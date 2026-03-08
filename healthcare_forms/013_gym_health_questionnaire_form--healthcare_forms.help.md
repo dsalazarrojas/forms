@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Gym Health Questionnaire Form" is to gather information about an individual's health and medical conditions to ensure their safety and well-being while participating in gym activities. This form is intended for gym members or clients to provide accurate and up-to-date health information, which will be reviewed and assessed by medical professionals before allowing them to engage in certain activities or exercises. 
-Before proceeding, please ensure you understand the importance of this form and its potential impact on your health and well-being. This guide will walk you through the process of completing the form, which should be done carefully and accurately. 
-Note that this form is not a medical diagnosis tool and the information collected is for the purpose of assessing the risk of injury or illness while participating in gym activities only. 
-Please review each field carefully and answer truthfully, as the information provided will be taken into consideration when determining your suitability for gym activities.
-</thinking>
-
 # Gym Health Questionnaire Form - Help Guide
 ## Purpose
 The Gym Health Questionnaire Form is designed to gather information about your health and medical conditions to ensure your safety and well-being while participating in gym activities.

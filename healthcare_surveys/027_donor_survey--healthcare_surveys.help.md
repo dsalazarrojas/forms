@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from donors about their relationship with the organization, their donation habits, and their support for various causes. The form will help us understand the demographics and behavior of our donors, which is crucial for us to tailor our communication and outreach strategies. This guide will help you complete the form accurately and efficiently.
-
-Please note that this form is meant for donors who have already donated to our organization, so you should not fill out this form if you are a new donor or have not donated before. If you are unsure about any of the questions, please provide as much information as you can, and we will take it into consideration.
-
-</thinking>
-
 # Donor Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from our existing donors about their relationship with our organization, their donation habits, and their support for various causes. This will help us improve our communication and outreach strategies to better serve our donors and the community.

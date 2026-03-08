@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users for the HR Sustainability Forum. The form will help us understand their interests and needs for the upcoming sessions. The purpose of this form is to gather user input for the HR Sustainability Forum organizers to plan and tailor the sessions according to user preferences. This form is not meant for employees' performance evaluations or any other official HR purposes.
-To avoid confusion, we kindly request that users do not fill out this form if they have already submitted the same information in a previous forum registration or if the information they wish to provide is not related to the upcoming HR Sustainability Forum.
-</thinking>
-
 # HR Sustainability Forum Registration - Help Guide
 
 ## Purpose

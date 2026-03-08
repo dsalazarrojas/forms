@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Canine Heartworm Prevalence Survey - Help Guide
 ## Purpose
 This form is designed for veterinarians and healthcare professionals to report and track heartworm cases in dogs. It collects information on various factors influencing heartworm prevalence, such as diagnostic methods, age groups, and prevention practices. The data collected will help identify trends and patterns in heartworm cases.

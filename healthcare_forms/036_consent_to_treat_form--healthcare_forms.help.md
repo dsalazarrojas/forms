@@ -1,7 +1,3 @@
-<thinking>
-This form is used in a healthcare setting to obtain consent for treatment from patients. The form is divided into several sections to ensure that patients understand their rights and the risks involved. The form is required to be filled out by both the patient and the treating provider.
-</thinking>
-
 # Consent To Treat Form - Help Guide
 ## Purpose
 The Consent To Treat Form is used to obtain consent from patients for medical treatment, ensuring that they understand their rights, risks, and the treatment plan. This form is essential for healthcare providers to obtain informed consent before proceeding with treatment.

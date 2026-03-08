@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect basic patient information and medical history for a consultation. It is not intended to be used for billing or insurance purposes.
-The form should be completed by a healthcare professional or authorized staff member, not the patient. 
-The form is not intended for emergency situations where immediate action is required. 
-The form should not be used to collect sensitive information, such as social security numbers or financial information.
-</thinking>
-
 # Consultation Form 2 - Help Guide
 ## Purpose
 This form is used to collect patient information and medical history for a consultation.

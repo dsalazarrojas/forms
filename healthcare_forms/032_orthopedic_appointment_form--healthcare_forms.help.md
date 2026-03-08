@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "orthopedic_appointment_form" is to collect patient information and schedule an appointment for an orthopedic consultation. This form is designed to be completed by patients, and its data will likely be used by healthcare professionals for further assessment and treatment planning. 
-
-Before proceeding, please ensure that you are using this form for its intended purpose and that your use complies with relevant medical regulations and patient data protection laws. 
-
-This form is a self-explanatory template, and its design is based on standard medical and administrative practices. If you're unsure about any field or requirement, please contact form@gic.mx for further clarification.
-</thinking>
-
 # orthopedic_appointment_form - Help Guide
 ## Purpose
 The "orthopedic_appointment_form" is designed to collect essential information from patients for an orthopedic consultation. It is used to schedule appointments, record medical history, and provide necessary details for orthopedic treatment planning.

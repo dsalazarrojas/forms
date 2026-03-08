@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose consent form for medical ethics education series recording, but it is not specific to a particular industry or category. It is likely to be used in a medical or healthcare setting. The form is not affiliated with any form platform, and its creation was inspired by public survey topic metadata. The form can be modified and used freely, and credit should be given for any derived forms.
-</thinking>
-
 # Medical Ethics Education Series Recording Consent Form - Help Guide
 ## Purpose
 This form is used to document the recording of medical ethics education series. It is meant to be completed by participants and providers to provide information and consent for the recording.

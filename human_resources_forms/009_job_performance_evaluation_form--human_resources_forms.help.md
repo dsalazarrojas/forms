@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the "Job Performance Evaluation Form". This guide should explain the form's purpose, how to complete it, and provide a field-by-field explanation of each field to help users understand what each field means and how to fill it out correctly. The form seems to be used for evaluating an employee's job performance, and it appears to be used for internal HR purposes. The form has a mix of text fields, select fields, dates, and numbers. It seems that some fields are related to the form's metadata, such as the employee's ID and performance levels, while others are more user-facing fields, such as the employee's name and job title.
-
-Before creating the help guide, I will review the form's fields and their types to ensure that I cover all the required information and provide clear and concise explanations. I will use the provided YAML to base my explanations and ensure that I don't invent any unsupported business logic.</thinking>
-
 # Job Performance Evaluation Form - Help Guide
 ## Purpose
 The Job Performance Evaluation Form is used to evaluate an employee's performance. It is completed by a reviewer, typically a manager or supervisor, to assess the employee's job performance during a specific evaluation period. The form helps to identify areas of strength and weakness, provide feedback, and track progress towards goals and objectives.

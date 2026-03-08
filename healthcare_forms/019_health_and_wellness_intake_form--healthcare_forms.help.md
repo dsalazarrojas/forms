@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their health and wellness goals, medical history, and other relevant details. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. Its purpose is to gather data for health and wellness intake, which may be used for assessment, treatment planning, or other related purposes. Before filling out this form, please ensure that you are not duplicating any existing information, as this form is intended to collect new and relevant data. 
-</thinking>
-
 # Health And Wellness Intake Form - Help Guide
 
 ## Purpose

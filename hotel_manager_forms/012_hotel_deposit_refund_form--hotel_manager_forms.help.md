@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to provide a way for hotel guests to request a refund for a deposit they paid during their stay. The form is likely used by hotel management or staff to process and approve or deny such requests. The form's purpose is to gather information about the guest's stay, the deposit amount, and the date they paid the deposit. This form is typically used when a guest wants to cancel their booking or has some other reason for requesting a refund. 
-
-When filling this form, the user should ensure that they provide the necessary information accurately to avoid delays or rejections.
-</thinking>
-
 # Hotel Deposit Refund Form - Help Guide
 ## Purpose
 The Hotel Deposit Refund Form is used to request a refund for the deposit paid during a hotel stay. This form provides an efficient way for hotel guests to communicate their request for a refund to hotel management or staff.

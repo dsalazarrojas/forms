@@ -1,8 +1,3 @@
-<thinking>
-We need to confirm the form purpose and relevance. 
-This form is used for billing and credentialing purposes in a healthcare setting. It collects provider information, medical specialties, insurance acceptance, and other relevant details. To ensure that this form accurately represents the needs of our clients, we will review the form fields and provide clear instructions for end-users.
-</thinking>
-
 # Billing And Credentialing Form - Help Guide
 ## Purpose
 This form is designed to collect and verify the provider's billing and credentialing information, ensuring compliance with regulatory requirements and facilitating accurate reimbursement. It will collect information about the provider's medical specialty, practice details, insurance acceptances, and other relevant data.

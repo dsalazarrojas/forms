@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Medication Form - Help Guide
 
 ## Purpose

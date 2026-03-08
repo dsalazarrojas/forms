@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients visiting an eye center. The form should only be used for patients who have a medical appointment scheduled with the eye center. This form is meant to be used by eye center staff to collect patient information in preparation for the visit. It is not intended for use by patients to update their own information. The form should only be completed once for each patient visit, and not for duplicate or recurring visits. 
-</thinking>
-
 # Eye Center Patient Information Form - Help Guide
 ## Purpose
 This form is used to collect demographic and medical information from patients visiting the eye center.

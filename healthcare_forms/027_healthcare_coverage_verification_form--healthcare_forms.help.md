@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to verify healthcare coverage information, ensuring that patients' coverage details are accurate and up-to-date. It's essential to complete this form to avoid potential misassignments and ensure smooth communication with patients. This form is used in a controlled medical facility or clinic setting.
 
 # healthcare_coverage_verification_form - Help Guide

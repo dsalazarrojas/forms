@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect more detailed information about employees. The form is likely used within the context of HR management, perhaps for employee records, benefits administration, or performance tracking. The form's purpose is to provide a comprehensive overview of an employee's details, allowing HR staff to efficiently update and manage employee data. 
-</thinking>
-
 # start_with_more_information - Help Guide
 ## Purpose
 The "start_with_more_information" form is used to collect more detailed information about employees, which is then used for HR-related tasks.

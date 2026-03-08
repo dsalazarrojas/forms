@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: The Talent Pool Registration Form is designed to collect information from candidates who are interested in being considered for potential job opportunities. It helps employers and hiring managers to have a centralized platform to gather details about candidates' background, skills, and experience, making it easier to manage and evaluate potential candidates for different job openings. This form serves as a tool to gather information for talent pool purposes, ensuring that the information is accurate and up-to-date.
-</thinking>
-
 # Talent Pool Registration Form - Help Guide
 ## Purpose
 The Talent Pool Registration Form is used to collect and store information about candidates interested in job opportunities. This form helps employers and hiring managers to gather and manage candidate details for potential job openings.

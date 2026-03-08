@@ -1,7 +1,3 @@
-<thinking>
-You need to ensure that users understand the purpose of the form and are aware that they are not duplicating their information across multiple forms or sessions.
-</thinking>
-
 # Eye Clinic Patient Registration Form - Help Guide
 ## Purpose
 This form is designed for new patients to register their information for an eye clinic visit. It includes fields for basic contact information, medical conditions, and scheduling details.

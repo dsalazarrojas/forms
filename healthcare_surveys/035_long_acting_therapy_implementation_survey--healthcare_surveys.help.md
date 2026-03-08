@@ -1,5 +1,3 @@
-<thinking>Before starting this form, please take a moment to confirm the purpose of the "long-acting-therapy-implementation-survey" and that you understand what information it's intended to collect. This form is part of the "healthcare_surveys" category. If you've already completed this form or a similar one with similar questions, it's likely you don't need to complete it again. If you're unsure about any aspect of the form, please reach out to your supervisor or the survey administrator for guidance.</thinking>
-
 # long-acting-therapy-implementation-survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience and needs related to implementing long-acting therapies in your practice. It aims to gather insights on the benefits, barriers, and support needs associated with the implementation of long-acting therapies.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the healthcare_design_thinking_lab_filming_consent_form, a form used to collect participant information and consent for filming in a healthcare setting. This form is used to gather necessary information and consent for the recording of healthcare-related activities, such as patient consultations or medical procedures.
-
-This form is intended for use in a healthcare setting, and users should only complete this form if they are authorized to do so. If you are unsure about the purpose or requirements of this form, please consult with a healthcare professional.
-
-The following guide explains each field of the form in detail. Please review each section carefully to ensure accurate and complete information is entered.
-</thinking>
-
 # healthcare_design_thinking_lab_filming_consent_form - Help Guide
 
 ## Purpose

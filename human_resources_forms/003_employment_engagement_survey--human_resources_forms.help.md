@@ -1,8 +1,3 @@
-<thinking>
-This form is for gathering feedback on employee engagement and overall happiness in the workplace. It's meant to be a quick and easy way to get a pulse on how employees feel about their work environment. The questions are designed to gauge overall happiness, satisfaction levels, and perceptions, as well as allow for any comments or additional feedback. Before proceeding, ensure that this form is not already being used in your organization or project, and if you've already taken the survey, please don't submit duplicate responses.
-
-</thinking>
-
 # employment_engagement_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on overall happiness, satisfaction levels, and perceptions of employees in the workplace.

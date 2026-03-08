@@ -1,7 +1,3 @@
-<thinking>
-The Office Employee Safety Check In Form is used by employees to report their current status and location, allowing the management to track the whereabouts of all employees on the premises. This form is typically used for safety and security purposes. It's essential to fill this form accurately to help ensure the well-being of all employees.
-</thinking>
-
 # Office Employee Safety Check In Form - Help Guide
 ## Purpose
 The Office Employee Safety Check In Form is used by employees to report their current status and location, allowing management to track employee whereabouts for safety and security purposes.

@@ -1,7 +1,3 @@
-<thinking>
-  The purpose of this form is to gather information necessary to provide life insurance quotes for users. This includes collecting user information, medical history, contact details, policy specifics, payment options, and other relevant data. This form should only be filled out by users who are interested in obtaining life insurance quotes. Please note that all fields are optional, except for the 'Submit' field at the end, which is required.
-</thinking>
-
 # Responsive Life Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to collect user information and data necessary to provide life insurance quotes. It is intended for users who wish to obtain life insurance quotes and is an optional, non-mandatory form.

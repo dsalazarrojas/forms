@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for patients undergoing In Vitro Fertilization (IVF) treatment. The purpose of this form is to collect essential information about the patient's personal and medical details to ensure accurate and personalized treatment. This information will be used by medical professionals to assess the patient's suitability for IVF treatment and to guide the treatment process.
-
-Before you start filling out this form, please note that this form has been designed to collect comprehensive data about the patient, and each section is crucial in determining the treatment's success. Ensure that you answer all the questions accurately and truthfully to avoid any complications or misdiagnosis.
-
-Please review the form carefully, and if you have any questions or doubts, do not hesitate to ask your healthcare provider.
-
-</thinking>
-
 # ivf patient information form - Help Guide
 ## Purpose
 The IVF Patient Information Form is designed to collect essential data about you, our patient, to ensure accurate and personalized IVF treatment.

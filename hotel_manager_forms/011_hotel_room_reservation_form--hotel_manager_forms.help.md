@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Room Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for hotel room reservations. The purpose is to provide the hotel management with the necessary details required to process the reservation request.

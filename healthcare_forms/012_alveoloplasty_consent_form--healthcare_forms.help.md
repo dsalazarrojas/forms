@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alveoloplasty Consent Form - Help Guide
 
 ## Purpose

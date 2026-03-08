@@ -1,7 +1,3 @@
-<thinking>
-This guide should be tailored to the specifics of the provided YAML fields. I'll create a help guide that covers the purpose of the form, how to complete it, and a field-by-field explanation of each field.
-</thinking>
-
 # Orthopaedic Surgery Evaluation Survey - Help Guide
 ## Purpose
 The Orthopaedic Surgery Evaluation Survey is used to gather feedback from patients about their experience with orthopaedic surgery care. This form helps us understand how our services are meeting your expectations and identify areas for improvement.

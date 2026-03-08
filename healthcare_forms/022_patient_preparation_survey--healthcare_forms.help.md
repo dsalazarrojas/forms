@@ -1,7 +1,3 @@
-<thinking>
-This form, named "patient-preparation-survey", is intended to be a comprehensive tool for collecting information and data from patients in the healthcare industry. The form has 25 pages, each with a unique label and no specific options or hints provided. It is likely used to gather patient demographics, medical history, and other relevant information. The form does not contain any proprietary content or copyrighted material, and its originality and adaptability make it a suitable tool for healthcare professionals.
-</thinking>
-
 # patient-preparation-survey - Help Guide
 ## Purpose
 The patient-preparation-survey form is a comprehensive tool for collecting patient information in the healthcare industry.

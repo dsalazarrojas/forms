@@ -1,12 +1,3 @@
-<thinking>
-To ensure that the "AI Assisted Care Trust Evaluation Survey" provides the most accurate and effective results, it's crucial that the end-users understand the purpose and expectations behind the form. This guide will walk you through the form's purpose, completion steps, and each field's explanation.
-
-The main goal of this survey is to assess users' perception of AI's trustworthiness in providing healthcare services. By completing this form, you'll be able to express your thoughts on AI's reliability, clarity of explanation, and overall trust level.
-
-The form is divided into several sections, each focusing on different aspects of AI's trust evaluation. Please follow the instructions carefully to ensure accurate and complete responses.
-
-</thinking>
-
 # AI Assisted Care Trust Evaluation Survey - Help Guide
 ## Purpose
 The AI Assisted Care Trust Evaluation Survey is designed to gather information about your perception of AI's trustworthiness in providing healthcare services. Your responses will help us improve AI's performance and ensure it meets your expectations.

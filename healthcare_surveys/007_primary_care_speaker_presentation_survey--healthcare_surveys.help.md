@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed to collect feedback from attendees or participants about a primary care speaker presentation. The purpose of this form is to understand the quality of the speaker's presentation, the effectiveness of their communication, and any other feedback or comments that may be helpful for future speaker presentations. This form is likely used by event organizers or conference staff to evaluate the performance of speakers and identify areas for improvement. 
 
 # Primary Care Speaker Presentation Survey - Help Guide

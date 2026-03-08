@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey or quiz related to collagen, a protein found in skin and connective tissues. It seems to be designed to gather information about participants' knowledge and habits regarding collagen, its production, and potential benefits. The form's purpose is likely to educate and inform users about collagen, its effects, and how to maintain or boost its production. Upon analyzing the form's structure and field types, it appears to be a comprehensive assessment of collagen-related knowledge, habits, and preferences.
-</thinking>
-
 # Collagen Quiz - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-The HR Policy Feedback Form is a tool used by employees to provide feedback on existing HR policies within the organization. Before filling out this form, please ensure that you have a legitimate reason to provide feedback and that it's not a duplicate submission. If you're unsure, you can always check with your HR representative or department head to confirm the form's relevance and potential need.
-
-</thinking>
-
 # HR Policy Feedback Form - Help Guide
 ## Purpose
 The HR Policy Feedback Form is designed to gather information from employees about existing HR policies. This feedback helps the HR department to identify areas for improvement, understand employee concerns, and develop more effective policies that benefit everyone.

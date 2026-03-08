@@ -1,17 +1,3 @@
-<thinking>
-This form is for mental health counseling waiver forms, which are used by healthcare providers to document a client's consent and understanding of their treatment. The form is used to collect information about the client, their contact person, and their relationship to the client. This form is used in healthcare settings where clients may be minors or have limited capacity, such as hospitals, clinics, or private practices.
-The form's purpose is to ensure that the client understands their rights and the treatment process, and to document their consent to receive treatment. This includes providing information about the client's name, date of birth, contact person's name and phone number, relationship to the client, and their consent to treatment.
-To complete this form, the user will need to provide the following information:
-*   Client Name: The name of the client.
-*   Date of Birth: The client's date of birth.
-*   Relationship: The client's relationship to the contact person (e.g., Son/Daughter, Spouse, Parent, Other).
-*   Contact Name: The name of the person contacted by the healthcare provider.
-*   Contact Phone: The phone number of the contact person.
-*   Consent to Treatment: Whether the client consents to receiving treatment.
-*   Read and Understand: A short text field for the client to confirm they have read and understood the treatment process.
-
-</thinking>
-
 # mental_health_counseling_waiver_form - Help Guide
 ## Purpose
 

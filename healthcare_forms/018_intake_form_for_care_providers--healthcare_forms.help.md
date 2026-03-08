@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist care providers in completing the intake form for new patients. The form is used to gather essential information about the patient's medical history, treatment, and contact details. It is crucial to accurately fill out this form to ensure the best possible care for the patient. Please review the form carefully and ensure you have completed all required fields before submitting it.
-
-</thinking>
-
 # intake_form_for_care_providers - Help Guide
 ## Purpose
 This form is designed to collect patient information for healthcare providers. It consists of multiple sections, each focusing on a specific aspect of the patient's medical history and treatment.

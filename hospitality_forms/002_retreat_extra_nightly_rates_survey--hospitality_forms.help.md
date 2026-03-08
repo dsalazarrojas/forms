@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retreat Extra Nightly Rates Survey - Help Guide
 
 ## Purpose

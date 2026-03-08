@@ -1,5 +1,4 @@
-# <thinking>...</thinking>
-This is the Ambulance Complaint Form help guide. Please read it carefully to understand the purpose and process of completing the form.
+# This is the Ambulance Complaint Form help guide. Please read it carefully to understand the purpose and process of completing the form.
 
 ## Purpose
 The Ambulance Complaint Form is designed to collect information about incidents or complaints related to ambulance services provided by our organization. This form helps us to identify areas of improvement and ensure that our services meet the highest standards of quality and care.

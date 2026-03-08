@@ -1,7 +1,3 @@
-<thinking>
-The Succession Planning Form is used for planning and documenting the transition of responsibilities and tasks from one employee to another. This form is essential for ensuring a smooth handover and reducing the risk of knowledge loss when an employee leaves the company or retires. It's critical to complete this form accurately and thoroughly to guarantee a seamless transition.
-</thinking>
-
 # Succession Planning Form - Help Guide
 ## Purpose
 The Succession Planning Form is designed to document the key information about the succession plan, including the current and potential future employees involved, and the current status of the form.

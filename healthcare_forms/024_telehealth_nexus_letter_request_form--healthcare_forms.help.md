@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for patients or individuals seeking telehealth services. The form is not intended for emergency use, and users should seek immediate attention if they require urgent medical assistance. It's essential to review the information provided here and understand its relevance to your specific situation before proceeding. Please take a moment to review this guide to ensure you complete the form accurately and efficiently.
-</thinking>
-
 # telehealth_nexus_letter_request_form - Help Guide
 ## Purpose
 The telehealth_nexus_letter_request_form is a collection of questions aimed at gathering patient information for telehealth services. This form is meant to facilitate the process of connecting with healthcare providers remotely, enabling timely and effective medical consultations.

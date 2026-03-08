@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients for medical consultations. It is meant to be filled out by patients prior to their appointment with a healthcare professional. The form's purpose is to streamline the consultation process, allowing healthcare providers to have a better understanding of the patient's medical history, chief complaints, and other relevant information.

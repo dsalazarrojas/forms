@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Locate Medical Professionals Form - Help Guide
 ## Purpose
 The Locate Medical Professionals Form is designed to gather information about medical professionals, including their preferences, location, and medical history. This form is intended to be used by healthcare providers to locate medical professionals who match specific criteria, such as location, specialization, and medical status.

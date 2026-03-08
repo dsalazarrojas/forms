@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be related to employee departures, likely for reasons such as resignation, retirement, health issues, or other personal reasons. It might be used to gather information for HR or other administrative purposes. It's essential to confirm with the relevant department to ensure accuracy. There should be no duplicate entries or incomplete forms submitted.
-</thinking>
-
 # Employment Continuation Request Form - Help Guide
 ## Purpose
 The Employment Continuation Request Form is used to gather information from employees who are departing from the organization. This form is essential for the HR department to process the employee's departure efficiently and ensure a smooth transition.

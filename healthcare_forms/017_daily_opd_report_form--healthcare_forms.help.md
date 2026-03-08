@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily OPD Report Form - Help Guide
 ## Purpose
 The Daily OPD (Outpatient Department) Report Form is used to capture information about patient visits that occurred on a specific date. This form helps healthcare professionals track and report on patient visits, allowing for accurate and efficient management of patient care and data analysis. 

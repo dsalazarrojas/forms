@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_motivation_training_form - Help Guide
 ## Purpose
 The employee motivation training form is designed to provide an opportunity for employees to share their ideas, thoughts, and feedback related to employee motivation and training. This form is meant to be used by employees to express their needs and desires for growth and development within the company.

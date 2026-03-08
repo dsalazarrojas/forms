@@ -1,11 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the form's purpose and ensure that it's being used correctly. The form appears to be related to meetings, possibly for hospice services, where staff members need to record meeting details, patient information, and follow-up actions. To prevent non-duplication and ensure accurate data entry, it's essential to follow these steps:
-
-- Ensure all form fields are filled in correctly.
-- Each section of the form should be completed separately and logically, following the sequence of the form's structure.
-- Double-check the form before submitting it to ensure accuracy.
-
-This guide will walk you through each step and field to help you fill out this form correctly.</thinking>
-
 # idg_meeting_template - Help Guide
 ## Purpose
 

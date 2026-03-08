@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for referral to a surgical specialist for a patient's treatment. The form collects details about the patient's medical history, referral information, insurance information, and additional details that may be relevant to their care. The form is intended for use in the healthcare industry, specifically for healthcare providers to refer their patients to a specialist. The form's structure includes multiple pages, each with its own set of fields. 
-
-To ensure that this form meets the needs of your organization, it's essential to review the fields and ensure that they align with your specific requirements. If you have any questions or concerns, please don't hesitate to reach out to contact the form's maintainers at `form@gic.mx`.
-
-Before filling out this form, please note that it's crucial to complete it accurately and thoroughly, as the information gathered will be used to inform the referral process. If you're unsure about any field, please don't hesitate to ask for clarification.
-</thinking>
-
 # Surgical Specialist Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for referral to a surgical specialist for a patient's treatment.

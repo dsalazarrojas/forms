@@ -1,22 +1,3 @@
-<thinking>
-This guide will help you understand the purpose of the City Hostel Dorm Booking Form and how to complete it accurately. The form is designed to gather essential information for a smooth and secure booking experience. 
-
-To complete the form, start by filling out the required fields as they are marked. 
-
-This form consists of the following sections:
-
-* Guest full name: Enter your first and last name. 
-* Check in date: Enter your arrival date in the correct format. 
-* Check out date: Enter your departure date in the correct format. 
-* Bed preference: Select the type of bed you prefer (Upper bunk, Lower bunk, or Single bed). 
-* Number of guests: Enter the total number of people in your booking. 
-* Contact email: Enter a valid email address for booking confirmation. 
-* Contact phone (optional): Enter your emergency contact phone number. 
-* Special requests (optional): Enter any accessibility or dietary notes. 
-* Payment method: Select your preferred payment option. 
-* Booking terms and conditions: Read and acknowledge the cancellation policy. 
-</thinking>
-
 # City Hostel Dorm Booking Form - Help Guide
 ## Purpose
 The City Hostel Dorm Booking Form is designed to gather necessary information for a smooth and secure booking experience.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to inquire about mental health counseling services. To ensure relevance, only users who have not previously submitted an inquiry will be able to access this form. If the user has already submitted an inquiry, they will not be able to access the form again.
-
-</thinking>
-
 # mental_health_counseling_inquiry_form - Help Guide
 ## Purpose
 The mental health counseling inquiry form is designed for users to gather information about their mental health concerns and needs. This form will help the counselor understand the user's situation and provide the necessary support.

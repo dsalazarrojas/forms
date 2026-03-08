@@ -1,8 +1,3 @@
-<thinking>
-This form is used to record an employee's availability for a work shift. The employee's name, start and end dates, start and end times, available days, and other details such as shift length, break length, and work hours can be entered. This form also allows employees to specify their manager's name, email, and phone number, which will be used to contact them.
-The form is used to create or update an employee's availability record. To ensure data accuracy, please review the form fields carefully before submission.
-</thinking>
-
 # Employee Availability Form - Help Guide
 ## Purpose
 The Employee Availability Form is used to record and update an employee's availability for work shifts. This form helps ensure that employees can be contacted and managed efficiently during work hours.

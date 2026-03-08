@@ -1,13 +1,3 @@
-<thinking>
-This form is used to evaluate and improve the employee benefits program offered by the organization. The purpose of this form is to gather feedback from employees on their current benefits and to identify areas for improvement. This form will help the employee benefits team to understand employee needs and preferences regarding their benefits.
-
-The form will be completed by employees and will ask questions such as benefits offered, satisfaction with those benefits, and suggestions for improvements. The completed forms will be used to identify trends and patterns among employees, which will help the employee benefits team to make informed decisions about the benefits program.
-
-The form will be submitted to the employee benefits team and the team will review the responses. The team will analyze the feedback and identify areas where the benefits program is meeting or not meeting employee needs. The team will use this information to make changes and improvements to the benefits program.
-
-This form is designed to be easy to complete and should take no more than 5-10 minutes to complete.
-</thinking>
-
 # Employee Benefits Program Evaluation Form - Help Guide
 ## Purpose
 The Employee Benefits Program Evaluation Form is used to gather feedback from employees on their current benefits and to identify areas for improvement.

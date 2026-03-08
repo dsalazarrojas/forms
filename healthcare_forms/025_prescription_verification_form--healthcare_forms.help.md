@@ -1,8 +1,3 @@
-<thinking>
-This form is a Prescription Verification Form designed to collect information about a patient's prescription. It is used to verify the details of a patient's prescription, including the patient's name, address, phone number, and medication information. This form is intended for use in a healthcare setting, such as a pharmacy or medical office. To confirm, the form fields are likely to be completed by the patient or their representative. The form is not intended for new prescriptions, but rather for verification of existing prescriptions. This form should not be used for new patient intakes or new prescription requests. It is a verification process to ensure accuracy and consistency of patient information and prescription details.
-
-</thinking>
-
 # Prescription Verification Form - Help Guide
 ## Purpose
 The Prescription Verification Form is a tool used to verify the details of a patient's prescription. It helps ensure that patient information and prescription details are accurate and up-to-date.

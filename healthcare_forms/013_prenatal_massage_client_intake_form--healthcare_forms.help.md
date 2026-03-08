@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from prenatal massage clients before their session. It is intended to be used as a guide for healthcare professionals to gather essential details about the client's health, medical history, and consent for massage therapy. This form aims to ensure that the client's health and safety are considered during the massage therapy session.
-</thinking>
-
 # Prenatal Massage Client Intake Form - Help Guide
 ## Purpose
 

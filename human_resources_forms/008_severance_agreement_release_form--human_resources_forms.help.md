@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document an employee's departure from a company, detailing the severance package and release of all claims. The purpose of this form is to ensure a smooth transition for both the employee and the employer.
-</thinking>
-
 # Severance Agreement Release Form - Help Guide
 ## Purpose
 The Severance Agreement Release Form is a document used to formalize the terms of an employee's severance package and release of all claims. This form is essential for ensuring a smooth transition for both the employee and the employer, as it clarifies the agreement and protects both parties from potential legal disputes.

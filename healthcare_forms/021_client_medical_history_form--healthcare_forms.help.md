@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical history information from clients, including demographic data (name and date of birth), medical background, family history, social history, and current health concerns. This form aims to help healthcare professionals gather comprehensive information about clients' medical backgrounds, facilitating informed decisions and effective care.
-
-To avoid duplication and redundancy, this form should not be used for clients who have already provided medical history information through other means. Ensure that the form is only filled out once and in its entirety before submitting it.
-
-This form is intended for clients to provide their medical history information accurately and thoroughly. Please take your time to fill out the form carefully and provide as much detail as possible.
-
-</thinking>
-
 # Client Medical History Form - Help Guide
 
 ## Purpose

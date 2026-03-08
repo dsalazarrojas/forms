@@ -1,7 +1,3 @@
-<thinking>
-This guide is to ensure that the form is used correctly and its purpose is understood by all users. The psychotherapy_informed_consent_form is a vital document that must be filled out carefully to ensure the client's consent and rights are respected. This form is meant to be a template for psychotherapists to obtain informed consent from their clients. Informed consent is a critical aspect of therapy, and this form ensures that the client is aware of their rights and what to expect from the therapeutic process. This form is not meant to be used for any other purpose other than obtaining informed consent. 
-</thinking>
-
 # psychotherapy_informed_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from clients in a psychotherapy setting. It is designed for psychotherapists to use as a template to ensure that clients understand their rights, the therapeutic process, and what to expect during sessions.

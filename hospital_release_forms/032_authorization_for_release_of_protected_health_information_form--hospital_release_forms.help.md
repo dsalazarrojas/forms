@@ -1,13 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Authorization For Release Of Protected Health Information Form" to ensure end users understand its purpose, how to complete it, and what each field means.
-
-To create a clear and concise guide, we will follow the provided YAML structure and include explanations for each field in the "Field-by-Field Explanation" section.
-
-We will also include a "Tips" section to highlight any additional information or best practices for completing the form.
-
-Please let's begin with the form purpose and instructions.
-</thinking>
-
 # Authorization For Release Of Protected Health Information Form - Help Guide
 ## Purpose
 This form is used to authorize the release of protected health information to a designated recipient. It provides a standardized framework for patients to grant access to their medical records for various purposes, ensuring confidentiality and data security.

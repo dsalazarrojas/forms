@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by managers or reviewers to conduct performance evaluations of employees. The purpose of the form is to gather information about the employee's slot performance, including details about the slot they are responsible for, and the reviewer's comments and feedback. This form should only be used by authorized personnel, as it requires sensitive information about employee performance. Please ensure that you have the necessary permissions and access rights before filling out this form.
-</thinking>
-
 # Performance Evaluation Slot Booking Form - Help Guide
 ## Purpose
 The Performance Evaluation Slot Booking Form is a tool used by managers or reviewers to assess the performance of employees in their assigned slots. This form is designed to gather relevant information to facilitate fair and structured performance evaluations.

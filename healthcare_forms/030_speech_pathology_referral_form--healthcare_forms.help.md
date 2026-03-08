@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: 
-This form is designed to collect essential information for referrals to a speech pathology service.
-Form purpose rationale: 
-The form will be used by healthcare professionals to refer patients to a speech pathology service, and it is essential to ensure that the correct patient information is collected to facilitate a smooth referral process.
-Form non-duplication rationale: 
-The form's fields are designed to be specific and clear, reducing the likelihood of duplicated or missed information.
-</thinking>
-
 # Speech Pathology Referral Form - Help Guide
 ## Purpose
 The Speech Pathology Referral Form is designed to collect essential information for referrals to a speech pathology service. This form helps healthcare professionals gather accurate and detailed information to facilitate a smooth referral process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Holiday Customer Experience Report - Help Guide
 ## Purpose
 The Retail Holiday Customer Experience Report is a survey designed to gather feedback from customers about their experiences during holidays. The report helps us understand how we can improve our services and provide better experiences for our customers.
@@ -48,7 +46,5 @@ To complete this form, simply follow these steps:
 * **Name** (submission_name, Text, Optional): Please provide your name so we can address you correctly.
 
 Note: This help guide is based on the provided YAML fields. Please review and adjust if necessary to ensure accuracy. 
-
-<thinking>...</thinking>
 
 (Note: You can use this help guide to review and make any necessary adjustments before finalizing.)

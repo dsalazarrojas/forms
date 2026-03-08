@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants for a Licensed Vocational Nurse (LVN) position. The form will likely be used by healthcare organizations to gather data on the applicant's contact information, personal details, work history, education background, license and training information, and current status as a licensed vocational nurse. 
-This form does not duplicate any existing forms in your database, as it is an original creation based on publicly available metadata about the healthcare industry and the category of "healthcare forms". 
-The form does not appear to be affiliated with any specific form creation platform, as it was generated using AI and publicly available metadata. 
-
-</thinking>
-
 # Licensed Vocational Nurse (LVN) Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from applicants for a Licensed Vocational Nurse (LVN) position.

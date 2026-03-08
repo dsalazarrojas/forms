@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form "Hotel Stay Invoice" is designed to provide a standardized format for reporting hotel stays, including essential details such as hotel name, guest name, room service, services rendered, date of stay, check-in and check-out times, total cost, payment method, and any additional notes. This form is crucial for accurate billing and financial record-keeping within the hotel management system. To prevent duplication, please ensure that each form submission is unique and accurate. If you are unsure about any field, refer to this help guide for clarification. </thinking>
 
 # Hotel Stay Invoice - Help Guide

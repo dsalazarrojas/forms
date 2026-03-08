@@ -1,13 +1,3 @@
-<thinking>
-
-## Health Equity Initiative Evaluation Form
-
-This form is used to collect evaluations from healthcare providers regarding the Health Equity Initiative, which aims to identify and address gaps in healthcare service delivery that disproportionately affect minority or historically marginalized populations. Evaluations collected through this form help to monitor progress, identify areas of improvement, and inform strategic decisions to enhance health equity in the region.
-
-Before filling out this form, ensure that you have a good understanding of the Health Equity Initiative's goals and objectives.
-
-</thinking>
-
 # Health Equity Initiative Evaluation Form - Help Guide
 ## Purpose
 The Health Equity Initiative Evaluation Form is designed to gather feedback from healthcare providers on their experiences and observations related to the initiative's impact and effectiveness.

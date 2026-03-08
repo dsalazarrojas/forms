@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request an ID badge authorization for a visitor or employee. The form is meant to collect information about the individual, their purpose of visit, company, department, and badge type. This form is not meant to be filled out in cases where an ID badge authorization is not required for the individual, such as when the individual is an existing employee.
-
-</thinking>
-
 # id_badge_authorization_form - Help Guide
 
 ## Purpose

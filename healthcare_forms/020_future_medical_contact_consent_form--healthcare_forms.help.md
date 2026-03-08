@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a patient's future medical contact, which is crucial for emergency medical situations or ongoing care coordination. The purpose of this form is to gather essential details about the patient's relationship to the contact person and the contact person's contact information. It is designed to be completed by the patient or their authorized representative. This form is typically completed once, but in cases where the patient's situation changes, it may need to be updated. Ensure that this form is completed accurately and thoroughly to ensure the patient's medical contacts are up-to-date and reliable.
-</thinking>
-
 # Future Medical Contact Consent Form - Help Guide
 ## Purpose
 The Future Medical Contact Consent Form is used to collect information about a patient's future medical contact, which is essential for emergency medical situations or ongoing care coordination.

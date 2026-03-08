@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from users for windsurfing equipment rental purposes. It is not affiliated with or endorsed by any form platform, and its content is original, based on public survey topic metadata. The form has the following fields:
-1. User Information: This section asks for basic contact and demographic details of the user.
-2. Contact Information: This section requests additional contact information from the user.
-3. Equipment Rental Information: Here, users can provide details about the rental process, equipment needed, and other specifics.
-4. Rental Terms: In this section, users can acknowledge the rental terms or provide any additional comments.
-5. Emergency Contact: This field is for users to provide emergency contact details.
-6. Additional Info: Users can add any extra information in this section.
-7. Payment Method: This field is for users to specify their payment method.
-8. Payment Details: Here, users can provide details about their payment.
-9. Signature: A field for users to sign electronically.
-</thinking>
-
 # windsurf_equipment_rental_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for windsurfing equipment rental purposes.

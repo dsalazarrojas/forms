@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal reasoning block:**
-This form is designed to collect information on incidents that have occurred within a nursing home environment. It is intended to be completed by staff members or residents to report incidents in a structured and organized manner. The form gathers details on the incident, such as date, location, description, and involved staff or residents. Additionally, it includes fields for reporting staff and resident signatures, incident outcome, and incident reporter information. 
-
-</thinking>
-
 # Nursing Home Incident Report Form - Help Guide
 
 ## Purpose

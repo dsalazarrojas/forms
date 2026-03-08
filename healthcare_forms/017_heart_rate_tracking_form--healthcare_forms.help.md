@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The "Prophets" form is used to record a client's workout information, including their resting and maximum heart rate, exercise name, and workout date.

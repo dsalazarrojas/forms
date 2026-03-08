@@ -1,9 +1,3 @@
-<thinking>
-The "Desk Assistant Application Form" is used for applicants to apply for a job as a desk assistant. The form is a multi-page application that collects information from the applicant to evaluate their suitability for the position. The form asks for various details including contact information, work experience, availability, job skills, education, qualifications, references, resume, and email and phone number. This information will be used by the hiring team to review the application and assess the candidate's eligibility for the position.
-
-Before submitting, ensure that all required fields are filled in. While some fields are optional, providing as much detail as possible will help the hiring team better understand the applicant's qualifications and fit for the role. Please make sure to enter a valid email address for correspondence, and a correct phone number for communication. A valid resume is also required for the hiring team to review and consider for further evaluation.
-</thinking>
-
 # Desk Assistant Application Form - Help Guide
 ## Purpose
 The Desk Assistant Application Form is designed to collect necessary information from applicants to evaluate their suitability for the Desk Assistant position.

@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information about the overall condition and readiness of ambulances for service. This includes inspecting the vehicle's interior cleanliness, equipment functionality, and documentation completeness. The form is designed to be completed by a person conducting the inspection, and it's essential to ensure that the ambulance is in good working condition before it's deployed for emergency services. 
-
-The form is not intended to be used for other purposes, such as patient intake or treatment records.
-
-Before starting the inspection, make sure you have all the necessary information and equipment required for the form.
-
-</thinking>
-
 # COVID 19 Ambulance Check Form - Help Guide
 ## Purpose
 The COVID 19 Ambulance Check Form is used to inspect and assess the overall condition of an ambulance, ensuring it's ready for service.

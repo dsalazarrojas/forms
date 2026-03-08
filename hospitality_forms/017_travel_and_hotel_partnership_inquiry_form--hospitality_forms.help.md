@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be a travel and hotel partnership inquiry form. Its purpose is to gather information from potential partners about their interest in partnering with the company. The form is meant to be completed by a contact person from the potential partner, who can provide details such as their contact information, travel request, and preferences. The form's fields are designed to be straightforward and easy to understand.
-
-The form is likely to be completed by travel and hospitality professionals looking to collaborate or partner with the company, and it's essential to ensure that they understand the purpose and requirements of the form.
-
-To avoid duplication, it's crucial to review the form's content before starting the partnership inquiry process to ensure that similar requests haven't been made before.
-
-This form is intended to be used by travel and hospitality industry professionals, and it's essential to be clear about what information they need to provide.
-
-After ensuring that the form has been reviewed and that the contact person is familiar with its purpose and requirements, they can proceed to complete the form.
-
-</thinking>
-
 # travel_and_hotel_partnership_inquiry_form - Help Guide
 ## Purpose
 The travel and hotel partnership inquiry form is designed to gather information from potential partners about their interest in collaborating with the company. This form helps the company to understand the partner's preferences and requirements, which aids in creating a successful partnership.

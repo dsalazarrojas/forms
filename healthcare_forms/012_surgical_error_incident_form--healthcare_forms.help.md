@@ -1,11 +1,3 @@
-<thinking>
-The Surgical Error Incident Form is designed to capture information related to surgical errors that occur during medical procedures. This form is used to document and investigate errors in a standard and consistent manner, ensuring that essential details are gathered and recorded accurately. It's essential to complete this form accurately and thoroughly to ensure that errors are properly documented, investigated, and addressed, reducing the risk of future occurrences.
-
-Before filling out this form, please ensure that you have a clear understanding of the error that occurred and the steps you took to address it. This form should only be filled out once per error incident, and any duplicate entries can lead to confusion and inaccuracies in the investigation.
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # Surgical Error Incident Form - Help Guide
 ## Purpose
 The Surgical Error Incident Form is designed to gather information about errors that occur during surgical procedures. This form helps to document and investigate errors, ensuring that essential details are gathered and recorded accurately.

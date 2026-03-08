@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from patients or healthcare providers about their health insurance orders. 
-The form will likely be used by healthcare providers, administrators, or other authorized personnel. 
-The user will need to provide their first name, last name, date of birth, address, email, phone number, insurance provider, insurance plan, medical group, and other relevant details. 
-The form might also ask for a signature, who submitted it, and other meta information like submission date and status. 
-This form does not appear to be a form for actual payment or transactional purposes, so I assume it's primarily for administrative or informational use. 
-I will not repeat any information that is already clear in the schema provided in the YAML input, nor will I add information not provided in the schema.</thinking>
-
 # Health Insurance Order Form - Help Guide
 ## Purpose
 

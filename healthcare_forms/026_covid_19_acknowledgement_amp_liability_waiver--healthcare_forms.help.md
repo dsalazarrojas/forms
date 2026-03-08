@@ -1,15 +1,3 @@
-<thinking>
-The form "COVID 19 Acknowledgement and Liability Waiver" is a crucial document that helps ensure participants understand and acknowledge the risks associated with COVID-19, as well as their rights and responsibilities while participating in activities or services offered by the organization. This form is designed to inform participants about the potential risks of exposure to COVID-19 and to confirm their understanding and acceptance of liability and risk assumptions.
-
-Before starting to fill out the form, please ensure that:
-
-*   You have read the form carefully and understand the risks associated with COVID-19.
-*   You are aware that this is a liability waiver, which means you are releasing the organization from liability in case of any harm or damage that may occur during the activity or service.
-*   You have the necessary information and understanding to make informed decisions about your participation.
-*   You are not repeating this form if you have already completed it. Each participant must fill out this form individually.
-
-Please ensure that you have all the required information and supporting documents before proceeding with the form.</thinking>
-
 # COVID 19 Acknowledgement and Liability Waiver - Help Guide
 ## Purpose
 The COVID 19 Acknowledgement and Liability Waiver form is a crucial document that helps ensure participants understand and acknowledge the risks associated with COVID-19, as well as their rights and responsibilities while participating in activities or services offered by the organization.

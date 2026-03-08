@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help identify potential burnout prevention needs among staff members. It is designed to be filled out by staff members who are experiencing high levels of stress or burnout. The form asks for information on the staff member's job title, work hours, stress factors, burnout score, support services received, support score, well-being scale, and any comments they may have. This guide is to ensure that staff members understand the purpose of the form and how to fill it out correctly, reducing errors and ensuring accurate data collection.
-</thinking>
-
 # staff_burnout_prevention_poll - Help Guide
 ## Purpose
 This form is designed to help staff members identify their own burnout prevention needs. It is intended to be filled out by staff members who are experiencing high levels of stress or burnout.

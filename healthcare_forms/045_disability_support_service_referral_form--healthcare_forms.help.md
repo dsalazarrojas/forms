@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is meant to gather information for the disability support service. To be eligible for these services, the individual must meet specific criteria, and the form helps to identify potential candidates. The form is not required for everyone, but rather for those who have a specific need for disability support. Completing this form will help the support service team understand the individual's requirements and provide them with the necessary resources.
 
 # Disability Support Service Referral Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and manage corporate training programs, including employee information, training program enrollment, and training session details. It's designed to help administrators monitor and analyze training data for the company. This form is not intended for employee self-service; it's meant for administrative purposes only. It's recommended that employees complete the training information in advance or through other means, not through this form. The form is meant to be completed by authorized personnel or system administrators.
-</thinking>
-
 # corporate_training_intake_form - Help Guide
 ## Purpose
 The Corporate Training Intake Form is used to gather information about corporate training programs for employees. This form is used to track and manage employee enrollments, training sessions, and program status.

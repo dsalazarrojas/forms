@@ -1,12 +1,3 @@
-<thinking> 
-This help guide is intended to assist users in completing the Editorial Staff Employment Onboarding Form. Please ensure that you have read and understand the form purpose before proceeding. 
-
-The form is designed to gather information about new hire details, job classification, job title, department, job grade, new hire status, job start and end dates, job type, job hours, new hire email, new hire phone, manager details, emergency contact information, and manager contact information. 
-
-Please complete the form accurately and thoroughly, following the guidelines provided. 
-
-</thinking>
-
 # Editorial Staff Employment Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information about new editorial staff members. This includes details such as job title, department, job grade, new hire status, job start and end dates, job type, job hours, contact information, and emergency contact information. 

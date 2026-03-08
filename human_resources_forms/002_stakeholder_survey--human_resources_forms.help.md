@@ -1,7 +1,3 @@
-<thinking>
-...the stakeholder survey form is used to gather feedback and opinions from stakeholders regarding areas of improvement for a project, team, or organization. Before proceeding, ensure this is the correct form and purpose for your specific requirements. Please do not submit redundant or duplicated data, as this may cause errors in data processing and analysis.
-</thinking>
-
 # Stakeholder Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from stakeholders on areas of improvement for a project, team, or organization. It helps to gather information on their perceptions and suggestions on what can be improved for better performance and productivity.

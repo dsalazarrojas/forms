@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather user feedback and satisfaction ratings on virtual therapy sessions. The purpose is to evaluate the effectiveness of virtual therapy and identify areas for improvement. Before completing this form, please ensure that you have already attended a virtual therapy session. 
-</thinking>
-
 # Virtual Therapy Effectiveness Survey - Help Guide
 ## Purpose
 The Virtual Therapy Effectiveness Survey is designed to gather feedback from users after their virtual therapy sessions. Your responses will help us understand your experience and identify areas for improvement.

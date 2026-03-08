@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for salon employees to apply for employment within the organization. It's used to collect contact information, job position preferences, work experience, and other relevant details for the hiring process. Ensure this form is not duplicated or unnecessary for the same purpose within the organization.
-</thinking>
-
 # salon_application_of_employment - Help Guide
 ## Purpose
 This form is for salon employees to submit their application for employment. Please fill out this form to let us know about your contact details, job preferences, and other relevant work experience.

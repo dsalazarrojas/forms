@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to notify HR of a pay rate change for an employee, which is typically initiated by the employee themselves. Before completing this form, employees should confirm that they are not duplicating a previous request, as this form is only intended for single-instance submissions. This form should only be used to request a change in pay rate, and not for other types of employee requests. If an employee is unsure or needs to request multiple changes, please contact HR for further assistance.
-</thinking>
-
 # Pay Rate Change Notification - Help Guide
 ## Purpose
 This form is designed for employees to notify HR of a change in their pay rate. It is used to communicate the new rate and the reason for the change.

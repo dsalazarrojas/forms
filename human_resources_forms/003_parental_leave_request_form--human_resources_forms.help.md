@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their parental leave requests. The purpose of the form is to allow employees to request and manage parental leave, which is a type of leave of absence from work due to family or parental responsibilities. 
-The form includes fields for employee name, job title, start and end dates of the leave, reason for the leave, manager approval and comment, employee comment, submission options, and contact information for the submitter. 
-The form should not be used to request non-parental leave, such as vacation or sick leave. 
-To avoid duplication, employees should not submit multiple requests for parental leave for the same dates. 
-Before filling out this form, employees should ensure that their manager is aware of their plans to request parental leave.
-</thinking>
-
 # Parental Leave Request Form - Help Guide
 ## Purpose
 This form is used for employees to request parental leave from work. It allows employees to provide their contact information and details about their leave request, including start and end dates, reason for the leave, and manager approval.

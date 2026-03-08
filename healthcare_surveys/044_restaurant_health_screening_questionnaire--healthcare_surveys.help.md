@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will now provide a help guide for the "Restaurant Health Screening Questionnaire" form that covers its purpose, how to complete it, and a field-by-field explanation of each section.
 
 # Restaurant Health Screening Questionnaire - Help Guide

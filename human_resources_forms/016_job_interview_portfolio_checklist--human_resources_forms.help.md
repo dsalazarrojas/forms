@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about a job interview, including details about the candidate, the job, and the interview process. This form is likely used by HR personnel or hiring managers to collect and review data about job interviews, ensuring consistency and accuracy in their records. Before proceeding, please ensure that you have not already filled out this form for the same job interview. If you have, this form can be skipped to avoid duplication of effort. Please refer to the relevant records for any existing submissions. Once you have ensured that you are not duplicating efforts, you can proceed with filling out the form...)</thinking>
-
 # Job Interview Portfolio Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect and record information about a job interview, including details about the candidate, the job, and the interview process.

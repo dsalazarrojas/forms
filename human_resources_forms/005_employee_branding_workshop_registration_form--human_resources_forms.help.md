@@ -1,5 +1,3 @@
-<thinking>Before creating this user-facing help guide, let's review the form purpose and ensure it's relevant and not duplicated. The form appears to be for employee registration for an "Employee Branding Workshop", which is likely an internal HR-related activity. This form seems to be a standard registration form with various fields to collect employee information and preferences. I'll create a help guide that's concise, concrete, and practical, explaining each field and section in a way that's easy to understand.</thinking>
-
 # Employee Branding Workshop Registration Form - Help Guide
 
 ## Purpose

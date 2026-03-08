@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Viral Infection Assessment Survey form. Before continuing, please ensure that this guide is relevant to your specific use case and that the form is not being duplicated for the same purpose. This guide is designed to walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Viral Infection Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's viral infection symptoms, exposure history, and test results. It helps healthcare providers gather essential data to assess the infection and guide further treatment.

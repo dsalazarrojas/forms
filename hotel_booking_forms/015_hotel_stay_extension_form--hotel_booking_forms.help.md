@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an extension for a hotel stay, allowing guests to provide additional information and details before their stay is extended. It is likely used in a hotel setting where guests have requested a stay extension and need to provide additional context or instructions for the hotel staff to handle the situation.
-</thinking>
-
 # Hotel Stay Extension Form - Help Guide
 ## Purpose
 This form is designed to provide guests with a way to request an extension of their hotel stay, allowing them to provide necessary information for the hotel staff to handle their stay accordingly.

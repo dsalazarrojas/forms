@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential candidates applying for a job or position within the organization. Its purpose is to gather essential details about the candidate's qualifications, experience, and availability. The form is part of the hiring process, and the information collected will be reviewed by HR personnel for evaluation. This form is intended for internal use only, and it is recommended that candidates do not share this form with external parties. Please ensure that you complete this form accurately and truthfully, as the information will be used to assess your eligibility for the position.
-
-</thinking>
-
 # Potential Candidate Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to obtain consent from patients for telehealth services, which can include virtual appointments, phone calls, and other remote consultations. This form helps ensure that patients understand the terms and conditions of telehealth services, including confidentiality, data security, and communication methods. By filling out this form, patients agree to participate in telehealth services and are aware of their responsibilities as a patient.
-</thinking>
-
 # Telehealth Patient Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain informed consent from patients for participation in telehealth services. This form ensures that patients understand and agree to the terms and conditions of telehealth consultations, including confidentiality, data security, and communication methods.

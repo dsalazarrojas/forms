@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from a community association's board of directors or a member of the association when requesting dissolution of the association. It helps to gather details about the association and the reasons for dissolution. This form should only be completed when an association is requesting dissolution and not for routine or general inquiries. Ensure you only complete this form if you are authorized to do so and have the necessary information required. It's also important to note that the completion of this form is not a substitute for any legal advice and it's always best to consult with a legal expert before proceeding with the dissolution process.
-</thinking>
-
 # Community Association Dissolution Petition - Help Guide
 ## Purpose
 This form is used to collect information from a community association's board of directors or a member of the association when requesting dissolution of the association.

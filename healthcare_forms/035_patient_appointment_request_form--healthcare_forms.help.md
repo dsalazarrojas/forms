@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for patients to request appointments with healthcare professionals or medical staff. The goal is to gather essential information about the patient, including their name, contact method, appointment date and time, contact person, medical history, appointment reason, and any additional notes. This form ensures that all required information is collected and helps the healthcare team plan and schedule appointments effectively.
-
-To determine the relevance and non-duplication of this form, we must consider the following:
-
-*   The form is used for patients to request appointments, so it's essential to have a clear understanding of its purpose and structure.
-*   The form collects information that is critical for healthcare planning and scheduling, such as contact method, appointment date and time, and medical history.
-*   The form requires all necessary fields to be completed, ensuring that patients provide all required information to schedule appointments.
-*   The form allows patients to specify their preferred contact method, which can be useful for follow-up or notification purposes.
-*   The form does not require information about the patient's relationship with the healthcare provider, which might be considered unnecessary or redundant in some cases.
-
-</thinking>
-
 # Patient Appointment Request Form - Help Guide
 
 ## Purpose

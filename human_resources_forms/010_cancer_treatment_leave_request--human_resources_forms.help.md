@@ -1,11 +1,3 @@
-<thinking>
-
-The Cancer Treatment Leave Request form is a critical document used to request leave from work due to cancer treatment. This form is designed to provide essential information about the employee's leave request, ensuring that their needs are met and that their rights are protected. Before filling out this form, please ensure that you have discussed your leave request with your supervisor and that you have a clear understanding of your company's policies and procedures regarding leave.
-
-To avoid duplication of effort, please do not submit a new request if you have already submitted one. If you have any questions or concerns, please contact your HR representative for guidance.
-
-</thinking>
-
 # Cancer Treatment Leave Request - Help Guide
 ## Purpose
 The Cancer Treatment Leave Request form is used to document an employee's request for leave due to cancer treatment. This form helps ensure that the employee's needs are met and that their rights are protected.

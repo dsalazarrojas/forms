@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document workplace harassment reports, providing a platform for employees to submit their accounts of incidents that have occurred in the workplace. When filling out this form, please ensure that it's a new, unreported incident and that you haven't already submitted one for the same event. This form will guide you through the process of reporting workplace harassment, which is a serious matter that requires immediate attention and resolution. Please answer all questions honestly and thoroughly, as this information will help HR investigate and address the situation.
-</thinking>
-
 # Workplace Harassment Report Intake Form - Help Guide
 ## Purpose
 The Workplace Harassment Report Intake Form is a platform for employees to submit reports of incidents of workplace harassment. This form is designed to collect accurate and detailed information about the incidents, which will be reviewed and addressed by HR to ensure a safe and respectful work environment.

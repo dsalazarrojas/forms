@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient data sharing contact information for the purpose of facilitating the exchange of health-related information between healthcare providers and patients. This form is designed to be completed by patients or their authorized representatives to provide contact details and express their consent for sharing their data. The form will be reviewed to ensure that the provided information is accurate and complete. If the form is incomplete or contains duplicate information, it will be returned to the user for corrections before it is processed. This form is not intended to be a substitute for any medical diagnosis or treatment; if you need medical attention, please contact your healthcare provider directly.
-</thinking>
-
 # Patient Data Sharing Contact Form - Help Guide
 ## Purpose
 This form is designed for patients or their authorized representatives to provide contact details and express their consent for sharing their health-related information between healthcare providers.

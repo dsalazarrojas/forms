@@ -1,5 +1,3 @@
-<thinking>This form is a comprehensive intake form designed for pregnant clients to gather information about their personal and pregnancy details. It is used to help doulas understand the clients' birth plans, preferences, and expectations during the pregnancy journey. The form collects contact information, medical and pregnancy history, birth plans, doula support expectations, and postpartum care details. This form ensures that the doula has a complete understanding of the client's needs and can provide the necessary support and care.</thinking>
-
 # Birth Doula Intake Form - Help Guide
 ## Purpose
 The Birth Doula Intake Form is a comprehensive form designed to gather information about your pregnancy, birth plans, and preferences. This form will help your doula understand your needs and provide the best possible support during your pregnancy journey.

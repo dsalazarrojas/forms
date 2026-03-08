@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Medical Eligibility Form is to gather information about patients who are seeking medical attention or treatment. This form will help healthcare providers assess the eligibility of patients for certain medical services or programs. 
-Before completing this form, please ensure that you have the necessary permissions from the patient to collect and use their personal data. 
-
-Please note that this form will be used to make decisions about medical eligibility, not to gather information for billing or administrative purposes. 
-Also, be aware that some fields may be optional, but they are included to gather more comprehensive information about the patient's status. 
-</thinking>
 # Medical Eligibility Form - Help Guide
 ## Purpose
 The Medical Eligibility Form is a document used to determine whether patients are eligible for certain medical services or programs. 

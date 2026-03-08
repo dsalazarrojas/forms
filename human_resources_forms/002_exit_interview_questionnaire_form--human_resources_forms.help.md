@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from departing employees about their overall experience at the company. This form is designed to gather information about their satisfaction with their job, manager, and work-life balance, as well as their reason for leaving and any comments or suggestions they may have. This information will help the company understand what it can improve on in the future.
-
-Before completing this form, please ensure that you are not filling it out in duplicate. If you have already completed an exit interview, please do not submit this form.
-
-</thinking>
 # Exit Interview Questionnaire Form - Help Guide
 ## Purpose
 The Exit Interview Questionnaire Form is designed to gather feedback from departing employees to help the company understand their experiences and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Soap Note Form is to gather relevant information about a patient's health condition, medical history, and other essential details that are crucial for healthcare professionals to provide effective care. This form should only be used for patients who are experiencing skin-related issues, such as skin conditions or skin infections, and should not be duplicated with other forms designed for general patient information or medical histories. It is essential to ensure that the form is completed accurately and thoroughly to provide the best possible care for the patient.
-</thinking>
-
 # Soap Note Form - Help Guide
 ## Purpose
 This guide will walk you through the Soap Note Form, explaining its purpose, how to complete it, and what each field means.

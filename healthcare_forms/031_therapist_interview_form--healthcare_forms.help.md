@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to gather information about a client's personal details, medical history, mental status, support system, and emergency contact information during a therapist's interview. This form aims to ensure that all relevant client data is collected in a structured and comprehensive manner, making it easier for the therapist to assess the client's situation and provide effective support. Please note that this form is not intended to replace professional medical or therapeutic expertise and should only be used as a guide for data collection.
-</thinking>
-
 # Therapist Interview Form - Help Guide
 ## Purpose
 The Therapist Interview Form is a comprehensive guide for collecting client information during an interview. This form is designed to help therapists gather essential details about the client's personal and medical history, mental status, support system, and emergency contact information.

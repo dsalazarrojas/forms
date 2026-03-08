@@ -1,9 +1,3 @@
-<thinking>
-
-Before proceeding, let's confirm that the form "Client Therapy Session Notes" is intended for capturing notes and observations from therapy sessions. This form is likely used by healthcare professionals, such as therapists or counselors, to document client interactions, progress, and treatment plans. The form is designed to help gather essential information for client care and treatment outcomes. To ensure that this form is being used correctly and effectively, please review the following help guide to get the most out of it.
-
-</thinking>
-
 # Client Therapy Session Notes - Help Guide
 ## Purpose
 The "Client Therapy Session Notes" form is used to document and record information from therapy sessions, providing valuable insights and observations for client care and treatment outcomes. This form helps healthcare professionals gather and organize essential data for future sessions, progress tracking, and treatment planning.

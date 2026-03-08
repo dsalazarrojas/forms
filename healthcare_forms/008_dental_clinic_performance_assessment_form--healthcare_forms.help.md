@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to assess the performance of a dental clinic. This form helps healthcare professionals evaluate the services provided by the clinic, gather patient feedback, and gather information on the rating and comments from patients. This form is likely used by administrators or managers in the healthcare sector to monitor and improve the performance of dental clinics.
-
-Before filling out this form, please note that it has a few fields that are not required, so feel free to fill out as much or as little as you need. Also, make sure to check if you've already filled out a form like this before, to avoid duplicating effort.
-</thinking>
-
 # dental_clinic_performance_assessment_form - Help Guide
 
 ## Purpose

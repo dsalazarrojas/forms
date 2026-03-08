@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction of healthcare products and services. The primary goal is to understand how well a product or service meets the needs of its users. This form should not be completed by non-clinical staff, as it requires input from individuals who have directly interacted with the product or service. It's essential to review the completed form to ensure that all required fields have been filled out before submitting.
-</thinking>
-
 # Health Product Satisfaction Survey - Help Guide
 ## Purpose
 This form is used to measure the satisfaction of healthcare products and services. It aims to gather feedback and ratings to help improve the quality and effectiveness of these products and services.

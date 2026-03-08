@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "nutrition_screening_form" form, I will analyze the provided YAML fields and provide a clear and concise guide on how to complete the form and explain each field.
 
 </thinking>

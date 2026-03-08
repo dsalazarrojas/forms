@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for the selection of finance executives in an organization. It's likely used by HR teams or management to gather information on potential candidates for finance executive positions. The form is probably used to collect relevant details about the candidates, such as their role, skills, and experience. 
-
-The form has 6 text fields and 1 select multiple field. The text fields might be used to gather more details about the candidates, while the select multiple field is probably used to specify the role of the finance executive. 
-
-Please note that this form is likely not meant to be filled out by candidates themselves, but rather by HR personnel or someone else involved in the selection process.
-
-</thinking>
-
 # Finance Executive Selection Survey - Help Guide
 ## Purpose
 This form is used to gather information on potential candidates for finance executive positions in an organization. It helps HR teams or management to evaluate and select the best candidates for these roles.

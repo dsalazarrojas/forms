@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Gynaecology Questionnaire form is to collect information from patients about their medical history, contact information, and appointment details. The form is designed to gather data that can be used by healthcare providers to better understand the patient's condition, medical history, and contact preferences. It is intended for use by patients, healthcare professionals, and medical organizations to facilitate the collection of accurate and comprehensive medical records.
-The form consists of 13 fields that are divided into two categories: personal details and contact information. The personal details section (pages 1-3) asks for the patient's personal information, medical history, and contact preferences. The contact information section (pages 4-13) inquires about the patient's contact information, appointment dates and times, medical specialist, hospital admission, and discharge date.
-It is essential to note that the form is not required to be completed in its entirety; users can choose which fields to fill out based on their needs. The form's design allows for flexibility and adaptability to cater to different users' needs.
-</thinking>
-
 # Gynaecology Questionnaire - Help Guide
 ## Purpose
 The Gynaecology Questionnaire form is designed to collect information about patients' medical history, contact information, and appointment details to improve patient care and medical record accuracy.

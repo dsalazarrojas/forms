@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather feedback from teams and partners involved in the Digital Health Ecosystem Pilot project. The purpose of this form is to capture information about the benefits, challenges, improvements, and lessons learned from the pilot, as well as the team and partner organizations involved. This information will help evaluate the pilot's effectiveness and identify areas for improvement. Please ensure that each response is specific to the pilot in question and not duplicated in other feedback forms.
-
-To complete this form, please follow the instructions below:
-
-1.  Answer each question thoroughly and concisely. 
-2.  If you are unsure about a question, use the "Other (please specify)" option where applicable.
-3.  Be as concrete as possible when providing dates.
-
-</thinking>
-
 # Digital Health Ecosystem Pilot Evaluation Form - Help Guide
 ## Purpose
 The Digital Health Ecosystem Pilot Evaluation Form is a survey designed to gather feedback and information from teams and partners involved in the Digital Health Ecosystem Pilot project. This feedback will help us evaluate the pilot's effectiveness and identify areas for improvement.

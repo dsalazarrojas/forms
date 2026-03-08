@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to monitor the mental health status of patients undergoing psychotropic medication treatment. The purpose of this form is to track patients' progress, note any changes in their mental status, and record any relevant notes about their treatment. This form is intended for healthcare professionals to collect information about patients' medication lists, mental status, and treatment progress. It is not meant to be a comprehensive or definitive medical record, but rather a supplementary tool to aid healthcare providers in monitoring and managing patient care.
-</thinking>
-
 # psychotropic_medication_monitoring_form - Help Guide
 ## Purpose
 The purpose of this form is to monitor the mental health status of patients undergoing psychotropic medication treatment.

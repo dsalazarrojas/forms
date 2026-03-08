@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from patients about their mental health, medical history, and other relevant details. The purpose of this form is to gather data for clinical use, and it does not aim to replace professional medical advice. Please ensure that you have reviewed and understood the content before proceeding. This form's design and content are based on public survey topic metadata and are not endorsed or affiliated with any specific form platform or medical organization.</thinking>
-
 # Psychology Questionnaire - Help Guide
 ## Purpose
 The Psychology Questionnaire is a form designed to collect information from patients about their mental health, medical history, and other relevant details.

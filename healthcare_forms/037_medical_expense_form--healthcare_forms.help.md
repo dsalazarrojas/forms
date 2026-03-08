@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created to inform end users about the purpose and requirements of the "Medical Expense Form" in the context of the "Healthcare Forms" category. This form is designed to collect information about medical expenses, and it is crucial to ensure that the data collected is accurate and complete for processing. Before proceeding, please ensure that this form is relevant to your medical expense submission and that you have not already submitted this information.
-
-</thinking>
-
 # Medical Expense Form - Help Guide
 ## Purpose
 The Medical Expense Form is designed to collect information about medical expenses, such as the date of the expense, the amount, and the type of medical service received. This form is intended to help healthcare providers and administrators to accurately process and manage medical expenses.

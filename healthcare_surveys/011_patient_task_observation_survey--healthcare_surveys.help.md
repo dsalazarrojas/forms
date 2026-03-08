@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about patients' tasks and observations from healthcare professionals. This form is likely used to monitor patients' progress, assess their treatment plans, and identify areas for improvement or potential complications. Before filling out this form, ensure that you have reviewed the patient's medical records and understand their current treatment status.
-</thinking>
-
 # Patient Task Observation Survey - Help Guide
 ## Purpose
 This form is used to collect information from healthcare professionals about patients' tasks and observations, enabling monitoring and assessment of patient progress and treatment plans.

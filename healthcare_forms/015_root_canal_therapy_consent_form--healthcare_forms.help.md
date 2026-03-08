@@ -1,9 +1,3 @@
-<thinking> 
-  This form is used to capture the consent of a patient for root canal therapy. The form is a legal document that outlines the terms and conditions of the treatment, and it's essential for the patient to understand and agree to these terms before undergoing the procedure. 
-  The form typically contains fields for the patient's name, contact information, medical history, and emergency contact details, as well as a section for the patient's consent to the treatment. 
-  Ensure this form is not duplicated in multiple locations, as it may lead to confusion and non-compliance. 
-</thinking> 
-
 # Root Canal Therapy Consent Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-A patient referral form is a tool used to collect relevant information about a patient's visit to a healthcare provider. This information is typically used to facilitate communication between the patient's current healthcare provider and the healthcare provider they are being referred to. It is essential to ensure that the form is completed accurately and thoroughly to provide the best possible care for the patient. Before filling out the form, please ensure that you have the necessary information and permission to access the patient's data.
-</thinking>
-
 # Patient Referral Form - Help Guide
 ## Purpose
 The Patient Referral Form is used to collect information about a patient's visit to facilitate communication between healthcare providers.

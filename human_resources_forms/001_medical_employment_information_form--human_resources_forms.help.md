@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 This form is designed to collect medical employment information from employees to ensure compliance with relevant laws and regulations. Please complete this form to provide accurate and up-to-date information about your employment status and medical conditions.

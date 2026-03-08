@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, it's essential to have clear and concise documentation of each daycare facility's compliance with medical standards. This Pediatric Medical Daycare Inspection Form is a crucial tool for assessing the quality and safety of pediatric medical facilities. Before proceeding, ensure that you are familiar with the facility's policies and procedures and that this form is relevant to your specific use case.</thinking>
-
 # Pediatric Medical Daycare Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect and document the compliance of pediatric medical facilities with established medical standards. It helps to identify areas of improvement and ensure the safety and well-being of children.

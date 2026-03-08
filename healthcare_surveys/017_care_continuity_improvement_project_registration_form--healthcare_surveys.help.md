@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to collect information about a care continuity improvement project. This information will help the project team track and manage the project's progress, goals, and timeline. To ensure accurate data and avoid duplication, please review the form carefully before submitting.
-</thinking>
-
 # Care Continuity Improvement Project Registration Form - Help Guide
 ## Purpose
 The Care Continuity Improvement Project Registration Form is used to gather essential details about a care continuity improvement project. This information will be used by the project team to track and manage the project's progress, goals, and timeline.

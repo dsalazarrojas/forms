@@ -1,11 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "new_patient_nutrition_assessment_form" form. This form is used for assessing the nutritional needs of new patients. The form is divided into six pages, each with its own specific purpose and questions. The form does not have any required fields, which means users have the flexibility to fill out only the information that is relevant to them. However, it's essential to ensure that all necessary information is captured to provide accurate assessments. 
-
-To complete the form, start by filling out the information on pages 1 through 6, taking note of any specific instructions or hints provided on each page. The form is designed to capture a comprehensive picture of the patient's nutritional needs and preferences.
-
-When filling out the form, pay attention to the type of field (e.g., text, number, select_one) and the required or optional status of each field to ensure accurate completion.
-</thinking>
-
 # new_patient_nutrition_assessment_form - Help Guide
 ## Purpose
 The "new_patient_nutrition_assessment_form" is a comprehensive form used for assessing the nutritional needs and preferences of new patients.

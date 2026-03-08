@@ -1,12 +1,3 @@
-<thinking>
-This form, the "Covid 19 Vaccine Waiting List" form, is intended to collect information from individuals or customers about their availability and preferences for receiving the Covid-19 vaccine. This form aims to provide an efficient way to gather data on potential vaccine recipients. Before filling out this form, please ensure you're filling it out for a legitimate reason and not duplicating an existing submission.
-
-When using this form, please note that some fields are not required, which means you can leave them blank if they do not apply to your situation.
-
-The form is divided into several sections, each designed to collect specific information.
-
-</thinking>
-
 # Covid 19 Vaccine Waiting List - Help Guide
 ## Purpose
 This form is used to collect information from individuals or customers about their availability and preferences for receiving the Covid-19 vaccine.

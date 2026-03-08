@@ -1,34 +1,3 @@
-<thinking>
-To create an effective help guide for the "Hospitality Service Partner Registration" form, let's first outline the internal reasoning behind this form's purpose. 
-
-This form is designed for hospitality service partners to register their information with the organization. The form aims to collect general information, contact details, vendor specifics, and other relevant data from the partner. 
-
-It's essential to ensure that the form is not submitted by non-existent or duplicate entities to maintain data accuracy and prevent over-registration. To check for non-duplication, the form might include unique identifiers or verification processes, such as email or phone number confirmation.
-
-The form is likely used for several purposes:
-- To establish a partnership with the service provider.
-- To collect and verify contact and location details.
-- To gather information about the services offered.
-- To confirm payment terms and agreement.
-
-The form's structure includes fields for:
-- General information
-- Contact person
-- Vendor details (including options for different types of vendors)
-- Documents (for attachments or upload)
-- Services offered
-- Location
-- Contact email
-- Contact phone number
-- Website
-- Payment terms
-- Agreement
-- Signature (for confirmation)
-- Submit (for form submission)
-
-This form is designed to be completed by service partners who want to register their details with the organization.
-</thinking>
-
 # Hospitality Service Partner Registration - Help Guide
 ## Purpose
 The "Hospitality Service Partner Registration" form is designed for hospitality service partners to register their information with the organization. This form helps establish a partnership with the service provider, collects and verifies contact and location details, gathers information about the services offered, and confirms payment terms and agreement.

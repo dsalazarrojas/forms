@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture the informed consent of patients for physical therapy services.
-This form is typically filled out by patients to indicate their willingness to receive treatment and to acknowledge their understanding of their treatment plan. 
-It is an essential document for healthcare providers to ensure that patients are fully aware of their treatment options and any potential risks involved. This form should only be used for physical therapy services. If the form is filled out incorrectly, it may lead to confusion or miscommunication between healthcare providers and the patient.
-</thinking>
-
 # Physical Therapy Informed Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain the informed consent of patients for physical therapy services.

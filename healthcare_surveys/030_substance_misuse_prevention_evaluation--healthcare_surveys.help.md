@@ -1,16 +1,3 @@
-<thinking>
-The Substance Misuse Prevention Evaluation form is designed to collect information about substance misuse prevention programs. This form is used to evaluate and improve the effectiveness of these programs. It is not intended to be a comprehensive or definitive measure of program success, but rather a tool to help identify areas for improvement.
-
-To ensure that the data collected through this form is accurate and useful, it is essential to complete it correctly. 
-
-When filling out this form, please keep in mind that some fields are optional and only relevant to specific programs or circumstances. Make sure to provide clear and concise answers, as they will help to inform program development and improvement.
-
-The form is split into two pages: the first page collects general information about the program, while the second page is for additional details and contact information.
-
-Before proceeding, ensure that you have all the necessary information to complete the form accurately and thoroughly.
-
-</thinking>
-
 # Substance Misuse Prevention Evaluation - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to request exceptions to their time clock, which are used to track employee attendance and time off. Exceptions can be requested for on-the-job injuries, off-the-job injuries, illnesses, or other reasons. The form is used by employees to submit their request, and by managers to approve or reject requests. This form is only accessible to authorized users.
-</thinking>
-
 # Time Clock Exception Form - Help Guide
 ## Purpose
 The Time Clock Exception Form is used to request exceptions to an employee's time clock, which are used to track employee attendance and time off.

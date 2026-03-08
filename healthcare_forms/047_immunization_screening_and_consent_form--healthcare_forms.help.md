@@ -1,7 +1,3 @@
-<thinking> 
-  This form is designed to gather information about a patient's immunization status, medical history, allergies, medications, vaccinations, patient consent, contact information, and contact relationship. The form will ask for demographic details about the patient, their medical background, and any allergies they may have. It will also ask for their vaccination status and consent to be immunized. Additionally, the form will collect information about their contact relationship, such as who the contact person is and their relationship to the patient. This guide will walk you through each step of the form, explaining what each section and field means and how to complete it accurately and efficiently.
-</thinking>
-
 # Immunization Screening And Consent Form - Help Guide
 
 ## Purpose

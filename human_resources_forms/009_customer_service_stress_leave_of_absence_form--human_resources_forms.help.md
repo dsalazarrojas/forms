@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Customer Service Stress Leave Of Absance Form" form. Before I start writing the help guide, let me clarify the form's purpose and relevance. This form is used to document and track employee stress leave requests within the Customer Service department. The form aims to ensure that all necessary information is gathered and approved before granting or denying stress leave, and to help managers and team leads make informed decisions. To avoid duplication and ensure consistency, it is essential to follow this guide carefully.</thinking>
-
 # Customer Service Stress Leave Of Absance Form - Help Guide
 
 ## Purpose

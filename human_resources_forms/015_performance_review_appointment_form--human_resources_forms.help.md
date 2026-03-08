@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for performance review appointments. It allows users to schedule and manage performance reviews. The purpose of this form is to gather information and make selections necessary for conducting a performance review. 
-
-The form has eight fields. The first field asks the user to select the type of review that should be conducted. The subsequent fields ask the user to select the manager, employee, date, time, and review status. The final field is for adding notes, which is optional.
-
-</thinking>
-
 # performance_review_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule and manage performance reviews.

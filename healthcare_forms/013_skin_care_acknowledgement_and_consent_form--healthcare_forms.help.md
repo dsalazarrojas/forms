@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to obtain an acknowledgement and consent from individuals or organizations for skin care services. This form ensures that the service provider has the necessary information and consent to proceed with the service. It's essential to fill out this form carefully to avoid any potential issues or misunderstandings.
-
-When filling out this form, please ensure that you're using the correct category and description for your skin care service. The category should match the type of service you're providing, and the description should accurately reflect the details of the service.
-
-This form is not intended to be a comprehensive medical questionnaire, but rather a general acknowledgement and consent form for skin care services.
-
-</thinking>
-
 # Skin Care Acknowledgement And Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain an acknowledgement and consent from individuals or organizations for skin care services.

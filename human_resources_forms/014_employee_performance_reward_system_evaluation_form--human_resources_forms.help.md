@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll assume the provided YAML file defines a complex form with various fields for evaluating employee performance. To create a user-facing help guide, I'll focus on understanding the form's purpose, structure, and field explanations. After reviewing the YAML file, I'll generate a Markdown help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # **employee_performance_reward_system_evaluation_form - Help Guide**
 
 ## **Purpose**

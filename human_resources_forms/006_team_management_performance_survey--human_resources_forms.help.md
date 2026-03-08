@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to collect feedback and performance data from team members, possibly for HR or management purposes. The form seems to cover various aspects of team performance, including feedback from employees, suggestions, performance ratings, and evaluation frequency. It also includes fields for team name, role, department, location, and contact information.
-</thinking>
-
 # Team Management Performance Survey - Help Guide
 
 ## Purpose

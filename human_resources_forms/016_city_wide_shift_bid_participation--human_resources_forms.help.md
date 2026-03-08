@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "City Wide Shift Bid Participation" form is used for employees to express their willingness to work on different shifts. This form helps to gather information about employee preferences and availability, making it easier for managers to allocate work shifts more fairly. To ensure that employees with higher seniority (years of service) are not penalized, and to account for any potential conflicts of interest, this form also collects information on employee experience and manager approval status.
 
 Please note that some fields are optional and only required for specific purposes. For example, the "Willingness to trade shifts" field is only necessary if the employee is willing to trade shifts. Similarly, the "Manager approval needed" field is only required if pre-approval exists.

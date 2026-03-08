@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Education Verification Form Template - Help Guide
 
 ## Purpose

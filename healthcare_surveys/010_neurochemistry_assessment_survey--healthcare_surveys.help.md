@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users on their emotional state, behavior, and lifestyle. This form will help the user identify any potential correlations between their neurochemistry, emotional state, and behavior. The form is intended to be used by healthcare professionals to assess the user's mental health and provide personalized recommendations. Please ensure that all questions are relevant to your specific situation, and answer accordingly. Please note that this form is not intended to replace professional medical advice.
-</thinking>
-
 # Neurochemistry Assessment Survey - Help Guide
 ## Purpose
 The Neurochemistry Assessment Survey is designed to help healthcare professionals understand your emotional state, behavior, and lifestyle. This information will help them provide personalized recommendations to improve your mental health.

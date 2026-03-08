@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather data on an employee's professional growth and development within the organization. It aims to help managers and HR teams understand an individual's job satisfaction, rating of job satisfaction, skills needed, and training requirements. Completing this form will help in identifying areas of growth, improvement, and potential bottlenecks in an employee's career development. Before filling out this form, it is recommended to review the questions carefully to ensure you are providing accurate and relevant information.
-
-Please note that this form is designed to be completed by employees, and the information gathered will be used internally for professional development purposes only. If you have filled out this form previously, please ensure you are not duplicating your responses.
-
-This form is composed of 4 sections, each designed to gather specific information about your professional growth and development.
-
-</thinking>
-
 # professional_growth_opportunities_questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about your job satisfaction, job satisfaction rating, skills needed, and training needs to help in your professional growth and development.

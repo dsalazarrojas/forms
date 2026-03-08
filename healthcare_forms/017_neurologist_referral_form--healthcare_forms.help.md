@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # neurologist_referral_form - Help Guide
 ## Purpose
 The Neurologist Referral Form is designed to facilitate communication between healthcare providers and specialists in the field of neurology. This form enables efficient and accurate referrals, ensuring that patients receive the necessary attention from the right medical professionals. By completing this form, you will be able to provide essential information about the patient, including their name, birth date, medical history, and any relevant contact details. The form also helps in assessing the patient's medical specialty, ensuring that the referral is made to the appropriate specialist.

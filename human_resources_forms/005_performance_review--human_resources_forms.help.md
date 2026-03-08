@@ -1,5 +1,3 @@
-<thinking>...This form is designed to conduct performance reviews of employees. Performance reviews are an essential part of the evaluation process in many organizations, allowing managers to assess an employee's progress and growth over a specific period. This form helps facilitate a structured and fair evaluation of employee performance. By completing this form, reviewers provide a comprehensive review of an employee's performance, including their strengths, weaknesses, and areas for improvement. Please ensure you complete this form accurately and thoroughly to ensure a fair and constructive review.</thinking>
-
 # Performance Review - Help Guide
 ## Purpose
 The Performance Review form is used to evaluate an employee's progress and growth during a specific period. It helps reviewers provide constructive feedback and guidance for improvement.

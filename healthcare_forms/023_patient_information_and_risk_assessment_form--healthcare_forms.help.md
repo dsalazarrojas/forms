@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect and document patient information, medical history, and risk assessment data for healthcare purposes. It is intended to be used by healthcare professionals to gather and record patient data in a standardized format. The form is composed of multiple pages, each with its own set of fields and sections. Each page is designed to collect specific information, such as patient demographics, medical history, and risk factors.</thinking>
-
 # Patient Information And Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect and document patient information, medical history, and risk assessment data for healthcare purposes.

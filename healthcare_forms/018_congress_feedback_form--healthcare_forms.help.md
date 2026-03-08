@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from attendees of congresses, events, or conferences. The feedback will help event organizers improve future events by understanding the attendee's overall satisfaction, experience, and suggestions for improvement. To ensure that your feedback is valuable and actionable, please provide honest and specific comments. Also, ensure you're aware that you can remain anonymous, and thus, your name and email are optional fields.
-
-</thinking>
-
 # Congress Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of congresses or events. Your input will help event organizers understand what they did well and areas for improvement.

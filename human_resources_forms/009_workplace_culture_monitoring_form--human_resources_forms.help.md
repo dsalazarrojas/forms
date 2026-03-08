@@ -1,7 +1,3 @@
-<thinking>
-The workplace culture monitoring form is a tool used to gather insights on the workplace culture within an organization. This form is meant to collect feedback and perceptions from employees on various aspects of their work environment, including their physical work environment, communication, feedback, and team dynamics. It is designed to help managers and HR teams understand the strengths and weaknesses of the company culture and make informed decisions to improve it.
-</thinking>
-
 # Workplace Culture Monitoring Form - Help Guide
 ## Purpose
 The Workplace Culture Monitoring Form is a tool used to gather insights on the workplace culture within an organization. It is designed to collect feedback and perceptions from employees on various aspects of their work environment, including work environment, communication, feedback, team dynamics, management, diversity and inclusion, employee satisfaction, and team satisfaction.

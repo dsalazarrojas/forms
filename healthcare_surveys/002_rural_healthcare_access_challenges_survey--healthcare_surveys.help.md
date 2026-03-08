@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **rural_healthcare_access_challenges_survey - Help Guide**
 
 ## Purpose

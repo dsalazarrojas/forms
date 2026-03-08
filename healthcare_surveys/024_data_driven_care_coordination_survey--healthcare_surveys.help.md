@@ -1,9 +1,3 @@
-<thinking>
-The Data Driven Care Coordination Survey is a form designed to gather insights from healthcare professionals on the challenges and best practices in care coordination. The goal is to understand how data-driven approaches can help improve care coordination and what actions can be taken to address common challenges. This form is intended to be used in a healthcare setting, such as hospitals or medical clinics, where care coordination is a critical aspect of patient care. By completing this survey, respondents will be contributing to the development of more effective care coordination strategies.
-
-To ensure accurate and helpful responses, please review the form carefully and answer each question honestly. The survey consists of 5 pages, with each page addressing a specific topic related to care coordination. If you have any questions or concerns, please don't hesitate to reach out to the survey administrators.
-</thinking>
-
 # Data Driven Care Coordination Survey - Help Guide
 ## Purpose
 The Data Driven Care Coordination Survey is a tool used to gather insights from healthcare professionals on the challenges and best practices in care coordination. The goal is to understand how data-driven approaches can improve care coordination and what actions can be taken to address common challenges.

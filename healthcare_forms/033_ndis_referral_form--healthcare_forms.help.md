@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by end-users and that they understand its purpose and usage. The "NDIS Referral Form" is a form designed to gather information from individuals seeking referrals for the National Disability Insurance Scheme (NDIS). This form is used to collect personal details and referral request information from individuals, as well as their contact details for follow-up.
-
-To ensure that the form is not used inappropriately, we need to make sure that end-users understand when to use it. This form should only be used for referrals for the NDIS, and not for any other purpose.
-
-We should also check that the form is not being used to collect duplicate data. To avoid duplication, end-users should ensure that they are not submitting the form more than once for the same referral request.
-
-</thinking>
-
 # NDIS Referral Form - Help Guide
 ## Purpose
 The NDIS Referral Form is a tool designed to collect information from individuals seeking referrals for the National Disability Insurance Scheme (NDIS). This form helps in gathering personal details and referral request information, as well as contact details for follow-up.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form, FMLA Policy Form, is used to document leave of absence requests by employees. The form helps supervisors and HR personnel track and manage employee leave of absences in accordance with the Family and Medical Leave Act (FMLA). Before proceeding, please ensure you are aware of the purpose and requirements of the FMLA.
-
-</thinking>
-
 # FMLA Policy Form - Help Guide
 ## Purpose
 The FMLA Policy Form is designed to collect essential information about an employee's leave of absence request, including details about the leave reason, dates, and required approvals.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to document and obtain consent from individuals who are participating in medical procedures. This form is used to gather information about the participant and their legal guardian, if applicable, and to confirm that the participant understands the risks associated with the procedure. This form is intended for use in a healthcare setting, such as hospitals, clinics, or medical offices. It is used to ensure that all participants understand their rights and responsibilities and to provide a clear and concise record of the consent process.
-
-This form should only be used by authorized personnel in the healthcare industry and should not be used for any other purpose. The information collected on this form is confidential and will be used to protect the participant's rights and interests.
-
-</thinking>
-
 # Medical Liability Waiver Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by healthcare professionals or researchers to collect information about infant feeding practices, guidelines, and experiences. It's probably part of a larger research study or quality improvement initiative in a healthcare setting. The form's purpose is to collect data on various aspects of infant feeding, such as the type of feeding, frequency, and satisfaction levels. It's essential to fill out this form carefully and accurately to ensure the reliability and validity of the collected data. The form is likely designed for use in a clinical or research setting, so it's crucial to follow the instructions carefully to avoid errors or misinterpretation of the results.
-</thinking>
-
 # infant_feeding_guidelines_survey - Help Guide
 ## Purpose
 This form is designed to collect information about infant feeding practices, guidelines, and experiences from healthcare professionals or caregivers. It is used to gather data for research or quality improvement initiatives in healthcare settings.

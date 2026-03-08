@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Homeowners Association Estoppel Request" form, I will first provide a brief internal reasoning block to explain the form's purpose and ensure that the form is relevant and not a duplicate.
-
-This form is designed to collect information from homeowners or individuals who need to submit an estoppel request, which is a formal declaration that a homeowner's association (HOA) has not received a certain notice or payment. The form aims to gather essential details to facilitate the estoppel process, including the address, name, and signature of the individual submitting the request. The form is likely used by HOAs to verify the authenticity of requests and ensure that all necessary information is gathered efficiently.
-
-</thinking>
-
 # Homeowners Association Estoppel Request - Help Guide
 
 ## Purpose

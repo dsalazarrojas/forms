@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to create a list of target clients for a particular healthcare-related project or initiative. This form is used to collect information about the clients, including their basic contact details, job title, department, and job description. The form is designed to be completed by users who need to manage or interact with these clients.
-The form is intended to be used for internal purposes only, and the information collected will be used to populate a database or other internal system. It's essential to ensure that the same client is not accidentally duplicated in the system, and therefore, the form is designed to be filled out once per client.
-When filling out this form, please make sure to double-check the email address format before submitting it. The form will not accept email addresses with any typos or invalid formats.
-</thinking>
-
 # Target Client List Form - Help Guide
 ## Purpose
 This form is designed to create a list of target clients for a healthcare-related project or initiative. The form collects basic contact details, job title, department, and job description of the clients.

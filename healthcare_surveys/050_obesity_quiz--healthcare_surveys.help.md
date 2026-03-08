@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about users' demographics, health status, and lifestyle habits related to obesity. This form is likely used for research or surveying purposes in the healthcare field. Before proceeding, ensure you have not completed this form before as it might be a duplicate.
-</thinking>
-
 # Obesity Quiz - Help Guide
 ## Purpose
 This form collects information about users' demographics, health status, and lifestyle habits related to obesity. It is designed for research or survey purposes in the healthcare field.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback on the quality of healthcare communication and transparency. The purpose of this form is to assess the level of perceived transparency, trust, and clarity of health information provided to patients. It is crucial that the form is completed accurately and truthfully, as it will be used to improve the quality of care and communication within the healthcare system. Please make sure to complete this form only once you have experienced healthcare services or received health information from the healthcare team. If you have already completed this form, your responses will not be duplicated.
-</thinking>
-
 # health-communication-transparency-survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality of healthcare communication and transparency. It helps healthcare providers understand how well they are communicating with their patients and identify areas for improvement.

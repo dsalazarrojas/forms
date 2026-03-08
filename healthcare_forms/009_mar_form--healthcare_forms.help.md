@@ -1,8 +1,3 @@
-<thinking>
-The mar_form is used to document medication administration events for patients. This form will help healthcare professionals track and record information about medication administration, including details about the medication, patient, and administration event.
-To ensure consistency and accuracy, please verify that the form fields match the actual medication administration events.
-</thinking>
-
 # mar_form - Help Guide
 ## Purpose
 The mar_form is used to document medication administration events for patients.

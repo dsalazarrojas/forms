@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to create a prescription for a patient's wheelchairs, taking into account their personal details and wheelchair specifications. This form should only be completed by authorized healthcare professionals. Please note that this is a one-time submission, and any subsequent updates should be done through the patient's record in the healthcare management system.
-
-</thinking>
-
 # Wheelchair Prescription Form - Help Guide
 ## Purpose
 The Wheelchair Prescription Form is used to create a personalized prescription for a patient's wheelchair, taking into account their personal details and wheelchair specifications.

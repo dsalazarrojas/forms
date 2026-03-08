@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help dental practices assess and improve their emergency preparedness. The form is part of a broader effort to standardize and document emergency protocols within the industry. 
-
-The form has been designed based on the following requirements and considerations: 
-• The form should be easy to complete and user-friendly.
-• The form should cover all relevant information that a dental practice should have in place for emergency preparedness.
-• The form should be free from proprietary content and biases.
-• The form should be easily adaptable and modifiable by users. 
-
-To the best of our knowledge, there are no other forms with the same title, purpose, and structure as this form. 
-</thinking>
-
 # Emergency Preparedness For Dental Practices - Help Guide
 ## Purpose
 This form is designed to help dental practices assess and improve their emergency preparedness. It is a comprehensive document that collects information on the general emergency plans, role assignment, data collection, and other relevant aspects of emergency preparedness in dental practices.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online-doctor-appointment-form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for a doctor's online appointment. It gathers essential details for the medical professional to prepare for the appointment and provide quality service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow employees to nominate their manager for the Manager of the Year award. The purpose of this form is to gather feedback from employees on their manager's performance and leadership skills, which will be used to determine the manager with the highest ratings. The survey is anonymous and all responses will be kept confidential. It's essential that the responses are honest and provide constructive feedback to help improve the management team. To ensure the quality of the feedback, please only respond if you have had a manager in the department during the relevant time frame. If you've responded to this survey before, please don't repeat your response, as the goal is to provide new and unique feedback.
-</thinking>
-
 # Manager of the Year Survey - Help Guide
 ## Purpose
 The Manager of the Year Survey is an anonymous feedback mechanism that allows employees to provide feedback on their manager's performance and leadership skills. The survey is designed to help identify the manager with the highest ratings in the department, which will receive the Manager of the Year award.

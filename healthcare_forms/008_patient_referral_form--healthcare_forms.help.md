@@ -1,5 +1,4 @@
-# <thinking>...</thinking>
-This form is used for referring a patient to healthcare services, allowing healthcare providers to share relevant information about the patient's medical history, diagnosis, and treatment preferences with other care providers. To ensure accurate and comprehensive referrals, complete this form carefully and thoroughly. Please note that this form is not a substitute for a formal medical consultation or diagnosis.
+# This form is used for referring a patient to healthcare services, allowing healthcare providers to share relevant information about the patient's medical history, diagnosis, and treatment preferences with other care providers. To ensure accurate and comprehensive referrals, complete this form carefully and thoroughly. Please note that this form is not a substitute for a formal medical consultation or diagnosis.
 
 </thinking>
 

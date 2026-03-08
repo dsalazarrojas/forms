@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "nef_par_q" form based on the provided YAML fields. To start, I will review the YAML structure and understand the form's purpose, which is not explicitly stated. However, based on the various input types (text, select_one, select_multiple, date, number, time, select_one), it appears that the form is for collecting demographic information or conducting a survey or questionnaire with multiple sections. I will also check for any non-duplication or inconsistencies in the form structure, and it seems that all fields are unique and follow the same naming convention (page_x).
-
-The form consists of 25 fields distributed across multiple pages, and most fields are marked as required. Each page is identified by its id number and has a corresponding name, label, and hint (if provided). The options for select_one, select_multiple, and yes/no questions are mostly binary, with "Yes" and "No" options available. The date and time fields might be for collecting specific dates or times of events, while the text fields could be for collecting free-form text responses. The number fields may be for collecting numerical values or ages.
-
-To create the help guide, I will carefully follow the provided structure and create a concise and practical explanation for each field, ensuring that the end-user understands the purpose and expected input of each field.</thinking>
-
 # nef_par_q - Help Guide
 ## Purpose
 The "nef_par_q" form is designed to collect demographic information or conduct a survey or questionnaire with multiple sections. This form is used to gather responses from end-users and is composed of 25 fields distributed across 25 pages.

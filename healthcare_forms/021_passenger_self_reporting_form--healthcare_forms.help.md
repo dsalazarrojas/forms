@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from passengers about their travel experiences, including their travel agency, flight details, and health status. The form is used to gather accurate and complete information, and ensure that passengers provide their correct travel history and any health concerns they may have. Please fill out this form with the correct information to help our team process your submission correctly. If you have already submitted this form, please do not resubmit, as this may cause duplication of effort and unnecessary processing delays.
-</thinking>
-
 # Passenger Self Reporting Form - Help Guide
 ## Purpose
 This form is designed to collect information from passengers about their travel experiences, including their travel agency, flight details, and health status.

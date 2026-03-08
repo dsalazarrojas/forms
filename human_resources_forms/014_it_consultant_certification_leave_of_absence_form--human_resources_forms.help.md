@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is used to manage leave of absences for IT consultants who need to take time off for certification. This form ensures that the necessary approvals and notifications are in place for both the manager and team manager. By filling out this form, you'll be able to request leave that aligns with your certification schedule and ensures a smooth transition of work. To avoid duplication, please review your previous leave requests and make sure you haven't submitted a similar form within the past 30 days.</thinking>
-
 # IT Consultant Certification Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence for IT consultants who need to take time off for certification purposes. It ensures that the necessary approvals and notifications are in place for both the manager and team manager.

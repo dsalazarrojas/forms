@@ -1,6 +1,3 @@
-<thinking>... (internal reasoning)
-This form is designed for HR Inclusion Leadership Forum registration. It allows users to provide their contact information, session details, and accessibility needs to enable a smooth and inclusive experience. To prevent duplication and ensure accuracy, this guide will walk you through the registration process, field-by-field, and explain each field's purpose and importance.</thinking>
-
 # HR Inclusion Leadership Forum Registration - Help Guide
 
 ## Purpose

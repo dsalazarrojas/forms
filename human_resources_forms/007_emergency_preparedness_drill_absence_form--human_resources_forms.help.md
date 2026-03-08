@@ -1,5 +1,3 @@
-<thinking>...This form is designed to document a participant's absence from an emergency preparedness drill. It is intended for participants to report their status and provide necessary information for the drill organizers and emergency responders. Before filling out the form, please make sure you have not already submitted one. If you need to report your absence, please fill out this form as accurately and completely as possible... </thinking>
-
 # Emergency Preparedness Drill Absence Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The goal of the Cervical Cancer Awareness Quiz form is to assess the participant's knowledge about cervical cancer and its prevention. This form is designed to gather information about the participant's understanding of the causes, symptoms, screening methods, and preventive measures of cervical cancer. It is essential to understand that the form is not meant to be taken as a substitute for professional medical advice but rather to raise awareness and educate individuals about cervical cancer. This form is likely to be used in a clinical or educational setting to provide a quick assessment of a participant's knowledge about cervical cancer. It is crucial to fill out the form carefully and honestly, as it will help the health team to better understand the participant's level of awareness and provide more targeted education and resources.
-</thinking>
-
 # Cervical Cancer Awareness Quiz - Help Guide
 
 ## Purpose

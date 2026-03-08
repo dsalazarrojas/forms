@@ -1,7 +1,3 @@
-<thinking>
-We are creating this help guide to ensure that users have a smooth experience when filling out the "Health Condition Experience Submission" form. Before proceeding, we want to verify that this form is relevant to the user's needs and not a duplicate submission. Please confirm that the form is for users to submit their experience with a specific health condition, and that the form should only be filled out once per user. If the user has already submitted this form, they will be notified and guided to edit or delete their existing submission.
-</thinking>
-
 # Health Condition Experience Submission - Help Guide
 ## Purpose
 The "Health Condition Experience Submission" form is designed to collect information about your experiences with a specific health condition. This form is used to help researchers and healthcare providers better understand your experiences, which can lead to improved care and support for individuals with similar conditions.

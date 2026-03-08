@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Minor Consent Form - Help Guide
 
 ### Purpose

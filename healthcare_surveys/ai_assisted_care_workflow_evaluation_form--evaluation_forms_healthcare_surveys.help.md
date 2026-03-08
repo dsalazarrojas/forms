@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to evaluate the effectiveness and user experience of AI-assisted care workflows. It is intended for healthcare professionals to provide feedback on their interactions with AI systems. 
-This form is not affiliated with or endorsed by any form platform, but rather an original adaptation created by AI using public survey topic metadata. 
-The goal is to gather insights on the benefits and challenges of AI-assisted care, as well as suggestions for improvements. 
-Please ensure that you are providing accurate and honest feedback to help create a better AI system for healthcare professionals and patients. 
-</thinking>
-
 # AI Assisted Care Workflow Evaluation Form - Help Guide
 ## Purpose
 The AI Assisted Care Workflow Evaluation Form is designed to gather feedback from healthcare professionals on their interactions with AI-assisted care workflows. This form is intended to identify areas of improvement and provide insights for developers to create a better AI system for healthcare professionals and patients.

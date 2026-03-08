@@ -1,10 +1,3 @@
-<thinking>
-This form is a generic medical complaint form used to collect information from patients.
-The form is designed to be completed by patients themselves, either in-person or remotely via digital channels.
-The purpose of this form is to gather essential patient data for medical professionals to make informed decisions.
-It's intended for general use across various healthcare settings, not for any specific medical condition or specialty.
-</thinking>
-
 # medical_complaint_form - Help Guide
 ## Purpose
 The medical_complaint_form is a tool used by patients to provide information about their medical complaints to healthcare providers.

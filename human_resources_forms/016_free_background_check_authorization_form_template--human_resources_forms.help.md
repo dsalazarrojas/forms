@@ -1,8 +1,3 @@
-<thinking> 
-This guide is designed to assist end-users in completing the Free Background Check Authorization Form Template. The form is intended to be a comprehensive document that gathers essential information from employees or individuals, and it's likely used in HR-related processes, such as background checks, employment verifications, or other administrative purposes. It's crucial to ensure that the form is completed accurately and thoroughly to maintain the effectiveness and validity of the process. Please review the form carefully and address any questions or concerns you may have before proceeding.
-
-</thinking>
-
 # Free Background Check Authorization Form Template - Help Guide
 ## Purpose
 The Free Background Check Authorization Form Template is a document used to collect essential information from individuals, typically employees or job applicants, as part of background checks or other HR-related processes. It serves to gather accurate and comprehensive data, which is vital for making informed decisions or for verifying employment eligibility. This form template is designed to be user-friendly, ensuring that it's easy to understand and complete.

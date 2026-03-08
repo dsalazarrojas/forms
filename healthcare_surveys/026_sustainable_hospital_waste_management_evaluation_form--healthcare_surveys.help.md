@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to evaluate the sustainability of hospital waste management practices. It is designed to help hospitals assess their current waste management practices and identify areas for improvement.
-
-This form is intended for healthcare professionals and administrators who are responsible for managing hospital waste. Before filling out this form, please make sure you have a good understanding of the hospital's current waste management practices and the challenges they face in this area.
-
-If you have already completed a similar form or have provided information on this topic recently, please be aware that your responses may be similar or identical to what you have already provided, in which case it is not necessary to complete this form.
-
-</thinking>
-
 # sustainable_hospital_waste_management_evaluation_form - Help Guide
 ## Purpose
 This form is designed to assess the sustainability of hospital waste management practices, helping hospitals identify areas for improvement.

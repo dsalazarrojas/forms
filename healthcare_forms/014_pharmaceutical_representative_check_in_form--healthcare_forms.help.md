@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by Pharmaceutical Representatives to check in when they visit a healthcare setting, such as a hospital or clinic. The purpose of this form is to facilitate communication and record-keeping between the representative and the healthcare staff. It is recommended that this form is filled out upon arrival and before interacting with patients or medical staff. 
-Please ensure you fill out this form accurately and completely to avoid any duplication of effort or miscommunication. 
-</thinking>
-
 # Pharmaceutical Representative Check In Form - Help Guide
 
 ## Purpose

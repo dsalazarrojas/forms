@@ -1,5 +1,3 @@
-<thinking>As a healthcare form, this form is intended to gather relevant information about a patient's mesothelioma claim. The form's purpose is to collect data on the patient's medical history, insurance information, and treatment plans in relation to mesothelioma diagnosis. It is essential to ensure that the provided fields are filled out accurately and thoroughly to process the claim efficiently. Please ensure that you have the necessary approvals and permissions to complete this form. If you're unsure, please consult your healthcare provider or relevant authorities before proceeding.</thinking>
-
 # Mesothelioma Claim Form - Help Guide
 ## Purpose
 The Mesothelioma Claim Form is designed to collect patient information, medical history, and insurance details related to mesothelioma diagnosis. It is a crucial document for processing claims and ensuring accurate medical records.

@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for requesting headcount forecasting for various departments and teams. It collects information about the submitter, the team, and the dates involved in the forecast. The purpose of this form is to gather data to improve the accuracy of headcount forecasting.
-
-The form will be used to collect the following types of information:
-
-* Team size and role
-* Manager and team lead information
-* Department and location
-* Dates and times of the forecast
-
-This form should be used by individuals who need to submit requests for headcount forecasting in their department or team.
-
-</thinking>
-
 # Headcount Forecasting Request Form - Help Guide
 ## Purpose
 This form is used to request headcount forecasting for various departments and teams.

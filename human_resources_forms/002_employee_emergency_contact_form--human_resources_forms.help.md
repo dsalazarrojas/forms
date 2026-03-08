@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Emergency Contact Form - Help Guide
 
 ## Purpose

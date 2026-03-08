@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to create a living will, which is a legal document that outlines an individual's medical treatment preferences and end-of-life care in the event of a terminal illness or incapacitation. This form is intended for use in a healthcare setting, likely for patients with serious medical conditions who want to inform their loved ones and healthcare providers about their wishes before they become unable to communicate.
-
-The Living Will Form is a multi-page form that collects essential information, which includes a category selection, a description of the patient's condition, a list of assigned tools or resources, and other relevant details. 
-
-The form will likely be used in conjunction with other medical records and documents.
-
-Please ensure you are filling out the correct form based on your needs and situation.
-
-</thinking>
-
 # Living Will Form - Help Guide
 ## Purpose
 This form is used to create a living will, which is a legal document that outlines an individual's medical treatment preferences and end-of-life care in the event of a terminal illness or incapacitation.

@@ -1,5 +1,3 @@
-<thinking>Before filling out this Electronic Communication Consent Form, please make sure that you have the authority to grant electronic communication consent on behalf of the patient or client. This form is intended for healthcare providers to obtain consent for electronic communication with their patients. If you are a healthcare provider, please ensure that you are not duplicating an existing consent form that has been submitted by the patient or their representative. This form should only be used for patients who do not have a pre-existing consent form on file.</thinking>
-
 # Electronic Communication Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain electronic communication consent from patients for healthcare providers to communicate with them via electronic means (e.g., email, phone, or text message). 

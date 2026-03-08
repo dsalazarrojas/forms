@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from hotel guests, allowing hotel managers to evaluate the services provided by the hotel. This form will help managers track guest satisfaction and identify areas for improvement. To complete this form, please follow the instructions below.</thinking>
-
 # Hotel Evaluation Form - Help Guide
 ## Purpose
 The Hotel Evaluation Form is designed to gather feedback from hotel guests, providing hotel managers with valuable insights to improve their services and facilities.

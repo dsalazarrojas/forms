@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended for end-users who will be completing the "COVID 19 Self Assessment Questionnaire" form. The form is designed to collect information about individuals regarding their health status, vaccination eligibility, and personal preferences. It is assumed that the form will be used in a healthcare context to help guide vaccination efforts.
-
-Before proceeding, it is worth noting that this form is not intended for use as a diagnostic tool or a medical assessment. Its purpose is to gather information for public health purposes, and answers will not be used for clinical diagnosis or treatment recommendations. It is also assumed that users are 18 or older, as the form does not account for minor consent requirements.
-
-Please note that some fields are not required, as indicated in the YAML schema. Users should only provide information relevant to their situation.
-
-</thinking>
-
 # COVID 19 Self Assessment Questionnaire - Help Guide
 ## Purpose
 The "COVID 19 Self Assessment Questionnaire" is a form designed to gather information from individuals about their health status, vaccination eligibility, and personal preferences. This guide is intended to help users complete the form accurately and effectively.

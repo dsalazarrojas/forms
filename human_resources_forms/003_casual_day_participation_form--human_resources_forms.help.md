@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help employees participate in Casual Day events within the company. Casual Day is an event where employees can take a break from their usual work attire and dress in a more relaxed and comfortable way. This form serves as a way to gather information about each participant, including their employee name, department, email, and participation status. It also collects information about their dress code understanding, snack contribution, and other optional details such as dietary restrictions and photo consent. The form is used to organize and prepare for future Casual Day events, ensuring that participants are aware of the event's details and rules. 
-
-To avoid duplication, please ensure that you haven't already completed this form. If you're unsure, check with your manager or HR representative.
-
-</thinking>
-
 # Casual Day Participation Form - Help Guide
 ## Purpose
 This form is used to help employees participate in Casual Day events within the company. It gathers information about each participant's employee details, dress code understanding, and other relevant details.

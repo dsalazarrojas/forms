@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a water heater's status, type, and other relevant details for assessment purposes. The form is likely used in the context of a home inspection or assessment process.
-
-The form collects data on the water heater's type, current status (e.g., working or not), temperature rating, comments, year installed, serial number, model number, manufacturer, condition, location, date installed, date removed, installation location, and installation notes.
-
-Before proceeding, please ensure that you have not previously completed this form for the same water heater. If you have, you can simply copy and paste the information into this form to save time.
-</thinking>
-
 # Water Heater Assessment Survey - Help Guide
 ## Purpose
 The Water Heater Assessment Survey is a form used to collect information about a water heater's status and other relevant details.

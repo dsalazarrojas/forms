@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the operations leadership readiness of an individual or team within an organization. It's intended to gauge their ability to effectively lead and manage operations within the company. The form is used to collect information on the individual's or team's experience, skills, and competencies in leadership, communication, conflict resolution, and decision-making.
-
-To ensure that only one operations leadership readiness assessment is created per user, a flag to check for the existence of a previous assessment with the same title will be set on the user's profile.
-
-</thinking>
-
 # operations_leadership_readiness_assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the operations leadership readiness of an individual or team within an organization.

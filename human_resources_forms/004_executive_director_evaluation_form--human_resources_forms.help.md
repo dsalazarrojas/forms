@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of the Executive Director. The purpose of the form is to collect information on the Executive Director's first name, last name, email, job title, department, performance rating, feedback, overall rating, comments, and date and time submitted. The form is designed to provide a structured way to collect data on the Executive Director's performance. 
-</thinking>
-
 # executive_director_evaluation_form - Help Guide
 ## Purpose
 The executive director evaluation form is used to collect feedback and performance data on the executive director. This data will be used to assess their overall performance and provide guidance for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutrition Care Plan Form - Help Guide
 ## Purpose
 The Nutrition Care Plan Form is designed to capture essential information about a patient's health and nutritional needs. This form helps healthcare providers and caregivers create personalized care plans for patients with medical conditions that require tailored nutrition recommendations.

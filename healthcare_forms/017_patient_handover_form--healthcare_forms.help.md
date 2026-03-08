@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect information for patient handovers, which are the process of transferring a patient to another healthcare provider or facility for continued care. This form is essential for ensuring a smooth transition of care, reducing errors, and maintaining patient safety. The form will be completed by healthcare professionals, typically physicians and nurses, to provide vital information about the patient's medical condition, treatment, and care plan. Before filling out this form, please make sure you have all the necessary information and that you are the appropriate person to complete this form. If you're unsure, consult with the patient's attending physician or the healthcare facility's administration...</thinking>
-
 # Patient Handover Form - Help Guide
 ## Purpose
 The Patient Handover Form is a crucial document for transferring patients to another healthcare provider or facility. It ensures that the patient's medical information and care instructions are accurately and completely communicated, reducing errors and ensuring continuity of care.

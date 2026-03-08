@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Medical Referral Form", a crucial tool used in the healthcare industry to facilitate the referral process between healthcare providers. The form is designed to collect relevant information about patients, including demographic details, medical history, and specialist preferences. This guide will walk you through the form's purpose, completion process, and field-by-field explanation to ensure a smooth and efficient experience for users.
-</thinking>
-
 # Medical Referral Form - Help Guide
 ## Purpose
 This form is used to collect information from patients and healthcare providers for referral purposes. It helps in streamlining the process by ensuring accurate and comprehensive data is captured.

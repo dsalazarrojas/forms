@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for patients to provide feedback on their healthcare service experience at a specific healthcare provider. The purpose of this form is to collect quantitative and qualitative data about patient satisfaction, staff efficiency, and overall experience.
-This form will likely not be completed by patients who have not visited the healthcare provider in the past.
-</thinking>
-
 # healthcare_service_efficiency_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients on their healthcare service experience.

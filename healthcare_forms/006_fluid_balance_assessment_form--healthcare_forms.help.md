@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess a patient's fluid balance, which is a crucial aspect of their overall health and well-being. A good understanding of the patient's fluid balance can help healthcare professionals identify potential complications and provide targeted interventions. This form is typically used in hospital settings to evaluate patients who may be at risk of fluid imbalance, such as those with cardiovascular conditions or those undergoing surgery. The form is meant to be completed by a healthcare professional, such as a nurse or doctor, who will use the information to inform patient care. 
-
-Please note that the form is not intended for patients to complete themselves. Instead, it is a tool for healthcare professionals to collect and analyze data on the patient's fluid balance. 
-
-Before starting, ensure that you have all the necessary information and permissions to complete this form. The form consists of multiple sections, each with its own set of fields. Take your time to carefully complete each section, and do not hesitate to seek clarification or guidance if you are unsure about any of the fields or their requirements.
-
-</thinking>
-
 # Fluid Balance Assessment Form - Help Guide
 ## Purpose
 The Fluid Balance Assessment Form is a tool used by healthcare professionals to assess a patient's fluid balance status. It helps to identify potential complications and inform patient care.

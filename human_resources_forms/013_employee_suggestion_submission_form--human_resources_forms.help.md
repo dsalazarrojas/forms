@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect suggestions from employees on ways to improve the organization. This form is designed to allow employees to submit their ideas on internal or external improvements, and to categorize their submissions based on priority and department. The form is intended to help the organization stay informed and address potential issues or opportunities for growth.
-
-To ensure accurate and relevant submissions, the form is designed to be used once a submission is made. Please do not submit multiple suggestions on the same issue. Duplicate submissions can make it challenging for the organization to track and address suggestions effectively.
-
-This form is intended to collect suggestions from employees on ways to improve the organization. It's essential to submit your suggestions in a clear and concise manner to ensure they are taken into account.
-
-</thinking>
-
 # Employee Suggestion Submission Form - Help Guide
 
 ## Purpose

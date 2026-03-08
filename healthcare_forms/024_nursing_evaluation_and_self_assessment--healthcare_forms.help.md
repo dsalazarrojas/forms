@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate and assess nursing staff, likely for performance review or evaluation purposes. The purpose of this form is to collect information about the staff's core competencies, self-reflection, rating scale, and other relevant areas. This form likely serves as a tool for supervisors or managers to assess the performance of nursing staff, providing an opportunity for feedback and growth. 
-
-Before filling out this form, please ensure you are using it for its intended purpose and not duplicating efforts. This form is meant to be a comprehensive assessment of nursing staff, not a repetitive or redundant task. It is essential to complete it carefully and accurately, taking into consideration the fields and options provided.
-</thinking>
-
 # Nursing Evaluation And Self-Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate and assess nursing staff for performance review or evaluation purposes.

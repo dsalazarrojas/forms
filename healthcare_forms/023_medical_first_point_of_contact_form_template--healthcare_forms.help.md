@@ -1,7 +1,3 @@
-<thinking>...This form is designed to collect information from patients or their next of kin to provide medical history and emergency contact information. The form is used to collect demographic information, medical history, and emergency contact details. This form is intended for patients who are receiving medical treatment and need to provide accurate and up-to-date information to ensure their treatment is provided in the best possible way. Before completing this form, please ensure you have reviewed and understood each field carefully to provide the most accurate information possible.
-
-To avoid errors, please ensure you have answered each question carefully and accurately. If you are unsure about a field, please do not leave it blank or provide an incorrect answer...></thinking>
-
 # Medical First Point Of Contact Form Template - Help Guide
 
 ## Purpose

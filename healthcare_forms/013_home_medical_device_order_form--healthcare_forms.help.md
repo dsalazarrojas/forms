@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for ordering home medical devices, such as home infusion therapy or other medical equipment, for patients. This form will be used to collect information from the patient or their representative to process the order. Please ensure that the form is filled out completely and accurately to avoid delays in processing the order.
-
-Before filling out the form, please ensure that you are authorized to order a medical device and that you have the necessary information to complete the form. This form should not be used to order medical devices for patients who do not have a legitimate medical need or for whom ordering medical devices is not allowed.
-
-</thinking>
-
 # Home Medical Device Order Form - Help Guide
 ## Purpose
 This form is used to order home medical devices for patients.

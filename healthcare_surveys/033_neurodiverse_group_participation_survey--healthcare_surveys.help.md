@@ -1,18 +1,3 @@
-<thinking>...checking if form purpose and schema are valid and not duplicate...
-
-This form seems to be designed for collecting data from neurodiverse groups, likely for participation, accessibility, and other related purposes. The form is split into several sections, including:
-
-* Participant Information
-* Accessibility Needs
-* Accessibility Accommodations
-* Consent (for the participant to acknowledge the survey's terms)
-* Contact Information (for communication)
-* Submission Tracking (for tracking survey submissions)
-
-Form fields are mostly optional, which may indicate that they are meant to be filled out on a "need-to-know" basis. The form's layout and structure are straightforward, but some field labels could be clarified for better understanding.
-
-</thinking>
-
 # Neurodiverse Group Participation Survey - Help Guide
 ## Purpose
 This form is designed to collect information from neurodiverse groups to understand their needs and preferences for participation, accessibility, and other related purposes.

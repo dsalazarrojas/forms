@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for an employee orientation policy acknowledgment form, used to collect demographic information and employee status details. It's likely intended for use in a corporate or business setting. Before proceeding, please verify that this form meets your specific needs and does not duplicate existing forms or policies within your organization.
-</thinking>
-
 # orientation-policy-acknowledgment - Help Guide
 ## Purpose
 This form is used to collect information about employees, including their demographic details and acceptance of the orientation policy.

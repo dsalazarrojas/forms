@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users through the process of scheduling a free inspection. This is a critical part of the home inspection process that requires accurate and detailed information from the customer. Before proceeding, please ensure that you have all the necessary information and permissions to complete the form. This form is not intended for duplicate submissions, so please refrain from filling it out multiple times. If you're unsure about any field, please contact the relevant authorities for clarification.
-</thinking>
-
 # Schedule A Free Inspection - Help Guide
 ## Purpose
 This form is designed to collect information for scheduling a free inspection on a property. It includes details about the customer, property, and inspection schedule.

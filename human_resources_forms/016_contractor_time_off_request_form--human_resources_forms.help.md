@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request time off for contractors. To ensure a smooth time off process, please note the following:
-This form is intended for contractors to request time off for personal or professional reasons. Before filling out this form, kindly ensure that you have reviewed the company's time off policy to understand the rules and procedures for requesting time off. Additionally, please ensure that you have not already submitted a similar request for the same time period, as this can cause delays in processing your request.
-</thinking>
-
 # Contractor Time Off Request Form - Help Guide
 ## Purpose
 This form is used to request time off for contractors. Please fill out the form below to submit your request.

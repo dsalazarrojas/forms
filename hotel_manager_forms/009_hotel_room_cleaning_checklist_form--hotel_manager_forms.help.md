@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Room Cleaning Checklist Form - Help Guide
 ## Purpose
 The Hotel Room Cleaning Checklist Form is a tool used to assess the cleanliness and state of a hotel room after maintenance or housekeeping tasks. This form helps ensure that all areas of the room are properly cleaned and inspected, and provides a standardized way to report any issues or concerns.

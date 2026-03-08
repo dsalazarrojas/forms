@@ -1,19 +1,3 @@
-<thinking>
-This form is designed for users to book a room in a hostel, providing details such as first name, email, checkin and checkout dates, room type, number of guests, phone number, address, and additional notes. 
-
-To complete this form, follow the guidelines below to ensure accurate and correct information. 
-
-- Ensure all required fields are filled out completely and accurately.
-- If a field is not required but still needs to be completed, do so with relevant and correct information.
-- Double-check dates, phone numbers, and email for accuracy.
-- Use the select options for meal plan and language to ensure accurate representation.
-- Complete the select options for smoking, parking, and cancellation to ensure the correct preferences.
-- Fill out the select options for checkin and checkout times to ensure correct arrival and departure times.
-- Complete the select options for checkin and checkout times are not available, use the date field for this purpose.
-- Ensure accurate and complete information in the notes field.
-- Ensure the assigned user field is completed with the name of the user assigned to the booking.
-</thinking>
-
 # Hostel Booking Form Light Olive And Responsive - Help Guide
 ## Purpose
 This form is for booking a room in the hostel. It will guide you through the necessary information required to complete your booking.

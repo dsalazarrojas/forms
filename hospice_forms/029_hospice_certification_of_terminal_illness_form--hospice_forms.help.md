@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used in a healthcare setting to certify the terminal illness status of a patient. The form is used to gather information about the patient's medical condition, hospice care, and other relevant details. Before filling out the form, ensure that you have the necessary permission from the patient or their representative.
-</thinking>
-
 # Hospice Certification Of Terminal Illness Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a patient's terminal illness status, ensuring that they receive proper hospice care.

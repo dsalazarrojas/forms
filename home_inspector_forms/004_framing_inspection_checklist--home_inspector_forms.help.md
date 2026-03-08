@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the inspection of a home's framing, insulation, and other essential components. It appears to be a comprehensive checklist for assessing a home's condition in various areas, including fencing, furring nailing, structural framing, roof, insulation, sheathing, ventilation, drywall, plaster, paint, siding, electrical, heating, plumbing, fire, windows, doors, basement, roof, garage, attic, ceiling, foundation, and crawl space. This form will likely be used by home inspectors, builders, or contractors to document their findings and make recommendations for improvement.
-
-Before creating this form, ensure that it does not duplicate any existing forms. Also, review the form's fields to ensure they align with the intended purpose and that all required fields are marked as such.
-
-</thinking>
-
 # framing_inspection_checklist - Help Guide
 ## Purpose
 The "Framing Inspection Checklist" is a comprehensive form used to assess the condition of a home's framing, insulation, and other essential components. It helps inspectors, builders, and contractors document their findings and identify areas that need improvement.

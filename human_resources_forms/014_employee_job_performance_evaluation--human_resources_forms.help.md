@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective employee job performance evaluation form, we need to ensure that it accurately assesses an employee's skills, knowledge, and behavior in the workplace. This form is designed to evaluate an employee's overall performance, communication skills, time management, work quality, adaptability, teamwork, problem-solving, initiative, leadership, job knowledge, feedback, performance areas, training needs, areas for improvement, performance improvement plan, recommendations, evaluation frequency, evaluation period, evaluation date, evaluation time, evaluation by, comments, attachments, employee ID, and user ID. We should ensure that the form is completed thoroughly and accurately to provide a fair and objective assessment of the employee's performance.
-
-Before starting the evaluation, ensure that you have all the necessary information and attachments ready. The evaluation form consists of 25 fields, each with a specific purpose. Below is a step-by-step guide to help you complete the form effectively.
-
-</thinking>
-
 # Employee Job Performance Evaluation - Help Guide
 ## Purpose
 The Employee Job Performance Evaluation form is designed to assess an employee's overall performance, skills, and behavior in the workplace. It helps evaluate their strengths and weaknesses, areas for improvement, and development needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to request a holiday gift certificate, which can be a physical card or an e-gift card. The form captures details about the recipient and the desired gift card value. The form ensures that employees follow standard procedures for requesting a gift certificate, reducing misunderstandings and errors. To avoid duplication, the form checks for existing requests for the same recipient and gift card value. This form is only to be used for legitimate gift requests and not for personal gain.
-</thinking>
-
 # Holiday Gift Certificate Request - Help Guide
 ## Purpose
 This form is used to request a holiday gift certificate for a colleague or friend. It's essential to fill it out accurately to ensure the gift is delivered correctly and promptly.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to evaluate and provide feedback on an employee's development plan. The purpose of this form is to assess the progress and effectiveness of an employee's development plan, gather feedback from employees and stakeholders, and identify areas for improvement. This form is typically used by HR or management to assess an employee's development plan and provide guidance on their career growth and development. It is essential to complete this form thoroughly and accurately to ensure that your feedback is constructive and helpful.
-
-Please note that each section of this form is designed to collect specific information, so make sure to answer all the questions truthfully and provide detailed feedback. This form is intended to be completed by employees and stakeholders who have direct knowledge of the employee's development plan and progress.
-
-Before starting, please ensure that you have all the necessary information and resources to complete this form accurately.
-
-</thinking>
-
 # employee_development_plan_feedback_evaluation_form - Help Guide
 ## Purpose
 The employee development plan feedback evaluation form is a tool used by HR or management to assess an employee's development plan and provide guidance on their career growth and development.

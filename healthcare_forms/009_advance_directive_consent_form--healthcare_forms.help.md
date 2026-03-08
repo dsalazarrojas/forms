@@ -1,10 +1,3 @@
-<thinking>
-The Advance Directive Consent Form is a legal document used to outline a patient's preferences for medical treatment in situations where they are unable to communicate their wishes. The form is an essential tool for healthcare providers to understand a patient's values and priorities, ensuring that their care aligns with their wishes. The form is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata. This form can be freely used, modified, and even sold under CC BY 4.0 license.
-
-The form consists of multiple sections, including patient information, advance directive preferences, healthcare proxy, specific instructions, and signature. Each section provides a clear and comprehensive overview of a patient's wishes and preferences. 
-
-</thinking>
-
 # Advance Directive Consent Form - Help Guide
 ## Purpose
 The Advance Directive Consent Form is a legal document used to outline a patient's preferences for medical treatment in situations where they are unable to communicate their wishes.

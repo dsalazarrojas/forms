@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals seeking a religious exemption for vaccine administration. This form will likely be used by medical professionals or health organizations to gather relevant details about a patient's or client's religious beliefs and medical conditions that may impact their vaccination status. It's essential to ensure that the information is accurate and complete to make informed decisions. To avoid duplication of effort, please check with your healthcare provider or organization to see if a similar form is already in use before proceeding.
-</thinking>
-
 # Vaccine Administration Religious Exemption Form - Help Guide
 
 ## Purpose

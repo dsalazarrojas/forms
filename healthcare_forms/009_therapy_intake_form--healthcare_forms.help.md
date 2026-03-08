@@ -1,14 +1,3 @@
-<thinking> 
-  This form is designed to collect essential information from clients for therapy sessions. 
-  The form includes fields for personal details such as name, email, phone number, 
-  date of birth, and medical history. 
-  It also captures information about therapy sessions, including date, time, and 
-  goals. 
-  Additionally, there are fields for emergency contacts and medical insurance providers. 
-  This form helps therapists gather all necessary information from clients in one place, 
-  making it easier to manage and provide effective care.
-</thinking>
-
 # Therapy Intake Form - Help Guide
 
 ## Purpose

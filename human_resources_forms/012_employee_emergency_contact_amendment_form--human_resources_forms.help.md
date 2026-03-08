@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by employees to update or replace their emergency contact information. The purpose of this form is to gather accurate and up-to-date information about the employee's emergency contact in case of an emergency. This form should only be used to amend existing emergency contact information, not to create new emergency contacts. Please ensure that you are only using this form for its intended purpose.
-</thinking>
-
 # Employee Emergency Contact Amendment Form - Help Guide
 ## Purpose
 This form is used to update or replace an employee's emergency contact information.

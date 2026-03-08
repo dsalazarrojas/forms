@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide an explanation of the "Hospice Patient Satisfaction Survey" form, including its purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Hospice Patient Satisfaction Survey - Help Guide
 ## Purpose
 

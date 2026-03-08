@@ -1,15 +1,3 @@
-<thinking>
-This form is used to document and track employee hiring procedures. It's crucial to have a consistent and accurate process to ensure that hiring processes are properly followed and recorded. 
-
-To check if this form is relevant to a particular hiring procedure, determine if the following conditions are met:
-- A new employee is being hired
-- The hiring procedure involves job-specific information such as job title, job description, and job category
-- The form will help in tracking the status and priority of the hiring request
-
-If the conditions above are met, proceed to the following steps to fill the form.
-
-</thinking>
-
 # hiring_procedure_checklist - Help Guide
 ## Purpose
 This form is used to track and document employee hiring procedures to ensure consistency and accuracy in the hiring process.

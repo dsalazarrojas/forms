@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Care Appointment Reservation Form - Help Guide
 
 ## Purpose

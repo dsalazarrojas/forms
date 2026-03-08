@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from customers who want to reserve a room at a hotel or resort. The goal is to gather essential details about their stay, such as their travel purpose, check-in and check-out dates, number of guests, room preferences, and any special requests. This information will be used to provide an accurate quote and ensure a smooth check-in process for the guests. The form fields have been chosen to be as simple and straightforward as possible, while still collecting all the necessary information.
-
-</thinking>
-
 # Lodge Reservation Form - Help Guide
 ## Purpose
 

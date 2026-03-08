@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect self-evaluation data from employees. This form is likely used by HR departments to conduct regular performance evaluations of their employees, which helps them track employee progress, goals, and feedback. Before proceeding, please ensure that you are completing this form for the correct employee and in the correct context.</thinking>
-
 # self_evaluation_template - Help Guide
 ## Purpose
 The self_evaluation_template form is used to collect self-evaluation data from employees. This data is used by HR departments to monitor and assess employee performance, progress, and feedback.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Skills Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-To provide guidance on how to complete the Employee Retention Interview Form, we should first understand the internal reasoning and context behind its creation.
-The form's purpose is to gather data from departing employees on their reasons for leaving the organization. This data can help identify patterns and areas for improvement to increase employee satisfaction and retention rates. The form should be completed by departing employees to provide accurate and helpful information for future reference.
-</thinking>
-
 # Employee Retention Interview Form - Help Guide
 ## Purpose
 The Employee Retention Interview Form is designed to collect information from departing employees on their reasons for leaving the organization. This form helps management understand the reasons behind the employee's departure and can aid in making informed decisions for future employee retention and satisfaction.

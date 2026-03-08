@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect mental health outcome measures for patients or individuals. The form is meant to be completed by healthcare professionals or individuals who have experience in mental health assessment. The purpose of this form is to gather data on the patient's mental health status, including their current mental health scale, rating, and comments. The form also collects data on follow-up sessions, counseling sessions, and outcome measures.
-
-To prevent duplicate submission, we have included a unique ID for each form submission. 
-
-Before starting the form, please make sure you have read and understood the form's purpose and contents.
-
-</thinking>
-
 # mental_health_outcome_measure_questionnaire - Help Guide
 ## Purpose
 The mental health outcome measure questionnaire is designed to collect data on a patient's mental health status, including their current mental health scale, rating, and comments. The form is meant to be completed by healthcare professionals or individuals who have experience in mental health assessment.

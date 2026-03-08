@@ -1,14 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a "Patient Feedback Form". The purpose of this form is to collect feedback from patients who have visited the clinic, allowing us to improve our services and provide better care in the future. 
-
-The form has several fields that ask about different aspects of the visit, including the quality of service, who the patient interacted with, and their overall experience. 
-
-Before filling out the form, please ensure that you have not already provided feedback. Your feedback is valuable to us and helps us improve our services. 
-
-This guide will walk you through each field of the form, explaining what information it collects and how to fill it out correctly. 
-
-</thinking>
-
 # Patient Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience at the clinic. Your feedback is valuable to us and helps us make improvements to provide better care in the future.

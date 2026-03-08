@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antibiotic Selection Form For Surgery - Help Guide
 ## Purpose
 This form is designed to collect patient information and guide the selection of an appropriate antibiotic for a scheduled surgical procedure. It helps the prescriber (surgeon or clinician) assess the patient's risk level and choose the best antibiotic option based on the provided information.

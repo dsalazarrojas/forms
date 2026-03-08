@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Diversity And Inclusion Monitoring Form that is clear, concise, and practical. I'll base the explanations on the provided YAML fields and strive to provide a concrete and concrete understanding of each field's purpose and intent. Please see the help guide below:</thinking>
-
 # Diversity And Inclusion Monitoring Form - Help Guide
 ## Purpose
 This form is designed to monitor and track diversity and inclusion related metrics within an organization. It aims to gather information on employee experiences and perceptions, providing insights for diversity and inclusion initiatives.

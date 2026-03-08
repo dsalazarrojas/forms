@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Dog Health Certificate Form" used to document a dog's health status. The form is designed to gather information from the dog's owner and a veterinarian, and it's used for internal purposes within a healthcare organization. It's not intended for external use or sharing. The form has several sections that need to be filled out, and some fields are required, while others are optional. To ensure accurate and complete information, please read this help guide carefully.
-</thinking>
-
 # Dog Health Certificate Form - Help Guide
 ## Purpose
 This form is a medical record used to certify the health status of a dog. It's designed to gather essential information from the dog's owner and a veterinarian to maintain accurate and up-to-date records.

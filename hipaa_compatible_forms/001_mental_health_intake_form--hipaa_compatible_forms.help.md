@@ -1,12 +1,3 @@
-<thinking>**Purpose and Relevance**
-This form is a mental health intake form designed to collect information about patients' medical history. It is intended to be filled out by patients or their representatives to provide medical professionals with essential background information about the patient's health status. This form is part of a HIPAA-compliant process, ensuring the confidentiality and security of patient data.
-
-Before filling out this form, please confirm that you have not already filled it out in the past, as duplicate submissions may cause errors in patient data processing. If you are unsure, please consult your healthcare provider or contact our support team for assistance.
-
-**Note:** This form is designed to be filled out by patients or their authorized representatives. If you are filling out this form for someone else, please ensure you have their consent before submitting their information. If you are unsure, please consult your healthcare provider or contact our support team for guidance.
-
-</thinking>
-
 # mental_health_intake_form - Help Guide
 ## Purpose
 This guide explains how to complete the mental health intake form correctly.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # reported_sleep_problems - Help Guide
 ## Purpose
 This form is intended to help healthcare providers gather information on a patient's reported sleep problems. It is designed to collect data on the duration, symptoms, current medications, and treatment plan progress related to the patient's sleep issues.

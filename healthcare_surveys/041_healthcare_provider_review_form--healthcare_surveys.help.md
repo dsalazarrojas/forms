@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to collect feedback from patients about their experiences with their healthcare providers. The goal is to gather information about the quality of care they received, communication with the provider, and overall satisfaction. This form is designed to be easy to use and understand, and the questions are carefully crafted to provide a clear and concise way for patients to share their thoughts.
-
-Before starting the survey, make sure you have completed this form only once per healthcare provider, and that the provider's information is up to date. If you have already filled out this form for this provider, you will not be able to complete it again.
-
-</thinking>
-
 # Healthcare Provider Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experiences with their healthcare providers. It helps us understand what worked well and what didn't, so we can improve the care we provide.

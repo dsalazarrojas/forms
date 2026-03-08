@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to create a Mother's Day tea invitation to share with guests. It's an essential part of planning and organizing a special event, allowing you to collect necessary information such as guest details, RSVP preferences, and other relevant data. To ensure accurate completion, please review the following steps.
-
-This form consists of multiple pages, and each page is designed to gather specific information. Please fill out the form carefully, as any missing or incorrect information may lead to errors or confusion. Before starting, ensure that the event details are complete and accurate.
-
-</thinking>
-
 # Mother's Day Tea Invitation - Help Guide
 ## Purpose
 The Mother's Day Tea Invitation form is designed to collect information from guests about their attendance and any special requests or messages for the hostess.

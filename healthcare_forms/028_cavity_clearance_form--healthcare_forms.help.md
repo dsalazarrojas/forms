@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, the Cavity Clearance Form, is to collect vital information about a patient's oral health and clearance requirements for dental treatment. This form is typically used to assess a patient's dental status and clearance for procedures such as fillings, root canals, or extractions. The information gathered on this form is essential for the dentist or dental team to make informed decisions regarding the patient's treatment plan. It is crucial that this form is completed thoroughly and accurately to ensure the patient receives proper care. Please note that this form is only meant to be filled out by authorized personnel, such as dental professionals, and not by patients themselves.
-</thinking>
-
 # Cavity Clearance Form - Help Guide
 
 ## Purpose

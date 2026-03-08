@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track an employee's acknowledgment of the Workplace Drug Policy. This is an important form that helps to ensure that all staff members have read and understand the company's drug and alcohol policy. The form is typically filled out by staff members when they start or leave a job, or whenever there are changes to the policy. This form should not be filled out by anyone who has already acknowledged the policy in the past. Before filling out this form, please ensure you have read and understood the policy.
-</thinking>
-
 # Workplace Drug Policy Acknowledgment - Help Guide
 ## Purpose
 The purpose of this form is to acknowledge an employee's understanding of the Workplace Drug Policy, which is a document that outlines the company's guidelines and rules regarding drug and alcohol use in the workplace.

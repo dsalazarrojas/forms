@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to gather information about the elderly care assessment of a patient. The form is intended to be filled out by healthcare professionals or caregivers to provide a comprehensive understanding of the patient's medical history, current conditions, and social background. It is essential to fill out this form accurately and thoroughly to ensure that the patient receives proper care and attention. Please ensure that you fill out this form carefully and truthfully, as any inaccuracies could lead to incorrect assessments and potentially harm the patient. This form does not replace the need for a thorough medical evaluation or diagnosis by a licensed healthcare professional.</thinking>
-
 # Elderly Care Assessment Form - Help Guide
 
 ## Purpose

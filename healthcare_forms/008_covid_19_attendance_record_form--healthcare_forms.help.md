@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # covid_19_attendance_record_form - Help Guide
 ## Purpose
 The "COVID-19 Attendance Record Form" is a document used to record and track patient attendance in medical settings. This form is essential for maintaining accurate records and ensuring that patients receive necessary care and attention.

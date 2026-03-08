@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for healthcare professionals to gather essential information about a health client. The purpose of this form is to collect demographic and medical history data, such as name, date of birth, contact details, medical conditions, allergies, and emergency contacts, to ensure comprehensive care for the client. 
-
-To prevent duplication of work, this form will be used to create a client profile, and the data will be stored for future reference. This form is essential for healthcare providers to have a complete understanding of the client's health situation and provide effective treatment.
-
-</thinking>
-
 # Health Client Information Form - Help Guide
 ## Purpose
 The Health Client Information Form is designed to collect and store client-specific information for efficient and effective healthcare management.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # The Alcohol Use Disorders Identification Test (AUDIT) - Help Guide
 ## Purpose
 The Alcohol Use Disorders Identification Test (AUDIT) is a screening tool used to identify people who may have an alcohol use disorder. The test assesses the severity of alcohol-related problems and is used to determine the level of treatment needed.

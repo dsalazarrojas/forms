@@ -1,7 +1,3 @@
-<thinking>
-This form is used for families to intake information about a loved one who is affected by Alzheimer's disease or other dementias. The purpose of this form is to gather essential details about the client, including their personal information, contact details, and medical history. This form is designed to be completed by family members or caregivers who are close to the affected individual. It is crucial to ensure that the form is completed accurately and thoroughly to provide the best possible care and support for the client.
-
-</thinking>
 # Alzheimer Niagara Intake Form Family - Help Guide
 ## Purpose
 The Alzheimer Niagara Intake Form Family is a comprehensive form designed for family members or caregivers to gather information about a loved one affected by Alzheimer's disease or other dementias. This form helps healthcare providers understand the client's needs and provide personalized care and support.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Plan Assessment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing patient information for healthcare purposes. It is primarily used for storing and managing patient data, including personal details, medical history, and medical records. The form should not be used for non-medical purposes, and sensitive information should be handled with care and confidentiality. Before filling out this form, ensure you have the necessary permissions and authorization to access patient data.
-</thinking>
-
 # ultima_patient_info - Help Guide
 
 ## Purpose

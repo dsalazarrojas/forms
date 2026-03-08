@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # No THC Agreement Form - Help Guide
 ## Purpose
 This form is used to obtain acknowledgement from participants in a study or project about their understanding of the terms and conditions related to THC (Tetrahydrocannabinol). The form helps to ensure that participants are aware of and agree to the terms, and provides a record of their acknowledgement and the date.

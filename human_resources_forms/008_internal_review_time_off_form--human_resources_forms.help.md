@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internal Review Time-Off Form - Help Guide
 ## Purpose
 The Internal Review Time-Off Form is a tool used to track and record employee time-off requests and approvals. This form is used by managers and employees to submit, review, and manage leave requests for various reasons, including vacations, medical emergencies, or other personal matters.

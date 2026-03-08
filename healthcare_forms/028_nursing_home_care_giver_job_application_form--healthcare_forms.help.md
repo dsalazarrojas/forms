@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect job application information from individuals interested in working as a nurse in a nursing home. The form asks for basic contact information, job title, employment history, education, and professional references. It is intended for use by nursing homes to collect relevant information from potential employees, allowing them to review and assess applicants efficiently. 
-
-</thinking>
-
 # Nursing Home Care Giver Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect job application information from individuals interested in working as a nurse in a nursing home.

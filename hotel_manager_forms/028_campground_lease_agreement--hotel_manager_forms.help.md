@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create a comprehensive leasing agreement for a campground. The form captures essential information from both the lessor (campground owner) and the lessee (camping customer). This includes contact details, lease terms, and financial obligations. The form ensures that both parties understand and agree to the terms and conditions of the lease. This form appears to be a comprehensive template for leasing agreements in a campground setting.
-
-</thinking>
-
 # Campground Lease Agreement - Help Guide
 ## Purpose
 This form is a comprehensive leasing agreement for a campground, capturing essential information from both the lessor and lessee. It ensures both parties understand and agree to the terms and conditions of the lease.

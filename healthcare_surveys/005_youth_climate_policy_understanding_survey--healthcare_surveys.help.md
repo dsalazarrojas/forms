@@ -1,6 +1,3 @@
-<thinking>
-We need to check if this form is being used for internal purposes or external purposes. If for internal purposes, we can assume that the users will have prior knowledge about climate policies, but the form will be used for survey purposes, so the explanation should be more detailed for non-experts. Additionally, this form seems to be a duplicate, please check if it's a new form and worth the development of a help guide.</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This form is designed to collect information and opinions from the youth on climate policies. It will help identify their concerns, knowledge, and suggestions on climate-related issues.

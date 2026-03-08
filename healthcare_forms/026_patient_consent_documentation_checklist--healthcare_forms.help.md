@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Consent Documentation Checklist - Help Guide
 ## Purpose
 This form is used to document patient consent for treatment and emergency contact information. It collects the patient's personal details, medical history, and contact information to ensure the healthcare provider has the necessary information to provide quality care.

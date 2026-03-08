@@ -1,8 +1,3 @@
-<thinking> 
-This guide is for the "Home Pregnancy Test Survey" form, used to collect information about a home pregnancy test. This form is likely used for healthcare professionals to monitor and analyze data about home pregnancy tests, but more context would be needed to confirm its exact use. It is possible that this form is used for quality control, research, or other related purposes. Please ensure that you have the necessary permissions and authorization to complete this form, as it may contain personal health information.
-
-To confirm that this form is completed correctly, ensure that you have answered all required and optional questions accurately. If you are unsure about any field, refer to the field-by-field explanation below.</thinking>
-
 # Home Pregnancy Test Survey - Help Guide
 ## Purpose
 This form is used to collect information about home pregnancy tests. Please ensure that you have completed the form accurately and truthfully.

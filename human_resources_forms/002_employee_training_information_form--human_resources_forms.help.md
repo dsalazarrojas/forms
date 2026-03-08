@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect and track employee training information, including trainee details, training dates, locations, and completion status. The form is designed to be completed by employees who have undergone training, and it helps supervisors keep track of training progress and completion. The purpose of this form is to ensure that all relevant training information is captured in a single, easily accessible location.
-Before filling out this form, please ensure that you are authorized to access this form and that you have the necessary information required to complete it. Please note that this form is designed to be filled out by employees who have actually undergone training, and not for test or hypothetical scenarios.
-Please make sure to provide accurate and complete information to ensure that the form is filled out correctly. If you are unsure about any field or have questions, please reach out to your supervisor or HR department for clarification.
-</thinking>
-
 # Employee Training Information Form - Help Guide
 
 ## Purpose

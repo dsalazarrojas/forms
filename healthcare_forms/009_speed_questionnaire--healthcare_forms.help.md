@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form, "Speed Questionnaire," is to collect information about a patient's visual symptoms and their impact on daily life. It's likely used by healthcare professionals to assess the severity of visual impairments and develop treatment plans. The form appears to be focused on collecting data on various aspects of vision, including visual acuity, tear quality, and patient outcomes. However, the exact purpose and intended use case might vary depending on the specific healthcare setting or context.
-It's essential to ensure that the form is not used for any other purpose than its intended use case to maintain the reliability and consistency of the data collected.
-</thinking>
-
 # Speed Questionnaire - Help Guide
 ## Purpose
 The Speed Questionnaire is designed to collect information about a patient's visual symptoms and their impact on daily life.

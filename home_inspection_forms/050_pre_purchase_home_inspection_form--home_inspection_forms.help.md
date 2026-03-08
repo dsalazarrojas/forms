@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for a real estate pre-purchase home inspection. It's a form to collect information from potential home buyers before they make an offer on a house. This form is likely used by real estate agents or inspectors to provide a report on the condition of the home. I'm checking to see if this form has been previously created or if the information is relevant to the provided metadata. This form is intended for use in a real estate context, specifically for pre-purchase inspections. There are no duplicate forms in the database that match this form's metadata.
-
-</thinking>
-
 # Pre Purchase Home Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information for a pre-purchase home inspection. It will help real estate agents and inspectors provide a report on the condition of a home before the buyer makes an offer.

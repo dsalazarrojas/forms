@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information on a person's overall health literacy and their understanding of various health-related topics. The form is likely used in a healthcare setting to assess a patient's knowledge and attitudes towards health issues. The purpose of this form is to gather data that can be used to inform health education and interventions.
-
-The form consists of multiple pages with different sections, including general information, demographic data, health understanding, health concerns, health practices, health benefits, health risks, health facts, and general and specific health messages. 
-
-The form is likely used in a research or survey setting, and the data collected will be used to identify areas where individuals may need additional education or support in understanding health-related topics. 
-
-Please note that this form is not a clinical assessment tool and is intended for non-clinical use only.
-
-</thinking>
-
 # Global Health Literacy Survey - Help Guide
 ## Purpose
 The Global Health Literacy Survey is designed to collect information on a person's overall health literacy and their understanding of various health-related topics.

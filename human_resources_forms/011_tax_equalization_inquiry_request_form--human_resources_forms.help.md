@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request an inquiry on tax equalization. The purpose of this form is to gather information from employees who have questions or concerns about their tax-related matters. This form will guide users through the process of submitting a tax equalization inquiry. Please ensure that you have read and understood the instructions before proceeding.
-
-Also, please note that this form is not intended for duplicate submissions or inquiries that are not relevant to the provided options. If you are unsure about the type of inquiry you need to make, please reach out to your HR representative for guidance.
-
-Before starting, ensure that you have the necessary information and permissions required to complete this form accurately.
-
-</thinking>
-
 # Tax Equalization Inquiry Request Form - Help Guide
 ## Purpose
 The form is used to request an inquiry on tax equalization for employees. This form helps gather information from employees who have questions or concerns about their tax-related matters.

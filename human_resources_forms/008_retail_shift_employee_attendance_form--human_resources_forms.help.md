@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the attendance of retail shift employees. The form is likely used by HR or management to record and manage employee attendance, including employee information, attendance details, and manager confirmations. This form is probably used during or after a shift to ensure that employees are properly accounted for and that their work hours are accurately tracked.
-</thinking>
-
 # retail_shift_employee_attendance_form - Help Guide
 ## Purpose
 The retail shift employee attendance form is used to track the attendance of retail shift employees. It captures essential information, including employee details, attendance information, and manager confirmations, to ensure accurate time tracking and proper attendance management.

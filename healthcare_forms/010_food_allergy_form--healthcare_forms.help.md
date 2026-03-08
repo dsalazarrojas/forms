@@ -1,7 +1,3 @@
-<thinking>
-This form's primary purpose is to collect information from patients about their food allergies, providing a structured and efficient way to gather essential data that healthcare professionals can use to ensure patient safety and provide personalized care. This form is part of the healthcare industry and is designed to support clinical workflows.
-</thinking>
-
 # Food Allergy Form - Help Guide
 ## Purpose
 The Food Allergy Form is a tool used to collect information from patients about their food allergies, helping healthcare professionals provide personalized care and ensure patient safety.

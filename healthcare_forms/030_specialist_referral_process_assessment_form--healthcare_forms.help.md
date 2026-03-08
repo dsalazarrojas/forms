@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is used to assess the specialist referral process, which is a crucial process in healthcare settings. The form aims to evaluate the appropriateness and effectiveness of specialist referrals, ensuring that patients receive the best possible care. By filling out this form, specialists can indicate whether they have referred a patient to another specialist and provide details about the referral reason. This helps to streamline the referral process and reduce errors. Note that some fields are optional, and users should only fill out the relevant ones. To avoid duplication of efforts, users should check the form for any previously submitted forms for the same patient and specialist.</thinking>
-
 # Specialist Referral Process Assessment Form - Help Guide
 ## Purpose
 The Specialist Referral Process Assessment Form is used to evaluate the specialist referral process, ensuring that patients receive the best possible care.

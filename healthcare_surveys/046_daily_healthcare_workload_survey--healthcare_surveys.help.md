@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Healthcare Workload Survey - Help Guide
 ## Purpose
 This form is designed to help healthcare workers track and report their daily workload, interactions with patients, and work status. The information gathered through this form will help management and administrators make informed decisions and optimize work schedules.

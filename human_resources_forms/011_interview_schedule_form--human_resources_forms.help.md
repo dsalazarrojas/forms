@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for scheduling interviews, which is essential for conducting effective and efficient interviews. The form gathers details about the applicant, the interviewer, and the interview schedule, including the preferred contact method, interview location, and confirmed details. Ensuring accuracy and clarity in this form will help streamline the interview process and improve communication. Please ensure that the form is completed thoroughly and correctly to avoid any potential issues.
-</thinking>
-
 # Interview Schedule Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for scheduling interviews, ensuring a smooth and efficient process.

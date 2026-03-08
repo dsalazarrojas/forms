@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to screen employees for potential COVID-19 health issues. The purpose of this form is to gather essential information about an employee's health status, email, phone number, and symptoms, such as fever, cough, and shortness of breath. This data will help management and HR monitor and address any potential risks related to COVID-19 within the organization. 
-</thinking>
-
 # TEMPLATE COVID 19 Health Screening Daily - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering for the hospital innovation roundtable event. It is expected that the form will be used by hospital staff members to sign up for the event. The purpose of this form is to gather information about each attendee, including their name, contact information, and category of work or affiliation with the hospital. This form will help the event organizers to better understand who will be attending the event and plan accordingly.
-Please confirm that the form will not be used for another purpose or for a different type of event.
-</thinking>
-
 # hospital_innovation_roundtable_registration_form - Help Guide
 ## Purpose
 The hospital innovation roundtable registration form is designed to register hospital staff members for the hospital innovation roundtable event. It helps the event organizers to gather information about each attendee and plan the event accordingly.

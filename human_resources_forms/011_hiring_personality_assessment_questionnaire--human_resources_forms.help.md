@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assess a candidate's personality and skills in an objective and structured way, providing a comprehensive view of their strengths and weaknesses. This can help hiring managers and recruiters make more informed decisions when evaluating candidates. This form is designed to be completed by candidates as part of the hiring process.
-
-To avoid duplication, we should check if the form is already being used for another purpose in the organization.
-
-The form is divided into several sections, each addressing different aspects of a candidate's personality and skills. This structure allows the user to provide clear and concise information about the candidate.
-
-</thinking>
 # Hiring Personality Assessment Questionnaire - Help Guide
 ## Purpose
 The Hiring Personality Assessment Questionnaire is a tool used by hiring managers and recruiters to gather information about a candidate's personality and skills. The form is designed to provide an objective and structured way of assessing a candidate's strengths and weaknesses, helping to make more informed decisions during the hiring process.

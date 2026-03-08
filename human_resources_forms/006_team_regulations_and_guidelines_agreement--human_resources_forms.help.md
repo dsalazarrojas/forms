@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the collective understanding and agreement among team members on the regulations, guidelines, and expectations for working together effectively. This agreement ensures that all team members are on the same page, promoting a harmonious and productive work environment. This form may need to be reviewed and adapted to fit the specific needs and policies of your organization. Please ensure that this form is aligned with your company's internal policies and external regulations before using it.
-</thinking>
-
 # Team Regulations And Guidelines Agreement - Help Guide
 ## Purpose
 This form aims to establish a clear understanding of the team's regulations, guidelines, and expectations, promoting a positive and productive work environment. It should be reviewed and adapted to fit your organization's specific needs and policies.

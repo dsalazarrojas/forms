@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the details of an employee's offboarding process, ensuring a smooth transition of responsibilities and resources. The offboarding process should be conducted after an employee's departure from the company, and this form is a crucial tool in maintaining accurate and up-to-date employee records. It is essential to complete this form carefully and thoroughly to ensure that all necessary information is recorded correctly. Before proceeding, please make sure that you have reviewed the employee's offboarding checklist and that this form is not already filled out in duplicate or for a previous offboarding event.
-</thinking>
-
 # Employee Offboarding Records Release Form - Help Guide
 ## Purpose
 This form is used to document the details of an employee's offboarding process, ensuring accurate and up-to-date employee records. It is a crucial part of maintaining a smooth transition of responsibilities and resources after an employee's departure from the company.

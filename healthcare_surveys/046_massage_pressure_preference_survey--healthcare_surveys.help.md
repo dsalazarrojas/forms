@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's preference for massage pressure, which can help healthcare professionals tailor their massage therapy sessions to the individual's needs. The form has four pages with multiple fields, but some fields are not required, indicating that they might be optional or used for further clarification. To ensure consistency and quality of responses, it's essential to follow the guidance in this help guide carefully.</thinking>
-
 # Massage Pressure Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's preference for massage pressure, which can help healthcare professionals tailor their massage therapy sessions to the individual's needs.

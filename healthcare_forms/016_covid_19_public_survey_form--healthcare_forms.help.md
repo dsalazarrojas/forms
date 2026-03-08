@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will create a user-facing help guide for the "COVID 19 Public Survey Form" that explains its purpose, instructions, and field-by-field explanation to assist end users in understanding the form's requirements and objectives.
-</thinking>
-
 # COVID 19 Public Survey Form - Help Guide
 ## Purpose
 The COVID 19 Public Survey Form is a tool designed to collect data on public perceptions and opinions regarding the COVID-19 vaccine. This form aims to gather information on various aspects of vaccine awareness, confidence, and behavior, which will help inform future public health initiatives.

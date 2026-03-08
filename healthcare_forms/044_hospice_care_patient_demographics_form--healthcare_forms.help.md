@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect patient demographics in a hospice care setting. The form gathers general information about the patient, their medical history, contact details, address, emergency contact, medical insurance, payment information, and any other relevant data. This form should be used by healthcare professionals to document patient data accurately and efficiently.
-
-Before using this form, please ensure that you have permission from the patient or their representative to collect and process their personal and medical data. Also, verify that the data you collect aligns with relevant regulations and laws, such as HIPAA.
-
-Please note that this form is not intended for actual data collection but serves as a sample. You should adapt it according to your organization's needs and ensure it complies with relevant laws and regulations.
-
-Before filling out this form, please review the field explanations below to understand the purpose of each field.
-</thinking>
-
 # Hospice Care Patient Demographics Form - Help Guide
 ## Purpose
 This form is designed to collect patient demographics in a hospice care setting, gathering essential information for accurate documentation and care planning.

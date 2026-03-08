@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their symptoms, medical history, and treatment plans. It's meant to be used by medical professionals to gather relevant data for patient care and management. Please ensure that you are authorized to access this form and that the information collected is used for legitimate healthcare purposes.
-</thinking>
-
 # SBAR Form - Help Guide
 ## Purpose
 The SBAR Form is a medical form designed to collect detailed information from patients about their symptoms, medical history, and treatment plans. It helps medical professionals gather essential data for patient care and management.

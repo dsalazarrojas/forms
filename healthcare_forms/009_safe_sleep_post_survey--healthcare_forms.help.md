@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive user guide for the Safe Sleep Post Survey form, let's consider the purpose and context of the form within the healthcare category. The Safe Sleep Post Survey likely aims to gather information about sleep practices and related factors for parents, specifically focusing on safe sleep habits. It is crucial to ensure that the form is properly completed, and each field is understood correctly. 
-The form's design appears to have a logical flow, with text-based fields for gathering demographic information (Parent's Name, Parent's Age) and select_one fields for more specific questions (Is Child in Home, Is Breastfeeding Mom). The "Safe Sleep Message" text field seems like a potential space for users to elaborate on their answers. 
-Before proceeding, it is essential to review each field carefully to provide accurate and helpful explanations. Let's begin with that.
-</thinking>
-
 # Safe Sleep Post Survey - Help Guide
 ## Purpose
 The Safe Sleep Post Survey form is designed to collect information about safe sleep habits and related factors for parents, aiming to improve understanding and promote better sleep safety practices. This form gathers demographic information and specific questions about sleep practices and circumstances.

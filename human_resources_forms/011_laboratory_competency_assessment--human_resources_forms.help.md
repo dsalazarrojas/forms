@@ -1,7 +1,3 @@
-<thinking>
-The "Laboratory Competency Assessment" form is used by laboratory personnel to evaluate their competency in various aspects related to laboratory procedures, safety, and regulations. This form is a self-assessment tool that ensures laboratory staff has the necessary knowledge and skills to perform their job duties safely and effectively. The form must be completed by laboratory personnel, usually on a periodic basis, to verify their understanding and compliance with laboratory policies and procedures. It is essential to complete the form accurately and truthfully to ensure the accuracy and integrity of the assessment.
-</thinking>
-
 # Laboratory Competency Assessment - Help Guide
 
 ## Purpose

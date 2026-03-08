@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sequencing_application_form - Help Guide
 ## Purpose
 The sequencing application form is designed to gather information from applicants to determine their eligibility and suitability for a sequencing program. This form helps us understand their background, contact details, and specific requirements for the sequencing program.

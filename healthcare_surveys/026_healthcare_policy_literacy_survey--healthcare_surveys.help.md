@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and opinions on healthcare policies from users. This form will likely be used by healthcare organizations or institutions to assess the level of understanding and support among their staff or target audience. It's essential to ensure that the form is used correctly and effectively, so we should double-check that the form is being filled out for its intended purpose and not being reused for other unrelated surveys or purposes.</thinking>
-
 # Healthcare Policy Literacy Survey - Help Guide
 ## Purpose
 The Healthcare Policy Literacy Survey is designed to gather feedback and opinions on healthcare policies from users.

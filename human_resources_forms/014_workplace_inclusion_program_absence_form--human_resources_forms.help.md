@@ -1,5 +1,3 @@
-<thinking>Is this form used for employee absence tracking and reporting in the workplace? Is this a part of the company's human resources or HR policies? This form might be used to track and address potential inclusion and diversity issues in the workplace, but its use case seems to be limited to absence reporting, suggesting it might be used to monitor and manage employee absence, potentially for HR purposes. It's essential to review the company's policies and procedures to ensure this form is not being misused or misinterpreted. Additionally, the form might need to be reviewed for any existing similar forms to avoid duplication of effort and ensure consistency in reporting and tracking.</thinking>
-
 # Workplace Inclusion Program Absence Form - Help Guide
 
 ## Purpose

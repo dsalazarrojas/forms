@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for a hair care analysis, which is a part of a healthcare-related category. 
-The purpose of this form is to gather personal and medical details from patients to understand their hair care needs and provide appropriate recommendations. 
-Please ensure that the form is being used in a legitimate healthcare setting and not for marketing or other non-qualified uses.
-
-</thinking>
-
 # Kavita_Khosa_Hair_Care_Analysis - Help Guide
 ## Purpose
 The Kavita_Khosa_Hair_Care_Analysis form is designed to collect personal and medical information from patients to provide hair care recommendations.

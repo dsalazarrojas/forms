@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback from healthcare professionals on their awareness and understanding of AI in the healthcare industry, including the impact of AI on their practice and any concerns they may have about AI. This form will help assess their level of trust in AI, how often they participate in surveys about AI, and collect any additional comments or concerns they may have. Please fill in all relevant information to help us better understand the perspectives of healthcare professionals. If you have already submitted a similar survey, please let us know so we can avoid duplication and focus on new information...</thinking>
-
 # Health AI Explainability Awareness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from healthcare professionals on their awareness and understanding of AI in the healthcare industry.

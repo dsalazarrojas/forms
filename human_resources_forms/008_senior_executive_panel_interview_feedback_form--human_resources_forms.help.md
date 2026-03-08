@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "senior_executive_panel_interview_feedback_form" form, I'll first analyze the provided YAML fields and internal reasoning to understand the form's purpose and context. 
-
-The form is intended to collect feedback from senior executive panel interview feedback, likely used for performance evaluation or improvement purposes. It's crucial to note that the form is not explicitly linked to a specific process or system, so let's assume it's a general feedback mechanism. Given this understanding, I'll create a concise user-facing help guide that explains the form's purpose, how to complete it, and what each field means. 
-
-</thinking>
-
 # senior_executive_panel_interview_feedback_form - Help Guide
 ## Purpose
 The Senior Executive Panel Interview Feedback Form is a tool used to collect feedback from senior executive panel members after an interview. This form helps to assess each candidate's performance and provide areas for improvement.

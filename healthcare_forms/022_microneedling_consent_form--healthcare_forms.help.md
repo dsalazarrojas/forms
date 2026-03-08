@@ -1,7 +1,3 @@
-<thinking>
-This form will be used by healthcare professionals to obtain consents from patients before microneedling treatments, which are minimally invasive treatments that use a special needle to remove small scars and imperfections on the skin. This form helps gather essential information from patients to ensure their safety and understand their emergency contact and medical history.
-</thinking>
-
 # Microneedling Consent Form - Help Guide
 ## Purpose
 This form is used to collect essential information from patients before undergoing microneedling treatments to ensure their safety and understand their emergency contact and medical history.

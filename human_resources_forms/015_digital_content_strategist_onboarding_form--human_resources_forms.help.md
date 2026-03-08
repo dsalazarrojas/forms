@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to support the onboarding process for a Digital Content Strategist. It collects information about the individual being on-boarded, such as their name, contact information, job title, and agency. The form also captures project details, including the manager's name and email, team leads involved, project notes, and onboarding status and comments. The form's ultimate goal is to streamline the onboarding process, ensuring that all necessary information is captured and reviewed in a timely manner.
-
-To ensure that this form is relevant and not duplicated, we can check for existing Digital Content Strategist onboarding requests. We should only allow one instance of the Digital Content Strategist onboarding form per individual being on-boarded.
-
-</thinking>
-
 # Digital Content Strategist Onboarding Form - Help Guide
 ## Purpose
 This form is designed to support the onboarding process for a Digital Content Strategist. The collected information will be used to ensure a smooth onboarding process for the individual being on-boarded.

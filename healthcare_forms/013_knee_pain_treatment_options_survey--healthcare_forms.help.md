@@ -1,8 +1,3 @@
-<thinking>
-This form, "Knee Pain Treatment Options Survey", is designed to gather information from patients about their knee pain treatment options. The form is intended for healthcare professionals to better understand patient preferences and experiences with different treatments. The form is not meant to be a diagnostic tool, but rather a way to gather feedback from patients to improve care and treatment options. To prevent duplication of data, patients should not complete this form if they have already completed a similar survey in the past 6 months.
-
-</thinking>
-
 # Knee Pain Treatment Options Survey - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their knee pain treatment options, preferences, and experiences.

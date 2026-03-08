@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals about their alcohol use habits and behaviors. The goal is to assess their level of alcohol consumption and identify potential areas of concern. This assessment will help individuals reflect on their drinking habits and set goals for improvement. Please ensure that the assessment is completed honestly and without embellishment.
-</thinking>
-
 # Alcohol Use Self-Assessment - Help Guide
 
 ## Purpose

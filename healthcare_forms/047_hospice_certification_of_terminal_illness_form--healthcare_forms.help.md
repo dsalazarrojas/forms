@@ -1,5 +1,3 @@
-<thinking>...The "Hospice Certification Of Terminal Illness Form" is a crucial document used to confirm a patient's terminal illness, which is a condition in which a medical professional has declared a patient's condition as irreversible and life-threatening. This form is typically completed by a medical provider to provide a written statement confirming the patient's terminal status. The completion of this form is often required for insurance purposes, legal documentation, and other administrative processes. It's essential to ensure that the form is filled out accurately and thoroughly to avoid any potential issues or miscommunications. Before filling out this form, please review the following steps and field explanations to ensure you complete it correctly...</thinking>
-
 # Hospice Certification Of Terminal Illness Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a written statement from a medical provider confirming a patient's terminal illness. This document is used for various administrative processes, including insurance claims and legal documentation.

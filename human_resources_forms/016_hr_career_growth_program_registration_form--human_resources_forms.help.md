@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm creating a user-facing help guide for the HR Career Growth Program Registration Form to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This guide will be concise, concrete, and practical, aiming to clarify any unclear field labels or business logic.</thinking>
-
 # HR Career Growth Program Registration Form - Help Guide
 ## Purpose
 The HR Career Growth Program Registration Form is designed to help employees register for the company's career growth program, which aims to support their professional development and growth within the organization. Completing this form will help the HR department understand each employee's goals and objectives, making it easier to tailor support and resources to their needs.

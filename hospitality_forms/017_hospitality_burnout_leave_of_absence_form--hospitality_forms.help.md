@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report a burnout-related leave of absence for employees in the hospitality industry. The form is intended to be filled out by employees to provide necessary information for their burnout leave. The burnout leave form is not meant to be filled out by managers. Before starting, please ensure that this form is relevant to your current situation and that you have not already submitted a burnout leave form.
-</thinking>
-
 # Hospitality Burnout Leave Of Absance Form - Help Guide
 ## Purpose
 This form is used to report a burnout-related leave of absence for employees in the hospitality industry.

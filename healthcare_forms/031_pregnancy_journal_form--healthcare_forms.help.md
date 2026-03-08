@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about a new pregnancy, including details such as the mother's medical history, medications, medical notes, test results, and other relevant information that may be useful for medical professionals to track and evaluate the pregnancy and its outcome.
 
 This form is likely to be used by medical staff in a healthcare setting to gather essential information for monitoring and managing a patient's health during pregnancy, including any complications that may have arisen.

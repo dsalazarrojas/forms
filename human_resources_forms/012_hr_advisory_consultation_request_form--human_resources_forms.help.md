@@ -1,6 +1,3 @@
-<thinking>
-You're about to design a help guide for a form that appears to be a consultation request form for HR-related matters. This form is used to collect information from employees for some sort of consultation or meeting. It's likely a form for employees to request time slots for meetings, training, or other HR-related activities. To ensure this form serves its purpose effectively, it's essential to clarify its use and the intended behavior of its fields. I'm assuming the form is designed for employees to provide information about their availability for meetings and consultations. Each field should be clearly labeled and described to avoid confusion. The "preferred_time" fields might be meant for employees to indicate their preferred time slots for the meeting, while the "preferred_time_2" to "preferred_time_19" fields might be meant for additional time slots or options for employees. Given this assumption, I'll design the help guide accordingly.</thinking>
-
 # hr_advisory_consultation_request_form - Help Guide
 ## Purpose
 The hr_advisory_consultation_request_form is designed for employees to request time slots for meetings, training, or other HR-related activities. This form helps the HR department to manage employee availability and schedule appointments efficiently.

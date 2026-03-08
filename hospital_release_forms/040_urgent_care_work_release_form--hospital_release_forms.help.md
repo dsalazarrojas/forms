@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to serve as a release form for urgent care work, collecting patient information, and ensuring that the patient understands their medical rights and responsibilities. This form is likely used in conjunction with other forms and procedures in a healthcare setting. To prevent duplication, please ensure that the form is not submitted multiple times for the same patient.
-</thinking>
-
 # urgent_care_work_release_form - Help Guide
 ## Purpose
 The urgent_care_work_release_form is a document that allows patients to release their medical work from an urgent care setting. This form collects personal and medical information from the patient to ensure that they understand their rights and responsibilities.

@@ -1,9 +1,3 @@
-<thinking>
-
-The Medicare Wellness Checkup Form is designed to collect patient information and medical data for healthcare professionals to perform a thorough checkup. To ensure that this form is filled out accurately, please verify that you have the necessary permissions and approvals to collect this information. This form should not be filled out multiple times for the same patient as it may cause duplication of effort and inaccuracies in the patient's medical records.
-
-</thinking>
-
 # medicare_wellness_checkup_form - Help Guide
 ## Purpose
 

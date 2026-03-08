@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect compliance policy approval acknowledgements from employees. Its purpose is to ensure that employees have received, read, and understood the policy requirements and their responsibilities. This form is usually submitted by employees who need to acknowledge compliance with a specific policy. It may be used by HR departments to track and manage policy acknowledgments.
-</thinking>
-
 # Compliance Policy Approval Acknowledgement Form - Help Guide
 ## Purpose
 This form is designed to collect compliance policy approval acknowledgements from employees to ensure that they have received, read, and understood the policy requirements and their responsibilities.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for individuals interested in applying for a data scientist position. It collects information about the applicant's personal details, work experience, skills, and academic background. The form is divided into two main sections: "Personal Details" and "Technical Skills".
-The "Personal Details" section includes fields for first name, last name, email address, phone number, resume link, cover letter, and GitHub, LinkedIn, and Twitter profiles. The "Technical Skills" section includes fields for listing skills, research interests, research area, and research methodology.
-The form requires a minimum of 4 fields to be filled (skills, experience, education, and research area). The fields are divided into two main types: select_one and select_multiple, which means the user can choose one option from the list for select_one fields, and multiple options from the list for select_multiple fields.
-</thinking>
-
 # Data Scientist Job Application - Help Guide
 ## Purpose
 

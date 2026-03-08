@@ -1,7 +1,3 @@
-<thinking>
-I need to make sure this form is not redundant with other forms in the system. Upon reviewing the form fields, I notice that the 'special_request' and 'additional_information' fields are both of type 'note', which suggests that they are meant to be free-form text fields. However, I'm not sure if this is intentional or not. I will proceed with designing the form help guide under the assumption that these fields are indeed meant to be used for free-form text entry.
-</thinking>
-
 # Hotel Guest Preference Booking Form - Help Guide
 ## Purpose
 This form is designed to collect preferences and information from hotel guests. It will be used to tailor their stay experience, ensuring that their needs are met and they can feel at home during their visit.

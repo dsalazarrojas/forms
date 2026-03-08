@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form, "sickness_monitoring_invitation", is to gather information from patients about their health conditions, symptoms, and follow-up details. This form is part of a larger healthcare system that aims to monitor and manage patients' health status. Before filling out this form, please ensure that you are filling it out for the correct purpose and that you have the necessary permissions to do so.
-
-To avoid duplication of effort, please check if the form has been filled out before by the same patient or with similar information. This will help ensure that your data entry is accurate and up-to-date.
-</thinking>
-
 # sickness_monitoring_invitation - Help Guide
 ## Purpose
 This form is used to collect information from patients about their health status, including their sicknesses, symptoms, and follow-up details. This information is used to monitor and manage the patient's health status.

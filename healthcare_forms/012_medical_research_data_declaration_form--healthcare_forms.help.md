@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in medical research studies. The form is intended to collect participant's personal and medical information to be used in medical research. To ensure the accuracy and completeness of the data, it's essential to understand the purpose and requirements of this form before proceeding.
-</thinking>
-
 # Medical Research Data Declaration Form - Help Guide
 ## Purpose
 This form is created to collect participant's personal and medical information for medical research studies. It is used to ensure the accuracy and completeness of the data and to understand participant's medical history.

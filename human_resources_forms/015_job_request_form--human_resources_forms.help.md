@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide job-related information, specifically for a job request. The form is not affiliated with any form platform, but rather a generated form using AI. This form's purpose is to collect data from users regarding job requests, and it is free to use, modify, and even sell, with proper credit given.
-</thinking>
-
 # Job Request Form - Help Guide
 
 ## Purpose

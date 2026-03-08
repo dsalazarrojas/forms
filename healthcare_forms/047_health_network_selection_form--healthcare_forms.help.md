@@ -1,5 +1,3 @@
-<thinking>... internal reasoning about form purpose and relevance: The Health Network Selection Form is designed to help healthcare professionals choose between different networks. The form collects information about the user's preference for various network aspects such as network type, rating, and selected network. The form is intended for internal use within the healthcare industry, and it is not a critical or time-sensitive application. There is no specific business logic governing the choices, and users are free to fill out the form as needed...</thinking>
-
 # Health Network Selection Form - Help Guide
 ## Purpose
 The Health Network Selection Form is a tool used to determine the user's preferred network options for healthcare services.

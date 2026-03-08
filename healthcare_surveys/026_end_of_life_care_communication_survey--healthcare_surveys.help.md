@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "End Of Life Care Communication Survey" form, I need to first understand the internal reasoning behind it and verify that it is not a duplicate of another form. The form is used to collect information from healthcare providers about the end-of-life care experience of patients in hospitals and healthcare facilities. This information will help improve communication between healthcare teams, care teams, and patients' families. 
-
-This form is likely used by healthcare professionals, possibly in conjunction with other forms, and may be used to identify areas of improvement in communication quality and care team efficiency. It's likely not a form meant for patient completion.
-
-The form asks for survey questions, patient information, care team information, communication quality, support information, date and time, time spent, additional comments, healthcare team, hospice program, facility information, and survey completion status.
-</thinking>
-
 # End Of Life Care Communication Survey - Help Guide
 ## Purpose
 The "End Of Life Care Communication Survey" form is used by healthcare professionals to collect information about the end-of-life care experience of patients in hospitals and healthcare facilities. This information helps improve communication between healthcare teams, care teams, and patients' families.

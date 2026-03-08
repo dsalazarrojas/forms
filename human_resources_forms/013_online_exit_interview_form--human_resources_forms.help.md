@@ -1,15 +1,3 @@
-<thinking>...
-To create a comprehensive and user-friendly help guide for the "Online Exit Interview Form," we need to consider the purpose of the form and the process of completing it. This form likely serves as a mechanism for gathering information from employees who are leaving the company, providing an opportunity for them to share their reasons for departure, comments, and feedback. 
-
-The form's purpose might be to:
-- Record the employee's experience and reasons for leaving
-- Gather information for future improvement and development within the organization
-- Allow employees to provide feedback and comments about their time with the company
-
-The goal of this guide is to assist end-users in understanding the form's purpose and requirements, making the process of filling it out as smooth and efficient as possible.
-
-</thinking>
-
 # Online Exit Interview Form - Help Guide
 
 ## Purpose

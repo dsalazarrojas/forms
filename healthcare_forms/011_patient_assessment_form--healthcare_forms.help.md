@@ -1,22 +1,3 @@
-<thinking>
-The form purpose is to collect patient data for assessment and management. This form is used in a healthcare setting to gather information about a patient's personal details, medical history, symptoms, and treatment plans. 
-
-When creating this form, the designer should consider the following:
-
-*   The form should only contain fields that are necessary for the patient's assessment and management.
-*   Each field should have a clear label and description to ensure that the user understands its purpose.
-*   The form should be designed with accessibility and usability in mind.
-*   Error handling should be implemented to prevent incomplete or invalid data.
-*   The form should be regularly reviewed and updated to ensure it meets the needs of its users.
-
-When designing the form, consider the following best practices:
-*   The form should be easy to read and understand, even for users who are not familiar with the form or its context.
-*   The form should be visually appealing and well-organized.
-*   The form should be designed with the user's workflow in mind.
-*   The form should provide enough guidance on how to complete each field without being too verbose.
-
-</thinking>
-
 # Patient Assessment Form - Help Guide
 ## Purpose
 This form is used to collect patient data for assessment and management in a healthcare setting.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the employee_information_form is to collect and store employee data for HR management and reporting purposes. This form is intended for employees who wish to provide their personal and professional information for internal use within the organization. Before filling out this form, please ensure that you have the necessary permissions and approvals to do so. If you have already submitted this form previously, there is no need to fill it out again as your information is already stored in our system.
-</thinking>
-
 # employee_information_form - Help Guide
 ## Purpose
 The employee_information_form is a data collection tool for employees to provide their personal and professional information for internal use within the organization.

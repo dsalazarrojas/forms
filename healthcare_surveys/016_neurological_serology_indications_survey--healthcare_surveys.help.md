@@ -1,12 +1,3 @@
-<thinking>
-The form "Neurological Serology Indications Survey" is designed to collect information about a patient's serology test history, symptoms, and medical history for neurological consultations. This form helps healthcare professionals understand the patient's condition better and provides a comprehensive overview of the patient's medical history.
-
-To avoid duplication of effort, please ensure that this form is not filled out simultaneously with other similar forms.
-
-Please fill out the form carefully and thoroughly, and if you have any doubts or concerns, do not hesitate to reach out to the healthcare professional.
-
-</thinking>
-
 # Neurological Serology Indications Survey - Help Guide
 ## Purpose
 The Neurological Serology Indications Survey is a form designed to collect information about a patient's serology test history, symptoms, and medical history for neurological consultations. This form helps healthcare professionals to better understand the patient's condition and provide appropriate care.

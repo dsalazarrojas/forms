@@ -1,15 +1,3 @@
-<thinking>**Internal Note to Designer and Writer:**
-
-This form is designed to capture information for loan underwriters, a crucial role in the lending process. The Loan Underwriter Onboarding Form aims to onboard new loan underwriters quickly and efficiently, reducing the time spent on tedious paperwork and administrative tasks. 
-
-Before creating this guide, it's essential to review the input schema to understand its structure and requirements. The form consists of three fields: "Loan Underwriter Details," "Education," and "Qualifications." These fields gather information about the loan underwriter's background, skills, and experience. 
-
-The form's purpose is to streamline the onboarding process, ensuring that new loan underwriters have the necessary credentials and knowledge to perform their duties effectively. 
-
-**Please review and adapt this guide according to your specific needs and requirements.**
-
-</thinking>
-
 # Loan Underwriter Onboarding Form - Help Guide
 ## Purpose
 The Loan Underwriter Onboarding Form is designed to gather essential information about new loan underwriters, facilitating a quick and efficient onboarding process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Human Cell Expansion Feedback Form - Help Guide
 ## Purpose
 This form is designed for collecting feedback and information from individuals involved in the Human Cell Expansion process. It is used to gather data on samples, lab locations, contact information, and other relevant details. This form is typically used by researchers, lab technicians, or others involved in the Human Cell Expansion process.

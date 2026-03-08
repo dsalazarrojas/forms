@@ -1,12 +1,3 @@
-<thinking>
-The goal of this form is to gather information on a patient's medication history, including a list of medications, their frequency, dosing, potential side effects, and medical conditions. This form is designed to be completed by medical professionals or authorized personnel to review and update a patient's medication profile. 
-
-To prevent data duplication and inconsistencies, it's essential to ensure that only authorized individuals access and update this form. 
-
-Before proceeding, verify that you have the necessary permissions and access rights to complete this form.
-
-</thinking>
-
 # medication_review_checklist - Help Guide
 ## Purpose
 The medication review checklist is a form designed to collect information on a patient's medication history and current medication regimen. This form is intended for healthcare professionals or authorized personnel to review, update, and maintain accurate records.

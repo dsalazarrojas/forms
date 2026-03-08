@@ -1,9 +1,3 @@
-<thinking>... 
-
-This help guide is for the "Professional Counseling Informed Consent Form", designed to gather essential information for professional counseling sessions. Please ensure you are using this form for its intended purpose and do not duplicate or use it for any other context.
-
-</thinking> 
-
 # Professional Counseling Informed Consent Form - Help Guide
 ## Purpose
 

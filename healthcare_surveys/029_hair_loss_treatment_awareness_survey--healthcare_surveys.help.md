@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals about their experiences and attitudes towards hair loss treatment. It is intended to gather data on their awareness, preferences, and satisfaction with various hair loss treatments. The form is likely to be used in a healthcare setting, such as a dermatology clinic or a hair loss treatment center. 
-
-The form asks questions about the individual's hair loss experiences, awareness, and attitudes towards different types of treatments, as well as their satisfaction with previous treatments and overall satisfaction with their current treatment plan. This information can help healthcare professionals understand the effectiveness of different treatments and improve their services.
-
-Before you start, please note that this form is meant to be completed by individuals who have experienced hair loss. If you are a healthcare professional, please ensure that the individuals completing this form have provided their consent.
-
-To ensure accuracy and consistency, please complete the form carefully and thoroughly. If you have any questions or concerns, please ask for help or clarification before proceeding.
-
-</thinking>
-
 # Hair Loss Treatment Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and attitudes towards hair loss treatment.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently. The purpose of this form is to allow patients to access their medical consultation portal account. The information provided on this form will be used to identify the patient and grant access to their medical records. It's essential that we collect accurate and complete information to avoid any delays or errors in the process. To prevent duplication, we should only allow one form submission per patient. If a user has already submitted this form, it will not be accepted.
-</thinking>
-
 # Medical Consultation Portal Access Form - Help Guide
 ## Purpose
 This form is designed to help patients access their medical consultation portal account. Please fill out the form with accurate and complete information to ensure a smooth and efficient process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for inspectors to document their findings during a home visit inspection. Its purpose is to ensure that the inspector systematically checks and reports on various aspects of the home's safety, such as lighting, obstacles, cleanliness, and potential hazards. This checklist will help inspectors identify areas of concern and provide a comprehensive report to stakeholders. Before proceeding, please ensure that you're familiar with the inspection process and have the necessary permissions to conduct the inspection. This form is not intended for emergency use; it's a regular inspection tool for routine checks. Please review the form carefully to avoid duplication of effort and ensure accurate reporting.
-</thinking>
-
 # Home Visit Safety Checklist - Help Guide
 ## Purpose
 The Home Visit Safety Checklist is designed for inspectors to document their findings during a home visit inspection. It ensures that the inspector systematically checks and reports on various aspects of the home's safety.

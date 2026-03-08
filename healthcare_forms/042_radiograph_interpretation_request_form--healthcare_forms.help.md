@@ -1,16 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Radiograph Interpretation Request Form, we need to identify the purpose of the form and understand the requirements for filling it out. The form purpose is to gather information from the patient and radiologist for radiograph interpretation. The key fields to focus on are:
-
-*   Patient's name, age, gender, and birthdate
-*   Request form for radiologist services
-*   Medical impression and radiologist's impression
-*   Request date and request time
-*   Request status and patient status
-
-We also need to ensure that the form does not duplicate or overlap with other forms or systems used in the healthcare industry.
-
-</thinking>
-
 # Radiograph Interpretation Request Form - Help Guide
 ## Purpose
 The Radiograph Interpretation Request Form is a tool used to gather information from patients and radiologists for radiograph interpretation. It serves as a comprehensive record of the patient's details and request for radiologist services.

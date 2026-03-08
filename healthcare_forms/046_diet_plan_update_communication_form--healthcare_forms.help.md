@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information from users about their health and medical conditions. This information will be used to update their diet plan.
-We should ensure that this form is only used for the intended purpose, and not for any other reason.
-We should also check if there is already a similar form with the same purpose in use.
-</thinking>
-
 # Diet Plan Update Communication Form - Help Guide
 ## Purpose
 The Diet Plan Update Communication Form is designed to collect information about a user's health and medical conditions to update their diet plan.

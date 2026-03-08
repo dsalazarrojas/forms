@@ -1,11 +1,3 @@
-<thinking>
-
-The Pre Op Clearance Form is a comprehensive form designed to gather information about a patient's pre-operative status, including their medical history, allergies, medications, and other relevant details. This form is intended to provide a clear picture of the patient's condition before undergoing surgery, which is essential for the healthcare team to assess the patient's suitability for the procedure. The form is also used to obtain the patient's consent for the surgery and to document their post-operative care.
-
-Before using this form, please ensure that you are not duplicating efforts by checking with the patient's healthcare provider or previous medical records to see if the information has already been collected.
-
-</thinking>
-
 # Pre Op Clearance Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's pre-operative status and to obtain their consent for surgery.

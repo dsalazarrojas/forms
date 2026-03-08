@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is used for its intended purpose and not duplicated, we must consider the context in which it is being used. This form is likely being used to collect feedback from clients who have undergone genetic testing, and its purpose is to gather information about their experience with the testing process, communication with healthcare providers, and overall satisfaction. This form is likely being used for internal assessment and improvement purposes, and not for external publication. We should avoid duplicating questions or including irrelevant fields that do not align with the form's purpose.
-</thinking>
-
 # Genetic Testing Client Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their experience with genetic testing services. The feedback will help us understand how clear our test results were, how well our healthcare providers communicated with you, and what we could improve in the testing process.

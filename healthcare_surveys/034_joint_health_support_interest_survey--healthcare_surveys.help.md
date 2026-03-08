@@ -1,5 +1,3 @@
-<thinking>...The Joint Health Support Interest Survey is designed to help our team understand the health support needs of our patients and their families. This form collects information on personal details, health support needs, and contact preferences. It's essential to fill it out accurately to provide our team with the necessary information to provide optimal support... </thinking>
-
 # Joint Health Support Interest Survey - Help Guide
 ## Purpose
 The Joint Health Support Interest Survey is a questionnaire designed to gather information on your health support needs and preferences. It's used to help our team provide you with the right support and services.

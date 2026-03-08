@@ -1,9 +1,3 @@
-<thinking>
-This form is for new sales onboarding. The sales onboarding process is a critical part of the sales team, as it ensures that new sales reps are adequately prepared to handle customer inquiries and make successful sales pitches. This form will help the sales team to better understand the new sales reps' background and experience, and to provide them with necessary information to guide them in their onboarding process.
-
-The form should not be completed by people who have already gone through the onboarding process or who are not part of the sales team. This is not a general contact form.
-</thinking>
-
 # Sales Onboarding Assessment Form - Help Guide
 ## Purpose
 The Sales Onboarding Assessment Form is a critical tool used to assess new sales reps and ensure they are adequately prepared for the sales process. It helps the sales team to better understand the new sales reps' background and experience, and to provide them with necessary information to guide them in their onboarding process.

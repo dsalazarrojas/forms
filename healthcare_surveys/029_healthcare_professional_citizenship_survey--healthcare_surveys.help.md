@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information about a healthcare professional's involvement in various aspects of citizenship, such as community involvement, education, professional development, and leadership. The form will help to identify areas where the professional may need support or resources to improve their civic engagement.
-
-The form is not a comprehensive evaluation or assessment tool, but rather a starting point for further discussion and support.
-
-The questions on this form are designed to be simple and clear, with options to allow for multiple selections where possible.
-
-Please note that this form should not be used to assess a professional's performance or competence in their role, but rather to gather information for support and development purposes.
-</thinking>
-
 # healthcare_professional_citizenship_survey - Help Guide
 ## Purpose
 The healthcare_professional_citizenship_survey is a form designed to gather information about a healthcare professional's involvement in various aspects of citizenship, including community involvement, education, professional development, and leadership.

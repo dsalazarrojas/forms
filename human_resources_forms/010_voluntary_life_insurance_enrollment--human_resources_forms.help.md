@@ -1,8 +1,3 @@
-<thinking>
-This form is for employees to enroll in a voluntary life insurance program. It collects information about the employee and their beneficiary. The employee must select up to 3 plans to enroll, which will provide them with life insurance coverage. The beneficiary information includes type, name, relationship, address, phone number, and email.
-The form includes fields for plan selections, beneficiary information, and additional employee details.
-</thinking>
-
 # Voluntary Life Insurance Enrollment - Help Guide
 ## Purpose
 This form is used to enroll in the company's voluntary life insurance program.

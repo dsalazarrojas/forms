@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather simple job application information from candidates. To complete this form, you will need to provide the following information:
-* Personal details such as name and contact info.
-* Educational background to showcase your qualifications.
-* References or contacts who can vouch for your skills.
-* Job interest, so we can gauge your fit for the role.
-* Additional comments or thoughts you'd like to share.
-* A valid email address for communication.
-* A phone number where you can be reached.
-* Optional file attachments for further information.
-The form is meant to be a straightforward way to get in touch with us for job openings. Please ensure that all required fields are filled and be accurate. 
-
-</thinking>
-
 # simple_job_application_form - Help Guide
 ## Purpose
 The simple_job_application_form is a form designed to collect basic job application information from candidates. This form is used for internal job openings and is meant to be completed by individuals interested in applying for a job at our organization. 

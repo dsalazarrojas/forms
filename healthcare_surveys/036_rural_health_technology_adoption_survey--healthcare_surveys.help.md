@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this survey is to gather information about the adoption and use of different health technologies among rural populations. This form is part of an ongoing effort to understand the effectiveness, accessibility, and challenges associated with various health technologies, such as telehealth, health information exchange, and mobile health applications. 
-
-Before filling out this form, please make sure you have not completed it in the past. If you have already completed this or a similar survey, your responses may not be saved, and you will not be able to submit multiple responses. 
-
-This survey is designed to be completed in several sections. Please read each section carefully and follow the instructions below.
-
-</thinking>
-
 # Rural Health Technology Adoption Survey - Help Guide
 ## Purpose
 The Rural Health Technology Adoption Survey aims to gather information about the adoption and use of different health technologies among rural populations to understand their effectiveness, accessibility, and challenges.

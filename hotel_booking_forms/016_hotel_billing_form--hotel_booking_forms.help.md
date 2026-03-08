@@ -1,7 +1,3 @@
-<thinking>
-...The form is likely used to collect information from guests or customers about their hotel billings, including charges, rates, additional services, payment dates, and payment methods. This form is likely used by hotel staff to efficiently gather necessary information from guests. Please ensure that the form is filled out completely and accurately to ensure smooth processing of guest billing...
-</thinking>
-
 # Hotel Billing Form - Help Guide
 ## Purpose
 The Hotel Billing Form is used to collect information from guests or customers about their hotel billings.

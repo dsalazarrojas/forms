@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about an employee's preferences and interests, such as their favorite food, drink, color, and hobby. This data will be used to build a more personal and engaging work environment for the employee.
 
 This form is designed to be filled out once, so there's no need to complete it multiple times. Please ensure that you fill out this form accurately and honestly, as the information collected will be used to tailor company events and activities to your interests.

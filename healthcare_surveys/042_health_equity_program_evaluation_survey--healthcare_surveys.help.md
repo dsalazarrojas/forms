@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Equity Program Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about health equity programs and evaluate their effectiveness in promoting health outcomes. This form will help us assess the progress and impact of these programs.

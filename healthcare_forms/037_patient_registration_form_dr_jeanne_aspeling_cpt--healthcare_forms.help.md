@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patient registration and is a crucial part of the medical process. It ensures that patients can provide necessary information about themselves and their medical history to Dr. Jeanne Aspeling (CPT), a healthcare provider. Before filling out this form, please ensure that you have not already registered with Dr. Jeanne Aspeling (CPT). If you have any existing medical records with Dr. Jeanne Aspeling (CPT), please do not attempt to register again.
-</thinking>
-
 # Patient Registration Form Dr. Jeanne Aspeling (CPT) - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients about their personal details, medical history, and contact information. Completing this form accurately and truthfully helps Dr. Jeanne Aspeling (CPT) provide the best possible care for you.

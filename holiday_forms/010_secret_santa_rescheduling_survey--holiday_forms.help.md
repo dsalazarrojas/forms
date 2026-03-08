@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants about their schedule and preferences for a Secret Santa event. This allows the organizers to plan the event efficiently and ensure that everyone's needs are met. It's essential to fill out the form accurately to help the organizers create a suitable schedule that fits everyone's availability. Please ensure you're only completing this form if you're a participant in the Secret Santa event. If you're not sure or have already completed the form, do not fill it out again, as this may cause duplication of efforts and confusion.
-</thinking>
-
 # Secret Santa Rescheduling Survey - Help Guide
 ## Purpose
 The Secret Santa Rescheduling Survey is a form designed to gather information from participants about their schedule and preferences for the Secret Santa event. This information helps the organizers plan the event efficiently and ensure that everyone's needs are met.

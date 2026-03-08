@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to guide home owners or project managers to gather information and track progress during a home renovation project. This form is designed to be a comprehensive checklist for various aspects of a home renovation, including exterior and interior work, electrical, plumbing, structural, foundation, roofing, and other relevant elements. By using this form, users can ensure that all necessary tasks and details are covered, reducing the risk of missed steps or oversights during the renovation process.
-
-This form does not appear to be related to any specific form platform or proprietary survey, so it's likely that the form has been generated from public metadata and is intended to be a generic template for home renovation projects.
-
-Before filling out this form, it's essential to review each field carefully to ensure that all necessary information is captured accurately. The form's layout and field descriptions should provide a clear and concise guide for users to follow.
-
-</thinking>
-
 # Home Renovation Checklist - Help Guide
 ## Purpose
 The Home Renovation Checklist is a comprehensive guide to help homeowners and project managers track and document the progress of a home renovation project. This form is designed to cover various aspects of the renovation process, from general information to specific tasks and materials required for different areas of the project.

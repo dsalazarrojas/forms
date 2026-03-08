@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Communication Form - Help Guide
 ## Purpose
 

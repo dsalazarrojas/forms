@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose, usage, and details of each field in the Shift Handover Checklist form. This guide will help end-users understand the form's purpose, how to complete it accurately, and what each field means, making it easier for them to submit the form correctly.</thinking>
-
 # Shift Handover Checklist - Help Guide
 ## Purpose
 The Shift Handover Checklist form is used to document the handover of shifts between employees, ensuring that all necessary information is exchanged and confirmed. This form helps to streamline the handover process, reducing errors and improving efficiency.

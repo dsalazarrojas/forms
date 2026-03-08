@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to enable employees to request an extension of their relocation budget for various reasons such as extended travel or additional expenses. This form serves as a centralized platform for employees to provide detailed information about their relocation plans and needs, ensuring that their budget is accurately assessed and approved by relevant departments. 
-When filling out this form, ensure that the employee has a clear understanding of the current relocation policies and procedures in place within the company. It is also essential to verify that this form is not being completed for duplicate or unnecessary purposes. 
-Ensure that all required fields are filled out accurately, and any additional information that can support the request should be provided in the 'Additional Information' field. If an employee is unsure about any of the fields or has questions, they can reach out to the relevant departments for clarification. The goal of this form is to provide a smooth and efficient way for employees to communicate their relocation plans and budget requirements to the relevant stakeholders.
-</thinking>
-
 # Relocation Budget Extension Request Form - Help Guide
 ## Purpose
 This form is designed to allow employees to request an extension of their relocation budget due to various reasons such as extended travel or additional expenses.

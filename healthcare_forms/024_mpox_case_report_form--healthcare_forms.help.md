@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose and structure of the Mpox Case Report Form is crucial to ensure that users accurately and thoroughly report mpox cases. The form is designed to capture essential information about mpox cases, including patient details, symptoms, test results, and contact history. This guide will walk users through each section of the form, explaining the purpose of each field and providing clear guidance on how to complete it accurately.</thinking>
-
 # Mpox Case Report Form - Help Guide
 ## Purpose
 The Mpox Case Report Form is used to report and document mpox cases in a standardized manner. It is essential for healthcare professionals to complete this form accurately and thoroughly, as it helps in tracking and managing mpox cases effectively.

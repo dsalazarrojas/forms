@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from interns who have completed their internships to assess the effectiveness of the programs and identify areas for improvement. This form is designed to be completed by interns who have participated in the program, and it is intended to help the organization understand their experiences, likes, and dislikes. This feedback will be used to refine the programs and make them more effective for future interns. Before providing feedback, please note that this form is not a formal evaluation tool and the information collected will be used to improve the programs, not to evaluate individual performance. It's essential to be honest and specific with your feedback to make it valuable.
-</thinking>
-
 # intern_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from interns who have completed their internships to improve the programs and make them more effective for future interns.

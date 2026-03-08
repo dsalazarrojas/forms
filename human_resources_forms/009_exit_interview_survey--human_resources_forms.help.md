@@ -1,13 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the "exit_interview_survey" form. This form is designed to collect information from employees who are leaving the company, and it's essential to make sure that end-users understand its purpose and how to complete it correctly.
-
-The form is called the "exit_interview_survey" because it aims to gather insights and feedback from departing employees to improve the organization's human resources processes and employee experience. It's a crucial tool for HR teams to identify areas of improvement and make data-driven decisions.
-
-This form is designed to be completed by departing employees who are leaving the company voluntarily or involuntarily. It's essential that end-users take the time to complete this form accurately and thoroughly to provide valuable insights for the HR team.
-
-Before we dive into the step-by-step instructions, I'll review the form schema to ensure that everything is clear and concise.
-
-</thinking>
-
 # exit_interview_survey - Help Guide
 ## Purpose
 The exit_interview_survey form is designed to gather feedback and insights from departing employees to improve the company's human resources processes and employee experience. This information will help the HR team identify areas of improvement and make data-driven decisions.

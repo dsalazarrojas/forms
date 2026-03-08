@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users who are interested in signing up for the Mpox vaccine. This form is designed to gather relevant health information, contact details, and preferences for the vaccine administration process. It is essential to ensure that the user's health information and preferences are accurately captured to provide the best possible care. 
-
-This form should only be used for users who are interested in signing up for the Mpox vaccine and do not have any pre-existing medical conditions that may affect their eligibility for the vaccine. If you are unsure about your eligibility or have any concerns, please contact our medical team before completing this form.
-
-To ensure that we can provide accurate and timely information to the user, please do not complete this form if you have already received the Mpox vaccine or have any outstanding vaccine appointments. 
-
-</thinking>
-
 # Mpox Vaccine Sign Up Form - Help Guide
 ## Purpose
 The Mpox Vaccine Sign Up Form is designed to collect information from users interested in signing up for the Mpox vaccine. This form helps us gather relevant health information, contact details, and preferences for the vaccine administration process.

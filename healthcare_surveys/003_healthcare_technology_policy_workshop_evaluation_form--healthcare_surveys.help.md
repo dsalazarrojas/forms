@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the healthcare technology policy workshop, specifically focusing on evaluating the effectiveness and quality of the workshop. This includes rating the workshop title, event name, and the quality of the speakers' presentations, knowledge, clarity, and enthusiasm. The form is likely used for improvement and quality assurance purposes within the organization hosting the workshop. There might be a need for a workshop like this one to be repeated or evaluated in terms of content, format, or overall effectiveness.
-</thinking>
-
 # healthcare technology policy workshop evaluation form - Help Guide
 ## Purpose
 This form is designed to help us understand your experience and feedback on the healthcare technology policy workshop. Your input will help us identify areas of improvement and assess the workshop's overall effectiveness.

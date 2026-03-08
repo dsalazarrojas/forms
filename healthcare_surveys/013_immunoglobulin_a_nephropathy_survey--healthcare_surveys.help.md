@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information on immunoglobulin A nephropathy, a condition that affects the kidneys. This form is designed to gather data on symptoms, quality of life, support needs, and healthcare access. It is crucial to complete this form accurately to provide valuable insights for research and medical professionals. Please note that this form is a standardized tool and should only be filled out by individuals who have been diagnosed with or are suspected to have immunoglobulin A nephropathy. Completing this form multiple times with the same information is not recommended and may lead to duplicate data.
-</thinking>
-
 # Immunoglobulin A Nephropathy Survey - Help Guide
 ## Purpose
 The Immunoglobulin A Nephropathy Survey is a form designed to collect data on symptoms, quality of life, support needs, and healthcare access of individuals suspected or diagnosed with immunoglobulin A nephropathy. This information will be used to help medical professionals better understand the condition and provide more effective treatment.

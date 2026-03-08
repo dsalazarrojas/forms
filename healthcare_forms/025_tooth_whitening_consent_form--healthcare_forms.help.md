@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients regarding their tooth whitening treatment. It's intended for use in a healthcare setting, likely by a dentist or dental hygienist, to gather essential data on the patient's medical and dental history, as well as their consent to proceed with the treatment. This form should be reviewed carefully by the healthcare provider to ensure accurate completion and proper patient care. If you've used this form before, please skip to the "How To Complete This Form" section for a refresher. 
-
-</thinking>
-
 # Tooth Whitening Consent Form - Help Guide
 ## Purpose
 The Tooth Whitening Consent Form is used to collect essential information from patients before undergoing tooth whitening treatment. It helps healthcare providers gather medical and dental history, allergies, and consent to proceed with the treatment.

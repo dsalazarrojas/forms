@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from military personnel regarding their military leave. The purpose of this form is to track and record the details of their leave, including the start and end dates, reason for leave, and other relevant details. 
-The form is likely to be used by HR or military administration teams to keep track of military personnel's leave status and to ensure compliance with military regulations.
-This form will be used to gather data for military leave, which is essential for maintaining an accurate and up-to-date record of military personnel's status.
-</thinking>
-
 # Military Leave Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from military personnel regarding their military leave. It is used to track and record the details of their leave, including the start and end dates, reason for leave, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the Innkeeper Agreement Form. This form is intended for inns, hotels, or other establishments that provide accommodations to guests. Its purpose is to gather information from guests, specifically their personal details, property specifics, and any terms or conditions they agree to. This form can be completed by guests during check-in or online, providing innkeepers with a standardized way to collect relevant data.
-</thinking>
-
 # Innkeeper Agreement Form - Help Guide
 ## Purpose
 The Innkeeper Agreement Form is a standardized document that helps innkeepers gather necessary information from their guests. This form serves as a contract between the inn and the guest, outlining expectations and requirements for the stay.

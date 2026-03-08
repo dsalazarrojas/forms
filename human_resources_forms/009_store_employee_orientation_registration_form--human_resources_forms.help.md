@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for new employees to register for store employee orientation, and will help ensure that all necessary employee information is captured. This form will be used to create a database entry for each new employee, and will help track employee details and history. To prevent duplicate records, please ensure that only employees with a new employee number are entered into the system.</thinking>
-
 # Store Employee Orientation Registration Form - Help Guide
 ## Purpose
 The Store Employee Orientation Registration Form is designed to capture essential employee details, ensuring accurate and complete information for HR and management use.

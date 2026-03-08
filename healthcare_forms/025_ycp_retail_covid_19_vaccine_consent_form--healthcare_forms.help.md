@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's COVID-19 vaccination, including contact information, medical provider details, and consent. This form is likely used in a retail pharmacy or healthcare setting. Before filling out this form, ensure that you have the necessary permissions and approvals to collect this information. This form should not be filled out multiple times for the same patient. Please only fill out this form once for each patient.
-</thinking>
-
 # ycp-retail-covid-19-vaccine-consent-form - Help Guide
 
 ## Purpose

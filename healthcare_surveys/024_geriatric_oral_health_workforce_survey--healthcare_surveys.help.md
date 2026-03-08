@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geriatric Oral Health Workforce Survey - Help Guide
 
 ## Purpose

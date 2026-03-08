@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from patients on the effectiveness of remote patient monitoring systems used in their care. This form aims to assess whether the system has improved their health outcomes, how well they found it to use, and gather any additional comments or concerns they may have.
-
-To avoid duplication and ensure accuracy, please note the following:
-
-* This form is only for patients who have used a remote monitoring system as part of their care.
-* If you are a healthcare provider or staff member, please do not fill out this form.
-* Please be honest and objective when answering the questions.
-
-</thinking>
-
 # Remote Patient Monitoring Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients on the effectiveness of remote patient monitoring systems used in their care.

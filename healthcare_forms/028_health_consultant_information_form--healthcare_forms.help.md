@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "health_consultant_information_form" form, I will follow the provided YAML structure and provide a clear and concise explanation of the form's purpose, how to complete it, and each field's meaning.
 
 </thinking>

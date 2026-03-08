@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's appointment with a psychiatrist. It will help the doctor understand the patient's personal details, appointment specifics, contact information, and any additional notes or medical concerns. The purpose of this form is to streamline the appointment process and ensure that the doctor has all necessary information before the consultation. This form is intended for general use and should not be used for any other purpose without explicit permission. Please note that this form is created based on publicly available information and may not cover specific requirements of certain institutions or organizations.
-
-</thinking>
-
 # Psychiatrist Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's appointment with a psychiatrist.

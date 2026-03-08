@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to evaluate the performance of front desk receptionists, gathering information on individual characteristics, work period, and specific ratings for their tasks. It's crucial to have a clear understanding of the form's purpose and requirements before completing it. Please ensure that the data entered is accurate and relevant to the evaluation period.
-
-</thinking>
-
 # Front Desk Receptionist Evaluation Form - Help Guide
 ## Purpose
 The Front Desk Receptionist Evaluation Form is used to assess the performance of front desk receptionists. It's an essential tool for hotel management to evaluate individual characteristics and tasks performed by receptionists during a specified period.

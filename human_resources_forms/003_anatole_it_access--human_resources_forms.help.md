@@ -1,8 +1,3 @@
-<thinking>
-The form is for requesting IT access for employees. It's used to gather information about the employee, their department, job title, manager, and type of IT access required. The form is likely used by HR or management staff to process requests for IT access for new hires, offboarding, access modifications, temporary access, or other types of IT access requests. This form is likely used by HR or management staff to ensure that all necessary information is gathered for processing the request correctly. The form does not appear to be a duplicate of other forms that might be used for similar purposes, as it is focused on specific employee information and IT access types.
-
-</thinking>
-
 # Anatole It Access - Help Guide
 ## Purpose
 The Anatole It Access form is a tool used to request IT access for employees. It's used to gather necessary information from employees and HR/management staff to process and manage IT access requests.

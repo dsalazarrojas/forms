@@ -1,12 +1,3 @@
-<thinking>
-This form is a client intake form for personal care services, designed for patients to provide their personal details and information for a smooth and efficient care experience. The form is divided into several sections, including service details, health information, and policy acknowledgment. 
-
-The purpose of this form is to gather essential information from clients about their personal care preferences, health conditions, and safety protocols. It helps the care service provider to tailor their services to the client's specific needs and ensure a safe and satisfactory experience. 
-
-Please note that the form has several required fields, including Full Name, Phone Number, Email Address, Primary Service Requested, and Protocol Agreement. Clients are expected to fill in the necessary information accurately to facilitate the care process.
-
-</thinking>
-
 # Client Intake For Personal Care Services - Help Guide
 ## Purpose
 This client intake form is designed to gather personal and health-related information from clients for effective care services.

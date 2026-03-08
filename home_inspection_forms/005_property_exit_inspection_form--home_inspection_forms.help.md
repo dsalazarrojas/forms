@@ -1,8 +1,3 @@
-<thinking>
-The form is used to collect information about the condition of a property's systems, including general conditions, electrical systems, plumbing systems, heating and cooling systems, safety systems, environmental systems, and other systems. The form likely serves as a checklist for inspecting the property's systems before a sale or transfer of ownership.
-The fields on this form are mostly text-based, which may indicate that the user is expected to provide a brief description or notes about the condition of each system.
-There may be a need to clarify the purpose of some fields, such as "electrical_systems_2" and "plumbing_systems_2", as they seem to be duplicates of other fields. Perhaps there is a need to merge or eliminate these fields for better user experience and data consistency.</thinking>
-
 # Property Exit Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about the condition of a property's systems during an exit inspection. The information provided will help the inspector assess the overall state of the property and its systems.

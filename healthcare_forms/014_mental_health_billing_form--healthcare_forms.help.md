@@ -1,7 +1,3 @@
-<thinking>
-This form is for mental health billing purposes. It's used to collect information from clients, including their billing info and payment details. The form is designed to be completed by clients, hence the focus on their details. Please make sure to fill it out accurately and completely as this will help us provide you with better services.
-</thinking>
-
 # mental health billing form - Help Guide
 ## Purpose
 The mental health billing form is a tool for collecting client information and payment details for mental health services.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document the reasons for an employee's departure from the company, gather contact information, and collect details about the exit process. It's essential to understand the purpose of this form to ensure accurate and efficient offboarding.
-
-To confirm, the form is intended for internal use and should not be shared with external parties without permission. Please ensure that you have the necessary permissions and approvals before sharing this form with anyone outside the company.
-
-The form is designed to be completed by the employee leaving the company and their manager. It's crucial to fill out the form accurately to maintain a professional and respectful relationship with the departing employee.
-
-</thinking>
-
 # Employee Exit Offboarding Form - Help Guide
 ## Purpose
 This form is used to document the reasons for an employee's departure from the company, gather contact information, and collect details about the exit process.

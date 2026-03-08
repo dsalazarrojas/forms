@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive medical form for summer camps or other medical settings to gather important health information from individuals. It includes fields for health conditions, allergies, medications, vaccination history, emergency contact information, and medical history. This form likely aims to ensure that each individual's medical needs and risks are accurately captured. The purpose is to gather information for potential medical emergencies or treatments during the summer camp period.
-</thinking>
-
 # Summer Camp Medical Form - Help Guide
 ## Purpose
 This form is designed to collect and document important medical information about each individual's health conditions, allergies, and vaccination status. This information will be used to ensure that any potential medical emergencies or treatments are handled properly during their time at the summer camp.

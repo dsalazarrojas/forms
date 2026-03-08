@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a patient's orthodontic treatment records. The form can be used to upload and store patient data, such as medical history, treatment plans, progress, and other relevant details. It's essential to ensure that each form submission is unique and not a duplicate entry for the same patient. Please verify that the information being uploaded is accurate and up-to-date before submitting it.
-</thinking>
-
 # Orthodontic Records Upload Form - Help Guide
 ## Purpose
 This form is intended to collect and store patient data for orthodontic treatment records.

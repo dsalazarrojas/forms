@@ -1,10 +1,3 @@
-<thinking>Internal reasoning:
-We have a form designed for a Coronavirus Business Reopening Survey, which will help businesses assess their readiness to reopen after the pandemic. The form is divided into several pages with various fields for different aspects of business operations. The form will collect information on the business's current status, type, contact details, and other specific requirements for reopening. It's essential to ensure that the form is filled out correctly to obtain accurate results.
-
-The form consists of 25 pages, each with different fields such as select_one, select_multiple, text, email, date, time, number, and note fields. These fields are used to collect specific types of information and are essential for the business reopening process. The fields are mostly optional, but it's crucial to fill them out accurately to ensure the form's purpose is fulfilled.
-
-</thinking>
-
 # Coronavirus Business Reopening Survey - Help Guide
 ## Purpose
 The purpose of this form is to assess a business's readiness to reopen after the pandemic. It helps gather information on the business's status, type, and other necessary details for a successful reopening.

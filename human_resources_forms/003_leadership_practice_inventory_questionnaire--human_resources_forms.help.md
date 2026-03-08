@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to help you reflect on your leadership style and practices, identifying areas for improvement and development. It is designed to be a self-assessment tool for leaders to gain insight into their strengths and weaknesses, and to develop a plan for growth and improvement. This form is typically used in a 360-degree feedback or coaching context, where leaders receive feedback from themselves, their team, and possibly others. By completing this form, you will be able to:
-
-* Identify your current leadership style and practices
-* Reflect on areas where you struggle or need improvement
-* Develop a plan to work on areas of improvement
-* Identify opportunities for personal and professional growth
-
-Please note that this form is a personal and professional development tool, and the information you provide will be used for your own growth and improvement. Your responses will not be shared or used for any other purpose without your explicit consent.
-
-</thinking>
-
 # Leadership Practice Inventory Questionnaire - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for collecting information related to hospice care for patients. It's likely to be used by healthcare professionals to assess the needs and status of patients requiring end-of-life care. The form is likely to be used for administrative and clinical purposes, such as evaluating the necessity and availability of hospice care services, and monitoring patient outcomes and care plans. The form is not designed to be used for billing or payment purposes. The information collected on this form will be used to inform patient care and support.
-
-Before completing this form, please ensure that you have the necessary patient information and medical records available.
-
-Please note that some of these questions may overlap or be similar, but please answer them as accurately and thoroughly as possible to ensure a comprehensive assessment of the patient's needs.</thinking>
-
 # Hospice Care Checklist - Help Guide
 ## Purpose
 The Hospice Care Checklist is a tool used to evaluate and document the needs and status of patients requiring end-of-life care. It helps healthcare professionals assess the necessity and availability of hospice care services.

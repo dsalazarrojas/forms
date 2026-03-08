@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to document clinical supervision sessions between supervisors and supervisees. This form serves as a tool for both parties to record and evaluate the session's progress, identify areas of improvement, and set goals for future sessions. This form is typically used in healthcare settings where clinical supervisors provide guidance and oversight to supervisees. To avoid duplication, this form should only be used for clinical supervision sessions and not for other purposes. 
-
-Please note that some fields are optional, and their use depends on the specific needs and context of the session. The following guide will walk you through the steps and explanations to help you complete this form effectively.
-</thinking>
 # Clinical Supervision Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "Healthcare Innovation Records Release Form" is to gather information from patients about their medical records and verify certain aspects of their records to ensure accuracy and consistency. This form is likely to be used in a healthcare setting to facilitate the sharing of patient information among different providers or departments. The form is not designed to be a comprehensive medical history or assessment tool, but rather a specific set of questions to gather relevant information and verify certain details.
-
-This form is likely to be completed by patients, and the information collected will be used by healthcare providers to update and verify patient records. The form may be used for various purposes, such as updating patient records, verifying patient information, or facilitating communication between healthcare providers.
-
-To avoid duplication and ensure accuracy, healthcare providers should use this form judiciously and only when necessary. Patients should be informed of the purpose and importance of completing this form before they begin.
-
-</thinking>
-
 # Healthcare Innovation Records Release Form - Help Guide
 ## Purpose
 

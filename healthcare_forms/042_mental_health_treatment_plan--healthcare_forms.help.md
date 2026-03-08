@@ -1,7 +1,3 @@
-<thinking>
-The mental health treatment plan form is designed to help healthcare professionals create a comprehensive treatment plan for patients dealing with mental health issues. This form is part of a larger set of healthcare forms, and it's intended for use in clinical settings where mental health treatment is being provided. Before filling out this form, please ensure you understand the context in which it's being used and that you have the necessary information and authorization to complete it accurately. If you're not sure about the purpose or usage of this form, please verify with your healthcare provider.
-</thinking>
-
 # mental_health_treatment_plan - Help Guide
 ## Purpose
 The mental health treatment plan form is a tool used to create a tailored treatment plan for patients dealing with mental health issues. It helps healthcare professionals gather essential information about the patient's goals, strategies, and progress tracking.

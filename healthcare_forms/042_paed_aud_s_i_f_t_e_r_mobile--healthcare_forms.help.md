@@ -1,7 +1,3 @@
-<thinking>
-To determine the form's purpose and explain each field effectively, I'll analyze the provided YAML structure. It appears to be a form for user input with multiple fields, including text, date, time, email, phone, and select options. The form has two "select_one" fields with different options. The required fields are `email_2` (select multiple) and `select_one_2` (select one). The form's overall purpose seems to be for collecting user information, likely for some kind of assessment or survey. I'll create the help guide accordingly.
-</thinking>
-
 # paed_aud_s_i_f_t_e_r_mobile - Help Guide
 ## Purpose
 This form is designed to collect user information for some kind of assessment or survey. It's a multi-field form that requires some mandatory selections and accepts multiple optional inputs.

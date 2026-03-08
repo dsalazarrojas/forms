@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to document the process of conducting an executive leadership interview. It is crucial to gather relevant and accurate information about the candidate's background, job title, and performance evaluation. To ensure that the form is completed correctly, please review the following instructions:
-
-The form is designed to collect information about the candidate being interviewed, including their name, job title, and any additional comments or recommendations. The form also includes fields for evaluating the candidate's performance and providing feedback.
-
-Before filling out this form, please consider the following:
-
-*   The candidate's name and job title are essential for identifying the candidate and understanding their role within the organization.
-*   The interview panel selection is crucial in determining who will be responsible for conducting the interview.
-*   The evaluation score and feedback fields are where you will provide your assessment of the candidate's performance.
-*   The date and start/end time of the interview are necessary for recording the interview's schedule and duration.
-
-Please ensure that you complete the form accurately and thoroughly, as the information collected will be used for decision-making and future reference.
-
-</thinking>
-
 # Executive Leadership Interview Form - Help Guide
 ## Purpose
 The Executive Leadership Interview Form is a tool used to document and evaluate the performance of executive candidates during an interview. It helps to gather information about the candidate's background, job title, and performance.

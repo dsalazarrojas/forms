@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a Prior Authorization Form for healthcare professionals, likely for requesting pre-authorization for medical procedures or medications. The form is designed to collect information about the patient, medication, coverage status, and procedure information. The purpose of the form is to ensure that healthcare providers have the necessary information to make informed decisions about patient care. This form is likely used in a medical setting, such as a hospital or clinic.
-</thinking>
-
 # Prior Authorization Form - Help Guide
 ## Purpose
 The Prior Authorization Form is used by healthcare providers to request pre-authorization for medical procedures or medications for their patients. This form helps the healthcare team to review and evaluate the request and make informed decisions about patient care.

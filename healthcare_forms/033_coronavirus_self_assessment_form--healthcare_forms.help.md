@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly and securely. This form is designed to collect information from patients about their health status, travel history, and other relevant details. We should check if the patient has already filled out a similar form, and if so, we can use that information as a starting point to prevent duplication. This form should only be filled out once.
-</thinking>
-
 # coronavirus_self_assessment_form - Help Guide
 ## Purpose
 

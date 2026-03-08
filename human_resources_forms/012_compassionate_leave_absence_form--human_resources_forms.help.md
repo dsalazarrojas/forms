@@ -1,8 +1,6 @@
 # Compassionate Leave Absence Form - Help Guide
 
 ## Purpose
-<thinking>When an employee or their family member experiences a compassionate leave, they need to provide the necessary details for the leave request to be processed. This form is a standardized way of collecting essential information for HR to evaluate and manage the leave request efficiently. Ensure you fill out the form accurately and provide any supporting documentation as needed.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

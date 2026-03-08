@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for travel agents to offboard employees, which means it's used to document an employee's termination or departure from the company. The form is meant to gather information about the employee's travel details and reason for departure. 
-
-The form has several fields that the employee needs to fill out to provide relevant information. The form consists of employee information, travel details, reason for departure, travel destination, and travel dates. The employee needs to provide their name, manager's name, travel dates, destination, reason for departure, and other optional details like travel agent's name and notes.
-
-Before filling out the form, the employee is asked to review and agree to the terms and conditions. Once submitted, the form will be reviewed by the HR department, and the employee will be notified.
-
-It is recommended that the employee fills out the form as soon as possible after receiving the notification.
-
-Note that some fields might be optional, but it is still recommended to fill them out for accurate records.
-
-</thinking>
-
 # Travel Agent Offboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to document an employee's travel details and reason for departure when offboarding from the company.

@@ -1,13 +1,3 @@
-<thinking>
-
-As a healthcare expert, you've created a form designed to evaluate the effectiveness of health programs. This self-evaluation form is used to collect feedback from participants to assess the quality and impact of the program. It's meant to be filled out by program participants, likely after completing the program or a specific session.
-
-This form will help program administrators identify areas of improvement and make data-driven decisions to enhance the program's design and delivery. It's crucial to fill out this form accurately and honestly to provide valuable insights.
-
-Before starting, ensure you're filling this form for the correct program and that you've completed the program or a session you're evaluating.
-
-</thinking>
-
 # health_program_self_evaluation_form - Help Guide
 
 ## Purpose

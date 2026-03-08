@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help you complete the Covid 19 Mandatory Daily Health Screening Questionnaire form. Before starting, please ensure you have not already completed a similar form for the day, as this form is intended for daily screenings.
 
 # Covid 19 Mandatory Daily Health Screening Questionnaire - Help Guide

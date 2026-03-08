@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'm going to create a comprehensive user-facing help guide for the "Hotel Meal Service Registration" form. This guide will cover the form's purpose, step-by-step instructions, and a field-by-field explanation of each field. To ensure that the form is used correctly and effectively, I'll consider the context and required fields to avoid duplication and non-relevance.
-
-The "Hotel Meal Service Registration" form is designed to collect information about guests' meal preferences and requests for meal service. The form is intended for hotel guests who want to request meal services, such as breakfast, lunch, or dinner, and provide additional details about their preferences. The form is likely used by hotel staff to register and track meal requests and preferences.
-
-Please note that this form does not have any required fields, which means that guests can complete it at their discretion.
-
-</thinking>
-
 # Hotel Meal Service Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Hotel Meal Service Registration form, which is used to register meal requests and preferences for hotel guests.

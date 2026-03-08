@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that this form is used correctly, let's briefly review its purpose and potential pitfalls.
-
-The Dependent Details Declaration Form is used to collect information about dependents who may be eligible for benefits. This form is crucial in verifying the identity and relationships between dependents and their family members. However, it's essential to complete this form accurately and truthfully, as it may impact benefit eligibility and claims processing. Please review each field carefully to ensure you're providing the correct information.
-
-This form is also designed to be completed once for each dependent. If you have multiple dependents, you'll need to complete this form for each one.
-
-</thinking>
-
 # Dependent Details Declaration Form - Help Guide
 ## Purpose
 The Dependent Details Declaration Form is used to collect information about dependents who may be eligible for benefits. This form is essential in verifying the identity and relationships between dependents and their family members.

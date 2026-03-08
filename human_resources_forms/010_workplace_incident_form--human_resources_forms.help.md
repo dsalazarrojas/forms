@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect and document workplace incidents, providing a structured and standardized process for reporting and investigating incidents. The form is intended for use by employees and supervisors within an organization, with the goal of improving incident reporting, investigation, and resolution processes. The form is not a substitute for any existing reporting or investigation procedures, but rather a supplement to support and enhance those processes. Please use this form to collect and document workplace incidents, but ensure that you are not duplicating effort or using this form for purposes that are not related to workplace incidents.
-
-</thinking>
-
 # Workplace Incident Form - Help Guide
 
 ## Purpose

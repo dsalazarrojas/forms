@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate a palliative care education workshop. The goal of this form is to gather feedback and suggestions for improvement from participants after the workshop. The form aims to assess the participant's satisfaction with the workshop, the relevance of the content, and identify areas for improvement.
-</thinking>
-
 # Palliative Care Education Workshop Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions for improvement from participants after a palliative care education workshop.

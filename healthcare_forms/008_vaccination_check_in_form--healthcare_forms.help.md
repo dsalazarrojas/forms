@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Vaccination Check In Form" that explains its purpose, completion steps, and field-by-field explanation.
-The form is for checking in patients for vaccinations, and it seems to be used by healthcare professionals.
-We should focus on making the form easy to complete and understandable for the end-users.
-The form has a mix of text, date, and email fields, with a select_multiple field for vaccination details.
-</thinking>
-
 # Vaccination Check In Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from individuals for COVID-19 vaccination purposes, including demographic details, health-related information, and preferences for vaccination administration. This guide is intended for end-users who will be filling out this form for themselves. Before proceeding, please note that this form is not meant to duplicate or conflict with any other forms or processes your healthcare provider may have in place. If you're unsure about any section, please contact your healthcare provider for clarification before continuing.
-</thinking>
-
 # COVID 19 Self Declaration Form - Help Guide
 ## Purpose
 The COVID-19 Self Declaration Form is designed to collect personal and health-related information from individuals for vaccination purposes. This information will help healthcare providers assess risks and ensure a safe and efficient vaccination process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users in creating a comprehensive record release form for emergency response situations, which is crucial for healthcare providers to document and manage patient information accurately. It is essential to ensure that the form is filled out correctly to maintain patient confidentiality and adhere to HIPAA regulations.
-</thinking>
-
 # Emergency Response Records Release Form - Help Guide
 
 ## Purpose

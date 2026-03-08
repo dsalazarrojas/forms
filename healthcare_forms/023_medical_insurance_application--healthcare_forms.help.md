@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical insurance application information from applicants. It appears to be a comprehensive form that captures various aspects of the applicant's medical history, employment information, and contact information. Before proceeding, please ensure that you have not already completed this form in the past, as this will prevent duplication of effort. If you're certain that you need to complete this form again, let's move on to the instructions.
-</thinking>
-
 # Medical Insurance Application - Help Guide
 ## Purpose
 This form is designed to collect medical insurance application information from applicants. It is used to gather essential details about the applicant's medical history, employment, and contact information.

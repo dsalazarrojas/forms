@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to fill out the Mobile Home Attic Access Inspection Checklist form. This form is part of the home inspection process, specifically designed to collect information about the attic area of a mobile home. The guide will explain each section of the form and provide guidance on how to complete it accurately.
-</thinking>
-
 # Mobile Home Attic Access Inspection Checklist - Help Guide
 ## Purpose
 The Mobile Home Attic Access Inspection Checklist form is a tool used to record the details of an attic access inspection in a mobile home. This includes the inspector's name, the property address, date of the inspection, hours worked, and any other relevant details.

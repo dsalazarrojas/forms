@@ -1,8 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Dpc Waitlist Sign Up" form. This form is likely used for patients or healthcare providers to sign up for or register on a waitlist for various medical services, appointments, or programs. The form's purpose is to gather relevant information from users, which will be used to manage the waitlist. Before proceeding, we'll ensure that the form is not already filled out by the user and that the user has the necessary permissions to access the form. The form is designed to be completed by patients, healthcare providers, or administrators.
-
-</thinking>
-
 # Dpc Waitlist Sign Up - Help Guide
 ## Purpose
 The "Dpc Waitlist Sign Up" form is a registration process for patients or healthcare providers to sign up for or register on a waitlist for various medical services, appointments, or programs.

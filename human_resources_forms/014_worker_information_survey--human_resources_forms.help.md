@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Worker Information Survey". This form is designed to collect information about employees, specifically details about their worker information such as name, contact details, job title, department, employment status, and more. It's essential to ensure that the user fills out the form accurately and comprehensively to provide a comprehensive picture of the worker's information.
-This form will be used by HR personnel to collect and maintain accurate and up-to-date information about employees. It's crucial that the form is filled out correctly to avoid any discrepancies or mistakes that might lead to incorrect conclusions or decisions.
-</thinking>
-
 # Worker Information Survey - Help Guide
 ## Purpose
 This form is designed to collect and maintain accurate and up-to-date information about employees. It's essential to fill out this form correctly to ensure that HR personnel have a comprehensive view of each employee's details.

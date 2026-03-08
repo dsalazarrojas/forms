@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding the purpose and completion process of the "Notice Of Privacy Practices" form. The purpose of this form is to inform patients about the types of information that will be collected, used, and shared by healthcare providers. This form is intended to help patients understand their rights and how their information will be protected.
-</thinking>
-
 # Notice Of Privacy Practices - Help Guide
 ## Purpose
 The "Notice Of Privacy Practices" form is a document that provides patients with information about the types of information that will be collected, used, and shared by healthcare providers. This form is designed to inform patients about their rights and how their information will be protected.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect immunization consent information from patients, including their personal details, medical provider information, and consent dates. This form is likely used in healthcare settings to document and verify patient consent for immunizations. It's essential to ensure that the form is completed accurately and thoroughly to maintain patient confidentiality and ensure compliance with regulatory requirements. Please verify that this form is relevant to your specific use case and that you have the necessary permissions and approvals to collect and store this information.</thinking>
-
 # Immunization Consent Form - Help Guide
 ## Purpose
 This form is designed to collect immunization consent information from patients, including their personal details, medical provider information, and consent dates. It is essential to ensure that the form is completed accurately and thoroughly to maintain patient confidentiality and comply with regulatory requirements.

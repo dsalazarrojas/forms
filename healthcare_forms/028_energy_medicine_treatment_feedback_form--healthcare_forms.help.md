@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and the user's understanding of the form fields are clear. Before proceeding, let's review the form's purpose and the potential use cases for this form. The form is intended to gather feedback from customers regarding their energy medicine treatment. This will help us understand their experiences, identify areas of improvement, and refine our services. It's crucial that customers feel comfortable sharing their thoughts, and the form should be designed to be user-friendly and non-intrusive. With this in mind, let's create a help guide that explains each field's purpose and how to complete it.
-</thinking>
-
 # Energy Medicine Treatment Feedback Form - Help Guide
 ## Purpose
 The Energy Medicine Treatment Feedback Form is a survey designed to collect feedback from customers regarding their experiences with our energy medicine treatment. Your input will help us understand your perceptions and identify areas for improvement, allowing us to better serve you and our other customers.

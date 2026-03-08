@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form to prevent duplicate submissions and ensure that the information provided is accurate and valid for compression stocking prescriptions. This form is used to collect patient information and details required for compression stocking prescriptions, including the reason for the prescription, recommended stocking class, measurement instructions, and prescribing clinician information. It's essential to follow the guidelines and instructions provided in this help guide to avoid errors and ensure the form is filled out correctly.
-</thinking>
-
 # Compression Stocking Prescription Form - Help Guide
 
 ## Purpose

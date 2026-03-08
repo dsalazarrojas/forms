@@ -1,14 +1,3 @@
-<thinking>
-The form is a critical tool for evaluating the quality of housekeeping services provided by a hotel or resort. This form will help assess the cleanliness and maintenance of the rooms, common areas, and other facilities to ensure that the standards of the hospitality industry are met.
-
-Before completing this form, please review the sections below to understand the purpose and requirements of each section.
-
-The main goal of this form is to assess the quality of the housekeeping services provided by the hotel. The sections are designed to evaluate different aspects of the hotel's housekeeping services, including general assessment, housekeeping services, room cleanliness, bathroom quality, common areas, linens, laundry services, housekeeping equipment, employee satisfaction, overall experience, and follow-up.
-
-This form is used to gather information on the quality of service and the employee's performance. The form requires answers from both the housekeeper and the guest.
-
-</thinking>
-
 # Hospitality Housekeeping Quality Assessment - Help Guide
 ## Purpose
 This form is used to assess the quality of housekeeping services provided by a hotel or resort. It will help identify areas for improvement and ensure that the hotel meets the standards of the hospitality industry.

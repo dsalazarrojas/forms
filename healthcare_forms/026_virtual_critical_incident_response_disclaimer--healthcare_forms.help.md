@@ -1,12 +1,3 @@
-<thinking>
-This form is a template for collecting information related to virtual critical incidents, which are events that occur in a digital or online environment. The form is designed to collect data from employees who have experienced a virtual critical incident, such as a cyberattack, data breach, or online harassment. The purpose of this form is to gather information about the incident, including the employee's information, incident details, and any relevant coping mechanisms used.
-
-To avoid duplication and ensure accurate completion, please only fill out this form once. If you have already completed this form, do not submit it again.
-
-This form has multiple pages with various fields for collecting information. Please follow the instructions below to complete the form correctly.
-
-</thinking>
-
 # Virtual Critical Incident Response Disclaimer - Help Guide
 ## Purpose
 This form is a template for collecting information related to virtual critical incidents. It is designed to gather details about the incident, including the employee's information, incident details, and coping mechanisms used.

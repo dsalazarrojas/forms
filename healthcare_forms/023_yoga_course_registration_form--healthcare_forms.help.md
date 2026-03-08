@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students who want to register for a yoga course. The form is designed to gather essential details such as student name, contact information, and course enrollment information. This form should only be filled out once for each student. If a student has already registered for the same course, please do not fill out this form again.
-</thinking>
-
 # Yoga Course Registration Form - Help Guide
 ## Purpose
 This form is intended for students to register for a yoga course.

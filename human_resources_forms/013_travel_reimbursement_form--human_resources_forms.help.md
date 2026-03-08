@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture travel reimbursement information from employees. It is intended to be used by employees who need to request reimbursement for expenses incurred during business travel. This form should only be completed by employees who are authorized to travel and have not already submitted a reimbursement request for the same trip. The form can be used to provide details about the travel, including the date of travel, flight information, destination, reason for travel, and expenses incurred. The form also allows for upload of supporting documents and capture of employee and manager signatures. Please ensure that the submitted form accurately reflects the travel and expense information.
-</thinking>
-
 # Travel Reimbursement Form - Help Guide
 
 ## Purpose

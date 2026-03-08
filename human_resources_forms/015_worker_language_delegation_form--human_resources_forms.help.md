@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to delegate tasks or projects to workers, allowing supervisors to assign tasks, set deadlines, and track progress. This form ensures that workers are informed of their tasks and responsibilities, promoting clear communication and productivity within the team. By filling out this form, supervisors can provide detailed information about each task, including the task description, start and end dates, start and end times, and expected duration, which enables workers to prioritize and manage their workload effectively. This form also allows supervisors to track the status of tasks and projects, making it easier to monitor progress and address any issues that may arise.
-It is essential to complete this form accurately and thoroughly, as it serves as a crucial communication channel between the supervisor and the worker. Please ensure that you have all the necessary information before filling out this form, especially for fields like task description, start and end dates, and start and end times.
-Please note that this form should not be used for non-essential tasks or projects. If you are unsure about a task's priority or relevance, consult with your supervisor before filling out this form.
-Also, be aware that some fields have specific formats or options that must be followed to ensure accurate data entry. For example, the start and end dates and times should be in the mm/dd/yyyy and hh:mm a formats, respectively.
-</thinking>
-
 # Worker Language Delegation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Sample Telemedicine Consent Form" in the healthcare category, I'll first consider the form's purpose and the fields it contains. Since the form is for telemedicine, it likely gathers information about patients for medical treatment, and the fields seem to be basic personal information, consent, and signature fields. To ensure the form is completed accurately, it's essential to explain each field clearly.
-</thinking>
-
 # Sample Telemedicine Consent Form - Help Guide
 ## Purpose
 This form is designed to collect patient information, consent, and signature for telemedicine services. It's a basic form for healthcare providers to obtain necessary details from patients.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for billing purposes in acute care situations. Its primary goal is to collect patient information, insurance details, and payment method for medical services rendered. This form will serve as a comprehensive guide to ensure accurate and efficient billing processes for healthcare providers. Please ensure that you have a clear understanding of the form's purpose and the required fields before proceeding. Note that this form may be used in conjunction with other forms or as a standalone document, but it's essential to review your specific healthcare facility's policies regarding billing and form usage.</thinking>
-
 # Acute Care Billing Form - Help Guide
 ## Purpose
 The Acute Care Billing Form is a document designed for healthcare providers to record and manage billing information for patients in acute care situations. It captures essential details such as patient contact and insurance information, services rendered, and payment methods.

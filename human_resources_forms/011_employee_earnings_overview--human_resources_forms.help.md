@@ -1,8 +1,3 @@
-<thinking>
-The Employee Earnings Overview form is designed to provide an at-a-glance summary of an employee's earnings, including compensation information, tax withholding, and benefits. This form helps managers and administrators quickly review and verify employee earnings data. To ensure that the form is filled out accurately and efficiently, please review the following steps and explanations.
-
-</thinking>
-
 # Employee Earnings Overview - Help Guide
 
 ## Purpose

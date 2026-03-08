@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and record information about a patient's medication regimen. This form will help gather essential details such as patient name, birthday, and medical condition, as well as the medication name, dosage, frequency, start and end dates, and refill frequency. This form is designed to aid in accurate and organized tracking of patient medication records. 
-
-</thinking>
-
 # Medication Record Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and record information about a patient's medication regimen.

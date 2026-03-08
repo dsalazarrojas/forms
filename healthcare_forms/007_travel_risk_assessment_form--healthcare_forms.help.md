@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a traveller's risk level when traveling, taking into account their medical history, travel history, and other relevant factors. This form is intended for use by healthcare professionals to evaluate the safety of a traveller, particularly in high-risk situations. Before proceeding, we want to ensure that the data collected is accurate and relevant, and that no unnecessary or duplicate data is collected.
-</thinking>
-
 # Travel Risk Assessment Form - Help Guide
 ## Purpose
 The Travel Risk Assessment Form is used by healthcare professionals to evaluate a traveller's risk level when embarking on a journey. This form is designed to collect relevant information about the traveller's medical history, travel history, and other factors that may impact their safety.

@@ -1,12 +1,3 @@
-<thinking>
-The "Preventive_Care_Literacy_Survey" form is designed to assess the knowledge, attitudes, and confidence levels of healthcare professionals regarding preventive care. This form is typically used to evaluate the understanding and implementation of preventive care practices among healthcare workers.
-
-Before proceeding, please ensure that you have a legitimate purpose for completing this form and that you are not duplicating any existing evaluations. This form is intended for healthcare professionals to assess their own knowledge and attitudes or for administrators to evaluate the overall level of care provided by their team.
-
-Please review the following steps to complete this form and understand each field's meaning and requirements.
-
-</thinking>
-
 # Preventive Care Literacy Survey - Help Guide
 ## Purpose
 The "Preventive Care Literacy Survey" form is designed to gauge the knowledge, attitudes, and confidence levels of healthcare professionals regarding preventive care practices. This form helps to identify areas where professionals may need further education or support.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foot Patch Effectiveness Survey - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help healthcare providers assess a patient's spiritual needs and experiences. The form is part of the hospice care process, which aims to provide comfort, relief, and support to patients and their families during the end-of-life care period. By filling out this form, healthcare providers can better understand the patient's spiritual values, beliefs, and practices, which will help them provide more effective care and support.
-
-Before filling out this form, please note that it is intended for patients who are receiving or have received hospice care. If you are unsure about the patient's eligibility, please consult with a healthcare provider.
-
-Also, please be aware that some of the fields in this form are optional, and you should only complete them if the information is relevant to the patient's care. 
-
-</thinking>
-
 # Hospice Spiritual Assessment Form - Help Guide
 ## Purpose
 

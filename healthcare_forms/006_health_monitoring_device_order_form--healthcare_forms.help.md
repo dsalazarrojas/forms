@@ -1,7 +1,3 @@
-<thinking>Healthcare forms are often used to collect sensitive information, and it's essential to ensure that they are filled out correctly and efficiently. This help guide is designed to assist users in completing the health monitoring device order form (health_monitoring_device_order_form) with accuracy and clarity. 
-
-Before proceeding, please check that you are filling this form for the right purpose and that you are not duplicating an existing order. This form is intended to be used for ordering health monitoring devices, and it's crucial to have the necessary information and authorization to place an order.</thinking>
-
 # health_monitoring_device_order_form - Help Guide
 ## Purpose
 The health_monitoring_device_order_form is used to order health monitoring devices for patients. This form requires accurate and complete information to ensure that the ordered devices are delivered promptly and correctly.

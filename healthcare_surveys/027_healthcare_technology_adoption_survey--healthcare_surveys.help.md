@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about healthcare technology adoption from individuals with varying levels of experience and familiarity with technology. The form will help us understand how technology affects your work in the healthcare sector, what challenges or barriers you face when adopting new technologies, and which technologies you are satisfied with or have difficulty using. This form should take approximately 5-10 minutes to complete, and your responses will be kept confidential.
-</thinking>
-
 # Healthcare Technology Adoption Survey - Help Guide
 
 ## Purpose

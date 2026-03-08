@@ -1,11 +1,3 @@
-<thinking>
-
-This is a form for collecting patient data in the healthcare setting. The form is intended to gather information about the patient's identity, medical history, and medical conditions. The fields are designed to be completed by medical professionals, such as doctors and nurses, to update patient records.
-
-To avoid duplication of effort, make sure you've reviewed the patient's previous records or consultations before attempting to complete this form. Also, ensure that you've checked with the patient about the accuracy of the information provided before submitting.
-
-</thinking>
-
 # dbs_form - Help Guide
 ## Purpose
 This form is designed to collect and record patient data in the healthcare setting. It captures information about the patient's identification, medical history, and medical conditions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospice Consent Form - Help Guide
 
 ## Purpose

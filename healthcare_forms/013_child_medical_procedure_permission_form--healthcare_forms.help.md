@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form is being used for its intended purpose and not for other purposes such as creating a duplicate record. Also, confirm that all required fields are filled out accurately and completely. Additionally, ensure that the user understands that the form is a legal document and that their signature is their consent.
-</thinking>
-
 # Child Medical Procedure Permission Form - Help Guide
 ## Purpose
 The Child Medical Procedure Permission Form is used to obtain legal consent for a medical procedure to be performed on a child. The form ensures that the parent or guardian of the child understands the nature and risks of the procedure, as well as their rights and responsibilities.

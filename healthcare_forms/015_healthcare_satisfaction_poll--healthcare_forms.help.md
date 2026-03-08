@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Satisfaction Poll - Help Guide
 
 ## Purpose

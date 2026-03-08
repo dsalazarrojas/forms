@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disability Accommodation Request Form - Help Guide
 ## Purpose
 This form is for requesting disability accommodations at work. It is used to submit requests for modifications or adjustments to your workspace to accommodate your needs as a disabled employee.

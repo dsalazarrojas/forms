@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that our users understand the purpose and functionality of this form to collect patient feedback on treatment options. The form is intended to gather information from patients about their experiences with treatments, including their satisfaction with the treatment, effectiveness of the treatment, and any adverse effects they may have encountered. We also want to collect contact information and any additional comments or feedback they may have. We will review this form to identify areas for improvement and make adjustments as needed to optimize patient care.
-</thinking>
-
 # Patient Feedback On Treatment Options - Help Guide
 
 ## Purpose

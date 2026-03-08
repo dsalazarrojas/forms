@@ -1,5 +1,3 @@
-<thinking>As a healthcare expert, I've reviewed the form and its purpose. The Medical Estimate Template form is designed to collect essential information for medical estimates. This form is likely used by healthcare providers or administrators to gather data on a patient's medical estimate, including their name, the date of the estimate, the provider's name, an estimated cost, and an estimated range of the treatment or procedure. The form also includes space for a description of the treatment or procedure and the patient's phone number, which may be useful for follow-up communication. This form appears to be a standard template for medical estimates, and its fields should be filled out accordingly to ensure accuracy and completeness of the patient's medical record.</thinking>
-
 # Medical Estimate Template - Help Guide
 ## Purpose
 The Medical Estimate Template form is used to collect information for a patient's medical estimate. This form helps healthcare providers gather essential details for accurate and efficient medical records.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information related to employee HR files, specifically for completion of the employee's personnel file. This form aims to collect details about the employee's emergency contacts, whether they have emergency contacts, and whether they have any documents attached to their file. The form also asks for policy acknowledgments and allows for the upload of files.
 
 **HR File Completion Form - Help Guide**

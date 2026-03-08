@@ -1,25 +1,3 @@
-<thinking>
-
-This form is a survey designed to collect feedback on the recruitment process used by the organization. It aims to understand how well the current process is working and identify areas of improvement. The form will help recruiters, hiring managers, and other stakeholders refine the process to better serve job applicants and improve the overall hiring experience.
-
-The form is divided into different sections, each focusing on various aspects of the recruitment process. These sections include:
-* Job Application Process
-* Candidate Experience
-* Communication Frequency
-* Interview Process
-* Job Offer and Onboarding
-* Candidate Satisfaction
-* Communication Channels
-* Job Advertisement Channels
-* Job Ad Duration
-* Job Interview
-* Job Evaluation
-* Onboarding
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Recruitment Process Survey - Help Guide
 
 ## Purpose

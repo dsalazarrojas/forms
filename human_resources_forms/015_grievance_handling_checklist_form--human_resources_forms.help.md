@@ -1,9 +1,3 @@
-<thinking>
-The grievance_handling_checklist_form is designed to handle grievances that employees may have against their workplace or colleagues. It helps to collect information about the nature of the grievance, identify potential issues, and provide a structured framework for addressing these issues.
-Before filling out this form, please ensure that you have a valid reason for submitting a grievance and that it's not being used to harass or intimidate others. Duplicate submissions are discouraged.
-The form consists of multiple pages, each with specific fields that require different types of input. Please fill out the form in its entirety, providing as much detail as possible for each field.
-</thinking>
-
 # grievance_handling_checklist_form - Help Guide
 ## Purpose
 The Grievance Handling Checklist Form is used to document and address grievances that employees may have against their workplace or colleagues.

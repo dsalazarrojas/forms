@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hemiparesis Assessment Survey - Help Guide
 ## Purpose
 The Hemiparesis Assessment Survey is designed to evaluate the functional impact of hemiparesis on patients' daily lives. It gathers information on the severity of hemiparesis symptoms, functional needs, and mobility limitations, providing a comprehensive picture of the condition's effect. This form helps healthcare professionals assess the severity of hemiparesis and make informed decisions about patient care.

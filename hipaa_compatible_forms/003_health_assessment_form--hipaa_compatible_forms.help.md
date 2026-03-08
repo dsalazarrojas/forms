@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide health-related information. The purpose is to gather user medical history, contact information, and other relevant details for health assessment. Please check if you have already completed this form before, as it is meant to be a single instance of the form.
-</thinking>
-
 # Health Assessment Form - Help Guide
 ## Purpose
 The Health Assessment Form is designed to collect health-related information from users, including medical history, contact details, and other relevant health conditions.

@@ -1,13 +1,3 @@
-<thinking>
-
-Inside sales calls reports are used to track and record daily calls made by inside sales teams for sales performance evaluation and management. This form is part of the overall process for monitoring sales team performance.
-
-To prevent duplication of effort, please only use this form to record calls if you have not already been recorded in the CRM. If you have already logged a call in the CRM, please do not duplicate the entry.
-
-Please fill out this form for every call made during the reporting period.
-
-</thinking>
-
 # inside_sales_call_report_form - Help Guide
 
 ## Purpose

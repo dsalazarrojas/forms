@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to provide personal health information, likely for the purpose of assessing their health status or for medical research. To ensure that you are using this form correctly, please review the instructions below carefully.
-
-The form has 8 pages with various fields for users to input their information. Please note that some fields are required while others are optional. Before starting the form, make sure you are familiar with the required fields and the options available.
-
-</thinking>
-
 # health_survey_danielle_konigsberg - Help Guide
 ## Purpose
 This form is used for users to provide personal health information for assessment and medical research purposes.

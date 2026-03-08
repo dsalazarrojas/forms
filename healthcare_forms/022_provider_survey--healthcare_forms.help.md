@@ -1,12 +1,3 @@
-<thinking>
-The goal of the Provider Survey form is to collect essential information from healthcare providers to better understand their characteristics and attributes. This form is part of a larger data collection effort to improve the overall quality of care and service offered by the healthcare providers. Before proceeding, make sure you have a legitimate purpose for using this form, as it may be a duplicate effort if you're already collecting this information elsewhere.
-
-This form consists of 8 fields, each requiring specific information from the healthcare providers. Ensure that all mandatory fields (marked as "True" in the "required" field) are accurately filled in to avoid incomplete or rejected submissions.
-
-To fill out this form, follow the step-by-step guide below.
-
-</thinking>
-
 # Provider Survey - Help Guide
 ## Purpose
 The Provider Survey is designed to collect information about healthcare providers to improve the quality of care and services offered.

@@ -3,11 +3,6 @@
 The Seasonal Work Adjustment Time Off Form is used for requesting adjustments to work schedules during seasonal periods, typically when there is a decrease in work demand or when employees need to adjust their work hours to better align with their work needs.
 
 
-<thinking>
-The Seasonal Work Adjustment Time Off Form is an in-house form designed to collect information from employees about their schedule adjustments. It is intended for internal use within a company and is not associated with any external form platform. The form was generated using AI to create an original adaptation, and its use, modification, or distribution is permitted under the Creative Commons Attribution 4.0 (CC BY 4.0) license.
-</thinking>
-
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

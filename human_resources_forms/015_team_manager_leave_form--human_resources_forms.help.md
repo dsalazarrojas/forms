@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Manager Leave Form - Help Guide
 ## Purpose
 The Team Manager Leave Form is designed to allow team managers to request time off for team members in a concise and organized way, facilitating efficient processing of leave requests and reducing administrative burden. This form should be used for all types of team members, but if you are unsure if the form applies to your role or situation, please reach out to your team lead or HR representative for guidance.

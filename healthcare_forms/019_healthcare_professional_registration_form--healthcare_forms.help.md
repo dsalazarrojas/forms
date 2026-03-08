@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from healthcare professionals to register them for various healthcare-related activities. The form is intended for medical professionals to provide accurate and up-to-date information about themselves, which will be used for registration and communication purposes. This form is meant to be filled out once by each healthcare professional and is not intended for repeat submissions.
-
-</thinking>
-
 # Healthcare Professional Registration Form - Help Guide
 ## Purpose
 The Healthcare Professional Registration Form is designed to collect information from medical professionals to register them for various healthcare-related activities.

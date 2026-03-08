@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from hotel sales leads, providing a structured format for hotel managers to gather necessary details from potential clients. The form is meant to be used by hotel managers to quickly and efficiently capture client and contact information, services requested, lead date and time, and any additional notes or comments. It ensures that the sales team has all the necessary information to follow up with clients and tailor their approach to each lead's specific needs.
-</thinking>
-
 # Hotel Sales Lead Form - Help Guide
 ## Purpose
 The hotel sales lead form is used to collect information from potential clients and provide a structured format for the sales team to follow up and tailor their approach to each lead's specific needs.

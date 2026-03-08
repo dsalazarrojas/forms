@@ -1,10 +1,3 @@
-<thinking>
-This form, "Harm Of Injection Drugs Survey", is used to gather information about the harm caused by injection drug use. This form is likely used to collect data for research or educational purposes, and it's intended for healthcare professionals or individuals with a background in social sciences. The questions cover various aspects of injection drug use, including its risks, impact on the community and individuals, and the likelihood of reporting someone who uses injection drugs. This form may be part of a larger study or initiative to raise awareness about the risks associated with injection drug use.
-
-Before we begin, let's confirm that this form is for educational or research purposes and not for actual medical diagnosis or treatment. If you're a medical professional, please refrain from using this form for diagnosis or treatment recommendations.
-
-This help guide will walk you through the form's purpose and how to complete it, as well as explain each field in detail.</thinking>
-
 # Harm Of Injection Drugs Survey - Help Guide
 ## Purpose
 The "Harm Of Injection Drugs Survey" form is designed to collect information about the harm caused by injection drug use. This form is intended for healthcare professionals or individuals with a background in social sciences to gather data for research or educational purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a comprehensive reservation request form designed to collect essential information from customers. It's intended for hotel managers to efficiently gather and manage customer requests for reservations. This guide will walk you through the fields you'll need to fill out to submit a reservation request.
-
-</thinking>
-
 # reservation_request_form - Help Guide
 ## Purpose
 This form is used to collect customer contact information, reservation details, and specific requests for reservations.

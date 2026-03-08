@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to obtain authorization for company vehicle use. The form requires end-users to provide their driver information, departmental affiliation, driver's license details, vehicle usage and policy specifics, and manager approval. This form is likely used by HR or Fleet Management teams to manage company vehicle policies and ensure compliance with company regulations.</thinking>
-
 # Company Vehicle Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize company vehicle use for employees.

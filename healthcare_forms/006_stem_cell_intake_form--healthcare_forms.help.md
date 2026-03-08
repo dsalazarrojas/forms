@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stem Cell Intake Form - Help Guide
 ## Purpose
 The Stem Cell Intake Form is a comprehensive form used to collect patient information and medical history for stem cell procedures. This form is intended for patients who are undergoing stem cell therapy or treatment.

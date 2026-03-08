@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is used to record part-time employment contracts for employees. It's a comprehensive form that captures various aspects of part-time employment, including job details, benefits, and termination conditions. The form is designed to be completed by employees who are currently employed or are about to start a part-time job. It's essential to understand that this form is for part-time employment and not for full-time contracts.
-
-Before starting, ensure you have all necessary information ready, as some fields require specific details. If you're unsure about any part of the form, please consult with your HR department or the relevant authorities.
-
-</thinking>
-
 # part-time-employment-contract-form - Help Guide
 
 ## Purpose

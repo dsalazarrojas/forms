@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is being used for its intended purpose and not duplicated. This form is a "nursing_home_discharge_form" and its purpose is to gather information for discharging a patient from a nursing home. To check for duplication, we can verify that the form is not being used for other purposes, such as creating a new patient record or for other types of discharges. Additionally, we can ensure that the fields are being filled out correctly and that the form is being completed by the authorized personnel. This form is designed to collect the following information: patient's name, date of birth, date of discharge, resident status, reason for discharge, expected date of return, medical condition, nursing home information, contact number, and patient's signature. Let's proceed with creating the help guide.
-</thinking>
-
 # nursing_home_discharge_form - Help Guide
 ## Purpose
 The "Nursing Home Discharge Form" is used to collect information for discharging a patient from a nursing home. This form is designed to ensure a smooth and efficient discharge process by gathering essential details about the patient's stay and discharge.

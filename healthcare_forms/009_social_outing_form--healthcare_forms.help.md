@@ -1,9 +1,3 @@
-<thinking>
-The "Social Outing Form" is a tool used by healthcare professionals to document information about a patient's social outing or interaction with an outside environment. The form is crucial in understanding the patient's social interactions, which can be vital in their recovery process. 
-Before proceeding, ensure that you have not already documented this form for the same patient in the past. 
-If you need to document multiple forms for the same patient, ensure that each form is for a distinct outing or interaction.
-</thinking>
-
 # Social Outing Form - Help Guide
 ## Purpose
 The "Social Outing Form" is used to document a patient's social outing or interaction with an outside environment, aiding healthcare professionals in understanding the patient's social recovery process.

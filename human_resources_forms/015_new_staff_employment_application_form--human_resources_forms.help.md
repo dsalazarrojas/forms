@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Staff Employment Application Form - Help Guide
 
 ## Purpose

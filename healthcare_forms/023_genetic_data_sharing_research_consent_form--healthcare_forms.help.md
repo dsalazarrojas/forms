@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to provide their consent to share their genetic data with researchers for research purposes. Before proceeding, please ensure that you are not duplicating any existing consent forms and that the form is relevant to your specific research project. If you are unsure, please check with your project administrator or supervisor for clarification.
-</thinking>
-
 # Genetic Data Sharing Research Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant consent for the sharing of genetic data with researchers. It is intended to provide a clear understanding of the research purposes, data sharing terms, and contact information.

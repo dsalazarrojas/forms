@@ -1,11 +1,3 @@
-<thinking>
-
-The Employee Benefits Package Feedback Evaluation Form is a tool used to collect feedback and opinions from employees about their current benefits package. This form is designed to help management assess the effectiveness and satisfaction of the benefits provided to employees. The feedback collected will be used to identify areas of improvement and to make informed decisions about future changes to the benefits package.
-
-Before filling out this form, please ensure that you have read the following sections carefully to understand the purpose and requirements of each field.
-
-</thinking>
-
 # Employee Benefits Package Feedback Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees on their current benefits package. This feedback will help the organization to make informed decisions about the benefits offered to its employees.

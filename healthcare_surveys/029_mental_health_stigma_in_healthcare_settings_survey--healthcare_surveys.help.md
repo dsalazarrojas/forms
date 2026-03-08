@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Stigma In Healthcare Settings Survey - Help Guide
 ## Purpose
 This survey aims to assess the comfort and confidence of healthcare providers when discussing mental health topics with their patients. It covers various aspects, including sharing mental health information, feeling comfortable talking about mental health, and the reasons behind potential discomfort or hesitation. The survey results will help identify areas where healthcare providers can improve their communication with patients to reduce mental health stigma.

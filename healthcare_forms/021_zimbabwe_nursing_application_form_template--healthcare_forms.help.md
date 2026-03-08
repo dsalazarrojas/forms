@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for healthcare professionals in Zimbabwe to apply for nursing positions. It is intended to collect demographic information, contact details, educational background, work experience, professional certifications, emergency contacts, medical history, and other relevant information from applicants. The form does not require any proprietary content from other form platforms and is released under the Creative Commons BY 4.0 license, allowing for free use, modification, and even commercial use with proper credit given.
-
-</thinking>
-
 # zimbabwe_nursing_application_form_template - Help Guide
 ## Purpose
 The zimbabwe_nursing_application_form_template is a healthcare form designed for nursing applications in Zimbabwe. The form helps healthcare organizations collect relevant information from applicants to evaluate their qualifications and suitability for nursing positions.

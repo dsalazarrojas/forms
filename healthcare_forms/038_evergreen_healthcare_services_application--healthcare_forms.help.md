@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # evergreen_healthcare_services_application - Help Guide
 ## Purpose
 The evergreen healthcare services application form is designed to gather information from users to better understand their healthcare needs and preferences. This form is used to collect data that will help healthcare providers tailor their services to meet the unique needs of each individual. Please ensure that you only submit this form once, as duplicate submissions may cause unnecessary processing delays.

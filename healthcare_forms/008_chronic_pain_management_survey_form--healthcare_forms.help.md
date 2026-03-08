@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Pain Management Survey Form - Help Guide
 
 ## Purpose

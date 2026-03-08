@@ -1,6 +1,3 @@
-<thinking>
-The Personal Assistant Time InOut Form is used to track the working hours rendered by employees to clients or customers. It captures Time In and Time Out details, Employee ID, hours rendered, and other relevant information. This form helps in maintaining accurate records of working hours and streamlining the billing process. It's essential to ensure that the form is filled out correctly, as it will be used to generate accurate reports and prevent errors in the billing process. To avoid confusion, please fill out the form for the specific date and time you worked on a task, and ensure that the employee ID is accurate.</thinking>
-
 # Personal Assistant Time InOut Form - Help Guide
 ## Purpose
 The Personal Assistant Time InOut Form is used to track the working hours rendered by employees to clients or customers.

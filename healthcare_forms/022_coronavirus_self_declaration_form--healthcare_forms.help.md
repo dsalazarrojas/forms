@@ -1,5 +1,3 @@
-<thinking>...this form was created to assist individuals in declaring their health status and any potential COVID-19 symptoms. This form is designed to gather information without requiring any coding. It can be completed by both healthcare providers and their patients. Please ensure that each field's purpose aligns with your specific use case before submitting the form. Note that some fields might not be relevant to your particular use case, so please only answer the fields that apply to you. If you're unsure about any of the fields, please ask your healthcare provider for clarification. If the form is being used for HIPAA purposes, please ensure that you're selecting the correct option. If you have any concerns or questions, please contact your healthcare provider or the form creator at form@gic.mx.</thinking>
-
 # Coronavirus Self Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your health status and any potential COVID-19 symptoms. It's intended for healthcare providers to gather data for their patients.

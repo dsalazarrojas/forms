@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for employees to express their interest in reemployment or to provide information about their availability and preferred role in case they are rehired after a certain period of time off. This form aims to gather data on employees' interests and circumstances, helping the organization to make informed decisions about reemployment. The form is meant to be completed by employees themselves, and the information provided will be used by relevant departments within the organization.
-
-</thinking>
-
 # reemployment_interest_form - Help Guide
 ## Purpose
 The reemployment interest form is used to gather information from employees about their interest in being rehired after a certain period of employment.

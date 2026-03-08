@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about incidents of misconduct within an organization. It is intended to help investigate and resolve such incidents in a thorough and fair manner. This form ensures that all relevant details of the incident are captured, including the date, time, location, and any witnesses. The form also allows the user to report their identity and provide an account of what happened. All fields are optional but recommended to ensure a comprehensive understanding of the incident.</thinking>
-
 # Misconduct Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents of misconduct within an organization.

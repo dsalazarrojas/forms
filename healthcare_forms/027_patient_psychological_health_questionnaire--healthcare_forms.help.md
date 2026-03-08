@@ -1,13 +1,3 @@
-<thinking>
-The form "patient_psychological_health_questionnaire" is designed to gather information about a patient's mental health status, medical history, and social support systems. This form is intended to be used in healthcare settings to assess a patient's current mental health condition, their medical history, and their social support networks. This form is a collection of fields that aim to gather comprehensive data on a patient's psychological well-being and healthcare needs.
-
-Before using this form, ensure that you are following relevant clinical guidelines and regulations, such as HIPAA, to maintain patient confidentiality and data security. Duplicate forms may not provide accurate or comprehensive data, so please use this form for a new patient or assessment.
-
-This form is an original creation, adapted using only public survey topic metadata from the healthcare industry. The form's metadata is released under a Creative Commons BY 4.0 license, allowing for modification and commercial use while attributing its origin.
-
-Please refer to the form's terms of use for further guidance.
-</thinking>
-
 # patient_psychological_health_questionnaire - Help Guide
 ## Purpose
 The patient_psychological_health_questionnaire is designed to gather comprehensive data on a patient's mental health status, medical history, and social support systems.

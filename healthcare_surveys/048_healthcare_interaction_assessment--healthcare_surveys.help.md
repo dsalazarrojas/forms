@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for healthcare professionals who need to understand the structure and content of the Healthcare Interaction Assessment form, which is used to collect information on patient and provider interactions within the healthcare setting.
-The form consists of 19 questions or fields that assess various aspects of the patient interaction, including experience, care team involvement, provider interaction, service delivery, and satisfaction. The questions are designed to gauge the quality of care provided and identify areas for improvement.
-This guide will walk you through each section and field of the form, providing explanations and examples to facilitate accurate completion.
-</thinking>
-
 # Healthcare Interaction Assessment - Help Guide
 ## Purpose
 The Healthcare Interaction Assessment form is designed to evaluate the quality of care provided by healthcare professionals and services. It helps identify areas that need improvement and ensures that patients receive the best possible care.

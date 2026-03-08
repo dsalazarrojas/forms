@@ -1,11 +1,3 @@
-<thinking>
-
-The "mpox_exposure_risk_assessment_form" is a form used to assess the risk of exposure to mpox (monkeypox) in individuals. The form is used to gather information about the individual's exposure history, travel history, symptoms, and other relevant factors to determine the level of risk. This form is designed to be completed by healthcare professionals, such as nurses or doctors, to quickly and efficiently assess the risk of exposure.
-
-The form is intended to be used in conjunction with other medical assessments and procedures, and the information collected on this form will be used to inform further testing and treatment recommendations. 
-
-</thinking>
-
 # mpox_exposure_risk_assessment_form - Help Guide
 ## Purpose
 The mpox_exposure_risk_assessment_form is used by healthcare professionals to quickly assess the risk of exposure to mpox (monkeypox) in individuals. This form is intended to gather information about the individual's exposure history, travel history, symptoms, and other relevant factors to inform further testing and treatment recommendations.

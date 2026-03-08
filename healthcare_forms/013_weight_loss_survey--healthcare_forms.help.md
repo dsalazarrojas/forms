@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users regarding their weight loss goals, habits, and medical conditions, as well as demographic information such as age, height, and contact details. The form is used to gather insights that can help in providing personalized advice and guidance on weight loss. It is essential to fill out this form accurately and honestly to ensure that the provided responses are helpful and relevant. Please note that some questions are required to be filled out, while others are optional. If you have any medical conditions, please be honest about it to get the most accurate results.
-
-</thinking>
-
 # Weight Loss Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding their weight loss goals, habits, and medical conditions, as well as demographic information such as age, height, and contact details. The form is used to gather insights that can help in providing personalized advice and guidance on weight loss.

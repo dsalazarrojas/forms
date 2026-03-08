@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide that explains the purpose and process of completing the "Animal Health Policy Awareness Survey" form. This guide will break down the form into a step-by-step process, explaining each field and its corresponding label in plain language. We will cover the form's purpose, how to complete it, and provide tips for users. The guide will be concrete, concise, and practical, ensuring users understand what is expected of them.
-
-The form is designed to assess awareness of animal health policies within a certain department, gathering information on employee roles, policy training, document accessibility, quarantine procedures, compliance challenges, and suggestions for improvement. By completing this form, users will contribute to the evaluation of the department's animal health policy awareness.
-
-The form has 8 pages (or fields), each with its own section for users to input information. The fields are a mix of text and select-one type inputs, including department name, current role, awareness of policies, training status, accessibility, clarity of quarantine procedures, compliance challenges, and suggestions for improvement.
-
-</thinking>
-
 # Animal Health Policy Awareness Survey - Help Guide
 ## Purpose
 The Animal Health Policy Awareness Survey aims to assess the awareness of animal health policies within a department. This survey is designed to gather information on various aspects of policy awareness, including training, document accessibility, and compliance challenges.

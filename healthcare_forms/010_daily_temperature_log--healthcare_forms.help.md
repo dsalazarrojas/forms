@@ -1,12 +1,3 @@
-<thinking>
-This form is used to log the daily temperatures for patients in a healthcare setting. The purpose is to track and record temperature readings for quality control, data analysis, or medical research purposes. This information can be used to monitor patient health, identify patterns, and inform medical staff of potential issues. 
-
-Please ensure that this form is filled out accurately and consistently to maintain data integrity. It's essential to fill out this form only once per day for each patient. If the patient's condition changes, you should update their record accordingly. The logged data can be reviewed and analyzed by medical professionals for patient treatment and care decisions.
-
-Before filling out this form, make sure to have the patient's consent to collect their data. Ensure you're using the correct patient ID and staff ID to maintain accurate tracking and prevent duplication. The form can be submitted by authorized healthcare staff members.
-
-</thinking>
-
 # Daily Temperature Log - Help Guide
 ## Purpose
 The Daily Temperature Log is used to collect and record daily temperature readings for patients in a healthcare setting.

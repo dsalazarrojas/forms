@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect patient information and authorization from a healthcare provider for accessing patient health records. It seems like this form is for general patient information and not for a specific purpose like insurance or billing. Please let me know if this is correct. The form should be filled out by the patient or their guardian if the patient is not an adult. Each field on this form is required for its own purpose, and filling out the form incorrectly or partially may lead to delays or complications in the healthcare process.
-
-</thinking>
-
 # Patient Health Information Release Form - Help Guide
 ## Purpose
 This form is used to collect patient information and authorization from a healthcare provider for accessing patient health records.

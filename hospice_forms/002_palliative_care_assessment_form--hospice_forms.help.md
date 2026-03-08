@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect data related to palliative care, which is a medical field focused on providing relief from the symptoms and stress of a serious illness, such as cancer, heart disease, or HIV/AIDS. This form is designed to gather information about patients, their medical conditions, and their care needs.
-The form is intended to be used by healthcare professionals, such as social workers, nurses, and care team members, to assess a patient's condition and identify their needs for palliative care.
-This form is not intended to be used as a substitute for a comprehensive medical evaluation or diagnosis. Its purpose is to provide a quick and easy way for healthcare professionals to gather information and assess a patient's condition in a non-clinical setting.
-</thinking>
-
 # Palliative Care Assessment Form - Help Guide
 ## Purpose
 The Palliative Care Assessment Form is designed to gather information about a patient's medical condition, care needs, and other relevant details to provide effective palliative care. This form is used by healthcare professionals to assess a patient's condition and identify their needs for palliative care.

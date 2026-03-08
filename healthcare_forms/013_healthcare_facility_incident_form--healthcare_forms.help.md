@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report healthcare facility incidents. The form should only be used when an incident occurs in a healthcare facility and the user needs to report it to the relevant authorities. To ensure consistency and accuracy, please ensure that you are filling out this form for a specific incident that occurred in a healthcare facility. Please do not use this form for other types of incidents or reports.
-</thinking>
-
 # Healthcare Facility Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occur in healthcare facilities. It helps to ensure that incidents are reported accurately and consistently, enabling the relevant authorities to take necessary actions.

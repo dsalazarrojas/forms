@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for obtaining informed consent from patients before undergoing surgery. The form is designed to gather essential information about the patient, the surgery details, and the consent process. The purpose of this form is to ensure that the patient understands the surgical process and provides informed consent for the treatment. It's crucial that the patient completes this form accurately to ensure they are aware of their rights, responsibilities, and the potential risks and benefits of the surgery. Please ensure that you are familiar with the form's purpose before completing it.
-</thinking>
-
 # surgery_informed_consent_form - Help Guide
 ## Purpose
 This form is designed to obtain informed consent from patients before undergoing surgery. It gathers information about the patient, the surgery details, and the consent process to ensure the patient understands their rights, responsibilities, and the potential risks and benefits of the surgery.

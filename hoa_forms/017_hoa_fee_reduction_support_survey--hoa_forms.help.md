@@ -1,11 +1,3 @@
-<thinking>
-The form "HOA Fee Reduction Support Survey" is used to gather information from homeowners about their needs and circumstances related to HOA (Homeowners Association) fee reduction. This form is likely used by the HOA management or administration to understand how to better assist homeowners who are facing financial difficulties due to the fees. This information will be used to identify areas of need and create a more tailored support plan for homeowners. 
-
-It's essential to only fill out this form if the homeowner is currently facing financial difficulties due to HOA fees or is seeking a fee reduction. If a fee reduction is not currently being considered, please refrain from filling out this form. 
-
-Please only submit this form once; if you've already submitted it, please do not resubmit.
-</thinking>
-
 # HOA Fee Reduction Support Survey - Help Guide
 ## Purpose
 This form is used to gather information from homeowners about their needs and circumstances related to HOA fees, with the goal of identifying areas where fee reductions can be applied to better support them.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Assessment Template - Help Guide
 ## Purpose
 The Health Assessment Template is a form used to gather information about a patient's medical history, current symptoms, and treatment plan. This form is intended to be completed by healthcare professionals to assess the patient's health status and identify potential areas of concern. 

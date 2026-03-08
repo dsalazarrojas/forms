@@ -1,5 +1,3 @@
-<thinking>Emergency-medical-form is used for recording the details of patients who are in need of immediate medical attention. This form is used to gather information about the incident, patient's injuries, and medical conditions, which is crucial for emergency medical personnel to make informed decisions. It's recommended that you complete the form accurately and completely. This form should not be used for non-medical purposes. It's essential to ensure that the form is filled out correctly to ensure the patient receives the best care available.</thinking>
-
 # emergency-medical-form - Help Guide
 ## Purpose
 This form is used for recording the details of patients who are in need of immediate medical attention.

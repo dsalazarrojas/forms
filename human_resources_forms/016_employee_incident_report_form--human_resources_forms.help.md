@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that employees may have experienced in the workplace. The purpose of this form is to gather details about the incident, including the employee's name, a description of what happened, the type of incident (e.g. hazard, near miss, or incident), the date and time it occurred, the location where the incident took place, and the name and contact information of the supervisor involved. This form should be used by employees to report incidents that may have caused harm, injury, or near-miss situations. Please review the form carefully to ensure that you are providing the necessary information and that the fields are properly completed before submitting.
-
-</thinking>
-
 # Employee Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents that may have caused harm, injury, or near-miss situations. It collects information about the employee's name, a description of the incident, the type of incident, the date and time it occurred, the location where it happened, and the name and contact information of the supervisor involved.

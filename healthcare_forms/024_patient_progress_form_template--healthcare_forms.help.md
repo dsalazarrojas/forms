@@ -1,9 +1,3 @@
-<thinking> 
-This form template is designed to be used by healthcare professionals to track patient progress and document sessions. It is intended to collect information about the patient, session goals, and outcomes. The form is organized into a few categories: Session Information, Patient Information, and Session Details. 
-The form will likely be used by healthcare practitioners in various settings, such as clinics, hospitals, or private practices. To avoid duplication, ensure that this form is not used for commercial purposes or to extract sensitive patient data without explicit consent.
-The form is designed to be flexible, so it can be adapted to suit different needs. Please use this form as a template and modify it according to your specific use case. If you have any questions or need further clarification, feel free to reach out to form@gic.mx.
-</thinking>
-
 # Patient Progress Form Template - Help Guide
 ## Purpose
 This form is designed to track patient progress and document sessions in a healthcare setting.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a person's current health status, recent activities, and contact information, in the context of the Covid-19 pandemic. The form's purpose is to gather data for public health surveillance, research, or other related purposes. This form does not duplicate any other form within our system.
-
-This guide will walk you through the steps to complete the form and explain each field in detail.
-
-</thinking>
-
 # Covid 19 Survey Questionnaire Form - Help Guide
 ## Purpose
 The Covid-19 Survey Questionnaire Form is designed to collect information about your current health status, recent activities, and contact information during the pandemic.

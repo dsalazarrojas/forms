@@ -1,11 +1,3 @@
-<thinking>
-We will be designing a user-facing help guide for the "Counseling Method Preferences Survey" form, which falls under the category "healthcare_surveys". This guide aims to assist end-users in understanding the purpose and requirements of the form, while ensuring a clear and concise explanation of each field. To confirm, we will first review the form's YAML specification to determine the correct structure and content for the guide.
-
-This form is designed to gather information about an individual's preferences for counseling methods and communication styles. It is essential that end-users understand the purpose and requirements to provide accurate and helpful feedback.
-
-Upon reviewing the form, we will create the help guide, ensuring it meets the required format with clear explanations for each field, making it user-friendly and accessible.
-</thinking>
-
 # Counseling Method Preferences Survey - Help Guide
 ## Purpose
 This guide will help users navigate the Counseling Method Preferences Survey, a form created to gather information about an individual's preferences for various aspects of counseling sessions.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for hotel appointments. The purpose of this form is to gather details about the guest's reservation, including room preferences, payment terms, and special requirements. The form is likely to be used by hotel staff to manage bookings and communicate with guests. 
-
-The form is divided into several sections, each corresponding to a specific page or step in the booking process. 
-
-Before filling out this form, please ensure that you have all necessary information ready. 
-
-Please note that this form requires no technical expertise, but it's essential to complete each field carefully to ensure accurate booking. 
-
-Before proceeding, let's break down each field's explanation:
-
-</thinking>
-
 # Hotel Appointment Form - Help Guide
 ## Purpose
 The Hotel Appointment Form is designed to collect information for hotel appointments.

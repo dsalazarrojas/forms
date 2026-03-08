@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to facilitate the review and management of policy updates and meeting schedules within a human resources department. It's likely used to gather information about employees, their meeting status, and any potential updates to company policies. This form might be a crucial tool for HR teams to streamline their workflow, ensure accurate record-keeping, and make informed decisions about policy implementation.
-</thinking>
-
 # hR Policy Review Appointment Form - Help Guide
 ## Purpose
 The hR Policy Review Appointment Form is designed to gather information about employees, their meeting schedules, and policy updates. This form helps HR teams manage and review meetings efficiently.

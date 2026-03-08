@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 120th Annual Convention Attestation Form - Help Guide
 
 ## Purpose

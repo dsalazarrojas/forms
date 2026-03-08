@@ -1,11 +1,3 @@
-<thinking>
-This form is used to assess the current health trends and concerns of a community. The goal is to gather information about the top health concerns, access to healthcare services, and barriers to better health. The form is designed to be completed by individuals who are familiar with the community and can provide valuable insights about its health-related needs and challenges. 
-
-The information collected will help healthcare professionals and community leaders to understand the community's health needs and develop effective strategies to address them.
-
-Before filling out this form, please ensure that you have not completed it before, as your responses will be used to assess and report on the community's health trends. Your participation is greatly appreciated and will contribute to the betterment of your community's health. 
-</thinking>
-
 # Community Health Trend Assessment - Help Guide
 ## Purpose
 The Community Health Trend Assessment form is designed to collect information about the current health trends and concerns of your community. It is a survey that aims to gather insights from community members to understand their health-related needs and challenges.

@@ -1,7 +1,3 @@
-<thinking>
-Before creating this guide, let's quickly review the purpose of the Manager Offboarding Form and check for any duplication of effort. The Manager Offboarding Form is used to document the offboarding process of a manager, capturing key information and details about their departure. This form helps ensure a smooth transition and accurate record-keeping. There doesn't seem to be any duplication of effort or similar forms in the system, so we can proceed with creating this guide.
-</thinking>
-
 # Manager Offboarding Form - Help Guide
 ## Purpose
 The Manager Offboarding Form is used to document the offboarding process of a manager, capturing key information and details about their departure, and ensuring a smooth transition and accurate record-keeping.

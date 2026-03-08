@@ -1,7 +1,3 @@
-<thinking>
-The Hospital Emergency Contact Form is used to collect information about patients in case of an emergency. It's crucial that the form is filled out accurately and completely for the patient's well-being. Please make sure that the patient's information is up-to-date and not duplicated from other forms. This form can be filled out by the patient themselves or by someone else on their behalf. The purpose of this form is to ensure that in case of an emergency, the hospital has the necessary contact information to reach the patient or their designated contact person.
-</thinking>
-
 # Hospital Emergency Contact Form - Help Guide
 ## Purpose
 

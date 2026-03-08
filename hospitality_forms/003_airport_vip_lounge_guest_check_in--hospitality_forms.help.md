@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by a guest arriving at a VIP lounge at an airport. The purpose of this form is to collect information about the guest, including their contact details, travel plans, and preferences. This information is used by the lounge staff to provide personalized services to the guest during their stay in the lounge. To ensure that the guest receives the best possible experience, the form should only be completed by the guest themselves, rather than by someone else on their behalf.
-</thinking>
-
 # Airport VIP Lounge Guest Check In - Help Guide
 ## Purpose
 This form collects information about you and your travel plans to ensure you receive the best possible service during your stay in the lounge.

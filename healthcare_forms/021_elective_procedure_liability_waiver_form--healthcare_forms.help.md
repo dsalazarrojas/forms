@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for patients to acknowledge and take responsibility for elective procedures performed outside of emergency situations. It is essential to fill this form to ensure that the patient understands the risks and consequences associated with the procedure and to provide an opportunity for the patient to express their consent for the treatment.
-
-Before proceeding, ensure that the form is being completed for the correct purpose and not for any other medical procedure. Please review the form carefully to understand its intent and the information required.
-
-If the form is being used for a different purpose, please refer to the relevant documentation or seek guidance from a medical professional.
-</thinking>
-
 # Elective Procedure Liability Waiver Form - Help Guide
 ## Purpose
 This form is for patients to acknowledge and take responsibility for elective procedures performed outside of emergency situations. It is essential to fill this form to ensure that the patient understands the risks and consequences associated with the procedure and to provide an opportunity for the patient to express their consent for the treatment.

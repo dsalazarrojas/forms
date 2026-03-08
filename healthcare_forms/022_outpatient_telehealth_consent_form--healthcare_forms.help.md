@@ -1,15 +1,3 @@
-<thinking>
-
-The Outpatient Telehealth Consent Form is a document that requires patients to provide their consent for telehealth services. This form is typically used by healthcare providers to obtain the necessary consent from patients before providing any telehealth services. The form ensures that patients are aware of their rights and responsibilities, as well as the benefits and risks associated with telehealth services. This form should only be used for patients who are receiving outpatient telehealth services and not for patients receiving inpatient services.
-
-Before completing this form, please ensure that you have reviewed the provided instructions and understand the purpose and requirements of the form.
-
-This form is designed to be completed by patients, but may also be used by healthcare providers to document patient consent.
-
-Please note that this form should not be used for patients who are already inpatients or have previously signed a similar form.
-
-</thinking>
-
 # Outpatient Telehealth Consent Form - Help Guide
 ## Purpose
 The Outpatient Telehealth Consent Form is a document that requires patients to provide their consent for telehealth services. This form is used to ensure that patients are aware of their rights and responsibilities, as well as the benefits and risks associated with telehealth services.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the collection of informed consent from participants in research studies related to dementia. The goal of this form is to ensure that participants understand and agree to the terms of their involvement in the study, which may involve collecting sensitive health information.
-The form is part of a broader research process, which aims to improve our understanding and treatment of dementia.
-By completing this form, participants will be providing informed consent for their participation in the study.
-</thinking>
-
 # Dementia Research Consent Form - Help Guide
 ## Purpose
 This form is intended to elicit informed consent from participants in research studies related to dementia. Please complete the form carefully to ensure you understand the terms of your involvement.

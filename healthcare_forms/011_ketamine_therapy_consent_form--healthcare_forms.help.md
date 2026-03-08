@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ketamine Therapy Consent Form - Help Guide
 
 ## Purpose

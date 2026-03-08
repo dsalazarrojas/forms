@@ -1,7 +1,3 @@
-<thinking>
-The IMC Assessment Form is used to collect information about a patient's height, weight, age, height unit, and IMC calculation date. This form is essential for healthcare professionals to perform a quick and accurate assessment of a patient's health status.
-</thinking>
-
 # IMC Assessment Form - Help Guide
 
 ## Purpose

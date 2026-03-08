@@ -1,7 +1,3 @@
-<thinking>
-This form is a Vision Exam Results Form Template designed to collect data on a patient's vision exam results, including their acuity scores, prescription information, and other relevant details. The form aims to provide a standardized way to document and record vision exam results, which can be used for diagnosis, treatment, and patient care. The form will be used by eye care professionals to collect data on patients undergoing vision exams.
-</thinking>
-
 # Vision Exam Results Form Template - Help Guide
 ## Purpose
 This form is designed to collect data on vision exam results for patients undergoing eye exams. It captures essential information such as acuity scores, prescription details, and other relevant test results.

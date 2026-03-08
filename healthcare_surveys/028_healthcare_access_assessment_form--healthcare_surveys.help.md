@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to assess healthcare access, identify barriers to access, and track follow-up activities. It is intended for patients or individuals in need of healthcare services. The form should not be completed by healthcare providers or administrators, as they will not have the necessary context to accurately answer the questions. 
-Please note that this form is a template and may need to be adapted according to specific business needs and policies. 
-
-The form is divided into two main sections: Access to Health Services and Follow-up. The Access to Health Services section collects information about the patient's access to healthcare services, while the Follow-up section tracks follow-up activities and progress.
-
-The form asks the following questions:
-* Medical Services: Whether the patient has access to medical services.
-* Barriers to Access: Whether there are any barriers to access healthcare services.
-* Demographic Information: Additional demographic information about the patient (currently empty).
-* Contact Information: Contact information of the patient (currently empty).
-* Follow-up: A follow-up question (currently empty).
-* Follow-up Status: Whether the follow-up activity is active or inactive.
-* Next Steps: A follow-up question (currently empty).
-* Follow-up Date: The date of the follow-up activity.
-* Follow-up Time: The time of the follow-up activity.
-* Follow-up Comments: Additional comments about the follow-up activity.
-* Follow-up Contact: Contact information for the follow-up activity (currently empty).
-* Follow-up Notes: Additional notes about the follow-up activity (currently empty).
-
-</thinking>
-
 # Healthcare Access Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess healthcare access, identify barriers to access, and track follow-up activities for patients or individuals in need of healthcare services.

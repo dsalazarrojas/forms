@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the HR Legal Compliance Forum. This information will be used to follow up on your registration and share event updates. The form collects various fields including attendee info, event details, and personal contact information.
-</thinking>
-
 # hr_legal_compliance_forum_registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the HR Legal Compliance Forum. The information collected will be used to follow up on your registration and share event updates.

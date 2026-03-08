@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's nursing visit, including medication administration, medical conditions, patient assessment, and demographic details. The form is intended to be used by healthcare professionals to record and document the patient's visit in a standardized format, ensuring accurate and consistent data collection. This form will help healthcare providers gather the necessary information to provide high-quality care and treatment.
-</thinking>
-
 # Nursing Visit Report Form - Help Guide
 ## Purpose
 The Nursing Visit Report Form is a standardized form used to document and record information about a patient's nursing visit. It is designed to gather information on medication administration, medical conditions, patient assessment, and demographic details.

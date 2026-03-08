@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for recording medical alerts for patients. It's likely used to gather information about the patient's health status, including their name, date of birth, address, phone number, medical condition, and other relevant details. The form might be used by healthcare professionals to keep track of patients' medical history and emergencies. Before filling out this form, please ensure you're not already have a similar form for the same patient. This form is a general-purpose medical alert form, and it's likely intended for use in various healthcare settings. To avoid duplication, check your records first and only use this form if necessary. If you're still unsure, please consult with your supervisor or healthcare team.
-</thinking>
-
 # Medical Alert Form - Help Guide
 ## Purpose
 This form is for recording medical alerts for patients in various healthcare settings.

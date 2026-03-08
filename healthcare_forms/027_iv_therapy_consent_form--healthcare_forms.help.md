@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain informed consent for IV therapy from patients. IV therapy involves the administration of medications or fluids through an intravenous line, which can be a sensitive topic. The form is intended to educate the patient about the risks and benefits of IV therapy and to ensure that the patient understands and agrees to the treatment. This form should only be used for patients who have been advised to undergo IV therapy by a healthcare professional. 
-</thinking>
-
 # IV Therapy Consent Form - Help Guide
 ## Purpose
 The IV Therapy Consent Form is a document that requires the patient's informed consent before undergoing IV therapy. IV therapy involves the administration of medications or fluids through an intravenous line, which can be a sensitive topic. It is essential to ensure that the patient understands the risks and benefits of the treatment and agrees to it.

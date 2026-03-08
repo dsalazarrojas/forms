@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Ethnicity Survey" form, which is used to collect demographic data from users. The form is designed to collect sensitive information about a user's ethnicity, language, and other personal details. Please note that this form is meant for internal use only and is not intended for use in external or public-facing applications. This form requires no special permissions or access levels to submit.
-</thinking>
-
 # Ethnicity Survey - Help Guide
 ## Purpose
 The Ethnicity Survey is a form used to collect demographic data from users, including their ethnicity, language preference, and other personal details.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to gather feedback about the resort's recreation activities. The purpose of this form is to collect data on the quality and effectiveness of the resort's recreational activities, which will help management to identify areas of improvement and make informed decisions about future programming. This form should only be completed by those who have participated in the resort's recreational activities, and not by those who are simply visiting the resort.
-
-To ensure that the data collected is accurate and relevant, it is essential to complete this form carefully and honestly.
-
-Please note that this is a comprehensive form, and it may take some time to complete. However, the information collected will help us to improve our recreational activities and provide better services to our guests.
-
-Before you start completing the form, please make sure you have participated in the resort's recreational activities. If you are not sure which activities you have participated in, please refer to your activity schedule or ask the resort staff for assistance.</thinking>
-
 # Resort Recreation Activity Feedback Survey - Help Guide
 ## Purpose
 

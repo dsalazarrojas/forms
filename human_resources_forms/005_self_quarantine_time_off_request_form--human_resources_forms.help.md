@@ -1,12 +1,3 @@
-<thinking>
-To provide an accurate and concise help guide for the "Self-Quarantine Time Off Request Form", let's first break down the purpose and context of this form. The Self-Quarantine Time Off Request Form is a formal request for employees to take time off due to reasons related to self-quarantine or family members who need isolation. This form is used to notify the management and HR team of the employee's absence from work, ensuring that their absence is documented and approved in accordance with company policies.
-
-Before filling out the form, please ensure that you are requesting time off for valid reasons and that you have discussed and received approval from your supervisor or HR representative before submitting it.
-
-Please fill out the form with accurate and honest information to facilitate a smooth review process. The form is designed to be completed by the employee, but it may require additional input from the supervisor or HR representative in some sections.
-
-</thinking>
-
 # Self-Quarantine Time Off Request Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Self-Quarantine Time Off Request Form, a formal request for employees to take time off due to self-quarantine or family members who require isolation.

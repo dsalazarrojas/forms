@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to submit official statements, which can be internal reviews, HR matters, or incident documentation. The purpose of this form is to provide a structured way for employees to submit statements, allowing for clear and concise communication. The form is designed to collect relevant information in a standardized format, making it easier for management or HR to review and process submissions. Before filling out this form, please ensure that you have a legitimate reason for submitting an official statement and that you are not duplicating a previously submitted statement. Also, please be mindful of the submission status, as it will impact how your statement is reviewed and acted upon.
-</thinking>
-
 # Official Statement Submission Form - Help Guide
 ## Purpose
 The Official Statement Submission Form is a tool for employees to submit official statements, which can be internal reviews, HR matters, or incident documentation. This form helps to standardize the submission process, making it easier for management or HR to review and process submissions.

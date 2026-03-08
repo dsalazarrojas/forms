@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Botulinum Toxin Treatment Record Form - Help Guide
 ## Purpose
 This form is used to record the administration of botulinum toxin treatments. It collects relevant details about the patient's treatment, including their personal information, the treatment procedure, and post-treatment care.

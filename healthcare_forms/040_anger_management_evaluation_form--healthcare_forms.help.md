@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing the Anger Management Evaluation Form. This form is designed to assess a client's anger management issues and gather relevant information for healthcare professionals to evaluate and treat the client effectively.
-
-The form is divided into two main sections: Client Information and Evaluation. The Client Information section collects basic data about the client, including their name and reason for referral. This information serves as a foundation for the subsequent evaluation questions.
-
-In the Evaluation section, the client is asked about the frequency of their anger episodes, common triggers, prior treatment history, and risk assessment. This information is critical for healthcare professionals to understand the depth and complexity of the client's anger issues.
-
-Before proceeding, please take note that this form is an original adaptation and does not copy, extract, or use proprietary content from any form creation or survey platform.
-
-</thinking>
-
 # Anger Management Evaluation Form - Help Guide
 ## Purpose
 The Anger Management Evaluation Form is designed to provide healthcare professionals with a comprehensive understanding of a client's anger management issues. This form assesses the client's anger frequency, triggers, and prior treatment history to aid in effective evaluation and treatment.

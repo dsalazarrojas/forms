@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Claim Monitoring Form - Help Guide
 ## Purpose
 The Health Insurance Claim Monitoring Form is designed to collect relevant information about patient claims to ensure accurate and efficient handling of insurance claims. This form helps healthcare providers monitor and track patient claims in a structured and organized manner.

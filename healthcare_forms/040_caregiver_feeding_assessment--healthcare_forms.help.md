@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Feeding Assessment - Help Guide
 
 ## Purpose

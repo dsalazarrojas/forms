@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a client's fitness progress and goals, as well as their current status in a fitness program. This form should be used for healthcare professionals to track a client's fitness level, workout frequency, and overall progress in a program. Before proceeding, please review the form and ensure you are familiar with the fields and their corresponding labels, and that you are not duplicating data entry from other forms.
-</thinking>
-
 # Fitness Logger Form - Help Guide
 ## Purpose
 The Fitness Logger Form is designed to track and monitor a client's fitness progress and goals.

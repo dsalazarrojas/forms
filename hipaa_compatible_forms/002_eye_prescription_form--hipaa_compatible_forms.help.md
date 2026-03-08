@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's eye prescription, which is essential for healthcare professionals to diagnose and treat eye conditions. The form is intended for use in a medical setting, and the data collected will be used to generate a prescription for the patient's eyes. To confirm, this form is not intended for use in a non-medical setting, such as a retail store or other non-healthcare environment. Additionally, ensure that the form is not duplicated or used for duplicate purposes, as this may lead to incorrect or incomplete information being collected.
-</thinking>
-
 # Eye Prescription Form - Help Guide
 ## Purpose
 The Eye Prescription Form is a medical form designed to collect information about a patient's eye prescription. This form is used to diagnose and treat eye conditions, and the data collected will be used to generate a prescription for the patient's eyes.

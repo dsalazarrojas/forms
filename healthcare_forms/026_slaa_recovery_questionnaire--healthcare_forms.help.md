@@ -1,16 +1,3 @@
-<thinking>
-This form is used to gather information on an individual's recovery history, current status, and relapse risk factors. It is designed to be a comprehensive questionnaire for individuals seeking help with sex addiction recovery.
-
-Before starting this form, please make sure you have not filled it out before, as it is not affiliated with any specific form platform and the data collected is for personal use only. This form is intended to provide a structured and non-judgmental environment for individuals to self-assess their recovery.
-
-Please answer the questions honestly and thoroughly, as this will help you and your healthcare provider identify areas for improvement and develop effective recovery plans.
-
-This form was created using AI, and the questions and answers have been adapted from public surveys and metadata. It is released under CC BY 4.0 license, allowing you to use, modify, and share it freely.
-
-Please note that this form is not a substitute for professional medical advice. If you are struggling with sex addiction, please seek help from a qualified healthcare provider.
-
-</thinking>
-
 # slaa prophets recovery questionnaire - Help Guide
 ## Purpose
 

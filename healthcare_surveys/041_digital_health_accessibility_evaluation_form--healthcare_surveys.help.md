@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_health_accessibility_evaluation_form - Help Guide
 
 ## Purpose

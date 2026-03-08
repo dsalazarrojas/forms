@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this Internal Candidate Interview Questionnaire is to collect and document insights, observations, and ratings from interviewers to evaluate a candidate's performance during internal job interviews. This form helps to standardize the evaluation process, ensure consistency in assessment, and provide valuable feedback to the candidate. To ensure the quality of the collected data, please only fill out this form after completing both rounds of the interview. If you have already completed this form for another candidate, do not submit this form again to avoid duplication.
-
-</thinking>
-
 # Internal Candidate Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect and document insights, observations, and ratings from interviewers about a candidate's performance during internal job interviews.

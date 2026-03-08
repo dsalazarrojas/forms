@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for patients who are seeking naturopathic medical services. It's crucial that we gather accurate information about the patient's medical history, contact information, and medical professionals involved in their care. We aim to minimize duplicates and ensure that all necessary fields are filled out accurately and completely.
-Please verify that this form is being used for its intended purpose and that all required fields are completed correctly.
-</thinking>
-
 # Naturopathic Intake Form - Help Guide
 ## Purpose
 This form is for gathering essential information about patients seeking naturopathic medical services. It ensures that we have a comprehensive understanding of their medical history, contact details, and any relevant medical specialties or professionals involved in their care.

@@ -1,5 +1,3 @@
-<thinking>... This form was created to gather information from patients prior to medical tests. The form is used to ensure that patients check in properly and provide necessary medical history and contact information. This form does not store or use any proprietary content from other platforms. It's free to use, modify, and sell under CC BY 4.0 license. For any questions, contact form@gic.mx...</thinking>
-
 # Medical Testing Check In Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients before medical tests, ensuring a smooth and efficient check-in process.

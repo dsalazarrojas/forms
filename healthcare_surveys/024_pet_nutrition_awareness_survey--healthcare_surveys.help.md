@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess pet owners' awareness and habits regarding pet nutrition. The purpose of this form is to collect data on pet owners' knowledge, dietary habits, and services related to pet nutrition. The form is intended to be completed by pet owners who are interested in understanding their pets' nutritional needs and habits. The form is not intended to be a comprehensive or exhaustive tool for evaluating or recommending pet nutrition plans.
-
-</thinking>
-
 # Pet Nutrition Awareness Survey - Help Guide
 ## Purpose
 

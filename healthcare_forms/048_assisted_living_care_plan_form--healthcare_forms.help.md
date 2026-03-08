@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assisted Living Care Plan Form - Help Guide
 
 ## Purpose

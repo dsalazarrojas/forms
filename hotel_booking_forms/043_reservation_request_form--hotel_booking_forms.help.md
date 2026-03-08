@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a reservation request form, likely used to collect information from customers or guests for hotel or accommodation bookings. The purpose of this form is to gather necessary details to process the reservation efficiently. Please ensure this form is not used for any other purpose, as it is specifically designed for reservation requests.
-
-</thinking>
-
 # reservation_request_form - Help Guide
 ## Purpose
 The reservation_request_form is a form designed to collect information from customers or guests for hotel or accommodation bookings. It gathers details such as guest information, dates, times, and contact details to process the reservation efficiently.

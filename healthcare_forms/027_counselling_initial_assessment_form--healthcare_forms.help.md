@@ -1,7 +1,3 @@
-<thinking> 
-  The purpose of this form is to collect information from patients for initial assessments. This form is used to gather data about a patient's medical and mental health history, medication usage, treatment goals, and other relevant details. The information collected will help healthcare professionals develop an effective treatment plan tailored to the patient's specific needs. Please review the form carefully to ensure all required information is provided and that the form is not being completed for a duplicate patient.
-</thinking>
-
 # counselling_initial_assessment_form - Help Guide
 ## Purpose
 The counselling_initial_assessment_form is used to collect information from patients for initial assessments, helping healthcare professionals develop an effective treatment plan tailored to the patient's specific needs.

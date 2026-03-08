@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospice Service Quotation Form - Help Guide
 
 ## Purpose

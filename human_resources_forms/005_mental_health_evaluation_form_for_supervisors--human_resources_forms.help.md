@@ -1,5 +1,3 @@
-<thinking>As a supervisor, you are tasked with ensuring the well-being of your team members, including their mental health. This form is designed to help you evaluate the mental health of your team members in a sensitive and confidential manner. Please note that this form is intended for use as a guide only and should not be used in place of professional medical or psychological evaluations. Before beginning, ensure that you have received consent from your team members to complete this form. If you are unsure about any aspect of this form, please contact your HR department or a mental health professional for guidance.</thinking>
-
 # Mental Health Evaluation Form For Supervisors - Help Guide
 ## Purpose
 The Mental Health Evaluation Form For Supervisors is designed to help you assess the mental well-being of your team members. This form asks questions to gather information about your team members' performance, mental health issues, and your feedback as a supervisor. The form is intended to be a starting point for further discussions and support, not a definitive diagnosis or evaluation.

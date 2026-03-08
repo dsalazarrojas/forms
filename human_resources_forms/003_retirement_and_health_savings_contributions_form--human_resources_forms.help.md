@@ -1,7 +1,3 @@
-<thinking>This form is used to collect information related to employee retirement and health savings contributions. It is likely used by HR or payroll departments to track and process requests for company-sponsored retirement and health savings plans. This guide is intended for end-users who will be filling out this form, and will walk them through the purpose, completion instructions, and explanation of each field. 
-
-This form is a critical part of the HR department's process and should only be filled out for employees who are requesting changes to their retirement and health plan contributions. Please ensure that you are filling this out correctly, as incorrect submissions may cause delays or inaccuracies in the processing of your request.</thinking>
-
 # Retirement And Health Savings Contributions Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to employee requests for changes to their retirement and health plan contributions.

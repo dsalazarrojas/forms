@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, the purpose of this form is to collect information from the person calling for an ambulance for emergency or non-emergency transport. This form is designed to help the ambulance dispatcher gather all necessary information to prioritize the call and determine the correct response. Please fill out the form completely and accurately to ensure that the ambulance service provides the best possible care and attention to the patient.</thinking>
-
 # Ambulance Call Request Form - Help Guide
 ## Purpose
 The Ambulance Call Request Form is used to collect information from the person calling for an emergency or non-emergency transport. This form helps the ambulance dispatcher determine the urgency of the situation and ensure that the correct response is sent to the scene.

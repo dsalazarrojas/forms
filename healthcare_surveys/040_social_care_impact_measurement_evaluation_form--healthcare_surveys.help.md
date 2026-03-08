@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Care Impact Measurement Evaluation Form - Help Guide
 
 ## Purpose

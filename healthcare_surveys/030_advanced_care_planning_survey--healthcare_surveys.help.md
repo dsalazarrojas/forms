@@ -1,8 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure that users understand how to complete it, I'll analyze the provided YAML. The Advanced Care Planning Survey is designed to collect information on patients' care planning preferences and other relevant healthcare-related details. This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Advanced Care Planning Survey - Help Guide
 ## Purpose
 The Advanced Care Planning Survey aims to gather information on patients' care planning preferences, including their living will status, health care agent appointment, end-of-life care preferences, organ donation preference, interest in palliative care, concerns or questions, and contact information for follow-up. This survey is an essential tool for healthcare providers to understand patients' wishes and preferences, ensuring they receive the necessary care and support during critical periods.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is used for reviewing a patient's hormonal health lab results. It appears to be a form used by healthcare professionals to document and review lab test results for men's hormonal health. The form collects information about the patient's personal details (first name, last name, email, phone number, date of birth, date of visit, date of last lab test), medical history (symptoms description), lab results (type of test, review status, lab results text), and additional comments from the doctor. This form is likely used in a clinical setting to ensure accurate and thorough documentation of patient information and lab results.
-
-</thinking>
-
 # Men's Hormonal Health Lab Review - Help Guide
 ## Purpose
 The Men's Hormonal Health Lab Review form is used to document and review lab test results for male patients. This form helps healthcare professionals gather essential information about the patient's hormonal health and review the results of lab tests to ensure accurate and thorough diagnosis and treatment.

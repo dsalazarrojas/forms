@@ -1,10 +1,3 @@
-<thinking>
-The New Hire 30 Day Check In Form is used to collect information and feedback from newly hired employees within their first 30 days of employment. This form helps us ensure a smooth transition into the company and gather important details to support the onboarding process.
-
-Before proceeding, please ensure you have not previously completed a 30 Day Check In Form for this employee. To do so, review the employee's file and ensure that this form is not already on file.
-
-</thinking>
-
 # New Hire 30 Day Check In Form - Help Guide
 ## Purpose
 This form is used to gather information and feedback from newly hired employees within their first 30 days of employment.

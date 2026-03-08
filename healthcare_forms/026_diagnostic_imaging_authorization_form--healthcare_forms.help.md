@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # diagnostic_imaging_authorization_form - Help Guide
 ## Purpose
 This form is used for authorizing diagnostic imaging procedures for patients. It requires information about the patient, the procedure, and the personnel involved in the authorization process.

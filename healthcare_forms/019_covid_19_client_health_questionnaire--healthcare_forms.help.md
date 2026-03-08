@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from clients to assess their health status regarding COVID-19. It is essential to ensure that the client's personal, medical, and vaccination history is accurate and up-to-date. This form will help healthcare professionals understand the client's risk factors, potential exposure to COVID-19, and vaccination status.
-
-Before proceeding, please note that this form is designed for clients who are seeking healthcare services. If you are a healthcare provider, you may want to consider whether you need to collect this information to provide appropriate care for your clients.
-
-To ensure that this form is filled out correctly, please review the following instructions carefully.
-
-</thinking>
-
 # COVID 19 Client Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their health status regarding COVID-19. It is essential to ensure that the client's personal, medical, and vaccination history is accurate and up-to-date.

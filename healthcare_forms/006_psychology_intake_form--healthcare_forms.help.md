@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by healthcare professionals to gather information about a patient's medical history, mental health, and treatment goals. The form is meant to be completed by the patient or their authorized representative. It's possible that this form is part of a larger healthcare system, such as an electronic health record (EHR) system, and is used for patient intake and assessment. To ensure that you are in the correct context, please note that this form is part of a healthcare setting and should only be used by authorized individuals.
-</thinking>
-
 # Psychology Intake Form - Help Guide
 ## Purpose
 This form is used to gather information about a patient's medical history, mental health, and treatment goals.

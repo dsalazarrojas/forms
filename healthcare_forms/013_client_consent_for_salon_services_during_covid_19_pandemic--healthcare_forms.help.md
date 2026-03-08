@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure this form is only used for the specific purpose of COVID-19 pandemic-related client consent for salon services. Please do not use this form for general client data collection or any other use cases. 
-This form's fields and options should cover all necessary information required for COVID-19 safety protocols and client data collection, while maintaining the required level of sensitivity and respect towards client privacy.
-</thinking>
-
 # Client Consent For Salon Services During COVID 19 Pandemic - Help Guide
 ## Purpose
 

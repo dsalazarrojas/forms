@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for a form that collects information from users about their experiences with laser treatments and their potential side effects. This form is designed to gather data on various aspects of laser treatments, including the number of treatments, specific treatments, symptoms experienced, symptom frequency, severity, duration, timing, and any other health issues or symptoms. To complete this form, users will be asked to provide information about their experiences, including how many laser treatments they've had, which treatments they've undergone, and what symptoms they've experienced. They will also be asked about the frequency, severity, and duration of these symptoms, as well as any other health issues or symptoms they may have. This guide is intended to help users understand what to expect and how to complete the form accurately.
-
-This form has been designed to collect sensitive information, so it's essential to ensure users understand its purpose and how to complete it correctly.
-
-</thinking>
-
 # Laser Treatment Side Effects Survey - Help Guide
 ## Purpose
 The Laser Treatment Side Effects Survey is designed to collect information from users about their experiences with laser treatments and their potential side effects. This form will help us understand how individuals react to different laser treatments and identify any common side effects.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their healthcare experiences, specifically for outpatients. The goal is to gather information about their satisfaction with the care they received, their interactions with staff members, and their overall experience at the healthcare facility. This form will help healthcare providers identify areas of improvement and provide better services to their patients. 
-
-Please note that this form is not intended for collecting personal identifiable information or for billing purposes. It should not be used for these purposes without modification. 
-
-This form is part of a larger healthcare survey system, and any data collected will be used for aggregate analysis and to improve patient care. The form is designed to be easy to complete, and the questions are carefully crafted to gather relevant information without being too intrusive. 
-
-To avoid duplication, please ensure that this form is not completed multiple times for the same visit. If you have already completed this form, thank you for your input, and we appreciate your feedback!
-
-Please provide your honest feedback, and feel free to elaborate on your responses if you have any additional comments or suggestions.
-
-</thinking>
-
 # Healthcare Outpatient Feedback Questionnaire - Help Guide
 
 ## Purpose

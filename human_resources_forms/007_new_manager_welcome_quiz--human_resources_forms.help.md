@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to onboard new managers into the company. The purpose of this form is to capture essential information about new managers, including their department, name, direct supervisor, job title, years of experience, completed training, and date of completion. This form is intended for the HR department to have all necessary information about new managers in one place.
-
-Before filling out this form, please make sure you are a new manager and that you have not already completed this form. 
-
-</thinking>
-
 # New Manager Welcome Quiz - Help Guide
 ## Purpose
 The New Manager Welcome Quiz is a form designed to help the HR department onboard new managers into the company.

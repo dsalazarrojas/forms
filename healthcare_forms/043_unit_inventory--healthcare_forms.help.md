@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect and record information about a unit, likely a medical or scientific instrument, in a healthcare setting. The form is intended to track the inventory of units, including details about the patient it belongs to, the unit's status, and other relevant information. This form appears to be a comprehensive tool for managing and tracking units in a clinical setting.
-
-</thinking>
-
 # Unit Inventory - Help Guide
 ## Purpose
 The purpose of this form is to collect and record detailed information about a unit, including its patient, status, location, and other relevant details.

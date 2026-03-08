@@ -1,8 +1,3 @@
-<thinking>
-This help guide will guide end-users through the process of filling out the payroll_statement_delivery_consent_form. The form's purpose is to obtain consent for electronic delivery of payroll statements. It is intended for employees to provide their details, select their preferred delivery method, and choose the frequency of statement delivery. This form is not intended for employees who are already receiving electronic payroll statements.
-
-</thinking>
-
 # Payroll Statement Delivery Consent Form - Help Guide
 ## Purpose
 This form is used by employees to consent to the electronic delivery of their payroll statements. It is a crucial document that helps us understand your preferences for statement delivery, ensuring that you receive your statements in the manner you desire.

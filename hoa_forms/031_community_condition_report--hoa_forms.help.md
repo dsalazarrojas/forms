@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect reports from community members about conditions that need to be addressed in the community. Reports can be submitted anonymously. The form is intended for community members to provide detailed information about the condition, including its location, type, and severity. The form is not intended to be a comprehensive solution-finding tool, but rather a starting point for community managers to identify and prioritize issues.
-
-Before filling out this form, please ensure you are not submitting a duplicate report. If the condition has already been reported, it is likely already in progress or scheduled for resolution.
-</thinking>
-
 # Community Condition Report - Help Guide
 ## Purpose
 The Community Condition Report form is used to collect and track reports of community conditions that require attention.

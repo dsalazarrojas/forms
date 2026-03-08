@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # neuropathy_treatment_feedback_survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback about the treatment and care received by patients with neuropathy. The goal is to gather information about their experience, satisfaction, and areas for improvement.

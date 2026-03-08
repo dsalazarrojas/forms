@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # x_ray_testing_log - Help Guide
 ## Purpose
 The x_ray_testing_log form is used to record and track details of x-ray tests performed on patients. It is a vital tool for medical professionals to record and maintain accurate and up-to-date records of x-ray tests, including test results, equipment used, and other relevant information.

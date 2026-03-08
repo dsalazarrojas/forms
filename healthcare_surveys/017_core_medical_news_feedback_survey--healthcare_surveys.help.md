@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from medical professionals about the content and quality of a newsletter related to medical news. It asks for feedback on various aspects of the newsletter, including the most recent issue read, types of content preferred, and overall satisfaction. This form is likely being used by the team responsible for creating and maintaining the newsletter to improve its quality and relevance.
-</thinking>
-
 # Core Medical News Feedback Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your opinions and experiences with our Core Medical News newsletter. Your feedback will help us improve the content, format, and overall quality of the newsletter.

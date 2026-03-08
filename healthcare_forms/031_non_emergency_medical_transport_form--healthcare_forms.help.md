@@ -1,7 +1,3 @@
-<thinking>
-This form is for non-emergency medical transport. It is used to collect information for transporting patients to and from healthcare providers or facilities. It is crucial to ensure the accuracy and completeness of the information submitted. Please verify the form is completed correctly before submission.
-</thinking>
-
 # non-emergency-medical-transport-form - Help Guide
 ## Purpose
 This form is used for non-emergency medical transport to collect relevant information about the patient, transporters, and healthcare providers. It is essential to ensure accurate and efficient transportations.

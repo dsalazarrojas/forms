@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Prosthetic Order Form - Help Guide
 
 ## Purpose

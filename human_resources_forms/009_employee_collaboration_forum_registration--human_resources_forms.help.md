@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees to create an employee collaboration forum. This form is designed to gather data on whether or not an employee wishes to participate in the forum, which department they belong to, their interests, and other relevant details about their collaboration preferences. The form is intended to be completed by employees to express their willingness to collaborate with other employees in the company.
-Before proceeding, please note that this form is designed to be filled out only once. If you are already registered in the collaboration forum, you do not need to fill out this form again.
-</thinking>
-
 # Employee Collaboration Forum Registration - Help Guide
 ## Purpose
 The employee collaboration forum is a platform where employees can share information, ideas, and collaborate on various projects and initiatives. This form is the first step in registering for the forum.

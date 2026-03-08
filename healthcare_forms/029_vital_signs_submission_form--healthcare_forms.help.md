@@ -1,5 +1,3 @@
-<thinking>As a healthcare provider, it's essential to accurately collect and document patient information to ensure continuity of care. This form, "vital_signs_submission_form", is used to gather crucial data from patients, including demographics, medical history, and clinical status. Before filling out this form, ensure that you're not duplicating efforts and that the patient's information has not already been recorded elsewhere in the system. To confirm this, please review the patient's existing records, if available. This form should only be used for new or updated patient information.</thinking>
-
 # vital_signs_submission_form - Help Guide
 
 ## Purpose

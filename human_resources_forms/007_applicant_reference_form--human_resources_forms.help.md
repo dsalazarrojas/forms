@@ -1,10 +1,3 @@
-<thinking>
-This form is part of the human resources process, used to collect feedback from referees about candidates being considered for a job position. Referees are people who can vouch for the candidate's qualifications and character. The form is designed to gather information about the candidate's past performance, strengths, and areas for improvement. The goal is to help recruiters make informed decisions about whether to proceed with the candidate.
-
-To complete this form, you will be asked to provide information about the candidate, including their name, the duration you have known them, and your relationship with them. You will also be asked to provide your evaluation of their reliability, strengths, and weaknesses. Additionally, you will be asked about your willingness to rehire or recommend the candidate, and any additional comments you may have.
-
-Please note that some of the fields are optional, and it is not required to fill them out if you are not able to provide information for them. However, providing as much information as possible will help the recruiter make a more informed decision.</thinking>
-
 # Applicant Reference Form - Help Guide
 ## Purpose
 The Applicant Reference Form is used to gather feedback from referees about a candidate's qualifications and character. This form is completed by people who have worked with or supervised the candidate, such as former supervisors, colleagues, or teachers.

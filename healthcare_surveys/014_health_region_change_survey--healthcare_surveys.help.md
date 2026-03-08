@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from healthcare professionals about their experience with region transfers, which is a process of moving patients from one region to another for treatment or care. This form aims to identify areas for improvement in the region transfer process, ensuring that it is efficient, effective, and meets the needs of healthcare professionals and patients. It is essential to fill out this form accurately and thoroughly to provide valuable insights.
-</thinking>
-
 # Health Region Change Survey - Help Guide
 ## Purpose
 The Health Region Change Survey is designed to collect feedback from healthcare professionals on their experience with region transfers. This survey helps us understand areas of improvement and ensures that the region transfer process is efficient and effective.

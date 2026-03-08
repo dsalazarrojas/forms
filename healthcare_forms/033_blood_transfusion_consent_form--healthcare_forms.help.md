@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, my goal is to create a clear and concise help guide for the "Blood Transfusion Consent Form". This form is used to gather informed consent from patients undergoing blood transfusions. I will break down the form into sections to ensure that the user understands the purpose, how to complete it, and what each field means.</thinking>
-
 # Blood Transfusion Consent Form - Help Guide
 
 ## Purpose

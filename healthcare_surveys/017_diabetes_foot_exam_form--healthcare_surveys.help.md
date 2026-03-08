@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a patient's medical history and examination results for diabetes foot exams. The form is used to collect data from healthcare professionals for patient care and treatment decisions. 
-
-To ensure data quality and consistency, please review this form carefully before submitting it. This form will be used for patient care and treatment decisions, so it's essential to provide accurate and complete information.
-
-The form is divided into several sections, and each section is designed to collect specific information about the patient. Please follow the instructions in each section carefully to ensure you provide the correct information.
-
-Before completing this form, please note that some fields are mandatory (indicated by a red asterisk *), while others are optional but may be helpful for patient care. If you're unsure about any information, please consult with the patient's healthcare provider or other relevant healthcare professionals.
-
-</thinking>
-
 # Diabetes Foot Exam Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history and examination results for diabetes foot exams. The form is used to gather data for patient care and treatment decisions.

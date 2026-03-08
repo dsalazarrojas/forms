@@ -1,7 +1,3 @@
-<thinking>
-The Remote Housing Provider Registration form is used by hospitality organizations to collect information from individuals or companies that provide housing services for guests or customers. This form is typically used by hotels, resorts, or other businesses that need to verify the identity and credentials of their housing providers. The form should only be completed by individuals or companies that have a legitimate business or affiliation with the hospitality industry. Please note that if you have already registered as a housing provider, you do not need to fill out this form again.
-</thinking>
-
 # Remote Housing Provider Registration - Help Guide
 ## Purpose
 The Remote Housing Provider Registration form is used to collect information from individuals or companies that provide housing services for guests or customers.

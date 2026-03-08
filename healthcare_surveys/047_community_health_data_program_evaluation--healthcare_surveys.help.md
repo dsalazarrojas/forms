@@ -1,10 +1,3 @@
-<thinking>
-The form "Community Health Data Program Evaluation" is designed to gather feedback from respondents about their experiences with a community health data program. This form is intended to collect information on various aspects of the program, including participation, satisfaction, and outcomes. The form is likely to be used by program staff, researchers, or administrators to evaluate the effectiveness of the program and identify areas for improvement. 
-
-Please ensure that you complete this form honestly, providing accurate and detailed feedback. Your input will help the program developers to refine and improve the community health data program.
-
-</thinking>
-
 # Community Health Data Program Evaluation - Help Guide
 ## Purpose
 This form aims to collect information on your experiences with the "Community Health Data Program" to help improve its quality and effectiveness.

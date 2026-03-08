@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Pre Exercise Health Questionnaire" form, designed for patients to provide information about their exercise habits and medical history before engaging in physical activity. The form is crucial in ensuring that patients are aware of their health risks and take necessary precautions to prevent injuries. The goal of this guide is to walk you through each section of the form, explaining what to expect and how to complete it accurately.
-</thinking>
-
 # Pre Exercise Health Questionnaire - Help Guide
 
 ## Purpose

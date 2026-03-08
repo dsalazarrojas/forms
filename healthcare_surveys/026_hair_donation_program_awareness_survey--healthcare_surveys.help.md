@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Donation Program Awareness Survey - Help Guide
 
 ## Purpose

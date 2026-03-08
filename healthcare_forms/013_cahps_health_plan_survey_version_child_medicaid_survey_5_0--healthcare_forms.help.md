@@ -1,7 +1,4 @@
 <figure>
-  <thinking> 
-  Before creating content for this help guide, I'll ensure it adheres to the provided YAML structure. I will provide a clear and concise explanation for each field, following the specified structure and guidelines.
-  </thinking>
   # CAHPS Health Plan Survey - Child Medicaid 5.0 - Help Guide
   ## Purpose
   The CAHPS Health Plan Survey - Child Medicaid 5.0 is designed to gather information from parents or guardians about their child's experience with their health insurance plan. This survey aims to help health plans identify areas for improvement in customer satisfaction, care coordination, and overall quality of care.

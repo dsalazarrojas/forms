@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a pediatric patient's health status, symptoms, and treatment options. It's intended to be used by healthcare professionals to quickly and efficiently gather the necessary data to determine the best course of action for the patient's condition. It's likely that this form will be used in a clinical setting, such as a pediatrician's office or a hospital.
-Please ensure that this form is not duplicated or used for any other purpose than its intended use in a pediatric healthcare setting.
-</thinking>
-
 # Pediatric Symptom Checklist - Help Guide
 
 ## Purpose

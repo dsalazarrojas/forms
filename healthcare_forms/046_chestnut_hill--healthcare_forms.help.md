@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Chestnut Hill" form. The form purpose is to collect patient information and preferences for vaccination appointments. It appears to be a comprehensive form that covers various aspects of patient care, including medical history, vaccine selection, and appointment preferences. I will make sure to cover all fields in the guide...</thinking>
-
 # Chestnut Hill - Help Guide
 ## Purpose
 The Chestnut Hill form is designed to gather essential information from patients to provide personalized and safe vaccination services. This guide will walk you through each field to ensure you complete the form accurately and efficiently.

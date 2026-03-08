@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from hotel guests for the purpose of managing their stay. It should be completed by the guest or on their behalf by the hotel staff. The form will be used to verify the guest's identity, confirm their reservation details, and gather any additional information necessary for a comfortable stay.
 
 # Hotel Guest Registration Form - Help Guide

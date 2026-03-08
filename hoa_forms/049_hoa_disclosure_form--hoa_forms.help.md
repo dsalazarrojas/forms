@@ -1,12 +1,3 @@
-<thinking>
-This help guide is meant for end-users to understand the purpose and completion of the HOA Disclosures Form. This form is likely used to collect information from homeowners or property owners about their association's rules and regulations. The fields collected in this form will probably be used by the HOA to better understand and manage the association's relationships with its members.
-
-Before creating this help guide, let's assume that the provided YAML schema is a representation of the form structure and content.
-
-Please note that the provided YAML has some redundant fields (e.g., `hoaassessments` and `hoaassessments_2`), which may need to be merged or restructured.
-
-</thinking>
-
 # HOA Disclosures Form - Help Guide
 ## Purpose
 This form is used to collect information from homeowners or property owners about their association's rules and regulations.

@@ -1,7 +1,3 @@
-<thinking>
-The "Exit Interview Checklist" form is used to gather information from departing employees about their reasons for leaving the company, their last day of work, and other relevant details. This form is typically used by HR departments to collect feedback and data from employees who are leaving the company. The data collected from this form can help the company to understand the reasons behind employee departures and identify areas for improvement.
-</thinking>
-
 # Exit Interview Checklist - Help Guide
 ## Purpose
 

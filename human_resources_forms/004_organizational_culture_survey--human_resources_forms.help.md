@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Culture Survey - Help Guide
 
 ## Purpose

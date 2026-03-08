@@ -1,9 +1,3 @@
-<thinking>
-  This form is used by employees of a pharmacy to request a personal leave of absence from work. The form is intended to be completed by employees who need to take a leave of absence for personal reasons, such as illness, family emergency, or vacation.
-  To avoid duplication of effort and unnecessary processing time, please make sure to only submit the form once and not duplicate your request.
-  The form is used to request a leave of absence for a specified duration, from 1-15 days or more.
-</thinking>
-
 # Pharmacy Personal Leave Of Absence Request - Help Guide
 ## Purpose
 The Pharmacy Personal Leave Of Absence Request form is used to submit a request for a personal leave of absence from work. This form is intended for employees who need to take a leave of absence for personal reasons, such as illness, family emergency, or vacation.

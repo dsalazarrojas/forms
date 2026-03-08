@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is part of the patient support portal, which aims to evaluate the functionality and user experience of the patient portal. The form is designed to gather feedback from patients on their usage and satisfaction with the portal, as well as any issues or improvement ideas they may have. It is essential to fill this form carefully and accurately to help us understand how to improve the portal for better patient care. Please make sure to fill this form only once and do not duplicate any information you have already provided.
 
 # patient_support_portal_functionality_evaluation - Help Guide

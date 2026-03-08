@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and duplication...
-
-The purpose of this form is to collect information about the individual's social communication skills, violent behavior, and support systems. This form is likely used to gather data for social work or mental health services, possibly to assess the individual's needs and provide appropriate care. The form seems to be designed to be used by healthcare professionals or social workers to gather information about patients or clients.
-
-There is no indication of duplication in the form design, and all fields are clearly labeled and explained. Each field is designed to capture specific information that contributes to a comprehensive picture of the individual's social situation.</thinking>
-
 # Social Communication Questionnaire - Help Guide
 ## Purpose
 

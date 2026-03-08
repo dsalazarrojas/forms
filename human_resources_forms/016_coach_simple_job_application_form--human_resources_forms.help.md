@@ -1,7 +1,3 @@
-<thinking>
-
-This form is meant to help applicants provide information required for the job application process. This form will collect relevant details from applicants, including their name, contact information, experience, and references. It will also ask for a summary of their relevant experience and a link or attachment to their resume. Additionally, it will ask for a consent to undergo a background check. This guide will ensure that applicants fill out the form correctly, providing all necessary information, and understand the implications of their responses.</thinking>
-
 # Coach Simple Job Application Form - Help Guide
 ## Purpose
 This form is a comprehensive guide for applicants to provide necessary information for the job application process.

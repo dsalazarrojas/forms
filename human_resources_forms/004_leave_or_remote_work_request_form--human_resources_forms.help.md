@@ -1,9 +1,3 @@
-<thinking>...
-This form is designed to be used by employees to request leave or remote work arrangements. Before filling out this form, please note that:
-- This form should not be used for ad-hoc or emergency leave requests. If you need to take an unexpected absence, please contact your HR representative directly.
-- This form is not intended to be used for non-remote work requests, such as requesting a change in work schedule or reporting late to work. For these types of requests, use the "Request a Change in Work Schedule" or "Report Late to Work" form.
-</thinking>
-
 # Leave Or Remote Work Request Form - Help Guide
 ## Purpose
 The "Leave Or Remote Work Request Form" is designed to be used by employees to request leave or remote work arrangements. This form will help the HR department to process and manage these requests efficiently.

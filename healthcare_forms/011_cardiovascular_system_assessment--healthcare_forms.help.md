@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a patient's cardiovascular system assessment, including their presenting complaint, heart rate, blood pressure reading, and other relevant details. This form is designed to help clinicians make a provisional diagnosis and plan treatment and follow-up for the patient. Before starting, please ensure this form is relevant and not duplicating any other assessments or forms.
-
-This guide will walk you through the form step-by-step to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Cardiovascular System Assessment - Help Guide
 ## Purpose
 The Cardiovascular System Assessment form is used to collect information about a patient's cardiovascular system, including their symptoms, test results, and diagnosis.

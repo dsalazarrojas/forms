@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "medical_company_employee_reference_request_form", is a tool used to collect information from employees and their managers to verify the status and details of an employee's medical license. This form is intended to be completed by employees and their managers to provide a clear and accurate representation of an employee's medical qualifications. This form is likely used for internal purposes, such as HR record-keeping or for compliance with regulatory requirements. 
-
-The purpose of this form is to gather information about an employee's job title, job location, manager's contact information, medical license details, and employee status. The form is designed to be straightforward and easy to complete, ensuring that all required and optional fields are clearly labeled and explained. 
-
-Before starting to complete this form, please review each field carefully to ensure you provide accurate and relevant information. 
-
-</thinking>
-
 # medical_company_employee_reference_request_form - Help Guide
 ## Purpose
 The medical_company_employee_reference_request_form is a tool used to collect information from employees and their managers to verify the status and details of an employee's medical license.

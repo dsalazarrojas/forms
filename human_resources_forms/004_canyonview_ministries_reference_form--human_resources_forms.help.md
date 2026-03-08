@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from someone providing a reference for an applicant. The form will help the person providing the reference provide a detailed account of their relationship with the applicant, including the duration of their relationship, how they know the applicant, and their evaluation of the applicant's work quality, reliability, teamwork ability, communication skills, and other relevant qualities. This form will help ensure that the reference is thorough and accurate, and will help the applicant to present a strong case for their job application.
-
-The fields on this form are designed to help the reference provider provide a complete and honest assessment of the applicant's qualifications and fit for the position. Each field is carefully crafted to elicit specific information about the applicant's strengths, weaknesses, and character. By using this form, the reference provider will be able to provide a comprehensive and helpful reference that will aid in the applicant's job search.
-
-The reference provider is asked to rate the applicant's work quality, reliability, teamwork ability, communication skills, and other relevant qualities. They are also asked to provide their name, title/position, and contact information, as well as a confirmation that the reference is accurate and truthful.
-
-This form is an important part of the job application process, as it provides valuable insight into the applicant's qualifications and fit for the position. By using this form, the reference provider will be able to provide a thorough and helpful reference that will aid in the applicant's job search.</thinking>
-
 # Canyonview Ministries Reference Form - Help Guide
 ## Purpose
 This form is intended to gather information from someone providing a reference for an applicant. The purpose of this form is to help the reference provider provide a detailed account of their relationship with the applicant, including the duration of their relationship, how they know the applicant, and their evaluation of the applicant's qualifications and fit for the position.

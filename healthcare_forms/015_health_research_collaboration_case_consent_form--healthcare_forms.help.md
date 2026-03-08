@@ -1,12 +1,3 @@
-<thinking>
-The form is intended to be used for obtaining consent from participants in a research study, capturing their demographic information and details about their involvement in the study. This form will be used by researchers to collect data on potential participants, ensuring that they understand their rights, benefits, and risks involved in the study. To be completed by the researcher, the form captures the necessary information for the research study to proceed while respecting participants' privacy and confidentiality.
-
-The form will be submitted to the participant with an option to choose whether or not they consent to participate, which is then stored in the database for future reference.
-
-Please ensure that you are submitting a valid request for consent and that all fields are accurately completed before submitting.
-
-</thinking>
-
 # Health Research Collaboration Case Consent Form - Help Guide
 ## Purpose
 This guide explains how to complete the Health Research Collaboration Case Consent Form.

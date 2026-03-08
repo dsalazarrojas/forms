@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sickness Leave Form - Help Guide
 ## Purpose
 This form is used to request sickness leave for an employee. It is designed to collect information about an employee's absence due to sickness, including the start and end dates of the leave, number of days absent, reason for absence, and other relevant details. The form is used by HR to track and manage employee absences.

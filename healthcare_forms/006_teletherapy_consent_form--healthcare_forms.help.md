@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect patient information and consent for teletherapy sessions. This form is intended to be used in a healthcare setting. It is not meant to be used as a standalone document in other contexts. Ensure you have obtained the necessary approvals and compliance checks before using this form. The form should be completed with accurate and up-to-date information for the patient. The form should be stored securely and in compliance with the HIPAA regulations.</thinking>
-
 # Teletherapy Consent Form - Help Guide
 
 ## Purpose

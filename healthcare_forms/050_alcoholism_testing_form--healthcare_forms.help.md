@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the level of alcohol use in patients and provide a scoring system to help healthcare professionals determine the need for interventions or further medical attention. The CAGE screening test is a widely used tool for identifying individuals with potential alcohol use disorders. This form will guide healthcare professionals through the administration and evaluation of the CAGE and AUDIT screening tests.
-
-The form is divided into two sections: Clinical Administration and AUDIT Screening Section, and Clinical Findings and Recommendation. The Clinical Administration section is intended for healthcare professionals to document relevant patient information, while the AUDIT Screening Section asks the patient about their personal experiences with alcohol use. The Clinical Findings and Recommendation section allows healthcare professionals to record their clinical observations and recommendations.
-
-This form is designed to be used by healthcare professionals in a clinical setting to assess and manage patients with potential alcohol use disorders.
-
-</thinking>
-
 # Alcoholism Testing Form - Help Guide
 ## Purpose
 The Alcoholism Testing Form is a tool for healthcare professionals to assess and manage patients with potential alcohol use disorders. It includes two sections: Clinical Administration and AUDIT Screening Section, and Clinical Findings and Recommendation.

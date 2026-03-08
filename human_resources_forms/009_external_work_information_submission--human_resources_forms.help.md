@@ -1,6 +1,3 @@
-<thinking>
-We need to create a help guide for a form that captures information about external work activities. The form likely serves to collect data for HR-related purposes, possibly for tracking or reporting. The goal is to ensure that users understand the purpose and requirements of the form. Let's review the form structure and fields to determine the most effective way to present this information to the end-users. We'll aim to create a clear and concise guide that covers the form's purpose, the steps to complete it, and a field-by-field explanation of each section. We'll also include any helpful tips or reminders to ensure users complete the form correctly and efficiently.</thinking>
-
 # external_work_information_submission - Help Guide
 
 ## Purpose

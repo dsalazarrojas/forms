@@ -1,10 +1,3 @@
-<thinking>
-This form is used to log patients' weight and height measurements. It's intended to be a simple tool for healthcare professionals to record and track patient's anthropometric data. To avoid duplication, please only submit new records if you have taken a new measurement.
-
-The form consists of three fields: weight in kg, height in cm, and date of measurement. The fields are not mandatory, but it's recommended to complete all three for a comprehensive record.
-
-</thinking>
-
 # Patient Weight And Height Log - Help Guide
 ## Purpose
 This form is designed to collect weight and height measurements from patients, enabling healthcare professionals to track and analyze the data for better patient care.

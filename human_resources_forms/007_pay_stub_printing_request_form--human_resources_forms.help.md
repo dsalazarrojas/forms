@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from employees to request printing of their pay stubs. It is intended for use by employees to submit their request for pay stub printing in a timely manner. This form is not meant for managers or supervisors to submit requests on behalf of their employees. If a manager or supervisor needs to request printing of pay stubs for their team members, they should use the "Payroll Request Form" instead.
-
-The form is used to gather information about the employee, including their name, email, and pay rate. The "Pay Frequency" field allows the employee to indicate how frequently they want their pay stubs printed. The "Delivery Date" and "Delivery Time" fields are used to schedule the printing of the pay stubs. The "Department" field is meant to capture the department the employee is a part of. The "Manager Name", "Manager Email", and "Manager Phone" fields are meant to capture contact information for the employee's manager. The "Departmental Note" field is an optional field for any notes that the employee's manager may need to add.
-
-The "Payroll Manager Name" field is meant to capture the name of the payroll manager. The "Request Date" and "Request Time" fields are used to record the date and time the request was submitted. The "Comments" field is an optional field for any additional comments the employee may have. The "Employee Status" field is meant to indicate whether the employee is active or inactive. The "Form Submission Status" field is used to track the status of the form submission. The "Form Submission Time" field is used to record the time of form submission. The "Departmental Manager" field indicates whether the departmental manager is aware of the request. The "Employee ID" field is meant to capture the employee's ID. The "Notes" field is an optional field for any additional notes. The "Departmental Note 2" field is another optional field for any additional notes from the department. The "Submission Status" field is used to track the status of the submission.
-
-This form is intended to be used by employees to submit their requests for pay stub printing. Please review the fields below for more information on how to complete this form correctly.
-</thinking>
-
 # Pay Stub Printing Request Form - Help Guide
 
 ## Purpose

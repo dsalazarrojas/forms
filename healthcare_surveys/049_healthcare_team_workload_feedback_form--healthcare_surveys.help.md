@@ -1,12 +1,3 @@
-<thinking> 
-  Before creating this help guide, I will review the given form YAML schema to understand its purpose and content.
-  The form is titled "Healthcare Team Workload Feedback Form" and seems to be a survey with multiple questions.
-  Upon analyzing the schema, I can see that each question is a multiple-choice question with "Yes" or "No" as options.
-  The form has a mix of questions that might be related to the workload and feedback of healthcare teams.
-  I will assume that this form is used to gather information about the workload and feedback of healthcare teams, possibly for quality improvement or performance evaluation purposes.
-  I will create a help guide that explains the form's purpose, how to complete it, and each field's meaning in a clear and concise manner.
-</thinking>
-
 # Healthcare Team Workload Feedback Form - Help Guide
 
 ## Purpose

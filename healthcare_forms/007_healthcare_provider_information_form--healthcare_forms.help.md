@@ -1,10 +1,3 @@
-<thinking>
-We are creating a form to collect healthcare provider information for the purposes of registration, verification, or other related activities. This form is used to collect personal and professional details of healthcare providers, such as their name, contact information, and medical licenses. This information is necessary for maintaining accurate records and facilitating smooth interactions between providers and our organization. Before starting, please ensure you have not filled out this form previously, as it may have already been filled out.
-
-Please note that this form is not a medical assessment or evaluation tool. If you are looking to obtain medical certification, please refer to our separate form for that purpose.
-
-</thinking>
-
 # Healthcare Provider Information Form - Help Guide
 ## Purpose
 This form is designed to collect healthcare provider information from individuals or organizations providing medical services. Please ensure you fill it out accurately and completely to avoid delays or errors in processing.

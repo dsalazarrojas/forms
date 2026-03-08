@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users who want to join a gym. It's essential to fill out this form accurately to ensure that the necessary data is collected for membership purposes. Before proceeding, double-check that you're not already a member and that you haven't filled out this form in the past. 
-</thinking>
-
 # Gym Registration Form Template - Help Guide
 
 ## Purpose

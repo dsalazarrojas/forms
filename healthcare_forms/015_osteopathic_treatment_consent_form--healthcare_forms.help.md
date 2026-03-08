@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to obtain a patient's consent for an osteopathic treatment. It is meant to be filled out by patients before undergoing the treatment. The form should only be used for osteopathic treatments and not for other types of medical procedures. If the form has already been filled out, it is likely to prevent unnecessary duplication of effort.
-</thinking>
-
 # osteopathic_treatment_consent_form - Help Guide
 ## Purpose
 This form is used to obtain a patient's consent for an osteopathic treatment. Before filling out this form, please ensure that you understand the treatment and its associated risks and benefits.

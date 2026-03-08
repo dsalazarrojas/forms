@@ -1,14 +1,3 @@
-<thinking>
-# ufea_welcome_form - Form Overview
-
-This form is designed to collect patient information for the purpose of registration and identification. The form's fields should be filled out to ensure accurate and complete information for the patient's care and treatment.
-
-Form design considerations should be made for consistency and ease of use across all patient data entry points. Please ensure no duplication of form fields in other form designs.
-
-Before you begin, please review the following fields that you will be required to fill in.
-
-</thinking>
-
 # ufea_welcome_form - Help Guide
 
 ## Purpose

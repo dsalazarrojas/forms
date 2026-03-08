@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the risk of falls for patients in a healthcare setting. This form likely aims to identify patients who are at a higher risk of falls, allowing healthcare professionals to take preventive measures to mitigate this risk. This form might be used by healthcare providers to gather information about a patient's condition and create a plan to prevent falls. The form likely uses a combination of questions and text fields to collect data, but without more information, it's difficult to determine the exact purpose and scope of this form. It's essential to review the form's contents and purpose to ensure it's being used correctly and efficiently.
-</thinking>
-
 # Falls Risk Assessment Survey - Help Guide
 ## Purpose
 The Falls Risk Assessment Survey is a tool used to evaluate the risk of falls for patients in a healthcare setting. It aims to identify patients who are at a higher risk of falls, enabling healthcare professionals to create a plan to prevent them.

@@ -1,5 +1,3 @@
-<thinking>...This form template is designed to be a general-purpose form for collecting information from users. The purpose of this form is to gather data from users about their thoughts, questions, or concerns. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation of public survey topic metadata. The form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.</thinking>
-
 # Tell Me Anything Form Template - Help Guide
 ## Purpose
 

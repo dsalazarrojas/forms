@@ -1,5 +1,3 @@
-<thinking>This form is used to collect feedback from learners who have attended the smoking management course. The purpose of this form is to gather information on the course's effectiveness, instructor performance, and overall learner experience. Please note that this form should only be filled out by learners who have actually attended the course. Repeating the form with the same or similar content is discouraged as it may skew the results and not provide accurate data for future course improvement.</thinking>
-
 # smoking_management_course_feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from learners who have attended the smoking management course. This feedback will help us improve the course and make it more effective for future learners.

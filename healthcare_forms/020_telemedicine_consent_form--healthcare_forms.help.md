@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, I will create a comprehensive user-facing help guide for the "Telemedicine Consent Form" in a Markdown format.</thinking>
-
 # Telemedicine Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for telemedicine services, which allows healthcare providers to offer remote medical care and treatment. By completing this form, you are giving permission for your healthcare provider to communicate with you via electronic means and to access your medical information and records.

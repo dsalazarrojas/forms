@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the spiritual needs and practices of patients in a hospice care setting. The form is designed to be completed by healthcare professionals to help them understand the patient's spiritual background, beliefs, and practices. This information is used to provide targeted spiritual care and support to the patient. The form should only be completed for patients who are willing and able to participate. Please ensure that you have the patient's consent before proceeding.
-
-</thinking>
-
 # Hospice Spiritual Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a patient's spiritual needs and practices to provide targeted spiritual care and support in a hospice care setting.

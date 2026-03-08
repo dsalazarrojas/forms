@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML structure, I see a comprehensive form designed for assessing patients with neoplasia, which is a general term for abnormal cell growth or tumor formation. This form likely serves to collect information from patients, medical professionals, or researchers to understand the scope and progression of the disease. The form's structure and fields suggest it's intended for clinical settings, possibly for tracking patient outcomes, treatments, or medication use. I'll make sure to tailor the explanation accordingly, avoiding any unsupported assumptions or business logic.</thinking>
-
 # Neoplasia Assessment Form - Help Guide
 ## Purpose
 The Neoplasia Assessment Form is a comprehensive document used to collect information about patients with neoplasia. This form helps healthcare professionals track patient outcomes, treatments, and other relevant medical history.

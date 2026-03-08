@@ -1,5 +1,3 @@
-<thinking>Before proceeding with the help guide, let's first understand the purpose and requirements of the Medical Data Security Program Evaluation Form. This form is designed to evaluate the effectiveness and status of the Medical Data Security Program within an organization. It assesses various aspects, including the level of risk to the organization, scope, and status of the program. The form should be completed by those responsible for the program's management and maintenance. Please ensure that you are authorized to complete this form before proceeding.</thinking>
-
 # Medical Data Security Program Evaluation Form - Help Guide
 
 ## Purpose

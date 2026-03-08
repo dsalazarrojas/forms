@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Medical Services Field Report Form - Help Guide
 ## Purpose
 The Emergency Medical Services Field Report Form is designed to collect information about patient incidents that require urgent medical attention. This form is used to document and report medical emergencies, ensuring that essential details are captured and communicated effectively to provide timely and appropriate care.

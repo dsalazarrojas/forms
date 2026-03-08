@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health History Form - Help Guide
 
 ## Purpose

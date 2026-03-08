@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from potential guests who are interested in booking a room at a resort. The form is designed to collect guest details, preferred stay dates, package choices, and any special requests. The form is used in conjunction with other forms to finalize the booking process.
-The form has several fields that need to be filled out by the guest, including guest details, preferred stay dates, package choices, email, phone, preferred stay end date, special requests, name, address, etc. The form is used to gather information about the guest's preferences and needs, which will be taken into account when finalizing the booking.
-</thinking>
-
 # Resort Opening Pre Order Form - Help Guide
 ## Purpose
 The form is used to collect information from potential guests who are interested in booking a room at a resort. This information will be used to finalize the booking process and ensure that the guest's needs are met during their stay.

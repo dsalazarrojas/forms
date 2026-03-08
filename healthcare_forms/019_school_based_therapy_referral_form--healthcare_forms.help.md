@@ -1,9 +1,3 @@
-<thinking>
-School Based Therapy Referral Form is used to collect information for school-based therapy referrals. This form is designed to gather relevant details about the student, parent/guardian, therapist, and school administration information in order to make informed decisions about therapy referrals. 
-
-Please ensure this form is not used for other purposes, such as general inquiries or routine communication. Before completing this form, please ensure you have all necessary information and permissions to proceed with the referral.
-</thinking>
-
 # School Based Therapy Referral Form - Help Guide
 ## Purpose
 The School Based Therapy Referral Form is used to collect information for school-based therapy referrals.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or groups interested in renting a camp facility for events or activities. It is essential to ensure that the form is accurately filled out to provide the required information for a smooth rental experience. This form will be reviewed by camp staff before confirming the rental. Please make sure to carefully fill out the form accurately and completely. This form is only used for camp rental purposes and should not be used for any other reason.
-</thinking>
-
 # Camp Rental Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to provide camp administrators with essential information to confirm a rental request. It helps ensure that all necessary details are collected accurately and efficiently.

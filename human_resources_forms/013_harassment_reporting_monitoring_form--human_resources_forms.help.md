@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Harassment Reporting Monitoring Form - Help Guide
 ## Purpose
 This form is used to report and track incidents of harassment in the workplace. It is essential to fill out this form accurately and completely to ensure that incidents are documented and addressed promptly.

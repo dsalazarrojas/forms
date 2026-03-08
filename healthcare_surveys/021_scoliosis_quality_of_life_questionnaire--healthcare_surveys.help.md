@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Scoliosis Quality of Life Questionnaire form. This form is designed to collect demographic information, medical history, and other relevant details from patients with scoliosis. By providing accurate and complete information, you can help your healthcare provider better understand your condition and tailor treatment accordingly. Please review the form carefully and fill it out to the best of your ability. If you have any questions or concerns, don't hesitate to ask your healthcare provider for clarification.
-
-</thinking>
-
 # scoliosis quality of life questionnaire - Help Guide
 ## Purpose
 The Scoliosis Quality of Life Questionnaire is a form designed to gather information about your scoliosis condition, its impact on your daily life, and any relevant medical history. This information will help your healthcare provider understand your condition better and provide you with more effective care.

@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "resort_guest_special_request_check_in_form" form. This form is likely used by resorts to collect guest preferences and special requests for their stay. The purpose of this form is to ensure that guests' needs are met during their stay, improving their overall experience. This form may be filled out by guests during the booking process or before their arrival.
-
-Before proceeding, let's review the form schema:
-
-* The form consists of several sections, including Guest Preferences, Arrival Date, Preferred Language, Special Requests, Contact Method, Preferred Contact Time, Preferred Contact Frequency, Preferred Meal Time, Preferred Smoking Area, Preferred View, Preferred Activity, Preferred Room Type, Preferred Room Location, Preferred Bed Type, Preferred Bathroom Preferences, Preferred Meal Preferences, and Preferred Transportation.
-</thinking>
-
 # resort_guest_special_request_check_in_form - Help Guide
 ## Purpose
 The purpose of this form is to collect guest preferences and special requests for their stay at the resort. This helps us understand your needs and ensure that your stay is comfortable and enjoyable.

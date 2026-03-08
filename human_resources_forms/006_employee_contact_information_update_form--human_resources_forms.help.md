@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to update employee contact information, which includes details such as names, email addresses, phone numbers, and job titles. 
-
-To prevent data duplication, the form should only be completed after a supervisor has confirmed that an employee's contact information has been updated. 
-
-Before proceeding, ensure that you have obtained the necessary permissions and approvals. 
-
-</thinking>
-
 # Employee Contact Information Update Form - Help Guide
 ## Purpose
 The purpose of this form is to update employee contact information in our system. This information includes first and last names, email addresses, phone numbers, and job titles.

@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form is being used correctly and consistently, please review the form's purpose, which is to collect new employee information for the HR department. This form is meant to be filled out during the onboarding process for new employees. It is crucial that all fields are completed accurately, especially the required fields, to avoid errors and ensure timely completion of the form.
-
-</thinking>
-
 # New Employee Welcome Packet - Help Guide
 ## Purpose
 The New Employee Welcome Packet form is designed to collect essential information about new employees during their onboarding process. It is a critical document for HR to accurately record new employee details and facilitate smooth integration into the organization's systems and processes.

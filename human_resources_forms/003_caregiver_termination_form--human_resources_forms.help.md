@@ -1,15 +1,3 @@
-<thinking>
-This form is used to document the termination of a caregiver's employment. It is essential to complete this form to ensure accurate records and compliance with company policies. Before filling out this form, please ensure that you have permission to terminate the caregiver's employment. Please note that this form should not be used to document a termination that is already being processed or has been previously documented.
-
-Please make sure to fill out this form for each new termination.
-
-This form will be used by HR or management personnel to process the termination and ensure that all necessary steps are taken.
-
-The information collected from this form will be used to update the caregiver's records and for any necessary further actions.
-
-This form should not be used for other purposes than documenting a caregiver termination.
-</thinking>
-
 # Caregiver Termination Form - Help Guide
 ## Purpose
 This form is designed to document the termination of a caregiver's employment.

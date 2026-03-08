@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture complaints or incidents reported by employees, allowing them to provide a description of the incident, the employee they are complaining about, and any supporting evidence. This form will be used to investigate and address employee complaints, so please ensure that the information provided is accurate and true to the best of your knowledge. Before filling out this form, please review it carefully to ensure that all relevant information is included.
-</thinking>
-
 # Employee Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to record and report employee complaints or incidents, which will be used to investigate and address the issue.

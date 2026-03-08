@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about the effects of medication on nutritional status, which is a crucial aspect of healthcare. The form will gather data on the diet, health conditions, medications, and patient's nutritional status. This information can be used to better understand the relationships between medication and nutritional outcomes, which is essential for healthcare professionals to make informed decisions.
-
-This form is not a replacement for any proprietary platform, but rather an AI-generated adaptation of a form that serves the same purpose. It is intended to be used as a public resource for healthcare professionals, patients, and caregivers to collect and share information in a standardized and efficient way. The form is released under the Creative Commons BY 4.0 license, allowing users to freely modify and distribute it. Please note that the form's content and structure have been generated based on public survey topic metadata, and its purpose is to assist in understanding the effects of medications on nutritional status, not to replace or replicate proprietary forms.
-
-Please use this form responsibly and consider providing feedback for improvements.
-</thinking>
-
 # Medication Effects On Nutritional Status - Help Guide
 ## Purpose
 This form is designed to collect information on the effects of medication on nutritional status. It will help healthcare professionals, patients, and caregivers understand the relationships between medication and nutritional outcomes.

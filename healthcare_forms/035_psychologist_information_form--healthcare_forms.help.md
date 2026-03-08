@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create this user-facing help guide, I will follow these steps:
 
 1.  **Identify the form purpose and scope:** The form is designed for collecting information from clients about their psychologists, including demographic data, contact information, medical history, and treatment goals.

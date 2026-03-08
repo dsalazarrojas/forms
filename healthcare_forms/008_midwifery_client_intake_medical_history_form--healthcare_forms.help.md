@@ -1,11 +1,3 @@
-<thinking>
-This form is a crucial part of our healthcare system, and it serves several key purposes:
-- It helps our healthcare staff understand the basic needs and requirements of each client. 
-- It gathers essential information about the client’s medical condition and history. 
-- It allows healthcare staff to identify potential risks and develop a personalized plan for the client. 
-- This form is a legal requirement for us to collect this information. 
-</thinking>
-
 # Midwifery Client Intake & Medical History Form - Help Guide
 
 ## Purpose

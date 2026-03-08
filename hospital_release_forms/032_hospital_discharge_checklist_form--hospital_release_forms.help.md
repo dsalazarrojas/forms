@@ -1,7 +1,3 @@
-<thinking>
-The Hospital Discharge Checklist Form is designed to provide a structured and comprehensive way to document patient information during the discharge process. This form should only be used for hospital discharges, ensuring consistency and adherence to hospital protocols. It's essential to fill out this form carefully and accurately to ensure that the patient's needs are met and that the hospital's discharge process is completed efficiently. By using this form, healthcare professionals can gather all necessary information at once, reducing the likelihood of missing critical details that might impact patient care.
-</thinking>
-
 # Hospital Discharge Checklist Form - Help Guide
 ## Purpose
 The Hospital Discharge Checklist Form is a tool for gathering essential information for patient discharges. It is intended to be completed by healthcare professionals during the discharge process to ensure a smooth and effective transition for the patient.

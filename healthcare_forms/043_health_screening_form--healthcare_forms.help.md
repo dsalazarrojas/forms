@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information from patients or individuals about their health status for screening purposes. The form is divided into several sections, which include:
-- Personal information (name)
-- Medical conditions and symptoms
-- Medical history and travel history
-- Medical precautions and devices
-- Medical procedures and allergies
-- Insurance status
-
-The form will be used to determine the level of care required for the individual, and to identify potential risks or concerns. The fields are designed to collect specific and relevant information to ensure accurate and efficient processing.
-
-</thinking>
-
 # Health Screening Form - Help Guide
 ## Purpose
 The Health Screening Form is designed to gather information about your health status for screening purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # healthcare_infrastructure_assessment_evaluation_form - Help Guide
 ## Purpose
 This form is used to assess the healthcare infrastructure of a facility. The form is intended to collect information about a healthcare provider's services, facility rating, and evaluation date and time. This information is crucial for evaluating the effectiveness of the healthcare infrastructure and identifying areas of improvement.

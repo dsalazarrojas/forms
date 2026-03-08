@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's nutritional status and history, which is crucial for healthcare providers to make informed decisions about their care. The form includes fields for demographic information (patient name, age, gender, time, and weight), medical history (medications, allergies, and medical conditions), and laboratory data (blood sugar level and blood pressure). 
-This information will be used to assess the patient's nutritional needs and risks, and to provide recommendations for their dietary and lifestyle changes. 
-Please ensure that all required fields are completed to provide accurate and comprehensive data.
-</thinking>
-
 # Nutritional Protocol Recommendations Form - Help Guide
 ## Purpose
 The Nutritional Protocol Recommendations Form is designed to collect patient information that helps healthcare providers make informed decisions about their nutritional care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telework Request Form - Help Guide
 
 ## Purpose

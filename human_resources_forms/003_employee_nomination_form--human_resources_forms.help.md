@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for employee nominations. The purpose of this form is to collect personal details and reasons for nomination of an employee. The form is used for internal purposes, so it's essential to provide accurate and relevant information. Please ensure you're completing this form for an employee you have worked with or have sufficient knowledge of their work. Avoid duplicating nominations for the same employee, as this may cause confusion. 
-</thinking>
-
 # employee_nomination_form - Help Guide
 ## Purpose
 The employee nomination form is used to gather information and reasons for nominating an employee for internal recognition or awards. This form helps the nomination committee understand the employee's contributions, skills, and qualities that make them deserving of recognition.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support Performers in requesting a leave of absence, which can be a medical, personal, or other type of leave. The purpose of this form is to collect necessary information from the Performer for the approval process. The form is designed to ensure that all required and optional fields are filled out accurately and thoroughly, making it easier for the approver to review and process the request. Please review the form carefully to ensure that you are submitting complete and accurate information. Please note that this form is not intended to be a substitute for any other leave or absence request process that may be in place.
-</thinking>
-
 # Performer Leave Of Absence Request - Help Guide
 ## Purpose
 The purpose of this form is to support Performers in requesting a leave of absence for various reasons, including medical, personal, or other types of leaves.

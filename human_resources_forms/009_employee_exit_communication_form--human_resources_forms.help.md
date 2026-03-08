@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an employee's departure from the company. The goal is to understand the reason for their exit, gather any feedback they have, and provide an opportunity for them to suggest improvements or share open-ended questions. This form is intended for use by HR or management to facilitate a smooth exit process. Before filling out this form, ensure that you're not already working on an exit communication with the same employee. If you have any questions or concerns, please reach out to HR or management for assistance.
-</thinking>
-
 # Employee Exit Communication Form - Help Guide
 ## Purpose
 The Employee Exit Communication Form is used to gather information about an employee's departure from the company, including the reason for their exit, feedback, and suggestions for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a Physician Work Setting Assessment form, which is likely used to collect information about the work settings and environments of healthcare professionals, such as physicians, to better understand their needs and circumstances. The purpose of this form is to gather data on various factors that may influence their work, potentially to inform healthcare policy, resource allocation, or education and training programs. 
-
-To create this form, we will break down each field into a concise and easy-to-understand format to facilitate completion and reduce potential confusion for the end-user.
-
-</thinking>
-
 # Physician Work Setting Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the work settings and environments of healthcare professionals, such as physicians, to better understand their needs and circumstances.

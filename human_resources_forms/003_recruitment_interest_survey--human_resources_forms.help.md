@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I see that this form is designed to collect information from potential applicants for a job opening. Each field is carefully crafted to gather relevant details about the applicant, including their contact information, job preferences, and skills and qualifications. The form is structured to collect both text and select fields, allowing for a wide range of responses. The "Recruitment Interest Survey" form appears to be a comprehensive tool for gathering initial information from potential candidates, and its fields and instructions should be clearly communicated to end users to maximize its effectiveness.</thinking>
-
 # Recruitment Interest Survey - Help Guide
 ## Purpose
 The Recruitment Interest Survey is a form designed to collect information from potential applicants about their interest in job openings. By completing this form, you'll help our team understand your qualifications and preferences, making it easier for us to match you with suitable job opportunities.

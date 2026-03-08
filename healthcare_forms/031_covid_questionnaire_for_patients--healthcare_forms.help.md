@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients about their exposure to COVID-19, any symptoms they are experiencing, and their interactions with healthcare professionals. This form is designed to be completed by patients to provide healthcare providers with the necessary information to triage and care for them effectively. The form will be reviewed by a medical professional to assess the patient's condition and provide guidance on next steps.
-</thinking>
-
 # Covid Questionnaire For Patients - Help Guide
 ## Purpose
 The Covid Questionnaire for Patients is a form designed to collect information from patients about their exposure to COVID-19 and their interactions with healthcare professionals.

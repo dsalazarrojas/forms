@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about passenger arrival details and preferences for a hotel or similar establishment. The form is designed to be completed by passengers or their representatives to provide essential information about their arrival time, contact details, and preferred time for pickup or shift information. The purpose of this form is to ensure smooth and efficient arrival processing for both the passenger and the hotel staff. This form will help the hotel staff to identify the arrival time, confirm the passenger's contact information, and determine the preferred time for pickup or shift assignment.
 
 # Passenger Arrival Shift Pickup Form - Help Guide

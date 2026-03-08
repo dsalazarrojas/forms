@@ -1,5 +1,3 @@
-<thinking>...I'm thinking... the form is designed to collect essential information from patients during a new consultation. It seems that the purpose of this form is to gather basic details about the patient, such as their name, date of birth, contact information, and possibly other relevant health details. This form is likely used by healthcare professionals or medical staff to quickly capture necessary information for patient intake, treatment planning, or medical recordkeeping... </thinking>
-
 # Patient History Form NEW CONSULT - Help Guide
 
 ## Purpose

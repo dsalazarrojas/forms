@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and evaluation of medical products. It is meant to be filled out by users who have used a medical product and want to provide their opinion on its effectiveness and usability. The form will help us to gather information on how well medical products meet the needs of our users.
-Before starting to fill out this form, please ensure that you are providing feedback on a single medical product. If you have used multiple products and want to provide feedback on all of them, please fill out this form multiple times, once for each product.
-</thinking>
-
 # medical_product_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect user feedback and evaluation of medical products.

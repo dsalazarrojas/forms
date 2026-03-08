@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about a patient's symptoms during the COVID-19 pandemic. This form helps in monitoring and recording the symptoms of COVID-19 patients. It collects information about the patient's symptoms, submitted by the patient or someone on their behalf, and provides options for the submitted fields.
-
-This form should only be used for patients experiencing symptoms related to COVID-19. If the form is not relevant to the patient's condition, please do not fill it out. Please ensure that the form is filled out accurately and completely.
-
-Before filling out the form, please review the following information carefully.
-</thinking>
-
 # coronavirus_symptom_monitoring_form - Help Guide
 ## Purpose
 The coronavirus_symptom_monitoring_form is used to collect and record symptoms of COVID-19 patients.

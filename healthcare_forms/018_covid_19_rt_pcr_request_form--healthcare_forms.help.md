@@ -1,17 +1,3 @@
-<thinking>
-The form is designed for patients to request a COVID-19 RT-PCR test, a type of test used to diagnose the virus. To ensure accurate and efficient processing, we've implemented checks to prevent duplicate requests and ensure that required fields are filled in correctly.
-
-To determine if a patient has already submitted a request, we use the ID or Passport Number as the primary identifier. If a patient has already submitted a request, they will not be able to submit another request until the status of their previous request is resolved.
-
-We also have checks in place to prevent patients from choosing conflicting options, such as selecting "International Travel" as the reason for the test and also selecting a destination country or city that is not a valid one.
-
-The form is designed to be completed in one session, with fields that require input from the patient, such as their name, ID or Passport Number, reason for testing, preferred swab date and time, and other relevant details. 
-
-Please note that some fields may be optional, but it is essential to fill in all required fields to ensure proper processing and avoid delays in getting the test.
-
-By following this guide, patients will be able to fill out the form accurately and efficiently, ensuring that their request for a COVID-19 RT-PCR test is processed correctly and without errors.
-</thinking>
-
 # COVID 19 RT PCR Request Form - Help Guide
 ## Purpose
 This form is designed to help patients request a COVID-19 RT-PCR test for various reasons such as international travel, work requirement, symptoms, close contact, or surgery requirement. 

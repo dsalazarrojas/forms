@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Focus Group Time Off Form - Help Guide
 ## Purpose
 This form is used to collect information on time-off or time-off-related matters from focus groups. It's an essential tool for gathering data on focus group time off, which can help organizations make informed decisions and improve their operations.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is a pre-consultation form for patients interested in pursuing holistic therapies, specifically in the context of COVID-19. The form is designed to gather information about the patient's preferences and needs, allowing the medical center to tailor their services accordingly. This form should not be completed if the patient is already a registered user of the medical center, as their information is already on file. Please ensure that all required fields are completed accurately and thoroughly. 
-</thinking>
 # Holistic Therapies Covid 19 Pre Consultation Form - Help Guide
 ## Purpose
 The Holistic Therapies Covid 19 Pre Consultation Form is designed to collect information from patients interested in pursuing holistic therapies, particularly for COVID-19. This form helps the medical center understand the patient's needs and preferences, enabling them to provide personalized services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vaccination Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and vaccination details for the healthcare provider. It is intended for patients who require vaccinations and need to provide relevant health data to ensure proper vaccination delivery.

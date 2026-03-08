@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from individuals for the purpose of evaluating potential team members for a startup. The form is a comprehensive assessment tool that helps identify the skills, experience, and availability of applicants. Before filling out this form, please make sure you have not filled out the same form previously, as this form is meant to be filled out once per individual.
-
-</thinking>
-
 # Startup Team Interview Form - Help Guide
 ## Purpose
 The Startup Team Interview Form is a tool used to gather information from potential team members. It is a comprehensive assessment that helps us understand your skills, experience, and availability.

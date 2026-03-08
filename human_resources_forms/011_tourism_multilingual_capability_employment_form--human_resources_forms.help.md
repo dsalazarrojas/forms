@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form's purpose is well understood by end users, and that we're not duplicating effort by having multiple fields with similar purposes. This form appears to be designed to collect information about a job applicant's personal details, language proficiencies, employment history, and availability for work. It seems that we're trying to cover various aspects of a candidate's qualification and availability for a job in the tourism industry. We should ensure that each field is clearly labeled and that users understand what information is being asked. We'll review each field individually to confirm this.
-</thinking>
-
 # Tourism Multilingual Capability Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a job applicant's personal details, language proficiencies, employment history, and availability for work in the tourism industry.

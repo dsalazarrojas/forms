@@ -1,7 +1,3 @@
-<thinking>
-This form is a First Responder Discharge Form, designed to collect relevant information from patients after treatment or medical care. The form is intended for healthcare professionals to gather essential data for further follow-up and monitoring. This form was created by an AI algorithm using public metadata from the healthcare form topic, making it a unique and original adaptation. The form does not contain any proprietary content from other form platforms. It is released under a Creative Commons BY 4.0 license, allowing users to freely use, modify, and even sell forms derived from it, while giving credit.
-</thinking>
-
 # First Responder Discharge Form - Help Guide
 ## Purpose
 The First Responder Discharge Form is designed to collect information from patients after treatment or medical care. This form helps healthcare professionals gather essential data for further follow-up and monitoring.

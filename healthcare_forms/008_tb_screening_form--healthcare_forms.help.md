@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this TB Screening Form is to gather information about patients to assess their risk of tuberculosis (TB) infection or exposure. This form is designed to be completed by healthcare professionals to collect data on patient demographics, medical history, travel history, and symptoms, as well as the results of any screenings or vaccinations they may have undergone. The form is intended to be used in a healthcare setting to aid in the diagnosis and treatment of TB.
-
-Before starting, please ensure this is the correct form for your use case. Note that this form may not cover all possible scenarios, and additional sections or questions may be required for specific situations. Also, this form is not intended for use in high-risk areas or for individuals with confirmed TB diagnosis.
-
-To avoid duplication of effort, please check if a similar form has been created in your organization before using this template.
-
-The form consists of multiple pages, each covering different aspects of patient information. Please follow the steps below to complete the form:
-
-</thinking>
-
 # TB Screening Form - Help Guide
 ## Purpose
 ## How To Complete This Form

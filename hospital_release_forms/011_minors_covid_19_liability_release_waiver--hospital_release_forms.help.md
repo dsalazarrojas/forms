@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain a liability release and waiver from minors for COVID-19 related activities or services provided by the organization. The form is intended to ensure that the minor's legal guardian or parent has given consent for the minor to participate in these activities. The form is not intended to be used for general purposes, but rather for specific COVID-19 related activities or services. To avoid duplication, please ensure that the minor is not already registered in our system before filling out this form.
-</thinking>
-
 # minors_covid_19_liability_release_waiver - Help Guide
 ## Purpose
 This form is used to obtain a liability release and waiver from minors for COVID-19 related activities or services provided by the organization.

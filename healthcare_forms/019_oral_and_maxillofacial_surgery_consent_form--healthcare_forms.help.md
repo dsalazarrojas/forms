@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients before they undergo oral and maxillofacial surgery. This form is likely to be used in a healthcare setting to ensure that the patient's medical history, allergies, and other relevant information are documented and taken into account before proceeding with the surgery. This form is not intended to be used for any other purpose.
-</thinking>
-
 # oral_and_maxillofacial_surgery_consent_form - Help Guide
 
 ## Purpose

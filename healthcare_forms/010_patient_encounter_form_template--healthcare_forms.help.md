@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for documenting patient encounters in a medical setting. It is likely used for tracking patient data, diagnosis, and treatment information. It appears to be part of a larger system for organizing patient records. The fields are mostly related to capturing essential details about a patient's visit, including demographic information (patient name, visit date, physician), clinical information (chief complaint, history of present illness, physical exam), and treatment (medications, test results, diagnosis, treatment).
-
-This form likely duplicates some fields (e.g., "Allergies 2", "Current Medications", "Lab Results 2", "Radiology Results 2", "Medical History", "Family History", "Social History", "Next Visit Time" which may be redundant since it's likely already covered by "Next Visit"), and may be a legacy or outdated template. Please review and refine accordingly.
-
-</thinking>
-
 # Patient Encounter Form Template - Help Guide
 ## Purpose
 The Patient Encounter Form Template is a document used to record essential details about a patient's visit to a healthcare provider. It is designed to capture demographic, clinical, and treatment information to help healthcare professionals make informed decisions.

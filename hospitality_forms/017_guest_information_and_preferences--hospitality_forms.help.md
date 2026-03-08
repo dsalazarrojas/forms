@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect guest information and preferences for hospitality operations. This form should be completed by guests to ensure accurate and efficient handling of their stay. Ensure you're not completing this form if you've already checked-in or have a reservation number...</thinking>
-
 # Guest Information And Preferences - Help Guide
 ## Purpose
 The Guest Information And Preferences form is used by guests to provide their personal details and preferences for hospitality operations.

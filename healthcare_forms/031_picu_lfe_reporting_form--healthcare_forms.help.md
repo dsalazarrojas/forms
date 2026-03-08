@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PICU LfE Reporting Form - Help Guide
 ## Purpose
 The PICU LfE (Patient Information Capture and Update) Reporting Form is designed to capture general information related to patients in the Pediatric Intensive Care Unit (PICU). This form is used for tracking patient information, reporting, and updating patient records.

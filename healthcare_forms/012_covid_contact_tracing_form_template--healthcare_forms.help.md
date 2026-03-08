@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid Contact Tracing Form Template - Help Guide
 ## Purpose
 The Covid Contact Tracing Form Template is designed to gather relevant information from patients about their contact details and exposure to potential Covid-19 cases. This form is intended for healthcare professionals to collect accurate and timely data to track and manage Covid-19 outbreaks.

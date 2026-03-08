@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect data from patients who have used sensitive skin products to test their tolerance and suitability. This form is intended to capture specific product details such as the type of product used, the areas of the skin affected, and the level of irritation experienced by the patient. The information collected will be useful for product development and improvement, as well as for medical professionals to better understand and treat sensitive skin conditions. The form is intended for patients who have used the products on their skin and are willing to provide honest feedback about their experience.
-
-Before starting, please note that the form has been designed to collect sensitive and potentially personal information. Please ensure that you have the necessary consents and permissions to complete this form on behalf of the patient, if required. 
-
-This form consists of the following sections:
-
-Please make sure you have the necessary permissions and consents before continuing. If you're unsure about any part of the form or its purpose, please reach out to the relevant personnel for guidance.
-
-Please ensure that you answer honestly and accurately. Some fields may appear sensitive or personal, but we value your feedback to improve our products and services.
-</thinking>
-
 # Sensitive Skin Product Testing Survey - Help Guide
 ## Purpose
 This form collects data from patients who have used sensitive skin products for testing and evaluation. Your input is crucial in helping us improve our products and services for better skin health.

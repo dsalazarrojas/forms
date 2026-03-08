@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect data from patients or their guardians for research purposes related to virtual reality therapy. The form is intended to gather information about the patient's demographics, medical history, and experience with virtual reality therapy. This form should only be completed by patients or their authorized representatives and should not be used for other purposes. To avoid duplicating efforts, please ensure that this form is not submitted multiple times for the same individual. </thinking>
-
 # Virtual Reality Therapy Research Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect data from patients or their guardians for research purposes related to virtual reality therapy.

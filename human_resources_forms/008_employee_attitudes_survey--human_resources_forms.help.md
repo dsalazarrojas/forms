@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect employee feedback and attitudes on various aspects of their work experience, including job satisfaction, departmental issues, and suggestions for improvements. To ensure accurate and relevant feedback, please answer the questions honestly and thoroughly. Note that this form is not intended to be a replacement for regular performance reviews or formal feedback mechanisms. If you have concerns or issues that you would like to discuss, please direct them to your supervisor or HR representative.</thinking>
-
 # Employee Attitudes Survey - Help Guide
 ## Purpose
 The Employee Attitudes Survey is a tool used to collect feedback and insights from employees on their work experience. This survey is designed to help management and HR understand the strengths and areas for improvement of the organization, ultimately enhancing the overall work environment.

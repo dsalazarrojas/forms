@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help users understand the purpose and requirements of this form, let's break down the form's purpose and instructions.
 
 This form is called the "Weekly Timesheet And Progress Report Form" and is used for employees to report their weekly work hours, progress, and other relevant information. The form is likely used for tracking and monitoring employee work hours, progress, and performance.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for employees to release their photo for use in printed and digital newsletters. It's essential to ensure that the photo is used correctly and in a way that complies with company policies. To confirm, the form asks for the employee's consent to use their photo, which can be in printed or digital form. This form is designed to be filled out by the employees, and the information collected will be used by management to manage photo releases.
-
-Before proceeding, please verify that you haven't filled out this form before and that you're not using an existing photo release form.
-
-</thinking>
-
 # employee_photo_newsletter_release_form - Help Guide
 ## Purpose
 This form is for employees to release their photo for use in printed and digital newsletters.

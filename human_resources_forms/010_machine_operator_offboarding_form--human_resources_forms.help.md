@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be related to the offboarding process for machine operators. Offboarding is the process of formally ending an employee's employment with the company. This form is used to collect relevant information from the manager of the employee being offboarded. The manager will be prompted to provide details such as the employee's name, their reason for offboarding, and any comments or notes regarding the offboarding process.
-To ensure this form is being used correctly, make sure the manager is aware of their responsibility to formally end an employee's employment and provide necessary details in a professional and respectful manner.
-</thinking>
-
 # machine_operator_offboarding_form - Help Guide
 
 ## Purpose

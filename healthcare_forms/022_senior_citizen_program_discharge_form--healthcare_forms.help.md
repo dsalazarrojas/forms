@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document the discharge of a senior citizen from a program. The purpose of this form is to collect information about the senior citizen's discharge date, time, contact information, and reason for discharge. This form is used to ensure that all necessary information is collected and documented for future reference. 
-
-This form is not intended to be used for other purposes, such as for initial program enrollment or for general contact information.
-
-</thinking>
-
 # Senior Citizen Program Discharge Form - Help Guide
 ## Purpose
 The Senior Citizen Program Discharge Form is used to document the discharge of a senior citizen from a program. This form ensures that all necessary information is collected and documented for future reference.

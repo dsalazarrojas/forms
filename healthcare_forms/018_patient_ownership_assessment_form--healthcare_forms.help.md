@@ -1,7 +1,3 @@
-<thinking>
-The form "Patient Ownership Assessment Form" is used to assess the ownership and access rights of health records. The goal is to gather information on whether the records are owned by the patient or if they are under the control of a healthcare provider. This form is likely used in medical settings, such as hospitals or clinics, where staff need to understand who has access to patient records to ensure privacy and security. This form is not intended to be used for making medical decisions, but rather to document ownership and access rights.
-</thinking>
-
 # Patient Ownership Assessment Form - Help Guide
 ## Purpose
 The Patient Ownership Assessment Form is used to assess the ownership and access rights of health records. This form helps medical staff to determine who has control over patient records and to document any medical decisions made regarding the patient.

@@ -1,9 +1,3 @@
-<thinking>
-The "Parent Guardian Attestation" form is designed to collect information from parents or guardians about their child's health status in relation to COVID-19. This form aims to gather accurate and comprehensive data to help healthcare professionals assess the child's risk of exposure and take necessary precautions.
-This form should only be completed by a parent or guardian who is currently with the child or has access to the child's health information. If a parent or guardian is unsure about any of the questions, it's essential to consult with the healthcare provider before submitting the form.
-The form should not be used for children without a parent or guardian present.
-</thinking>
-
 # Parent Guardian Attestation - Help Guide
 ## Purpose
 The Parent Guardian Attestation form is designed to gather information about a child's health status in relation to COVID-19. The form asks questions about the child's symptoms, contacts, and travel history to help healthcare professionals assess the child's risk of exposure and take necessary precautions.

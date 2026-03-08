@@ -1,11 +1,3 @@
-<thinking>
-
-As a healthcare expert, I understand that this form is designed to collect information from patients or healthcare users regarding their meal planning needs. The form's purpose is to gather essential details that will help healthcare professionals better understand the user's dietary requirements, habits, and preferences. This information will aid in creating personalized meal plans that cater to the user's nutritional needs, potentially improving their health outcomes.
-
-Before starting the form, please ensure that you are not duplicating an existing request or that you have permission to access the form's data. If you are unsure, please reach out to your healthcare team for clarification.
-
-</thinking>
-
 # Meal Planning Form - Help Guide
 ## Purpose
 The Meal Planning Form is designed to help healthcare professionals create personalized meal plans that cater to your dietary needs, habits, and preferences. This information will aid in improving your health outcomes.

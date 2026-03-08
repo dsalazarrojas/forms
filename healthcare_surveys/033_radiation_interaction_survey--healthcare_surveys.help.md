@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Radiation Interaction Survey - Help Guide
 
 ## Purpose

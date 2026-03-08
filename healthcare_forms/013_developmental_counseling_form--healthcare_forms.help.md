@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to gather information about a patient's visit to the healthcare provider. The form will be used to document the details of the visit, including patient contact information, medical history, and treatment plans. This form will not be used for duplicate or triplicate purposes, as it is a singular instance of documentation for each patient visit.</thinking>
-
 # Developmental Counseling Form - Help Guide
 ## Purpose
 The Developmental Counseling Form is a standardized document that healthcare providers use to record the details of a patient's visit. This form helps ensure accurate and consistent documentation of each visit, making it easier to track patient history and provide personalized care.

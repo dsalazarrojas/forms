@@ -1,8 +1,3 @@
-<thinking>
-This form is for sales orders, allowing users to input their name, address, contact information, and appointment details. This form will be used by sales representatives to gather information from customers. To ensure accurate and efficient submission, it's essential to review and complete the form carefully. Please note that some fields are optional, and users should only fill in the necessary information. This form will not be used to create a duplicate entry for the same customer. 
-
-</thinking>
-
 # DHOOM Sales Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for sales orders.

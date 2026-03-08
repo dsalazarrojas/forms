@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that our Food Insecurity Questionnaire is completed accurately and effectively. To avoid confusion and misinterpretation, let's clarify the purpose and requirements of this form.
-
-The purpose of this questionnaire is to collect information about a household's food security level, which is the ability to obtain a reliable supply of affordable and nutritious food. The form aims to assess the current food security level of a household, which is crucial for identifying areas where support is needed.
-
-To complete this form, the user will be presented with a sequence of pages, each containing a set of questions. The form is designed to be completed in a specific order, so please follow the instructions carefully.
-
-Please note that all fields are optional, but it is essential to answer as accurately as possible to provide valuable insights.
-
-</thinking>
-
 # Food Insecurity Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a household's food security level, which is essential for identifying areas where support is needed to ensure access to affordable and nutritious food.

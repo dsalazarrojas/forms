@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vet_clinic_patient_check_in_form - Help Guide
 ## Purpose
 This form is used for patients to check in at the vet clinic, providing essential information for the healthcare staff to attend to their needs.

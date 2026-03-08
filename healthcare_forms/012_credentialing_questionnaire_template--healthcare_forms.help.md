@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and usage of the Credentialing Questionnaire Template. Please note that this form is designed for use in healthcare settings to collect information about medical professionals or healthcare workers' credentials. Before proceeding, ensure you have reviewed the form's purpose and understand that it may need to be completed multiple times for each individual.
-
-</thinking>
-
 # Credentialing Questionnaire Template - Help Guide
 ## Purpose
 This form is used to collect and verify information about medical professionals or healthcare workers' credentials, including their background, education, professional experience, and any other relevant details. This information is crucial for credentialing and verification purposes.

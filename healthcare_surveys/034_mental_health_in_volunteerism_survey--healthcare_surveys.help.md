@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the mental health status and volunteerism experiences of individuals. It is essential to ensure that the user understands the purpose and relevance of the form before proceeding. Please note that this form is meant to be completed by individuals who have had experiences with volunteerism in the past or currently participate in volunteer work. 
-</thinking>
-
 # Mental Health In Volunteerism Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your mental health status and experiences with volunteerism. Please answer the questions honestly to help us better understand the relationship between volunteerism and mental health.

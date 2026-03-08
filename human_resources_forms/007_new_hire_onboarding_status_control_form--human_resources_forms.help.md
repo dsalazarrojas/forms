@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to control and track the onboarding status of new hires within an organization. It is intended to be used by HR teams to keep track of the progress of new employees during their onboarding process. The form should only be used for new hires who are currently in the onboarding process or have recently completed it. If a new hire has already been terminated or is not in the onboarding process, please do not use this form.
-
-Before filling out this form, ensure that you are not duplicating the information of an existing employee.
-</thinking>
-
 # New Hire Onboarding Status Control Form - Help Guide
 ## Purpose
 The purpose of this form is to track and control the status of new hires during their onboarding process. This form should be used to record the progress of new employees, ensuring they are accurately categorized and up to date.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Employee Contact Information Form", we first need to consider the purpose of the form and the fields it contains. This form is likely used to collect and store essential contact information for employees, such as their name, email, phone numbers, and emergency contact details. The form is probably used by HR or management to update or obtain contact information for employees. Before proceeding, we need to check if the form is relevant and not duplicated. If an employee already has an existing record, this form might not be necessary for them. We will also make sure to clearly explain each field's purpose and requirements.
-</thinking>
-
 # Employee Contact Information Form - Help Guide
 ## Purpose
 The Employee Contact Information Form is used to collect and store essential contact information for employees. This form is typically used by HR or management to update or obtain contact information for employees.

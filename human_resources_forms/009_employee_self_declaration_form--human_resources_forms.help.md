@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's work-related details, including their job title, department, job location, and emergency contact information. This form is likely used by HR or administrative staff to gather accurate and up-to-date information about employees. To avoid duplication of effort, please ensure that this form is only completed by the intended recipient and is not used to collect the same information multiple times. Please note that this form has a mix of required and optional fields, with some fields being used to select options from lists or dates/time.
-</thinking>
-
 # Employee Self Declaration Form - Help Guide
 
 ## Purpose

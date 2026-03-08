@@ -1,25 +1,3 @@
-<thinking>
-To create an effective help guide, I'll first analyze the form's purpose and ensure the provided YAML fields are correctly understood.
-
-The form appears to be for booking a room at a Vineyard Guesthouse. The form is designed to collect general information about the booking, including details about the guests, the dates of stay, and the payment method. The fields seem to be designed for both guests and the management/administrators of the guesthouse to use. The form does not have any fields that explicitly ask for the guest's address or payment details (such as credit card numbers), so it's assumed that this information will be collected separately or is already known to the guesthouse management. The form seems to be well-structured and straightforward.
-
-The fields are:
-
-*   **Booking Details**: A general page to collect the booking details.
-*   **Guest Name**: A field to input the guest's name.
-*   **Check-in Date**: A field to input the date the guest will be checking in.
-*   **Check-out Date**: A field to input the date the guest will be checking out.
-*   **Room Type**: A selection of room types (King, Queen, Single) for the guest to choose from.
-*   **Room Quantity**: A field to input the number of rooms the guest is booking.
-*   **Guest Quantity**: A field to input the number of guests.
-*   **Contact Email**: A field for the guest to input their contact email.
-*   **Contact Phone**: A field for the guest to input their phone number.
-*   **Reservation Notes**: A field for the guest to input any additional notes about their reservation.
-*   **Payment Method**: A selection of payment methods (Credit Card, PayPal, Bank Transfer) for the guest to choose from.
-*   **Confirm Reservation**: A field to confirm the reservation (True/False).
-
-</thinking>
-
 # Vineyard Guesthouse Booking Form - Help Guide
 ## Purpose
 This is the Vineyard Guesthouse Booking Form, designed to collect information about your stay and payment preferences for a booking at the Vineyard Guesthouse.

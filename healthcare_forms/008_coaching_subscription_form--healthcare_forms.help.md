@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coaching Subscription Form - Help Guide
 ## Purpose
 The Coaching Subscription Form is designed to collect necessary information from potential coaching clients to determine their coaching subscription preferences. This form helps to identify their goals, coaching type, and delivery methods to provide an accurate coaching experience. It's essential to fill out the form accurately to ensure we can tailor our coaching programs to meet your needs.

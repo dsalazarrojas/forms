@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect feedback from patients about their experience in the waiting room. The form is divided into different sections that ask about different aspects of the waiting room experience. Each section is designed to be completed by the patient to provide feedback on their experience, which will help the healthcare provider to identify areas for improvement.
-
-This form is meant to be completed by patients as they wait for their appointment. It is not intended for patients to rate their satisfaction with the overall quality of care they received during their visit.
-
-The questions on this form are meant to be answered honestly, and patients are encouraged to provide as much detail as possible about their experience.
-
-Before completing this form, please ensure that all fields are accurate and complete.
-
-</thinking>
-
 # waiting_room_feedback_form - Help Guide
 
 ## Purpose

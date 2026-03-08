@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect relevant information about a specific event or scenario. The goal is to ensure that the user provides enough details about what they want to report or inquire about. This form serves as a proxy for other systems or stakeholders to act upon, hence the name "hoadomain_proxy_form".
-</thinking>
-
 # hoadomain_proxy_form - Help Guide
 ## Purpose
 The `hoadomain_proxy_form` is designed to capture information about an event or scenario. It serves as a proxy for other systems or stakeholders to act upon.

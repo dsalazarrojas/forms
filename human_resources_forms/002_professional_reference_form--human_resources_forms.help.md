@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a job applicant's professional references, which will be used to evaluate their candidacy for a job opening. This form is meant to be completed by the applicant and will help the hiring team assess their professional relationships and experience. It's essential that the applicant provides accurate and honest information to ensure a thorough evaluation. Please fill out the form carefully and honestly.
-
-Before starting, ensure you haven't already provided a professional reference for this job application. If you have, please use that reference's details in this form instead of creating a new one.</thinking>
 # Professional Reference Form - Help Guide
 ## Purpose
 The Professional Reference Form is used to gather information about a job applicant's professional references, which will be used to evaluate their candidacy for a job opening.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to document the destruction of evidence in a secure and transparent manner. The form is intended for use by authorized personnel who need to report the disposal of evidence in a controlled environment. This form helps to track and record the destruction process, ensuring that all necessary details are captured accurately. The form is not intended to be used for general inquiries or public records, as the information collected is sensitive and subject to specific regulations and procedures. It is recommended that users verify the form's fields and instructions before proceeding to ensure compliance with applicable laws and regulations. This form should only be completed by authorized personnel, and any discrepancies should be addressed to the relevant authorities.
-
-</thinking>
-
 # Evidence Destruction Form - Help Guide
 ## Purpose
 This form is used to document the secure and transparent destruction of evidence in a controlled environment.

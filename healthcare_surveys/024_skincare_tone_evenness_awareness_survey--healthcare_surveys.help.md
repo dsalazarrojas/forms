@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Tone Evenness Awareness Survey - Help Guide
 
 ## Purpose

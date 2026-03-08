@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic information for patients undergoing a diabetes screening, such as blood glucose levels and body mass index (BMI). The form should only be completed by patients themselves or authorized healthcare professionals. It is not intended for non-patient-related purposes, such as administrative tasks.
-</thinking>
-
 # Diabetes Screening Form - Help Guide
 ## Purpose
 This form is designed to collect basic information for patients undergoing a diabetes screening.

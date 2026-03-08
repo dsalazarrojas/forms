@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect data about the distribution of the mpox (monkeypox) vaccine to survey recipients. The form is designed to gather information about the recipient's vaccination status, including whether they have been vaccinated, the date and location of vaccination, and the dose of the vaccine administered. This form is likely used by healthcare professionals to track and monitor the vaccination efforts.
-
-Before starting, please ensure that you have the required permissions to access and complete this form. This guide will walk you through each section of the form step-by-step.
-
-</thinking>
-
 # mpox_vaccine_distribution_survey - Help Guide
 
 ## Purpose

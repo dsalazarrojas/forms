@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for individuals to declare their health status for specific purposes, such as traveling, attending events, or visiting a healthcare facility. The form is meant to gather essential information about the individual, including their type of traveler, contact information, and health conditions. This form is not intended for general medical diagnosis or treatment.
-
-To ensure accurate and complete responses, please note that this form is not a substitute for professional medical advice. If you have any health concerns, please consult a medical professional.
-
-When completing this form, please answer honestly and accurately. Your responses will be used to assess your health status and ensure the safety of yourself and others.
-
-This form is intended for individuals who are 18 years or older. If you are under 18, please do not complete this form.
-
-Please ensure that you are completing the form for the correct purpose, such as travel or event attendance. Inaccurate or incomplete responses may lead to denial of entry or services.
-
-</thinking>
-
 # Health Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect health information from individuals for specific purposes, such as traveling, attending events, or visiting healthcare facilities.

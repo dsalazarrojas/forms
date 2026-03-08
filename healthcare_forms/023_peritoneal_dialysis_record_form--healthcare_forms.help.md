@@ -1,9 +1,3 @@
-<thinking>...
-
-A healthcare professional may be reading this form to gather information for patients undergoing peritoneal dialysis. This form should not be used to diagnose or provide treatment recommendations; it's primarily for recording and storing patient data for medical professionals. Ensure the form is not used as a substitute for a comprehensive medical evaluation or diagnosis.
-
-</thinking>
-
 # Peritoneal Dialysis Record Form - Help Guide
 ## Purpose
 The purpose of this form is to record and document patient data during peritoneal dialysis treatments. It helps healthcare professionals gather and track relevant information for patient care and treatment planning.

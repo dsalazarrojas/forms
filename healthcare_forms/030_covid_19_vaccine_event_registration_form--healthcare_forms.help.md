@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who are attending a COVID-19 vaccine event. The purpose of this form is to register attendees for the event, gather demographic and health information, and ensure that they understand the event details and their own vaccination status. This form will help the event organizers to better plan and manage the event, and to provide personalized support to the attendees.
-The form is divided into several sections: 
-- Attendee Information: This section collects the basic information of the attendee, such as name, email, and phone number.
-- Event Information: This section collects the event details, such as event name, date, and location.
-- Vaccination Status: This section inquires about the attendee's vaccination status, including the reason for attending and the type of vaccine they are interested in.
-- Demographics: This section gathers demographic information about the attendee, including age group, race or ethnicity, and language preference.
-- Health Information: This section inquires about the attendee's health conditions, allergies, and other relevant health-related information.
-- Accessibility: This section is for attendees who require special accommodations, such as wheelchair access or interpreters.
-</thinking>
-
 # COVID 19 Vaccine Event Registration Form - Help Guide
 ## Purpose
 

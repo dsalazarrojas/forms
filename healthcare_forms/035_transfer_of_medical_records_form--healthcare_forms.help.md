@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for transferring medical records between healthcare providers. The form is used for the purpose of sharing medical information between healthcare providers for better care and continuity of treatment. The form will likely be used in situations where a patient's healthcare provider needs to transfer medical records to another healthcare provider for continued care, or when a patient's care is being transferred to another provider due to an emergency or non-emergency situation. This form may be used in various healthcare settings, such as hospitals, clinics, and private practices. The form is likely used by healthcare providers to document the transfer of medical records, ensuring that patients receive consistent and quality care across different healthcare settings.
-
-</thinking>
-
 # Transfer of Medical Records Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the transfer of medical records between healthcare providers. This form will help ensure that patients receive seamless and continuous care by collecting the necessary information from both the transferring and receiving healthcare providers.

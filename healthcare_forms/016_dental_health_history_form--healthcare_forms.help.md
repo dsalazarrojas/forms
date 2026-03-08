@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient information and medical history for dental health purposes. It is intended to be used by healthcare professionals to gather essential data on a patient's medical history, allergies, dental history, and current medications. This form should not be used for any other purpose, and it is recommended to use it within the healthcare industry. The form is designed to be simple and easy to complete, with clear labels and instructions for each field.
-</thinking>
-
 # dental_health_history_form - Help Guide
 ## Purpose
 The dental health history form is designed to collect patient information and medical history for dental health purposes.

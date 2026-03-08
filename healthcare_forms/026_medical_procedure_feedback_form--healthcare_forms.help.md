@@ -1,25 +1,3 @@
-<thinking>
-The Medical Procedure Feedback Form is used by healthcare professionals to gather feedback from patients about their experiences with a medical procedure. This form helps in identifying areas of improvement and ensures that the quality of care provided is high. The form is a crucial tool for patient satisfaction surveys and helps in providing an objective view of the procedure's effectiveness.
-
-Before starting, please ensure that you are completing the form for the correct procedure and not a duplicate submission. If you are unsure, please contact the healthcare provider for clarification.
-
-The form is divided into sections, each with specific questions related to the patient's experience. Please answer the questions honestly and thoroughly to provide valuable feedback.
-
-To complete the form, follow the instructions below:
-
-1. Select the date the procedure was performed.
-2. Indicate if you were treated by a medical team (e.g., doctor, nurse, specialist) and provide their names if known.
-3. Rate your satisfaction with the medical procedure on a scale of 1-5.
-4. Provide any additional comments or feedback about the procedure.
-5. Indicate if you had any contact with the healthcare provider after the procedure.
-6. Indicate if you experienced any concerns during or after the procedure.
-7. Provide additional comments or feedback about your experience with the healthcare provider.
-8-22 are optional questions that ask for additional information and feedback.
-
-Please fill out the form carefully and accurately, as it will help us in providing better care for future patients.
-
-</thinking>
-
 # Medical Procedure Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their experiences with a medical procedure. The information collected will help healthcare providers in identifying areas for improvement and ensuring that the quality of care provided is high.

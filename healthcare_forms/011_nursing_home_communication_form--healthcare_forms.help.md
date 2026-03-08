@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a resident's healthcare and communication needs in a nursing home setting. 
-The form is meant to be completed by healthcare providers, possibly in conjunction with other team members, to provide a comprehensive overview of the resident's care requirements.
-It's essential to ensure that every necessary field is filled out accurately to avoid missing vital information.
-</thinking>
-
 # Nursing Home Communication Form - Help Guide
 ## Purpose
 The Nursing Home Communication Form is used to gather essential information about a resident's health care needs, ensuring that healthcare providers can provide the best possible care and support for them.

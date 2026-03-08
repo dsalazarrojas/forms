@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to book a stay at a dog boarding facility. The form gathers information about the customer, their dog's boarding requirements, and payment details. This form is a digital representation of a traditional boarding contract, making it easier for customers to provide their details and for the facility to process their booking.
-
-</thinking>
-
 # Dog Boarding Booking Form - Help Guide
 ## Purpose
 The Dog Boarding Booking Form is a digital form designed for customers to book a stay at a dog boarding facility. This form helps the facility gather necessary information from customers in an efficient and organized manner.

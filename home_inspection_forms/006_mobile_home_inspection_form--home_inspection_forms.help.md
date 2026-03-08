@@ -1,20 +1,3 @@
-<thinking>
-The Mobile Home Inspection Form is used to gather information about a mobile home's condition, sale price, and other relevant details. This form should not be used to collect sensitive or confidential information.
-
-Before filling out the form, please note that it is designed to be completed by the property owner or their representative. If you are not the property owner or authorized to provide information on their behalf, please do not proceed. Additionally, ensure that the information you provide is accurate and complete, as this will aid in a thorough inspection and evaluation of the property.
-
-Please complete the form carefully, taking note of the following:
-
-* The form is divided into several sections, each covering a specific aspect of the property's condition and features.
-* Most fields are optional, but you will be required to provide some basic contact information.
-* For multiple-choice options, select all that apply.
-* If a field is not relevant to your situation, it is okay to leave it blank.
-* If you have any additional comments or concerns, please include them in the "Additional Comments" field.
-
-Please complete the form accurately and thoroughly, and do not duplicate any information already provided in other sections.
-
-</thinking>
-
 # Mobile Home Inspection Form - Help Guide
 ## Purpose
 The Mobile Home Inspection Form is used to gather information about a mobile home's condition, sale price, and other relevant details. This form should not be used to collect sensitive or confidential information.

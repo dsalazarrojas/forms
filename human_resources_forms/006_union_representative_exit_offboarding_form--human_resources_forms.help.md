@@ -1,5 +1,3 @@
-<thinking>...this form is used to document the reason for a union representative's exit from the company, which is essential for HR and union representative management purposes. It is a required form for union representatives who are leaving the company. The form's purpose is to ensure that the union representative's exit is properly documented, which helps the company maintain accurate records and ensure a smooth transition for the next representative... </thinking>
-
 # Union Representative Exit Offboarding Form - Help Guide
 ## Purpose
 This form is used to document the reason for a union representative's exit from the company. It is a required form for union representatives who are leaving the company, and it helps HR and union representative management teams maintain accurate records and ensure a smooth transition for the next representative.

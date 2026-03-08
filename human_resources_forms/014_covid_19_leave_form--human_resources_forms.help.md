@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to assist employees in filling out the COVID 19 Leave Form. To ensure that this form is completed accurately and efficiently, it is essential to understand its purpose and requirements. 
-
-The COVID 19 Leave Form is designed to collect information from employees who need to take leave due to COVID-19 related reasons. This form helps to track and manage leave requests, ensuring that employees have the necessary documentation and arrangements for their leave, and that their work is covered while they are away. 
-
-Before starting this form, please note that the form is divided into several sections. Each section is designed to gather specific information related to the employee's leave request. 
-
-Please fill in the form carefully and accurately to ensure that your leave request is processed smoothly. 
-</thinking>
-
 # COVID 19 Leave Form - Help Guide
 ## Purpose
 The COVID 19 Leave Form is designed to collect information from employees who need to take leave due to COVID-19 related reasons. This form helps track and manage leave requests, ensuring that employees have the necessary documentation and arrangements for their leave, and that their work is covered while they are away.

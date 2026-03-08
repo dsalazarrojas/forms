@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a simple online booking form for a hostel or hotel, allowing users to book a room for a specific duration. The form is designed to be light and responsive, making it easy to use on various devices. I'm going to assume that the form is intended for users to provide their personal details, preferences, and requirements for their stay.
-</thinking>
-
 # Hostel Booking Form Light Coral And Responsive - Help Guide
 ## Purpose
 This form is designed for booking a room at a hostel or hotel. To complete this form, please follow the instructions below.

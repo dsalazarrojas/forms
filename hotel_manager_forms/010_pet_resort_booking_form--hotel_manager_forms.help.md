@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information about pet bookings at a resort.
-The form likely exists to manage bookings and related reservations at the pet resort.
-The form should not be used for other non-relevant purposes.
-</thinking>
-
 # Pet Resort Booking Form - Help Guide
 ## Purpose
 The Pet Resort Booking Form is a form used to book and manage pet reservations at a resort.

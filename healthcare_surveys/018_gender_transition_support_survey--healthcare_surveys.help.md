@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on an individual's gender transition support. It is meant to be completed by healthcare staff to gauge their level of support for patients undergoing gender transition, which is a sensitive and personal aspect of healthcare. It is essential to ensure that the healthcare staff is providing adequate support to these patients.
-</thinking>
-
 # Gender Transition Support Survey - Help Guide
 ## Purpose
 This form is used to collect feedback on an individual's gender transition support from healthcare staff. It is a survey designed to gauge the level of support provided to patients undergoing gender transition.

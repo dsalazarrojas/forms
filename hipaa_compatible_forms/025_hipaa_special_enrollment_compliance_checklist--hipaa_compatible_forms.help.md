@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a Hipaa Special Enrollment Compliance Checklist, designed to ensure that employees are properly enrolled in the program and meet all compliance requirements. This form helps track the status of employee enrollments, approvals, and revocations. It's essential to complete this form accurately and thoroughly to maintain compliance and avoid any potential issues.
-
-To avoid duplication and ensure accurate tracking, please fill out this form for each new or revised enrollment.
-
-</thinking>
-
 # Hipaa Special Enrollment Compliance Checklist - Help Guide
 ## Purpose
 The Hipaa Special Enrollment Compliance Checklist is used to track and verify employee enrollments, approvals, and revocations in the Hipaa program. It helps to ensure that all enrollments are properly documented and up-to-date.

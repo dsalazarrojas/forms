@@ -1,11 +1,3 @@
-<thinking>
-A possible use case for this form could be for tracking patient mental health metrics and monitoring their well-being. This form might be used in a clinical setting to gather data on patients' mental health status, symptoms, and medical history. The goal is to identify patterns and trends in patient data to inform treatment decisions and improve patient care. This form might also be used in research studies or academic settings to collect data on mental health metrics.
-
-The form has multiple pages, each with a different purpose: gathering client data, collecting mental health metrics, listing symptoms, recording medications, noting medical history, and selecting mental status options. The form asks for both single and multiple selections, indicating that it is designed for flexible and specific data collection.
-
-To avoid duplication of effort, we should ensure that the form is not used for purposes that are already covered by other forms or systems, and that it is designed to capture unique and valuable data that informs decision-making.
-</thinking>
-
 # mental_health_metrics_monitoring_form - Help Guide
 ## Purpose
 This form is designed to collect and track mental health metrics and data from patients or individuals. It is intended to monitor and analyze mental health status, symptoms, and medical history to inform treatment decisions and improve patient care.

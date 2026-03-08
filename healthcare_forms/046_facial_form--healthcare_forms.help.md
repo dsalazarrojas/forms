@@ -1,18 +1,3 @@
-<thinking>
-To provide a comprehensive user-facing help guide for the "Facial Form", we need to consider the purpose of the form and the specific fields it contains. The form appears to be designed for capturing patient information and medical history, which suggests its primary purpose is for medical professionals or facilities to collect and document relevant data for patient care and treatment. 
-
-Upon examining the form's fields, we notice that it includes various sections for:
-
-* Patient identification and contact information (First Name, Last Name, Email, Phone Number)
-* Medical history and treatment (Medical History, Birthdate, Time of Infection, Date of Infection, Test Results, Test Date)
-* Medical provider information (Medical Provider, Medical Provider Phone, Medical Record Number)
-* Signatures and confirmations (Doctor Signature, Patient Signature)
-
-This form appears to be used in a clinical setting, likely for patients with facial issues or concerns. The fields suggest that the form is intended to collect comprehensive information for diagnosis, treatment, and follow-up.
-
-To avoid duplication, it's essential to ensure that this form is not used for general patient intake or other purposes. Its primary use is likely for specific medical conditions or procedures, making it a specialized form for healthcare professionals.
-</thinking>
-
 # Facial Form - Help Guide
 ## Purpose
 The "Facial Form" is designed for medical professionals to collect and document patient information, especially for patients with facial issues or concerns. It captures crucial data for diagnosis, treatment, and follow-up purposes.

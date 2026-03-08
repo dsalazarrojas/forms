@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the acceptance and preferences of users regarding health gamification activities. It asks about their current use of health gamification, what motivates them, and what they think about its future implementation. The goal is to understand user attitudes towards health gamification and identify areas of improvement.
-</thinking>
-
 # Health Gamification Acceptance Survey - Help Guide
 ## Purpose
 This survey is a collection of questions that aim to understand your opinions and experiences with health gamification activities. Your input will help us improve the implementation and design of health gamification for your health care provider.

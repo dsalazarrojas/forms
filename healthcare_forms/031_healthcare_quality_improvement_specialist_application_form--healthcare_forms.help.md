@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a part of a larger system for tracking and evaluating applications for healthcare quality improvement specialists. It might be used to collect information from individuals interested in this position or for other internal purposes such as HR management. To avoid duplication, it's essential to verify that this form is not already being used for another application or purpose within the organization.</thinking>
-
 # healthcare_quality_improvement_specialist_application_form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for the position of Healthcare Quality Improvement Specialist. It's designed to gather essential details for the application process.

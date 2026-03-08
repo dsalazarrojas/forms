@@ -1,11 +1,3 @@
-<thinking>
-The Physician Note Absence Form is designed to capture information about a healthcare professional's absence from work or other activities. The form aims to provide a structured framework for recording the reason for absence, start and end dates (if applicable), and other relevant details such as the physician's note, medical cause, employer and institution notifications, and employee information. This form is likely used in a healthcare setting to facilitate communication and record-keeping for absences.
-
-Before starting the form, ensure you are not duplicating an existing record. If the absence has already been documented, there is no need to fill out this form again.
-
-Please read the following instructions carefully to ensure you complete the form correctly.
-</thinking>
-
 # Physician Note Absence Form - Help Guide
 ## Purpose
 This form is used to document a healthcare professional's absence from work or other activities, including the reason for the absence, start and end dates (if applicable), and other relevant details.

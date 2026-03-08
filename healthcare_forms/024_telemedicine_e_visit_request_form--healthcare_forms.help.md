@@ -1,11 +1,3 @@
-<thinking>
-
-The Telemedicine E Visit Request Form is designed to facilitate patients requesting virtual medical consultations with healthcare providers. This form is intended for patients to specify their preferred date and time for the visit, as well as choose between different types of visits (Telemedicine Visit, In-person Visit, or Phone Call) and select the type of healthcare professional they would like to meet with (Doctor, Specialist, or Nurse). 
-
-To avoid duplicating requests, we ask that patients only submit one form per visit request. If you have already submitted a request for the same type of visit and healthcare professional, please refrain from submitting another form.
-
-</thinking>
-
 # Telemedicine E Visit Request Form - Help Guide
 ## Purpose
 The Telemedicine E Visit Request Form is designed for patients to request virtual medical consultations with healthcare providers.

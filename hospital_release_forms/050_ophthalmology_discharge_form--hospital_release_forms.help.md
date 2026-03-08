@@ -1,8 +1,3 @@
-<thinking>
-The "Ophthalmology Discharge Form" is used for patients who are being discharged from an ophthalmology department after receiving medical treatment. This form helps medical staff to gather important information and instructions for the patient's continued care after discharge.
-Before starting, please ensure that this form is relevant to your specific situation and that you haven't used it previously. If you're unsure, contact the medical staff for guidance.
-</thinking>
-
 # Ophthalmology Discharge Form - Help Guide
 ## Purpose
 The Ophthalmology Discharge Form is used to document the patient's status and instructions upon discharge from the ophthalmology department. This form helps ensure that the patient receives proper care and attention after leaving the hospital.

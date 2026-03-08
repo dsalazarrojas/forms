@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees who are leaving the company or planning to start a new job. The purpose of this form is to record new employment data and provide information about the employee's transition. This form is not required for every employee, but it is recommended for employees who are leaving the company or taking a new job. The HR department reviews this form to ensure that the employee's transition is properly documented and to maintain an up-to-date employee database. Before filling out this form, please check if you have already filled out a previous version of this form. If you are filling this form to update your current employment data, please make sure to select "Yes" in the "new employee data" field. If you are unsure about the purpose or usage of this form, please consult with the HR department.
-</thinking>
-
 # Outside Employment Form - Help Guide
 ## Purpose
 The Outside Employment Form is used to collect information about employees who are leaving the company or taking a new job. This form helps the HR department to properly document the employee's transition and maintain an up-to-date employee database.

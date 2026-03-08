@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the health status and care of animals in a zoo. The goal is to ensure that animals receive proper care and attention, and that their health is monitored regularly. This form will help zoo staff track the health of animals, including their vital signs, health status, and any veterinary notes. To ensure accurate and comprehensive data, please only fill out this form for one animal at a time. Additionally, please note that if you have already filled out a form for this animal, there is no need to duplicate the effort as the data will be saved and updated automatically.
-</thinking>
-
 # Zoo Animal Health Monitoring Form - Help Guide
 ## Purpose
 The Zoo Animal Health Monitoring Form is designed to track the health status and care of animals in the zoo. This form is used to collect data on animal vital signs, health status, and veterinary notes.

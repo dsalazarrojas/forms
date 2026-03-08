@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data from kitchen staff members. This form should only be used to collect information on individual kitchen staff members' performance during their regular evaluations. Please ensure you only fill in the necessary fields as required.
-</thinking>
-
 # Kitchen Staff Evaluation Form - Help Guide
 ## Purpose
 The Kitchen Staff Evaluation Form is designed to gather feedback and evaluation data from kitchen staff members during their regular performance evaluations. This information will help the kitchen staff improve their skills, receive constructive feedback, and track their progress over time.

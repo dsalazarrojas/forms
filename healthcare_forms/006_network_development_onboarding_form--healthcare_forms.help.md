@@ -1,7 +1,3 @@
-<thinking>
-This form is for onboarding network development projects. It's likely used by project managers or administrators to create a new project in the network development category. The purpose of this form is to collect project details and assign them a status, priority, and other relevant information. This form is not intended for general project creation, but rather for specific network development projects. Please make sure to only use this form for network development projects to avoid duplication of effort or confusion.
-</thinking>
-
 # Network Development Onboarding Form - Help Guide
 ## Purpose
 This form is for onboarding network development projects. It's used to collect project details and assign them a status, priority, and other relevant information.

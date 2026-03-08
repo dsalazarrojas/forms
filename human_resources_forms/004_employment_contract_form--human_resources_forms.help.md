@@ -1,9 +1,3 @@
-<thinking>
-We are creating a help guide for the "Employment Contract Form" in the Human Resources department. This form is used to document the terms and conditions of employment for new hires. The form captures essential information about the employee, such as their name, contact details, job title, and contract term. It also includes fields for the employee's and company's signature, which is a critical component of the employment contract.
-To complete this form, the HR representative will need to review the fields carefully and ensure they are accurate and complete.
-The form consists of several sections, each with its own set of fields. We will break down each section and field below.
-</thinking>
-
 # Employment Contract Form - Help Guide
 ## Purpose
 The Employment Contract Form is a standardized document used to establish the terms and conditions of employment for new hires. This form captures essential information about the employee, including contact details, job title, and contract term.

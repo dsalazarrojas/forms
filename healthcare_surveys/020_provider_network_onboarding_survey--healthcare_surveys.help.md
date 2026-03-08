@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from healthcare providers for onboarding into our network. It's essential to ensure that all necessary information is accurate and up-to-date. Please complete the form carefully to avoid duplication. If you've already completed this form, please do not resubmit. The data collected here will be used to verify your provider network onboarding status.
-</thinking>
-
 # Provider Network Onboarding Survey - Help Guide
 ## Purpose
 This form is used to collect information from healthcare providers for onboarding into our network.

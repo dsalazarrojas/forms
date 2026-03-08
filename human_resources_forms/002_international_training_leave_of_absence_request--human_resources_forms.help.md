@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for International Training Leave of Absence Request purposes. To submit this form, ensure you have the necessary permissions and clearance to request training leave. Please note that duplicate or unnecessary requests may be rejected by the HR department.
-</thinking>
-
 # International Training Leave Of Absence Request - Help Guide
 
 ## Purpose

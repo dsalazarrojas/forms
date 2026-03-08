@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Mucus Less Tracking Form to ensure that end users understand its purpose and how to complete it accurately. The form is part of the "healthcare_forms" category, and its purpose is likely related to tracking patient information for healthcare providers. Let's assume the form is used for tracking patient mucus collection data, such as collection date, method, and amount collected. The form might also include fields for tracking medication taken, symptoms, and healthcare provider information for future reference. Our goal is to create a concise and practical help guide that explains each field and its significance to the user.
-
-</thinking>
-
 # Mucus Less Tracking Form - Help Guide
 ## Purpose
 The Mucus Less Tracking Form is designed to collect and track patient information for healthcare providers. It includes fields for mucus collection date, collection method, amount collected, symptoms, medication taken, and other relevant details. This form helps healthcare providers keep accurate records and track patient progress.

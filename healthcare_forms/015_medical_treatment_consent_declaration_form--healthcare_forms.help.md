@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Medical Treatment Consent Declaration Form - Help Guide
 
 ## Purpose

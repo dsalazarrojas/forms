@@ -1,10 +1,3 @@
-<thinking>
-We'll create a form that captures information about a referral to a hospitality service. This form is meant to collect data that will help us better understand the context and potential quality of a referral. The form has several fields that are meant to gather information from both the referrer and the referred person. 
-
-To avoid duplicate submissions, we'll be checking internally whether the referrer and the referred person have already submitted a referral for the same individual. We'll also check if the referred person already has an account or a previous referral submission.
-
-</thinking>
-
 # Hotel Referral Program Signup Form - Help Guide
 ## Purpose
 This form is used to submit a referral for a hotel stay. Please provide the following information to help us better understand your referral.

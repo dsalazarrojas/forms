@@ -1,7 +1,3 @@
-<thinking> 
-This form is used for creating a quote for hospice services. To fill out this form, the user should have all relevant patient information, service details, payment information, and contact details readily available. It's best to ensure that the patient's information is accurately filled out only once, reducing the need for duplication. Please fill in the required fields to create a comprehensive quote for the hospice services needed. 
-</thinking>
-
 # Hospice Service Quotation Form - Help Guide
 ## Purpose
 This form is used to collect information for creating a quote for hospice services. It gathers patient details, service specifics, payment information, and contact details necessary for the quote creation process.

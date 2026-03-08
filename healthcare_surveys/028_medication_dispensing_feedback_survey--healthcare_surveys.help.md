@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients about their experience with medication dispensing services. The form aims to gather information about the quality of care and services provided, including how clear communication was, whether medication was dispensed on time, and overall experience with the visit. This form will help us identify areas of improvement and better serve our patients in the future.
-
-</thinking>
-
 # medication_dispensing_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience with medication dispensing services.

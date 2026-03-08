@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a customer's stay at a hotel, including their personal details, stay information, and feedback about their experience. This form is used to collect data for internal analysis and improvement of hotel services. It's essential to complete this form accurately to ensure that the hotel staff can respond appropriately to customer concerns or requests. Please ensure that you are using this form for its intended purpose and not duplicating the process by submitting multiple responses.
-</thinking>
-
 # Hotel Response Form - Help Guide
 ## Purpose
 This form is designed to gather detailed information from customers about their stay at a hotel, including their personal details and feedback about their experience. The data collected will be used for internal analysis and improvement of hotel services.

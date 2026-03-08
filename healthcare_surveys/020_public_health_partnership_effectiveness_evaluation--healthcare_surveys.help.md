@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Public Health Partnership Effectiveness Evaluation - Help Guide
 
 ## Purpose

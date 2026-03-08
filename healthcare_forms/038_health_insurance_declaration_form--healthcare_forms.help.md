@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's insurance coverage. It is meant for internal use within a healthcare organization and is designed to be completed by patients or their representatives. It's a good idea to review this form carefully to ensure the information submitted is accurate and complete. It's possible that similar forms may exist within the organization, but this one is specifically designed to collect the necessary data for insurance coverage purposes.
-
-</thinking>
-
 # Health Insurance Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's insurance coverage. It's meant to be completed by patients or their representatives and will help the organization understand their insurance details.

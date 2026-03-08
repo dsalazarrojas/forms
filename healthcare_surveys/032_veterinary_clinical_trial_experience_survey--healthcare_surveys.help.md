@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand that the form is designed to gather information about clinical trials in the veterinary field. This form is crucial for collecting data about veterinary clinical trials, allowing us to track and analyze key aspects of these trials, such as their purpose, scope, and funding. The form is likely used for quality assurance, monitoring, or research purposes within the veterinary healthcare sector. Before proceeding, I will create a user-friendly help guide to ensure end-users understand the form's purpose, how to complete it, and what each field represents.</thinking>
-
 # Veterinary Clinical Trial Experience Survey - Help Guide
 ## Purpose
 The Veterinary Clinical Trial Experience Survey is designed to collect information about veterinary clinical trials, helping us to better understand their characteristics, scope, and funding sources. This data will aid in the quality assurance and monitoring of clinical trials in the veterinary healthcare sector.

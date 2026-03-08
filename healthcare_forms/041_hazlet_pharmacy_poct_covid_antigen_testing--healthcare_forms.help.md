@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended for the healthcare staff at HAZLET PHARMACY who need to fill out the POCT Covid Antigen Testing form for patients suspected of having COVID-19. This guide will walk you through the form's purpose, how to fill it out, and what each field represents.
-
-This form is used to gather information for the patient suspected of having COVID-19. It is designed to be completed by healthcare staff to gather patient information and determine the need for COVID-19 testing.
-
-Before starting, please ensure that you are using this form for the correct patient and purpose.
-
-</thinking>
-
 # HAZLET PHARMACY POCT Covid Antigen Testing - Help Guide
 ## Purpose
 The POCT Covid Antigen Testing form is used to gather information for patients suspected of having COVID-19. This form is designed to be completed by healthcare staff to determine the need for COVID-19 testing.

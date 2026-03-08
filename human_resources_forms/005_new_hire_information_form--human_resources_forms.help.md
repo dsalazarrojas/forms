@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about new hires within the organization, ensuring that all necessary details are captured accurately and efficiently. It is crucial to fill out the form thoroughly and accurately to avoid duplication or incomplete data entry.
-</thinking>
-
 # New Hire Information Form - Help Guide
 ## Purpose
 The New Hire Information Form is a comprehensive form designed to collect essential details about new hires, facilitating a smooth onboarding process and ensuring that all necessary information is captured accurately and efficiently.

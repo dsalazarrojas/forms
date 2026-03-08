@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to facilitate an HR investigation process, gathering information related to an employee's case. The form is not affiliated with any proprietary form platforms and is an original adaptation created using public survey topic metadata. This form was created by AI, using the title "HR Investigation Form" and the industry/category "human_resources" as inspiration.
-
-After reviewing the form's content, it appears to be a comprehensive template for HR investigations, covering various aspects of the process, from initial information collection to final outcomes. The form might be used internally within an organization to document and manage employee investigations.
-
-To confirm, the form seems to address the following topics:
-
-* Employee information and contact data
-* Details of the investigation, including start and end dates
-* Witness statements and their involvement
-* Investigation status, notes, and outcomes
-
-Please let me know if this meets your expectations. Otherwise, please clarify or provide additional context to further refine the guidance.
-
-</thinking>
-
 # HR Investigation Form - Help Guide
 ## Purpose
 This form is designed to gather information and document the process of an employee investigation.

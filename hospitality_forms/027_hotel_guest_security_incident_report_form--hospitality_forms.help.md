@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's review the provided YAML fields. It appears to be a form for reporting security incidents involving hotel guests. The form is designed to collect information about the incident, including the date it occurred, a description of the incident, and the outcome. The form also includes fields for additional information, such as the incident reporter's name, contact information, and category details. This form seems to be used for reporting and documenting incidents that require follow-up action or investigation.
-
-Before filling out the form, please ensure that you are not duplicating the reporting of an already reported incident. If you're not sure, double-check the incident status and category to avoid unnecessary work and duplication of effort.
-
-</thinking>
-
 # Hotel Guest Security Incident Report Form - Help Guide
 ## Purpose
 This form is used for reporting security incidents involving hotel guests. It helps to document and track incidents that require follow-up action or investigation.

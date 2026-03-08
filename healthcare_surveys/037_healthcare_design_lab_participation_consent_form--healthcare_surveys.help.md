@@ -1,9 +1,3 @@
-<thinking>
-
-This form is part of a larger project aimed at improving patient care and experience in healthcare settings. The purpose of this form is to gather relevant information from healthcare providers to help us understand how to better design and improve our healthcare services. Please ensure that the information provided is accurate and up-to-date to ensure the quality of our study. Note that this form is not for personal medical records, but rather for research purposes only. Please make sure to answer all required questions to avoid form submission errors.
-
-</thinking>
-
 # Healthcare Design Lab Participation Consent Form - Help Guide
 ## Purpose
 The Healthcare Design Lab Participation Consent Form is a survey designed to gather information from healthcare providers to improve patient care and experience. It is not intended for personal medical records but for research purposes only.

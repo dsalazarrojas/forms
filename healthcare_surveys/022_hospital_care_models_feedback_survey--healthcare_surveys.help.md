@@ -1,10 +1,6 @@
 # Hospital Care Models Feedback Survey - Help Guide
 
-### <thinking>
-This form is designed to gather feedback from healthcare professionals about their experience with hospital care models. The purpose of this form is to gather data to help improve hospital care models and patient experiences. To ensure the feedback is relevant and not redundant, please provide feedback for your experience with specific hospital care models. If you have already provided feedback on the same model, please do not submit another feedback form. This guide will walk you through each field of the form and explain what information is needed.
-</thinking>
-
-### How To Complete This Form
+### ### How To Complete This Form
 
 To complete this form, follow these steps:
 

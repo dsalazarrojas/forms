@@ -1,7 +1,3 @@
-<thinking>
-The form "mpox-vaccine-appointment-form" is designed for patients to provide information about their vaccination appointments, including personal details, vaccination preferences, and contact information. This guide will explain how to complete the form accurately and thoroughly.
-</thinking>
-
 # mpox-vaccine-appointment-form - Help Guide
 
 ## Purpose

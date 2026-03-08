@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information about an employee's dependents, including their name, type (e.g. spouse, child, etc.), date of birth, relationship status, employment status, income range, age, address, and other relevant details. The form is likely used by HR departments to update employee benefits or insurance information. To ensure accuracy, the form should only be completed once for each dependent.
-
-</thinking>
-
 # Dependents Addition Request Form - Help Guide
 ## Purpose
 The Dependents Addition Request Form is used to provide information about an employee's dependents, such as their name, type, and contact details. This form is typically completed by employees to update their HR records and ensure their benefits or insurance information is accurate.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to help crew members request family leave for various reasons, such as family emergencies, personal or family member health issues, or other family-related matters. This form will be reviewed by the production team and other relevant parties to ensure that all necessary arrangements are made for the crew member's absence.
-
-Before filling out the form, please ensure that you have reviewed and understand the production schedule and crew member roles to ensure a smooth transition of work.
-
-Please note that you do not need to fill out this form if you have already submitted one in the past. Check with your production manager if you are unsure whether you have already submitted a form.
-
-</thinking>
-
 # Film Production Family Leave Of Absence Form - Help Guide
 ## Purpose
 

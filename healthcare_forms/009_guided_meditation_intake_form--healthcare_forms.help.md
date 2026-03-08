@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guided Meditation Intake Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect patient demographic information for hospice care patients. The purpose of this form is to gather essential details about the patient, including their personal and medical history, to ensure proper care and treatment. 
-This form should only be completed by authorized personnel in a healthcare setting. Please ensure that you have the necessary permissions and clearance to access and complete this form.
-</thinking>
-
 # hospice_care_patient_demographics_form - Help Guide
 ## Purpose
 

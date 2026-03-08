@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assign tasks to employees, allowing them to report on their progress, availability, and deadline. Before filling this form, make sure you are assigning tasks that are not already assigned to the same employee. To ensure accuracy, review the task list for any potential conflicts. If you are unsure about any field, please ask the support team for clarification.
-</thinking>
-
 # Task Assignment Form - Help Guide
 
 ## Purpose

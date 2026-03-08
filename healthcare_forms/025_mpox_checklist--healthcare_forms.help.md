@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mpox Checklist - Help Guide
 
 ## Purpose

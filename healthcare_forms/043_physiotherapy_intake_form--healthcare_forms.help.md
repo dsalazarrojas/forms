@@ -1,16 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and fields are clearly understood by users, particularly in the healthcare context. This form is meant to collect essential information from patients for physiotherapy intake, which is a crucial aspect of their treatment and care. To avoid duplication of information and ensure the form's effectiveness, it's essential to carefully review and validate the data collected.
-
-We should consider the following:
-
-*   **Data quality**: The form should collect accurate and relevant information to support the treatment plan.
-*   **Patient engagement**: The form should be user-friendly and easy to understand to encourage patients to provide comprehensive information.
-*   **Data consistency**: The form should minimize data duplication and redundancy to avoid errors and inconsistencies.
-
-With these considerations in mind, let's create a helpful guide for the users.
-
-</thinking>
-
 # Physiotherapy Intake Form - Help Guide
 ## Purpose
 

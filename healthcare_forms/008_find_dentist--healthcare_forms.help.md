@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain the purpose of the "Find Dentist" form and provide step-by-step instructions on how to complete it, along with a detailed explanation of each field. The form appears to be designed to gather user information for a search or inquiry related to dentists or dental services. It is likely intended for use in a healthcare or medical context, possibly for booking an appointment or finding a dentist in a specific area.
-</thinking>
-
 # Find Dentist - Help Guide
 ## Purpose
 The "Find Dentist" form is designed to collect user information to search or inquire about dental services. This form helps the user to provide details such as name, contact information, and other relevant details that are required to find a suitable dentist or to make an inquiry about a particular dental service.

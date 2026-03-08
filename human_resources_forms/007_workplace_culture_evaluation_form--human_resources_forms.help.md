@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Workplace Culture Evaluation Form", I first need to understand the form's purpose, which seems to be to collect information from employees. The form appears to be used for some sort of employee evaluation or survey. Given the fields provided, it seems to be collecting demographic information (employee name, department, job title, work location, etc.) as well as feedback and suggestions. I'm assuming the form is meant to be completed by employees themselves, possibly as part of a larger organizational effort to evaluate and improve workplace culture.
-
-I will proceed to create the guide based on this understanding, without duplicating information and trying to stay concise and practical.
-
-</thinking>
-
 # Workplace Culture Evaluation Form - Help Guide
 ## Purpose
 The Workplace Culture Evaluation Form is designed to collect information from employees to help evaluate and improve workplace culture. Please take a few minutes to complete this form to share your thoughts and experiences.

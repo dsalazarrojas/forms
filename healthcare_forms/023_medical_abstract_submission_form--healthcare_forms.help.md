@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to submit medical abstracts for presentation and equipment needs. It is likely used for academic or professional purposes within the healthcare industry. To ensure that the form is filled out correctly, review each field carefully and only fill out the information that is relevant to your submission. Please note that the form is not a duplicate, and you should not fill out this form if you have already submitted an abstract or equipment needs in the past.
-</thinking>
-
 # medical_abstract_submission_form - Help Guide
 ## Purpose
 This form is used to submit medical abstracts and presentation equipment needs for review and consideration.

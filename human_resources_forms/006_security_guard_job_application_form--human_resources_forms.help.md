@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants who are interested in working as security guards. The form is meant to gather detailed contact information, work experience, language skills, medical clearances, and other relevant details about the applicant. This information will be used to evaluate the applicant's suitability for the security guard position. Please ensure that you fill out the form with accurate and up-to-date information.
-</thinking>
 # Security Guard Job Application Form - Help Guide
 
 ## Purpose

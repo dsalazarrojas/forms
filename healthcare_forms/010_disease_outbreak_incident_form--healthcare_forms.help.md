@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before creating this form, let's first understand its purpose and ensure that we don't create a duplicated effort. The "Disease Outbreak Incident Form" is designed to collect information about reported cases of disease outbreaks. It is intended to be used by healthcare professionals to document incidents of diseases such as common cold, influenza, and pneumonia. This form aims to gather essential details about the incident, including patient information, disease type, location, and the status of the outbreak. This information will be crucial for healthcare providers to track and manage outbreaks effectively.
 
 </thinking>

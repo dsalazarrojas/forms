@@ -1,5 +1,3 @@
-<thinking>As the form designer, I understand that the purpose of this form is to collect relevant information about a patient referred to home health services. This form helps healthcare professionals gather essential details to ensure smooth referrals. To prevent duplication, this form should only be used for new referrals, not for rescheduling or updating existing information.</thinking>
-
 # Home Health Referral Form - Help Guide
 ## Purpose
 The Home Health Referral Form is designed to collect and document patient information and referral details for home health services. This form helps healthcare professionals gather essential information to ensure a smooth referral process.

@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the Hospice Care Discharge Form. I will use the provided YAML fields to understand the form's purpose, how to complete it, and what each field means. I will output the final help document in Markdown format...</thinking>
-
 # Hospice Care Discharge Form - Help Guide
 ## Purpose
 The Hospice Care Discharge Form is used to document the discharge process of a patient from a hospice care setting. This form ensures that all necessary information is collected and communicated effectively to facilitate a smooth transition of care.

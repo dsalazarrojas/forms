@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about healthcare services transfer from patients to other facilities. The form is intended to gather data on the patient's transfer status, reason for transfer, type of transfer, facility information, and other relevant details. The form will help healthcare professionals to track and record patient transfers efficiently. Before proceeding, please ensure that this form does not already exist in your organization and that you have the necessary permissions and authority to use it.
-</thinking>
-
 # Healthcare Service Transfer Survey - Help Guide
 ## Purpose
 The Healthcare Service Transfer Survey is designed to gather essential information about healthcare services transfer from patients to other facilities. This form is meant to help healthcare professionals track and record patient transfers accurately and efficiently.

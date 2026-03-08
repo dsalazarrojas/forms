@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # internal_mentorship_assignment_request_form - Help Guide
 ## Purpose
 The Internal Mentorship Assignment Request Form is designed to request the creation of a mentorship relationship between an employee and their supervisor. This form is used to facilitate the pairing of employees with mentors, allowing for guidance, support, and development opportunities. It is crucial to ensure that the provided information is accurate and complete for a successful mentorship relationship.

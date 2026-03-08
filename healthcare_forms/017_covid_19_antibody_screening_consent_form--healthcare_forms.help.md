@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the COVID 19 Antibody Screening Consent Form, I need to understand its purpose and relevance. This form is used for COVID-19 antibody screening, which is a test to detect the presence of antibodies to the SARS-CoV-2 virus in a patient's blood. This form aims to ensure that patients understand the purpose and process of the test, as well as the implications of the test results. It also requires patient consent for the test and the potential use of their sample for future testing or research. 
-
-The form includes various fields to gather information about the patient, including their name, date of birth, ID number, email address, phone number, date of the test, type of test, and informed consent status. The form also includes fields for consent and other relevant information, such as the implications of positive or negative test results, sample collection, storage, and notification.
-
-Before filling out this form, please make sure you have read and understood the information provided. If you have any questions or concerns, please do not hesitate to ask your healthcare provider.
-
-</thinking>
-
 # COVID 19 Antibody Screening Consent Form - Help Guide
 ## Purpose
 The COVID-19 antibody screening form is used to gather information about you and your medical history to perform the COVID-19 antibody test. This form is required for you to provide informed consent for the test.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the user's knowledge on RSV (Respiratory Syncytial Virus) prevention methods, symptoms, and transmission.
-
-To avoid duplication, the form will not be completed if the user has already completed it.
-
-The user is expected to answer a series of multiple-choice and text questions.
-
-This form is intended to be completed by healthcare professionals or individuals who want to learn about RSV prevention.
-
-The form will be used for educational purposes only, and the results will not be used for any administrative or clinical purposes.
-</thinking>
-
 # RSV Prevention Knowledge Quiz - Help Guide
 ## Purpose
 The RSV Prevention Knowledge Quiz is a set of questions designed to test your knowledge on RSV prevention methods, symptoms, and transmission.

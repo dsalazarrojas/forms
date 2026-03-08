@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to assess the presence and severity of various symptoms that may be indicative of mental health conditions such as depression, anxiety, and other psychiatric disorders. The form is designed to help clinicians or healthcare professionals evaluate an individual's mental state and provide a comprehensive picture of their overall well-being.
-
-Before proceeding, ensure that you have a clear understanding of the form's purpose and the context in which it is being used. This form is not intended to be a definitive diagnostic tool but rather a guide for further evaluation and treatment.
-
-To complete this form, please read each question carefully and answer honestly. You may also refer to your healthcare provider for further guidance or clarification.
-
-</thinking>
-
 # DSM 5 Level 1 Cross Cutting Symptom Measure Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the presence and severity of various symptoms that may be indicative of mental health conditions such as depression, anxiety, and other psychiatric disorders.

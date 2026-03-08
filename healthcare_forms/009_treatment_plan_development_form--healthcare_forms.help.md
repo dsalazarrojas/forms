@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help healthcare professionals collect and document essential information for developing a treatment plan tailored to a patient's needs. The form guides users through a series of questions and fields to ensure that all necessary details are gathered. It is recommended to complete the form carefully and accurately to avoid any duplication or omission of critical information. This form is an original adaptation and does not copy or extract content from any existing form platforms.
-</thinking>
-
 # Treatment Plan Development Form - Help Guide
 ## Purpose
 This form is intended for healthcare professionals to collect and document essential information for developing a treatment plan for patients.

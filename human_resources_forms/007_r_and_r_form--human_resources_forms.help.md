@@ -1,19 +1,3 @@
-<thinking>
-The "R and R Form" is used to record and track employee achievements and recognition within an organization. This form is designed to collect information about employee accomplishments, such as awards, recognition, and status changes. The form is typically completed by a manager or HR representative and is used to ensure that employee achievements are properly documented and recognized.
-
-Before filling out this form, ensure that you are authorized to complete the form for the relevant employee and that the information is accurate and up-to-date.
-
-The following fields are required to be filled out for proper form submission:
-
-* Employee Name
-* Achievement Description
-* Awarding Manager Name
-* Awarding Manager Title
-* Manager Title
-
-Please note that this form should not be used for other purposes than what it is intended for.
-</thinking>
-
 # R and R Form - Help Guide
 
 ## Purpose

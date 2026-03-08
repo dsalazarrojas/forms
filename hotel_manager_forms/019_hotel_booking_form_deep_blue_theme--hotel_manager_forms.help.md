@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to be a hotel booking form with a deep blue theme. The form is used to collect information from users for booking purposes. This form will be used to gather data that will be stored in the system and used for various administrative tasks.</thinking>
-
 # Hotel Booking Form Deep Blue Theme - Help Guide
 ## Purpose
 The Hotel Booking Form Deep Blue Theme is a form designed to collect information from users for booking purposes. The form is meant to be used to gather data that will be stored in the system and used for various administrative tasks.

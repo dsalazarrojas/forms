@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance 2020 - Help Guide
 
 ## Purpose

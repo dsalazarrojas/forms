@@ -1,7 +1,3 @@
-<thinking>... (Internal reasoning block: This form is for requesting approval and verification of an employee's absence. To ensure accuracy, please review the following help guide for guidance on how to complete the form and understand each field's purpose.)
-
-</thinking>
-
 # request_for_approval_and_verification_of_absence - Help Guide
 ## Purpose
 

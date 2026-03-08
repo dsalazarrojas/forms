@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, this form is used to create a comprehensive treatment plan for patients. Each field is carefully designed to gather relevant information that is essential for effective patient care. Before filling out this form, please ensure that you are familiar with the patient's medical history and current treatment status. This form can be completed by patients, healthcare providers, or authorized personnel. Please note that some fields may require additional clarification or verification, and it's essential to maintain confidentiality and data integrity throughout the process.</thinking>
-
 # Dental Treatment Plan Form - Help Guide
 ## Purpose
 The Dental Treatment Plan Form is a crucial document used to outline a patient's dental treatment plan, ensuring that all necessary information is recorded and communicated among healthcare providers. This form is used to gather information about the patient, their medical condition, and the treatment plan, facilitating effective care and coordination among healthcare professionals.

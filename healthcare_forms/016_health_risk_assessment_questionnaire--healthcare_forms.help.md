@@ -1,11 +1,3 @@
-<thinking>
-This form is a part of the healthcare system used for assessing a patient's health risk. 
-It's essential to ensure that the form is completed accurately and thoroughly. 
-To confirm that the form is relevant to the user's needs, please answer the following questions: 
-1. Are you a healthcare professional or a patient? 
-2. If you are a patient, what is your healthcare concern or purpose for filling out this form? 
-</thinking>
-
 # health_risk_assessment_questionnaire - Help Guide
 ## Purpose
 This form is used to assess a patient's health risk factors, including their medical history, allergies, and current health status. It is intended to be completed by a healthcare professional for accurate and thorough evaluation of the patient's condition.

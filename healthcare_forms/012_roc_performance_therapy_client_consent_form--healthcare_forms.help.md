@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the "roc_performance_therapy_client_consent_form" form. This form is designed to collect information from patients, specifically their consent to participate in ROC (Respiratory and Occupational Consultation) therapy. The form is intended for patients who are seeking to improve their respiratory and/or occupational performance. I'll ensure that the guide is clear, concise, and practical, explaining each field and its purpose in simple language.</thinking>
-
 # roc_performance_therapy_client_consent_form - Help Guide
 ## Purpose
 

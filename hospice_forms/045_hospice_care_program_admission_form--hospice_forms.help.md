@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Hospice Care Program Admission Form" that explains its purpose, how to complete it, and what each field means. I will base my explanation on the provided YAML fields and aim to be concrete, concise, and practical. I will also make sure to explain unclear field labels best-effort without inventing unsupported business logic.</thinking>
-
 # Hospice Care Program Admission Form - Help Guide
 ## Purpose
 

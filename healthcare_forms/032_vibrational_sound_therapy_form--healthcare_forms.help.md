@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to collect information for vibrational sound therapy sessions. It requires the patient's ID, name, email, phone number, session details (date, start and end times, duration), and notes from the clinician and patient. The form also captures information about the session location, assigned clinician, and tool used. The submitted date and time are also captured. Each field is essential for accurate documentation and follow-up procedures. It's crucial that users understand the purpose and requirements to fill out the form correctly.</thinking>
-
 # Vibrational Sound Therapy Form - Help Guide
 
 ## Purpose

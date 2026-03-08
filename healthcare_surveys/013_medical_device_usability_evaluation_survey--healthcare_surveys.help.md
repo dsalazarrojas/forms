@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback on the usability of medical devices, aiming to gather information on how easy or difficult it is to use these devices, areas where improvement is needed, and user behavior such as frequency of use and suggestions for improvement.
-
-Before proceeding, please verify that this form is relevant to your needs and not a duplicate of an existing survey.
-
-</thinking>
-
 # Medical Device Usability Evaluation Survey - Help Guide
 ## Purpose
 The Medical Device Usability Evaluation Survey is designed to gather feedback on the ease of use and usability of medical devices. The form aims to collect information on how easy or difficult it is to use these devices, areas where improvement is needed, and user behavior such as frequency of use and suggestions for improvement.

@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, let's make sure the form is correctly understood by our team and users. The form is for assessing a patient's brain fitness score based on various cognitive and physical domains. It includes sections for patient information, cognitive scores, medical history, lifestyle habits, and recommendations.
-
-We will need to review the form's purpose, fields, and any potential dependencies between them to avoid duplication and redundancy. This will ensure that the end user understands what information to input and how it's going to be used.</thinking>
-
 # Brain Fitness Score Template - Help Guide
 ## Purpose
 The Brain Fitness Score Template is a tool used to evaluate a patient's brain fitness based on various cognitive and physical domains. This form collects information about the patient's cognitive scores, medical history, lifestyle habits, and recommendations for improvement.

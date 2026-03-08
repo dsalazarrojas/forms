@@ -1,5 +1,3 @@
-<thinking>...The form is designed to provide a structured format for healthcare professionals to document patient progress notes in a standardized and concise manner. This form aims to ensure that essential information is captured consistently and efficiently, facilitating better patient care and communication. The form is not intended to be a replacement for comprehensive medical records, but rather a supplement to support documentation and decision-making processes...</thinking>
-
 # Patient Progress Notes Form - Help Guide
 ## Purpose
 The Patient Progress Notes Form is designed to provide a structured format for healthcare professionals to document patient progress notes, ensuring that essential information is captured consistently and efficiently. This form is a supplement to comprehensive medical records, supporting better patient care and decision-making processes.

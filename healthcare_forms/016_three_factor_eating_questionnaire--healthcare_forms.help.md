@@ -1,7 +1,3 @@
-<thinking>
-This is a form for assessing an individual's eating habits and frequency, as well as their goals and preferences. The form is designed to gather information on the patient's eating habits, including their eating frequency, food groups, and goals. It also captures information about the healthcare provider's details, including their name, email, and phone number. The form is intended to be filled out by the patient, with the option to provide additional healthcare provider information. Note that the form has multiple pages and multiple instances of the same field types, which may indicate that this form is used for a specific use case or population. To confirm, please review the fields and the context in which this form is used. 
-</thinking>
-
 # Three Factor Eating Questionnaire - Help Guide
 ## Purpose
 The Three Factor Eating Questionnaire is a form designed to assess an individual's eating habits and frequency, as well as their goals and preferences.

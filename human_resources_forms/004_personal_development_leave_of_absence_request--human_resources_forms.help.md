@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is intended to support employees in requesting a personal development leave of absence. The purpose of this form is to facilitate the process of requesting time off for personal development, ensuring that the employee's supervisor can review and approve or deny the request. This form is typically used for employees who need to take leave for personal reasons such as education, training, or other personal activities.
-
-Before filling out this form, please ensure that you have already discussed your leave request with your manager or supervisor to get their approval and approval code. 
-
-</thinking>
-
 # Personal Development Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used by employees to request a personal development leave of absence for a specific period of time. It is meant to be filled out by the employee and submitted to their supervisor for review and approval.

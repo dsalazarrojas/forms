@@ -1,6 +1,3 @@
-<thinking>
-Stripe ACH Hotel Reservation Form is designed to collect information about a hotel reservation, specifically for the purpose of handling payment via the Automated Clearing House (ACH) network. This form is intended for use within the hotel management system, and its primary goal is to facilitate payment processing for guests. The form's design is meant to be simple and straightforward, with clear labels and minimal unnecessary fields. However, due to the complexity of the provided YAML structure, the form appears to be redundant, with multiple fields sharing the same name and label. In this guide, we will focus on the essential fields and provide guidance on how to complete the form correctly.</thinking>
-
 # Stripe ACH Hotel Reservation Form - Help Guide
 ## Purpose
 The Stripe ACH Hotel Reservation Form is a simple form designed to collect essential information about a hotel reservation for payment processing via the ACH network.

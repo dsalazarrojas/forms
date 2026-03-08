@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Blood Pressure Calculator" form, we need to understand the form's purpose, how to complete it, and what each field means. The form appears to be designed for healthcare professionals to assess a patient's blood pressure reading and gather relevant information for further diagnosis or treatment.
-
-The form has multiple pages, but the main page is the "calculator_intro" page with a note that explains the form's purpose: to calculate and understand a blood pressure reading. The subsequent pages gather various patient information, including name, date of birth, date and time of reading, systolic and diastolic pressure, and pulse rate. The form also includes fields for other relevant factors such as where and how the reading was taken, any recent activity, caffeine intake, stress level, medications taken, symptoms, and additional notes. Each field has a specific label, hint, and type to guide the user on what information is expected.
-
-The form seems to be designed for healthcare professionals to quickly and efficiently gather necessary information for patient assessments. However, it may also be useful for patients to self-report their blood pressure readings and symptoms.
-
-The form's fields are well-structured and logical, making it easy to understand and use. Each field is labeled clearly, and the options for select_one fields are limited to relevant and straightforward choices.
-
-</thinking>
-
 # Blood Pressure Calculator - Help Guide
 ## Purpose
 The Blood Pressure Calculator is a form designed to help healthcare professionals quickly and accurately assess a patient's blood pressure reading and gather relevant information for further diagnosis or treatment. This form is intended for healthcare professionals, but may also be used by patients to self-report their blood pressure readings and symptoms.

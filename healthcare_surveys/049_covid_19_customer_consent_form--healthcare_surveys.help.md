@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers visiting a healthcare facility during the COVID-19 pandemic. The purpose of this form is to assess the customer's health status, understand their purpose of visit, and ensure they are aware of the facility's safety protocols and procedures. The form also requires customers to acknowledge their understanding of COVID-19 risks and agree to follow safety guidelines. By completing this form, customers can help the facility provide a safe and healthy environment for everyone.
-
-</thinking>
-
 # COVID 19 Customer Consent Form - Help Guide
 ## Purpose
 The COVID 19 Customer Consent Form is a mandatory form that must be completed by customers visiting a healthcare facility during the pandemic. This form helps the facility assess the customer's health status, understand their purpose of visit, and ensure they are aware of and agree to follow safety protocols and guidelines.

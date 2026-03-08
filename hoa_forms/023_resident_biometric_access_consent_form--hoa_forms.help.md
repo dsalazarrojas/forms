@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect biometric access consent information from residents, presumably for the purpose of enabling secure and safe access to various biometric authentication methods (e.g., Face ID, Iris Scanner, Fingerprint Reader, and Retina Scanner). The form's design allows users to select which biometric access type they consent to use and provide a signature as proof of their consent, along with the date of signature. This form may be used in healthcare settings, educational institutions, or other areas where biometric access is necessary for secure and efficient operations.
-
-</thinking>
-
 # resident_biometric_access_consent_form - Help Guide
 ## Purpose
 This form collects biometric access consent from residents. Users can choose which biometric access type (Face ID, Iris Scanner, Fingerprint Reader, Retina Scanner) they consent to use and submit their signature and date of signature.

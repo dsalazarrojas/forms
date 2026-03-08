@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather user feedback and evaluations on the Precision Healthcare Technology Study Evaluation Form. This form is designed to capture the user's experience and opinions on the technology, including its ease of use, features, impact on work life, productivity, happiness, and overall experience. This information will help the developers and researchers to improve the technology and make it more user-friendly.
-Please ensure that you fill out this form only once you have had sufficient experience with the technology to provide a comprehensive evaluation.
-</thinking>
-
 # Precision Healthcare Technology Study Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback and evaluations on the Precision Healthcare Technology.

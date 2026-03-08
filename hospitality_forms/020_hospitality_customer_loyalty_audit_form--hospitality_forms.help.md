@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather data for auditing customer loyalty programs in the hospitality industry. This form is likely used for internal tracking and analysis purposes. It's possible that this form is used to assess the effectiveness of loyalty programs at individual properties, track customer engagement, and identify areas for improvement. However, the exact purpose and usage of this form may vary depending on the organization's specific needs and goals.
-</thinking>
-
 # Hospitality Customer Loyalty Audit Form - Help Guide
 ## Purpose
 This form is used to collect information about a hospitality customer loyalty program for auditing and analysis purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Counseling Experience Survey - Help Guide
 ## Purpose
 The Virtual Counseling Experience Survey is a form designed to collect feedback and satisfaction ratings from users who have participated in virtual counseling sessions. The survey aims to understand the overall experience and identify areas of improvement for future sessions.

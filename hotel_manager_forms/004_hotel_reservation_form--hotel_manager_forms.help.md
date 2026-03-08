@@ -1,9 +1,3 @@
-<thinking>
-
-To create a helpful user guide for the "Hotel Reservation Form", we first need to clarify the form's purpose and ensure that it's not duplicating any existing functionality. The "Hotel Reservation Form" is a tool for hotel staff to collect necessary information from guests to manage their stay and accommodations efficiently. Its purpose is to provide a structured way to input and store data about room reservations, ensuring that essential details are collected and processed correctly. This form aims to replace any manual or ad-hoc systems that may be in place and provide a more systematic approach to handling reservations.
-
-</thinking>
-
 # Hotel Reservation Form - Help Guide
 ## Purpose
 The Hotel Reservation Form is a tool designed to collect and process essential information from guests about their stay at the hotel. It is meant to streamline the reservation process, ensuring that all necessary details are collected and stored correctly, replacing any manual or ad-hoc systems that may be in place.

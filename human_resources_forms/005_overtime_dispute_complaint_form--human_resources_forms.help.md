@@ -1,5 +1,3 @@
-<thinking>...This form is a complaint form for employees to file a dispute regarding their overtime work hours. The form is used to report any issues or discrepancies that may have occurred during the overtime hours worked, which can be due to various reasons such as incorrect calculation, lack of notice, or other work-related disputes. This form will help the HR department to investigate and resolve the dispute efficiently. Please ensure that you have not already submitted a complaint for the same issue before, and that you are submitting this form for a genuine reason related to overtime work. This form should only be completed by employees who have experienced overtime work hour disputes that need to be addressed...</thinking>
-
 # Overtime Dispute Complaint Form - Help Guide
 
 ## Purpose

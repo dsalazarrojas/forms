@@ -1,6 +1,3 @@
-<thinking>**Internal reasoning:**
-This form is designed for healthcare professionals to collect information about the overall health of patients or clients. The form is intended to capture the health status and any existing health challenges or issues. The "health_status" field is a select field where the user can choose between "Active" and "Inactive" status. The "health_challenges" field is a multi-select field where the user can choose multiple challenges from a list of options. The form is not required to be completed in any specific order, but it's assumed that the user will fill in the "section" fields first, followed by the "health status" and "health challenges" fields. The form is meant to be completed by one person at a time, not by multiple users in parallel.</thinking>
-
 # health_challenges_survey - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals collect information about the overall health of patients or clients. It aims to gather their health status and any existing health challenges or issues.

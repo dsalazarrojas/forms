@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect healthcare-related information from patients. The purpose of this form is to gather essential details about a patient's medical history, medical conditions, allergies, medications, and other relevant health information. This form is intended for use in healthcare settings, such as medical offices, clinics, or hospitals.
-
-Before proceeding, please ensure that you have the necessary permissions to collect and process this information, and that you have taken the necessary steps to maintain patient confidentiality and data security.
-
-Also, be aware that this form is an AI-generated adaptation of a public survey topic, and its content may not be comprehensive or up-to-date. You should always verify the information provided by the patient and consult with medical professionals whenever necessary.
-
-</thinking>
-
 # healthcare_communication_form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The Pregnancy Checklist form is a crucial tool for healthcare professionals to gather essential information about an expectant parent and their pregnancy status. This form is designed to capture details such as the expectant parent's contact info, pregnancy duration, and due date. The primary goal of this form is to ensure accurate and consistent data collection for healthcare providers to make informed decisions regarding prenatal care and postpartum support.
-</thinking>
-
 # Pregnancy Checklist - Help Guide
 ## Purpose
 The Pregnancy Checklist form is a healthcare tool for capturing essential information about an expectant parent and their pregnancy status. This form helps healthcare providers gather accurate and consistent data to inform decisions regarding prenatal care and postpartum support.

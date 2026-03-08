@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supplemental_health_questionnaire - Help Guide
 ## Purpose
 The **supplemental_health_questionnaire** form is designed to gather information about a patient's health and travel history, contact with infected individuals, symptoms, and risk factors related to their medical condition. This form helps healthcare professionals assess the patient's situation and provide personalized guidance and care.

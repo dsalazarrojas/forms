@@ -1,14 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Employee Daily Health Screening Checklist" form, I will follow these steps:
-
-1. Determine the form's purpose: The form is designed to help employees report any health concerns they may be experiencing, ensuring they can identify potential health issues and take necessary precautions to prevent the spread of illness.
-2. Identify the form's fields: The form consists of 18 questions, each asking about a specific health concern or condition.
-3. Create a clear and concise explanation for each field: I will use the field label as a starting point and add additional information as needed to ensure users understand the question being asked.
-4. Organize the explanations in a clear and easy-to-read format.
-
-</thinking>
-
 # Employee Daily Health Screening Checklist - Help Guide
 ## Purpose
 The "Employee Daily Health Screening Checklist" is a form used to help identify potential health concerns and prevent the spread of illness in the workplace.

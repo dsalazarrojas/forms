@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess a user's knowledge and understanding of disaster preparedness and readiness, specifically in the context of emergency response and disaster management. The form is intended to gauge the user's ability to identify and prioritize key aspects of disaster preparedness, including emergency readiness, customization, and online form features. The questions are designed to be relevant and applicable to various disaster scenarios, ensuring that the user's knowledge and skills are up-to-date and effective.
-
-Before proceeding, please ensure that the form is relevant to your current situation and goals. If you have already taken this form, please review and update your responses if necessary.
-
-Please note that some questions may have multiple options, and you should choose the one that best reflects your current understanding or situation.
-</thinking>
-
 # Disaster Preparedness Knowledge Survey - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and understanding of disaster preparedness and readiness, specifically in the context of emergency response and disaster management.

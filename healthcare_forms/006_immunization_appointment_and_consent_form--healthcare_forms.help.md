@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and consent from patients or their parents/guardians for immunizations. The form will likely be used by healthcare professionals to schedule and administer vaccines to patients. The form should only be completed by a patient or their parent/guardian who has provided consent for the vaccine administration. To prevent duplication, it's essential to ensure that each form is completed only once per patient.
-</thinking>
-
 # Immunization-Appointment-and-Consent-Form - Help Guide
 ## Purpose
 The Immunization-Appointment-and-Consent-Form is used to gather information and consent from patients or their parents/guardians for immunizations. This form helps healthcare professionals schedule and administer vaccines to patients.

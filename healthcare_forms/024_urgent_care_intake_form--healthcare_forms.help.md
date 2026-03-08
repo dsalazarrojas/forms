@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to gather essential information from patients visiting an urgent care center for immediate medical attention. This form is designed to be completed by patients or their representatives in a quick and efficient manner, ensuring that the healthcare professionals at the urgent care center have the necessary details to provide effective treatment. Before proceeding, please ensure that you have not completed this form previously, as it is intended for use in each individual visit. If you have any concerns or questions, please contact the urgent care center directly for assistance...</thinking>
-
 # Urgent Care Intake Form - Help Guide
 ## Purpose
 The Urgent Care Intake Form is designed to gather necessary information from patients visiting an urgent care center for immediate medical attention. This form helps healthcare professionals provide efficient and effective treatment by collecting essential details about the patient.

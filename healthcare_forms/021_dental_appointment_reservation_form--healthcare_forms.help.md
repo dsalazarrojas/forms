@@ -1,11 +1,3 @@
-<thinking>
-This guide assumes that the form is used to create or update dental appointment reservations in a healthcare setting. It is likely used by patients or their representatives to provide necessary information about their appointment. The form is designed to be filled out by patients or their representatives, with the goal of scheduling an appointment with a doctor or dentist. The form's fields include information about the patient, the appointment details, payment methods, and appointment status.
-
-Before filling out this form, ensure that you are providing accurate and complete information to ensure that your appointment is scheduled correctly and that you are properly invoiced for services.
-
-This guide will walk you through the process of filling out each section of the form, and provide explanations for each field to help you understand what information is required and how it will be used.
-</thinking>
-
 # Dental Appointment Reservation Form - Help Guide
 ## Purpose
 This form is designed to help patients or their representatives schedule dental appointments with available doctors. It is used to provide necessary information about the appointment, including patient details, appointment time and date, and payment methods.

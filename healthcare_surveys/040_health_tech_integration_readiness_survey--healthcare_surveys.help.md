@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-The goal of this form is to gather information about the organization's readiness to integrate health technology into their current workflow and systems. This form is intended for healthcare organizations to assess their level of integration, identify potential barriers, and determine their current technical stack. The form is designed to help organizations understand their current state and inform their decisions about future health tech integration. 
-
-It's crucial that organizations fill out this form accurately, as the information collected will be used to provide actionable insights and recommendations for improving health tech integration.
-
-</thinking>
-
 # Health Tech Integration Readiness Survey - Help Guide
 ## Purpose
 The Health Tech Integration Readiness Survey is a form designed to help healthcare organizations assess their level of integration with health technology.

@@ -1,12 +1,3 @@
-<thinking>
-We'll create a comprehensive help guide for the patient_health_questionnaire_phq9 form that is user-friendly, easy to understand, and informative.
-
-This form is used to collect information about a patient's health, including their mental health, social support, and other relevant aspects. The purpose of this form is to gather accurate and comprehensive data that can be used to improve patient care and health outcomes. 
-
-Before starting, please ensure that you are using this form for its intended purpose and not duplicating efforts. This form is designed to be completed by patients or healthcare professionals working directly with patients.
-
-</thinking>
-
 # patient_health_questionnaire_phq9 - Help Guide
 
 ## Purpose

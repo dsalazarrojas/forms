@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from employees on their holiday preferences and availability. The purpose of this form is to help plan company-wide holiday events that cater to the needs and interests of all employees. By completing this form, employees will be able to specify their preferred holiday event type, date range, and dietary restrictions, as well as indicate their interest in participating in a gift exchange and volunteering to help with event organization. To ensure that employees are not duplicating their responses, the form will only allow each employee to submit one response.
-</thinking>
-
 # Company Holiday Survey - Help Guide
 ## Purpose
 The Company Holiday Survey is designed to gather information from employees about their holiday preferences and availability. This will help us plan events that cater to everyone's needs.

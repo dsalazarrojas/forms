@@ -1,7 +1,3 @@
-<thinking>
-This form will be used for emergency veterinary referrals, where users need to provide information about the pet in question, the owner, and the reason for the referral. To avoid duplication, this form should only be used when the pet has not received veterinary care in the last 24 hours. 
-</thinking>
-
 # emergency_veterinary_referral_form - Help Guide
 
 ## Purpose

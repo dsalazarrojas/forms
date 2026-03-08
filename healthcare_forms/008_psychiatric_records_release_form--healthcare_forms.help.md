@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "Psychiatric Records Release Form", is designed to facilitate the process of releasing patient records in a secure and standardized manner. The form's purpose is to obtain authorization from patients or their representatives to access specific types of medical information. The form ensures that sensitive information is released only to authorized parties, and that the process is transparent and accountable.
-
-The form is used in the healthcare industry to manage the disclosure of patient records, ensuring that confidentiality is maintained while allowing necessary access to authorized parties. It is an essential tool for healthcare professionals to ensure patient privacy and confidentiality.
-
-Before creating this form, ensure that you have the necessary approvals and permissions to access the relevant patient data. If you are unsure about the process, consult with your healthcare provider or facility administrator for guidance.
-
-</thinking>
-
 # Psychiatric Records Release Form - Help Guide
 ## Purpose
 The Psychiatric Records Release Form is used to obtain authorization from patients or their representatives for accessing their sensitive medical records. This form ensures that confidentiality is maintained while allowing authorized access to necessary information.

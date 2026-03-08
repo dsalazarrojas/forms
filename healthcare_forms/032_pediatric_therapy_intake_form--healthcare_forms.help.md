@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for pediatric therapy intake, which is a process where a healthcare professional collects information from a child's family or caregiver to understand the child's needs and goals for therapy. The purpose of this form is to gather essential details about the child, their medical history, family background, medical conditions, therapy goals, and emergency contact information to provide effective and personalized care. It's essential to use this form accurately and consistently to avoid duplication of efforts and ensure that the collected data is up-to-date and relevant.
-</thinking>
-
 # Pediatric Therapy Intake Form - Help Guide
 
 ## Purpose

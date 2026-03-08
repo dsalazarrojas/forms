@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ENT Discharge Form - Help Guide
 ## Purpose
 The ENT Discharge Form is a document used to record the details of a patient's discharge from the hospital, ensuring that all necessary information is documented accurately and efficiently.

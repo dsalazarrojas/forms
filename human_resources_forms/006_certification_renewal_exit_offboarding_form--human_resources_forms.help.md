@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the offboarding process is smooth and efficient, it is crucial that the departing employee completes this form accurately and thoroughly. The goal of this form is to confirm the employee's last day of work, update their employment status, and gather feedback about the offboarding experience. Please make sure to review all fields carefully before submitting the form. If you have any questions or concerns, contact the HR representative listed in this form. 
-</thinking>
-
 # Certification Renewal Exit Offboarding Form - Help Guide
 ## Purpose
 

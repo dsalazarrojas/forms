@@ -1,15 +1,3 @@
-<thinking>
-This help guide is for the "work_trial_agreement_confirmation" form. The form is used to confirm the details of a work trial agreement between a participant and a recruiter. It's likely used in a hiring or employment context to record agreements and confirm the terms of a trial placement. It's essential to ensure that the participant understands the agreement before proceeding. Please review and confirm that this is the correct form to use in your case.
-
-Please note that this guide assumes that the form is being used for a trial placement, but you may need to adapt it to your specific use case.
-
-Before proceeding, ensure you have read and understood the terms and conditions of the agreement. If unsure, please contact the relevant parties or the form administrator.
-
-Also, ensure that you have the necessary permissions and authority to complete this form on behalf of the participant or recruiter.
-
-To fill out this form, please follow the steps below:
-</thinking>
-
 # work_trial_agreement_confirmation - Help Guide
 ## Purpose
 The purpose of this form is to confirm the details of a work trial agreement between a participant and a recruiter.

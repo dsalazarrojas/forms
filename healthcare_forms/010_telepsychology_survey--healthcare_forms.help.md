@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information on various aspects of telepsychology, including patient demographics, medical history, and behavioral habits. To ensure the form is completed accurately, please review each section carefully and answer all questions honestly. The form should not be completed by proxy or duplicate any existing responses... </thinking>
-
 # Telepsychology Survey - Help Guide
 ## Purpose
 The Telepsychology Survey is a collection of questions designed to gather information about patients' experiences and behaviors related to telepsychology. This information will help healthcare providers better understand patients' needs and provide more effective care.

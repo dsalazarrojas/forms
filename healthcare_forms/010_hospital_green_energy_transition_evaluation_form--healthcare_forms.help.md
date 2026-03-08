@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help hospitals evaluate their transition to green energy sources. The purpose of this form is to collect data on a hospital's current energy usage, their sustainability goals, and their potential to adopt renewable energy options. This form will help hospital administrators identify areas for improvement and make informed decisions about energy transition. It is recommended to complete this form carefully, taking into account each field's requirements and options, and to review it before submission to ensure accuracy.
-</thinking>
-
 # Hospital Green Energy Transition Evaluation Form - Help Guide
 ## Purpose
 The Hospital Green Energy Transition Evaluation Form is designed to help hospitals assess their current energy usage and identify opportunities for green energy adoption.

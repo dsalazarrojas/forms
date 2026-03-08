@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospice Transfer Form - Help Guide
 ## Purpose
 This form is used to facilitate the transfer of a patient between providers in a hospice care setting. It collects necessary information for the transfer process, including patient details, provider information, and transfer logistics.

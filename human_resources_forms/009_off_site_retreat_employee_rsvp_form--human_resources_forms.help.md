@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from employees regarding their attendance and preferences for an off-site retreat. The form should be completed by all employees who are planning to attend the retreat. The purpose of this form is to gather essential details such as employee contact information, attendance status, accommodation preferences, and meal preferences. This information will help the organizers to plan and arrange the retreat accordingly.
-
-</thinking>
-
 # off_site_retreat_employee_rsvp_form - Help Guide
 ## Purpose
 The off-site retreat employee RSVP form is designed to collect information from employees regarding their attendance and preferences for an off-site retreat. This form is essential for the organizers to plan and arrange the retreat.

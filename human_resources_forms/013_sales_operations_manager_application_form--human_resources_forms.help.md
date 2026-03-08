@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Operations Manager Application Form - Help Guide
 
 ## Purpose

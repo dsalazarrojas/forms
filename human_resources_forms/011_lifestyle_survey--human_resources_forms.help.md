@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It appears to be a detailed survey for gathering information about an individual's lifestyle and work history. It asks for personal details such as name, contact information, and employment status. It also inquires about work experience, job satisfaction, and career development. This form likely aims to collect comprehensive data about the individual's professional and personal life. Is this form being used for a specific recruitment or hiring process, or is it part of a larger HR initiative? Are there any specific guidelines or requirements for this form that should be noted? For example, are there any specific instructions for formatting or completing the select_multiple or select_one fields?</thinking>
-
 # lifestyle survey - Help Guide
 ## Purpose
 This form is a comprehensive lifestyle survey designed to gather detailed information about an individual's personal and professional life. It is likely used for a specific recruitment or hiring process.

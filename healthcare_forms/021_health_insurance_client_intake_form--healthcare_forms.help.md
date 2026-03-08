@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for collecting information from healthcare clients for insurance purposes. The form has 10 fields across 3 pages, with multiple types of fields including text, select multiple, and select one. 
-
-The form's fields cover general client information, contact details, insurance policies, provider information, and additional details.
-</thinking>
-
 # Health Insurance Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from healthcare clients for insurance purposes.

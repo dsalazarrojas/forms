@@ -1,10 +1,3 @@
-<thinking>
-This form is a digital representation of a manual process used by healthcare staff to manage a waitlist for patients seeking COVID-19 vaccines or treatment. The purpose of this form is to collect contact information from patients and track their position on the waitlist. The internal logic assumes that each field represents patient information, and the staff uses these details to contact patients when their turn is reached.
-
-The following guide is designed to help end-users understand the form's purpose, completion process, and individual field explanations, ensuring accuracy and efficiency in using this digital waitlist tool.
-
-</thinking>
-
 # Hometown Pharmacy COVID 19 Waitlist - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of submitting reimbursement claims for employee expenses related to performance reviews. The purpose of this form is to gather information about expenses incurred by employees during a performance review period, and to track the status of these claims. This form should only be completed by employees who have undergone a performance review and have expenses related to this review process. To avoid duplication, please ensure that you have not already submitted a reimbursement claim for the same performance review period.
-
-</thinking>
-
 # Performance Review Reimbursement Claim Form - Help Guide
 ## Purpose
 The Performance Review Reimbursement Claim Form is used by employees to submit reimbursement claims related to their performance review expenses.

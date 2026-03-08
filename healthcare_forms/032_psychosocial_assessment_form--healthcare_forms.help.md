@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychosocial Assessment Form - Help Guide
 
 ## Purpose

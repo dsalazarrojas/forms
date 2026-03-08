@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and nominations for telehealth services. To avoid duplication and misrepresentation, this form is designed to capture a range of perspectives, including the nominator's (patient or healthcare provider's) experience with the service. The form will be reviewed and vetted internally to ensure the nomination is legitimate and aligns with our criteria.
-</thinking>
-
 # Best Telehealth Service Nomination Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and nominations for telehealth services from individuals with direct experience. Your input helps us identify exceptional services that deserve recognition and support.

@@ -1,9 +1,3 @@
-<thinking>
-
-As a subject matter expert in form design and technical writing, I will create a comprehensive user-facing help guide for the Night Audit Review Checklist form. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section, making it easy for end-users to understand and fill out the form accurately.
-
-</thinking>
-
 # Night Audit Review Checklist - Help Guide
 ## Purpose
 The Night Audit Review Checklist is a form used to review and document the night audit process. It helps hotel managers and staff to ensure that all necessary steps are taken during the night audit, and that any discrepancies or issues are addressed and resolved.

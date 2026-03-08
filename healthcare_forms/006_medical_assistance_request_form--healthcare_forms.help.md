@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for individuals seeking medical assistance. The purpose of this form is to collect contact information, symptoms, medical history, medication, allergies, and medical assistant requests from users. The form is not affiliated with or endorsed by any specific healthcare provider or platform, and is intended to be a general-purpose tool for collecting medical information.
-
-</thinking>
-
 # Medical Assistance Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals seeking medical assistance. It is not affiliated with or endorsed by any specific healthcare provider or platform.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information related to workplace incidents. The purpose of this form is to provide a structured way for employees to report incidents, such as injuries or accidents, that occur in the workplace. This form will be used by HR or management to investigate and document the incident.
-
-Before completing this form, please ensure that you are reporting an incident that has not already been reported. If you are unsure whether an incident has already been reported, please check with HR or management to avoid duplicating effort.
-
-This form is used to gather information about the incident, the employee(s) involved, and the action taken to address the incident. Please provide as much detail as possible in the provided fields.
-</thinking>
-
 # workplace_incident_investigation_request_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about workplace incidents for investigation and resolution.

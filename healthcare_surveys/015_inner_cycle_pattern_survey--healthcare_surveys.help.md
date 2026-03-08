@@ -1,21 +1,3 @@
-<thinking>
-
-To create a help guide for the "Inner Cycle Pattern Survey" form, I will first analyze the provided YAML fields to understand the form's purpose and structure. The form is designed to collect information on the inner cycle pattern of a patient, which may be related to healthcare.
-
-The form has five pages:
-
-1. Introduction: This page is not required and serves as a welcome message or introduction to the survey.
-2. Cycle type: This page asks the user to select multiple options for the cycle type, which could be related to the type of inner cycle pattern being studied.
-3. Cycle regularity: This page asks the user to input a numerical value for cycle regularity, which might be a measure of how regular or frequent the inner cycle pattern occurs.
-4. Symptoms: This page is a free-text field where the user can describe their symptoms.
-5. Daily life impact: This page is also a free-text field where the user can provide information on the impact of their symptoms on their daily life.
-
-Considering the form's structure and fields, it seems to be designed to collect qualitative and quantitative data on the inner cycle pattern, including its type, frequency, and impact on the patient's life.
-
-I will now create a user-facing help guide based on this analysis.
-
-</thinking>
-
 # Inner Cycle Pattern Survey - Help Guide
 ## Purpose
 The "Inner Cycle Pattern Survey" is designed to collect information on the inner cycle pattern of a patient, helping healthcare professionals understand the type, frequency, and impact of this pattern on their daily life.

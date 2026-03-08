@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Complementary Alternative Therapy (CAM) Use Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and perceptions regarding the use of Complementary Alternative Therapies (CAM). CAM includes a range of practices such as acupuncture, chiropractic care, massage therapy, herbal supplements, meditation, yoga, and others. The purpose of this survey is to better understand how individuals use CAM, their reasons for using it, and how they perceive its effectiveness and safety. Your responses will help us understand the attitudes and behaviors related to CAM and inform future research and education.

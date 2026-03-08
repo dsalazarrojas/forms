@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive health survey form used in a healthcare setting. It likely aims to gather user information, medical history, and health-related data. To ensure the form is completed correctly, users should follow the instructions carefully. To avoid duplication of data entry, it's recommended to fill in the form in a sequential manner, one page at a time. Please review the form carefully before starting to ensure you understand the fields and their purpose.
-
-</thinking>
-
 # Health Survey Participation Intake Form - Help Guide
 ## Purpose
 This form is designed to collect health-related data from users. It consists of multiple pages, each focusing on a specific aspect of the user's health information.

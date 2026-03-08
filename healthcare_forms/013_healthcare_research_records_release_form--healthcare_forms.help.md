@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # healthcare_research_records_release_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect feedback from patients regarding their experience with hospice care. It's designed to understand the care provider's performance, identify areas of improvement, and help with quality assurance.
 
 # Hospice Patient Satisfaction Survey - Help Guide

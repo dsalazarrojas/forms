@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and evaluation results from the sales executive interview process. It is used to collect information on the candidate's performance, overall score, and final recommendation for future opportunities. This form is designed to be completed by the interviewers after the interview and is an essential tool for evaluating the candidate's strengths and areas of improvement.
-
-The form will be submitted by the interviewers, and it is crucial that they understand how to complete it accurately and consistently. This guide will help them navigate the form and provide a clear explanation of each field.
-
-Before starting, ensure you have all the necessary information and materials ready, including the candidate's name, title, and any relevant documentation.
-
-</thinking>
-
 # Sales Executive Interview Feedback Form - Help Guide
 ## Purpose
 The Sales Executive Interview Feedback Form is a tool used to gather feedback and evaluation results from the sales executive interview process.

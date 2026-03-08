@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # End Of Life Care Plan - Help Guide
 
 ## Purpose

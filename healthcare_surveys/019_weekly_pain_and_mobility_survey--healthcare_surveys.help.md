@@ -1,17 +1,3 @@
-<thinking>
-As a healthcare professional, it is essential to gather reliable and accurate data from patients to assess their pain management and mobility status. This form, "Weekly_Pain_and_Mobility_Survey," is designed to collect information on patients' self-reported pain levels, mobility impacts, current pain, medication usage, treatment details, notes, and contact information.
-
-The form aims to monitor patients' progress and help healthcare providers make informed decisions about their care. By using this form, healthcare providers can:
-
-* Identify patients with high pain levels and intervene promptly
-* Assess the effectiveness of treatment plans
-* Gather patient feedback on their mobility and pain management
-* Enhance patient-provider communication
-
-Before completing this form, please ensure that you have the necessary permissions from the patient to collect and store their data.
-
-</thinking>
-
 # Weekly_Pain_and_Mobility_Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

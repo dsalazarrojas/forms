@@ -1,5 +1,3 @@
-<thinking>This form is designed to be used by HR staff and managers to request reviews of specific employee concerns or issues. The form should only be used when requesting a review of an active or inactive concern. When using this form, please make sure to check with the relevant manager before submitting the review request. Duplicate submissions will not be accepted.</thinking>
-
 # HR Review Request Form - Help Guide
 ## Purpose
 

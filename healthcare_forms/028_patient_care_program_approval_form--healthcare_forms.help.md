@@ -1,16 +1,3 @@
-<thinking>
-This form is used to track and approve patient care programs. A patient care program is a set of actions and interventions aimed at improving the health and quality of life of a patient. This form is intended for healthcare professionals to document and approve patient care programs, ensuring they are up-to-date and in line with organizational policies and procedures.
-
-Before filling out this form, please ensure that:
-
-* You have the necessary authority to approve patient care programs in your organization.
-* You have reviewed and understand the patient's medical record and care plan.
-* You are aware of the patient's consent and privacy rights.
-
-This form is intended to be used once for each patient care program. Do not submit duplicate forms for the same patient care program.
-
-</thinking>
-
 # Patient Care Program Approval Form - Help Guide
 ## Purpose
 This form is used to approve and document patient care programs for healthcare professionals.

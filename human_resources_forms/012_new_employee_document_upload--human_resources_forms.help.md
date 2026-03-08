@@ -1,7 +1,3 @@
-<thinking>
-This form is for uploading new employee documents, which helps the HR team to keep track of the documents required for onboarding new employees. This form is not meant to be filled out multiple times for the same employee, so please only upload documents for new employees. If you are trying to upload documents for an existing employee, please use the [existing employee document upload form](link to existing form). 
-</thinking>
-
 # new_employee_document_upload - Help Guide
 ## Purpose
 The purpose of this form is to upload new employee documents for new employees, which helps the HR team to keep track of the documents required for onboarding.

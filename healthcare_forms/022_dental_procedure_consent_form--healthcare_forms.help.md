@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Procedure Consent Form - Help Guide
 ## Purpose
 The Dental Procedure Consent Form is a document designed to be completed by patients before undergoing a dental procedure. It aims to ensure that patients understand the risks and benefits associated with the procedure, as well as their role and responsibilities in the treatment process. This form will guide you through the process of completing the form and explain each field's purpose.

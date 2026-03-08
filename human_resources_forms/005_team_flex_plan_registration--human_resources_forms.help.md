@@ -1,12 +1,3 @@
-<thinking>
-A form is created to collect user details and other relevant information for a team flex plan registration. This form is used to gather data that will be used to manage team flexibility, including team leaders, shift details, start and end dates, status, notes, email, phone number, and manager details. 
-
-The goal of this form is to collect comprehensive data that can be used for team management and planning purposes. It's essential to fill out the form completely and accurately to ensure that the data collected is useful for its intended purpose.
-
-Before proceeding, ensure that you have all the necessary information and permissions to fill out the form. 
-
-</thinking>
-
 # team_flex_plan_registration - Help Guide
 ## Purpose
 

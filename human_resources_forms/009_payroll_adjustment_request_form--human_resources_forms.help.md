@@ -1,7 +1,3 @@
-<thinking>
-The form "payroll_adjustment_request_form" is a tool used by employees to request adjustments to their payroll. To use this form, an employee would select it to make a request for changes to their pay, such as correcting a mistake or requesting extra pay for a specific period. The form is not designed to handle recurring payments or automatic changes.
-</thinking>
-
 # Payroll Adjustment Request Form - Help Guide
 ## Purpose
 This form is used by employees to request adjustments to their payroll. Adjustments may include correcting mistakes on previous paychecks or requesting extra pay for specific periods.

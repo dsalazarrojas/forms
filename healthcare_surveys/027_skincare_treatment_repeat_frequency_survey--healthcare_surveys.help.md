@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Treatment Repeat Frequency Survey - Help Guide
 ## Purpose
 The Skincare Treatment Repeat Frequency Survey is designed to gather information about your skincare treatment habits, preferences, and experiences. This survey will help us understand how often you visit a skincare treatment, what types of treatments you prefer, and what your overall experience has been like. This will help us to better understand our clients' needs and improve our services.

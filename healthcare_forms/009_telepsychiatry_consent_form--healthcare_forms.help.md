@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: To collect patient information and consent for telepsychiatry services. 
-This form is designed to be completed by patients seeking telepsychiatric services. The form will be used to gather their personal and medical information and to obtain their consent for the services.
-
-</thinking>
-
 # Telepsychiatry Consent Form - Help Guide
 ## Purpose
 The Telepsychiatry Consent Form is used to collect patient information and consent for telepsychiatric services. This form helps healthcare providers to obtain essential information and consent from the patient before starting telepsychiatric sessions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Entry Wristband Request Form - Help Guide
 
 ## Purpose

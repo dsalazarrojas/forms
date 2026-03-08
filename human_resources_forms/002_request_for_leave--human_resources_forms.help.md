@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for HR purposes, specifically for employees to submit leave requests. It captures various details about the employee's leave, including the date of application, leave type, duration, dates, status, and other relevant information. This form is likely used by HR personnel to process and manage leave requests. It's essential to ensure that the form is filled out correctly to avoid duplication or miscommunication. Please review the form carefully before proceeding. 
-</thinking>
-
 # Request For Leave - Help Guide
 ## Purpose
 The Request For Leave form is designed for employees to submit leave requests to their HR department. This form captures essential information about the leave, such as dates, duration, and status, to help HR process the request efficiently.

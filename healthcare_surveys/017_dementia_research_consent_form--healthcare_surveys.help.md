@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals who are participating in dementia research studies. This form is a general template and may need to be adapted for specific research purposes. Please verify that this form is relevant and not duplicating efforts before using it. The form is designed to collect basic information about the participant, the research study, the location, and the informed consent and signatures from the participant and researcher. The fields are mostly text input fields. The participant signature and researcher signature fields may require a physical or digital signature, and will be used to confirm that the participant has consented to participate in the study and that the researcher has acknowledged this consent.
-</thinking>
-
 # Dementia Research Consent Form - Help Guide
 ## Purpose
 This form is designed to collect basic information and informed consent from individuals participating in dementia research studies.

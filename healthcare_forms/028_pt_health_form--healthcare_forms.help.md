@@ -1,6 +1,3 @@
-<thinking>
-The form seems to be a comprehensive health form designed to collect patient information and medical history. The form is likely used in a medical setting, such as a hospital or clinic. It appears to be designed for both emergency and general patient information collection. The fields are primarily focused on gathering the patient's name, contact information, medical history, medical conditions, and medical procedures. This form likely serves as an initial assessment tool for healthcare providers to understand the patient's overall health situation.</thinking>
-
 # PT Health Form - Help Guide
 ## Purpose
 This guide is designed to help users understand the purpose and functionality of the PT Health Form.

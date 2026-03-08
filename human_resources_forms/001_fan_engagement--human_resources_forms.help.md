@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: 
-This form, "Fan Engagement", is designed to gather information from users about their engagement with a sports team. The form likely aims to collect data on how fans interact with the team, their preferences, and their overall experience with the team. The fields include selecting a favorite sports team, social media interaction frequency, email address associated with social media handle, name, favorite way to engage, additional comments, event attendance, preferred time of day for interaction, overall experience rating, phone number, and birthday. This form is likely used for marketing or research purposes to better understand fan behavior and preferences.
-</thinking>
-
 # Fan Engagement - Help Guide
 
 ## Purpose

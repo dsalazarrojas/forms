@@ -1,9 +1,3 @@
-<thinking> 
-
-To confirm, this form is used to collect information related to medical expenses, including details of the medical services rendered, the healthcare provider, and the submitter's contact information. It is designed to help track and manage medical expenses within the system. The goal is to collect accurate and detailed information about each expense for further processing. 
-
-</thinking>
-
 # Medical Expense Claim Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to medical expenses, including services and costs associated with healthcare services. It helps to streamline the process of tracking and managing medical expenses within the system.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the "Home Inspection Form" and its purpose. The form is designed to collect information related to home inspections, which is crucial for assessing the condition and value of a property. The form is likely used in real estate, construction, or property management contexts. It's essential to ensure that the form is filled out accurately and thoroughly to provide valuable insights for decision-making or maintenance purposes. To avoid duplication or irrelevant submissions, please review the form carefully and ensure that all required fields are completed.
-</thinking>
-
 # Home Inspection Form - Help Guide
 ## Purpose
 The "Home Inspection Form" is a crucial tool for evaluating the condition and value of a property. It helps inspectors collect detailed information about the property, including its address, location, and various aspects of its structure.

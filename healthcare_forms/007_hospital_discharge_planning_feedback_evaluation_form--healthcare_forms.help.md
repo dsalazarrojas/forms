@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from patients after their discharge from the hospital. This form should be used to evaluate the effectiveness of the discharge planning process and gather information about the patient's experience in the hospital. The form should not be used to collect sensitive or personal information, and the feedback collected will be used to improve the hospital's services. Please ensure that you are only completing this form if you have been asked to do so by a healthcare professional.
-</thinking>
-
 # Hospital Discharge Planning Feedback Evaluation Form - Help Guide
 ## Purpose
 The Hospital Discharge Planning Feedback Evaluation Form is designed to gather feedback from patients after their discharge from the hospital. This feedback will help us improve our services and provide better care for our patients in the future.

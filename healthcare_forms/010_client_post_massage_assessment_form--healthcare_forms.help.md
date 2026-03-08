@@ -1,27 +1,3 @@
-<thinking>
-To determine if this form is relevant, I'll analyze its content. The form, "Client Post Massage Assessment Form", appears to be designed for clients to provide feedback on their massage experiences. It asks for various details such as client name, session date, type of massage, pressure applied, pain levels, areas of focus, and overall experience. The form also seeks feedback on therapist technique, communication, room temperature, music preference, comfort level, and additional comments.
-
-Upon reviewing the form fields, I notice that the following appear to be essential for data analysis and improvement:
-
-- Client Name
-- Session Date
-- Therapist Name
-- Type of Massage Received
-- Session Duration
-- How Was the Pressure Applied
-- Pain Level Before/After
-- Areas of Focus
-- How Relaxed Do You Feel Now
-- Therapist Technique
-- Therapist Communication
-- Overall How Would You Rate Your Experience
-- How Likely Are You to Book Another Session
-- How Likely Are You to Recommend Us to Others
-
-These fields are marked as "required" in the YAML file, indicating their importance for data collection and analysis. I will focus on providing guidance for these essential fields first.
-
-</thinking>
-
 # Client Post Massage Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients after their massage sessions. Please provide detailed and honest feedback to help us improve our services and tailor our massages to your specific needs.

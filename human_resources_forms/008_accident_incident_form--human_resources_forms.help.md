@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that users understand the importance of accurately reporting accidents and incidents. This form is crucial for maintaining a safe work environment and ensuring that we can take necessary steps to prevent future occurrences. It's essential that users fill out this form correctly and thoroughly, providing all necessary information, as it will help us understand the cause and severity of the incident. Please ensure that you answer all required fields and be as detailed as possible with your responses. If you're unsure about any field, please ask your supervisor or HR representative for guidance.
-</thinking>
-
 # Accident Incident Form - Help Guide
 ## Purpose
 

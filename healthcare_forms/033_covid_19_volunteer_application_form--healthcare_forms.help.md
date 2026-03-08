@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID 19 Volunteer Application Form - Help Guide
 ## Purpose
 The COVID-19 Volunteer Application Form is designed to collect information from individuals interested in volunteering for COVID-19-related activities. This form helps us understand their personal details, background, and availability for volunteering, ensuring we can match them with suitable opportunities.

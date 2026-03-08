@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for healthcare professionals to gather information and feedback from patients after medical visits. The purpose of this form is to collect data on patient satisfaction, provider performance, and other relevant details. Before completing this form, please ensure that you have already received care or treatment from a medical professional and are providing feedback based on your personal experience. If you have already completed a similar form, or have provided feedback on this form before, please note that duplicate submissions may not be accepted.
-</thinking>
-
 # Medical Support Coordinator Survey - Help Guide
 ## Purpose
 This form is designed to gather information and feedback from patients after medical visits, helping medical institutions and professionals evaluate and improve their services.

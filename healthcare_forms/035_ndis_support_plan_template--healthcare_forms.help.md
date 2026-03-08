@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be filled out by participants who are receiving support services under the National Disability Insurance (NDIS) scheme. The form is meant to document the support goals and outcomes that the participant is aiming to achieve, as well as any current support they are receiving and how this support will be reviewed and approved by relevant parties.
-
-</thinking>
-
 # NDIS Support Plan Template - Help Guide
 ## Purpose
 This template is designed to be used by participants to document their support goals and outcomes, current support, and the review and approval process for their NDIS support plan.

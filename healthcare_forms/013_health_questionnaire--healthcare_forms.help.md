@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their health, medical history, and test results. This form is intended to be used by healthcare professionals to gather data for patient consultations and treatment planning. To ensure accurate and effective use of this form, please review the following guide carefully. If you have already completed a health questionnaire for this patient, please do not submit this form as duplicate data may cause inaccuracies in the patient's medical record.
-
-</thinking>
-
 # Health Questionnaire - Help Guide
 ## Purpose
 The Health Questionnaire is a form designed to collect comprehensive information about a patient's health, medical history, and test results. This information will be used by healthcare professionals to provide accurate and effective care.

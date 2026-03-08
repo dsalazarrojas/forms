@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to record missed punches, which are time cards that a worker did not clock in or out of a certain time period, usually for reasons such as being away from their station, personal reasons, or technical issues. To avoid duplication or unnecessary entries, please make sure to only submit the form after confirming that the punch was indeed missed and not forgotten or overlooked previously. Ensure that you have all the required information before filling out the form. 
-</thinking>
-
 # Missed Punch Form - Help Guide
 ## Purpose
 The Missed Punch Form is used to record and document instances when a worker has missed a scheduled punch, either due to being away from their station, personal reasons, or technical issues. This form helps to provide accurate records and ensure compliance with company policies.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to generate a service invoice for a therapist's services. The purpose of this form is to collect relevant details about the session, including session dates, times, payment method, and billing information. This form is typically used by therapists to create invoices for their clients. Please ensure that this form is being used for its intended purpose and not for any other reason. It's essential to fill out the form correctly to ensure accurate and complete billing information.</thinking>
-
 # Therapist Service Invoice - Help Guide
 ## Purpose
 This form is used to generate a service invoice for a therapist's services. It is designed to collect session details, payment information, and billing data.

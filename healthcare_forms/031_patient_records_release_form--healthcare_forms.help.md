@@ -1,7 +1,3 @@
-<thinking>
-This form is used by healthcare providers to obtain authorization from patients to access, view, and manage their medical records. It's essential to ensure the patient's records are up-to-date and accurate for treatment and care purposes. The form should only be completed by patients or their legal representatives, and it's crucial that the form is not duplicated or misused. 
-</thinking>
-
 # Patient Records Release Form - Help Guide
 ## Purpose
 This form is used by healthcare providers to obtain authorization from patients to access, view, and manage their medical records.

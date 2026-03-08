@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Weekly Health Check In Form - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals monitor the health status of their clients on a weekly basis. It collects information on the client's overall health, wellness, and potential health concerns. This information helps healthcare providers to provide accurate and timely care.

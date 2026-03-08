@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from patients after they have received the Mpox vaccination. This will help healthcare professionals gather necessary data to monitor and assess the effects and outcomes of the vaccination. The form fields will help track patient information, vaccination details, symptoms, contact information, medical history, test results, vaccination schedule, vaccine doses received, potential side effects, and follow-up instructions.
-To ensure that this form does not collect duplicate or irrelevant data, the following criteria will be applied:
-- Only patients who have received the Mpox vaccination can fill out this form.
-- Patients who have not received the Mpox vaccination will not be able to access this form.
-- The form will only be accessible to authorized healthcare professionals.
-</thinking>
-
 # Mpox Post-Vaccination Survey - Help Guide
 ## Purpose
 The Mpox Post-Vaccination Survey is a tool used to collect information from patients after they have received the Mpox vaccination. This form helps healthcare professionals gather data to monitor and assess the effects and outcomes of the vaccination.

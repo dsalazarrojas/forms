@@ -1,18 +1,3 @@
-<thinking>
-To ensure that the "Online Interview Questionnaire Form" accurately captures the information needed for employee evaluation, we first need to validate the purpose and relevance of the form. This form aims to gather data on an employee's job performance, satisfaction, and other relevant aspects of their employment. The form will help management make informed decisions on employee development and evaluation. 
-
-The following questions are designed to assess an employee's overall job satisfaction, growth, security, benefits, opportunities, and performance. Each section is carefully crafted to gather both positive and negative feedback about the job, which will help management understand areas where an employee needs improvement or excels.
-
-We must confirm that this form is not used for any other purposes, such as performance appraisals or promotion purposes. The form is intended to provide a neutral platform for employees to share their genuine thoughts and experiences about their job. We will ensure that the form's questions are clear, concise, and relevant to the job evaluation process.
-
-We will not duplicate any questions from other existing employee forms or surveys. We will also ensure that all questions are properly anonymized and aggregated to prevent any biases or unfair treatment of employees.
-
-The form will be used internally within the organization, and responses will be kept confidential and secure. Only authorized personnel with access to the form will be able to view and review the responses.
-
-We will also regularly review and update the form to ensure it remains relevant and effective in capturing the necessary data.
-
-</thinking>
-
 # Online Interview Questionnaire Form - Help Guide
 
 ## Purpose

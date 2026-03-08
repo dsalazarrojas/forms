@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Pet Groomer Leave Of Absence Request" form, I'll analyze the provided YAML fields to ensure that I understand the form's purpose and how to complete it.
-
-The form's purpose is to request a leave of absence for pet groomers, and the user must select a reason for the leave (e.g., vacation, sick, or other). The form also requires selecting a start date, end date, and status (e.g., approved, denied, or pending). Additionally, the user can add a comment for the manager and select a covering staff member.
-
-This analysis will help me create a clear and concise user-facing help guide that covers the form's purpose, how to complete it, and an explanation of each field.
-</thinking>
-
 # Pet Groomer Leave Of Absence Request - Help Guide
 ## Purpose
 The "Pet Groomer Leave Of Absence Request" form is used to request a leave of absence for pet groomers. This form helps you inform your manager and HR department about your leave of absence, allowing them to review and process your request.

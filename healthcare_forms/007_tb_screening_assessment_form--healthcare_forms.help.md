@@ -1,12 +1,3 @@
-<thinking>
-The tb_screening_assessment_form is a form designed to collect and assess information on patients who are being screened for tuberculosis (TB) exposure. This form is used to gather details about a patient's medical history, symptoms, and contact information, as well as the results of any screenings or tests performed. The form is intended to be completed by healthcare providers or medical professionals who will review the information and provide guidance on next steps for the patient.
-
-The form will only be filled out once for each patient, making it a one-time assessment.
-
-The purpose of the form is to provide a comprehensive overview of the patient's health status and to identify any potential risks or concerns related to TB exposure.
-
-</thinking>
-
 # tb_screening_assessment_form - Help Guide
 ## Purpose
 This form is used to collect and assess information on patients who are being screened for tuberculosis (TB) exposure.

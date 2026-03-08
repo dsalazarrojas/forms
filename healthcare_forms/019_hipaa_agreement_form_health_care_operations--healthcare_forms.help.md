@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the patient's involvement and rights in healthcare operations, which is crucial for ensuring patient safety, privacy, and consent. This form should only be used by authorized personnel in the healthcare industry to document and maintain accurate patient records. To avoid duplication, please note that this form is intended for use in a specific healthcare setting, and its data should not be duplicated or shared without proper approval.
-
-</thinking>
-
 # hipaa_agreement_form_health_care_operations - Help Guide
 ## Purpose
 The hipaa_agreement_form_health_care_operations form is designed to collect information about patient involvement and rights in healthcare operations. This form is intended for use in healthcare settings to ensure patient safety, privacy, and consent.

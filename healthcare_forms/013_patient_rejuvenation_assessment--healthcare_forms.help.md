@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the medical history and treatment goals of a patient. It will help healthcare professionals to get a comprehensive understanding of the patient's health status, medical conditions, medications, and treatment requirements. The form will also collect information about the patient's concerns, medical professionals involved in their care, and medical procedures they have undergone. This information will aid in providing personalized care and treatment plans for the patient.
-
-</thinking>
-
 # Patient Rejuvenation Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history, treatment goals, and other relevant health-related details to aid healthcare professionals in providing personalized care and treatment plans.

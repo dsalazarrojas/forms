@@ -1,5 +1,3 @@
-<thinking>This form is designed to be used for financial insurance applications, and it's meant to help individuals or entities apply for financial insurance. The form will guide the user through a series of questions to gather necessary information for the application process. To avoid duplication, please do not submit multiple forms with the same information.</thinking>
-
 # Financial Insurance Application Request Form - Help Guide
 ## Purpose
 This form is used to collect information for a financial insurance application. It is intended for individuals or entities looking to apply for financial insurance.

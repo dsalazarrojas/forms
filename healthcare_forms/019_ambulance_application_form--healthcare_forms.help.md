@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for healthcare providers to gather information from applicants for ambulance services. It is essential to understand that this form is not intended for general public use, but rather for healthcare professionals or organizations that need to book ambulance services for patients or events. The form is divided into several sections, each focusing on a specific aspect of the service request. Please ensure that you only fill out this form if you are a qualified healthcare professional or representative of a healthcare organization. This form is not intended for individual personal use. 
-
-Please note that some fields may have specific requirements or hints to ensure accurate and complete submission. 
-
-</thinking>
-
 # Ambulance Application Form - Help Guide
 ## Purpose
 This form is designed for healthcare providers to request ambulance services for their patients or events.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to gather information for the hiring and recruitment process within the Biology department. This form will be used to notify department heads and HR coordination of new staff hires or recruitments, ensuring accurate and timely processing of personnel data. 
-</thinking>
-
 # Biology's Staff Hire/Recruitment Notification Form - Help Guide
 ## Purpose
 This form is intended to collect essential details for hiring and recruitment purposes within the Biology department. It's crucial to fill out this form accurately to ensure that all relevant stakeholders are notified and informed about new staff additions.

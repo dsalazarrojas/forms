@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for patients to provide consent and medical information as part of their aesthetic treatment process. The form collects various details to understand their medical history, allergies, and other relevant factors before proceeding with treatments such as Botox, fillers, or other injectable services. This form is intended for use with patients who are seeking cosmetic treatments that involve injectable products. To complete this form, please refer to the following steps and guidelines.
-
-</thinking>
-
 # Roxy's Velvet Aesthetics Consent & Medical Questionnaire - Help Guide
 ## Purpose
 This form is for patients seeking cosmetic treatments that involve injectable products to provide medical history, allergies, and other relevant factors.

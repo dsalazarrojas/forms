@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to gather information from executives about their interest in executive coaching, including their willingness to work with a coach, their coaching goals, preferences, and satisfaction with their current situation...</thinking>
-
 # executive_coaching_interest_form - Help Guide
 ## Purpose
 This form is used to gather information from executives about their interest in executive coaching. The form is designed to be completed by executives who are considering or have already started with executive coaching.

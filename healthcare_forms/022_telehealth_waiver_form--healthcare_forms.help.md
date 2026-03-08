@@ -1,8 +1,3 @@
-<thinking>
-**Why we need this form**: This form is intended to capture essential information from patients before they engage in telehealth services. This allows our healthcare providers to ensure that they are able to reach the patient's emergency contact in case of an emergency. It's also a requirement for our insurance coverage and billing purposes.
-We've designed this form to be as simple and straightforward as possible, minimizing unnecessary fields and ensuring that all the necessary information is collected. Please ensure that you complete all required fields to avoid delays in your care.
-</thinking>
-
 # Telehealth Waiver Form - Help Guide
 
 ## Purpose

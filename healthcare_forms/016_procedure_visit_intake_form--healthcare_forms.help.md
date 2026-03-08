@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we'll review the provided YAML fields. The form is called "procedure_visit_intake_form" which suggests it's for collecting information related to medical procedures. The form includes fields for patient information, medical history, procedure status, and other relevant details. This form likely collects data for administrative or clinical use, possibly for hospital or medical facility records.
-
-After reviewing the fields, we can infer that this form is used for both patient intake and procedure tracking. The form collects demographic information (patient name, date of birth, address, phone number, and email), medical history (allergies, medical conditions, medical history), and procedure-specific information (procedure date, visit start and end times, visit duration, and procedure status). This suggests a comprehensive form for gathering patient data and tracking medical procedures.
-
-We'll review each field in the next section to further clarify the form's usage.
-
-</thinking>
-
 # procedure_visit_intake_form - Help Guide
 ## Purpose
 This form collects demographic and medical information from patients for both patient intake and procedure tracking purposes.

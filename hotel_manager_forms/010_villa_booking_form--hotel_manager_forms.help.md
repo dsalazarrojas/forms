@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking and managing villa reservations. It is used by villa owners to manage their property, guests to make reservations, and internal teams to track and assign tasks. This guide is for end-users, including owners, guests, and team members, to help them complete the form correctly and efficiently.
-</thinking>
-
 # villa_booking_form - Help Guide
 ## Purpose
 The villa booking form is used to create, manage, and book villas. It allows owners to add and update villa information, guests to make reservations, and internal teams to assign tasks and track progress.

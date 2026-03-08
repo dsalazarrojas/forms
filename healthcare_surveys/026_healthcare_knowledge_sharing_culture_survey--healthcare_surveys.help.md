@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Knowledge Sharing Culture Survey - Help Guide
 ## Purpose
 

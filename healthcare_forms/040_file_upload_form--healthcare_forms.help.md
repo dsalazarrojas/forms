@@ -1,7 +1,3 @@
-<thinking>
-This form is a File Upload Form used for uploading files of various types, such as images, videos, and audio files. The form allows users to select the type of file they want to upload and provide additional information about the file.
-</thinking>
-
 # File Upload Form - Help Guide
 ## Purpose
 The File Upload Form is used for uploading files of different types, such as images, videos, and audio files.

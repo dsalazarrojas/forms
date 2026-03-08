@@ -1,5 +1,3 @@
-<thinking>As this form is designed to collect general information from pediatric patients, it's essential to understand its purpose and ensure that it's being used correctly. The pediatric patient intake survey is a crucial tool for healthcare providers to gather essential data about a child's medical history, allergies, medications, and other relevant information. This form should not be used for any other purpose, as it's specifically tailored for pediatric patients. Please ensure that you're using this form for its intended purpose and following the instructions carefully to avoid duplication or misinterpretation of data.</thinking>
-
 # Pediatric Patient Intake Survey - Help Guide
 ## Purpose
 The Pediatric Patient Intake Survey is a tool for healthcare providers to gather essential information about pediatric patients. This form is designed to collect general data, medical history, allergies, medications, and other relevant information.

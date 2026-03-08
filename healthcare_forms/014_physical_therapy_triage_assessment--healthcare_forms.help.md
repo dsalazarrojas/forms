@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be used for assessing patients in a physical therapy setting. It collects information on the patient's medical history, condition, diagnosis, treatment plan, and follow-up appointments. The form is intended to be used by medical professionals to quickly and efficiently gather essential information about a patient's physical therapy needs.
- 
-The form consists of 8 fields, each with a specific purpose:
- 
-* General Info: This field is used to collect any additional information about the patient that is not covered by the other fields.
-* Medical History: This field is used to gather a detailed account of the patient's medical history.
-* Assessment: This field is used to describe the patient's condition in detail.
-* Diagnosis: This field is used to provide a diagnosis or suspected diagnosis of the patient's condition.
-* Treatment Plan: This field is used to outline the treatment plan for the patient.
-* Follow Up: This field is used to schedule follow-up appointments for the patient.
-* Medical Team: This field is used to list the names of the medical team members involved in the patient's care.
-* Patient Info: This field is used to collect any additional information about the patient.
- 
-</thinking>
-
 # Physical Therapy Triage Assessment - Help Guide
 ## Purpose
 The Physical Therapy Triage Assessment form is designed to be used for assessing patients in a physical therapy setting. It collects information on the patient's medical history, condition, diagnosis, treatment plan, and follow-up appointments.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect demographic and dietary habit information from users. It is a questionnaire that aims to gather data on the user's demographic characteristics, dietary habits, and health status. The form is meant to be completed by individuals who are interested in tracking their dietary habits and health. However, please note that this form is not meant to be a comprehensive medical evaluation, and the data collected is not intended for clinical use. 
-
-This form is a public_dietary_habits_questionnaire and is intended for general use. If you are a healthcare professional, please do not use this form for any clinical evaluation or diagnosis. If you are a participant in a research study, please ensure that you have received informed consent and have reviewed the study's guidelines before completing this form.
-
-Please ensure that you are not duplicating your data by not completing this form if you have already participated in a study or completed this form before. Completing this form will be considered consent and will imply that you have acknowledged that the data you provide will be used for general research and analysis purposes only.
-</thinking>
-
 # public_dietary_habits_questionnaire - Help Guide
 ## Purpose
 

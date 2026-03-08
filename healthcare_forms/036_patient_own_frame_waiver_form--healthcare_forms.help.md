@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # patient Own Frame Waiver Form - Help Guide
 ## Purpose
 The patient own frame waiver form is used to document a patient's ownership and consent for a specific frame, typically for medical purposes. This form ensures that the patient's personal information and frame details are accurately recorded.

@@ -1,8 +1,3 @@
-<thinking>
-The physiotherapy_assessment_form is used to collect information about a patient's assessment and feedback after a physiotherapy session. This form is designed to gather data on the patient's name, contact information, assessment date, treatment plan, feedback, satisfaction, rating, and overall satisfaction. The goal of this form is to ensure that the physiotherapist has a clear understanding of the patient's needs and expectations, which can be used to provide personalized care and improve future sessions. 
-This form should only be used for patients who have received a physiotherapy session. It is not intended for patients who have not received a physiotherapy session.
-</thinking>
-
 # physiotherapy_assessment_form - Help Guide
 ## Purpose
 The physiotherapy_assessment_form is used to collect information about a patient's assessment and feedback after a physiotherapy session.

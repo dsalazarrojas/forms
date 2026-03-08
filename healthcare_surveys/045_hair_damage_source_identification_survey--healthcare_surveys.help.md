@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze its properties. This form appears to be designed for gathering information about the sources of hair damage. The field options and types suggest that it's meant to collect data on various factors that can cause hair damage, such as hair condition, length, chemical processing, color, style, habits, products, and treatments. The form is likely intended for healthcare professionals to identify potential causes of hair damage and provide relevant information for treatment or advice.
-
-To check for relevance and non-duplication, let's examine the field types and options:
-* Select_one fields: hair_damage_source, hair_condition, hair_length, chemical_processing, hair_color, hair_style, hair_damaging_products, hair_damaging_treatments. These fields have a binary Yes/No format, suggesting they're meant to collect binary data.
-* Select_multiple fields: hair_damaging_habits. This field has a Yes/No format as well, but it's meant to collect multiple selections.
-* Required fields: none of the fields are marked as required, suggesting that respondents are free to answer or provide any information they have.
-
-Considering these factors, this form is likely designed for collecting information on potential causes of hair damage, and it's up to the respondent to answer questions to the best of their ability.
-</thinking>
-
 # Hair Damage Source Identification Survey - Help Guide
 
 ## Purpose

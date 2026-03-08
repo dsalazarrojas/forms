@@ -1,20 +1,3 @@
-<thinking>
-This form is part of the "human_resources_forms" category and has a title of "HR Client Registration Form". Its purpose is to collect information from clients, including their contact person, job details, contact details, job requirements, and other miscellaneous details. This form ensures that the HR department has a comprehensive understanding of each client's needs and preferences.
-
-This form has a total of 7 fields that must be filled in by the client. The fields are:
-- "Client Details"
-- "Contact Person"
-- "Email"
-- "Job Details"
-- "Contact Details"
-- "Job Requirements"
-- "Other Details"
-
-The form is designed to be completed by the client and submitted to the HR department. The HR department will review and process the information provided to ensure that the client's needs are met.
-
-Before completing the form, please make sure to check if you have already filled out a similar form or if you are already registered with us. This will save you time and prevent duplicate entries.
-
-To fill out the form, please follow the instructions below:</thinking>
 # HR Client Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients regarding their client details, contact person, email, job details, contact details, job requirements, and other miscellaneous details. The HR department will use this information to better understand each client's needs and preferences.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is a Depression Screening Survey designed to assess patients' mental health status. It covers various symptoms associated with depression and anxiety. It's crucial to fill it out carefully and accurately to get a comprehensive understanding of the patient's condition. 
-</thinking>
-
 # Depression Screening Survey - Help Guide
 ## Purpose
 This survey is designed to screen for depression symptoms in patients, helping healthcare providers assess their mental health status.

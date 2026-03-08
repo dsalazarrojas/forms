@@ -1,13 +1,3 @@
-<thinking>
-To ensure that this form serves its purpose effectively, let's review its purpose and relevance. This form appears to be designed to collect information about a social media strategist's experience, skills, and preferences. It's likely that this form will be used in a job application or hiring process for a social media strategist position. 
-
-To avoid duplication of effort, let's make sure that the form is not used for other purposes and that the questions are not too broad or too narrow. For example, the "social_media_experience" page might be too broad, and some questions might overlap with others. We should aim to make the form clear and concise.
-
-Also, the form appears to be using a mix of select_multiple, select_one, and number types. We should ensure that each type is used correctly and that the options are clear and concise.
-
-Let's create a help guide that explains the purpose and the fields clearly and concisely.
-</thinking>
-
 # Social Media Strategist Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information about a social media strategist's experience, skills, and preferences. It's intended for use in a job application or hiring process for a social media strategist position.

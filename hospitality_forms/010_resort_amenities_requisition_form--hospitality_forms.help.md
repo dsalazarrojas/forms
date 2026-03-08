@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to manage and track resort amenities requests. It's essential to ensure that all fields are filled correctly to avoid any discrepancies or miscommunication with the requestor and the resort's management team.
-
-To complete this form, follow the instructions carefully and ensure that all required fields are filled out accurately. The form is divided into two main pages: Guest Request and Staff Request.
-
-The Guest Request page is used to manage requests from guests, while the Staff Request page is used to manage requests from staff members. Each section has a brief description, and you'll need to select the correct options from the provided fields.
-
-The form includes fields for basic information like department, description, and phone number, as well as more specific fields like the amenity type and requested amenities. Additionally, you'll find fields for status, notes, and comments.
-
-</thinking>
-
 # Resort Amenities Requisition Form - Help Guide
 ## Purpose
 The Resort Amenities Requisition Form is used to manage and track resort amenities requests from guests and staff members.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll Account Validation Consent Form - Help Guide
 ## Purpose
 The Payroll Account Validation Consent Form is designed to validate an employee's payroll account information, ensuring that the employee's account is up-to-date and accurate. This form is used to confirm the employee's consent to validate their payroll account, including their account details, employment status, and other relevant information.

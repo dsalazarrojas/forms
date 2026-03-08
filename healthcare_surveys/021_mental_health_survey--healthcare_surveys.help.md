@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, mental health surveys are a crucial tool for understanding an individual's mental wellbeing. This form is designed to gather information about an individual's experiences with mental health concerns, such as feelings of happiness, anxiety, depression, and suicidal thoughts. The survey will help clinicians identify potential mental health issues and provide a baseline for future assessments. Please note that this form should only be completed by individuals who have given their informed consent and are in a safe and private space to provide honest answers. It is essential to complete this survey with care and accuracy.</thinking>
-
 # mental_health_survey - Help Guide
 ## Purpose
 The mental health survey is designed to gather information about an individual's experiences with mental health concerns, helping clinicians identify potential issues and provide a baseline for future assessments.

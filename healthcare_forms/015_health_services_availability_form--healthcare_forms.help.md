@@ -1,15 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to capture information about the health services availability and provider details for a healthcare organization. This form is used to gather data on the services offered, their availability, and the contact information of the providers. It's designed to help healthcare organizations streamline their operations and communicate with patients effectively. 
-
-This form will likely be used by administrators or staff members of the healthcare organization to input data about their services and availability. 
-
-The data collected through this form will be used for internal purposes, such as scheduling appointments, managing patient inquiries, and tracking provider information. The form is not intended for public access, so the information collected will not be shared with the general public. 
-
-Please note that the fields in this form are for internal use only, and the purpose and structure of the form may change over time, making it essential to review the form regularly to ensure you're using it correctly.
-
-</thinking>
-
 # health-services-availability-form - Help Guide
 ## Purpose
 This form is used by healthcare organizations to gather information about their health services availability and provider details.

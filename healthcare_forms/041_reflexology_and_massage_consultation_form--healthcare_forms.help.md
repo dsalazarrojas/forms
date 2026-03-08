@@ -1,11 +1,3 @@
-<thinking>
-This form is used for clients to provide information about their health and preferences for reflexology and massage consultations. It's essential to fill out the form accurately to ensure a smooth and safe experience for both the client and the massage therapist.
-Before filling out this form, please make sure to:
-- You have a valid reason for filling out this form (e.g., you're a new client, you have a medical condition that might impact your massage, you're booking a specific massage type).
-- You don't have any duplicate submissions with the same information.
-
-</thinking>
-
 # Reflexology And Massage Consultation Form - Help Guide
 ## Purpose
 The Reflexology And Massage Consultation Form is used to gather information about your health, massage preferences, and medical history to ensure a safe and effective massage experience.

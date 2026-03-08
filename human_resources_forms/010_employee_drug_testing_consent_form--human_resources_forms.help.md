@@ -1,9 +1,3 @@
-<thinking>
-
-The form "employee_drug_testing_consent_form" is used to obtain the consent of employees to undergo drug testing as part of the organization's drug testing program. This form is typically used in situations where an employee is required to be tested for drug use, such as in the case of hiring or random testing. The form ensures that employees understand their rights and the implications of the testing process. The form is a crucial document that must be completed accurately and truthfully by the employee to ensure their participation in the testing process.
-
-</thinking>
-
 # employee_drug_testing_consent_form - Help Guide
 ## Purpose
 The employee_drug_testing_consent_form is a document that ensures employees understand and agree to undergo drug testing as part of the organization's program.

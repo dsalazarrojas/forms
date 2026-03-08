@@ -1,9 +1,3 @@
-<thinking>
-The "radiology_report_access_form" form is designed to collect information related to radiology report access and retrieval. Its purpose is to provide healthcare professionals with a structured approach to accessing and managing radiology reports within a healthcare setting. This form likely serves as a tool for radiologists, healthcare administrators, or other authorized personnel to access, view, edit, or delete radiology reports based on their privileges.
-
-
-</thinking>
-
 # radiology_report_access_form - Help Guide
 ## Purpose
 The "radiology_report_access_form" is a tool used to access, view, edit, or delete radiology reports in a healthcare setting.

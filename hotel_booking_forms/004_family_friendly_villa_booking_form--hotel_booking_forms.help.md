@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the "Family Friendly Villa Booking Form". The form is used to gather information from users for booking purposes, specifically for a family-friendly villa. It is essential to ensure that this form is filled out accurately and completely to facilitate successful and efficient processing of the booking request.
-
-Before we dive into the form, let's confirm that the form is not meant for any other purpose and that you are in the correct location to complete this form.
-
-Please ensure that this is the "Family Friendly Villa Booking Form" that you are intending to fill out, and not a different form or any other page.
-
-If you are unsure, please return to the main booking page to select the correct form.
-
-</thinking>
-
 # Family Friendly Villa Booking Form - Help Guide
 ## Purpose
 The "Family Friendly Villa Booking Form" is used to gather essential information from users for booking a family-friendly villa. This form helps us understand your preferences and requirements for a comfortable and enjoyable stay.

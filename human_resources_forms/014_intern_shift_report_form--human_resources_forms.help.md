@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to be a simple report for interns to document their shifts. It captures the date, start time, tasks completed, and any notes about their shift. This form is likely to be used by managers or HR representatives to track and monitor intern performance and productivity.
-
-</thinking>
-
 # intern_shift_report_form - Help Guide
 ## Purpose
 The "intern_shift_report_form" is a simple report for interns to document their shifts. This form helps track and record important details about their work, including date, time, and tasks completed.

@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to help interviewers and evaluators assess a candidate's technical skills and abilities through a scenario-based technical interview process. The form is used to gather information about the candidate's name, rating of their performance in a given scenario, and any comments they may have. This form is typically used in a recruitment or evaluation setting to assess a candidate's fit for a role or position. 
-
-Before proceeding, ensure that you are familiar with the scenario presented to you and that you are not duplicating efforts by submitting multiple forms for the same candidate. This can be done by reviewing the candidate's ID and checking for any previously submitted forms.
-
-</thinking>
-
 # Scenario Based Technical Interview Question Form - Help Guide
 ## Purpose
 The Scenario Based Technical Interview Question Form is a tool designed to help interviewers and evaluators assess a candidate's technical skills and abilities. It gathers information about the candidate's name, rating of their performance in a given scenario, and any comments they may have.

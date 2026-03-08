@@ -1,6 +1,3 @@
-<thinking>
-This form is used by human resources staff to set up new facility absences in the company. Before starting, please ensure that you are filling out this form for a valid reason and that you have not already completed this form for the same absence in the past to avoid duplication of efforts.</thinking>
-
 # New Facility Setup Absence Form - Help Guide
 
 ## Purpose

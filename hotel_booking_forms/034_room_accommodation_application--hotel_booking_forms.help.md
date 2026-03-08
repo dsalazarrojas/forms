@@ -1,8 +1,3 @@
-<thinking>
-We are checking for non-duplication and relevance of this form. This form is designed to collect information for student housing requests, which is a common requirement for students looking to book a room in a hotel or dormitory. The form fields are clear and concise, making it easy for students to provide the necessary details. We also consider the form to be relevant as it covers essential information such as move-in and move-out dates, special requirements, and contact details. This form is likely used in the context of a hotel or dormitory booking system for students.
-
-</thinking>
-
 # room_accommodation_application - Help Guide
 ## Purpose
 The room_accommodation_application form is designed to collect information for student housing requests, allowing students to book a room in a hotel or dormitory.

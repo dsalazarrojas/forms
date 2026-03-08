@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients to facilitate the rental process of medical equipment. This form is intended for end-users to provide their personal details and preferences for equipment rental. It's crucial to ensure that the form is filled out correctly to avoid duplication or incorrect rental requests. This form will be used in conjunction with other systems to process and manage rental requests efficiently. 
-</thinking>
-
 # medical_equipment_rental_order_form - Help Guide
 ## Purpose
 The medical equipment rental order form is used to collect information from patients to process their rental requests for medical equipment. It's essential to fill out this form accurately to ensure that their needs are met and to avoid any duplication or incorrect rental requests.

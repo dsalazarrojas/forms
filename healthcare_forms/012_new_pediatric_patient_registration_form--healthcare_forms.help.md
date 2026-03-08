@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "new_pediatric_patient_registration_form", is intended to collect demographic and medical information for new pediatric patients. The form is divided into two pages and asks for the patient's name, birthdate, address, phone number, email, primary diagnosis, allergies, medications, and vaccinations. The form is not required, indicating that the data collected through this form is optional or supplementary, rather than a formal requirement. 
-
-Before proceeding, ensure that this form does not duplicate any existing patient records or forms, and that the provided information accurately reflects the most up-to-date data available.
-
-</thinking>
-
 # new_pediatric_patient_registration_form - Help Guide
 ## Purpose
 

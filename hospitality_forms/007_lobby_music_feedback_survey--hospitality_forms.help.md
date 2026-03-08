@@ -1,10 +1,3 @@
-<thinking>
-The "Lobby Music Feedback Survey" form is designed to collect end-users' feedback on the lobby music played in their recent visit to our facility. The purpose of the form is to understand users' preferences and opinions regarding the music selection and volume. This form is likely to be used by staff members or automated systems to analyze and act upon users' comments.
-
-To ensure we don't end up duplicating efforts, let's make sure that users have a clear understanding of what the form is about and what information we're looking for. This guide will provide step-by-step instructions and explanations for each field.
-
-</thinking>
-
 # Lobby Music Feedback Survey - Help Guide
 
 ## Purpose

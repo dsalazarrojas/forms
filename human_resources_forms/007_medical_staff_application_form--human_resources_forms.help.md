@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect medical staff application information. The purpose of this form is to gather relevant details from medical professionals to process their application for employment or affiliation with our organization. This form should be completed by medical staff applying for work, and should not be used for non-medical purposes.
-
-It is expected that the fields are completed as accurately and thoroughly as possible. If a field is marked as "required", it is essential to fill in this field for the application to be considered complete.
-</thinking>
-
 # Medical Staff Application Form - Help Guide
 ## Purpose
 This form is used to collect medical staff application information for processing employment or affiliation.

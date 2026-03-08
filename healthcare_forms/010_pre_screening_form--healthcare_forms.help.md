@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect contact and medical information from patients before screening, which is a crucial step in the medical process. This form is likely used by healthcare professionals to assess the patient's eligibility for certain medical procedures or services. Before completing this form, please ensure that you have all the necessary information and that you are completing it for the correct purpose. If you have completed this form previously, ensure that you are not duplicating efforts and that the information is up-to-date.
-</thinking>
-
 # Pre Screening Form - Help Guide
 ## Purpose
 The Pre Screening Form is designed to collect contact and medical information from patients before screening. This information will be used by healthcare professionals to assess the patient's eligibility for certain medical procedures or services.

@@ -1,11 +1,3 @@
-<thinking>
-The Psychiatric Discharge Form is a critical document used to document a patient's treatment outcome and follow-up plans after they have been discharged from a psychiatric care facility. This form is designed to ensure that patients receive proper care and support after their discharge, and that healthcare providers have a clear understanding of the patient's current state and needs.
-
-This form is intended to be used for patients who are being discharged from inpatient or outpatient psychiatric care settings. It is an essential tool for healthcare providers to communicate with patients and their families, and to ensure that patients receive the necessary care and support after their discharge.
-
-Please note that this form is not intended for patients who are being discharged from emergency or acute care settings. If you are unsure about the purpose or usage of this form, please consult your healthcare provider or institution's policies and procedures.
-</thinking>
-
 # Psychiatric Discharge Form - Help Guide
 
 ## Purpose

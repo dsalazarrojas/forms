@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emotional Wellness Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's emotional wellness, medical history, and contact information. The form will help healthcare professionals assess the client's needs and provide personalized support and treatment.

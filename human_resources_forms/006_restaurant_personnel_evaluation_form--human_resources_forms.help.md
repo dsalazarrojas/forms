@@ -1,11 +1,3 @@
-<thinking>
-The "restaurant_personnel_evaluation_form" is used to evaluate the performance of restaurant employees. This form is typically filled out by a manager or supervisor to document their observations and feedback about an employee's performance during a specific evaluation period. The evaluation period can range from 1-4 weeks and can be used to track progress and provide guidance for improvement. This form is used to ensure that evaluations are consistent and thorough, and to help employees understand their strengths and weaknesses. To ensure that each employee's evaluation is accurate and complete, please review the form carefully and fill it out according to the instructions below.
-
-This form is intended for restaurant managers and supervisors to evaluate the performance of their team members. If you are not a manager or supervisor, please do not fill out this form.
-
-The purpose of this form is to gather information about the employee's performance, provide feedback, and make recommendations for improvement. Please complete the form according to the instructions below.
-</thinking>
-
 # restaurant_personnel_evaluation_form - Help Guide
 ## Purpose
 The "restaurant_personnel_evaluation_form" is used to evaluate the performance of restaurant employees. This form is typically filled out by a manager or supervisor to document their observations and feedback about an employee's performance during a specific evaluation period.

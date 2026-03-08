@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, the form "Gft Bdi II" is designed to collect patient information and test results in a structured and efficient manner. This form appears to be a general medical form used to document various test results and assign tools and users to patients. To ensure accurate and complete data entry, please refer to the following help guide for guidance on completing the form.</thinking>
-
 # Gft Bdi II - Help Guide
 ## Purpose
 This form is designed to collect and document patient information and test results in the healthcare setting.

@@ -1,5 +1,3 @@
-<thinking> This form was generated using AI technology to collect employee health information and ensure that each employee has the necessary medical clearances and certifications to perform their job duties safely and efficiently. This form should only be filled out by current or prospective employees, and should not be used for non-employee purposes. By completing this form, employees can provide their personal health information, contact details, and medical history to ensure that the workplace is a safe and healthy environment for everyone. The form will help the employer to keep track of the employee's health status and provide necessary support and resources to ensure they are able to perform their job duties without any risks to themselves or others. Please ensure that all information is accurate and up-to-date to avoid any potential conflicts or issues in the workplace. </thinking>
-
 # Employees Health Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document employee health information, medical history, and contact details to ensure a safe and healthy work environment.

@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Guest Satisfaction Survey form. To begin with, let's clarify the purpose of this form. The Guest Satisfaction Survey is designed to collect feedback from guests about their overall experience at the hotel, including aspects such as food and drink, cleanliness, staff, location, value for money, and overall satisfaction. This survey aims to gauge the guest's perception of the hotel's quality of service and facilities. It's essential to understand that this form is intended for guest feedback, and its completion is optional.
-
-To avoid duplicating efforts, let's ensure that the survey questions are clear, concise, and easy to understand, making it simple for guests to provide their honest feedback.
-
-</thinking>
-
 # Guest Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from guests about their overall experience at our hotel. Your input will help us improve our services and facilities to ensure you have an exceptional stay with us.

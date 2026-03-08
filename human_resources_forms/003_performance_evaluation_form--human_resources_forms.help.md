@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of an individual or team. It is used to assess the progress, achievements, and areas for improvement of the subject being evaluated. This form is often used in HR or management contexts to provide a systematic and structured evaluation process.
-
-Before proceeding, please note that this form is designed to be used for performance evaluations, and it is essential to be honest and objective when completing it. Make sure to only submit the form once for each evaluation period, and do not reuse or copy previous evaluations.
-
-Also, be aware that this form is not intended for emergency or urgent situations; it is a regular performance evaluation tool. If you need immediate feedback or support, please reach out to your manager or HR representative.
-</thinking>
-
 # Performance Evaluation Form - Help Guide
 ## Purpose
 The Performance Evaluation Form is designed to assess the progress, achievements, and areas for improvement of an individual or team. This form is used to provide a systematic and structured evaluation process for HR or management purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Family Friendly Dinner Reservation" is designed to collect information about a family's dinner plans. It is likely intended for parents or guardians to provide details about their family's visit to a restaurant, such as the type of meal they would like to have (e.g., dinner, brunch, or lunch), the number of guests in their party, arrival and departure dates and times, any special requests or needs they may have (e.g., high chair, pacifier, food allergies), and other relevant information. The form is probably used by restaurant staff to prepare for and manage family visits effectively. This form is likely used to ensure the restaurant can accommodate the family's needs, provide a smooth dining experience, and ensure accurate records are kept for future reference.
-</thinking>
-
 # family_friendly_dinner_reservation - Help Guide
 
 ## Purpose

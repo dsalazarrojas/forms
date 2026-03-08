@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide that effectively communicates the purpose, completion process, and each field's meaning for the "Therapist Access Authorization Form", I'll first clarify the form's purpose and context.
-
-The form's primary goal is to grant access to a client's medical information or treatment team by an authorized individual, typically a healthcare professional. This form ensures that the client's information is secure and only accessible to those with legitimate access rights.
-
-The form is typically completed by the client or their representative, and it may be used by healthcare providers to authorize access to a client's treatment team, billing information, or insurance details. The form requires minimal information, making it relatively straightforward to fill out.
-
-</thinking>
-
 # Therapist Access Authorization Form - Help Guide
 ## Purpose
 The Therapist Access Authorization Form is a document used to grant access to a client's medical information or treatment team by an authorized individual. It's an essential tool to ensure the client's information is secure and only accessible to those with legitimate access rights.

@@ -1,10 +1,3 @@
-<thinking>
-To determine if this form is relevant to the user, consider the following:
-- Are you a hospital administrator or someone with authority to make employee recommendations?
-- Are you familiar with the candidate and their work history?
-- Are you able to provide a professional recommendation for the candidate?
-</thinking>
-
 # hospital_administrator_recommendation_form - Help Guide
 ## Purpose
 This form is for hospital administrators to provide recommendations for candidates applying for hospital positions. It helps to document their relationship with the candidate, job duties, and any other relevant details that can support the candidate's application.

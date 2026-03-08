@@ -1,7 +1,3 @@
-<thinking>
-This form is likely created to collect data about patients' awareness and behavior during the COVID-19 pandemic. The purpose of this form is to gather information on patients' demographics, their exposure to the virus, and their adherence to prevention methods and hospital visits. The form also aims to identify potential symptoms and track contact tracing information. The fields are designed to be easy to understand and fill out, with the majority being optional.
-</thinking>
-
 # Coronavirus Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect data about patients' awareness and behavior during the COVID-19 pandemic. It will help healthcare professionals track patients' demographics, prevention methods, symptoms, and contact tracing information.

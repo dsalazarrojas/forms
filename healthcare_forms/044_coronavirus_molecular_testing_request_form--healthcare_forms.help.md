@@ -1,8 +1,3 @@
-<thinking>
-This form is a digital representation of a Coronavirus Molecular Testing Request Form, designed to collect information for molecular testing purposes. The form is intended to gather details from individuals or their representatives to facilitate the testing process. Please ensure this form is relevant to your context and not duplicated before proceeding.
-
-</thinking>
-
 # Coronavirus Molecular Testing Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for molecular testing purposes.

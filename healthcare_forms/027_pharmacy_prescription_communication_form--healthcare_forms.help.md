@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between a patient and their healthcare provider regarding a prescription. 
-The form will likely be used in a healthcare setting, such as a hospital, clinic, or pharmacy, to ensure accurate and efficient transfer of information between parties involved. The form is likely used to collect patient information and medical history, as well as details about their prescribed medication. 
-</thinking>
-
 # Pharmacy Prescription Communication Form - Help Guide
 ## Purpose
 

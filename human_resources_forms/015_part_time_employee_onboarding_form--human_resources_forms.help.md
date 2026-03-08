@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "part_time_employee_onboarding_form" form, we need to understand the purpose and fields of the form. The form is designed to collect information about part-time employees, including their new employee information, contact details, emergency contact information, job title, department, and other relevant details. The form is likely used by HR personnel to onboard new part-time employees and update their records.
-
-Let's review the form fields to confirm the purpose and ensure that there are no duplicate or unnecessary fields. The form has 25 fields, which seems excessive. However, each field contributes to the overall purpose of the form. We'll make sure to highlight the most critical fields and provide guidance on how to complete each field in the help guide.
-
-</thinking>
-
 # part_time_employee_onboarding_form - Help Guide
 ## Purpose
 The "part_time_employee_onboarding_form" is a comprehensive form used by HR personnel to onboard new part-time employees and update their records. This form collects essential information about the employee's contact details, emergency contact information, job title, department, and other relevant details.

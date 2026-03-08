@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on the current state of flu season in a healthcare setting. The form is designed to gather data on various aspects of the flu season, including preventive measures taken, health monitoring practices, workspace adaptations, community engagement, emergency preparedness, flu outbreak reporting, and flu season impact. This form will likely be used by healthcare professionals to track and assess the effectiveness of flu season management in their facility. It is essential to ensure that this form is completed accurately and thoroughly to provide valuable insights for decision-making and resource allocation. This form may need to be reviewed by multiple parties, including the facility management team, local health authorities, and regional health experts. To avoid duplication of work, it is crucial to ensure that the form is filled out only once for each relevant period of the flu season.
-
-</thinking>
-
 # Flu Checklist - Help Guide
 ## Purpose
 The Flu Checklist form is designed to gather information on the current state of flu season in a healthcare setting.

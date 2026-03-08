@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback and performance data from healthcare staff members. It's intended for use by HR personnel and supervisors to assess an employee's performance over a review cycle. The form should only be filled out for staff members who have a scheduled review cycle. Before filling out this form, please ensure that you are using it for its intended purpose and not duplicating effort. If you're unsure, please contact your HR representative for guidance.</thinking>
-
 # Healthcare Staff Employment Review Form - Help Guide
 
 ## Purpose

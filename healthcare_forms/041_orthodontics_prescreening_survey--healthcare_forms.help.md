@@ -1,7 +1,3 @@
-<thinking>
-This form, "Orthodontics PreScreening Survey", likely aims to collect information from patients about their medical conditions, allergies, and emergency contacts to screen for any potential risks or contraindications before undergoing orthodontic treatment. This form might help orthodontic professionals assess the patient's medical background to provide personalized care.
-</thinking>
-
 # Orthodontics PreScreening Survey - Help Guide
 
 ## Purpose

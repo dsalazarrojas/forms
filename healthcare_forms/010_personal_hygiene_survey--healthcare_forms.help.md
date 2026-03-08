@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess a user's personal hygiene habits. The purpose of this form is to gather information on the frequency and practice of various personal hygiene habits, including hand washing, showering, deodorant use, flossing, wearing contacts, drinking water, exercising, eating fruits and vegetables, sleeping, wearing separaters, using clothes, spending time outdoors, wearing masks, practicing hair, skin, foot, nail, and ear hygiene, washing hair and face, flossing tongue, practicing proper toilet hygiene, and haircutting frequency. The form is intended to be a survey, and users will be asked to select from various options how often they practice these habits.
-
-To ensure the form is not duplicated or misused, this form should only be used for internal use within an organization, and users should only answer questions that are relevant to their own habits.
-
-This form is designed to be completed by users in a healthcare setting.
-</thinking>
-
 # personal_hygiene_survey - Help Guide
 ## Purpose
 The personal hygiene survey is a form designed to assess an individual's personal hygiene habits. It is used in a healthcare setting to gather information on the frequency and practice of various personal hygiene habits.

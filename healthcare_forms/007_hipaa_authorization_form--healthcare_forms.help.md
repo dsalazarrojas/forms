@@ -1,18 +1,3 @@
-<thinking>
-This form is an HIPAA-authorization form, which is used to obtain permission from patients to access their protected health information. The form is used to collect personal and demographic information, as well as authorization for healthcare providers to access the patient's records. This form is an original adaptation and does not copy or extract proprietary content from any form creation platform.
-The form has the following fields:
-* Patient Name: Required field for collecting the patient's name.
-* Provider Name: Required field for collecting the healthcare provider's name.
-* Date of Birth: Optional field for collecting the patient's date of birth.
-* Date of Service: Optional field for collecting the date of service.
-* Signature: Required field for collecting the patient's signature.
-* Authorization Type: Required field for selecting the type of authorization.
-* Authorized Provider: Required field for selecting the authorized healthcare provider.
-* Effective Date: Optional field for collecting the effective date of authorization.
-* Expiration Date: Optional field for collecting the expiration date of authorization.
-* Reason: Required field for collecting the reason for authorization.
-</thinking>
-
 # hipaa-authorization-form - Help Guide
 ## Purpose
 The hipaa-authorization-form is used to obtain permission from patients to access their protected health information.

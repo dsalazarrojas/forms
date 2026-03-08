@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in using Herbalife products or services. The form is designed to gather data on the user's overall fitness level, health goals, and any relevant comments or feedback. The form will help to provide personalized recommendations and guidance to support the user's health and wellness journey.
-
-This form should not be completed by users who are already Herbalife customers, as their data is already recorded in our system. Please ensure that you only complete this form once, as duplicate submissions may lead to data duplication and confusion.
-
-</thinking>
-
 # Herbalife Questionnaire - Help Guide
 ## Purpose
 The Herbalife Questionnaire is a form designed to collect information about your health and wellness goals, and how you would like to use Herbalife products or services to achieve them.

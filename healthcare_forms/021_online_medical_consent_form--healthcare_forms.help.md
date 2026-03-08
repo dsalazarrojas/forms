@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for use by medical professionals to collect information about a patient's personal data and medical history. The form will likely be used in a healthcare setting to gather necessary information for medical procedures, diagnoses, or treatments. Please ensure this form is used within your organization and in accordance with applicable data protection laws and regulations.
-
-This form has been automatically generated based on public survey metadata and is an original adaptation of a form in the "Healthcare" category. Please review and modify it according to your specific requirements. 
-
-Before using this form, check that it does not duplicate any existing form within your organization and that it aligns with your internal policies and procedures.
-</thinking>
-
 # online_medical_consent_form - Help Guide
 ## Purpose
 The online_medical consent form is designed to collect important information about a patient's personal details and medical background. This form will help healthcare professionals to better understand the patient's situation and provide proper care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # shelter_resident_participation_consent_form - Help Guide
 ## Purpose
 The Shelter Resident Participation Consent Form is a document used by shelters to gather essential information from residents regarding their medical conditions, emergency contacts, and participation in activities. This form is essential for the shelter staff to understand the resident's needs, provide appropriate care, and ensure their safety.

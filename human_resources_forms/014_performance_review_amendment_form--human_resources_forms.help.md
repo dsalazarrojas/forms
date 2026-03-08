@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Review Amendment Form - Help Guide
 ## Purpose
 The Performance Review Amendment Form is used to make changes to an existing performance review. This form is necessary when there are discrepancies between the initial performance review and the employee's actual performance.

@@ -1,38 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and consistently, I'll first analyze its purpose and fields to provide a comprehensive help guide.
-
-The form "imprest_management_form" appears to be a data collection tool for account management, specifically designed to capture information about account balances, interest rates, and other related metrics. The form contains fields for account ID, name, type, date, amount, balance, status, and other supporting details. It is likely used by accounting and financial teams to track and manage accounts accurately.
-
-The fields in this form are:
-
-*   `account_id`: This field is required and is used to uniquely identify an account.
-*   `account_name`: This field is also required and stores the account's name.
-*   `account_type`: An optional field for categorizing the account type.
-*   `imprest_date`: A required date field for capturing the interest rate date.
-*   `imprest_amount`: A required field for recording the interest rate amount.
-*   `account_balance`: A required field for the account's current balance.
-*   `user_id`: A required field for assigning the user who manages the account.
-*   `created_by`: A required field for recording the user who created the account.
-*   `updated_by`: A required field for recording the user who last updated the account.
-*   `updated_at`: An optional field for tracking the last update date.
-*   `account_status`: A required field for setting the account's status (Active or Inactive).
-*   `account_comment`: An optional field for adding any comments about the account.
-*   `imprest_status`: A required field for setting the interest rate status (Open or Closed).
-*   `account_notes`: An optional field for adding any notes about the account.
-*   `imprest_notes`: An optional field for adding any interest rate notes.
-*   `imprest_balance`: An optional field for recording the interest rate balance.
-*   `account_balance_change`: An optional field for tracking the account balance change.
-*   `imprest_change`: An optional field for recording the interest rate change.
-*   `imprest_total`: An optional field for recording the total interest rate amount.
-*   `imprest_average`: An optional field for calculating the average interest rate amount.
-*   `imprest_last_updated`: An optional field for tracking the last updated date of the interest rate.
-*   `account_last_updated`: An optional field for tracking the last updated date of the account.
-*   `imprest_last_updated_by`: An optional field for recording the user who last updated the interest rate.
-*   `account_last_updated_by`: An optional field for recording the user who last updated the account.
-*   `account_last_updated_at`: An optional field for tracking the last updated date of the account.
-
-</thinking>
-
 # imprest_management_form - Help Guide
 ## Purpose
 This form is designed for account management, specifically for capturing and tracking various account details such as account balance, interest rates, and other supporting metrics.

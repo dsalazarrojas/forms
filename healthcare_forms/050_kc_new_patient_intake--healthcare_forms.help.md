@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information about a new patient's demographics and medical history for the purpose of creating or updating their medical record. It should only be used for new patients who have not previously been treated at this medical center or clinic. The form will be reviewed internally to ensure that the information is accurate and up-to-date. Please fill out the form completely and thoroughly, ensuring that all fields are filled in as much as possible. This will help our medical staff to better understand your needs and provide the best possible care.
-</thinking>
-
 # KC New Patient Intake - Help Guide
 ## Purpose
 This form is used to collect demographic and medical information from new patients. The information collected will be used to create or update the patient's medical record.

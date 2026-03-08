@@ -1,14 +1,3 @@
-<thinking>
-To ensure this form's relevance and non-duplication, let's review its purpose and content:
-
-This form is a Case Report Consent Form used to obtain informed consent from participants in a study or case report. Its primary purpose is to protect participant privacy and confidentiality while ensuring they understand the study's terms and conditions. The form outlines the study's purpose, data collection methods, and how data will be stored and protected. By completing this form, participants provide their consent to participate in the study and agree to the terms of data use, publication, and confidentiality.
-
-The form consists of several sections: consent header, participant information, study information, data collection, confidentiality, and consent acknowledgment. Each section provides crucial details about the study, including the participant's personal data, study duration, and publication intent. The form also inquires about data usage, storage, and protection, ensuring participants' understanding and consent in these areas.
-
-Before filling out this form, ensure you have read and understood the information presented, and answer the questions honestly.
-
-</thinking>
-
 # Case Report Consent Form - Help Guide
 
 ## Purpose

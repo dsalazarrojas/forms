@@ -1,5 +1,3 @@
-<thinking> This guide will help users understand the purpose of the Community Health Equity Grant Application Form, which aims to support projects or initiatives that promote health equity and address disparities in health outcomes. The form is designed to gather information necessary for the grant application process. Please ensure you are applying for a grant to support a project that aligns with the focus areas specified in the form (e.g., Access to Healthcare, Chronic Disease Prevention, etc.). Before filling out this form, verify that your project meets the eligibility criteria and that you are not duplicating an existing application. If you are unsure, please reach out to us for guidance. </thinking>
-
 # Community Health Equity Grant Application Form - Help Guide
 ## Purpose
 The Community Health Equity Grant Application Form is designed to support projects or initiatives that promote health equity and address disparities in health outcomes.

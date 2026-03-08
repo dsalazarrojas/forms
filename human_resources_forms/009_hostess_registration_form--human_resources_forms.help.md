@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect contact information, address, phone number, email, job title, and job type details from individuals who intend to host events. This form is not intended to be used for other purposes, such as employee on-boarding or vendor registration. Please ensure you only complete this form for the intended purpose. Also, if you've already completed this form, please do not resubmit as a duplicate entry will result in unnecessary processing time and potential errors. 
-</thinking>
- 
 # Hostess Registration Form - Help Guide
  
 ## Purpose

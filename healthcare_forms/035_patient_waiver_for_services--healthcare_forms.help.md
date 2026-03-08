@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patients to acknowledge and agree to the risks associated with a treatment or service. The patient will provide their medical history, consent to treatment, and declare any allergies or risks they are aware of. This form is not designed to collect sensitive or personal identifiable information, as the focus is on obtaining the patient's consent for treatment. This form should not be used for data collection or research purposes.
-</thinking>
-
 # Patient Waiver For Services - Help Guide
 ## Purpose
 This form is intended for patients to acknowledge and agree to the risks associated with a treatment or service. It is a consent form that requires the patient to provide their medical history, declare any allergies or risks they are aware of, and consent to treatment.

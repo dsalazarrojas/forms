@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from breastfeeding mothers to help healthcare professionals assess their breastfeeding journey and provide personalized guidance. The form is intended for mothers who are experiencing challenges or concerns related to breastfeeding. Please note that this form is not intended for use as a diagnostic tool, but rather as a starting point for discussion with a healthcare professional. It is essential to answer the questions honestly and thoroughly to ensure accurate and helpful guidance.
-</thinking>
-
 # Breastfeeding Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from breastfeeding mothers to help healthcare professionals assess their breastfeeding journey and provide personalized guidance.

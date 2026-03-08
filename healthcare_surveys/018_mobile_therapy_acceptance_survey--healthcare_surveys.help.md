@@ -1,12 +1,3 @@
-<thinking> 
-  This form is used to collect information about a specific topic, likely related to the acceptance of mobile therapy tools or services in the healthcare industry. This form might be used for research purposes, to gather feedback from stakeholders such as therapists, clinics, or mental health startups. The form is designed to be completed by individuals with some level of expertise in the field. The purpose of this form is to collect data that can be used to further understand the acceptance of mobile therapy tools or services among different groups of professionals. 
-
-  To avoid duplication of effort, it is assumed that the form has been properly reviewed and approved by relevant stakeholders before being shared with end-users. 
-
-  This guide is intended to support end-users in completing the form correctly and efficiently.
-
-</thinking>
-
 # Mobile Therapy Acceptance Survey - Help Guide
 ## Purpose
 The purpose of this Mobile Therapy Acceptance Survey is to collect information about the acceptance of mobile therapy tools or services among professionals in the healthcare industry. This form is designed to gather feedback from different groups of professionals such as therapists, clinics, researchers, and mental health startups.

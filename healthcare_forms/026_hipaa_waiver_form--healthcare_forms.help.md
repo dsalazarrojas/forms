@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The HIPAA Waiver Form is a document that requires patient consent to disclose personal and medical information to authorized parties. This form helps to ensure that patients are aware of and agree to the sharing of their medical information in compliance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA). The form typically requires the patient's name, medical record number, and contact information to be completed, along with other relevant details such as the date of birth and authorization dates. The form is used to grant permission for healthcare providers to share medical information with authorized individuals or organizations.
 
 # HIPAA Waiver Form - Help Guide

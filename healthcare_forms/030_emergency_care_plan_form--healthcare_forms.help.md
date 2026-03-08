@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Care Plan Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about an individual's emergency care plan. It helps healthcare professionals quickly and accurately assess a patient's situation and respond effectively in critical situations. Please complete this form carefully and thoroughly, ensuring all required fields are filled out.

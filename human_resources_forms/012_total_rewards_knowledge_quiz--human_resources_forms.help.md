@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge an individual's knowledge about company total rewards, specifically in the areas of compensation, benefits, and recognition. The purpose of this form is to assess the level of understanding among employees about what total rewards means to them and the company. It is not intended to be a formal assessment or evaluation tool.
-</thinking>
-
 # Total Rewards Knowledge Quiz - Help Guide
 ## Purpose
 The Total Rewards Knowledge Quiz is designed to evaluate an individual's knowledge about company total rewards in the areas of compensation, benefits, and recognition.

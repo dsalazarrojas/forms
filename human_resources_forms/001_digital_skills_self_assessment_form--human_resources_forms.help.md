@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about an employee's digital skills, knowledge, and experiences. This form is meant to be completed by individuals who are being assessed for their technical skills and performance in the field of digital media.
 
 This form is not intended to be used for any other purpose, and it's recommended that each employee completes it only once, as part of their performance review or assessment process.

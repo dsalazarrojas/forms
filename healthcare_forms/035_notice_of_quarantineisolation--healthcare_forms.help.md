@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Notice Of QuarantineIsolation - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from home care workers, including their contact information, availability, and preferences for follow-up contacts. It is used by agencies to manage home care services. The fields are designed to collect data on the caregiver's contact method, agency contact information, and any follow-up tasks or notes.
-</thinking>
-
 # Home Care Worker Intake Survey - Help Guide
 ## Purpose
 This form is used by agencies to gather information from home care workers, including their contact information, availability, and preferences for follow-up contacts.

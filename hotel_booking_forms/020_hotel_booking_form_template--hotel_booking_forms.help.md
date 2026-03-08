@@ -1,8 +1,4 @@
-> <thinking>
-We are developing a hotel booking form template to facilitate the reservation process for guests. This form will collect essential information about the guest, such as their name, email, arrival and departure dates, room type, number of guests, payment details, and additional comments. The purpose of this form is to ensure accurate and efficient communication with the guest and to provide a seamless booking experience. Please make sure to fill out this form accurately and completely to ensure a smooth check-in process.
-</thinking>
-
-# Hotel Booking Form Template - Help Guide
+> # Hotel Booking Form Template - Help Guide
 ## Purpose
 The Hotel Booking Form Template is designed to collect essential information from guests to facilitate a smooth and efficient booking process.
 

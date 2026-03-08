@@ -1,7 +1,3 @@
-<thinking>
-We need to check the form purpose and relevance before creating the user guide. The form is called "house_call_service_survey" and it seems to be a medical form used for patient information and feedback. It is likely used for healthcare providers to collect data about their patients, and the fields suggest that it is used for both clinical and non-clinical data collection.
-</thinking>
-
 # house_call_service_survey - Help Guide
 
 ## Purpose

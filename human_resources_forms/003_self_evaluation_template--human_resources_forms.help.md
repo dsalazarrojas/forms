@@ -1,12 +1,3 @@
-<thinking>
-The self_evaluation_template form is used for evaluating an employee's performance and progress in the workplace. The purpose of this form is to gather information about an employee's strengths, areas for improvement, and development plans, as well as to collect feedback and ratings from the evaluator. This form is typically used in a HR-related context to facilitate regular performance evaluations.
-
-The form is divided into multiple pages, each with its own set of fields. The first page collects basic information about the employee, such as their name, department, job title, and evaluation period. The subsequent pages are more free-form, allowing the evaluator to provide feedback and ratings on various aspects of the employee's performance.
-
-To ensure the form is used correctly, it's essential to understand each field's purpose and how they contribute to the overall performance evaluation process.
-
-</thinking>
-
 # self_evaluation_template - Help Guide
 ## Purpose
 

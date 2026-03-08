@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from interns about their experiences in their current or previous internship positions. The purpose of this form is to gather insights on various aspects of their work environment, job satisfaction, and communication with colleagues and superiors. This form is intended to be completed by current or former interns who have worked in our organization. If you have already completed this form, please do not fill it out again. If you are unsure about any of the questions or fields, please contact your supervisor or HR representative for clarification.
-</thinking>
-
 # Internship Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from interns about their experiences in their current or previous internship positions.

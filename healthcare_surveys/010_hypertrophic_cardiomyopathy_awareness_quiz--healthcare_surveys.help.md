@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their awareness of hypertrophic cardiomyopathy, a condition that affects the heart muscle. The form is meant to be filled out by patients, doctors, or medical students to gauge their knowledge and understanding of the condition. The questions cover various aspects of hypertrophic cardiomyopathy, including its medical conditions, symptoms, and treatments.
-</thinking>
-
 # Hypertrophic Cardiomyopathy Awareness Quiz - Help Guide
 ## Purpose
 

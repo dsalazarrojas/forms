@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist end-users in completing the Patient Waiting List form efficiently and effectively. The form is designed to track and manage patient waiting lists, allowing healthcare professionals to prioritize and manage patient appointments. This guide will cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Patient Waiting List - Help Guide
 ## Purpose
 The Patient Waiting List form is designed to collect and manage patient information for appointments and visits. This form helps healthcare professionals prioritize and schedule appointments, ensuring that patients are seen in a timely and efficient manner.

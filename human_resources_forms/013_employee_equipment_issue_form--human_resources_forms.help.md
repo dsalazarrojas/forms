@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to help employees report equipment issues that need to be addressed by the facilities or maintenance team. This form will help gather necessary information about the issue, including the date it occurred, a brief description, the name of the equipment affected, the employee reporting the issue, the department where the issue occurred, the type of issue, and any additional comments or images that can assist in resolving the issue.
 
 </thinking>

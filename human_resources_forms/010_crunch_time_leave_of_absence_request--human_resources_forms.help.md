@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information and approval for a Crunch Time Leave of Absence (LOA) request from an employee. The form is intended for employees to submit a formal request for a LOA, providing necessary details such as start and end dates, reason for leave, and other relevant information. The form is also used by managers to approve or reject the request, and track their approval status. The purpose of this guide is to help employees and managers complete the form accurately and efficiently.
-
-Please note that this form is likely to be used for both initial submissions and follow-up approvals, so you may need to adjust the instructions accordingly.
-
-</thinking>
-
 # Crunch Time Leave Of Absence Request - Help Guide
 ## Purpose
 The Crunch Time Leave Of Absence Request form is used to submit and manage requests for leave of absence from work.

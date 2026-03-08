@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for the "Hotel Meeting And Booking Request Form" which is used by hotel staff to request meetings and bookings at the hotel. This form is intended to gather all the necessary information for the hotel management to plan and coordinate meetings and events. This guide will walk the user through how to fill out the form accurately and efficiently.
-
-</thinking>
-
 # Hotel Meeting And Booking Request Form - Help Guide
 ## Purpose
 The Hotel Meeting And Booking Request Form is used by hotel staff to request meetings and bookings at the hotel. This form gathers all the necessary information to help the hotel management plan and coordinate meetings and events.

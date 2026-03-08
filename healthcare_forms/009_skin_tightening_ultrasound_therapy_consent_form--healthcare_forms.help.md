@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather information for Skin Tightening Ultrasound Therapy, a non-invasive treatment that uses high-frequency sound waves to tighten and firm skin. This guide will walk you through the completion of the form, field by field.
-
-The form is divided into multiple pages, each collecting specific information from the client. The form is not intended for emergency use; its purpose is to gather informed consent and relevant client data before commencing with the treatment.
-
-To fill out this form, the client is required to provide some basic information, including their contact info and medical history. However, some fields are optional, and the client should only fill out what they are comfortable sharing.
-
-Here's an explanation of each field and how to complete it:
-
-Please ensure you fill out this form accurately, as the information collected will be used to determine the suitability of the client for the Skin Tightening Ultrasound Therapy treatment.
-</thinking>
-
 # Skin Tightening Ultrasound Therapy Consent Form - Help Guide
 ## Purpose
 The Skin Tightening Ultrasound Therapy Consent Form is designed to collect informed consent from clients and gather relevant health information to ensure the safety and effectiveness of the treatment.

@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect feedback from seasonal staff about their employment experience, including their team, the agency they worked with, and their satisfaction with their position. This form aims to identify areas for improvement and suggestions for future seasonal employment opportunities. It also collects information about the form itself, such as when it was created, completed, and any revisions or submissions made.
-
-</thinking>
-
 # Hospitality Seasonal Employment Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from seasonal staff about their employment experience, allowing us to identify areas for improvement and provide better services.

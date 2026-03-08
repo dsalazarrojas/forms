@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess patient or caregiver satisfaction with anticoagulation discussions with healthcare providers. It captures information about the clarity of communication, the comprehensiveness of the discussion, and potential barriers to adherence. This form will help us evaluate the quality of anticoagulation discussions and identify areas for improvement. It's likely that patients and caregivers will be responding to this form, but it's also possible that healthcare providers will be providing feedback on their own discussions. We should ensure that the form is clear and easy to understand for both groups.
-
-To ensure that this form doesn't duplicate other existing forms and to keep it focused on anticoagulation specific discussions. We should consider using this form as an addendum to other patient or provider feedback forms. This will help us gather more specific and detailed information about anticoagulation discussions without overwhelming patients or providers with too much content.
-
-Please note that we should also consider adding questions about patient or provider satisfaction with the anticoagulation discussion to the form, as it's a crucial aspect of care quality. 
-
-</thinking>
-
 # Anticoagulation Discussion Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients or caregivers about their experience with anticoagulation discussions with healthcare providers. The goal is to assess the quality of these discussions and identify areas for improvement.

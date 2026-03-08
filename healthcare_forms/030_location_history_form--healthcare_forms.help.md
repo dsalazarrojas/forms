@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about a location's history, specifically regarding infected person, suspected contacts, location form contacts, location status, start date of the location history, end date of the location history, syncing with other locations, and apps syncing with this location. This form is designed to gather data that will be used for analysis and decision-making purposes. 
-
-Please ensure that you are filling out this form for the correct location history, as filling out this form for a different location will not gather the correct information. 
-</thinking>
-
 # location_history_form - Help Guide
 ## Purpose
 The location history form is used to collect data on a location's history, including information about the infected person, suspected contacts, location status, start and end dates, and sync status with other locations and apps.

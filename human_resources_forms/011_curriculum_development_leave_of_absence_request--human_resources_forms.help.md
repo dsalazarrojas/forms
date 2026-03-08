@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, please note that this form is for requesting a leave of absence for Curriculum Development purposes only. The form is meant to be filled out by team members to notify their team lead and manager of their intention to take a leave of absence. It's essential to fill out this form accurately and completely to ensure that the leave request is processed efficiently. If you are unsure about any field, please refer to your supervisor or HR department for guidance.
-</thinking>
-
 # Curriculum Development Leave Of Absence Request - Help Guide
 ## Purpose
 This form is used to request a leave of absence for Curriculum Development purposes. It's essential to fill out this form accurately and completely to ensure that the leave request is processed efficiently.

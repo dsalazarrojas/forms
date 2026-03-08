@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to measure the impact of leadership transformation on employees and the organization as a whole. The purpose of this form is to collect data on how well the current leadership team is performing in terms of employee performance, engagement, training effectiveness, and overall impact on the organization. This data will help identify areas of improvement and inform future decisions regarding leadership development and training.
-
-</thinking>
-
 # Leadership Transformation Impact Survey - Help Guide
 
 ## Purpose

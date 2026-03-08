@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a special visitor request, which is typically a request to visit a healthcare facility for a specific reason. The form is used to collect information from the visitor, including their name, organization, phone number, email, and other relevant details. The form is designed to be completed by the visitor themselves, or by an authorized representative on their behalf. It's essential to complete this form accurately and thoroughly to ensure that the visitor's visit is handled smoothly and efficiently.
-</thinking>
-
 # Special Visitor Request Form - Help Guide
 ## Purpose
 The Special Visitor Request Form is used to collect information from visitors who are visiting a healthcare facility for a specific reason. This form helps us understand who is visiting and why, ensuring that their visit is handled properly and they receive the necessary care and attention.

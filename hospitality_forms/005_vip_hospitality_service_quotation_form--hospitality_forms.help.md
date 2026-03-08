@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a way for users to quickly capture information about a guest's stay or visit. It's likely used by hospitality staff to gather information about guests and their needs. This form should be completed by users who are familiar with the form's purpose and the fields it contains. It's not intended for users who are new to this form, so this guide will assume prior knowledge or experience with the form.
-</thinking>
-
 # vip_hospitality_service_quotation_form - Help Guide
 
 ## Purpose

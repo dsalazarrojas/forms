@@ -1,9 +1,3 @@
-<thinking>
-
-Internal note: This form is intended to be a straightforward and user-friendly job application form for candidates to showcase their interest in a particular job title. The "Drag and Drop Resume" field allows users to upload a resume, and the "Job Description" field requires candidates to write a brief description of the role they're applying for. This form ensures that the candidate provides necessary contact information (position name and email), while also allowing them to showcase their experience and qualifications in a resume and a brief description. To avoid redundancy, we will not display the "Phone" field, assuming that candidates can be contacted via email or other means, and will not display "Position Name" for fields that are not required.
-
-</thinking>
-
 # simple_job_application_form_red_and_responsive - Help Guide
 ## Purpose
 This form is designed to collect necessary information from job applicants, including their position name, contact email, drag and drop resume, and a brief description of the job they're applying for. 

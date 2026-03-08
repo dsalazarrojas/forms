@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients about their need for assistance at a distance, which could be in the form of remote consultations or other medical services. This form ensures that patients can express their needs effectively and efficiently.
-</thinking>
-
 # need-assistance-at-a-distance - Help Guide
 ## Purpose
 The "Need Assistance at a Distance" form is designed to collect information from patients about their requirements for remote medical care, enabling healthcare providers to tailor their services accordingly.

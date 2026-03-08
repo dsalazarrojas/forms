@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to verify form purpose and non-duplication
-
-This form is designed to be used for booking a chiropractic appointment with a healthcare professional. The form collects patient information, appointment details, and payment and insurance information to ensure that the patient's needs are met and that the appointment can be scheduled accordingly.
-
-Form fields are not duplicated in this guide. Each field has a specific purpose and explanation to help the user understand its relevance and importance.
-
-</thinking>
-
 # Chiropractic Treatment Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information about you, the patient, and schedule a chiropractic treatment appointment with our healthcare professional. Please take a few minutes to fill out this form carefully, and don't hesitate to contact us if you have any questions or concerns.

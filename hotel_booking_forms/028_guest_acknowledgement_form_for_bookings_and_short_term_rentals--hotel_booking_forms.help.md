@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather important information from guests who have made bookings or rentals in a hotel. The goal is to ensure that the guest acknowledges their agreement with the hotel, provides accurate contact and payment information, and records any disputes that may have arisen during their stay. This form may be used to verify that the guest has received their payment, and to gather information in case of any disputes. This is a one-time form, and should only be filled out once per guest.
-</thinking>
-
 # Guest Acknowledgement Form For Bookings And Short Term Rentals - Help Guide
 ## Purpose
 This form is used to gather important information from guests who have made bookings or rentals in a hotel. It is used to ensure that the guest acknowledges their agreement with the hotel, provides accurate contact and payment information, and records any disputes that may have arisen during their stay.

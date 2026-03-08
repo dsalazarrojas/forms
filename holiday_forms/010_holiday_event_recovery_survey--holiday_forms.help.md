@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to complete a survey about the success and well-being of a holiday event. This guide ensures that users provide accurate and complete information to help organizers assess the event's effectiveness. The survey should only be filled out by individuals who attended the holiday event and have not previously done so. It is recommended that users fill out the survey only once per event. If a user has already filled out the survey for this event, please do not fill it out again. This survey will help us understand how to improve our future events.</thinking>
-
 # Holiday Event Recovery Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and information from attendees about their experience with a holiday event. Your input will help us understand what worked well and what can be improved for future events.

@@ -1,20 +1,3 @@
-<thinking>
-The form purpose is to gather data on the respondents' attitudes and experiences related to life-saving measures such as CPR. This form is part of a larger study to understand how healthcare professionals and others respond to critical situations that require immediate action to save lives. By filling out this form, respondents will be helping to contribute to a valuable dataset that can inform education, training, and resource allocation for healthcare providers.
-
-We've designed this form to be easy to understand and fill out, with clear labels and explanations for each field. However, if you have any questions or concerns, please don't hesitate to reach out to the researchers.
-
-The form is divided into several pages, each with its own set of questions. You can navigate between pages using the navigation buttons at the bottom of each page.
-
-Before you start, please make sure you have a stable internet connection and a few minutes to spare to complete the form.
-
-We recommend taking your time to answer each question carefully, and don't worry if you need to refer back to the form later.
-
-The form has been designed to be completed by respondents with varying levels of experience and knowledge. If you have any concerns about the content or the questions asked, please contact the researchers for guidance.
-
-Now, let's get started!
-
-</thinking>
-
 # Life Saving Attitudes Survey - Help Guide
 ## Purpose
 

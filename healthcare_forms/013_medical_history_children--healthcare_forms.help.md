@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect medical history information for children, covering various aspects of their health and well-being. The purpose of this form is to gather detailed information about the child's medical history, including common labor issues, pregnancy issues, birth defects, family history, medical history, immunization, allergy, current health status, previous medical conditions, previous surgeries, current medications, and additional comments. This form is likely to be used in a healthcare setting, such as a pediatrician's office or a family doctor's office.
-
-Before proceeding, we must verify that this form is not a duplicate or a deviation from existing medical history forms. This form is designed to be a comprehensive overview of a child's medical history, and any deviations or duplicates may lead to confusion or incomplete information.
-
-Please note that this form is an original adaptation, not affiliated with, endorsed by, or derived from any form platform. It is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it while giving credit.
-</thinking>
-
 # Medical History Children - Help Guide
 ## Purpose
 This form is intended to collect medical history information for children, covering various aspects of their health and well-being.

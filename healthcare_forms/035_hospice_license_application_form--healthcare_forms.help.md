@@ -1,6 +1,3 @@
-<thinking>
-This form is used to apply for a hospice license. It requires information from the applicant to process and evaluate their application. This form will likely be used by a regulatory body or government agency to assess the qualifications and credentials of the applicant. The form should only be filled out by authorized personnel. To ensure the completeness and accuracy of the application, please review the required fields carefully and provide the requested information truthfully.</thinking>
-
 # hospice_license_application_form - Help Guide
 ## Purpose
 The hospice license application form is a document used to apply for a hospice license. This form collects necessary information from applicants to process and evaluate their application for a hospice license.

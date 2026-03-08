@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to enroll in the Certified Phlebotomy Technician program. The purpose of this form is to gather demographic and educational information that will be used to determine eligibility and schedule hands-on sessions for the program. The form is intended for individuals who are interested in becoming certified phlebotomy technicians and are ready to provide their contact information and availability for the program. Please ensure that the information you provide is accurate and up-to-date, as it will be used for certification purposes.
-</thinking>
-
 # Certified Phlebotomy Training - Help Guide
 ## Purpose
 The Certified Phlebotomy Training form is designed to collect information from individuals who want to enroll in the Certified Phlebotomy Technician program.

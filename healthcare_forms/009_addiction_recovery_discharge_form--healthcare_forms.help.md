@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive tool for tracking and documenting the discharge process of patients undergoing addiction recovery treatment. The form is designed to collect essential information about the patient's treatment and progress, as well as their discharge status and any necessary follow-up care.
-
-To ensure that the form is completed accurately and thoroughly, it's essential to follow the provided instructions and guidelines. The form is divided into various sections, each with its own set of questions and prompts. Completing the form in a methodical and detailed manner will help in providing a comprehensive picture of the patient's recovery journey.
-
-Before proceeding with the form completion, it's crucial to review the provided fields carefully and ensure that all relevant information is collected. Some fields may be required, while others are optional, and understanding the purpose and context of each field is vital in ensuring that the form is completed accurately.
-
-</thinking>
-
 # Addiction Recovery Discharge Form - Help Guide
 ## Purpose
 The Addiction Recovery Discharge Form is designed to provide a comprehensive documentation of a patient's treatment and recovery progress, facilitating smooth transition from in-patient treatment to post-treatment care. It's used by treatment centers and healthcare professionals to track and document the patient's journey, ensuring that they receive the necessary care and support after discharge.

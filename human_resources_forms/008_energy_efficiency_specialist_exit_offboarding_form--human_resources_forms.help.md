@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR personnel to offboard energy efficiency specialists when they leave the company. The purpose of this form is to gather information about the specialist's departure, including feedback, reason for departure, and any comments they may have. This form is used to ensure a smooth transition of responsibilities and to help the company learn from the specialist's experience. The information collected in this form will be used to update HR records and to inform future hiring decisions. This form should only be filled out by energy efficiency specialists who are leaving the company. If you're not an energy efficiency specialist, please do not fill out this form.
-</thinking>
-
 # energy_efficiency_specialist_exit_offboarding_form - Help Guide
 ## Purpose
 This form is used to document the offboarding process of energy efficiency specialists who are leaving the company. It is intended to collect necessary information to ensure a smooth transition and to help the company learn from the experience of the departing specialist.

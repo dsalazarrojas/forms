@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for sponsorship support for a hospice organization. This form will be used to receive charitable donations from individuals or organizations in support of the hospice's activities and services. The form is intended for use by anyone interested in sponsoring or donating to the hospice, and it is not a transactional form for existing sponsors to update their information.
-
-Before filling out this form, please note that it is a one-time submission form and not for recurring donations. If you have already submitted a sponsorship form, please do not resubmit. 
-
-</thinking>
-
 # Hospice Sponsorship Form - Help Guide
 ## Purpose
 This form is used to collect information for sponsorship support for a hospice organization, and it is intended for one-time submissions.

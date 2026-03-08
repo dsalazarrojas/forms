@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for home inspectors to gather information about the condition of windows and doors in a property. The purpose of this form is to help the inspector gather relevant data about the property, ensuring that the inspection is thorough and accurate. It will help the inspector to identify any potential issues or problems with the windows and doors, which can be used to inform the homeowner or property owner about any necessary repairs or replacements. Before starting to complete the form, please ensure that you have not already inspected the property and have not completed a similar form for the same property. Please make sure that you have the necessary permission to access and inspect the property.
-</thinking>
-
 # Home Window And Door Inspection Form - Help Guide
 ## Purpose
 The Home Window And Door Inspection Form is designed to collect information about the condition of windows and doors in a property. This form will help the home inspector gather relevant data to inform the homeowner or property owner about any necessary repairs or replacements.

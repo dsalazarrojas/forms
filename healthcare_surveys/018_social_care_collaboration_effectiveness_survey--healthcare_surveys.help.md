@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to measure the effectiveness of social care collaboration among healthcare professionals. The questions are meant to gather information about the collaboration practices, care coordination, and communication channels used in healthcare settings. This form should only be completed by healthcare professionals who have experience with social care collaboration.
-The form is not meant to be duplicated, and answers should reflect the actual practices and experiences of the individual completing the form.
-</thinking>
-
 # Social Care Collaboration Effectiveness Survey - Help Guide
 ## Purpose
 This form aims to gather information about the effectiveness of social care collaboration among healthcare professionals. It is designed to help identify areas of improvement and best practices in care coordination, communication, and collaboration.

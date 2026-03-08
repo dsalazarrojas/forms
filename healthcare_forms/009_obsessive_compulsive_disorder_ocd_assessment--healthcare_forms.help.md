@@ -1,11 +1,3 @@
-<thinking>
-The Obsessive Compulsive Disorder (OCD) Assessment form is designed to gather information about the client's experience with Obsessive-Compulsive Disorder (OCD), a type of mental health condition characterized by unwanted and repeated thoughts or behaviors. This form is intended to help healthcare professionals understand the severity and frequency of the client's symptoms, as well as their impact on daily life, relationships, and treatment status. It is crucial to complete this form accurately and honestly to ensure that healthcare providers can receive a comprehensive understanding of the client's needs.
-
-Please note that this form is not a substitute for a professional medical evaluation or diagnosis. If you are experiencing symptoms of OCD, please consult a qualified healthcare professional for an official diagnosis and treatment.
-
-Before starting, ensure that you have completed the form for the correct individual and that the information is up to date.
-</thinking>
-
 # Obsessive Compulsive Disorder (OCD) Assessment - Help Guide
 ## Purpose
 

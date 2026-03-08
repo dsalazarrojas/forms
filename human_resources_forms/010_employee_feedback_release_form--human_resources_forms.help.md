@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Feedback Release Form - Help Guide
 
 ## Purpose

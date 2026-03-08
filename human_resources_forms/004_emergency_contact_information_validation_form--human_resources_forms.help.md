@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect emergency contact information from users, ensuring that in case of an emergency, the organization knows who to contact and how to reach them. The form is designed to gather details about the user's emergency contact, including their name, phone number, address, and relationship to the user. This information will be used for internal purposes, such as contact tracing and emergency response planning. Please note that this form is not designed to collect sensitive or confidential information and should not be used for external communication or data sharing with third-party organizations.
-</thinking>
-
 # Emergency Contact Information Validation Form - Help Guide
 ## Purpose
 The Emergency Contact Information Validation Form is a critical resource for organizations to ensure they have up-to-date contact information in case of an emergency. This form helps you provide accurate and reliable contact details to your emergency contacts.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for patients to provide their informed consent for teletherapy services. Informed consent is a critical aspect of healthcare, ensuring that patients understand their treatment options, risks, and benefits. The form is designed to be completed by the patient, with the goal of protecting their rights and ensuring they are aware of their responsibilities in the treatment process. The form should only be completed by the patient themselves, and not by anyone else on their behalf. This guide is to assist the patient in understanding the purpose and requirements of this form.
-</thinking>
-
 # Teletherapy Informed Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for teletherapy services.

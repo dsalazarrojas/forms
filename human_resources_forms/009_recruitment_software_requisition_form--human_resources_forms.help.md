@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruitment Software Requisition Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The "Union Grievance Intake Form" is used for collecting information from union members or staff about grievances they want to file against their union or employer. This form helps the union administration to understand the issue, gather necessary details, and respond appropriately.
-
-To ensure that all relevant grievances are properly recorded and addressed, please make sure to complete the form accurately and thoroughly.
-
-To complete the form, follow the steps below:
-
-</thinking>
-
 # Union Grievance Intake Form - Help Guide
 ## Purpose
 The Union Grievance Intake Form is a tool for union members or staff to submit their concerns or complaints regarding the union or their employer. This form collects relevant information to help the union administration understand and respond to the issue.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from experts applying for a job position within the company. This form is likely used by HR department to collect data for recruitment purposes. It is assumed that experts are applying for a job, therefore, this form is not intended for non-experts.
-</thinking>
-
 # Expert Aplication - Help Guide
 ## Purpose
 The Expert Application form is designed to collect information from experts applying for a job position within the company. This form is used by HR department to gather relevant data for recruitment purposes.

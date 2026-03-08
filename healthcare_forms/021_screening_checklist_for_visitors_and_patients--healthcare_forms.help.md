@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from visitors and patients in a healthcare setting, likely for contact tracing, medical history, and other related purposes. The form is intended to be filled out by visitors and patients upon arrival or during a visit. It's likely used by healthcare professionals to quickly identify potential risks and take necessary precautions.
-</thinking>
-
 # Screening Checklist For Visitors And Patients - Help Guide
 ## Purpose
 This form is designed to gather information from visitors and patients in a healthcare setting, including their visitor information, symptoms, medical conditions, medical history, and screening results. It's meant to be filled out by visitors and patients upon arrival or during a visit.

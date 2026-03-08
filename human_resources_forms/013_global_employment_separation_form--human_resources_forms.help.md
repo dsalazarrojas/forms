@@ -1,8 +1,3 @@
-<thinking>
-The Global Employment Separation Form is a crucial document used to formalize the separation of an employee from the company. This form helps in maintaining a record of the employee's departure and serves as a reference point for all parties involved in the separation process.
-To confirm the form's relevance, please ensure that you are filling it out for a valid reason, such as an employee leaving due to resignation, retirement, or termination. If you're unsure, double-check with your supervisor or HR department to avoid duplication of efforts.
-</thinking>
-
 # Global Employment Separation Form - Help Guide
 
 ## Purpose

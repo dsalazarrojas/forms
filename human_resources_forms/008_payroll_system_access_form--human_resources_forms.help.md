@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to provide access to the payroll system for employees, which is a critical component of the HR system. This form will be used to grant or deny access to the payroll system based on various criteria such as department, job title, access level, start and end dates, and start and end times. It is essential to complete this form accurately to ensure that the correct information is captured and the payroll system is accessible to the intended users. 
-
-The form has multiple pages, but only one page is included in this guide. This guide will cover the fields on this page and provide an explanation of each field. To complete this form, the user will need to provide information on the employee's ID, department, job title, access level, start and end dates, and start and end times. 
-
-This form has the following fields:
-
-* employee id: A numerical identifier for the employee. 
-* department: Selects if the employee has access to the payroll system for a specific department. 
-* job title: The job title of the employee. 
-* access level: Selects the level of access the employee has to the payroll system. 
-* start date: The date when the employee's access to the payroll system starts. 
-* end date: The date when the employee's access to the payroll system ends. 
-* start time: The time when the employee's access to the payroll system starts. 
-* end time: The time when the employee's access to the payroll system ends. 
-</thinking>
-
 # Payroll System Access Form - Help Guide
 ## Purpose
 The Payroll System Access Form is used to grant or deny access to the payroll system for employees based on various criteria.

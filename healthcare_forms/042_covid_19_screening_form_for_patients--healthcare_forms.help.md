@@ -1,7 +1,3 @@
-<thinking>
-The COVID 19 Screening Form For Patients is used to collect information about a patient's health status, particularly in relation to COVID-19. This form helps healthcare providers assess the patient's risk of infection and determine the need for further screening or testing. This form should be completed by a patient who is physically present at the healthcare facility or through a telehealth consultation.
-</thinking>
-
 # COVID 19 Screening Form For Patients - Help Guide
 ## Purpose
 This form is used to screen patients for COVID-19 symptoms and exposure risks.

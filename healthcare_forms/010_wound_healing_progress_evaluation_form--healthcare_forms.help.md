@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to assess the healing progress of a patient's wound, collecting relevant information about the wound's size, depth, type, and other characteristics, as well as the patient's overall condition and any necessary follow-up instructions. This form likely serves as a critical tool for healthcare professionals to evaluate the wound's healing progress and provide appropriate care and interventions.
-</thinking>
-
 # Wound Healing Progress Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help healthcare professionals assess the healing progress of a patient's wound and provide guidance on necessary interventions and follow-up care.

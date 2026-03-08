@@ -1,8 +1,3 @@
-<thinking>
-Shadowing sign off forms are used to record the completion of a shadowing experience, which is typically observed in a medical setting. Shadowing experiences are meant to be educational, and this form is used to document the details of the experience. To avoid duplication of efforts, it is essential to ensure that the shadowing experience is correctly documented before proceeding.
-
-</thinking>
-
 # Shadowing Sign Off Form - Help Guide
 ## Purpose
 The Shadowing Sign Off Form is used to document the completion of a shadowing experience. It is an essential step for tracking and verifying the educational experiences of trainees.

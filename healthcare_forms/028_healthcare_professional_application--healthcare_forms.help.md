@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to apply for a specific position or opportunity within a healthcare organization. The goal of this form is to gather information about the applicant's personal details, work experience, and medical credentials. 
-The form is designed to be completed by healthcare professionals who are interested in applying for a position within the organization. 
-Please ensure that you are only filling out this form if you are indeed a healthcare professional and have the necessary qualifications and experience to be considered for the position.
-</thinking>
-
 # Healthcare Professional Application - Help Guide
 ## Purpose
 The healthcare professional application form is designed for healthcare professionals to apply for a specific position or opportunity within a healthcare organization.

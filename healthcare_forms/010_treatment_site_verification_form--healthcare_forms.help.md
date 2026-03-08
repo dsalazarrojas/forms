@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Treatment Site Verification Form - Help Guide
 ## Purpose
 The Treatment Site Verification Form is a form designed to verify treatment sites for medical purposes. This form is used to gather information from patients about their treatment site, including their name, medical information, and treatment site preferences. The form is intended to be filled out by patients to provide accurate and up-to-date information for healthcare professionals.

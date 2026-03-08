@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "radiology_requisition_form", it's essential to understand that this form is used in a healthcare setting to collect information for radiology orders, such as X-ray, MRI, CT, or other medical imaging tests. The form typically captures essential details about the patient, the radiologist, and the order itself.
-
-The purpose of this form is to provide a standardized way of collecting information from radiologists and other healthcare professionals. This ensures consistency in the data collected and makes it easier to track and manage radiology orders.
-
-Before proceeding with the form, it's crucial to confirm that this information is not already available in the system or that the user is authorized to access and complete this form.
-
-</thinking>
-
 # radiology_requisition_form - Help Guide
 ## Purpose
 The radiology_requisition_form is used to collect information for radiology orders such as X-ray, MRI, CT, and other medical imaging tests.

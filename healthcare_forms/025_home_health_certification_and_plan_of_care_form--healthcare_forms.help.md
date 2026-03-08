@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for the certification and planning of care for home health services. It captures relevant information for patients, healthcare providers, and the certifying authority. The form will likely be used for administrative tasks such as documentation and certification processes. 
-</thinking>
-
 # Home Health Certification And Plan Of Care Form - Help Guide
 ## Purpose
 

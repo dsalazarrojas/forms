@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to facilitate the booking of a Mountain Retreat Cabin. It is designed to gather essential information from the user, including check-in and check-out dates, cabin type, guest details, and agreement to terms and conditions.
 
 To complete this form, follow these steps:

@@ -1,12 +1,3 @@
-<thinking>
-The "employment_follow_up_invitation" form is used for documenting the follow-up activities related to employment opportunities or candidate interactions. This form is typically used by HR staff to track and manage follow-up meetings or communications with employees or candidates. 
-
-The purpose of this form is to gather relevant information about the follow-up activity, including the meeting date, time, purpose, attendees, location, and status. The form also allows for additional comments or notes to be recorded.
-
-To ensure accurate and comprehensive information is captured, it is essential to review the form carefully before starting the follow-up activity.
-
-</thinking>
-
 # employment_follow_up_invitation - Help Guide
 ## Purpose
 The employment_follow_up_invitation form is used to document follow-up activities related to employment opportunities or candidate interactions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for providing feedback on HRIS (Human Resources Information Systems) mobile and web applications. This form captures different types of feedback, including technical issues, user interface (UI) concerns, and other feedback, such as comments or suggestions. The form allows users to submit feedback via email or other methods, and provides options for indicating whether the feedback has already been submitted and to whom it was submitted. 
-</thinking>
-
 # hris_mobile_and_web_feedback_form - Help Guide
 ## Purpose
 The HRIS mobile and web feedback form is a tool for providing feedback on the Human Resources Information Systems application. This form is used to capture issues, concerns, or suggestions related to the mobile and web applications, allowing users to provide input on how to improve the system.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from a sober living house manager to provide support and guidance to residents in recovery. The form is likely used to track the progress and treatment of residents in a sober living house, a facility that provides a safe and supportive environment for individuals recovering from addiction. The form may be used in conjunction with other data collection tools to provide a holistic understanding of resident needs and progress.
-
-Before filling out this form, please ensure you have the necessary permissions and information to complete it accurately. This form should not be filled out multiple times for the same individual. If you are unsure about any of the fields, please contact the relevant authorities or your supervisor for guidance.
-
-</thinking>
-
 # Sober Living House Manager Survey - Help Guide
 ## Purpose
 This form is used to collect information from a sober living house manager to support the treatment and progress of residents in recovery.

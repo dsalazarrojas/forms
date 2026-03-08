@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect healthcare medical assistant job applications from candidates. It has multiple fields for general information, contact details, availability, medical certifications, work experience, and education. The form is designed to be completed by candidates who are interested in working as a healthcare medical assistant.
-</thinking>
-
 # Healthcare Medical Assistant Job Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from candidates who are interested in working as a healthcare medical assistant. This form is used to gather relevant details about the candidate, including their general information, contact details, availability, medical certifications, work experience, and education.

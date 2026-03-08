@@ -1,17 +1,3 @@
-<thinking>
-
-This form is intended to gather information from applicants for the Hospitality Front Desk Associate position. The form is designed to capture basic contact information, work availability, and scheduling preferences. This form is likely to be used by HR representatives or managers to review and assess potential candidates.
-
-To determine if the form is being used for its intended purpose, one should consider the following:
-
-* Is the form being used to gather contact information and availability for front desk associates in the hospitality industry?
-* Are the questions on the form relevant to the role of a front desk associate, such as availability and scheduling preferences?
-* Does the form ask for information that is not already available in other systems or documents?
-
-If the answers to these questions are yes, then the form is likely being used for its intended purpose and no duplication is occurring.
-
-</thinking>
-
 # Hospitality Front Desk Associate Job Application - Help Guide
 ## Purpose
 This form is designed to gather information from applicants for the Hospitality Front Desk Associate position.

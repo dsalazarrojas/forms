@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to document and streamline the recruitment process for hiring managers and HR teams. It helps track the progress of candidates through each stage of the recruitment process, from initial application to final hiring decision. This form is designed to be completed by the recruitment team members, ensuring that all steps are taken and decisions are made in a timely and organized manner. It's essential to understand that this form serves as a checklist, helping users navigate the process while also providing visibility into the status of each candidate.
 
 </thinking>

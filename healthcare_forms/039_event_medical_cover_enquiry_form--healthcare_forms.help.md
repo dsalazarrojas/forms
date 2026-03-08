@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an event's medical cover needs. This form likely serves an internal use case for healthcare professionals to record or update event-specific medical cover requirements. To confirm, I will assume the context of a healthcare organization or medical facility seeking to document and manage event-related medical requirements.
-Please ensure that this form is not used for duplicate purposes or for events that do not require medical cover. If you're unsure about filling out this form, please seek guidance from a healthcare professional.
-</thinking>
-
 # event_medical_cover_enquiry_form - Help Guide
 ## Purpose
 The event_medical_cover_enquiry_form is designed to collect information about an event's medical cover needs. This form is intended to be used by healthcare professionals to record or update event-specific medical requirements.

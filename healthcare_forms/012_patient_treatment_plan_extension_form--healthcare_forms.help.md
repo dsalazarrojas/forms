@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect additional information about a patient's treatment plan. It is intended for use by healthcare professionals to gather data on a patient's treatment type, start and end dates, medical history, and other relevant details. This form should not be filled out by patients themselves, as it requires medical expertise to complete accurately. To avoid duplication of effort, ensure that the form is only used when there are updates or modifications to a patient's treatment plan. ...</thinking>
-
 # Patient Treatment Plan Extension Form - Help Guide
 ## Purpose
 

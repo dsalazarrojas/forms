@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to extend the contract of an employee, allowing them to continue working with the company beyond their initial contract period. This form is used by HR personnel to collect relevant information to facilitate the extension process. **Please ensure that you are eligible to submit this form.**
-
-If you've already submitted a contract extension or have an ongoing contract extension, you should not be completing this form. If you're unsure about the status of your contract, please contact your HR representative for guidance.
-
-Before proceeding, please ensure you have all the necessary information and supporting documents ready, including the current contract details and any relevant supporting materials.
-</thinking>
-
 # Employee Contract Extension Form - Help Guide
 ## Purpose
 The Employee Contract Extension Form is used to extend the contract of an employee beyond their initial contract period. This form is a crucial document for HR personnel to collect and process information required for contract extension.

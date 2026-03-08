@@ -1,10 +1,3 @@
-<thinking>
-This form is used to authorize a healthcare proxy in a healthcare setting. The form is typically used by a patient to appoint an individual as their healthcare proxy, who will be able to make medical decisions on their behalf. The form requires the patient to provide information about the proxy's name, relationship to them, and other personal details. The form also includes the date and time of authorization, as well as spaces for the patient and proxy to sign and print their names. This form is used to ensure that the patient's wishes are respected and that their healthcare is managed in accordance with their wishes.
-
-To ensure that the form is completed accurately and without errors, it is essential to review the fields carefully before submitting the form.
-
-</thinking>
-
 # Health Proxy Authorization Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to approve job offers, and it should only be filled out by authorized personnel. Before filling out this form, please confirm that the job offer is not already in progress, and that the person filling out the form is in a position to approve it. 
-</thinking>
-
 # Job Offer Approval Form - Help Guide
 ## Purpose
 This form is used to approve job offers. It gathers all the necessary information to ensure a smooth and efficient job offer process.

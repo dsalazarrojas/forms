@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the Film Crew Self Assessment COVID Screening form. The form is designed to collect information from film crew members about their health status regarding COVID-19 symptoms. It appears that this form is specific to the film industry and is used to identify potential risks of COVID-19 exposure. The form's purpose is to gather essential data to make informed decisions about health and safety protocols on set.
-
-Before proceeding, it is essential to ensure that this form is not already completed by the user. If the form has been previously completed, it may be necessary to review and update the information to reflect any changes in symptoms or travel history.
-
-Please note that the form's layout and fields might be subject to change. It is crucial to review the form carefully and understand each field's purpose to ensure accurate and complete information.
-
-</thinking>
-
 # Film Crew Self Assessment COVID Screening - Help Guide
 ## Purpose
 The Film Crew Self Assessment COVID Screening form is designed to collect information about your health status regarding COVID-19 symptoms. This form is essential for identifying potential risks of COVID-19 exposure on set and making informed decisions about health and safety protocols.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a general-purpose reservation confirmation form that can be used by hotel managers to confirm or update details of upcoming events or reservations. The form collects information on various aspects of the event, including attendee details, event timings, reservation duration, event type, capacity, and any special requests. This form should be used to efficiently gather necessary information from the event organizers or contacts.
-
-The fields in this form are mostly straightforward and self-explanatory. However, some might need more attention to avoid confusion. For example, the `event_type` field may require some understanding of internal business logic, but in general, this field should be used to categorize the type of event (e.g., meeting, wedding, convention, etc.). Similarly, the `event_capacity` and `event_setup` fields may require some basic knowledge of event planning. 
-
-The form does not have any fields explicitly indicating the type of input (e.g., dropdown, checkbox, radio button). This suggests that all fields are intended to be simple text fields. The form also does not have any fields explicitly indicating the input format for fields like `event_date` and `event_time`, but it is assumed that they should be input in a standard date and time format (e.g., YYYY-MM-DD and HH:MM AM/PM, respectively).
-
-</thinking>
-
 # Reservation Confirmation Form - Help Guide
 ## Purpose
 The Reservation Confirmation Form is a general-purpose form used by hotel managers to confirm or update details of upcoming events or reservations.

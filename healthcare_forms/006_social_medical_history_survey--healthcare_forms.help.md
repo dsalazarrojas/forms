@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social-medical-history-survey - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical history, including their allergies, medications, and medical conditions. This data will be used to support the diagnosis and treatment of the patient.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help HR staff or designated officials screen employees for potential COVID-19 exposure, infection, or other health-related concerns. The form gathers information on a series of questions to ensure that employees are safe to report to work or return to work after being cleared. This form is not intended to be a substitute for medical professionals or official COVID-19 testing. The form's purpose is not to duplicate any existing processes or procedures, but rather to provide an informal and efficient tool for quick assessments. Before proceeding, please ensure this form does not already exist in your organization or that it aligns with existing processes and guidelines.
-</thinking>
-
 # Employee Covid 19 Screening Checklist - Help Guide
 ## Purpose
 This guide is a step-by-step explanation to help you complete the "Employee Covid 19 Screening Checklist" form. It covers the form's sections and fields, providing you with a clear understanding of what each field is for and how to fill it out.

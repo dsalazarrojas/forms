@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the hospice medical equipment order form, which is used to document and manage the ordering and delivery of medical equipment for patients in hospice care. 
-
-The form is intended to capture information about the equipment ordered, the patient's medical history, and contact information for both the patient and the billing contact. It is also used to track the status of the order from receipt to delivery. 
-
-This form does not duplicate any other form or process within the system, and it is intended to be used exclusively for ordering medical equipment for patients in hospice care.
-
-</thinking>
-
 # hospice_medical_equipment_order_form - Help Guide
 ## Purpose
 The hospice medical equipment order form is used to document and manage the ordering and delivery of medical equipment for patients in hospice care.

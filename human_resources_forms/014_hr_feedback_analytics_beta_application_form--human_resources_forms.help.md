@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for human resources management, likely for employee or personnel information, or possibly for job applications. The fields suggest a form for providing basic contact information (name, email, phone) and qualifications/motivation. The form has multiple "Use Cases" fields, which may be for capturing specific scenarios or examples, and "Qualifications" for skills or abilities. The purpose of this form could be to gather information for a job application, onboarding process, or other personnel management tasks.
-
-Form structure is a mix of single-answer text fields for names and contact info, and multiple-choice select options for skills/qualifications and use cases. There are also optional "Other" fields for users to provide additional information not covered by the provided options.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information from users, possibly for human resources management purposes, such as job applications, onboarding, or other personnel information.

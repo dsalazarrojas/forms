@@ -1,5 +1,3 @@
-<thinking>...this form is meant to collect information about a patient's medical history and current conditions. This form is used to gather crucial details about a patient's health status, including any medications they are taking, medical conditions they may have, and contact information for emergency purposes. To determine the relevance of this form, I will check if the patient has a medical condition that requires this assessment. I will also ensure that this form is not duplicated, as there are no other forms with similar purposes... </thinking>
-
 # patient_health_assessment_form - Help Guide
 ## Purpose
 This form is designed to collect important information about a patient's medical status, including their medical history, current medications, and contact information for emergency purposes.

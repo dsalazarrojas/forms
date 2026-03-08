@@ -1,5 +1,3 @@
-<thinking>... The Mpox Survey is a form designed to gather information about public awareness, risk factors, symptoms, and prevention and control measures related to the Monkeypox virus. It is intended to be used by healthcare professionals and individuals involved in public health responses to assess and address the disease. This form is not meant to be a diagnostic tool, but rather a tool to gather data for research and policy-making purposes. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and its use should be in accordance with the original terms of service, specifically CC BY 4.0.</thinking>
-
 # Mpox Survey - Help Guide
 ## Purpose
 The Mpox Survey is a form created to gather information about public awareness, risk factors, symptoms, and prevention and control measures related to the Monkeypox virus.

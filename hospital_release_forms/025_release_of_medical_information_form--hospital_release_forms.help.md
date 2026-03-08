@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Release Of Medical Information Form - Help Guide
+> # Release Of Medical Information Form - Help Guide
 ## Purpose
 This form is designed to collect information for the release of medical records, allowing the owner to grant authorization to access their medical information.
 

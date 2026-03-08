@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Progress Report - Help Guide
 
 ## Purpose

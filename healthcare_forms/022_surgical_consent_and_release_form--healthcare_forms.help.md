@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be used by healthcare professionals to obtain surgical consent and release from patients before undergoing a surgical procedure. The form is used to inform patients about their rights and responsibilities, as well as the risks and benefits of the procedure. It's essential to fill out this form accurately and thoroughly to ensure that patients understand their obligations and the healthcare provider's responsibilities. 
-
-This form is typically used in hospitals or clinical settings. It's crucial to use this form in conjunction with the patient's medical records and other relevant documentation to ensure that the patient's consent and release are properly documented and communicated.
-
-The form is designed to be completed by the patient, but it may also be used by healthcare providers as a template to obtain consent and release from patients. It's essential to use this form in accordance with relevant laws and regulations, such as HIPAA, to maintain patient confidentiality and protect their rights.
-
-Please ensure that you understand the purpose and requirements of this form before proceeding with the instructions below.
-</thinking>
-
 # Surgical Consent And Release Form - Help Guide
 ## Purpose
 This form is designed to obtain surgical consent and release from patients before undergoing a surgical procedure. It's a crucial document that outlines the patient's rights, responsibilities, and the risks and benefits of the procedure.

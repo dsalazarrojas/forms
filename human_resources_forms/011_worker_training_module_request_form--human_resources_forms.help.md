@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-The purpose of this form is to collect information from staff members requesting access to various training modules. It serves as a platform for them to express their interest and specify their preferred date for receiving the training. Each field in this form is crucial in providing the necessary details for the training process. The form's design is meant to be user-friendly, ensuring that the completion process is efficient and painless.
-</thinking>
-
 # worker_training_module_request_form - Help Guide
 ## Purpose
 The worker_training_module_request_form is a tool used to collect requests from staff members for access to training modules. It provides an efficient way to gather essential information about the modules they need and the dates they prefer for the training.

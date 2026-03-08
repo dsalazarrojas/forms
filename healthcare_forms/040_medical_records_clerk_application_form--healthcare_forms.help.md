@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture information from Medical Records Clerks who are applying for a position at a healthcare facility. The form collects personal and professional information, including full name, date of birth, contact information, work experience, medical certifications, and availability. The fields are designed to be completed by the applicant, providing a comprehensive overview of their qualifications and experience. Ensure that the form is completed accurately and thoroughly to facilitate a smooth application process.
-
-Before proceeding, please note that this form is intended for Medical Records Clerks who are applying for a position. If you are not a Medical Records Clerk or not applying for this position, please do not complete this form.
-
-Please also note that this form is not intended to be a comprehensive medical history or a replacement for the applicant's actual medical records. The purpose of this form is solely to collect information about the applicant's qualifications and experience.
-
-Before completing the form, ensure that you have reviewed the provided fields and have all necessary information ready for completion.
-
-</thinking>
-
 # Medical Records Clerk Application Form - Help Guide
 ## Purpose
 The Medical Records Clerk Application Form is designed to collect information from Medical Records Clerks who are applying for a position at a healthcare facility. The form is used to gather personal and professional information, including full name, date of birth, contact information, work experience, medical certifications, and availability.

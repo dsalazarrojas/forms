@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Record Audit Form - Help Guide
 ## Purpose
 The Medical Record Audit Form is a tool used to collect and review patient medical information. This form is designed to ensure that patient records are accurate and up-to-date, and to help healthcare providers identify and address any issues that may arise during patient care.

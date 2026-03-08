@@ -1,9 +1,3 @@
-<thinking>
-
-The Smile Assessment Form Template is a comprehensive form designed to collect information about a patient's smile assessment and treatment plan. This form was created to gather details about a patient's dental and medical history, including their contact information, medical insurance, and billing address. By filling out this form, dentists can get an overview of a patient's smile assessment, medical information, and treatment plan, helping them to provide the best possible care.
-
-</thinking>
-
 # Smile Assessment Form Template - Help Guide
 ## Purpose
 This form is used for collecting information about a patient's smile assessment and treatment plan, which includes their dental and medical history, contact details, and billing information.

@@ -1,9 +1,3 @@
-<thinking>This form, "Speaking Interview Recording Form," is designed to record and store information about speaking interviews. It's intended for use by individuals or organizations conducting in-depth discussions or oral history recordings. This form helps capture crucial details such as the interviewee's name, question, and answer, as well as the recording device, time, date, and location used.
-
-**Before using this form, please ensure that you have the necessary permissions and rights to record and store information about the interviewees. Also, make sure that you're not duplicating efforts by not having duplicate entries.**
-
-</thinking>
-
 # Speaking Interview Recording Form - Help Guide
 ## Purpose
 The Speaking Interview Recording Form is designed to record and store information about speaking interviews, including details about the interviewee, recording device, time, date, and location.

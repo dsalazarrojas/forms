@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the "health_appraisal_questionnaire" form is correctly understood by end-users. This form aims to gather information about a patient's health status, medical history, and insurance information. It consists of multiple fields across different pages, including introduction, health status, medical history, lifestyle, health insurance, medical procedures, allergies, emergency contacts, and more.
-
-Before proceeding, we need to check if this form has any redundant or duplicate fields. Let's review the YAML structure to ensure that each field is correctly identified and explained.
-
-</thinking>
-
 # health_appraisal_questionnaire - Help Guide
 ## Purpose
 The health_appraisal_questionnaire is a form designed to collect comprehensive information about a patient's health status, medical history, lifestyle, and insurance details.

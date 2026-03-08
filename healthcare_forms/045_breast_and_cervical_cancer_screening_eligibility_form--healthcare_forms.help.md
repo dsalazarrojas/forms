@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for individuals to assess their eligibility for breast and cervical cancer screenings. The form is used to gather information about the patient's demographics, medical history, and preferred screening type. This information will help healthcare providers to identify patients who may be at risk for breast and cervical cancer and determine their eligibility for screenings. 
-
-To avoid duplication of effort, please ensure that this form is filled out by the patient only after they have not already undergone a screening in the recent past or have not been assessed for eligibility within a short period.
-
-</thinking>
-
 # Breast and Cervical Cancer Screening Eligibility Form - Help Guide
 ## Purpose
 The form is designed to gather information to assess a patient's eligibility for breast and cervical cancer screenings.

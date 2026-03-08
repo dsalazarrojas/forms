@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Enterprise Healthcare Client Insights Survey" form used to collect information from healthcare clients. This form is crucial in understanding client preferences, satisfaction, and referral intentions, which helps the healthcare organization to better serve their clients and improve their services. The form is designed to be completed by client-facing staff members who will be collecting information from clients and clients themselves. It's essential to ensure that the form is completed accurately and thoroughly to gather valuable insights.
-</thinking>
-
 # Enterprise Healthcare Client Insights Survey - Help Guide
 ## Purpose
 The Enterprise Healthcare Client Insights Survey is a form used to collect information from clients about their experiences with the healthcare organization. This includes their satisfaction with services, potential referrals, and areas for improvement.

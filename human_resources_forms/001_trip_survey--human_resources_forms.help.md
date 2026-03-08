@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will create a user-facing help guide for the "Trip Survey" form, explaining its purpose, how to complete it, and what each field means to assist end-users in understanding and filling out the form accurately. I will use the provided YAML fields for reference. The form appears to be for collecting information related to travel, including trip details, travel dates, duration, mode of transportation, travel reason, and budget. It is unclear what specific internal requirements this form meets, so I will assume it's for internal purposes and focus on providing a clear and concise guide. I will avoid inventing unsupported business logic and focus on explaining each field's purpose based on its label and hint.
-</thinking>
-
 # Trip Survey - Help Guide
 ## Purpose
 The Trip Survey form is designed to collect information about a trip, including travel details, dates, duration, transportation, and other relevant details. This form is to be filled out by travelers to provide accurate and helpful information for internal purposes.

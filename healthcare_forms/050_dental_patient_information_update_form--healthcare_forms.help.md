@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and update patient information in the healthcare industry, specifically for dental patients. Its purpose is to gather relevant data about a patient's personal details. Before filling out this form, please ensure that you are updating the correct patient's information and that you have not already submitted an update for this patient. To confirm, check your internal records and systems to prevent duplication of efforts.
-</thinking>
-
 # Dental Patient Information Update Form - Help Guide
 ## Purpose
 The Dental Patient Information Update Form is designed to collect and update patient information in the dental care industry. This form helps to gather relevant data about a patient's personal details, ensuring that your records are up-to-date and accurate.

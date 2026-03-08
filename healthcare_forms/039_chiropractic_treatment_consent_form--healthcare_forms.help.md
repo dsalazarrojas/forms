@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a comprehensive consent form for chiropractic treatment, designed to ensure patients understand their rights, responsibilities, and treatment plan before undergoing chiropractic care. The form covers essential topics such as patient acknowledgment, treatment authorization, and financial terms, aiming to establish a clear understanding between the patient and the chiropractor. 
-
-Before completing this form, please ensure you have discussed each section with your chiropractor, as it is essential to have a thorough understanding of the treatment process.
-
-</thinking>
-
 # Chiropractic Treatment Consent Form - Help Guide
 
 ## Purpose

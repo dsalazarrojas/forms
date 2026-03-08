@@ -1,18 +1,3 @@
-<thinking>
-
-This form is used for obtaining informed consent from individuals for specific medical procedures or tests. It's crucial to ensure that patients understand the purpose and implications of these procedures. As such, this form is designed to collect user information, date of birth, contact number, medical conditions, and consent date to gather necessary data for medical purposes.
-
-To prevent potential duplication or misinterpretation of form data, please ensure:
-
-* The form is not used for other purposes, such as marketing or unrelated medical procedures.
-* All fields are filled out accurately and truthfully.
-* The form is used for its intended purpose only.
-* Date fields are filled in with dates in MM/DD/YY format.
-* Medical conditions are selected from the provided options.
-* Consent is given freely and with understanding.
-
-</thinking>
-
 # M22 IPL Consent Form Sample - Help Guide
 
 ## Purpose

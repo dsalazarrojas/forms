@@ -1,14 +1,3 @@
-<thinking>
-Before creating the form help guide, let's analyze the form purpose and fields based on the provided YAML.
-
-This form seems to be designed for the admission process of the elder care program. It appears to be used to collect information about the patient's admission to the program. The fields cover various aspects of the patient's information, including facility details, patient contact, and care level.
-
-To prevent duplication of effort and ensure relevance, it's essential to confirm that this form is not already covered in existing documentation or that the provided YAML accurately represents the form's purpose and fields.
-
-Assuming the provided YAML accurately represents the form, let's create a help guide that follows the required structure and explains each field concisely and practically.
-
-</thinking>
-
 # elder_care_program_admission_form - Help Guide
 ## Purpose
 The elder care program admission form is used to collect information for the admission process of patients into the elder care program.

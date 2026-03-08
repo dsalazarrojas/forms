@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their plans for when the office reopens after a certain period of closure. It's intended to help management understand how employees will be returning to the office and what their reasons are for doing so. This form is only to be filled out once, and its completion is not mandatory. 
-
-This form is meant to be completed on the same day or before the office reopens, to get a accurate and timely picture of how things will pan out.
-
-</thinking>
-
 # office_reopening_survey - Help Guide
 ## Purpose
 This form is used to gather information from employees about their plans for when the office reopens after a certain period of closure.

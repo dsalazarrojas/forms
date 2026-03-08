@@ -1,8 +1,3 @@
-<thinking>
-This form is for HOA (Homeowners Association) application processing. The HOA is responsible for managing the neighborhood and its properties. This form is used to collect information about the applicant and their contact details. The form will be reviewed and processed by the HOA team for approval or rejection. Please ensure that the information provided is accurate and complete to avoid delays in the application process.
-
-</thinking>
-
 # HOA Application Form - Help Guide
 ## Purpose
 The HOA Application Form is designed to collect information about the applicant and their contact details for HOA processing.

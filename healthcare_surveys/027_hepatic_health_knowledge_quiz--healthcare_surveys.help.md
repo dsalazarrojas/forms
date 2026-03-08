@@ -1,10 +1,3 @@
-<thinking>
-
-This help guide is intended to provide users with a clear understanding of the purpose and usage of the Hepatic Health Knowledge Quiz form. It will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-
-</thinking>
-
 # Hepatic Health Knowledge Quiz - Help Guide
 ## Purpose
 

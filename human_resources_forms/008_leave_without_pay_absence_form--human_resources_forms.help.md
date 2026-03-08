@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leave Without Pay Absence Form - Help Guide
 ## Purpose
 This form is used to request a leave of absence without pay from work. It is intended for employees to request a leave for a specific period of time, including the date of absence and the reason for the leave. This form is usually completed by employees to notify their supervisor or HR department of their intention to be away from work.

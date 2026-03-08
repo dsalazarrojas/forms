@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gauge patient empowerment in the digital healthcare setting. It is likely used to assess the patient's perception of their control over their own health data, the ease with which they can access and utilize digital health tools, and other related aspects. This form is not intended for use in clinical trials, medical diagnoses, or other areas requiring specific medical expertise. Please ensure that you have the necessary permissions and context to complete this form accurately.
-
-</thinking>
-
 # patient_emptowerment_in_digital_health_survey - Help Guide
 ## Purpose
 This form aims to measure patient empowerment in the digital healthcare environment, focusing on patients' experiences and perceptions of their health data, digital tool accessibility, and related aspects.

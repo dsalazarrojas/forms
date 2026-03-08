@@ -1,12 +1,3 @@
-<thinking>
-This form is used to obtain approval for a recruitment plan, which is a crucial step in the hiring process. The purpose of this form is to ensure that all necessary information is accurately documented and approved by the approver before proceeding with the recruitment process. 
-
-It is essential to complete this form correctly to avoid any duplication of effort or confusion. Please review the fields carefully and provide accurate information to ensure a smooth and efficient hiring process.
-
-Before filling out the form, please note that all fields are optional unless marked as "required". If you are unsure about any field, please refer to the explanations below.
-
-</thinking>
-
 # Recruitment Plan Approval Form - Help Guide
 
 ## Purpose

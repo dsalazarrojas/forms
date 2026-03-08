@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's daily health status. This form is designed to gather data on various aspects of an individual's health, including their current health status, any health issues or concerns, and their overall well-being. This form is intended to be filled out on a daily basis, with the collected data being used to track changes in an individual's health over time. It's essential to review the form carefully and ensure that each field is completed accurately, as the data collected will be used to monitor health trends. Please ensure that you have reviewed all pages of the form before proceeding. This form is not intended for emergency medical attention, and users should not rely solely on this form for medical guidance. If you have any questions or concerns about your health, please consult a medical professional.</thinking>
-
 # daily-health-questionnaire-fill-up - Help Guide
 ## Purpose
 The daily health questionnaire fill-up form is designed to gather information about your daily health status.

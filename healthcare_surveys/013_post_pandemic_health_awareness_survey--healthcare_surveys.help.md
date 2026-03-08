@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals regarding their health awareness and experiences during the pandemic period. This form will gather general information, demographic details, symptoms, health care coverage, and vaccination status. The form is designed to be completed by individuals and will help to identify trends and insights on the population's health awareness.
-</thinking>
-
 # Post Pandemic Health Awareness Survey - Help Guide
 ## Purpose
 This form is intended to collect data on individuals' health awareness and experiences during the pandemic period. It aims to provide insights into the population's health awareness, symptoms, and vaccination status.

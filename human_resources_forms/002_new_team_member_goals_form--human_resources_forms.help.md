@@ -1,5 +1,3 @@
-<thinking>This form is used to collect and document the goals and objectives of new team members. The form is typically filled out by a team member at the beginning of the onboarding process to ensure that everyone on the team is aware of their expectations and responsibilities. The form should only be filled out once for each new team member. If you've already filled out this form for this team member, please do not fill it out again. To complete this form, please select from the available options for each field and provide any additional comments or explanations as necessary. Each field is described below. The form can be submitted and reviewed by team members, and can be used as a reference for future discussions and decisions regarding the team member's progress and development. Please ensure that the form is filled out accurately and honestly, as it will be used to inform decisions about the team member's goals and objectives. If you are unsure about any field or have questions, please reach out to your team lead or HR representative for guidance.</thinking>
-
 # New Team Member Goals Form - Help Guide
 
 ## Purpose

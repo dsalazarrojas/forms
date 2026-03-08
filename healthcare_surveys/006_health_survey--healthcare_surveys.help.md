@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health-survey - Help Guide
 ## Purpose
 The health survey form is designed to collect patient information and health-related data. This form aims to provide a comprehensive overview of a patient's health condition and medical history. It's essential to complete this form accurately to ensure that the patient's medical needs are understood correctly.

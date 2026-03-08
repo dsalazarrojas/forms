@@ -1,8 +1,3 @@
-<thinking> 
-The form purpose is to collect feedback on the effectiveness and reliability of call lights and floor mats used in healthcare settings. The goal is to gather data on how often and effectively these equipment are used, and what issues patients and staff encounter with them. This form is intended for healthcare professionals and is part of a broader effort to improve safety and patient care. It is not meant for duplicate responses, so please only complete the form once per submission. 
-
-</thinking>
-
 # Call Lights And Floor Mats Survey - Help Guide
 ## Purpose
 

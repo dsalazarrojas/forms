@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to provide their body information for fitness tracking or health assessment purposes. It is intended for those who are interested in monitoring or improving their physical health. To ensure you get the most out of this form, please read this guide carefully and provide accurate information where required.
-</thinking>
-
 # Nova Fitness ( Body Information Form ) - Help Guide
 ## Purpose
 The Nova Fitness ( Body Information Form ) is used to gather essential data about your physical characteristics and preferences. This information will help us to better understand and support your fitness journey.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and track hotel renovation requests. It is designed to gather relevant details such as category, form ID, priority, status, created by, updated by, created at, updated at, comments, attachments, assigned to, due by, hotel ID, room ID, building ID, property ID, status ID, assigned to ID, created by ID, updated by ID, comments ID, and due by ID. This form is likely used by hotel staff to request or report renovations to be performed on specific hotels or rooms within the hotel. This form should be used for new requests or updates to existing renovations.
-
-Before proceeding, please ensure that you are not duplicating an existing request. If you are unsure, please check with your supervisor or colleague.
-
-The form is divided into multiple sections. Please fill out each section as instructed, and make sure to provide all required information. If you are unsure about any field, please consult the help guide below.
-</thinking>
-
 # Hotel Renovation Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information and track hotel renovation requests.

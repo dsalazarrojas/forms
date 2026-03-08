@@ -1,11 +1,3 @@
-<thinking>
-This form is used to track and manage various routines and tasks related to hostel maintenance, cleaning, and shopping. The purpose of this form is to ensure that all routines are being completed efficiently and effectively, and to provide an overview of the current status of each routine.
-This form should only be filled out by authorized personnel, and the fields should be filled out in a clear and concise manner to ensure accurate reporting.
-The form is divided into several sections, each corresponding to a different routine or task, such as maintenance, cleaning, and shopping. Users should select all applicable options for each routine, and provide any additional comments or notes if necessary.
-To complete this form, users should read each section carefully and select the appropriate options or fill in the required fields. If a field is marked as "Required", it must be filled out.
-The fields should be filled out in a clear and concise manner, and users should ensure that all sections are complete before submitting the form.
-</thinking>
-
 # Hostel Management Routine Check Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Recognition Checklist Form - Help Guide
 ## Purpose
 The Employee Recognition Checklist Form is designed to track and document employee recognition and rewards. This form collects information about employees, their recognition details, and related assignments and submissions.

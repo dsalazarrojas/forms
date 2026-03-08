@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to measure employee engagement and satisfaction within the organization. It's intended to be a one-time survey, but it may be used periodically to monitor and track employee engagement levels. This form should not be used to gather data for other purposes, such as performance evaluations or HR investigations. Please ensure that the survey questions align with your company's existing HR policies and practices to ensure consistency and fairness. This form should not be completed by employees who have a vested interest in the outcome, such as HR personnel or management staff.
-
-</thinking>
-
 # Employee Engagement Survey - Help Guide
 ## Purpose
 The Employee Engagement Survey is a tool used to measure employee engagement and satisfaction within the organization. It's designed to collect feedback from employees on various aspects of their work and work environment.

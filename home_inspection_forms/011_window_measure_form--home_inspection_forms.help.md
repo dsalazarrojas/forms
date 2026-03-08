@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Window Measure Form - Help Guide
 
 ## Purpose

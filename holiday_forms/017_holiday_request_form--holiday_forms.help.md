@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees for holiday requests. It seems to be a basic form with minimal fields, which is perfect for a simple holiday request process. Before proceeding, let's ensure that the form is indeed for holiday requests and that it's not a duplicate of an existing form with the same purpose. If you're unsure, you can always contact the form creators at form@gic.mx for clarification.
-</thinking>
-
 # Holiday Request Form - Help Guide
 
 ## Purpose

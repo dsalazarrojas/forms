@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the Hypertension Pre Evaluation Questionnaire form. The form is designed to collect information about a patient's medical history, lifestyle, and other relevant factors related to hypertension. The purpose of the form is to help healthcare professionals evaluate the risk of hypertension in patients and provide personalized guidance for prevention and management. The form should only be used by authorized healthcare professionals and should not be used for commercial purposes. If you are not a healthcare professional, please do not use this form without proper clearance and authorization.
-
-</thinking>
-
 # Hypertension Pre Evaluation Questionnaire - Help Guide
 ## Purpose
 The Hypertension Pre Evaluation Questionnaire is a form designed to collect information about a patient's medical history, lifestyle, and other relevant factors related to hypertension. The form is intended to help healthcare professionals evaluate the risk of hypertension in patients and provide personalized guidance for prevention and management.

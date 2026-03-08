@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this "Lash Length Expectation Survey" is to collect data on individuals' expectations and experiences related to lash length. This form is likely designed for patients or individuals undergoing lash-related medical procedures or treatments, such as lash lifts or lash extensions. The form likely aims to gather feedback and opinions on the length and appearance of lashes post-procedure.
-
-Before proceeding, please ensure that you have not filled out this survey before, and that your input is genuine and honest. This will help ensure the quality and reliability of the data collected.
-
-</thinking>
-
 # Lash Length Expectation Survey - Help Guide
 ## Purpose
 The Lash Length Expectation Survey is designed to collect data on your expectations and experiences related to lash length. This data will help our team better understand your needs and improve our services.

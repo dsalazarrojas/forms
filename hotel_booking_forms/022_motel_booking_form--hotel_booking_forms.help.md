@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for motel bookings, allowing them to provide details about their stay. It's essential to ensure that the form is filled out correctly to facilitate efficient and smooth processing of their requests. Before proceeding, let's review the form's purpose and the process of completing it.
-</thinking>
-
 # Motel Booking Form - Help Guide
 ## Purpose
 The Motel Booking Form is designed to gather information from customers for their motel stay. This form will help us process their requests efficiently and ensure a smooth check-in process. Please take a few minutes to fill out the form accurately.

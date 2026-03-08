@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only completed by patients or their representatives and that the data is relevant to the patient's experience. To prevent duplication, we should also check for surveys already completed by the same patient or their representative.
-</thinking>
-
 # Patient Safety Assessment Survey - Help Guide
 ## Purpose
 The Patient Safety Assessment Survey is designed to gather feedback from patients or their representatives about their experiences with our healthcare team. This form helps us understand areas of strength and weakness in our patient safety protocols, allowing us to make improvements and provide better care.

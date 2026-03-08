@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used for requesting adjustments to the recruitment budget. The purpose is to enable users to submit requests for changes to the budget associated with a specific job title. This form should be used only for valid and justified reasons, and users are encouraged to ensure that their requests are reasonable and well-justified. Duplicate requests will be reviewed carefully to avoid unnecessary adjustments.
-
-Before submitting this form, please ensure that you have reviewed the current budget and have a clear understanding of the reasons for the adjustment. This form should not be used for casual or frivolous requests.
-
-When completing this form, please ensure that you provide accurate and detailed information to facilitate a thorough review of your request.
-
-Please fill out this form carefully and accurately to ensure that your request is properly reviewed and processed.
-
-</thinking>
-
 # Recruitment Budget Adjustment Request Form - Help Guide
 ## Purpose
 The Recruitment Budget Adjustment Request Form is used to submit requests for changes to the recruitment budget associated with a specific job title.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a template for care planning meetings. The purpose of this form is to gather information necessary for the development and implementation of care plans for patients in healthcare settings. It helps care teams to capture key details about the patient, such as meeting date, goals of care, and interventions planned. The form also aims to ensure that accountability and responsibility are assigned to specific individuals for follow-up and review. The care plan meeting template is a crucial tool for healthcare providers to document and track progress in patient care.
-
-</thinking>
-
 # Care Plan Meeting Template - Help Guide
 ## Purpose
 The Care Plan Meeting Template is a comprehensive form designed to facilitate care planning meetings in healthcare settings. It guides healthcare providers in capturing essential information to create effective care plans for patients.

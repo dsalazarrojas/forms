@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from food service employees on their reasons for leaving the company, their job satisfaction, growth opportunities, company culture, manager relationship, and recommendation. The form's purpose is to collect data to improve the food service company's work environment and employee satisfaction. To ensure the most useful responses, it's recommended that employees fill out the form as truthfully and thoroughly as possible. This form should only be completed by employees who are exiting or have exited the food service employment. 
-</thinking>
-
 # Food Service Exit Interview Employment Form - Help Guide
 ## Purpose
 The Food Service Exit Interview Employment Form is a tool to gather feedback from employees who are leaving or have left the food service employment. The data collected from this form will help the company to understand the reasons behind employee departures, improve job satisfaction, provide better growth opportunities, and foster a positive company culture.

@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to gather information from end users for the purpose of collecting compensation data for benchmarking. This form requests contact information, organizational context, job details, and format preferences to facilitate efficient data collection and reporting. The form is not for internal use, but rather for external use by clients or partners. Before proceeding, ensure that no duplicate requests are made for the same organization and roles, and that the requested data format is suitable for external sharing. Please confirm that manager approval has been obtained before submitting the request. ...</thinking>
-
 # Compensation Benchmark Data Request Form - Help Guide
 ## Purpose
 The Compensation Benchmark Data Request Form is a tool used to collect compensation data from clients or partners for the purpose of benchmarking. It helps us gather essential information from you to facilitate the data collection and reporting process.

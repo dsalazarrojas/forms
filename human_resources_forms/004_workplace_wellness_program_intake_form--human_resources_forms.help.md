@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the workplace wellness program intake form is to collect essential information from employees who are joining or have joined the workplace wellness program. This form helps the HR team to gather details about the employees' demographics, job roles, and contact information, which will be used for internal purposes only. Before completing this form, please ensure that you are filling it out correctly to avoid duplication of efforts. If you have already submitted a similar form in the past, please do not submit again as it may be considered a duplicate entry.
-</thinking>
-
 # Workplace Wellbeing Program Intake Form - Help Guide
 ## Purpose
 

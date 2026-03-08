@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about the usage habits and preferences of individuals regarding magnesium products. The form aims to gather data on the frequency and context of magnesium product use, including the type of magnesium product used, the frequency of use, and any specific preferences or characteristics of the product. This data will be used to better understand how magnesium products are being used in various settings, such as at home or on-the-go, and to identify patterns and trends in usage. This form is designed to be completed by individuals who have used magnesium products and can provide insights into their experiences and habits. Please ensure that the information provided is accurate and relevant to your usage habits, as this data will be used to improve our understanding of magnesium product usage. Please do not provide duplicate or fictional data, as this will help us to maintain the accuracy and reliability of our data collection efforts.</thinking>
-
 # Magnesium Chloride Usage Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your usage habits and preferences regarding magnesium products.

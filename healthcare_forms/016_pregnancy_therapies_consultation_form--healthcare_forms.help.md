@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for clients to provide personal and pregnancy-related information to healthcare professionals. It is used to collect data for medical consultations. This form should only be filled out once per client. Please ensure that this form is not duplicated or filled out by multiple clients.
-</thinking>
-
 # Pregnancy Therapies Consultation Form - Help Guide
 ## Purpose
 The Pregnancy Therapies Consultation Form is designed for clients to provide personal and pregnancy-related information to healthcare professionals for medical consultations.

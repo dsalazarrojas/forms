@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # outpatient_psychiatric_progress_note_template - Help Guide
 ## Purpose
 This guide explains how to complete the outpatient psychiatric progress note template. The template is used to document the progress of patients receiving outpatient psychiatric care. It helps healthcare providers track and record important information about the patient's treatment, diagnosis, and care.

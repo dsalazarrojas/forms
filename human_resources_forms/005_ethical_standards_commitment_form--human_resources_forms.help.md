@@ -1,9 +1,3 @@
-<thinking>
-This form is used by employees to acknowledge and agree to the company's Ethical Standards, and it's crucial for them to complete it accurately. The form is a crucial document that ensures a smooth and compliant onboarding process, and its accuracy is vital for maintaining a trustworthy and reliable work environment.
-
-Before proceeding, let's ensure this form is being used correctly. Please confirm that this form is indeed necessary for your current task, and that you haven't completed it recently. If you're unsure, please reach out to the relevant team for clarification before continuing.
-</thinking>
-
 # Ethical Standards Commitment Form - Help Guide
 ## Purpose
 The Ethical Standards Commitment Form is a document that requires employees to acknowledge and commit to the company's Ethical Standards. It's a vital step in the onboarding process to ensure a seamless integration into the company culture.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for users to submit holiday videos or content, allowing them to provide information about their holiday videos, such as titles, descriptions, tags, and other media-related fields. It seems to be intended for users to submit their videos and holiday-related content to be showcased or shared in some capacity. Before proceeding, please ensure that you are submitting unique content and not duplicating existing submissions.
-
-</thinking>
-
 # holiday_video_submission_form - Help Guide
 ## Purpose
 This form is designed to collect information about holiday videos or content from users. It's meant to be used for submitting holiday-related media, such as videos, images, and audio files.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to document sessions for clients, allowing staff to record information about each session, including client notes, session start and end times, and follow-up actions. 
-The purpose of this form is to provide a comprehensive record of client sessions, enabling staff to track progress and identify areas for improvement.
-</thinking>
-
 # Session Note Documentation - Help Guide
 ## Purpose
 This form is used to document each client's session, ensuring that important details are recorded and tracked for ongoing care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect medical history information from patients. The fields are designed to gather details about the patient's allergies, medical procedures, and other relevant medical history. This form is intended for use in healthcare settings, such as clinics or hospitals. Before starting, please ensure that you are accessing this form for a legitimate purpose and not duplicating effort. This form is meant to be completed by a healthcare professional, not a patient. Please use this form responsibly and in accordance with your organization's policies.
-</thinking>
-
 # medical_history_form - Help Guide
 ## Purpose
 The "Medical History Form" is used to collect detailed information about a patient's medical history, including allergies, medical procedures, and other relevant health information.

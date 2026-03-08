@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect patient information and order supplies for medical treatment. The form has multiple sections for patient details, supplies, and costs. The "Patient Information" section collects general patient details, while the "Patient Supplies" section allows ordering of syrups, saline, and painkiller supplies. The "Costs" section is divided into multiple fields for service and material costs. The form is not intended for duplicate or redundant entries, and each field should only be filled in once.
-</thinking>
 # Patient Supplies Order Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers order patient supplies for medical treatment. It collects patient information and supplies ordering details for efficient and accurate billing and inventory management.

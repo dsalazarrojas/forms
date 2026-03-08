@@ -1,5 +1,3 @@
-<thinking>Disaster recovery plans are essential to ensure business continuity in the face of unexpected events. This form is designed to facilitate the process of tracking and managing employee absences, which can be a crucial aspect of disaster recovery planning. To complete this form, you will need to provide information about the employee's absence, including their Employee ID, name, and contact details. You will also need to specify the reason for the absence, dates, and number of days and hours absent. Additionally, you will need to indicate the employee's status and provide details about their location and any notes or comments.</thinking>
-
 # Disaster Recovery Plan Absence Form - Help Guide
 ## Purpose
 This form is used to record and track employee absences in the context of disaster recovery planning.

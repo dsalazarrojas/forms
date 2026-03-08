@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to submit a promotion request, providing their details and any relevant information about the promotion they are seeking. This form should only be completed by employees who are eligible for a promotion, as defined by company policies. To ensure accuracy, please check with your supervisor or HR representative to confirm eligibility before submitting this form.
-</thinking>
-
 # promotion_request_form - Help Guide
 ## Purpose
 The promotion request form is used by employees to submit a formal request for promotion. This form gathers information about the employee and the promotion they are seeking.

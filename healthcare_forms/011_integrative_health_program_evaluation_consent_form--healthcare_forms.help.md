@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to the "healthcare" category and is intended to collect participant information, contact details, and other relevant data for an evaluation of an integrative health program. To ensure that this form is relevant to its purpose and doesn't duplicate existing forms, I will provide a help guide that is both concrete and practical.
-</thinking>
-
 # Integrative Health Program Evaluation Consent Form - Help Guide
 ## Purpose
 

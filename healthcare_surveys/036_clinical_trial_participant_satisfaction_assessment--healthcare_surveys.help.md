@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from clinical trial participants to assess their satisfaction with the trial experience. The survey aims to gather information on various aspects of the trial, including the participant's overall satisfaction, communication, staff friendliness, professionalism, and the clarity of communication about study procedures. The form is designed to be completed by participants who have already completed the clinical trial and is not intended for participants who have not yet completed the trial. The form is a tool to help trial organizers understand the participant's experience and identify areas for improvement. Please ensure that you have completed the clinical trial before proceeding.
-
-</thinking>
-
 # Clinical Trial Participant Satisfaction Assessment - Help Guide
 ## Purpose
 This guide will walk you through the Clinical Trial Participant Satisfaction Assessment form, which aims to collect feedback from clinical trial participants to improve the trial experience.

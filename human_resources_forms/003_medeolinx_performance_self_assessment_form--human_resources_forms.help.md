@@ -1,13 +1,3 @@
-<thinking>
-This form is a critical component of the MedeoLinx performance management system, and its completion is essential for evaluating employee performance. It is recommended to review this guide carefully before starting, to ensure accuracy and relevance of responses.
-
-The form is designed to collect data on the employee's self-assessment of their performance, progress, and development. It's crucial to be genuine and honest when filling out the form to ensure accurate and fair evaluations.
-
-Please be aware that filling out this form might trigger automated email notifications for managers. This form may need to be completed only for specific evaluation periods. Please make sure you only report for the correct evaluation period to avoid duplication.
-
-Before proceeding, make sure you understand which performance level you are evaluating and which evaluation period the form covers. This will help in filling out the form correctly and accurately.
-</thinking>
-
 # MedeoLinx Performance Self-Assessment Form - Help Guide
 ## Purpose
 The MedeoLinx Performance Self-Assessment Form is a tool for employees to evaluate their performance, set goals, and identify areas for development. This form is used by managers and HR teams to assess employee progress and development needs.

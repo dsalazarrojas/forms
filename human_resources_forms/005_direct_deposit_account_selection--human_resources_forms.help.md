@@ -1,12 +1,3 @@
-<thinking>
-This form is used to select a direct deposit account for the purpose of setting up or managing a direct deposit setup. The form will be used for HR to ensure the correct account information is collected accurately and efficiently. It is crucial to ensure that only one direct deposit setup is created per employee. 
-
-To prevent duplicate or incorrect direct deposit setups, the following fields must be completed accurately and only once per form submission. 
-
-Please note that this form is used for setting up or managing direct deposit accounts. 
-
-</thinking>
-
 # Direct Deposit Account Selection - Help Guide
 ## Purpose
 The purpose of this form is to select and set up or manage a direct deposit account for an employee.

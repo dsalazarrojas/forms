@@ -1,7 +1,3 @@
-<thinking>
-The Palliative Care Discharge Form is intended to document the care provided to a patient in a palliative care setting, such as a hospice or palliative care unit. This form is used to capture information about the patient's care team, care plan, and other relevant details prior to their discharge. It is essential to complete this form accurately and thoroughly to ensure that the patient's needs are met and that their care is continued smoothly after discharge.
-</thinking>
-
 # Palliative Care Discharge Form - Help Guide
 ## Purpose
 This form is used to document the care provided to a patient in a palliative care setting and to ensure a smooth transition of care after discharge.

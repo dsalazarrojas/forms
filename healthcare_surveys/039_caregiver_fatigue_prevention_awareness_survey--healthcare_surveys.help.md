@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Fatigue Prevention Awareness Survey - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-The "Nursing Care Plan Form" is a structured document used in healthcare settings to outline a patient's specific needs and goals. The form collects information from the patient's demographics and contact details to the nursing interventions and care activities. It is a multi-page form with 8 distinct pages, each collecting a specific type of information.
-This form is intended for use by healthcare professionals to gather and document patient data. It is not designed for general public use.
-Each page of the form is designed to collect a different type of information related to the patient's care needs and goals.
-</thinking>
-
 # Nursing Care Plan Form - Help Guide
 ## Purpose
 The purpose of this form is to create a comprehensive nursing care plan for patients. This form collects information from multiple sources, including patient demographics, medical history, medications, and nursing interventions, to provide a complete picture of the patient's care needs and goals.

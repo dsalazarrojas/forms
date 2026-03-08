@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a template for nurse shift reports, likely used in healthcare settings to document the details of a shift worked by a nurse. The purpose of this form is to collect information about the shift, including start and end times, any notable events or observations (notes), the nurse who worked the shift (staff), and the location where the shift was worked. This form may be used for reporting and record-keeping purposes within the healthcare organization. Given the options for "Staff" and "Location", it seems that this form might be used in a hospital or healthcare facility with multiple floors and shifts. However, without further information about the organization's specific use case, it's difficult to determine the exact context in which this form is being used. If you're not sure about the form's purpose or how to complete it, you can contact the form creators at form@gic.mx.
-
-</thinking>
-
 # Nurse Shift Report Template - Help Guide
 ## Purpose
 This form is a template for reporting the details of a shift worked by a nurse in a healthcare setting.

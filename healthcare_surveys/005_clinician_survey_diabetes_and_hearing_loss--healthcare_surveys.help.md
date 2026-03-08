@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from clinicians about their practices, knowledge, and attitudes regarding diabetes and hearing loss. It's intended for healthcare providers who have experience in caring for patients with diabetes and want to share their insights on how they approach hearing loss in this population. The form will help identify areas where healthcare providers are already doing well and where they might need more education, support, or resources to improve their practice. By understanding the perceptions and behaviors of clinicians who care for patients with diabetes, we can inform education and resource development to enhance patient outcomes.
-To ensure accuracy, please ensure that you are the person who actually conducts patient care in your healthcare setting. This form should only be filled out once by each clinician.
-Please be honest and accurate when filling out this form, and remember that all answers are confidential.
-</thinking>
-
 # Clinician Survey - Diabetes and Hearing Loss - Help Guide
 ## Purpose
 This survey aims to gather information from clinicians about their practices, attitudes, and perceived knowledge regarding diabetes and hearing loss.

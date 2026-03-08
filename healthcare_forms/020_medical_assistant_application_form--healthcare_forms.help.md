@@ -1,7 +1,3 @@
-<thinking>
-This guide is to assist medical assistants in filling out the medical assistant application form. The form is required to be filled out completely and accurately to ensure the highest quality of service. The purpose of this form is to gather necessary information about the medical assistant's education, experience, and qualifications. It is essential to fill out the form with your true information, as it will be used for administrative purposes only. The information gathered from this form will help us better understand your medical background and qualifications. It is recommended that you double-check your inputs before submitting the form to ensure its accuracy.
-</thinking>
-
 # medical_assistant_application_form - Help Guide
 ## Purpose
 The medical assistant application form is used to gather necessary information about your medical background and qualifications. This information will be used for administrative purposes to ensure the highest quality of service.

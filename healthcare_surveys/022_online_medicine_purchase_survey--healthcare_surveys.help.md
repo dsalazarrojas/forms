@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's online medicine purchase habits, motivations, and concerns. The form is intended to be completed by individuals who have purchased medicine online or have considered doing so. The purpose of this form is to collect data on the user's purchase habits, such as how often they purchase medicine, where they purchase it from, and what motivates them to make a purchase. It also asks about the user's medical conditions, satisfaction with online medicine purchases, and frequency of purchase methods. The form aims to gather insights on the user's preferences and pain points related to online medicine purchases.
-
-Please note that this form is not designed to collect sensitive or identifiable information, and all fields are optional. The user can choose to provide only the information they feel comfortable sharing.
-
-</thinking>
-
 # online_medicine_purchase_survey - Help Guide
 ## Purpose
 The online medicine purchase survey is designed to collect information about your online purchase habits, motivations, and concerns related to buying medicine. This survey aims to understand your preferences and pain points when it comes to buying medicine online.

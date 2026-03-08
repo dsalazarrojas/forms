@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about pediatric patients for medical purposes. The main fields are patient name, date of birth, contact information, family information, medical history, allergies, and medical conditions. This form is intended for parents or guardians to provide accurate and up-to-date information about their child. Please ensure that you fill in all required fields, and provide as much detail as possible where applicable. This form will help healthcare professionals to get an accurate picture of the patient's health and provide the best possible care.
-</thinking>
-
 # Pediatric Patient Registration Form - Help Guide
 
 ## Purpose

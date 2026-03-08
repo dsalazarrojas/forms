@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's health and lifestyle habits, including medical conditions, medications, medical history, family history, and physical characteristics such as height and weight. The form is likely intended for use in a healthcare setting, perhaps for patients or medical professionals to record and update medical information. It is likely used to assess the overall health status of the individual and provide a basis for medical decisions or recommendations. Please check that this form is not already being used in a similar way and that the information it gathers is not already captured elsewhere in your system.
-</thinking>
-
 # initial_lifestyle_advisor_questionnaire - Help Guide
 ## Purpose
 The initial_lifestyle_advisor_questionnaire is a form designed to collect information about an individual's health and lifestyle habits.

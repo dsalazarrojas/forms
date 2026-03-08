@@ -1,7 +1,3 @@
-<thinking>
-To provide a clear and helpful guide for the end-users of the "Hospitality Blockchain Network Registration Form", let's consider the form's purpose and required information. The form is designed to collect contact and organization information, use case, email and phone confirmation, and agreement to terms of service. The primary goal is to register users with the Hospitality Blockchain Network, ensuring they meet the necessary requirements and understand the network's terms of service.
-</thinking>
-
 # Hospitality Blockchain Network Registration Form - Help Guide
 ## Purpose
 This form is for registering with the Hospitality Blockchain Network. It collects contact and organization information, use case, email and phone confirmation, and agreement to terms of service.

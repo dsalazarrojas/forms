@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employment_status_declaration_form - Help Guide
 
 ## Purpose

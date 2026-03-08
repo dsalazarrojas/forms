@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and report medical emergencies or incidents that require immediate attention. It is essential to provide detailed and accurate information to ensure prompt and effective treatment. This form will help healthcare professionals to understand the situation better and provide the necessary care to the patients. Before proceeding, please note that you are not duplicating a real medical form and that this form was generated based on general medical emergency scenarios, not on specific cases or medical records.
-</thinking>
-
 # medical-emergency-incident-form - Help Guide
 ## Purpose
 The "Medical-Emergency-Incident-Form" is a tool designed to collect vital information about medical emergencies or incidents. It is crucial to provide accurate and detailed information to ensure timely and effective medical response.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's eating habits, physical activity, and health-related behaviors. The goal is to gather data on their daily diet, exercise frequency, sleep quality, hydration, and food preferences. This survey aims to understand how these factors contribute to an individual's overall health and well-being. Please ensure you are completing this form for the intended purpose, and do not duplicate your responses.
-</thinking>
-
 # Healthy Eating Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your eating habits, physical activity, and health-related behaviors.

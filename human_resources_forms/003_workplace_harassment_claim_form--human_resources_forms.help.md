@@ -1,5 +1,3 @@
-<thinking>As we strive to maintain a safe and respectful work environment, it's essential to have a clear and efficient process for addressing workplace harassment claims. This form is designed to gather information about incidents of harassment that may have occurred within our organization. Please ensure that the information you provide is accurate and truthful. Note that completing this form does not constitute a formal complaint, but rather a way to report incidents and help our management team investigate and address them. Please ensure that you have not already reported this incident, as duplicate reports can lead to unnecessary investigations and potential delays in resolution.</thinking>
-
 # Workplace Harassment Claim Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about incidents of workplace harassment, allowing our management team to investigate and address them.

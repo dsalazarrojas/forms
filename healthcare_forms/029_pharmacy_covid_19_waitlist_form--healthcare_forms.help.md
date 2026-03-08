@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from patients who are waiting for COVID-19 vaccines or other medical treatments. It will likely be used by healthcare professionals to track and manage patient waitlists, especially during the pandemic. However, the form's exact purpose and usage may vary depending on the organization or institution using it. To confirm, please ensure that this form is not already being used for a similar purpose elsewhere, and that you're aware of any specific requirements or guidelines that may impact your usage.
-</thinking>
-
 # pharmacy_covid_19_waitlist_form - Help Guide
 ## Purpose
 The pharmacy_covid_19_waitlist_form is designed to collect patient information for tracking and managing waitlists during the COVID-19 pandemic. 

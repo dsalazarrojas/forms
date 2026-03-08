@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to assess employee performance over a specific period, usually on a periodic basis (e.g., 1 month, 3 months, 6 months, or 1 year). This form helps managers or Human Resources (HR) staff evaluate an employee's progress, achievements, and areas for improvement. The form is intended to facilitate a structured and objective evaluation process, making it easier to identify strengths and weaknesses and provide constructive feedback to employees. This process is essential for growth, development, and employee growth, as well as for making informed decisions about promotions, training, or other personnel actions.
-
-Before creating this guide, let's ensure that the form meets the requirements and doesn't contain any redundant information.
-
-The form has 7 fields:
-
-* Performance criteria (select_one)
-* Assessment period (select_one)
-* Employee performance (select_multiple)
-* Feedback to manager (text)
-* Feedback to HOD (text)
-* Additional comments (text)
-* (no other fields are provided)
-
-The provided fields are sufficient for a basic performance assessment form. However, additional fields might be necessary for more detailed evaluations or specific organizational needs.
-
-</thinking>
-
 # Performance Assessment Form - Help Guide
 ## Purpose
 The performance assessment form is used to evaluate an employee's progress over a specified period, providing a structured and objective basis for identifying strengths and weaknesses.

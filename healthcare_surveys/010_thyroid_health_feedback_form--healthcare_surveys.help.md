@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thyroid Health Feedback Form - Help Guide
 ## Purpose
 The Thyroid Health Feedback Form is a tool for healthcare professionals to collect feedback from patients about their thyroid health. This form helps gather information on the patient's overall health and symptoms, medical tests, diagnoses, medication, treatment plan, and any follow-up appointments scheduled or completed.

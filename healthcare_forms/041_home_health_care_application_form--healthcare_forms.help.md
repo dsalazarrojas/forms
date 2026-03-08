@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about a patient's medical history, current health status, and home health care services required. This form is essential for healthcare providers to gather necessary details about the patient's medical conditions, medications, and any other relevant health information. The form is designed to be completed by the patient or their representative, ensuring that the patient's medical history and current status are accurately and comprehensively documented.
-
-**Note:** Please ensure that you are submitting this form for the correct patient and that you have the necessary permissions to collect and store this information.
-
-</thinking>
-
 # Home Health Care Application Form - Help Guide
 ## Purpose
 The Home Health Care Application Form is used to collect patient information and health details for healthcare providers to assess and provide necessary care.

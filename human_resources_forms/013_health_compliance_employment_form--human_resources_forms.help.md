@@ -1,7 +1,3 @@
-<thinking>
-The Health Compliance Employment Form is a crucial document that ensures the health and well-being of employees are considered in the workplace. It is used to track and monitor employee health and medical information, including their job status, job type, health attestation, medical clearance, and other relevant details. This form is a critical part of maintaining a safe and healthy work environment. 
-</thinking>
-
 # Health Compliance Employment Form - Help Guide
 ## Purpose
 The Health Compliance Employment Form is a document used to collect and record employee health information, ensuring that their health and medical requirements are met and monitored.

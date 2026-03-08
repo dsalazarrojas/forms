@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to be used by patients or caregivers to provide informed consent for a dermal filler treatment. The form is designed to gather information necessary for the treatment, including patient identification, medical history, and consent.
-
-Before starting the form, please ensure that you have reviewed the following:
-
-*   You have the necessary authority to complete this form on behalf of the patient.
-*   The patient is aware of the form's purpose and has provided their consent.
-*   The form has not been previously completed for this patient, and there are no duplicate submissions.
-
-</thinking>
-
 # SAA Dermal Filler Consent - Help Guide
 
 ## Purpose

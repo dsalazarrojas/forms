@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Communication Challenges In Autism - Help Guide
 ## Purpose
 The purpose of this form is to assess the communication challenges and strengths of an individual with autism. It is designed to gather information about their ability to communicate verbally and non-verbally, as well as their social interaction skills. The assessment aims to identify areas of difficulty and provide recommendations for supports and interventions.

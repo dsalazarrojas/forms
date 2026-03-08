@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicating efforts, this form is designed to collect comprehensive information from patients for chiropractic appointment scheduling. This form will be used to determine the patient's needs and preferences for an appointment, including their personal details, medical history, and treatment requirements. It will help the chiropractor to understand the patient's situation better and provide personalized care. This form should be filled out by patients before their first appointment or before returning to the chiropractor's office.
-</thinking>
-
 # Chiropractor Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from patients to ensure they receive the best possible care from the chiropractor.

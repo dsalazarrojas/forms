@@ -1,6 +1,3 @@
-<thinking>
-We should verify that the form is being used for its intended purpose, which is to collect information about a gift basket poll. Specifically, this form appears to be designed to gather data about teams participating in a gift basket poll, including team names, descriptions, and images. It's likely that this form is part of a larger process for managing team gift baskets, possibly for charity events or fundraising campaigns. We should ensure that users are filling out this form to provide accurate and meaningful information, rather than just filling it out randomly. It's also important to note that the form has a mix of required and optional fields, which means users should understand the purpose of each field before completing it. This form seems to be relatively simple in terms of fields, but it's a good idea to double-check that users are filling out the correct fields for the correct purposes.</thinking>
-
 # Gift Basket Poll - Help Guide
 ## Purpose
 The Gift Basket Poll form is used to collect information about teams participating in a gift basket poll. This form helps to gather data on team names, descriptions, and images to be used for charity events or fundraising campaigns.

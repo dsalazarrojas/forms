@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the zumba_medical_history_form is to collect information about a patient's history related to Zumba dancing activities. This includes their level of experience, frequency of practice, any injuries or medical conditions, medication usage, and any other relevant medical history. It is likely used for medical assessment and treatment planning for patients who have or plan to engage in Zumba dancing activities.
-
-The form is designed to be completed by patients themselves, and it is not clear if it's intended to be used in conjunction with other medical evaluations or as a standalone assessment tool.
-
-The form's fields are mostly multiple-choice questions, but also include text fields for more detailed information.
-</thinking>
-
 # zumba_medical_history_form - Help Guide
 ## Purpose
 The zumba_medical_history_form is designed to collect information about a patient's history related to Zumba dancing activities.

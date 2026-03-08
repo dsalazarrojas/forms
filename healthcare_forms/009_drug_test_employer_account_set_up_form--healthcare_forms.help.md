@@ -1,7 +1,3 @@
-<thinking> This help guide is for the "drug_test_employer_account_set_up_form" form, which is used to set up and configure drug testing accounts for employers. This form allows employers to provide information about their company's testing protocols, including the type of tests to be performed, the frequency of testing, and contact information for the account holder. It also captures information about the account holder's preferences and settings for the account.
-
-</thinking>
-
 # drug_test_employer_account_set_up_form - Help Guide
 ## Purpose
 The "drug_test_employer_account_set_up_form" is used to set up and configure drug testing accounts for employers. This form captures essential information to create a tailored testing protocol that suits the employer's needs.

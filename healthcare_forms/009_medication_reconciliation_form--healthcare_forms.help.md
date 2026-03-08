@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect medication information for reconciliation purposes. It is intended to be used in a healthcare setting to gather a comprehensive list of medications taken by a patient. The form is divided into multiple pages, each listing a specific set of medications. 
-
-This form is not intended to be used for other purposes, such as medication ordering or prescription writing. It is assumed that users are already familiar with medication reconciliation procedures and terminology.
-
-</thinking>
-
 # medication_reconciliation_form - Help Guide
 ## Purpose
 The medication reconciliation form is used to collect a comprehensive list of medications taken by a patient in a healthcare setting.

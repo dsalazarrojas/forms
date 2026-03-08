@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather feedback and suggestions from healthcare professionals regarding the fields of medical physics and pharmacy. It is designed for individuals working with medical physicists and pharmacists to improve collaboration and knowledge sharing between these fields. By understanding their experiences and challenges, the form helps in identifying areas that require attention and resources.
-</thinking>
-
 # Medical Physics And Pharmacy Survey - Help Guide
 
 ## Purpose

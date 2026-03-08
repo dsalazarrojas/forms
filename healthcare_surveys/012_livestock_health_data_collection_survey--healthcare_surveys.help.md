@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about the health of livestock on farms, including general information about the farm, animal health status, treatment, and care. The form will ask for details such as animal ID, owner information, animal info, health status, disease treatment, health care services used, and other relevant details. This form is intended for use by farmers and veterinarians to track and analyze health data for better farm management.
-</thinking>
-
 # Livestock Health Data Collection Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The form is used for case manager onboarding, which is an essential process for new hires to get familiar with their role and responsibilities. This form helps gather information to ensure that new case managers have the necessary training, support, and resources to effectively perform their duties. The onboarding process includes completing the form with accurate and up-to-date information to avoid duplication of work and ensure consistency in the case management process.
-
-</thinking>
-
 # Case Manager Onboarding Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Case Manager Onboarding Form, ensuring you have a comprehensive understanding of each field and what information is required or optional.

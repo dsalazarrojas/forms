@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_summary_form - Help Guide
 
 ## Purpose

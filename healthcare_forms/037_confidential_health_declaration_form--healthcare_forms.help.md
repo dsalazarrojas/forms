@@ -1,14 +1,3 @@
-<thinking>
-# Confidential Health Declaration Form - Help Guide
-
-This form is designed to collect information from patients regarding their medical history, including personal details, medical conditions, and health-related information. It's essential to fill this form accurately and honestly to ensure the patient's medical information is up-to-date and reliable.
-
-The fields on this form are divided into different categories, such as patient information, medical history, and health declaration. Each section is designed to gather specific details that will help healthcare providers understand the patient's medical situation better.
-
-Please note that some fields in this form may seem repetitive or similar, but each one is essential to gather a comprehensive picture of the patient's health status. If you have any questions or concerns, please ask your healthcare provider for clarification.
-
-</thinking>
-
 # Purpose
 
 This form is used to gather information about your health status, medical history, and medical treatment preferences. By filling out this form, you will be providing accurate and up-to-date information about your health to your healthcare provider. This will help them better understand your medical situation and provide the best possible care for you.

@@ -1,5 +1,3 @@
-<thinking>As a help guide for the "Staff Supervision" form, I must first understand the form's purpose. The form is used for staff supervision, which involves overseeing and evaluating the performance of employees. It's crucial to ensure that all required fields are filled out properly to provide a comprehensive overview of the supervision process. Before proceeding, please make sure you have all the necessary information and that this form is not a duplicate of another one already filled out.</thinking>
-
 # Staff Supervision - Help Guide
 ## Purpose
 The "Staff Supervision" form is used to conduct regular supervision and evaluation of employees to ensure they are meeting their performance expectations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information on medication adherence from patients, which is crucial for healthcare providers to understand their patients' behavior and provide better care. This form is not meant to replace medical professional judgment or advice. The form is designed to be completed by a patient or their caregiver, and its purpose is to help healthcare providers understand the patient's motivation and reasons for taking their medications as prescribed.
-</thinking>
-
 # Medication Adherence Motivation Survey - Help Guide
 ## Purpose
 

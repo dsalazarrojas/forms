@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dandruff Treatment Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about dandruff treatments from users. It aims to collect data on symptoms, treatment effectiveness, and other related factors.

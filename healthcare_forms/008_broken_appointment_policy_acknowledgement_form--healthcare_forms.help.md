@@ -1,13 +1,3 @@
-<thinking>
-
-The "Broken Appointment Policy Acknowledgement Form" is used to document and track patients' missed appointments, ensuring that they understand the practice's policy regarding no-shows and the potential consequences of missing appointments. This form should only be filled out after a patient has missed an appointment and the healthcare provider wants to document the patient's acknowledgement of the policy.
-
-To ensure that this form is only filled out for patients who have missed an appointment and are acknowledging the policy, the system should be designed to prevent users from accessing this form unless they meet the necessary conditions. 
-
-In the form, fields should only be populated with the necessary information and not left blank unless it's explicitly not applicable.
-
-</thinking>
-
 # Broken Appointment Policy Acknowledgement Form - Help Guide
 ## Purpose
 The "Broken Appointment Policy Acknowledgement Form" is used to document and track patients' missed appointments, ensuring that they understand the practice's policy regarding no-shows and the potential consequences of missing appointments.

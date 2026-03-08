@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "injectable_application_knowledge_quiz" form, we need to understand the form's purpose, how to complete it, and explain each field.
-
-This form appears to be a quiz or survey on injectable medications, focusing on injection techniques, patient safety, and emergency procedures. It's designed to assess knowledge on injectable medications and related processes.
-
-The form has several sections that cover different aspects of injectable medications, such as listing medications, injection techniques, patient consent, injection sites, allergies, medical conditions, safety precautions, emergency procedures, post-injection instructions, and additional comments.
-
-The form is not strictly regulated by a specific platform, as it's AI-generated using public survey topic metadata. However, it seems to be designed for users in the healthcare industry, likely for professionals or healthcare workers.
-
-The form asks users to provide multiple-choice or text responses to a series of questions, with some sections requiring single or multiple selections. The form also includes some free-text fields for additional comments or answers.
-
-The purpose of this form is likely to evaluate knowledge and practices around injectable medications, ensuring users have the required competencies and skills to handle such medications safely and effectively.
-
-We can now proceed with the help guide.
-
-</thinking>
-
 # injectable_application_knowledge_quiz - Help Guide
 ## Purpose
 This form is a quiz or survey designed to assess knowledge and practices around injectable medications, focusing on injection techniques, patient safety, and emergency procedures.

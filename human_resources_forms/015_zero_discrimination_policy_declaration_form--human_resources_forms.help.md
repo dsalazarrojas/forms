@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants about their personal experiences with discrimination, their demographic characteristics, and their language and country of origin. This information will be used to assess the effectiveness of anti-discrimination measures and policies. Please ensure that the information provided is accurate and reflects your personal experiences. Duplicate responses will be flagged for deletion.
-</thinking>
-
 # Zero Discrimination Policy Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your personal experiences with discrimination, demographic characteristics, and language and country of origin. Your input will help us assess the effectiveness of our anti-discrimination measures and policies.

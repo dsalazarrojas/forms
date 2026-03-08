@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the healthcare appointment scheduling process, gathering information on the type of appointment, preferred scheduling method, preferred scheduling time, day, and satisfaction level. This data will be used to identify areas of improvement for the healthcare system. To ensure that we don't end up with duplicate data, it's essential that the form is filled out accurately and consistently. The goal is to create a comprehensive dataset that can help inform future improvements to the scheduling process. Please note that some fields are optional, and users are allowed to select multiple options for certain questions.
-</thinking>
-
 # Healthcare Appointment Scheduling Process Poll - Help Guide
 ## Purpose
 The healthcare appointment scheduling process poll is designed to collect data on the healthcare appointment scheduling process. This data will be used to identify areas of improvement for the healthcare system.

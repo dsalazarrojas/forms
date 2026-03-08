@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physiological Adaptations To Exercise Survey - Help Guide
 
 ## Purpose

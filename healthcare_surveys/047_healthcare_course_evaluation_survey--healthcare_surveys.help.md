@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating the healthcare course you participated in. It is designed to gather your opinions and feedback on the course's quality, material, and overall experience. Please make sure to answer every question that applies to you, as they are all required fields. If a question doesn't apply, you can skip it if you see the "optional" label next to it.
-</thinking>
-
 # Healthcare Course Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience with a healthcare course. It will help us understand what works well and what could be improved in the course.

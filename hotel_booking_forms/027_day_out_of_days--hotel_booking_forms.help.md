@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **day_out_of_days - Help Guide**
 
 ## Purpose

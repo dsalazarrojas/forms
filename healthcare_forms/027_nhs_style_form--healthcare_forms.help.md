@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a healthcare setting to collect demographic and medical information about a patient or individual. The form may be used for registration, patient history, or other healthcare-related purposes. It is essential to review the form carefully before completing it to ensure all necessary information is accurate. Please check that you are filling out the correct version of the form and that all required fields are completed. If unsure, consult the relevant healthcare professional or contact the relevant authority for clarification.
-</thinking>
-
 # NHS Style Form - Help Guide
 
 ## Purpose

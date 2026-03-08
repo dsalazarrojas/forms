@@ -1,13 +1,3 @@
-<thinking>
-
-The internal reasoning block explains the purpose and context of the form. 
-
-The form is likely used by hotel staff to notify guests of their departure details, such as whether they plan to depart or not, their room number, date of departure, and time of departure. This form helps hotel management keep track of guest departure information and prepare for check-out processes.
-
-The form is part of a larger system for managing guest data and departure information. The fields in the form are designed to be completed by the guests or their representatives, and the form is likely used for internal purposes by hotel staff.
-
-</thinking>
-
 # Guest Departure Notification - Help Guide
 ## Purpose
 The Guest Departure Notification form is used by hotel guests or their representatives to notify hotel management of their departure details. This includes whether they plan to depart or not, their room number, date of departure, and time of departure. The form helps hotel management keep track of guest departure information and prepare for check-out processes.

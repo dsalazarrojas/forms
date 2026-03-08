@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with the medical receptionist, which will help the clinic to understand areas that need improvement to provide better patient care. The goal is to make the feedback collection process as painless and efficient as possible. To ensure that the feedback is relevant and non-duplicative, we will be collecting data on specific aspects of the receptionist's performance that patients have mentioned as areas of concern.
-</thinking>
-
 # Medical Receptionist Feedback Form - Help Guide
 ## Purpose
 The Medical Receptionist Feedback Form is designed to collect feedback from patients about their experience with the medical receptionist. This feedback will help the clinic to understand areas that need improvement to provide better patient care.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect informed consent from patients before medical procedures. The form is typically used by healthcare providers to obtain patient consent for treatment, tests, or other medical procedures. This is a critical step in ensuring that patients understand their rights, risks, and benefits associated with their care. Before filling out this form, the healthcare provider will typically have discussed the treatment options with the patient and explained the necessary details. The purpose of this form is to obtain a written record of the patient's consent, which can be used for legal and medical record-keeping purposes.</thinking>
-
 # Medical Informed Consent Form - Help Guide
 
 ## Purpose

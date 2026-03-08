@@ -1,7 +1,3 @@
-<thinking>
-A healthcare project evaluation form is used to gather feedback on various healthcare projects to identify areas of improvement and facilitate continuous quality enhancement. This form is a crucial tool for healthcare professionals to provide their opinions, ratings, and suggestions on project performance. The goal of the project is to ensure that healthcare projects are well-evaluated, so we want to make sure the form is filled out accurately and completely. Please make sure to complete all required fields before submitting the form.
-</thinking>
-
 # Health Communication Improvement Project Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback on healthcare projects, allowing healthcare professionals to evaluate and improve project performance.

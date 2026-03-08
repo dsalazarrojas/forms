@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to vaccination services provided at a patient's home. This form is likely used in a healthcare setting to gather relevant data from patients and healthcare providers for administrative, billing, or insurance purposes. This form should not be used for emergency or high-priority situations where a patient's condition requires immediate attention.
-
-This form does not appear to be duplicating an existing form on public form platforms like Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare, which reduces the likelihood of duplication.
-
-This form was generated based on the public metadata of a survey topic, which suggests it is an original adaptation and does not copy any proprietary content from other platforms.
-
-This form is released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing for free use, modification, and even commercial use as long as credit is given.
-</thinking>
-
 # home_service_vaccination_form - Help Guide
 ## Purpose
 The home_service_vaccination_form is designed to collect patient information and details related to vaccinations provided at home.

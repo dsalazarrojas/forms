@@ -1,16 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from patients for addiction treatment. The form is intended to ensure that patients understand the risks and benefits associated with the treatment and are aware of their rights and responsibilities. This form should not be used for other purposes or for patients who do not have a clear understanding of the treatment.
-
-This form is designed to be filled out by a healthcare professional and is part of the process of providing care for patients with addiction issues.
-
-To determine if you should fill out this form, consider the following criteria:
-
-* The patient has a clear understanding of their addiction treatment plan.
-* The form is being filled out for a patient who is actively receiving treatment for addiction.
-* The form is not being used for other purposes or for patients who do not have a clear understanding of their treatment.
-
-</thinking>
-
 # Addiction Treatment Consent Form - Help Guide
 ## Purpose
 The Addiction Treatment Consent Form is used to obtain informed consent from patients for addiction treatment. It ensures that patients understand the risks and benefits associated with the treatment and are aware of their rights and responsibilities.

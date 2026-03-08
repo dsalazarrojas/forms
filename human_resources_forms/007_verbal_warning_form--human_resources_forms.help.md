@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document a verbal warning given to an employee, and it helps to ensure that both the manager and the employee have a clear and consistent process for addressing workplace incidents. This form should only be used for incidents that occur on company premises during work hours, as it is intended for in-person interactions. Please ensure that you only complete this form for incidents that are specific to your workplace and do not use it for general employee performance issues.
-</thinking>
-
 # Verbal Warning Form - Help Guide
 ## Purpose
 The Verbal Warning Form is a tool used to document and formalize verbal warnings given to employees. It helps ensure that both the manager and the employee are on the same page regarding the incident, and it provides a clear record of what happened.

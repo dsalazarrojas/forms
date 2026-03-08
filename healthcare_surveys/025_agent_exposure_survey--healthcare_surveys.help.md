@@ -1,7 +1,3 @@
-<thinking>
-The Agent Exposure Survey is designed to gather information about incidents where a worker has been exposed to a hazardous substance or agent, such as chemicals, biological agents, or radiation. This survey helps to document the exposure event and any subsequent medical attention received. The goal is to identify potential risks and implement preventive measures to avoid future exposures.
-</thinking>
-
 # Agent Exposure Survey - Help Guide
 ## Purpose
 This form is intended to be completed by individuals who have been exposed to a hazardous substance or agent in the workplace. It collects information about the exposed individual, the exposure event, and any medical attention received. This information will help in assessing the risk of exposure and taking measures to prevent future incidents.

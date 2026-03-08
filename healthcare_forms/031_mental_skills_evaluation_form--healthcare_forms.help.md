@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Skills Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medical history, current medications, and potential side effects. It's meant to be completed by healthcare professionals or medical students who need to assess a patient's medical condition. 
-The form has five pages with various types of fields:
-- Page 1, "Patient Information", requires the patient's name, address, phone number, and other basic contact information.
-- Page 2, "Medical History", is for the healthcare provider to document the patient's medical history, including their past medical conditions and allergies.
-- Page 3, "Medication Schedules", asks the healthcare provider to list the patient's current medications, dosage, frequency, start and end dates, and any instructions provided for the medications.
-- Page 4, "Current Medications", requires the healthcare provider to list the patient's current medications in detail.
-- Page 5, "Medication Side Effects", allows the healthcare provider to document any side effects the patient has experienced due to their medications.
-The form is designed to be completed by healthcare professionals or medical students who need to gather accurate and comprehensive information about a patient's medical condition.
-</thinking>
-
 # Medicine Assessment Form - Help Guide
 ## Purpose
 The Medicine Assessment Form is a tool designed to gather information about a patient's medical history, current medications, and potential side effects. It is meant to be completed by healthcare professionals or medical students to assess a patient's medical condition.

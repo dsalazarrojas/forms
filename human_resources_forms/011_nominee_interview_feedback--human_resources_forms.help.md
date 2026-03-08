@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback on interview ratings and comments from candidates, presumably after a selection process. The form likely helps assessors evaluate and compare candidates based on their performance in an interview. The purpose of this form is to ensure that the feedback provided is thorough and actionable, allowing assessors to make informed decisions. 
-
-Before proceeding, ensure that the form is being used for its intended purpose and not for duplicate submissions. If the form is being filled out for a different purpose or has already been filled out for the same candidate, it's essential to verify this with the relevant personnel or system before submitting the form.
-</thinking>
-
 # Nominee Interview Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of candidates in an interview setting. It aims to provide assessors with a structured way to evaluate and compare candidates.

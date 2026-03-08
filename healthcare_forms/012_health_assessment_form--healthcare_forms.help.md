@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect patient information for healthcare assessment purposes. It is used to gather details about a patient's medical history, allergies, medications, and procedures. 
-This form is designed to be completed by a patient or their authorized representative. 
-Please ensure that the form is completed accurately and thoroughly. 
-If you are unsure about any information, please ask for clarification before proceeding.
-</thinking>
-
 # health_assessment_form - Help Guide
 ## Purpose
 This form is used to collect patient information for healthcare assessment purposes, including medical history, allergies, medications, and procedures.

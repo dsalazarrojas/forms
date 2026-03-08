@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a guest's minibar order in a hotel setting. This form is likely used for staff to efficiently process and fulfill drink orders, ensuring accurate billing and inventory management. To avoid duplication, this form should only be used for the intended purpose and not for other types of orders or feedback.
-
-The form consists of several fields that require input from the staff member processing the order:
-
-1.  **Hotel Minibar Order** (required) - This field is likely used to identify the order number or a unique code assigned to the guest's order.
-2.  **Drink Ordered** (required) - Select one of the options to specify the type of drink ordered by the guest. This could be a soda, water, or juice.
-3.  **Additional Information** (optional) - This field is a text box for any extra comments or notes about the order.
-4.  **Guest Feedback** (optional) - This field is for any feedback or comments from the guest about their order.
-5.  **Confirm** (required) - This field is to confirm that the order is correct and complete.
-
-To complete this form accurately and efficiently, follow these steps:
-
-</thinking>
-
 # Hotel Minibar Menu - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a guest's minibar order in a hotel setting, allowing for efficient processing and fulfillment of drink orders.

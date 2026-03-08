@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees requesting a medical leave of absence. The form is used to gather details on the employee's name, job title, department, base location, and personal details such as their email address, phone number, hire date, type of leave, start and end dates of leave, and number of days requested. The form also asks about the employee's medical certification, healthcare provider's name and contact information, expected work restrictions upon return, and benefits continuation preferences. Additionally, the form inquires about the employee's contact preference during leave and the immediate supervisor's name. The purpose of this form is to ensure that all necessary information is gathered to process the employee's leave request accurately and efficiently.
-</thinking>
-
 # Aviation Medical Leave Of Absence Request - Help Guide
 ## Purpose
 The Aviation Medical Leave Of Absence Request form is a mandatory form used to collect necessary information from employees requesting a medical leave of absence. This form helps the HR department process the leave request efficiently and ensures that all necessary details are gathered to facilitate a smooth and effective leave process.

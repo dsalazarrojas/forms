@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to verify employment information for a specific purpose: to provide lenders with the necessary data to process a mortgage application. This form is typically used by employees to provide accurate and up-to-date employment information to their employer. The form should only be completed by the employee or their authorized representative.
 
 ## Employment Verification Form For Mortgage - Help Guide

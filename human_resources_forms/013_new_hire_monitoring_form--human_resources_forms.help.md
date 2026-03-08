@@ -1,5 +1,3 @@
-<thinking>...This form is used to monitor new hires within the organization, ensuring that all necessary information is accurately documented and up-to-date. The form should only be completed for new employees, and it's essential to avoid duplicating entries for the same employee. The form is divided into three sections: New Hire Monitoring Form, Employee ID, and Hire Date. Each section is designed to collect specific information that helps track and manage new hires effectively.</thinking>
-
 # New Hire Monitoring Form - Help Guide
 ## Purpose
 The New Hire Monitoring Form is a tool used to monitor new hires within the organization. It ensures that all necessary information is accurately documented and up-to-date, helping to streamline the onboarding process and reduce administrative tasks.

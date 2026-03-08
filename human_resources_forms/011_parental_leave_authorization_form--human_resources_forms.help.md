@@ -1,7 +1,3 @@
-<thinking>
-This form is for employees to request parental leave, which is a period of time off from work to care for their child. This form is used to submit a formal request for parental leave, and it includes fields for the employee's information, the reason for the leave, the dates of the leave, and the approval process. Before filling out this form, please ensure that you have read and understood the company's parental leave policy and that you are not duplicating a request that has already been submitted.
-</thinking>
-
 # Parental Leave Authorization Form - Help Guide
 ## Purpose
 The Parental Leave Authorization Form is a form used by employees to request a period of parental leave. This form is used to submit a formal request for leave and includes all necessary information for processing the request.

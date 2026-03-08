@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose and requirements of the Perinatal And Postnatal Mental Health Questionnaire is crucial for its effective completion. This form aims to gather information about a mother's mental health status, including their exposure to trauma, symptoms of anxiety and depression, and their experiences with mental health services. It is essential to answer the questions honestly and thoroughly, as the data collected will be used to better understand mental health needs in the perinatal and postnatal period. Please confirm that you are aware of the form's purpose and are willing to provide accurate and honest responses. If you have any concerns or questions, please do not hesitate to reach out to the relevant authorities.</thinking>
-
 # Perinatal And Postnatal Mental Health Questionnaire - Help Guide
 ## Purpose
 The Perinatal And Postnatal Mental Health Questionnaire is designed to collect information about a mother's mental health status during the perinatal and postnatal period. This form is used to assess their exposure to trauma, symptoms of anxiety and depression, and their experiences with mental health services.

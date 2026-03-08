@@ -1,7 +1,3 @@
-<thinking>
-The Direct Deposit Form Template is used to capture employee information and direct deposit details. To ensure accuracy, please verify that you have completed this form for each employee and that all fields are filled out correctly. Please do not duplicate this form for multiple employees, as it may cause confusion in payroll processing.
-</thinking>
-
 # Direct Deposit Form Template - Help Guide
 ## Purpose
 This form is designed to collect necessary information for direct deposit processing. It captures details about the employee, employer, and direct deposit settings.

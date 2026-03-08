@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect credentialing information from healthcare providers, which is crucial for verifying their qualifications and affiliations. This form aims to ensure that healthcare providers have the necessary credentials to perform their duties safely and effectively. The credentialing information collected will be used to validate their professional standing and ensure compliance with regulatory requirements. It is essential to ensure that this form is filled out accurately and completely to avoid any issues with credentialing processes.
-</thinking>
-
 # credentialing_information_form - Help Guide
 ## Purpose
 The credentialing_information_form is designed to collect necessary information about healthcare providers' credentials to ensure they meet the required standards.

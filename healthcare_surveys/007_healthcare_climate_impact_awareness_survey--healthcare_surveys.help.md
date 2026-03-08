@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather data on healthcare professionals' awareness, observations, and actions taken in response to climate change impacts on their work and the environment. This form is designed to be used in the healthcare sector to understand the climate impact on healthcare professionals' work, identify areas where climate actions are needed, and inform climate-resilience efforts.
-
-The form is composed of 11 questions, which can be categorized into several sections: introduction, staff awareness, observed impacts, priority climate actions, climate action strategies, climate action plans, observed physical changes, observed climate impacts, climate impact priorities, perceived climate risks, and climate risk communication.
-
-To ensure consistency in the data collected, it is essential to understand each question carefully before proceeding. This form should not be used for any other purpose other than what it is intended for.
-</thinking>
-
 # Healthcare Climate Impact Awareness Survey - Help Guide
 ## Purpose
 

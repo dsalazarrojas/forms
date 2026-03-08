@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect information from job applicants for a Media Copywriter position. This form will be used to gather data on personal details, professional experience, and supporting materials like portfolios and resumes. Ensure that you are filling out this form to apply for a Media Copywriter role.
-</thinking>
-
 # Media Copywriter Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect application information for the Media Copywriter position. Please fill out this form with your personal details, professional experience, and supporting materials to increase your chances of getting noticed by our team.

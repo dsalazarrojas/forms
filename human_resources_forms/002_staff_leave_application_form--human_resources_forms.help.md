@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Staff Leave Application Form is to enable employees to formally request leave from work for personal or professional reasons. This form helps ensure that all necessary information is provided and approved by the relevant department heads and HR personnel before the leave is granted. 
-</thinking>
-
 # Staff Leave Application Form - Help Guide
 
 ## Purpose

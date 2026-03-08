@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Information Sheet Form - Help Guide
 ## Purpose
 The Medical Information Sheet Form is designed to collect essential medical information from patients. This form helps healthcare providers collect and review critical medical data in a structured and standardized manner, ensuring accurate and comprehensive care. Please ensure this form is completed accurately and truthfully to facilitate optimal medical care.

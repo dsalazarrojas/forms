@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gauge the relationship between employees and their managers. It collects data on various aspects of the manager-employee relationship, including communication style, feedback frequency, support levels, and overall satisfaction. To ensure accurate and valuable insights, please complete this form honestly and thoroughly, and avoid duplication of effort in your answers. It's essential to note that responses should be specific to your current or previous manager; if you have had multiple managers, please answer in the context of your current or most recent manager.
-
-This form is intended to be used once or infrequently, and its results are not expected to be used for real-time decision-making. However, the collected data can help us understand general trends and patterns in the manager-employee relationship within the organization.
-
-Before completing this form, please review each field carefully to ensure you are answering the questions relevant to your experiences. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # manager_relationship_insight_survey - Help Guide
 ## Purpose
 This form is designed to help us understand the manager-employee relationship, including communication, feedback, and overall satisfaction.

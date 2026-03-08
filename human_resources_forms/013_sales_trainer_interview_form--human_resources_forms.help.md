@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sales_trainer_interview_form - Help Guide
 ## Purpose
 The "sales_trainer_interview_form" is a form used to gather information about a sales trainer candidate. It is used by hiring managers or recruiters to assess a candidate's qualifications and suitability for a sales trainer position.

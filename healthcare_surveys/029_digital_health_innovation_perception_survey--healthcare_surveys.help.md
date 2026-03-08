@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that the form is correctly labeled and that the purpose of the form is clear. This form is for gathering information about the respondent's perception of digital health innovation in the healthcare industry. 
-
-We will need to review the form's YAML file and make sure that each field is correctly labeled and that the explanations are clear and concise. We also need to consider the context in which this form will be used and make sure that the questions are relevant to the purpose of the form.
-
-After reviewing the form's YAML file, we can see that it is divided into several sections, including demographic information, healthcare profession, digital health care tools, and more. Each section is designed to gather information about the respondent's perception of digital health innovation.
-
-We will need to write a clear and concise help guide that explains each field in a way that is easy to understand for the end-user. We also need to ensure that the guide is easy to read and understand.
-
-</thinking>
-
 # Digital Health Innovation Perception Survey - Help Guide
 ## Purpose
 The Digital Health Innovation Perception Survey is a form designed to gather information about your perception of digital health innovation in the healthcare industry. This form is meant to be completed by healthcare professionals and industry stakeholders to provide valuable insights into the current state of digital health innovation.

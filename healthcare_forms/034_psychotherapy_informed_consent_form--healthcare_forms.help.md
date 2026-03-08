@@ -1,8 +1,3 @@
-<thinking>
-Before we begin, let's ensure that this form's purpose is relevant to your specific needs. This Psychotherapy Informed Consent Form is a document used to obtain informed consent from patients before they start therapy sessions with a mental health professional. It's essential to understand that this form is a critical part of the therapeutic process, and it's designed to educate patients about their rights, responsibilities, and expectations from the therapist.
-Please review this form carefully and make sure it's not a duplicate of another form you've already completed. 
-</thinking>
-
 # Psychotherapy Informed Consent Form - Help Guide
 ## Purpose
 

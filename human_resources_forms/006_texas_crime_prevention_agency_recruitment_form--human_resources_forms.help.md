@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # texas_crime_prevention_agency_recruitment_form - Help Guide
 ## Purpose
 The Texas Crime Prevention Agency Recruitment Form is used to collect information from individuals interested in joining the Texas Crime Prevention Agency as a law enforcement officer. This form helps to capture essential details about the applicant, including their contact information, employment status, job preferences, and emergency contact details.

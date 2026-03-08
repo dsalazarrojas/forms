@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to obtain an Internship Non Disclosure Agreement (NDA) from the intern, ensuring they understand and agree to maintain confidentiality of company information and intellectual property during their internship. This form is used to protect the company's sensitive information and intellectual property from being shared or used without permission. To avoid duplication, ensure that this form is not used for other purposes or for interns who have already completed their internships.
-
-The form is divided into seven fields, each with a specific purpose.
-</thinking>
-
 # Internship Non Disclosure Agreement - Help Guide
 ## Purpose
 The purpose of this form is to obtain an Internship Non Disclosure Agreement (NDA) from the intern, ensuring they understand and agree to maintain confidentiality of company information and intellectual property during their internship.

@@ -1,25 +1,3 @@
-<thinking>
-Before we create the user-facing help guide, let's review the form's purpose and content. The form, "Booking Cancellation Form," is designed for guests to provide details about their cancelled booking. This form likely aims to gather essential information from the guests to facilitate a smooth cancellation process, including the reason for cancellation, preferred refund method, and other relevant details.
-
-As for the form content, it appears to collect:
-
-- Booking reference number for identification
-- Guest name and email for contact
-- Phone number for confirmation (optional)
-- Original check-in and check-out dates
-- Number of rooms booked
-- Reason for cancellation (select one from a predefined list)
-- Detailed explanation of cancellation (optional)
-- Urgency of cancellation (select one from predefined options)
-- Refund preference (select one from predefined options)
-- Refund account details (optional, for certain refund methods)
-- Acknowledgement of the cancellation policy (select one from predefined options)
-- Additional notes or comments (optional)
-
-Before we proceed, let's ensure that the form's fields are properly explained and the user is guided through the completion process.
-
-</thinking>
-
 # Booking Cancellation Form - Help Guide
 ## Purpose
 This form is for guests to provide details about their cancelled booking, allowing us to process the cancellation efficiently and ensure that any necessary refunds are made.

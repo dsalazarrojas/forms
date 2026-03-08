@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use in the medical field, specifically for healthcare professionals to document patient discharges from a hospital setting. It captures relevant information about the patient, including their name, discharge date and time, the name of the doctor who attended to them, and details about the reason for their discharge. This form aims to ensure accurate and efficient documentation of patient discharges, which is crucial for maintaining patient records and facilitating follow-up care.
-</thinking>
-
 # Hospital Discharge Form - Help Guide
 ## Purpose
 This form is used to document patient discharges from a hospital setting, providing a standardized way to capture necessary information about each patient's departure.

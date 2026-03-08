@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information related to Mpox, a disease that requires immediate medical attention. Mpox is a viral disease that can cause serious complications if left untreated. The form is likely created for healthcare professionals to quickly gather information from patients or caregivers to assess the risk factors and symptoms of Mpox.
-The form asks for various types of information such as patient contact details, symptoms, risk factors, travel history, medical history, and exposure risks. It also includes fields for medical response, contact information, and notes. The fields are a mix of text inputs, single selects, and multi-selects, suggesting that the form is designed to capture both qualitative and quantitative data.
-The form appears to be a comprehensive guide for healthcare professionals to quickly gather necessary information about patients or caregivers.
-</thinking>
-
 # Mpox Screening Form - Help Guide
 ## Purpose
 The Mpox Screening Form is designed to help healthcare professionals quickly collect information from patients or caregivers to assess the risk factors and symptoms of Mpox.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for outpatient imaging orders in a healthcare setting. The purpose of this form is to collect relevant details from patients, healthcare providers, and administrative staff to ensure accurate and efficient processing of imaging orders. This form should only be used for outpatient imaging orders, and it's essential to avoid filling it out for other purposes or contexts. Please ensure you have the necessary information and authority to complete this form accurately and within the required timeframe.
-</thinking>
-
 # outpatient_imaging_order_form - Help Guide
 ## Purpose
 The outpatient_imaging_order_form is a crucial document used to gather essential information for outpatient imaging orders in a healthcare setting. It's designed to facilitate accurate and efficient processing of these orders, ensuring that patients receive the necessary care and attention.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, the Chiropractic New Patient Registration Form, is designed to collect essential information from new patients to ensure they receive proper care and attention during their visit. The form is divided into several sections to streamline the registration process.
-
-Before proceeding, the user should verify that they are not already registered in the system to avoid duplication of records. If they are unsure, they can contact the office for further guidance.
-
-</thinking>
-
 # Chiropractic New Patient Registration Form - Help Guide
 ## Purpose
 The Chiropractic New Patient Registration Form is a comprehensive form designed to gather essential information from new patients. This form helps us understand your medical history, preferences, and insurance details to provide you with the best possible care during your visit.

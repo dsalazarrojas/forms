@@ -1,9 +1,3 @@
-<thinking>
-This form will be used to raise awareness on gender violence prevention awareness among healthcare providers. This form can be used as a guide for healthcare providers to be aware of the gender violence and its consequences. 
-This form is part of a bigger project, and its purpose might be to gather some basic information from healthcare providers on their experiences and perceptions on gender violence. 
-This form will not be used for research purposes, and the information gathered through this form will not be shared with third parties.
-</thinking>
-
 # Gender Violence Prevention Awareness Survey - Help Guide
 ## Purpose
 This form aims to gather information from healthcare providers on gender violence awareness and prevention. It consists of 8 questions that cover different aspects of gender violence and its consequences.

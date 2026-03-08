@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for occupational therapy evaluation. This form is designed to be used in a healthcare setting to assess the needs and goals of patients undergoing occupational therapy. It is intended to be a straightforward and efficient way to gather the necessary data for evaluation and treatment planning.
-
-This form was created using a public survey topic metadata and is an original adaptation, not affiliated with or derived from any form platform. It is released under CC BY 4.0, allowing for free use, modification, and even sale with proper credit.
-
-To ensure the form's relevance and non-duplication, we will review the metadata and adapt it to provide a clear and practical help guide for end-users.
-</thinking>
-
 # Occupational Therapy Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information for occupational therapy evaluation in a healthcare setting.

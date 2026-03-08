@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a patient's discharge from the neonatology department. This form will help healthcare professionals to collect relevant details about the patient's discharge date, time, vital signs, discharge instructions, follow-up visit date, and follow-up visit time. 
-</thinking>
-
 # Neonatology Department Discharge Form - Help Guide
 ## Purpose
 The Neonatology Department Discharge Form is used to record the information about a newborn or infant's discharge from the department. This form helps healthcare professionals to gather essential details about the patient's condition, care, and instructions for further treatment or follow-up visits.

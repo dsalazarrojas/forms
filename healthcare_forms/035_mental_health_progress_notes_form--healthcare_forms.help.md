@@ -1,7 +1,3 @@
-<thinking>
-Are you sure you're in the right place? The mental health progress notes form is a crucial tool for healthcare professionals to document and track patient progress in a mental health setting. Before we dive into the nitty-gritty, double-check that this form indeed pertains to the mental health domain and that it's not a duplicate of another form you've used recently.
-</thinking>
-
 # mental health progress notes form - Help Guide
 ## Purpose
 The mental health progress notes form is designed to capture essential information on a patient's mental health journey, including their progress, goals, and challenges. This form helps healthcare professionals track and record vital information about patient care, ensuring continuity and accuracy in treatment.

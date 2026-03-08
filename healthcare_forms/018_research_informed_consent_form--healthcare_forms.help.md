@@ -1,10 +1,3 @@
-<thinking>
-# The Research Informed Consent Form is used in medical studies to ensure that participants understand the purpose, benefits, and risks of the study. This form helps to establish a clear understanding between the researcher and the participant, ensuring that the participant's rights and safety are protected. It is essential to review the form carefully and ensure that all required fields are filled out accurately and truthfully.
-
-Before beginning, ensure that you have not already completed this form. If you are unsure about any aspect of the study or the form, please contact the researcher or the study team for clarification.
-
-This form is used to collect information about the participant, the research study, and the researcher involved in the study. It is crucial to provide accurate and honest information to ensure that the participant's rights and safety are protected.
-</thinking>
 # Research Informed Consent Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The Best HR Management Tool Nomination Form is designed to help employees, managers, and HR personnel identify and evaluate the best tools, platforms, and software for improving HR management processes. To ensure relevance and efficiency, please complete this form only if you are an authorized representative of a potential HR management tool. If you have already submitted a nomination, please do not resubmit. This form will help us evaluate and consider new tools for inclusion in our HR software repository.
-</thinking>
-
 # Best HR Management Tool Nomination Form - Help Guide
 ## Purpose
 The Best HR Management Tool Nomination Form is a tool for identifying and evaluating potential HR management tools for consideration in our HR software repository.

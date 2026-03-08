@@ -1,5 +1,3 @@
-<thinking>This form is used for identifying and evaluating the training needs of employees in the organization. The purpose of this form is to collect information about the skills and knowledge gaps of employees, which will help in providing them with relevant training and development opportunities. This form should only be filled out once for each employee, and it's essential to ensure that the information is accurate and up-to-date. Please fill out this form carefully and thoroughly, and do not duplicate any entries for the same employee.</thinking>
-
 # Employee Training Needs Identification Evaluation Form - Help Guide
 ## Purpose
 The Employee Training Needs Identification Evaluation Form is used to identify and evaluate the training needs of employees in the organization. It helps in providing them with relevant training and development opportunities.

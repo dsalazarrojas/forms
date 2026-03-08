@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to subscribe to a hotel's membership program. The purpose of this form is to gather the necessary details required for the hotel's membership team to process the subscription request. The form is divided into two main sections: membership plan, membership term, and payment details.
-</thinking>
-
 # Hotel Membership Subscription Form - Help Guide
 ## Purpose
 

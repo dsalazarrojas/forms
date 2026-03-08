@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from guests after their stay at the hotel. This helps the hotel management to understand their guests' experience, identify areas of improvement, and make data-driven decisions to enhance their services. The form collects information about the guest's name, email, stay dates, check-in and check-out dates, room type, and suggestions for improvement.</thinking>
-
 # Guest Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from guests after their stay at the hotel. Your response will help us understand your experience and identify areas for improvement.

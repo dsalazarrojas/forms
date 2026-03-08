@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # permanent makeup treatment record form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to evaluate the performance of employees in various aspects, such as performance, work quality, collaboration skills, and more. It is designed to help managers and supervisors assess an employee's strengths and weaknesses and provide feedback for growth and development. This form should be completed by managers and supervisors to provide a comprehensive evaluation of an employee's performance. 
-
-</thinking>
-
 # Employee Productivity Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of employees, providing a comprehensive assessment of their skills, work ethic, and overall contribution to the team.

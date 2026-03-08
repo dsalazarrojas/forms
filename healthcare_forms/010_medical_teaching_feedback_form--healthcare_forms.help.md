@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this Medical Teaching Feedback Form is to collect feedback from students about their medical teaching experience. This feedback is valuable for instructors to gauge their teaching effectiveness, identify areas of improvement, and make adjustments to provide better learning experiences for their students. It is essential to complete this form accurately and thoroughly to ensure that the instructor receives comprehensive and actionable feedback.
-
-Before filling out this form, please ensure that you have not already provided feedback on the same medical teaching experience to the same instructor. This will help the instructor track progress and avoid duplicate feedback.
-
-To complete this form, you will be guiding the instructor through various aspects of the medical teaching experience. Please be as specific and detailed as possible when providing your feedback.
-</thinking>
-
 # Medical Teaching Feedback Form - Help Guide
 ## Purpose
 The Medical Teaching Feedback Form is designed to collect feedback from students about their medical teaching experience. This feedback is used to help instructors improve their teaching methods and provide better learning experiences for their students.

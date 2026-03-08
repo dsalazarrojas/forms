@@ -1,7 +1,3 @@
-<thinking>This form is used to document and track the process of conflict resolution in the workplace. It captures relevant details such as case number, checklist date, HR representative, manager name, department, type of conflict, parties involved, dates of reported conflict, initial assessment, and other key steps taken during the conflict resolution process. This form is intended to ensure that all necessary steps are taken to resolve conflicts in a fair and efficient manner and to document the process for future reference.
-
-This form should be used when a conflict arises between employees in the workplace, and the HR department is involved in resolving the issue. It is essential to fill out this form accurately and thoroughly to ensure that all necessary information is captured and that the conflict is resolved in a timely and effective manner. If you are unsure about any part of the form, please refer to the relevant policies and procedures in the employee handbook or consult with an HR representative.</thinking>
-
 # Conflict Resolution Checklist - Help Guide
 ## Purpose
 

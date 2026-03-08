@@ -1,7 +1,3 @@
-<thinking>
-This form is used for productivity monitoring and hybrid work purposes in a workplace setting. The goal is to collect user information to monitor and improve work processes. This form is likely used by HR or management teams to track employee data and preferences. Please ensure that you only fill out this form once with accurate and relevant information. Note that this form has multiple fields with similar labels (e.g., "Note", "Note 2", "Note 3"), but each one is intended for a specific purpose or section of the form.
-</thinking>
-
 # hybrid_work_productivity_monitoring_form - Help Guide
 ## Purpose
 The hybrid_work_productivity_monitoring_form is used to collect user information for productivity monitoring and hybrid work purposes. It is essential to fill this form accurately to help improve work processes.

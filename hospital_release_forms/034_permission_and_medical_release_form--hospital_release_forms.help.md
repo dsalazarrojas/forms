@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Permission And Medical Release Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and obtain medical release permissions from patients or their guardians. It's essential to complete this form carefully and accurately to ensure that medical professionals can provide the best possible care and treatment.

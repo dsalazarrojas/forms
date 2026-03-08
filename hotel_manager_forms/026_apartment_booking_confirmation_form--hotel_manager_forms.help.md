@@ -1,5 +1,3 @@
-<thinking>Apartment Booking Confirmation Form is a crucial tool for ensuring accurate and efficient communication between the hotel management and guests. Its primary purpose is to confirm the booking details, including guest information, room assignments, and payment details. This form helps the management to verify the booking and ensure that the guest has all the necessary information before their arrival. The form should only be used for confirmed bookings. If a booking is not confirmed, please do not use this form. It is essential to carefully complete this form to avoid any misunderstandings or miscommunications with the guest. Please ensure you have all the necessary information before filling out this form, and if you are unsure about any field, please contact the hotel management for clarification.</thinking>
-
 # Apartment Booking Confirmation Form - Help Guide
 ## Purpose
 The Apartment Booking Confirmation Form is used to confirm the details of a guest's booking, including their personal information, room assignment, and payment details.

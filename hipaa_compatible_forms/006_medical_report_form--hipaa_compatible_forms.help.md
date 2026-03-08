@@ -1,9 +1,3 @@
-<thinking>
-This form is for collecting medical report information from patients. It is likely used to gather information for a healthcare provider or organization to assess and document patient health status, medical history, and treatment plans. This form is not intended for emergency or high-stakes situations where time-critical information is necessary, but rather for routine, non-critical data gathering. 
-
-Please note that some form fields are redundant or have unclear labels, and may need adjustments.
-</thinking>
-
 # medical_report_form - Help Guide
 ## Purpose
 The medical_report_form is designed to collect medical information from patients for non-emergency or routine purposes.

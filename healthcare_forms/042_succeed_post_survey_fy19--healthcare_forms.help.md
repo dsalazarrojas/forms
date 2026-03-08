@@ -1,13 +1,3 @@
-<thinking>
-
-Before diving into the form's purpose, let's briefly verify that this form is relevant and not a duplicate. This form is designed to gather information from users about their experiences and opinions related to healthcare, specifically for the "succeed_post_survey_fy19" topic. The form's 25 questions are meant to collect detailed feedback and insights from healthcare professionals, patients, or other stakeholders. 
-
-The form's purpose is to collect data that can be used to improve healthcare services, policies, and practices. Each question is carefully crafted to gather specific information that can help in this regard. 
-
-However, without further context, it's hard to determine if this form is a duplicate or not. If you're looking for more information on this topic or have further guidance, please let me know and we'll be happy to assist.
-
-</thinking>
-
 # succeed_post_survey_fy19 - Help Guide
 ## Purpose
 The "succeed_post_survey_fy19" form is designed to collect detailed feedback and insights from healthcare professionals, patients, or other stakeholders on various aspects of healthcare services, policies, and practices. This information will be used to improve healthcare quality, services, and policies.

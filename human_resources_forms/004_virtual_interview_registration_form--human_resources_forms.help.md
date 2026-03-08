@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from candidates for a virtual interview. It is intended for internal use within the organization, and the data collected will be used to evaluate and contact candidates for further interview stages. This form should not be used for other purposes or to collect duplicate information. Please ensure you only submit the form once, as duplicate submissions will not be considered. </thinking>
-
 # Virtual Interview Registration Form - Help Guide
 ## Purpose
 The Virtual Interview Registration Form is used to collect information from candidates applying for virtual interview positions within the organization. This form helps to streamline the interview process and ensure that all necessary details are collected from each candidate.

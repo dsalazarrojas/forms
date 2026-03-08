@@ -1,7 +1,3 @@
-<thinking>
-The Hotel Maintenance Request Form is designed to facilitate reporting and management of maintenance requests for hotel rooms, allowing staff to quickly and efficiently address issues related to repairs, maintenance, and general upkeep. The form should not be used for non-maintenance related issues, such as guest complaints or administrative matters. Please use this form to report maintenance requests only. If a similar issue has been reported recently, please check previous reports before submitting a new request.
-</thinking>
-
 # Hotel Maintenance Request Form - Help Guide
 ## Purpose
 The Hotel Maintenance Request Form is a simple tool for staff to report maintenance requests related to the hotel's premises. The form helps ensure that these issues are addressed promptly, maintaining the hotel's facilities and providing a comfortable environment for guests.

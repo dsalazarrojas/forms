@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for hotel bookings. This form is designed to be completed by guests who wish to book a room at the boutique hotel. It will ask for personal and booking details such as the guest's name, contact information, arrival and departure dates, room preferences, and number of guests. This information will be used to process the booking and ensure that the guest has a comfortable and enjoyable stay.
-
-To avoid any duplication or irrelevant data, please ensure that the guest provides accurate and up-to-date information. If the form is completed by an authorized representative of the guest, please ensure that you have the necessary permissions to collect and share this information.
-
-This form is designed to be used by the hotel staff to process bookings efficiently and effectively.
-</thinking>
-
 # Boutique Hotel Booking Form - Help Guide
 ## Purpose
 The Boutique Hotel Booking Form is used to collect information from customers for booking a room at the boutique hotel.

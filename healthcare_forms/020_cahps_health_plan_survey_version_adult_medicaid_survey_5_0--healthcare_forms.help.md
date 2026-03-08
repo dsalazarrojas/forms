@@ -1,10 +1,3 @@
-<thinking>
-
-This guide helps users understand the CAHPS (Consumer Assessment of Healthcare Providers and Systems) Health Plan Survey for Adult Medicaid 5.0. It ensures the user is aware of the purpose and requirements of the form. This guide should be used to help users understand the survey's intent and requirements.
-
-
-</thinking>
-
 # CAHPS Health Plan Survey - Adult Medicaid 5.0 - Help Guide
 ## Purpose
 

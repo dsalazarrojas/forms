@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for requesting an upgrade or deduction on Personal Protective Equipment (PPE) for an employee. It is used to track and manage PPE upgrades or deductions for various types of equipment. Before filling out this form, please ensure that you have the necessary approvals and permissions to do so, and that the request is not a duplicate of a previous submission.
-
-The form is divided into several sections that require the following information: employee name, department, supervisor name, supervisor department, employee approval, supervisor approval, date, time, assigned tool, category, description, form description, assigned tool, user, assigned to, assigned by, form category, form type, form status, form status 2, assigned date, and assigned time.
-
-Please note that this form is not designed for emergency situations. If you are in an urgent situation, please contact your supervisor or HR representative for assistance.
-
-</thinking>
-
 # PPE Upgrade Deduction Form - Help Guide
 ## Purpose
 This form is used to request an upgrade or deduction on Personal Protective Equipment (PPE) for an employee. It helps track and manage PPE upgrades or deductions for various types of equipment.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template designed to collect patient and contact information for COVID-19 vaccine administration, along with screening questions, vaccine manufacturer information, and terms and conditions for the patient to sign-off on. The purpose of this form is likely to streamline the process of registering patients for vaccination while ensuring they understand their responsibilities and obligations. It also seems to be designed for use within the healthcare industry, specifically for COVID-19 vaccination programs. Before we continue, let us ensure that this form meets the requirements and does not duplicate any existing form in the healthcare industry.
-</thinking>
-
 # moderna_covid_19_vaccine_consent_form_cpesn - Help Guide
 ## Purpose
 The moderna_covid_19_vaccine_consent_form_cpesn is a form used to collect patient information, contact details, screening questions, vaccine manufacturer information, and terms and conditions related to COVID-19 vaccination. This form helps streamline the vaccination process while ensuring patients understand their responsibilities and obligations.

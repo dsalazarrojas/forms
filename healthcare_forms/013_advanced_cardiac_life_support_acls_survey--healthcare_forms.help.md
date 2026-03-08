@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the knowledge and skills of healthcare professionals in Advanced Cardiac Life Support (ACLS) scenarios. It is intended to be completed by individuals who have a background in healthcare, particularly those who are trained in ACLS. The form is meant to evaluate their confidence and proficiency in managing cardiac emergencies, as well as their willingness to participate in ongoing training and education.
-
-The purpose of this form is not to evaluate individual competence or certification, but rather to gauge the overall preparedness of healthcare professionals in ACLS scenarios. The results of this form will help identify areas where additional training or support is needed to enhance team performance.
-
-Please note that this form is designed for internal use within an organization, and the results will not be shared with external parties.
-
-</thinking>
-
 # Advanced Cardiac Life Support (ACLS) Survey - Help Guide
 ## Purpose
 

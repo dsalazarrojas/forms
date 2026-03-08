@@ -1,13 +1,3 @@
-<thinking>
-
-To start, let's break down the form's purpose, which is to collect complaints from patients about their experience within a hospital setting. This form aims to gather relevant information to improve patient care and services offered by the hospital. It's essential to ensure the form is completed accurately and thoroughly to provide valuable feedback for the hospital's management and staff.
-
-When creating the form, we can assume that the patient or their representative will be filling it out. This will help us to tailor the explanations to their perspective and requirements.
-
-Now, let's consider the non-duplication of efforts by the hospital's management and staff. By providing clear explanations and examples, we can help patients understand the purpose and process of filling out the form, reducing confusion and duplication of efforts.
-
-</thinking>
-
 # Hospital Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback about your recent experience within our hospital. It will help us to identify areas for improvement and ensure that we provide the best possible care for our patients.

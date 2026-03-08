@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather general health appraisal information from patients or users, likely for medical professionals to assess their overall health status. To ensure you are using this form correctly, please read the instructions carefully. This form has been designed to collect information on various aspects of a person's health, including medical history, allergies, medications, medical conditions, and overall health status. Please note that this form has multiple sections, and it is essential to fill out each section completely and accurately to ensure that your health information is properly assessed.
-</thinking>
-
 # General Health Appraisal Form - Help Guide
 ## Purpose
 This form is designed to gather general health information from patients or users to assess their overall health status.

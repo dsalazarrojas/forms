@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Complimentary Healthcare Consultation Application Form - Help Guide
 
 ## Purpose

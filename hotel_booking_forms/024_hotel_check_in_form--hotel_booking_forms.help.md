@@ -1,10 +1,3 @@
-<thinking>
-We have a hotel booking system and we want to create a user-facing help guide for the "hotel_check_in_form" form. This form is used to gather information from clients for hotel check-in purposes.
-
-As we are creating a help guide for the form, we will ensure that it is clear, concise, and easy to understand for our end users. We will cover the purpose of the form, how to complete it, and what each field means, following the provided YAML fields.
-
-</thinking>
-
 # hotel_check_in_form - Help Guide
 ## Purpose
 The "hotel_check_in_form" is used to collect client information for hotel check-in purposes. This form is typically completed by clients during their stay at the hotel.

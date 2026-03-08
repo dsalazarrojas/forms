@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from parents or caregivers about their child's experience with the Child Medicaid health plan. This form is designed to collect their opinions and ratings on various aspects of the plan, including the quality of care provided by specialists, the availability of appointments, communication with doctors, and overall satisfaction with the plan. This information will be used to improve the plan and better serve children and their families in the future.
-
-Before completing this form, please note that it is completely optional and anonymous. The feedback provided will be used to help us improve the Child Medicaid health plan, but it will not affect your child's medical treatment or services.
-
-When completing this form, please answer the questions honestly and to the best of your ability. If you have any questions or concerns, feel free to reach out to us.
-
-This form consists of 15 questions, each asking about a different aspect of the Child Medicaid health plan. Please answer each question according to the options provided, and make sure to complete all required fields.
-</thinking>
-
 # CAHPS Health Plan Survey - Child Medicaid 5.0 - Help Guide
 ## Purpose
 The CAHPS Health Plan Survey for Child Medicaid 5.0 is a tool for gathering feedback from parents or caregivers about their child's experience with the Child Medicaid health plan. This survey is used to collect data on various aspects of the plan, such as the quality of care, accessibility, and overall satisfaction.

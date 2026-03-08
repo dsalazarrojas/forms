@@ -1,7 +1,3 @@
-<thinking>
-This form is for verifying health insurance information, likely for medical billing or claims purposes. It appears to be a comprehensive form that gathers details from the provider's perspective. The fields cover various aspects of healthcare insurance, such as provider, patient, date of service, policy information, claim details, and billing info. This form might be used by healthcare professionals or administrators to collect and review patient data for insurance claims or billing purposes. It's essential to complete this form accurately and thoroughly to ensure correct insurance coverage and billing.
-</thinking>
-
 # health_insurance_verification_form - Help Guide
 ## Purpose
 This form is designed to collect and verify health insurance information from patients or providers. It helps in ensuring accurate and up-to-date insurance details for medical billing and claims purposes.

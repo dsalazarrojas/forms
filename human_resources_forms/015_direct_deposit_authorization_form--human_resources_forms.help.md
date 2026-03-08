@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for employees to authorize direct deposits from their paychecks. Direct deposits are a common payment method where an employer transfers the employee's pay directly into their bank account. This form ensures that the employee provides the necessary information for the direct deposit to be set up correctly and is authorized by an HR representative. The form is also used to track and verify the authorization process.
-The form has eight fields, but only three of them are required for the direct deposit to be set up: Employee Name, Company Name, and Direct Deposit Bank Account Number. The other fields are optional.
-</thinking>
-
 # Direct Deposit Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize direct deposits from your paychecks.

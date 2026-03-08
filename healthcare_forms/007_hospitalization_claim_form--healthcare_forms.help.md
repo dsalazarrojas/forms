@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to hospitalization claims, which are typically used to seek reimbursement for medical expenses incurred during a hospital stay. This form would be used by healthcare administrators, patients, or their representatives to submit claims for reimbursement for medical services received.
-
-Before completing this form, ensure that you have all the necessary information to provide accurate and complete details about the hospitalization.
-
-**Internal Reasoning:**
-
-*   To ensure that the form is completed correctly, please make sure that each field is filled in accurately and in the format as specified.
-*   If a field is not filled out, it may cause an error and prevent the form from being submitted correctly.
-*   If you are unsure about any field or section, please do not hesitate to reach out to your healthcare administrator or claims representative for clarification.
-
-</thinking>
-
 # Hospitalization Claim Form - Help Guide
 ## Purpose
 The Hospitalization Claim Form is a document used to submit claims for reimbursement for medical expenses incurred during a hospital stay. It collects information about the patient, hospital stay, claim status, and other relevant details.

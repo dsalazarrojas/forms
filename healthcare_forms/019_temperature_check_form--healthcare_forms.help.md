@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a temperature check, which is likely used for health-related purposes, such as taking the patient's temperature. This form should only be used for temperature checks and not for other medical purposes. The fields on this form should only be filled out by patients who have actually undergone a temperature check.
-</thinking>
-
 # temperature_check_form - Help Guide
 ## Purpose
 The temperature_check_form is designed to collect essential information about a patient's temperature check. Please fill out this form with accurate and truthful information.

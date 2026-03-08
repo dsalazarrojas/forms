@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about the usability of a mobile health app. The form is designed to collect data on various aspects of the app's performance, such as navigation, satisfaction, issues encountered, and feature requests. This information will help the developers to identify areas of improvement and make informed decisions for future updates.
-The form will not collect any personally identifiable information, and users are encouraged to answer honestly to provide valuable insights. The feedback collected will be used to improve the overall user experience of the mobile health app.
-</thinking>
-
 # mobile_health_app_usability_survey - Help Guide
 ## Purpose
 This guide will walk you through the "mobile_health_app_usability_survey" form, which is designed to gather feedback from users about the usability of a mobile health app.

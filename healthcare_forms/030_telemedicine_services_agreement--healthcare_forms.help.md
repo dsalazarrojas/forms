@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for healthcare providers to collect information from physicians and patients about telemedicine services offered by a medical practice or organization. The purpose of this form is to facilitate the agreement process between healthcare providers and patients, ensuring that both parties understand the terms and conditions of telemedicine services. This form aims to promote transparency and clear communication between healthcare providers and patients, which is essential for the success of telemedicine services.
-
-Before filling out this form, please note that it is not intended to replace the advice of a medical professional. The information provided here is for general guidance only and should not be used for diagnosis or treatment without consulting a healthcare expert.
-
-</thinking>
-
 # Telemedicine Services Agreement - Help Guide
 ## Purpose
 This form is used to collect information about telemedicine services offered by a healthcare provider, including physician and patient information, services provided, frequency and duration of services, and agreement terms.

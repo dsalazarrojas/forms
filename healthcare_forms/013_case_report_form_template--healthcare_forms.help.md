@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Case Report Form Template - Help Guide
 ### Purpose
 The Case Report Form Template is a standardized form used to collect and document patient information, medical history, clinical presentation, diagnostic findings, and treatment outcomes in a systematic and comprehensive manner. This template is designed to facilitate accurate and efficient data collection, ensuring that healthcare providers have a clear and concise understanding of each patient's case.

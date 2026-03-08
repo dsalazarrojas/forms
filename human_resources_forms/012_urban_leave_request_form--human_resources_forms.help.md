@@ -1,7 +1,3 @@
-<thinking>
-The Urban Leave Request Form is designed to facilitate employees to request a leave of absence from work, allowing them to provide essential information about their leave such as employee details, leave type, start and end dates, reason for leave, contact information, and manager's approval. Before proceeding, ensure that you have the necessary permissions and that this form is not a duplicate of another form in your organization.
-</thinking>
-
 # Urban Leave Request Form - Help Guide
 ## Purpose
 The Urban Leave Request Form is used to request a leave of absence from work. This form helps employees provide necessary information about their leave, allowing for a smoother and more efficient request process.

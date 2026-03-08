@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being designed to collect data from patients, clinicians, or healthcare administrators for the purpose of assessing mental health. This could be for diagnosis, treatment planning, or quality assurance purposes. The form's layout and field selection suggest a focus on patient information, diagnostic assessments, treatment planning, education, and research. To ensure that this form accurately captures the required data and provides a smooth user experience, it's essential to carefully consider each field's purpose and relevance to the intended goals.
-</thinking>
-
 # Psychology Checklist - Help Guide
 ## Purpose
 The Psychology Checklist form is designed to collect relevant information from patients or clinicians for the assessment, planning, and monitoring of mental health services. This form may be used by mental health professionals for diagnosis, treatment planning, and research purposes.

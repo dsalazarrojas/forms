@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide information about their experience with healthcare funding. The purpose of this form is to gather relevant data to improve the healthcare funding system. Before completing this form, please ensure that you have all necessary information ready. This form will not be duplicated and all submitted responses will be treated as individual submissions. Please note that the form fields are designed to collect specific details about your healthcare funding experience. Please answer all relevant fields, and use the options that best describe your situation.
-</thinking>
-
 # healthcare_funding_quiz - Help Guide
 
 ## Purpose

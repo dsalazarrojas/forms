@@ -1,11 +1,3 @@
-<thinking>
-This form is a template for collecting information about a patient's knee evaluation, which is a crucial process in the physical therapy field. The purpose of this form is to gather relevant details about the patient's knee history, medical history, and physical therapy needs. This information can help healthcare professionals assess the patient's condition and provide effective treatment. To ensure consistency and accuracy, it's essential to complete this form carefully and thoroughly.
-
-Before starting, please note that this form has five sections: Patient Information, Knee History, Medical History, Physical Therapy, and Review. Each section has a unique set of questions designed to collect specific information. 
-
-This form is not affiliated with or endorsed by any form platform, and it's a unique creation based on public survey metadata. You are free to use, modify, and even sell this form, as long as you provide proper credit.
-</thinking>
-
 # Physical Therapy Knee Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's knee evaluation, which is a crucial process in the physical therapy field.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the "Incision And Drainage Discharge Instructions" form. Before diving into the help guide, let's quickly review the form purpose and ensure it's relevant and not duplicated. The form seems to be intended for hospitals to gather information about a patient's discharge from incision and drainage procedures, likely for follow-up and medical record keeping purposes. After reviewing the form structure, it doesn't appear to be duplicated, and the fields are well-organized and practical for the intended use. Now, let's create the help guide.</thinking>
-
 # Incision And Drainage Discharge Instructions - Help Guide
 ## Purpose
 The "Incision And Drainage Discharge Instructions" form is used to gather information about a patient's discharge from incision and drainage procedures. This information is essential for follow-up care and medical record keeping.

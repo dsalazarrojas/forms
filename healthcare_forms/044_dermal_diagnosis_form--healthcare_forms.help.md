@@ -1,14 +1,3 @@
-<thinking>
-This form is used in the healthcare industry for the purpose of dermal diagnosis. The goal is to collect relevant patient information and medical history for a comprehensive examination and diagnosis. The form should only be completed by authorized personnel and is not intended for general public use. 
-
-Please ensure that all fields are completed accurately and honestly. 
-
-If the form is for a new patient, ensure that the patient's signature is obtained on the client_signature field. 
-
-If the form is for an existing patient, ensure that the doctor's signature is obtained on the doctor_signature field.
-
-</thinking>
-
 # dermal_diagnosis_form - Help Guide
 ## Purpose
 The dermal_diagnosis_form is used to collect patient information for dermal diagnosis and treatment. It is a comprehensive form that includes fields for patient demographics, medical history, and other relevant details.

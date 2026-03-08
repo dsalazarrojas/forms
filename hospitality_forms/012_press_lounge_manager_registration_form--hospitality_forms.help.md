@@ -1,12 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "press-lounge-manager-registration-form", we need to follow these steps:
-
-- Determine the form's purpose: The form is designed for press lounge managers to register their credentials, application, and user information.
-- Identify each field's purpose and relevance: We need to explain each field's meaning and how it affects the form's outcome.
-- Create a clear and concise explanation of each field, including its label, type, and required status.
-
-</thinking>
-
 # press-lounge-manager-registration-form - Help Guide
 ## Purpose
 The "press-lounge-manager-registration-form" is designed for press lounge managers to register their credentials, application, and user information. This form helps press lounge managers to provide essential details about themselves and their experience for the press lounge management team to review.

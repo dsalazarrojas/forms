@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's education level, evaluation method, and other relevant details for patient education platforms. This form is used to evaluate the patient's education level, which is crucial for providing tailored and effective education. The form is divided into several sections, each focusing on different aspects of patient education. To ensure that the information collected is accurate and comprehensive, it is essential to fill out each section carefully and thoroughly.
-</thinking>
-
 # Patient Education Platform Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's education level, evaluation method, and other relevant details for patient education platforms.

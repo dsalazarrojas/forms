@@ -1,7 +1,3 @@
-<thinking>
-...the form is intended to gather contact and demographic information from healthcare research participants. This information will be used to establish a relationship with the participant, verify their identity, and ensure that they are aware of and have agreed to the terms of the research study. To prevent duplicate submissions, this form should only be filled out once per participant. If you have already completed this form, you do not need to fill it out again. If you are unsure about any of the information requested, please ask your research coordinator for clarification.
-</thinking>
-
 # Medical Research Release Form - Help Guide
 ## Purpose
 The Medical Research Release Form is designed to collect contact and demographic information from healthcare research participants.

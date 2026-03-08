@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for the "Human Resources" department within a company or organization. It is intended for employees to submit digital files, particularly documents related to employment contracts, non-disclosure agreements, and termination agreements. This form ensures that all necessary documents are properly filed and processed, reducing administrative tasks and ensuring a smooth workflow.
-
-Before using this form, please verify that you have not already submitted this information using another method. If you are unsure, contact your HR representative for guidance.
-
-</thinking>
-
 # dropbox_hr_file_submission_form - Help Guide
 ## Purpose
 The purpose of this form is to submit employee files, such as contracts, non-disclosure agreements, and termination agreements, for processing and storage.

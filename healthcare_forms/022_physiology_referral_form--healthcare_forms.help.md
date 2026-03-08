@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a referral to a test or procedure for a patient. The purpose of this form is to gather the necessary details to facilitate communication between healthcare providers and patients, as well as to track the status of the referral process. The goal is to ensure that the patient's needs are met and that the referral process is smooth and efficient.
-
-This form should not be used for other purposes, such as scheduling appointments or storing patient medical records. It is intended solely for the referral process and should be used in conjunction with other forms and records that provide more comprehensive information about the patient's health and medical history.
-
-It's assumed that the user is familiar with the patient's details and the referral process, so this guide will focus on explaining how to fill out the form accurately and efficiently.
-
-</thinking>
-
 # Physiology Referral Form - Help Guide
 ## Purpose
 The Physiology Referral Form is a tool for healthcare providers to refer a patient to a test or procedure. It collects essential information for communication between healthcare providers and patients, and for tracking the referral status.

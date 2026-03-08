@@ -1,18 +1,3 @@
-<thinking>
-
-The purpose of this form is to record the daily activities, incidents, and concerns of a healthcare aide working in a care home setting. The form is designed to be completed by the healthcare aide at the end of each shift, providing a concise and detailed account of the services provided to residents, any incidents or concerns that arose, and any supervisor review notes.
-
-To ensure that this form is completed correctly and efficiently, it's essential to review the following:
-
-*   Make sure you are logging the correct information for your shift. If you worked multiple shifts, complete the form for each shift separately.
-*   Enter the correct date, shift start and end times, and resident's name to provide accurate context for your log entry.
-*   Provide a brief summary of activities completed, including any notable events or incidents.
-*   Enter any vital signs recorded, if applicable.
-*   Note any incidents or concerns that arose during your shift.
-*   Use the supervisor review notes section for any additional comments or guidance for your supervisor.
-
-</thinking>
-
 # Care Home Health Aide Log - Help Guide
 ## Purpose
 

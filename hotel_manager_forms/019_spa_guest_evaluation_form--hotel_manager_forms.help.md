@@ -1,11 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the Spa Guest Evaluation Form to end-users, ensuring they understand its importance and how to complete it accurately.
-The form is designed to collect feedback from guests who have visited the spa, gathering information on their overall experience, service quality, cleanliness, staff interaction, facilities, and any recommendations or comments they may have. This data will help the spa management team identify areas for improvement and make data-driven decisions to enhance the guest experience.
-By using this form, guests will be able to provide their honest and constructive feedback, which will ultimately contribute to the continuous growth and development of the spa.
-It's crucial to fill out the form thoroughly and honestly to ensure the effectiveness of the evaluation.
-The data collected will be treated confidentially and used solely for the improvement of the spa.
-</thinking>
-
 # Spa Guest Evaluation Form - Help Guide
 
 ## Purpose

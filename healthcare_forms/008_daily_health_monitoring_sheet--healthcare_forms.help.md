@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Daily Health Monitoring Sheet" form, we need to understand the purpose and requirements for completing the form. The form appears to be used for monitoring and recording various health metrics for users, including vital signs like blood pressure, temperature, and blood oxygen level, as well as other health information like medical conditions, medications, and exercise habits.
-
-We need to clarify that the form is not for emergency situations or medical diagnosis, and users should not rely on this form as a substitute for professional medical advice. The form is intended to be a regular monitoring tool for users to track their health metrics and habits over time.
-
-With that in mind, let's proceed with creating a comprehensive help guide for end-users.
-
-</thinking>
-
 # Daily Health Monitoring Sheet - Help Guide
 ## Purpose
 The Daily Health Monitoring Sheet is a form designed to help you track and monitor your health metrics and habits on a daily basis. This includes vital signs, medical conditions, medications, exercise, sleep, nutrition, and water intake. Completing this form regularly will help you stay on top of your health and wellness.

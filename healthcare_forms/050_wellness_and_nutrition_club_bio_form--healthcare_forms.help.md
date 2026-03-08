@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to collect and store information about their personal wellness and nutrition history, medical history, and contact information. The form asks for details such as user's medical history, allergies, medications, insurance information, and emergency contact details. The purpose of this form is to create a comprehensive bio for users, which can be used by healthcare professionals for reference and care planning. This information will help ensure that users receive the best possible care and services from the wellness and nutrition club. It's essential to fill out this form accurately and completely to help healthcare professionals provide the best care for users.
-</thinking>
-
 # wellness_and_nutrition_club_bio_form - Help Guide
 ## Purpose
 The wellness and nutrition club bio form is designed to collect and store personal information about the user's health and wellness history, medical history, and contact details. This information will be used by healthcare professionals to provide personalized care and services.

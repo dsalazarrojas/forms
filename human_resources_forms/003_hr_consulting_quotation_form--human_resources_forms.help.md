@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from clients for HR consulting quotations. It's essential to complete this form accurately to ensure that the consultation services are priced and scheduled correctly. Please ensure that you have all necessary information before filling out this form. 
 
 </thinking>

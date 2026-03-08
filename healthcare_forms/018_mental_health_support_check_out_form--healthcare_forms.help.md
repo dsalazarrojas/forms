@@ -1,9 +1,3 @@
-<thinking>
-We are checking if this form is relevant and not duplicated in the system.
-The "mental_health_support_check_out_form" form is designed to gauge the level of satisfaction of patients with the mental health services provided. This form is used to collect feedback and identify areas for improvement. It is essential to ensure that patients feel supported and that their needs are met. The form is intended to be completed by patients who have interacted with the mental health services and can provide valuable insights into their experiences.
-
-</thinking>
-
 # mental_health_support_check_out_form - Help Guide
 ## Purpose
 The mental_health_support_check_out_form is a feedback form used to measure the satisfaction of patients with mental health services.

@@ -1,14 +1,3 @@
-<thinking>
-We should create a help guide that will assist users in understanding the purpose and usage of the "Treatment Interruption Assessment Form". This form is used to assess and document the interruption of treatment for a patient, gathering relevant medical history, reason for interruption, treatment status, medication side effects, and other important details. This form should be completed by healthcare professionals to ensure accurate and thorough documentation of the patient's treatment interruption. The purpose of this form is to gather information that will help healthcare providers make informed decisions about the patient's care and treatment.
-
-This form is not meant to be a substitute for a thorough medical examination or diagnosis. It is meant to be used as a tool to aid healthcare providers in assessing and documenting the interruption of treatment.
-
-Before starting to complete this form, please ensure that you have the necessary permissions and authorization to access the patient's medical information.
-
-This form is divided into several sections that will guide you through the process of completing it.
-
-</thinking>
-
 # Treatment Interruption Assessment Form - Help Guide
 ## Purpose
 The "Treatment Interruption Assessment Form" is used to assess and document the interruption of treatment for a patient, gathering relevant medical history, reason for interruption, treatment status, medication side effects, and other important details.

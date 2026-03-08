@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants in the Digital Therapy Program. The purpose of this form is to gather information about the participants' experiences, both positive and negative, with the program. This will help the program administrators understand what works well and what areas need improvement.
-The form collects demographic information such as first name, last name, and email, and contact information like phone number. The program also wants to know the participants' rating of their experience, their level of satisfaction, and whether they would recommend the program to others.
-Participants are also asked to provide free-form comments about what they liked most and least about the program, and how likely they are to recommend the program. Additionally, they are asked to provide suggestions for improvement.
-</thinking>
-
 # Digital Therapy Program Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Digital Therapy Program Feedback Survey form, explaining each field and how to complete it.

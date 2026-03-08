@@ -1,8 +1,3 @@
-<thinking>
-This form is used for collecting patient information and scheduling appointments. The fields included are meant to gather necessary details for providing quality healthcare services. Please ensure that the information you provide is accurate and up-to-date. If you have previously submitted this form, please do not resubmit. Duplicate submissions can lead to unnecessary data duplication and potential errors in your medical history.
-
-</thinking>
-
 # Patient Intake And Appointment Request Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and schedule appointments with healthcare providers. It is meant to be completed by patients or their representatives to provide necessary details for providing quality healthcare services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients about their pain experiences. It's intended to be used by healthcare professionals to gather data for pain psych patients. Before proceeding, please ensure that you are in the correct context and that this form is not being used for any other purpose.
-</thinking>
-
 # Pain Psych Patient Questionnaire - Help Guide
 ## Purpose
 The Pain Psych Patient Questionnaire is designed to collect information from patients about their pain experiences.

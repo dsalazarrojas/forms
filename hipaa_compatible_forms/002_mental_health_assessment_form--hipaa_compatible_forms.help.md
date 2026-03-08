@@ -1,5 +1,3 @@
-<thinking>...This form is intended for assessing the mental health of patients. It is not intended for use in emergency situations or high-risk cases. Before filling out this form, make sure you have not filled it out recently, and that your answers are up-to-date and accurate. This form is designed to be completed by patients themselves, but healthcare professionals may also use it to assess mental health as part of a larger evaluation process...</thinking>
-
 # Mental Health Assessment Form - Help Guide
 ## Purpose
 This form is designed to help patients assess their mental health. It is a series of questions that gather information about a patient's well-being and experiences to help healthcare professionals better understand their mental state.

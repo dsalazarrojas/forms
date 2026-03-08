@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and information about how individuals with hypertension (high blood pressure) receive and understand communication from healthcare providers. This form aims to identify effective ways to communicate with patients about their condition and potential treatment options. The form is not intended for patients with a history of non-adherence to medication or treatment plans. Before starting, review the form carefully to ensure you understand the questions and are eligible to complete it. If you've already completed similar forms in the past, this form might be similar, but please answer based on your current experiences and perceptions.
-</thinking>
-
 # Hypertension Communication Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences with communication from healthcare providers regarding hypertension.

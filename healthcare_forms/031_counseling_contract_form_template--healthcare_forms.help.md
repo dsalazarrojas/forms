@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by counselors or therapists for client intake and session planning. Its purpose is to capture essential information from clients before starting counseling sessions. It includes fields for user contact information, service details, payment terms, counseling plan, and other relevant details. The form is intended to ensure that both the client and counselor are clear on expectations, boundaries, and payment procedures. Please use this form with clients to create a comprehensive and personalized counseling contract.
-</thinking>
-
 # Counseling Contract Form Template - Help Guide
 ## Purpose
 This form is designed to be used by counselors or therapists for client intake and session planning.

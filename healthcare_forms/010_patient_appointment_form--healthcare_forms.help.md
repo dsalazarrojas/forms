@@ -1,7 +1,3 @@
-<thinking>
-This form was created based on public metadata for a healthcare-related form, so I'm assuming a purpose and structure relevant to such fields. I won't be duplicating any exact forms or platforms. The form is meant to capture information for a patient's appointment.
-</thinking>
-
 # Patient Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information for patients' appointments. It includes fields for collecting the patient's name, appointment date, and appointment time. Please fill it out with the required information for your appointment.

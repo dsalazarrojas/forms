@@ -1,5 +1,3 @@
-<thinking>This form is intended to be a general-purpose test form, likely used for human resources purposes, such as testing the effectiveness of certain HR processes or procedures. The form is designed to be completed by individuals, possibly as part of a testing or survey process. The form has multiple pages with different types of fields, including text, number, email, select one, select multiple, date, time, and note fields.</thinking>
-
 # Gamma Test - Help Guide
 ## Purpose
 The Gamma Test form is a general-purpose test form used for various human resources purposes. It is designed to gather information from individuals and has multiple pages with different field types.

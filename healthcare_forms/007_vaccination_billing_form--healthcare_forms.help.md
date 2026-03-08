@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a patient's vaccination billing details. The purpose of this form is to gather essential data for medical billing purposes, ensuring accurate and efficient processing of vaccination-related charges. The form is organized into sections that require patient information, insurance details, service details, and an optional notes section for any additional comments or instructions.
-
-Before filling out the form, it is essential to understand the purpose and context of each section to ensure accurate and complete information is provided.
-
-</thinking>
-
 # Vaccination Billing Form - Help Guide
 ## Purpose
 The Vaccination Billing Form is designed to collect vital information for medical billing purposes, ensuring accurate and timely processing of vaccination-related charges.

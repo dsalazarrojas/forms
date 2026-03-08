@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from a policy consultant for an interview with a candidate. The purpose of this form is to gather details about the consultant's availability, job position, and other relevant information for the interview. Before filling out this form, please ensure that you are authorized to do so, and that the information you provide is accurate and complete. If you're unsure about any of the information, please consult the relevant stakeholders or refer to previous interviews or policies.</thinking>
-
 # Policy Consultant Interview Form - Help Guide
 ## Purpose
 This form collects information from the policy consultant for an interview with a candidate. Ensure that you have the necessary authority to fill out this form, and provide accurate and complete information.

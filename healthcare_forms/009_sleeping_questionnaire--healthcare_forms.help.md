@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the purpose and functionality of the Sleeping Questionnaire form. The form is designed to gather information about an individual's sleep habits and medical history, including their sleep patterns, sleep quality, and any snoring or sleep disorders they may experience. The purpose of this guide is to ensure that users understand how to complete the form accurately and effectively.
-
-</thinking>
-
 # Sleeping Questionnaire - Help Guide
 ## Purpose
 

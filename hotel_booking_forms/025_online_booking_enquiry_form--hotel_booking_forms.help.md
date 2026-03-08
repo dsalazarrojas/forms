@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this online booking enquiry form is to gather contact information and booking details from customers who are interested in making a booking at the hotel. This form should be used by customers who have not yet made a booking and are looking to inquire about availability and rates. The form is designed to be simple and easy to use, with clear labels and instructions to guide the user through the process.
-
-To ensure that the form is completed correctly and efficiently, we should check for the following:
-
-* Ensure that the form is only filled out by customers who have not yet made a booking.
-* Double-check that each field is completed correctly, especially dates and numbers.
-* Review the form for completeness, ensuring that all required fields are filled out.
-
-</thinking>
-
 # Online Booking Enquiry Form - Help Guide
 
 ## Purpose

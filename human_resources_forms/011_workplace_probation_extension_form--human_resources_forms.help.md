@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Human Resources category, which is used by organizations to manage and track employee information. The form's purpose is to request an extension of a probationary period for an employee. It is essential to ensure that the employee understands the context and requirements before filling out the form. Please note that the following form will only be used for original adaptation and is not affiliated with or endorsed by any form platform.
-</thinking>
-
 # Workplace Probation Extension Form - Help Guide
 ## Purpose
 The Workplace Probation Extension Form is a document used by Human Resources to gather information about an employee's probationary period. This form is completed by the employee to request an extension of their probationary period.

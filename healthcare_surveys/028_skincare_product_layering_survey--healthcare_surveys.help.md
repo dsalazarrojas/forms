@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and relevance of this form. We also want to avoid duplication of questions or responses that may already be covered in previous questions.
-- The form is designed to gather information on users' skincare product layering habits, preferences, and challenges.
-- We should be careful not to ask questions that are too similar or redundant.
-- We also want to keep the form concise and easy to understand, while still gathering the necessary information.
-</thinking>
-
 # Skincare Product Layering Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your skincare product layering habits, preferences, and challenges. Your input will help us understand how you currently layer skincare products and what benefits you see from this process.

@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information from patients or contacts related to healthcare policy literacy. This form will collect a wide range of information including patient demographics, medical history, contact details, and policy understanding. 
-
-This form is part of a broader healthcare policy assessment process, and it will help in understanding how policies are understood and applied in a real-world setting.
-</thinking>
-
 # Healthcare Policy Literacy Survey - Help Guide
 ## Purpose
 This guide will walk you through the fields required to fill out the healthcare policy literacy survey, designed to gather information on policy understanding and implementation from patients and their contacts.

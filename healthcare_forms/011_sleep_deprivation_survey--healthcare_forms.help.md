@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's sleep habits and patterns, which can help healthcare professionals understand the patient's sleep disorders and provide personalized recommendations for improvement. The form is meant for patients who are experiencing sleep difficulties and are seeking guidance from healthcare providers. To ensure that this form is relevant and useful for the intended purpose, it's essential to understand the individual's sleep habits and identify potential areas for improvement.
-
-This form should not be used for other purposes or by other groups, as it is tailored to the specific needs of patients with sleep disorders.
-
-</thinking>
-
 # Sleep Deprivation Survey - Help Guide
 ## Purpose
 The Sleep Deprivation Survey is designed to collect information about a patient's sleep habits and patterns, helping healthcare professionals understand their sleep disorders and provide personalized recommendations for improvement.

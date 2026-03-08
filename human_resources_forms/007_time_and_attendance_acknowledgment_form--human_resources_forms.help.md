@@ -1,7 +1,3 @@
-<thinking>
-This form is a Time And Attendance Acknowledgment Form, used to record and acknowledge an employee's attendance and status. The form should be used when an employee is absent or present, and it helps to maintain accurate records of attendance. This form is not intended to be filled out by employees on a daily basis, but rather when necessary to confirm their presence or absence. To avoid duplication, only fill out the form when you are aware that your absence or presence is necessary for your work or for other reasons. 
-</thinking>
-
 # Time And Attendance Acknowledgment Form - Help Guide
 ## Purpose
 This form is a Time And Attendance Acknowledgment Form, used by employees and their managers to record and acknowledge an employee's attendance and status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates who are interested in applying for a management position. The form is intended to gather essential details about each candidate, including their contact information and work experience. Before completing this form, please ensure that you are eligible to apply for a management position and that your information is accurate and up-to-date. 
-</thinking>
-
 # Recruitment Of Managers Form - Help Guide
 ## Purpose
 The Recruitment Of Managers Form is a document used to gather information from candidates applying for management positions. It helps the hiring team to evaluate their qualifications, assess their fit for the role, and facilitate the recruitment process.

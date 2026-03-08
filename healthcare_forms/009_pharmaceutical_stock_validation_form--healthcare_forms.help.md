@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for the validation of pharmaceutical stock. The form is part of a larger system that ensures accurate and efficient tracking and management of stock inventory. The purpose of this form is to ensure that the stock is properly tracked and validated to prevent errors and discrepancies. This form should only be completed by authorized personnel, such as pharmacists or healthcare professionals, who have access to sensitive information about patient medications. It is crucial that the form is filled out accurately and completely to avoid any potential risks or issues with the stock validation process.
-
-The form is divided into several sections, each with its own set of fields that need to be filled out. Some fields are required, while others are optional. The form can be filled out in multiple pages, each with its own set of fields. 
-
-The form is designed to be completed by someone with knowledge of the stock and its management. The completion of this form should be reviewed and approved by someone with authority and knowledge in the stock management process.
-
-The following is a step-by-step guide on how to complete this form:
-
-</thinking>
-
 # pharmaceutical_stock_validation_form - Help Guide
 ## Purpose
 This form is used to validate pharmaceutical stock information. It ensures that the stock is properly managed and tracked, and any discrepancies or issues are identified and addressed.

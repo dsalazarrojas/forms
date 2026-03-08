@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about the mental health of an individual, including their experiences with anxiety, depression, stress, and other mental health concerns. This form may be used by healthcare professionals to assess an individual's mental health status, identify potential areas of concern, and provide personalized recommendations for support. Please note that the form is not a replacement for professional medical diagnosis or treatment. 
-
-The form is divided into 8 pages, each with its own set of questions. Please ensure that you complete the form in the same order that the pages appear.
-</thinking>
-
 # mental_health_survey - Help Guide
 ## Purpose
 The mental health survey is a tool used to gather information about an individual's mental health. It is intended for use by healthcare professionals to assess an individual's mental health status, identify potential areas of concern, and provide personalized recommendations for support.

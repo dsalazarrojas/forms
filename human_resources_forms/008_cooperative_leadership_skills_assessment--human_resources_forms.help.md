@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the leadership skills and team capacity of a team leader or leader in a cooperative environment. The form is divided into several sections, each focusing on a specific aspect of leadership and team performance. The purpose of this form is to provide a comprehensive evaluation of the leader's skills and the team's capacity, which can be used to identify areas of improvement and development.
-</thinking>
-
 # Cooperative Leadership Skills Assessment - Help Guide
 ## Purpose
 The cooperative leadership skills assessment form is designed to evaluate the skills and abilities of a team leader or leader in a cooperative environment. This form helps to identify strengths and weaknesses in areas such as team leadership, self-leadership, collaboration, communication, conflict resolution, and leadership capabilities.

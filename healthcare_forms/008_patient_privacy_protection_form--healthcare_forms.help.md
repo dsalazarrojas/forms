@@ -1,7 +1,3 @@
-<thinking>
-The Patient Privacy Protection Form is used to collect sensitive patient information to ensure their privacy and confidentiality are maintained while receiving medical care. This form is essential for healthcare providers to understand their patients' privacy preferences and boundaries. Before filling out this form, ensure you have not previously completed it, as this will help prevent duplicate entries and maintain accurate records.
-</thinking>
-
 # Patient Privacy Protection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and record patient information to protect their privacy and confidentiality during medical care. It helps healthcare providers understand and respect patients' preferences for their personal and medical information.

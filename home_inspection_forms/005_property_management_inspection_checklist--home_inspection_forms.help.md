@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to assist property owners or managers in conducting a comprehensive inspection of a property. This form is used to check various aspects of the property's condition, including the exterior and interior, electrical, plumbing, heating and cooling systems, windows and doors, fire safety, and other critical systems.
-
-To complete this form, follow these steps:
-
-1.  Select the pages you want to inspect.
-2.  Answer each question by checking the boxes or writing down your observations.
-3.  Be thorough in checking each item to ensure that all areas are properly examined.
-
-</thinking>
-
 # Property Management Inspection Checklist - Help Guide
 ## Purpose
 The Property Management Inspection Checklist is designed to help you inspect a property from top to bottom, ensuring all critical systems and aspects are functioning properly. This checklist covers exterior and interior inspections, electrical, plumbing, and other essential systems, helping you identify potential issues before they become major problems.

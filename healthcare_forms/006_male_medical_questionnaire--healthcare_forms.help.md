@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect medical information from male patients. It is intended for general medical purposes, such as patient registration or health assessments. Please ensure that all information submitted is accurate and up-to-date.
-To ensure accurate and comprehensive data collection, please complete the form in its entirety. If a question does not apply to you, please select "Other" or enter N/A.
-Please note that some fields are optional but are still required for accurate medical analysis. Please provide accurate unit measurements for all relevant fields.
-</thinking>
-
 # Male Medical Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect medical information from male patients.

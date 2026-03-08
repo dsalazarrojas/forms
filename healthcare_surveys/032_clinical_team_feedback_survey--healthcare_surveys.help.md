@@ -1,7 +1,3 @@
-<thinking>
-This form is a Clinical Team Feedback Survey designed to gather insights from clinical team members about their experiences and perceptions of their workplace. The purpose of this survey is to identify areas of strength and weakness within the team, and to gather feedback that can inform future improvements to team dynamics, communication, and overall work environment. This survey is intended to be completed by clinical team members and will help the organization better understand their perspectives and feelings about their work. Please answer the questions honestly and to the best of your ability. This survey is not a performance evaluation or a evaluation of individual personnel, but rather a tool to gather information that can help improve team functioning and collaboration.
-</thinking>
-
 # Clinical Team Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from clinical team members about their experiences and perceptions of their workplace. The goal is to identify areas of strength and weakness within the team and to gather information that can inform future improvements to team dynamics, communication, and overall work environment.

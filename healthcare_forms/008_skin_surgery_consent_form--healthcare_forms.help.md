@@ -1,9 +1,4 @@
-# <thinking> 
-The "Skin Surgery Consent Form" is used to obtain consent from clients for various types of skin surgeries. This form ensures that the client understands the nature of the procedure, the potential risks and benefits, and has given their consent for the treatment. This form is meant to be filled out by the client before the skin surgery takes place.
-The form has 10 fields that require input from the client. The following is a detailed guide on how to complete the form.
-</thinking>
-
-# Skin Surgery Consent Form - Help Guide
+# # Skin Surgery Consent Form - Help Guide
 ## Purpose
 
 The "Skin Surgery Consent Form" is a document that requires clients to provide information about themselves and their medical history in order to obtain their consent for the skin surgery.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help patients track their bladder habits and provide valuable information to their healthcare provider. It is used to monitor and analyze data on bladder health, helping healthcare professionals to make informed decisions about patient care.
-</thinking>
-
 # Bladder Diary Form - Help Guide
 ## Purpose
 The Bladder Diary Form is a patient-completed form used to track and record daily bladder habits, providing healthcare providers with valuable information for patient care.

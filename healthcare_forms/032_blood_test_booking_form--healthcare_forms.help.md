@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help patients book blood test appointments, allowing them to schedule a convenient time for their tests. The form will gather essential information about the patient, including their personal details, medical history, and preferences for the test appointment. To prevent duplication of effort, patients can only book an appointment for a specific lab location, and the form will guide them through the process of selecting the most suitable location.
-</thinking>
-
 # Blood Test Booking Form - Help Guide
 ## Purpose
 This form is used to schedule blood test appointments for patients. It gathers the necessary information to book a suitable appointment time and lab location.

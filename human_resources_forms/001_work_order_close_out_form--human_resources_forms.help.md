@@ -1,7 +1,3 @@
-<thinking>
-The "Work Order Close Out Form" is used to finalize and document the completion of a work order, ensuring that all necessary information is captured and approved. This form is usually completed by a project manager or supervisor when a work order has been completed, and is meant to prevent misunderstandings or miscommunication about the status of a project. To ensure accuracy and consistency, please ensure that this form is not completed in duplicate, as doing so may lead to errors or confusion.
-</thinking>
-
 # Work Order Close Out Form - Help Guide
 ## Purpose
 The "Work Order Close Out Form" is used to finalize and document the completion of a work order. This form captures essential details about the project, including the contractor's name, contract number, hours worked, materials used, total cost, job status, notes, and the individuals responsible for submitting and approving the form.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the TB Test Results Entry Form is to collect and document the results of tuberculosis (TB) testing for patients. This form is used to record and track the test results, patient information, and test details to ensure accurate and efficient record-keeping and reporting.
-
-Before completing this form, please ensure that you have the necessary permissions and authorization to access and enter test results. Also, please review the patient's medical chart to confirm that the information entered is accurate and up-to-date.
-
-This form is designed to be completed in sections, with each section focusing on a specific aspect of the test results and patient information. Please complete each section carefully and thoroughly to ensure that all relevant information is recorded.
-
-</thinking>
-
 # TB Test Results Entry Form - Help Guide
 ## Purpose
 The TB Test Results Entry Form is used to collect and document the results of tuberculosis (TB) testing for patients. This form helps ensure accurate and efficient record-keeping and reporting.

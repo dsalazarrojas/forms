@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Museum Staff Onboarding Form - Help Guide
 ## Purpose
 The Museum Staff Onboarding Form is a tool used to gather essential information about new staff members, including their emergency contact details, employment details, and job-specific information. This form is required for all new staff members and helps the HR department to create accurate records and facilitate smooth onboarding process.

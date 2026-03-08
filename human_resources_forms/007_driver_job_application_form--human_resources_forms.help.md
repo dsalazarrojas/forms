@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical part of our hiring process, and it's essential to get it right. The purpose of this form is to gather information from potential candidates who want to become drivers. Please ensure that you're filling it out accurately and completely, as the information collected here will be used to assess your eligibility for the role. Before you start, please double-check that you haven't already submitted this form or that you're not submitting it on behalf of someone else. This form consists of several sections, which we'll cover in the following steps.
-</thinking>
-
 # Driver Job Application Form - Help Guide
 
 ## Purpose

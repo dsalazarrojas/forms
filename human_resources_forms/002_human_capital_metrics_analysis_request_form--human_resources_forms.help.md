@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a crucial tool for HR department to request human capital metrics analysis. This form helps the analyst to gather specific data about an employee's performance and metrics. Before filling out this form, please ensure you have all the necessary information about the employee, such as their ID, department, and relevant metrics (e.g., number of years of service, certifications, awards). This form may already be filled out for previous employees, so ensure that you are not duplicating any existing analysis. If you are unsure about any part of this form, please reach out to your HR representative for assistance.
-
-</thinking>
-
 # Human Capital Metrics Analysis Request Form - Help Guide
 ## Purpose
 This form is used to request human capital metrics analysis for an employee. It gathers data about the employee's performance and provides insights to aid in making informed decisions.

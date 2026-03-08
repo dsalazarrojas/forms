@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Lactation Consultation Pre Assessment" which appears to be a medical form used for gathering information about a patient's lactation needs and health. The form has three pages, but it seems that there's no actual form fields defined in the schema. This is likely because the schema is just a basic structure for the form, and the actual fields will be added later. I will assume that the form is meant to be completed by a healthcare professional or a patient to assess their lactation needs and health.
-</thinking>
-
 # Lactation Consultation Pre Assessment - Help Guide
 ## Purpose
 The Lactation Consultation Pre Assessment is a medical form used to gather information about a patient's lactation needs and health. It is meant to be completed by a healthcare professional or a patient to assess their lactation needs and health.

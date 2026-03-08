@@ -1,38 +1,3 @@
-<thinking>
-This help guide is intended for patients who are scheduled to undergo a dental extraction procedure. The form is used to gather patient information, consent, and other relevant details before the procedure. It is essential to complete this form accurately to ensure that you, as the dentist, have a clear understanding of the patient's medical history, allergies, and emergency contact information.
-
-This form may be used in multiple facilities, including Dental Clinics, Dental Hospitals, Private Clinics, or even on a Home Visit. Please answer all questions truthfully, and if you are unsure about any field, consult the dentist or medical staff for guidance.
-
-The form is divided into several sections, each with a specific purpose:
-
-*   **Patient Identity**: Provide your personal details, including your date of birth and other essential contact information.
-*   **Contact Information**: Fill in your contact details, such as your phone number and email address.
-*   **Procedure Description**: Describe the dental extraction procedure you are about to undergo.
-*   **Risks and Complications**: List any potential risks or complications associated with the procedure.
-*   **Consent Form**: Sign this form to confirm that you have read and understood the procedure's details.
-*   **Signature**: Sign this section to confirm your consent.
-*   **Patient Information**: Fill in your personal details, including your address.
-*   **Consent Date**: Date and time of your consent.
-*   **Dentist Information**: Provide your dentist's contact information.
-*   **Procedure Cost**: State the cost of the procedure.
-*   **After Effects**: Describe any post-procedure care instructions.
-*   **Emergency Contact**: Provide the contact information of your emergency contact.
-*   **Allergy Information**: List any allergies or medical conditions you may have.
-*   **Medical History**: Describe your medical history.
-*   **Dentist Signature**: Sign this section to confirm that you have read and understood the procedure's details.
-*   **Patient Signature**: Sign this section to confirm your consent.
-*   **Date**: Date of the procedure.
-*   **Time**: Time of the procedure.
-*   **Facility**: Select the facility where the procedure will take place.
-*   **Other Facility (Optional)**: If you are having the procedure in an alternative facility, enter the name of that facility.
-*   **Patient DOB**: Date of birth of the patient.
-*   **Phone Number**: Your contact phone number.
-*   **Email**: Your email address.
-*   **Address**: Your address.
-*   **Emergency Contact Number**: Your emergency contact phone number.
-
-</thinking>
-
 # Dental Extraction Consent Form - Help Guide
 ## Purpose
 This form is used to gather patient information, consent, and other relevant details before a dental extraction procedure.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by medical professionals to gather information about patients' skin and hair conditions, treatment history, and other relevant medical conditions. The purpose of this form is to collect data that will help medical professionals make informed decisions about patients' skin and hair care.
-</thinking>
-
 # Skin And Hair Care Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information about your skin and hair conditions, treatment history, and other medical conditions. This data will help our medical professionals make informed decisions about your skin and hair care.

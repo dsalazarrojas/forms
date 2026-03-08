@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and ratings from residents on various aspects of their residential building management experience. It is essential to ensure that all required fields are filled in to provide a complete and accurate representation of the resident's concerns and opinions. Please note that if you have previously submitted feedback, it is recommended not to repeat the same feedback. Each submission should contain new and original feedback.
-</thinking>
-
 # residential_building_management_feedback_poll_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from residents on various aspects of their residential building management experience.

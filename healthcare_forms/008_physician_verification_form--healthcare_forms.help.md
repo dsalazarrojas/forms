@@ -1,10 +1,3 @@
-<thinking>
-This form is for verifying the information of a physician, used by clinics or organizations to verify a physician's details.
-It is essential to ensure that the information provided is accurate and up-to-date.
-Before proceeding, please ensure that you have access to the relevant information.
-If you are a physician, please note that providing incorrect information will result in the verification being rejected.
-</thinking>
-
 # Physician Verification Form - Help Guide
 ## Purpose
 The Physician Verification Form is used to gather detailed information about a physician for verification purposes. This information helps ensure the accuracy of the verification process.

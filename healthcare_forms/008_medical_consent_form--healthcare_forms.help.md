@@ -1,5 +1,3 @@
-<thinking>...this form is designed for healthcare professionals to obtain medical consent from patients. It's likely used in a clinical setting to record patient information, medical treatment details, and other relevant medical notes. The purpose of this form is to standardize the process of gathering patient consent while ensuring that all necessary information is collected in a single, organized document. To ensure that this form is not duplicated in the system, the form ID should be carefully reviewed...</thinking>
-
 # medical_consent_form - Help Guide
 ## Purpose
 The medical_consent_form is a standardized form used to obtain medical consent from patients. It collects patient information, treatment details, and other relevant medical notes.

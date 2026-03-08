@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to capture data on hand hygiene practices in a healthcare setting. The form collects information on the patient's ID, facility, date, time of observation, and various aspects of hand hygiene practices, including handwashing count, method, frequency, and hygiene level. The form also inquires about hand hygiene training, policy, supervisory level, and frequency of supervisory visits.
-
-The form is intended to assess the adherence to hand hygiene practices in a healthcare facility. It is likely to be used by healthcare professionals to monitor and evaluate hand hygiene practices in the facility.
-
-The purpose of this form is to gather data on hand hygiene practices to identify areas for improvement, evaluate the effectiveness of current hand hygiene policies and procedures, and provide recommendations for changes to enhance hand hygiene practices in the facility.
-
-Please make sure to fill out this form accurately and thoroughly to provide valuable information for the evaluation and improvement of hand hygiene practices in the facility.
-
-</thinking>
-
 # hand_hygiene_observation_form - Help Guide
 ## Purpose
 This form is designed to collect data on hand hygiene practices in a healthcare facility. It captures information on hand hygiene adherence, training, policy, and supervisory level and frequency.

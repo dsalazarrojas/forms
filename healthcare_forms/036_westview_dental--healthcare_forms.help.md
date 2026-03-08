@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from patients visiting the Westview Dental clinic. This form likely serves as an intake form for patients to provide personal details, appointment scheduling information, and any relevant medical history or notes. It is not specified if this form is for new patient registration or for scheduling a specific appointment. Before filling out this form, ensure that all required fields are understood, and non-required fields can be skipped.
-</thinking>
-
 # westview-dental - Help Guide
 ## Purpose
 This form is used to capture patient information for the Westview Dental clinic.

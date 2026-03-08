@@ -1,16 +1,3 @@
-<thinking>
-The form is used to request changes to an employee's schedule. This form should only be completed by employees or their authorized representatives. Please ensure that you have the necessary approval before submitting a request.
-
-The form is meant to be completed by employees or their representatives to request changes to their own or someone else's schedule. This form is not meant for managers to approve or reject schedule changes, which can be done through other means such as email or through the manager's own approval workflow.
-
-Before filling out this form, ensure that you have the necessary approvals and that the changes requested are in line with company policies and procedures. 
-
-If you are requesting schedule changes for someone else, please ensure that the employee has authorized you to make the request on their behalf.
-
-Please note that this form may not be the only means of requesting schedule changes. Other means of requesting schedule changes may include email or other internal processes.
-
-</thinking>
-
 # work_schedule_change_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request changes to an employee's schedule. It is intended for employees or their authorized representatives to submit requests for changes to their own or someone else's schedule.

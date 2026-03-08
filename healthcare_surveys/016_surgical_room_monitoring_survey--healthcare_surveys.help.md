@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surgical Room Monitoring Survey - Help Guide
 ## Purpose
 The Surgical Room Monitoring Survey is a tool designed to collect feedback from healthcare professionals about their experience with the surgical room monitoring system. The survey aims to gather information on the ease of use, relevance, and overall quality of the system.

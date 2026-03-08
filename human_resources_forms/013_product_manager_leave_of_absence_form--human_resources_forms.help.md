@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record information about a Product Manager's leave of absence. The form will help track and manage leave requests for Product Managers, ensuring that all necessary details are documented and communicated with the team appropriately. Before filling out this form, please ensure that you have a valid reason for taking leave and that it has been approved by your manager. This form should only be completed if you are an active Product Manager, as it is not applicable to inactive employees. If you are already on leave and your status has changed, please update your status accordingly.
-</thinking>
-
 # Product Manager Leave of Absence Form - Help Guide
 ## Purpose
 This form is used to record information about a Product Manager's leave of absence, including start and end dates, reason for leave, status, and approval status.

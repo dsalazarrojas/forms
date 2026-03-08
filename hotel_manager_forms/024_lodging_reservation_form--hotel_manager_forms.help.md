@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive and user-friendly help guide for the Lodging Reservation Form, I'll start by clarifying the purpose and context of the form. 
-
-The purpose of this form is to collect essential information from a police officer visiting a lodging, which is crucial for the host to provide an optimal experience for the guest. This includes details about their identity, contact, and preferences to ensure a smooth stay. The form is a critical tool for the host to gather necessary information, and it's designed to be easy to fill out by the officer while minimizing the chance of errors.
-
-The form is intended to be completed by a police officer, hence the inclusion of fields related to police force details and rank. The host needs this information to accommodate the officer's needs and ensure their stay is comfortable and secure. 
-
-</thinking>
-
 # Lodging Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from a police officer visiting a lodging to ensure their stay is comfortable and secure.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for the release of a Medicare consent, which is a legal document that grants permission to share a patient's medical information with a healthcare provider. This form is usually used when a patient is transferring care to a new healthcare provider or organization. To avoid duplication, please ensure that the patient is not already signed for the same consent before proceeding with this form.
-</thinking>
-
 # Medicare Consent Release Form - Help Guide
 ## Purpose
 

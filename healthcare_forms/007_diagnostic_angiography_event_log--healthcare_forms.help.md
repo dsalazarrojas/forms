@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to document diagnostic angiography events, which is a medical imaging procedure used to visualize the inside of blood vessels to diagnose and treat various cardiovascular and neurovascular diseases. This form will guide healthcare professionals in logging details about the procedure, including patient information, procedure specifics, imaging details, catheterization information, and post-procedure outcomes.
-
-The form will be used by healthcare professionals to maintain accurate and comprehensive records of diagnostic angiography events, which can help in tracking patient progress, monitoring treatment efficacy, and improving patient care. 
-
-</thinking>
-
 # Diagnostic Angiography Event Log - Help Guide
 ## Purpose
 The Diagnostic Angiography Event Log is a form used to document diagnostic angiography events. This form helps healthcare professionals log patient information, procedure details, and outcomes to ensure accurate and comprehensive records.

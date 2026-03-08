@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's skincare recycling habits. The purpose of this form is to gather data on how often individuals recycle skincare products, the types of materials they recycle, and what motivates them to recycle. This information can be used to inform future initiatives and marketing strategies for skincare products and recycling programs.
-
-To determine if the form is relevant to the user, the system should check if the user is within a specific demographic or has expressed interest in skincare products or recycling.
-
-To avoid duplication of effort, the system should verify that the user has not already completed the survey or similar surveys in the past.
-
-</thinking>
-
 # Skincare Recycling Habit Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your skincare recycling habits. Your responses will help us understand how to improve recycling programs and promote sustainable skincare practices.

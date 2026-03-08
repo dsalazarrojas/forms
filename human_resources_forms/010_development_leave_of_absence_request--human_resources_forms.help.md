@@ -1,7 +1,3 @@
-<thinking>
-The Development Leave of Absence Request form is used by employees to submit requests for leave of absence from work due to reasons such as vacation, sickness, or bereavement. This form is used by human resources to manage leave requests and track the approval process. To avoid duplication, please ensure that you only submit one form per leave request. Please note that this form must be completed by the employee making the request, as their manager's approval is required for leave approval.
-</thinking>
-
 # Development Leave Of Absence Request - Help Guide
 ## Purpose
 The Development Leave of Absence Request form is used by employees to submit requests for leave of absence from work due to various reasons.

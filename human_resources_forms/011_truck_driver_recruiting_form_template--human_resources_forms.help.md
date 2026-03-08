@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from potential truck drivers for recruitment purposes. This form will be used to gather details about the candidate's qualifications, experience, driving history, vehicle preference, contact information, availability, emergency contacts, and relevant skills. This information will be used to assess the suitability of the candidate for truck driving roles within the company. Please ensure that you are filling out this form for a valid reason and do not duplicate efforts in submitting multiple forms for the same candidate.
-</thinking>
-
 # truck_driver_recruiting_form_template - Help Guide
 ## Purpose
 The truck_driver_recruiting_form_template is a form used to collect information from potential truck drivers for recruitment purposes. It helps us understand their qualifications, experience, and other relevant details to assess their suitability for truck driving roles within the company.

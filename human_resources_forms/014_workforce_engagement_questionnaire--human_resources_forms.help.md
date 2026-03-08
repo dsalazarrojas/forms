@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to assess employee engagement within the organization. The purpose of this form is to gauge employees' perceptions of their relationship with their manager, job satisfaction, and overall work environment. This information will be used to identify areas of improvement and to develop targeted initiatives to boost employee engagement. Please note that this form will only collect information from employees, and any sensitive or personal data will be kept confidential and treated with respect.
-
-</thinking>
-
 # Workforce Engagement Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about employee engagement within the organization, including demographic data, job satisfaction, and relationships with managers.

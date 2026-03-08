@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure we're on the same page. This form is designed to collect information about the maintenance needs of diagnostic equipment, such as medical devices or machinery used for patient diagnosis. The form is intended to be a simple and straightforward way to gather essential data on the equipment's type, maintenance frequency, and maintenance schedule. We've tried to keep the form concise and easy to follow, with clear labels and explanations to guide the user through the process. Let's start by breaking down each field and its purpose.</thinking>
-
 # Diagnostic Equipment Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to collect and track maintenance information for diagnostic equipment, ensuring that critical devices are properly maintained to prevent malfunctions and ensure patient safety.

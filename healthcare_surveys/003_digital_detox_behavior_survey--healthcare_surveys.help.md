@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about digital detox behavior, which refers to the practice of disconnecting from digital devices and activities to improve mental and physical health. The goal of this form is to help healthcare professionals understand the relationship between digital device use and well-being. It is essential to ensure that the form is filled out by individuals who are willing and able to participate in the survey.
-</thinking>
-
 # Digital Detox Behavior Survey - Help Guide
 
 ## Purpose

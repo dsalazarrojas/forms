@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Op Anesthetic Assessment Form - Help Guide
 ## Purpose
 The Pre Op Anesthetic Assessment Form is designed to assess the patient's medical history, allergies, and potential risks associated with anesthesia before undergoing surgical procedures. This form helps healthcare professionals gather essential information to ensure a safe and successful operation.

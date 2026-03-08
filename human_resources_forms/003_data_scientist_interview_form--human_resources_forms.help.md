@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from data scientists to help us better understand their qualifications and availability for potential job openings. Please ensure that you only fill out this form if you are a data scientist or have experience in data science. If you have already submitted this form, please do not resubmit. This form is not intended for data scientists who are not applicable for our current job openings.
-</thinking>
-
 # data_scientist_interview_form - Help Guide
 ## Purpose
 This form is used to collect information from data scientists for potential job openings.

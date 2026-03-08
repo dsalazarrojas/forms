@@ -1,17 +1,3 @@
-<thinking>
-This is a help guide for the "Health Promotion Program Reach Survey" form. The purpose of this form is to collect feedback and opinions from individuals on how the health promotion program is being reached by them. This form is designed to understand the effectiveness of the program's outreach efforts and to identify areas where improvements can be made. The form is not designed to collect sensitive or personal health information, but rather to gather general feedback on the program's reach and impact.
-
-To complete this form, follow these steps:
-
-1. Please answer each question honestly and to the best of your ability.
-2. Select the answer that best describes your preferences or habits.
-3. You can submit the form once you have filled out all the required fields, marked with an asterisk (\*).
-4. Please be aware that this form will be reviewed for quality improvement purposes, not for personal identification or data collection.
-
-This help guide will walk you through each field of the form to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Health Promotion Program Reach Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on how the health promotion program is being reached by you. Your input will help us understand the effectiveness of our outreach efforts and identify areas where we can improve.

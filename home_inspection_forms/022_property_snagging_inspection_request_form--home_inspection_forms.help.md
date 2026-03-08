@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Snagging Inspection Request Form - Help Guide
 
 ## Purpose

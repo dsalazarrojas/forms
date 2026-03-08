@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coronavirus Work From Home Preparation Survey - Help Guide
 ## Purpose
 This form is designed to help individuals assess and prepare for working from home during the coronavirus pandemic. It collects information about home preparation, work-from-home experiences, and precautions to ensure a safe and effective work-from-home setup.

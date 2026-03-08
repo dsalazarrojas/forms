@@ -1,9 +1,3 @@
-<thinking>
-The Migraine Diary Form is a form used to collect and track information about individual migraine headaches. It is designed to help patients, caregivers, and healthcare professionals monitor and analyze the frequency, severity, and duration of migraines, as well as the impact of treatments and medications. This form is meant to be filled out on a regular basis, ideally after each migraine attack, to provide a comprehensive record of the patient's migraines.
-This form will likely be used in a clinical setting, such as a doctor's office or hospital, and will be reviewed by healthcare professionals to inform treatment decisions. To ensure accurate and consistent data collection, it is essential that the form is completed thoroughly and accurately by the patient or their caregiver.
-Before starting, please ensure that you are in a quiet and comfortable environment, with the necessary time to complete the form without interruptions.
-</thinking>
-
 # Migraine Diary Form - Help Guide
 ## Purpose
 The Migraine Diary Form is a tool for tracking and analyzing individual migraines, helping healthcare professionals make informed treatment decisions.

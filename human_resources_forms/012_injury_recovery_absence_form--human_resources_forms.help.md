@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "injury_recovery_absence_form" form, I will analyze the form's purpose and structure based on the provided YAML file. This analysis will help me understand the form's requirements and explain each field in a clear and concise manner.
-
-The form is used for reporting and managing employee injuries or absences, and it likely serves as a means of documenting and tracking employee recovery status. The form might be used by HR or management teams to monitor employee recovery progress and make informed decisions about when employees can return to work. Given this context, let's proceed with the creation of the help guide.
-
-</thinking>
-
 # injury_recovery_absence_form - Help Guide
 ## Purpose
 The "injury_recovery_absence_form" is a form used for reporting and managing employee injuries or absences. This form helps track employee recovery progress and provides a means to document and update employee status.

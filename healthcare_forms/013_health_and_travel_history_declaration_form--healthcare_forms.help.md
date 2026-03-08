@@ -1,12 +1,3 @@
-<thinking>
-This guide will cover the Health and Travel History Declaration Form, which is used to gather information about an individual's health and travel status. This form is essential for ensuring the accuracy of medical records and for identifying potential health risks.
-
-Before proceeding, please ensure that the form is being used in the correct context and not duplicating efforts. This form should only be used for the intended purpose and not for other uses such as travel planning or medical diagnosis.
-
-The following guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Health and Travel History Declaration Form - Help Guide
 ## Purpose
 This form is used to gather information about an individual's health status, travel history, and potential exposure to COVID-19. The form helps healthcare professionals accurately assess the individual's medical history and identify potential risks.

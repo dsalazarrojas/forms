@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by a speech therapist to assess a patient's speech and language skills, communication abilities, and medical history. It is used to evaluate the patient's current situation and provide recommendations for improvement. The form should only be filled out by a qualified speech therapist and should not be completed by anyone else. 
-</thinking>
-
 # Speech Therapy Assessment Form - Help Guide
 ## Purpose
 This form is used to assess a patient's speech and language skills, communication abilities, and medical history. It is a crucial tool for speech therapists to evaluate the patient's current situation and provide recommendations for improvement.

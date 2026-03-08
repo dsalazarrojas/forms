@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain necessary information from patients for psychiatric treatment. It is crucial to ensure that each field is filled out correctly to maintain patient confidentiality and adhere to HIPAA guidelines. Please ensure that this form is not duplicated and is used for its intended purpose only. If you're unsure about any field, please reach out to the relevant healthcare team.
-</thinking>
-
 # Psychiatric Treatment Permission Form - Help Guide
 ## Purpose
 This form is used to obtain necessary information from patients for psychiatric treatment. It helps healthcare providers to understand the patient's medical condition, treatment plan, and other essential details.

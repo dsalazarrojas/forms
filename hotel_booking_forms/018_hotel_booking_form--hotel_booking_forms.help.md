@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Booking Form - Help Guide
 ## Purpose
 This form is designed to facilitate hotel booking requests. It captures essential details from guests to ensure a smooth and efficient booking process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vacation Review Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers on their recent vacation experiences. It is meant to help hotel management identify areas of improvement and ensure that guests feel welcome and satisfied with their stay.

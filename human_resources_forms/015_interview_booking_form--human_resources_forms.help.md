@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to provide a clear and concise explanation of the interview_booking_form form for end-users. The form is used for booking an interview, and its purpose is to collect information necessary for the interview process. This guide is written to ensure that users understand the form's purpose, how to complete it, and what each field represents.
-
-Before starting, please note that the form has multiple pages, but this guide will focus on each field in turn.
-
-</thinking>
-
 # interview_booking_form - Help Guide
 ## Purpose
 The interview_booking_form is used to book an interview, capturing relevant details such as the interviewee's name, email, phone number, preferred time slot, and other essential information. This form is designed to streamline the interview process and make it more efficient for both the interviewer and the interviewee.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a tool to gather data and raise awareness about postpartum depression, specifically targeting new mothers. The purpose of this form is to collect information about the new mother's experiences, health status, and access to resources, which will help identify areas of improvement in postpartum care and support systems. The form collects data on various aspects of a new mother's life, including their name, demographics, medical history, and access to healthcare providers, online resources, and support systems. This information will help healthcare providers and policymakers develop targeted interventions to address the needs of new mothers and reduce the incidence of postpartum depression.
-
-To ensure that this form does not duplicate any existing form, the development team has conducted a thorough review of existing forms and literature related to postpartum depression. While there are several forms and questionnaires that target similar topics, this form aims to be comprehensive and easy to use, making it a valuable tool for healthcare providers and researchers. The form has been designed with user experience and data quality in mind, taking into account the potential biases and limitations of self-reported data.
-
-Please note that this form is designed to be a tool for research and education purposes. The data collected will be used to improve postpartum care and support services, and any individual results or conclusions drawn from this form should not be considered medical advice. If you are experiencing symptoms of postpartum depression or anxiety, please seek immediate attention from a healthcare provider.
-
-</thinking>
-
 # Postpartum Depression Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and needs as a new mother, and to raise awareness about postpartum depression. It will help us identify areas of improvement in postpartum care and support systems.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain the consent of employees to review their payroll records. The purpose of this form is to ensure that employees understand the importance of reviewing their payroll records and that they are aware of the types of reviews that will be conducted. This form is a crucial part of maintaining transparency and accuracy in payroll management. To avoid any duplication, please ensure that this form is filled out only once per review cycle.
-
-</thinking>
-
 # Payroll Record Review Consent Form - Help Guide
 ## Purpose
 The Payroll Record Review Consent Form is a mandatory document that helps maintain transparency and accuracy in payroll management by obtaining employee consent to review their payroll records.

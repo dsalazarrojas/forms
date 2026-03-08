@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the onboarding process of new janitorial staff members. This form will be used to gather essential details from the employee, including their personal and contact information, employment status, and emergency contact details.
-It's essential to ensure that this form is filled out accurately and completely to avoid any errors or discrepancies in the onboarding process. Please review the form carefully to understand the specific fields and their corresponding labels.
-</thinking>
-
 # Janitorial Staff Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information for the onboarding process of new janitorial staff members. This includes personal details, employment status, and emergency contact information.

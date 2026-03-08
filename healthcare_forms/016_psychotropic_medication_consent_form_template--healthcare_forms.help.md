@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Psychotropic Medication Consent Form Template, which is used in the healthcare industry to document a patient's consent for psychotropic medication treatment. The form is designed to ensure that the patient understands the medication's purpose, potential side effects, and treatment plan. It's meant to be completed by a patient or their authorized representative, but the form's primary purpose is for the patient to understand and agree to their treatment. This form is not meant to be used for billing or payment purposes, nor is it a medical record.
-
-</thinking>
-
 # Psychotropic Medication Consent Form Template - Help Guide
 ## Purpose
 

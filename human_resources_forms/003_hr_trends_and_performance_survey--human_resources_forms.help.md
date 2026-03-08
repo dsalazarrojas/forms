@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from employees on various aspects of their work experience and performance. It is essential to provide honest and accurate information to help the management team understand employee trends and performance. Please ensure that you are providing feedback that is relevant to your work experience and not biased towards any particular individual or group. It is also important to note that this form is not meant to be used as a formal complaint channel, but rather as a tool for constructive feedback and improvement.
-</thinking>
-
 # hr_trends_and_performance_survey - Help Guide
 ## Purpose
 The hr_trends_and_performance_survey form is designed to gather insights from employees on various aspects of their work experience, including employee satisfaction, engagement, communication, performance, and more. This form will help the management team to understand trends and areas for improvement.

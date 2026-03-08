@@ -1,22 +1,3 @@
-<thinking>
-This form appears to be for collecting data for CNA (Certified Nursing Assistant) students, specifically for Moab and Blanding campuses. The purpose of the form is to gather information about students, including their name, campus location, program start date, contact details, health clearance status, clinical preference, transportation needs, accommodations required, instructor contact, and submission date.
-
-This form is likely used to track student enrollment, ensure compliance with health and safety regulations, and facilitate communication between instructors and students. It's essential to fill out this form accurately to avoid duplication of data entry and ensure that the collected information is up-to-date.
-
-The form has various fields with different types and requirements:
-- **Student name** (id: 1, Student name, text, required): Enter the student's full name.
-- **Campus location** (id: 2, Campus location, select_one, Moab or Blanding, required): Select the campus where the student is enrolled (Moab or Blanding).
-- **Program start date** (id: 3, Program start date, date, required): Enter the date when the training program begins.
-- **Contact phone** (id: 4, Contact phone, text, required): Enter the student's phone number.
-- **Health clearance** (id: 5, Health clearance, select_one, Cleared, Pending, Not cleared, required): Indicate the student's health clearance status for clinical activities.
-- **Clinical preference** (id: 6, Clinical preference, text, required): Enter the student's preferred clinical assignment or unit.
-- **Transportation needs** (id: 7, Transportation needs, text, optional): Provide any transportation assistance or notes the student may require.
-- **Accommodations required** (id: 8, Accommodations required, text, optional): List any accessibility or scheduling needs the student has.
-- **Instructor contact** (id: 9, Instructor contact, text, optional): Enter the instructor's name and contact details for communication.
-- **Submission date** (id: 10, Submission date, date, required): Enter the date of submission of this form.
-
-Please fill out this form accurately to ensure that your information is correctly recorded and processed.</thinking>
-
 # CNA Health Professions Moab And Blanding - Help Guide
 
 ## Purpose

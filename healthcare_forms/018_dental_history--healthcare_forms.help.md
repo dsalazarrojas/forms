@@ -1,7 +1,3 @@
-<thinking>
-The form "dental_history" is intended for collecting patient information and dental history for dental clinics, hospitals, or other healthcare providers. The purpose of this form is to gather essential details about a patient's medical and dental history, including their medical conditions, medications, allergies, dental history, and insurance information. This form is designed to be comprehensive and user-friendly, making it easier for healthcare professionals to collect and analyze patient data efficiently. 
-</thinking>
-
 # dental_history - Help Guide
 ## Purpose
 The "dental_history" form is designed to collect patient information and dental history for healthcare providers. It helps gather essential details about a patient's medical and dental conditions, allergies, and insurance information.

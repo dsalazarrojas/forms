@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify a patient's dental insurance information. The purpose of this form is to collect data about a patient's insurance coverage for dental services, which is essential for healthcare providers to assess the patient's eligibility for services and ensure accurate billing. This form will be used by healthcare providers to verify patient information and determine the coverage status of their insurance plans. It's crucial to fill out this form accurately to avoid any discrepancies or errors in the patient's records.
-</thinking>
-
 # dental_insurance_verification_form - Help Guide
 ## Purpose
 The dental insurance verification form is used to collect and verify a patient's insurance information for dental services. This includes checking the coverage status of their insurance plans, ensuring accurate billing, and assessing the patient's eligibility for services.

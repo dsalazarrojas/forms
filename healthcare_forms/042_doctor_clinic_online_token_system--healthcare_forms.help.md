@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # doctor_clinic_online_token_system - Help Guide
 ## Purpose
 This form is used to manage online tokens for a doctor clinic system. The purpose of this form is to collect necessary information for token creation, management, and verification. It is intended for authorized personnel to generate and handle tokens for patients and doctors.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a team's performance and dynamics. It is likely used by team managers or HR representatives to gather data about team cohesion, productivity, and communication. The purpose of this form is to assess a team's ability to work together effectively, manage their workload, and maintain a good work-life balance. This information can be used to identify areas for improvement and provide insights for future team development.
-</thinking>
-
 # Teamwork Survey - Help Guide
 ## Purpose
 The Teamwork Survey form is designed to collect information about a team's performance and dynamics. It is used to gather data about team cohesion, productivity, and communication, which can be used to identify areas for improvement and provide insights for future team development.

@@ -1,9 +1,3 @@
-<thinking>
-We have a Donor Data Protection Awareness Survey form. 
-The form is designed to gather information about a user's understanding of data protection awareness in the healthcare industry.
-This form should only be used for legitimate purposes, and we should ensure that the users understand what the form is for and how to fill it out properly. We should also verify that the user has not already completed the form, to avoid duplication.
-</thinking>
-
 # Donor Data Protection Awareness Survey - Help Guide
 ## Purpose
 The Donor Data Protection Awareness Survey is a form designed to gather information about a user's understanding of data protection awareness in the healthcare industry. This form will help us assess the user's knowledge and awareness of data protection practices and procedures.

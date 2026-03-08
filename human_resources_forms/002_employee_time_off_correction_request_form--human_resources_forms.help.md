@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request corrections to previously submitted time off requests. This form is used to rectify errors or discrepancies in the original time off request, ensuring accuracy and fairness in the time off management process. To ensure the form is used correctly, the system will check for duplication of requests and relevant data entry. This form should only be used if the original time off request has not already been processed or approved. If the original request has already been processed or approved, please contact the HR department for assistance.
-</thinking>
-
 # Employee Time Off Correction Request Form - Help Guide
 ## Purpose
 This form is used to request corrections to previously submitted time off requests. It helps ensure accuracy and fairness in the time off management process.

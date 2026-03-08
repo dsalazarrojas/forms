@@ -1,7 +1,3 @@
-<thinking>
-This form is a patient experience survey used in the context of hemodialysis services in a medical center. The purpose of this form is to collect feedback from patients about their experience with the center's hemodialysis services. This form will help the center to identify areas of improvement and provide better care to its patients. Before proceeding, please ensure that you are completing this form for the correct purpose and not duplicating your effort. If you are unsure, please consult with your supervisor or the person who assigned this task to you.
-</thinking>
-
 # medicaid_in_center_hemodialysis_patient_experience_survey - Help Guide
 
 ## Purpose

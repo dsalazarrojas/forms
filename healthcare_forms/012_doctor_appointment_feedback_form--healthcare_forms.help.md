@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users of the Doctor Appointment Feedback Form, a tool designed to gather feedback from patients on their experiences during a doctor's appointment. The form aims to gather information on the patient's demographics (first name, last name, and doctor name) as well as their feedback on the service quality, nurse's performance, and the doctor's performance. The form also captures the date and time of the appointment, any recommended treatments or actions, and suggestions for improvement. It's essential to fill out the form accurately to provide valuable insights for the healthcare providers.
-
-</thinking>
-
 # Doctor Appointment Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from patients on their experiences with a doctor during an appointment.

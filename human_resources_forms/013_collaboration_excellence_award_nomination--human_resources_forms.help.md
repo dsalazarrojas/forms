@@ -1,12 +1,3 @@
-<thinking>
-This form is used for nominating an individual or team for the Collaboration Excellence Award, which recognizes and rewards outstanding collaboration and teamwork within the organization. Before starting the nomination process, please ensure that you have a valid reason for the nomination and that the nominee has not been nominated in the previous year. This form should only be used for nominations that demonstrate exceptional collaboration and teamwork that aligns with the company's goals and values.
-
-This form has 29 fields, including sections for the nominator's information, the nominee's information, project details, and additional statements. Please provide accurate and complete information for each field to ensure the nomination is considered fairly.
-
-To avoid duplication, please check the list of previous nominations before starting a new nomination.
-
-</thinking>
-
 # Collaboration Excellence Award Nomination - Help Guide
 ## Purpose
 The Collaboration Excellence Award is a recognition program that acknowledges and rewards exceptional collaboration and teamwork within the organization. This form is used to nominate individuals or teams that have demonstrated outstanding collaboration and teamwork.

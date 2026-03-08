@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML, it appears to be a comprehensive form designed for medical professionals to gather information about a patient's medical history and injury assessment. This form has sections for patient information, medical history, injury information, treatment plans, and follow-up appointments. I will ensure that each field is explained in a clear and concise manner to facilitate easy completion by end-users.</thinking>
-
 # Medical History And Injury Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather detailed information about a patient's medical history and injury assessment. It includes sections for patient information, medical history, injury information, treatment plans, and follow-up appointments. This form is intended to be completed by medical professionals to gather relevant data for patient care and treatment.

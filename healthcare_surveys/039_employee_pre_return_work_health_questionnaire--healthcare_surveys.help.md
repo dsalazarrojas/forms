@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about an employee's pre-return work health status, including their general information, contact details, work status, health status, medical condition, work ergonomic issues, pre-return protocol, health insurance, supervisor and manager contact information, date and time of return, employee protocol, return date protocol, employee return date and time, return comments, notes, and medical certificate status. The form is used to ensure accurate and comprehensive data collection for employee pre-return health status. Please ensure you only provide this form if it's a relevant scenario and hasn't been duplicated.
-
-</thinking>
-
 # employee_pre_return_work_health_questionnaire - Help Guide
 ## Purpose
 This form is used to collect employee's health information before their return to work.

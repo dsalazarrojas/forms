@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees who are working remotely. The purpose of this form is to gather information on their experiences, challenges, and suggestions for improving remote work policies. This form will help the organization to better understand the needs and concerns of its remote workers and make data-driven decisions to create a better work environment. It is crucial to fill out this form to provide valuable insights to the organization.
-</thinking>
-
 # remote_work_feedback_survey - Help Guide
 ## Purpose
 This form is used to collect feedback from remote workers on their experiences, challenges, and suggestions for improving remote work policies.

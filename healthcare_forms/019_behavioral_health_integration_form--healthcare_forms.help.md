@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information necessary for behavioral health integration. The form is divided into several sections, including patient information, family member/ caretaker information, behavioral health services information, consent, and commitment to care. Each section guides the user through the completion of the form, ensuring that all required fields are filled out accurately and completely.
-</thinking>
-
 # Behavioral Health Integration Form - Help Guide
 ## Purpose
 The Behavioral Health Integration Form is used to gather information about a patient's behavioral health needs and preferences. This form is used to support the integration of behavioral health services with medical care.

@@ -1,5 +1,3 @@
-<thinking>Before you begin, I'll review the form purpose and check for any relevant information about the form's context and constraints. Based on the form fields and options, it appears that this form is used to request the restoration of a shift for Certified Nursing Assistants (CNAs) who have lost their shift due to various reasons. The form is used to gather information about the employee's current status, shift type before the loss, reason for shift loss, requested restoration date, and other relevant details to help manage the restoration process. To avoid duplication, the form may be used in conjunction with other processes or systems, such as HR or payroll systems, to ensure accurate and efficient processing.</thinking>
-
 # CNA Shift Restoration Request - Help Guide
 ## Purpose
 

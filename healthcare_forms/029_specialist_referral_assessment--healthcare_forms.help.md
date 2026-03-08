@@ -1,12 +1,3 @@
-<thinking>
-This form is used in the healthcare sector to capture information about a specialist referral assessment, which is a process where a healthcare provider refers a patient to a specialist for further evaluation or treatment. This form is likely used by healthcare professionals to document the specialist's name, department, reason for referral, and other relevant details. 
-
-The purpose of this form is to ensure that the referral process is thorough and accurate, and that the specialist has all necessary information to provide the best possible care for the patient.
-
-To prevent duplication of effort, it is essential to check if a similar referral has been made recently for the same patient.
-
-</thinking>
-
 # Specialist Referral Assessment - Help Guide
 ## Purpose
 This form is used to document a specialist referral assessment, which is a process where a healthcare provider refers a patient to a specialist for further evaluation or treatment.

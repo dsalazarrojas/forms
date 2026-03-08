@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CAHPS Child Hospital Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,4 @@
-> <thinking>
-This form is intended for collecting feedback and information from patients who have undergone stem cell therapy. The purpose of this form is to gather data on the patient's treatment experience, including their health status, side effects, and follow-up information. This data will be used to improve the treatment process and provide better care for future patients.
-To avoid duplication of data, please ensure that you have not already completed this form in the past.
-</thinking>
-
-# Stem Cell Follow Up Survey - Help Guide
+> # Stem Cell Follow Up Survey - Help Guide
 ## Purpose
 The Stem Cell Follow Up Survey is designed to collect information from patients who have undergone stem cell therapy. This data will help us understand the effectiveness and impact of the treatment and identify areas for improvement.
 

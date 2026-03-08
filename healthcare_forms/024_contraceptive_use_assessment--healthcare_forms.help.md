@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess a patient's contraceptive use and preferences. The goal is to collect information about their current and past contraceptive use, their relationship status, sexually activity, pregnancy intention, medical history, smoking status, interest in counseling, preferred method characteristics, barriers to access, and knowledge level. The form's purpose is to gather data to inform healthcare decisions.
-
-</thinking>
-
 # Contraceptive Use Assessment - Help Guide
 
 ## Purpose

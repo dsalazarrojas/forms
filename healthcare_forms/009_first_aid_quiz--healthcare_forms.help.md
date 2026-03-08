@@ -1,10 +1,3 @@
-<thinking>
-The form "First Aid Quiz" is designed to help individuals gauge their knowledge and understanding of first aid techniques and procedures. This form is used to assess the respondent's ability to recognize and apply first aid in various emergency situations, including CPR, bleeding, and burns.
-
-To avoid duplication of effort, this form should only be completed by individuals who have not previously completed a first aid quiz or training session.
-
-</thinking>
-
 # First Aid Quiz - Help Guide
 ## Purpose
 The First Aid Quiz form is designed to assess your knowledge and understanding of first aid techniques and procedures.

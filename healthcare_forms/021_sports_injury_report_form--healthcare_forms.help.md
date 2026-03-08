@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from athletes who have experienced an injury related to sports. The form asks for details about the athlete, the injury itself, and any relevant medical information.
-</thinking>
-
 # sports_injury_report_form - Help Guide
 ## Purpose
 The sports injury report form is designed to collect information from athletes who have experienced an injury during their sports-related activities. This form will help in documenting and understanding the injury details, medical treatment, and recovery status.

@@ -1,10 +1,3 @@
-<thinking>
-This form, "Room Service Process Audit Form", is designed for hospitality establishments to document the room service process for each shift. This form is crucial for evaluating and improving the room service experience, ensuring that each shift's performance and quality are accurately recorded. It is intended to be completed by the manager on duty or designated team member, providing an unbiased evaluation of each shift.
-
-To ensure data consistency and accuracy, please review this help guide before starting to fill out the form. It is recommended to complete the form after each shift for every room service period.
-
-</thinking>
-
 # room_service_process_audit_form - Help Guide
 ## Purpose
 

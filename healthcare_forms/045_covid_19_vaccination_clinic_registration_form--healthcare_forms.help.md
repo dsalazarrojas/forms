@@ -1,5 +1,3 @@
-<thinking>... This help guide is intended to provide users with a clear understanding of the COVID 19 Vaccination Clinic Registration Form. This form is designed to gather essential information from patients prior to their visit to the COVID 19 vaccination clinic. The form aims to ensure that the patient's medical history, vaccination preferences, and contact information are accurately recorded to provide efficient and safe vaccination services. This guide will walk users through each step of the form, explaining each field and its purpose. Please note that all fields marked as "required" are mandatory and must be filled in for the form to be considered complete. If you are unsure about any field, please refer to this guide for clarification. ...</thinking>
-
 # COVID 19 Vaccination Clinic Registration Form - Help Guide
 ## Purpose
 

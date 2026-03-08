@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information from business owners about their Facebook ad marketing requirements. This form will help us understand their criteria for selecting ad marketers, their budget allocation, and other important details about their ad marketing strategy. The form will be used to gather data for internal decision-making and will not directly impact any external processes or systems. 
-
-To ensure accurate and complete responses, please make sure to fill out this form carefully and thoroughly. If you have any questions or concerns, feel free to reach out to us.
-
-</thinking>
-
 # Facebook Ad Marketer Recruitment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>
-This form was created to aid medical professionals in documenting their suturing lab skills, particularly for procedures that require a certain level of proficiency, such as suturing lab exercises in surgical training. The form is designed to collect relevant information from users, including the patient's name, the procedure completed, the skill level demonstrated, and other details about the skill assessment. It is essential to ensure that the form is filled out accurately and truthfully, as the information collected will be used for evaluation and training purposes.</thinking>
 # Suturing Lab Skill Check Off Form - Help Guide
 ## Purpose
 This form is used to record and evaluate a healthcare worker's suturing lab skills. It helps assess a patient's procedure and the worker's skill level and confidence in their abilities.

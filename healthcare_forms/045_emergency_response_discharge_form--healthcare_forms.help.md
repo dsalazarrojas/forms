@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to document the details of an emergency response event in a hospital or healthcare setting. The form collects information about the response to the emergency, including the date and time of discharge, the reason for discharge, and any relevant diagnosis or treatment notes. The purpose of this form is to record accurate and comprehensive information about the emergency response event for future reference and to help healthcare professionals make informed decisions.
-</thinking>
-
 # emergency_response_discharge_form - Help Guide
 ## Purpose
 The emergency response discharge form is used to document the details of an emergency response event in a hospital or healthcare setting.

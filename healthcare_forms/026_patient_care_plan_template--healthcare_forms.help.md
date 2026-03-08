@@ -1,11 +1,3 @@
-<thinking>
-This form is meant to collect information about a patient's care plan and medical history. It's used to gather data from various sources to create a comprehensive understanding of the patient's health status.
-The form is divided into multiple pages, each focusing on a specific aspect of the patient's care. The first page is not actually visible to the end user, and the second page collects free text information about the patient's medical history. The other pages ask about the patient's status, medications, medical conditions, allergies, test results, and lab tests.
-This form is intended to be completed by healthcare professionals who need to gather and document patient data.
-It's essential to ensure that each field is filled out accurately and thoroughly to provide the best possible care for the patient.
-This form should not be filled out by patients themselves, as it requires expertise in healthcare to understand the implications of the information gathered.
-</thinking>
-
 # Patient Care Plan Template - Help Guide
 ## Purpose
 The Patient Care Plan Template is a form used to collect and document a patient's medical history, status, and care plan. This information is essential for healthcare professionals to provide accurate and effective care.

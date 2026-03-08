@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used for internal communication and organization to plan and decide on holiday party dates. It should not be used for official company-wide announcements or external communication. 
-
-The form can be filled out by team members, and it serves as a simple polling mechanism to determine the majority of people's availability on a given date for a holiday party. It is meant to be used to plan events, so users should not fill it out if they are not interested in attending the party or if the party is not happening.
-
-</thinking>
-
 # Holiday Party Date Poll - Help Guide
 ## Purpose
 

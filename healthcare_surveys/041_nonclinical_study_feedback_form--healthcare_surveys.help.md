@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather feedback on a nonclinical study. Nonclinical studies are research studies that do not involve direct patient interaction or clinical trials. This form is meant for participants to share their thoughts and opinions about the study design, questions, and overall experience. Please fill out this form with your honest and constructive feedback to help us improve future studies. To ensure accurate and comprehensive feedback, please answer all questions that apply, but do not feel obligated to fill out all sections. 
-This form will be reviewed by the research team, and all responses will be kept anonymous.
-The purpose of this form is to provide the research team with valuable insights on how to improve nonclinical studies. It is used to collect data on study design, questions, and overall participant experience.
-Please note that this form will be reviewed for relevance and non-duplication. If we receive feedback that is not relevant or has already been submitted, it will be removed.
-</thinking>
-
 # Nonclinical Study Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on a nonclinical study. It's meant to gather participant thoughts and opinions on the study design, questions, and overall experience. Your feedback is valuable and helps us improve future studies.

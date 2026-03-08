@@ -1,11 +1,3 @@
-<thinking>
-The Non Compete Commitment Form is a document that ensures employees understand and agree to the company's non-compete clause. This clause is essential to prevent employees from engaging in activities that could harm the company's business. This form helps employees confirm their commitment to not compete with the company after leaving or during their employment. The non-compete commitment form is typically used when an employee is leaving the company or has a specific reason for a non-compete agreement.
-
-Before starting, please ensure that you are not duplicating the effort. If you have already submitted a non-compete commitment form for the same purpose, you might not need to complete this form again.
-
-To provide accurate information, refer to your employment contract or other relevant documents for details on the company's non-compete policy and scope.
-</thinking>
-
 # Non Compete Commitment Form - Help Guide
 ## Purpose
 The Non Compete Commitment Form is a document that ensures employees understand and agree to the company's non-compete clause, which is essential to prevent engaging in activities that could harm the company's business.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for the evaluation of a psychological program. It is intended for use in the mental health industry to gather data on programs, clients, and evaluations. This form is not affiliated with, endorsed by, or derived from any specific form platform. Its purpose is to assess the progress and outcome of psychological programs, and to provide valuable insights for practitioners, administrators, and researchers. Before completing this form, please ensure that you have the necessary permissions and clearance to do so, as some fields may require sensitive information. Please note that this form is for internal use only and not intended for public distribution or external use without proper authorization.</thinking>
-
 # Psychological Program Evaluation Form - Help Guide
 ## Purpose
 The Psychological Program Evaluation Form is designed to collect and evaluate the progress and outcome of psychological programs. This form will guide you through a series of questions to gather information on program details, client information, assessment tools, and evaluation data.

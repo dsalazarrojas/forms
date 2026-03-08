@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a generic patient informed consent form that can be used in various healthcare settings. However, please note that this form may not cover specific requirements for certain types of healthcare practices, such as those involving high-risk procedures or sensitive medical conditions. It is essential to review and tailor the form according to your organization's policies and local regulations.
-</thinking>
-
 # Patient Informed Consent Form - Help Guide
 ## Purpose
 This form is intended to obtain a patient's informed consent for medical treatment, procedures, or services. It outlines the patient's rights, responsibilities, and the information they need to know before undergoing treatment.

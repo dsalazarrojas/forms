@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_information_form - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's mental health. It is intended to provide a comprehensive overview of their mental health status, medical history, social support, and treatment plans. 

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to notify the university of a postdoctoral scholar hire, providing essential information for tracking and management purposes. Before proceeding, ensure that you have reviewed the relevant policies and procedures for hiring postdoctoral scholars. This form should only be completed once the hiring process is complete, and the details are finalized. Please do not submit duplicate or outdated forms.
-
-The form is designed to collect data that will be used to update internal systems and notify relevant parties of the new hire.
-
-To ensure accurate and complete information, please provide detailed and specific answers where possible. If you are unsure about any field or require clarification, please contact the relevant department or person listed below.
-</thinking>
-
 # Postdoctoral Scholar Hire Notification Form - Help Guide
 ## Purpose
 The Postdoctoral Scholar Hire Notification Form is used to notify the university of a postdoctoral scholar hire, providing essential information for tracking and management purposes.

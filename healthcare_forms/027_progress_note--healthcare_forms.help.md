@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to record a patient's progress in a medical setting, likely used in healthcare settings to track patient information and treatment outcomes. The form is likely used by healthcare professionals to document a patient's condition, treatment, and any notable events or observations during a visit. It's possible that the form is used in conjunction with other medical records or as a standalone document for patient follow-up. 
-</thinking>
-
 # Progress Note - Help Guide
 ## Purpose
 The Progress Note form is designed to provide a comprehensive overview of a patient's medical progress. This form is used to document patient information, visit details, and physician observations.
