@@ -1,0 +1,164 @@
+<thinking>
+This form appears to be for a piano sales agreement, which is likely a formal document used in sales transactions, particularly for pianos. The purpose of this form seems to be to collect buyer details, instrument specifications, and payment terms. It might be used in a retail or business setting where a piano is being sold to a customer. The form has multiple fields for different types of information, including buyer details, instrument specs, and payment terms. It's possible that this form is used to ensure a smooth sales process and to gather necessary information for the transaction.
+Before proceeding, let's review the fields and options available on the form to provide a comprehensive guide for end-users. This will help clarify any doubts and ensure that users understand what information is required and what the options mean.
+</thinking>
+
+# Piano Sales Agreement Form - Help Guide
+## Purpose
+This form is designed to gather necessary information from buyers for a piano sales transaction. It collects buyer details, instrument specifications, and payment terms to facilitate a smooth and successful sales process.
+
+## How To Complete This Form
+- **Fill out the form carefully and accurately**. Make sure to fill out all required fields, which are marked as required.
+- **Choose the correct options** for each field, taking into account the available options.
+- **Review and sign the form** before submission to ensure accuracy and understanding of the terms.
+
+## Field-by-Field Explanation
+- **Piano Sales Agreement Form**: This is the title of the form, which serves as a header.
+  - **Label:** `Piano Sales Agreement Form`
+  - **Type:** `text`
+  - **Required:** `false`
+  - **Purpose:** Provides the title of the form.
+- **Buyer Details**: This field collects information about the buyer, including their title.
+  - **Label:** `Buyer Details`
+  - **Type:** `select_one`
+  - **Options:** `Mr.`, `Mrs.`, `Ms.`, `Dr.`, `Prof.`
+  - **Required:** `false`
+  - **Purpose:** Collects buyer's title.
+- **Instrument Specs**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Payment Terms**: This field is for selecting payment options.
+  - **Label:** `Payment Terms`
+  - **Type:** `select_multiple`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Allows for multiple payment options.
+- **Signature**: This field is for signing the form, indicating agreement with the terms.
+  - **Label:** `Signature`
+  - **Type:** `note`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Signatures serve as acknowledgment of the agreement.
+- **Instrument Specs 2**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 2`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Buyer Details 2**: This field is for selecting additional buyer details.
+  - **Label:** `Buyer Details 2`
+  - **Type:** `select_one`
+  - **Options:** `True`, `False`
+  - **Required:** `false`
+  - **Purpose:** Collects additional buyer details.
+- **Piano Sales Agreement Form 2**: This field is for selecting the piano sales agreement form.
+  - **Label:** `Piano Sales Agreement Form 2`
+  - **Type:** `select_one`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Collects additional piano sales agreement form.
+- **Instrument Specs 3**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 3`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Buyer Details 3**: This field is for selecting additional buyer details.
+  - **Label:** `Buyer Details 3`
+  - **Type:** `select_multiple`
+  - **Options:** `Option A`, `Option B`, `Option C`
+  - **Required:** `false`
+  - **Purpose:** Collects additional buyer details.
+- **Payment Terms 2**: This field is for selecting payment options.
+  - **Label:** `Payment Terms 2`
+  - **Type:** `select_multiple`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Allows for multiple payment options.
+- **Signature 2**: This field is for signing the form, indicating agreement with the terms.
+  - **Label:** `Signature 2`
+  - **Type:** `note`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Signatures serve as acknowledgment of the agreement.
+- **Instrument Specs 4**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 4`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Buyer Details 4**: This field is for selecting additional buyer details.
+  - **Label:** `Buyer Details 4`
+  - **Type:** `select_one`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Collects additional buyer details.
+- **Piano Sales Agreement Form 3**: This field is for selecting the piano sales agreement form.
+  - **Label:** `Piano Sales Agreement Form 3`
+  - **Type:** `select_one`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Collects additional piano sales agreement form.
+- **Instrument Specs 5**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 5`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Instrument Specs 6**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 6`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Buyer Details 5**: This field is for selecting additional buyer details.
+  - **Label:** `Buyer Details 5`
+  - **Type:** `select_one`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Collects additional buyer details.
+- **Instrument Specs 7**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 7`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Buyer Details 6**: This field is for selecting additional buyer details.
+  - **Label:** `Buyer Details 6`
+  - **Type:** `select_one`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Collects additional buyer details.
+- **Payment Terms 4**: This field is for selecting payment options.
+  - **Label:** `Payment Terms 4`
+  - **Type:** `select_multiple`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Allows for multiple payment options.
+- **Instrument Specs 8**: This field is for providing additional specifications about the piano.
+  - **Label:** `Instrument Specs 8`
+  - **Type:** `text`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Allows for additional specifications about the piano.
+- **Buyer Details 7**: This field is for selecting additional buyer details.
+  - **Label:** `Buyer Details 7`
+  - **Type:** `select_one`
+  - **Options:** `Option 1`, `Option 2`, `Option 3`
+  - **Required:** `false`
+  - **Purpose:** Collects additional buyer details.
+- **Signature 3**: This field is for signing the form, indicating agreement with the terms.
+  - **Label:** `Signature 3`
+  - **Type:** `note`
+  - **Options:** `[]`
+  - **Required:** `false`
+  - **Purpose:** Signatures serve as acknowledgment of the agreement.
+
+## Tips
+- Double-check all fields before submission.
+- Review the form for accuracy and completeness.
+- Sign the form only when you are certain that you have filled out all required fields and understand all the terms.
+- If any questions or doubts arise during the process, consult the sales representative or contact support for assistance.

@@ -1,0 +1,159 @@
+<thinking>
+
+This form is designed to assess the level of burnout experienced by nonprofit employees and the effectiveness of their organization's burnout prevention and management plans. 
+
+It is essential for nonprofit organizations to understand and address burnout among their employees, as it can lead to decreased productivity, increased turnover, and a higher likelihood of employee turnover. Burnout can also negatively impact employee's physical and mental health. Nonprofits with effective burnout prevention and management plans can improve employee well-being, increase engagement, and overall performance. 
+
+This form will help nonprofit leaders and management understand the needs and concerns of their staff, identify areas for improvement, and develop strategies to mitigate burnout. 
+
+The form is divided into 25 questions, covering various aspects of burnout, including burnout frequency, causes, impact, and prevention and management plans. It also asks about support received from supervisors and colleagues, and how effective they believe their organization's burnout prevention and management plan is. 
+
+Nonprofit leaders and management should ensure that all employees take the time to complete this form honestly and thoroughly. Their responses will help identify areas for improvement and inform policies and initiatives to support their staff's well-being.
+
+</thinking>
+
+# Nonprofit Employee Burnout Study - Help Guide
+## Purpose
+This guide will walk you through the Nonprofit Employee Burnout Study form and provide explanations for each field.
+
+## How To Complete This Form
+1. Please answer each question according to your personal experience and understanding of your work situation.
+2. Take your time, and be honest in your responses.
+3. Select all that apply in multiple-choice questions.
+
+## Field-by-Field Explanation
+- **1. How do you feel about your work-life balance** (`select_one`): 
+  - Burned out: You feel overwhelmed and exhausted from work-related stress.
+  - Satisfied: You feel content and satisfied with your work-life balance.
+  - Neutral: You feel neither satisfied nor unsatisfied with your work-life balance.
+  - Unhappy: You feel unhappy and dissatisfied with your work-life balance.
+  - Very unhappy: You feel very unhappy and extremely dissatisfied with your work-life balance.
+- **2. How often do you experience burnout** (`select_one`): 
+  - Often: You experience burnout frequently.
+  - Occasionally: You experience burnout occasionally.
+  - Rarely: You experience burnout rarely.
+  - Never: You never experience burnout.
+  - Hardly ever: You hardly ever experience burnout.
+- **3. What causes you stress at work** (`select_multiple`): 
+  - Select all that apply, but some options include:
+    - Lack of workload: You are stressed due to lack of workload, feeling unfulfilled and bored.
+    - Unclear expectations: You are stressed due to unclear expectations or unclear goals.
+    - Unreasonable workload: You are stressed due to excessive workload, feeling overworked and undervalued.
+    - Lack of autonomy: You are stressed due to lack of autonomy and control over your work.
+    - Unclear communication: You are stressed due to poor communication or unclear communication from supervisors and colleagues.
+    - Poor work environment: You are stressed due to a poor work environment, such as lack of resources or equipment.
+    - Other please specify: You can specify other causes of stress not listed here.
+- **4. How do you think burnout impacts your wellbeing** (`select_one`): 
+  - Slightly: You think burnout has a minor impact on your wellbeing.
+  - Moderately: You think burnout has a moderate impact on your wellbeing.
+  - Severely: You think burnout has a significant impact on your wellbeing.
+  - Extremely: You think burnout has a very significant impact on your wellbeing.
+- **5. Do you participate in any wellness practices at work** (`select_multiple`): 
+  - Mindfulness: You participate in mindfulness activities, such as meditation or deep breathing exercises.
+  - Exercise: You participate in exercise, such as yoga or sports.
+  - Meditation: You participate in meditation, such as guided meditation or mindfulness.
+  - Yoga: You participate in yoga, either individually or as part of a group.
+  - Other please specify: You can specify other wellness practices you participate in.
+- **6. How much support do you get from your supervisor?** (`select_one`): 
+  - A lot: You receive a lot of support from your supervisor.
+  - Some: You receive some support from your supervisor.
+  - A little: You receive a little support from your supervisor.
+  - None: You receive no support from your supervisor.
+- **7. How do you rate your work-life balance** (`select_one`): 
+  - Very good: You rate your work-life balance as very good.
+  - Good: You rate your work-life balance as good.
+  - Fair: You rate your work-life balance as fair.
+  - Poor: You rate your work-life balance as poor.
+  - Terrible: You rate your work-life balance as terrible.
+- **8. Does your organization have a burnout prevention and management plan?** (`select_multiple`): 
+  - True: Your organization has a burnout prevention and management plan.
+  - False: Your organization does not have a burnout prevention and management plan.
+  - Other please specify: You can specify other plans your organization has.
+- **9. Has your organization offered burnout training?** (`select_multiple`): 
+  - True: Your organization has offered burnout training.
+  - False: Your organization has not offered burnout training.
+  - Other please specify: You can specify other training your organization has offered.
+- **10. Are you aware of resources available for burnout prevention and management?** (`select_multiple`): 
+  - Employee Assistance Program (EAP): You are aware of EAP, which can provide confidential counseling and support.
+  - Employee Assistance Program (EAP) online support groups: You are aware of EAP online support groups for coworkers.
+  - Employee Assistance Program (EAP) in-person support groups: You are aware of EAP in-person support groups for coworkers.
+  - Employee Assistance Program (EAP) one-on-one counseling: You are aware of EAP one-on-one counseling for individual employees.
+  - Other please specify: You can specify other resources you are aware of.
+- **11. Does your organization have a burnout prevention plan?** (`select_multiple`): 
+  - True: Your organization has a burnout prevention plan.
+  - False: Your organization does not have a burnout prevention plan.
+  - Other please specify: You can specify other plans your organization has.
+- **12. Does your organization have a burnout management plan?** (`select_multiple`): 
+  - True: Your organization has a burnout management plan.
+  - False: Your organization does not have a burnout management plan.
+  - Other please specify: You can specify other plans your organization has.
+- **13. Burnout Prevention And Management Plan** (`select_multiple`): 
+  - True: Your organization has a burnout prevention and management plan.
+  - False: Your organization does not have a burnout prevention and management plan.
+  - Other please specify: You can specify other plans your organization has.
+- **14. Does your organization have an employee burnout prevention and management plan?** (`select_multiple`): 
+  - True: Your organization has an employee burnout prevention and management plan.
+  - False: Your organization does not have an employee burnout prevention and management plan.
+  - Other please specify: You can specify other plans your organization has.
+- **15. Does your organization have a burnout plan?** (`select_multiple`): 
+  - True: Your organization has a burnout plan.
+  - False: Your organization does not have a burnout plan.
+  - Other please specify: You can specify other plans your organization has.
+- **16. How much support do you receive from your manager?** (`select_one`): 
+  - A lot: You receive a lot of support from your manager.
+  - Some: You receive some support from your manager.
+  - A little: You receive a little support from your manager.
+  - None: You receive no support from your manager.
+- **17. How would you rate your work-life balance?** (`select_one`): 
+  - Very good: You rate your work-life balance as very good.
+  - Good: You rate your work-life balance as good.
+  - Fair: You rate your work-life balance as fair.
+  - Poor: You rate your work-life balance as poor.
+  - Terrible: You rate your work-life balance as terrible.
+- **18. How much impact do you think burnout has on your work?** (`select_one`): 
+  - None: You do not think burnout has any impact on your work.
+  - Slight: You think burnout has a minor impact on your work.
+  - Moderate: You think burnout has a moderate impact on your work.
+  - Significant: You think burnout has a significant impact on your work.
+  - Extreme: You think burnout has a very significant impact on your work.
+- **19. Burnout Frequency Rating** (`select_one`): 
+  - Never: You do not experience burnout.
+  - Slight: You experience burnout slightly.
+  - Moderate: You experience burnout moderately.
+  - Frequent: You experience burnout frequently.
+  - Constant: You experience burnout constantly.
+- **20. How effective is your organization's burnout prevention and management plan?** (`select_one`): 
+  - Very effective: You find your organization's burnout prevention and management plan very effective.
+  - Effective: You find your organization's burnout prevention and management plan effective.
+  - Not very effective: You find your organization's burnout prevention and management plan not very effective.
+  - Not at all effective: You find your organization's burnout prevention and management plan not at all effective.
+  - No plan: Your organization does not have a burnout prevention and management plan.
+- **21. How many burnout causes are you aware of?** (`select_one`): 
+  - None: You are not aware of any burnout causes.
+  - Slight: You are aware of a minor burnout cause.
+  - Moderate: You are aware of a moderate burnout cause.
+  - Significant: You are aware of a significant burnout cause.
+  - Extreme: You are aware of multiple extreme burnout causes.
+- **22. How much burnout impacts your personal life?** (`select_one`): 
+  - None: You do not think burnout impacts your personal life.
+  - Slight: You think burnout has a minor impact on your personal life.
+  - Moderate: You think burnout has a moderate impact on your personal life.
+  - Significant: You think burnout has a significant impact on your personal life.
+  - Extreme: You think burnout has a very significant impact on your personal life.
+- **23. How effective is burnout prevention and management plan?** (`select_one`): 
+  - Very effective: You find the burnout prevention and management plan very effective.
+  - Effective: You find the burnout prevention and management plan effective.
+  - Not very effective: You find the burnout prevention and management plan not very effective.
+  - Not at all effective: You find the burnout prevention and management plan not at all effective.
+  - No plan: Your organization does not have a burnout prevention and management plan.
+- **24. Burnout Prevention And Management Plan** (`select_one`): 
+  - Very effective: You find the burnout prevention and management plan very effective.
+  - Effective: You find the burnout prevention and management plan effective.
+  - Not very effective: You find the burnout prevention and management plan not very effective.
+  - Not at all effective: You find the burnout prevention and management plan not at all effective.
+  - No plan: Your organization does not have a burnout prevention and management plan.
+- **25. Do you feel supported in burnout prevention?** (`select_one`): 
+  - A lot: You feel a lot supported in burnout prevention.
+  - Some: You feel some support in burnout prevention.
+  - A little: You feel a little support in burnout prevention.
+  - None: You feel no support in burnout prevention.

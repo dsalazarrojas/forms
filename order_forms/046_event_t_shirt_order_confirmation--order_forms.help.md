@@ -1,0 +1,48 @@
+<thinking>
+This form is used for confirming the order of t-shirts for an event. It is used by event participants to confirm their t-shirt order details. This form should only be filled out by event participants who have previously ordered t-shirts. It is intended to be filled out after the event, to confirm that the participant received their ordered t-shirt(s) and to provide any necessary feedback or corrections.
+
+To prevent duplicate orders, please ensure that you have not already filled out this form for this event. If you have already submitted a form for this event, please do not fill it out again.
+</thinking>
+
+# Event T Shirt Order Confirmation - Help Guide
+## Purpose
+This form is used to confirm and provide feedback on the t-shirt orders made for an event. It ensures that participants confirm they received their ordered t-shirts and can provide any necessary corrections or feedback.
+
+## How To Complete This Form
+To complete this form, simply fill out the fields as follows:
+- Enter your first and last name to identify yourself as a participant.
+- Select your t-shirt size.
+- Enter the quantity of t-shirts you have ordered.
+- Enter your email address for contact.
+- Enter your participant ID.
+- Enter the name of the event.
+- Select the color of your t-shirt.
+- Select the participant t-shirt size for each ordered t-shirt.
+- Select the participant t-shirt color for each ordered t-shirt.
+- Provide the participant's t-shirt design choice for each ordered t-shirt (if applicable).
+- Enter the quantity of t-shirts ordered for each participant.
+- Select the participant t-shirt color for each ordered t-shirt.
+- Select the participant's t-shirt design choice for each ordered t-shirt (if applicable).
+
+## Field-by-Field Explanation
+* **First Name**: This is a required field where you should enter your first name as a participant.
+* **Last Name**: This is a required field where you should enter your last name as a participant.
+* **T-Shirt Size**: Select your t-shirt size from the provided options. This will help us to confirm that we have ordered the correct size of t-shirt for you.
+* **Quantity**: This is a required field where you should enter the number of t-shirts you have ordered.
+* **Email**: Enter your email address to ensure that we can contact you if needed.
+* **Participant ID**: Enter your participant ID to confirm your identity as a participant.
+* **Event Name**: Enter the name of the event to confirm that this is the correct form for your participation.
+* **T-Shirt Color**: Select the color of your t-shirt from the provided options.
+* **Participant T-Shirt Size**: Select the size of the t-shirt for each participant from the provided options.
+* **Participant T-Shirt Color**: Select the color of the t-shirt for each participant from the provided options.
+* **Participant T-Shirt Design**: Select the design of the t-shirt for each participant (if applicable).
+* **Participant T-Shirt Quantity**: Enter the quantity of t-shirts ordered for each participant.
+* **Participant T-Shirt Quantity 2**: Enter the quantity of t-shirts 2 for each participant.
+* **Participant T-Shirt Quantity 3**: Enter the quantity of t-shirts 3 for each participant.
+* **Participant T-Shirt Color 2**: Select the color of the t-shirt 2 for each participant from the provided options.
+* **Participant T-Shirt Design 2**: Select the design of the t-shirt 2 for each participant (if applicable).
+* **Participant T-Shirt Size 2**: Select the size of the t-shirt 2 for each participant from the provided options.
+* **Participant T-Shirt Color 3**: Select the color of the t-shirt 3 for each participant from the provided options.
+* **Participant T-Shirt Design 3**: Select the design of the t-shirt 3 for each participant (if applicable).
+* **Participant T-Shirt Size 3**: Select the size of the t-shirt 3 for each participant from the provided options.
+* **Participant T-Shirt Quantity 3**: Enter the quantity of t-shirts 3 for each participant.

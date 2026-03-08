@@ -1,0 +1,92 @@
+<thinking> 
+This form is designed for customers or clients who are seeking maintenance services for their facilities. The Annual Maintenance Contract Request Form is used to gather information about the customer's facility, their contact information, and the specific services they require. The form aims to streamline the maintenance request process and ensure that all necessary details are collected to provide the best possible service. To prevent duplication of effort, it's essential that the form is filled out completely and accurately to ensure that our technicians have a clear understanding of the customer's needs.</thinking>
+
+# Annual Maintenance Contract Request Form - Help Guide
+## Purpose
+This form is designed to collect information from customers seeking annual maintenance services for their facilities. Please fill out this form to help us understand your maintenance needs and preferences.
+
+## How To Complete This Form
+- Please provide accurate and complete information for each field.
+- Review the form carefully before submitting it to ensure all fields are filled out.
+- Double-check your contact information and preferred contract details to ensure accuracy.
+- If you have any questions or concerns, contact our support team for assistance.
+
+## Field-by-Field Explanation
+- **Company Name**: <name> (Required) - Enter your organization's name.
+- **Contact Person Name**: <name> (Required) - Enter the full name of the primary contact.
+- **Email Address**: <email> (Required) - Enter your email address for future updates and communication.
+- **Phone Number**: <number> (Required) - Enter your phone number with the area code.
+- **Facility Address**: <text> (Required) - Enter the location of the facility where maintenance will be provided.
+- **Facility Size in Square Feet**: <number> (Optional) - Enter the approximate total square footage of your facility.
+- **Equipment Types Requiring Maintenance**: 
+  - Select all equipment types that need maintenance, such as:
+    - HVAC Systems
+    - Electrical Systems
+    - Plumbing
+    - Fire Safety Systems
+    - Elevators
+    - Parking Systems
+    - Security Systems
+    - Other
+- **Primary Equipment Focus**: <text> (Optional) - Describe the most critical equipment that requires attention.
+- **Current Maintenance Status**: 
+  - Select one of the following:
+    - No current maintenance program
+    - In-house maintenance
+    - Partially outsourced maintenance
+    - Fully outsourced maintenance
+- **Desired Maintenance Frequency**: 
+  - Select one of the following:
+    - Weekly
+    - Bi-weekly
+    - Monthly
+    - Quarterly
+    - Semi-annually
+    - Annually
+    - As needed
+- **Emergency Coverage Required**: 
+  - Select one of the following:
+    - Yes - 24/7 availability
+    - Yes - business hours only
+    - Yes - after hours emergency only
+    - No emergency coverage needed
+- **Estimated Annual Budget Range**: 
+  - Select one of the following:
+    - Under $5,000
+    - $5,000 - $15,000
+    - $15,000 - $30,000
+    - $30,000 - $50,000
+    - Over $50,000
+- **Preferred Contract Length**: 
+  - Select one of the following:
+    - 1 Year
+    - 2 Years
+    - 3 Years
+    - 5 Years
+    - Flexible
+- **Specific Maintenance Concerns**: <text> (Optional) - Describe any existing problems or areas of focus.
+- **History of Equipment Issues**: <text> (Optional) - Document previous breakdowns or problems with equipment.
+- **Staff Availability for Technician Access**: 
+  - Select one of the following:
+    - Always available
+    - Business hours
+    - Scheduled access only
+    - After hours access available
+- **Documentation and Reporting Required**: 
+  - Select all types of documentation and reporting that you require:
+    - Monthly service reports
+    - Preventive maintenance schedules
+    - Cost tracking
+    - Performance metrics
+    - Compliance documentation
+    - Parts inventory management
+- **Required Certifications for Technicians**: 
+  - Select all certifications needed for technicians:
+    - EPA Certification
+    - NATE Certification
+    - Electrician License
+    - Gas Fitter Certification
+    - Security Clearance
+    - Other
+- **Additional Services Requested**: <text> (Optional) - Specify any other services you need, such as training or emergency response.
+- **Desired Contract Start Date**: <date> (Required) - Select the date you would like service to begin.

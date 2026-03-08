@@ -1,0 +1,31 @@
+<thinking>
+
+The purpose of this form is to gather relevant order information from users. The form is designed to collect data that will aid in processing and fulfilling orders. To avoid confusion and duplication, it's essential to ensure that users understand each field's meaning and relevance to the order process. This guide will explain each field in detail to help users complete the form accurately and effectively.
+
+</thinking>
+
+# covers_order_form - Help Guide
+
+## Purpose
+This form is used to collect information for orders. It is a multi-page form that gathers essential details for order processing and fulfillment.
+
+## How To Complete This Form
+
+To complete this form, follow these steps:
+
+1. Click on each page tab to navigate through the form sections.
+2. Enter the required information for each field.
+
+## Field-by-Field Explanation
+
+* **Order Form** (`order_form`, text, required: false): Enter a brief description of your order, such as a product name or a description of what you are ordering.
+* **Contact Info** (`contact_info`, text, required: false): Provide your contact information, including your name, address, and phone number, so we can get in touch with you regarding your order.
+* **Payment Method** (`payment_method`, select_multiple, required: false):
+	+ Select 'Yes' if you want to pay with a specific method.
+	+ Select 'No' if you do not want to pay with that method.
+* **Orders** (`orders`, text, required: false): Enter any additional information or notes about your orders, such as special instructions or preferences.
+
+## Tips
+
+* Please ensure that you enter accurate and complete information in each field to avoid delays in order processing.
+* If you have any questions or concerns about the form, contact us through your contact information provided above.
