@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assess shopping technology awareness. It is a quiz intended to gather information from participants about their understanding of shopping technology, e-commerce trends, and their personal experiences and opinions on retail technology. The form has multiple questions and fields that cater to different aspects of shopping technology, including AI in retail, e-commerce trends, and technology acceptance.
 
 To ensure that this form is filled out accurately and completely, it's essential to understand the purpose and structure of the quiz.

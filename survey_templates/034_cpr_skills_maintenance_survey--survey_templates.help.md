@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a survey to assess the respondent's skills and experiences related to CPR (Cardio-Pulmonary Resuscitation) maintenance. The purpose of this form is to gather information on the respondent's current certification status, training history, and self-assessment of their skills and confidence in performing CPR. This form aims to identify areas of improvement and provide recommendations for training and certification maintenance.
-
-The survey will ask questions about the respondent's certification status, training history, and self-assessed skills in areas such as compression skills, airway management, AED operation, CPR practice frequency, and more. The form will also ask for recommendations on how the training could be improved and if the respondent is interested in additional certification courses.
-
-This form is designed to be completed by individuals who have undergone CPR training, either in the past or currently certified. The responses will help to identify areas of improvement and provide insights for future training and certification programs.
-
-</thinking>
-
 # CPR Skills Maintenance Survey - Help Guide
 ## Purpose
 The CPR Skills Maintenance Survey is designed to assess your skills and experiences related to CPR maintenance. The survey will help to identify areas of improvement and provide recommendations for training and certification maintenance.

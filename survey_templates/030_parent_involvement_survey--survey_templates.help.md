@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to measure the involvement and relationship between parents and their children in a family setting, likely for educational or research purposes. Each question is designed to elicit specific information about the parent's level of involvement and interaction with their child. The form is not meant to be a comprehensive assessment, but rather a general gauge of parent involvement. It is essential to answer these questions honestly, as the information collected will be used to inform support and resources for the family.
-
-</thinking>
-
 # Parent Involvement Survey - Help Guide
 ## Purpose
 The purpose of this survey is to understand the level of involvement and relationship between parents and their children. Please answer these questions honestly, and remember that the information collected will be used to inform support and resources for the family.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Task Disclosure Survey - Help Guide
 
 ## Purpose

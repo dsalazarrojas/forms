@@ -1,7 +1,3 @@
-<thinking>
-This form's primary goal is to gather feedback from customers about their experience with the delivery team and service. The form will help identify areas of improvement and provide insights into customer satisfaction. It will be used to evaluate the overall quality of the delivery service and provide input for future development and improvement. 
-</thinking>
-
 # Delivery Operations Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with the delivery team and service. It helps identify areas of improvement and provides insights into customer satisfaction.

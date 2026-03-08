@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and comments from users after a presentation. The form is designed to be simple and easy to complete, with a focus on understanding the user's experience and gathering any comments or suggestions they may have. It should not be used for critical or sensitive topics, as it's primarily meant for post-presentation feedback.
-
-This form has been created to avoid duplication with other forms in the system, ensuring that users are not filling out multiple versions of the same form unnecessarily. However, it's always double-checked to ensure that no similar form is already being used for the same purpose.
-
-</thinking>
-
 # Post Presentation Survey - Help Guide
 ## Purpose
 The Post Presentation Survey form is used to collect feedback and comments from users after a presentation, allowing presenters to understand their audience's experience and gather valuable insights.

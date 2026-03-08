@@ -1,7 +1,3 @@
-<thinking>
-This form is used as part of the onboarding process for participants in a study or research project. It is essential to complete this form to demonstrate your understanding of the purpose and scope of the project. The form is a simple text-based survey, not a traditional form with many questions. The purpose of this form is to get you, the participant, to agree to participate in the survey, provide some information about yourself, and understand what will be collected from you.
-</thinking>
-
 # survey_invitation_consent_form - Help Guide
 ## Purpose
 This form is used to obtain your consent and gather essential information about you as a participant in a study or research project. Please read each section carefully and provide accurate information.

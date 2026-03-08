@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the retail store location's security measures and potential risks. It is used to gather information about the store's location, manager's name, shift start and end times, store hours, safety score, security measures, potential security risks, security training, and security equipment.
-
-To prevent duplication, this form is meant to be filled out once per store location per shift. If you have already completed this form for this store location, you do not need to fill it out again.
-
-Please note that this form is for assessment purposes only and is not meant to be used for actual security threat assessment or risk analysis.
-
-</thinking>
-
 # Retail Security Assessment Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your store location's security measures and potential security risks.

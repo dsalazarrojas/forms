@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the perception of users about optical illusions. The form is used to collect information on how users perceive a series of optical illusions. The user will be presented with a series of questions and asked to choose their perception. The answers will be collected for analysis to understand how users perceive optical illusions. This form will not be used for any commercial purpose and the responses will be kept anonymous. The data collected will be used for research purposes only. If you are a researcher or have any concerns about the form, please let us know before proceeding. This form is not intended for users with visual impairments.
-</thinking>
-
 # optical_illusion_quiz - Help Guide
 ## Purpose
 This form is designed to collect information on how users perceive a series of optical illusions. The goal is to understand the user's perception of the illusions and analyze the results for further research.

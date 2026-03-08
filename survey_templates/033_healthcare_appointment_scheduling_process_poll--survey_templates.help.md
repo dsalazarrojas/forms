@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from healthcare professionals on the appointment scheduling process. By completing this form, we aim to understand their opinions on the effectiveness of our current scheduling process and identify areas for improvement. This form is not intended for real-time appointment scheduling, but rather as a means to gather valuable insights for future process enhancements.
-
-</thinking>
-
 # Healthcare Appointment Scheduling Process Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from healthcare professionals on the appointment scheduling process. Your input will help us refine and improve our scheduling processes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help coaches evaluate their coaching strategy for players. The form asks for information about the date and time of the coaching session, the player's feedback, the coaching strategy employed, the focus areas, the player's coaching style, the coaching tactics, and any additional comments. This form is meant to be completed by the coach after each session, providing valuable feedback to improve future coaching strategies.
-
-</thinking>
-
 # Player Coaching Strategy Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluate the coaching strategy used during a coaching session with a player.

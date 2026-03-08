@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 RPA Implementation Feedback Form - Help Guide
 =====================================
 

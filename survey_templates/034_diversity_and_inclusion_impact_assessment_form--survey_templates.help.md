@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "prophets_of_inclusion_1," is designed to assess the impact, initiative, goals, outcomes, and recommendations of diversity and inclusion efforts within an organization. It is used to gather information about the effects of diversity and inclusion initiatives on employees, teams, or departments within a company. This form is intended for use by employees, managers, or HR representatives who want to evaluate the success of diversity and inclusion projects.
-
-To ensure that the form is used accurately, please note that it is designed for internal use within an organization and is not affiliated with any form creation platforms.
-
-Before filling out this form, please review the questions carefully and answer truthfully. If you are unsure about any question or option, please seek clarification from your supervisor or HR representative.
-
-</thinking>
-
 # prophets_of_inclusion_1 - Help Guide
 ## Purpose
 The "prophets_of_inclusion_1" form is designed to assess the impact, initiative, goals, outcomes, and recommendations of diversity and inclusion efforts within an organization.

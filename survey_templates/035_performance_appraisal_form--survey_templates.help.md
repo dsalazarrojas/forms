@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather performance appraisal feedback from employees, allowing managers to track progress and provide constructive feedback. It's a tool for assessing job performance, setting goals, and identifying areas for improvement. Before proceeding, please ensure you haven't completed this form recently. If you've completed it, your previous answers may still be available in the system, so be prepared to review and update your responses.
-</thinking>
-
 # Performance Appraisal Form - Help Guide
 ## Purpose
 This form is used to assess and improve job performance by gathering feedback from employees. It covers various aspects of your role, including your current job title, self-rated performance, major accomplishments in the past quarter, and goals for the next quarter.

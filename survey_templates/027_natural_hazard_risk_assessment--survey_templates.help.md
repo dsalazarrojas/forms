@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Natural Hazard Risk Assessment - Help Guide
 
 ## Purpose

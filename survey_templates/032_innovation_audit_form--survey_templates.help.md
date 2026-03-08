@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for an innovation audit, which is a process to assess and evaluate the innovation capabilities of a company or team. The form is probably used to gather feedback and input from employees on their experience with innovation processes, identifying challenges, and suggesting improvements. This could be used to inform future decision-making and drive innovation within the organization.
-</thinking>
-
 # innovation_audit_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and input from employees on their experience with innovation processes, challenges, and suggestions for improvement within their organization.

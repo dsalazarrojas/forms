@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their experiences and opinions on financial app development. It is meant to be used for research and analysis purposes to better understand the needs and pain points of users who use financial apps. By filling out this form, you will be contributing to the improvement of financial apps and helping us to better serve your needs. Please ensure you have completed the entire form before submitting your answers, as some fields are required for accurate analysis.
-</thinking>
-
 # Financial App Development Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from users about their experiences and opinions on financial app development.

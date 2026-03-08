@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about programs under the Critical Practice Program, which is a program aimed at promoting critical thinking and problem-solving skills in individuals or groups. This form is designed to be completed by program administrators or main contacts, and the information collected will be used to evaluate and improve the program. It is essential to fill out this form to help us better understand your program and provide the necessary resources and support. Please make sure to fill in all required fields and provide accurate information to ensure a comprehensive understanding of your program. 
-
-This form is a one-time submission form and does not require repeatable responses. Each program should only be submitted once.
-
-The following sections should be filled out carefully and accurately.
-</thinking>
-
 # Critical Practice Program Survey - Help Guide
 ## Purpose
 The Critical Practice Program Survey is a form designed to collect data about programs under the Critical Practice Program. This data will be used to evaluate and improve the program.

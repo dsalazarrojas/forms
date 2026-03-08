@@ -1,6 +1,3 @@
-<thinking>
-**Internal note:** This form is intended to collect detailed information about incidents that occur within the organization, helping to identify potential issues and prevent future occurrences. Ensure that each field is filled in with accurate and relevant information. Please do not duplicate incident reports, as this may lead to confusion and unnecessary administrative tasks.</thinking>
-
 # incident_complaint_form_template - Help Guide
 ## Purpose
 The Incident Complaint Form Template is used to collect detailed information about incidents that occur within the organization. It helps to identify potential issues, prevent future occurrences, and ensure accurate reporting of incidents.

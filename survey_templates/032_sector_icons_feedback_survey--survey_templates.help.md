@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on icons from users, which will help us understand their perception of the icons' design, effectiveness, and usability. This feedback will be used to improve the icon design and user experience. To ensure relevance, please only complete this form if you have interacted with the icons in question.
-
-This form should only be completed once per icon set or design variant. If you have completed this form already, your feedback will not be duplicated in the database.
-</thinking>
-
 # sector_icons_feedback_survey - Help Guide
 ## Purpose
 The sector icons feedback survey is designed to collect feedback on the usability and effectiveness of icons. Your input will help us improve the design and user experience.

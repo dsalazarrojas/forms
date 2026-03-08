@@ -1,7 +1,3 @@
-<thinking>
-Facility Efficiency Benchmark Survey is a tool used by facility managers and sustainability professionals to gather data on the energy and water usage, waste diversion rate, and greenhouse gas emissions of their facilities. This survey aims to help users assess their current performance and identify areas for improvement in their facility's sustainability practices. It is not intended to be a substitute for professional consultation or on-site audits, but rather a starting point for benchmarking and self-assessment. 
-</thinking>
-
 # Facility Efficiency Benchmark Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your facility's energy and water usage, waste diversion rate, and greenhouse gas emissions. The data collected will help you assess your current performance and identify areas for improvement.

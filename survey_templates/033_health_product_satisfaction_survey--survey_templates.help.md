@@ -1,21 +1,3 @@
-<thinking> 
-
-The purpose of this form is to collect feedback and opinions from customers about their experience with a health product. This form is designed to be a general satisfaction survey, allowing customers to rate their satisfaction and provide comments and suggestions. 
-
-This form likely belongs to a category of "survey_templates" which implies it is intended to be used as a template for collecting feedback on health products. 
-
-It seems that this form is designed to be filled out by customers who have used a health product and are now being asked to provide feedback on their experience. 
-
-This form has been created to be a generic template for collecting feedback on health products, but it's not clear if it's intended to be used in a specific business or industry context. 
-
-This form appears to be used for collecting information on a customer's general information, product rating, satisfaction level, product features, additional features, overall experience, improvement ideas, comments and suggestions, contact information (email, phone, name), and feedback. 
-
-It also seems that the form is asking for information on the assigned tool, output file, and whether it was assigned to a specific user. However, these fields might not be relevant to the primary purpose of the form, which is to collect feedback on health products. 
-
-It would be good to have more information on the context in which this form is being used and the specific requirements and limitations of the form. Without more information, it's not clear if the form is being used in a real-world scenario or if it's just a hypothetical template.
-
-</thinking>
-
 # Health Product Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions from customers about their experience with a health product.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ESD Safety Equipment Survey - Help Guide
 ## Purpose
 This form is used to collect information about the safety equipment used by an employee. It is designed to gather details about the equipment's last use, such as the duration of use, location, and the user who last used it. This data will help in identifying patterns and trends in safety equipment usage.

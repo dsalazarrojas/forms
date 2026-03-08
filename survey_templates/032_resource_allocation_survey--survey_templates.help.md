@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide instructions to end-users on how to complete the "Resource Allocation Survey" form. This form is used to gather information about resource allocation decisions made by project managers. The form has several fields that need to be filled in by the end-user. The purpose of this guide is to clarify the meaning and purpose of each field, making it easier for end-users to fill out the form accurately and efficiently.
-</thinking>
-
 # Resource Allocation Survey - Help Guide
 ## Purpose
 The Resource Allocation Survey is used by project managers to report on resource allocation decisions made within their project. This information is used to track and analyze resource allocation trends across projects.

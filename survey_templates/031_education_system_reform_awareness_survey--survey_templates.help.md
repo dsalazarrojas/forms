@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations regarding their awareness and opinions on education system reforms. The purpose of this form is to gather data on specific areas where reforms are needed and gather contact information for follow-up purposes. The form asks for a brief title, category selection, a short description, contact number, contact email, date of submission, and submitter's name and email. This form will help in assessing the current level of awareness and support for education system reforms. Before completing this form, please ensure that you have not filled it out before and that the information provided is accurate and up-to-date.
-</thinking>
-
 # education_system_reform_awareness_survey - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations regarding their awareness and opinions on education system reforms.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is a knowledge quiz designed to test the user's understanding of Tajweed rules, a set of principles used in the Islamic tradition of reciting the Quran. The form consists of 25 questions, each with multiple-choice options. Users will be asked to select all the applicable options for each question. This form can be used for educational and assessment purposes, such as testing the knowledge of individuals who are learning or have learned about Tajweed rules. It is not affiliated with any specific platform or organization. The form was created using AI-generated form templates, which are publicly available under a Creative Commons license. 
-
-</thinking>
-
 # Tajweed Rules Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of Tajweed rules, a set of principles used in the Islamic tradition of reciting the Quran. You will be asked to select all the applicable options for each of the 25 questions.

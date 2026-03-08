@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather demographic information and preferences from digital marketing professionals. The form is likely used by internal teams to better understand their target audience's demographics and marketing channel preferences.
-The form is likely used to inform product development and content creation decisions. There are some potential issues with field labels that could be considered ambiguous or unclear. For example, "What is your demographic information" seems to be missing a more specific description, and "social media ads" could be misinterpreted as asking about creating ads for social media rather than using advertising on social media. 
-It's also possible that "email marketing channel" and "email marketing strategy" should be merged into a single field or reworded to better reflect the actual intent. 
-
-Here are the possible improvements:
-- "What is your demographic information" could be reworded as "Please provide your demographic details: Age, income, etc."
-- "social_media_ads" could be reworded as "Which social media platforms do you use for advertising?"
-- "email_marketing_channel" and "email_marketing_strategy" could be merged into "How do you prefer to use email marketing?"
-
-Please note that the actual meaning and purpose of these fields may be specific to your organization and may require further clarification from a business owner or product manager. 
-</thinking>
-
 # Digital Marketing Survey - Help Guide
 ## Purpose
 This guide explains how to complete the Digital Marketing Survey form.

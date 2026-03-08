@@ -1,8 +1,3 @@
-<thinking> 
-An Employee Exit Interview Form is used to collect information about an employee's experiences and perceptions during their time with the company, typically when an employee is leaving or leaving the organization. The purpose of this form is to gather valuable insights on how to improve employee experience and retention in the future. By completing this form, employees provide their honest feedback about their job, team, management, and overall company culture. This information helps management and HR to better understand areas of improvement and make necessary changes to support employee well-being and success in the workplace. 
-
-</thinking>
-
 # Employee Exit Interview Form - Help Guide
 ## Purpose
 This form is used to gather information about your experiences and perceptions during your time with the company.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about language practice habits and preferences from individuals, aiming to gather insights into their language learning processes and behaviors. This form is designed to be a standard template for survey creation, allowing for easy duplication and modification as needed. It should only be used for surveys that fit its category, "Survey Templates", and not for other purposes. If you're not sure about the category, please consider the form's intended use case.
-</thinking>
-
 # language_practice_survey - Help Guide
 ## Purpose
 This form is designed to collect information about language practice habits and preferences from individuals.

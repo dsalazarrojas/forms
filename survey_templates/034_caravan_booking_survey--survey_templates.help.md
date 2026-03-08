@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their caravan travel preferences and booking habits. The goal is to understand their needs and preferences for caravan travel, including their travel frequency, typical trip duration, preferred destinations, and budget range. This data will help the caravan rental company to cater to their customers' needs and provide a better experience.
-To ensure that this form is completed by the right people, it is assumed that the respondent will have some knowledge about caravan travel and be willing to participate in a caravan-related survey. It is also suggested that the survey is intended for people with a moderate level of technical knowledge. If the user has filled out the form before or is not relevant to caravan travel, please disregard and do not complete the survey.
-</thinking>
-
 # Caravan Booking Survey - Help Guide
 ## Purpose
 This is a survey to help us understand your caravan travel preferences and habits. Your input will aid us in providing a better experience for you and your fellow caravan enthusiasts.

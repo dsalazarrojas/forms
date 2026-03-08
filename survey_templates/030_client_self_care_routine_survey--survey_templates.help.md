@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help clients assess their current self-care practices and identify areas for improvement. The survey aims to gather information about their overall wellness level, exercise frequency, sleep quality, nutrition habits, and other aspects of their self-care routine. This will help clients become more aware of their habits and develop strategies to prioritize self-care and improve their overall well-being.
-</thinking>
-
 # Client Self Care Routine Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help you assess your current self-care practices and identify areas for improvement. It will help you develop strategies to prioritize self-care and improve your overall well-being.

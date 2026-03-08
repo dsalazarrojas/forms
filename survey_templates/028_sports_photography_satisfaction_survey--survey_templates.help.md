@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with a sports photography service. The goal is to gather information about how the customer perceives the quality of the service, professionalism of the photographer, communication, delivery time, value for money, overall satisfaction, and other aspects of their experience. This form is meant to be completed by customers who have had a photo shoot with the service. The survey questions are designed to be clear and concise, with options for customers to select from a range of responses. The form also collects additional information such as the date and time of the photo shoot, the number of photos taken, and the price range of the shoot. This information will help the service to improve their quality of service and customer experience.
-</thinking>
-
 # sports_photography_satisfaction_survey - Help Guide
 ## Purpose
 This guide is designed to help customers complete the sports photography satisfaction survey.

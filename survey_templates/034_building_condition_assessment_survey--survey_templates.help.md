@@ -1,5 +1,3 @@
-<thinking>...This is a form for assessing the building condition. This guide will walk you through the process of completing this form to provide a comprehensive evaluation of a building's condition. Please fill out this form carefully and accurately, as it will help in getting an overall view of the building's status. Please note that all fields marked as "required" are mandatory and must be filled out. If you're unsure about any field, please reach out to the relevant authorities or seek guidance from a subject matter expert...</thinking>
-
 # Building Condition Assessment Survey - Help Guide
 ## Purpose
 The Building Condition Assessment Survey is a comprehensive form used to evaluate the overall condition of a building. It helps in identifying potential issues and prioritizing necessary repairs or maintenance. This form is used to gather information about the building's physical state, systems, and safety features.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about the weeding strategy of libraries, including the frequency of weeding, the criteria for weeding decision-making, challenges faced during weeding, potential improvements, and staff feedback. This guide is intended for end-users who will be completing the form. Before proceeding, please ensure that this guide is not redundant or unnecessary for your specific library's weeding strategy. If you're unsure about any part of this guide, please consult your library's weeding protocol.
-</thinking>
-
 # Library Weeding Strategy Survey - Help Guide
 ## Purpose
 The Library Weeding Strategy Survey is a tool designed to gather information about your library's weeding strategy. This survey helps us understand your library's weeding frequency, decision-making criteria, challenges, and areas for improvement.

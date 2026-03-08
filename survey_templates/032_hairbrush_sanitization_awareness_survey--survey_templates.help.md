@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hairbrush Sanitization Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the sanitization practices and awareness of hairbrush handling among salon staff and customers. It will help us understand the current state of sanitization awareness and best practices in the industry.

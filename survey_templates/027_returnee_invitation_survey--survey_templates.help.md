@@ -1,14 +1,3 @@
-<thinking>
-Please note that the form is used to collect feedback and survey responses from returnees of an event or session. The form is used to gauge the returnees' experience, satisfaction, and engagement with the event. The purpose of this form is to gather valuable insights for future improvement and evaluation of the event.
-
-Before proceeding, please ensure that you have not already completed this form for the same session. This will help in avoiding duplication of data and ensure that your feedback is accurately represented.
-
-This form is divided into several pages, each with a specific set of questions related to the event. Please complete each page carefully, as your feedback is crucial in helping us improve our services.
-
-Please note that all fields are optional, and you can provide as much information as you feel is necessary.
-
-</thinking>
-
 # returnee_invitation_survey - Help Guide
 ## Purpose
 The returnee_invitation_survey form is used to collect feedback and survey responses from returnees of an event or session. This form is designed to gauge the returnees' experience, satisfaction, and engagement with the event.

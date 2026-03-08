@@ -1,6 +1,3 @@
-<thinking>
-This form is for users to provide information about a group meeting, including the meeting location, time zone, start and end times, meeting date, time zone offset, meeting format, and attendees. The purpose of this form is to gather relevant data from users for meeting planning and organization. This form is likely used in a business or professional setting. This form appears to be a simple and straightforward data collection tool. Before proceeding, please ensure that you have reviewed the form carefully and understand the required and optional fields to avoid duplication of effort. Please note that this form does not store any sensitive or personal information, so you can fill it out confidently.</thinking>
-
 # Group Meeting Availability - Help Guide
 ## Purpose
 This form is designed to collect information about a group meeting. It helps to gather details such as meeting location, time zone, start and end times, meeting date, time zone offset, meeting format, and attendees. Providing accurate information will enable efficient meeting planning and organization.

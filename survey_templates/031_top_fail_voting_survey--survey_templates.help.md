@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect feedback from stakeholders on events, campaigns, or content that failed in some way. This form will help identify areas of improvement for future projects. Please ensure that the form is filled out with the correct information for each field.
-
-The form has several fields that require clarification, including the event type, severity rating, and assigned tool. The event type field is a select-one dropdown menu that asks the user to choose the type of event, campaign, or content that failed. The severity rating field is a number field where the user can input a rating from 1-10, indicating how severe the failure was. The assigned tool field is a text field where the user can specify which tool was used during the event.
-
-This form is meant to be filled out by stakeholders who have experienced a failure and are providing feedback. The form should not be filled out by users who are just browsing or looking for information.
-
-Please ensure that each field is filled out accurately and completely, as this information will be used to improve future projects.
-
-Please note that the form has several fields that are not required, such as the votes field, which is a select_multiple field with two options: None and Other. The audience feedback field is also not required and can be used for any additional feedback or comments.
-
-The form has several output options, including Output for Event, Output for Campaign, and Output for Content, which are select_one fields. The output field is a select_multiple field with two options: None and Other. The output_file field is a text field where the user can input a file name or path. The form_id field is a text field that is not required.
-
-</thinking>
-
 # Top Fail Voting Survey - Help Guide
 ## Purpose
 This form is intended to collect feedback from stakeholders on events, campaigns, or content that failed in some way. This feedback will help identify areas of improvement for future projects.

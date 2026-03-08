@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the suitability of telehealth services for a patient, typically in a healthcare setting. It's crucial to use this form accurately to ensure that the patient's needs are well understood and addressed. To prevent duplication of effort, please ensure that the form is filled out thoroughly and honestly, and not used as a placeholder or template.
-</thinking>
-
 # Telehealth Service Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about a patient's needs and medical history to assess the suitability of telehealth services. It will help healthcare professionals determine if a patient is a good candidate for telehealth services.

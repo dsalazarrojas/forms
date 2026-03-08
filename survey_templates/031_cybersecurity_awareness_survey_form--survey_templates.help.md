@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help organizations gauge the level of cybersecurity awareness among their employees, their access to training programs, and their organizational preparedness in case of incidents. The form collects information on employee knowledge, availability of training programs, incident response plans, security policies, and policy enforcement. It also inquires about potential areas for improvement in policy enforcement and plans for additional security training.
-
-</thinking>
-
 # Cybersecurity Awareness Survey Form - Help Guide
 ## Purpose
 This form is created to collect information on cybersecurity awareness among employees, available training programs, incident response plans, and security policies in an organization.

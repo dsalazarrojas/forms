@@ -1,7 +1,3 @@
-<thinking>
-This survey template is designed to gather information about user experience with sports equipment. It is intended for users who have used sports equipment and are willing to share their experiences. This guide is to help users understand the survey template and its purpose.
-</thinking>
-
 # Sports Equipment Satisfaction Survey - Help Guide
 ## Purpose
 This survey template is designed to gather information about user experience with sports equipment. It is intended for users who have used sports equipment and are willing to share their experiences.

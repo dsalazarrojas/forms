@@ -1,19 +1,3 @@
-<thinking>
-This form is intended for faculty members to report their weekly research progress. This form is designed to collect information on the following fields:
-- Faculty name (first and last name)
-- Research area
-- Research project
-- Research stage (current status)
-- Obstacles encountered during the research
-- Department (department name)
-- Comments (any additional comments or feedback)
-- Date submitted (date the form is being submitted)
-
-Before filling out this form, please ensure you are submitting it for the correct week and that you have not already submitted it for the current week.
-
-This form is only required for faculty members who have an active research project.
-</thinking>
-
 # Faculty Weekly Research Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from faculty members about their weekly research progress, allowing the research administrators to track and monitor the status of ongoing research projects.

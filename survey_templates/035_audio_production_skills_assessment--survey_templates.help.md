@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audio Production Skills Assessment - Help Guide
 ## Purpose
 The Audio Production Skills Assessment is designed to evaluate your audio production skills and experience. Please answer the questions truthfully to help us understand your abilities and background in audio production.

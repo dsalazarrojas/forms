@@ -1,5 +1,3 @@
-<thinking>As a form expert, I need to understand the purpose and requirements of this form before I can create a user-facing help guide. From the YAML input schema, I see that this form is designed to gather information on the social influence of various factors on a student's independence. The form asks about the influence of parents, peers, and teachers, and also gathers information on the student's independence level, when they felt independent, and how they prefer to receive their results. The form is titled "Survey: Social Influence On Student Independence" and is likely to be used for research or evaluation purposes. I will now create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning.</thinking>
-
 # Survey: Social Influence On Student Independence - Help Guide
 ## Purpose
 This survey is designed to understand how different social influences, such as parents, peers, and teachers, affect your independence. Your responses will help us evaluate the impact of social factors on your personal growth and development.

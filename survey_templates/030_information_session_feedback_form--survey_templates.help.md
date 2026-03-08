@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and information from participants after an information session, which could be a meeting, workshop, or similar event. This form serves as a crucial tool to understand how well the session was received, what attendees thought about it, and to collect demographic information about the participants. It's essential to complete this form accurately and thoroughly to provide valuable insights for future planning and improvement.
-
-To complete this form, follow these steps:
-
-1. **Start by reading the form carefully** and understand the sections and questions being asked.
-2. **Fill in the required fields** marked as "Required" in the form. These fields are crucial for providing accurate feedback and demographic information.
-3. **Provide detailed answers** in the text fields, such as "Feedback Questionnaire" and "Comments" sections.
-4. **Select the relevant options** for the questions marked as "Select One" or "Select Multiple".
-5. **Enter your contact details** in the "Contact Details" section, including your name, email, and phone number.
-
-</thinking>
-
 # Information Session Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and information from participants after an information session, providing valuable insights for future planning and improvement.

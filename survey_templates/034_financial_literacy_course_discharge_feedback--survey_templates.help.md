@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure we're on the same page. This form is intended to gather feedback from participants who have completed the Financial Literacy Course. Our purpose is to understand their overall satisfaction with the course and provide a platform for them to share their thoughts, ideas, and concerns. We aim to collect actionable insights to improve the course and better serve our learners in the future.</thinking>
-
 # Financial Literacy Course Discharge Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants who have completed the Financial Literacy Course. Your input will help us understand your experience and identify areas for improvement.

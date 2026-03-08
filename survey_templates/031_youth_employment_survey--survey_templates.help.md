@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on the employment status and experiences of youth, including demographic information, employment status, education, skills, job type, and job satisfaction. This form should be used by those who are interested in understanding the employment landscape of youth and gathering data for research or statistical purposes.
-
-Before starting the form, it is essential to ensure that the questions are relevant to the youth being surveyed and that the survey is not duplicated or redundant.
-
-</thinking>
-
 # Youth Employment Survey - Help Guide
 ## Purpose
 The Youth Employment Survey is designed to collect data on the employment status and experiences of youth, providing valuable insights into their demographic information, employment status, education, skills, job type, and job satisfaction.

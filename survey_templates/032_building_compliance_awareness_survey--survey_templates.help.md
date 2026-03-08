@@ -1,5 +1,3 @@
-<thinking>...The provided YAML defines a 24-field form with a specific purpose of assessing compliance awareness within a building. The form is designed to collect information from employees or individuals working within the building, and it includes questions about their experience, knowledge, and concerns regarding compliance and safety within the building.</thinking>
-
 # Building Compliance Awareness Survey - Help Guide
 ## Purpose
 The purpose of this form is to assess your compliance awareness and understanding of the building's policies, procedures, and safety protocols. It will help identify areas where you may need additional training or support to ensure you are working safely and effectively within the building.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gauge the quality and effectiveness of a website or app's cellular signal strength testing, which is a critical aspect of ensuring reliable and efficient mobile connectivity. The purpose of this form is to collect data on how users perceive their current cellular signal strength, and which areas of the signal are most affected. By analyzing this data, development teams can identify areas of improvement to enhance the overall user experience. This form is likely used in conjunction with other tools and methods to gather comprehensive insights and inform design decisions.
-</thinking>
-
 # Site Signal Testing Survey - Help Guide
 ## Purpose
 The Site Signal Testing Survey is designed to help us understand how you perceive your current cellular signal strength and which areas are most affected. Your feedback will help us identify areas of improvement to enhance your mobile experience.

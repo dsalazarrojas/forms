@@ -1,8 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Retail Market Research Survey form, we first need to clarify the form's purpose and ensure it's not duplicating an existing form. The form's purpose appears to be for collecting customer feedback and data on their shopping behavior, satisfaction, and demographic information. It's possible that this form is designed to supplement or replace an existing survey, but without more information on the existing form, we'll assume this is a new form. We'll proceed with creating the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Retail Market Research Survey - Help Guide
 ## Purpose
 The Retail Market Research Survey is a form designed to collect data on customer behavior, preferences, and experiences with our retail store. This form helps us better understand our customers' needs and improve our services accordingly.

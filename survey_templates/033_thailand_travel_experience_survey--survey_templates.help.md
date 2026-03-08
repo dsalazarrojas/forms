@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thailand Travel Experience Survey - Help Guide
 
 ## Purpose

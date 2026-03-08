@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a help guide for a Chamber Of Commerce Award Voting Form that will guide end-users through the process of filling out the form. This form is for voting for different categories of awards, and users need to select nominees and provide their contact information to complete the form.
 
 The form is divided into several sections: vote submission date, voter's contact information, and award categories. Users will fill out the form to nominate businesses or individuals for each category. We need to make sure that users understand what each field is for and how to fill it out correctly.

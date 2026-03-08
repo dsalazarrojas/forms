@@ -1,12 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather feedback from users on their familiarity with various aspects of a service or product, including user familiarity, product familiarity, and service familiarity. This form will be used to collect information that can help improve the service or product. 
-
-This form should be completed by users who are familiar or not familiar with the service or product and can help identify areas of improvement. 
-
-To prevent duplicate responses, users should only respond to the form once. 
-
-</thinking>
-
 # Familiarity Feedback Form - Help Guide
 ## Purpose
 The Familiarity Feedback Form is designed to collect information from users about their familiarity with a service or product. This form is intended to be completed by users who have had some level of exposure to the service or product.

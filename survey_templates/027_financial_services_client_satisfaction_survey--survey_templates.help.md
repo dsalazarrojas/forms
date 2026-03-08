@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge the satisfaction levels of clients who have utilized financial services provided by an organization. This form will help collect valuable feedback and suggestions from clients about their experiences, helping the organization to improve its services.
-
-This form will likely be completed by financial clients of the organization, and the responses will be used to identify areas of improvement and make data-driven decisions.
-
-We should ensure that the form is not a repetition or variation of an existing form, and its contents accurately reflect the needs and goals of the client-facing service. If you're unsure about the form's purpose or relevance, please reach out to the form creators.
-
-</thinking>
-
 # Financial Services Client Satisfaction Survey - Help Guide
 
 ## Purpose

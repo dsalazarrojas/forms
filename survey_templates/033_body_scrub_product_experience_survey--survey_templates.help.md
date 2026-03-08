@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the user's experience with the body scrub product. It will help us understand how the product performed in terms of its effectiveness, gentleness, and overall satisfaction. This form is intended for users who have purchased the product, and it's essential to fill it out to provide valuable insights to help us improve the product. Please ensure that you are filling out the form for the correct product and not for another.
-</thinking>
-
 # Body Scrub Product Experience Survey - Help Guide
 
 ## Purpose

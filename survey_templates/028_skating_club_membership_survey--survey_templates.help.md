@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form, which is a survey for skating club membership. The purpose of this survey is to collect information from users about their interest in joining the skating club. The guide should help users understand how to complete the form and what each field means. We will use the provided YAML fields to create a clear and concise guide.
-
-</thinking>
-
 # Skating Club Membership Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information from users about their interest in joining the skating club. It is intended to help us understand who is interested in joining the club and what kind of information we need from them.

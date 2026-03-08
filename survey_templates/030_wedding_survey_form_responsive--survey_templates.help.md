@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about wedding participants from wedding planners or event organizers. It is essential for wedding planners to know who will attend their event and how many guests each participant will bring. This form helps wedding planners to gather relevant details in a structured manner. It is crucial for them to understand the number of attendees and the number of guests each attendee will bring to the wedding. The form is divided into several sections: participant information, attendee details, and additional questions related to the wedding ceremony. Each section provides an essential part of the information needed for the event's planning and execution.
-
-</thinking>
-
 # Wedding Survey Form Responsive - Help Guide
 ## Purpose
 This is a wedding survey form designed for wedding planners or event organizers to collect information about wedding participants. The form helps gather essential details about the number of attendees and the number of guests each participant will bring to the wedding.

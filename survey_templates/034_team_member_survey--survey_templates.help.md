@@ -1,17 +1,3 @@
-<thinking>
-This block of code is likely used for internal development and testing purposes, but for end-user help guides, the focus should be on providing a clear and user-friendly experience. Here's how I would approach creating a user-facing help guide for the "Team Member Survey" form:
-The goal of this survey is to collect feedback from team members to understand their perceptions of their role, job satisfaction, and overall experience within the team. This form will help us identify areas for improvement and provide valuable insights to help us enhance the team's performance and well-being. 
-
-To ensure that the form is completed accurately and efficiently, please make sure that the answers are provided based on personal experience and genuine perceptions. It's essential to take into account that the form questions are designed to be as neutral as possible and are not intended to be judgmental or sensitive.
-
-Before starting, please ensure that you have completed all the questions, and if any question is not applicable or not relevant, you can simply skip it or select "Not Applicable" as an option.
-
-Please answer all the questions truthfully, and if you have any questions or concerns, don't hesitate to reach out to the team for support.
-
-The survey should take around 10-15 minutes to complete. Please take your time, and feel free to save the form and continue later if needed.
-
-</thinking>
-
 # Team Member Survey - Help Guide
 ## Purpose
 The Team Member Survey is designed to collect feedback from team members to help us understand their perceptions of their role, job satisfaction, and overall experience within the team. This survey will help us identify areas for improvement and provide valuable insights to enhance the team's performance and well-being.

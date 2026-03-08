@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from NLP team members and users about their experiences with natural language commands. The form is designed to be completed by AI Team Members, UX Researchers, and Product Owners to provide insights on their roles and how they use natural language commands. It is intended to be a one-time submission per user. Please ensure that you submit only once to avoid duplicate submissions.
-</thinking>
-
 # NLP Command Input Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from NLP team members and users about their experiences with natural language commands.

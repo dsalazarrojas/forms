@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect general information from end-users about a product or service they have interacted with. The purpose of this form is to gather basic details such as product name, category, customer feedback, and other relevant information. However, please note that the form is not designed to collect sensitive or personal data, such as financial information or personal identifiable details. 
-
-This form is part of a larger process to gather feedback and insights from users about their experiences with our product or service. Before completing the form, please ensure that you have not already filled it out in the past to avoid duplicating your feedback.
-
-</thinking>
-
 # Short Answer Survey - Help Guide
 ## Purpose
 This form is designed to collect general information from end-users about a product or service they have interacted with.

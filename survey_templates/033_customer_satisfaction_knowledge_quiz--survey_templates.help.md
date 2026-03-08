@@ -1,13 +1,3 @@
-<thinking>Here is the reasoning block that explains the form purpose and checks for relevance and duplication:
-
-The purpose of this form is to collect feedback on the customer's satisfaction with our company's knowledge services. This form will help us gauge how well-versed our customers are with our knowledge base and identify areas for improvement. The form is designed to be completed by customers who have interacted with our knowledge services and are willing to share their experience.
-
-Before proceeding, please note that this form is intended for customers who have already interacted with our knowledge services. If you're not a customer or have not used our knowledge services, this form may not be relevant to you.
-
-Also, be aware that this form is for feedback purposes only. Please do not submit duplicate responses, as they will not be processed.
-
-</thinking>
-
 # Customer Satisfaction Knowledge Quiz - Help Guide
 ## Purpose
 The Customer Satisfaction Knowledge Quiz is designed to assess how well-versed our customers are with our knowledge base. This form will help us identify areas of improvement and provide better services to our customers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect feedback and information from visitors to the zoo. Before filling out the form, please ensure that you have visited the zoo and are providing your genuine experience and opinions. Please note that this form is not meant to be filled out by staff members or other zoo employees. If you have already filled out this form, please refrain from submitting it again.
-</thinking>
-
 # Zoo Visitor Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from visitors to the zoo. We value your opinions and want to hear about your experience. Your input will help us improve our services and ensure that your next visit is even more enjoyable.

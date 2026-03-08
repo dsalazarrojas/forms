@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather information about a moodboard, which is a visual tool used to collect and share ideas, inspiration, and themes for design projects. It is meant to capture essential details such as the project title, description, color scheme, target audience, inspiration sources, design style, preferred color, moodboard name, project URL, project image, and target age group. The form is likely intended for use in design or creative industries where moodboards are used to facilitate collaboration and decision-making. The form should be completed by a design team member or client to provide a clear and concise overview of the project's visual and conceptual aspects. To ensure data accuracy, please complete the form carefully and ensure all required fields are filled out. Note that some fields are marked as "required" and must be completed before submitting the form.</thinking>
-
 # Moodboard Creation Survey - Help Guide
 
 ## Purpose

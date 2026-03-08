@@ -1,16 +1,3 @@
-<thinking>
-This form is likely a survey template used by marinas (small ports or piers for boats) to collect information from their customers or clients. The purpose of this survey could be to gather data on marina scheduling, customer preferences, and feedback. This form may be used by marina management or staff to better understand their customers' needs and preferences, or to collect data for marketing or business development purposes.
-
-Before filling out this form, please ensure you are answering the questions relevant to your experience with the marina. If you are not a customer or client of the marina, you may not need to fill out this form.
-
-To complete this form, simply navigate through the different pages (indicated by a label such as "Home", "Introduction", "Marina Scheduling", etc.) and fill out the relevant fields. Please note that some fields are marked as "required" which means you must complete those fields to proceed.
-
-This form appears to have several select multiple and select one type fields, which will likely require you to choose from a list of options. The "Marina Scheduling Feedback", "Availability", "Boater Preferences", "Scheduling Question", "Marinas List", "Marina Comments" fields are likely to be multiple choice or list-style questions. The "Scheduling Feedback", "Availability", "Boater Preferences", and "Scheduling Question" fields may require you to select multiple options, while "Marinas List" and "Marina Comments" may have a list of options to choose from.
-
-Some fields are labeled as "email", "phone", "date", and "time". These are likely text fields for entering specific types of information.
-
-Please be accurate when filling out this form and make sure to provide relevant information for the marina to better serve you or your business.</thinking>
-
 # Marina Scheduling Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form, Environmental Sustainability In Hospitals Survey, is designed to gauge a hospital's environmental sustainability practices and performance. Its aim is to collect data that can be used by hospitals to assess their current level of sustainability and identify areas for improvement. This form is a critical tool for hospital administrators and sustainability managers to gather insights on their environmental initiatives, challenges, and performance metrics. Before proceeding, please ensure that you are using this form for its intended purpose, and if you have already completed a similar survey in the past, please note that this form's data will not be duplicated.
-
-This help guide will walk you through the process of completing the Environmental Sustainability In Hospitals Survey form.
-</thinking>
-
 # Environmental Sustainability In Hospitals Survey - Help Guide
 ## Purpose
 The Environmental Sustainability In Hospitals Survey is designed to collect data on a hospital's environmental sustainability practices and performance.

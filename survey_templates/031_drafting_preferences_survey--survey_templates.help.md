@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from project stakeholders about their drafting preferences for upcoming projects. The purpose of this form is to ensure that all stakeholders are on the same page and have a clear understanding of each other's expectations and priorities. This form should only be filled out by project stakeholders who are directly involved in the drafting process. Please note that this form is not a one-time submission, but rather an ongoing process to be repeated for each new project.
-</thinking>
-
 # Drafting Preferences Survey - Help Guide
 ## Purpose
 The Drafting Preferences Survey is a tool to gather information from project stakeholders about their drafting preferences for upcoming projects. This helps to ensure that all stakeholders are on the same page and have a clear understanding of each other's expectations and priorities.

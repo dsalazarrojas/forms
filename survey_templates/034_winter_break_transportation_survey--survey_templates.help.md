@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information about your travel plans during the winter break. It's meant to help the institution understand your travel preferences and needs during this period. Please ensure that the information you provide is accurate and complete.</thinking>
-
 # Winter Break Transportation Survey - Help Guide
 ## Purpose
 

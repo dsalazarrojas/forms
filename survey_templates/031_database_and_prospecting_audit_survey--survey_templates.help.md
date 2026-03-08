@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the current state of a company's database and prospecting processes. The purpose of this survey is to gather information on how well a company's database is maintained and how effective their prospecting methods are. The results will be used to identify areas for improvement and provide recommendations for enhancing database and prospecting processes.
-
-This form is designed to be completed by individuals with knowledge of the company's database and prospecting operations. It should only be completed once per company to avoid duplication of effort and to gather a comprehensive understanding of the current state.
-
-Please complete this form carefully, as the information gathered will be used to inform decisions and guide improvements.
-
-</thinking>
-
 # Database And Prospecting Audit Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the current state of your database and prospecting processes. Your feedback will help us identify areas for improvement and provide recommendations to enhance your database and prospecting operations.

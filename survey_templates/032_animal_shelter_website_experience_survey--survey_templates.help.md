@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from website visitors, specifically from the Animal Shelter. It aims to measure their experience with the website, including their satisfaction, ease of navigation, and overall visual appeal. The form is crucial in identifying areas that need improvement and providing valuable insights for future developments.
-</thinking>
-
 # Animal Shelter Website Experience Survey - Help Guide
 
 ## Purpose

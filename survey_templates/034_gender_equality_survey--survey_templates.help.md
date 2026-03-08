@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gauge the employee's experience with gender equality in the workplace. 
-The form asks questions about the employee's demographics such as gender, age, years of service, department, shift time, job title, job performance, benefits, salary range, education, native language, and comments. 
-These questions are meant to gather information about the employee's perspective on gender equality and their personal experiences in the workplace. 
-This form is not meant to be a substitute for any formal HR or EEO survey or assessment. 
-It is intended for internal use only, and its purpose is to help the management team or HR department understand the employee's feelings and experiences in the workplace.
-
-</thinking>
-
 # Gender Equality Survey - Help Guide
 
 ## Purpose

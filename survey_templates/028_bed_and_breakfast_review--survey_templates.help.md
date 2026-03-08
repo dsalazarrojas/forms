@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from guests about their stay at a bed and breakfast, with a focus on various aspects of their experience such as cleanliness, comfort, breakfast quality, and staff friendliness. This form ensures that guests provide accurate and relevant information, and the data collected will be used to improve the services provided by the bed and breakfast. To prevent duplication, it's essential to ensure that guests have not previously provided feedback for the same stay. The form is intended for guests who wish to provide feedback on their experience, and it's recommended that staff members use this form to collect feedback in a way that is respectful and considerate of the guest's time.
-</thinking>
-
 # Bed And Breakfast Review - Help Guide
 ## Purpose
 This form is used to collect feedback from guests about their stay at the bed and breakfast, with a focus on various aspects of their experience.

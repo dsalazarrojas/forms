@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's character strengths, values, and traits. This form is designed to evaluate various aspects of a person's personality, including wisdom, courage, humanity, and transcendence. It is intended to be filled out by participants who wish to reflect on their values and characteristics.
-
-Before proceeding, please ensure that this is the correct form and that you have not already completed it. Completing this form will help in identifying your strengths and weaknesses, which can be used for personal growth and development. Please be honest and thorough in your responses.</thinking>
-
 # Character Strengths Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help participants reflect on their character strengths, values, and traits. It is designed to evaluate various aspects of a person's personality, including wisdom, courage, humanity, and transcendence.

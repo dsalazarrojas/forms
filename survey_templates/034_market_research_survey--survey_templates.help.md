@@ -1,8 +1,3 @@
-<thinking>
-This form is a market research survey, designed to collect information about customers and their market segments. The purpose of this survey is to gather data on customer preferences, demographics, and market segment distribution. Before proceeding, please verify that you are filling out this form for a valid reason and that you have not already completed this survey.
-
-</thinking>
-
 # market_research_survey - Help Guide
 ## Purpose
 This form is a market research survey designed to collect information about customers and their market segments.

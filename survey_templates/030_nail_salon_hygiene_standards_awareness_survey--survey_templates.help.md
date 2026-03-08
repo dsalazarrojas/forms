@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather opinions from customers on the cleanliness, safety, and overall experience of a nail salon. This will help the salon management to identify areas of improvement and provide better service to their customers.
-</thinking>
-
 # Nail Salon Hygiene Standards Awareness Survey - Help Guide
 ## Purpose
 This survey aims to gauge the cleanliness and safety standards of the nail salon, as well as your overall satisfaction and frequency of visits. Your input is essential to help the salon improve their services.

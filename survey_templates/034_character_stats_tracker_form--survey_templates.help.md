@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand and complete the Character Stats Tracker Form. Before starting, we recommend checking if this form already exists in your account to avoid duplication. If it does, you can simply update the existing form instead of creating a new one.
-</thinking>
-
 # Character Stats Tracker Form - Help Guide
 ## Purpose
 The Character Stats Tracker Form is a comprehensive tool to track and record your character's progress in a campaign or game. It helps you keep track of their attributes, stats, and progress, providing a clear and organized record of your character's evolution.

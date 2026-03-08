@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Urban Design Public Input Submission Form - Help Guide
 =====================================================
 

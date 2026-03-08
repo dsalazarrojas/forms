@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose aligns with the nonprofit employee burnout study objectives, and we should avoid duplicating efforts or asking the same questions multiple times. Let's review the form fields to ensure they are relevant, concise, and practical for the user to complete.
-</thinking>
-
 # Nonprofit Employee Burnout Study - Help Guide
 ## Purpose
 This form is designed to gather information on nonprofit employee burnout, including burnout levels, causes, symptoms, prevention strategies, and support systems. The goal is to help nonprofits understand burnout prevalence, causes, and prevention methods to create a supportive work environment.

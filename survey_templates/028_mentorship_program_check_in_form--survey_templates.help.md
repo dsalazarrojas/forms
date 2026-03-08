@@ -1,5 +1,3 @@
-<thinking>As the form designer, I understand that the purpose of this form is to gather information from participants in the mentorship program, specifically to check-in on their progress and provide a platform for them to report any challenges they have faced, feedback from their mentor, and next steps they plan to take. This form is designed to be flexible and adaptable, allowing participants to report on their progress and status at different times, using a mix of single- and multi-select options, as well as text fields for more detailed comments. I also assume that the form is intended to be used for regular check-ins, with fields like "check_in_frequency" providing options for reporting on the frequency of check-ins.</thinking>
-
 # Mentorship Program Check In Form - Help Guide
 ## Purpose
 This form is designed to help participants in the mentorship program report their progress, challenges, and next steps, providing valuable feedback to their mentors and facilitating a more effective mentorship experience.

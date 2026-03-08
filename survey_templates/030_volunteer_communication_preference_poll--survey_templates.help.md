@@ -1,7 +1,3 @@
-<thinking>
-This guide explains how to fill out the "Volunteer Communication Preference Poll" form, which helps us understand your volunteer communication preferences. This form is not intended to collect personal data, but rather to gather information on what methods you are comfortable with for communication. We encourage you to answer the questions honestly, and the information will be used to tailor our communication with you accordingly.
-</thinking>
-
 # Volunteer Communication Preference Poll - Help Guide
 ## Purpose
 This form helps us understand your communication preferences as a volunteer. Your input will enable us to tailor our communication with you effectively.

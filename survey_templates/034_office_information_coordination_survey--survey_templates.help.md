@@ -1,7 +1,3 @@
-<thinking>
-This survey is used by the management team to collect information from offices regarding their internal coordination and communication practices. The purpose of this survey is to gather data on the tools and challenges faced by each office, as well as suggestions for improvement. It's essential to ensure that this survey is completed by the relevant office personnel to provide accurate and relevant information. Please ensure that you are filling out the survey for your office's specific information. If you've already completed this survey for your office, please do not submit duplicate responses.
-</thinking>
-
 # Office Information Coordination Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your office's internal coordination and communication practices. It will help the management team to better understand your office's needs and make informed decisions to improve internal communication and coordination.

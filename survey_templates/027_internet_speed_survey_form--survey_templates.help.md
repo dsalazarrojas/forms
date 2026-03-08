@@ -1,8 +1,3 @@
-<thinking>
-We're checking if the form purpose is clear and non-duplication...
-The form is intended to collect information about internet speed from end users. This form is likely used by a support team or a quality assurance team to gather data about end users' experiences with internet speeds, including their location, internet service providers, and other relevant details. This form does not appear to be a duplicate of any other form within the "survey_templates" category, and it is designed to collect comprehensive data about internet speeds.
-</thinking>
-
 # Internet Speed Survey Form - Help Guide
 ## Purpose
 The Internet Speed Survey Form is designed to collect information about end users' experiences with internet speeds. This data will help us understand and improve internet performance for everyone.

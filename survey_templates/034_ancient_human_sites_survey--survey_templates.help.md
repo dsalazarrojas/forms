@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ancient Human Sites Survey - Help Guide
 ## Purpose
 The Ancient Human Sites Survey form is designed to collect information about ancient human sites, such as archaeological sites, settlements, or other significant locations from the past. The form helps researchers, surveyors, or enthusiasts document and categorize these sites, their conditions, and conservation priorities.

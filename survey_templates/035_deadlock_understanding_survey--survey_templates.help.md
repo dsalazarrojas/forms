@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I need to understand the context of this "Deadlock Understanding Survey" form. It appears to be a user-facing survey used to collect information from respondents about their understanding of the concept of deadlock. The form likely aims to gauge respondents' knowledge, experience, and background related to deadlock. I will assume that this form is used in an academic or educational setting.</thinking>
-
 # Deadlock Understanding Survey - Help Guide
 ## Purpose
 The "Deadlock Understanding Survey" is designed to collect information about your understanding of the concept of deadlock. This form will guide you through a series of questions to help us understand your perspective on deadlock.

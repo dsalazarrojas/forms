@@ -1,5 +1,3 @@
-<thinking>What a form this is!</thinking>
-
 # Victimology Concepts Survey - Help Guide
 
 ## Purpose

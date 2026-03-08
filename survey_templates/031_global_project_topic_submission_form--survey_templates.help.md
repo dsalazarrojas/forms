@@ -1,16 +1,3 @@
-<thinking>
-This form is used by project stakeholders to submit proposals for global projects. To be eligible, a proposal must not be a duplicate of an already existing project, and the topic must be relevant to the global project category. The goal is to ensure that each project is unique and contributes to the overall goals of the global project category.
-
-To ensure that each proposal is valid and meets the requirements, the following rules will be applied:
-
-- The form will be reviewed by the project team and stakeholders before it is approved.
-- Each field in the form is required, unless specified otherwise.
-- The project team and stakeholders will verify the information provided in the form to ensure that it is accurate and complete.
-
-Please note that this form is not a guarantee of approval, and the project team and stakeholders have the final say in deciding whether to approve or reject a proposal.
-
-</thinking>
-
 # Global Project Topic Submission Form - Help Guide
 ## Purpose
 The Global Project Topic Submission Form is used to submit proposals for global projects. Each proposal must meet the requirements specified in this form and be approved by the project team and stakeholders.

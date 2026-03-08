@@ -1,5 +1,3 @@
-<thinking>...This form is a "Pre Webinar Survey" and its purpose is to collect information from users who will be attending a webinar. This form will be used to gather details such as name, email, phone number, company, position, department, and location to better understand the audience and provide them with valuable resources. It's essential to complete this form before the webinar to ensure that the attendees receive the most relevant content and updates.</thinking>
-
 # Pre Webinar Survey - Help Guide
 ## Purpose
 The "Pre Webinar Survey" is a form used to gather essential information from attendees before the webinar. This information will be used to tailor the content and provide personalized updates and resources to ensure that the attendees get the most value out of the webinar.

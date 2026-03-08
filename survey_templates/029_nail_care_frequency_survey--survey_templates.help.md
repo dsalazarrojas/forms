@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on nail care habits and preferences of individuals. It is likely intended to be used by a company or organization that offers nail care services or products. The form asks users about their frequency of performing various nail care activities, their preferred nail products, and other related information. It is possible that this data will be used to create targeted marketing campaigns or to improve the company's services.
-
-To prevent duplication of effort, I will make sure to cover the form's purpose and functionality clearly in this help guide. I will also ensure that the explanations provided are practical and concrete, without assuming any business logic that may not be explicitly mentioned in the form YAML.
-
-</thinking>
-
 # Nail Care Frequency Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your nail care habits and preferences. It will take approximately [insert time] to complete. Please fill out the form accurately and completely to provide valuable information to our team.

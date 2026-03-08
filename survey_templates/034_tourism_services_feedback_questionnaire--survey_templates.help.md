@@ -1,13 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I will ensure that the form purpose and user experience are well-communicated to the end-user. The purpose of this form is to gather feedback from customers about their experience with tourism services. The form is designed to collect information about the customer's tour, service, and staff experience, which will help service providers improve their services.
-
-I will review the form fields to ensure that each field has a clear and concise explanation, making it easier for users to understand what information is being collected and why.
-
-After reviewing the form, I will output the help guide in Markdown format, following the structure provided.
-
-</thinking>
-
 # Tourism Services Feedback Questionnaire - Help Guide
 ## Purpose
 The Tourism Services Feedback Questionnaire is designed to gather feedback from customers about their experience with tourism services, helping service providers improve their services.

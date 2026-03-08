@@ -1,8 +1,3 @@
-<thinking>... (internal reasoning)
-This form is intended to gauge the level of engagement of gym members with their community, including their interest in events, frequency of communication, participation in events, preferred communication channels, and feedback. It seems to be a survey designed to gather information about the member's behavior and preferences. To avoid duplication, I will ensure that the help guide is comprehensive and easy to understand, covering all aspects of the form.
-
-</thinking>
-
 # Gym Member Community Engagement Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your level of engagement with your gym community. It's meant to be a quick and easy way to provide us with insights on how we can improve our services and events for you.

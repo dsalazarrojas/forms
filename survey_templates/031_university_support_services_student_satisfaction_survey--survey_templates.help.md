@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students about their satisfaction with university support services. This information will help the institution understand how well they are serving their students' needs and identify areas for improvement.
-
-The form has already been reviewed internally to ensure that the questions asked are clear and relevant to the goal of measuring student satisfaction with university support services. However, to provide an additional layer of quality control, I will review the form again in the context of the user guide to ensure that the explanation of each field is correct and practical.
-
-</thinking>
-
 # university_support_services_student_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect information from students about their satisfaction with university support services. The data collected will help the institution understand what services are performing well and where there may be opportunities for improvement.

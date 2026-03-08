@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Career Motivation Survey - Help Guide
 ## Purpose
 

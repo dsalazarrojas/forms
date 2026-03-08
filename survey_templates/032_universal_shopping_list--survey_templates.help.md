@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data for a Universal Shopping List, likely used for inventory management or shopping tasks. The form's purpose is to gather information about items, their quantities, categories, and other relevant details. This form is intended for users who need to create, manage, or report on shopping lists. It's essential to ensure each item is filled out correctly to ensure accurate data collection.
-
-To prevent duplicates and ensure accurate data collection, please review the form carefully and ensure each item is filled out with the correct information before submitting.
-
-This form is part of a larger survey template category, and its design and purpose may be related to other forms in this category.
-</thinking>
-
 # Universal Shopping List - Help Guide
 ## Purpose
 The Universal Shopping List form is designed for users to create and manage shopping lists. It gathers information about items, including their name, value, quantity, category, and other relevant details.

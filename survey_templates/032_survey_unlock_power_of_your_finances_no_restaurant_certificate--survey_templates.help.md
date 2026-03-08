@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a template for a survey, but there's no obvious context or business logic explaining what this survey is meant for or how it relates to "no Restaurant Certificate". It's possible that this form is intended for financial analysis or planning, but further information is needed to provide a clear explanation. 
-
-If the form is part of a larger project or process, it may be beneficial to include more details about the purpose of the survey in the help guide. If the survey is not related to a specific project, the help guide can still provide general guidance on how to complete it. 
-
-To ensure that the form is not duplicated, it's essential to verify that the fields and options are correctly configured and that the survey is not already covered in other forms or templates.
-
-Assuming the form is intended for general financial analysis or planning, the help guide will focus on providing concrete, concise, and practical instructions for completing the survey.
-
-Please provide more context or clarification on the purpose and relation to "no Restaurant Certificate" to create a more informed help guide.
-</thinking>
-
 # Survey Unlock Power Of Your Finances (no Restaurant Certificate) - Help Guide
 ## Purpose
 The Survey "Unlock Power Of Your Finances (no Restaurant Certificate)" is a template designed to gather information on your financial situation, including category selection, description, and other relevant details.

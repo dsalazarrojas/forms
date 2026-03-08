@@ -1,6 +1,3 @@
-<thinking>
-We need to make sure that the form is only shown to people who are actually interested in gardening-related activities and programs. This form is a survey used to gauge interest in various gardening-related activities, including gardening clubs and classes. It will help us understand how many people are interested and when they are available to participate. We should make sure to not display this form to users who have already shown interest or have completed a similar survey in the past to avoid duplication of effort.</thinking>
-
 # Gardening Program Interest Survey - Help Guide
 ## Purpose
 This form is a survey used to understand interest in various gardening-related activities and programs. It will help us understand how many people are interested and when they are available to participate.

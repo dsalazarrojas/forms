@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gauge the efficiency of an organization's internal and external communication processes. It asks about using survey templates, gathering feedback, making data collection simple, and using Jotform form templates. By answering these questions, the form will help us evaluate the effectiveness of your nonprofit's communication strategies and provide insights to improve your processes.
-
-</thinking>
-
 # Nonprofit Communication Efficiency Questionnaire - Help Guide
 ## Purpose
 This form is designed to help nonprofit organizations assess the efficiency of their internal and external communication processes.

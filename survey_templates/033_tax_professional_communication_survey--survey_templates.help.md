@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this survey is to collect feedback from taxpayers on the communication style and quality of tax professionals working with their firms. The survey aims to gauge the effectiveness of communication from tax professionals, including the clarity and responsiveness of their interactions. Taxpayers who have worked with these professionals are invited to provide their honest opinions on their experiences. This survey is designed to help firms improve their communication with clients and better serve their needs. It's essential to ensure that the data collected is accurate and reliable, so please only submit your honest feedback if you have had a recent experience with a tax professional.
-</thinking>
-
 # Tax Professional Communication Survey - Help Guide
 ## Purpose
 The Tax Professional Communication Survey is designed to gather feedback from taxpayers about their experiences with tax professionals. This survey helps firms understand how to improve their communication style and quality.

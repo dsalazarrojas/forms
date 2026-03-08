@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a survey template for evaluating a leadership training program. The form collects information about the program's participants, length, fees, and overall satisfaction. It also gathers feedback from trainers and comments from participants. The form is intended to help assess the effectiveness and quality of the leadership training program.
-</thinking>
-
 # leadershipTrainingCurriculumEvaluationForm - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness and quality of the leadership training program. It is meant to gather information about participants, program details, and overall satisfaction with the program.

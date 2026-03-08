@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users about the website development process. It is used to gauge user satisfaction and identify areas for improvement in the website development process. This form is typically sent to users who have interacted with the website development team in some way, such as after a meeting or a project delivery.
-
-To prevent duplication, a check is performed to ensure that each user can only submit feedback once within a 30-day timeframe. This prevents abuse of the system and ensures that the feedback collected is accurate and reliable.
-
-The form can be completed by anyone who has had an interaction with the website development team and wants to provide feedback on their experience.
-
-</thinking>
-
 # website_development_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users about the website development process.

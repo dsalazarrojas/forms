@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to understand the provided YAML schema for the "real_estate_survey" form. The form appears to be a multi-page form with a mix of select_one, select_multiple, text, and note fields. The purpose of this form seems to be gathering information from users, likely for real estate-related purposes such as customer feedback or survey data. I will now create a user-facing help guide for this form.</thinking>
-
 # real_estate_survey - Help Guide
 ## Purpose
 The real_estate_survey form is designed to collect information from users about their real estate-related experiences or preferences. This form is likely used to gather feedback, survey data, or other relevant information from customers.

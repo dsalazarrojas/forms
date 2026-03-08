@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data on workplace efficiency barriers, which are obstacles or challenges that hinder employees' productivity and effectiveness in their work. The goal of this survey is to gather information on common barriers that prevent employees from performing their tasks efficiently. This form is intended for use in a work-related context, such as in HR departments or management teams. Before filling out this form, please review the sections below to ensure you understand the purpose and requirements of the survey.
-
-This form is a 25-page survey, with each page consisting of a single text input field. There is no option for users to submit additional pages or sections, as this form is designed to be a comprehensive survey of workplace efficiency barriers.
-
-Please note that all the input fields are optional, meaning you can skip any section you do not wish to complete. However, please fill out all the fields that you can, as this will help provide more accurate and comprehensive data.
-
-</thinking>
-
 # Workplace Efficiency Barriers Survey - Help Guide
 ## Purpose
 This form is designed to collect data on common workplace efficiency barriers that prevent employees from performing their tasks efficiently.

@@ -1,16 +1,3 @@
-<thinking>
-This form is a generic template for a survey about Myasthenia Gravis Awareness. Given its title, the form is likely to be used by healthcare professionals, researchers, or patients to gauge the current level of awareness about Myasthenia Gravis, a rare chronic autoimmune disorder. It seems to be designed to collect open-ended responses, which may be used to gather qualitative information about people's perceptions, experiences, or knowledge about the condition.
-
-Before filling out this form, please ensure that you have a clear understanding of the purpose and context of the survey. If you have filled out this form before, you can skip it this time.
-
-To complete this form, you will be asked a series of open-ended questions about Myasthenia Gravis. Please provide your honest and accurate responses, and feel free to elaborate as much as you want.
-
-Please note that this form is not affiliated with any specific organization or platform, and the data collected will not be used for commercial purposes. The information gathered will be used for general research and awareness purposes only.
-
-Below is a guide to help you complete the form.
-
-</thinking>
-
 # Myasthenia Gravis Awareness Survey - Help Guide
 ## Purpose
 This survey aims to gauge the level of awareness and understanding of Myasthenia Gravis, a rare chronic autoimmune disorder.

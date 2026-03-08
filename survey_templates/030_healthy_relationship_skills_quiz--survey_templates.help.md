@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the "Healthy Relationship Skills Quiz" form.
-</thinking>
-
 # Healthy Relationship Skills Quiz - Help Guide
 ## Purpose
 This form is designed to assess an individual's skills and knowledge related to building and maintaining healthy relationships. The quiz is composed of 20 questions, each asking about specific aspects of relationships, such as communication, conflict resolution, trust, and emotional intelligence.

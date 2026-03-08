@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Innovation Adoption Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge potential participants' interest in a contact lens comfort study. It's intended to collect contact information and demographic data from those interested in participating. To ensure accurate and relevant responses, please answer the questions honestly and thoroughly. This form is meant to be filled out once. If you've already completed this form, please do not submit multiple responses.
-</thinking>
-
 # Contact Lens Comfort Study Interest Form - Help Guide
 ## Purpose
 This form is used to register interest in a contact lens comfort study and collect contact information for potential participants.

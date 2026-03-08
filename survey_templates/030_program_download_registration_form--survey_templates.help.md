@@ -1,12 +1,3 @@
-<thinking>
-We are checking for internal relevance and avoiding duplication before rendering the help guide.
-
-This form is intended for users to provide information about their program downloads. It will be used for registration purposes, likely for users who are requesting access to certain resources or services.
-
-We are now confirming that the form is relevant and not a duplicate of any other form in our knowledge base.
-
-</thinking>
-
 # program_download_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their program downloads. Please fill in the required fields to ensure a smooth registration process.

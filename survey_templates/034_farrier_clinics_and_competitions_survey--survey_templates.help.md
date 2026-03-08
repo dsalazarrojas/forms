@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from individuals who have attended clinics and competitions at Farrier Clinics. The goal is to gather information on the quality of these events, which will help us improve and provide better services to our attendees. Before starting, please make sure you are filling out this form for a specific event and not a duplicate submission. If you have already submitted feedback for this event, please do not submit again.
-</thinking>
-
 # Farrier Clinics And Competitions Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and ratings from individuals who have attended Farrier Clinics and Competitions. Your input will help us improve the quality of our events and provide better services to our attendees.

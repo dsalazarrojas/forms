@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a label management process, specifically for the label "label_management_survey". It appears to be related to identifying the type of workflow, challenges, feature needs, operations, manufacturing, logistics, and comments associated with a label. The form is designed to be a general survey, hence it's not explicitly stated which specific label management process is being targeted.
-The form has 8 fields in total, and it's not clear if any of these fields are required.
-</thinking>
-
 # label_management_survey - Help Guide
 ## Purpose
 The label management survey is a general form to collect information about a label management process. It aims to gather insights on various aspects related to the label, including workflow type, challenges, feature needs, operations, manufacturing, logistics, and comments.

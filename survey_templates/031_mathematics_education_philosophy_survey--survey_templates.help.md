@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from math educators about their educational philosophy, teaching approaches, and practices. It aims to understand their perspectives on various aspects of mathematics education, including their role in the class, their approach to teaching, and their beliefs about mathematics. This information will help us better understand the diversity of math education and inform the development of better educational resources for math educators.
-
-Before filling out the form, please ensure that you are a math educator or have a relevant background in mathematics education. This survey is not meant to be a comprehensive or exhaustive assessment of your philosophy or practices, but rather a brief snapshot of your current perspective.
-
-Please fill out the form accurately and completely. If you have any doubts or questions while filling out the form, you can reach out to us for clarification.
-
-</thinking>
-
 # Mathematics Education Philosophy Survey - Help Guide
 ## Purpose
 This form is designed to collect information from math educators about their educational philosophy, teaching approaches, and practices to better understand the diversity of math education and inform the development of better educational resources.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' experiences and engagement with the platform. It is intended to help the platform understand user behavior, preferences, and pain points. The form is composed of 25 questions, ranging from demographics (age, education, occupation) to platform usage habits (frequency of use, devices used to access the platform). By answering these questions, users can provide valuable insights that can inform platform development and improvement.
-</thinking>
-
 # platform-engagement-survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about your experience with our platform.

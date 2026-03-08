@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from farmers on their experience during the harvest season. It is meant to be completed by farmers who have participated in the survey, and its purpose is to gather information on their performance, planning, and overall season experience. This form is not meant to be a comprehensive evaluation tool, but rather a means to capture some basic data on their experience during the harvest season. Before proceeding, ensure that the form is not already filled out and that you are submitting your own feedback, not someone else's.
-</thinking>
-
 # Harvest Season Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from farmers on their experience during the harvest season. This feedback will help us to understand their performance, planning, and overall experience.

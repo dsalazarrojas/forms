@@ -1,12 +1,3 @@
-<thinking>
-We have a form called "Session Evaluation Sign Up" that is used to collect evaluation data for sessions or events. This form is designed to be completed by attendees who have participated in a session or event. The form is used to capture relevant information such as attendee name, session name, event name, evaluation date, evaluation time, session duration, rating, feedback, and comments.
-
-To prevent users from submitting duplicate evaluations, we have implemented a logic to check for non-duplication of evaluations for the same session. This ensures that each attendee can only submit one evaluation per session.
-
-The form is designed to be completed in a few steps, and each step is explained below.
-
-</thinking>
-
 # Session Evaluation Sign Up - Help Guide
 ## Purpose
 This form is used to collect evaluation data for sessions or events. It is designed to be completed by attendees who have participated in a session or event.

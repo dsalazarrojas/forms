@@ -1,11 +1,3 @@
-<thinking>Before designing the help guide, I need to understand the purpose of this survey. The "Best Practices Survey" seems to be a form aimed at gathering feedback and insights from employees on various aspects of the organization's processes and practices. The form is likely used to identify areas for improvement, gather suggestions, and assess the effectiveness of current processes.
-
-The form is divided into sections, each focusing on different aspects such as employee information, process awareness, adoption and implementation, improvement opportunities, training and development, and additional feedback. Each section has its own set of questions, which are designed to elicit specific information from the respondent.
-
-Before creating the help guide, I need to ensure that I understand the purpose of each question and how they contribute to the overall goals of the survey. I also need to consider the type of respondents and the level of technical expertise they may have, to design the guide in a clear and concise manner.
-
-Upon reviewing the form's fields and their corresponding labels, I see that some of them might be self-explanatory, while others might require a bit more clarification. I will strive to create a guide that addresses these areas and provides the necessary explanations and guidance for the respondent to complete the form accurately and efficiently.</thinking>
-
 # Best Practices Survey - Help Guide
 ## Purpose
 This guide is intended to assist employees in completing the Best Practices Survey, which aims to gather feedback and insights on various aspects of the organization's processes and practices.

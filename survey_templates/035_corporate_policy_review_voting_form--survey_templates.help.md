@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for corporate policy review and voting. It's intended for employees to provide their input and feedback on company policies. This guide will walk you through the purpose and process of completing the form.
-</thinking>
-
 # corporate_policy_review_voting_form - Help Guide
 ## Purpose
 The corporate policy review voting form is a tool for employees to participate in the review and voting process of company policies. It allows them to express their opinions and provide feedback on the policies, which helps in making informed decisions for the company.

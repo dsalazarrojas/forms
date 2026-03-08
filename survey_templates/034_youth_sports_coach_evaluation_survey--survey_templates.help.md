@@ -1,16 +1,3 @@
-<thinking>
-This form aims to collect feedback from individuals on the coaching style and performance of a youth sports coach. The goal of this evaluation is to identify areas of strength and weakness in the coach's methods and provide suggestions for improvement. This form should be completed by individuals who have had direct experience with the coach being evaluated.
-
-To ensure that the evaluation is comprehensive, please note the following:
-
-* Each question is designed to gather specific and relevant information.
-* Please answer each question based on your genuine experience and observations.
-* If you have any additional comments or suggestions, please provide them in the text fields.
-
-Please ensure that you only submit this form if you have had direct experience with the coach.
-
-</thinking>
-
 # Youth Sports Coach Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on the coaching style and performance of a youth sports coach. It is designed to help coaches identify areas of strength and weakness and provide suggestions for improvement.

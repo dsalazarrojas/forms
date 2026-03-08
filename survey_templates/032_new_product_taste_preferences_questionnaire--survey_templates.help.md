@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about users' preferences for a new product, specifically their taste preferences. The form is divided into several sections, each with a different type of preference. The goal is to understand how users would like their new product to taste, appear, smell, and feel. The form is designed to be easy to use and should only take a few minutes to complete.
-This form is not for users who are looking to purchase a product immediately; it's for users to provide feedback on what they'd like to see in a new product.
-Please make sure to fill out this form completely and accurately, as it will help us better understand what we can do for you.
-
-</thinking>
-
 # New Product Taste Preferences Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect your preferences for a new product, specifically your taste preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting feedback after anticoagulation consultations. It's designed to gauge the clarity of information provided to patients, the confidence in treatment decisions, and overall satisfaction with the discussion. This form is meant to be filled out by patients, and its completion is not mandatory. The goal is to gather qualitative data to improve the quality of consultations.
-</thinking>
-
 # Anticoagulation Discussion Survey - Help Guide
 ## Purpose
 

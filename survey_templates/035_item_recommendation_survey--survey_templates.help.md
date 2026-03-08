@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about items and their respective users. The form will be filled out for each item that you would like to recommend. Each form will be submitted individually and the data will be stored in a database. Please make sure to fill out the form completely and accurately. If you are not sure about any of the fields, please ask your supervisor for guidance.
-</thinking>
-
 # Item Recommendation Survey - Help Guide
 ## Purpose
 This form is used to collect information about items and their respective users. It is a tool to help you get to know users better and improve our services.

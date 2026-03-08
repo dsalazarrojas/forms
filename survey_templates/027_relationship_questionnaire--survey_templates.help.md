@@ -1,5 +1,3 @@
-<thinking>Relationship Questionnaire form is designed to gather information about a person's relationship status and their perceptions of their relationship. This form is not intended for children under the age of 18, and it is not a formal assessment tool. The form should only be filled out by individuals who are in a relationship or have been in a relationship in the past. If you are not in a relationship, please do not fill out this form. If you are under 18 or do not understand the questions, please do not fill out this form. This form is intended to collect anonymous and confidential information. All data collected will be kept private and anonymous. Please do not fill out this form if you are not comfortable with the questions or if you are not able to answer them honestly. If you have any concerns, please contact our support team.</thinking>
-
 # Relationship Questionnaire - Help Guide
 ## Purpose
 The Relationship Questionnaire is designed to gather information about a person's relationship status and their perceptions of their relationship. This form is intended to collect anonymous and confidential information.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the individual's dietary preferences, restrictions, and habits. This form is likely used in a health or wellness context to collect data on the individual's eating habits, food allergies or intolerances, and lifestyle preferences. The form includes questions on food restrictions, supplements, allergies, and preferences for different types of food and beverages.
-
-This form is not intended to be used for medical diagnosis or treatment. If you are experiencing health issues, please consult a medical professional.
-
-Please ensure you are completing this form only once, and only after discussing with your healthcare provider or wellness professional. 
-</thinking>
-
 # dietary_preferences_survey_template - Help Guide
 ## Purpose
 This survey template is designed to collect information about an individual's dietary preferences and habits.

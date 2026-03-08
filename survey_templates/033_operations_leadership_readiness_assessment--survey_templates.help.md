@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to assess the readiness of operations leaders to take on new challenges and opportunities. The goal is to gauge the current state of their leadership skills and identify areas where they may need development or support. The form is designed to be completed by operations leaders themselves, and the data collected will be used to inform training and development programs.
-
-</thinking>
-
 # operations_leadership_readiness_assessment - Help Guide
 ## Purpose
 This form is used to assess the readiness of operations leaders to take on new challenges and opportunities. The goal is to gauge the current state of their leadership skills and identify areas where they may need development or support.

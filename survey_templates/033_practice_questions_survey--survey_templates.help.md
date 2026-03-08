@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # practice_questions_survey - Help Guide
 
 ## Purpose

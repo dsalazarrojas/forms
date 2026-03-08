@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help users create and configure a lead magnet checklist. A lead magnet is an incentive offered by a business to attract potential customers, such as an eBook, a webinar, or a consultation. The form allows users to select and customize different lead magnet options, which can be used to create a comprehensive checklist for their marketing strategy.
-
-The form has multiple pages with various types of fields, including text, select_one, select_multiple, date, time, note, email, number, and text fields. The fields are labeled with clear and concise titles to help users understand their purpose.
-
-This form is designed to be user-friendly and flexible, allowing users to add or remove pages as needed.
-
-</thinking>
-
 # lead-magnet-checklist-form - Help Guide
 ## Purpose
 The purpose of this form is to help users create and configure a lead magnet checklist for their marketing strategy.

@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form, "Flood Insurance Decision Making Quiz", is designed to help users make informed decisions regarding flood insurance. It is meant to collect information that will aid in determining the need for flood insurance based on the user's flood risk, property type, insurance status, and other relevant factors. Please note that this form is not intended to be a comprehensive flood insurance application or a replacement for expert advice. It is a tool to facilitate initial assessment and decision-making. Before proceeding, ensure you have reviewed and understood the form's purpose and that the information provided is accurate and up-to-date. If you have already completed a similar assessment or have existing flood insurance, please refrain from re-taking this quiz.
-
-</thinking>
-
 # Flood Insurance Decision Making Quiz - Help Guide
 ## Purpose
 The Flood Insurance Decision Making Quiz is a tool designed to help users assess their flood risk and make informed decisions about flood insurance. It is not a substitute for expert advice or a comprehensive flood insurance application.

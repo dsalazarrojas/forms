@@ -1,7 +1,3 @@
-<thinking>
-This form is a Retail Store Experience Inquiry Form, designed to collect feedback from customers about their experiences at a retail store. The form is used to gather information about the customer's satisfaction with various aspects of their visit, such as product quality, service quality, employee friendliness, and store cleanliness. The form is not required, and customers can choose to fill it out if they wish. If the customer has visited the store before, they can select "True" for "Visited Before". If they have visited other locations, they can select "True" for "Visited Other Locations". If they are a first-time customer, they can select "True" for "First Time Customer". They can also provide their contact details, additional comments, and social media links to the store if they wish. The form includes fields for store name, location, address, website, Facebook, Twitter, and Instagram links. Please ensure that you have visited the store before answering this form, and that the information you provide is accurate and honest.
-</thinking>
-
 # Retail Store Experience Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their retail store experience. We value your input and want to hear about your thoughts on our store's product quality, service, and overall experience.

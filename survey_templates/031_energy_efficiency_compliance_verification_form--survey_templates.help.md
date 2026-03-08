@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to verify energy efficiency compliance in businesses. It may be used by facility managers, energy auditors, or other stakeholders to collect information about a company's energy consumption, equipment efficiency, and compliance status. This form is designed to be a simple and straightforward tool for gathering the necessary data to assess energy efficiency compliance. Before filling out this form, please ensure that you are not duplicating efforts and that the information collected is relevant to your specific needs.</thinking>
-
 # Energy Efficiency Compliance Verification Form - Help Guide
 
 ## Purpose

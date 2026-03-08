@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather anonymous data about the perception of civic freedom in various regions and countries. The goal is to track changes and trends in civic freedom over time. This form is part of a larger effort to monitor and analyze the health of civic spaces worldwide. Please ensure that you fill out this form with care and honesty to provide meaningful insights.
-</thinking>
-
 # Civic Space Freedom Perception Survey - Help Guide
 ## Purpose
 This form is a survey aiming to collect data on citizens' perceptions of civic freedom. It inquires about personal feelings and experiences regarding assembly and protest, expression, and the overall civic environment in your region. By providing your input, you help researchers understand changes and trends in civic freedom worldwide.

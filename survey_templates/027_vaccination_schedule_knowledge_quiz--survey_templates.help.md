@@ -1,6 +1,3 @@
-<thinking>
-This guide is for the "Vaccination Schedule Knowledge Quiz" form, a tool designed to assess users' understanding of vaccination schedules and related information. The form is intended to help individuals test their knowledge in this area, and it is not affiliated with or derived from any form creation platform. The form is an original adaptation using only public survey topic metadata as inspiration.
-</thinking>
 # Vaccination Schedule Knowledge Quiz - Help Guide
 ## Purpose
 This form aims to evaluate users' knowledge about vaccination schedules, their benefits, safety concerns, administration methods, and potential side effects. It is an educational tool for anyone interested in this topic.

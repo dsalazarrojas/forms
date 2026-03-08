@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is intended to gauge the interest and preferences of potential participants in new library programs. The goal is to gather information on what types of programs would be engaging for the community, what frequency and format would best suit their needs, and whether they would be willing to volunteer to lead or assist in program activities. This form is not intended for actual program registration, but rather for the library staff to tailor their offerings to the community's needs and interests. Please ensure you are eligible to participate in the survey by answering the questions honestly and thoroughly. You are also free to provide suggestions for new programs or services that the library hasn't mentioned.
-
-</thinking>
-
 # Community Interest In New Library Programs Questionnaire - Help Guide
 ## Purpose
 This form is a survey designed to help us understand what types of programs and services our community is interested in. Your input will help us tailor our offerings to best meet your needs.

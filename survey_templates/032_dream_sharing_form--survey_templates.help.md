@@ -1,7 +1,3 @@
-<thinking>
-The "Dream Sharing Form" is designed to help users share their dreams and experiences. This form is intended for users who have had a dream they would like to share with others. It is not meant to be a comprehensive assessment or diagnostic tool, but rather a tool for users to express their thoughts and feelings. To ensure that users do not duplicate their dreams, the form will only allow submissions from users who have not previously submitted a dream through this form. This form is typically used in research and educational settings to collect dream narratives and reflections from users.
-</thinking>
-
 # Dream Sharing Form - Help Guide
 ## Purpose
 The Dream Sharing Form is a tool for users to share their dreams and experiences with others in a research or educational setting.

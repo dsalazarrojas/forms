@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about the GOP (Governmental Oversight Board) Revenue Conversion Survey. This form likely exists to collect opinions or feedback from users on specific aspects of GOP revenue conversion, such as the effectiveness, process, solutions, finance, challenges, and operations. This information can be used to inform decisions or improve processes related to GOP revenue conversion.
-
-Before proceeding, make sure to complete all required fields (marked as 'true') and ensure that you're not duplicating previous responses. This form is designed to be completed in a specific order, following the page structure outlined in the form design.
-
-The following guide will walk you through each section of the form, explaining what each field means and how to complete it.
-</thinking>
-
 # GOP Revenue Conversion Survey - Help Guide
 
 ## Purpose

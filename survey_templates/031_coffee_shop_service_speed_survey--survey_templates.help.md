@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used as intended and not for gathering redundant or duplicate data. This form is designed to collect data on the service speed of a coffee shop, including wait times, staff availability, and overall satisfaction. We should consider using this form for a specific time frame (e.g., daily, weekly, or monthly) and for a particular location or shift to get meaningful data.
-</thinking>
-
 # Coffee Shop Service Speed Survey - Help Guide
 ## Purpose
 This guide will walk you through the Coffee Shop Service Speed Survey, designed to gather data on the service speed of your coffee shop. This survey aims to assess the speed of service, including wait times, staff availability, and overall satisfaction.

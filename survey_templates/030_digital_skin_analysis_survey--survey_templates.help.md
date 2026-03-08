@@ -1,5 +1,3 @@
-<thinking>...this form is a template designed for analyzing digital skin data, presumably for aesthetic or medical purposes. It collects information from a client about their skin's condition, goals, and current state. This data is likely used to provide personalized advice or treatment for the client's skin issues. The form is structured to be completed by a client, with fields ranging from basic information such as name and contact details, to more specific fields like skin type, pain levels, and goals. This template is designed to be flexible, allowing users to add or remove fields as needed, making it a good starting point for various skin analysis scenarios.</thinking>
-
 # Digital Skin Analysis Survey Form Template - Help Guide
 ## Purpose
 This template is designed to collect data about a client's digital skin condition, goals, and current state. The form is intended to provide a comprehensive analysis of the skin's condition and help identify areas for improvement.

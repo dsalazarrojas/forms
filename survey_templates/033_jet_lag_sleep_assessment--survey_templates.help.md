@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's jet lag experience, gathering information on their travel history, sleep patterns, symptoms, and other relevant details. The form aims to collect data to provide insights into the effects of jet lag and suggest potential areas for improvement.
-
-When filling out this form, please ensure you are completing it in the context of a genuine jet lag experience. Please do not fill out this form if you are not traveling or have not experienced jet lag symptoms. Completing this form will help us better understand jet lag and its effects, which can inform future research and improvements.
-
-</thinking>
-
 # Jet Lag Sleep Assessment - Help Guide
 ## Purpose
 This form is designed to gather information on your jet lag experience and sleep patterns. Please answer the questions honestly to provide the most accurate data.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from pilots regarding any issues that occurred during flight operations. It is intended to help identify potential safety concerns and facilitate further investigation. Please ensure that you have read and understand the instructions before completing this form. This form should not be used for duplicate reporting of issues, as this can lead to unnecessary repetition of effort and may not accurately reflect the current status of the issue.
-
-</thinking>
-
 # Pilot Issue Reporting Survey - Help Guide
 ## Purpose
 This form is designed to collect data from pilots regarding any issues that occurred during flight operations. Its purpose is to identify potential safety concerns and facilitate further investigation.

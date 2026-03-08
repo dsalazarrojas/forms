@@ -1,8 +1,3 @@
-<thinking>
-A general-purpose worksheet is a template used to collect basic information about a project or task. This form is designed to be flexible and adaptable for various use cases, such as documenting progress, tracking status, or recording events. The form is not project-specific, meaning it can be used across different projects and tasks.
-Before filling out this form, ensure you are not duplicating existing data. Double-check if a similar project or task already exists in your records.
-</thinking>
-
 # general_purpose_worksheet - Help Guide
 ## Purpose
 The general_purpose_worksheet form is a template used to gather basic information about a project or task.

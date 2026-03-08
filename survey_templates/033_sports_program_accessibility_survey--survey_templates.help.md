@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from participants in sports programs about their accessibility needs and experiences. This data will help improve the accessibility of sports programs to make them more inclusive and enjoyable for all participants. The form is likely used by sports organizations or event planners to gather feedback and suggestions from participants on what features or accommodations can be improved or implemented to make the program more accessible.
-
-The form should not be completed if the participant is not a sports program user, or if the participant has already completed a survey on the same topic recently.
-
-</thinking>
-
 # Sports Program Accessibility Survey - Help Guide
 ## Purpose
 The Sports Program Accessibility Survey is designed to collect information from participants in sports programs about their accessibility needs and experiences. This data will help improve the accessibility of sports programs to make them more enjoyable and inclusive for all participants.

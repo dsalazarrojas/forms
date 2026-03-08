@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruitment Process Survey - Help Guide
 
 ## Purpose

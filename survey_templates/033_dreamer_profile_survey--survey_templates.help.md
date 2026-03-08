@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-**Internal Reasoning:**
+### **Internal Reasoning:**
 
 This form is designed to collect information about an individual's sleep habits, frequency of dreaming, and overall sleep quality. It is intended to be completed by users who want to gain insights into their own sleep patterns and habits. The form has 25 questions, including select, multiple-select, and text fields, and is divided into several sections. Each field is required for the user to complete in order to provide a comprehensive understanding of their sleep behaviors. 
 

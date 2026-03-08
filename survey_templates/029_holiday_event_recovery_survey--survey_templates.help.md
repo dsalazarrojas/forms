@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and survey responses from attendees after a holiday event, allowing for the organization to understand their overall satisfaction, identify potential areas for improvement, and inform future event planning.
-
-This form likely follows up on an event that had a significant impact or attendance, and the goal is to gather actionable data to refine the organization's event management strategy. It's essential to ensure that the form is completed by the actual attendees, so the responses are genuine and representative of their experiences.
-
-The form might already have a set of responses from previous events, and this guide is intended to avoid duplication of information and ensure that the data collected is accurate and reliable. To achieve this, the form's design and content should be clear and concise, making it easy for respondents to understand the purpose and goals of the survey.
-</thinking>
-
 # Holiday Event Recovery Survey - Help Guide
 
 ## Purpose

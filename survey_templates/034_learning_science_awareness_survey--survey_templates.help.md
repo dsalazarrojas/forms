@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the learning science awareness of users. It has 25 pages with various types of input fields: select_one, select_multiple, text, email, date, time, note, and number. Each page has a unique label and hint. The form appears to be a survey with a mix of multiple-choice questions, free-text fields, and date/time fields. This form requires users to answer each page, with some pages being mandatory (indicated by the "required: true" field) and others being optional. The form's purpose is to gather information about users' learning science awareness.
-</thinking>
-
 # Learning Science Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gauge the learning science awareness of users.

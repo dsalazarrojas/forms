@@ -1,7 +1,3 @@
-<thinking>
-We are building a form for users to take a short, anonymous LGBTQ quiz. This quiz will gauge their level of knowledge about LGBTQ issues. To avoid duplication and ensure accuracy, we will first check if the user has taken the quiz before, based on their IP address. This way, users will not be able to take the quiz multiple times with different answers. 
-</thinking>
-
 # lgbtq_quiz - Help Guide
 ## Purpose
 The LGBTQ quiz is designed to be a brief assessment of the user's understanding of LGBTQ issues. It consists of multiple questions that cover various aspects of the LGBTQ community. This guide will walk you through each section of the form to help you complete it accurately.

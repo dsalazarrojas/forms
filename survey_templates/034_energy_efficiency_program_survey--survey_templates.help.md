@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # energy_efficiency_program_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and suggestions from participants in the energy efficiency program. The form is used to collect demographic and contact information and evaluate the program's effectiveness and areas for improvement.

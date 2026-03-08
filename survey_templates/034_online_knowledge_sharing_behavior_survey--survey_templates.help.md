@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on online knowledge sharing behavior. This form is part of a survey to collect data on how individuals share new information with others, their motivations for sharing, and the challenges they face. 
-</thinking>
-
 # Online Knowledge Sharing Behavior Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on how individuals share online knowledge with others, including their motivations and challenges. This information will help us better understand online knowledge sharing behavior and improve our services.

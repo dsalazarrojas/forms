@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information from respondents, such as their first name, last name, birthdate, age, ethnicity, gender, marital status, education level, and annual income. This form is likely used for research or data collection purposes, and the information gathered will be used to analyze and understand the demographics of the respondents. It's essential to ensure that each respondent provides accurate and honest information to contribute to the reliability of the data. Before starting, please review the form carefully to understand the questions and the expected answers. This form should not be duplicated or used for multiple submissions by the same individual.
-</thinking>
-
 # demographic_information_survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information from respondents to support research or data collection purposes.

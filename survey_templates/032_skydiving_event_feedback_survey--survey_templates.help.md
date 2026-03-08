@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants after a skydiving event. The purpose is to measure overall participant satisfaction, gauge the quality of instruction provided, and gather information about the event, such as its name, location, and date/time. This data will help us improve future events and ensure that our instructors are meeting their teaching goals.
-</thinking>
-
 # Skydiving Event Feedback Survey - Help Guide
 ## Purpose
 The Skydiving Event Feedback Survey is designed to gather feedback from participants after a skydiving event. This survey aims to assess overall participant satisfaction, instructor performance, and event details.

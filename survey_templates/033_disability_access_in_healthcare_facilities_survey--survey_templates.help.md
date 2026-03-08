@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is designed for users who want to understand the purpose and requirements of the "disability_access_in_healthcare_facilities_survey" form.
-
-The purpose of this form is to collect information about the accessibility of healthcare facilities to identify areas for improvement and ensure equal access to care for individuals with disabilities. This form is used to gather data on the accessibility features of healthcare facilities, including building accessibility, survey completion details, and contact information.
-
-Before proceeding, please note that this form is intended for healthcare facilities only. If you are not affiliated with a healthcare facility, please do not complete this form.
-
-</thinking>
-
 # disability_access_in_healthcare_facilities_survey - Help Guide
 ## Purpose
 

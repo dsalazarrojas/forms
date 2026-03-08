@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Window Measure Form", we must first understand its purpose and requirements.
-
-The "Window Measure Form" is designed to collect information about windows, including general information, window specifications, and client information. This form is likely used for measuring windows in various settings, such as construction, maintenance, or inspection purposes.
-
-Before creating the help guide, we should check if this form is relevant to the user's current task or workflow. If not, it's possible that the user may not have the necessary context or knowledge to complete the form correctly.
-
-Additionally, we should confirm that this form has not been previously documented or that there are no similar forms that can be used instead. This will ensure that the user is not redundant in their efforts and that the form's purpose is not being covered by another resource.
-
-With these considerations in mind, we can now create the user-facing help guide.
-
-</thinking>
-
 # Window Measure Form - Help Guide
 ## Purpose
 The "Window Measure Form" is designed to collect information about windows, including general information, window specifications, and client information. This form is useful for measuring windows in various settings, such as construction, maintenance, or inspection purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about monument sign installations, specifically for projects that may be active or inactive. The purpose of this form is to collect data on project details, location, contact information, site survey status, installation schedule, project status, notes, contact person, email, phone number, and installation status. This form will help users understand the current state of monument sign installations, enabling them to make informed decisions for future planning and execution. It's essential to note that this form is not intended for real-time critical operations or emergency situations. Ensure the form is completed accurately and thoroughly to avoid any confusion or misinterpretation of the collected data.
-</thinking>
-
 # Monument Sign Installation Survey Form - Help Guide
 ## Purpose
 The Monument Sign Installation Survey Form is designed to gather information about monument sign installations. This form helps users understand the current state of these installations, enabling informed decision-making for future planning and execution.

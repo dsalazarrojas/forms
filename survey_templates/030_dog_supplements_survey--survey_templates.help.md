@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used for its intended purpose: surveying pet owners about their pets' supplement usage, dietary habits, and health information. To prevent duplication, let's check if a similar form exists in the system or if this form is meant to collect data on a specific subset of pets (e.g., cats vs. dogs).
-</thinking>
-
 # Dog Supplements Survey - Help Guide
 ## Purpose
 This form is designed to collect information from dog owners about their pets' supplement usage, dietary habits, and health information. The data collected will help us better understand pet owners' habits and preferences regarding dog supplements and overall pet care.

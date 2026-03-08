@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regional Integration Challenges Quiz - Help Guide
 
 ## Purpose

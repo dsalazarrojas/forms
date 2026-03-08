@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information about a lease policy, specifically understanding the details of a tenant's lease agreement. This form should be completed by the tenant or landlord to provide accurate and relevant information about the lease terms, duration, and payment frequency. The form is used to ensure that both parties understand the terms of the lease agreement before it is finalized or renewed. 
-
-The form will be reviewed internally to ensure that it aligns with company policies and procedures. 
-
-Note that the form asks for some of the same information twice (lease_start_date, lease_end_date), which could be considered redundant. However, these fields may be intended to capture start and end dates in different contexts or with different types (e.g., one for the initial lease start and end dates, and another for any extensions or renewals). This should be reviewed and clarified internally.
-
-</thinking>
-
 # lease_policy_understanding_survey - Help Guide
 ## Purpose
 This form is intended to collect information about a lease policy to ensure that both parties understand the terms of the lease agreement.

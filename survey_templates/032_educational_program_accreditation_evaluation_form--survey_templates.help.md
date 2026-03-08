@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about an educational program's accreditation status. It gathers data on the program's title, institution, length, type, and evaluation criteria, as well as the date and method of submission and review. The form's purpose is to evaluate the program's adherence to accreditation standards, and the data collected will help in making informed decisions about its continuation. This form is likely to be used by administrators or evaluators within the institution, possibly for internal quality assurance purposes. Before filling out this form, please ensure that you are authorized to do so and that the information you provide is accurate and up-to-date. Please also note that some of the fields may be optional, and you can leave them blank if not applicable. </thinking>
-
 # Educational Program Accreditation Evaluation Form - Help Guide
 ## Purpose
 The Educational Program Accreditation Evaluation Form is designed to collect information about an educational program's accreditation status. It helps in evaluating the program's adherence to accreditation standards and making informed decisions about its continuation.

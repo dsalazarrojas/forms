@@ -1,16 +1,3 @@
-<thinking>
-This help guide is to assist users in understanding the purpose and requirements of the tech conference attendee feedback survey.
-
-The purpose of this form is to gather feedback from attendees of a tech conference. The survey aims to collect information on the attendee's experience, preferences, and suggestions for improvement. 
-
-Before starting the survey, please ensure that you have not already completed it. If you have previously submitted feedback, your responses will not be duplicated. 
-
-The survey consists of multiple sections, each with its own set of questions. The sections are designed to gather specific information and allow users to provide their thoughts and opinions. 
-
-To complete the survey, please follow the instructions below:
-
-</thinking>
-
 # tech_conference_attendee_feedback_survey - Help Guide
 ## Purpose
 

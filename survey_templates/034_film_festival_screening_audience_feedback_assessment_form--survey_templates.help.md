@@ -1,5 +1,3 @@
-<thinking>This form, "Film Festival Screening Audience Feedback Assessment Form," aims to collect feedback from audience members after attending a screening of a film. Its purpose is to measure how much they enjoyed the screening, what they liked or disliked about it, and any comments they would like to provide about their experience. This form should only be completed once per screening, and its completion is necessary for the film festival organizers to understand what they do well and where they need to improve. If the form has been completed previously for the same screening, please do not fill it out again to avoid duplication of effort and ensure accurate data collection. Please make sure to fill out the form accurately and honestly, as the feedback provided will be used to improve future screenings.</thinking>
-
 # Film Festival Screening Audience Feedback Assessment Form - Help Guide
 
 ## Purpose

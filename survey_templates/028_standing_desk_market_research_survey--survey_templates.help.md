@@ -1,5 +1,3 @@
-<thinking>As a designer, my first step is to review the form schema to understand its purpose and functionality. Upon reviewing the YAML, I notice that this form is designed for gathering market research on standing desk adoption and user experience. The form asks questions about the user's experience with standing desks, their preferences, and their company information. It seems to be a form for gathering data on user behavior, preferences, and company characteristics. I also notice that this form is designed for both current users and potential users of standing desks, as some questions are about purchase intent and budget. The questions cover a range of topics, from ergonomics and user experience to company information. This form is likely to be used for market research and analysis, perhaps to inform product development or marketing strategies.</thinking>
-
 # standing_desk_market_research_survey - Help Guide
 
 ## Purpose

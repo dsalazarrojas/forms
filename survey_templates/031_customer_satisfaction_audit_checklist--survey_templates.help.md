@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Satisfaction Audit Checklist - Help Guide
 ## Purpose
 The Customer Satisfaction Audit Checklist is a form used to collect feedback from customers about their experience with your company. This form helps to identify areas where customers are satisfied and areas where they need improvement, enabling you to make informed decisions to enhance customer satisfaction.

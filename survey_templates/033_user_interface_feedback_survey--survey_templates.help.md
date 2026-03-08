@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with the user interface. The purpose of this form is to gather information about how users perceive the usability, navigation, and overall satisfaction with the interface. The data collected will be used to identify areas of improvement and make data-driven decisions to enhance the user interface. This form should only be completed by users who have recently interacted with the interface and can provide an honest and constructive feedback.
-</thinking>
-
 # User Interface Feedback Survey - Help Guide
 
 ## Purpose

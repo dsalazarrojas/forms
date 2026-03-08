@@ -1,5 +1,3 @@
-<thinking>This form is a membership exit survey, designed to capture information from members who are leaving the organization. It is intended for internal use only and should not be filled out by non-members. The purpose of this form is to gather feedback and insights from departing members to help us improve our services and make informed decisions. Please note that it is not a formal evaluation or assessment. Before proceeding, ensure that you are a valid member and have the necessary permissions to fill out this form.</thinking>
-
 # membership_exit_survey - Help Guide
 ## Purpose
 This form is a membership exit survey intended to collect feedback and insights from departing members to help us improve our services and make informed decisions.

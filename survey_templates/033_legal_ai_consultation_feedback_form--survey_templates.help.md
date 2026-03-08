@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients after a legal AI consultation. This feedback is used to improve the quality and accuracy of the legal AI services provided. The form should only be used to collect feedback from actual clients, not from internal stakeholders or employees. 
-</thinking>
-
 # Legal AI Consultation Feedback Form - Help Guide
 ## Purpose
 The Legal AI Consultation Feedback Form is a tool used to gather feedback from clients after a legal AI consultation. This feedback is essential for us to refine and improve our legal AI services.

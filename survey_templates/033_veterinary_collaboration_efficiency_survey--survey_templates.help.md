@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the efficiency of veterinary collaboration in hospitals, clinics, or similar veterinary settings. It is not meant to be used for general or broad feedback, nor is it a comprehensive assessment tool. This form is designed to gather specific, actionable insights from end-users, focusing on communication methods, collaboration challenges, and time management.
-
-Before starting this survey, consider that it is not a general feedback form or a tool for gathering broad opinions. This form is specifically designed to collect data on veterinary collaboration and its efficiency.
-
-Please ensure you have the necessary permissions or access rights to complete this form, as it contains sensitive and potentially sensitive information about your work environment.
-
-</thinking>
-
 # Veterinary Collaboration Efficiency Survey - Help Guide
 ## Purpose
 The Veterinary Collaboration Efficiency Survey is a tool to gather insights from end-users on the collaboration methods, challenges, and time management practices within veterinary hospitals, clinics, or similar settings. The survey aims to identify areas where collaboration efficiency can be improved.

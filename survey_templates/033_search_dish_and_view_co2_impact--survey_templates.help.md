@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # search_dish_and_view_co2_impact - Help Guide
 ## Purpose
 The "search_dish_and_view_co2_impact" form is designed to collect detailed information about the Co2 impact of a specific dish or food product. This form is intended to help users calculate and view the Co2 impact of the dish, including Co2 footprint, Co2 emissions, Co2 saved, Co2 offset, and Co2 reduced. The form also collects other relevant details such as serving size, serving method, and Co2 impact source.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect feedback and evaluation on various aspects of a database client software. The form aims to gather information about the database client software's performance, features, and overall satisfaction. The goal is to get a comprehensive view of the software's strengths and weaknesses, which can help in making future decisions about software selection or improvement. 
-
-To avoid duplication of effort, users should only fill out this form if they have actual experiences or opinions about the database client software. Please fill out the form accurately and completely to provide valuable information.
-
-</thinking>
-
 # Database Client Software Evaluation Form - Help Guide
 
 ## Purpose

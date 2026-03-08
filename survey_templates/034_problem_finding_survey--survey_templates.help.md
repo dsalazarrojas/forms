@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their experience with problems they have encountered in their work or personal life. The form is used to gather data on various aspects of problem finding, including the user's name, email, company, role, department, and responses to a series of questions. This form is not intended for users who are not familiar with problem finding or have not had any experience with problems.
-Please note that this form is for information collection only and will not influence any actual problem finding process. It is not meant to be completed multiple times, so it is not a duplicate form.
-</thinking>
-
 # Problem Finding Survey - Help Guide
 ## Purpose
 The Problem Finding Survey is designed to collect information from users about their experience with problems they have encountered. This data will help us better understand the problem finding process and identify areas of improvement.

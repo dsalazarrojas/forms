@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their experience with an installation specialist. This form likely helps management or quality control teams understand areas of improvement and measure service quality over time. Please review the form carefully and only use it for intended purpose to gather relevant and accurate data.</thinking>
-
 # Installation Specialist Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience with an installation specialist.

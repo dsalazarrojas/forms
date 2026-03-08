@@ -1,7 +1,3 @@
-<thinking>
-The "Title Selection Survey" form is likely designed to gather information from users about their preferences regarding titles or names. The purpose of this form could be to gather feedback, opinions, or preferences on titles, such as selecting a favorite title from a list or indicating whether a title is preferred or not. To avoid duplication of efforts, ensure that the survey is not used for the same purpose more than once, and that the results are not redundant with other existing surveys or data.
-</thinking>
-
 # Title Selection Survey - Help Guide
 
 ## Purpose

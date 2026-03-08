@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "Performance Evaluation Survey" form, which is used to solicit feedback from employees regarding their performance. This form allows managers to evaluate employee performance on a scale from good to fair, and gather information about areas for improvement. Please note that this form is not mandatory. The purpose of this form is to provide a way to evaluate employee performance and identify areas where they can grow. It is essential to fill out this form carefully, providing honest and constructive feedback.
-
-Before proceeding, please ensure that this form is not already filled out for this employee. If it is, please use the existing form.
-
-This guide is designed to walk you through each section of the "Performance Evaluation Survey" form and help you complete it accurately.
-
-</thinking>
-
 # Performance Evaluation Survey - Help Guide
 ## Purpose
 The "Performance Evaluation Survey" form is used to solicit feedback from employees on their performance. It helps managers to identify strengths and areas for improvement, and provides a way to evaluate employee performance.

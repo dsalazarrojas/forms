@@ -1,9 +1,5 @@
 # research_project_priority_voting_form - Help Guide
 ## Purpose
-<thinking>
-This form is intended for research project priority voting. It allows users to provide input on various projects and initiatives, including impact assessment, committee name and email, department, committee rankings, and project priority. The form is not a requirement for submitting projects, but rather an optional tool for committees to provide their input on project priority.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 1. Fill out the "Project Title" field with the title of the project.

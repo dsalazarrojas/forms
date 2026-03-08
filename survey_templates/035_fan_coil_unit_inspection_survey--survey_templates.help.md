@@ -1,7 +1,3 @@
-<thinking>
-The form is a survey for inspecting and recording data about fan coil units, which are part of a heating, ventilation, and air conditioning (HVAC) system. The fan coil unit inspection survey is intended for use by maintenance personnel or facilities staff to record information about the status, capacity, and defects of each fan coil unit in a building. This information can help identify potential issues with the units and inform maintenance decisions. This survey should only be used for new fan coil unit inspections, not for existing unit condition assessment or performance data collection.
-</thinking>
-
 # Fan Coil Unit Inspection Survey - Help Guide
 ## Purpose
 The Fan Coil Unit Inspection Survey is a tool used to collect and record data about fan coil units in a building. This information can help maintenance personnel or facilities staff identify potential issues and make informed maintenance decisions.

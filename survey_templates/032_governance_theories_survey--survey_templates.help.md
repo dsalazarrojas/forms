@@ -1,7 +1,3 @@
-<thinking>
-This is a technical check to ensure the form's purpose and fields are clear. The form, "Governance Theories Survey", is designed to collect information about governance theories and their implementation status within an organization. The purpose of this form is to gather data about the frequency and status of governance theories and practices, allowing stakeholders to assess their implementation and impact. Please ensure that the form is being completed for the intended purpose and not duplicated for unnecessary reasons. If you're unsure, please review this guide carefully to ensure accuracy.
-</thinking>
-
 # Governance Theories Survey - Help Guide
 ## Purpose
 The Governance Theories Survey is a form designed to collect information about governance theories and their implementation status within an organization. This form helps stakeholders assess the frequency and status of governance theories and practices, providing valuable insights for informed decision-making.

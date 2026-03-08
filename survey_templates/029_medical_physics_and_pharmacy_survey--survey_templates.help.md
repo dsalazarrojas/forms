@@ -1,7 +1,3 @@
-<thinking>
-This guide will help non-technical users understand the purpose and usage of the "medical_physics_and_pharmacy_survey" form. The form is designed to collect information about the current state of collaboration between medical physics and pharmacy professionals. It's intended to gather data on their experiences, challenges, and future visions for this field. This guide is to ensure that users complete the form accurately and provide valuable insights.
-</thinking>
-
 # medical_physics_and_pharmacy_survey - Help Guide
 ## Purpose
 This guide will help you complete the "Medical Physics and Pharmacy Survey" form. The purpose of this form is to gather information about the current state of collaboration between medical physics and pharmacy professionals. It aims to collect data on their experiences, challenges, and future visions for this field.

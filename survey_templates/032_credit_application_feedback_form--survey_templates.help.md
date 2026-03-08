@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for customers to provide feedback on their experience with our credit application service. The purpose of this form is to help us understand our customers' satisfaction and identify areas of improvement. Please note that this form is not meant for customers who have not interacted with our service.
-
-Before completing this form, please ensure that you have not already provided feedback on this form. If you have, your response will not be recorded.
-
-To complete this form, follow these steps:
-
-1.  Answer the questions honestly and to the best of your ability.
-2.  If you are unsure or have no preference for a question, you can skip it.
-3.  If you have any additional comments or feedback, use the "Any additional comments?" field.
-</thinking>
-
 # Credit Application Feedback Form - Help Guide
 
 ## Purpose

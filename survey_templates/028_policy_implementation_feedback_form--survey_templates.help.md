@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on policy implementation from employees. This form is designed to gather information on the status of policies, their implementation plans, evaluation methods, and frequency. It is meant to be filled out by employees who have been affected by or are involved in the implementation of policies. The form is used to track and monitor policy implementation, providing a centralized location for gathering and storing information. To ensure the quality and accuracy of the submitted data, please fill out this form carefully and thoroughly.
-</thinking>
-
 # policy_implementation_feedback_form - Help Guide
 ## Purpose
 The policy implementation feedback form is a tool used to collect feedback on the status of policies, their implementation plans, evaluation methods, and frequency.

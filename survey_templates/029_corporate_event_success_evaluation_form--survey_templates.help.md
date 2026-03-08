@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for non-technical users who need to understand the purpose and usage of the corporate_event_success_evaluation_form. 
-The form is designed to evaluate corporate events, such as workshops, conferences, or training sessions. It is used to gather feedback from event attendees to identify areas of improvement and assess overall event success. 
-This form is a standard template; if you need a customized form for a specific purpose, please consult with your team first. 
-Please ensure you have the necessary permissions and access rights to complete this form. 
-</thinking>
-
 # corporate_event_success_evaluation_form - Help Guide
 ## Purpose
 The corporate_event_success_evaluation_form is used to gather feedback from event attendees and assess the overall success of corporate events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the confidence levels of youth athletes, likely for coaching or program evaluation purposes. It seems reasonable to assume that the survey is being used to understand the self-assessed confidence of youth athletes across different aspects or timeframes. There's no explicit indication that this form is being used for multiple purposes or has any specific requirements for the athlete to answer every question, so I'll assume it's a general survey.
-</thinking>
-
 # Youth Athlete Confidence Survey - Help Guide
 ## Purpose
 This form is designed to help coaches and administrators gain insight into the confidence levels of youth athletes. By completing this survey, you will be asked a series of questions that will help us understand your self-assessed confidence across different aspects and timeframes.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from users regarding their environmental initiatives and experiences. It is intended to be used by individuals who are interested in learning more about the environmental practices and habits of the company or organization they are interacting with. The form will ask users to select one of three options for environmental initiatives and provide feedback and comments. Additionally, it will collect email, phone number, and other basic contact information. Please ensure that you only submit the form if you are a legitimate user and have not already submitted it in the past. Please note that this form is not meant to be filled out by robots or automated systems.</thinking>
-
 # Environmental Survey Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding their environmental initiatives and experiences.

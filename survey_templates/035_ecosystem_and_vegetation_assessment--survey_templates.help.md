@@ -1,12 +1,3 @@
-<thinking>
-The form is for collecting information on the ecosystem and vegetation assessment. This form likely serves as a template for data collection in the field of environmental studies, conservation, or ecology. The form collects general information, species data, habitat data, region data, land use data, observation dates and times, and notes and assigned personnel data. It is likely used for data collection and analysis in various projects or studies related to the assessment of ecosystems and vegetation.
-
-To complete this form, the user should ensure that all required fields are filled out. However, the form appears to be mostly optional, with only a few fields marked as required. The user should check the relevant fields and ensure that they provide accurate and relevant information for the intended purpose.
-
-To provide a comprehensive help guide, I will break down each field explanation into its own section, using the provided YAML for guidance.
-
-</thinking>
-
 # Ecosystem And Vegetation Assessment - Help Guide
 ## Purpose
 The Ecosystem And Vegetation Assessment form is designed to collect information on the assessment of ecosystems and vegetation.

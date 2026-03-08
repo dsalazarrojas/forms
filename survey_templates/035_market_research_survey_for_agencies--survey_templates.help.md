@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's consider the following fields: "Marketing Background", "Company Type", "Job Title", "Name", "Email", "Phone Number", "Address", "Company Website", "Job Function", "Company Description", "Target Audience", "Survey Goals", "Expected Outcome", "Budget", "Time Allowed", "Contact Name", "Contact Phone", "Contact Email", "Contact Address", "Additional Info", "Marketing", "Advertising", "Design", and "Submit". These fields suggest that the form is designed to collect information about agencies, possibly for research or marketing purposes. The form appears to be asking about the agency's background, services offered, and contact information.
-
-The form's purpose seems to be to gather data about agencies for market research or survey purposes. This could be used to create a list of agencies that match certain criteria or to understand the market landscape of the industry.
-
-To determine the relevance of the form, let's consider the context in which it might be used. This form could be used by a marketing firm or a research institution to gather data about agencies for their own research or analysis. 
-
-This form does not appear to be a duplicate of other forms, as the fields are unique and tailored to the specific needs of the form's purpose.
-
-</thinking>
-
 # Market Research Survey For Agencies - Help Guide
 ## Purpose
 The purpose of this form is to gather information about agencies for market research or survey purposes. This form is designed to collect data about agencies' marketing background, services offered, and contact information.

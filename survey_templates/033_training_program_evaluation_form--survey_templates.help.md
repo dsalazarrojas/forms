@@ -1,9 +1,3 @@
-<thinking>
-This form is used to evaluate the effectiveness of a training program, gathering feedback from participants on their experience, satisfaction, and suggestions for improvement. This form is essential for trainers to understand the strengths and weaknesses of their program, identify areas for improvement, and make data-driven decisions for future training sessions.
-It's crucial to ensure that this form is completed honestly and thoroughly, as it will help us better understand the participant's perspective and make informed decisions about the training program.
-To avoid duplication of efforts, please make sure to only complete this form once per training session.
-</thinking>
-
 # Training Program Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants about their training experience, to help the training team understand what worked well and what areas need improvement.

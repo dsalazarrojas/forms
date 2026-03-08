@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to gather feedback from users on their experience with the ERP system. This feedback is crucial in helping us understand the strengths and weaknesses of the system, identify areas for improvement, and make informed decisions about future development and enhancements... This form should only be completed once per user... if a user has already completed this form, please do not attempt to complete it again... </thinking>
-
 # ERP User Feedback Survey - Help Guide
 
 ## Purpose

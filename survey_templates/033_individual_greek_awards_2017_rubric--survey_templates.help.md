@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the Greek Awards 2017 rubric. It is intended to be completed by users who have been awarded or have nominated others for awards. The form is used to provide feedback on the award winners and nominees, which will help in evaluating and improving the award process. To ensure accuracy, please review the form carefully before submitting it. If you have already completed the form for the same award year, please do not repeat the effort and instead, update your existing response if necessary.
-</thinking>
-
 # Individual Greek Awards 2017 Rubric - Help Guide
 ## Purpose
 This form is used to collect feedback on the Greek Awards 2017 rubric. It helps in evaluating and improving the award process by gathering information from award winners and nominees.

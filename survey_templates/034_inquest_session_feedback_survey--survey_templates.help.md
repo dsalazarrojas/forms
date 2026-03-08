@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants after an inquest session. It's essential to provide an accurate and honest feedback to help improve the facilitators and overall inquest experience.
-
-Before filling out this form, please ensure you have attended the session and are providing feedback based on your genuine experience. Duplication of feedback is discouraged as it may lead to inconsistencies in the data.
-
-This form is divided into the following sections:
-
-*   Introduction: A brief description of the form and its purpose.
-*   Participant Information: This section gathers personal details about the participant.
-*   Session Details: This section captures information about the session attended.
-*   Feedback: This section provides space for the participant to share their thoughts and opinions about the session.
-
-Each section is designed to be completed in a sequential manner, from top to bottom. Please ensure that all required fields are filled before submitting the form.
-
-Please note that this form is a tool to gather feedback and improve the inquest sessions. Your input is invaluable in helping us make these sessions more effective and engaging for all participants.
-
-</thinking>
-
 # inquest_session_feedback_survey - Help Guide
 ## Purpose
 The inquest_session_feedback_survey form is a tool designed to gather feedback from participants after an inquest session. The purpose of this form is to collect honest and accurate feedback to improve the facilitators and overall inquest experience.

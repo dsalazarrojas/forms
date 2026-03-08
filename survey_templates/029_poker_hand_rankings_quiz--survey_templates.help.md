@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to help users practice and evaluate their knowledge of poker hand rankings in a fun and interactive way. It seems the form is designed to test the user's understanding of poker hand rankings, likely for a quiz or training purpose. The form asks a series of questions to assess the user's ability to identify and rank poker hands correctly.
-
-Before proceeding, let's make sure this form doesn't duplicate any other forms in the system, and that it's correctly configured for its intended use.
-</thinking>
-
 # Poker Hand Rankings Quiz - Help Guide
 ## Purpose
 The Poker Hand Rankings Quiz is designed to help users test their knowledge of poker hand rankings in a fun and interactive way.

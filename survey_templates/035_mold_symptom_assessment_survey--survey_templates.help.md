@@ -1,12 +1,3 @@
-<thinking>
-The form "Mold Symptom Assessment Survey" is designed to collect information from individuals who have experienced symptoms potentially related to mold exposure. It appears to be a comprehensive survey that covers various aspects of mold symptoms, including their frequency, duration, and impact on health. This form may be used by healthcare professionals or researchers to gather data for studies, treatments, or medical consultations. To ensure accurate and reliable responses, it's essential to review each field carefully and fill it out with as much detail as possible.
-
-Before proceeding, please note that some fields may be repetitive or similar in nature, but it's crucial to provide separate and specific answers for each question. For example, when describing your symptoms or exposure history, please be detailed and specific, even if some questions might seem redundant. This will help in getting a complete picture of your situation.
-
-This guide will walk you through each field of the form to help you understand its purpose and how to fill it out effectively.
-
-</thinking>
-
 # Mold Symptom Assessment Survey - Help Guide
 ## Purpose
 The Mold Symptom Assessment Survey is designed to collect information about mold symptoms, exposure history, and related health effects. This form helps healthcare professionals or researchers understand the extent of mold exposure and its impact on individuals.

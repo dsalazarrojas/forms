@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be a survey designed to measure the culture of a youth team, likely for an organization or institution that works with young people. It might be used to understand how well the team feels connected and effective in their communication. However, to ensure that the same data is not collected multiple times, I would suggest that this form should not be accessible directly, and that users should be required to authenticate and authorize access. The form appears to be designed for a specific group, and general users might not be able to answer these questions meaningfully. It would be best to have a dedicated user group or role to fill out this form. 
-
-</thinking>
-
 # Youth Team Culture Survey - Help Guide
 ## Purpose
 The Youth Team Culture Survey is designed to measure the culture and effectiveness of a youth team, likely within an organization or institution that works with young people. This survey is intended to gather information on how team members feel about their team's morale, communication, and sense of belonging. This data can help the team lead and administrators make informed decisions to improve team dynamics.

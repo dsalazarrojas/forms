@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help educators and students gauge the effectiveness of the classroom environment and teacher support in a given classroom setting. The form's primary purpose is to gather feedback on various aspects of the classroom, including overall happiness, teacher support, classroom environment, and student engagement. This information can be used to identify areas of improvement and inform strategies to enhance the learning experience.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Gratitude Survey - Help Guide
 ## Purpose
 

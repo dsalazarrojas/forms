@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pharmacy Service Satisfaction Survey - Help Guide
 
 ## Purpose

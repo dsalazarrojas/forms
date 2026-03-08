@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's knowledge and actions related to workplace safety. It is intended to assess the user's understanding of various aspects of workplace safety, such as how to ensure a safe work environment, evaluate employee safety procedures, report incidents, receive training on safety procedures, and more. The form should not be repeated for the same user, and it is meant for general workplace safety compliance.
-
-</thinking>
-
 # Workplace Safety Compliance Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and compliance with workplace safety procedures.

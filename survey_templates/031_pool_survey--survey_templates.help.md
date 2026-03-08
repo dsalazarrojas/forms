@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a pool's quality, type, shape, size, height, depth, water temperature, and time spent at the pool. The data collected will be used to better understand the characteristics of different pools and provide insights for pool-related services. Please ensure that you are completing this form for the correct purpose and do not duplicate any existing surveys. If you have already completed this form, your responses will be updated accordingly.
 
 # Pool Survey - Help Guide

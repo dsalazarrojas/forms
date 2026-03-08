@@ -1,9 +1,3 @@
-<thinking>
-This template is designed for collecting survey data to understand internet usage patterns and habits. This template should be used by users to report on their internet usage, including favorite social media platforms, search engines, and online content types. The template should be filled out by users to gather comprehensive information about their internet habits.
-Please ensure that you are filling out this template to gather accurate and honest data. If you are unsure about any question, please answer to the best of your ability.
-This template should not be reused or filled out multiple times by the same user, as this could lead to duplicate data and skew the results.
-</thinking>
-
 # Internet Usage Survey Template - Help Guide
 ## Purpose
 The Internet Usage Survey Template is a form designed to collect data about internet usage habits. The purpose of this template is to gather comprehensive and accurate information about users' internet habits, including favorite social media platforms, search engines, and online content types.

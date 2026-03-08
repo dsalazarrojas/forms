@@ -1,7 +1,3 @@
-<thinking>
-The form "Feedback On New Facility" is designed to collect feedback from visitors to a new facility. It is intended to gauge the overall satisfaction level of visitors, identify areas for improvement, and gather information about their visit. This form should not be filled out by visitors who have not actually visited the facility.
-</thinking>
-
 # Feedback On New Facility - Help Guide
 ## Purpose
 The "Feedback On New Facility" form is a tool used to collect feedback from visitors to a new facility, aiming to gauge their overall satisfaction and identify areas for improvement.

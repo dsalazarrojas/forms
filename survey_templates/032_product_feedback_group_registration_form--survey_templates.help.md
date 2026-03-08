@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Product Feedback Group Registration Form" while ensuring the explanation is concise, practical, and based on the provided YAML fields. Here's the internal reasoning behind the form purpose and relevance checks:
-
-The purpose of this form is to collect participant information and feedback from customers for products in the development stage. The form is designed to gather specific details about the product, customer, and form submission, ensuring accurate data collection and efficient feedback processing. To ensure relevance, the form will be used by product teams and customer success groups to register new product feedback groups. Non-duplication checks will be performed to prevent duplicate submissions from the same customer or product.
-
-</thinking>
-
 # Product Feedback Group Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and feedback from customers for products in the development stage. It's used by product teams and customer success groups to register new product feedback groups.

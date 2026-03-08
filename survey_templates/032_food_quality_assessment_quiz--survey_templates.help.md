@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Quality Assessment Quiz - Help Guide
 ## Purpose
 This Food Quality Assessment Quiz is designed to gauge your perception of the food quality in a given establishment. It will ask you to rate the quality of food on a scale of Excellent, Very good, Average, or Poor. Your responses will help us improve the quality of food served in this establishment.

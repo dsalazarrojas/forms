@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data for the "Water Hero Quiz" survey, which aims to gauge participants' knowledge and preferences related to water conservation and sustainability. The form is intended for individuals who wish to engage with the water conservation program and provide their input. It is crucial to ensure that the collected data is accurate and relevant to avoid duplication. Before starting, please review the form and ensure that you are not duplicating your response.
-
-This form consists of several sections, including participant details and quiz forms. The participant details section asks for basic information such as name, email, and location, which helps in tracking and identifying the respondents. The quiz forms, on the other hand, present various questions related to water conservation and sustainability.
-
-Please ensure that you have filled out all the required fields correctly and accurately before submitting your response. This will help in providing meaningful insights to the program.
-</thinking>
-
 # Water Hero Quiz - Help Guide
 ## Purpose
 This form is designed to collect data from individuals who wish to engage with the water conservation program.

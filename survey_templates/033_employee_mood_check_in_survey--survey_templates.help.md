@@ -1,5 +1,3 @@
-<thinking>As a designer, I need to ensure that the form is user-friendly and clear, while also conveying the necessary information to the users. I will create a help guide that explains the purpose of the form, how to complete it, and what each field means. I will base the explanation on the provided YAML fields and provide a clear and concise explanation for each field. I will also ensure that the guide is easy to read and understand, with bullet points for each field explanation. I will not invent any unsupported business logic and will stick to the provided YAML fields for explanation.</thinking>
-
 # Employee Mood Check In Survey - Help Guide
 ## Purpose
 This form is designed to help employees check in their mood and provide insights on their work environment and work-life balance. The survey is meant to help managers and HR teams understand the overall mood and well-being of their employees.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assess an individual's ability to decode numbers, which is a crucial skill in mathematics and problem-solving. Decoding numbers involves identifying the underlying pattern or sequence within a given set of numbers. This quiz will provide an opportunity for users to demonstrate their understanding of number patterns and sequences.
-
-To avoid duplication, ensure that the form is not used for the same purpose multiple times, and that the user has not already completed a similar form in the same context.
-
-</thinking>
-
 # Number Decoding Quiz - Help Guide
 ## Purpose
 This form is designed to assess an individual's ability to decode numbers, a crucial skill in mathematics and problem-solving. It helps to evaluate how well they can identify patterns and sequences within a given set of numbers.

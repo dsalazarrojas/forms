@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data from youth participants in a mentoring program. The purpose of this form is to gather information about the participant's experience, satisfaction, and evaluation of the program. Please ensure that you are not already responding to this survey if you have previously submitted feedback or evaluation data. If you have already responded, please do not submit duplicate feedback.
-</thinking>
-
 # Youth Mentoring Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and evaluation data from youth participants in a mentoring program.

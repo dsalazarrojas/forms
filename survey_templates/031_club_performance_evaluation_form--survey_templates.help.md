@@ -1,11 +1,3 @@
-<thinking>
-
-The Club Performance Evaluation Form is a tool used to assess the overall performance of a club in various areas. This form is typically used by evaluators to provide a comprehensive evaluation of the club's progress towards its goals. To fill out this form, you should have access to relevant information about the club, such as its name, the evaluator's name and role, and the evaluation dates.
-
-Before starting, ensure that you have a clear understanding of the club's context and the specific criteria for evaluation. To avoid duplicate evaluations, check that the club has not already undergone a similar evaluation recently. If you're unsure, it's always best to reach out to the club's management or administration for clarification.
-
-</thinking>
-
 # Club Performance Evaluation Form - Help Guide
 ## Purpose
 The Club Performance Evaluation Form is a tool for evaluating a club's performance in various areas, providing a comprehensive assessment of its progress towards its goals.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a help guide for the "Workplace Collaboration Quiz" form that explains its purpose, how to complete it, and what each field means. This form is designed to assess various aspects of workplace collaboration, including team dynamics, communication, leadership, decision-making, and more. The form is meant to be completed by employees, and the results will help identify areas of improvement in the workplace collaboration.</thinking>
-
 # Workplace Collaboration Quiz - Help Guide
 ## Purpose
 The Workplace Collaboration Quiz is a survey designed to evaluate the effectiveness of collaboration within your workplace. It assesses various aspects of collaboration, including team dynamics, communication, leadership, decision-making, and more. The quiz is meant to help identify areas of improvement and provide insights for better collaboration.

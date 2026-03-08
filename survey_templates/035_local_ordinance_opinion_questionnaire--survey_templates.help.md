@@ -1,11 +1,3 @@
-<thinking>
-This form is a part of a larger system for collecting opinions on local ordnances, which are municipal regulations or laws. This form is designed to be filled out by individuals who have an opinion on a particular local ordnance, allowing them to provide feedback and suggestions to the relevant authorities. The form is intended to collect contact information, demographic details (name and email), and relevant comments or questions.
-
-It's essential to ensure that the information provided is accurate and complete, as it will be used to understand the public opinion on the ordnance.
-
-Before proceeding, please ensure that you haven't submitted this form previously, to avoid duplication of effort.
-</thinking>
-
 # local-ordinance-opinion-questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback and suggestions on local ordnances from the public. Please take a few minutes to fill out this form with your thoughts and opinions.

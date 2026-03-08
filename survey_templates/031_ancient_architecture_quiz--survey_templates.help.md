@@ -1,7 +1,3 @@
-<thinking>
-This form, "Ancient Architecture Quiz", aims to assess knowledge of ancient architectural structures and their uses. It covers a range of topics, from famous monuments like the Parthenon and the Roman Colosseum, to ancient civilizations such as Mesopotamia and the construction of the Great Wall of China. The form is designed to be completed by students and is intended to provide a brief, multiple-choice assessment of their knowledge. The form's questions cover a mix of select-one and select-multiple questions, as well as text and number inputs. The goal is to gauge the user's understanding of the historical context and architectural significance of these ancient structures.
-</thinking>
-
 # Ancient Architecture Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge of ancient architectural structures and their significance. It covers various civilizations and famous monuments, and is intended to be a brief and multiple-choice assessment of your understanding.

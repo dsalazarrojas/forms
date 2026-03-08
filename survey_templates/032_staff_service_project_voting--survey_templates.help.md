@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from staff members on service project ideas. The purpose of this form is to help project managers understand which ideas are most popular among staff members and make informed decisions about which projects to pursue. This form is not intended to be a replacement for other evaluation processes, but rather a supplement to help gather additional insights. It is recommended that staff members complete this form only if they have actually participated in or considered participating in the service project ideas listed. This helps to ensure that the ratings and feedback are accurate and relevant.
-</thinking>
-
 # staff-service-project-voting - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from staff members on service project ideas.

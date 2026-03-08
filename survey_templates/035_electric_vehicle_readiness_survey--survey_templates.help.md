@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Electric Vehicle Readiness Survey form, I need to ensure that the form's purpose and structure are clear and concise. The form appears to be designed to gather information about a person's interest in adopting an electric vehicle, their current circumstances, and their preferences and readiness to adopt such a vehicle. To complete this form, users will be asked about their interest in electric vehicles, their current charging situation, outreach needs, vehicle type, and various other relevant factors.
-
-The guide should explain each field in a clear and concise manner, helping users understand what information is being collected and why.
-
-</thinking>
-
 # Electric Vehicle Readiness Survey - Help Guide
 ## Purpose
 The Electric Vehicle Readiness Survey is designed to gather information about your interest, circumstances, and preferences related to adopting an electric vehicle. This data will help us better understand the current state of electric vehicle adoption and identify areas for improvement.

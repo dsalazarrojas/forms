@@ -1,8 +1,3 @@
-<thinking>
-The form "research_project_checklist_form" is designed to collect information about research projects, gathering details about project specifics, lead contacts, and project status. This form helps ensure that all necessary information is captured to facilitate efficient project management and communication. Please ensure that you have the necessary permissions and access to complete this form.
-
-</thinking>
-
 # research_project_checklist_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about research projects, including project details, lead contacts, and project status. This form helps streamline project management and communication by gathering all relevant information in one place.

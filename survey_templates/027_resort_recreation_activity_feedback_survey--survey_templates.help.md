@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for use by resort recreation staff to understand and fill out the "resort_recreation_activity_feedback_survey" form. This form is meant to gather feedback from guests on their experiences with the resort's recreational activities.
-
-Before proceeding, please ensure you understand the form's purpose and the types of questions it contains. This form is not intended for repeat submissions, so please only fill out the form once per guest interaction. If you've filled out the form previously for the same guest interaction, you may need to review and update your submission based on any changes or new information.
-
-Please refer to the form's fields below for explanations and guidance on how to complete it.
-
-</thinking>
-
 # resort_recreation_activity_feedback_survey - Help Guide
 ## Purpose
 The "resort_recreation_activity_feedback_survey" form is designed to gather feedback from guests on their experiences with the resort's recreational activities. This feedback is essential for us to understand what we're doing well and where we can improve.

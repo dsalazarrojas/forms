@@ -1,6 +1,3 @@
-<thinking> 
-This form is a "Session Feedback Survey" form used to collect feedback from users about their session. To avoid duplication and ensure the form is completed correctly, please make sure to fill in all required fields and review the form before submission. If you're unsure about any field or have questions, please reach out to the form administrator for assistance. The form consists of 16 fields, each designed to gather specific information about the session. Below, you'll find a step-by-step guide on how to complete this form.</thinking>
-
 # Session Feedback Survey - Help Guide
 ## Purpose
 The "Session Feedback Survey" form is designed to gather feedback from users about their session, helping us improve our services and provide better experiences in the future.

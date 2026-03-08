@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 We use this form to gather feedback from users about their experience with Virtual Assistant, a virtual assistant service. This form is designed to collect information on how often users interact with Virtual Assistant, their satisfaction with the service, and areas for improvement. We also collect demographic information and contact details for follow-up purposes. This form is not intended for users who have not used Virtual Assistant before or are not willing to provide feedback. If you have already provided feedback, please do not submit this form again.
 
 # Virtual Assistant Feedback Form - Help Guide

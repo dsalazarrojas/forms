@@ -1,7 +1,3 @@
-<thinking>
-Is the goal here to create a comprehensive guide for a donor experience survey, ensuring that end-users understand the purpose and functionality of the form? The survey aims to collect information about donors' experiences, including their donation history, frequency, and communication preferences. To prevent duplication, let's ensure that the guide is clear and concise, covering all the necessary fields and their explanations.
-</thinking>
-
 # Donor Experience Survey - Help Guide
 
 ## Purpose

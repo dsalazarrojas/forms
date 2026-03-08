@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about a deceased individual. The purpose of this form is to gather details about the person's identity, circumstances, and circumstances surrounding their death. 
-
-To ensure accuracy, please fill out the form only for individuals who have passed away.
-
-</thinking>
-
 # Deceased Information Survey - Help Guide
 ## Purpose
 This form is designed to collect comprehensive details about a deceased individual, helping us maintain accurate and complete records.

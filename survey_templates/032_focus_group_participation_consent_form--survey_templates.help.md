@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to gather information from participants, researchers, and reviewers involved in a focus group study. The form includes various fields to collect data on participant demographics, focus group study details, consent, and review information.
-
-The form is meant to be completed by three types of individuals: participants, researchers, and reviewers. The "Participant Information" section collects demographic data from participants, while the "Contact Information" section is optional and allows participants to provide additional contact details. The "Focus Group Information" section is also optional and allows participants to provide more details about the focus group. The "Study Information" section allows participants to provide information about the study.
-
-The "Participant Consent" section is a critical part of the form, as it ensures that participants understand the terms and conditions of the focus group study. The "Participant Statement" section is also important, as it allows participants to declare their understanding of the study.
-
-The "Researcher Information" section is optional and allows researchers to provide their contact details and information about themselves. The "Researcher Consent" section, similar to "Participant Consent", ensures that researchers understand the terms and conditions of the focus group study. The "Researcher Statement" section allows researchers to declare their understanding of the study.
-
-The "Review Information" section is optional and allows reviewers to provide their contact details and information about themselves. The "Reviewer Consent" section, similar to "Participant Consent" and "Researcher Consent", ensures that reviewers understand the terms and conditions of the focus group study. The "Reviewer Statement" section allows reviewers to declare their understanding of the study.
-
-Finally, the "Review Notes", "Review Comments", "Date Review Comments", and "Time Review Comments" sections are optional and allow reviewers to provide notes, comments, and review details.
-
-</thinking>
-
 # Focus Group Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants, researchers, and reviewers involved in a focus group study. The form includes various fields to collect data on participant demographics, focus group study details, consent, and review information.

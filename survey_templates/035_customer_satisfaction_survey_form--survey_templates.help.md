@@ -1,5 +1,3 @@
-<thinking>This form is intended to measure customer satisfaction after an interaction with your organization. The form is designed to collect demographic information, feedback, and ratings regarding our customer service. Before you proceed, ensure this information isn't already known or documented elsewhere to prevent duplicate efforts.</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 ## Purpose
 The Customer Satisfaction Survey Form is designed to gauge your satisfaction with our services.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'd like to provide a clear and concise help guide for the "running_trail_feedback_survey_form" form. This form is designed to gather feedback from event participants about their experience at the running trail event. The form is meant to be completed by runners who have attended the event and want to provide their honest feedback and suggestions for improvement. I'll ensure that the explanations are concrete, practical, and based on the provided YAML fields. I'll also follow the required Markdown structure and use clear headings to categorize the information.</thinking>
-
 # running_trail_feedback_survey_form - Help Guide
 ## Purpose
 The "running_trail_feedback_survey_form" is designed to gather feedback from event participants about their experience at the running trail event. This feedback will help event organizers understand what they did well and what they can improve on for future events.

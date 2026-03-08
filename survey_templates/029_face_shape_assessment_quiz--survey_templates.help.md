@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to assess the user's face shape and other facial characteristics based on their self-reported attributes. The form is likely used in a cosmetic or medical context to understand the user's face shape and features.
-
-The form consists of multiple pages, each asking for specific attributes such as face shape, chin type, hair type, and facial features. Each page has a selection of options, which are likely based on a predefined taxonomy or classification system.
-
-The purpose of this form is to collect data from users, which can be used for research or other purposes.
-
-Please note that the form's complexity and the number of fields suggest it is intended for a specific, niche application or audience. It is also possible that this form is part of a more extensive assessment tool or questionnaire.
-
-Before proceeding, ensure that the form's requirements and instructions are clear and well-defined to avoid misinterpretation or data inconsistencies.
-
-If you have any specific questions or concerns about this form, please feel free to ask.
-
-</thinking>
-
 # Face Shape Assessment Quiz - Help Guide
 ## Purpose
 The Face Shape Assessment Quiz is a form designed to collect information about a user's face shape and other facial characteristics. This information can be used for research, cosmetic, or medical purposes.

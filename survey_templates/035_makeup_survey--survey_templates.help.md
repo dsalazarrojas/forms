@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect anonymous user feedback on makeup preferences, habits, and routines. It will help us better understand how customers feel about makeup and how it fits into their lives.
-
-We will use the collected data to improve our offerings, product development, and customer support. Please complete this form carefully and honestly, and let us know if you have any feedback or questions. If you have already completed this survey, please don't duplicate the effort and help a new user understand the survey's purpose and process!
-
-</thinking>
-
 # Makeup Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your preferences, habits, and experiences with makeup. Your responses will help us improve our product offerings and customer support.

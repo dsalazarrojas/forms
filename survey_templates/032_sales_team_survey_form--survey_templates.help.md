@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey template for evaluating the performance and goals of a sales team. It includes various fields that cater to different aspects of sales performance, such as sales quotas, targets, and ratings. This form likely aims to gather data for sales team members to track their progress, set goals, and assess their performance.
-</thinking>
-
 # Sales Team Survey Form - Help Guide
 ## Purpose
 The sales team survey form is designed to collect information about the sales team's performance, goals, and targets. This form is intended for sales team members to provide insights into their sales performance, quotas, and targets.

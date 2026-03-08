@@ -1,6 +1,3 @@
-<thinking> 
-The form "pharmaceutical_new_drug_feedback_survey_form" is designed to collect feedback from patients who are taking new drugs to assess their overall experience and effectiveness. This form will likely be completed by patients who have been prescribed a new medication and are providing their feedback after starting treatment. The form is not designed to be completed multiple times by the same patient, so please ensure you have not previously submitted feedback for this medication. </thinking>
-
 # pharmaceutical_new_drug_feedback_survey_form - Help Guide
 ## Purpose
 This form is used to collect feedback from patients who are taking a new drug to assess its overall effectiveness and any potential side effects. The feedback collected will help healthcare professionals to understand how patients are experiencing the new medication and make informed decisions for future patient care.

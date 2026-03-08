@@ -1,16 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll need to analyze the form's purpose and functionality. The form appears to be a survey designed to gather information about a client's business and preferences, as well as an assistant's availability, communication, and expectations. The form is likely used to match clients with suitable assistants who meet their needs and expectations.
-
-Here's a breakdown of the form's structure and content:
-
-- The form is divided into multiple pages, each with a specific label (e.g., "Home", "Client Biz Details", "Assistant Biz Details", etc.).
-- Each page has a mix of text and select_one fields, where clients and assistants can provide information about their business details, schedule, location, communication, language, notes, availability, preferences, goals, values, and expectations.
-
-Given this analysis, the form's purpose is to gather comprehensive information about clients and assistants to facilitate effective matching and communication.
-
-</thinking>
-
 # Virtual Assistant Survey - Help Guide
 ## Purpose
 This form is designed to help match clients with suitable virtual assistants who meet their needs and expectations. Please answer the questions honestly and thoroughly to ensure the best possible match.

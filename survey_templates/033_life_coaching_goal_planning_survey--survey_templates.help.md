@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for individuals to assess their motivation levels and identify areas for personal growth and development. The purpose of this form is to help users gain insight into their current state and make informed decisions about their goals and objectives. By completing this form, users will be able to:
 
 * Determine their current motivation levels and areas of challenge

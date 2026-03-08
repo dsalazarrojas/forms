@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from participants about the quality of events held at a specific location. This feedback will help improve future events by identifying areas of improvement. The form collects feedback on various aspects of the event, including participant satisfaction, location quality, event organization, and overall experience.
-
-To avoid duplication, please note that this form is meant for participants who have attended events at the specified location. If you are not a participant, or if you have already provided feedback for this event, please do not fill out this form.
-
-</thinking>
-
 # hyrox_event_feedback_survey - Help Guide
 ## Purpose
 The hyrox_event_feedback_survey form is designed to collect feedback from event participants to improve future events at the specified location.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for a form called "Favorite Poster Voting" that is used to collect user feedback on their favorite posters. The form is designed to gather information about the user's favorite poster, including the poster's name, URL, and other relevant details. The form also includes a section for additional comments and a checkbox to determine if the submitter's information will be displayed publicly on the website. This guide will help users understand the purpose and functionality of the form, how to complete it, and what each field means.
-</thinking>
-
 # Favorite Poster Voting - Help Guide
 ## Purpose
 The Favorite Poster Voting form is designed to collect user feedback on their favorite posters. This form is used to gather information about the user's favorite poster, including the poster's name, URL, and other relevant details.

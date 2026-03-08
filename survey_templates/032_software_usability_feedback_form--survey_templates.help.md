@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about the software's usability. The purpose is to collect opinions on the ease of use, satisfaction, and overall experience with the software. This form will not collect any sensitive or personal information, and the answers will be used to improve the software's user experience.
-</thinking>
-
 # Software Usability Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the software's usability, helping us to understand your experiences and improve the product.

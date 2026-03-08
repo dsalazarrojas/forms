@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about a drainage system, specifically its status, material, size, orientation, and water quality. It is intended to gather data that can be used to assess the condition and functionality of the drainage system. Please note that some fields are optional, so users may choose to omit them if they do not have the necessary information available.
-
-To confirm whether this form is relevant and necessary for your use case, consider the following:
-
-* Are you responsible for maintaining or designing drainage systems?
-* Do you need to evaluate the condition and performance of a specific drainage system?
-
-If so, then this form should be a suitable tool to help you collect and document the required data. If not, you may want to consider other forms or surveys that are more tailored to your specific use case.
-
-</thinking>
-
 # Drainage Survey - Help Guide
 
 ## Purpose

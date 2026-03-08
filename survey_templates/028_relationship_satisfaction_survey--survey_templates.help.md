@@ -1,7 +1,3 @@
-<thinking>
-This form is to help us better understand your feelings and experiences in your relationship. It's intended to gather information about your satisfaction with your relationship and areas where you may need improvement. Please answer each question honestly, and don't worry about being brief or extensive in your responses. This form should not take longer than 10-15 minutes to complete.
-</thinking>
-
 # relationship_satisfaction_survey - Help Guide
 ## Purpose
 This form is to help us better understand your feelings and experiences in your relationship, gathering information about your satisfaction and areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their digital banking experience with our institution. This information will help us identify areas of improvement and make data-driven decisions to enhance our services.
-</thinking>
-
 # Digital Banking Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with our digital banking services. Your input is valuable to us and will help us improve our services to better meet your needs.

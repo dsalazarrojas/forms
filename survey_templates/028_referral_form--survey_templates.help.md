@@ -1,8 +1,3 @@
-<thinking>
-This form was generated to collect patient referral information for healthcare-related purposes. It is meant to be a template for clinics, hospitals, and other healthcare institutions to gather details about patients and their insurance information. The purpose of this form is to standardize patient data collection and streamline referral processes.
-This form does not duplicate any existing form platforms and is an original creation. It is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # referral_form - Help Guide
 ## Purpose
 The referral form is designed to collect essential information about patients, including their demographics, insurance details, and contact information. This data will help healthcare professionals to quickly and efficiently process referrals and ensure that patients receive timely and quality care.

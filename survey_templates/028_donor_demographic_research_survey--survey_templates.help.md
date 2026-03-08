@@ -1,15 +1,3 @@
-<thinking>
-
-This form was generated using AI to create a template for donor demographic research surveys. The purpose of this form is to collect information from donors, such as their demographic details and contact information, as well as their answers to survey questions. This form is designed to be used by organizations or researchers to gather data for their studies or programs.
-
-Before you start filling out this form, please note that:
-
-* You are not affiliated with, endorsed by, or derived from any form platform.
-* This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it.
-* Contact us at [form@gic.mx](mailto:form@gic.mx) for any questions or concerns.
-
-</thinking>
-
 # Donor Demographic Research Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information and contact details from donors, as well as their answers to survey questions, to aid organizations and researchers in their studies or programs.

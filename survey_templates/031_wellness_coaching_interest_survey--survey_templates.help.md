@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be a user-facing guide for the "Wellness Coaching Interest Survey" form. This survey is designed to gauge users' interest in wellness coaching, their preferences, and goals. The form asks about various aspects of wellness coaching, including health goals, coaching style, frequency, and motivation level. The purpose of this survey is to help coaches understand potential clients' needs and provide relevant coaching services. This guide is meant to be concise and practical, explaining each field in a way that's easy to understand.
-
-</thinking>
-
 # Wellness Coaching Interest Survey - Help Guide
 ## Purpose
 The Wellness Coaching Interest Survey is designed to help coaches understand potential clients' needs and provide relevant coaching services. This survey is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using AI.

@@ -1,10 +1,3 @@
-<thinking>
-The "Payroll System Performance Survey" is a form designed to gauge the performance of your Payroll System. It collects information about employees, their departments, job titles, locations, and performance ratings. This form is likely used to assess the effectiveness of your payroll system in meeting the needs of employees and the organization. It may be used in conjunction with other metrics to inform improvements to the Payroll System.
-
-Before proceeding, please ensure that the form is not being used for duplicate purposes or to collect unnecessary information. This form is meant to be a one-time assessment of the Payroll System.
-
-</thinking>
-
 # Payroll System Performance Survey - Help Guide
 ## Purpose
 

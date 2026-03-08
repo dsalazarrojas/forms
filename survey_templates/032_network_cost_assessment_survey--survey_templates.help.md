@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess network costs for a specific period. It is intended to be used by various stakeholders who need to evaluate and report on network expenses. It is recommended that the form is filled in by authorized personnel only, to prevent duplication and ensure accurate data entry. Please fill in the form only if you are authorized to do so.
-</thinking>
-
 # Network Cost Assessment Survey - Help Guide
 
 ## Purpose

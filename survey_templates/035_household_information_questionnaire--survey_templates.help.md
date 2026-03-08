@@ -1,13 +1,3 @@
-<thinking>
-**Form purpose:** The goal of this form is to collect household information from clients or customers. It captures essential details about the household, including contact information, income, and household type. 
-
-This form is likely used for administrative or organizational purposes, such as data collection, research, or customer relationship management.
-
-**Form relevance:** The form is designed for households and individuals to provide accurate and consistent data about their living situations, which is crucial for various organizations or businesses to better serve their clients.
-
-**Non-duplication check:** To avoid duplication, this form should not be filled out by individuals or families with existing records already in the system.
-</thinking>
-
 # Household Information Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential household information from clients or customers.

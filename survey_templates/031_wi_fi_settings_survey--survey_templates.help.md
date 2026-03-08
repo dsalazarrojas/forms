@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information about users' Wi-Fi settings and experiences, which will help in understanding their requirements for a better and more efficient Wi-Fi service.
-It is recommended to complete this form carefully, ensuring accurate and honest responses. Please take a few minutes to review the form carefully before submitting it.
-</thinking>
-
 # Wi-Fi Settings Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your current Wi-Fi settings and experiences. This will help us better understand your needs and provide more suitable Wi-Fi services.

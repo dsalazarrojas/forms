@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user opinions and responses on current affairs, with the aim of gathering information and feedback from users on various topics. The form consists of several pages with different types of questions, such as text, select_one, select_multiple, time, number, and note. The user can navigate through the pages using the provided navigation links. 
-
-This form is intended to be completed by a single user, and it is not designed for multiple user input. The responses will be stored for internal use and will not be shared or displayed publicly. 
-
-Before filling out this form, please ensure that you have read and understood the purpose and instructions carefully. If you have any doubts or concerns, please contact the form administrator.
-
-</thinking>
-
 # Current Affairs Quiz - Help Guide
 ## Purpose
 This form is designed to collect user opinions and responses on current affairs. It is intended to gather information and feedback from users on various topics.

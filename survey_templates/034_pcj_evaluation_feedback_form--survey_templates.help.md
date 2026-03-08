@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the PCJ (PC Journey) evaluation process. The form is used to gauge the overall satisfaction of the users with the PCJ evaluation process, and to identify areas of improvement. It is not intended for general comments or free-form text, but rather for specific, actionable feedback. Please ensure that you have completed the evaluation process before providing feedback, and that your feedback is focused on the specific questions and areas listed.
-</thinking>
-
 # PCJ Evaluation Feedback Form - Help Guide
 ## Purpose
 The PCJ Evaluation Feedback Form is used to collect specific feedback from users on the PCJ evaluation process.

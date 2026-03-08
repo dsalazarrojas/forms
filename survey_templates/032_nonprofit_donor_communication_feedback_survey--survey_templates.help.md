@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from nonprofit donors on their communication preferences. The form will help identify areas of improvement for the nonprofit organization's communication strategy, specifically on frequency and channels of updates. It will also help confirm donors' identities and ensure that the organization has accurate contact information for future communications.
-</thinking>
-
 # Nonprofit Donor Communication Feedback Survey - Help Guide
 
 ## Purpose

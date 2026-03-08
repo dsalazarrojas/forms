@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect user feedback on their health and well-being. It's essential to answer this form accurately and honestly to help healthcare professionals better understand your needs and provide the best care possible. Please make sure to answer this form only once, as duplicate submissions can lead to confusion and inaccurate data.
-
-This form is divided into several sections that will help you assess your health from different angles. It's recommended to answer each section thoroughly and to the best of your ability.
-
-</thinking>
-
 # Health Sociology Assessment - Help Guide
 ## Purpose
 The Health Sociology Assessment form is designed to gather information on your health and well-being from various perspectives. It consists of several sections that cover different aspects of your life, including health behaviors, self-rated health, social factors, family support, community health, education, health care, health outcomes, and mental health. This form is used to help healthcare professionals understand your needs and provide you with the best possible care.

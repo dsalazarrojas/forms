@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anxiety Self Reflection Form - Help Guide
 
 ## Purpose

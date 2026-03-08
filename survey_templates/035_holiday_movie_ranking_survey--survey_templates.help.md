@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed to gather information about users' preferences and habits regarding holiday movies. The form's purpose is likely to collect data on what types of holiday movies users enjoy, how often they watch them, and with whom. 
-
-To avoid duplication and ensure accurate results, users may want to complete each question with the same level of detail and honesty.
-</thinking>
-
 # holiday_movie_ranking_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your holiday movie viewing habits. It includes multiple questions about your preferences and behaviors surrounding holiday movies. Your participation is greatly appreciated, and it will help us to better understand what makes holiday movies special to users like you.

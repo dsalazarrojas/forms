@@ -1,11 +1,3 @@
-<thinking>
-This is a help guide for the "Men’s Hair Styling Product Usage Survey" form. The purpose of this form is to gather information about the usage of hair styling products among men. This form is designed to be completed by men who use hair styling products, and it will help us understand their usage habits, preferences, and experiences with these products.
-
-Before you start, please note that this form is for men's hair styling product usage only. If you are not a male or do not use hair styling products, please do not fill out this form.
-
-Please complete this form if you are a male who uses hair styling products. Your responses will be kept confidential and will help us to better understand your needs and preferences.
-</thinking>
-
 # Men’s Hair Styling Product Usage Survey - Help Guide
 ## Purpose
 

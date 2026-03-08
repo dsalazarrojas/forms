@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a survey on software freedom principles, which are a set of guidelines for creating software that prioritizes user autonomy, creativity, and control. The survey aims to gather information on how well software development teams and products adhere to these principles. The form is structured to gather data on the different pages of a software application, allowing the user to provide feedback on each page's content, design, and functionality. This data will help in assessing the level of freedom provided to users in each page of the software. 
-</thinking>
-
 # software_freedom_principles_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on how software applications adhere to software freedom principles. It consists of 10 pages, each representing a different aspect of a software application. By providing feedback on each page, you'll help us understand how well users are able to use the software freely.

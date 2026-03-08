@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess an organization's digital transformation maturity level, focusing on various aspects such as digital capabilities, business process integration, data management, security, communication, collaboration, and digital transformation challenges. The purpose of this form is to gather information on an organization's current state of digital transformation, including its challenges, readiness, leadership, skills, culture, investment, return on investment, and project success.
-
-Please note that this form is a self-assessment tool and not a formal certification process. It's intended to help organizations evaluate their digital transformation journey progress and identify areas for improvement.
-
-Before starting, please ensure that the form is relevant to your organization's current state and goals. If you're unsure or have any questions, feel free to contact us.
-
-</thinking>
-
 # Digital Transformation Maturity Survey - Help Guide
 ## Purpose
 The Digital Transformation Maturity Survey is a tool to help organizations assess their current state of digital transformation, including their capabilities, processes, and challenges.

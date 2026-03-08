@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to conduct a self-audit on various aspects of an individual's job experience, specifically targeting their perceptions of work-life balance, job security, leadership support, communication, and overall job satisfaction. This form aims to collect data on how employees rate their feelings about these aspects, which can be used to identify areas that need improvement.
-</thinking>
-
 # self_audit_likert_scale_survey - Help Guide
 ## Purpose
 This form is designed to collect data on your feelings about various aspects of your job experience. The questions are Likert scale-based, meaning you'll select one of the provided options to express your level of agreement or satisfaction.

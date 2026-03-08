@@ -1,12 +1,3 @@
-<thinking>... internal reasoning about the form purpose and relevance checks ...
-
-The purpose of this form is to gather feedback on fire safety compliance from facilities and users. The form is intended to be used for internal purposes within a specific organization to ensure fire safety practices are adequate and effective. 
-
-The form is not intended to be used for official regulatory reporting or external communication. The questions and fields in this form are designed to be answered by personnel responsible for fire safety, such as facilities managers and safety officers. 
-
-Please ensure that you are authorized to complete this form as it contains sensitive information about your facility's fire safety practices. 
-
-</thinking>
 # Fire Safety Compliance Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on fire safety compliance from facilities and users. It helps the organization identify potential issues and areas for improvement. Please answer the questions honestly, and provide specific examples or details when possible.

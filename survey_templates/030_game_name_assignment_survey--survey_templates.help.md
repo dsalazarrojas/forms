@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to help game designers assign a name to a game, which is a crucial step in the game development process. It's essential to ensure that the game title accurately reflects the game's genre and theme. This form will help streamline the game naming process, reducing the likelihood of duplicated or misassigned names. Please review the form carefully to ensure you are providing accurate and relevant information.
-</thinking>
 # Game Name Assignment Survey - Help Guide
 ## Purpose
 The Game Name Assignment Survey is a form used to assign a name to a game. It is designed to help game designers provide accurate and relevant information about the game's title, preferred genre, and other relevant details.

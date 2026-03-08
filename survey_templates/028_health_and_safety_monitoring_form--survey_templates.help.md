@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information related to employee health and safety incidents. It is crucial that you only complete this form for incidents that occur while working. Please do not submit duplicate forms for the same incident.
-</thinking>
-
 # health_and_safety_monitoring_form - Help Guide
 ## Purpose
 This form is designed to collect information about employee health and safety incidents that occur during work hours. It helps in tracking and managing such incidents, ensuring a safe working environment.

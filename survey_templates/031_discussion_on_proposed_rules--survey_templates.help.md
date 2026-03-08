@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discussion On Proposed Rules - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about proposed rules from users. The purpose of this form is to gather input from multiple categories, allowing administrators to understand user preferences and adjust proposed rules accordingly. It is essential to provide accurate and clear information for this form to function correctly.

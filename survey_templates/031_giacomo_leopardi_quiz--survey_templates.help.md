@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to administer a quiz about Giacomo Leopardi, an Italian composer and composer of the Neapolitan School of music. This form is meant to gauge the user's understanding of Leopardi's life and works. It's essential to ensure that users answer the questions truthfully and accurately to provide a reliable assessment. Before starting the quiz, please verify that you haven't already taken it, as it might affect the scoring and analysis of your responses. If you're ready to begin, please proceed to the next section.
-</thinking>
-
 # Giacomo Leopardi Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about Giacomo Leopardi, a renowned Italian composer. It consists of three pages of questions, each with a different type of question type.

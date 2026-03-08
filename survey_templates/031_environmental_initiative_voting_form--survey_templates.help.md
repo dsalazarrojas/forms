@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a tool for users to participate in voting for environmental initiatives. The form likely aims to gather information on community input, sustainability priorities, organization size, contact information, and additional comments. It's possible that the form is used to gauge public opinion on environmental issues, gather data on community engagement, and track progress of sustainability initiatives. However, without further context, it's uncertain whether this form is for internal or external use, or if it's part of a larger system for tracking and analyzing environmental data. Before completing this form, please ensure that you are eligible to participate and that you are not duplicating your input. If you are unsure, contact the form administrators for clarification.
-</thinking>
-
 # Environmental Initiative Voting Form - Help Guide
 ## Purpose
 The Environmental Initiative Voting Form is designed to collect information from users on various environmental initiatives and priorities.

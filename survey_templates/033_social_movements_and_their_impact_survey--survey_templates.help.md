@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about social movements and their impact. It is intended to gather data on various aspects of social movements, including awareness, participation, outcomes, movement type, name, cause area, description, statement, participant, number, location, start date, end date, and response. The form will help researchers and analysts understand the dynamics of social movements and their effects on society.
-
-Before starting the form, please ensure that you are not duplicating existing data and that your information is relevant to the topic.
-
-</thinking>
-
 # Social Movements And Their Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect data on social movements and their impact.

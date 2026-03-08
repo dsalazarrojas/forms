@@ -1,10 +1,3 @@
-<thinking>
-This guide provides an overview of the Patient Task Observation Survey form.
-The form is used to capture information about patient interactions and progress in a healthcare setting. It is a crucial tool for healthcare professionals to document and track patient data for better care and communication.
-The form helps healthcare workers gather data on various aspects of patient treatment, such as patient name, therapist name, date of visit, observed tasks, and other relevant information.
-Before starting, ensure that you are authorized to access and complete this form. If you have filled out this form previously, please make sure you do not duplicate your efforts.
-</thinking>
-
 # Patient Task Observation Survey - Help Guide
 ## Purpose
 The Patient Task Observation Survey form is a crucial tool for healthcare professionals to document and track patient data in a structured manner. It helps to improve the quality of care provided to patients and enhances communication between healthcare workers.

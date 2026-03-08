@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback from users about a sewing pattern, likely after they have used it. The purpose of this form is to gather information about the user's experience with the pattern, including whether or not they found it helpful, what type of pattern it was, what fabric they used, how difficult it was, if they have any comments, if they would like to be contacted, and their contact information. This form will help us understand how to improve our sewing patterns in the future. 
-</thinking>
-
 # Sewing Pattern Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a sewing pattern. It will help us understand how to improve our patterns in the future.

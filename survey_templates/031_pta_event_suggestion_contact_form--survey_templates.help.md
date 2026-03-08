@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a template based on the topic "PTA Event Suggestion" and "Contact Form". It aims to collect suggestions and feedback from users, allowing PTA (Parent-Teacher Association) to receive input on potential events to organize. The form is not affiliated with or endorsed by any form platform and is released under CC BY 4.0. This guide will help users understand the purpose and structure of the form, ensuring they complete it correctly and effectively.
-</thinking>
-
 # PTA Event Suggestion Contact Form - Help Guide
 ## Purpose
 The PTA Event Suggestion Contact Form is designed to collect event suggestions from users, allowing the Parent-Teacher Association to consider and plan events that cater to the community's needs and interests.

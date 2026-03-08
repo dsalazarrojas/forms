@@ -1,13 +1,3 @@
-<thinking>
-This form is used for weekly meetings feedback, likely from team members, managers, or other relevant stakeholders. The purpose of this form is to gather information about the meetings, such as attendance, topics discussed, and feedback. The form is not intended for complex or detailed analysis, but rather for concise and informal feedback. It's possible that this form is used in conjunction with other tools or processes for more in-depth reviews.
-
-Form fields are organized into sections, and most fields are optional, suggesting that the form is meant to be simple and user-friendly. The "meeting_participants" field is a select multiple field, which could imply that users can select multiple participants, but no further details about this field are available in the YAML.
-
-The form also includes fields for rating and additional feedback, which could be used for quantitative and qualitative assessment of the meetings.
-
-This guide will cover the form's purpose, how to fill it out, and an explanation of each field's purpose and how to use it.
-</thinking>
-
 # Weekly Meetings Feedback Form - Help Guide
 ## Purpose
 The Weekly Meetings Feedback Form is used to gather feedback about weekly meetings. Please fill out the form below to provide your feedback.

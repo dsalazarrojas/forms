@@ -1,6 +1,3 @@
-<thinking>
-The "Final Expense Quote Survey" form is designed to collect information about a client's insurance policy details. This form is likely used by insurance agents or brokers to gather information from clients to provide them with accurate quotes for their policies. The form should only be completed once per policy, and any duplicate submissions for the same policy should be avoided. Please ensure you are filling out the form for the correct policy and not duplicate any existing information.</thinking>
-
 # Final Expense Quote Survey - Help Guide
 ## Purpose
 This form is used to collect information about a client's insurance policy details. It should only be filled out once for each policy.

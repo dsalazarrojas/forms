@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the software interface. The form's purpose is to identify areas of improvement and suggestions from users to enhance their experience. The form is intended to be completed by software users, developers, and other stakeholders involved in the development process. 
-
-Please note that this form is a general feedback tool and might not be specific to a particular product or software version. 
-
-It is recommended to fill out the form thoroughly and honestly to provide the best possible input for the development team. 
-
-Also, please ensure that you are filling out the form for a specific reason, and it's not a duplicate of a previous feedback submission. 
-</thinking>
-
 # software_interface_update_feedback_survey - Help Guide
 ## Purpose
 

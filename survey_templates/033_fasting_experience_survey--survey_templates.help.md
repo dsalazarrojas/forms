@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user's experiences and perceptions about fasting, including their motivations, frequency, duration, and overall satisfaction. This form is intended for internal use only and is not meant to be filled out by end-users. Please ensure that you are accessing this form as part of your role or authorized access. If you are unsure, please return to your main menu without filling out the form. If you have filled out the form previously, your answers will not be affected.
-</thinking>
-
 # Fasting Experience Survey - Help Guide
 ## Purpose
 

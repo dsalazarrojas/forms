@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Result Summary - Help Guide
 ## Purpose
 This form is used to collect details and outcomes of events, allowing you to document and track the progress of various events. The Event Result Summary form is a key tool for providing a comprehensive overview of event results, enabling you to make informed decisions and take action accordingly.

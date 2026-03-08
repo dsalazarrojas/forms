@@ -1,17 +1,3 @@
-<thinking>
-The "responsive-interview-questionnaire-form" is a comprehensive form designed to gather information from job applicants. It is used to assess their suitability for a position within the company. The form is divided into two main sections: "Contact Information" and "Job Application Information". The "Contact Information" section collects basic details about the applicant, while the "Job Application Information" section asks questions related to their work experience, education, and personal preferences.
-
-This form is intended to be completed by job applicants to provide the company with a better understanding of their qualifications and fit for the role. It is not intended for internal use within the company.
-
-Note: To ensure the form is completed correctly, applicants should follow these steps:
-
-* Fill in all required fields
-* Choose the correct answers for each question
-* Do not leave any section blank without filling in any relevant information
-
-Also, please ensure that the answers are accurate and complete, as this information will be used to assess their application.
-</thinking>
-
 # responsive-interview-questionnaire-form - Help Guide
 ## Purpose
 The "responsive-interview-questionnaire-form" is a comprehensive form designed to gather information from job applicants to assess their suitability for a position within the company.

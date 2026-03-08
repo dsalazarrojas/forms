@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roots Evaluation Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help individuals reflect on and document their boundaries within their relationships, including with their spouse, family, and in specific contexts. It is intended to be a personal and introspective exercise to help users understand their boundaries and how they can be improved or maintained. This form is not meant to be a one-time task, but rather an ongoing process to be revisited regularly to track changes and progress.
-
-</thinking>
-
 # Marriage Boundaries Journal Form - Help Guide
 ## Purpose
 This form is designed to help you document and reflect on your boundaries within your relationships, specifically with your spouse, family, and in different contexts. It will help you identify areas where you may need to establish or adjust your boundaries.

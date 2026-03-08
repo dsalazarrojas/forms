@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experiences with sports facilities. The form has four pages, each with a specific purpose:
-- Page 1: A general feedback page for users to provide their thoughts about the sports facilities.
-- Page 2: Users are asked to select the type of facility they visited.
-- Page 3: Users can provide more detailed feedback on what can be improved.
-- Page 4: Users are asked to rate their overall experience.
-- Page 5: A final page for users to submit their feedback.
-
-Before completing this form, please ensure you have visited the sports facilities and have a genuine experience to share. Also, please ensure that you are not duplicating a feedback already submitted.
-
-</thinking>
-
 # Sports Facilities Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences with sports facilities. The feedback will help us understand areas of improvement and ensure that our sports facilities meet your expectations.

@@ -1,10 +1,3 @@
-<thinking>... internal reasoning block to check form purpose and non-duplication ...
-
-Given the form's internal reasoning block:
-- The neurodivergent_identification_survey form is intended to help identify individuals with neurodevelopmental disorders, such as Autism Spectrum Disorder (ASD), Attention Deficit Hyperactivity Disorder (ADHD), and others. This form collects information about the individual's age, contact details, and their self-identification as neurodivergent. It also allows for additional comments and self-reflection, which can be used to better understand the individual's needs and experiences.
-- This form is designed to be filled out by individuals who may be seeking support or accommodations for their neurodevelopmental disorder.
-</thinking>
-
 # neurodivergent_identification_survey - Help Guide
 
 ## Purpose

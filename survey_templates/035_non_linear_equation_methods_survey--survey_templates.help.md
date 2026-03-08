@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information on the methods and techniques used in signal processing, specifically focusing on non-linear equation methods. The goal is to understand how often users employ these methods, how they choose them, how they validate the results, and what role they play in signal processing. This form is meant to be completed by individuals with knowledge and experience in signal processing. It's essential to complete the form accurately, as the information gathered will help improve the understanding and application of non-linear equation methods in signal processing.
-It's recommended to answer this form only once, unless there are significant changes in the user's experience or understanding of non-linear equation methods. If you're unsure about any question, please provide additional context or clarification in the "Any additional comments?" field at the end of the form.
-Please note that all fields are optional unless marked as required. If you're unable to answer a question, you can choose "Other (please specify)" or provide additional information in the "Any additional comments?" field.
-Before starting, please review the questions carefully and answer them as accurately as possible. If you need help or clarification on any question, please don't hesitate to ask.
-</thinking>
-
 # Non Linear Equation Methods Survey - Help Guide
 
 ## Purpose

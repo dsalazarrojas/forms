@@ -1,9 +1,3 @@
-<thinking>
-We've built this form to gather information from patients about their experience in the waiting room. The purpose of the form is to help us improve our waiting room services, ensuring that patients have a comfortable and pleasant experience during their visit. Please note that this form is optional, and you can leave it blank if you don't have any feedback to provide.
-
-Before proceeding, please make sure you have not completed this form during your current visit, as this form is designed to capture feedback from one-time visits. If you have already completed this form, please do not submit it again.
-</thinking>
-
 # Waiting Room Feedback Form - Help Guide
 ## Purpose
 The Waiting Room Feedback Form is designed to gather information from patients about their experience in the waiting room. This feedback will help us improve our services to ensure a more comfortable and pleasant experience for our patients.

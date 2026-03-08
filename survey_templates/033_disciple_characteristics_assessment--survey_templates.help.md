@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help assess the characteristics of a disciple, covering various aspects of their spiritual growth, relationships, and practices. The assessment includes sections that measure their reflection of God, relationship with Jesus, prayer, reading, worship, community involvement, service to others, giving, emotional maturity, leadership abilities, personal growth, discipleship growth, discipleship praxis, discipleship theory, spiritual praxis, personal intimacy with Christ, discipleship theory, discipleship praxis, personal intimacy with others, relationship with Christ-like people, relationship with non-believers, spiritual discipline, and prayer and worship.
-
-Before starting the assessment, please ensure that you have not previously completed it for this user. If you're unsure about the assessment or have questions, please consult with the system administrator.
-
-This guide is divided into sections that provide a step-by-step explanation of how to complete the form.
-</thinking>
-
 # Disciple Characteristics Assessment - Help Guide
 ## Purpose
 The Disciple Characteristics Assessment is a survey designed to evaluate a disciple's characteristics and behaviors related to their spiritual growth, relationships, and practices.

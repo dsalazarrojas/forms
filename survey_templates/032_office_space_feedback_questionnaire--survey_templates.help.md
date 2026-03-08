@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide assumes that you are an employee who wants to provide feedback on the office space. The Office Space Feedback Questionnaire is a form designed to collect information about your office experience, allowing us to understand your thoughts on the working environment. Please note that this form is not mandatory, and you can choose to skip it if you're unsure or do not have any comments to share.
 
 This guide will walk you through each field of the form and explain what to expect.

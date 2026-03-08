@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from designers about their availability for the Designer Spotlight Series. The form is intended to gather essential details such as designer's availability, interview schedule, coordinator details, and other relevant information. 
-This form is not intended to be used for commercial purposes or any other purpose not related to the Designer Spotlight Series.
-</thinking>
-
 # Designer Spotlight Series Availability - Help Guide
 ## Purpose
 The "Designer Spotlight Series Availability" form is designed to collect information from designers about their availability for participation in the Designer Spotlight Series. This includes their interview schedule, coordinator details, and other relevant information.

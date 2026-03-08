@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Risk Mitigation Insight Survey" form. The form is designed to collect insights on risk mitigation strategies and their effectiveness. As an expert form designer and technical writer, I must ensure the guide is concise, practical, and easy to follow. To achieve this, I will draw from the provided YAML fields and explain each section in a way that is clear and concrete. I will also provide a brief internal reasoning block to justify the form's purpose and ensure it's not duplicating existing forms.
-</thinking>
-
 # Risk Mitigation Insight Survey - Help Guide
 
 ## Purpose

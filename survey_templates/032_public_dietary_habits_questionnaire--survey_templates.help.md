@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Dietary Habits Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to collect information about your public dietary habits. Your responses will help us understand your eating patterns and behaviors. Please answer the questions honestly and to the best of your ability.

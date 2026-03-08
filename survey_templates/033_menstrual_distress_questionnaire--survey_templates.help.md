@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning:** 
-The Menstrual Distress Questionnaire form is intended to collect information about an individual's overall health status, symptoms, and experiences related to menstruation. This form is likely used for research, clinical, or health-related purposes, aiming to provide a standardized assessment of menstrual distress. 
-The form consists of 25 fields, covering various aspects of menstual health, including overall health status, physical and emotional symptoms, interference with daily life, and medical history. Some fields are date-related, while others ask for text-based descriptions of symptoms or experiences.
-This form's purpose is likely to help healthcare professionals or researchers understand an individual's menstual health better. However, it's essential to ensure that the form is completed accurately and consistently to gather reliable data. 
-To avoid duplication of efforts or incorrect information, it's crucial that users understand each field's purpose and relevance to the overall menstual health assessment.
-</thinking>
-
 # Menstrual Distress Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's menstual health status, including symptoms, experiences, and medical history.

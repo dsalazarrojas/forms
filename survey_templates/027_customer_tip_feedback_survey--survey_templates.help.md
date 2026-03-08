@@ -1,9 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for a form designed to collect customer feedback on tips given to staff. This form, titled "Customer Tip Feedback Survey," is intended to gather information on customers' satisfaction scores, tip amounts, and frequency of tips, as well as their perceptions of staff friendliness, professionalism, and the implementation of tip policies. By understanding these factors, businesses can identify areas for improvement and make data-driven decisions to enhance customer experience.
-We've reviewed the form's schema and noticed that it contains fields for customer name, contact number, email address, satisfaction score, tip amount, tip frequency, service quality score, staff friendliness, staff professionalism, tip policies, tip frequency policies, and survey completion time. While most fields are not required, they all contribute to a comprehensive picture of customer feedback.
-
-</thinking>
-
 # Customer Tip Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on their tip experiences, helping businesses understand their customers' satisfaction levels, tip habits, and perceptions of staff behavior. Your responses will help us improve our services and make your experience better.

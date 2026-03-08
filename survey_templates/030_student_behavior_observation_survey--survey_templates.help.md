@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, I'll start by analyzing the provided YAML form structure and creating an internal reasoning block to understand the form's purpose and potential issues.</thinking>
-
 # Student Behavior Observation Survey - Help Guide
 ## Purpose
 

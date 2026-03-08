@@ -1,13 +1,3 @@
-<thinking>
-
-The Trading Card Stats Form is designed to collect information about trading cards. This form is likely intended to record data for a collection or inventory of trading cards, possibly for a trading card game or collectibles enthusiast community. The form asks for details such as the card's title, rarity, condition, price, and other relevant attributes that help to identify and track specific cards. This information can be used to create a comprehensive database or registry of cards.
-
-This form might be part of a larger application or website that allows users to submit, track, and manage their trading card collections. The form's design suggests that it is meant to be filled out by users who have access to the trading cards' details, such as collectors, traders, or administrators of the collection.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Trading Card Stats Form - Help Guide
 
 ## Purpose

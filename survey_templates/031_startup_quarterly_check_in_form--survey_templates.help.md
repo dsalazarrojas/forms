@@ -1,9 +1,3 @@
-<thinking>
-
-We're creating a help guide for the "Startup Quarterly Check In Form". This form is used to help startups track their progress and provide updates on a regular basis. The form is meant to be completed by startup teams to report on their current status, financial performance, and future plans. It's essential to provide accurate and clear information to help the startup receive valuable feedback and guidance from mentors and investors.
-
-</thinking>
-
 # Startup Quarterly Check In Form - Help Guide
 
 ## Purpose

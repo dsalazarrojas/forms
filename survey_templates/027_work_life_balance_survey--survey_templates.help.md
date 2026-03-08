@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture information about an individual's work-life balance, with questions covering various aspects of their daily routine, including sleep patterns, work schedule, and overall satisfaction with work and life. The goal of this form is to gather data to help users understand their balance between work and personal life.
-
-Before proceeding, please review the form carefully to ensure that you are not already participating in a similar survey or project. If you've already completed a similar form or survey, your participation in this survey will not provide additional value and might compromise the data quality.
-
-This guide will help you understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # Work Life Balance Survey - Help Guide
 ## Purpose
 This form is designed to assess your work-life balance and gather information about your daily routine, satisfaction, and habits.

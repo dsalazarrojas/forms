@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's ensure the form purpose, relevance, and potential duplication. Based on the provided YAML fields, it seems the form is designed to collect customer feedback and satisfaction data. The form has multiple questions with varying types, such as text, select_one, select_multiple, number, and date. To the best of my understanding, this form is likely used for customer satisfaction surveys. To avoid duplication, we should ensure that each question is distinct and provides valuable insights for the business.</thinking>
-
 # Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect customer feedback and satisfaction data. The purpose of this form is to gauge customer experience and identify areas for improvement in our services.

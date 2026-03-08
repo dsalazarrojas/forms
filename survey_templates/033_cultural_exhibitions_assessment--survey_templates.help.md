@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and assessment data from users after they have visited a cultural exhibition. The form is designed to gather information on the exhibition name, user's feedback, rating, suggestions, contact details, time spent, and their favorite part of the exhibition. This information can help exhibition organizers and staff to better understand user's experience and improve future events. It's essential to fill out this form carefully and honestly, as it will help to create more enjoyable and engaging experiences for all attendees. Please make sure to fill in all the required fields, unless otherwise specified in the form instructions. If you need help with anything, feel free to ask.
-
-This form is intended to be a one-time submission per user, to avoid duplication of feedback. If you have already filled this form, please do not fill it again. Thank you for your cooperation!
-</thinking>
-
 # cultural_exhibitions_assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and assessment data from users after they have visited a cultural exhibition.

@@ -1,9 +1,3 @@
-<thinking>As a customer experience researcher, our goal is to collect feedback from customers about their payment processing experience. This survey template is designed to gather information about the customer's satisfaction with the payment process, any issues they may have encountered, and their suggestions for improvement. We are looking for both positive and negative feedback to identify areas of strength and weakness in our payment processing systems.
-
-This template includes a mix of multiple-choice questions and open-ended fields to gather detailed information from customers about their experience. Please take your time to complete this survey and provide as much information as possible, as it will help us to improve our services and provide better experiences for our customers.
-
-</thinking>
-
 # Payment Processing Experience Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your experience with our payment processing system. We want to know about your satisfaction with the payment process, any issues you encountered, and your suggestions for improvement.

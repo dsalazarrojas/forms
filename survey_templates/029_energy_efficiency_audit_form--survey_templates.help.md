@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information about an energy efficiency audit, which is a process to identify and analyze ways to reduce energy consumption in buildings or facilities. It is likely used by facility managers, building owners, or energy auditors to gather data on the energy usage and identify areas for improvement. This form should only be used for this specific purpose and not for other types of audits or inspections.
-</thinking>
-
 # Energy Efficiency Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information about energy efficiency audits. It is intended for facility managers, building owners, or energy auditors to gather data on energy usage and identify areas for improvement.

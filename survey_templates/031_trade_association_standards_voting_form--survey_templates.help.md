@@ -1,8 +1,3 @@
-<thinking>
-This form is a Trade Association Standards Voting Form, designed to collect data and opinions on standards within a trade association. It appears that this form is intended to gather information on various topics related to the trade association, likely for the purpose of creating or revising standards within the industry. However, without further context or information about the specific topics or sections, it is difficult to determine the exact purpose of each section. It is possible that the form is designed to be highly flexible and adaptable to different trade associations and their specific needs. 
-It is recommended to review the form carefully and ensure it is relevant to the specific trade association it is being used by. 
-</thinking>
-
 # Trade Association Standards Voting Form - Help Guide
 ## Purpose
 This form is designed to collect data and opinions on standards within a trade association. 

@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to be used by producers to fill out a profile form for internal use. This form is meant to gather information about producers, which may be used for internal purposes such as categorization or reporting. Please ensure that you have read this entire guide before proceeding.
-
-This form will only be used for producers who are currently registered with our organization. If you're a new producer, please create your profile first before filling out this form.
-
-If you have already filled out this form, please do not repeat the information.
-</thinking>
-
 # producer_profile_2 - Help Guide
 ## Purpose
 This form is used to collect and store information about existing producers for internal purposes such as categorization and reporting.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide a comprehensive assessment of an individual's knowledge and skills in threat modeling, a critical practice in cybersecurity and risk management. This form will help evaluate the user's understanding of threat modeling principles, risk analysis, threat detection methods, and mitigation strategies. The form's 25 questions cover various aspects of threat modeling, including threat detection, mitigation, prevention, and response, allowing the user to demonstrate their expertise in these areas. This form is a valuable tool for assessing and improving threat modeling knowledge and skills, which is essential for identifying and mitigating potential security threats.
-To ensure that the form is completed accurately and effectively, please review the following guidelines:
-* Ensure you have a good understanding of the subject matter, as the form requires specific knowledge and skills in threat modeling.
-* Complete the form in a quiet, distraction-free environment, free from interruptions.
-* Take your time to carefully read each question and understand its requirements.
-* Use the available options to select the most accurate response for each question.
-* Ensure that you answer all required questions.
-</thinking>
 # Threat Modeling Quiz - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge and skills in threat modeling, a critical practice in cybersecurity and risk management.

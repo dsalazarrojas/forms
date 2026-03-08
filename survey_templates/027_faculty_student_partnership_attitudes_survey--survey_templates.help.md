@@ -1,8 +1,3 @@
-<thinking>
-The Faculty Student Partnership Attitudes Survey form is designed to gather opinions and attitudes from faculty and students on their partnership and collaboration. This form helps administrators and decision-makers understand the current state of faculty-student collaboration and partnership. The form is not intended for daily operations, but for strategic planning and evaluation purposes. Before completing this form, please make sure you have a clear understanding of the questions asked and are not duplicating efforts. This form should only be completed by faculty and students who have had direct interaction or collaboration with their partners.
-
-</thinking>
-
 # Faculty Student Partnership Attitudes Survey - Help Guide
 
 ## Purpose

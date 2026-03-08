@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to collecting feedback and satisfaction data from voters regarding their experience with elections, tools, or other election-related processes. It's likely used to monitor and evaluate the effectiveness of these processes. To ensure relevance and non-duplication, it's essential to confirm that the purpose of this form aligns with the organization's objectives and doesn't overlap with existing feedback mechanisms.
-</thinking>
-
 # Voter Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Voter Satisfaction Questionnaire is designed to collect information about voters' experiences, levels of satisfaction, and feedback on election processes. This form will help the organization to better understand areas of improvement and make informed decisions for future elections.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a survey designed to assess an individual's reading habits and attitudes towards reading. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation using public survey topic metadata. The form is intended to gather information on how often individuals engage in various forms of reading, including fiction and non-fiction, for different purposes, such as leisure, education, work, or self-improvement. The survey is designed to be completed by individuals, likely in an educational or professional setting.
-
-The survey is not intended to be a comprehensive or scientifically validated instrument, but rather a tool to gather general information on reading habits and attitudes. It is not a substitute for more in-depth, standardized, or research-based measures of reading attitudes.
-
-Please note that some questions in this survey are optional, and respondents are free to answer them if they feel comfortable doing so.
-
-</thinking>
 # Reading Attitudes Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your reading habits and attitudes.

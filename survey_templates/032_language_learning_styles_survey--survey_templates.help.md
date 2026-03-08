@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's language learning styles and preferences. This data can help inform the development of more effective language learning strategies and materials. The form is designed to be user-friendly and easy to complete. Before starting, ensure you have not previously completed this form to avoid duplication of data.
-</thinking>
-
 # Language Learning Styles Survey - Help Guide
 ## Purpose
 The Language Learning Styles Survey is designed to gather information about your language learning preferences and styles to help develop more effective language learning strategies and materials.

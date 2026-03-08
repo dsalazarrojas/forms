@@ -1,16 +1,3 @@
-<thinking>
-This form is a Volunteerism Survey, designed to collect information about volunteers. The form has multiple pages, each containing a series of text input fields with varying labels. Upon completing this form, users will be able to provide details about volunteers, including names and other relevant information.
-
-To ensure the form's purpose is clear, we will assume it's used to gather data about volunteers for internal management and coordination purposes within an organization.
-
-This form does not duplicate or copy content from other form platforms, but instead, it uses AI-generated metadata as inspiration.
-
-Given the form's structure, it's possible that some of the fields might be duplicates or seem redundant. However, each field could potentially serve a specific purpose based on the provided label or hint text, or even be used as an additional input point of contact in case previous fields are filled in incorrectly or incompletely.
-
-To avoid any confusion, the following guide will provide a clear understanding of the form's purpose and how to complete each field.
-
-</thinking>
-
 # Volunteerism Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about volunteers for internal management and coordination purposes.

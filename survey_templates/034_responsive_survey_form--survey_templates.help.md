@@ -1,10 +1,3 @@
-<thinking>
-This is a survey form designed to gather feedback from users about our website. The form is called "Responsive Survey Form" and is used to understand user's opinions and experiences with our website. The form has 25 questions, each with different types of questions such as select_one, select_multiple, number, and text. This form is designed to be completed by a user in a few minutes.
-We want to use this form to understand how users interact with our website, what they like or dislike, and what we can improve to provide better user experience.
-We ask users about their experience with our website, their ratings and opinions, and any other comments or feedback. We also ask about their interaction with our website's competitors.
-We do not require a user's data to be complete all questions, and users can answer as many or as few questions as they want.
-</thinking>
-
 # Responsive Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about our website's usability, customer support, and overall experience.

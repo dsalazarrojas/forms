@@ -1,7 +1,3 @@
-<thinking>
-The Award Theme Selection Survey is a form designed to collect information on users' preferences and ideas for future themes. It is intended for users who want to participate in the theme selection process. The form has several sections and fields that cater to different aspects of the theme selection process. Before proceeding, please ensure you are not duplicating any previous submission, and make sure you are aware of the purpose and scope of this form.
-</thinking>
-
 # Award Theme Selection Survey - Help Guide
 ## Purpose
 This form collects user preferences and ideas for future themes.

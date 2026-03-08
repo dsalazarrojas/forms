@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Study Environment Survey" form. 
-
-Before proceeding, please ensure that this form is relevant to your specific needs and context. If you're unsure, consider the following points:
-
-*   This form is designed to gather data about the study environment in which students learn.
-*   The form contains questions about various aspects of the study environment, including study settings, satisfaction, resources, and other related factors.
-*   It's recommended to fill out the form if you're a student or an educator with relevant experience with the study environment.
-
-</thinking>
-
 # Study Environment Survey - Help Guide
 ## Purpose
 The Study Environment Survey is a form designed to gather information about your experience in the study environment. This form is intended to help us better understand your needs and expectations in this setting.

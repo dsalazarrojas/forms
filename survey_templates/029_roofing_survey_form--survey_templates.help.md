@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roofing Survey Form - Help Guide
 
 ## Purpose

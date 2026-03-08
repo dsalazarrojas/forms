@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a survey template designed to collect information from tenants or individuals associated with a property or community. The primary purpose of this form is to gather consent from tenants for a poll or event organized by the property management. The form includes fields for tenant information such as their ID, poll question and answer, event details, contact method, and contact person's information. 
-
-This form likely serves as a template for property managers or administrators to collect necessary information from tenants in a structured and organized manner. The presence of fields like poll question, poll answer, and event details suggests that the form is related to a poll or event that requires tenant feedback or participation. 
-
-Before proceeding, it is essential to ensure that this form is relevant to your specific use case and does not overlap with any other existing forms within your organization.
-
-</thinking>
-
 # tenant_community_poll_consent_form - Help Guide
 ## Purpose
 This form is designed to collect consent from tenants for a poll or event organized by the property management.

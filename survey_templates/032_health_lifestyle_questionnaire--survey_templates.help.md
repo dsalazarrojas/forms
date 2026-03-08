@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the individual's health and lifestyle, including personal details, medical history, and insurance information. This form will likely be used to gather data for medical purposes, such as insurance claims or healthcare research. It is not intended for public-facing applications and will be reviewed internally.
-
-Before starting, please ensure you have not filled out this form previously. If you are unsure which fields apply to you, please consult with a medical professional or your employer before proceeding.
-
-</thinking>
-
 # Health And Lifestyle Questionnaire - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback and opinions from Home Office employees on the innovation award voting process. To ensure accurate and relevant feedback, please only complete this form if you are a current Home Office employee. If you have already voted in the past 30 days, your submission will not be accepted. This form cannot be completed in bulk or by proxy, and all responses must be original and sincere.
-</thinking>
-
 # Home Office Innovation Award Voting - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from Home Office employees on the innovation award voting process. We value your input and encourage you to complete the form to help us improve the process.

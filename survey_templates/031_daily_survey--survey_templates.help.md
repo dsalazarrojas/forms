@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from users on a daily basis. It is meant to be a quick and easy way to capture information that can help us improve our services and products. Please note that this form is intended for internal use only and is not meant for public distribution.

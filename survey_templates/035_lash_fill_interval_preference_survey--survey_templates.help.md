@@ -1,7 +1,3 @@
-<thinking>
-This survey is designed to collect information about the frequency and satisfaction of lash fills from clients. It's essential to understand that the survey is intended for clients who have experienced lash fills, and the questions will be tailored to their experiences. The survey is also not meant to be taken by lash artists or service providers. The survey's goal is to gather insights on how often clients get lash fills, how satisfied they are with the fills, and what influences their decisions when booking fills. This information will help service providers improve their services and better cater to their clients' needs.
-</thinking>
-
 # Lash Fill Interval Preference Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences with lash fills, specifically how often you get them, how satisfied you are with them, and what influences your decisions when booking fills. Your input will help service providers better understand your needs and improve their services.

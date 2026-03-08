@@ -1,16 +1,3 @@
-<thinking>
-This is a help guide for the "gym_class_cancellation_policy_survey" form. The form purpose is to collect information from gym members regarding their experiences with cancelling classes, including the reason for cancellation, cancellation date and time, and their satisfaction with the cancellation policy. This form is intended to help the gym management understand the frequency and reasons of cancellations, which can inform them to improve their services and policies.
-
-To avoid any confusion, the form is divided into several sections. The first section is an introduction, which provides a general overview of the form. The subsequent sections are each focused on a specific topic, such as reasons, dates and times, and frequencies of cancellations. The form also asks for additional comments and contact information in case the member needs to be contacted for more information. 
-
-Before you start, make sure you have read the introduction carefully and understand the purpose of the form. This will help you to provide accurate information and answer the questions truthfully. 
-
-If you need to cancel your class, please answer the questions based on your actual experience. 
-
-Please note that this form is for gym members, and your responses will be kept confidential and only used to improve gym services. 
-
-</thinking>
-
 # gym_class_cancellation_policy_survey - Help Guide
 
 ## Purpose

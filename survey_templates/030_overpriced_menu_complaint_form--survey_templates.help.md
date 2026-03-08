@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect data about overpriced menu items from customers. It helps us to identify menu items that are too expensive, gather customer feedback, and track which customer complained. This form will be used by chatjimmy or jenny to follow up on customer's issue. To avoid duplicating complaints about the same menu item, we'll make sure to update the form with the latest information.
-</thinking>
 # overpriced_menu_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect data about overpriced menu items from customers. It helps to identify menu items that are too expensive and gather customer feedback.

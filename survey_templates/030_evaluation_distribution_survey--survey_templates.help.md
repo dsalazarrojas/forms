@@ -1,11 +1,3 @@
-<thinking> 
-  To create a help guide for the Evaluation Distribution Survey form, we need to understand its purpose and requirements. 
-  This form seems to be designed for participants to rate their satisfaction with various aspects of an event or program.
-  The form has multiple fields for rating satisfaction with different aspects, likely with 20 options for different ratings.
-  We will need to ensure that the form instructions are clear and concise, and that the field explanations are accurate and relevant.
-  We will also need to check for any potential duplication of fields or instructions.
-</thinking>
-
 # Evaluation Distribution Survey - Help Guide
 ## Purpose
 This form is designed for participants to provide their ratings and feedback on various aspects of an event or program. The goal is to collect data on participant satisfaction and effectiveness.

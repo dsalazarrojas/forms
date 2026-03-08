@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect product feedback and user ratings. The purpose of this form is to gather information about the user's experience with a product or service. This form is not intended for general feedback or support requests. Please ensure that you are using this form for its intended purpose and not duplicating efforts.
-
-</thinking>
-
 # Product Feedback Intake Form - Help Guide
 ## Purpose
 This form collects feedback and ratings from users to help us improve our products and services. Please provide your honest feedback and rating to help us better serve you.

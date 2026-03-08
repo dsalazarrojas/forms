@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # jitney_usage_survey - Help Guide
 ## Purpose
 The Jitney Usage Survey is a form designed to collect feedback and suggestions from users about their experiences with Jitney. This survey aims to gauge overall satisfaction, identify areas of improvement, and provide valuable insights to help us better serve you.

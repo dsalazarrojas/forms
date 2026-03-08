@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Makeup Storage And Hygiene Habit Survey" form, I will need to understand the form's purpose and ensure that I do not duplicate any existing content while keeping the explanation concrete, concise, and practical. 
-
-The form appears to be a survey designed to collect information about users' habits related to makeup storage and hygiene. The form includes multiple pages with text fields and select options, indicating that users will be asked to provide demographic information, habits, and practices related to makeup storage and hygiene. 
-
-The form's purpose is likely to gather data that can be used to improve the understanding of makeup storage and hygiene habits among users, potentially informing the development of related products or services.
-
-I will now create the help guide, following the provided YAML structure.
-</thinking>
-
 # Makeup Storage And Hygiene Habit Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your habits related to makeup storage and hygiene. This data will help us better understand your needs and improve our products or services accordingly.

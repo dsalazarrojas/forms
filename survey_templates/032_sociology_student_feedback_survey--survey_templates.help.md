@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect feedback from sociology students on their experience with a course. The purpose of this form is to gather information on what students liked and disliked about the course, what they found most and least useful, and their overall opinion of the course. This form is not affiliated with or endorsed by any form platform, and is an original creation based on public survey topic metadata. It is intended for use in academic or research settings. This form is released under the Creative Commons BY 4.0 license, allowing for modification and redistribution. </thinking>
-
 # Sociology Student Feedback Survey - Help Guide
 
 ## Purpose

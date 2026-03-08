@@ -1,8 +1,3 @@
-<thinking>
-A survey template is a pre-configured set of questions designed to collect data from users. In order to create a helpful guide for end-users, it's essential to understand the reasoning and context behind the template. The Business Income Reconstruction Survey is designed to gather information about a business's income, such as estimated average monthly sales, cash vs. card revenue ratio, and inventory valuation method. It also inquires about the reconstruction period, reason for reconstruction, and verification status. This template is likely used in accounting or auditing scenarios where businesses need to provide accurate financial data for tax or regulatory purposes.
-Please ensure that the form is relevant to the user's business and that they have the necessary permissions to complete it accurately. Also, be aware of any duplication of efforts or similar surveys that the user might have already completed.
-</thinking>
-
 # Business Income Reconstruction Survey - Help Guide
 ## Purpose
 The Business Income Reconstruction Survey is a template designed to collect essential information about a business's income for accounting or auditing purposes. It helps businesses provide accurate financial data for tax or regulatory reasons.

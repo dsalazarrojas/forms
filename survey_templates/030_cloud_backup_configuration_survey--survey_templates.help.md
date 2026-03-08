@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey template designed to gather information about an organization's current and future backup configuration and practices. It is intended to help identify areas of improvement and potential challenges in the backup process. The questions cover various aspects of backup configuration, recovery procedures, and overall satisfaction with the current backup solution. This form is not affiliated with or endorsed by any form creation platform, and its original design is released under the Creative Commons Attribution 4.0 license.
-</thinking>
-
 # Cloud Backup Configuration Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your current and future backup configuration and practices. Your input will help us identify areas of improvement and potential challenges in the backup process.

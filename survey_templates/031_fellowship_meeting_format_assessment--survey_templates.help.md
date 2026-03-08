@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a form used to assess fellowship meeting formats. This form likely helps assess the effectiveness or quality of meetings held within a fellowship context, such as a church or community group. It's possible this form is used to evaluate the facilitator, the meeting's duration and attendance, and the outcome of the meeting. The form might also be used for planning future meetings by gathering feedback and comments from participants. To ensure this guide is relevant and complete, let's assume that users are familiar with the context of fellowship meetings and the purpose of the form is to gather detailed and specific information about each meeting. With this in mind, here's a detailed help guide for users to complete the form effectively.
-</thinking>
-
 # Fellowship Meeting Format Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about a fellowship meeting. It helps assess the format and quality of the meeting, including feedback, attendance, and comments from participants.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to be a tool to collect information about a customer's wellness and symptoms, with the goal of assessing their well-being and providing personalized guidance. It's a straightforward form that doesn't require extensive knowledge or jargon, making it accessible to a wide range of users. The form can be completed by anyone who interacts with customers, regardless of their technical background.
-
-Before filling out the form, please make sure that it's not a duplicate for the same customer or a previous submission. This will help ensure that we get accurate and up-to-date information.
-
-</thinking>
-
 # Customer Wellness Survey - Help Guide
 
 ## Purpose

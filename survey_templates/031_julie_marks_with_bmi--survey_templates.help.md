@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the user's demographics, health status, and medical history for a fictional "Julie Marks" study. It is likely used for research or statistical analysis purposes, and the data collected will be used to analyze the relationship between demographics and health outcomes. The form asks for personal details such as name, date of birth, weight and height, BMI, and medical history, as well as information on health insurance, smoking and alcohol status, and blood type. It's essential to ensure that the user provides accurate and truthful information to ensure the reliability of the data. Please make sure that you're filling out the form for your actual person and not duplicating existing entries.
-</thinking>
-
 # julie_marks_with_bmi - Help Guide
 ## Purpose
 This form is designed to collect information for the "Julie Marks" study, which aims to analyze the relationship between demographics and health outcomes.

@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to gather information about the perception of team members on the clarity of their roles and responsibilities within an organization. It aims to understand the overall quality of team communication, the level of understanding of individual roles and responsibilities, and the preferred methods of communication and meeting frequencies.
-</thinking>
-
 # Organizational Clarity Survey - Help Guide
 ## Purpose
 This survey is designed to help you provide feedback on the overall clarity of your role and responsibilities within your team. It consists of questions related to communication, understanding, and feedback.

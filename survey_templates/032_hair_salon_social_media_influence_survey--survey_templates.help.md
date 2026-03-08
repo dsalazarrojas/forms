@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from hair salon customers about their experience with social media marketing. It is intended to help the salon understand how effective their online presence is in influencing customer behavior and decisions. This form should only be filled out by customers who have interacted with the salon's social media channels. It is not intended for employees or non-customers to fill out.
-</thinking>
-
 # Hair Salon Social Media Influence Survey - Help Guide
 ## Purpose
 This survey is designed to understand the effectiveness of our social media marketing efforts and how they influence our customers' behavior and decisions.

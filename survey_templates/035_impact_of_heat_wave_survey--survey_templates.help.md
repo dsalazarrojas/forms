@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the impact of heat waves on individuals and communities. The purpose of this form is to collect data on the effects of heat waves, coping strategies employed, and demographic information about the respondents. This form is intended for use in research, surveys, or evaluations, and can be used by researchers, survey creators, or data analysts.
-
-</thinking>
-
 # Impact of Heat Wave Survey - Help Guide
 ## Purpose
 The "impact_of_heat_wave_survey" form is designed to collect information on the impact of heat waves, coping strategies, and demographic information from individuals and communities.

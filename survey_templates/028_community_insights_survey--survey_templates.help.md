@@ -1,5 +1,3 @@
-<thinking>...We are creating a user-facing help guide for the "Community Insights Survey" form. This form is designed to gather insights from community members about their experiences and perceptions of their local community. The goal is to understand what matters most to community members and what they would like to see improved or changed in their community. This form will help us identify areas of strength and weakness, and inform decisions that benefit the community. Before starting, please review the form to ensure that you have not already submitted your insights. Your honest and thoughtful responses will help us better understand your community's needs and make informed decisions...</thinking>
-
 # Community Insights Survey - Help Guide
 ## Purpose
 

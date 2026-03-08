@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from visitors about their experience with the hospital's visitor policy. This includes their perception of how well the hospital communicated the policy, their overall experience, and their rating of the responsiveness of hospital staff. It also asks if the visitation rules were clear and if they have any comments or suggestions. This form is designed to be completed by visitors who have interacted with the hospital's visitor policy.
-The form is not intended to be completed by hospital staff or administrators, and it is not a formal evaluation or assessment tool.
-The feedback collected from this form will be used to identify areas for improvement in the hospital's visitor policy and to inform future policy updates.
-</thinking>
 # Healthcare Visitor Policy Feedback Survey - Help Guide
 
 ## Purpose

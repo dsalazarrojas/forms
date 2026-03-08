@@ -1,13 +1,3 @@
-<thinking>
-This form is a Daylight & Sunlight Assessment Survey, designed to gather information about the natural lighting in a given space. The purpose of this survey is to assess the quality of the natural light in the space, including its intensity, distribution, and balance. This form will help to identify areas that may be improved to enhance the overall comfort and visibility in the space.
-
-The survey will ask questions about the natural light in the space, including how often the space is used, the type of activities that take place there, and how the natural light affects the users. The questions will cover aspects such as glare, eye strain, and overall lighting quality. This survey will help to gather valuable information to make informed decisions about lighting design and improvement.
-
-To ensure that this survey is not duplicated, please make sure to complete it only once for each space.
-
-Please note that this is a user-facing help guide, so the language and structure should be clear and concise for end-users.
-</thinking>
-
 # Daylight & Sunlight Assessment Survey - Help Guide
 ## Purpose
 The Daylight & Sunlight Assessment Survey is designed to evaluate the natural lighting in a space, gathering information about its intensity, distribution, and balance.

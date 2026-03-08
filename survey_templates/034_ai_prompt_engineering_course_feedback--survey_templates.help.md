@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and easy to understand for the end-user. Let's analyze the form structure and purpose.
-The form is designed to collect feedback from students who have taken the AI Prompt Engineering Course. The form has multiple sections and fields that cover different aspects of the course, including overall satisfaction, instructor effectiveness, topic evaluation, and more.
-The purpose of the form is to gather feedback that can be used to improve the course, its content, and overall user experience.
-</thinking>
-
 # AI Prompt Engineering Course Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have taken the AI Prompt Engineering Course. Your input will help us improve the course and provide a better experience for future students.

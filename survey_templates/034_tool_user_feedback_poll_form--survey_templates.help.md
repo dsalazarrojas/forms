@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from tool users, providing valuable insights for improvement. It's essential to fill it out carefully, avoiding duplicates. Please ensure that you're not submitting this form multiple times, as it may lead to inaccurate data. This form will be reviewed internally to make informed decisions about the tool's development.
-
-</thinking>
-
 # Tool User Feedback Poll Form - Help Guide
 
 ## Purpose

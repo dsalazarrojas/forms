@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect user input on their participation, methods, challenges, and ideas related to microbiology proficiency testing. However, to be sure this form meets its intended use case, we need to verify that this form is not duplicating any existing form with a similar purpose. After verifying, we can move on to creating the help guide for end-users.
-
-</thinking>
-
 # Microbiology Proficiency Testing Survey - Help Guide
 ## Purpose
 This form is designed to gather information from individuals on their participation, methods, challenges, and ideas related to microbiology proficiency testing. This information will be used to identify areas of improvement and provide valuable insights for future developments in the field.

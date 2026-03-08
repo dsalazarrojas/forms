@@ -1,7 +1,3 @@
-<thinking>
-We're checking that this form is correctly set up for the purpose of collecting feedback on the state of homeostasis in an organization. The form has a clear and concise title, and its pages are well-structured to guide the user through the feedback process. We'll ensure that each field is properly labeled and explained to avoid confusion.
-</thinking>
-
 # Homeostasis Feedback Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on areas where the organization may need more work on homeostasis. Homeostasis is a concept describing the balance and regulation of internal and external factors that influence an organization's performance and well-being. Your input will help us identify areas of improvement and prioritize our efforts to maintain a healthy work environment.

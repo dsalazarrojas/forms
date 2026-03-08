@@ -2,14 +2,6 @@
 
 ## Purpose
 
-<thinking>
-
-This form is designed to collect information from educators and support staff in learning environments about their experiences and challenges when supporting neurodivergent students. The goal is to gather data that can be used to improve support services and accommodations for neurodivergent students. Please note that the form is meant for people working in schools or universities and is focused on supporting students with neurodevelopmental disorders.
-
-If you are a parent or guardian, you may find this form irrelevant. If you have already filled out this form in the past, you can skip it this time. 
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

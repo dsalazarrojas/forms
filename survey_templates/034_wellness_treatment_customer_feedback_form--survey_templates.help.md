@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who have received a wellness treatment. The purpose of this form is to gather information about the patient's experience, including their overall satisfaction with the treatment, the quality of the staff, and any follow-up plans or next visit dates. This form should only be filled out by patients who have actually received a treatment at the facility, and not by patients who are simply browsing or inquiring about services.
-</thinking>
-
 # wellness_treatment_customer_feedback_form - Help Guide
 ## Purpose
 This form is intended for customers who have received a wellness treatment at our facility to provide feedback on their experience.

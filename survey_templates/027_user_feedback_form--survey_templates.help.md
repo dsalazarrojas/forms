@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on their experience with the service. This form will help us understand how we can improve our services and provide better support. Please make sure that this form is not used for duplicate feedback, and only submit one feedback per issue or concern. This will ensure that we can properly address the issues and provide timely solutions.
-</thinking>
-
 # User Feedback Form - Help Guide
 ## Purpose
 The User Feedback Form is designed to collect feedback from users on their experience with our service. This form will help us understand how we can improve our services and provide better support.

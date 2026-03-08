@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a contract negotiation process. It is meant for participants in the negotiation process to provide their insights, opinions, and suggestions on how the negotiation process went. The form is intended to be completed by individuals who were directly involved in the negotiation process and have firsthand knowledge of the events that took place. The purpose of this form is to identify areas of improvement and gather lessons learned to aid future contract negotiations. Please ensure that you are providing genuine feedback and not just filling out the form to check a box.
-
-When completing this form, please be honest and thorough. Your responses will help us improve our negotiation process.
-</thinking>
-
 # Contract Negotiation Feedback Form - Help Guide
 
 ## Purpose

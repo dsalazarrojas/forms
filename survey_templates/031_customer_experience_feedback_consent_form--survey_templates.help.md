@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Experience Feedback Consent Form - Help Guide
 
 ## Purpose

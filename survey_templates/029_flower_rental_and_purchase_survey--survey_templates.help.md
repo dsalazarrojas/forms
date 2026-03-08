@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information on flower purchasing and renting habits of respondents. The form consists of several questions that will help us understand how people usually buy and rent flowers, including the occasion for the purchase/rental, the type of flower preferred, the price range, quantity, duration of rental/buying, and any additional services required. Respondents will be able to select their preferred options from a set of choices, providing us with valuable insights on their flower-buying and renting behaviors.
-
-Before starting, please ensure that you have not taken this survey before. Your input is valuable to us, and we appreciate your cooperation.
-
-</thinking>
-
 # ประก prophets And Purchase survey - Help Guide
 ## Purpose
 This survey aims to understand how you usually buy and rent flowers for different occasions and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a user's preferences for studying abroad, including their preferred location, language, and academic fields of interest. The purpose of this form is to help users identify potential study abroad destinations that align with their needs and goals.
-</thinking>
-
 # Study Abroad Personality Quiz - Help Guide
 ## Purpose
 This form is designed to help users identify their preferred study abroad destinations based on their individual preferences.

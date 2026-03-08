@@ -1,11 +1,3 @@
-<thinking>
-This form, "municipal_election_voter_priority_poll", is designed to collect feedback and priorities from voters in a municipal election. It is intended to understand the concerns and sentiments of residents in the context of municipal elections. 
-
-Before filling out this form, please ensure that you are a resident of the municipality and that you are completing the form for the purpose of providing genuine feedback and priorities. Duplication of effort is not necessary or encouraged as this form is intended to be used by unique individuals.
-
-Please note that the form is anonymous, and your responses will not be linked to your personal identity.
-</thinking>
-
 # municipal_election_voter_priority_poll - Help Guide
 ## Purpose
 This form is designed to collect feedback and priorities from voters in a municipal election. It is meant to understand the concerns and sentiments of residents in the context of the election.

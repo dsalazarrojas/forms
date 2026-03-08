@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Swim Wear Survey - Help Guide
 ## Purpose
 The Swim Wear Survey is a form designed to collect information from users about their preferences and opinions on swimwear items. This form is intended to gather data on individual items, material, size range, color scheme, and satisfaction level. Please answer the questions honestly to help us better understand your needs and preferences.

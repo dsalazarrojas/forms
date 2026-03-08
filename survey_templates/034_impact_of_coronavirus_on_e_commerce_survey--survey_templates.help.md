@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a survey designed to gauge the impact of the coronavirus on e-commerce. The purpose of the form is to collect data on the effects of the pandemic on various aspects of e-commerce, including its impact, effect on e-commerce, industry sector, region, country, year, revenue loss, sales increase, employee loss, business closure, government support, financial loss, survey completion, demographic, and additional comments. The form is likely being used to gather information for research or analysis purposes.
-
-To determine if this form is being used for the intended purpose, it's essential to review the data collected and ensure it aligns with the survey goals. To avoid duplication, it's recommended to review existing data and check for any similar surveys or forms that might be serving the same purpose.
-
-</thinking>
-
 # impact_of_coronavirus_on_e_commerce_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the impact of the coronavirus on e-commerce. It aims to gather information on various aspects of e-commerce, including its effects, industry sectors, regions, and more.

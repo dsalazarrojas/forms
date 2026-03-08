@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about their experience with a game release. It helps us understand how users interact with the game, what they like or dislike, and what they think about the game's features. The form is divided into several sections, each focusing on different aspects of the game. We want to ensure that each user's experience is represented and that their feedback is valuable to us.
-To avoid duplication, please fill out this form only once per game release. If you have already submitted feedback for this game release, you will not be able to submit it again.
-</thinking>
-
 # Game Release Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a game release. It will help us understand how users interact with the game, what they like or dislike, and what they think about the game's features.

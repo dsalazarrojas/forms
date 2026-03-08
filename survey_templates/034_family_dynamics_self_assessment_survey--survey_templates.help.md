@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the dynamics within families, specifically exploring the relationships between family members. The purpose of this form is to gather information about the quality of family relationships, conflict resolution methods, and emotional intelligence. This form will help identify patterns and trends in family dynamics, providing valuable insights for family members, therapists, or other professionals working with families.
-
-</thinking>
-
 # Family Dynamics Self Assessment Survey - Help Guide
 ## Purpose
 The Family Dynamics Self Assessment Survey is designed to help family members understand their relationships and dynamics within the family. This survey is a tool for self-assessment and exploration of family interactions, conflict resolution methods, and emotional intelligence.

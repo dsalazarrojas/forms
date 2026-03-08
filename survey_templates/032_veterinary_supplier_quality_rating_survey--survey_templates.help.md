@@ -1,14 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and completion of the Veterinary Supplier Quality Rating Survey form. 
-
-The form is used to collect feedback from veterinarians about their experience with a supplier. The survey aims to evaluate the quality of service, facility, communication, and response from the supplier. It also asks for contact information to ensure that the feedback is sent to the correct address. The form is intended for internal use, and the results will be used to improve the supplier's performance. 
-
-To ensure that this survey is relevant and not duplicated, the form will only be shared with veterinarians who have had experience with the supplier.
-
-This guide will explain each field in detail to help users complete the form accurately.
-
-</thinking>
-
 # Veterinary Supplier Quality Rating Survey - Help Guide
 
 ## Purpose

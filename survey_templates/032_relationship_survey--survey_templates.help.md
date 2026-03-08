@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about relationships between individuals. The purpose of this form is to gather data on various aspects of relationships, including communication, conflict resolution, intimacy, and emotional support. This form will help us understand how individuals navigate their relationships and identify potential areas for improvement. Please ensure this form is not used for duplicate or unnecessary submissions. It's only necessary for individuals who are actively seeking to understand or improve their relationships.
-</thinking>
-
 # relationship_survey - Help Guide
 ## Purpose
 The relationship survey is a tool used to gather information on various aspects of relationships, including communication, conflict resolution, and emotional support. This guide will walk you through the form and explain each field in detail.

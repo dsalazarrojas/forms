@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help you select sections from a predefined list of options. Each section is represented as a text input field with a unique label and ID. The form has 25 sections, but only one of them is required. The purpose of this form is to gather information from the user about which sections they would like to select.
-</thinking>
-
 # Section Selection Form - Help Guide
 ## Purpose
 The Section Selection Form is designed to collect information about which sections you would like to select.

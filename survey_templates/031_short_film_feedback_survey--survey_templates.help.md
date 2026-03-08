@@ -1,5 +1,3 @@
-<thinking>Internal reason for creating this form: This form is used to collect feedback from users after they watch a short film, allowing us to gauge their engagement and preferences. The form is designed to be user-friendly and comprehensive, covering various aspects of the film, including favorite and least favorite parts, overall rating, and preferences for sharing and re-watching. To prevent duplication, we check for existing feedback from the same user, and ensure that the form is only accessible to authorized personnel. We will use the collected data to improve future short film productions and better serve our audience.</thinking>
-
 # Short Film Feedback Survey - Help Guide
 
 ## Purpose

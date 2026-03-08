@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dietary Habits And Frequency Survey - Help Guide
 ## Purpose
 The "Dietary Habits And Frequency Survey" is a form designed to collect information about an individual's eating habits, physical activity level, and other related health-related data. This form is typically used in medical or health-related settings to gather accurate and comprehensive information about a person's lifestyle and habits.

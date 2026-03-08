@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather measurements and details of doors for a property or building. The purpose of this form is to collect accurate and consistent data about doors, which will be used in property management and maintenance tasks. Before filling out this form, please make sure you have not already collected this information elsewhere, as this will help avoid duplication of effort and ensure that your answers are accurate and up-to-date. Please fill out this form carefully and completely, as the information collected will be used to inform decisions and actions related to the property or building.</thinking>
-
 # Door Measurement Survey Form - Help Guide
 ## Purpose
 The Door Measurement Survey Form is used to collect measurements and details of doors for a property or building. This information is used to inform property management and maintenance tasks.

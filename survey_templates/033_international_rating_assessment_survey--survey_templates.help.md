@@ -1,16 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-This form is designed to gather feedback from users on their experience with our service. The International Rating Assessment Survey aims to understand users' satisfaction levels with our service, their likelihood of recommending it to others, and identify areas for improvement.
-
-**Pre-requisites:**
-Before completing this form, ensure you are responding to this survey based on your actual experience with our service. If you are not a user of our service, your feedback may not be applicable or relevant.
-
-**Non-Duplication:**
-Please do not submit duplicate feedback. Each response is valued and contributes to our continuous improvement process.
-
-</thinking>
-
 # International Rating Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your experience with our service. Your feedback will help us identify areas of improvement and provide better services to our users.

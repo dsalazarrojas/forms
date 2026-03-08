@@ -1,11 +1,3 @@
-<thinking>
-The Architectural Design Inquiry Form is designed to gather information from clients or stakeholders about their architectural design project needs. This form is meant to ensure that we understand the client's requirements and can tailor our design services to meet their needs. Before completing this form, please ensure you have a clear understanding of what you're looking to achieve and what information you can provide.
-
-To determine if you've already submitted this form, please search for your name and project details in our database.
-
-Please note that some fields may be marked as optional, but providing accurate and complete information will help us better serve your project needs.
-</thinking>
-
 # Architectural Design Inquiry Form - Help Guide
 ## Purpose
 The Architectural Design Inquiry Form is designed to gather essential information about your project, allowing us to provide tailored design services that meet your specific needs.

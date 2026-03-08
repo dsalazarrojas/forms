@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from webinar participants in a structured and organized manner, allowing for easy tracking and analysis of participant demographics, feedback, and participation type. 
-The form will likely be used to collect data on participants' first names, last names, emails, phone numbers, feedback, participant type (attendee, speaker, or host), and any additional comments they may have. 
-This form should not be filled out by people who are not attending the webinar. 
-</thinking>
-
 # Webinar Participant Monitoring Form - Help Guide
 ## Purpose
 This form is designed to collect information from webinar participants to track their demographics, feedback, and participation type.

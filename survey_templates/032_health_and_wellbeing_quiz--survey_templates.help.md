@@ -1,5 +1,3 @@
-<thinking>...This form is designed to assess the self-reported well-being of an individual, covering various aspects of their mental, physical, and social health, including mindfulness, relationships, stress management, and self-care. This form is typically used to understand the overall well-being of an individual, and can be useful for identifying areas that need improvement. Please fill out this form if you fit this category. Ensure you have not filled out the Health and Wellbeing Quiz before, as it's designed to be completed only once per period...</thinking>
-
 # Health and Wellbeing Quiz - Help Guide
 ## Purpose
 This form is designed to help you assess your overall well-being across various aspects of your mental, physical, and social health.

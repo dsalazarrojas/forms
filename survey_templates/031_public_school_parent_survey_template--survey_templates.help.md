@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from parents about their experiences and perceptions of their child's school. This template is designed to help schools understand the needs and concerns of their parent community. It's essential to ensure that this form is filled out by the right person, so if you're a parent, please make sure to provide accurate and honest responses.
-</thinking>
-
 # Public School Parent Survey Template - Help Guide
 
 ## Purpose

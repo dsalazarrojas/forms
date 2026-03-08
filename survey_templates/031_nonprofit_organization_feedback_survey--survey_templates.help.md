@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather feedback from supporters of nonprofit organizations. It is not affiliated with or endorsed by any specific platform and is an original adaptation. The purpose of this form is to collect feedback about a nonprofit organization's programs, services, and communication methods. Before starting, please ensure this form is relevant to your feedback purpose and not a duplicate effort.
-</thinking>
-
 # nonprofit_organization_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from supporters of nonprofit organizations. It aims to collect information about the supporter's experience, feedback, and demographics.

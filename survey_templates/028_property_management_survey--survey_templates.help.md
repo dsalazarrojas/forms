@@ -1,7 +1,3 @@
-<thinking>
-This form is for property management surveys, likely used to collect information and feedback from property owners or tenants. The form likely aims to gather data on specific aspects of property management, such as maintenance, inspections, or rent payments. This form might be used by property managers, landlords, or real estate professionals to streamline their operations and improve services. To prevent duplication, this form should only be filled out once for each property or tenant.
-</thinking>
-
 # property_management_survey - Help Guide
 ## Purpose
 This form is designed to collect information and feedback from property owners or tenants to improve property management. It helps property managers, landlords, or real estate professionals gather essential data on various aspects of property management.

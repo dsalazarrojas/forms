@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from the Women's Fund Committee about their interests and preferences. This form is designed to gather data on the committee's volunteer interests, candidate information, and follow-up details. The form is not required, and the responses will be used to better understand the committee's needs and preferences.
-To ensure that the responses are accurate and relevant, please review each field carefully and provide as much detail as possible. If you have any questions or concerns, feel free to ask.
-</thinking>
-
 # women's_fund_committee_interest_survey - Help Guide
 ## Purpose
 This form is used by the Women's Fund Committee to collect information about their interests and preferences. The form helps to gather data on their volunteer interests, candidate information, and follow-up details.

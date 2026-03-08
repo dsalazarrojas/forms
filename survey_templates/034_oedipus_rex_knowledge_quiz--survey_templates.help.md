@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this Oedipus Rex Knowledge Quiz form, ensuring that end-users understand its purpose, how to complete it, and what each field means. Since the form is a survey on the theme of Oedipus Rex, a Greek tragedy, the purpose of this guide is to explain the form's purpose, how to navigate it, and provide a clear understanding of each field's meaning.</thinking>
-
 # Oedipus Rex Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of the classic Greek tragedy, Oedipus Rex. The form is divided into several sections that cover various aspects of the play, including character knowledge, plot knowledge, and theme knowledge. Your goal is to fill in the form with your responses to the questions and submit them for review.

@@ -1,8 +1,3 @@
-<thinking> 
-The Audio Feedback Test Request Form is designed to gather information from requestors who need to conduct audio feedback tests in specific spaces. This form helps the requestor provide essential details about their request, such as the space type, test objectives, frequency range, and preferred test date. It also allows them to indicate if previous test results are available for the location and if so, provide them. The form is intended to streamline the process of requesting an audio feedback test, ensuring that the necessary information is gathered efficiently and accurately. This form helps the test coordinator or technician to prepare for the test and ensure that it is conducted smoothly. 
-
-</thinking>
-
 # Audio Feedback Test Request Form - Help Guide
 ## Purpose
 The Audio Feedback Test Request Form is a tool used to gather information from requestors who need to conduct audio feedback tests in specific spaces. This form helps to streamline the process of requesting a test and ensures that all necessary information is gathered efficiently and accurately.

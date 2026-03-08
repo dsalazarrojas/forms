@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "public_composting_petition_form" which is a form designed to collect information from the public about their interest in composting and their role in the community. The form is likely to be used for a public composting initiative or project. To complete this form, follow the steps below.
-</thinking>
-
 # public_composting_petition_form - Help Guide
 ## Purpose
 This form is used to collect information from the public about their interest in composting and their role in the community.

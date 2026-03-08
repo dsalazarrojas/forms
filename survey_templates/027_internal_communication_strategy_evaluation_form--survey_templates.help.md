@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internal Communication Strategy Evaluation Form - Help Guide
 
 ## Purpose

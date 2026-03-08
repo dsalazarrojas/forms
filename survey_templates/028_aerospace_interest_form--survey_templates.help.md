@@ -1,14 +1,3 @@
-<thinking>
-This form, "Aerospace Interest Form," is designed for individuals looking to explore and engage with the field of aerospace, particularly students, researchers, and professionals. Its primary purpose is to gauge the interests and needs of potential participants, including students and professionals, in the aerospace industry. 
-
-This form is intended to help organizers understand the background and motivation of those submitting their information, ensuring relevant opportunities are offered to suitable individuals. 
-
-This explanation aims to ensure users understand the form's intentions, preventing potential misuse or misdirection of responses.
-
-Before proceeding with the form completion, please note that all submitted data is subject to privacy and data security standards set by the organization. The data collected might be used to tailor programs, opportunities, and information sharing according to the submitted answers.
-
-</thinking>
-
 # Aerospace Interest Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-The "new_product_survey" form is intended to gather information from customers about their product preferences and purchasing experiences. It's designed to be filled out by individuals who are interested in purchasing a product or have purchased one in the past. This form should not be filled out by internal employees or team members, as it's meant for external user feedback. To use this form, follow these steps:
-
-</thinking>
-
 # new_product_survey - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their product preferences and purchasing experiences. It helps us understand what customers like and dislike about our products, and how they interact with our brand.

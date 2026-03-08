@@ -1,12 +1,3 @@
-<thinking> 
-This form appears to be a survey designed to gather feedback from candidates who have participated in an interview with a company. The form is used to collect information on various aspects of the interview experience, including the candidate's overall impression, the quality of the interviewers' preparation, the ease of application, and other related factors. 
-
-The fields included in this form can be broadly categorized into two sections: Candidate Information and Feedback Questions. The Candidate Information section includes fields such as the candidate's full name, job ID, position applied for, and other relevant details. The Feedback Questions section includes rating questions about the interview experience, such as overall rating, accuracy of the job description, and communication via email. 
-
-This form is likely used by HR or recruitment teams to gain valuable insights from candidates and improve the hiring process.
-
-</thinking>
-
 # Candidate Feedback Survey - Help Guide
 
 ## Purpose

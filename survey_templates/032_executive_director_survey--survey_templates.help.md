@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from the Executive Director about their experience, leadership style, team work, communication, and open-ended questions. The form is likely used to collect feedback and insights from the Executive Director for internal purposes within the organization. Before filling out this form, please ensure that you have the Executive Director's consent and that you are not duplicating efforts, as this form is intended for internal use only.
-</thinking>
-
 # Executive Director Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from the Executive Director about their leadership style, experience, and team work. It is intended for internal use within the organization.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form help guide, let's quickly go over the purpose of this form: "job_role_clarity_survey". This form is designed to help gather information about job roles within an organization. It's meant to be used by employees to provide clarity on their job responsibilities, expectations, and other relevant details. This information will likely be used to evaluate and refine job roles within the company, ensuring everyone's understanding is aligned with their position. Before proceeding, please ensure you're familiar with the form's purpose and that you're not duplicating efforts - this form should only be filled out once per job role.</thinking>
-
 # job_role_clarity_survey - Help Guide
 ## Purpose
 The "job_role_clarity_survey" form is designed to gather information about job roles within an organization. It helps employees provide clarity on their responsibilities, expectations, and other relevant details, which will be used to evaluate and refine job roles.

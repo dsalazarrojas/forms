@@ -1,10 +1,3 @@
-<thinking>
-This form was created to help users reflect on their progress, set goals, and identify challenges and wins from the past week. 
-It is designed to be a personal and informal space for users to jot down their thoughts, ideas, and experiences. 
-This survey template is not intended to be a formal evaluation or assessment tool, nor is it meant to be used for commercial purposes. 
-Users are free to use it as a personal journal or share it with others for collaboration and support.
-</thinking>
-
 # Weekly Reflection Survey - Help Guide
 ## Purpose
 This form is designed to be a personal reflection tool to help you identify your progress, set goals, and acknowledge your challenges and wins from the past week.

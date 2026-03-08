@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from festival-goers on their experience with the food trucks at the event. The form asks users to rate and comment on the quality of the food, staff, and overall experience. The purpose of this form is to help food festival organizers improve the quality of food trucks and services at future events. This form will be useful for identifying areas of improvement and making data-driven decisions.
-
-</thinking>
-
 # food_festival_best_food_truck_voting_form - Help Guide
 ## Purpose
 

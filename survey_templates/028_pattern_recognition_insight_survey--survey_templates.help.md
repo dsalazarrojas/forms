@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather insights on pattern recognition from educators, researchers, and training teams. The purpose of the form is to collect data on their habits, confidence in pattern recognition, and involvement in training teams. This form is intended for internal use within organizations and is not affiliated with any form platform. 
-The form is created using AI and is released under CC BY 4.0, allowing users to modify and use it as they see fit.
-Before filling out this form, please note that some fields are optional, and you can choose to fill them out or skip them as needed.
-</thinking>
-
 # Pattern Recognition Insight Survey - Help Guide
 ## Purpose
 The Pattern Recognition Insight Survey is a tool designed to collect insights on pattern recognition from educators, researchers, and training teams. It aims to gather information on their habits, confidence in pattern recognition, and involvement in training teams.

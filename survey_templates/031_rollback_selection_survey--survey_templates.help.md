@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information on rollbacks, which can be defined as a project or system rollback to a previous state. A rollback is often performed as a result of an error or unexpected outcome. The goal of this form is to document and track rollbacks, allowing for better understanding and analysis of their frequency, impact, and decision-making process. 
-
-This form is not intended for real-time decision-making, but rather for historical data collection. It is likely to be used by project managers or IT teams to gather information and insights on past rollbacks, and to improve future decision-making and mitigation strategies.
-
-Please ensure that this form is only completed for actual rollbacks, and not as a placeholder or for hypothetical scenarios. Duplicate entries should be avoided to prevent skewing the data and making it less useful for analysis.
-
-</thinking>
-
 # Rollback Selection Survey - Help Guide
 
 ## Purpose

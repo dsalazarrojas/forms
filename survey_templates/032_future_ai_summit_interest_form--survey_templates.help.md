@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for individuals interested in attending or partnering with the Future AI Summit, a conference focused on showcasing the latest advancements and applications of Artificial Intelligence. The form will help us understand the attendees' backgrounds and interests to tailor the summit experience to their needs.
-
-We will use this form to gather information from attendees and partners about their contact details, interests, and how they heard about the summit. This data will help us provide relevant content and networking opportunities during the summit.
-
-Please note that the form is not for soliciting sales or marketing purposes, but rather for understanding the demographics and interests of our attendees and partners.
-
-</thinking>
-
 # Future AI Summit Interest Form - Help Guide
 ## Purpose
 The Future AI Summit Interest Form is a crucial tool for us to understand your background and interests, which will help us tailor the summit experience to your needs.

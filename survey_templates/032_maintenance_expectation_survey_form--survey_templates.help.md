@@ -1,27 +1,3 @@
-<thinking>
-This form is a survey designed to gauge the expectations and satisfaction of customers regarding maintenance services. It is a crucial tool to gather feedback and improve the quality of maintenance services.
-To ensure that the form is filled out correctly and accurately, please review each field carefully.
-
-The form is used to collect the following information:
-* Personal details such as name, email, and contact number to identify the respondent.
-* Expectation of maintenance services, which will help in understanding what the customer is looking for.
-* Satisfaction level with the services, which will help in identifying areas of improvement.
-* Any additional comments or feedback, which will help in providing a more comprehensive understanding.
-* Signature, which will serve as an acknowledgment of the respondent's agreement to the terms and conditions.
-
-The form is divided into several sections, each with its own specific purpose:
-* "Introduction" - a brief introduction to the survey.
-* "Name" - the name of the respondent.
-* "Email" - the email of the respondent.
-* "Contact No" - the contact number of the respondent.
-* "Maintenance Expectation" - the expectation of the respondent regarding maintenance services.
-* "Satisfaction" - the satisfaction level of the respondent with the maintenance services.
-* "Comments" - any additional comments or feedback from the respondent.
-* "Signature" - the signature of the respondent, which will serve as an acknowledgment of the terms and conditions.
-
-Please fill out the form carefully and accurately.
-</thinking>
-
 # Maintenance Expectation Survey Form - Help Guide
 ## Purpose
 This form is a survey designed to gauge the expectations and satisfaction of customers regarding maintenance services.

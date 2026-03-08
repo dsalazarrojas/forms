@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about nonprofit organizations. This form is part of a broader process to gather insights and suggestions from users, and will help us understand their experiences and opinions. It's essential to fill out this form carefully to provide us with the most accurate and valuable information.</thinking>
-
 # Nonprofit Organization Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about nonprofit organizations, helping us understand their experiences and opinions.

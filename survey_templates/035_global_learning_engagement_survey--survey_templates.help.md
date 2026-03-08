@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather feedback and engagement data from users to improve the overall learning experience in a global context. This form captures information about the user's profile, their level of engagement, and other relevant details such as their email address and phone number. The form is intended to be completed by users from around the world, and the collected data will help identify areas of improvement for the organization's learning programs.
-</thinking>
-
 # Global Learning Engagement Survey - Help Guide
 ## Purpose
 The Global Learning Engagement Survey is designed to gather feedback and engagement data from users to improve the overall learning experience.

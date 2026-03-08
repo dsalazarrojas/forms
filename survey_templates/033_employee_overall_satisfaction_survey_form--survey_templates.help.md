@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Overall Satisfaction Survey Form - Help Guide
 ## Purpose
 The Employee Overall Satisfaction Survey Form is a tool to gauge employee satisfaction with their work environment and company culture. This form helps management understand the strengths and weaknesses of their workplace and identify areas for improvement. It's essential that employees complete this form truthfully and thoroughly to provide valuable insights.

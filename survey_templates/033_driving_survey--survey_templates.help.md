@@ -1,9 +1,3 @@
-<thinking>
-The Driving Survey form is designed to collect information from individuals about their driving habits and preferences. 
-This form is meant to be completed by users who drive as part of their daily routine, whether it's for work or personal reasons. 
-Please note that the form will only accept one submission per user, so if you've already completed this form, your information will not be recorded.
-</thinking>
-
 # Driving Survey - Help Guide
 ## Purpose
 The Driving Survey is designed to collect information from individuals about their driving habits and preferences.

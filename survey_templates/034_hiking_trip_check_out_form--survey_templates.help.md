@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Hiking Trip Check Out Form", which is used to collect information about a hiker's trip. The form is likely used by park staff or administrators to gather details about a hiker's experience, including their name, contact information, and trip details. This form might be used to track hiker activity, ensure safety, and improve park management. Before filling out the form, ensure that you have not already submitted it for this specific hiker. If you have filled out the form previously, please do not submit duplicate information.
-</thinking>
-
 # Hiking Trip Check Out Form - Help Guide
 ## Purpose
 This form is designed to collect information about a hiker's trip, including their name, contact information, and trip details. It helps park staff and administrators track hiker activity, ensure safety, and make informed decisions for future planning.

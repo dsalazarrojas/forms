@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from farmers regarding the transition process, aiming to identify areas of improvement. It's essential to complete this form thoroughly and accurately, as the data collected will help us refine our processes to better serve you. Please note that this form will be reviewed to ensure that all feedback is unique and not redundant. If you have already provided feedback on the transfer process, please do not fill out this form. If you're unsure about any field or have further questions, feel free to reach out to us.
-</thinking>
-
 # Farmland Transition Feedback Form - Help Guide
 ## Purpose
 The Farmland Transition Feedback Form is a survey designed to collect your thoughts and experiences about the transition process. Your input will help us improve our services to better meet your needs.

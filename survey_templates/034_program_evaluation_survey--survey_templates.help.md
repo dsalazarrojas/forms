@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Program Evaluation Survey" form, I will follow the provided YAML structure and ensure the guide is concise, practical, and clear. The form purpose is to gather feedback from users about a program, which will help in its evaluation and improvement. This guide will walk users through the completion of the form, explaining each field's meaning and intention.
-
-</thinking>
-
 # Program Evaluation Survey - Help Guide
 ## Purpose
 The Program Evaluation Survey is designed to gather your feedback about a program. Your input will help us understand your participation, the effectiveness of the program, and areas that need improvement. Please take a few minutes to share your honest feedback, and we'll use it to refine the program for better results.

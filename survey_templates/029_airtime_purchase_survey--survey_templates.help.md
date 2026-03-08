@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airtime Purchase Survey - Help Guide
 ## Purpose
 The Airtime Purchase Survey is designed to gather information about your demographics, purchase habits, and preferences to help us improve the airtime purchase experience.

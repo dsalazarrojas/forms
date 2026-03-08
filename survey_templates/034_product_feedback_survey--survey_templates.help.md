@@ -1,6 +1,4 @@
 >
-<thinking>Before creating this help guide, I'll ensure that the form purpose and fields are clearly understood. The form, "Product Feedback Survey," likely aims to collect feedback and data from customers about a product. This data can be used to improve product development, customer satisfaction, and overall product quality. To confirm, the form has fields for product name, rating, comments, feedbacker information, product description, and more. I will not repeat any fields that are clearly duplicates (e.g., product_name and product_name again). I'll provide a clear and concise explanation for each field to make it easy for end-users to understand how to complete the form correctly.</thinking>
-
 # Product Feedback Survey - Help Guide
 ## Purpose
 The Product Feedback Survey is designed to collect feedback and data from customers about a product. This information will help us improve product development, customer satisfaction, and overall product quality.

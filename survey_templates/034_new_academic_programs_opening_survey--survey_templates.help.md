@@ -1,5 +1,3 @@
-<thinking>...To ensure that this form is completed correctly and accurately, please note that this form is for gathering feedback and information from users about new academic programs opening. This form should not be used for general inquiries or other purposes not specifically related to academic programs. It is recommended to review the form fields carefully and fill them out with the most relevant and accurate information. Also, please note that some fields are required and must be completed for the form to be submitted successfully...</thinking>
-
 # New Academic Programs Opening Survey - Help Guide
 
 ## Purpose

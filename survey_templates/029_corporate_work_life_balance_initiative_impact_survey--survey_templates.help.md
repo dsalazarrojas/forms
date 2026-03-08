@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist employees in completing the Corporate Work Life Balance Initiative Impact Survey. The purpose of this survey is to gather feedback and insights on the effectiveness and feasibility of the company's work-life balance initiatives, allowing us to identify areas of improvement and make informed decisions to support employee well-being. This survey should only be completed by employees who have participated in the work-life balance initiatives and have an understanding of their impact. Please ensure that you have not already provided feedback on this survey in the past to avoid duplicate responses.
-</thinking>
-
 # Corporate Work Life Balance Initiative Impact Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the effectiveness and feasibility of the company's work-life balance initiatives.

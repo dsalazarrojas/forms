@@ -1,9 +1,3 @@
-<thinking>
-This form is for evaluating the network security posture of an organization. 
-It is used to understand the current state of your organization's network segmentation, risk management, security practices, experience with security measures, formal risk assessment, regular security audits, awareness of common network threats, access to sensitive data, and response to security incidents. 
-Please ensure you have all necessary permissions and approvals to complete this form, and note that it is intended for internal use only. If you have completed this form before, it is likely because you are part of a periodic review process. Please confirm that your answers reflect your organization's current state.
-</thinking>
-
 # Network Security Evaluation Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the QCM Developer Feedback Form is to gather feedback and insights from developers on the quality of the work done for a particular project or submission. This form is designed to collect information on the developer's experience, satisfaction, and areas for improvement. It's essential to provide honest and constructive feedback to help us better understand our team's performance and make data-driven decisions to improve our processes.
-
-Before filling out this form, please ensure that the feedback you provide is specific to the submission you're commenting on, and not duplicated from previous submissions. This will help us maintain the quality and relevance of the feedback we receive.
-
-</thinking>
-
 # QCM Developer Feedback Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As the primary purpose of this form is to gather employee feedback on their job satisfaction, department, and other related details, we want to ensure that we're collecting accurate and comprehensive feedback that aligns with our company's goals. To avoid duplication, please only submit this form once a month. This form should only be completed by employees who are currently employed with us. If you're not an employee or have already submitted feedback for this month, please don't submit this form.</thinking>
-
 # Employee Monthly Feedback Form - Help Guide
 ## Purpose
 The Employee Monthly Feedback Form is designed to collect feedback from employees on their job satisfaction, department, and other relevant details. This form helps us understand how we can improve our work environment and ensure that our employees are satisfied with their jobs.

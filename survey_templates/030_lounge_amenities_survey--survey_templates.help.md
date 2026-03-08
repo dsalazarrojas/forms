@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a survey designed to gather information about the lounge's amenities and services, overall experience, and feedback from users. The primary goal of this survey is to help identify areas for improvement and optimize the lounge's offerings.
-
-The form consists of 5 questions that ask users about their preferences and experiences, and 4 fields that collect user contact information and additional feedback. Each question is either multiple-choice or free-text, allowing users to provide clear and concise responses.
-
-To avoid duplication and ensure accurate data collection, please review and respond to each question carefully.
-
-</thinking>
-
 # lounge_amenities_survey - Help Guide
 ## Purpose
 This survey aims to gather feedback on the lounge's amenities, services, and overall experience. Your input will help us identify areas for improvement and optimize the lounge to better serve you.

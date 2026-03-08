@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports-club-mvp-voting-form - Help Guide
 ## Purpose
 This form is designed to collect votes for the Most Valuable Player (MVP) of a sports club. The form allows users to input their vote for their favorite team and provide optional comments or feedback.

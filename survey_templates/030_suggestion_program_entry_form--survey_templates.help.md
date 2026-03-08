@@ -1,7 +1,3 @@
-<thinking>
-This form is a suggestion program entry form used for users to submit suggestions or ideas for the organization. The form is designed to gather information from both the employee submitting the suggestion and the submitter. The form should only be filled out by authorized submitter. This guide is intended to help users fill out the form correctly and ensure that all required information is provided.
-</thinking>
-
 # suggestion_program_entry_form - Help Guide
 ## Purpose
 The suggestion program entry form is used to collect and track suggestions or ideas from employees. This form is intended for employees to submit their suggestions and for the authorized submitter to collect and manage these suggestions.

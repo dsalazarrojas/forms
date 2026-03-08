@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a division within the organization, such as its structure, responsibilities, challenges, size, type, location, leaders, and other relevant details. To ensure accuracy, please ensure that this form is completed only once per division and not duplicated across other divisions. This form is meant to be filled out by the relevant division leaders or administrators.
-</thinking>
-
 # Division Information Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about each division within the organization, including its structure, responsibilities, size, and other relevant details.

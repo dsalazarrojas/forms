@@ -1,14 +1,3 @@
-<thinking>
-  This form is designed to assess the effectiveness of a marketing campaign, gathering feedback from participants on various aspects of the campaign such as its objective, performance, budget, and their personal experiences with it. The goal is to collect data and insights to help refine and improve future marketing campaigns.
-
-  To ensure the collected data is relevant and valuable, it's essential to follow these guidelines:
-
-  * Ensure you're completing this survey in relation to a specific campaign.
-  * Do not complete the survey if you're not a team member or a participant in the campaign.
-  * Be as accurate as possible when answering the questions.
-  * If you're unsure about a question, use your best judgment.
-</thinking>
-
 # Marketing Campaign Effectiveness Survey - Help Guide
 ## Purpose
 This survey is designed to gather insights on the effectiveness of a marketing campaign to help us refine and improve future campaigns.

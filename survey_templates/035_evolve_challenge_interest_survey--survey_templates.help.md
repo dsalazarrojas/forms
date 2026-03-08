@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Evolve Challenge Interest Survey - Help Guide
 ## Purpose
 The Evolve Challenge Interest Survey is a form designed to gauge the interest and preferences of potential participants in a challenge program. The survey aims to gather information on the participant's demographics, communication preferences, and challenge-related details.

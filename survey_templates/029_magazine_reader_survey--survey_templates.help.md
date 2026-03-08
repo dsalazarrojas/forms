@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from magazine readers about their reading habits, preferences, and behaviors. This form will likely be used to gather insights for market research or to inform content creation decisions. To ensure relevance, it's essential to review the form's structure and content regularly to ensure it remains focused on the intended goals.
-
-To prevent duplication, you may want to consider implementing a logic check or a unique identifier for each submission to track responses and prevent users from completing the form multiple times.
-
-</thinking>
-
 # magazine_reader_survey - Help Guide
 ## Purpose
 

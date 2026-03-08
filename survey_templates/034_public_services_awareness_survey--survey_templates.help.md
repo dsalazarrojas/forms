@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Services Awareness Survey - Help Guide
 ## Purpose
 The Public Services Awareness Survey is designed to gauge your overall awareness and usage of public services in your region. This survey aims to collect information to help improve public services and provide better support to citizens.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from passengers about their recent cab service experience. The form includes questions about the details of the ride, the driver's behavior, and the overall service quality. To ensure the form is filled out correctly, please only fill out the required fields as some fields are marked as "optional" but are not required for the form submission. Before filling out the form, consider the following:
-
-* The form is divided into three main sections: Ride Details, Driver Evaluation, and Overall Experience.
-* Be honest and accurate when answering the questions as the feedback will help improve the cab service.
-* Some fields, like the date of the ride and the driver's name or ID, are required for the form submission.
-* The form is anonymous, but if you would like to be contacted regarding this feedback, please provide your email address.
-</thinking>
-
 # Cab Service Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from passengers about their recent cab service experience. Your feedback will help us improve our services and provide better experiences for future customers.

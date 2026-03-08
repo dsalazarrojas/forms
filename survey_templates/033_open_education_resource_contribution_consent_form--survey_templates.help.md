@@ -1,5 +1,3 @@
-<thinking>...This form is a consent form for contributors to open educational resources, designed to collect their details, resource information, and consent preferences. The form aims to ensure that contributors understand how their contributions will be used and shared, and that they can provide their consent in a clear and informed manner. This form is generated using AI and is not affiliated with any specific form platform, making it a unique and adaptable solution for collecting consent from open education resource contributors. To avoid duplication, please ensure that you only submit this form once, and that you are not already a registered contributor to the open education resource project in question...</thinking>
-
 # Open Education Resource Contribution Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from contributors to open educational resources, ensuring their consent and details are accurately recorded.

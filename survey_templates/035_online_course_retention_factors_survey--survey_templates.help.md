@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Course Retention Factors Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the factors that influence student retention in an online course. The purpose of this survey is to collect feedback from students, instructors, and administrators to identify areas that need improvement and optimize the learning experience.

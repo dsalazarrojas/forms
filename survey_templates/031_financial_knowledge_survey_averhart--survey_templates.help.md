@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "financial_knowledge_survey_averhart" form, which is designed to collect information about an individual's financial knowledge, goals, and experience with financial institutions. This form is intended to be completed by financial experts or professionals, and it will help them gather valuable insights into their own knowledge and skills. We will make sure to clearly explain each field, its purpose, and any specific requirements or constraints.
-</thinking>
-
 # financial_knowledge_survey_averhart - Help Guide
 ## Purpose
 This form is designed to help financial experts or professionals assess their own financial knowledge, goals, and experience with financial institutions. It will help them identify areas where they need improvement and provide valuable insights into their own skills and expertise.

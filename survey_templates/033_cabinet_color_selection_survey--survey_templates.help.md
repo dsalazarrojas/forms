@@ -1,7 +1,3 @@
-<thinking>
-We will be discussing the Cabinet Color Selection Survey form. This form aims to gather information from users about their cabinet color preferences, design style, and other related aspects. It is designed to collect data for research purposes. Please ensure that you have the necessary permissions to complete this survey. Note that this form is a one-time use form and not a recurring one. If you have already completed the survey, you will not be able to access it again.
-</thinking>
-
 # Cabinet Color Selection Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their cabinet color preferences, kitchen design style, and other related aspects. The data collected will be used for research purposes.

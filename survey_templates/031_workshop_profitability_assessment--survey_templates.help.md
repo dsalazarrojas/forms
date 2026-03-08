@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to assess the profitability of a workshop, which is a crucial factor in evaluating the efficiency and effectiveness of events or training sessions. The purpose of this form is to gather feedback from workshop participants, facilitators, and other relevant stakeholders to identify areas of improvement and opportunities for optimization. It is likely used by event or training professionals, managers, or coordinators to make data-driven decisions. To complete this form, the user needs to be familiar with the workshop's specific context and the expected outcomes.
-
-</thinking>
-
 # Workshop Profitability Assessment - Help Guide
 ## Purpose
 The Workshop Profitability Assessment form is used to evaluate the financial and qualitative aspects of a workshop or training session.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction of business owners with the support services provided by the company. The goal is to gather feedback on various aspects of the support process, including the accessibility, quality, and timeliness of support, as well as the expertise level of support staff and overall satisfaction. The form is a crucial tool for businesses to provide constructive feedback and identify areas for improvement. Please note that this form is a one-time feedback session and not a subscription-based service.
-
-To fill this form accurately, please ensure that you provide your honest assessment of the support services received. If any of the questions do not apply to your experience, kindly select 'N/A' or 'Not Applicable' accordingly.
-</thinking>
-
 # Business Support Satisfaction Poll - Help Guide
 ## Purpose
 The Business Support Satisfaction Poll is a form designed to gather feedback on the support services provided by the company to business owners. The goal is to assess the overall satisfaction with the support process, its accessibility, quality, and timeliness, as well as the expertise level of support staff.

@@ -1,20 +1,3 @@
-<thinking>
-
-To ensure this form is used correctly, let's review its purpose and ensure it's being used for the intended purpose.
-
-This form is designed to collect data on reading habits, specifically to gauge an individual's reading frequency, interests, and preferred reading locations. Each field in the form aims to gather specific information related to these topics.
-
-The form's questions include:
-- Reading purpose (yes/no)
-- Reading frequency (select multiple options)
-- Reading time (time input field)
-- Reading location (text input field)
-- Multiple additional frequency fields, allowing users to specify their reading habits across different categories
-
-Before proceeding, please ensure you have a clear understanding of the form's purpose and the types of questions it aims to answer.
-
-</thinking>
-
 # reading_habits_survey - Help Guide
 ## Purpose
 This form is designed to collect data on reading habits, specifically to gauge an individual's reading frequency, interests, and preferred reading locations.

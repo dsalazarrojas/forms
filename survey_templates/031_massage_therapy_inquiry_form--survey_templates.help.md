@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to inquire about massage therapy services. It helps the business to understand the client's preferences and needs for their massage appointments. It is essential that clients fill out this form to ensure that the therapist can provide the best possible experience for each client. Please note that this form should not be used for booking appointments. To confirm your appointment, please contact the business directly.
-</thinking>
-
 # Massage Therapy Inquiry Form - Help Guide
 ## Purpose
 The Massage Therapy Inquiry Form is used to gather information from clients about their massage needs and preferences. It helps the business to provide a tailored experience for each client.

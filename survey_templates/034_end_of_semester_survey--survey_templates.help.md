@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # End Of Semester Survey - Help Guide
 ## Purpose
 The End Of Semester Survey form is used to collect feedback from students at the end of each semester. This form is designed to gather information about the student's experience, satisfaction, and any challenges they faced during the semester.

@@ -1,38 +1,3 @@
-<thinking>
-To clarify the purpose of the form, I will provide some context and internal reasoning to explain why this form has been created and how it can be used.
-
-This form is designed to collect information for RNA Seq Analysis from various labs, which is a crucial process in genetic analysis. Each field in the form is carefully crafted to gather essential details about the lab, contact person, and other relevant information.
-
-The form is intended for data collection and analysis, ensuring that the provided information is accurate and comprehensive. To ensure that the form is completed correctly, users must follow the instructions and guidelines provided in this help guide.
-
-The form is split into several sections:
-
-*   rna_seq_analysis_workflow: This field is used to select the specific workflow stage of the RNA Seq Analysis.
-*   lab_name: This field is mandatory and requires the user to enter the name of the lab performing the analysis.
-*   contact_email: This field is also mandatory and requires the user to enter a valid contact email address.
-*   contact_phone: This field is mandatory and requires the user to enter a valid contact phone number.
-*   workflow_stage: This field is used to select the specific workflow stage of the RNA Seq Analysis.
-*   feedback: This field is optional and allows users to provide any feedback or comments about the form.
-*   suggestions: This field is also optional and allows users to provide any suggestions or ideas about the form.
-*   comments: This field is optional and allows users to provide any additional comments about the form.
-*   workflow_stage2: This field is mandatory and requires the user to select multiple workflow stages.
-*   contact_person: This field is mandatory and requires the user to enter the name of the contact person.
-*   contact_role: This field is mandatory and requires the user to enter the role of the contact person.
-*   contact_department: This field is optional and requires the user to select whether the contact person is part of a specific department.
-*   notes: This field is optional and allows users to provide any additional notes about the form.
-*   date: This field is mandatory and requires the user to enter the date of the analysis.
-*   time: This field is mandatory and requires the user to enter the time of the analysis.
-*   time_zones: This field is optional and allows users to select multiple time zones.
-*   date_zones: This field is optional and allows users to select multiple date zones.
-*   contact_email_cc: This field is optional and requires the user to enter the contact email address of the person to be copied on the feedback.
-*   contact_phone_cc: This field is optional and requires the user to enter the contact phone number of the person to be copied on the feedback.
-*   contact_name: This field is optional and allows users to enter the name of the person to be copied on the feedback.
-*   contact_role_cc: This field is optional and requires the user to enter the role of the person to be copied on the feedback.
-*   contact_department_cc: This field is optional and requires the user to select whether the person to be copied on the feedback is part of a specific department.
-*   notes_cc: This field is optional and allows users to provide any additional notes to be copied on the feedback.
-
-</thinking>
-
 # RNA Seq Analysis Survey - Help Guide
 ## Purpose
 This form is designed to collect information for RNA Seq Analysis from various labs, including lab details, contact information, and analysis specifics.

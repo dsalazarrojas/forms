@@ -1,13 +1,3 @@
-<thinking>
-
-A form is being designed to collect user information and preferences for onboarding and study purposes. This form is likely part of a larger system for managing user data and settings. To ensure that users understand the form's purpose and requirements, a clear and concise help guide is necessary.
-
-The form appears to be a comprehensive one with multiple pages and fields for different types of user input, including text, email, phone number, date, time, and select options. Each field has a label and hint, suggesting that these are intended to provide context and instructions to the user. The form has a mix of required and optional fields, which indicates that the user should fill in all the required fields to ensure that their information is complete and accurate.
-
-Before proceeding, it's essential to check if the form is being filled out for the intended purpose and if it's not a duplicate entry. This can help prevent unnecessary data duplication and ensure that users provide the correct information.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect user information and preferences for onboarding and study purposes.

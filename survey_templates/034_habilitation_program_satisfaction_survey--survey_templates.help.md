@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from participants in a habilitation program, specifically to assess their overall experiences, perceptions, and suggestions for improvement. This form should only be used in situations where the habilitation program has already been implemented and participants are being asked to reflect on their experiences with the program. 
-This form is intended to be a satisfaction survey, therefore it should not be used for data collection purposes during the initial implementation of the habilitation program.
-</thinking>
-
 # Habilitation Program Satisfaction Survey - Help Guide
 ## Purpose
 The Habilitation Program Satisfaction Survey is a tool to gather feedback from participants who have experienced the habilitation program. It aims to understand their overall experiences, perceptions, and suggestions for improvement.

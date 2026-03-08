@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess their home's energy usage and identify potential areas for improvement. It guides them through various energy-related aspects of their residence, such as energy use, sources, waste, and potential savings. The form's structure is based on a logical progression from assessing current energy usage to identifying areas for home improvements. It's essential to complete this form carefully to gain a comprehensive understanding of your home's energy dynamics and make informed decisions for a more energy-efficient living space.
-</thinking>
-
 # Home Energy Audit Checklist Form - Help Guide
 ## Purpose
 The Home Energy Audit Checklist Form is a tool to help you evaluate your home's energy usage and identify areas for improvement. It's a self-assessment exercise that will guide you through a series of questions to help you understand your energy consumption and potential opportunities for reducing energy waste.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # home_network_safety_inspection_form - Help Guide
 
 ## Purpose

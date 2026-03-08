@@ -37,6 +37,3 @@ To complete this form, please follow these steps:
 * Be honest with yourself and answer accordingly.
 * Remember, this is a personal reflection, and your answers are private.
 
-<thinking>
-This form is designed to help individuals reflect on their core values and priorities. The purpose is to understand what matters most to each person, and to provide a clear picture of their values and priorities. This form is a tool for personal reflection and development, and its purpose is to support individuals in making informed decisions that align with their values.
-</thinking>

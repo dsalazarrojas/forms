@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect votes from users on constitutional amendments, allowing them to choose their preferred options for each amendment. The form aims to be a simple and accessible way to gather user input on these amendments. Please make sure to review each field carefully to ensure you are providing accurate information.
-
-
-</thinking>
-
 # Voting Ballot For Constitutional Amendments - Help Guide
 ## Purpose
 This form is designed to collect votes from users on constitutional amendments. It consists of multiple pages, each with a specific set of questions or fields related to the amendments. The form will guide you through the process of providing your input.

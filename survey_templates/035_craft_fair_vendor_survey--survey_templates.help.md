@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about vendors at craft fairs. The purpose of this form is to gather data that will be used to analyze and evaluate the vendors at these events. This information will help us to better understand the demographics of the vendors, their business practices, and their relationship with the fair. It's essential that this data is accurate and up-to-date to ensure that we are making informed decisions about the fair's layout, pricing, and marketing strategies. To avoid duplication of effort, please ensure that you have not already filled out this form for this vendor before.
-</thinking>
 # craft_fair_vendor_survey - Help Guide
 
 ## Purpose

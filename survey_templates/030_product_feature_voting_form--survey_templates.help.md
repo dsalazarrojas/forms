@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on which product features they would like to see included in future products or updates. The purpose of the form is to collect data on user preferences and prioritize features based on popularity. This form is not meant to be filled out by non-users or non-relevant responses. Please fill out this form only if you are a relevant user with a genuine interest in providing feedback. Duplicate responses will not be counted in our analysis.
-</thinking>
-
 # Product Feature Voting Form - Help Guide
 ## Purpose
 The Product Feature Voting Form is a tool for users to provide feedback on which product features they would like to see included in future products or updates. By filling out this form, you are helping us to understand what features are most important to you and our community, and we will use this information to prioritize our development roadmap.

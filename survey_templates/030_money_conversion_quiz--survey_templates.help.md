@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to facilitate the conversion of a base amount in one currency to its equivalent value in another currency. The form requires the user to specify the base currency, base amount, and base exchange rate, as well as the target currency. The converted amount is then calculated based on the provided information.
-  To ensure accurate and efficient use of the form, it is essential to fill it out in the correct sequence.
-  The form does not store the submitted data. It solely serves as a calculation tool.
-</thinking>
-
 # Money Conversion Quiz - Help Guide
 ## Purpose
 

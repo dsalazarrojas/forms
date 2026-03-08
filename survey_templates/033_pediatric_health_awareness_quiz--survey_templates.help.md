@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect participant information and their responses to a set of quiz questions. It's designed to be completed once for each submission. The form is part of the "survey_templates" category and is titled "Pediatric Health Awareness Quiz". This guide will walk the user through each field in the form to ensure they understand what to expect and how to complete it correctly.
-
-Please note that the form is not currently being used to collect any required information and is intended for optional use. However, it is still important to complete all fields as accurately and thoroughly as possible to ensure that the data collected is useful and reliable.
-
-Before starting, please make sure to review the form carefully and only submit if you have all the required and optional information ready.
-
-This form is designed to be completed by one person per submission. If you need to submit multiple participants, please create a new submission for each individual.
-
-</thinking>
-
 # Pediatric Health Awareness Quiz - Help Guide
 
 ## Purpose

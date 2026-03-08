@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the beneficiary satisfaction with a program or service, allowing the beneficiary to share their experiences, perceptions, and expectations regarding the program's quality, responsiveness, and overall satisfaction. The form is used to gather feedback that can be useful for program improvement and evaluation.
-
-The form is a self-reporting tool, meaning that the beneficiary should answer questions based on their personal experiences and feelings. This form should not be used for official evaluation or assessment purposes without further review and analysis of the feedback provided.
-
-Before starting, ensure that you have all the required information and that you are answering on behalf of the beneficiary. If you're unsure about any question or need help, please refer to the help guide or contact the relevant authorities for guidance.
-
-</thinking>
-
 # Beneficiary Satisfaction Assessment Questionnaire - Help Guide
 
 ## Purpose

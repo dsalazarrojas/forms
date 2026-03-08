@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users seeking luxury concierge services. The form is intended for general inquiries, requests, or reservations, and it captures essential details such as contact information, preferences, and any additional notes. This form will be used by the concierge service team to tailor their offerings and respond to the customer's needs.
-</thinking>
-
 # Luxury Concierge Information Form - Help Guide
 ## Purpose
 The Luxury Concierge Information Form is designed to collect essential details from customers or users seeking luxury concierge services. This form is for general inquiries, requests, or reservations, and will help the concierge service team to provide personalized services and respond to customer needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about water line materials. It is meant to be filled out by someone with knowledge about water lines, presumably an expert or someone with experience in the field. The form is not meant for public submission and is intended for internal use only. This form is part of a larger system for managing water line materials.
-</thinking>
-
 # Water Line Material Survey - Help Guide
 ## Purpose
 This form is used to collect information about water line materials, including installation details and material types.

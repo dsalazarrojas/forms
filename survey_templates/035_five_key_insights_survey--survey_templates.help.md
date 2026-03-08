@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect five key insights from the user about their experience with the project. The "Five Key Insights Survey" is designed to gather concise and brief descriptions of the takeaways or lessons learned from each project. The form should not be used for complex or in-depth project reports. 
-Please ensure you are not duplicating this form or its contents without proper permission. This form is a public, open-source tool for collecting information and is released under CC BY 4.0.
-If you are unsure about using this form, please contact form@gic.mx.
-</thinking>
-
 # Five Key Insights Survey - Help Guide
 ## Purpose
 The "Five Key Insights Survey" is designed to gather five brief descriptions of the takeaways or lessons learned from a project. This form is suitable for users who want to provide a quick snapshot of their experience with a project.

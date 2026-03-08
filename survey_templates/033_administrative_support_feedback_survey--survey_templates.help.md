@@ -1,17 +1,3 @@
-<thinking>
-To provide a helpful and user-friendly experience for end-users, this guide will break down the "Administrative Support Feedback Survey" into its purpose, completion instructions, and field-by-field explanations. This will ensure that users understand the form's objective and can effectively provide valuable feedback to improve administrative support services.
-
-The form's purpose is to gather input from users on their experiences and opinions about the administrative support provided. This feedback will help identify areas of improvement and facilitate enhancements to the services offered. By completing this form, users can contribute to making the administrative support services more effective and user-friendly.
-
-Before starting the survey, please make sure to:
-
-*   Have your feedback and responses ready, as you will be prompted to provide detailed explanations for some questions.
-*   Be honest and accurate in your responses, as your input will contribute to the growth and development of the administrative support services.
-
-Now, let's proceed with the guide for completing the "Administrative Support Feedback Survey":
-
-</thinking>
-
 # Administrative Support Feedback Survey - Help Guide
 ## Purpose
 The "Administrative Support Feedback Survey" is designed to gather your opinions and experiences with the administrative support provided. Your input will help identify areas of improvement and enhance the services offered.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to gather feedback from participants after an aerospace program, workshop or class. This form aims to assess the quality of the program, instructor, and overall experience. The feedback collected will be used to improve future programs and workshops. This is a crucial step in ensuring that the programs meet the needs and expectations of participants.
-
-</thinking>
-
 # Aerospace Program Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from program participants to help us improve the quality of our aerospace programs. Please take a few minutes to complete this form and share your thoughts.

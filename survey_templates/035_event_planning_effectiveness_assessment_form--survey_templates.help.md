@@ -1,11 +1,3 @@
-<thinking>...Internal reasoning block to validate the form purpose and avoid duplication...
-
-The purpose of the "Event Planning Effectiveness Assessment Form" is to evaluate the effectiveness of events in terms of event planning, communication, and follow-up. This form helps to assess the success of events, identify areas for improvement, and provide actionable feedback for event planners.
-
-To ensure that the form is not duplicated or redundant, we will review the existing forms and survey templates in our system and ensure that this form serves a unique purpose.
-
-</thinking>
-
 # Event Planning Effectiveness Assessment Form - Help Guide
 ## Purpose
 The Event Planning Effectiveness Assessment Form is a tool used to evaluate the effectiveness of events in terms of event planning, communication, and follow-up. This form helps to assess the success of events, identify areas for improvement, and provide actionable feedback for event planners.

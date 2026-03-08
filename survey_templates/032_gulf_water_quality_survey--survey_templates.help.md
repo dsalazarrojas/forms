@@ -1,8 +1,3 @@
-<thinking>
-This form was designed to collect data on water quality in the Gulf area, focusing on observations made by individuals. The purpose of this form is to gather information on the water body, location, observed parameter, date, time, observer, and comments related to water quality. The form's design follows a logical structure, ensuring that it is easy to fill out and understand. This guide will explain each field's purpose and help users navigate the survey.
-
-</thinking>
-
 # Gulf Water Quality Survey - Help Guide
 ## Purpose
 The Gulf Water Quality Survey is designed to collect data on water quality in the Gulf area. This form is intended for observers to report their observations, providing valuable information for better understanding and management of water resources.

@@ -1,7 +1,3 @@
-<thinking>
-We need to check that the form purpose and content is relevant and not duplicated before proceeding.
-</thinking>
-
 # Site Visit Evaluation Checklist - Help Guide
 ## Purpose
 This form is used to evaluate site visits, providing a structured way to assess the outcomes, logistics, and overall experience of site visits. 

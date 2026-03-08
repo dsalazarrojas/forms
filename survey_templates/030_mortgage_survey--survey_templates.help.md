@@ -1,11 +1,3 @@
-<thinking>
-This form is a "Mortgage Survey" form used for collecting information from users about their property and loan details.
-The form is likely used by a financial institution or a real estate company to gather data for mortgage applications or other related purposes.
-The form collects information on the following fields: Property Info, Contact Info, Loan Info, Credit Score, Income, Assets, Property Location, Contact Phone, Email, Loan Amount, Loan Term, Payment Method, and Payment Date.
-This form is a collection of text, number, and select fields, with some fields being required and others optional.
-It's possible that this form is used for both internal and external purposes, but without more information, we can't be sure.
-</thinking>
-
 # Mortgage Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their property and loan details for financial or real estate purposes.

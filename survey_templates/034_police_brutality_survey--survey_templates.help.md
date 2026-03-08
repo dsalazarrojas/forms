@@ -1,11 +1,3 @@
-<thinking>
-The Police Brutality Survey form is designed to collect data on experiences of individuals and their families with police brutality, including their involvement in incidents, victimization, and interactions with law enforcement. This form aims to understand the nature and extent of police brutality, as well as identify areas for improvement in police training, policies, and practices. 
-
-To ensure that the data collected is accurate and relevant, the form has been designed to be completed by individuals who have had direct or indirect experiences with police brutality. 
-
-If you have experienced or witnessed police brutality, please answer the questions honestly and thoroughly. If you have any doubts or concerns about the form, please do not hesitate to contact us.
-</thinking>
-
 # Police Brutality Survey - Help Guide
 ## Purpose
 The Police Brutality Survey form is designed to collect information about experiences with police brutality, including involvement in incidents, victimization, and interactions with law enforcement. This form is meant to be completed by individuals who have had direct or indirect experiences with police brutality.

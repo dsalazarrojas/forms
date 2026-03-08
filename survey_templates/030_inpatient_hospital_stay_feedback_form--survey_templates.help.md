@@ -1,5 +1,3 @@
-<thinking>As a healthcare organization, this form is designed to collect feedback from inpatients on their hospital stay experience. The form is likely used to gauge patient satisfaction and identify areas for improvement in the hospital's ward, staff, and overall service quality. To ensure accurate and relevant feedback, please ensure that you complete this form after your inpatient stay. Please do not fill out this form if you have already provided feedback for the same hospital stay, as duplicate feedback may not be processed. This guide will walk you through each field in the form, explaining what to expect and how to complete it effectively.</thinking>
-
 # inpatient_hospital_stay_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your inpatient stay experience at our hospital. Your responses will help us understand your satisfaction with our ward, staff, and overall service quality. Please take a few minutes to complete this form, and thank you for your input.

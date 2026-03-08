@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information about users' preferences regarding contact lens colors, specifically their current and preferred color tones, color opacity, and purchasing habits. This data will help improve the contact lens color offerings for customers. This form should not be filled out by users who do not want to participate in this survey or have previously answered it. If a user has already filled out this form, their responses will not be counted in the data collection.</thinking>
-
 # Contact Lens Color Selection Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences regarding contact lens colors. Your responses will help us improve our contact lens color offerings.

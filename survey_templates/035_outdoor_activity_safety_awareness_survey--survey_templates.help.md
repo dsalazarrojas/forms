@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for this form, I'll need to understand the form's purpose and requirements. The form is likely designed to assess an individual's outdoor activity safety awareness, including their outdoor habits, safety equipment, training needs, and emergency contact information. This guide will help users navigate the form's fields and provide clear explanations for each section.
-
-</thinking>
-
 # Outdoor Activity Safety Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to help you assess your outdoor activity safety awareness. Please answer the questions honestly to help us better understand your safety needs and provide you with relevant information and resources.

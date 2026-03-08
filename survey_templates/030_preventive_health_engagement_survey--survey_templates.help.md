@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from end-users about their preventive health engagement. The purpose of this survey is to identify the factors that contribute to or detract from a person's engagement in healthy behaviors, such as regular exercise, balanced diet, and regular check-ups. This information will help the organization to tailor its health promotion programs and interventions to better meet the needs of its members.
-</thinking>
-
 # Preventive Health Engagement Survey - Help Guide
 ## Purpose
 This survey aims to understand individuals' habits, attitudes, and experiences related to preventive health. Please answer the questions honestly to help us improve our services and programs.

@@ -1,7 +1,3 @@
-<thinking>
-Before creating the user-facing help guide, I'll need to understand the purpose of the form and verify that it's not a duplicated effort. Based on the provided YAML, this form appears to be a survey for sales associates to provide information about their certification, sales experience, and performance. It seems to be a general survey, not a highly specialized or technical form, so I'll aim to create a clear and concise guide for end-users. I'll also make sure to explain each field's purpose without inventing unsupported business logic.
-</thinking>
-
 # Sales Associate Certification Survey - Help Guide
 ## Purpose
 This form is designed to gather information from sales associates about their certification, sales experience, and performance. The survey aims to collect data to improve sales associate development and evaluation.

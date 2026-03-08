@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about customers' satisfaction with various features of vehicles they have interacted with. This form will be used to collect feedback on specific vehicle models, customer names, and email addresses, as well as ratings and comments regarding their satisfaction with specific features. The collected data will help us understand customer preferences and opinions on vehicle features, enabling us to refine and improve our products and services accordingly.
-</thinking>
-
 # Vehicle Feature Satisfaction Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on their satisfaction with various features of vehicles.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cosmetic Survey - Help Guide
 
 ## Purpose

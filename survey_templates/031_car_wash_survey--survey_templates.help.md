@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Car Wash Survey - Help Guide
 
 ## Purpose

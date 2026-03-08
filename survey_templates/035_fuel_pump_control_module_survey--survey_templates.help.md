@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a Fuel Pump Control Module Survey, designed to collect information about the condition, installation, and maintenance of fuel pumps in vehicles. The purpose of this form is to gather data on fuel pump specifications, installation details, and maintenance history to help users assess the performance and lifespan of their fuel pumps. 
-
-The form should only be completed by authorized personnel, and the answers must reflect actual conditions, as the data collected will be used to make informed decisions about fuel pump maintenance and replacement. 
-
-Before starting the survey, ensure that the answers are accurate and consistent with available documentation and site visits. The survey should not be duplicated, and any changes must be documented and communicated to relevant parties.
-
-</thinking>
-
 # Fuel Pump Control Module Survey - Help Guide
 ## Purpose
 The Fuel Pump Control Module Survey is used to collect information about the condition, installation, and maintenance of fuel pumps in vehicles. This survey will help users assess the performance and lifespan of their fuel pumps and make informed decisions about maintenance and replacement.

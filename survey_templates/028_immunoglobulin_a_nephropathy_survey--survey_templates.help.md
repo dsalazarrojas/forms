@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's experiences with Immunoglobulin A Nephropathy, a type of kidney disease. The form is used to gather data on the symptoms, quality of life, support needs, and medical care received by individuals with this condition. The goal is to help healthcare professionals understand the needs and challenges faced by patients with Immunoglobulin A Nephropathy. This form should not be completed by individuals who have not been diagnosed with Immunoglobulin A Nephropathy.
-</thinking>
-
 # Immunoglobulin A Nephropathy Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences with Immunoglobulin A Nephropathy.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # political_survey - Help Guide
 ## Purpose
 This form is designed to collect information about a political survey. The form is a simple, 3-page survey with text fields for respondents to express their opinions and thoughts on various political topics. It's intended to gather data for research or analysis purposes.

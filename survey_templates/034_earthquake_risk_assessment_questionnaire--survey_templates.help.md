@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for an earthquake risk assessment, which helps identify and assess potential risks and hazards associated with earthquakes. This information will be used to determine the level of risk posed by a particular earthquake event and to guide subsequent actions. 
-</thinking>
-
 # Earthquake Risk Assessment Questionnaire - Help Guide
 ## Purpose
 The Earthquake Risk Assessment Questionnaire is designed to collect data about an earthquake event to determine the level of risk it poses. This form will help identify potential hazards and guide subsequent actions.

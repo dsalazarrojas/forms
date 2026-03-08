@@ -1,7 +1,3 @@
-<thinking>As the form designer and technical writer, I will review the provided YAML form schema to ensure the form purpose and each field's intent is clear. The Focus Group Screener Form is designed to collect demographic and contact information from participants. This form appears to be a general survey template for gathering basic demographic data for a focus group or market research purpose. It is not meant for a specific business or organization, making it a broad and generic form for collecting various categories of information.
-
-Upon reviewing the form fields, I notice that it asks for contact information (name, email, phone number), demographic data (income category, employment status, age), and educational background. Some fields are required (employment status, income category, education level, marital status, and ethnicity), indicating that these data points are critical for the focus group or market research purpose.</thinking>
-
 # Focus Group Screener Form - Help Guide
 
 ## Purpose

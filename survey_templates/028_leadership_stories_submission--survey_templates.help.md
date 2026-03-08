@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting leadership stories from team members, which are used to share knowledge, experiences, and successes within the organization. Leadership stories are important for promoting a culture of transparency, accountability, and collaboration. Before starting to fill out this form, make sure you have not already submitted a similar story in the past.
-</thinking>
-
 # leadership_stories_submission - Help Guide
 ## Purpose
 This form is used to collect leadership stories from team members to share knowledge, experiences, and successes within the organization.

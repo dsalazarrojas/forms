@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from parents about the preschool environment, teachers, and overall experience. It's a one-time survey meant to provide insight into the school's strengths and areas for improvement. To ensure relevance, please only complete this survey if you are a parent of a child currently enrolled in the school. Please note that this form is for general feedback and suggestions, so you can provide any thoughts or comments, even if they may not be explicitly listed as an option. If you have already completed this survey, you can disregard this request.</thinking>
-
 # Preschool Parent Survey Form - Help Guide
 ## Purpose
 The Preschool Parent Survey Form is designed to collect feedback and opinions from parents about the preschool environment, teachers, and overall experience.

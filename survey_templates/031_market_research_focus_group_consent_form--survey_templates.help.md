@@ -1,14 +1,3 @@
-<thinking>
-This form is a market research focus group consent form, designed for participants in market research studies. The form aims to gather essential information from participants, including their demographic details, consent status, and study details. This form is intended for use in market research studies, and it is not affiliated with, endorsed by, or derived from any form platform.
-
-To ensure the form's effectiveness and accuracy, please review the following:
-
-* This form is not a substitute for professional advice or guidance. It is essential to consult with experts or professionals if you are unsure about any aspect of market research studies.
-* Review the form carefully before submitting it, ensuring all required fields are completed accurately.
-* If you are a participant, ensure you understand the study's details and your involvement in the research.
-
-</thinking>
-
 # Market Research Focus Group Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from market research study participants, ensuring they are aware of and consent to their involvement in the study.

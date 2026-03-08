@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their curricula, specifically to gather details about their educational backgrounds. This form is designed to be completed by users to provide insight into their curriculum development and progress. This form is likely to be used by educators or administrators to monitor and evaluate curricula. Before proceeding, please ensure that you are completing this form for a legitimate purpose and not duplicating efforts.
-</thinking>
-
 # Curriculum Survey - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a user's readiness to take a learning course. The purpose of this form is to gauge the user's level of interest, motivation, and ability to commit to the course, as well as their background knowledge and experience with the topic. This form is typically used by course administrators or instructors to evaluate potential students and determine the best fit for the course.
-
-This form is not intended to be a comprehensive evaluation, but rather a brief assessment of the user's readiness to take the course. The results of this form will not be used to deny access to the course, but rather to provide guidance to the user on their suitability for the course.
-</thinking>
-
 # Learning Readiness Quiz - Help Guide
 ## Purpose
 The form is designed to evaluate a user's readiness to take a learning course.

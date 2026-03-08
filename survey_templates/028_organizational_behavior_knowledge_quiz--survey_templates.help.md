@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is not used to gather data for the same purpose more than once. This quiz is meant to assess the knowledge of organizational behavior and its impact on a team's success. It's crucial to complete the form accurately, providing answers to each question in the sections: leadership, culture, group dynamics, and quiz questions. This guide will walk you through each section, explaining what to expect and how to complete the form efficiently.
-</thinking>
-
 # Organizational Behavior Knowledge Quiz - Help Guide
 ## Purpose
 The Organizational Behavior Knowledge Quiz is designed to evaluate your knowledge on leadership, culture, group dynamics, and quiz questions related to organizational behavior. This form is meant to be completed by individuals who are familiar with these topics and are looking to assess their understanding.

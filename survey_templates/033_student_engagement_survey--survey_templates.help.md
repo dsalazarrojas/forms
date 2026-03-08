@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Engagement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from students about their experience in the class. It is intended to help instructors and course administrators understand student perspectives, identify areas for improvement, and make data-driven decisions to enhance the overall learning experience.

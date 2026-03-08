@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create a survey based on public metadata about leadership. The form is designed to gather information about what people think leadership is, what characteristics and qualities make a good leader, and what responsibilities a leader has. It is not affiliated with any form platform and is released under CC BY 4.0. The form is intended to be a starting point for discussions and reflections on leadership, and its responses are not meant to be taken as professional or expert opinions. If you are unsure about the purpose or any field, please review the provided metadata.
-</thinking>
-
 # leadership_test - Help Guide
 ## Purpose
 The leadership_test form is a survey that aims to understand people's perceptions of leadership, its characteristics, and responsibilities.

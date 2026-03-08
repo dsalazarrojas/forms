@@ -1,10 +1,3 @@
-<thinking>
-The "hvac_equipment_survey_form" form is designed to collect data on Heating, Ventilation, and Air Conditioning (HVAC) equipment. This form is meant to gather information on various aspects of the equipment, including its status, location, and maintenance details. 
-
-The form should only be used for surveying HVAC equipment that is relevant to the provided context. Duplicate entries should be avoided to prevent unnecessary redundancy and data inconsistency. 
-
-</thinking>
-
 # hvac_equipment_survey_form - Help Guide
 ## Purpose
 The hvac_equipment_survey_form is designed to collect data on Heating, Ventilation, and Air Conditioning (HVAC) equipment. This information will help in maintaining accurate records and improving the maintenance process.

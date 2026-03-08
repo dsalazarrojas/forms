@@ -1,14 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "sports_prediction_app_feedback_survey" form that explains its purpose, how to complete it, and what each field means. This guide will help users understand the form's goals and objectives, and ensure that they provide relevant and useful feedback for the app's development.
-
-This form aims to gather feedback from users about their experience with the sports prediction app. Its purpose is to collect opinions and suggestions on how the app can be improved, what features are missing, and what aspects of the app are satisfactory or unsatisfactory. The survey will help the app's development team better understand the needs and expectations of users, enabling them to make informed decisions about future development and improvements.
-
-To ensure that the feedback is relevant and actionable, we will review and analyze the answers carefully, eliminating any duplication or ambiguity. This will help to create a clear and concise report that the development team can use to improve the app.
-
-Before proceeding, let us ensure that the form is completed accurately and consistently. Each field has a specific purpose, and filling it out correctly will help to achieve the form's goals. The following guide will walk you through each field and explain its meaning.
-
-</thinking>
-
 # sports_prediction_app_feedback_survey - Help Guide
 ## Purpose
 The "sports_prediction_app_feedback_survey" form is designed to gather feedback from users about their experience with the sports prediction app. It will help us understand your opinions and suggestions on how to improve the app.

@@ -1,12 +1,3 @@
-<thinking> 
-The form is designed to collect feedback and opinions from sports club members about their experience with the club's programs and facilities. The goal is to gather information on what they like and dislike about the programs, facilities, and overall experience. This data will help the club improve its services and tailor them to better meet the needs of its members.
-
-The form has multiple sections and fields that require the member to respond to a series of questions, some of which have multiple options to select from. The member is also given the opportunity to provide free-form text input in some sections to give their thoughts and suggestions.
-
-Some fields are optional, indicated by the lack of "required" flag. Members are encouraged to provide their honest and candid feedback to help the club improve.
-
-</thinking>
-
 # Sports Club Member Experience Survey - Help Guide
 
 ## Purpose

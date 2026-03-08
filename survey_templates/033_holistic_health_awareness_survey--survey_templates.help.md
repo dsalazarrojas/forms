@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users on their overall well-being, health, and lifestyle habits. The form is part of a larger study on holistic health awareness, aiming to understand factors that affect individuals' physical and mental health. By completing this form, users will be contributing to a valuable dataset that can help researchers and policymakers identify areas of improvement in healthcare services and wellness programs. 
-Please ensure that you have read and understood the form's purpose before proceeding, as this information will be used to inform future research and potential interventions.
-</thinking>
-
 # Holistic Health Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your overall well-being, health, and lifestyle habits. Your input will help us better understand factors that affect your health and inform future research and interventions.

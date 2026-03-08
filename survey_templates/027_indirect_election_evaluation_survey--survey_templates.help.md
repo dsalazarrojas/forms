@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Indirect Election Evaluation Survey - Help Guide
 ## Purpose
 

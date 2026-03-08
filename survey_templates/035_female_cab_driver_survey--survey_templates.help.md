@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from female cab drivers on their experiences, challenges, and opportunities in the industry. The survey aims to understand their job titles, driving frequency, vehicle type, income ranges, common challenges, and opportunities for growth. By providing a detailed account of their experiences, the data collected will help identify areas of improvement and support initiatives to promote diversity and inclusivity within the industry.
-
-Before we begin, we want to clarify that the form is not a duplicate of any existing form, and the information provided will be kept confidential and used solely for research purposes. Please answer the questions honestly, and if you have any difficulties filling out the form, feel free to reach out to us for assistance.
-
-</thinking>
-
 # Female Cab Driver Survey - Help Guide
 ## Purpose
 This form is designed to gather information from female cab drivers on their experiences, challenges, and opportunities in the industry.

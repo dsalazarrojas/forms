@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Practitioner Voting Form - Help Guide
 
 ## Purpose

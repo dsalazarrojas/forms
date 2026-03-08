@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for assessing patients' experiences with phobias and treatment outcomes. It will help clinicians evaluate the effectiveness of treatment plans and identify areas for improvement. Please note that this form is only meant for patients who have undergone phobia treatment and are willing to provide their information and experiences.
-
-Before you start, please ensure you have not filled out this form before, as this will help you understand your progress and experiences with phobia treatment.
-</thinking>
-
 # phobia_treatment_assessment_survey - Help Guide
 ## Purpose
 The Phobia Treatment Assessment Survey is a form designed to gather information from patients who have undergone phobia treatment. It helps clinicians evaluate the effectiveness of treatment plans and identify areas for improvement.

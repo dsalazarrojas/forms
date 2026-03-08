@@ -1,10 +1,3 @@
-<thinking>
-The "family_rental_sweepstakes_entry" form is a survey template designed to collect information from individuals who are interested in entering a rental sweepstakes or similar promotional contests. This form is likely used to manage and track entries, as well as provide a user-friendly way for customers to submit their entries. It may be used by businesses, organizations, or event planners to gather contact information and entry details from individuals who are interested in participating in a sweepstakes event.
-
-The form should only be used for this specific purpose, and not for any other type of data collection or form submission. This is to ensure that the form remains focused on its intended use and does not become cluttered or confusing for the end-user.
-
-</thinking>
-
 # family_rental_sweepstakes_entry - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in entering a rental sweepstakes or similar promotional contests.

@@ -1,17 +1,3 @@
-<thinking>
-We should ensure that the form is used for its intended purpose: to assess the product system's functionality, usability, and overall satisfaction. The form should be filled out by users who have had experience with the product system, and their responses should be honest and detailed. We should check that the form is not filled out by users who are not familiar with the product system or who are trying to game the system.
-
-To confirm, the form is designed to gather feedback on the following aspects of the product system:
-
-* Product system satisfaction
-* Contact information
-* Product information
-* Assessment of product system functionality
-* Improvement ideas
-
-The form should not be used for other purposes such as marketing or sales promotion.
-</thinking>
-
 # Product System Assessment Questionnaire - Help Guide
 ## Purpose
 The Product System Assessment Questionnaire is designed to gather feedback on the product system's functionality, usability, and overall satisfaction. It is intended for users who have had experience with the product system and are familiar with its features and limitations.

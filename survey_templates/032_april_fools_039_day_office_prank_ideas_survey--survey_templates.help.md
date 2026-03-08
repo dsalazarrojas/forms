@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their favorite prank ideas, specifically for April Fools Day office pranks. The goal is to collect various prank ideas, their characteristics, and how funny they are. This form is not affiliated with any form platform, but an original creation using AI.
-
-To ensure you understand the form's purpose and relevance, please confirm that you are an office worker looking to share your prank ideas and have a good understanding of pranks, office culture, and the target audience. 
-
-Please provide a brief description of your office environment and what kind of pranks you usually participate in. 
-
-If you have any prank ideas already, feel free to skip to the "Prank Ideas" section. If not, you can start from the beginning with "About You" section.
-
-</thinking>
-
 # April Fools Day Office Prank Ideas Survey - Help Guide
 ## Purpose
 This form is designed to collect prank ideas suitable for an office environment for April Fools Day, along with their characteristics such as type, effort required, and estimated cost. By filling out this form, you'll help us create a comprehensive list of prank ideas for office use.

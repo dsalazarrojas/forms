@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their favorite holiday trees, likely for a voting or poll purpose. The form is not affiliated with or endorsed by any form platform, and is an original adaptation created using public survey topic metadata. The form's purpose is to gather input from users, which may be used to determine their preferences or opinions about holiday trees. Please ensure that this form is relevant to your use case and not a duplication of an existing form.
-
-</thinking>
-
 # Favorite Holiday Tree Voting - Help Guide
 ## Purpose
 This form is designed to collect information from users about their favorite holiday trees. It is intended for a voting or poll purpose, where users can provide their input and preferences.

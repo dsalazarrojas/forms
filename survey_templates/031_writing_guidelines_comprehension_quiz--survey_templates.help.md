@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to test the user's understanding of writing guidelines, specifically their ability to comprehend and apply writing rules and conventions. This form should only be used in the context of evaluating writing comprehension, and not as a general survey or questionnaire. To ensure consistency and accuracy, please fill out the form only if you have a genuine interest in writing comprehension and are not duplicating effort.
-
-</thinking>
-
 # Writing Guidelines Comprehension Quiz - Help Guide
 ## Purpose
 The Writing Guidelines Comprehension Quiz is designed to assess a user's understanding of writing guidelines and rules. The quiz consists of several questions that test the user's ability to comprehend and apply writing conventions and best practices.

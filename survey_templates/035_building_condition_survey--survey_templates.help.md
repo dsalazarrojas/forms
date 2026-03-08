@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Building Condition Survey form is to gather detailed information about the condition of a building, providing an accurate and comprehensive assessment of its state. This form is designed to collect data from a surveyor, and it's essential to fill it out carefully to avoid any inaccuracies or duplication of effort.
-This form is part of a larger process that will likely be used to evaluate and potentially improve the condition and maintenance of buildings, so it's crucial to provide accurate and thorough information.
-Before starting, it's essential to check that this form is not being filled out for other buildings or purposes, as it may lead to incorrect information or duplication of effort.
-</thinking>
-
 # Building Condition Survey - Help Guide
 ## Purpose
 The Building Condition Survey form is designed to gather detailed information about a building's condition, providing an accurate and comprehensive assessment of its state.

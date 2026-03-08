@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Personalized Wellness Program Interest Survey" form. This form is used to gather information from clients about their interest in wellness programs, their current health status, and other relevant details. The form will only be displayed to clients who have not previously completed it, to prevent duplication of effort. The purpose of this form is to collect data that will help the wellness program team to tailor their services to the client's needs and interests.
-</thinking>
-
 # Personalized Wellness Program Interest Survey - Help Guide
 ## Purpose
 This form is used to gather information about your interests and needs, which will help us create a personalized wellness program tailored to your requirements.

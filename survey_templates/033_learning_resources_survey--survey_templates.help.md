@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "learning_resources_survey" form. This form is likely used to gather information about learning resources, which can include books, articles, videos, or any other materials used for educational purposes. The form's purpose is to collect data on these resources, such as their institutional affiliation, name, type, and perceived effectiveness, accessibility, relevance, and utility.
-</thinking>
-
 # learning_resources_survey - Help Guide
 ## Purpose
 The "learning_resources_survey" form is designed to collect data on learning resources used for educational purposes. This form helps to gather information about the resource's title, institution, resource type, and user ratings (effectiveness, accessibility, relevance, and utility).

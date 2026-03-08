@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crop Information Collection - Help Guide
 ## Purpose
 The "Crop Information Collection" form is designed to gather essential information about a crop. Its purpose is to collect and store data on various crops, including but not limited to crop type, location, and growth habits. This form is intended for farmers, agricultural experts, or researchers to collect, record, and analyze data on crops in a standardized and efficient manner.

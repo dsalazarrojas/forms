@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from patients about their health and lifestyle habits. The purpose of this form is to gather data that can be used to identify areas of improvement and provide personalized recommendations to patients. Before proceeding, please ensure that you have not already filled out this form. If you have any questions or concerns, you can contact the relevant authority for guidance. 
-
-</thinking>
-
 # health_and_lifestyle_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect general health and lifestyle information from patients, including their sleep quality, physical activity, nutrition, medical history, medications, allergies, contact information, phone number, and emergency contact information.

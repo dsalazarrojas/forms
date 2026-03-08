@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Extracurricular Activity Success Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a template for a site survey, which is used to collect information from customers about their experience with a service provider. This form is likely used for internal purposes, such as customer feedback and satisfaction analysis. It's possible that this form is part of a larger system for tracking customer interactions and experiences. However, without more information, it's difficult to determine the exact purpose and context of this form. It's also worth noting that the form appears to be designed for a single page, as each field is associated with a unique ID.
-</thinking>
-
 # site_survey_template - Help Guide
 ## Purpose
 This form is used to collect customer feedback and satisfaction data from customers who have interacted with a service provider.

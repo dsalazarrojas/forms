@@ -1,12 +1,3 @@
-<thinking>
-This form is used by travel agents to report challenges they faced during the COVID-19 pandemic. The form collects information on the type of challenges they faced, areas affected, revenue lost, support measures taken, number of people affected, and financial loss incurred. The purpose of this form is to help us understand the impact of the pandemic on travel agents and their businesses.
-
-This form is not intended for travel agents to report their daily activities or routine operations. It is a one-time survey to gather information on the extraordinary challenges they faced during the pandemic.
-
-To ensure accurate and helpful responses, please answer this form carefully and honestly. If you have any questions or concerns, feel free to contact us.
-
-</thinking>
-
 # Travel Agent Survey - Help Guide
 ## Purpose
 This form is used to collect information on the challenges faced by travel agents during the COVID-19 pandemic.

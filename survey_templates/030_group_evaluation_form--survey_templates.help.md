@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a group's performance, likely for evaluation and development purposes. It is intended to gather information from the user about their experience working with the group, their level of satisfaction with the group's performance, and any feedback or comments they may have for the group or its manager. To ensure that this form serves its intended purpose, please review the following help guide.
-
-</thinking>
 # Group Evaluation Form - Help Guide
 
 ## Purpose

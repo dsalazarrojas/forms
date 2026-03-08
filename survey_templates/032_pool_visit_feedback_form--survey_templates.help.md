@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users after a visit to a pool. The purpose of this form is to assess the overall experience of the pool, with questions covering various aspects such as safety, staff service, cleanliness, and value for money. The form is intended to provide a comprehensive snapshot of the customer's experience, allowing the pool management to identify areas of improvement. It is essential to complete this form accurately to ensure that the feedback is meaningful and reliable. Please note that some fields are marked as optional, which means you can skip them if you don't have any information to provide. However, providing feedback in all fields will give a more detailed and comprehensive account of your experience.
-</thinking>
-
 # Pool Visit Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users after a visit to a pool, providing a snapshot of their experience.

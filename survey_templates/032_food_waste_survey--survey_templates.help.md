@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Waste Survey - Help Guide
 ## Purpose
 The Food Waste Survey is used to gather information about food waste in your household or organization. This survey aims to understand your food waste sources, types, and reduction measures.

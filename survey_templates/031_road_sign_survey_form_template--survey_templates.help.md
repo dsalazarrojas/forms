@@ -1,11 +1,3 @@
-<thinking>**Form Purpose:**
-
-This form is used to capture information about road signs. The goal is to collect relevant details about road signs, such as their condition, visibility, and compliance with regulations. This data will help in identifying areas for improvement or maintenance and ensure that all road signs meet the required standards. 
-
-**Note:** Make sure to fill out the form accurately and completely for each road sign. This will help in getting a comprehensive overview of the road signs' status.
-
-</thinking>
-
 # Road Sign Survey Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about road signs. Please fill out the form accurately and completely for each road sign.

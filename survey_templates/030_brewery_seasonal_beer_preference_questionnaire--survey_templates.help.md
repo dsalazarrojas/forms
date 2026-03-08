@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their seasonal beer preferences. It will help us understand your likes and dislikes when it comes to beer styles, flavors, and other factors that influence your purchasing decisions. Your input will help us create more appealing offerings that cater to your tastes.
-</thinking>
-
 # Brewery Seasonal Beer Preference Questionnaire - Help Guide
 ## Purpose
 This form is a survey designed to collect your preferences and opinions about seasonal beers and our brewery's offerings. Your input will help us create more appealing beers that cater to your tastes.

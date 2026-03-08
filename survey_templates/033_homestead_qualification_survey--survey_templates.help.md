@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect contact and applicant information for a homestead qualification process. The form is designed to gather details about the applicant's contact information and personal details to facilitate a smooth qualification process. This guide is intended for end-users who need to fill out the "homestead_qualification_survey" form. Please note that this form was created using AI and is not affiliated with any form platform.
-
-</thinking>
-
 # homestead_qualification_survey - Help Guide
 ## Purpose
 The "homestead_qualification_survey" form is designed to collect contact and applicant information for a homestead qualification process. It is intended to be filled out by applicants who wish to be qualified for a homestead.

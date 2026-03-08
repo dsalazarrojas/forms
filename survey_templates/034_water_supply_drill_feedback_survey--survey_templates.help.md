@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form's purpose is clear and its fields are understandable for the end user. This form is designed to collect feedback on water supply drills, focusing on participant information, evaluation, satisfaction, and various aspects of the drills. The fields should be labeled and explained in a way that is easy to understand, making it simple for users to complete the form accurately and efficiently.
-</thinking>
-
 # Water Supply Drill Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on water supply drills from participants. It is used to gather information on different aspects of the drill, such as participant details, evaluation, and satisfaction. This feedback will help improve future water supply drills.

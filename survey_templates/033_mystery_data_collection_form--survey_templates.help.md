@@ -1,21 +1,3 @@
-<thinking>... (Internal reasoning block)
-To avoid duplication and ensure the form's purpose is clearly understood, let's analyze the provided YAML fields.
-
-This form is likely used to collect demographic data from users. The title "mystery_data_collection_form" and the page structure suggest a straightforward data collection form. The fields present are typical of personal information gathering, which implies the form's purpose is to collect basic demographic data from users.
-
-The form has 7 fields:
-1. **First Name** (`name`, `text`, required: false): This field is likely meant to collect the user's first name.
-2. **Last Name** (`name`, `text`, required: false): This field is likely meant to collect the user's last name.
-3. **Email** (`email`, required: false): This field is likely meant to collect the user's email address.
-4. **Age** (`age`, `number`, required: false): This field is likely meant to collect the user's age.
-5. **Gender** (`gender`, `select_multiple`, required: false): This field is likely meant to collect the user's gender.
-6. **Occupation** (`occupation`, `text`, required: false): This field is likely meant to collect the user's occupation.
-7. **Company** (`company`, `text`, required: false): This field is likely meant to collect the user's company.
-
-The form does not have any complex fields or unusual requirements. The fields are straightforward and easily understandable.
-
-</thinking>
-
 # mystery_data_collection_form - Help Guide
 ## Purpose
 The **mystery_data_collection_form** is a simple form designed to collect basic demographic data from users. It contains fields for collecting personal information such as first and last name, email address, age, gender, occupation, and company.

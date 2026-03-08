@@ -1,17 +1,3 @@
-<thinking> 
-We need to check if the form has any issues with relevance and non-duplication before proceeding with the help guide.
-- The form has 16 fields, which is a relatively small number. This suggests that the form is focused and not cluttered.
-- There are no issues with data duplication, as each field has a unique id.
-- The form appears to be a survey for gathering information about a horse's boot fit, likely for a veterinarian or farrier.
-- There is a mix of select_multiple, text, date, number, and select_one fields, which suggests that the form will be used to collect both quantitative and qualitative data.
-- The form includes a photo_url field, which suggests that a photo may be uploaded or referenced as part of the survey.
-- The form includes a notes field, which suggests that additional comments or notes may be collected as part of the survey.
-- There are several fields with ids related to the horse, boot, and user, which suggests that the form will be used to track progress or follow-up on the horse's care.
-- The form does not appear to have any issues with required fields or conflicting field types.
-- The form's purpose and structure suggest that it will be used to collect data for a specific use case, such as providing recommendations for a horse's boot fit.
-- The form's title and field labels are clear and concise, suggesting that the form will be easy to understand and use.
-</thinking>
-
 # Hoof Boot Fit Survey - Help Guide
 ## Purpose
 The Hoof Boot Fit Survey is a form designed to gather information from horse owners about their horse's boot fit. This form is used to collect data that will help veterinarians or farriers provide recommendations for the horse's boot fit.

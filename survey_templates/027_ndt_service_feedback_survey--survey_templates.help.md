@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure the form is clear and easy to use for end users. 
-The form is for collecting feedback on the Non-Destructive Testing (NDT) service provided. The purpose of the form is to allow users to input details about the job they've done, including the service provided, date of testing, and other relevant information. This form will help users to rate the technician's performance and overall satisfaction.
-</thinking>
-
 # NDT Service Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback on the Non-Destructive Testing (NDT) service provided. Please answer the questions to help us improve our service.

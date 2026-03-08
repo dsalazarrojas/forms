@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback on library book acquisition, likely for the library's collections development or cataloging process. This form is intended to solicit users' opinions and preferences on various categories of books, and it's possible that the library may use this data to inform their book purchasing or cataloging decisions. To ensure that this form is completed correctly, users should only submit one vote per category, and they can choose as many categories as they'd like. To avoid duplication, users are encouraged to check their email address before submitting to ensure they have not already completed this form. This form will help the library better understand what types of books users are interested in acquiring, which can inform future purchasing and collection decisions.
-</thinking>
-
 # Library Book Acquisition Voting Form - Help Guide
 ## Purpose
 This form is designed to collect user feedback on book acquisition and help the library make informed decisions about their collections.

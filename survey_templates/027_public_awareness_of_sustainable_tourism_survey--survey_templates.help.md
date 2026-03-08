@@ -1,10 +1,3 @@
-<thinking>
-We've created this form to gauge public awareness and opinions on sustainable tourism practices. This form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation of the provided survey topic metadata. The purpose of this form is to collect information from users on their experiences and thoughts about sustainable tourism, specifically their category, description, contact email, location, date of visit, time of visit, travel reason, sustainable practices, and feedback.
-
-Before we dive into the form details, here's a quick note on the form's non-duplication and relevance check: We've aimed to create a form that's both informative and relevant to the topic while avoiding any duplication or unnecessary fields. If you have any further questions or concerns, please feel free to reach out to us at form@gic.mx.
-
-</thinking>
-
 # Public Awareness Of Sustainable Tourism Survey - Help Guide
 
 ## Purpose

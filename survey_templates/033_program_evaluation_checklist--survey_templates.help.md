@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather feedback and evaluation data from participants and stakeholders about a specific program. The purpose of this form is to help program administrators and evaluators understand the effectiveness and engagement level of the program. This data can be used to make informed decisions about program adjustments and improvements. It's essential to fill out this form accurately and thoroughly to provide valuable insights.
-
-Before you begin, please ensure that you have a clear understanding of the program's current state and the context in which it operates. This form is designed to be completed by both participants and stakeholders, so it's crucial to provide feedback based on your genuine experiences and perceptions.
-
-To avoid any confusion, please take a moment to review the questions carefully and respond to each one honestly and thoroughly.
-
-This form consists of 8 sections, each designed to gather specific types of feedback and evaluations. Please complete each section according to the instructions below.</thinking>
-
 # Program Evaluation Checklist - Help Guide
 ## Purpose
 The Program Evaluation Checklist is a tool used by program administrators and evaluators to gather feedback and evaluate the effectiveness and engagement level of a program. It helps to identify areas of improvement and inform decisions about program adjustments and enhancements.

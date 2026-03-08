@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for gathering feedback from users to understand their overall satisfaction with their daily life. It's possible that this form is used in a personal development or wellness context, perhaps for individuals looking to understand their well-being or for organizations seeking to improve employee engagement and happiness. It's not immediately apparent whether the form is used for internal or external users, but it may be used in both contexts. The form appears to cover various aspects of a person's daily life, including their overall satisfaction, sleep, work-life balance, social life, and sense of community.
-</thinking>
-
 # daily_life_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your daily life, allowing you to reflect on your experiences and identify areas for improvement or satisfaction.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's digital awareness and literacy. The purpose of this survey is to collect data on users' understanding of digital literacy, their frequency of use of digital technologies, their thoughts on Artificial Intelligence, and their favorite digital devices. 
-Before filling out this form, ensure you have not previously submitted the survey.
-</thinking>
-
 # Digital Awareness Survey - Help Guide
 ## Purpose
 This form is intended to gather information about your digital awareness and literacy.

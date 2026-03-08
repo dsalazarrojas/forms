@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from users about electric vehicle charging stations. The form is intended for businesses that offer electric vehicle charging services and is meant to be completed by their customers, clients, or users. The form may be used to gather feedback, suggestions, or requests from users, and the data collected will likely be used to improve the charging station's operations, services, or customer experience.
-
-This form does not contain any confidential or sensitive information fields, and it is not affiliated with any specific platform. It is a generic form created using public metadata from the survey topic "Electric Vehicle Charging Station". The form's fields are intended to be completed by users and can be used for various purposes, such as:
-* Gathering contact information for follow-up communication
-* Collecting feedback about the charging station's services
-* Understanding user preferences and expectations
-* Improving the charging station's operations and services
-
-Please note that this form is not a part of any proprietary system, and you are free to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # electric_vehicle_charging_station_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from users about electric vehicle charging stations. It is intended to be completed by customers, clients, or users of electric vehicle charging services.

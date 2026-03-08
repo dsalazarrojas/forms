@@ -1,7 +1,3 @@
-<thinking>
-A user-facing help guide for the "user_guide_update_form" form is necessary to ensure that end-users understand its purpose and how to fill it out correctly. This form is likely used for collecting user feedback, updating user guides, or providing general information for support purposes. It is essential to check for non-duplication of efforts and internal processes before proceeding.
-</thinking>
-
 # user_guide_update_form - Help Guide
 ## Purpose
 The "user_guide_update_form" is used to update user guides. It captures essential information about users, such as their first name, last name, email, phone number, user guide title, description, category, and feedback. This form helps the support team to gather feedback and provide accurate assistance.

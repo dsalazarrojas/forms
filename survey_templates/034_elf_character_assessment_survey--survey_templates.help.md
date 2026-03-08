@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a character in the context of a fantasy setting, specifically a survey for an Elf character. This form is meant to gather details such as the character's appearance, abilities, and contact information. The form is designed to be completed by players in a role-playing game, allowing them to provide context and background for their characters. 
-
-The form's design and field layout suggests it is intended to be used for individual character profiling, possibly for use in a campaign setting or adventure game.
-
-To the best of my knowledge, this form does not have any duplicate fields or overlapping questions.
-
-</thinking>
-
 # Elf Character Assessment Survey - Help Guide
 ## Purpose
 The Elf Character Assessment Survey is designed to collect information about a character in the context of a fantasy setting. This form is for players to provide details about their character, such as their appearance, abilities, and contact information.

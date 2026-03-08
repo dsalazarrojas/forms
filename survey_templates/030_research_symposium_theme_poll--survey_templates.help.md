@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the "Research Symposium Theme Poll" form, we need to understand the purpose of the form and its intended use. 
-
-This form is designed to collect user preferences regarding different themes for a research symposium. Each theme is presented as a multiple-choice option, and users are asked to select one or multiple themes they prefer. The form is likely used to gather input for planning and organizing the symposium.
-
-Before filling out the form, please make sure you have read and understood the instructions carefully to avoid duplication of effort and to ensure your input is relevant to the symposium planning process.
-
-</thinking>
-
 # Research Symposium Theme Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather user preferences for different themes for a research symposium. Your input will help in planning and organizing the symposium.

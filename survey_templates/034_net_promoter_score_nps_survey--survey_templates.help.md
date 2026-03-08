@@ -1,15 +1,3 @@
-<thinking>
-We need to check if the form is relevant and not duplicated before creating the help guide. Let's review the form fields and purpose.
-
-Upon reviewing the form YAML, it appears to be a Net Promoter Score (NPS) Survey, which is a customer satisfaction survey used to measure customer loyalty and satisfaction. This form is likely used to gather feedback from customers about their experience with a product or service.
-
-There's no apparent duplication or inconsistency in the form fields.
-
-This form appears to have several fields for gathering contact information (first name, last name, email, and phone number), a set of questions related to the Net Promoter Score (NPS) (how likely to recommend, will recommend, and open-ended questions), and two open-ended questions for additional feedback.
-
-With this understanding, I'll create the help guide for the user-facing documentation.
-</thinking>
-
 # Net Promoter Score (NPS) Survey - Help Guide
 ## Purpose
 The Net Promoter Score (NPS) Survey is a customer satisfaction survey used to measure customer loyalty and satisfaction. It helps us understand your thoughts and feelings about our product or service.

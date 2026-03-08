@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about a building's condition, including its physical attributes, systems, and overall state. It seems to be used for a variety of purposes such as appraisal, inspection, or condition assessment. The form collects data on the building's age, size, and structural condition, as well as its electrical, plumbing, and HVAC systems. It also captures information on potential issues like water or pest damage. Users should only complete this form once, and it is essential to provide accurate and thorough answers to the questions to get a reliable assessment of the building.
-
-Please note that this help guide is designed to be used by end-users with no technical or domain-specific expertise, therefore explanations aim to be as clear and concise as possible.
-
-</thinking>
-
 # Building Survey - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a building's condition, which can be used for various purposes such as appraisal, inspection, or condition assessment. The data collected will help in making informed decisions about the building's value, maintenance, or investment potential.

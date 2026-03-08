@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple, user-friendly tool for assessing the environmental impact of an event. It's intended to collect information about an event from the event organizer's perspective, providing a structured and organized way to gather data on event specifics, sustainability efforts, and performance metrics. This form is suitable for events of all types, whether large-scale public gatherings, workshops, or internal corporate events.
-</thinking>
-
 # Event Environmental Impact Assessment Form - Help Guide
 ## Purpose
 The Event Environmental Impact Assessment Form is designed to collect essential information about an event, including event specifics, sustainability efforts, and performance metrics.

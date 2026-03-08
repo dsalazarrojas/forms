@@ -1,7 +1,3 @@
-<thinking>**Please provide more details on the form fields for proper explanations**
-
-</thinking>
-
 # Customer Service Experience Feedback Form - Help Guide
 ## Purpose
 The Customer Service Experience Feedback Form is designed to gather feedback and insights from customers on their experience with our customer service team. This form helps us understand how we're doing and where we can improve to better serve our customers.

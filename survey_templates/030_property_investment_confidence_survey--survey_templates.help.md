@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's investment confidence and preferences for property investment. It's essential to fill out this form accurately to help us better understand your investment habits and provide you with more tailored advice.
-
-**Duplicate check:**
-
-* Please ensure that you haven't filled out this form recently, as your answers might have changed since then.
-* If you've completed this form before, please review your previous answers to see if they still apply to your current situation.
-
-</thinking>
-
 # Property Investment Confidence Survey - Help Guide
 ## Purpose
 The Property Investment Confidence Survey is designed to gather information about your investment confidence and preferences for property investment. It will help us understand your investment habits and provide you with more tailored advice.

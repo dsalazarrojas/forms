@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "library_visitor_new_service_feedback_survey" form, we first need to understand its purpose and the context in which it will be used. This form is likely a feedback mechanism for users who have interacted with a library service, designed to gather information about their experience with the service. The form's primary goal is to collect feedback that can be used to improve the service and cater to the needs of its users.
-
-The form is structured into several sections, each addressing different aspects of the user's experience with the library service. This includes questions about which service was used, an opportunity for users to provide additional information about an 'Other' service if needed, a rating system for the service, suggestions for improvement, contact information (in case the library needs to follow up or communicate with the user further), and details about the duration and date of the visit.
-
-Before proceeding with the guide, let's ensure that the form's purpose and structure are understood, and we will address any potential duplication or non-relevance of its sections or fields based on the provided YAML description. Upon review, it appears that each section is designed to gather unique and important information, and no significant duplication or non-relevant elements are identified. Therefore, the guide will directly address how to complete this form effectively, explaining each field's purpose and relevance in the provided structure.
-
-</thinking>
-
 # library_visitor_new_service_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have interacted with the library service, helping the library to understand their experiences, identify areas for improvement, and make informed decisions about service development.

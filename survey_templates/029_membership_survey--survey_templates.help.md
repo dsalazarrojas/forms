@@ -1,9 +1,3 @@
-<thinking>
-This form is a "membership_survey" designed to gather information about a user's membership status and preferences. It is not a required form and users are not forced to complete it. The form is used to collect data about a user's category membership, such as whether they belong to a particular category, the name of the category, and any other relevant details.
-
-To ensure data consistency and accuracy, please note that the user's input will be checked for relevance and non-duplication. If a user has already completed a similar survey in the past, their information will be checked against existing data to prevent duplication.
-</thinking>
-
 # membership_survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-I'm creating a user-facing help guide for an AI-generated form, specifically the "Air Cargo Route Survey" form in the "survey_templates" category. The form is designed to collect information from air cargo companies about their current operations and preferences for new routes. To ensure relevance and accuracy, I will analyze the YAML input schema and provide a clear, concise, and practical explanation of the form's purpose, completion process, and field-by-field instructions.
-
-</thinking>
-
 # Air Cargo Route Survey - Help Guide
 ## Purpose
 The "Air Cargo Route Survey" form is designed to gather information from air cargo companies about their current operations and desired new routes. This form will help us better understand your cargo transportation needs and preferences, enabling us to provide valuable insights and support for optimizing your route planning and operations.

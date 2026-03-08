@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form, "Weekly Progress Check In", is to gather information on the status of weekly progress from team members or individuals. This form aims to collect essential details such as the weekly topic of focus, progress notes, goals, participation status, submission date and time, submission status, additional comments, submitted to, submitted from, submitted role, and confirmation received. This information will help in monitoring and tracking progress, identifying areas of improvement, and maintaining open communication within the team.
-
-This form should not be used for other purposes, as its design and fields are specifically tailored for this particular use case. Please ensure that you have the necessary permissions and are authorized to access and use this form.
-
-The fields and their descriptions should be filled as per the guidelines below.
-</thinking>
-
 # Weekly Progress Check In - Help Guide
 ## Purpose
 

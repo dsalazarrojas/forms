@@ -1,14 +1,3 @@
-<thinking>
-The form purpose and fields are based on an AI-generated form using public survey topic metadata for a website audit survey.
-
-The form is meant to gather information about a website's functionality and structure, with a focus on user experience and accessibility. This includes sections for gathering user feedback, date and time spent on the site, and other relevant details.
-
-The form will help identify areas of improvement for the website and provide valuable insights for the website owners.
-
-Please note that the form fields and their labels are based on provided YAML metadata and might require further review and validation before actual use.
-
-</thinking>
-
 # Website Audit Survey - Help Guide
 ## Purpose
 The Website Audit Survey is a tool designed to gather information about your website's functionality and structure, helping identify areas of improvement for a better user experience.

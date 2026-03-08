@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "Spritual Gift Discovery Survey", is designed to help individuals identify their spiritual gifts and strengths. It is not intended for use in any formal evaluation or assessment context, but rather as a personal discovery tool for users to explore their own strengths and interests. This form is not meant to be taken seriously in a professional or formal setting, and it's not intended to be used for any purpose other than personal growth and exploration. Please use it only if you're interested in self-discovery and personal development.
-
-</thinking>
-
 # Spritual Gift Discovery Survey - Help Guide
 ## Purpose
 The "Spritual Gift Discovery Survey" is a survey designed to help users understand their spiritual gifts and strengths. It is an online form that guides users through a series of questions about their interests and abilities.

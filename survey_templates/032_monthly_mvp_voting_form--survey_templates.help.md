@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to cast their monthly MVP (Most Valuable Player) votes for different teams. It is essential to complete this form accurately to help the team leaders identify which team members are doing an excellent job and deserve recognition. Please note that this form is used for internal purposes only and the data will not be shared publicly. Also, please do not cast multiple votes for the same team, as this will affect the voting results. If you are unsure about which team to vote for, please take a moment to review the team's performance and achievements before making your selection.
-</thinking>
-
 # Monthly MVP Voting Form - Help Guide
 ## Purpose
 The Monthly MVP Voting Form is used to collect votes for the team members who have made significant contributions to the team's performance during the month. The form is used to identify the team members who deserve recognition and rewards.

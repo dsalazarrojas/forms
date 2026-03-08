@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-This form is a Neurotransmitter Effects Assessment form, likely used to gauge the effects of a specific neurotransmitter on an individual's mood, stress, symptoms, anxiety, fatigue, and sleep quality. The form is designed to collect data on the level of impact of this neurotransmitter on various aspects of a person's daily life. The purpose of this form is to gather information that can be used to better understand the effects of this neurotransmitter and provide insights for further research or clinical decision-making.
-
-The form consists of six fields, each with its own set of options:
-
-</thinking>
-
 # Neurotransmitter Effects Assessment - Help Guide
 ## Purpose
 This form is a Neurotransmitter Effects Assessment form used to collect data on the level of impact of a specific neurotransmitter on an individual's mood, stress, symptoms, anxiety, fatigue, and sleep quality.

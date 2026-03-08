@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's personal purpose, goals, motivations, and values. It collects information about the user's objectives, motivations, and priorities, which can be used for various purposes such as personal development, career guidance, or team building. This form is a public domain, AI-generated adaptation of a public survey topic metadata, and not affiliated with any proprietary form platform. Its purpose is to provide a structured and standardized method for users to reflect on their goals, motivations, and values.
-
-</thinking>
-
 # Personal Purpose Assessment - Help Guide
 ## Purpose
 This form is designed to help you understand your personal purpose, goals, motivations, and values. It will guide you through a series of questions to help you reflect on what's important to you and identify areas for personal growth and development.

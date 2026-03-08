@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the user experience and technical aspects of an e-commerce website, providing a checklist for evaluators to review and rate different sections of a website.
-The form is a self-contained, original adaptation of a public survey topic and not derived from any specific form platform or proprietary content.
-This form will provide a structured and comprehensive evaluation of an e-commerce website's homepage, header, navigation, footer, search functionality, content, checkout process, payment options, contact information, shipping and return policies, and terms and conditions.
-This guide will help users understand how to complete the form effectively and clarify the purpose and implications of each field.
-</thinking>
-
 # e-commerce-website-evaluation-checklist - Help Guide
 
 ## Purpose

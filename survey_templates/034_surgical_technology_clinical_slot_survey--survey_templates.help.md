@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to create and manage surgical technology clinical slots. 
-It is intended to be used by students, coordinators, and other stakeholders involved in clinical rotations, 
-to gather preferences and requirements for clinical slot availability, rotation details, 
-and other related information. 
-To avoid duplication and ensure accurate responses, ensure that the form is only used for specific purposes and not for general queries or discussions. 
-Ensure that all relevant fields are properly filled out, and the user has an understanding of their implications.
-</thinking>
-
 # Surgical Technology Clinical Slot Survey - Help Guide
 ## Purpose
 The Surgical Technology Clinical Slot Survey is a tool used to gather information about clinical slots and their corresponding preferences and requirements. It is designed to be filled out by students and other stakeholders involved in clinical rotations.

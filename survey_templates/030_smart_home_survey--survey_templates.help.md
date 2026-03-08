@@ -1,13 +1,3 @@
-<thinking>
-We are creating a help guide for a survey form called "Smart Home Survey" in the "survey_templates" category. The purpose of this form is to gather information about users' smart home devices, their locations, and their perceived savings. This form will help us understand how users interact with smart home devices, which can inform the development of new features and improvements.
-
-Before we proceed, let's review the form fields to ensure we're not duplicating any information and that the explanations are clear and concise.
-
-The form has 10 fields, but we'll group them into pages for easier understanding. Page 1 asks about the user's smart home device setup, page 2 asks about the user's smart home devices, and page 3 asks about the user's smart home savings. Page 4 asks about the user's smart home devices again, this time about their ideas and experiences.
-
-Upon reviewing the form fields, we notice that some fields are optional, and some are multiple choice. This guide will explain each field clearly, so users know what to expect.
-</thinking>
-
 # Smart Home Survey - Help Guide
 ## Purpose
 The Smart Home Survey is designed to gather information about your smart home devices, their locations, and your perceived savings. This will help us understand how you interact with smart home devices and inform the development of new features and improvements.

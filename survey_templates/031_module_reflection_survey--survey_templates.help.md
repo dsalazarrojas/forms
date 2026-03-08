@@ -1,15 +1,3 @@
-<thinking>
-
-To be honest, I'm not sure what's going on here. The form seems to be asking for some kind of survey feedback on a module, but I'm not aware of any specific business logic or context. Is this for a course, a project, or something else entirely? I'd like to clarify that this is a user-facing help guide, so it's essential to make it clear and concise for the users who will be filling out this form. 
-
-For instance, what is "Module Reflection Survey" about? Is it for a course, a project, or something else? Are there any specific learning goals or objectives associated with this form? I don't want to assume anything, but I'd like to know more about the context.
-
-Also, it seems like the form asks for quite a few open-ended questions, like "What did you find most valuable about the content?" and "What are some areas for improvement?" I'm thinking that these questions might be a bit too broad for a form, but I'm not sure. Maybe they're intended to be more qualitative in nature, rather than quantitative?
-
-If you could provide more information about the context and purpose of this form, I'd be happy to create a more accurate and helpful guide for the users.
-
-</thinking>
-
 # Module Reflection Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness and impact of a module. It's meant to help us understand what worked well and what didn't in the module, and to identify areas for improvement for future module development.

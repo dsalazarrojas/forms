@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide is intended to assist users in filling out the Green Property Certification Awareness Survey form. Please ensure you have reviewed the purpose and instructions below before proceeding.
 
 # Green Property Certification Awareness Survey - Help Guide

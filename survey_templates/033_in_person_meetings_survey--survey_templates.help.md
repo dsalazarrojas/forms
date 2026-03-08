@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on in-person meetings, allowing users to report on the goals, frequency, length, purpose, and feedback received during these meetings. This information can be used to analyze and improve the effectiveness of in-person meetings within an organization. The form is intended for users who have participated in or attended in-person meetings and can provide their honest feedback and comments. The form is not meant to be a substitute for actual meeting minutes or official records, but rather a tool for gathering additional insights and perspectives. Before filling out this form, please ensure that you have the necessary information and permissions to provide honest and accurate feedback.
-
-</thinking>
-
 # in_person_meetings_survey - Help Guide
 ## Purpose
 

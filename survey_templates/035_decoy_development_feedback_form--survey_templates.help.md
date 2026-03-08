@@ -1,7 +1,3 @@
-<thinking>
-This form is used for decoy development feedback, which is a crucial process to improve the quality of decoy developments. Before proceeding, please note that this form should only be filled out by the intended audience, i.e., people involved in decoy development projects. If you've already filled out this form in the past, please ensure that the changes you're reporting are substantial and warrant a new submission. This form is meant to gather specific information and should not be used for general feedback or suggestions.
-</thinking>
-
 # decoy_development_feedback_form - Help Guide
 ## Purpose
 The decoy_development_feedback_form is designed to collect feedback from users involved in decoy development projects. This form helps us improve the quality of our developments by providing us with insights and suggestions for future improvements.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is meant to assist end-users in completing the Energy Efficiency Audit Survey Form. The form is intended for users to input information about a building's energy characteristics and usage patterns. This form is not meant for users with limited access to building information or those not familiar with energy efficiency concepts. Please ensure that this form is filled out only once per building.
-</thinking>
-
 # energy_efficiency_audit_survey_form - Help Guide
 ## Purpose
 The Energy Efficiency Audit Survey Form is designed to collect data about a building's energy characteristics, usage patterns, and efficiency measures. This information will help in assessing a building's energy efficiency and providing recommendations for improvement.

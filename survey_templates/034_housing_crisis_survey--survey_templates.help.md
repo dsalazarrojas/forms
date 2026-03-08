@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Housing Crisis Survey - Help Guide
 
 ## Purpose

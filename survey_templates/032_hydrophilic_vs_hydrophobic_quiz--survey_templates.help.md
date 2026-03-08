@@ -1,5 +1,3 @@
-<thinking>This form is designed to help determine whether a substance has hydrophilic or hydrophobic properties. Each question is multiple choice, allowing the user to select one or multiple answers. The form is divided into several sections, each with a specific set of questions. The user's answers will help to identify the hydrophilic or hydrophobic nature of the substance. To ensure accurate results, please answer each question carefully and select all relevant options that apply. Please note that this form is not intended to be a definitive or scientifically validated diagnostic tool, but rather a simple quiz to provide an indication of a substance's properties.</thinking>
-
 # Hydrophilic Vs Hydrophobic Quiz - Help Guide
 ## Purpose
 This form is designed to help determine whether a substance has hydrophilic or hydrophobic properties by presenting a series of multiple-choice questions.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect user input for data visualization purposes. It is intended for users to provide specific information such as name, email, phone number, selection options, dates, times, and notes. The purpose of this form is to gather data that will be used to create visual representations of the data. It is crucial that users provide accurate and complete information in the required fields to ensure the data visualization accurately represents the intended data.
-
-Form fields that are required must be filled out. Optional fields can be left blank if not relevant to the user's input.
-
-It is also important to ensure that the correct type of input is used for the correct field. For example, the "Date" field should only be filled out with dates in the correct format.
-
-Before proceeding, ensure that the form has been filled out completely and accurately. This guide will walk you through each field to help users achieve this goal.
-</thinking>
-
 # Data Visualization Input Form - Help Guide
 ## Purpose
 This form is used to collect user input for data visualization purposes. It is crucial that users provide accurate and complete information in the required fields to ensure the data visualization accurately represents the intended data.

@@ -1,6 +1,3 @@
-<thinking>... internal reasoning:
-This form, "Music Ear Training Survey," seems to be a collection of fields for users to provide their thoughts, skills, challenges, and suggestions related to music ear training, presumably for training or improvement purposes in the music industry. This form appears to be designed for individuals with some expertise or knowledge in the field of music ear training, and it's likely used by music teachers, instructors, or professionals seeking to assess their abilities. There is no clear indication of any commercial application or specific use case other than for improvement. This form does not appear to have any redundant fields or obvious errors. I assume it is used by music educators to assess or improve their ear training methods and strategies. I will now create the guide for the user-facing help guide...</thinking>
-
 # Music Ear Training Survey - Help Guide
 ## Purpose
 This form is designed to gather your thoughts, skills, challenges, and suggestions related to music ear training. It is intended for music professionals who aim to improve their music ear training techniques or methods.

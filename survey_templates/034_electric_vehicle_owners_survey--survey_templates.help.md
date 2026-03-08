@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "electric_vehicle_owners_survey" form, we need to understand the form's purpose and the fields it contains. The form is meant to collect information about electric vehicle owners' habits, preferences, and behaviors. It is likely intended to help companies, researchers, or organizations understand electric vehicle adoption trends, charging habits, and driving patterns among electric vehicle owners. The form is not strictly required for any specific legal or regulatory compliance, so it's essential to make sure users understand the survey's purpose and how to complete it accurately.
-
-This guide will aim to be concise, concrete, and practical, providing clear explanations for each field, and tips on how to fill it out correctly.
-
-</thinking>
-
 # electric_vehicle_owners_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your electric vehicle habits, preferences, and behaviors. Your input will help us better understand electric vehicle adoption trends, charging habits, and driving patterns among electric vehicle owners. This information will be used to improve services and products related to electric vehicles.

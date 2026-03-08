@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, I'd like to clarify that this form seems to be intended for evaluating internal communications within an organization. The "communication effectiveness" fields appear to be focused on evaluating the quality and style of internal communications, such as whether they are formal or informal. Additionally, the form seems to ask about the frequency, channels, and response rate of internal communications. I'll assume that the purpose of this form is to gather information on how well internal communications are functioning within the organization. I'll also assume that some of the fields may be redundant or have overlapping questions, so I'll do my best to provide clear explanations for each field while trying not to invent unsupported business logic. If I'm wrong, please feel free to correct me.</thinking>
-
 # internal_communications_quality_survey - Help Guide
 ## Purpose
 This form is designed to gather information on the quality and effectiveness of internal communications within your organization. It will help you evaluate the type of communication that best suits your team's or department's needs.

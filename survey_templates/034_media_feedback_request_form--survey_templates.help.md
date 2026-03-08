@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on media content. The purpose of this form is to allow users to rate and provide feedback on individual items in a video series. The form will ask for ratings for multiple items, and a text field for any additional comments or feedback.
-
-Before starting, please make sure that this form is relevant to your needs and you're not duplicating efforts. If you're not sure what you're looking for, you might want to review our [Media Feedback Policy](link to policy document).
-
-</thinking>
-
 # Media Feedback Request Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on media content. It will help you rate and provide feedback on individual items in a video series.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that users understand the purpose and functionality of the Interactive User Engagement Form. To avoid duplication, this guide will cover the form's purpose and how to fill it out in detail. Please review the guide thoroughly before filling out the form.
-</thinking>
-
 # Interactive User Engagement Form - Help Guide
 ## Purpose
 The Interactive User Engagement Form is a tool to gather feedback, preferences, and other user information to improve user interaction with your application.

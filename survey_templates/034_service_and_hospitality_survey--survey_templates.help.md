@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service And Hospitality Survey - Help Guide
 ## Purpose
 This form is designed to allow service businesses to collect guest feedback using a drag-and-drop interface and no-code form builder. The form template helps organize form submission data collection.

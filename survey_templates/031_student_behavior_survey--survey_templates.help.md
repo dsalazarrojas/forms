@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, this form is intended for students to share their experiences and thoughts about school-related matters. The purpose of the form is to gather feedback and insights that can be used to improve the student behavior and experience at the school. It is essential to understand that this form is not meant to be filled out for students who have not experienced any issues or concerns with their school-related behavior.
-</thinking>
-
 # Student Behavior Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students regarding their experiences and thoughts about school-related behavior. The information gathered from this form will be used to identify areas of improvement and enhance the overall student experience.

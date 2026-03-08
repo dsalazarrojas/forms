@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help project teams and stakeholders assess the effectiveness of their building process, identify areas of improvement, and provide suggestions for optimization. It's meant to be used by people working on building projects, such as architects, engineers, construction managers, and team members. This form will help to gather data that can be used to improve building process efficiency, quality, and productivity.
-
-This guide is meant to be used as a reference for those filling out the form, to ensure that they understand the purpose and requirements of each field. Please make sure to fill out the form honestly and thoroughly, and do not skip any questions that might be relevant to your work on the building project.
-
-</thinking>
-
 # Building Process Optimization Survey - Help Guide
 ## Purpose
 This survey is designed to help project teams and stakeholders assess the effectiveness of their building process, identify areas of improvement, and provide suggestions for optimization.

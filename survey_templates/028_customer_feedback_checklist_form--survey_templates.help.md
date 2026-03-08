@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer feedback in a structured and efficient manner. The form is designed to gather information from customers about their experience with our organization. This form will help us understand their satisfaction level, contact information, and provide a space for them to express their feedback.
-
-We want to ensure that this form is not used for non-relevant purposes, such as for internal reporting or data analysis. This form is intended for customer feedback, so please refrain from using it for other purposes.
-
-Before proceeding, please note that this form has 5 pages with various types of fields. Make sure to fill out each page carefully and accurately. The form is divided into the following pages:
-
-Page 1: First Name (text field)
-Page 2: Contact Info and Feedback (select multiple and text field)
-Page 3: Date (date field)
-
-Please ensure that each page is filled out correctly and accurately before submitting the form.
-
-</thinking>
-
 # Customer Feedback Checklist Form - Help Guide
 ## Purpose
 The customer feedback checklist form is designed to collect customer feedback and experiences.

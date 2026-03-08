@@ -1,7 +1,3 @@
-<thinking>
-The Authority Registration Survey is designed to collect information from authorities and other organizations about their structure, processes, and performance. This data will help us better understand the regulatory landscape and identify areas for improvement. By filling out this form, you will be providing valuable insights that will help us enhance our services and support your organization's needs.
-</thinking>
-
 # Authority Registration Survey - Help Guide
 ## Purpose
 This form is intended to gather information about your organization's authority, structure, and performance. Please answer the questions as accurately and thoroughly as possible to help us better understand your needs and provide tailored support.

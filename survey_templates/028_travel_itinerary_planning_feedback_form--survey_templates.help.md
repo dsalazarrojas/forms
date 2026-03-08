@@ -1,5 +1,3 @@
-<thinking>Travel itinerary planning is an essential part of any business trip or personal journey. This form is designed to gather feedback from travelers about their experiences with travel itineraries. By completing this form, you can help us understand what we do well and what we can improve on in terms of travel planning.</thinking>
-
 # Travel Itinerary Planning Feedback Form - Help Guide
 
 ## Purpose

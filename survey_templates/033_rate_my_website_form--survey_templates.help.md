@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about a website. The goal is to help the website owners understand how their customers perceive their website. The form should be completed only once per user, to avoid duplication of feedback.
-</thinking>
-
 # Rate My Website Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users on the quality of an exhibit, allowing for the evaluation of its overall performance in terms of visit duration, rating, and any comments or contact information that may be provided.
-
-This form appears to be a simple and focused tool for gathering essential data, likely used in an educational or research setting.
-
-Before proceeding, ensure that the form is not a duplicate of any existing survey or feedback mechanism, and that the data collected is relevant to the specific exhibit being evaluated.
-
-</thinking>
-
 # Exhibit Quality Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from users on the quality of an exhibit, allowing for the evaluation of its overall performance.

@@ -1,8 +1,3 @@
-<thinking>
-You are an expert form designer and technical writer. To create the best help guide for the "irish_culture_awareness_survey" form, first, let's analyze the form's purpose and content. The form appears to be a survey designed to gauge users' awareness, attitudes, and behaviors related to Irish culture. It's essential to ensure that the form is easy to understand and complete for all users. To do so, we'll break down the form into sections and explain each field in simple terms.
-
-</thinking>
-
 # Irish Culture Awareness Survey - Help Guide
 ## Purpose
 

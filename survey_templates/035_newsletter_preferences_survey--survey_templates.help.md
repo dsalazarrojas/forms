@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and preferences from users on their newsletter preferences. It is meant to be completed by users who are interested in receiving newsletters from the organization. The form will help us understand how often users would like to receive newsletters and what time of day/week/month/year they are most likely to read them. This form is not affiliated with, endorsed by, or derived from any form platform and is released under CC BY 4.0. 
-Please note that this form may have some fields that are not relevant or may be confusing. These fields may have been included due to the limitations of the form generation algorithm. 
-Please take a few minutes to review and understand each field carefully before proceeding. If you have any doubts or concerns, please feel free to reach out to us at form@gic.mx.
-</thinking>
-
 # Newsletter Preferences Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect your feedback and preferences on how often you'd like to receive newsletters from us and what time of day/week/month/year you are most likely to read them. This information will help us tailor our content and schedule to better meet your needs.

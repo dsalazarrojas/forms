@@ -1,7 +1,3 @@
-<thinking>
-The form is likely designed to gather feedback from participants in the DAT (Digital Asset Trade) trainee program, aiming to evaluate their overall experience and provide insights for program improvement. The form might be used by the program organizers to gauge the effectiveness of the training sessions, instructors, materials, and logistics. The survey is likely part of a larger effort to refine the program and ensure its relevance and effectiveness for future trainees.
-</thinking>
-
 # DAT Trainee Survey - Help Guide
 ## Purpose
 This guide is meant to help you complete the DAT Trainee Survey with ease. The survey is designed to gather your opinions and experiences regarding the program, allowing us to understand what works well and what can be improved.

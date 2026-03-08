@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Support Tool Selection Survey - Help Guide
 
 ## Purpose

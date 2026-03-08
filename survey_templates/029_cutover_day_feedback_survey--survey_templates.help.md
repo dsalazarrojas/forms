@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather feedback from end users on their experience with a cutover day, which is a critical event in IT projects. The purpose of this form is to collect information on whether end users experienced any issues, how they feel about the communication from the project team, and what improvements they would suggest for future cutover days. The form is designed to be completed by end users who have participated in the cutover day.
-</thinking>
-
 # Cutover Day Feedback Survey - Help Guide
 ## Purpose
 The Cutover Day Feedback Survey is a form designed to gather information from end users on their experience with a cutover day. This form helps the project team to understand what went well and what didn't, and to identify areas for improvement for future cutover days.

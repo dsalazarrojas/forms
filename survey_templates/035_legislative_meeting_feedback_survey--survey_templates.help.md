@@ -1,13 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "Legislative Meeting Feedback Survey" form, which is used to collect feedback from participants on legislative meetings. To ensure accuracy, we'll assume that the form will be filled out by meeting attendees, such as participants, to provide their thoughts and insights on the meeting's effectiveness, organization, and overall experience. We'll also assume that the form will be completed on a per-meeting basis to capture feedback for each meeting separately.
-
-Before filling out the form, please make sure to review the meeting's minutes and other relevant materials to ensure that you're providing accurate and relevant feedback.
-
-The form should not be filled out multiple times for the same meeting, as this can skew the data and make it difficult to track progress and trends.
-
-Please fill out this form carefully, providing as much detail as possible. If you're unsure about any of the questions or fields, please contact the meeting organizers or administrators for clarification.
-</thinking>
-
 # Legislative Meeting Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants on legislative meetings, helping meeting organizers and administrators to identify areas of improvement and make data-driven decisions.

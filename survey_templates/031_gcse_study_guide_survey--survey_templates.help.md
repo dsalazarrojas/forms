@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help you complete the GCSE Study Guide Survey, which is designed to gather information about your study habits and preferences. The survey is used to understand your needs and provide guidance on effective studying for the GCSE exam. Please note that this survey is optional and your responses will be kept confidential. If you have already completed this survey, please do not fill it out again, as your responses will be treated as an update to your previous answers.
 
 # GCSE Study Guide Survey - Help Guide

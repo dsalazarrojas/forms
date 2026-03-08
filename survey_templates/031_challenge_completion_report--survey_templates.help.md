@@ -1,7 +1,3 @@
-<thinking>
-The Challenge Completion Report form is designed to capture the completion of a challenge by a participant. This form helps us understand the participant's experience, progress, and outcomes of the challenge. Before starting, please ensure that you are completing this form for the correct challenge and have a valid reason for doing so. If you are not the participant who completed the challenge, please do not fill out this form.
-</thinking>
-
 # Challenge Completion Report - Help Guide
 ## Purpose
 The Challenge Completion Report form is used to collect information from participants about their completion of a challenge, including the date of completion, participant details, and their experience with the challenge.

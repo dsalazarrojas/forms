@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about restaurant customers' preferences and experiences. The form is likely used for customer feedback, surveys, or other purposes related to customer relations and satisfaction analysis. Before proceeding, ensure that you are completing this form for a valid reason and not duplicating an existing submission. The form collects a mix of personal and preference-based data, so be thorough and accurate in your responses.</thinking>
-
 # restaurant_customer_preferences_information_form - Help Guide
 ## Purpose
 This form is designed to collect information about restaurant customers' preferences and experiences.

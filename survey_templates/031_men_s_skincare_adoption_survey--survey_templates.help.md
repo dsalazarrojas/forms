@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about men's skincare adoption and preferences. The form is designed to collect data on various aspects of men's skincare habits, including demographics, current skincare routines, product usage frequency, openness to new products, and the importance of different product features. This information will help us better understand men's skincare preferences and inform product development and marketing strategies. To ensure the integrity of the data collected, we will be checking for duplication and ensuring that all respondents are eligible to participate in this survey.
-</thinking>
-
 # Men’s Skincare Adoption Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about men's skincare habits, preferences, and behaviors. Your responses will help us understand men's attitudes towards skincare and inform product development and marketing strategies.

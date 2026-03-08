@@ -1,14 +1,3 @@
-<thinking>
-This form was created to collect feedback and insights from partners on the success factors of academic partnerships. The purpose of this survey is to gather information on the effectiveness of partnerships, identify areas for improvement, and provide a platform for partners to share their experiences and suggestions.
-
-Before completing this form, please ensure that you have read and understood its purpose and scope. This form is designed to be used by partners who have experience with the partnership, so if you are not a partner or have not participated in the partnership, please do not submit this form.
-
-This form is meant to be completed by one person per partnership. If you are a partner with multiple partnerships, please complete this form separately for each partnership.
-
-Please note that the information collected through this form will be used to improve the partnerships and provide valuable insights for future partnerships.
-
-</thinking>
-
 # Academic Partnership Success Factors Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback and insights from partners on the success factors of academic partnerships. It will help identify areas for improvement and provide a platform for partners to share their experiences and suggestions.

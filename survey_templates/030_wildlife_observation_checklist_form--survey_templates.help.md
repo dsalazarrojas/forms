@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "wildlife_observation_checklist_form" form, let's break down its purpose and fields to ensure that end users understand what they're required to do and what each field is for.
-
-The form's purpose is to collect information about observed species in the wild. This could be used for research, conservation efforts, or educational purposes. It's essential to fill out this form accurately to provide valuable data.
-
-Before proceeding, ensure that you haven't filled this form for the same species and observation location recently. Duplicate entries can lead to inaccurate data and may be discarded.
-
-</thinking>
-
 # Wildlife Observation Checklist Form - Help Guide
 ## Purpose
 The Wildlife Observation Checklist Form is designed to collect information about observed species in the wild. This data can be used for research, conservation efforts, or educational purposes.

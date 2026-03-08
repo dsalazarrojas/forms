@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for real estate market assessment. It is meant to be completed by users to provide data for market research or other business purposes. To avoid duplication, please use the form only for new property assessments, and update existing assessments accordingly.
-
-The purpose of this form is to collect details about a real estate property, including its type, location, market condition, price, age, status, and follow-up actions. The collected data will help in assessing the real estate market, making it easier to compare properties across different regions.
-
-To ensure accurate data, please provide detailed and truthful answers to each field.
-
-</thinking>
-
 # real_estate_market_assessment_form - Help Guide
 ## Purpose
 ## How To Complete This Form

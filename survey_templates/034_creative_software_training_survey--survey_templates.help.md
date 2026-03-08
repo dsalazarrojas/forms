@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from participants after they have completed a creative software training session. It helps us understand their experience, whether or not they attended the session, and gather feedback on the training quality.
-The form is part of an evaluation process and its completion will help us improve our training program. Please ensure to fill it out only if you have attended the "creative software training session" and if you are an authorized participant.
-The form will not be used to collect personal identifiable information.
-</thinking>
-
 # creative_software_training_survey - Help Guide
 ## Purpose
 

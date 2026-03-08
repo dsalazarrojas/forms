@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help assess a participant's skills in disguise, a crucial aspect of events, workshops, or presentations. The goal is to evaluate their level of expertise in various areas, provide a self-assessment of their skills, and allow them to provide any additional skills they may possess. This form should not be filled out if the participant has already been assessed in the same areas or if they are not familiar with the skills being evaluated.
-</thinking>
-
 # Disguise Skills Assessment - Help Guide
 
 ## Purpose

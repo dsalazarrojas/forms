@@ -1,5 +1,3 @@
-<thinking>...To determine the optimal brake system configuration, we need to assess the user's vehicle and brake system. This survey aims to collect information on the vehicle's make, model, and year, as well as its current brake system setup, including brake type, pad condition, and rotor condition. The survey also inquires about the vehicle's primary use and the user's brake performance expectations. This data will help us provide personalized recommendations for brake system upgrades and maintenance. We will not duplicate or store this information for any other purposes.</thinking>
-
 # Brake System Configuration Survey - Help Guide
 ## Purpose
 This survey helps us understand your vehicle's brake system and preferences to provide tailored recommendations for upgrades and maintenance.

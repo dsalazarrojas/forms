@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their preferences regarding cakes, including their favorite flavors, toppings, and consumption habits. The form aims to collect data on their demographics, such as age group, and their behavior towards trying new flavors. The form will help in understanding how often they purchase cakes and from where they prefer to buy them.
-</thinking>
-
 # Cake Preference Survey - Help Guide
 ## Purpose
 This form is designed to gather information from respondents about their preferences regarding cakes, including their favorite flavors, toppings, and consumption habits.

@@ -1,5 +1,3 @@
-<thinking>...We will now create a user-facing help guide for the "Discipleship Pathway Survey" form. This form is used to collect feedback and data from program participants to help improve the program's effectiveness. To ensure that your feedback is valid and useful, please answer the questions truthfully and accurately. If you have already completed this survey, please do not resubmit your answers... </thinking>
-
 # Discipleship Pathway Survey - Help Guide
 ## Purpose
 The "Discipleship Pathway Survey" is a tool designed to collect feedback and data from program participants to help us better understand their experiences and areas for improvement. Your honest and accurate responses will assist us in refining the program to meet your needs and expectations.

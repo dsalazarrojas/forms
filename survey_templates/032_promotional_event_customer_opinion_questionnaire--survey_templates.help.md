@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to gather customer opinions and feedback about promotional events. It is not a critical system, so users are not required to fill in every field. The form can be used to assess customer satisfaction and gather suggestions for improvement. To avoid bias, please ensure that only relevant and honest answers are provided. If you're unsure about a particular field, please use your best judgment and provide the most accurate information. Please do not duplicate answers.
-</thinking>
-
 # promotional_event_customer_opinion_questionnaire - Help Guide
 ## Purpose
 The form is designed to collect customer feedback and opinions about promotional events. It helps us understand customer satisfaction, gather feedback, and identify areas for improvement.

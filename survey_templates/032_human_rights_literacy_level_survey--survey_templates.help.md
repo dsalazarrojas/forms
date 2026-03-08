@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the level of literacy in human rights among end users. The purpose of this form is to provide a self-assessment tool to evaluate the level of understanding of human rights concepts, principles, and practices. This form is likely to be used by individuals in positions of authority or responsibility to gauge their level of awareness and engagement with human rights issues. To ensure that the form is completed accurately and effectively, it is essential to understand its purpose and the fields it contains.
-
-This form does not appear to be part of a larger workflow or process that would involve multiple forms, so it is likely a standalone survey. However, it is crucial to verify this assumption with the intended user to prevent duplication of effort or confusion. Additionally, it would be beneficial to consider the context in which this form will be used and to whom it will be presented to ensure that the results are actionable and meaningful.
-
-The form appears to be designed to gather information on several aspects of human rights literacy, including introduction, questions, awareness, attitudes, engagement, conclusion, comments, and demographics. Each field has a specific purpose and requires a particular type of input from the user. This guide will help users understand the purpose and requirements of each field to complete the form accurately and effectively.
-
-</thinking>
-
 # Human Rights Literacy Level Survey - Help Guide
 ## Purpose
 This form is designed to assess the level of literacy in human rights among end users. It is a self-assessment tool that evaluates the level of understanding of human rights concepts, principles, and practices.

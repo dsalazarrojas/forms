@@ -1,11 +1,3 @@
-<thinking>
-
-The "Academic Virtual Lab Satisfaction Survey" form is designed to collect feedback from users on their experiences with virtual labs in an academic setting. This feedback will help us evaluate and improve the effectiveness and quality of our virtual lab platform, which is used for various academic purposes such as courses, training, and research. 
-
-Please ensure that you are completing this form for the right reason and purpose. If you've already provided feedback through this form, you may not need to complete it again.
-
-</thinking>
-
 # Academic Virtual Lab Satisfaction Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Academic Virtual Lab Satisfaction Survey form. The feedback collected through this form will help us improve the quality and effectiveness of our virtual lab platform.

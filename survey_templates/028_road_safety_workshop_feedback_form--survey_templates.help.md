@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to be a general help document for end-users who will be completing the "Road Safety Workshop Feedback Form". This form is designed to collect feedback and input from workshop participants regarding their experiences with the "Road Safety Workshop". The purpose of this form is to gather valuable information that can be used to improve future workshops and better serve the needs of participants. By filling out this form, participants are providing their honest opinions and suggestions, which will aid in making the workshop a more engaging and effective educational experience for all attendees.
-
-</thinking>
-
 # Road Safety Workshop Feedback Form - Help Guide
 ## Purpose
 The Road Safety Workshop Feedback Form is a tool for gathering feedback and suggestions from workshop participants. Completing this form will help us improve the content and structure of future workshops.

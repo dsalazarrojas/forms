@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-The Trade Reflection Journal form is designed to collect information about trades completed by users, allowing them to reflect on their experiences and document their progress over time. This form helps users review and analyze past trades, providing valuable insights and opportunities for growth and improvement. To ensure accurate and thorough completion, review each field carefully before proceeding.
-
-This form is only accessible to authorized personnel, and repeated submissions should not be necessary. If you have completed this form in the past, please ensure that any new submissions do not duplicate existing entries.
-
-</thinking>
-
 # Trade Reflection Journal - Help Guide
 ## Purpose
 This form is used to record and analyze information about completed trades. It is essential for users to accurately document their trading activities to gain valuable insights and improve future trades.

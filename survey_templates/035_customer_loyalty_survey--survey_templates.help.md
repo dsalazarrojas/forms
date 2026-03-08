@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and sentiment from customers to gauge their loyalty to the company. The survey is likely used to measure customer satisfaction, gather contact information, and possibly to understand the customer's overall experience. The purpose of this survey is most likely to improve customer relationships and loyalty to the company.
-</thinking>
-
 # Customer Loyalty Survey - Help Guide
 
 ## Purpose

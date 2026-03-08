@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a design project. It is likely intended for use within a team or organization to gather input from team members and stakeholders on a project's general information, feedback, and status. This form is a standard template, so you may need to review the fields carefully to ensure you are using it correctly.
-</thinking>
 # Design Project Feedback Form - Help Guide
 
 ## Purpose

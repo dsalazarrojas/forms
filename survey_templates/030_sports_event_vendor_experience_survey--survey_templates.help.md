@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from sports event vendors, helping us understand their experiences and interactions with event organizers. The purpose of this form is to collect information on the overall satisfaction and communication with vendors, which will help us improve our services and create a better experience for future events. This form should only be completed by vendors who have interacted with event organizers, ensuring that we receive relevant and valuable feedback. Please note that the form is intended for vendors only, and we appreciate your input.
-</thinking>
-
 # Sports Event Vendor Experience Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from sports event vendors, helping event organizers understand their experiences and interactions. It's meant for vendors who have worked with event organizers to collect their satisfaction and communication experiences.

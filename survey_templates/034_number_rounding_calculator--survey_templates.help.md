@@ -1,5 +1,3 @@
-<thinking>This form, "Number Rounding Calculator," is used to assist users in performing numerical rounding to the nearest specified unit, such as hundred or ten. The form is designed to provide a simple and efficient way to calculate and display the rounded values. Before starting, ensure you are aware of the form's purpose and that it's not a duplicate form. If you're unsure, refer to your organizational documentation for more information on form usage and policies.</thinking>
-
 # Number Rounding Calculator - Help Guide
 ## Purpose
 The "Number Rounding Calculator" is a form that helps users round numbers to the nearest specified unit.

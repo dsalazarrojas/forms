@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Program Evaluation Questionnaire - Help Guide
 
 ## Purpose

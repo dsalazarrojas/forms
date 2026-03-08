@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about their experience with a digital collaboration tool. This form will help the tool's developers understand how users rate their experience, which features they use most frequently, and what areas of improvement are needed.
-</thinking>
-
 # Digital Collaboration Tool Feedback Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about the impact of seasonal employment on an organization. The purpose of this form is to collect data on the seasonal hiring needs, operational impact, and business impact of seasonal employment. The form is composed of multiple pages, each with its own set of questions. The first page asks about seasonal hiring needs, the second about operational impact, the third about business impact, and so on.
-
-Before filling out this form, please ensure that you are familiar with the concepts of seasonal employment and its effects on operations and business. If you are unsure about any term or concept, please refer to the provided explanations in the field-by-field explanations section.
-
-To complete this form, simply select the relevant options or enter your answers in the provided text fields. Make sure to provide clear and concise answers, as they will help in understanding the impact of seasonal employment on your organization.
-
-This form is designed to be user-friendly and flexible, allowing you to provide as much or as little information as you need. However, please ensure that you fill out all the required fields (marked as 'required' in the form).
-
-</thinking>
-
 # fashion_seasonal_employment_impact_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on the impact of seasonal employment on your organization, including seasonal hiring needs, operational impact, and business impact.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the International Trade Survey form, we need to understand its purpose and the information it aims to collect. This form is designed to gather data on international trade activities, including markets served, trade volumes, challenges, trade bodies involved, and other related aspects.
-
-To ensure this form is completed correctly, we need to clarify its purpose and the type of information it collects. This form is not intended for multiple purposes, so we can focus on its primary use: assessing international trade activities.
-
-Let's start by clarifying the fields and their requirements.
-
-</thinking>
-
 # International Trade Survey - Help Guide
 ## Purpose
 The International Trade Survey is designed to collect information on international trade activities, helping us understand the current state of trade in various markets and industries.

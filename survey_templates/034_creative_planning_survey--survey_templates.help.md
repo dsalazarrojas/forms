@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a creative project. It asks users to confirm that they have marketing teams and event organizers involved, and to specify the date and time of the project. The goal is to gather accurate and concise information for project planning and resource allocation. Before proceeding, please ensure that you are completing this form for a specific project and that you have not already submitted the same form for a similar project. This will help us provide better insights and reduce duplicates in our records.
-
-</thinking>
-
 # creative_planning_survey - Help Guide
 ## Purpose
 The creative planning survey is a form designed to collect relevant project information for efficient planning and resource allocation.

@@ -1,12 +1,3 @@
-<thinking>
-The Personal Configuration Survey form is designed to collect information from users about their personal preferences and configuration settings. This data will be used to tailor our services to better meet their needs. 
-
-To avoid duplication of effort, please only fill out this form once. Your responses will be stored and can be updated at a later time. If you've filled out this form before, you can simply log in with your existing credentials and update your settings.
-
-This guide is intended to help you complete the form correctly, so please read through each section carefully.
-
-</thinking>
-
 # Personal Configuration Survey - Help Guide
 ## Purpose
 The Personal Configuration Survey is a form designed to collect your personal preferences and configuration settings to help us tailor our services to better meet your needs.

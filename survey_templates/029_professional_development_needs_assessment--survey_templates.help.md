@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to assess the professional development needs of an individual. The purpose of this form is to gather information on an employee's skills, career path, and other relevant details. This form is typically used by HR or training departments to identify areas where an employee may need additional training or support.
-
-Before proceeding, please make sure that you have reviewed the form requirements and are not duplicating any existing assessments. If you are unsure about the purpose of this form or have questions, please reach out to the form administrator for further clarification.
-
-Please note that this form has multiple pages, and each page has several fields. Below is a step-by-step guide on how to complete this form:</thinking>
-
 # Professional Development Needs Assessment - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a Beauty Fragrance Memory Association Survey. The goal of the survey is to collect data on respondents' associations and experiences with fragrances. The form gathers information about the respondent's demographics, fragrance use experience, sensory sensitivities, favorite scent families, and various memory associations, such as the strength of scent memory, emotional responses, and nostalgic feelings. The survey aims to understand how fragrances evoke memories and emotions in respondents and how these associations may impact their confidence, personality, and purchasing decisions. To ensure accuracy, this guide will walk you through the form's purpose and fields, providing explanations for each section and field.
-</thinking>
-
 # Beauty Fragrance Memory Association Survey - Help Guide
 ## Purpose
 This survey is designed to explore the relationship between fragrances and memories, aiming to understand how scents evoke emotions, associations, and experiences in respondents.

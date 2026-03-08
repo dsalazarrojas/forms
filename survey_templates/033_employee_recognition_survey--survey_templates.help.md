@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their experiences with recognition and rewards within the organization. The purpose of this form is to understand the effectiveness of the recognition system, identify areas for improvement, and provide insights for managers to make informed decisions about employee engagement and retention.
-
-It's essential to ensure that the responses are genuine and accurate, so we need to keep the questions clear and concise. Each field should be filled out carefully, and the options provided should be easy to understand.
-
-The form should not be completed by people without knowledge of the employee recognition survey context or without consent from management. Please make sure you have the necessary clearance and understanding before filling this form.
-</thinking>
-
 # Employee Recognition Survey - Help Guide
 ## Purpose
 The Employee Recognition Survey is designed to collect your feedback on the recognition system within the organization. It helps us understand how you feel about being recognized for your contributions and how that affects your engagement and motivation.

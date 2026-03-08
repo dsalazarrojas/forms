@@ -1,9 +1,3 @@
-<thinking>
-
-We're designing a form for users to react to marketing campaigns. This form will help us gauge the effectiveness and performance of our marketing efforts. The form will help us understand the user's overall reaction, their thoughts on campaign performance, and whether they're likely to take action. This form is intended for general use and will not be specific to any particular campaign or project. Users can fill out the form to provide their honest feedback on marketing campaigns they've engaged with.
-
-</thinking>
-
 # Marketing Campaign Reaction Poll - Help Guide
 ## Purpose
 

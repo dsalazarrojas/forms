@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of the Holistic Wellness Coaching Program. It is intended for clients to provide feedback on their experience and coaching outcomes. The form is not required for regular program participants, but it is recommended for clients who have had a transformative experience with the program. 
-
-This guide will help you navigate the form and understand what each field is for.
-
-</thinking>
-
 # Holistic Wellness Coaching Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from clients who have participated in the Holistic Wellness Coaching Program. Your input will help us understand how the program has met your needs and identify areas for improvement.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from fans who want to vote for their favorite all-star player in a specific sport. The form is meant to be completed by individuals who are enthusiastic about sports and want to participate in a fun and engaging way. It's likely that the form will be used for entertainment and enjoyment purposes rather than for serious research or analysis.
-
-Before starting this form, ensure that you are not duplicating your vote. If you have already submitted a vote, please do not submit another one.
-
-Please note that the form is divided into two main categories: the voting section and the fan information section. The voting section asks for your top three choices, and the fan information section collects more detailed information about you as a fan.
-
-Before proceeding, make sure that you understand the form's purpose and the categories it's divided into. Completing the form takes a few minutes, and you can save your progress and come back later if needed.
-
-</thinking>
-
 # All Star Voting Poll - Help Guide
 ## Purpose
 This form is designed to collect information from fans who want to vote for their favorite all-star player in a specific sport. It's a fun and engaging way for fans to participate in the voting process and share their opinions.

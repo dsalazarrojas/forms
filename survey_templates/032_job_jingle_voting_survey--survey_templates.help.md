@@ -1,6 +1,3 @@
-<thinking>
-This form is for collecting feedback and ratings from users, specifically in relation to job jingles. It appears to have multiple pages and various fields for different types of inputs such as text, select_multiple, number, etc. The form is likely used for gathering opinions and ratings on a job jingle, possibly for a marketing or HR purpose. The purpose of this form is likely not solely for job jingles, as the fields seem to cover a wide range of topics including email, phone, and date inputs. It is possible that this form is meant to be a template for different surveys, and the specific purpose and context might not be immediately clear. It would be helpful to clarify the purpose and scope of the form to avoid duplication of effort or incorrect submissions.</thinking>
-
 # Job Jingle Voting Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users on job jingles. It may appear to be a template for multiple surveys, so please ensure you are filling out the correct one.

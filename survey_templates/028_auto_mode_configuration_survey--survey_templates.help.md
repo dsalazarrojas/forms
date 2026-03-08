@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Mode Configuration Survey - Help Guide
 
 ## Purpose

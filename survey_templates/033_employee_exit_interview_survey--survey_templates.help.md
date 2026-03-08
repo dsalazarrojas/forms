@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from departing employees, aiming to collect their reasons for leaving and feedback about their experiences. This information will help us understand their perspectives and identify areas for improvement within the organization. Please ensure that you only fill out this form if you are an actual departing employee.
-</thinking>
-
 # Employee Exit Interview Survey - Help Guide
 ## Purpose
 The Employee Exit Interview Survey is a tool used to gather information from departing employees about their reasons for leaving and their overall experience. This will help us understand their perspectives and make informed decisions for future improvements.

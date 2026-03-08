@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Store Layout Feedback Questionnaire - Help Guide
 
 ## Purpose
@@ -37,4 +35,3 @@ To complete this questionnaire, simply follow the instructions below:
 
 Note: If you have any questions or concerns, please don't hesitate to contact us.
 
-<thinking>...</thinking>

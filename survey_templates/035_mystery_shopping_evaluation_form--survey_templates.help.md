@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to evaluate the performance of a mystery shopping evaluation. It assesses various aspects of a customer's experience, including the overall quality of service, customer service level, and other related factors. This form will help identify areas of improvement and provide insights for businesses to enhance their customer service.
-
-Before proceeding, ensure that you have not already completed this form for the same mystery shopping evaluation. If you have, your responses will not be saved.
-
-The form has multiple pages, each with a set of questions or fields. Please answer each question according to your observations and experiences.
-
-</thinking>
-
 # mystery_shopping_evaluation_form - Help Guide
 ## Purpose
 The mystery shopping evaluation form is designed to assess your experience with a particular business or service provider. This form helps to identify strengths and weaknesses in the customer service level, overall quality, and other aspects of the experience.

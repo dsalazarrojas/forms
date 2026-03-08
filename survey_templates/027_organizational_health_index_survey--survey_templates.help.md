@@ -1,10 +1,3 @@
-<thinking>...
-This form, "Organizational Health Index Survey", is designed to help you assess the overall health and well-being of your organization. It's a set of questions that will guide you through the main aspects of organizational performance, including leadership, communication, employee engagement, and more. The purpose of this form is to provide a clear picture of your organization's strengths and areas for improvement, helping you make informed decisions to drive positive change.
-
-Before you start, please note that some questions are optional, but providing answers to all questions will give you a more comprehensive picture of your organization's health.
-
-</thinking>
-
 # Organizational Health Index Survey - Help Guide
 ## Purpose
 The Organizational Health Index Survey is a set of questions designed to help you assess the overall health and well-being of your organization. It covers various aspects of organizational performance, including leadership, communication, employee engagement, and more.

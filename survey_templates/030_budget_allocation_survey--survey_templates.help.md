@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a budget allocation survey that asks respondents about their priorities and concerns related to budgeting within an organization. The purpose of this form is to collect information about how different departments or teams within the organization would like to allocate their budget across various categories such as personnel, technology, operations, and marketing. The survey also asks about any potential constraints or challenges the respondent may have with the budget.
-</thinking>
-
 # Budget Allocation Survey - Help Guide
 ## Purpose
 

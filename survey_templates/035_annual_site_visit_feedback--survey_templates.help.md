@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Annual Site Visit Feedback" form, I'll first clarify the purpose and internal reasoning behind this form.
-
-This form is designed to collect feedback from visitors on various aspects of a site visit, including visitor details, site conditions, and overall impressions. The form aims to gather information on the site's performance, highlighting areas of strength and weakness. This feedback will be instrumental in helping site managers and administrators identify areas for improvement and take corrective actions.
-
-Internally, this form will be used to:
-
-* Record visitor information for contact and follow-up purposes
-* Assess site conditions, including cleanliness, safety, and compliance with standards
-* Gather positive and negative feedback on site performance
-* Identify areas for improvement and prioritize follow-up actions
-
-By using this form, site managers can:
-
-* Improve overall site performance and compliance
-* Identify and address potential hazards and issues
-* Develop targeted improvement plans
-* Enhance visitor satisfaction and experience
-
-</thinking>
-
 # Annual Site Visit Feedback - Help Guide
 
 ## Purpose

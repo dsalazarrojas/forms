@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey to gather information about Crossfit members and their experiences. The purpose of this form is to gather data about the membership types, demographics, and satisfaction levels of Crossfit members. This data can be used to improve services and facilities at Crossfit. Please ensure that this form is completed accurately and honestly.
-</thinking>
-
 # Crossfit Membership Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about Crossfit members and their experiences to help us improve our services and facilities.

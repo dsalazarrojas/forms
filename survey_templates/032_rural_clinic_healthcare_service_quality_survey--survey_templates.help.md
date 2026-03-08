@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for end-users who have recently visited a rural clinic for healthcare services. The form is designed to collect feedback on the quality of services provided, allowing the clinic to identify areas of improvement and make necessary changes. The form should only be completed by individuals who have recently visited the clinic and have a genuine experience to share.
-
-Before starting, please note that this form is for feedback purposes only and is completely anonymous. Your responses will help us improve our services and better serve our patients. If you have not visited the clinic recently, please do not complete this form.
-
-Also, please be aware that some questions may have multiple options or require a specific format for the answer. If you're unsure about how to answer a question, refer to the "Field-by-Field Explanation" section for guidance.
-
-</thinking>
-
 # rural_clinic_healthcare_service_quality_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality of services provided at the rural clinic. Your input will help us improve our services and better serve our patients.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from users on their experience with the AI motion feedback survey, specifically regarding its ability to provide accurate and timely feedback on their physical movements. This feedback will help improve the AI's performance and user experience. Before proceeding, please confirm that you are completing this form as part of an internal trial or session to provide genuine feedback.
-
-</thinking>
-
 # AI Motion Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback on the AI motion feedback survey, aimed at improving its performance and user experience.

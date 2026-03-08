@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Korean Language Beginner Quiz" form, we need to understand the purpose and functionality of the form. The form appears to be a survey or assessment tool to gauge the language skills of individuals, particularly those at the beginner level. It collects information such as name, email, phone number, language proficiency, subject area of interest, and quiz results. The fields seem to be designed to gather basic contact information, language skill level, and subject matter expertise. However, some fields may be optional or have additional options for further clarification. The form likely uses this information to provide a comprehensive picture of the user's Korean language abilities and interests. It is essential to ensure that the user understands the purpose and usage of each field to complete the form accurately and effectively.
-</thinking>
-
 # Korean Language Beginner Quiz - Help Guide
 ## Purpose
 The Korean Language Beginner Quiz is a survey designed to assess your basic language skills and subject matter expertise in Korean. It is intended to help us better understand your language abilities and provide tailored guidance and resources to support your learning journey.

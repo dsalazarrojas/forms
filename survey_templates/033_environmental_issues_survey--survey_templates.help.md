@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the user's awareness and concerns regarding environmental issues. It is likely to be used within an organizational setting to collect feedback and gauge the success of the organization's conservation efforts. Before proceeding, please ensure that you have not filled out this form in the past and that your answers accurately reflect your current opinions and concerns. Your input is crucial in helping us understand our impact on the environment and areas for improvement.
-</thinking>
-
 # Environmental Issues Survey - Help Guide
 
 ## Purpose

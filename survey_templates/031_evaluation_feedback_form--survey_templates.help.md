@@ -1,8 +1,4 @@
-## <thinking>
-This form is designed to gather participant feedback on an event or program. It's likely intended for evaluation purposes, such as tracking progress, identifying areas for improvement, and making data-driven decisions. To ensure the form is being filled out correctly, please confirm that you are in the right context and that your input is relevant to this specific form. If this form is not relevant to your current situation, please do not proceed.
-</thinking>
-
-# evaluation_feedback_form - Help Guide
+## # evaluation_feedback_form - Help Guide
 ## Purpose
 The evaluation_feedback_form is designed to collect feedback from participants after an event or program. This form helps to evaluate the quality and effectiveness of the event, identify areas of improvement, and inform future planning and decision-making.
 

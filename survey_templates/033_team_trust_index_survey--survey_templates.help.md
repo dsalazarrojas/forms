@@ -1,7 +1,3 @@
-<thinking>
-We should only allow team members to fill out this survey, and we should check for duplication before allowing them to submit the form. This form is designed to gather feedback on the trust index of team members, which is a measure of how well team members trust each other. The survey should only be filled out by team members, and we should check that each team member's data is not duplicated in the database.
-</thinking>
-
 # team_trust_index_survey - Help Guide
 ## Purpose
 The Team Trust Index Survey is designed to measure how well team members trust each other within a team. This form is intended to gather feedback from team members on their perception of trust within their team. 

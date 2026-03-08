@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their onboarding experience with a SaaS (Software as a Service) application. The goal is to collect data on user demographics, contact details, and subscription-related information to help improve the SaaS service.
-
-To determine if the form is relevant to the user, we check the category "SaaS Onboarding Survey" and the industry is likely related to software or technology. The form does not contain any proprietary or sensitive information, and it's designed to be used in a public domain, which suggests that it's not intended for any specific business or organization. However, this form might not be the best fit if you're looking for a form with more complex features or integrations.
-</thinking>
-
 # SaaS Onboarding Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their onboarding experience with a SaaS application.

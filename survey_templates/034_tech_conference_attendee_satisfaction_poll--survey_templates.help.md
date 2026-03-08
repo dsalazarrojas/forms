@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from attendees of a tech conference, aiming to evaluate their satisfaction with the event. It's essential that the responses are genuine and specific to the conference in question. Please do not reuse the form for other purposes or events, as this template is specifically designed to collect feedback for this tech conference. If you have any concerns or questions, reach out to [contact information].
-
-</thinking>
-
 # Tech Conference Attendee Satisfaction Poll - Help Guide
 ## Purpose
 This form is used to collect feedback from attendees of the tech conference. Your responses will help us understand what worked well and what could be improved for future events.

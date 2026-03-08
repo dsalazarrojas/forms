@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback on TV-related topics. The purpose of this form is to collect information from users about their TV survey preferences. Please ensure that you are filling out this form for a legitimate reason and not duplicating previous responses. If you have previously filled out this form, your response will be treated as a duplicate and will not be included in the survey results.
-</thinking>
-
 # TV Survey - Help Guide
 ## Purpose
 The TV Survey form is designed to collect feedback on TV-related topics from users. This form helps us understand user preferences and opinions on various aspects of TV, including ratings, categories, and more.

@@ -1,10 +1,3 @@
-<thinking>
-The ESG Consulting Awareness Survey is designed to assess the level of awareness among employees about the Environmental, Social, and Governance (ESG) consulting services provided by the organization. This form aims to gather information about the current level of understanding, familiarity, and implementation of ESG practices within the organization. The survey will help in identifying areas of improvement and providing training and support to enhance the ESG consulting services.
-
-Before starting the survey, please ensure that you have not completed it previously. If you have already taken the survey, your responses will not be recorded.
-
-</thinking>
-
 # ESG Consulting Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gauge your level of awareness about the Environmental, Social, and Governance (ESG) consulting services provided by the organization. Your responses will help us identify areas of improvement and tailor our training and support to better serve you.

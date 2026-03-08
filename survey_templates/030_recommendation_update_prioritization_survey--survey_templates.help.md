@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from users to update and prioritize recommendations. This form is used to gather data on the status of recommendations, the score and priority of updates, and the stakeholders involved. It's essential to ensure that the form is filled out accurately and completely to provide a comprehensive view of the recommendations. To avoid duplication of efforts, it's crucial to review the form carefully before submitting it. Please ensure that you have all the necessary information before starting the form...</thinking>
-
 # Recommendation Update Prioritization Survey - Help Guide
 
 ## Purpose

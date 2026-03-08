@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete the "Winning Move Feedback Survey". This form is designed to gather feedback on an initiative that has been communicated to the team, and it's meant to be filled out by team members after the initiative has been completed.
-
-To ensure the most accurate and helpful feedback, please only fill this form if you have participated in the initiative. If you haven't participated, your feedback may not be relevant to the initiative.
-
-Before filling out this survey, please review the questions carefully to ensure you are providing feedback on the initiative you're familiar with.
-</thinking>
-
 # Winning Move Feedback Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on an initiative that has been communicated to the team. This feedback is meant to help identify areas of improvement and areas of success for future initiatives.

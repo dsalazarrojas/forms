@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback on future initiatives from end-users, allowing them to provide input on proposed programs, their priority, target dates, and contact information. This feedback will be used to gauge user interest and gather input on upcoming projects and their associated services. Please ensure you only submit one survey at a time to avoid duplication of effort.
-
-</thinking>
-
 # Feedback On Future Initiatives - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and input from end-users on proposed programs and future initiatives.

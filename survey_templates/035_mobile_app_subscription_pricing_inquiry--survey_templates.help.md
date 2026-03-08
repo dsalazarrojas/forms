@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather data on a user's mobile app subscription pricing preferences and feedback. The purpose of this form is to collect information that will help the product team make informed decisions on pricing and billing strategies for their mobile app subscription model. The form is part of a larger product development process and will help us better understand the user's preferences and pain points when it comes to subscription pricing. This form is not intended for users with existing subscriptions or those who have already provided feedback; it's meant for users who have not yet subscribed or have not provided feedback previously. 
-</thinking>
-
 # mobile_app_subscription_pricing_inquiry - Help Guide
 ## Purpose
 This form is designed to collect information about your mobile app subscription pricing preferences and feedback. Your input will help us understand your needs and make informed decisions on our pricing and billing strategies.

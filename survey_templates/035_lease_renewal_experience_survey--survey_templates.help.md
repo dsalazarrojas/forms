@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I must consider the purpose of this form and potential duplication or redundancy. This survey is intended to gather information about the experience of renewing a lease, which might be a recurring event for tenants or property managers. However, I don't see any explicit connection to the "survey templates" category, making it unclear if this form is meant to be used within that context. To avoid duplication, we should ensure this form doesn't overlap with existing survey forms within the "survey templates" category. If this form is indeed meant to be used within that context, we may need to modify its content to align with the category's purpose.</thinking>
-
 # Lease Renewal Experience Survey - Help Guide
 
 ## Purpose

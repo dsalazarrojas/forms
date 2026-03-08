@@ -1,7 +1,4 @@
-## <thinking>
-This form is used to collect data on antibiotic use, awareness, and attitudes among users. It's crucial that this data is accurate and complete for effective antibiotic stewardship. Ensure that this form is filled out for every user who has used antibiotics in the past 12 months. If a user has not used antibiotics, they should not fill out this form. If a user has filled out this form before, they should not fill it out again.
-</thinking>
-# Antibiotic Use Survey - Help Guide
+## # Antibiotic Use Survey - Help Guide
 ## Purpose
 This form collects information on your recent antibiotic use and your attitudes towards antibiotics. Your responses will help us improve our understanding of antibiotic use and attitudes among our users.
 

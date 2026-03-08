@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on user preferences regarding voice guidance in a specific application or system. The purpose of this form is to understand how users interact with voice-enabled features, which can help developers improve the overall user experience. Please note that some fields are optional, and users can choose to answer as many or as few questions as they prefer. This form is intended for users who have interacted with the voice guidance features in the application or system.
-</thinking>
-
 # Voice Guidance Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect information on user preferences regarding voice guidance in a specific application or system.

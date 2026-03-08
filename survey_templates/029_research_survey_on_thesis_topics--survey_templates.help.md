@@ -1,9 +1,3 @@
-<thinking>
-
-The form is intended to gather information from researchers regarding their preferences and interests. The form likely aims to collect data on researchers' attitudes towards certain topics or institutions related to thesis topics. This form will serve as a tool for collecting input from experts in the field.
-
-</thinking>
-
 # Research Survey On Thesis Topics - Help Guide
 ## Purpose
 This form is designed to gather information from researchers about their preferences and interests related to thesis topics. It is intended to collect data that will be used for internal research purposes.

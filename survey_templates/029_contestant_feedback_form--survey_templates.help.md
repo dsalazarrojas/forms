@@ -1,9 +1,3 @@
-<thinking>
-
-The Contestant Feedback Form is designed to collect feedback from participants in a contest or competition event. This form aims to gather information on various aspects of the event, including the ease of registration, communication from organizers, fairness of judging, venue and facilities satisfaction, and overall participant experience. The form is essential for event organizers to understand the strengths and weaknesses of the event and make improvements for future events.
-
-</thinking>
-
 # Contestant Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from contest participants, helping event organizers improve future events by understanding their strengths and weaknesses.

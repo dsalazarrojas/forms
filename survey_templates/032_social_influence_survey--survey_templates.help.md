@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for a Social Influence Survey, likely used to gather information on how individuals perceive social influence in their lives. Before proceeding, please ensure that you are using this form for its intended purpose and not for another survey, to avoid data duplication.
-</thinking>
-
 # Social Influence Survey - Help Guide
 ## Purpose
 This form is designed to collect information on social influence, allowing users to provide input on various aspects of their social interactions and experiences. The survey is meant to be a comprehensive tool to gather insights on how people perceive and interact with their social environment.

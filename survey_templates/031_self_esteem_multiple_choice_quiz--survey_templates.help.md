@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to measure self-esteem, which is a psychological construct that reflects an individual's overall evaluation of their own worth or value as a person. Self-esteem has been linked to various aspects of mental health, such as anxiety, depression, and self-compassion. This form is intended for use in research studies, psychological evaluations, or surveys to gather data on individuals' self-perceptions.
-
-The form has a simple and straightforward structure, with multiple fields for respondents to express their thoughts and feelings about their self-esteem. Some fields are multiple-choice questions, while others are open-ended text fields for more in-depth answers.
-
-To ensure that the form's responses are meaningful and valid, it's essential to complete it carefully and accurately. This guide will walk you through the form's purpose, how to complete it, and explain each field to help you understand its meaning and relevance.
-
-</thinking>
-
 # self-esteam-multiple-choice-quiz - Help Guide
 ## Purpose
 ## How To Complete This Form

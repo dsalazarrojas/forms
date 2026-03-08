@@ -1,7 +1,3 @@
-<thinking>
-The self-reflection survey is designed to gather information about an individual's self-reflection habits and preferences. To avoid duplication, we will only include respondents who have not completed the survey before. This form is intended to be completed by individuals who have a genuine interest in self-reflection and are willing to provide honest feedback. The purpose of this form is to better understand the self-reflection habits and preferences of the users, which will be used to improve the overall experience of our platform.
-</thinking>
-
 # self_reflection_survey - Help Guide
 ## Purpose
 The self-reflection survey is designed to gather information about an individual's self-reflection habits and preferences.

@@ -1,12 +1,3 @@
-<thinking>
-The form is for assessing the satisfaction of editors who have worked on projects. It's a tool for the project team to gauge the quality of services provided and identify areas for improvement. This form helps to collect feedback from editors on their overall experience working on the project. 
-
-This form is likely used by project managers or quality assurance teams to monitor editor performance and make data-driven decisions. 
-
-There shouldn't be any duplicates of this form in the application as it's designed for a specific use case.
-
-</thinking>
-
 # Editorial Service Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to help assess the satisfaction of editors who have worked on projects. It collects feedback on their overall experience, rating, and other relevant details.

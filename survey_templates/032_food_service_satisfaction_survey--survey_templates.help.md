@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used for collecting feedback on the quality of a food service. It appears to be a multi-page form with several questions, likely asking about specific aspects of the food service experience. Each question may be scored to provide a quantifiable measure of customer satisfaction. However, the actual implementation details (e.g., scoring system) are not provided in the YAML, so we will focus on explaining the form's purpose and usage.
-
-This form is likely used to gauge customer satisfaction with the food service, asking questions about various aspects of the experience. The questions may include ratings, free-form answers, or other types of input fields. The form is designed to be completed by customers or users of the food service.
-
-Before proceeding, please note that the form's actual scoring system, if used, is not specified in the YAML. Therefore, any scoring explanations provided below are based on general assumptions about typical scoring systems used in similar surveys.
-</thinking>
-
 # food_service_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality of a food service experience.

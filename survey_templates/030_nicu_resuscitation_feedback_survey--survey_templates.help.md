@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the NICU Resuscitation Feedback Survey form, we need to understand its purpose and ensure that it is not redundant with other forms.
-
-The NICU Resuscitation Feedback Survey is used by healthcare professionals to gather information and gather feedback on the resuscitation procedures in the NICU (Neonatal Intensive Care Unit). It appears to be designed to collect information on various aspects of resuscitation, including the type of event, staff involved, patient details, resuscitation type, complications, and outcome. This form does not have a specific field for "What happened" that seems out of place, and the field "Feedback" is more of a free-text field for any additional comments, which makes it similar to other forms for gathering additional information.
-
-To ensure we are not duplicating effort, it would be useful to check if a similar form exists in the same category and survey the purpose and fields of the form to identify potential overlap.
-
-</thinking>
-
 # NICU Resuscitation Feedback Survey - Help Guide
 
 ## Purpose

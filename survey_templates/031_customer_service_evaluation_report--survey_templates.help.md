@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block.
-This form is designed to collect feedback and evaluation on a customer's experience with the company's service. This report is likely used to monitor customer satisfaction and help identify areas for improvement in customer service.
-The form is composed of several fields that aim to elicit specific information from customers, such as their rating of the service experience, their feedback on what made them feel positive or negative, and their willingness to use the service again. This form is designed to be completed by customers after they have interacted with a company representative.
-</thinking>
-
 # Customer Service Evaluation Report - Help Guide
 ## Purpose
 The Customer Service Evaluation Report is a form designed to collect feedback and evaluation on a customer's experience with the company's service. This report helps to monitor customer satisfaction and identify areas for improvement.

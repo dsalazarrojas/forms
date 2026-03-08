@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect basic contact information from respondents as part of a lip balm survey. The form has four fields: First Name, Last Name, Email, and Phone. These details will help us better understand your preferences and tailor our lip balm products to your needs.
-This form is intended for general users and not intended for employees of the company. Please ensure that you are using the correct email address to receive your results.
-The form should be completed once, and the information should not be duplicated.
-</thinking>
-
 # Lip Balm Survey - Help Guide
 ## Purpose
 The Lip Balm Survey is designed to collect your basic contact information and preferences to help us better understand your needs and preferences for our lip balm products.

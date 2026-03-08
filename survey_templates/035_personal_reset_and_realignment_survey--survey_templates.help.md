@@ -1,5 +1,3 @@
-<thinking>As a technical writer, my goal is to ensure that the user guide is easy to understand and complete. This guide will cover a "Personal Reset and Realignment Survey" form designed for users to share their thoughts and insights about the category they belong to. This form will help to collect information about the category, description, email address, phone number, and next steps for the users. Before starting, let's check if this form is relevant and not already duplicated in our system.</thinking>
-
 # Personal Reset And Realignment Survey - Help Guide
 ## Purpose
 This form is designed to collect personal information and insights from users about the category they belong to. It will help us understand their thoughts and preferences to improve our services.

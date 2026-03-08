@@ -1,12 +1,3 @@
-<thinking>
-This form is used to obtain participant consent for a research study. It is a legal requirement that the participant understands their rights and responsibilities, and gives their explicit consent for participating in the study. This form must be filled out by every participant. The form is used to gather information about the participant, the research study, and the investigator or institution involved in the study.
-
-Please ensure that you are filling out this form accurately and truthfully. The information gathered will be used for research purposes only, and will not be shared with anyone without your consent.
-
-Before filling out this form, please ensure that you have read and understand the study's participant information sheet.
-
-</thinking>
-
 # Research Funding Consent Form - Help Guide
 ## Purpose
 

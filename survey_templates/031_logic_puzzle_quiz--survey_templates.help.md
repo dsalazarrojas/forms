@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic and logical puzzle response information from users. The purpose of this form is to gather user data and their responses to a series of logical puzzles. The form is used to collect user information such as name, age, email, phone number, and date and time of submission. Additionally, it collects user responses to six logical puzzles, which are multiple-choice questions with varying answer types (select one, select multiple, etc.). The form's design ensures that each puzzle is distinct, yet logically connected, allowing for analysis and assessment of user reasoning and problem-solving skills.
-</thinking>
-
 # logic_puzzle_quiz - Help Guide
 ## Purpose
 The "logic_puzzle_quiz" form is designed to collect user demographic and logical puzzle response information for analysis and assessment of user reasoning and problem-solving skills.

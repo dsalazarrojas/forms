@@ -1,13 +1,3 @@
-<thinking>
-
-The on_call_availability_survey form is used to collect information about an individual's on-call availability for a given week. This includes their first name, last name, email, phone number, onsite preferences (whether they prefer to be onsite or offsite), and availability for each day of the week. The form also asks for specific start and end times for each day, which can be useful for scheduling purposes.
-
-This form is likely used for internal business purposes, such as scheduling on-call rotations or creating schedules for specific teams. It's essential to complete this form accurately, as the information collected will be used to plan and coordinate work assignments.
-
-Please note that the form is not meant to collect information that is sensitive or confidential in nature. All fields are optional unless specified as required.
-
-</thinking>
-
 # on_call_availability_survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the telecom cost audit survey is to gather information about a company's telecom expenses and services. This form will help users assess their current telecom spend, identify areas of improvement, and gather feedback on the quality of services received. It is essential to complete this form accurately and thoroughly to ensure that the data collected will be reliable and useful for future planning and decision-making.
-</thinking>
-
 # telecom_cost_audit_survey - Help Guide
 ## Purpose
 The telecom cost audit survey is a tool used to gather information about a company's telecom expenses and services.

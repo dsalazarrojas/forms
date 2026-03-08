@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely used to collect general information and feedback from users about their experience with the PCB (Printed Circuit Board) design knowledge quiz. It may be used by educators or administrators to assess the effectiveness of the quiz and gather insights for improvement. To ensure accurate data collection, please complete the form only once per user. If you've already completed this form, your response will not be recorded.
-
-</thinking>
-
 # pcb_design_knowledge_quiz--survey_templates - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and general information from users about the PCB design knowledge quiz. This will help us improve the quiz and make it more effective for users.

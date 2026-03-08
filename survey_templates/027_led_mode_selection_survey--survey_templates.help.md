@@ -1,13 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form is a survey that aims to gather information about the user's preferences and experiences with LED lighting. The primary purpose of this survey is to collect data on how users select and utilize LED modes, their level of satisfaction with various options, and their current and past usage patterns. It also seeks to gather information on why users chose to use or not use LED lighting, how often they use it, and where they discovered it. The survey is likely used for market research or user experience improvement purposes.
-
-The questions in this form are designed to be multiple-choice and allow users to select one or multiple options, depending on the question type. The answers will provide valuable insights into user behavior and preferences, which can help improve product development and user experience.
-
-This form will not be completed for users who are not interested in or are not eligible to participate in the survey.
-
-</thinking>
-
 # LED Mode Selection Survey - Help Guide
 
 ## Purpose

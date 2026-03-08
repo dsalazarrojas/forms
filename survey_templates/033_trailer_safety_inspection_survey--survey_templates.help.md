@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey template designed for trailer safety inspections. It likely aims to gather information about the condition and status of trailers, including their safety checks and the identity of the drivers involved. The form's structure suggests it is meant for use in a commercial or industrial setting, possibly for regulatory compliance or maintenance purposes. I will review the form fields to ensure I provide accurate and helpful explanations for end-users.
-</thinking>
-
 # Trailer Safety Inspection Survey - Help Guide
 ## Purpose
 This form is a survey template designed to gather information about trailer safety checks and driver details. It is likely used for regulatory compliance, maintenance, or record-keeping purposes in the commercial or industrial sectors.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the communication preferences of tenants in order to provide them with tailored and personalized services. This form is intended to be used by the tenant services team to gather data on how tenants prefer to be communicated with, in terms of the language used and the frequency of contact.
-</thinking>
-
 # tenant-communication-preference-survey - Help Guide
 ## Purpose
 This form is designed to collect tenant communication preferences, allowing the tenant services team to tailor their interactions with tenants based on individual needs and preferences.

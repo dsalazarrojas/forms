@@ -1,7 +1,3 @@
-<thinking>
-We should only show this guide to customers who are already customers of the IPTV service, as the purpose of this form is to gather feedback from existing customers. This form should be used to collect information about a customer's experience with the IPTV service, not to collect feedback from people who have never used the service before.
-</thinking>
-
 # IPTV Service Feedback Survey - Help Guide
 ## Purpose
 The IPTV Service Feedback Survey is a tool used to gather information from customers about their experience with the IPTV service. This survey is designed to collect feedback on the quality, usability, and overall satisfaction with the service.

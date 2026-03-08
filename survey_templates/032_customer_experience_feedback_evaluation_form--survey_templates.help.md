@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a survey form designed to evaluate customer experience. This form aims to collect feedback from customers on their experience with our company. The form is used to solicit opinions and suggestions from customers, allowing us to improve our services and products.
-</thinking>
-
 # Customer Experience Feedback Evaluation Form - Help Guide
 
 ## Purpose

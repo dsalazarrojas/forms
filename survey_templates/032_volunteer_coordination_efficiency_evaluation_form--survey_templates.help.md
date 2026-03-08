@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate the efficiency of volunteer coordination within an organization. It's designed to collect data on various aspects of volunteer management, including overall experience, frequency of meetings, tools and resources used, time management, communication, feedback, training, and reporting frequency. This form aims to identify areas of improvement and provide insights for optimizing volunteer coordination. The form is not a one-time activity and should be filled out regularly to track changes and progress. 
-
-Before starting, please ensure that you're using this form for its intended purpose and not duplicating efforts. This form should only be filled out if you're directly involved in volunteer coordination, such as a volunteer coordinator or team lead. If you're unsure, please consult with your supervisor or team lead before proceeding.
-
-</thinking>
-
 # Volunteer Coordination Efficiency Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the efficiency of volunteer coordination within an organization. It collects data on various aspects of volunteer management, including overall experience, frequency of meetings, tools and resources used, time management, communication, feedback, training, and reporting frequency.

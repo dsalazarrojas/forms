@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Device Framework Knowledge Quiz - Help Guide
 ## Purpose
 The Device Framework Knowledge Quiz is designed to assess your knowledge and experience with a specific device framework. This quiz will help us understand your level of understanding and expertise in the field.

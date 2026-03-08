@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Employee Accommodation Form, let's consider the purpose of this form and its relevance to the end-users. The Employee Accommodation Form is likely used to record details about employee accommodations, such as requests for time off or special requests related to work. It's essential that users understand the form's purpose to fill it in correctly.</thinking>
-
 # Employee Accommodation Form - Help Guide
 
 ## Purpose

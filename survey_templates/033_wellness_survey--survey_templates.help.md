@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from patients on various aspects of their well-being. The goal is to provide a comprehensive understanding of their mental, physical, and social health. The form is not intended to be a diagnostic tool, but rather a self-assessment tool for patients to share their experiences and feelings about their own health. This form is a general survey and may not be relevant to every individual's specific situation. Please ensure that you have the necessary permissions and understand the purpose and limitations of this form before completing it.
-
-</thinking>
-
 # Wellness Survey - Help Guide
 ## Purpose
 This form is designed to help patients share their thoughts and feelings about their well-being, including mental health, physical health, substance abuse, and social support. The information collected will help healthcare providers understand patients' experiences and provide better support.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about an individual's dietary restrictions and preferences.
-The purpose of this form is to gather data about the types of food that a person typically eats or avoids due to dietary restrictions or personal preference.
-The form should only be filled out by individuals who have been asked to do so by a healthcare professional, as this information is intended to be used for medical purposes.
-</thinking>
-
 # dietary_restrictions_declaration_form - Help Guide
 ## Purpose
 This form is used to collect information about an individual's dietary restrictions and preferences.

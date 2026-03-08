@@ -1,7 +1,3 @@
-<thinking>
-This form, "mvp_review_checklist", is used to review and rate the MVP (Minimum Viable Product) of a product or service. It is designed to gather feedback from users on various aspects of the product, including its usability, technical features, and overall satisfaction. The form is used to collect data that can help the development team to make improvements and enhancements to the product.
-</thinking>
-
 # mvp_review_checklist - Help Guide
 ## Purpose
 This form is used to review and rate the MVP of a product or service. It is designed to gather feedback from users on various aspects of the product, including its usability, technical features, and overall satisfaction.

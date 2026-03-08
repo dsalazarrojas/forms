@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather information about the needs and requirements for fleet services, including vehicle leasing, size, type, and usage. This form will be used to assess the needs of the fleet services and help in making informed decisions. 
-Please make sure to answer all the questions carefully as they are all optional, but will help in providing a comprehensive picture of the fleet needs.
-</thinking>
-
 # Fleet Services Needs Assessment - Help Guide
 ## Purpose
 The Fleet Services Needs Assessment form is designed to gather information about the requirements and needs of your fleet. This form will help in making informed decisions regarding fleet services.

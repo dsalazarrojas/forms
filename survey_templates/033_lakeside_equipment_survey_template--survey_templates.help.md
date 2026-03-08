@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to collect information about equipment used at lakesides, which are likely outdoor locations or areas near bodies of water. The form is meant to gather data on the condition, maintenance, and other relevant details of the equipment used at these sites. This information can be used to track and manage the equipment, ensure its proper usage, and make informed decisions about maintenance and replacement. It's a general-purpose survey template, so it's essential to fill it out carefully and accurately to get the most value out of it.
-</thinking>
-
 # Lakeside Equipment Survey Template - Help Guide
 ## Purpose
 The Lakeside Equipment Survey Template is a form designed to gather information about equipment used at lakesides, which can include equipment such as boats, canoes, or other gear used by park rangers or staff for lake activities.

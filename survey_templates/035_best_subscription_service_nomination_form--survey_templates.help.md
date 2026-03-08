@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's subscription service nomination. The user is asked to provide details about the service they want to nominate, including its name, website URL, category, subscription frequency, price range, and quality assessment. The form also asks for the user's assessment of the service's value for money, quality, ease of cancellation, customer support, variety, and a brief description of their experience with the service. The user must also indicate whether they would recommend the service to others and why they are nominating it. The form is divided into several sections to help guide the user through the process.
-
-</thinking>
-
 # Best Subscription Service Nomination Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Leadership Reception Feedback - Help Guide
 
 ## Purpose

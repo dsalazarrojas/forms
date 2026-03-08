@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a customer training evaluation form, which is likely used to gauge the effectiveness of customer training sessions. The form should be completed by trainees to provide feedback on their experience, which can help trainers refine their approach, identify areas for improvement, and make data-driven decisions. It's essential to ensure that this form is completed by relevant personnel, such as customers or trainees, and that the same form is not duplicated by multiple users.
-
-The form has 25 fields, including text, number, date, time, select one, select multiple, and note fields. The majority of these fields are optional, suggesting that the form is used to collect qualitative feedback rather than quantitative data.
-
-Before proceeding, please ensure that the form is relevant to your role and responsibilities. If you have already completed this form, please do not submit a duplicate.
-
-</thinking>
-
 # Customer Training Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers or trainees on their experience with the training session. This feedback will help us understand what worked well and what can be improved.

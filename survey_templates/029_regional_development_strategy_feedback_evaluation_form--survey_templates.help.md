@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regional Development Strategy Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the Regional Development Strategy, which is a plan to improve the region's infrastructure, resources, and services to support economic growth and development. This feedback will be used to evaluate the effectiveness of the strategy and identify areas for improvement.

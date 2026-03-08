@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their learning experience in genetics. The form is not mandatory, so users can choose to fill it out or not. This form is meant to be a quick and easy way to gather information from users, and the data collected will be used internally to improve the genetics program. If you're a user who has already taken this survey, please do not fill it out again. Your feedback is greatly appreciated, and we'll do our best to incorporate it into our program improvements.
-</thinking>
-
 # Genetics Learning Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information from users about their learning experience in genetics. It's meant to be a quick and easy way to gather feedback that can be used to improve the genetics program.

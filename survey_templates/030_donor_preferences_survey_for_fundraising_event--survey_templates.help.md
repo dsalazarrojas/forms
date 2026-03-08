@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donor Preferences Survey For Fundraising Event - Help Guide
 ## Purpose
 The Donor Preferences Survey For Fundraising Event form is used to gather information about donors' preferences, habits, and contact preferences to improve the donor experience and tailor the communication style to each individual's needs.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to assess their current retirement savings gap. It is intended to help users understand their current financial situation and identify areas where they need to improve their retirement contributions. This form should not be used to collect sensitive financial information or as a formal financial assessment. Please note that this form is part of a larger process and results should not be used as a standalone reference. The goal of this form is to provide a quick and easy-to-understand assessment of the user's current retirement position.
-
-Please ensure that you are not already participating in another similar assessment. Filling out multiple surveys or assessments can be time-consuming and redundant. If you are unsure, please contact your organization's HR department or a financial advisor for clarification.
-</thinking>
-
 # Retirement Contribution Gap Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to help you understand your current retirement savings gap. It will guide you through a series of questions to identify areas where you need to improve your retirement contributions.

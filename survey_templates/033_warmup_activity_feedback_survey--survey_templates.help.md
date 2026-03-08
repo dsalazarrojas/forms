@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warmup Activity Feedback Survey - Help Guide
 
 ## Purpose

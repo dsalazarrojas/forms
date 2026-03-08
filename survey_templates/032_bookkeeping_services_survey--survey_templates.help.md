@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Bookkeeping Services Survey" form, I'll need to first understand the purpose of the form and its relevance to the target audience. The form seems to be designed to gather information about bookkeeping services from business owners or individuals who handle bookkeeping tasks. The form's purpose is likely to identify the needs and preferences of this specific audience, which will help in providing tailored bookkeeping services to meet those needs.
-
-Before proceeding, I'd like to clarify that the form is not a survey platform and is an original adaptation of public survey topic metadata. It's essential to ensure that the form's content is accurate and relevant to the target audience. I'd appreciate it if you could provide more information about the intended use of this form and the specific needs or pain points it aims to address.
-
-If the form is meant to be used for market research or to identify potential customers for bookkeeping services, the following guide would be helpful in assisting end-users understand how to complete the form and what each field means.
-
-</thinking>
-
 # Bookkeeping Services Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your current bookkeeping practices, challenges, and preferences. Your responses will help us provide more effective bookkeeping services tailored to your needs.

@@ -1,12 +1,3 @@
-<thinking>
-The form's purpose is likely to gather information from zoo visitors about their interests, demographics, and preferences. This guide will help users understand the form's purpose, completion process, and each field's meaning.
-
-Before completing this form, please ensure that you are visiting the zoo on the correct day and time. The form is designed to be completed by each visitor separately, and the information collected will help the zoo staff understand the visitors' interests and preferences.
-
-To check if you have already completed a similar form, you can check the "Customer Age" field. If you have already completed a form with the same age, you can skip this form.
-
-</thinking>
-
 # Zoo Visitor Exhibit Interest Check In Form - Help Guide
 ## Purpose
 The Zoo Visitor Exhibit Interest Check In Form is designed to gather information from zoo visitors about their interests, demographics, and preferences. This form helps the zoo staff understand the visitors' interests and preferences.

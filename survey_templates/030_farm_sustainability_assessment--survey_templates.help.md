@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about farm sustainability practices and challenges. It is intended to be completed by farmers and farm operators to assess their level of sustainability and identify areas for improvement. This form should not be used to collect information from non-farmers or non-farm operators. Please ensure that the correct audience is completing this form before using it.
-
-The form is designed to be flexible, allowing users to complete it in stages. Each stage has different fields and questions, and some fields are optional.
-</thinking>
-
 # Farm Sustainability Assessment - Help Guide
 ## Purpose
 The Farm Sustainability Assessment is designed to collect information about farm sustainability practices and challenges from farmers and farm operators. It is used to assess the level of sustainability and identify areas for improvement.

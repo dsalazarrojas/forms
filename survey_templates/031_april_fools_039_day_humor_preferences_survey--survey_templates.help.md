@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge respondents' preferences and comfort levels with humor in the workplace on April Fools' Day. It's designed to collect information on individual characteristics (age group, work environment) and their opinions on humor styles (sarcasm, puns, dark humor, etc.) that appeal to them. Additionally, it asks about their comfort with pranks, the types of pranks they enjoy, and whether they believe pranks should be part of a workplace culture. The form also explores the benefits of humor in the workplace (team bonding, stress relief, etc.) and seeks suggestions for improving workplace humor. The questions are designed to be non-intrusive and neutral, allowing respondents to express their genuine opinions without feeling uncomfortable or compromised.
-</thinking>
-
 # April Fools Day Humor Preferences Survey - Help Guide
 
 ## Purpose

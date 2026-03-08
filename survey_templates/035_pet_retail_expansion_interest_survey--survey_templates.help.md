@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the level of interest for pet retail expansion from various regions and types of pets. The purpose of this form is to collect feedback and data on where and what type of pet retail expansion would be feasible. Please ensure that you have the necessary permissions or authorizations to complete this form, as it may be part of a business or organizational initiative. This form may ask questions that may be relevant to a specific company or department, so please verify that you're answering on behalf of the correct entity. 
-</thinking>
-
 # Pet Retail Expansion Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the feasibility of expanding pet retail services and products to various regions and types of pets. It aims to understand where and what type of pet retail expansion would be most suitable.

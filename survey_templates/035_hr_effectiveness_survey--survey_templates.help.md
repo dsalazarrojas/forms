@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information on the effectiveness of HR services, focusing on overall impact, functional areas, overall satisfaction, and impact on various outcomes. This form will help HR teams understand their current performance and identify areas for improvement. Please fill out this form if you are an HR professional responsible for HR services, such as recruitment, training, and performance management, and you have been assigned a tool by your HR team to conduct this survey.</thinking>
-
 # HR Effectiveness Survey - Help Guide
 
 ## Purpose

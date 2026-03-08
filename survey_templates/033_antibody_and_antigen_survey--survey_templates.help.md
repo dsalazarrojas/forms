@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on an individual's testing and exposure history related to antibodies and antigens, which are essential in diagnosing and monitoring diseases caused by infections or pathogens. This form will help assess whether an individual has been tested for antigens, had an antibody test, and has recently experienced symptoms or had exposure to confirmed cases. Ensuring that the form is completed accurately and thoroughly will help healthcare professionals make informed decisions and provide appropriate care.
-
-</thinking>
-
 # Antibody And Antigen Survey - Help Guide
 ## Purpose
 This form is designed to collect information on an individual's testing and exposure history related to antibodies and antigens, which are essential in diagnosing and monitoring diseases caused by infections or pathogens.

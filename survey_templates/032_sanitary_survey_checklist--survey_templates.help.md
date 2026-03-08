@@ -1,8 +1,3 @@
-<thinking>
-This is a Sanitary Survey Checklist form, used to conduct a thorough assessment of a facility's conditions and capabilities. This form ensures that the facility meets the required standards for a safe and healthy environment. The fields within this form are designed to collect information on various aspects of the facility, including its overall condition, construction and operation status, physical state, and water system condition. This form helps identify potential issues and areas for improvement, allowing facility management to take corrective action and maintain a clean and healthy environment.
-
-</thinking>
-
 # Sanitary Survey Checklist - Help Guide
 ## Purpose
 This form is used to conduct a comprehensive sanitary survey of a facility, ensuring it meets the required standards for a safe and healthy environment.

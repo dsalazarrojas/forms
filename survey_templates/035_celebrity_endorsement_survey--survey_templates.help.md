@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help brands and marketing teams evaluate potential celebrity endorsements. It's designed to gather information about a proposed celebrity or influencer, their relevance to the brand, their fit with the brand's values, and potential risks and benefits associated with the endorsement. This form is not affiliated with or endorsed by any form creation platform, and it's an original adaptation created using public survey topic metadata. It's released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it while giving credit. Please ensure that the provided information is accurate and relevant to your brand's specific needs and goals.
-
-</thinking>
-
 # Celebrity Endorsement Survey - Help Guide
 ## Purpose
 The Celebrity Endorsement Survey is designed to help brands and marketing teams evaluate potential celebrity endorsements. It collects information about a proposed celebrity or influencer, their relevance to the brand, their fit with the brand's values, and potential risks and benefits associated with the endorsement.

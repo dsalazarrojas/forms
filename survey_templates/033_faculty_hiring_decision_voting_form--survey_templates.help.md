@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # faculty_hiring_decision_voting_form - Help Guide
 
 ## Purpose

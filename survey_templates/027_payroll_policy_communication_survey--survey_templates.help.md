@@ -1,18 +1,3 @@
-<thinking>
-The "payroll_policy_communication_survey" form is used to gauge the effectiveness of payroll policy communication within an organization. The form aims to collect feedback from employees on their understanding of the policy, their preferred communication channels, and their overall satisfaction with the policy implementation. By collecting this data, the organization can identify areas for improvement and optimize its communication strategy.
-
-The form is intended to be completed by employees who are familiar with the payroll policy and can provide honest feedback. To complete this form, follow these steps:
-
-1. Ensure you have an understanding of the payroll policy.
-2. Choose one of the options for "policy_understanding" to reflect your current level of understanding.
-3. Select all relevant communication channels that you use for policy communication in "communication_channels".
-4. Choose one of the options for "preferences" to reflect your preferred method of communication.
-5. Select your level of satisfaction with the policy in "satisfaction".
-6. If you have any comments or suggestions, provide them in the "comments" field.
-7. If you have an email address or phone number, provide it for follow-up contact in "email" and "phone".
-
-To provide clear and accurate feedback, please ensure you complete all required fields (marked as "required") and answer each question to the best of your ability.</thinking>
-
 # payroll_policy_communication_survey - Help Guide
 ## Purpose
 The "payroll_policy_communication_survey" form is used to collect feedback from employees on the effectiveness of payroll policy communication within the organization.

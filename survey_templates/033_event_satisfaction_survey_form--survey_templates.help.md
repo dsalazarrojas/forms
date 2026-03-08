@@ -1,10 +1,3 @@
-<thinking>
-This guide explains the Event Satisfaction Survey Form, which is designed to gather feedback from attendees about their recent event experience. This form is only meant to be filled out by attendees who have recently participated in an event.
-
-Before proceeding, please ensure that you're not completing this form for the same event you just attended, as this form is meant for attendees who have a fresh perspective on their experience. If you've already completed a survey for this event, you won't need to do so again.
-
-</thinking>
-
 # Event Satisfaction Survey Form - Help Guide
 ## Purpose
 The Event Satisfaction Survey Form is designed to gather feedback from attendees about their recent event experience. This form helps us understand your thoughts, feelings, and opinions about the event.

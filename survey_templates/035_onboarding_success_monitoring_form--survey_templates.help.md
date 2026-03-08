@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help monitor the success of onboarding programs for new employees. It is meant to be completed by the user after their first day on the job to provide feedback and suggestions for improvement. This form should not be filled out by people who have not completed the onboarding program. If the form is being filled out multiple times, it's likely a sign of duplication and may be an error.
-
-This form gathers information about the user's onboarding experience, including what they think was done well, any areas for improvement, and if they would recommend the program. The form also gathers feedback on the user's job title, onboarding program, and onboarding status to help tailor future improvements.
-
-Please ensure that each form is filled out only once and only by those who have completed the onboarding program.
-</thinking>
-
 # Onboarding Success Monitoring Form - Help Guide
 ## Purpose
 The Onboarding Success Monitoring Form is a tool used to gather feedback and suggestions from new employees after their first day on the job. This feedback helps to identify areas for improvement and make data-driven decisions to enhance the onboarding experience.

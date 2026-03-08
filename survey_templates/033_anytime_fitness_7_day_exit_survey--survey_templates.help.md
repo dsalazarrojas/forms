@@ -1,14 +1,3 @@
-<thinking>**Anytime Fitness 7 Day Exit Survey: Internal Notes and Considerations**
-
-The purpose of this form is to gather feedback from members who are leaving Anytime Fitness, providing valuable insights into their experiences, motivations, and suggestions for improvement. This survey aims to help the gym better understand their customers' needs and preferences, allowing them to identify areas of strength and weakness, and make data-driven decisions to enhance the overall member experience.
-
-To ensure accurate and relevant feedback, please note the following:
-
-- This survey is intended for members who are cancelling their membership, not for new joiners or current, active members.
-- Responses should reflect the member's genuine experiences and opinions during their time at Anytime Fitness.
-- Feedback is crucial in shaping the future of the gym, and your input is invaluable.
-</thinking>
-
 # Anytime Fitness 7 Day Exit Survey - Help Guide
 ## Purpose
 The Anytime Fitness 7 Day Exit Survey is a critical tool to gather valuable insights from departing members to improve the overall member experience.

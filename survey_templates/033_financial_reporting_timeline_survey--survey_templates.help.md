@@ -1,7 +1,3 @@
-<thinking>
-We will be designing a user-facing help guide for a form with a complex set of fields. This guide should help end-users understand the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Financial Reporting Timeline Survey - Help Guide
 ## Purpose
 

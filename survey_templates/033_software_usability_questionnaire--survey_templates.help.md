@@ -1,14 +1,3 @@
-<thinking>
-To design an effective help guide for a form, I'll start by analyzing the form's purpose and structure. The provided YAML describes a "Software Usability Questionnaire" form, which likely aims to collect feedback on the usability of software or software-related products. 
-
-Assuming the form's purpose is to gather feedback from users, I'll focus on providing clear explanations for each field to guide users in filling it out correctly.
-
-The form seems to have a mix of single-choice, multiple-choice, and text fields across 11 pages. The fields cover various aspects such as user feedback, improvement areas, user experience, and specific questions about the software.
-
-To avoid duplicating effort and ensure a smooth user experience, let's review the form structure and field explanations to highlight any potential areas of confusion or overlap.
-
-</thinking>
-
 # Software Usability Questionnaire - Help Guide
 ## Purpose
 The Software Usability Questionnaire is designed to collect feedback on the usability of software or software-related products. This form helps us understand your experiences, suggestions, and concerns about the products you use.

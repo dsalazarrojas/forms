@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect feedback from users on the structure of a Graham cracker, which is a type of cracker that is typically rectangular in shape and has a distinctive cracker shape. It's a simple form with various input fields to gather ratings and feedback on the cracker structure, photo organization, and uploading photos. The form is intended for internal use, and users are expected to complete it seriously. It's not designed to be a survey for fun, so please take it seriously. Note that this form is not meant to be filled out multiple times, so only one submission per user is expected. Please make sure to fill it out carefully and submit it once you're done...</thinking>
-
 # graham_cracker_structure_ranking - Help Guide
 
 ## Purpose

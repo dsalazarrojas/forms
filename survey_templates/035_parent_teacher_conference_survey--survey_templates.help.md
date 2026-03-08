@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # parent-teacher-conference-survey - Help Guide
 
 ## Purpose

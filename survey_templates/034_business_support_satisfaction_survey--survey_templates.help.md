@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers or users who have received support services from the business. The purpose of this form is to help the support team understand their performance and identify areas for improvement. The form asks for demographic information such as name, email, and company name, followed by questions about the service experience, including the category of service received, the method of contact, response time, resolution of the issue, knowledge of the support representative, courtesy of the representative, quality of solution, clarity of explanation, follow-up, overall satisfaction, likelihood to recommend, and areas for improvement. This form is intended to gather feedback from real users, and the questions are designed to provide actionable insights that can be used to enhance the support experience.
-
-Before you start, please make sure you have filled out a support request and received a response from our team. This form should take approximately 5-7 minutes to complete.
-
-</thinking>
-
 # Business Support Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your experience with our support services.

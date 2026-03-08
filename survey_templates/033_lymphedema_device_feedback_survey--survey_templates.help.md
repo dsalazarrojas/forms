@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lymphedema Device Feedback Survey - Help Guide
 
 ## Purpose

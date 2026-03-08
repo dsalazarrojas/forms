@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # robotics_onboarding_survey - Help Guide
 
 ## Purpose

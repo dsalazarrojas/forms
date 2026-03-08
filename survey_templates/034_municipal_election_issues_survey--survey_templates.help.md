@@ -1,7 +1,3 @@
-<thinking>
-The Municipal Election Issues Survey aims to gather feedback from citizens on their satisfaction with various municipal services and their priorities for local community improvement. This feedback is used by the city administration to better understand the needs and concerns of citizens and make informed decisions about service delivery and resource allocation. To prevent duplication of effort, please ensure that you only respond to this survey if you have not previously completed an identical or similar one.
-</thinking>
-
 # Municipal Election Issues Survey - Help Guide
 ## Purpose
 The Municipal Election Issues Survey is designed to collect citizen feedback on municipal services and community priorities to inform decision-making and improve services.

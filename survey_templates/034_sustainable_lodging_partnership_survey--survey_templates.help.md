@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to gather information from sustainable lodging partnerships, which are organizations that prioritize sustainable practices and certifications in their operations. The purpose of this form is to collect data on their current sustainability status, certifications, and partnership history. This data will help the Sustainable Lodging Partnership program to understand the current state of sustainable lodging businesses in the region and identify areas for improvement.
-
-Before proceeding, please note that this form is for informational purposes only and is not intended to be a formal application or submission for any certification program. If you are looking to submit a formal application, please contact the Sustainable Lodging Partnership team directly.
-
-To complete this form, please answer the questions as accurately and thoroughly as possible. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Sustainable Lodging Partnership Survey - Help Guide
 ## Purpose
 This guide will walk you through the Sustainable Lodging Partnership Survey form. Please read through each section carefully to ensure you complete the form accurately.

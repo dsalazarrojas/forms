@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the level of screen addiction among users, gathering insights into their behavior, habits, and experiences related to screen use. It's essential to ensure that users understand the purpose and relevance of this form to answer questions accurately and honestly. To avoid duplication of information, please note that some questions might overlap or have similar themes, but each has a distinct focus. The form is not meant to be taken as a diagnostic tool for identifying addiction, but rather as a self-assessment for users to reflect on their own screen use habits.
-</thinking>
-
 # online_screen_addiction_survey - Help Guide
 ## Purpose
 This survey is designed to explore your screen use habits, experiences, and perceptions to help you better understand your relationship with screens and identify areas for personal improvement.

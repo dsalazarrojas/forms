@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users on various topics, including selecting options from multiple-choice questions, providing text inputs, and selecting dates and times. It's essential to ensure that the user understands the context and purpose of the form to provide accurate and relevant information. This will prevent non-duplication and ensure that the user's feedback is not wasted on unnecessary questions.
-
-To determine if this form is suitable for the user, please consider the following factors:
-* The type of data required for the survey (options, text, dates, etc.)
-* The user's familiarity with the format and content of the form
-* The time spent on the form, to avoid user fatigue
-* The potential for non-duplication of existing information
-
-If any of these factors are not met, it may be more suitable to use a different form or survey.
-
-</thinking>
-
 # Option Selection Survey - Help Guide
 
 ## Purpose

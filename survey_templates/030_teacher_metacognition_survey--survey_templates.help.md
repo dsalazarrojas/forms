@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the Teacher Metacognition Survey form. Before proceeding, please ensure that you have a clear understanding of what this form is meant to accomplish and that you are not duplicating effort in other forms. The Teacher Metacognition Survey form is designed to collect information from teachers about their metacognition, which refers to their awareness and regulation of their own thought processes. This form is likely used for research or assessment purposes within an educational context.
-
-Please note that the following guide will provide instructions on how to fill out the form, including the purpose of each field, and tips to ensure accurate and efficient completion.
-
-</thinking>
-
 # Teacher Metacognition Survey - Help Guide
 ## Purpose
 The Teacher Metacognition Survey is designed to collect information from teachers about their metacognitive processes and experiences. This form is used to understand how teachers think and regulate their own thought processes.

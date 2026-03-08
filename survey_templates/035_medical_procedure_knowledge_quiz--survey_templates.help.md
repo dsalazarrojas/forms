@@ -1,7 +1,3 @@
-<thinking>
-The form is for users to simulate a medical procedure, gathering information about the patient and the doctor performing the procedure. This form is likely used for training or educational purposes, as it does not require actual patient data. To ensure accuracy, users should fill out all relevant fields truthfully, but no real patient information should be entered.
-</thinking>
-
 # Medical Procedure Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to simulate a medical procedure, gathering information about the patient and the doctor performing the procedure. It is intended for educational or training purposes, and should not be used to collect actual patient data.

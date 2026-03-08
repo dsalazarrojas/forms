@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users provide feedback on their extracurricular activities and comments. It is crucial to ensure that the form is filled out by individuals who are authorized to do so, and that the responses are not duplicates. The form is not meant to be completed by individuals who do not have a legitimate reason to provide feedback. The responses should be honest and truthful, and should not be used to manipulate the system.
-</thinking>
-
 # Extracurricular Stipend Survey - Help Guide
 ## Purpose
 The Extracurricular Stipend Survey is designed to gather feedback from users on their extracurricular activities and comments. This form is used to collect data on whether users have participated in extracurricular activities and any additional comments they may have.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Learning Platform Student Feedback Survey - Help Guide
 
 ## Purpose

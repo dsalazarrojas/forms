@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect project information for grazing projects. A grazing project involves managing and maintaining pastures for livestock grazing. To complete this form, you will need to provide details about the project, including its location, start and end dates, duration, description, and other relevant details. Please ensure that you are submitting accurate information, as this form will be used to track and monitor project progress. Before filling out this form, make sure to check if there are any existing projects with similar details to avoid duplication.
-
-</thinking>
-
 # Grazing Project Approval Survey - Help Guide
 ## Purpose
 The Grazing Project Approval Survey is a form used to collect project information for grazing projects. It helps in tracking and monitoring project progress.

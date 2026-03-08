@@ -1,8 +1,3 @@
-<thinking>
-This form is a Professional Development Intake Form used to gather information about an employee's professional development needs and interests. The form is designed to help employees identify their training needs, preferences, and availability. It is intended for use by employees who are looking to develop their skills and knowledge in their current role or career. This form should only be completed by employees who are currently employed by the company and are looking to take advantage of professional development opportunities.
-This form will help the employee to identify their training needs, preferences, and availability. It is a requirement for employees who want to participate in training programs.
-</thinking>
-
 # Professional Development Intake Form - Help Guide
 ## Purpose
 The Professional Development Intake Form is used to gather information about an employee's professional development needs and interests. This form is intended for employees who are looking to develop their skills and knowledge in their current role or career.

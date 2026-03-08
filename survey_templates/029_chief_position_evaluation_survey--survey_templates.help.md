@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey designed for evaluating the performance of a Chief Executive or leader within an organization. It assesses various aspects of their performance, including leadership effectiveness, decision-making, communication, and overall impact on the organization. The evaluation covers a range of topics, from strategic vision and ethics to innovation and financial performance. It seems to be intended for use by someone within the organization who has a clear understanding of the Chief's role and can provide objective feedback.
-</thinking>
-
 # Chief Position Evaluation Survey - Help Guide
 ## Purpose
 The Chief Position Evaluation Survey is a comprehensive tool for evaluating the performance of a Chief Executive or leader within an organization. It assesses their strengths and weaknesses across various critical areas, providing a detailed picture of their effectiveness in leading the organization.

@@ -1,7 +1,3 @@
-<thinking>
-We should only allow users to fill out this form if they've been properly trained or are familiar with the survey questions. It's also a good idea to check if users have already completed this form, to prevent duplication. The form is designed to collect survey data on various aspects of user experiences and demographics. This is an internal form, intended for employees or users with a legitimate account. It's best to ensure users are properly authorized and trained before filling out this form.
-</thinking>
-
 # point_of_view_survey - Help Guide
 ## Purpose
 The point of view survey is designed to collect information about users' opinions and experiences with a specific topic. This form is meant to help us understand different perspectives and opinions on various subjects.

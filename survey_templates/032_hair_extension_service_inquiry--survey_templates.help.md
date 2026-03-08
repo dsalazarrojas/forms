@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their hair extension service inquiries. The form is intended for internal use and will be reviewed by staff to determine the best course of action for the user's request. This form should only be used for new inquiries, not for follow-up or duplicate requests.
-
-Before completing this form, please ensure that you are not submitting the same request multiple times. Duplicate submissions can lead to confusion and delay in response.
-
-The form has multiple fields that require different types of information. Below is a step-by-step guide to help you complete the form accurately.</thinking>
-
 # Hair Extension Service Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your hair extension service inquiries, which will be reviewed by our staff to determine the best course of action for your request.

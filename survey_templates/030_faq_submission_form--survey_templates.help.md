@@ -1,11 +1,3 @@
-<thinking>
-  This form is intended to gather feedback and questions from users, allowing them to submit their Frequently Asked Questions (FAQs) to the support team. The form is divided into several fields that require users to provide their name and email address, as well as the type of question they are asking, a brief description of the question, and an answer to the question. 
-
-  The form is meant to be completed by individuals who have questions or need further assistance, and it is not intended for business inquiries or sales pitches. It is also not necessary to fill out the form if the user already has an active support ticket or has submitted a question in the past.
-
-  Please note that all information submitted through this form will be reviewed and responded to by the support team. Please ensure that all provided information is accurate and clear, as this will help the support team to respond more efficiently.
-</thinking>
-
 # faq_submission_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and questions from users, which will be reviewed and responded to by the support team.

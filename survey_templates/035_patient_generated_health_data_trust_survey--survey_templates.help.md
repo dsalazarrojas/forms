@@ -1,5 +1,3 @@
-<thinking>This form, "patient_generated_health_data_trust_survey", is designed to assess an individual's level of trust in healthcare data and their preferences and concerns regarding its sharing. The form aims to gather information on their perceptions of data security, sharing policies, and channels, as well as their frequency and purpose of sharing health data. The survey consists of 15 questions across 7 pages, and all answers are optional, except for the questions that are marked as required.</thinking>
-
 # patient_generated_health_data_trust_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on an individual's trust in healthcare data, their concerns and preferences, and their frequency of sharing health data.

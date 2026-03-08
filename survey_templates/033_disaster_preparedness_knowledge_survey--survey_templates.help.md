@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users provide information about their emergency plans and preparedness in the event of a disaster. The purpose of the survey is to gather relevant details from users to ensure that they are adequately prepared and have necessary contact information and emergency plans in place. This information will be used internally to provide users with targeted support and resources in case of an emergency.
-
-Before you start, please note that this survey is for your own benefit. The information provided will be kept confidential and will not be shared with anyone else.
-
-Please ensure that you answer all fields correctly and thoroughly to provide accurate information.
-
-This form should not be submitted multiple times. If you have already taken the survey, please do not submit it again.</thinking>
-
 # Disaster Preparedness Knowledge Survey - Help Guide
 
 ## Purpose

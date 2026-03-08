@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a job candidate's resume, with the purpose of facilitating a job review process. This guide will walk you through how to complete each section of the form, and explain what each field means in the context of the review process.</thinking>
-
 # resume_review_questionnaire - Help Guide
 ## Purpose
 This form is intended to gather relevant information from job candidates about their background, experience, and qualifications in order to facilitate a thorough review of their resume.

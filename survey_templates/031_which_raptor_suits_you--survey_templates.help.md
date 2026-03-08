@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to be used in a hypothetical scenario where a company or organization needs to understand which of their raptors are preferred or liked by their users. The purpose of this form is to gather feedback and data from users to better understand their preferences. 
-
-This form is likely to be used for research, market analysis, or user experience improvement. 
-
-To the best of the author's knowledge, all questions in the form are designed to be relevant to the topic "raptors". However, there is no indication of any non-duplication logic or any specific rules that might limit the user from selecting more than one option or inputting more than one answer. 
-
-The form appears to be a simple, single-page form designed to gather user opinions and feedback. 
-
-The user can select one or multiple options for the first question, and is required to input text answers for the other questions. 
-
-Please note that the author of this form has explicitly stated that it was created using public data and is not affiliated with any specific form platform. 
-
-</thinking>
-
 # which_raptor_suits_you_survey - Help Guide
 ## Purpose
 This form is designed to gather user preferences for raptors. It consists of three questions: which raptor suits you, what's your question, and how can we improve. 

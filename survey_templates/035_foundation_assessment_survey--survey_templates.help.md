@@ -1,7 +1,3 @@
-<thinking>
-This form will be used by the construction team to assess the status of foundations for new buildings or existing ones that will be renovated. The form should only be filled out by team members who have direct knowledge of the foundation's condition. This information will help in scheduling and prioritizing repairs. Please ensure you only complete this form if you have personal experience with the foundation, and that the data provided is accurate. Duplicate entries for the same foundation may lead to incorrect prioritization of repairs.
-</thinking>
-
 # Foundation Assessment Survey - Help Guide
 
 ## Purpose

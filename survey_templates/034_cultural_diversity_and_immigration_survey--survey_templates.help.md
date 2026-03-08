@@ -1,11 +1,3 @@
-<thinking>
-The provided form is intended to collect information on cultural diversity and immigration status of individuals. The form likely aims to assess an individual's background, experiences, and demographic details related to their cultural identity and immigration journey. This form may be used in various contexts, such as research studies, surveys, or administrative purposes. 
-
-To avoid duplication of information, it is essential to ensure that the form is filled out completely and accurately. If any field is left blank, it may lead to incomplete or inaccurate data, which could impact the purpose of the survey.
-
-Before proceeding, ensure that all information is provided correctly and honestly. If unsure about any field, please contact the relevant authorities or seek assistance from a qualified expert.
-</thinking>
-
 # Cultural Diversity And Immigration Survey - Help Guide
 ## Purpose
 This guide is designed to aid in completing the Cultural Diversity And Immigration Survey form efficiently and accurately. The form is intended to collect information on cultural identity and immigration status of individuals.

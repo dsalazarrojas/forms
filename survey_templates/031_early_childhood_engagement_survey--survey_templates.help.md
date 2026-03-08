@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather opinions and experiences from preschool or kindergarten teachers on their current engagement with their work and potential areas for improvement. The purpose of this form is to collect qualitative feedback that can help inform the development of policies and resources to support early childhood education. It is essential to note that this form is a tool for gathering information, and all responses will be treated with confidentiality and respect.
-Before proceeding, please ensure that you are filling out this form under the correct context. If you have any doubts or concerns, please reach out to [Contact: form@gic.mx](mailto:form@gic.mx) to discuss further.
-</thinking>
-
 # early_childhood_engagement_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather opinions and experiences from preschool or kindergarten teachers on their current engagement with their work and potential areas for improvement.

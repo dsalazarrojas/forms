@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dreams Delivery Feedback Form - Help Guide
 ## Purpose
 The Dreams Delivery Feedback Form is designed to collect feedback from customers about their experience with the service. This form helps us understand how well we are meeting our delivery commitments, such as timeliness and product condition. It also provides an opportunity for customers to rate our communication and delivery instructions. This information will be used to improve our services and better serve our customers in the future.

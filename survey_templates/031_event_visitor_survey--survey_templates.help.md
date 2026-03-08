@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Visitor Survey - Help Guide
 ## Purpose
 The Event Visitor Survey form is designed to collect feedback and gather information from visitors to your events. This form helps to understand their experience, preferences, and demographics, which can be used to improve future events and tailor them to the audience's needs.

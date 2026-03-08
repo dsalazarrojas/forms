@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to collect user preferences for scheduling gym classes. The purpose is to gather information about the user's preferred class types, frequencies, times of day, days of the week, class sizes, instructor preferences, and other details. This data will be used to create a scheduling plan that suits the user's needs and preferences.
-
-To ensure that the form is filled out accurately, please make sure to review and understand each field and its corresponding options before proceeding.
-
-</thinking>
-
 # Gym Class Scheduling Preference Survey - Help Guide
 
 ## Purpose

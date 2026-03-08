@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from individuals who participated in a 2017 Pitch Competition. The form is intended for judges, fellow competitors, audience members, and mentors to provide input on the pitches presented during the competition. The evaluation criteria focus on the clarity of the problem being solved, the viability and innovation of the solution, market size and potential, team confidence and ability to execute, overall pitch delivery and impact, and the likeliness to invest in the presented idea. This form aims to provide a comprehensive feedback mechanism for the competition teams to understand their strengths and weaknesses and improve for future competitions. 
-
-Please ensure to fill out the form carefully and truthfully to provide valuable feedback for the teams.
-
-</thinking>
-
 # Competition Feedback Form 2017 PITCH COMPETITION - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and evaluations from individuals who participated in the 2017 Pitch Competition. It is meant to be filled out by judges, fellow competitors, audience members, and mentors who attended the competition.

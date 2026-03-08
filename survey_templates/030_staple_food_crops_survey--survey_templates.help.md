@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on staple food crops, which are crops that are widely consumed and are a primary source of food for people in many parts of the world. The form is intended to gather information on farmers' practices and experiences with staple food crops, including their production systems, market access, and access to support services. The data collected will help to inform policies and programs aimed at improving food security and sustainability in agriculture.
-
-This form is part of a broader survey on staple food crops, and responses will only be shared with authorized personnel. Please note that all questions are optional, and you can skip any question that is not relevant to your situation.
-
-</thinking>
-
 # Staple Food Crops Survey - Help Guide
 ## Purpose
 This form collects data on staple food crops, including production practices, market access, and access to support services.

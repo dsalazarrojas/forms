@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form "Ethics In Corrections Assessment" is used correctly and that users understand its purpose and requirements. This form is designed to collect data on the ethical situations faced by corrections staff, allowing for better support and guidance to be provided. We should not duplicate efforts or waste time on unnecessary questions.
-</thinking>
-
 # Ethics In Corrections Assessment - Help Guide
 ## Purpose
 The "Ethics In Corrections Assessment" form is designed to collect data on the experiences and concerns of corrections staff members. This information will help management and supervisors provide guidance and support in situations where ethics are involved. By completing this form, you will be contributing to a better understanding of these situations and helping to improve the work environment.

@@ -1,9 +1,3 @@
-<thinking> 
-
-To create a comprehensive help guide for the "Patch Creation Survey" form, let's analyze the provided YAML fields to determine the purpose, required steps, and explanation for each field. The form appears to be designed to gather information about team and individual workflows, communication methods, and overall satisfaction. This will help us create a user-facing help guide that provides a clear and concise explanation of the form's purpose, instructions, and each field's significance.
-
-</thinking>
-
 # Patch Creation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your workflow, communication methods, and overall satisfaction. Please answer the questions to help us better understand your team's workflow and provide insights for improvement.

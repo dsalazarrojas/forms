@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Scene Transition Effects Survey" is used to gather feedback from users on their experience with scene transitions in a project. The form is designed to collect data on how users perceive the effectiveness of scene transition effects in various projects. The survey aims to understand the satisfaction of users with the project, their need for improvement, and any other comments they might have.
 
 </thinking>

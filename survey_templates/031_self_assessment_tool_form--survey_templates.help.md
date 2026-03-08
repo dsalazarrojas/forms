@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to help users assess their personal and professional development needs, set goals, and create a roadmap for their self-improvement journey. It is intended to be completed by individuals looking to reflect on their strengths, weaknesses, and areas of improvement, and to identify specific goals and topics they want to focus on for their personal and professional growth. This form may be used by individuals, teams, or organizations looking to enhance their skills, knowledge, and performance. It is recommended that users complete this form only if they have a clear understanding of their current situation and goals, and are willing to commit to the self-improvement process. If the user has already completed a similar assessment or plan in the past, it is suggested to review and update it instead of starting from scratch.</thinking>
-
 # Self Assessment Tool Form - Help Guide
 ## Purpose
 The Self Assessment Tool Form is a tool used to help individuals assess their personal and professional development needs, set goals, and create a roadmap for their self-improvement journey.

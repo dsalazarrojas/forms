@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect images for recognition purposes, likely for use in a database or system that requires image metadata. The form has three fields: "Upload Image", "Image Description", and "Upload File". The first field is used to upload an image, while the second field is for providing a description of the image. The third field is also named "Upload File", but it's unclear what type of file this field is intended for. Assuming it's meant to collect additional image metadata, I'll assume it's a text field for uploading a file containing metadata.
-</thinking>
-
 # Image Upload For Recognition - Help Guide
 ## Purpose
 This form is designed for uploading images and their descriptions for recognition purposes.

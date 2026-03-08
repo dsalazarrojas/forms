@@ -1,8 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll aim to create a user-friendly help guide for the Earth In The Solar System Survey form that is both concise and practical. I'll follow the provided YAML structure and include all the necessary fields as per the given instructions.
-
-</thinking>
-
 # Earth In The Solar System Survey - Help Guide
 ## Purpose
 The Earth In The Solar System Survey is a form designed to gather information about your preferences related to the planets in our solar system. It consists of questions that will help us understand your favorite planet, the planet you were born on, and other personal details.

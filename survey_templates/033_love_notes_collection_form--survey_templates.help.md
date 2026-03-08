@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect love notes, which are short messages or notes that users can share with others. To determine whether or not this form should be filled out, please answer the following questions: Do you have a specific reason to collect love notes, such as for an event or a school project? Are you unsure if a user might already have filled out this form? If the answer to either question is no, then there is no need to proceed.
-
-The form purpose is to gather information about the love notes, which will be used for future reference and analysis. Please note that the form is not intended for real-time communication or immediate action.
-</thinking>
-
 # love_notes_collection_form - Help Guide
 ## Purpose
 The form is designed to collect love notes, short messages or notes that users can share with others.

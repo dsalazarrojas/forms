@@ -1,7 +1,3 @@
-<thinking>
-We need to check if this form is being used for its intended purpose and not being duplicated in the system.
-</thinking>
-
 # Pet Survey - Help Guide
 ## Purpose
 This form is designed to collect information about pet owners' habits, experiences, and care for their pets. It is used to gather insights into pet care and behavior.

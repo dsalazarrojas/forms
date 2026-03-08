@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "research_survey_on_innovative_behaviour", is designed to gather information from respondents about their perceptions and experiences with innovative behavior in various contexts. The form is composed of 12 text pages, each with a unique label, and is intended to be completed by respondents to provide qualitative feedback and insights. Before proceeding, please ensure you have not already completed this form, as it does not store individual responses. If you have previously answered this form, you can simply refresh the page, and your answers will be available for review and revision.
-</thinking>
-
 # research_survey_on_innovative_behaviour - Help Guide
 ## Purpose
 This form is designed to gather qualitative feedback on innovative behavior in various contexts.

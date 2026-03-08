@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience at a coffee shop. It is intended to help the shop understand how they are performing in terms of customer satisfaction, service quality, and overall experience. This form is likely to be used by the shop to identify areas for improvement and make data-driven decisions to enhance their customer experience.
-
-Before filling out this form, please ensure that you have visited the coffee shop and have a genuine experience to share. The form will ask you to rate various aspects of your visit, such as the quality of the coffee, staff friendliness, and overall atmosphere. Your responses will help the shop make informed decisions to improve their services.
-
-Note: This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Coffee Shop Customer Experience Survey - Help Guide
 ## Purpose
 This guide will walk you through the Coffee Shop Customer Experience Survey, a form designed to collect feedback from customers about their experience at the coffee shop.

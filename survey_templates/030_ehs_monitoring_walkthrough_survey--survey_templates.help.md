@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect general information from employees for EHS (Employee Health and Safety) monitoring. It is recommended to fill out this form for new employees, and it is not a duplicate of any existing form. This form is intended to ensure that all employees have a uniform and standardized data collection process. The goal is to collect employee's name, role, location, and other relevant details for EHS purposes. It is a requirement for employee's name and contact information to be accurate and up-to-date.</thinking>
-
 # ehs_monitoring_walkthrough_survey - Help Guide
 ## Purpose
 This form collects information from employees for EHS (Employee Health and Safety) monitoring, including name, role, location, and contact information.

@@ -1,9 +1,3 @@
-<thinking>Vendor Reference Check Form - Help Guide
-
-The Vendor Reference Check Form is designed to collect reference information from a vendor's client, ensuring that you're working with a trustworthy vendor. This form is used for internal purposes only, and it's essential to fill it out accurately to help us verify vendor references. Please note that if you've already submitted a reference for this vendor, you don't need to resubmit it.
-
-</thinking>
-
 # Vendor Reference Check Form - Help Guide
 ## Purpose
 The Vendor Reference Check Form is used to gather contact and reference information from a vendor's client. This form helps us verify vendor references for internal purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a dental hygiene quiz designed to assess users' self-reported habits and perceptions related to oral health and hygiene. The purpose of this form is to gather information on users' habits, such as brushing frequency, flossing, and visiting the dentist. This data can be used to identify areas for improvement and provide personalized recommendations for better oral health. It is assumed that users understand that the information they provide will be used for the purpose of improving their own oral health and not for any other reason.
-
-It's also assumed that users are at least 18 years or older, as some of the questions may not apply to minors. If users are minors, please do not answer this form as it might not be suitable for them.
-
-Please note that some of these questions might be sensitive and personal. Please answer them accurately and honestly.
-</thinking>
-
 # Dental Hygiene Quiz – How Well Do You Brush? - Help Guide
 ## Purpose
 This form is designed to assess your habits and perceptions related to oral health and hygiene. It will ask questions about your brushing frequency, flossing, visiting the dentist, and other related habits. Your answers will help you identify areas where you might need improvement and provide personalized recommendations.

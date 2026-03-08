@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback from clients about their experience with a therapist. The form is designed to be completed by a client after their therapy sessions. The purpose of this form is to help therapists evaluate their own performance and identify areas for improvement. It's essential to note that this form is not meant to be a mandatory or intrusive evaluation, but rather a helpful tool to aid the therapist in better serving their clients. This form should only be used to gather feedback from clients who have actively engaged in therapy sessions with the assigned therapist.</thinking>
-
 # Therapist Evaluation Survey - Help Guide
 ## Purpose
 The Therapist Evaluation Survey is a tool for clients to share their feedback on their experience with a therapist. It helps the therapist understand their strengths and weaknesses to provide better services.

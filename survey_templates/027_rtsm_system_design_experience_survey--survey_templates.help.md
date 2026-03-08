@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and experience from users who have used the RWS system. The purpose of this form is to gather information on various aspects of the system, such as the project's title, project manager's name, project description, satisfaction level, challenges faced, ideas for improvement, date and time of the project, contact information (email and phone), project team, project phase, use of the RWS system, and how often it is used. 
-The form will help identify areas of the RWS system that require improvement, allowing the system developers to focus on addressing these issues and providing a better experience for future users.
-To ensure that the form provides useful and actionable feedback, please answer the questions in as much detail as possible. If you do not have an answer to a particular question, you can leave it blank.
-The form is designed to be easy to navigate, and each field is clearly labeled. If you are unsure about a field or how to complete it, please refer to the following instructions.
-</thinking>
-
 # RTSM System Design Experience Survey - Help Guide
 
 ## Purpose

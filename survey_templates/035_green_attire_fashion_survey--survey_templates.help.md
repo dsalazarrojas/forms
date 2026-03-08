@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and survey responses related to sustainable fashion practices, preferences, and habits of the user. The form is meant to be a tool for researchers and businesses to gain insight into the attitudes, behaviors, and opinions of individuals on sustainable fashion. 
-
-This form is an original adaptation of a public survey topic and does not use any proprietary content or code from any form creation platforms. It is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and distribute the form freely. 
-
-Before proceeding, please ensure that the form is not a duplicate or irrelevant to your current project requirements. Ensure that the topic and questions align with your research objectives or business goals. 
-
-</thinking>
-
 # Green Attire Fashion Survey - Help Guide
 ## Purpose
 This survey aims to understand your thoughts and behaviors related to sustainable fashion. Your responses will help us better understand what sustainable fashion means to you, your daily fashion practices, and your preferences when buying clothing. Your feedback will contribute to the development of more sustainable and fashionable clothing choices.

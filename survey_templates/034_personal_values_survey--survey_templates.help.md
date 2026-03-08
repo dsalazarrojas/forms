@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users on their personal values, which can be used to understand their preferences, interests, and priorities. This form is designed to collect information across multiple pages, allowing for a more comprehensive assessment of personal values. The form is part of a broader effort to better understand user behavior and preferences within the category of "survey_templates" and specifically focuses on "Personal Values". Please note that this form is AI-generated and does not rely on any proprietary or copyrighted material, making it a unique and adaptable resource for various purposes.</thinking>
-
 # Personal Values Survey - Help Guide
 ## Purpose
 This form is designed to collect information on personal values, which can help us better understand your preferences, interests, and priorities.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience at the bookstore. It's an essential tool for the business to understand how to improve and better serve their customers.
-This form is designed to be completed by customers who have visited the store in-person or online. It's a mix of multiple choice and free-text questions that allow customers to provide specific feedback on various aspects of their experience, from store cleanliness and staff helpfulness to overall satisfaction.
-The form is meant to be completed by a single customer, and it's intended to be a one-time submission. However, customers are free to submit additional feedback or comments if they wish.
-</thinking>
-
 # Bookstore Customer Experience Questionnaire - Help Guide
 
 ## Purpose

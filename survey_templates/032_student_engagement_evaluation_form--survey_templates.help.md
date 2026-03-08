@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating student engagement in a course. It is used to gather feedback from students about their thoughts and opinions on the course. It is recommended that students fill out this form after the course has concluded to provide a comprehensive assessment of the course's effectiveness and areas for improvement. Please note that this form is meant for student feedback and should not be completed by anyone other than students who have taken the course.
-</thinking>
-
 # Student Engagement Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their engagement and experience in a course. It is meant to be completed after the course has concluded and is used to gather insights for future course development.

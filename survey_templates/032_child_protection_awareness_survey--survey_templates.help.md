@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, the "Child Protection Awareness Survey", is to gather information from users about their awareness and training on child protection. This form aims to assess the level of understanding and preparedness among users in identifying and reporting signs of child abuse, as well as their experience with training and institutional policies related to child protection. The form is designed to be completed by users who are involved in or have contact with children, such as educators, caregivers, or healthcare professionals.
-</thinking>
-
 # Child Protection Awareness Survey - Help Guide
 ## Purpose
 This form is designed to assess your awareness and preparedness in identifying and reporting signs of child abuse, as well as your experience with training and institutional policies related to child protection.

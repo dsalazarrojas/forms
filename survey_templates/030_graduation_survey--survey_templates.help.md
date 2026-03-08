@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback and information from graduates of our institution. The purpose of this form is to gather data on the graduation experience, post-graduation plans, satisfaction with the academic program, and other relevant details. To ensure accurate and helpful responses, please make sure to only fill out this form if you are a graduate of our institution. If you are not a graduate, please do not fill out this form. This will help us to avoid duplication of surveys and ensure that we are gathering accurate data from the right individuals.</thinking>
-
 # Graduation Survey - Help Guide
 ## Purpose
 The Graduation Survey is designed to collect feedback and information from graduates of our institution. This data will help us understand your experience and plans after graduation, and how we can improve our services and programs.

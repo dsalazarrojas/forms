@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather feedback and input from users regarding the priority of specific product features. The purpose of this form is to collect information about the most important features in a product and their corresponding priority levels. This will help developers and stakeholders make informed decisions about which features to develop and prioritize next.
-
-Before starting this form, please ensure that you have a clear understanding of the product and its features. If you're not sure about a specific feature, you may want to review the product's documentation or reach out to the product team for clarification.
-
-It's also worth noting that this form is not intended to be a comprehensive survey, and you should only fill it out for features that are relevant to your experience or interests. If you have feedback about features that are not included in this form, please let us know so we can consider adding them in the future.
-</thinking>
-
 # Product Feature Priority Poll - Help Guide
 ## Purpose
 The Product Feature Priority Poll is a form used to collect feedback and input from users regarding the priority of specific product features. This form helps developers and stakeholders make informed decisions about which features to develop and prioritize next.

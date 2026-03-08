@@ -1,7 +1,3 @@
-<thinking>
-To ensure the Convention Evaluation Survey Form is used effectively, let's consider its purpose and potential duplication before diving into the user guide. This form is designed to gather feedback from convention attendees to evaluate the quality and effectiveness of the event. It's essential to complete this form to help organizers improve future conventions. To avoid duplication, ensure you've attended the convention and are providing your honest and constructive feedback.
-</thinking>
-
 # Convention Evaluation Survey Form - Help Guide
 ## Purpose
 This form is designed to gather your feedback on the convention you attended. Your input will help us improve future conventions and provide a better experience for attendees.

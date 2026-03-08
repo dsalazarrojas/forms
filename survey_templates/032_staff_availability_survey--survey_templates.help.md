@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-**Internal Reasoning Block:**
-
-This form is intended to collect information about staff availability for work hours and preferred days of work. The form will likely be used to determine staff schedules for projects or shifts, ensuring that staff members are available during the specified work hours and on their preferred days off. This form will help project managers and team leads to create an optimal schedule that balances workloads and minimizes conflicts.
-
-</thinking>
-
 # staff_availability_survey - Help Guide
 ## Purpose
 The "staff_availability_survey" form is used to collect information about staff availability for work hours and preferred days of work.

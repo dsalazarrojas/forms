@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users on the leadership of an organization. It's intended to gather input on whether users support or oppose the current leadership. The form will help to gauge the sentiment among users on the leadership and provide insights that can be used to make informed decisions.
-The purpose of this guide is to ensure that users understand the form's intent and know what to expect when filling it out.
-This guide is intended to be user-friendly and easy to follow.
-</thinking>
-
 # Organization Leadership Voting Form - Help Guide
 
 ## Purpose

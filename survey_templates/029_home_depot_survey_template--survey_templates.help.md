@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic contact information from customers. The purpose of this form is to gather relevant details that will enable us to respond to customer inquiries efficiently. Before starting to fill out this form, please ensure that you are a customer of Home Depot, and that you haven't submitted this form previously. This form will not store any information that you submit, and it's meant solely for the purpose of internal use within the company.
-</thinking>
-
 # Home Depot Survey Template - Help Guide
 ## Purpose
 This form is designed to collect basic contact information from customers, enabling us to respond to their inquiries efficiently.

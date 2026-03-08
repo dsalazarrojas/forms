@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about synchronization settings from users to better understand their synchronization preferences and issues. The survey is meant to be completed by individuals who have experience with synchronization settings, such as administrators or users who frequently work with databases or file systems. The form is divided into several sections, each focusing on different aspects of synchronization settings. Completing this form will help the developers understand how users sync their settings, identify potential issues, and gather insights on how to improve the synchronization process.
-
-To ensure the form is completed correctly, please note the following:
-
-* Please answer all questions truthfully, as your input will help us improve the synchronization settings.
-* If you select "Other" in any of the select fields, please specify the other option in the corresponding text field.
-* If you have any questions or concerns about the form, please contact the form administrators.
-
-</thinking>
-
 # Sync Settings Survey - Help Guide
 ## Purpose
 This form is designed to gather information about synchronization settings from users to better understand their synchronization preferences and issues.

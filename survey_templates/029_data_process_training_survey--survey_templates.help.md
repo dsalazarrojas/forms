@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from users on their experience with data process training programs. The form asks users to participate in training programs, rate their experience, provide additional comments, and recommend the program to others. This form is intended to help the organization understand what types of training programs are effective and areas for improvement. Please ensure that you have participated in data process training programs before filling out this form, as it will be more relevant to your experience. If you have already filled out this form, please do not submit again.
-
-</thinking>
-
 # Data Process Training Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users on their experience with data process training programs. It aims to understand what types of training programs are effective and areas for improvement.

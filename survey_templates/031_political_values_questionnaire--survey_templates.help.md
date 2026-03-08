@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a person's political values, interests, and affiliations. This information will be used to better understand the political landscape and inform policy decisions. Please note that this form is for general information purposes only and should not be considered a binding agreement or commitment. By completing this form, you are providing anonymous and voluntary information.
-</thinking>
-
 # Political Values Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to collect information about your political values, interests, and affiliations. It will help us understand your views on various political issues and will be used for general information purposes only.

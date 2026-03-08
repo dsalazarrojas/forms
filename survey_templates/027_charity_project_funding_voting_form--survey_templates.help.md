@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Project Funding Voting Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals on how to allocate funding to two separate charity projects, "Project A" and "Project B". The form aims to gather data on each project's alignment with the organization's mission, potential impact, feasibility of implementation, and voting preferences.

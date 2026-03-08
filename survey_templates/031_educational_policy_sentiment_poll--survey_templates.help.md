@@ -1,13 +1,3 @@
-<thinking>
-The Educational Policy Sentiment Poll form is designed to collect users' opinions on various educational policies. The form has multiple pages, and users will be asked to provide their feedback on different aspects of educational policies. This form is intended to gather information from a wide range of users, including students, teachers, administrators, and other stakeholders.
-
-The form is structured in a way that allows users to select from multiple-choice questions and provide additional comments or feedback. The form has several sections, including "Form Responses", "Additional comments", and "User Input" fields. Each section is designed to collect specific types of feedback, such as selecting the type of educational policy area, providing reasons for their opinion, and sharing any additional comments or feedback.
-
-Before providing feedback, users will be asked to select the areas they want to provide opinions on, and they can also provide their name, email, phone number, and upload a file if needed. The form will be used to gather data on users' opinions and sentiments on educational policies, which will help in creating more effective and user-centered policies.
-
-Please make sure to fill out the form honestly and accurately, and provide as much detail as possible. Your feedback is valuable and will contribute to creating better educational policies.
-</thinking>
-
 # Educational Policy Sentiment Poll - Help Guide
 ## Purpose
 This guide explains the Educational Policy Sentiment Poll form, which is designed to collect users' opinions on various educational policies.

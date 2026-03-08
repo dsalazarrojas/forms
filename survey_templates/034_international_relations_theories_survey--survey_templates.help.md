@@ -1,5 +1,3 @@
-<thinking>International relations theories survey form is designed to collect information about users' perceptions and experiences with various international relations theories. This form is intended for academic or research purposes, allowing users to share their thoughts and insights on different theoretical frameworks. To complete this form, users will be asked to provide their personal details, answer questions related to international relations theories, and supply additional comments or questions. The form is divided into various sections, each focusing on different aspects of international relations theories. Please ensure that you have read and understood the form instructions before proceeding.</thinking>
-
 # international_relations_theories_survey - Help Guide
 ## Purpose
 This guide is intended to help users complete the international relations theories survey form accurately and effectively.

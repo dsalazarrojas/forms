@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promo Code Validation Survey - Help Guide
 
 ## Purpose

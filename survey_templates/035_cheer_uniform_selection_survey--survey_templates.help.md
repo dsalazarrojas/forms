@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from members on uniform design preferences for the Cheer team. The goal is to collect data on members' preferred uniform designs, color palettes, and other aspects of the uniform that are crucial to the team's image and performance. By using this form, the team can gather valuable insights to create a uniform that is both functional and aesthetically pleasing.
-</thinking>
-
 # Cheer Uniform Selection Survey - Help Guide
 ## Purpose
 The Cheer Uniform Selection Survey is designed to gather feedback from members on their preferences for the team uniform. This survey will help the team create a uniform that is both functional and appealing to the members.

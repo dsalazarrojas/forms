@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's preferences and behaviors related to cigars, including their name, email, demographics, smoking habits, and purchasing habits. The form is used to gather data that will help improve the quality and variety of cigars available to customers. It is recommended that respondents complete the form honestly, without any bias or influence from others. Please note that this form is a one-time survey, and respondents will not be contacted again for further questions. Respondents may choose not to answer any question, and their answers will be kept confidential.
-</thinking>
-
 # Cigar Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a person's preferences and behaviors related to cigars, including their name, email, demographics, smoking habits, and purchasing habits.

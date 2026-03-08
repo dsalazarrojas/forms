@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather data about users' knowledge of office software shortcuts. The purpose of this form is to collect users' responses to a series of questions about their use of office software shortcuts. This form will help identify users' proficiency in using office software shortcuts and provide insights to improve user experience. 
-We need to ensure this form is used correctly, so let's make sure it's not being used as a substitute for other existing forms or surveys. We should also check that each field is filled in correctly.
-</thinking>
-
 # Office Software Shortcuts Quiz - Help Guide
 ## Purpose
 This form is designed to gather data about users' knowledge of office software shortcuts. The purpose of this form is to collect users' responses to a series of questions about their use of office software shortcuts and provide insights to improve user experience.

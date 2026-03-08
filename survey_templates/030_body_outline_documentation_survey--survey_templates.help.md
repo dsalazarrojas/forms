@@ -1,5 +1,3 @@
-<thinking>This form is for documenting body outlines, and it appears to be part of a medical examination process. It's crucial to gather accurate and thorough information about patients or subjects, which is what this form aims to achieve. The form seems to cover various aspects of the examination, including date, time, and details about the subject's condition. The fields also cover the subject's statements, suspected causes, and referrals or reporting actions. It's a comprehensive tool for documenting and tracking the progress of examinations and treatments. I will make sure to cover all the fields and their respective explanations in the help guide below.</thinking>
-
 # Body Outline Documentation Survey - Help Guide
 ## Purpose
 The Body Outline Documentation Survey is a medical examination form used to document and track the progress of medical examinations and treatments. It is designed to gather accurate and thorough information about the subject's condition, suspected causes, and referrals or reporting actions.

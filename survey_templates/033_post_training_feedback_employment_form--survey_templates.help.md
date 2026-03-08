@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect participant feedback on the effectiveness of a training program in leading to employment. It is intended to gather information on the participant's background, the course they attended, and their employment outcomes after completion of the training. 
-The purpose of this form is to help identify what works well in the training program and what areas may need improvement.
-
-This form is not meant to collect sensitive or personally identifiable information, and all data will be treated as anonymous and aggregate. 
-
-Before filling out this form, please ensure that you have completed the training program and are providing honest and accurate feedback. 
-
-Also, please note that some fields are optional and you can skip them if not applicable to your situation. 
-
-</thinking>
-
 # Post Training Feedback Employment Form - Help Guide
 
 ## Purpose

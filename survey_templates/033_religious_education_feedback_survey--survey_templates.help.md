@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users regarding their experience with religious education programs. The form collects general information, ratings, and comments about the overall satisfaction with the program, areas for improvement, contact information, and other comments. This form aims to gather valuable insights to enhance the quality of religious education programs. Please ensure that you are completing this form for the purpose of providing constructive feedback. If you have already submitted feedback for this program, please do not complete this form again, as duplicate submissions may lead to confusion and make it challenging for us to track your feedback effectively.
-</thinking>
-
 # Religious Education Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with religious education programs. Your input will help us improve the quality and effectiveness of these programs.

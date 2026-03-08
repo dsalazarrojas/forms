@@ -1,22 +1,3 @@
-<thinking>
-This form is a Brake Inspector Qualification Survey designed to gather information about a brake inspector's qualifications, experience, and skills. It is likely used by companies or organizations in the automotive industry to evaluate the qualifications of potential or existing brake inspectors.
-
-The form is divided into several sections, including:
-- -- Inspector Information --
-- -- Education and Certifications --
-- -- Work Experience --
-- -- Technical Skills Assessment --
-- -- Equipment and Tools --
-- -- Performance and References --
-
-The purpose of this survey is to gather detailed information about the brake inspector, including their education, experience, and skills. This information will help the organization assess their qualifications and determine their readiness for the role of brake inspector.
-
-This form should not be used to evaluate existing employees, but rather for potential candidates. If you are an existing employee, please disregard this survey. 
-
-Please fill out this survey thoroughly and accurately to provide the best possible evaluation of your qualifications.
-
-</thinking>
-
 # Brake Inspector Qualification Survey - Help Guide
 ## Purpose
 The Brake Inspector Qualification Survey is designed to gather information about a brake inspector's qualifications, experience, and skills.

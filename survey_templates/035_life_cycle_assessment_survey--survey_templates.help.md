@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess the life cycle of a product or company. The purpose of the form is to gather relevant information about the product's life cycle, including its development, production, distribution, use, and disposal or recycling. This information is used to identify areas for improvement and to develop more sustainable practices.
-</thinking>
-
 # Life Cycle Assessment Survey - Help Guide
 ## Purpose
 The Life Cycle Assessment Survey is designed to help assess the life cycle of a product or company. This form will help you gather information on various stages of the product life cycle, from development to disposal or recycling.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive survey designed to gather information about an individual's experience and satisfaction with their working space. It is meant to be completed by employees or occupants of a building to provide valuable insights into their needs and preferences for workspaces. The form is composed of 25 questions, including demographic information (name, department, role, email), survey date, and specific questions about their working space (e.g., building name, floor level, workspace type, lighting quality, etc.). The survey also asks about their satisfaction with various aspects of their workspace, including space size, temperature, ventilation, noise level, and privacy. Additionally, it inquires about the availability and quality of common areas (e.g., meeting rooms, break rooms, collaboration spaces). Finally, it includes questions about the respondents' most used spaces, underutilized spaces, and improvement priorities for their workspace. This form serves as a tool for organizations to gather feedback and assess the effectiveness of their workspaces in meeting the needs of their employees. It is essential to provide accurate and honest answers to these questions to help the organization create a more comfortable, productive, and efficient workspace.
-</thinking>
-
 # Building and Space Generation Survey - Help Guide
 ## Purpose
 This form is a comprehensive survey to gather information about your experience and satisfaction with your working space.

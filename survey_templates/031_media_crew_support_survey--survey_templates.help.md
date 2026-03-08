@@ -1,29 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "media_crew_support_survey_form" form to ensure end users understand its purpose, how to complete it, and what each field means. This will help ensure that users provide accurate and relevant information to support their requests. To start, let's review the form's fields and purpose to confirm the guide is relevant and accurate.
-
-The form is designed to collect information from media crews about their support requests. The main purpose of the form is to gather details about the issue they are experiencing, its urgency, and their expected resolution. It seems that the form is intended for support requests that require some level of priority and deadline for resolution.
-
-The form has several fields that need explanations:
-*   **Introduction** (id: 1): This is a free-text field where media crews can provide a brief description of their issue.
-*   **Name** (id: 2): This field is for the user's name.
-*   **Email** (id: 3): This field is for the user's email address.
-*   **Department** (id: 4): This field is for the department they are submitting the request from.
-*   **Issue** (id: 5): This field is for a detailed description of the issue they are facing.
-*   **Issue Type** (id: 6): This field is a dropdown with options "Problem" and "Feature" to help categorize the issue.
-*   **Urgency** (id: 7): This field is a dropdown with options "Low", "Medium", and "High" to indicate the level of urgency.
-*   **Files** (id: 8): This field allows users to upload or reference files related to their issue.
-*   **Comment** (id: 9): This field is for additional comments or details about their request.
-*   **Feedback** (id: 10): This field is for any feedback or suggestions they may have.
-*   **Support Request** (id: 11): This field is for any additional information they may need to provide for support.
-*   **Attachment** (id: 12): This field is for attaching any supporting documents or files.
-*   **Priority** (id: 13): This field is a dropdown with options "Low", "Medium", and "High" to indicate the level of priority.
-*   **Deadline** (id: 14): This field is for the expected resolution date.
-*   **Resolution** (id: 15): This field is for the expected outcome or resolution of their request.
-
-This is the main guide for the "media_crew_support_survey_form" form. It is intended to help users understand the purpose and usage of each field to provide accurate and relevant information.
-
-</thinking>
-
 # media_crew_support_survey_form - Help Guide
 ## Purpose
 The media_crew_support_survey_form is designed to collect information from media crews about their support requests. It aims to gather details about the issue they are experiencing, its urgency, and their expected resolution.

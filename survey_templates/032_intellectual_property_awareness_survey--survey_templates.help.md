@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intellectual Property Awareness Survey - Help Guide
 
 ## Purpose

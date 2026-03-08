@@ -1,9 +1,3 @@
-<thinking>
-The "BPH Health Assessment Survey" is a comprehensive form designed to collect information from patients about their urinary health. This form aims to gather data on various aspects of the patient's condition, including demographics, medical history, and symptoms. The form is crucial in assisting healthcare professionals in understanding the patient's overall health profile and providing personalized care. To ensure accurate completion and effective use, the following guide will walk users through each section of the form.
-
-Please ensure that before filling out this form, you have reviewed and are familiar with the provided information. This form is part of a larger assessment tool used in healthcare settings; please do not fill it out without proper authorization or guidance from a healthcare professional.
-</thinking>
-
 # BPH Health Assessment Survey - Help Guide
 ## Purpose
 The BPH Health Assessment Survey is a comprehensive form designed to collect information from patients about their urinary health. This form helps healthcare professionals understand the patient's overall health profile, enabling them to provide personalized care and treatment.

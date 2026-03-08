@@ -1,11 +1,3 @@
-<thinking>
-
-To create an efficient and user-friendly help guide for the "Teacher Autonomy And Creativity Survey" form, let's analyze its purpose and structure. This form seems to be a tool for measuring and understanding the level of autonomy and creativity that teachers feel in their working environments. It's essential to ensure that the guide is clear, concise, and easy to follow.
-
-First, let's check for any duplication or redundancy in the options. Upon examining the form structure, it appears that there are several fields related to teacher influence, with some of them being very similar. This might be an opportunity to reduce the number of fields and provide more focused questions.
-
-</thinking>
-
 # Teacher Autonomy And Creativity Survey - Help Guide
 ## Purpose
 This form is designed to measure the level of autonomy and creativity that teachers feel in their working environments. It's a tool for understanding the factors that influence their work and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive guide to help end users understand the "Favorite Notification Feedback" form. This form is designed to collect feedback from users about their favorite notifications. The purpose of this form is to gather information on how often users receive notifications, through which channels, and with what level of importance and pain. This form is likely used by product managers or developers to understand user preferences and make data-driven decisions to improve the notification system.</thinking>
-
 # Favorite Notification Feedback - Help Guide
 ## Purpose
 The "Favorite Notification Feedback" form is designed to collect feedback from users about their favorite notifications. This form helps us understand how often users receive notifications, through which channels, and with what level of importance and pain. Your feedback will help us improve the notification system to better serve your needs.

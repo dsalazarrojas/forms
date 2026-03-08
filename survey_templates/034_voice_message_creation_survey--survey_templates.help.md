@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on their voice message experience. The goal is to understand how often they listen to voice messages, their satisfaction with the current experience, and what features they like most in a voice message. Additionally, the form asks about their preferred platforms for listening to voice messages, how often they receive them, and how often they find themselves satisfied with their current experience. This information will help the development team to improve and personalize the voice message service.
-</thinking>
-
 # Voice Message Creation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users on their voice message experience.

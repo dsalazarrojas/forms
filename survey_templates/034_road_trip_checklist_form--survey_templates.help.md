@@ -1,12 +1,3 @@
-<thinking>... internal reasoning block ...
-
-The form purpose is to gather information for planning and preparation of a road trip.
-This form will help gather details about the vehicle, driver, and trip route.
-It will help in making the trip more enjoyable and safe.
-No need to check for duplication or relevance as this is an original form created by AI.
-
-</thinking>
-
 # Road Trip Checklist Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form, "economics_graduate_tracer_survey", which is likely used to collect information on the graduate level and industry details of economics graduates. The purpose of this form is to gather data on the career progress, job satisfaction, and other aspects related to economics graduates. To achieve this, we will follow the required structure for the help guide.
-</thinking>
-
 # economics_graduate_tracer_survey - Help Guide
 ## Purpose
 The economics_graduate_tracer_survey form is designed to collect information on the graduate level and industry details of economics graduates. It is intended to gather data on career progress, job satisfaction, and other relevant aspects.

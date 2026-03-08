@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear to end users and that they understand the intent behind it. The "Production Site Size Survey" form is designed to collect information about the size and status of production sites. It's used by the facilities team to gather data that will help them make informed decisions about the production process. This form will help to:
-- Verify that the production site information is up-to-date and accurate.
-- Identify areas where production sites may not meet certain size or status criteria.
-- Track changes in production site size over time.
-
-Before proceeding, please ensure that you've reviewed the production site's current status and that this form is not a duplicate effort. If you're unsure, you can ask your facilities team or refer to existing records to confirm.
-</thinking>
-
 # Production Site Size Survey - Help Guide
 ## Purpose
 This form is used to collect information about the production site size and status. The data collected will help the facilities team to make informed decisions about the production process.

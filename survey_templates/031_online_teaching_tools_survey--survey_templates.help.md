@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Teaching Tools Survey - Help Guide
 ## Purpose
 This guide will walk you through the Online Teaching Tools Survey, a form designed to gather feedback on online teaching tools and their ease of use. This survey aims to understand your experiences and perceptions of various online teaching tools, such as Google Classroom, Zoom, Microsoft Teams, and Discord.

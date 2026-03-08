@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being filled out for its intended purpose and not duplicated. The purpose of this form is to gather feedback from attendees on the effectiveness of a specific fundraiser event. This will help in understanding how the attendees perceive the event in terms of its satisfaction, likeliness to recommend, enjoyment, expectations, future attendance, and overall quality. We need to confirm that each question is being filled out correctly to gather accurate and reliable data. 
-</thinking>
-
 # Fundraiser Effectiveness Survey Form - Help Guide
 
 ## Purpose

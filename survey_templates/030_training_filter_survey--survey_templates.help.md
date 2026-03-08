@@ -1,11 +1,3 @@
-<thinking>
-This form is meant to gather feedback and opinions from users regarding a training program. The form will help the training team understand what aspects of the program are effective and which areas need improvement. Please note that this form is not meant to be completed by the same person more than once, as the feedback will be used to make data-driven decisions.
-
-Please review the form carefully and ensure that you provide thoughtful and honest feedback. Your input will help shape the future of the training program.
-
-Before proceeding, check that you have not already completed this form.
-</thinking>
-
 # Training Filter Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users on the training program. Your input will help the training team understand the strengths and weaknesses of the program.

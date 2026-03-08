@@ -1,19 +1,3 @@
-<thinking>... (internal reasoning block)
-This form is designed to gather information about a traumatic event involving violence. The purpose of the survey is to collect detailed descriptions of the violence experienced, which can help inform responses and actions. This form is not intended for use in emergency situations or for reporting severe physical harm.
-
-The form is divided into 7 questions, each with a specific type and format:
-* Question 1 is a text field asking about the respondent's feelings.
-* Question 2 is also a text field asking about what the respondent saw.
-* Question 3 is a multiple selection field (select multiple options) asking about what the respondent felt.
-* Question 4 is a time field asking about the duration of the event.
-* Question 5 is a single selection field (select one option) asking about who was involved in the event.
-* Question 6 is a text field for the respondent to provide additional information.
-* Question 7 is a text field asking about the respondent's feelings, which is similar to Question 1.
-
-The respondent is asked to answer each question as truthfully and thoroughly as possible.
-
-</thinking>
-
 # tv_violence_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather detailed descriptions of a traumatic event involving violence, to inform responses and actions.

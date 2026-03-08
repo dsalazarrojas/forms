@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Early Childhood Education Feedback Form is to collect information from parents and caregivers about their experience with our early childhood education programs. We use this form to gather feedback and insights to improve our services and ensure that children receive the best possible education and care.
 
 To ensure that we receive the most helpful and relevant feedback, please note that we will review each submission carefully. If you have already provided feedback on this form or have a similar experience with our programs, please refrain from submitting duplicate feedback. Your input is valuable to us, and we appreciate your contributions.

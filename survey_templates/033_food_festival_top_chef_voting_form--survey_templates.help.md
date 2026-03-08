@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from the Food Festival attendees on their favorite dishes and chefs. It is likely used to identify the most popular dishes and chefs of the festival. The form asks for a basic demographic information of the attendee, such as their choice of favorite dish and chef, and also space for any additional comments or feedback. This form seems to be part of a larger survey or evaluation process to determine the quality and popularity of the festival.
-
-This form does not seem to be part of a form that requires complex calculations or data entry, as all fields seem to be either text or select fields. Therefore, it should be quite easy to complete.
-
-</thinking>
-
 # Food Festival Top Chef Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback from Food Festival attendees about their favorite dishes and chefs. The form is used to help identify the most popular dishes and chefs of the festival.

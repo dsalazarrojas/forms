@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthy Relationship Checklist - Help Guide
 
 ## Purpose

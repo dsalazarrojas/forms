@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and evaluations from attendees of virtual events, providing insights on the effectiveness of the sessions. This form is used to gather data on the session type, length, date, time, topic, and number of attendees, as well as the types of feedback received, such as technical issues, content quality, engagement, and other comments. This form is essential for event organizers to improve future sessions and engage with attendees more effectively.
-
-Before filling out this form, please ensure that you have attended a virtual event and are providing feedback on the session you participated in.
-
-</thinking>
-
 # Virtual Event Public Engagement Questionnaire - Help Guide
 
 ## Purpose

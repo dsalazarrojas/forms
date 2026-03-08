@@ -1,7 +1,3 @@
-<thinking>...We are about to create a user-facing help guide to support the Wiper Speed Adjustment Survey form. The form is designed to gather opinions and feedback from users on various aspects of wipers, such as wiper controls, preferred wiper speed, and wiper sensitivity. This survey will help us improve the wiper system and understand the user experience better. We will be using this form to gather feedback from users who have used the wiper system, and we will make sure to avoid duplicating the survey for users who have already filled it out.
-
-Before starting the survey, make sure to review our previous surveys to see if you have already provided feedback on these topics. If you have any issues or suggestions, feel free to mention them in the comments section. Please answer these questions to the best of your ability, and do not hesitate to ask for help if you need it...</thinking>
-
 # Wiper Speed Adjustment Survey - Help Guide
 ## Purpose
 The Wiper Speed Adjustment Survey is designed to gather feedback from users on various aspects of the wiper system, including wiper controls, preferred wiper speed, and wiper sensitivity. This survey will help us improve the wiper system and provide a better user experience.

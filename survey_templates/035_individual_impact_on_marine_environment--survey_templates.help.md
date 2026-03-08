@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended to support end-users in completing the "Individual Impact On Marine Environment" form. The form is part of a larger process to gather information about the impact of human activities on the marine environment. The form is not intended for use by non-human users, and responses will be reviewed for relevance and non-duplication to ensure data quality and consistency. This form is a critical component of the survey, and accurate completion is essential for providing valuable insights into the impact of human activities on the marine environment. 
-
-</thinking>
-
 # Individual Impact On Marine Environment - Help Guide
 ## Purpose
 This form is designed to assess the impact of individual actions on the marine environment. It helps to understand how human activities influence the health and well-being of marine ecosystems, including coral reefs, estuaries, mangrove forests, open ocean, rocky coastlines, and seagrass. Your input will contribute to identifying areas where human actions have the most significant impact and inform strategies for mitigating these effects.

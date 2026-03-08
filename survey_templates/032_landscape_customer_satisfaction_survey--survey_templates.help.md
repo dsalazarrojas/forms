@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by users. The purpose of this form is to collect feedback from customers about their experience with our company's landscape services. We are looking for their overall satisfaction, thoughts on company performance, and any areas of improvement. This form should only be used for this specific purpose and not for other types of feedback. Please do not submit duplicate responses from the same user.
-</thinking>
-
 # Landscape Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our landscape services. We value your input and would like to hear about your overall satisfaction, thoughts on company performance, and any areas of improvement.

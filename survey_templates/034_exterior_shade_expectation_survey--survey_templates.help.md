@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the Exterior Shade Expectation Survey form. 
 
 This form is intended to gather information about exterior shades, including contact details, shade type and condition, customer expectations, and follow-up information. The form is designed to be completed by a contact person with relevant details and is optional. The form is meant to be used in a survey setting, where data is collected to understand customer expectations and preferences.

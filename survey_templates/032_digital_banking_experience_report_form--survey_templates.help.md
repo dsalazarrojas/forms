@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a digital banking service. It is likely used to measure user satisfaction and identify areas for improvement. Before proceeding, please ensure you have not already completed this form and that your feedback is genuine and not repetitive.
-</thinking>
-
 # Digital Banking Experience Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback about your experience with our digital banking service. Your input will help us understand what works well and what can be improved to better serve you.

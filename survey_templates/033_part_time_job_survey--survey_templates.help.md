@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information about part-time job opportunities. The purpose of this form is to gather details about the job, such as the start date, work hours, and pay rate. The form is designed to be completed by individuals who are interested in or already working part-time jobs. By providing accurate and relevant information, this form will help users find suitable part-time job opportunities that match their needs and preferences.
-
-When filling out this form, please make sure to answer all the required fields accurately and thoroughly. If a field is not required, feel free to leave it blank or provide as much information as you are comfortable with. 
-
-</thinking>
-
 # Part Time Job Survey - Help Guide
 ## Purpose
 The Part Time Job Survey is designed to collect information about part-time job opportunities.

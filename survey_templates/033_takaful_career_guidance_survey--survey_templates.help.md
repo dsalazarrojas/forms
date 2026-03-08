@@ -1,10 +1,3 @@
-<thinking>
-This form will likely be used to gather information from individuals who are looking for career guidance. The purpose of this form is to understand their interests, skills, and background information that can help them make informed decisions about their career. This form will likely be used internally by career advisors or counselors to provide personalized guidance.
-
-Before proceeding, let's ensure that this form is not intended to be used for any other purpose that might conflict with its original intent. Please ensure you have the necessary approvals and permissions to use this form for its intended purpose.
-
-</thinking>
-
 # Takaful Career Guidance Survey - Help Guide
 ## Purpose
 The Takaful Career Guidance Survey is a form designed to collect information about your career aspirations, interests, and background. The information collected will help career advisors provide personalized guidance to help you make informed decisions about your career.

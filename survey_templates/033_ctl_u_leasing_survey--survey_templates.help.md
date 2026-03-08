@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ctl U Leasing Survey - Help Guide
 
 ## Purpose

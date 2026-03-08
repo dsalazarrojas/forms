@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gentrification Survey - Help Guide
 ## Purpose
 The Gentrification Survey is a tool designed to collect feedback from community members about their experiences with gentrification in their neighborhood. This survey aims to understand the changes they have observed, their concerns, and their perceptions about gentrification. This information will help us better understand the impact of gentrification on community members and inform future development policies.

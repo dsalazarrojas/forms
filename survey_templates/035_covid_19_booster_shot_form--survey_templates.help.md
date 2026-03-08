@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for a COVID-19 booster shot appointment. The form is intended to ensure that patients provide necessary information about their medical history, vaccination status, and preferences for the booster dose. This form is to be filled out by patients prior to their appointment, and it will help the medical staff to understand their needs and prepare for the appointment accordingly. It's crucial to ensure that the patient fills out the form accurately and truthfully, as it will help in making informed decisions about their care. To avoid duplication, please make sure to fill out the form only once, and if you have any questions or concerns, please contact the medical staff.
-</thinking>
-
 # COVID 19 Booster Shot Form - Help Guide
 
 ## Purpose

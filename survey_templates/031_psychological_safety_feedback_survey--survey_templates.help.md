@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback on psychological safety in the workplace. The purpose of this form is to help organizations understand how their employees perceive their environment, identify areas of improvement, and promote a safe and supportive work culture. 
-The information gathered from this form will be used to inform data-driven decisions and create a more positive work experience. This form is meant to be completed by employees who work in an environment where psychological safety is a concern.
-Please note that this form is not intended to be a comprehensive evaluation tool, but rather a starting point for further discussion and action. By completing this form, you are helping to improve the work environment.
-</thinking>
-
 # Psychological Safety Feedback Survey - Help Guide
 
 ## Purpose

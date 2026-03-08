@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create an educational and entertaining quiz about blood-feeding animals and insects for users. It is designed to test the user's knowledge on the topic in an engaging and interactive way. To ensure relevance, please note that this form is not affiliated with any form platform and is generated using public survey topic metadata. It is a creative adaptation and not a direct copy of any existing form. The form is released under CC BY 4.0, allowing users to use, modify, and even sell it while giving credit. Contact form@gic.mx for further details.
-
-</thinking>
-
 # Bloodsucker Knowledge Quiz - Help Guide
 ## Purpose
 This is an interactive quiz designed to test your knowledge on blood-feeding animals and insects. It consists of multiple-choice questions that cover various topics related to blood-feeding creatures.

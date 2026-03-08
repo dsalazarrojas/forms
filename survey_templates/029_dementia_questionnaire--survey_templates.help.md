@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used to collect information about a patient's medical history, symptoms, and treatment for dementia. The form appears to be designed for healthcare professionals to gather data on patients with dementia, including their medical practitioners, cognitive functioning, symptoms, medical history, medication, and other relevant details. This form will likely be used for clinical assessment, diagnosis, or treatment planning. Please ensure that you are filling out this form for the correct purpose and that you are not duplicating effort.
-</thinking>
-
 # Dementia Questionnaire - Help Guide
 
 ## Purpose

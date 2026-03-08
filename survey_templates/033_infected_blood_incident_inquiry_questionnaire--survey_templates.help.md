@@ -1,16 +1,3 @@
-<thinking>
-This form is likely used to gather information about incidents related to infected blood. It could be used by medical organizations or blood banks to track and manage incidents, ensuring that all relevant information is collected and recorded accurately. This form might be used by medical professionals or staff members to report incidents, and the data collected could be used to identify trends, track progress, and make informed decisions.
-
-To determine if this form is relevant to your work, consider the following:
-
-* Are you a medical professional or staff member who needs to report incidents related to infected blood?
-* Do you work with blood banks or medical organizations that need to track and manage incidents?
-* Are you responsible for collecting and analyzing data related to infected blood incidents?
-
-If you're unsure or have further questions, please contact your supervisor or the form's administrator.
-
-</thinking>
-
 # Infected Blood Incident Inquiry Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about incidents related to infected blood. It's used to gather details about each incident, including the date, location, and type of incident.

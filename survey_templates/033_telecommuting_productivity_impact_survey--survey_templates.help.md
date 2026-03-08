@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about an employee's experience with telecommuting, specifically on their productivity, satisfaction, frequency, and communication with colleagues while working from home. It will help to assess the impact of telecommuting on an employee's performance and overall job satisfaction. The form is intended for employees who work from home and will help to identify areas of improvement and provide insights for management on how to optimize remote work arrangements.
-
-</thinking>
-
 # Telecommuting Productivity Impact Survey - Help Guide
 ## Purpose
 

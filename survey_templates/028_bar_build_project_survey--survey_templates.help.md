@@ -1,5 +1,3 @@
-<thinking> This form is a structured survey for gathering feedback about the performance of a bar build project. It collects information on the project details, such as its date, name, location, and completion date. The form also asks about the project's progress, including whether it was completed on schedule and on budget, and whether there were scope changes. Additionally, it inquires about the quality of workmanship, communication, and timeliness of the contractor, as well as their safety compliance, problem resolution, and overall performance. The form's purpose is to gather data that can be used for improvement and evaluation of future bar build projects. </thinking>
-
 # Bar Build Project Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback about the performance of a bar build project. It collects information on project details, progress, and contractor performance.

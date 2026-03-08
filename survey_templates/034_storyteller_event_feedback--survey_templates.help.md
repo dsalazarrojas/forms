@@ -1,8 +1,3 @@
-<thinking>
-The Storyteller Event Feedback form is designed to gather feedback from users about their experience with the Storyteller event. This feedback will help us understand what we can do better next time to create an amazing experience for our visitors. Please make sure to answer this form only if you have attended a Storyteller event, as we are looking for feedback from people who have actually been to the event.
-If you're not sure what you want to say, just tell us in the "Additional comments" field at the end. We value your honest feedback and appreciate the time you take to share it with us.
-</thinking>
-
 # Storyteller Event Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the Storyteller event.

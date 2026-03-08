@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for end-users to answer a series of questions designed to measure their cognitive abilities. The form will be used to generate a score based on the user's responses. To ensure accurate results, please complete the form accurately and honestly. If you have any concerns or doubts about the form, contact the form administrators.
-
-</thinking>
-
 # Dolphin Intelligence Quiz - Help Guide
 ## Purpose
 The Dolphin Intelligence Quiz is a series of questions aimed at gauging your cognitive abilities. Please answer the questions truthfully to receive an accurate score.

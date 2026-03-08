@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding the Simulation Test Survey form's purpose and functionality. This form is used to gather feedback from users who have participated in a simulation test, aiming to improve future test design and overall user experience. The guide is designed to walk users through each field, explaining the purpose and expectations for each.
-</thinking>
-
 # Simulation Test Survey - Help Guide
 ## Purpose
 The Simulation Test Survey is designed to gather feedback from users about their experience with the simulation test. The survey is used to assess the user's overall experience, gather ratings and comments, and provide suggestions for improvement. Please take a few minutes to complete this survey to help us better understand your experience.

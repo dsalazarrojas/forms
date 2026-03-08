@@ -1,7 +1,3 @@
-<thinking>
-This form will likely be used to collect information on how employees or users categorize and review expenses. The purpose of this form is to gather insights on the categorization and review process of expenses, such as which categories are most used, how often reviews are conducted, and the status of reviews. This form may be used to inform decisions on expense management, reporting, or optimization.
-</thinking>
-
 # Expense Categorization Insight Survey - Help Guide
 
 ## Purpose

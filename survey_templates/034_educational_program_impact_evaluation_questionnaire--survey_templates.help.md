@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the Educational Program Impact Evaluation Questionnaire. The purpose of this form is to collect feedback and evaluation data from participants about a training program they have attended. This data will help program administrators assess the impact and effectiveness of the program. Please ensure that you have completed the program before providing feedback. This form should only be used once for each training program.
-
-</thinking>
-
 # Educational Program Impact Evaluation Questionnaire - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that this survey is completed accurately and effectively, let's consider the purpose and relevance of this form. The "Business Support Program Evaluation Survey" is designed to gather feedback from business participants to assess the quality and effectiveness of a support program. The survey is likely intended for the program organizers to understand how well they have served the participants' needs and identify areas for improvement. This form is not likely to be duplicated, as it is a one-time evaluation survey.
-
-</thinking>
-
 # Business Support Program Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from business participants about their experience in a support program. Your input will help us understand how well the program met your needs and identify areas for improvement.

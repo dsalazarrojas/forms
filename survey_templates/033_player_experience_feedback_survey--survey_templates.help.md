@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from players who have played a game, and the information collected will be used to improve the gameplay experience. This form is not meant to be repeated for the same player, so players should only provide feedback once per game version. Please ensure that your input is accurate and complete to help us understand your experience.
-</thinking>
-
 # Player Experience Feedback Survey - Help Guide
 ## Purpose
 The Player Experience Feedback Survey is designed to collect feedback from players to help us improve the gameplay experience. By providing feedback, you will help us understand your experience and make the game more enjoyable for everyone.

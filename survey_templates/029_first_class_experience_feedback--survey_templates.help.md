@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from passengers who have experienced first class travel. The purpose of this form is to gather information about the overall quality of service, amenities, and overall experience of flying first class. The form is intended to help airlines evaluate and improve their first class services.
-
-This form should only be filled out by passengers who have recently taken a first class flight. It is expected that the passenger has had a first class experience on their flight and can provide honest feedback about their journey.
-
-Please note that this form is a one-time submission form and passengers are not required to fill it out if they have already submitted feedback.
-
-</thinking>
-
 # first_class_experience_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from passengers who have experienced first class travel.

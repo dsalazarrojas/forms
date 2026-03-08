@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is a survey to gather information about the user's perception of tone in various contexts. The "Tone Selection Survey" form is designed to elicit information on the user's ability to differentiate between different tones and their preferences for certain tones.
-Please ensure that this form is only filled out once and not duplicated.
-</thinking>
-
 # Tone Selection Survey - Help Guide
 ## Purpose
 The purpose of this survey is to understand your perception of different tones in various contexts. This will help us in creating more relevant and effective content for your needs.

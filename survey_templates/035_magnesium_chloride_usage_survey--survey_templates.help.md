@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback and opinions on the usage of Magnesium Chloride. It is likely used in a business setting to gauge customer satisfaction with the product or service. This form should not be filled out multiple times by the same user. The fields in this form are designed to capture specific information about the user's habits, satisfaction level, and reasons for satisfaction or dissatisfaction. This form seems to be a one-time survey form and is probably used to gather feedback from customers or clients after a transaction or interaction with the company.
-</thinking>
-
 # Magnesium Chloride Usage Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and opinions on the usage of Magnesium Chloride.

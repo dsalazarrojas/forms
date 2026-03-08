@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the "Mental Wellness Among Staff Survey" form. I will analyze the provided YAML fields and create a clear and concise guide that explains the purpose, how to complete the form, and each field's meaning. I will ensure that the guide is practical and easy to understand for end-users.</thinking>
-
 # Mental Wellness Among Staff Survey - Help Guide
 ## Purpose
 This survey is designed to gauge the mental wellness among staff members in your organization. It aims to collect information on stress levels, support needs, mental health programs, and manager support. The survey will help administrators understand the mental health state of their staff and create targeted initiatives to improve it.

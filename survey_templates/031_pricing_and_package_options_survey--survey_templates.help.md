@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are filling out the Pricing and Package Options Survey, a form used to gather information about pricing and package options. The form is not intended for internal use and should only be filled out by authorized users. Please note that this form is not a duplicate or replacement of any other form. Users should only complete this form if they are specifically requested to do so by their administrators or managers.
-</thinking>
-
 # Pricing and Package Options Survey - Help Guide
 ## Purpose
 The Pricing and Package Options Survey is used to gather information about pricing and package options. This form is typically completed by users when requested to do so by their administrators or managers. The information collected through this form is used to better understand and cater to the needs of customers or clients.

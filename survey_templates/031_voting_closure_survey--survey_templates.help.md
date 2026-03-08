@@ -1,10 +1,3 @@
-<thinking>
-The "Voting Closure Survey" form is designed to collect feedback from project participants after a project has been completed. This form is used to gauge the effectiveness of the team's performance and identify areas for improvement. It's essential to fill out this form honestly and thoughtfully to provide valuable insights that can help us improve our services.
-
-Before starting, please make sure you have completed all previous surveys or forms related to this project. Your feedback is crucial for us to better understand your needs and preferences. If you have already provided feedback, you can skip this survey.
-
-</thinking>
-
 # Voting Closure Survey - Help Guide
 
 ## Purpose

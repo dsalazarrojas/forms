@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their interest in eco-friendly products. The form is likely used by a salon to gather data on clients' preferences for environmentally friendly products and services offered by the salon. This information can be used by the salon to tailor their offerings to meet the needs of their clients and to improve their business strategy.
-This form should be used only by clients of the salon, and users should not attempt to fill out the form if they are not clients of the salon.
-</thinking>
-
 # salon_eco_product_interest_survey - Help Guide
 ## Purpose
 The salon eco product interest survey is a form used to collect information from clients about their interest in eco-friendly products. This information will help the salon understand client preferences and improve their business strategy.

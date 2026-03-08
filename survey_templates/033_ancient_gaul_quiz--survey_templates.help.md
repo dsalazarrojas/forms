@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form purpose and fields to ensure I understand the context and provide accurate explanations.</thinking>
-
 # Ancient Gaul Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge of Ancient Gaul history, culture, and geography. It consists of multiple sections, each focused on a different aspect of Gaulish civilization. The quiz aims to assess your understanding of key figures, battles, languages, and events that shaped Gaul during the Roman conquest.

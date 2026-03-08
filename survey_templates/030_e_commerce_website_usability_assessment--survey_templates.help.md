@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is designed to assess the usability of an e-commerce website. It will guide users to evaluate the overall experience, store experience, product experience, and other key aspects of an online store. This form is likely to be used by website owners or developers to gather feedback from users, identifying areas of improvement for their website... </thinking>
-
 # E Commerce Website Usability Assessment - Help Guide
 ## Purpose
 This form is designed to assess the usability of an e-commerce website, gathering feedback on various aspects of the online store's experience, product information, and overall user satisfaction.

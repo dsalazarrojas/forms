@@ -1,17 +1,3 @@
-<thinking> 
-This form is designed to collect information about an individual's scheduling preferences and conflicts for a league game. It is a multi-page form with various questions that will help the game organizers understand player availability and preferences. The form has several sections, including:
-  1. Introduction: This page is meant to be a brief overview of the form and its purpose. It does not require any specific information from the user.
-  2. Player Information: This section asks for the player's name, which is a required field.
-  3. Availability: This section asks the player to indicate their availability for the game, which can be either yes or no.
-  4. Time Preferences: This section asks the player to select their preferred time slots for the game.
-  5. Date Preferences: This section asks the player to select the dates they are available for the game.
-  6. Conflict Sections: This section has multiple questions asking about potential conflicts with other players.
-  7. Submission: This is the final page where the player can submit their information.
-
-The form is designed to be completed by each player to help the game organizers understand their preferences and availability. The form will help in scheduling the game in a way that suits the majority of the players.
-
-</thinking>
-
 # league_scheduling_convenience_survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's scheduling preferences and conflicts for a league game. It helps the game organizers understand player availability and preferences to schedule the game accordingly.

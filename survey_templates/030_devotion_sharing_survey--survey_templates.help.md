@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their devotion and prayer practices. This form asks questions about their current habits, thoughts, and beliefs related to devotion, as well as how they believe it can be supported or challenged. The form is likely to be used within a religious or spiritual context, perhaps to gather feedback or insights from members or attendees.
-We will assume that the user is taking this survey for the purpose of providing honest and thoughtful feedback. We will also assume that the user is aware of the importance of their input in the context where this form is being used.
-Please note that this form is designed to be completed by individuals, and the answers are intended to be personal and subjective.
-</thinking>
-
 # Devotion Sharing Survey - Help Guide
 
 ## Purpose

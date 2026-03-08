@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the user's experience with English language, including their name, age, gender, email, and phone number. This form is likely used to collect demographic data for research or statistical analysis. It is recommended to fill out this form only once, as duplicate submissions may lead to inaccurate results.
-</thinking>
-
 # English Survey - Help Guide
 ## Purpose
 The English Survey form is a tool used to collect information about your experience with the English language. This data is used to gather insights and statistics to better understand your needs and preferences.

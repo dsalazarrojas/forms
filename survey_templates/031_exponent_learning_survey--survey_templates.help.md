@@ -1,7 +1,3 @@
-<thinking>As we aim to create an efficient and effective user experience, we want to ensure that our forms are clear, concise, and easy to understand. This guide will help users complete the Exponent Learning Survey form, providing a comprehensive overview of its purpose, fields, and requirements.
-
-The Exponent Learning Survey form is a tool designed to gather feedback from participants about their experiences with Exponent Learning. This feedback is invaluable for us as it helps us identify areas of improvement and understand the needs of our learners. We kindly request that you complete this form if you have participated in our program and are willing to share your insights.</thinking>
-
 # Exponent Learning Survey - Help Guide
 
 ## Purpose

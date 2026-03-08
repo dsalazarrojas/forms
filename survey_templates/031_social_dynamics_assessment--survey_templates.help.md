@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the social dynamics within a team. It is meant to be completed by team members or team leaders to gain insights into how the team interacts, communicates, and resolves conflicts. This form is a part of a larger assessment framework used to evaluate team performance and identify areas for improvement. Please ensure you have access to the team's dynamics and communication styles before filling out this form.
-</thinking>
-
 # Social Dynamics Assessment - Help Guide
 ## Purpose
 The Social Dynamics Assessment is a form designed to evaluate the social dynamics within a team. It is a self-assessment tool that allows team members or team leaders to gather information about how the team interacts, communicates, and resolves conflicts. This information can be used to identify areas for improvement and develop strategies to enhance team performance.

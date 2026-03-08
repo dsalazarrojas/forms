@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for metal measurement standardization surveys, which means it is used for collecting data and information about metal measurements. The survey is meant to ensure consistency and accuracy in metal measurement practices across different organizations and teams. This form will be used by analysts, engineers, and other professionals in the metal industry to collect standardization practices, measurement units, scale factor, and other relevant details.
-
-This form is used for metal measurement standardization surveys, so the information collected will be used to create a centralized repository of metal measurement data and to identify areas of improvement.
-
-The form does not seem to have any redundant or duplicate fields. However, the purpose of this form should be reviewed and validated by the relevant stakeholders and team members to ensure it aligns with the company's goals and objectives.</thinking>
-
 # Metal Measurement Standardization Survey - Help Guide
 ## Purpose
 This form is used for collecting data and information about metal measurements to ensure consistency and accuracy in metal measurement practices across different organizations and teams.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a survey to gather data on challenges faced by teachers in virtual classroom settings. This information will help us understand areas where teachers need support to improve their teaching experience.
-</thinking>
-
 # Virtual Classroom Teacher Challenges Survey - Help Guide
 ## Purpose
 This survey aims to gather information on the challenges teachers face in virtual classroom settings. Your input will help us better understand these challenges and provide support to improve the teaching experience.

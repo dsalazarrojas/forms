@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about sediment samples in the context of marine diagenesis, a process of chemical and physical alteration of sediments and rocks. It's intended for researchers to document and track their samples, methods, and findings. Please ensure that you're not duplicating efforts, and only submit new data that hasn't been previously collected. If you're unsure about the purpose or scope of this form, please contact the relevant team member or supervisor.
-</thinking>
-
 # Marine Diagenesis Survey - Help Guide
 ## Purpose
 

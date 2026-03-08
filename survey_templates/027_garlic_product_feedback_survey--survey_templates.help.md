@@ -1,7 +1,3 @@
-<thinking>As a help guide, it is essential to understand the purpose and context of this survey form. Before diving into the guide, let's break down what the form is intended to do. This form is designed to gather feedback from customers on their experiences with garlic products, specifically in the "Garlic Product Feedback Survey" category. Its purpose is to collect information on various aspects of the product, including its quality, price range, and purchase frequency. This information will be used to improve the product and customer experience.
-
-The form is not designed to be filled out by customers who are not familiar with the product or have not had a recent experience with it. It is recommended that customers fill out the form in a clear and honest manner, providing as much information as possible to help us better understand their thoughts on our garlic products.</thinking>
-
 # Garlic Product Feedback Survey - Help Guide
 ## Purpose
 

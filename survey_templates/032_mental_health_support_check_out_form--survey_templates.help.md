@@ -1,8 +1,3 @@
-<thinking>
-This form is used by mental health professionals to record and track client sessions. It helps them to quickly gather and document client information, session details, and feedback. 
-The form is designed to be flexible and adaptable to the specific needs of each session. It is intended to be completed by mental health professionals for internal use.
-</thinking>
-
 # Mental Health Support Check Out Form - Help Guide
 ## Purpose
 This form is used to record and track client sessions, providing mental health professionals with a quick and easy way to gather and document session details and client feedback.

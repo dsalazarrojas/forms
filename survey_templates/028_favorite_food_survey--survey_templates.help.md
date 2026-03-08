@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Favorite Food Survey" form, we need to understand the purpose and requirements of the form. The form appears to be a survey designed to collect information about users' favorite foods, including their name, type of food, ratings, contact information, and additional comments. 
-
-This form is likely intended to gather data for marketing or research purposes, and it's crucial to ensure that users understand the purpose and structure of the form to complete it accurately and effectively.
-
-The provided YAML fields indicate that the form is a multi-page form with 14 fields, including text, select, number, email, text, note, date, time, and text fields. To create the help guide, we should break down the form into sections and explain each field clearly and concisely, ensuring that users understand what information is required and how to complete each field.
-
-</thinking>
-
 # Favorite Food Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your favorite foods and preferences. Please take a few minutes to complete this form, and we'll use your input to improve our food offerings.

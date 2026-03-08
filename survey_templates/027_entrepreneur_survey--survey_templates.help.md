@@ -1,7 +1,3 @@
-<thinking>
-The "Entrepreneur Survey" form is designed to collect information from entrepreneurs about their businesses, including demographics, industry, and financials. To ensure relevance and avoid duplication, the survey is divided into several sections that correspond to specific aspects of an entrepreneur's business. Please review the form carefully to provide accurate and comprehensive responses.
-</thinking>
-
 # entrepreneur_survey - Help Guide
 ## Purpose
 This form is designed to collect information from entrepreneurs about their businesses, including demographics, industry, and financials. The survey aims to gather data to help entrepreneurs and stakeholders better understand the business landscape and make informed decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users on their experience with the website, specifically the call-to-action (CTA) features. It is essential to understand that this form is a poll, which means it's not just about collecting data but about gauging user opinions and preferences. The form is designed to be user-friendly and easy to navigate, with clear questions and prompts that guide the user through their experience with the website. Before proceeding, please ensure you have not already completed this form, as the data is meant to be representative of your current experience. If you are unsure or have already completed a similar form, your input is still valuable, but your responses may not be recorded as part of the official poll results. 
-</thinking>
-
 # Website Call To Action Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with our website's call-to-action features. We value your input and want to ensure that we are meeting your expectations.

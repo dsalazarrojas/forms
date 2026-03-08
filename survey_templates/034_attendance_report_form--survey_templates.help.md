@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect attendance data from users, including reporting period, report date, and various attendance statistics. It is intended for use by instructors or supervisors to track attendance for a specific class or group. The form is structured to provide a comprehensive overview of attendance data, including total members, present, absent, late, and overall attendance rate. It also includes space for users to list absent members, breakdown of excused vs. unexcused absences, and trends analysis. Additionally, the form allows users to note any concerns and recommendations for improvement. This form is likely used for administrative purposes, such as reporting to administrators or department heads.
-</thinking>
-
 # Attendance Report Form - Help Guide
 ## Purpose
 The Attendance Report Form is designed to collect attendance data for classes or groups, providing a comprehensive overview of attendance statistics and trends.

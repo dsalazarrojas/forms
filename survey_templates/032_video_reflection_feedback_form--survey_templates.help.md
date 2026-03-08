@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback on a video reflection, likely used in an educational or training context. The form is intended to collect information about the video's title, the viewer's name and email, their rating of the video, a reflection on the video, and other various feedback options such as ratings and comments. This form is likely to be used by instructors or educators to assess the effectiveness of a video-based learning module.
-
-To ensure data accuracy and prevent duplication, this form should only be submitted once per user and per video reflection.
-
-The following sections are not duplicated in the form: 'Video Title', 'Name', and 'Email' will be filled out by the same person, but for different videos, while 'Watched Video' section is only filled once per user, and 'Video Reflection' section will only be filled out for specific videos.
-
-</thinking>
-
 # Video Reflection Feedback Form - Help Guide
 ## Purpose
 The Video Reflection Feedback Form is designed to gather information about the effectiveness of a video reflection.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect customer preference information for telecom services. This form likely serves as a template for collecting data from customers regarding their service preferences, which can help telecom companies tailor their services to meet individual customer needs.
-
-Before proceeding, please review the fields below to ensure you have all the required information and that you are not duplicating any existing data. This will help maintain data accuracy and prevent unnecessary workloads.
-
-</thinking>
-
 # telecom_customer_preference_information_collection - Help Guide
 ## Purpose
 This form collects customer preference information for telecom services. 

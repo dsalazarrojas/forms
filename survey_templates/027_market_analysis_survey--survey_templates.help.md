@@ -1,15 +1,3 @@
-<thinking>
-
-This guide is for the "Market Analysis Survey" form, designed to collect information about customer preferences and market trends. The purpose of this form is to gather data to analyze market conditions and customer behaviors. Before proceeding, please ensure you have reviewed and understood the form's purpose and requirements.
-
-To complete this form, follow these steps:
-
-1. Begin by providing a title for your survey.
-2. Answer the questions about customer preferences, market trends, and customer pain points as they arise.
-3. Fill in the remaining fields as required.
-
-</thinking>
-
 # Market Analysis Survey - Help Guide
 ## Purpose
 The Market Analysis Survey is designed to gather data on customer preferences, market trends, and pain points to inform business decisions.

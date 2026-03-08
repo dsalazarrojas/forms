@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about an individual's perception of their current salary and their feelings about it. It appears to be used to gauge the level of satisfaction or concern individuals have about their compensation. The form is likely used for internal research or data collection purposes within an organization or industry. It's not clear if this form is used for any specific business logic, such as compensation analysis or HR purposes.
 
 To avoid duplication of effort and ensure accurate data collection, it's essential to understand the form's requirements and purpose.

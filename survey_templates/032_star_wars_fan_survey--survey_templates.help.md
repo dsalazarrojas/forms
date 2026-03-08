@@ -1,9 +1,3 @@
-<thinking>
-We need to design a help guide for a form that is used to collect information from Star Wars fans. The form is called "Star Wars Fan Survey" and its purpose is to help us understand the preferences and interests of our fans. We want to make sure that the form is filled out by people who are actually interested in Star Wars, so we will ask for their email address and phone number to confirm that they are real fans.
-To do this, we will check if the email address and phone number match the ones provided by the fan. If they do not match, we will ask them to fill out the form again.
-This form has several pages with various fields, including select_one, select_multiple, select_one with options, text, and email fields. We will explain each field in detail to help our fans complete the form correctly.
-</thinking>
-
 # star_wars_fan_survey - Help Guide
 ## Purpose
 The Star Wars Fan Survey is a form designed to collect information from Star Wars fans. We want to understand your preferences and interests to better serve you and other fans like you. Please fill out the form honestly, and we will use your email address and phone number to confirm your identity as a real fan.

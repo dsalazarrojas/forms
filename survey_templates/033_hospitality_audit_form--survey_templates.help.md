@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's consider the purpose and context of the Hospitality Audit Form. This form is likely designed for hotel staff to collect data on guest experiences, including satisfaction ratings, cleanliness and service ratings, and contact information. The form might be used for quality control, customer feedback, or training purposes. Ensure the form is completed for each guest visit to gather consistent data and improve hotel operations. To avoid duplication of effort, make sure to review the form carefully and only collect data for new or unique guest visits.</thinking>
-
 # Hospitality Audit Form - Help Guide
 ## Purpose
 The Hospitality Audit Form is designed to collect feedback and data from guests on their experiences at the hotel. This form helps hotel staff to identify areas of improvement and maintain high standards of service and cleanliness.

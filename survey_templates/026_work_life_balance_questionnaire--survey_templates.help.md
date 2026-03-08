@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a self-assessment tool designed to help individuals evaluate their work-life balance. It asks a series of questions related to various aspects of work-life balance, such as time spent on work-related tasks, personal activities, and satisfaction with work arrangement. The form is likely used to identify areas for improvement and provide insights on how to achieve a better balance between work and personal life.
-</thinking>
-
 # work-life-balance-questionnaire - Help Guide
 ## Purpose
 This form is designed to help you assess your work-life balance by asking questions related to your time management, satisfaction, and challenges in achieving a balance between work and personal life.

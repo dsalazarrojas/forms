@@ -1,12 +1,3 @@
-<thinking>
-To create this help guide, we need to understand the purpose and logic behind the form. The form is designed to collect data from game developers about their Word Puzzle Game, including game details, player experience, and feedback. This form aims to gather information that can be used to improve game development and player engagement.
-
-We'll review the form fields to ensure that each field is properly labeled and explained for the end-user. We'll also check for potential issues like non-duplication and ensure that the form is logical and consistent in its layout.
-
-Upon reviewing the form, it seems like it's well-structured and clear. However, we should double-check that each field has a clear explanation and that the required fields are marked as such.
-
-</thinking>
-
 # Word Puzzle Game Survey - Help Guide
 ## Purpose
 The Word Puzzle Game Survey is designed to collect information from game developers about their Word Puzzle Game, including game details, player experience, and feedback. This data will be used to improve game development and player engagement.

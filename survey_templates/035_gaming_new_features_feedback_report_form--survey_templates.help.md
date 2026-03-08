@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, we'll start by explaining the purpose of the form and the instructions for completion.
 
 # Gaming New Features Feedback Report Form - Help Guide

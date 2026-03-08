@@ -1,5 +1,3 @@
-<thinking>As a form designer, I understand that the purpose of this form is to collect information from community members who are voting for their leaders. This form is likely used to collect data for internal purposes, such as verifying the eligibility and identity of voters, and to gather feedback on the community's priorities. To ensure that this form is completed correctly, it is essential to understand each field's purpose and requirements.</thinking>
-
 # Community Leader Voting Form - Help Guide
 ## Purpose
 This form is designed to collect information from community members who are voting for their leaders, including their identification, eligibility, and voting preferences.

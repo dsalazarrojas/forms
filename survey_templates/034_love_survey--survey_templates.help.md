@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a helpful guide for the "Love Survey" form to explain its purpose, how to complete it, and what each field means. I'll ensure the explanation is concise, concrete, and practical, using the provided YAML fields as reference. I'll also check for relevance and non-duplication before providing the final guide.</thinking>
-
 # Love Survey - Help Guide
 
 ## Purpose

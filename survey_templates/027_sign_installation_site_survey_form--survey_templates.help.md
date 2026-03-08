@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting information related to sign installation sites. It aims to gather site-specific details such as contact and contact person information, project details, site address and description, and other relevant details like images, documents, and videos. The form will be used to ensure that all necessary information is collected for the site. 
-
-This form is a critical part of the site installation process and is essential for ensuring that all relevant information is collected and documented correctly. This form is not intended to be filled out multiple times, each time for a different site. It is meant to be filled out only once for each site, and all the collected information will be stored for reference.
-
-</thinking>
-
 # Sign Installation Site Survey Form - Help Guide
 ## Purpose
 The Sign Installation Site Survey Form is a crucial tool for collecting and documenting information about sign installation sites. It helps ensure that all relevant details are gathered, stored, and easily accessible for future reference.

@@ -1,7 +1,3 @@
-<thinking>
-A relationship status survey is used to gather information about individuals' current relationship statuses, such as whether they are active or inactive, their partner's details (name, age, occupation), how they met, their partner's relationship status, how long they've been in the relationship, and their own relationship satisfaction level. It is likely used by HR departments in organizations to gather information about employee's relationships for compliance with policies or to track relationship changes. 
-</thinking>
-
 # Relationship Status Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your current relationship status and your partner's relationship status. Please provide accurate and honest answers to help us better understand your relationship circumstances.

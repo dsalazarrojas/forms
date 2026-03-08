@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from potential volunteers about their outreach preferences. The form is part of a larger survey that aims to understand volunteers' attitudes towards different types of outreach, such as email, phone, or in-person, and the location where they would like to be contacted. This data will be used to refine the outreach strategy to best engage with volunteers.
-
-This guide will help you complete this form accurately and effectively.
-
-</thinking>
-
 # Volunteer Outreach Location Poll - Help Guide
 ## Purpose
 The Volunteer Outreach Location Poll is a form used to gather information from potential volunteers about their outreach preferences. This form helps us understand volunteers' attitudes towards different types of outreach and the location where they would like to be contacted.

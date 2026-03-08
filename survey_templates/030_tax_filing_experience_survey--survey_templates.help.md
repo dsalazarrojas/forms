@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block ...</thinking>
-
 The form purpose is to collect user feedback on their tax filing experience, which will help to improve the tax filing process.
 
 This form should not be filled out by people who have not used the tax filing system recently or by those who want to provide generic feedback without having experienced the actual process. 

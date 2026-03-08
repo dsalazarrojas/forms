@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Funnel Checklist Form - Help Guide
 ## Purpose
 The Sales Funnel Checklist Form is designed to help you evaluate the effectiveness of your sales process and identify areas for improvement. It consists of multiple sections, each covering a different stage in the sales funnel. By completing this form, you can gauge your performance in each stage and make data-driven decisions to optimize your sales strategy.

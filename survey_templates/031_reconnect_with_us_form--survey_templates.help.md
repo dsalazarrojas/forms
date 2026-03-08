@@ -1,5 +1,3 @@
-<thinking>This form is designed to help us reconnect with users who have fallen out of touch with our services. It's meant to be a gentle reminder that we're here to help and support our users. Please ensure you're filling it out with a genuine intention to reconnect and not for any other purpose. Also, please note that this form is not meant to be a replacement for other communication channels like email or phone calls. If you're filling this out for someone else, please make sure it's with their consent. If you've already filled this form, please do not fill it again unless you've had a significant change in circumstances.</thinking>
-
 # Reconnect With Us Form - Help Guide
 
 ## Purpose

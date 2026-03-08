@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their reasons for cancelling their subscription, provide feedback, and schedule follow-up communication. Before completing this form, please ensure that you have read and understood our cancellation policy and that you are certain about your decision to cancel. This form will help us understand your reasons for cancellation and provide you with an opportunity to leave feedback and suggestions for improvement.
-</thinking>
-
 # Subscription Cancellation Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information about your reasons for cancelling your subscription, provide feedback, and schedule follow-up communication.

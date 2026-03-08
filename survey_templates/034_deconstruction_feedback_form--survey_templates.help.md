@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect feedback from customers or users regarding the deconstruction process. It is designed to gather information about their experience with the deconstruction process, including any safety concerns they may have encountered. This form should only be completed once for each deconstruction project. Please ensure that you are not completing this form multiple times for the same project. If you have already completed this form, your feedback will not be duplicated. 
-
-</thinking>
-
 # Deconstruction Feedback Form - Help Guide
 
 ## Purpose
