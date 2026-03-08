@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a workout or exercise session, specifically related to weighted dips, which is a type of upper body exercise. This form will help track and document the details of the exercise session, including the date, participant name, exercise name, weight used, number of repetitions, number of sets, equipment used, and any additional notes or comments. This form is likely used in a sports or fitness setting where coaches or trainers need to monitor and record workout data for their clients or athletes.
-
-When filling out this form, ensure that you are in the correct context, such as a sports facility or training environment. 
-
-Before proceeding, please check if you have already submitted this form with the same data. If so, please do not resubmit the same data.
-
-</thinking>
-
 # Weighted Dip Exercise Form - Help Guide
 ## Purpose
 The Weighted Dip Exercise Form is designed to help track and document workout details for each participant. This form is intended for recording information about weighted dips, including the date of the workout, participant's name, exercise name, weight used, number of repetitions and sets, equipment used, and any additional notes or comments.

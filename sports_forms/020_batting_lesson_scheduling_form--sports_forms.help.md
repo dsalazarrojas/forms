@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for players to schedule batting lessons with a coach. The form collects information from the player about their name, contact details, baseball background, and preferences for the lesson. The fields include player details, lesson type, and coach preferences to ensure a tailored experience for each player. This information will be used by the coaches to plan and tailor the lessons according to the player's needs and preferences. This form is intended for players of all ages and skill levels, from elementary school to adult learners. The purpose of this form is to gather accurate and relevant information to provide a personalized and effective batting lesson experience.
-</thinking>
-
 # Batting Lesson Scheduling Form - Help Guide
 
 ## Purpose

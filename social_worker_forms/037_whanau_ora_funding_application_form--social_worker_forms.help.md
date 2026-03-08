@@ -1,7 +1,3 @@
-<thinking>
-We have a Whanau Ora Funding Application Form for social workers to apply for funding. This form is used to collect information about the applicant's organization, contact details, and funding requirements. The purpose of this form is to ensure that the applicant has provided all necessary information to proceed with the funding application. Please ensure that you are completing this form only once for each funding application. If you are a social worker looking to apply for funding, please carefully review the following guide to help you complete the form accurately.
-</thinking>
-
 # Whanau Ora Funding Application Form - Help Guide
 ## Purpose
 The Whanau Ora Funding Application Form is designed to collect information for social workers applying for funding. It is a single application form that should not be completed multiple times for the same funding purpose.

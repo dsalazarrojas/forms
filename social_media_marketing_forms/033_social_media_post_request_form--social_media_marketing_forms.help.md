@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be intended to collect information about a social media post request, likely for internal team management and tracking purposes. The form's fields cover various aspects of the request, including the title and subtitle of the post, the social media channel to be used, the request date and time, a description of the post, relevant tags, the requester's name, the partner's name and email (if applicable), and the partner's phone number (if applicable). 
-
-This form is likely used to ensure that social media posts are properly coordinated and documented within the team, and that requests are not duplicated or lost in the process. The form's fields seem to be focused on gathering essential information for efficient communication and collaboration. However, it may be beneficial to review the form's requirements and constraints to ensure that it effectively meets the needs of the team and stakeholders.
-
-Upon reviewing the form, I noticed that the `form_title` and `form_subtitle` fields have the same `id` value (2 and 4, respectively), which might indicate a potential issue with data storage or consistency in the form design. Additionally, the `required` property is set to `false` for most fields, which may imply that the form is optional or intended for general information gathering rather than strict data collection.
-</thinking>
-
 # Social Media Post Request Form - Help Guide
 ## Purpose
 This form is used to collect and manage social media post requests within the team.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Sponsorship Claim Form - Help Guide
 ## Purpose
 This form is used to claim sponsorship for events. It is intended for event organizers to document and track sponsorships for their events. This form will help to gather information about the event, including the event title, date, and details of the sponsorship.

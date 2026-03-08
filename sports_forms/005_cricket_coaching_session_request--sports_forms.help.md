@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture information from coaches and participants for scheduling cricket coaching sessions. The purpose of this form is to streamline the process of booking coaching sessions with specific coaches who have varying levels of experience and availability. 
-
-To ensure that you are using the correct format, please check that the form is being used for its intended purpose and that you are not duplicating requests for the same session.
-
-</thinking>
-
 # Cricket Coaching Session Request - Help Guide
 ## Purpose
 The Cricket Coaching Session Request form is designed to schedule coaching sessions with coaches who have varying levels of experience and availability. This form captures essential information from both coaches and participants, ensuring a smooth and efficient booking process.

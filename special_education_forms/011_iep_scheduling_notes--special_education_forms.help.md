@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "IEP Scheduling Notes" is designed to collect information about meetings and scheduling details for students with Individualized Education Plans (IEPs). This form is used to document the process of scheduling meetings with students, parents, and relevant staff members, and to track the progress of follow-up actions.
 
 Before filling out this form, please ensure that you are completing it for the correct meeting and student. If you have already completed a previous form for the same student, please do not submit this form. Instead, update the existing form with new information or add additional comments and notes as needed.

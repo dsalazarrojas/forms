@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential sponsors for funding purposes. The form is called "Sponsorship Donation Form" and its purpose is to gather details about the sponsorship, including the sponsor's contact information and the frequency and amount of the sponsorship. The form is likely used by an organization to request donations for a specific project or initiative. 
-
-When filling out this form, please make sure to provide accurate and relevant information to ensure a successful and meaningful sponsorship. If you are a previous sponsor, please fill out the form again if your sponsorship frequency has changed or if you need to update your information.
-
-Before filling out the form, make sure that you are authorized to submit on behalf of your organization and that you have the necessary permissions and approvals.
-
-</thinking>
-
 # Sponsorship Donation Form - Help Guide
 ## Purpose
 The Sponsorship Donation Form is used to collect information from potential sponsors for funding purposes.

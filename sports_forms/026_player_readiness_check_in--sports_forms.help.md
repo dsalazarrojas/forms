@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to assess the readiness of a player to participate in a particular activity or event. It is used to gather information on the player's availability status, reason for unavailability, and other relevant details. The purpose of the form is to ensure that players are accurately informed and prepared for their scheduled activities. 
-
-The form should be completed by players to indicate their status and provide a brief explanation for their unavailability, if applicable. This information will be used to coordinate and schedule activities effectively.
-
-To avoid duplication, please ensure that you have not previously completed this form for the same activity. If you are unsure, please check with your team or the activity coordinator.
-</thinking>
-
 # Player Readiness Check In - Help Guide
 ## Purpose
 The Player Readiness Check In form is a tool used to determine a player's readiness to participate in a particular activity or event. It helps to ensure that players are accurately informed and prepared for their scheduled activities.

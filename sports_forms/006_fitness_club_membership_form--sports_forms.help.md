@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for individuals to sign up for membership at a fitness club. It collects basic member information, fitness goals, and payment details. The form should be completed by anyone looking to join the fitness club.
-</thinking>
 # Fitness Club Membership Form - Help Guide
 
 ## Purpose

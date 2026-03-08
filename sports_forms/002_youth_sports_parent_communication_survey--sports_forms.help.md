@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents or guardians about their communication preferences and expectations with the school or league, as well as their feedback on the current level of communication. The form aims to improve the effectiveness of communication between parents and the school/league. This form is intended for parents or guardians of youth athletes, and the information collected will be used to inform and enhance the communication strategy of the school or league.
-</thinking>
-
 # Youth Sports Parent Communication Survey - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians about their communication preferences and expectations with the school or league, as well as their feedback on the current level of communication.

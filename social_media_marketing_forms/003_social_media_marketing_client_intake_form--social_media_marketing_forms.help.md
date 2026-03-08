@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will use this form to gather information from clients to understand their social media marketing needs and preferences. We will check if you already have a similar form with the same client information to prevent duplication of effort and ensure that we provide the best possible service.
 
 # Social Media Marketing Client Intake Form - Help Guide

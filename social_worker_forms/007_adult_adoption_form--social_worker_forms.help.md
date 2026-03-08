@@ -1,12 +1,3 @@
-<thinking>
-This block should check for:
-- Is this form being used within a context where adult adoption is a valid process? (e.g. not a joke or a misunderstanding)
-- Is there any existing documentation or forms that cover similar or identical information?
-- Are all the fields in the provided YAML relevant to the process of adult adoption?
-
-If all checks pass, then proceed with generating the help guide.
-</thinking>
-
 # Adult Adoption Form - Help Guide
 
 ## Purpose

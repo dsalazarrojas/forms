@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Membership Cancellation Request Form - Help Guide
 
 ## Purpose

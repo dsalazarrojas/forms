@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from application developers to estimate the requirements of a project. The form is divided into multiple sections, each focusing on a specific aspect of the project, such as project information, project scope, and technical requirements. This form is intended for internal use within an organization, and the information collected will be used to assess project feasibility and create project plans. Please ensure that all required fields are filled in and the information provided is accurate and detailed. Note that some fields are optional and may not be relevant to every project. 
-</thinking>
-
 # Application Developer Estimate Form - Help Guide
 ## Purpose
 This form is used to gather project details from application developers to estimate the requirements of a project. It helps assess project feasibility and create project plans.

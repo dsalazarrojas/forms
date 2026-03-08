@@ -1,13 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, my goal is to create a user-friendly guide that helps end-users understand the purpose and requirements of the "hockey-sign-up-form". This form is designed for hockey players to sign up for a particular team or event, and it's essential to ensure that users understand each field's purpose and how to complete it correctly.
-
-To create this guide, I'll analyze the provided YAML fields to understand the form's structure and requirements. The form has four fields: first-name, last-name, day-of-birth, and playing-position. Each field has a label, hint, and type. The playing-position field is a select_multiple type, which means it allows users to select multiple options from a list.
-
-I'll review the form's purpose and requirements, ensuring that it's not a duplicate or copy of an existing form. I'll also consider the industry and category of the form, which is sports and hockey, respectively.
-
-</thinking>
-
 # hockey-sign-up-form - Help Guide
 ## Purpose
 This form is designed for hockey players to sign up for a particular team or event. It collects essential information from players, including their first and last name, date of birth, and playing position.

@@ -1,8 +1,3 @@
-<thinking>
-We're creating a help guide for an online form for registering players in a Volleyball Skills Clinic. The form should be easy to understand and navigate, and the fields should be explained clearly to ensure that players can fill it out correctly. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field to help players understand what information is required and why.
-
-</thinking>
-
 # Volleyball Skills Clinic Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from players who want to register for the Volleyball Skills Clinic. The form helps us to get to know you better, understand your preferences, and prepare for the clinic.

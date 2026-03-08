@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the swimming pool rental form is to collect essential information from customers to facilitate a smooth and efficient swimming pool rental experience. The form should be completed accurately and thoroughly to ensure that the rental process is successful.
-
-Before proceeding, review the form's purpose to confirm it applies to your specific situation. If you're unsure about any field, consider whether you've completed a similar form for the same purpose in the past or if you need to consult with a colleague or a pool representative.
-
-</thinking>
-
 # swimming_pool_rental_form - Help Guide
 ## Purpose
 The swimming pool rental form is a crucial document that helps us understand your needs and preferences when renting a pool for your swimming activities. Please answer the questions accurately to help us provide you with the best possible experience.

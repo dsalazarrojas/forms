@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Junior Golf Program Registration Form - Help Guide
 
 ## Purpose

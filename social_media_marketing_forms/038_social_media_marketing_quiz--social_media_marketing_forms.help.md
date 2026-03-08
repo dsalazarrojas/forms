@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a company's social media marketing strategy, goals, and practices. This form will help the company to better understand their current social media situation, identify areas for improvement, and make data-driven decisions.
-To avoid duplication, please fill in this form only if you have not already completed our previous social media survey.
-</thinking>
-
 # Social media marketing quiz - Help Guide
 ## Purpose
 This form is designed to gather information about a company's social media marketing strategy, goals, and practices. The information collected will help the company to better understand their current social media situation, identify areas for improvement, and make data-driven decisions.

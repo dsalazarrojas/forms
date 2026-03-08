@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from tenants who are experiencing hardships, whether financial or otherwise. The purpose of this form is to collect detailed information about the nature of the hardship, the type of financial support being sought, and the current status of any financial assistance applications. This information will be used to provide targeted support and resources to tenants who are struggling. This form should only be completed by tenants who are experiencing financial difficulties and should not be used as a template for general inquiries or routine updates.
-</thinking>
-
 # Tenant Hardship Questionnaire - Help Guide
 ## Purpose
 The Tenant Hardship Questionnaire is a form designed to gather information from tenants who are experiencing financial or other types of hardships. This form will help us understand the nature of the hardship and provide targeted support and resources to those in need.

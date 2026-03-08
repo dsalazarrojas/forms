@@ -1,8 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the Hair Event Sponsorship Application Form to ensure that end-users understand its purpose, how to complete it, and what each field means. This form is intended to collect information from event organizers about their upcoming events, such as dates, times, locations, and sponsorship requests. The form is likely used by event organizers to provide information about their events to potential sponsors, who can then decide whether to sponsor the event. The form should be completed by event organizers to increase the chances of getting sponsorship for their event. To avoid duplication, event organizers should not submit multiple forms for the same event. We should also check that the form is filled out completely and accurately to avoid delays or rejection of the sponsorship request.
-
-</thinking>
-
 # Hair Event Sponsorship Application Form - Help Guide
 ## Purpose
 This form is for event organizers to provide information about their upcoming events to potential sponsors, aiming to secure sponsorship for their events.

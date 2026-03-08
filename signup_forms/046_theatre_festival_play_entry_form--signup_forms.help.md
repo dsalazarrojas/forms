@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a play that is part of a theatre festival. The form is used to collect data for administrative purposes, such as event planning and organization. 
-This form is not intended to be a comprehensive play review or critique form. 
-Please ensure that you are using this form for its intended purpose and are not duplicating efforts or submitting redundant information. 
-
-The form will be used by festival organizers to track and manage play entries, so please ensure that you are providing accurate and relevant information. 
-
-This guide is intended for end users who will be filling out this form. 
-
-Please note that all fields marked as 'required' are mandatory, while non-'required' fields are optional and can be left blank. 
-
-The following guide will help you understand each field's purpose and how to complete it correctly. 
-
-</thinking>
-
 # Theatre Festival Play Entry Form - Help Guide
 
 ## Purpose

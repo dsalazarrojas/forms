@@ -1,7 +1,3 @@
-<thinking>
-This form is used by social workers to verify the identity of individuals who claim to be homeless or in need of assistance. The form is designed to gather basic information about the individual, including their name, address, date of birth, and email (if available). This data is used to assess the individual's eligibility for various social services and programs. The form is not intended for use by individuals looking to claim benefits or services for themselves.
-</thinking>
-
 # Homeless Verification Form - Help Guide
 ## Purpose
 The Homeless Verification Form is used by social workers to gather essential information about individuals who claim to be homeless or in need of assistance.

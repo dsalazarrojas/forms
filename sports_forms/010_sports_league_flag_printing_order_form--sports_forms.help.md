@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Sports League Flag Printing Order Form", the form's purpose is to assist users in placing an order for printed flags for sports leagues. The form's main objective is to gather specific information for the order, such as the order type, flag orders, team name, flag design, and artwork, among other details. This information will help us create and print the flags according to the user's specifications. 
-
-The form is designed to be completed by the users in a step-by-step process, making it easier for them to provide the required details. Each field in the form is clearly labeled to help users understand what information is being requested. The form's required fields are marked as such, ensuring users know what must be completed before submitting the form. 
-
-The form fields are designed to be user-friendly and minimize errors, making it possible for users to complete the order quickly and efficiently.
-</thinking>
-
 # Sports League Flag Printing Order Form - Help Guide
 ## Purpose
 This form is designed to help you place an order for printed flags for your sports league. Please provide the required information to ensure that your order is processed accurately and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for ordering soccer uniforms, a common requirement in various sports and athletic contexts. The form will collect information from players or individuals placing orders for uniforms, which will include details such as name, contact information, and payment options. To ensure we capture all relevant information for fulfilling the order accurately, we should clearly explain each field in a way that's easy to understand and follow. Let's review the provided schema and create a user-facing help guide that meets our requirements. Upon reviewing the schema, we see the form consists of fields for: player name, contact information, order details, payment options, and order status. We will break down each field's purpose and requirements below, ensuring end-users know what to expect and how to complete the form successfully.
-</thinking>
-
 # Soccer Uniform Order Form - Help Guide
 ## Purpose
 The Soccer Uniform Order Form is designed to gather information for fulfilling soccer uniform orders. This form helps us ensure all necessary details are captured for accurate and efficient order processing.

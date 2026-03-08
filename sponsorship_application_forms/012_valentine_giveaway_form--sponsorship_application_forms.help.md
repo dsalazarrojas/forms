@@ -1,11 +1,3 @@
-<thinking>This guide is for the Valentine Giveaway Form. Before you start filling out the form, make sure you are eligible for the giveaway and haven't already applied. This form is meant for individuals who wish to participate in a Valentine's themed contest or event. The form is split into sections for clarity, and each section contains a specific set of questions or fields that need to be filled out. 
-
-The form is divided into six fields: First Name, Email, Contact Phone, Date of Birth, Time of Birth, and Winner Announcement Date.
-
-This form is designed to gather information from potential participants for the Valentine's themed contest or event. It requires minimal information and is meant to be filled out once for each individual participant.
-
-Please note that while some fields may appear optional, providing accurate information can improve your chances of being selected as a winner and receiving updates about the contest or event.</thinking>
-
 # Valentine Giveaway Form - Help Guide
 ## Purpose
 This form is for individuals who wish to participate in a Valentine's themed contest or event and have not already applied.

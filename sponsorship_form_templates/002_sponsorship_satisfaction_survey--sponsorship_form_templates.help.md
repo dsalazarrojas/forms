@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction of sponsors with the organization's services or events. It is meant to be completed by sponsors to provide feedback on their experience and any requests or comments they may have. This form should not be completed by anyone else, as it is specific to the sponsor's experience. If you are not a sponsor, please do not complete this form.
-</thinking>
-
 # sponsorship satisfaction survey - Help Guide
 
 ## Purpose

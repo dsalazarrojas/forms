@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to survey respondents about their thoughts, feelings, and experiences with feminism. The purpose of this form is to gather information about the attitudes and perceptions people have towards feminism, including its relationships with various aspects of society. This form is likely to be used in research settings, such as academic institutions or organizations interested in understanding public opinion on feminism. 
-
-Please ensure that you are completing this form as part of a genuine interest in feminism, and not as a way to mislead or manipulate others.
-
-Before starting the survey, please note that some questions are required, while others are optional. Required questions are marked as such and must be answered in order to submit the form. Optional questions are not required and can be skipped if you prefer.
-
-Also, please be aware that some questions may be sensitive or open-ended, requiring thoughtful and honest responses. This survey is intended to be a safe and confidential space for your thoughts and feelings.
-
-</thinking>
-
 # Feminism Survey - Help Guide
 ## Purpose
 This survey is designed to understand public opinion on feminism and its relationships with various aspects of society.

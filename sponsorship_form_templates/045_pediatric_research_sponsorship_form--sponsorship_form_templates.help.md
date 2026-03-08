@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about a pediatric research project, including the organization sponsoring the project, the contact person, and details about the project such as its description, budget, and status. The form is designed to be filled out by the person or organization sponsoring the project.
-
-When filling out this form, please ensure that you are submitting a new project that has not been submitted before. Duplicate submissions will not be accepted. The form can be completed in multiple pages, with the following fields:
-
-</thinking>
-
 # Pediatric Research Sponsorship Form - Help Guide
 ## Purpose
 The Pediatric Research Sponsorship Form is used to collect information about a pediatric research project, including the organization sponsoring the project, the contact person, and details about the project such as its description, budget, and status.

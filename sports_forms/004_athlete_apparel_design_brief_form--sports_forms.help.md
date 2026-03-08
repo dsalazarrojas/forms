@@ -1,12 +1,4 @@
-# <thinking>
-This form is used to collect design briefs for athlete apparel. The purpose of this form is to gather essential information from the customer about their design preferences, requirements, and needs. The form is divided into different sections to make it easier for the customer to provide the necessary information. 
-
-This form is intended to be used by designers and production teams to understand the customer's requirements for their athlete apparel design. The form is designed to be completed by the customer, and the information provided will be used to create the final design.
-
-The form is not intended to be a general form for any other purpose, but rather a specific form for athlete apparel design briefs. 
-
-</thinking>
-# Athlete Apparel Design Brief Form - Help Guide
+# # Athlete Apparel Design Brief Form - Help Guide
 ## Purpose
 This form is used to collect design briefs for athlete apparel. It is divided into different sections to make it easier for the customer to provide the necessary information.
 

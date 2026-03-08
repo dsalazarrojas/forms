@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a developer satisfaction questionnaire aimed at gathering feedback about the tech API offerings. The purpose of this form is to gather information about the developer's experience and satisfaction with the API, including their overall satisfaction, API documentation, pricing, security, usability, and likelihood of recommending the API to others. This information will help the API providers to identify areas of improvement and provide a better experience for developers.
-
-</thinking>
-
 # tech_api_offerings_developer_satisfaction_questionnaire - Help Guide
 ## Purpose
 

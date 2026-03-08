@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enroll students in sports clinics, a service provided by the school. To ensure accurate and efficient processing of enrollment requests, this form must be filled out completely and correctly. Before proceeding, please review the form carefully to avoid any errors or missing information. The form is designed to collect student and parent contact information, enrollment preferences, and payment details. Ensure that you have all required information before submitting the form. If you have any questions or concerns, please reach out to the school for assistance.
-</thinking>
-
 # school_sports_clinic_enrollment_form - Help Guide
 ## Purpose
 The school sports clinic enrollment form is used to enroll students in sports clinics provided by the school. This form is used to collect necessary information from students and parents to process enrollment requests efficiently.

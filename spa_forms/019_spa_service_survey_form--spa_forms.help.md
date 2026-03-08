@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will focus on creating a user-friendly help guide for the 'spa_service_survey_form' form. To start, I will analyze the provided YAML fields to ensure I understand the form's purpose and structure. After that, I will generate the help guide in Markdown format, following the specified structure.</thinking>
-
 # spa_service_survey_form - Help Guide
 ## Purpose
 The `spa_service_survey_form` is a survey form designed to collect feedback and information from users about their spa services experience. This form is likely used to gather user insights to improve the quality of services provided by the spa.

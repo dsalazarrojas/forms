@@ -1,7 +1,3 @@
-<thinking>
-The form "work_life_balance_survey_template" is a social survey aimed at understanding current perceptions and experiences regarding work-life balance within an organization. It's designed to gather data on how employees perceive the impact of company initiatives on their personal and professional well-being. This form will help managers and HR professionals gauge the effectiveness of existing policies and identify areas for improvement.
-</thinking>
-
 # work_life_balance_survey_template - Help Guide
 ## Purpose
 The "work_life_balance_survey_template" is a social survey aimed at understanding current perceptions and experiences regarding work-life balance within an organization.

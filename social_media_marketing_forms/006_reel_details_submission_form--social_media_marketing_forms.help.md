@@ -1,7 +1,3 @@
-<thinking>... internal reasoning and checks for form purpose and non-duplication ...
-This form is designed to collect submission details for a social media marketing campaign, likely for a video or content submission. The purpose of this form is to gather essential information from users who have submitted a reel (a short video on social media platforms like TikTok or Instagram). This form is intended to collect details about the submission, the creative brief, and the submission itself.
-</thinking>
-
 # Reel Details Submission Form - Help Guide
 
 ## Purpose

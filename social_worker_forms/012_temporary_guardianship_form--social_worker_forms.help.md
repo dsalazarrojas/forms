@@ -1,5 +1,3 @@
-<thinking>...This form is for providing information about temporary guardianship. It's likely used for situations where a person is unable to manage their own affairs and needs temporary assistance. To avoid duplication, the form should only be completed for people without a current legal guardian... (Please note that I'm assuming the form purpose based on the label and type of fields provided. If you have a more detailed explanation or specific requirements, please let me know!)... </thinking>
-
 # Temporary Guardianship Form - Help Guide
 ## Purpose
 This form is for providing information about temporary guardianship. It's likely used for situations where a person is unable to manage their own affairs and needs temporary assistance.

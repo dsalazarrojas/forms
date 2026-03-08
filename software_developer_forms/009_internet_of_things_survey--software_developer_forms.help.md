@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from software developers, possibly for a project, event, or registration purposes. The form may be part of a larger workflow or application used by developers to sign up, showcase their skills, or provide information about their projects. The form's purpose could be to gather data about software developers' roles, applications, devices, and contact information. The form might be part of a larger system used by a company or organization to manage its relationships with software developers.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information from software developers for [insert specific use case or purpose here]. The form is composed of multiple pages, each containing various fields that need to be filled out in order to provide accurate and comprehensive information about the software developer.

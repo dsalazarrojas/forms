@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a participant's highlights in a game, including their name, contact information, consent, distribution method, and other details. This form is intended for sports-related activities, such as collecting game highlights for broadcasting or publishing purposes.
-
-To avoid duplication, this form should only be filled out once per participant. If a participant has already completed this form, please do not submit it again.
-
-</thinking>
-
 # Game Highlights Release Form - Help Guide
 ## Purpose
 This form is used to collect game highlights release information from participants in sports-related activities.

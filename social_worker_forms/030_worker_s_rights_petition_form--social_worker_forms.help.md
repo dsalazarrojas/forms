@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Workers' Rights Petition Form is to collect information from employees about their workplace experiences, including their name, workplace details, type of work, union affiliation, benefits received, safety measures, justification, and employer's resolution and recommendations. This form is intended to help identify areas of improvement in the workplace and to gather evidence for potential future actions. It is essential to ensure that this form is only filled out by genuine workers and not by anyone seeking to exploit the system.
-</thinking>
-
 # Workers' Rights Petition Form - Help Guide
 ## Purpose
 The Workers' Rights Petition Form is designed to collect data from employees regarding their workplace experiences, which can aid in identifying areas of improvement and provide evidence for potential future actions.

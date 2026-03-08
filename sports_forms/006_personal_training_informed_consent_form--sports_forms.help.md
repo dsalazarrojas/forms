@@ -1,7 +1,3 @@
-<thinking>
-The Personal Training Informed Consent Form is intended to ensure that participants in training programs understand their responsibilities, rights, and obligations. This form is to be filled out by the participant prior to starting the training program. It serves as a legal document that outlines the terms and conditions of the training, and it's a crucial step in the onboarding process. Please note that this form should only be completed once for each participant, and any subsequent versions of the form should not be used.
-</thinking>
-
 # Personal Training Informed Consent Form - Help Guide
 ## Purpose
 The Personal Training Informed Consent Form is a crucial document that outlines the terms and conditions of a training program, ensuring that participants understand their rights, responsibilities, and obligations. It's a necessary step in the onboarding process and should be filled out before starting the training.

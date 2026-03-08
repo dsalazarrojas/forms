@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_facility_incident_form - Help Guide
 
 ## Purpose

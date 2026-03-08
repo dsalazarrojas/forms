@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and preferences for coaches in a sports-related context. The form likely aims to collect opinions on favorite coaches, which could be used for various purposes such as determining popularity or ranking. The form's purpose might be to collect data for a sports-related poll, survey, or competition.
-
-To determine the form's relevance and non-duplication, the following criteria should be considered:
-- The form collects data for three favorite coaches.
-- The form requires a selection of a favorite coach from a list of options.
-- The form allows users to provide additional feedback or comments about each of the selected coaches.
-- The form collects contact information (email) and additional feedback for the overall form submission.
-
-If you are looking to use this form for an internal purpose, such as a team's internal decision-making process, it might be best to remove or modify the email field to maintain data privacy. If you are looking to use the form for a broader purpose, such as a public poll or competition, the email field could be a useful feature for contact or follow-up purposes.
-
-Please consider removing fields that are not necessary for your intended use case, or add additional fields that are relevant to your context. This guide will assume that all fields are part of the form's intended design.
-
-</thinking>
-
 # Vote For Favorite Coaches - Help Guide
 ## Purpose
 This form is designed to collect your favorite coaches in a sports-related context. You can select up to three coaches from the provided options and provide additional feedback for each of them.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Debate Tournament Sponsorship Form is to gather information from potential sponsors about their interest in sponsoring a debate tournament. The form is used to collect contact information, payment terms, and other relevant details about the sponsorship. 
-
-This form should not be used if you are already in a sponsorship agreement with the same sponsor or have other forms of contact with the same sponsor. 
-</thinking>
-
 # Debate Tournament Sponsorship Form - Help Guide
 ## Purpose
 The Debate Tournament Sponsorship Form is used to collect sponsorship information from potential sponsors to support a debate tournament.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for clients to provide their consent for a beard shaping service. The form includes sections for client information, beard details, health information, and service consent. The client will be asked to provide their personal details, beard characteristics, and any existing health conditions or sensitivities. They will also be asked to confirm their understanding of the service, consent to the treatment, and acknowledge potential risks. 
-
-</thinking>
-
 # Beard Shaping Service Consent Form - Help Guide
 
 ## Purpose

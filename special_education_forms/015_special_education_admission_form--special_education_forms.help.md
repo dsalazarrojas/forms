@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is used for special education admission purposes, and is likely to be completed by students, parents, or guardians. The form collects information about the student's personal details, educational background, and any additional needs or services required. It's essential to ensure that the form is filled out accurately and thoroughly to provide a clear understanding of the student's needs. Please note that the fields are optional, unless marked as "required", which is only the case for a few fields such as student_name and student_language.
-</thinking>
-
 # Special Education Admission Form - Help Guide
 
 ## Purpose

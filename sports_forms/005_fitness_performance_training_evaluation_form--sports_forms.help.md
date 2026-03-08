@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fitness_performance_training_evaluation_form - Help Guide
 ## Purpose
 The fitness_performance_training_evaluation_form is designed to track and evaluate an athlete's or client's physical performance during a fitness training session. This form collects data on the client's physical state, workout details, and trainer notes to provide a comprehensive understanding of their progress.

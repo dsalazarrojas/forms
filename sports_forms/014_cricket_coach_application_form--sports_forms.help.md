@@ -1,5 +1,3 @@
-<thinking>...The form is designed for coaches who want to apply to be a cricket coach. The form asks for personal details, experience, cricket background, sport management, coaching certification, and emergency contact information. This form is not intended for players, teams, or other types of coaches. It's a basic form that collects necessary information to evaluate a coach's eligibility for a coaching position. This form is not intended to be used for any other purpose...</thinking>
-
 # cricket_coach_application_form - Help Guide
 ## Purpose
 This form is for coaches who want to apply to be a cricket coach. It collects necessary information to evaluate a coach's eligibility for a coaching position.

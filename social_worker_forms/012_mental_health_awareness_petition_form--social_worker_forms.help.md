@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Awareness Petition Form - Help Guide
 
 ## Purpose

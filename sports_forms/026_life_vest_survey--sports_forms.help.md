@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Vest Survey - Help Guide
 
 ## Purpose

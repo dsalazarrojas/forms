@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is completed correctly, it's essential to understand its purpose and the required information. This form is for scheduling a skincare device demonstration, which typically involves showcasing a specific skincare product or technology to a client. The form should be filled out when a demonstration is requested, and all relevant details must be provided. Please verify that you have permission to create a new demonstration and that a similar entry does not exist already.
-</thinking>
-
 # Skincare Device Demonstration Appointment - Help Guide
 ## Purpose
 This form is used to schedule a demonstration of a skincare device. Please fill out the form below to provide necessary details for the demonstration.

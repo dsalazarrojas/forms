@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sponsorship Request Form - Help Guide
 ## Purpose
 The Sponsorship Request Form is a tool used to collect information from users about their sponsorship requests. It helps us keep track of requests made to our organization, including details such as name, email, organization, and sponsorship level. This form is used to ensure that all requests are properly recorded and assigned to the correct person or team.

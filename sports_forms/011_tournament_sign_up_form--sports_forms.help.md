@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tournament Sign Up Form - Help Guide
 ## Purpose
 This form is intended to collect information from individuals who wish to participate in a tournament. The purpose of this form is to provide a centralized way to gather data about the tournament participants, including their team details and contact information. 

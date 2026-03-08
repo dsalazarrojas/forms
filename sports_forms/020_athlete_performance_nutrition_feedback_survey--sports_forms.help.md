@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an athlete's performance nutrition habits, preferences, and goals. The goal is to assess the athlete's current nutritional status, identify potential challenges, and provide personalized recommendations for improvement. By completing this form, athletes will be able to provide detailed information about their diet, hydration habits, supplement usage, and preferences. This data will help sports teams and nutritionists to provide tailored guidance and support for optimal athlete performance.
-
-Before completing this form, ensure that you are the intended athlete and that you have not already completed this survey previously. If you have any questions or concerns, please contact your team or coach for assistance.
-
-Please ensure that you complete all required fields to ensure accurate and comprehensive data collection. If you have any additional feedback or comments, please use the "Additional Feedback" field for any further input.</thinking>
-
 # Athlete Performance Nutrition Feedback Survey - Help Guide
 
 ## Purpose

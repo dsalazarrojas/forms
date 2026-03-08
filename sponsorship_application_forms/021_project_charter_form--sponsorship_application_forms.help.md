@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a project's objectives, goals, and key performance indicators (KPIs). It is intended to be completed by project managers or team members to document the project's scope, expected outcomes, and potential risks. The form should not be filled out if the project has already been approved or is not yet in the planning stage.
-</thinking>
-
 # Project Charter Form - Help Guide
 ## Purpose
 The Project Charter Form is a document that outlines the project's objectives, goals, and key performance indicators (KPIs). It is used to ensure that all project stakeholders are on the same page and that the project is well-structured and well-managed.

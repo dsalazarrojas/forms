@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for individuals seeking assistance with their housing situation. It collects relevant personal and lease information to better understand their needs and provide the necessary support. Please fill out the form accurately and thoroughly to ensure the best possible assistance.
-
-</thinking>
-
 # Lease Assistance Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information about your housing situation, allowing us to provide you with the necessary assistance.

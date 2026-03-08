@@ -1,7 +1,3 @@
-<thinking>
-This form is for coaches or individuals interested in coaching to apply for a position or opportunity. The form should only be used for this purpose, and not for general contact or inquiry requests. To ensure accurate and efficient processing of applications, please do not submit duplicate applications. 
-</thinking>
-
 # Coach Application Form - Help Guide
 ## Purpose
 The Coach Application Form is used for coaches or individuals interested in coaching to apply for a position or opportunity. This form helps us understand your background, experience, and availability to determine the best fit for your coaching skills.

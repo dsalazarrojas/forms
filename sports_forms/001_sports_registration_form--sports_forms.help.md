@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from athletes to register them for a sports-related program or event. This form is used to gather essential details about the athlete, their preferences, and their guardian's contact information. The form is designed to be simple and user-friendly, with options and fields tailored to the specific needs of the program.
-
-To determine the relevance and non-duplication of this form, we can consider the following questions:
-
-- Is the form being used for a new sport registration event?
-- Does the form already exist for this purpose in the system?
-- Is the form being updated or modified in any way that affects its functionality or purpose?
-
-If the form is being used for a new sport registration event and does not exist in the system, or if it is being updated or modified in a way that affects its functionality or purpose, then this form guide is necessary to ensure that users understand its purpose and how to complete it correctly.
-</thinking>
-
 # Sports Registration Form - Help Guide
 ## Purpose
 The Sports Registration Form is used to collect essential details from athletes to register them for a sports-related program or event.

@@ -1,7 +1,3 @@
-<thinking>
-This is a snow sports form for applicants interested in joining a snow sports team. It's essential to fill out this form accurately and completely to help us understand your qualifications and fit for the position. Please make sure to fill out all required fields (indicated by a red star) and be concise in your answers. If you have any questions, feel free to reach out to us at form@gic.mx.
-</thinking>
-
 # Snow Sports Staff Application - Help Guide
 ## Purpose
 The Snow Sports Staff Application form is designed to gather information from applicants interested in joining a snow sports team. By filling out this form, you will be helping us to better understand your qualifications, skills, and experience, which will be reviewed for potential staff positions within our organization.

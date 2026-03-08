@@ -1,8 +1,3 @@
-<thinking>
-# Internal reasoning: This form is for users to enter their picks for the football game, providing their confidence points for each week's outcome. It includes fields for the participant's name, email, phone number, submission details, and various other metadata. The form's purpose is to collect data for analysis and evaluation of user's performance, and possibly for future improvements to the game.
-
-</thinking>
-
 # Football Pick'em Contest Entry - Help Guide
 ## Purpose
 The Football Pick'em Contest Entry form is designed to collect user's picks and confidence points for each week's football game outcomes. This data will be used for analysis and evaluation of user's performance.

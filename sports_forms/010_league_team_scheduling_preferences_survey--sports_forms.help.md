@@ -1,19 +1,3 @@
-<thinking> 
-  This form is for users to express their preferences for scheduling teams in a league. The purpose of this form is to gather information about team availability, preferred days and times, conflict avoidance strategies, and blackout dates or times when the team is not available. This information will be used to schedule games in a way that minimizes conflicts and maximizes availability.
-  
-  Before filling out this form, please note that all fields are optional, and you can provide information as much or as little as you like. The more information you provide, the more accurate the scheduling will be.
-  
-  This form is divided into two main sections: Team Availability and Conflict Avoidance.
-  
-  In the Team Availability section, you will find fields for specifying your preferred days and times for games, as well as available dates and times when you are not available.
-  
-  In the Conflict Avoidance section, you can specify your conflict avoidance strategy and preferred days and times for scheduling games.
-  
-  You can skip fields that do not apply to your situation.
-  
-  If you have any further questions or concerns, please don't hesitate to contact the league administrators.
-  </thinking>
-
 # league_team_scheduling_preferences_survey - Help Guide
 ## Purpose
 This form is designed to collect your preferences for scheduling teams in a league. The information gathered from this form will be used to schedule games in a way that takes into account your availability and preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Vitamin Infusion Therapy Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather coaching feedback on an athlete's performance during a specific week. The purpose is to provide a structured and comprehensive evaluation of the athlete's progress, skills, and attitude. This form is intended for coaches to fill out and provide feedback on their athletes' performance, helping them identify areas of improvement and set goals for the next week. Please make sure to fill out this form carefully and thoroughly, as the information will be used to inform future coaching sessions and support the athlete's development.
-</thinking>
-
 # Coaching Weekly Feedback Form - Help Guide
 ## Purpose
 The Coaching Weekly Feedback Form is a tool for coaches to provide feedback on an athlete's performance during a specific week. It's used to assess progress, identify areas of improvement, and set goals for the next week.

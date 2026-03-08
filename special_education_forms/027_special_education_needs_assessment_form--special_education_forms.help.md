@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "special-education-needs-assessment-form" form, which is used to assess a student's special education needs. The form is designed to gather information from parents or educators about a student's grade level, subjects of interest, and potential special education services needed. This form will help ensure that students receive the necessary support to succeed in school.
-</thinking>
-
 # special-education-needs-assessment-form - Help Guide
 ## Purpose
 This form is used to assess a student's special education needs. It helps gather information about the student's grade level, subjects of interest, and potential special education services required. The collected data will be used to create a suitable educational assistance plan for the student.

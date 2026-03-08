@@ -1,7 +1,3 @@
-<thinking>
-We need to check for internal relevance and non-duplication to ensure we are providing accurate help guide information for this form. The Swim Lane Reservation Form appears to be a form for managing swim lane reservations, likely for a pool or aquatic facility. It collects information about swimmers, such as their names, email addresses, phone numbers, and other details. This form is probably used by staff or administrators to record and manage swim lane reservations.
-</thinking>
-
 # Swim Lane Reservation Form - Help Guide
 
 ## Purpose

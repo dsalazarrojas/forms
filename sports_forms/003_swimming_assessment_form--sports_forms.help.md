@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a swimmer's assessment. The swimmer's assessment is a critical part of the sports development process, as it helps coaches and trainers evaluate a swimmer's performance, identify areas for improvement, and create a plan for their development. This form should only be filled out for each swim test, and it is essential to fill it out accurately and completely to ensure that the swimmer receives the correct assessment and training plan.
-</thinking>
-
 # Swimming Assessment Form - Help Guide
 ## Purpose
 The Swimming Assessment Form is used to gather information about a swimmer's performance during a swim test. This form helps coaches and trainers evaluate the swimmer's abilities, identify areas for improvement, and create a plan for their development.

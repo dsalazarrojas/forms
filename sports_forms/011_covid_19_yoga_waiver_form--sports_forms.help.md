@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Yoga Waiver Form - Help Guide
 
 ## Purpose

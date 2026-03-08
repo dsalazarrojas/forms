@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 2021 2023 NPHC LC Officers Nomination Form - Help Guide
 
 ## Purpose

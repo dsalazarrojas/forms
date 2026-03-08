@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations that want to provide sponsorship and resources to a project. The purpose of this form is to help project managers and coordinators track and manage the sponsorships and resources received. It's essential to fill out this form accurately and honestly to ensure that the information is correct and up-to-date.
-
-Before starting, please note that you should only fill out this form once for each sponsorship/resource provided. If you have multiple sponsorships or resources to register, you can fill out this form multiple times.
-
-Please make sure to answer all the required fields, marked as "required" in the form. If a field is optional, you can skip it if it's not relevant to your sponsorship or resource.
-
-After completing the form, review it carefully before submitting to ensure that all information is accurate and complete.
-
-Now, let's guide you through the form fields.
-</thinking>
-
 # Sponsorship And Resource Registration - Help Guide
 ## Purpose
 This form is designed to collect information from organizations that want to provide sponsorship and resources to a project. The form helps project managers and coordinators track and manage the sponsorships and resources received.

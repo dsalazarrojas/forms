@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track issues that need to be addressed in the software development process. It helps developers and team members to keep track of problems, assign them to team members, and store relevant comments and information. This form is not intended to be used for general feedback or suggestions, but rather for specific issues that require attention from the development team.
-
-To prevent duplication, we recommend that team members only use this form for issues that are not already being tracked or discussed in other channels.
-
-The purpose of this form is to provide a structured and organized way of reporting and tracking issues, making it easier for team members to work together and resolve problems efficiently.
-
-</thinking>
-
 # Issue Tracking Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way of reporting and tracking issues that need to be addressed in the software development process.

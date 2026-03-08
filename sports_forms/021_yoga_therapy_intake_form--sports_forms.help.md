@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # yoga_therapy_intake_form - Help Guide
 ## Purpose
 The yoga therapy intake form is designed to collect basic contact information and any medical issues or concerns that may affect the client's participation in yoga therapy sessions. Please use this form to provide your first name, last name, date of appointment, time of appointment, email, phone number, any medical issues, and a brief note about your visit. This form should only be filled out once for each new client.

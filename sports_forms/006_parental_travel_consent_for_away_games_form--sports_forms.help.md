@@ -1,11 +1,3 @@
-<thinking>
-
-**Parental Travel Consent For Away Games Form** requires the parent/guardian to provide travel details for their child, ensuring the child's safety and well-being during away games. 
-
-Before proceeding, please ensure you have not already submitted this form for the same travel details, as duplicate submissions may cause confusion and delay the travel process.
-
-</thinking>
-
 # Parental Travel Consent For Away Games Form - Help Guide
 ## Purpose
 This form is designed for parents/guardians to provide travel information and obtain necessary consent for their child's away game events.

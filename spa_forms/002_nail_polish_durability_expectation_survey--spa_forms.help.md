@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to help clients provide information about their nail polish expectations, specifically regarding durability and removal. Each page of the form corresponds to a different polish color, with questions asking about wear time, quality, removal method, and any other relevant details. The form is designed to gather data from multiple polish colors.
-
-To prevent data duplication, this form should only be filled out once per client. 
-
-Please note that the client may have multiple polishes in their collection, so the form will ask questions about each polish separately.
-
-When filling out this form, please provide information for each polish color separately.
-
-Please make sure to enter the correct polish color in the correct fields, and that the removal time is an estimate.
-
-This guide is intended to help clients provide accurate and complete information to our team.
-</thinking>
-
 # Nail Polish Durability Expectation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your nail polish expectations, specifically regarding durability and removal. Please fill out this form to provide accurate information to our team.

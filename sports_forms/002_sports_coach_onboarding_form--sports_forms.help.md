@@ -1,5 +1,3 @@
-<thinking>...This form is used to onboard new sports coaches into the system. It is intended for coaches who have not yet been added to the system and need to provide their personal and professional information. This form will help us to efficiently onboard coaches by ensuring that we have accurate and up-to-date information about them. This guide is to help new users understand the purpose of the form and how to complete it correctly...</thinking>
-
 # Sports Coach Onboarding Form - Help Guide
 ## Purpose
 The Sports Coach Onboarding Form is used to provide essential information about new sports coaches who have not yet been added to the system. This form helps us to onboard coaches efficiently and ensure we have accurate and up-to-date information about them.

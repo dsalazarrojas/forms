@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from end-users about their experience with software development and technology usage. It aims to collect data on the software used, the context of the survey, and the user's contact information. The form is intended for internal use, and the data collected will help us better understand the needs and preferences of our target audience. Before proceeding, please ensure that you have not filled out this form recently, as this will help prevent duplicate entries and ensure that your responses are counted accurately.
-
-</thinking>
-
 # information_technology_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from end-users about their software development experience and technology usage.

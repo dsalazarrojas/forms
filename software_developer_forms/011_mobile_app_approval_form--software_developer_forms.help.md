@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and non-relevance, let's first review the form purpose and its fields. This form appears to be designed to collect information about mobile apps for approval purposes. Reviewing the fields, we notice that they cover a variety of information types, such as app details, contact information, and metadata related to the app. The form seems to be well-structured and clear in its intentions. However, we should double-check that there is no unnecessary duplication of fields or unclear labels. Let's make sure to explain each field in a clear and concise way.
-
-</thinking>
-
 # Mobile App Approval Form - Help Guide
 ## Purpose
 The Mobile App Approval Form is designed to collect information about mobile apps for approval purposes. It helps the approval team quickly gather the necessary details to assess and review the apps.

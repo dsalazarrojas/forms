@@ -1,7 +1,3 @@
-<thinking>
-We're creating this form to collect information from potential collaborators and sponsors interested in working with us. To ensure that we provide the best experience possible for everyone involved, please review this form carefully and don't duplicate your inquiry within a short period. A duplicated inquiry might be flagged as spam.
-</thinking>
-
 # Sponsorship Collaboration Inquiry Form - Help Guide
 ## Purpose
 This form is designed for organizations and individuals interested in collaborating or sponsoring our events or initiatives. It helps us understand your needs, interests, and requirements, allowing us to tailor our collaboration or sponsorship proposal accordingly.

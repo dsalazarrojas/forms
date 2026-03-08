@@ -1,14 +1,3 @@
-<thinking>
-This form is likely intended for individuals seeking to become training instructors, possibly for a sports-related organization or program. To avoid duplication, please ensure you have not already submitted an application for this role within the organization. If you're unsure, feel free to check your previous applications or contact the relevant department for clarification.
-
-Please fill out this form carefully and accurately, as the information will be used to evaluate your suitability for the role. You can save and revisit the form at any time, and it will remember your progress. If you need help or have questions, don't hesitate to ask.
-
-This form is designed to collect essential information about you, and your completion will help the organization better understand your qualifications, interests, and needs. Your submission will be treated as confidential.
-
-This form will not ask for sensitive or unnecessary information, so you can fill it out with confidence.
-
-</thinking>
-
 # Training Instructor Application Form - Help Guide
 ## Purpose
 This form is for individuals interested in becoming a training instructor for a sports-related program or organization. It collects essential information about your personal details, contact information, physical capabilities, health conditions, and emergency contact.

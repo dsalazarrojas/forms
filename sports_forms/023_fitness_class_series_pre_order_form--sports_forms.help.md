@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for customers to preorder a fitness class series. It collects information about the participant's schedule preferences, participant details, payment details, and other relevant data. This form should only be completed by customers who are interested in purchasing a fitness class series. It is essential to ensure that this form is not submitted multiple times by the same participant to avoid duplication.
-
-To prevent duplicate submissions, the form can be used to check if the participant's email address is already in the system. If it is, the participant will receive a message indicating that they have already submitted the form. 
-
-The form will guide the participant through a series of questions that will help us get to know their schedule preferences, including their preferred schedule for the class series. We also need to know some additional participant details and payment details to complete the preorder process.
-</thinking>
-
 # Fitness Class Series Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in purchasing a fitness class series. It will ask questions about their schedule preferences, participant details, and payment details to help us complete the preorder process.

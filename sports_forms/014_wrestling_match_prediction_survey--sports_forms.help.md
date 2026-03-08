@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect opinions and predictions on a wrestling match. The purpose of this form is to allow users to predict the outcome of a wrestling match and provide their confidence level in their prediction. This form should only be filled out for a specific match, as indicated by the match details. The fields should only be filled out once for a match, and not for multiple matches. 
-This form collects data on the user's confidence level, reason for their prediction, and their picks for the match. Users can choose multiple options for their predictions, and they can also provide a reason for their prediction and confidence level. This form is likely used by wrestling enthusiasts or fans to participate in polls or predictions on a match, and the data collected will be used to analyze the results of the match.
-</thinking>
-
 # wrestling_match_prediction_survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and predictions on a specific wrestling match.

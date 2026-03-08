@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Sponsorship Inquiry - Help Guide
 ## Purpose
 This form is designed to collect information from users about their Warehouse Sponsorship Inquiry. The purpose of this form is to gather details about the user's business and specific sponsorship requirements. The form will help us understand and address their needs and provide more relevant information and resources.

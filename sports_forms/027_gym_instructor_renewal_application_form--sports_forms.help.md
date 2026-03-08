@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from gym instructors who are renewing their certification or licenses. The form is intended to verify that the instructor's information is up-to-date and compliant with the gym's requirements. The form's fields should be filled in by the instructor, and the form should not be duplicated or submitted multiple times.
-</thinking>
-
 # Gym Instructor Renewal Application Form - Help Guide
 ## Purpose
 This form is used to collect necessary information from gym instructors for the purposes of renewal. Please ensure that the information is accurate and up-to-date to avoid any issues with your certification or licenses.

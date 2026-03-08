@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be for customers or users to request access to certain products or services related to wellness, specifically massage, yoga, meditation, or other holistic services. They are required to select a product/service, provide contact information (email and phone number), and choose a preferred payment method. The form also collects additional information such as preferred date and time, any medical conditions or allergies, and special instructions.
-</thinking>
-
 # Wellness Retreat Holistic Product Requisition Form - Help Guide
 ## Purpose
 This form is for customers or users to request access to massage, yoga, meditation, or other holistic services offered by the wellness retreat. The form helps us understand their product preferences, contact information, and payment methods to provide a smooth and personalized experience.

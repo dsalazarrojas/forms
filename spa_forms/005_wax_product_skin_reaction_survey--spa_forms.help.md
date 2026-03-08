@@ -1,12 +1,3 @@
-<thinking>
-The Wax Product Skin Reaction Survey form is used to collect feedback from users about their experience with a wax product. This form is designed to be completed by users who have used a wax product, such as a candle or wax polish, and have had a skin reaction to it. The form is intended to gather information about the user's skin reaction, including any adverse effects, and to provide an opportunity for users to provide additional comments or feedback about their experience.
-
-This form is not intended for users who have not used a wax product or who are not experiencing a skin reaction. If you are not experiencing a skin reaction, you should not complete this form.
-
-Note: This form is designed to be completed by individuals, not businesses or organizations.
-
-</thinking>
-
 # Wax Product Skin Reaction Survey - Help Guide
 
 ## Purpose

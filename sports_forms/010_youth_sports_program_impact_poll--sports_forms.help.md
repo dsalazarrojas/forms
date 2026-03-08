@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from individuals on their experiences with youth sports programs in their area. It aims to capture information on the types of programs offered, their participation frequency and level of engagement, favorite activities, and overall well-being outcomes. The form is intended to inform the development of more effective youth sports programs.
-
-The form consists of 12 questions, each covering a different aspect of youth sports programs. To ensure accurate results, please answer each question to the best of your ability. Note that some questions may have multiple-choice options, while others require more detailed written responses.
-
-</thinking>
-
 # Youth Sports Program Impact Poll - Help Guide
 ## Purpose
 This guide is designed to help users understand how to complete the Youth Sports Program Impact Poll form, which is meant to gather feedback on youth sports programs in your area.

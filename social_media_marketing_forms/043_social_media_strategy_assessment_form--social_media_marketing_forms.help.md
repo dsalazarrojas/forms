@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide the best possible experience for the end users and avoid duplication, we should first consider the purpose of this form. The Social Media Strategy Assessment Form is designed to help users understand their current social media usage, target audience, and content strategy. It also helps users assess their social media channels, set goals, and measure their effectiveness. This form is meant to be a starting point for creating a comprehensive social media plan. It's essential to note that some fields may seem repetitive, such as "current media usage" and "future measures," but they serve different purposes. "Current media usage" helps the user understand their current social media usage, while "future measures" helps them set goals and objectives. This form is not intended to be a replacement for a comprehensive social media strategy plan but rather a tool to gather information and identify areas for improvement.
 
 # Social Media Strategy Assessment Form - Help Guide

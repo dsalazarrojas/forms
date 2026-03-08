@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Corporate social responsibility (CSR) survey template was created to understand how employees perceive and engage with our company's initiatives. This form aims to gather valuable insights on their experience with our CSR program, including how satisfied they are with the process, their participation frequency, and what they'd like to improve about it. To avoid duplication of effort, please complete this form if you have not already participated in a CSR survey within the past 3 months.
 
 # Corporate Social Responsibility CSR Survey Template - Help Guide

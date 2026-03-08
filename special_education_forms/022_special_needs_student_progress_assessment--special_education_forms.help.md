@@ -1,11 +1,3 @@
-<thinking>
-
-The Special Needs Student Progress Assessment form is designed to track the progress of students with special needs in a standardized and structured manner. This form helps teachers and caregivers assess the student's current level of development and identify areas where they need improvement or support. By completing this form, you can monitor the student's growth over time and adjust your teaching strategies accordingly.
-
-Before you start, please make sure you haven't already filled out this form for this student in the past. If you're not sure, you can check your previous assessments for reference.
-
-</thinking>
-
 # Special Needs Student Progress Assessment - Help Guide
 ## Purpose
 The Special Needs Student Progress Assessment form is used to document the progress and development of students with special needs. It helps you identify areas where the student needs improvement or support, and track their growth over time.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a critical component of the LED light therapy process, and it's essential to ensure that it is completed accurately and thoroughly. The purpose of this form is to gather essential information from clients prior to treatment, including their medical history, consent, and contact information. This form is not intended for general medical purposes, but rather to provide the therapist with critical information to ensure a safe and effective treatment process.
-
-Please note that this form is not intended to replace medical consultations or diagnoses. If you have any doubts or concerns, please consult a medical professional before proceeding.
-
-</thinking>
-
 # LED Light Therapy Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from clients prior to LED light therapy treatment, ensuring a safe and effective process.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for software developers to order programming equipment and resources. It is used to capture information about the equipment ordered, the customer who is ordering it, and the status of the order. The form is designed to be filled out by the software developers who are making the equipment requests.
-
-This form should only be used by authorized personnel within the company.
-
-Please note that this form is used for internal ordering purposes and is not intended for external use. Any external requests should be directed to the company's website or other established contact channels.
-
-</thinking>
-
 # Programming Equipment Order Form - Help Guide
 ## Purpose
 The Programming Equipment Order Form is used to document and track the ordering of programming equipment and resources for software development projects.

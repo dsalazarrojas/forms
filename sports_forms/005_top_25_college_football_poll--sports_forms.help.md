@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # top_25_college_football_poll - Help Guide
 
 ## Purpose

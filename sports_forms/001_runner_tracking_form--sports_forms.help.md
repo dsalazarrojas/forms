@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # runner-tracking-form - Help Guide
 
 ## Purpose

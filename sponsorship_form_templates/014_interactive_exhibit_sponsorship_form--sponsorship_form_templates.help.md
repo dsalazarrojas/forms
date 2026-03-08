@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about sponsorships for an interactive exhibit. This form likely helps staff or administrators to track and manage sponsorships for an event or project.
-</thinking>
-
 # interactive_exhibit_sponsorship_form - Help Guide
 ## Purpose
 The interactive_exhibit_sponsorship_form is used to collect information about sponsorships for an interactive exhibit.

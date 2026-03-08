@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be used by artists and creative individuals to apply for sponsorship to promote their work. It is intended to guide applicants through the necessary steps to provide a complete and accurate submission. Ensure that you are applying for the right type of sponsorship and that your project meets the specified requirements... </thinking>
-
 # Artist Promotion Sponsorship Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from artists and creative individuals to evaluate their eligibility for sponsorship. It collects details about the artist's background, project requirements, and expected outcomes.

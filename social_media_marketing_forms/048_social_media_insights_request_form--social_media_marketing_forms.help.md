@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Social Media Insights Request Form". This form is designed to collect information from users about their social media marketing campaigns, specifically their company's social media insights. The form is intended to gather data such as company name, contact information, campaign start and end dates, social media channels, and analytics needs. However, it's essential to note that this form may be redundant or unnecessary for certain users, and the internal team should verify if the form is relevant and not a duplicate before proceeding. Additionally, the form's fields should be filled out with the most accurate and up-to-date information possible.
-</thinking>
-
 # Social Media Insights Request Form - Help Guide
 
 ## Purpose

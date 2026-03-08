@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for sports event logistics staff applications. It is intended to gather information about applicants and their qualifications. The form is used for the staff application process, and it is essential to fill it out accurately to ensure that the correct information is collected from each applicant. Please note that this form is only for the sports event logistics staff and not for any other purpose. Before proceeding, ensure that you are eligible to apply for this role.
-
-</thinking>
-
 # Sports Event Logistics Staff Application Form - Help Guide
 ## Purpose
 The Sports Event Logistics Staff Application Form is designed to gather information about applicants and their qualifications for sports event logistics staff positions. This form is used to collect data about the applicant's background, experience, and skills.

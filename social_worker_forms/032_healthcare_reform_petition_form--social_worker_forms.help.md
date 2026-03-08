@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals and organizations about their opinions on healthcare reform. The form is part of a broader effort to gather data on the needs and priorities of various stakeholders, including patients, healthcare providers, and advocacy groups. This form will help identify areas of agreement and disagreement on different aspects of healthcare reform, and provide insights for policymakers and stakeholders to inform their decision-making.
-
-Before completing this form, please note that it consists of multiple pages with various fields. Each page has a specific purpose, and your input will be used to inform and shape the reform efforts.
-
-</thinking>
-
 # healthcare_reform_petition_form - Help Guide
 
 ## Purpose

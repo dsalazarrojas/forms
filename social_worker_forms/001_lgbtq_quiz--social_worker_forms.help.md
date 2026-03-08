@@ -1,9 +1,3 @@
-<thinking>
-This form is a quiz for individuals to assess their knowledge and understanding of LGBTQ-related concepts, terminology, and community involvement. The form is designed to be a self-assessment tool to help individuals gauge their level of familiarity with key aspects of the LGBTQ community and their own role as allies. The form is not intended to be a comprehensive or definitive measure of one's knowledge or identity, but rather a guide for further learning and exploration.
-It is essential that the responses are honest and authentic to ensure that the results are accurate and meaningful. The quiz will provide feedback and suggestions for further learning and growth.
-It is also important to note that the form is not a test, and there is no right or wrong answer. The goal is to promote self-awareness and understanding, rather than to judge or evaluate individuals.
-</thinking>
-
 # LGBTQ Quiz - Help Guide
 ## Purpose
 The LGBTQ Quiz is a self-assessment tool designed to gauge your knowledge and understanding of LGBTQ-related concepts, terminology, and community involvement. It is not a test, and there is no right or wrong answer. The goal is to promote self-awareness and understanding, rather than to judge or evaluate individuals.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect sponsorship information from potential sponsors of the Improv Festival. The form is designed to be completed by festival organizers, event planners, or sponsors to manage sponsorships efficiently. The form should not be used for general festival inquiries or attendee registration. To ensure accuracy, please review the form carefully and avoid duplicating sponsorship requests. If you are unsure about the form's purpose or have questions, feel free to contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Improv Festival Sponsorship Form - Help Guide
 ## Purpose
 The Improv Festival Sponsorship Form is designed to collect sponsorship information from potential sponsors to support the festival's activities and events.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for clients to provide information about themselves and their fitness goals to the boxing and fitness trainers at the gym. The form is intended to help the trainers assess the client's current fitness level, medical history, and goals, and use this information to create a safe and effective training plan. It's essential to ensure that the client understands the implications of their answers, as this information will be used to guide their training. Please fill out this form carefully and accurately to provide the best possible experience for both you and the trainer.
-
-</thinking>
-
 # Boxing And Fitness Client Assessment Form - Help Guide
 ## Purpose
 This form is a crucial part of the onboarding process at the gym, and it's essential to complete it thoroughly and accurately. The information collected will help create a personalized training plan tailored to your needs and goals.

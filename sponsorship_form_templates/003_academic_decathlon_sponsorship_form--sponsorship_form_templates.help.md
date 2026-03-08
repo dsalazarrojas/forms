@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to avoid duplication and misrepresentation of sponsorship information. This form is intended to collect accurate and relevant information from sponsors about their involvement in the Academic Decathlon program. Sponsors may be individuals or organizations that provide financial or in-kind support to the program. The form will help in processing and acknowledging sponsorships efficiently.
-</thinking>
-
 # Academic Decathlon Sponsorship Form - Help Guide
 ## Purpose
 The Academic Decathlon Sponsorship Form is designed to collect sponsorship information from individuals or organizations that support the Academic Decathlon program. This form will help us process and acknowledge sponsorships efficiently.

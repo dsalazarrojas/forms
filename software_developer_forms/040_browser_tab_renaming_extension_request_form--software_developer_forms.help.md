@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting a browser tab renaming extension, which is a feature that allows users to rename browser tabs to make them easier to identify and organize. This form is used by the development team to gather information about the requested feature, ensuring that the feature meets the needs of the users and the development team's requirements. The team will use this data to assess the feasibility and priority of the feature's development.
-
-This form is not intended for duplicate requests or spam. If you have already submitted a similar request, please do not submit another one. If you have questions or concerns, please contact us at `contact: form@gic.mx`.
-
-</thinking>
-
 # Browser Tab Renaming Extension Request Form - Help Guide
 
 ## Purpose

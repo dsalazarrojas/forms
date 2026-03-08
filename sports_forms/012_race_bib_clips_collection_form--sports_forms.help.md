@@ -1,5 +1,3 @@
-<thinking>Here we have a simple form to collect race bib clips information. Its main purpose is to gather data about race bib clips returns, including the date of return, event name, bib number, race ID, and status. This form will be used by staff to record the status of race bib clips, ensuring accurate and up-to-date information for future reference.</thinking>
-
 # race_bib_clips_collection_form - Help Guide
 ## Purpose
 This form is designed to collect and record information about race bib clips returns. It helps staff track the status of bib clips, including whether they have been shipped or lost.

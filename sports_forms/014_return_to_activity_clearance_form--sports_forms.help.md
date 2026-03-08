@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This guide is intended for sports staff and athletes to request clearance to return to activities after a certain period of time. The purpose of this form is to gather information about the individual's identity, their association with a specific organization or team, and details about their participation in a particular event or activity. 
 
 The form is designed to be simple and straightforward, requiring only the most basic information from users. It's meant to be filled out by both staff and athletes alike.

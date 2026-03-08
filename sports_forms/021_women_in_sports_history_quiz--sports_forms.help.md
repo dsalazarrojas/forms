@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their personal preferences related to women in sports history. The purpose of this form is to gather data that can be used to analyze and provide insights on the interests and favorites of individuals in the context of women's sports. This information will be used to improve the relevance and accuracy of our sports-related content recommendations.
-
-This form is not intended to be a survey or a comprehensive assessment of users' sports knowledge, but rather a brief and fun way to collect opinions and preferences. Users are not required to answer all fields, but providing accurate and honest responses will result in more accurate and relevant results.
-
-Before proceeding, please note that the form will only work correctly if users answer fields with the correct format. For example, the "Date Of Birth" field should be in the standard date format (YYYY-MM-DD), and the "Favorite Athlete" and "Favorite Sport" fields should be selected from the provided options. The form will not accept any non-standard inputs or values outside of the provided options.
-</thinking>
-
 # Women In Sports History Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from users about their personal preferences related to women in sports history.

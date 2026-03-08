@@ -1,16 +1,3 @@
-<thinking> 
-As a sports enthusiast, you probably enjoy exploring the world of sports, and our Sports Viewing Habits Survey aims to gather insights on how you engage with sports. This form is designed to be a short and fun way to help us understand your sports interests. Please note that your responses will be kept anonymous and only used to improve our sports content and services.
-
-This form is not a requirement for participation in any sports events or activities. However, your feedback will help us tailor our content and services to better serve sports fans like you.
-
-Before we dive into the form details, here are a few things to keep in mind:
-
-* You can answer any or all of the questions, depending on your sports interests.
-* If you're unsure about a question, feel free to skip or mark it as "No" (for select options) or leave it blank (for text fields).
-* You can always come back later and update your answers if your sports preferences change.
-
-</thinking>
-
 # Sports Viewing Habits Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your sports viewing habits and preferences to help us improve our sports content and services.

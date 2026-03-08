@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly, please verify that you are eligible to participate in the program. You will be asked to provide personal and contact information to help us understand your involvement in the program. If you have any questions or concerns, please don't hesitate to reach out to us. This form will be used for the purpose of player endorsement and consent, please ensure you have read and understood the terms and conditions before submitting it. Please do not submit this form if you have already submitted it previously.
-</thinking>
-
 # Player Endorsement Participation Consent Form - Help Guide
 ## Purpose
 This form is used for player endorsement and consent purposes. It collects personal and contact information from players and their guardians to ensure their involvement in the program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from senior citizens who require support. It is intended to gather necessary details such as contact information, service requests, and demographic data to provide the best possible support. To ensure accurate and efficient processing, please complete this form carefully and accurately. Before proceeding, please verify that you have not submitted this form previously.
-</thinking>
-
 # Senior Citizen Support Request Form - Help Guide
 ## Purpose
 The Senior Citizen Support Request Form is a tool used to collect information from senior citizens who require support. It is designed to gather essential details to provide the best possible support.

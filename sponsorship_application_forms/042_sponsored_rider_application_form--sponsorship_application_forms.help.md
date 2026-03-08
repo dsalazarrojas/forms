@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the sponsored rider application form. The form's purpose is to collect information about the rider's details, contact information, and sponsorship preferences. Please ensure that you have reviewed and understood the form's requirements before proceeding. If you are filling out this form for the first time, please note that this guide is a reference document to help you understand each field's purpose. If you have filled out this form before, you can still review the guide to refresh your memory.
-</thinking>
-
 # sponsored_rider_application_form - Help Guide
 ## Purpose
 The sponsored rider application form is designed to collect information about the rider's details, contact information, and sponsorship preferences. This form is used to facilitate the process of sponsoring a rider for a specific program.

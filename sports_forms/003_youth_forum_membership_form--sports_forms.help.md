@@ -1,7 +1,3 @@
-<thinking>
-The Youth Forum Membership Form is a crucial tool for registering young individuals to join the youth forum, which is a platform for youth development and community building. It is essential to ensure that all required fields are filled in to create a profile and complete the registration process. Please note that the form fields are designed to collect necessary information from the individual and their emergency contacts.
-</thinking>
-
 # Youth Forum Membership Form - Help Guide
 ## Purpose
 The Youth Forum Membership Form is designed to collect information from young individuals who want to join the forum for youth development and community building.

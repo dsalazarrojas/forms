@@ -55,19 +55,6 @@ To complete this form, follow these steps:
 * **Incident Investigation Notes** (Optional): Additional information or notes about the investigation.
 * **Incident Investigation Status** (Optional): Select from "Active" or "Inactive" to indicate the status of the incident investigation.
 
-<thinking>
-This form is intended to be used for reporting incidents that occur during sports events. Before filling out this form, please ensure that you have a clear understanding of the incident and the information required. The form is divided into several sections, and each section should be completed in accordance with the required and optional fields.
-
-To ensure accuracy and consistency, please review the fields carefully and enter the required information in the correct format. If you are unsure about any field, please do not hesitate to ask for clarification.
-
-This form is designed to be completed by individuals who have firsthand knowledge of the incident, such as athletes, officials, or spectators. If you are completing this form on behalf of someone else, please ensure that you have their permission and that the information you enter is accurate.
-
-Before submitting the form, please review all the fields to ensure that they are completed correctly. If you need assistance or have questions, please contact the relevant authorities or the event organizers.
-
-Please note that some fields are marked as "Required" and "Optional". Required fields must be completed to ensure the form is submitted successfully. Optional fields can be filled in if you have additional information or comments to provide.
-
-</thinking>
-
 # Sporting Event Incident Form - Help Guide
 
 This form is designed to be easy to use and understand. If you have any issues or concerns, please reach out to the event organizers or the relevant authorities.

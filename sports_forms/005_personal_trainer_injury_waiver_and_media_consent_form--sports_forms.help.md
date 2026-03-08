@@ -1,8 +1,3 @@
-<thinking>
-This form is used for collecting information from clients or individuals who wish to participate in sports-related activities or trainings, and to obtain their consent for media coverage. It includes fields for general information, injury waiver, media consent, emergency contact information, and more. This form is intended to ensure that the participants are aware of and agree to the terms and conditions of the activity, including any potential risks and liabilities. 
-The purpose of this form is to protect both the participants and the organization/individuals hosting the activity, by ensuring that they have the necessary information and consent to proceed with the activity. It is not intended for other purposes, such as creating a membership application or registering for an event. Please ensure that the form is used in accordance with its intended purpose and that the fields are completed accurately and truthfully.
-</thinking>
-
 # personal_trainer_injury_waiver_and_media_consent_form - Help Guide
 ## Purpose
 This form is used to obtain information and consent from individuals who wish to participate in sports-related activities or trainings, including their waiver of liability and consent for media coverage.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is being created to assist users in understanding the purpose and usage of the "sports_league_fan_experience_survey" form.
-The form is designed to gather information from users about their experiences with the sports league, including demographic information, attendance habits, and feedback on the current experience.
-It is essential to ensure that users understand the form's purpose and how to complete it accurately to provide valuable insights.
-Before proceeding, please make sure you have not completed this survey before, and if you have, you can still provide feedback, but it might not be recorded as a new response.
-</thinking>
-
 # sports_league_fan_experience_survey - Help Guide
 ## Purpose
 The "sports_league_fan_experience_survey" form is designed to gather feedback from users about their experiences with the sports league, including demographic information, attendance habits, and suggestions for improvement.

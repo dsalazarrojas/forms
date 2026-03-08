@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from youth football players, allowing them to register themselves for a specific season. The form will ask for personal details such as first and last names, date of birth, contact information, and other relevant details like emergency contact information and medical history. The form aims to gather essential information to ensure a smooth and safe experience for both the players and the organization.
-</thinking>
-
 # Youth Football Player Registration Form - Help Guide
 ## Purpose
 This form is used to register youth football players for a specific season. Please fill out this form accurately and completely to ensure a smooth registration process.

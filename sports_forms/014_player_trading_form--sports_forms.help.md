@@ -1,26 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Player Trading Form, I need to understand the form's purpose and the fields it contains. From the provided YAML, it appears that the form is related to player trading in sports leagues, such as MLB, NFL, NBA, and NHL. The form may be used for player transactions, trades, or other activities within these leagues.
-
-To confirm, the form has multiple sections and fields, including:
-
-* Player information
-* League selection
-* Team selection
-* Player selection
-* Contract length
-* Trade price and value
-* Date of trade
-* Trade type
-* Transfer type
-* Trade details
-* Player selection for Team A and Team B
-* Date of trade (second instance)
-* Additional contract length and trade value fields
-
-Before proceeding, I will review the form again to ensure I cover all fields and provide a comprehensive explanation for users.
-
-</thinking>
-
 # Player Trading Form - Help Guide
 
 ## Purpose

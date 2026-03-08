@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data on software code metrics for projects within an organization. It is meant to capture specific metrics for a project, including project details and metrics such as code complexity, comment frequency, and code duplication. The form is primarily used by project managers and reviewers to track and analyze project progress and quality.
-The purpose of this form is to help project managers and reviewers to assess the quality and progress of software projects within the organization.
-Before filling out this form, make sure to select the correct project details and metrics. This form is not intended to be used for multiple projects at once.
-</thinking>
-
 # Software Code Metrics Report Form - Help Guide
 ## Purpose
 The Software Code Metrics Report Form is designed to collect data on software code metrics for projects within an organization. It is meant to capture specific metrics for a project, including project details and metrics such as code complexity, comment frequency, and code duplication.

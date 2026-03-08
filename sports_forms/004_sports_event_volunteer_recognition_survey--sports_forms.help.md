@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about sports events volunteers, aiming to acknowledge and appreciate their contributions. 
-To complete this form, you will be asked to provide details about the volunteer, including their name, event information, feedback, and recognition methods, frequency, and amount. 
-Please ensure you are using this form to report on a specific volunteer's experience. 
-Do not duplicate entries. 
-This guide is designed to help you fill out the form accurately.
-</thinking>
-
 # Sports Event Volunteer Recognition Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data about volunteers involved in sports events to recognize and appreciate their contributions. This information will help us understand the impact of our volunteers and show our appreciation for their efforts.

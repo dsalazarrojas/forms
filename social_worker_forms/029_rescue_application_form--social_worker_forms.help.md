@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used by animal rescue organizations or shelters to collect information from adopters and provide a structured way of collecting and storing vital information about adopted pets. The form should be filled out by the adopter and the rescue organization to ensure accurate and standardized data collection. This form is meant to be used as an internal tool for data analysis and reporting purposes only. 
-
-</thinking>
-
 # Rescue Application Form - Help Guide
 ## Purpose
 The Rescue Application Form is a tool used by animal rescue organizations and shelters to collect information from adopters and store vital data about adopted pets.

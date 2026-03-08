@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect client information for personal care services, such as spa treatments. Its purpose is to streamline the booking process and gather necessary details for therapists or technicians to provide the best care for the client. The form should only be filled out once per client and not duplicated for the same client.
-
-</thinking>
-
 # Client Intake For Personal Care Services - Help Guide
 ## Purpose
 The Client Intake For Personal Care Services form is a crucial document that helps us understand your needs and preferences for your appointment. Please take a few minutes to fill it out accurately, so our therapists or technicians can provide you with the best service.

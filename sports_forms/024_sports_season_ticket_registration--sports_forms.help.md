@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from fans for season tickets registration. It's meant for individuals interested in purchasing tickets for a particular team's events or games. This guide will walk the user through each step of the registration process, from understanding the form's purpose to explaining each field's requirements and best practices.
-
-The form collects information about the season ticket order, including details about the attendee, ticket availability, game dates, game times, ticket prices, and event specifics (name, date, and time). Users can provide notes for any specific requests or concerns they might have.
-
-Before proceeding, please ensure you have a clear understanding of the form's purpose and your eligibility for season tickets. This guide is not intended to be a comprehensive guide to season ticket sales but rather a brief overview of the registration process.
-
-If you're unsure about any aspect of the form, please refer to this guide for clarification.
-
-</thinking>
-
 # Sports Season Ticket Registration - Help Guide
 
 ## Purpose

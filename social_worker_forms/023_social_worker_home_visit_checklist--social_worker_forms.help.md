@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from social workers regarding their home visits. It is intended to be used to assess the risk level of the client, identify any safety risks, and provide recommendations for support. The purpose of this form is to ensure a comprehensive understanding of the client's situation and to identify potential areas of concern. This form should only be used for internal purposes and should not be shared externally without consent.
-</thinking>
-
 # Social Worker Home Visit Checklist - Help Guide
 ## Purpose
 The Social Worker Home Visit Checklist is a tool used to gather information about a client's home environment, risk level, and potential areas of concern during a social worker's visit. This form helps social workers to identify potential risks and provide recommendations for support.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for recording information about respite care cases. Respite care is temporary relief from the demands of caregiving, typically provided by family members or caregivers for a family member or individual. This form is designed to be filled out after a respite contact has occurred.
-
-The form may not be necessary for every contact, but it should be used for all respite contacts to ensure that all relevant information is collected consistently.
-
-**Note**: This form may be used for other types of caregiving situations, but it is specifically designed for respite care. If you are unsure whether this form is applicable, please reach out to the relevant team members for clarification.
-
-</thinking>
-
 # respite_case_notes_form - Help Guide
 ## Purpose
 This form is used to record information about respite care cases. It provides a structured way to document the care provided, goals, and status of respite care.

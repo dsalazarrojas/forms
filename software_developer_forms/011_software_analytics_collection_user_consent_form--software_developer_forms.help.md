@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "software_analytics_collection_user_consent_form" form, let's consider the form's purpose and how it should be completed based on the provided YAML fields.
-
-The form likely collects user details and consent for software analytics, including information about the software used, the date and time of usage, and any other relevant details. The form might be used for research, debugging, or other purposes related to software development. To ensure accuracy, it's essential to understand that this form is meant for users who are aware of the software and its usage and are willing to provide their consent for data collection. This form might not be intended for users who are not familiar with the software or do not wish to provide their data.
-
-We should also consider that users might not be familiar with the terminology or the exact purpose of each field, so we'll need to explain each field clearly in the help guide.
-
-</thinking>
-
 # software_analytics_collection_user_consent_form - Help Guide
 ## Purpose
 This form is used to collect user details and consent for software analytics. It is meant for users who are familiar with the software and its usage and are willing to provide their data for analytics purposes.

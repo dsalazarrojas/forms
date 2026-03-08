@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to assess an athlete's mental mindset, specifically evaluating their motivation, confidence, pressure handling, focus, resilience, and other key mental attributes. This tool is designed to help athletes identify areas of strength and weakness, provide insights for self-improvement, and potentially aid coaches and team managers in tailoring support and strategies to address individual needs.
-
-</thinking>
-
 # Athlete Mindset Assessment - Help Guide
 ## Purpose
 The Athlete Mindset Assessment is a tool designed to help athletes evaluate their mental strengths and weaknesses, identify areas for improvement, and develop strategies to enhance their performance.

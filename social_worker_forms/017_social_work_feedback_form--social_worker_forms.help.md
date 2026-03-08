@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Work Feedback Form - Help Guide
 
 ## Purpose

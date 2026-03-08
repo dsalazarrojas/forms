@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help athletes assess their anxiety levels before a competition. It is meant to be completed by the athlete or a team member to identify potential areas of anxiety and take steps to mitigate them. The form can be used to monitor the athlete's anxiety levels over time, providing valuable insight into their mental preparedness.
-
-It is assumed that the athlete has been identified and the competition details are known. 
-
-</thinking>
-
 # Pre Competition Anxiety Assessment - Help Guide
 ## Purpose
 The Pre-Competition Anxiety Assessment form helps athletes evaluate their mental state before an event. By completing this form, athletes can gain a better understanding of their anxiety levels and the factors contributing to them.

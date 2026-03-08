@@ -1,13 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and functionality of the Fitness Informed Consent Form. The form is designed to gather information from clients for a fitness-related program. It is likely used by fitness professionals or trainers to ensure clients are aware of and agree to the terms and conditions of the program. This form is probably used for legal compliance purposes.
-
-The form is composed of multiple sections with fields that ask for client information, including name, contact number and email, address, age, sex, medical conditions, and agreements to terms. The client will be asked to provide their consent, select the type of program they are interested in, and acknowledge the terms of the program.
-
-Before starting, please note that some fields are optional, and clients may choose not to provide information if they do not wish to. However, this may impact the services or support the client is eligible for.
-
-This guide will cover each section of the form in detail, providing explanations and examples where necessary.
-</thinking>
-
 # Fitness Informed Consent Form - Help Guide
 ## Purpose
 The Fitness Informed Consent Form is a document that collects client information and agreements for a fitness-related program. It is used to ensure clients are aware of and comply with the terms and conditions of the program.

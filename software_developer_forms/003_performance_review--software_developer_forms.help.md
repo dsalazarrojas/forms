@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Review - Help Guide
 
 ## Purpose

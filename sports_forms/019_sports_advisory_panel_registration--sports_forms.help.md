@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who want to join the Sports Advisory Panel, a group that provides guidance and advice on various sports-related matters. The form is meant to ensure that users provide accurate and complete information, which helps the Sports Advisory Panel to assess their qualifications and experience. The form is not intended for users who are already members of the Sports Advisory Panel. Please do not fill out this form if you have previously joined the Sports Advisory Panel.
-</thinking>
-
 # Sports Advisory Panel Registration - Help Guide
 ## Purpose
 This form is for users who want to join the Sports Advisory Panel. It's a tool used to assess your qualifications and experience in sports, so we can determine whether you're a good fit for our team. Please fill out the form accurately and completely to increase your chances of being considered for membership.

@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to educate users on the rules of Floor Hockey, a recreational sport played with a ball and sticks. The form is designed to help users understand the objectives, penalties, equipment, and gameplay of Floor Hockey. The questions cover various aspects of the sport, including the objective of the game, penalties, stick length, player numbers, goal crease, equipment, and referee responsibilities.
-
-Before proceeding, let's confirm that the form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata.
-
-This form is intended for informational purposes only and is not a formal assessment or evaluation tool. Users should not rely solely on this form for official Floor Hockey rules and regulations, but rather as a general guide to understand the basics of the sport.
-
-Please note that the form is not comprehensive and might not cover all aspects of Floor Hockey rules. However, it should provide a good starting point for users looking to learn more about the sport.
-
-If you're a Floor Hockey official or expert, please review this form and provide feedback to ensure it accurately represents the sport's rules and regulations.
-</thinking>
-
 # Floor Hockey Rules Quiz - Help Guide
 ## Purpose
 

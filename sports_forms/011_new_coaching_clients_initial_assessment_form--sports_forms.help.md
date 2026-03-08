@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather information from new coaching clients, helping the coaching business understand their needs and preferences. The form collects demographic and contact information, as well as details about the client's goals, coaching style, and emergency contact information. This information will help the coaching business provide personalized services to the client. This form is typically filled out by new clients before their first coaching session. It is not intended to be a comprehensive assessment, but rather a starting point for the coaching process.
-
-Please note that some fields are optional, and the client can choose to provide as much or as little information as they feel comfortable with.
-
-</thinking>
-
 # New Coaching Clients Initial Assessment Form - Help Guide
 ## Purpose
 This form is used to gather information from new coaching clients, helping the coaching business understand their needs and preferences.

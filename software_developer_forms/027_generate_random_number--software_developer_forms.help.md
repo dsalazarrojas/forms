@@ -1,5 +1,3 @@
-<thinking>...This form is designed to generate a random number based on the user's input. The form has 5 pages, but for the sake of this example, we will focus on the first 4 pages. The first page is for inputting a random number, the second page is for specifying a mathematical formula, the third page is for selecting a button to generate the random number, and the fourth page is for displaying the result. The user can choose to reload the form or not...</thinking>
-
 # Generate Random Number - Help Guide
 ## Purpose
 The purpose of this form is to generate a random number based on the user's input. This number can be generated with a specific mathematical formula, and the user can choose to reload the form for new results.

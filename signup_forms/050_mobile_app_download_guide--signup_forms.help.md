@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mobile App Download Guide - Help Guide
 
 ## Purpose

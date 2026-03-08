@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to be used in the context of special education admissions. The form is meant to gather information about students who require special education services. Before filling out this form, ensure that you have all the necessary information about the student, as this form will be used to determine eligibility for special education services. Please note that this form is a template and may need to be adapted to fit the specific needs of your institution. Also, ensure that the information entered is accurate and up-to-date to avoid any discrepancies or confusion.
-</thinking>
-
 # Special Education Admission Checklist Form Template - Help Guide
 ## Purpose
 This form is used to collect information from students who require special education services. It will help you understand their specific needs and determine their eligibility for such services.

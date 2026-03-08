@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to manage and track hiking events, including their status, interest level, and capacity. It is intended for administrators or event organizers to update and manage event information in a centralized location. This form should be used by authorized personnel only, and users should avoid submitting duplicate or unnecessary entries. The form is used in conjunction with other tools and systems to ensure accurate and up-to-date event information. </thinking>
-
 # Hiking Event Waiting List - Help Guide
 ## Purpose
 The Hiking Event Waiting List form is a tool used to manage and track hiking events. It allows authorized personnel to update event information, including status, interest level, and capacity.

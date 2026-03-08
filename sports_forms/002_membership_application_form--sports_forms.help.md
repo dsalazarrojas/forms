@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to apply for membership in a sports-related organization. The form is intended to gather personal details, sports preferences, and other relevant information to process the application. Before filling out this form, please ensure you have not submitted a membership application in the past and that your submission is not a duplicate. Please fill out the form accurately and thoroughly to ensure a smooth processing experience.
-</thinking>
-
 # membership_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect membership applications from interested individuals who wish to join a sports-related organization.

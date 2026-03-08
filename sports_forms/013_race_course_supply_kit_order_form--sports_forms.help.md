@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Race Course Supply Kit Order Form. This form is used to order supplies for race courses. It is likely that this form will be used by race organizers, administrators, or other stakeholders who need to order supplies in a timely and organized manner. It's possible that this form will be used internally within an organization, such as a sports club, school, or private event management company. To avoid duplication, please note that this form may be part of a larger application or system used for other purposes, such as order management, inventory management, or event planning.
-</thinking>
-
 # Race Course Supply Kit Order Form - Help Guide
 ## Purpose
 The Race Course Supply Kit Order Form is a form used to order supplies for race courses.

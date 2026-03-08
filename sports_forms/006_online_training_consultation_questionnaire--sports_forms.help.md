@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather general information from users, including health and diet information, fitness progress, personal goals, medical information, contact details, and preferences. This form is likely used in a context where a user is seeking an online training consultation. The purpose of this form is to help the consultant understand the user's needs and provide accurate guidance.
-
-</thinking>
-
 # online-training-consultation-questionnaire - Help Guide
 ## Purpose
 This form is for users who want to receive guidance on online training consultations. It collects general information to help the consultant understand the user's needs and preferences.

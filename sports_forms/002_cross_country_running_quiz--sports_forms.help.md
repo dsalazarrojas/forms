@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for collecting information from athletes who have participated in cross-country running events, such as marathons, trail runs, or other long-distance runs. The form is probably used to gather data on the finisher's performance, demographics, and preferences. The purpose of this form is to collect detailed information about each finisher, which will be useful for event organizers, sponsors, or other stakeholders to analyze and improve future events.
-</thinking>
-
 # Cross Country Running Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from athletes who have participated in cross-country running events.

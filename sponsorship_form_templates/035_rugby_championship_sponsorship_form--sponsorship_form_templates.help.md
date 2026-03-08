@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect sponsorship information for the Rugby Championship event. The purpose of this form is to gather details from potential sponsors who wish to support the event. The form is not affiliated with any form platform and is an original creation for educational purposes only. Before proceeding, please check if you have completed this form before, as it may not be necessary to fill it out again. If you have any doubts or concerns, feel free to contact form@gic.mx.
-</thinking>
-
 # Rugby Championship Sponsorship Form - Help Guide
 ## Purpose
 The Rugby Championship Sponsorship Form is designed to collect sponsorship information for the Rugby Championship event. This form will be used to gather details from potential sponsors and will help us evaluate their interest and eligibility for sponsorship opportunities.

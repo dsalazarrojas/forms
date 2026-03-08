@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-This form is designed to collect information from users for the 2021 Swfc Unit Master Prize Worksheet. The form has two main sections: Personal Information and Order Details. The purpose of this form is to gather contact information, order details, and any special requests or preferences from users. This form is likely used for promotional or marketing purposes, such as prize giveaways or contests. The fields are mostly self-explanatory, but it's essential to understand the intent and requirements of each field to ensure accurate and complete data submission. In this help guide, we'll break down each field and provide a clear explanation to assist users in completing the form correctly.
-</thinking>
-
 # 2021 Swfc Unit Master Prize Worksheet - Help Guide
 ## Purpose
 This form is for users who wish to participate in the 2021 Swfc Unit Master Prize Worksheet. Please complete the form with accurate and detailed information to ensure your entry is valid.

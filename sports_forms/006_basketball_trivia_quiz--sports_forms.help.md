@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to test the knowledge of basketball enthusiasts on various aspects of the sport. The goal is to gauge the user's understanding of basic to intermediate basketball trivia. This form is intended for entertainment purposes, and scores will not impact any real-world consequences, such as competition outcomes or professional opportunities. 
-
-There is no overlap with other forms, as this is a unique and specific topic-based form. The form will only provide a fun and educational experience for the users, without any real-world implications.
-
-</thinking>
-
 # Basketball Trivia Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge of basketball trivia. It consists of 10 questions that cover various aspects of the sport, from basic history to advanced concepts.

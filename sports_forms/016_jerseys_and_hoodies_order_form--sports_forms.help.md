@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jerseys And Hoodies Order Form - Help Guide
 ## Purpose
 This form is designed to allow users to order jerseys and hoodies from the sports store. To ensure accurate order processing, please fill out this form completely and correctly. If you have any questions, feel free to contact our customer support team.

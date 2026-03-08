@@ -1,16 +1,3 @@
-<thinking>
-This form is used to capture the release of liability for individuals who wish to participate in sports activities despite the risks associated with COVID-19. The purpose of this form is to ensure that individuals understand the risks involved with participating in sports and activities that may be affected by COVID-19. This form is intended for people who are planning to participate in sports activities in locations where COVID-19 precautions may be necessary or are required to be taken.
-
-By completing this form, individuals will be able to understand and acknowledge the risks associated with COVID-19 and release their liability in the event they are involved in an accident or are affected by the virus.
-
-This form is intended to be completed by individuals who wish to participate in various sports activities, including but not limited to, sports camps, leagues, and events.
-
-Before filling out this form, ensure that you have read and understand the risks associated with COVID-19 and the specific activities you are planning to participate in.
-
-Please fill out this form carefully and accurately to ensure that you are aware of your rights and responsibilities.
-
-</thinking>
-
 # Sports Covid 19 And Release Of Liability Waiver - Help Guide
 ## Purpose
 

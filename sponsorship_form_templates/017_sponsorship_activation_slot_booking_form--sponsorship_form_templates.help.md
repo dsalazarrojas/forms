@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to support internal users in completing the sponsorship activation slot booking form correctly. The form is used to collect information from users about their sponsorship activation slots. Please ensure that all required fields are completed accurately to avoid errors. Note that some fields may be optional, but ensure that you understand their purpose and relevance to the sponsorship activation slot booking process.
-
-</thinking>
-
 # Sponsorship Activation Slot Booking Form - Help Guide
 ## Purpose
 The Sponsorship Activation Slot Booking Form is used to collect information from users about their sponsorship activation slots. This form is essential for ensuring that all necessary details are captured accurately and efficiently.

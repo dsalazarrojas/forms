@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's experience with athletic injury recovery. It is intended to help healthcare professionals understand the effectiveness of recovery methods and pain management. This form should only be completed by individuals who have experienced an athletic injury and are willing to share their recovery experience. 
-
-Please ensure that this form is only filled out once per individual and for the specific injury they are recovering from. Completing this form multiple times or for different injuries may result in duplicate data and skew the results.
-
-This help guide is intended to assist you in understanding the form's purpose and structure. It is not meant to provide medical advice or treatment options. If you have any questions or concerns, please reach out to a healthcare professional.
-</thinking>
-
 # Athletic Injury Recovery Experience Survey - Help Guide
 ## Purpose
 This form collects personal experiences and opinions about recovering from athletic injuries. The data collected will be used to better understand recovery methods, pain management, and overall satisfaction with treatment plans.

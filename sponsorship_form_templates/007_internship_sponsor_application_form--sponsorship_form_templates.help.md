@@ -1,11 +1,3 @@
-<thinking>
-Please note that the purpose of this form is to collect information from sponsors who are supporting an internship program. The form will be used to track and manage the sponsorships and their associated details. It's essential to ensure that each sponsor provides accurate and complete information to avoid any confusion or miscommunication. Before filling out this form, please confirm that you are an authorized representative of the sponsor's company or organization. Also, make sure that you haven't already submitted an application for the same internship.
-
-This form is a template, and the information collected here will be used for internal purposes only. Please fill out the form accurately and completely to ensure that your application is processed correctly.
-
-Please note that some fields are optional and not all fields are required. You can leave the fields that are not relevant to your application blank.
-</thinking>
-
 # Internship Sponsor Application Form - Help Guide
 ## Purpose
 The Internship Sponsor Application Form is used to collect information from sponsors who are supporting an internship program. This form will be used to track and manage sponsorships and their associated details.

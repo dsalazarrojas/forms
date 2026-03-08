@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and completion process of the Social Media Campaign Impact Questionnaire form. This form is used to gather feedback on the effectiveness and impact of a social media campaign, allowing for a better understanding of its effectiveness in reaching and engaging with users.
-Please ensure that you have a clear understanding of how to complete this form accurately and truthfully.
-Please note that this form is a one-time survey, and responses will be kept confidential. If you complete this form multiple times, your responses will be duplicated, and this could lead to invalid results.
-The following guide will walk you through each section of the form, explaining each field and what information is expected from you.
-</thinking>
-
 # Social Media Campaign Impact Questionnaire - Help Guide
 ## Purpose
 

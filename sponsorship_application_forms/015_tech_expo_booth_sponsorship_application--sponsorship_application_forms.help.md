@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of submitting a sponsorship application for Tech Expo booth. 
-It is meant for companies interested in participating as sponsors in the event. 
-Please make sure you have all necessary information before filling out the form. 
-If you are unsure about anything please reach out to us for clarification. 
-This form will be used to collect all necessary information to process your application. 
-You will need to provide your general information, choose a package, upload your logo image and text, provide payment details and other company information.
-Please ensure that all fields are filled out correctly before submitting your application.
-</thinking>
-
 # Tech Expo Booth Sponsorship Application - Help Guide
 ## Purpose
 This form is designed for companies to submit a sponsorship application for Tech Expo. It's meant to collect information about the company and their participation in the event.

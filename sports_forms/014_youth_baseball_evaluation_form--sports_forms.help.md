@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from youth baseball players for evaluation purposes. The form aims to capture various aspects of the player's skills, experience, and background to provide a comprehensive evaluation. The information collected will help coaches, administrators, or evaluators make informed decisions about the player's suitability for specific teams, programs, or opportunities.
-
-The form has multiple pages, each focusing on different aspects of the player's profile. The fields are designed to be straightforward and easy to understand, ensuring that the player can provide accurate and relevant information.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it. If you have any questions or concerns, please don't hesitate to reach out to the relevant authorities or administrators.
-
-This form does not collect any sensitive or personal data that would require explicit consent. However, please note that some fields may require sensitive information, and you are free to decide what to disclose or omit.
-
-Please be aware that this form is designed for youth baseball players and is intended for evaluation purposes only. If you are not a youth baseball player or are not being evaluated, please do not proceed with filling out this form.
-
-Please fill out this form carefully and accurately to ensure that the evaluators receive a clear and comprehensive picture of your abilities and background.</thinking>
-
 # Youth Baseball Evaluation Form - Help Guide
 ## Purpose
 The Youth Baseball Evaluation Form is designed to collect information from youth baseball players for evaluation purposes. It aims to capture their skills, experience, and background to provide a comprehensive assessment.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a child's registration for a baseball program, likely for a local baseball team or league. This form likely aims to gather essential details about the child, including their personal and parental information, as well as their interests and preferences. This information will be used to ensure proper registration and participation in the program.
-Before starting, please ensure you've reviewed our baseball league's policies and requirements to avoid any issues during the registration process.
-</thinking>
-
 # Kids Baseball Registration Form - Help Guide
 
 ## Purpose

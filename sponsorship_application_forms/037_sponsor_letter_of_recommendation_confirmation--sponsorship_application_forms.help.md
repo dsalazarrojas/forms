@@ -1,9 +1,3 @@
-<thinking>
-The Sponsor Letter Of Recommendation Confirmation form is used to verify the sponsorship of an individual or organization. It is designed to confirm the identity and contact information of the sponsor, as well as their willingness to sponsor the applicant. This form helps to ensure that the sponsor's information is accurate and up-to-date.
-The form is typically used in situations where an individual or organization is seeking sponsorship or support for a project, event, or initiative. The purpose of the form is to provide a clear and concise way to collect and verify the sponsor's information, and to help manage the sponsorship process.
-Before filling out this form, please make sure that the sponsorship information you provide is accurate and complete. You may need to check with the sponsor to confirm their contact details and sponsorship status.
-</thinking>
-
 # Sponsor Letter Of Recommendation Confirmation - Help Guide
 ## Purpose
 The Sponsor Letter Of Recommendation Confirmation form is used to verify the sponsorship of an individual or organization. It helps to confirm the identity and contact information of the sponsor, and their willingness to sponsor the applicant.

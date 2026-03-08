@@ -1,30 +1,3 @@
-<thinking>
-This form is used to collect information from teams registering for a volleyball tournament. The form is designed to gather data on team details, including team name, members, division, date of birth, email, contact phone, address, tournament name, location, date and time of the event, registered by, team ID, and any additional notes. This form is likely used for internal purposes within a sports organization or club to organize and manage teams participating in a volleyball tournament.
-
-The form is composed of 14 fields:
-
-* Team Name: This field is used to input the name of the team.
-* Team Members: This field is a multiple-choice option that asks if the team has members. Options are 'Yes' or 'No'.
-* Division: This field is a multiple-choice option that asks the division of the team.
-* Date of Birth: This field is a date field where the date of birth of team members can be inputted.
-* Email: This field is for inputting the email address of the team contact.
-* Contact Phone: This field is for inputting the contact phone number of the team contact.
-* Address: This field is a note field where any additional address information can be inputted.
-* Tournament Name: This field is for inputting the name of the tournament.
-* Location: This field is for inputting the location of the tournament.
-* Date: This field is a date field where the date of the tournament can be inputted.
-* Time: This field is a time field where the time of the tournament can be inputted.
-* Registered By: This field is a multiple-choice option that asks who registered the team.
-* Team ID: This field is for inputting the team ID.
-* Notes: This field is a note field where any additional notes can be inputted.
-
-The form is likely not mandatory, meaning that not all fields are required to be filled out. However, providing complete information will likely make the registration process more efficient for the team and the organizers of the tournament.
-
-Before completing this form, please make sure to have all necessary information ready. This includes team name, team members, division, date of birth, email, contact phone, address, tournament name, location, date, time, registered by, and team ID.
-
-The form is designed to be user-friendly and straightforward, making it easy to complete. If you have any questions or concerns, please do not hesitate to reach out to the organizers of the tournament.
-</thinking>
-
 # Volleyball Tournament Registration Form - Help Guide
 ## Purpose
 The Volleyball Tournament Registration Form is used to collect information from teams registering for a volleyball tournament.

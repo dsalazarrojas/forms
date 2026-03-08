@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from members of the organization to understand their overall satisfaction and experience. It aims to collect information on their level of satisfaction, communication, support, and areas for improvement. This form will help the organization identify areas of strength and weakness, and make data-driven decisions to enhance member satisfaction and experience.
-</thinking>
-
 # member_satisfaction_survey_template - Help Guide
 ## Purpose
 The member satisfaction survey template is designed to collect feedback from members of the organization to understand their overall satisfaction and experience. The goal is to identify areas of strength and weakness, and make data-driven decisions to enhance member satisfaction and experience.

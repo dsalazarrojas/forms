@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from potential beverage sponsors for the Jazz Festival. The purpose of this form is to collect contact information and details about the sponsorship request. It is not a comprehensive application for all types of sponsorships, but rather a specific request for beverage sponsorships. 
-
-The form is divided into five sections: Contact Info, Agreement Info, Beverage Info, and Agreement Status. Each section is meant to gather relevant information for the festival organizers to review and consider the sponsorship request.
-
-Please note that this form is a sample and might not cover all possible scenarios or sponsorship types. If you're unsure about any part of the form or have any questions, please don't hesitate to contact us at form@gic.mx.
-
-</thinking>
-
 # Jazz Festival Beverage Sponsorship Application - Help Guide
 ## Purpose
 The purpose of this form is to submit a sponsorship request for your beverage company to be featured at the Jazz Festival. Please provide your contact information, details about your agreement, and a brief description of your beverage product. 

@@ -1,7 +1,3 @@
-<thinking>
-The form "Sponsorship Kiosk Booking Form" is intended for organizations seeking to book a sponsorship kiosk at a location of their choice. The form will guide users through the required and optional fields to provide necessary information about their organization and booking preferences. To ensure a smooth experience, users are advised to review the form instructions carefully and ensure they only submit once.
-</thinking>
-
 # Sponsorship Kiosk Booking Form - Help Guide
 ## Purpose
 The Sponsorship Kiosk Booking Form is used to book a sponsorship kiosk at a preferred location, providing essential information about the organization and booking details.

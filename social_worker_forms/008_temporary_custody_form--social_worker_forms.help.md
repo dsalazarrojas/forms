@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temporary Custody Form - Help Guide
 ## Purpose
 The Temporary Custody Form is a tool used to document temporary living arrangements between parents and their children, ensuring everyone involved is aware of their responsibilities and rights in such situations. This form is used to provide a clear understanding of the temporary custody arrangement, including the parents' and child's residences, and any other relevant details.

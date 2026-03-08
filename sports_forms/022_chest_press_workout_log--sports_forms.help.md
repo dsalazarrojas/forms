@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to help athletes track their chest press workouts, including exercise variations, body position, weight used, number of reps, and other relevant details. This form is likely used by athletes, coaches, or trainers to record and analyze workout data. To avoid data duplication and ensure accurate tracking, users should only use this form for recording new workouts and not for revisiting previous ones.
-
-This form is intended for tracking individual workouts, so users should not fill it out multiple times for the same workout. If a user needs to record multiple workouts, they can create multiple instances of this form.
-
-To fill out this form, users should only provide information that applies to their actual workout session.
-
-</thinking>
-
 # Chest Press Workout Log - Help Guide
 ## Purpose
 The Chest Press Workout Log is a form designed to help athletes track their chest press workouts, including exercise variations, body position, weight used, number of reps, and other relevant details.

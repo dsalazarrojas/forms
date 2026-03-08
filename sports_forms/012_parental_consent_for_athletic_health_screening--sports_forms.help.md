@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining parental consent for athletic health screening. As a sports-related form, this is intended for parents to provide their consent for their child to participate in athletic activities. This form is likely used in the context of schools, sports teams, or other organizations that require parental consent for health screenings.
-</thinking>
-
 # Parental Consent For Athletic Health Screening - Help Guide
 ## Purpose
 This form is used to obtain parental consent for athletic health screening. As a parent, you are being asked to provide your consent for your child to participate in athletic activities that may involve health screenings.

@@ -1,5 +1,3 @@
-<thinking>Checking that the form purpose, fields, and structure are correctly understood and will not be duplicated in the help guide...</thinking>
-
 # Membership Suspension Form - Help Guide
 ## Purpose
 The Membership Suspension Form is used to suspend a user's membership. This form is used to gather relevant information to temporarily or permanently suspend a user's access to a membership-related resource or service.

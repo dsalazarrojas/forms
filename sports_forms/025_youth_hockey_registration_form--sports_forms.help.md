@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users for youth hockey registration, which includes collecting user and program information, emergency contact details, medical information, and payment details. It is crucial to ensure that the form is completed accurately and thoroughly to avoid any potential issues with registration. To verify the form's purpose and ensure it is not duplicated, the system checks if the user is already registered or if the same form has been completed recently. This prevents duplicate registrations and ensures that users do not waste time filling out unnecessary information. 
-
-</thinking>
-
 # Youth Hockey Registration Form - Help Guide
 ## Purpose
 The Youth Hockey Registration Form is designed to collect essential information from users for the registration process. This form ensures that all necessary details are captured accurately, and it helps to prevent duplicate registrations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a Fintech Software Engineer position. The purpose of this form is to assess the qualifications and preferences of applicants in order to match them with suitable job openings. The form collects the following information: the applicant's name, contact email, technical skills, experience, education level, and job preferences. This information will be used to create a comprehensive profile of the applicant and facilitate the matching process with available positions.
-</thinking>
-
 # Fintech Software Engineer Job Application - Help Guide
 ## Purpose
 The Fintech Software Engineer Job Application form is used to collect information from individuals interested in applying for a Fintech Software Engineer position. The form is designed to assess the qualifications and preferences of applicants in order to match them with suitable job openings.

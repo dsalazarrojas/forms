@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to express their interest in attending a dual meet event, such as a swimming meet. It is intended for individuals who are interested in participating in such events, and is typically used by coaches, administrators, or event organizers to collect information from participants. Please ensure you are completing this form for the correct purpose and have not already done so in the past.
-</thinking>
-
 # Dual Meet Participation Interest Survey - Help Guide
 
 ## Purpose

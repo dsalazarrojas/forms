@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather participant information for yoga practices, including their name, contact details, medical conditions, medications, allergies, and other relevant health-related data. This form is designed to ensure that participants are aware of the risks associated with yoga practice and provide informed consent before participating in classes. Additionally, it helps the instructor or studio to have a clear understanding of the participant's needs and emergency contact information in case of an emergency.
-
-</thinking>
-
 # Yoga Informed Consent Form - Help Guide
 ## Purpose
 

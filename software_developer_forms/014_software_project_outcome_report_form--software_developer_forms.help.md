@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Project Outcome Report Form - Help Guide
 ## Purpose
 The Software Project Outcome Report Form is designed to gather information about the outcome of a software project. This form allows project managers and stakeholders to provide updates on the project's status, outcome, and impact. The information collected will help in assessing the project's performance and make informed decisions for future projects.

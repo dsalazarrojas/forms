@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Fitness Calculator" form. The form is designed to collect demographic and health-related information from users to provide insights on their fitness level and physical condition. It seems that the form collects various data points such as age, height, weight, resting and maximum heart rate, blood pressure, body temperature, oxygen saturation, respiratory rate, and other physical activity-related metrics. This guide will cover each field's purpose, how to fill it in, and any additional tips to ensure accurate and complete data entry.
-
-Before proceeding, please ensure that you are familiar with the form's purpose and the types of data required. This guide is designed to be comprehensive and easy to follow.
-
-</thinking>
-
 # Fitness Calculator - Help Guide
 ## Purpose
 The Fitness Calculator form is designed to gather information about your physical condition and activity level. Please provide accurate data for each field to get a comprehensive analysis of your fitness level.

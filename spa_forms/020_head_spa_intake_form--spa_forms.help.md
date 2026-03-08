@@ -1,9 +1,3 @@
-<thinking>
-A Head Spa Intake Form is used to collect client information for spa appointments. This form is used to schedule spa services and ensure that clients are properly matched with their preferred providers and appointment times. 
-Please ensure that all relevant information is accurate and up-to-date to ensure efficient communication and service delivery.
-
-</thinking>
-
 # Head Spa Intake Form - Help Guide
 ## Purpose
 The Head Spa Intake Form is used to collect client information and preferences for spa appointments.

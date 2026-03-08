@@ -1,10 +1,3 @@
-<thinking> 
-This help guide is intended for fitness instructors who need to provide transition information to the client's new assigned instructor. The form is used to transfer client information, schedule coverage, and next steps in the transition process. This guide will help users understand the process of completing the form and how to fill out each field correctly. The form is a critical part of the client transition process, ensuring a smooth handover from one instructor to another. This guide is not a substitute for the actual business logic or process of instructor transitions, but rather an explanation of how to fill out the form correctly.
-
-Please note that the form is divided into two pages, and the fields on each page are explained as follows:
-
-</thinking>
-
 # Fitness Instructor Transition Checklist - Help Guide
 ## Purpose
 This form is used to transfer client information, schedule coverage, and next steps in the client transition process from one instructor to another.

@@ -1,12 +1,3 @@
-<thinking>
-This guide will help you understand how to fill out the player-medical-history form, which is designed to collect essential medical information from players. This form is required for all players to provide a comprehensive medical history.
-
-The form is divided into several sections, and each section is designed to gather specific information about a player's medical history.
-
-Before filling out the form, please make sure you understand the purpose of each section and provide accurate information.
-
-</thinking>
-
 # player-medical-history - Help Guide
 ## Purpose
 The purpose of this form is to collect medical information from players to ensure their safety and well-being during sports events.

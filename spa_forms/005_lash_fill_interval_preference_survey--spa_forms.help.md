@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture user feedback and preferences regarding the frequency of lash fills. It's likely that lash technicians or service providers want to understand the ideal fill interval to satisfy their clients' needs. This form should be completed by individuals who have had a lash fill service. It's essential to ensure that users do not complete this form multiple times, so please do not attempt to submit it unless you have actually had a lash fill service. This form's primary goal is to gather feedback on frequency preferences, satisfaction, and influencing factors, as well as collect email and phone contact information for follow-up communication.
-</thinking>
-
 # Lash Fill Interval Preference Survey - Help Guide
 ## Purpose
 The Lash Fill Interval Preference Survey is designed to gather information about your preferences for lash fill frequency, satisfaction, and communication preferences.

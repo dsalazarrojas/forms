@@ -1,14 +1,3 @@
-<thinking>
-The form is intended to collect information from potential participants for a cardio drumming class. The form is divided into several sections, each focusing on a different aspect of the participant's details and preferences. This form is used to gather essential data that will help the instructor to better understand the participant's needs and provide a tailored experience.
-
-Upon reviewing the form, it appears that the instructor values participants' health and safety, requiring doctor clearance for aerobic exercise and ensuring that participants have read and agree to the waiver and consent agreement.
-
-Participants must provide their first and last name, email address, phone number, age group, fitness level, preferred class date, time, session type, and class fee. Additionally, they are asked to indicate their drumming experience, motivation for taking the class, and any medical conditions or injuries they may have.
-
-The form is designed to be completed by the participant themselves, making it essential to provide clear and concise guidance on how to complete the form.
-
-</thinking>
-
 # Cardio Drumming Class Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential participants of a cardio drumming class, ensuring that the instructor can tailor the experience to their needs and preferences.

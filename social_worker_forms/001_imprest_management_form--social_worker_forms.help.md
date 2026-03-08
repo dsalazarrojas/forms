@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for managing imprests, which are a type of financial account used for employee expenses. The form is intended for administrators to update and manage imprest accounts, including account status and type. The form does not require any specific fields to be filled out, but some fields are required for the form to be considered complete. 
-
-The fields on this form are used to capture information about an employee's imprest account, including account status, account type, and balance. The account status and type fields are required to be filled out. The account balance fields are not required but are used to capture additional information about the account balance. 
-
-This guide will walk you through how to complete the imprest management form, including what each field means and how to fill out the required fields.
-
-</thinking>
-
 # Imprest Management Form - Help Guide
 ## Purpose
 The Imprest Management Form is used to update and manage imprest accounts for employees.

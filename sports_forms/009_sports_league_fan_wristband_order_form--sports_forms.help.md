@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's briefly explain the form purpose. This form is designed to capture information from sports league fans to facilitate the ordering of fan wristbands. The form is intended to collect personal details, wristband preferences, and any additional comments or messages. Its purpose is to streamline the process for both the fan and the sports league organizers. The form's layout is designed to be easy to understand and fill out, ensuring that fans can submit their information accurately and efficiently. The form's requirements and options are carefully crafted to cater to the needs of both the fan and the sports league. By following this help guide, users should be able to effectively complete the form and have a positive experience.</thinking>
-
 # Sports League Fan Wristband Order Form - Help Guide
 
 ## Purpose

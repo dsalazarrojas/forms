@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The Spa Appointment Form is designed to allow users to schedule appointments for spa services. This form is used to collect information from clients to ensure that each appointment is tailored to their needs.
 

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from participants who are interested in joining lawn bowls sessions. The purpose of this form is to collect contact information, session preferences, and other relevant details from potential participants. This form is likely used by organizers or administrators of lawn bowls events or clubs to manage participant registrations and prepare for sessions. The form should not be used for other purposes, such as general feedback or surveys.
-The form is divided into several sections, each with its own set of fields. The participant name, email address, and phone number are required fields, indicating that these are essential details for communication and organization. The session preferences field allows participants to select one or more sessions they are interested in, which will help the organizers to tailor the sessions according to participant needs. The consent field ensures that participants understand and agree to the terms and conditions of the session.
-The field "Participant Details" is a free-text field where participants can enter any additional details about themselves, which may be useful for the organizers. The fields "Participant Skills", "Participant Experience", and "Participant Formation" are optional fields where participants can indicate their skills, experience, and formation related to lawn bowls.
-The session preferences field is used to collect information about the type of sessions participants would like to attend, which will help the organizers to prepare the sessions accordingly. The notes field is a free-text field where participants can enter any additional information or comments about the session.
-</thinking>
-
 # Lawn Bowls Participation Form - Help Guide
 ## Purpose
 This form is a participation form for lawn bowls events or sessions, designed to collect essential information from potential participants.

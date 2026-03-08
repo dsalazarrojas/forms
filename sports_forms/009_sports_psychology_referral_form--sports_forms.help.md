@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a referral form for sports psychology services. It collects information from athletes, including their contact details, referral reasons, and next steps. The form is likely used by sports psychologists or coaches to assess an athlete's needs and provide guidance or referrals.
-To confirm, I will assume that this form is used to gather information for sports psychology support or services. If this is incorrect, please provide additional context or clarification.
-</thinking>
-
 # Sports Psychology Referral Form - Help Guide
 ## Purpose
 The Sports Psychology Referral Form is designed to collect information from athletes, helping sports psychologists or coaches understand their needs and provide guidance or referrals as needed.

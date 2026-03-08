@@ -1,8 +1,3 @@
-<thinking>
-This form is used for referrals to the Young Women's Program, which aims to provide support and resources to young women who are referred to the program through various channels. Before proceeding, please ensure that you are a valid referrer and that the referral is not already in our database to avoid duplication. Please ensure that the referral information is accurate and up-to-date to ensure efficient processing and follow-up.
-
-</thinking>
-
 # Young Women's Program Referral Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who want to enroll in an e-Sports team. The form is divided into several pages with different fields that ask for personal details, gaming experience, gaming habits, and confirmation of enrollment. Each field is meant to collect specific information that will be used to assess the user's eligibility for the team. The form is not designed to be a comprehensive survey but rather a brief and focused way to collect relevant data from potential team members. 
-
-The internal reasoning behind this form ensures that the same user doesn't submit the form multiple times and that users only provide the necessary information to be considered for team enrollment. 
-
-</thinking>
-
 # e_sports_team_enrollment_form - Help Guide
 ## Purpose
 The e-sports team enrollment form is a tool for users to provide information about their personal details, gaming experience, and habits to be considered for team enrollment. 

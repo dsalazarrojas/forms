@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for purchasing tickets for a sports event. The purpose of this form is to collect information from the user to facilitate the ticket purchase process. This form should only be used for buying tickets for sports events, and users should not attempt to use this form for other purposes. Please ensure that the fields are filled out correctly to avoid any errors in the ticket purchase process.
-
-</thinking>
-
 # Sports Event Ticket Purchase Form - Help Guide
 
 ## Purpose

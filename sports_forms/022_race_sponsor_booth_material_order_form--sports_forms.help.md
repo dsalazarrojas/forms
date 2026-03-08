@@ -1,9 +1,3 @@
-<thinking>
-This guide will cover the "Race Sponsor Booth Material Order Form" which is used by race sponsors to order and manage their booth material deliveries. This form is essential for ensuring that materials are delivered correctly and on schedule. 
-Before filling out this form, ensure you have the following information at hand: event details, selected booth material, delivery details (date, time, address, state/province, country, and zip), and any other relevant information about your order.
-This form should only be filled out once for each order and not for duplicate orders. If you need to make any changes or additions to your order, please contact our support team directly.
-</thinking>
-
 # race_sponsor_booth_material_order_form - Help Guide
 ## Purpose
 The "Race Sponsor Booth Material Order Form" is used by race sponsors to order and manage booth material deliveries for events. This form ensures that all necessary details are captured and that materials are delivered correctly and on schedule.

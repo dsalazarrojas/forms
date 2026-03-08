@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the Golf Booking Form. The form is designed to collect information from users for golf course bookings, including golfer details, course details, and booking status. I will review the form fields to ensure I understand their purpose and create a clear and concise help guide for end users.</thinking>
-
 # Golf Booking Form - Help Guide
 
 ## Purpose

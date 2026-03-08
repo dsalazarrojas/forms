@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internal Championship Results Submission - Help Guide
 
 ## Purpose

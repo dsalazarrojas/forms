@@ -1,7 +1,3 @@
-<thinking>
-This form is used to take orders for participant packets for sports events. It is designed to be completed by customers or staff members to provide accurate and efficient information for packet printing. The form is used for internal purposes only and does not require any sensitive or personal information. It's intended for employees to quickly and easily place orders for race participant packets.
-</thinking>
-
 # race-participant-packet-printing-order-form - Help Guide
 ## Purpose
 This form is used to take orders for participant packets for sports events.

@@ -1,11 +1,3 @@
-<thinking>
-
-The fitness_logger_form is used to log a user's workout sessions, tracking relevant information such as exercise name, set count, and rest time. The form is designed to capture the client's personal data, including their name, email, and phone number. The form also allows users to select the workout type and who submitted the form - whether it was the client or a trainer. 
-
-We want to ensure that users understand the purpose and functionality of each field to complete the form accurately and efficiently. To avoid duplication of data, please fill out the form only once per workout session.
-
-</thinking>
-
 # fitness_logger_form - Help Guide
 ## Purpose
 The fitness_logger_form is used to record and track a client's workout sessions, including details such as exercise name, weight used, and rest time. This form helps to gather essential information about the client's fitness routine.

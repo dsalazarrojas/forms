@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form designed to collect information for ultramarathon events. The form will be used to gather details about participants, such as their name, age, and nationality, as well as event information like the date, time, and distance of the race. However, some fields seem to be redundant or unnecessary (e.g., "Participant Name" and "Participant Name Alt", "Video File" and "Video File Link", etc.), and others are unclear or unexplained (e.g., "Event Status"). We will aim to provide clear and concise explanations for each field, and remove any unnecessary ones.
-</thinking>
-
 # ultramarathon_video_submission_form - Help Guide
 ## Purpose
 The ultramarathon video submission form is designed to collect information about ultramarathon events. This includes details about the participants, such as their name, age, and nationality, as well as information about the event, such as the date, time, and distance.

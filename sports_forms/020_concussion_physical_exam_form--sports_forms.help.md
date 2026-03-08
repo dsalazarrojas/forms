@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information on the physical examination of an athlete or patient who has suffered a concussion. The purpose of this form is to gather a comprehensive medical history, assess the extent of the injury, and provide a recommended plan for treatment or return to play. This form will be completed by a clinician, such as a doctor or medical professional, and will be used to guide the assessment and treatment of the athlete or patient.
-
-Before starting, ensure that you are in the correct context and that this form is not being duplicated or used for a different purpose. If you are not a clinician, please do not attempt to complete this form.
-
-</thinking>
-
 # Concussion Physical Exam Form - Help Guide
 ## Purpose
 This form is designed to collect information on the physical examination of an athlete or patient who has suffered a concussion. The purpose of this form is to gather a comprehensive medical history, assess the extent of the injury, and provide a recommended plan for treatment or return to play.

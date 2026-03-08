@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal reasoning block:**
-The Bike Handover Form is a crucial document used to record and verify the details of a bike handover between the company and the customer. This form ensures that all relevant information about the bike, including its condition, accessories, and warranty, is accurately recorded. It also serves as a reference point for any potential issues that may arise during the handover process. To ensure accuracy and clarity, this guide will walk the user through each step and field of the form.
-
-</thinking>
-
 # Bike Handover Form - Help Guide
 ## Purpose
 The Bike Handover Form is a document used to capture and verify the details of a bike handover between the company and the customer. It helps to ensure that all relevant information about the bike, including its condition, accessories, and warranty, is accurately recorded.

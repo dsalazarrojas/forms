@@ -1,16 +1,3 @@
-<thinking>
-We are creating a guide for the Athlete Mentorship Program Feedback Survey, a crucial tool for evaluating the effectiveness and areas of improvement for the athlete mentorship program.
-
-This form is designed to gather feedback from athletes who have participated in the program, providing valuable insights into the program's strengths and weaknesses. The data collected will help the program organizers understand what works and what doesn't, allowing them to refine and improve the program for future participants.
-
-Before starting, please ensure that you have completed the program and are providing feedback based on your actual experiences.
-
-Please note that all fields are mandatory, so be sure to fill them out completely.
-
-This guide will walk you through each field to help you complete the survey efficiently and accurately.
-
-</thinking>
-
 # Athlete Mentorship Program Feedback Survey - Help Guide
 ## Purpose
 The Athlete Mentorship Program Feedback Survey is designed to gather valuable insights from athletes who have participated in the program. Your feedback will help us improve the program and provide better support for future participants.

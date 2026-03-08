@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation data about a gym trainer from a client. The primary goal is to measure the client's satisfaction with their training experience and gather information about the trainer's performance, professionalism, and communication skills. This data will help the gym management team to evaluate and improve the quality of services provided by the trainers.
-
-The form can be completed by a client who has had a recent training session with a gym trainer. The client should be able to complete the form in a few minutes, providing honest and detailed feedback about their experience.
-
-The form consists of several sections, each designed to gather specific information about the trainer's performance. Each section is explained below:
-
-</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 The Gym Trainer Evaluation Survey is designed to gather feedback from clients about their experiences with gym trainers, helping the gym management team to evaluate and improve the quality of services provided.

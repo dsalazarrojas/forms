@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal reasoning block:** This form is designed for a professional sports pre-season tournament entry form, used for teams to submit their registration details before a sports event. The form is meant to collect team and player information, including division and player names, contact information, and coaching staff details.
-
-</thinking>
-
 # pro_sports_pre_season_tournament_entry_form - Help Guide
 
 ## Purpose

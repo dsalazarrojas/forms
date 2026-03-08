@@ -1,13 +1,3 @@
-<thinking>
-This form is for collecting information for a sponsorship application related to a marathon event. It is a general form that can be used for various types of sponsorships, including financial, material, or in-kind sponsorships. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI using public survey topic metadata. 
-
-The form has 8 fields, and it is recommended to fill it out in the following order: General Information, Sponsor Information, Donation Information, Acknowledgement, Agreement, Agreement Details, Sponsor Information Additional, and Sponsor Details. 
-
-Please note that the form is a text-based form, meaning that the answers will be written, not selected from a dropdown menu or a numerical input. 
-
-Before proceeding, make sure that the form has not been previously filled out for a different sponsorship. If you are sure that the form can be used for your purpose, you can start completing it. 
-
-</thinking>
 # marathon_sponsorship_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a sponsorship application related to a marathon event.

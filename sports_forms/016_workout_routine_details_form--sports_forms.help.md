@@ -1,12 +1,3 @@
-<thinking>
-The form "Workout Routine Details Form" is used to collect information about a user's workout routine, including exercise name, description, muscle group, routine name, duration, frequency, date, and time of the workout. This form is likely used by trainers, coaches, or fitness professionals to gather detailed information about a user's workouts for assessment or planning purposes.
-
-Before starting, make sure you're familiar with the form's purpose and the required fields. This form is not a mandatory field, so you can skip it if you don't need to provide workout details.
-
-If you have already submitted similar information, this form is not for you. Please use the previous form submission instead.
-
-</thinking>
-
 # Workout Routine Details Form - Help Guide
 ## Purpose
 This form is used to collect detailed information about a user's workout routine.

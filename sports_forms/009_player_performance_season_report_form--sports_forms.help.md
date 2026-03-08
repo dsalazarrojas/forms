@@ -1,11 +1,3 @@
-<thinking>
-The main purpose of the "Player Performance Season Report Form" is to gather data on a player's performance during a specific season of a sport-related activity, event, or competition. This form is likely to be used by coaches, trainers, or administrators to evaluate a player's progress, identify areas of improvement, and provide feedback. It's probable that the form will be used to collect data on various metrics, such as goals scored, assists received, and overall performance level.
-
-Before proceeding, please ensure that you are not duplicating the effort by using this form for a different purpose or context. If you're unsure about the form's purpose, please review the form's title, the fields, and the instructions below to understand its intended use.
-
-To complete this form, follow the steps outlined in the "How to Complete This Form" section.
-</thinking>
-
 # Player Performance Season Report Form - Help Guide
 ## Purpose
 The "Player Performance Season Report Form" is a tool to collect data on a player's performance during a specific season of a sport-related activity, event, or competition. This form will help coaches, trainers, or administrators evaluate a player's progress, identify areas of improvement, and provide feedback.

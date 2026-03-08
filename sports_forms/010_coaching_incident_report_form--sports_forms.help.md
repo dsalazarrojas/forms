@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coaching Incident Report Form - Help Guide
 
 ## Purpose

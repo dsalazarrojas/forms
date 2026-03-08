@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we must first understand the form's purpose and ensure it is relevant and not duplicating any existing information. 
-The form is designed to gather feedback and evaluation from participants in a training program, specifically Nashville Virtual Training Survey. This form aims to collect various aspects of the training, such as the program, duration, date, and participant's opinion on the training effectiveness, satisfaction, and areas for improvement.
-It is essential to ensure that the form is not a duplication of any other form and that the information collected is not already available through other means. 
-</thinking>
-
 # Nashville Virtual Training Survey - Help Guide
 ## Purpose
 The Nashville Virtual Training Survey is designed to gather feedback and evaluation from participants in the training program. It helps in understanding the effectiveness, satisfaction, and areas for improvement of the training.

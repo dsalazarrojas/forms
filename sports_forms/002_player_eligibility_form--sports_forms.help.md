@@ -1,6 +1,3 @@
-<thinking>
-The form is likely used for checking and verifying player eligibility for sports teams or other sports-related activities. It might be used for background checks, medical screenings, or other administrative tasks. This form is probably intended for players to submit their personal and contact information to be assessed for eligibility. The fields seem to cover a wide range of aspects, including player and personal info, contact, health history, sports history, medical information, sports history details, address, and contact number. To avoid duplication, the form should be designed to collect all necessary information without unnecessary redundancy.</thinking>
-
 # Player Eligibility Form - Help Guide
 ## Purpose
 The Player Eligibility Form is designed to help verify player eligibility for sports teams or other sports-related activities. This form collects personal and contact information from players to assess their eligibility for participation.

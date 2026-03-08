@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document a Social Worker's authorization for a food assistance program. It captures the relevant information about the applicant and their household members, case manager details, the reason for requesting replacement, the request date, benefit card status, and other supporting information. This form is intended for authorized social workers to use in their daily work.
-</thinking>
-
 # Food Assistance Replacement Authorization Form - Help Guide
 ## Purpose
 This form is used to document a Social Worker's authorization for a food assistance program.

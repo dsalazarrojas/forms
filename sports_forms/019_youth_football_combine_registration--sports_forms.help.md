@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for registering youth football players. The purpose of this form is to collect information from parents or guardians of young football players, including their contact details, parental consent, and emergency contact information. This form is meant to be completed by parents or guardians to ensure that the necessary information is collected for the registration process.
-
-</thinking>
-
 # youth_football_combine_registration - Help Guide
 ## Purpose
 This form is designed for registering youth football players.

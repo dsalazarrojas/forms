@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of the Social Worker Intake Form is to gather essential information about a new client's background, medical history, and support systems. This form will be used by social workers to provide personalized support services, identify potential areas of concern, and develop a comprehensive understanding of the client's needs.
-
-To ensure that the information collected on this form is accurate and relevant, please note the following:
-
-* This form is designed for new clients, not existing ones, so please only fill it out for individuals who have not previously been served by our organization.
-* Please do not fill out this form if the client has already been assessed by our organization or has a pending case.
-* Please ensure that the information provided is up-to-date and accurate to the best of your knowledge.
-
-</thinking>
-
 # Social Worker Intake Form - Help Guide
 ## Purpose
 The Social Worker Intake Form is a tool used to gather essential information about a new client's background, medical history, and support systems. This form helps social workers to provide personalized support services, identify potential areas of concern, and develop a comprehensive understanding of the client's needs.

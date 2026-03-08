@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "ski_lesson_sign_in_form" form. This form is used for ski lesson sign-ins, and it requires information from the parent or guardian, such as contact details, the child's skill level, and the instructor's information. We will explain each field in a clear and concise way, making sure the end-user understands its purpose and what is expected from them.
-</thinking>
-
 # ski_lesson_sign_in_form - Help Guide
 
 ## Purpose

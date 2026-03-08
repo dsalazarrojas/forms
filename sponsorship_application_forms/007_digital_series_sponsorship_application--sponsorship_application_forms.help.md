@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help event organizers apply for digital series sponsorships. The form is part of a larger process for evaluating and approving sponsorships. The purpose of this form is to gather relevant information about the event and the application process. Before filling out this form, please ensure that you haven't already applied for this sponsorship or that you've received a sponsorship offer. This guide is intended for event organizers who are looking to secure sponsorships for their digital series.
-</thinking>
-
 # digital_series_sponsorship_application - Help Guide
 ## Purpose
 The digital series sponsorship application form is a crucial step in the process of securing a sponsorship for your digital series. The information gathered from this form will be reviewed and evaluated by our team to determine whether your series meets the necessary criteria for sponsorship. Please answer each question thoroughly and accurately to increase your chances of being selected.

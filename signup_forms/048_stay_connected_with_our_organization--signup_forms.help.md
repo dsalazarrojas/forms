@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help individuals connect with our organization and provide their contact details, communication preferences, and follow-up information. This form is optional and intended for people who want to stay in touch with our organization. By filling out this form, individuals can choose how they would like to be contacted and provide their contact information for follow-up purposes.
 
 # Stay Connected With Our Organization - Help Guide

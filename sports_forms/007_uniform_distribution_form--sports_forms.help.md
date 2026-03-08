@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block explains that this form is used for managing uniform distribution for staff members of sports teams, ensuring accurate and efficient uniform allocation and minimizing errors. This form helps in collecting relevant details about each staff member, their team, and the specific requirements for uniforms, making it easier for staff members to receive the correct uniform on time. 
-
-The form is designed to prevent duplication of uniform requests, ensuring that each staff member receives only one set of uniforms. The form can be completed in multiple steps, allowing staff members to provide their details and preferences at their convenience.
-</thinking>
-
 # Uniform Distribution Form - Help Guide
 ## Purpose
 This form is used to collect details about staff members' uniform requirements, ensuring accurate allocation and minimizing errors. It is designed to prevent duplication of uniform requests and make it easier for staff members to receive the correct uniform.

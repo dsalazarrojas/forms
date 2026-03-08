@@ -1,9 +1,3 @@
-<thinking>
-This template is used to create a support plan for individuals with disability. The purpose of this form is to collect and document important information about the individual's personal details, contact information, goals, required supports, progress, next steps, and review comments. 
-The form is designed to be completed by service providers and is intended to assist in the development of a personalized support plan for individuals with disability. 
-The following is a guide to help complete this form. Please ensure that you have read and understood the purpose and intent of each field before proceeding. 
-</thinking>
-
 # NDIS Support Plan Template - Help Guide
 ## Purpose
 The NDIS Support Plan Template is a document used to collect and document important information about an individual's support needs.

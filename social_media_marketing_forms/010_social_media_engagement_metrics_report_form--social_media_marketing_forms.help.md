@@ -1,14 +1,3 @@
-<thinking>
-The goal of this form is to collect information for a Social Media Engagement Metrics Report. This form is designed to gather user input for a report that summarizes engagement metrics for various social media platforms. The form will guide the user through a series of questions to collect necessary details such as platform selection, date range, and metrics for the report. The form is intended for internal use and does not require any sensitive information.
-
-The form will be used to create a report that shows metrics such as number of likes, comments, and shares for the selected platforms and date range. The report will be useful for social media marketers and analysts to analyze engagement metrics and make data-driven decisions. This form will help users select the correct platforms and metrics to collect for the report.
-
-Before proceeding, ensure that you are filling in the correct fields and that the data provided is accurate. Double-check the platform and date range selections to ensure they match the report's requirements.
-
-The form has two sections for collecting different types of data. The first section will collect basic user information and platform selection, while the second section will collect specific engagement metrics and date range for each platform. Make sure to fill in all required fields to ensure the report is generated correctly.
-
-</thinking>
-
 # Social Media Engagement Metrics Report Form - Help Guide
 ## Purpose
 This form is designed to collect information for a Social Media Engagement Metrics Report. The report will summarize engagement metrics for various social media platforms, including Facebook, Twitter, and Instagram.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Facilities Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about sports facilities, allowing facility administrators to understand user experiences and make informed decisions for improvement.

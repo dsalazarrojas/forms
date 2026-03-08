@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations seeking beneficiary status with the 2016 Council For Life. The purpose of this application is to gather essential data about the applicant organization, its services, financial situation, accreditation status, and other relevant details. To avoid duplication, please ensure that you are not resubmitting an application.
-
-</thinking>
-
 # 2016 Council For Life Fort Worth Beneficiary Application - Help Guide
 ## Purpose
 The 2016 Council For Life Fort Worth Beneficiary Application form is designed to collect necessary information from organizations seeking to become beneficiaries of the 2016 Council For Life. The form is divided into sections that cover various aspects of the organization's profile, services, finances, and accreditation status. Completing this form will help the review committee assess the applicant organization's eligibility and readiness for beneficiary status.

@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and function of the Class Pass Membership Inquiry Form. This form is designed to gather information from potential members about their fitness goals, preferences, and eligibility for membership. The form will be used by our team to assess the suitability of each candidate for membership and provide guidance on the next steps.
-The form is not intended to be a comprehensive application or membership agreement. It is a initial inquiry that helps us understand individual needs and preferences.
-This guide will cover each section of the form in detail to ensure users understand the expectations and requirements.
-</thinking>
-
 # Class Pass Membership Inquiry Form - Help Guide
 ## Purpose
 The Class Pass Membership Inquiry Form is designed to collect information from potential members about their fitness goals, preferences, and eligibility for membership. This form helps our team assess suitability and provide guidance on the next steps.

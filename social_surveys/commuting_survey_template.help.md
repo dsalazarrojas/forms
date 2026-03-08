@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about individuals' daily commuting habits and experiences. It is essential to ensure that the responses are genuine and relevant to the questions asked. Please do not duplicate or submit this form multiple times, as it may skew the results.
-
-</thinking>
-
 # Commuting Survey Template - Help Guide
 ## Purpose
 The purpose of this form is to understand people's daily commuting habits and experiences. It aims to collect data on their satisfaction levels, transportation modes, commute times, challenges, and suggestions for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sponsor Information Form - Help Guide
 
 ## Purpose

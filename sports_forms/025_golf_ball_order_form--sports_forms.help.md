@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to submit an order for golf balls. The form requires customers to provide personal and payment information. The form should be completed in a way that allows the customer to accurately and efficiently submit their order. The purpose of this form is to gather necessary information for a smooth transaction. This form is intended for customers who are placing an order for golf balls.
-</thinking>
-
 # Golf Ball Order Form - Help Guide
 ## Purpose
 The Golf Ball Order Form is a tool used to gather information from customers for their golf ball orders.

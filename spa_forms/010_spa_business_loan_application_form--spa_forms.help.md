@@ -85,12 +85,3 @@ Additional notes about your loan request.
 ### 25. **Submitted By** (`submitted_by`, text, not required)
 Enter the name of the person submitting the form.
 
-<thinking>
-
-This form is designed to collect information from spa businesses to help us make an informed decision on their loan request. The form is not intended to be a comprehensive loan application, but rather a starting point for further discussion. Please provide all necessary documents and information to support your loan request.
-
-We are not able to review and process duplicate loan applications. If you have previously submitted a loan application, please do not resubmit. Each loan application will be reviewed on a case-by-case basis and not all applicants will be approved.
-
-Note: This is a general help guide and may need to be reviewed and updated for your specific business requirements and processes.
-
-</thinking>

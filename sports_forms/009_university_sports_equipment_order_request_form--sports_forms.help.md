@@ -1,22 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the University Sports Equipment Order Request Form, we first need to determine the purpose of the form and identify any redundancy or duplication. The form is likely used by university staff or students to request sports equipment for a specific sport, and the required fields should be used to gather relevant information about the request.
-
-Upon reviewing the form schema, there are no redundant or duplicate fields. The form consists of 8 fields that cover the essential information for sports equipment ordering:
-
-1. **University Sports Equipment Order Request Form** (title)
-2. **Sport Requested** (Select One: Option 1, Option 2, Option 3)
-3. **Quantity Requested** (numeric value)
-4. **Pickup Location** (text field)
-5. **Pickup Date** (date field)
-6. **Contact Name** (text field)
-7. **Contact Email** (email field)
-8. **Contact Phone** (text field)
-
-The form does not appear to have any required fields, which may lead to potential errors or incomplete requests.
-
-</thinking>
-
 # University Sports Equipment Order Request Form - Help Guide
 
 ## Purpose

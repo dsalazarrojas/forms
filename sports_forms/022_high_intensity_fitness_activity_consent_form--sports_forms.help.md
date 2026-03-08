@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information and consent from participants before they engage in high intensity fitness activities. This includes collecting participant information, medical history, and emergency contact details. The form is meant to be filled out by the participant, and will be used as part of the risk assessment process to ensure their safety during the activity. The fields are designed to be completed by the participant, and should be filled out accurately and honestly. Please note that some fields are optional, but may be required in certain situations or activities. Please answer these questions carefully and truthfully, as they will help us ensure your safety and well-being.</thinking>
-
 # High Intensity Fitness Activity Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and consent from participants before they engage in high intensity fitness activities. It is intended to ensure the participant's safety and well-being during the activity.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for individuals or businesses interested in exploring franchise opportunities with our company. It's designed to gather information about their interests, experience, and expectations. We'll use this data to follow up with them and provide more information about our franchise opportunities. Please note that this form is not a commitment or application, and filling it out will not reserve a spot or guarantee any franchise opportunity. Each question is designed to help us better understand your needs and provide personalized information.
-
-This guide is for users who have not previously filled out this form.
-
-</thinking>
 # spa_franchise_inquiry_registration_form - Help Guide
 ## Purpose
 This form is for individuals or businesses interested in exploring franchise opportunities with our company.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who want to participate in sports-related community engagement activities. The purpose of this form is to collect contact information, age group, sports interests, availability for participation, volunteer interests, and any additional comments or emergency contact details. 
-
-This guide will provide step-by-step instructions on how to complete the form and a detailed explanation of each field to ensure the user understands the purpose and implications of their input.
-
-</thinking>
-
 # Community Engagement In Sports - Help Guide
 ## Purpose
 The "Community Engagement In Sports" form collects information from individuals who wish to participate in sports-related community engagement activities. This information helps organizers understand the needs and preferences of participants, ensuring a more inclusive and engaging experience for everyone.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback on go-kart racing facilities. The purpose of this form is to gather user opinions on the friendliness of the staff, cleanliness, and safety of go-kart racing facilities. The form is used to collect data that will help the go-kart racing organization improve their services and facilities. This form should only be completed by users who have recently visited a go-kart racing facility. If you have already completed this form, please do not submit it again as it may lead to duplicate data entry.
-</thinking>
-
 # Go Kart Racing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from go-kart racing facility users on the staff friendliness, cleanliness, and safety of the facility. Your input will help us improve our services and create a better experience for you and other users.

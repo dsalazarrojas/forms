@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the Sponsorship Review Panel Registration form. This form is designed to collect information from potential panelists to help determine their fit and suitability for participating in a sponsorship review panel. The form will help us understand their availability, qualifications, and preferences to ensure a smooth and effective review process. To avoid duplication of efforts, please note that this form should only be filled out once per individual. If you are already registered as a panelist, you do not need to complete this form again.
-</thinking>
-
 # Sponsorship Review Panel Registration - Help Guide
 ## Purpose
 The Sponsorship Review Panel Registration form is designed to collect information from potential panelists to help determine their fit and suitability for participating in a sponsorship review panel.

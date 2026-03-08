@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hair_frizz_control_treatment_consent_form - Help Guide
 ## Purpose
 The "hair_frizz_control_treatment_consent_form" is a form designed to collect client information, contact details, and treatment consent for hair frizz control treatments. This form helps ensure that clients are aware of and agree to the treatment process and its implications.

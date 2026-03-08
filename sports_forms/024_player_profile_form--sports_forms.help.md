@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a player's profile, including their relationship with a school as a coach, parent, or other, and contact information for emergency contacts. It's essential to complete this form accurately to ensure that the player's information is up-to-date and correct. Please note that this form is for player profiles and not for general contact information. If you are filling out this form for someone else, please make sure to get their consent before sharing their information.
-</thinking>
-
 # Player Profile Form - Help Guide
 ## Purpose
 The Player Profile Form is used to collect demographic and emergency contact information about a player, including their relationship with a school and contact details for emergency contacts.

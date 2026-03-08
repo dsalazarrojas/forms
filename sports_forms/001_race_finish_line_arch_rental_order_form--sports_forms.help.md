@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in renting a finish line arch for their sports event. The purpose of this form is to gather details such as customer contact information, arch rental preferences, and specific event details. The form is divided into several pages, and each page has a distinct set of fields that correspond to the relevant information to be collected. Before starting to complete the form, please ensure that you are filling it out for the correct purpose and that you have all the necessary information required for a successful rental process. If you have already submitted a similar form, please review the provided instructions carefully to avoid duplication of work.
-</thinking>
-
 # Race Finish Line Arch Rental Order Form - Help Guide
 
 ## Purpose

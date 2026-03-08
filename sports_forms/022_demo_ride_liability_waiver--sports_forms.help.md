@@ -1,7 +1,3 @@
-<thinking>
-This form is for obtaining liability waiver consent from riders before a demo ride event. The form is part of a larger process for organizing and conducting demo ride events in a way that protects the event organizers, the riders, and any emergency contacts from potential liabilities. It's essential to ensure that each rider has understood and agreed to the event's terms and conditions, including emergency contact information. This form should not be filled out by anyone who has already participated in a previous demo ride event or has an existing waiver on file.
-</thinking>
-
 # Demo Ride Liability Waiver - Help Guide
 ## Purpose
 This form is used to obtain liability waiver consent from demo ride riders. It's a mandatory step for all riders who participate in demo ride events.

@@ -1,5 +1,3 @@
-<thinking>This form is for registering a new rugby football club member. The form collects general information about the member, including their contact information, emergency contact details, membership application information, and other relevant fields. Before submitting the form, please review the terms and conditions, and provide any additional notes or comments if necessary. This form is designed to be completed by the individual registering as a rugby football club member, or by someone on their behalf. To prevent duplicate registrations, please ensure that you do not resubmit a registration if you have already registered for the same club.</thinking>
-
 # rugby_football_club_registration_form - Help Guide
 ## Purpose
 This form is used to register a new rugby football club member. It's essential to fill it out accurately and completely to ensure a smooth registration process.

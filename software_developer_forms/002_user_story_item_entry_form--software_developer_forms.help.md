@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the user-facing form, "user_story_item_entry_form", which has the following fields:
 - **Story ID** (`story_id`, number, required): Enter the unique ID of the story to be updated.
 - **Description** (`description`, text, required): A brief description of the story.

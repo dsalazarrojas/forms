@@ -1,8 +1,3 @@
-<thinking>
-This form is used for ordering outdoor camp equipment. It will ask for customer information, equipment type, quantity, and delivery details. This form is used to gather information for ordering outdoor camp equipment. Please ensure that the form is filled out completely and accurately to avoid any errors in the order process.
-
-</thinking>
-
 # outdoor_camp_equipment_order_form - Help Guide
 ## Purpose
 This form is used for ordering outdoor camp equipment.

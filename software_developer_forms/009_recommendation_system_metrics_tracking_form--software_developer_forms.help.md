@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track metrics for a recommendation system. The purpose of this form is to collect data on specific metrics related to the performance of the recommendation system, allowing users to monitor and analyze its effectiveness. This form is intended to be filled out by users who have interacted with the system, such as project managers or developers. It is recommended that each user fill out this form only once per project and only after they have finished working with the system for that project.
-</thinking>
-
 # Recommendation System Metrics Tracking Form - Help Guide
 ## Purpose
 This form is used to track metrics for a recommendation system. It helps users to monitor and analyze the system's performance, providing valuable insights to improve its effectiveness.

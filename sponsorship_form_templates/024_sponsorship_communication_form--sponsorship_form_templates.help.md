@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the Sponsorship Communication Form, which captures information about sponsorship details, interests, amounts, types, periods, contact information, and communication preferences. The form is designed to gather data from sponsors to facilitate effective communication and management of sponsorship activities. This guide will walk you through the form's purpose, completion process, and detailed explanations of each field. Please note that this form is not a mandatory or required document for all users, and the fields are optional.
-
-</thinking>
-
 # Sponsorship Communication Form - Help Guide
 ## Purpose
 The Sponsorship Communication Form is a collection of fields that gather information from sponsors to facilitate effective communication and management of sponsorship activities. It is an optional form used to capture details about sponsorship interests, amounts, types, periods, contact information, and communication preferences.

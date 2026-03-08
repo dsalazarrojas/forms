@@ -1,13 +1,3 @@
-<thinking>
-This guide is for the Sports Broadcasting Workshop Registration Form, a crucial form for sports enthusiasts, athletes, and professionals to register for the sports broadcasting workshop. The form is essential for ensuring that participants have the necessary information and agree to the terms and conditions before attending the workshop.
-
-The form will not be duplicated if it's filled out correctly, as each field is required to be filled out completely and accurately. This will help streamline the registration process and minimize any potential issues that may arise from incomplete forms.
-
-Please note that the form is designed to gather specific information about each participant, which will be used to tailor the workshop experience and ensure that each participant is well-prepared for the sessions.
-
-The form has various fields, including text fields for first and last name, email, phone number, date of birth, and note. The form also includes a select field for the workshop location and a select multiple field for the selected workshops. Additionally, the form includes select one fields for terms and conditions, submission confirmation, and email confirmation.
-</thinking>
-
 # Sports Broadcasting Workshop Registration Form - Help Guide
 
 ## Purpose

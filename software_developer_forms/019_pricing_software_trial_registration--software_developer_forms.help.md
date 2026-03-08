@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I've analyzed the YAML form fields and here is the final help guide for the end user:
 
 # Pricing Software Trial Registration - Help Guide

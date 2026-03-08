@@ -1,7 +1,3 @@
-<thinking>
-...this form is used to gather information from individuals to determine suitability for admission to a nursing home. Please ensure the form is filled out by the relevant applicant or authorized representative, and not duplicated. This helps prevent errors and ensures that the form is filled in correctly and consistently.
-</thinking>
-
 # Nursing Home Application Form - Help Guide
 ## Purpose
 The Nursing Home Application Form is a tool used to collect personal and medical information from individuals applying for admission to a nursing home. It is crucial to fill it out accurately and completely.

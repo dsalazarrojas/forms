@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from software customers on how to enhance the existing software product. This form should only be completed by customers who want to suggest improvements to the software product, not for general contact or support inquiries.
-Please make sure you have not already submitted a software enhancement request before filling this form. If you have, please do not resubmit the same request.
-</thinking>
-
 # Software Enhancement Request Form - Help Guide
 ## Purpose
 The Software Enhancement Request Form is designed to collect feedback and suggestions from customers on how to enhance the existing software product. This form allows customers to provide detailed information about the enhancement they would like to see in the product, along with their contact information for follow-up communication.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a "Spa Party Inquiry Form" used for customers to submit inquiries and reservations for spa parties. It is typically used for customers to provide their name, email, phone number, reservation date and time, and the name of their desired spa party treatment or package. 
-This form is meant to be completed by customers to provide necessary information for the spa team to follow up on their inquiry and make the desired reservation.
-</thinking>
-
 # spa_party_inquiry_form - Help Guide
 ## Purpose
 The "spa_party_inquiry_form" is a form designed to gather information from customers for spa party reservations and inquiries.

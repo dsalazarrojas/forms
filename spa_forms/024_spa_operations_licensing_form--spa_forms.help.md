@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture information from spa businesses seeking operations licensing. This form will guide business owners through the process of providing necessary contact information, ownership details, services offered, and other key operational details. To avoid confusion, the form has been designed with clear and concise fields, making it easier to understand and fill out.
-
-</thinking>
-
 # Spa Operations Licensing Form - Help Guide
 ## Purpose
 This form is for spa businesses to provide necessary information for operations licensing.

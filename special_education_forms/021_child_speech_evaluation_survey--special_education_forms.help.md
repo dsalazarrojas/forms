@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting information about a child's speech and language development, and the concerns or difficulties their parent or guardian has noticed. It is used to gather data for research purposes and to help identify potential speech and language needs of the child. This form is not intended for use as a diagnostic tool or a substitute for professional evaluation or assessment. By completing this form, you will be providing valuable information about your child's speech and language abilities, which will be used to support their development and potentially identify areas where they may need additional support. Please ensure that you are filling out this form for the right purpose and that you are answering questions accurately and honestly.
-
-</thinking>
-
 # Child Speech Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a child's speech and language development, concerns, and history. It is used to gather data for research and to identify potential needs of the child.

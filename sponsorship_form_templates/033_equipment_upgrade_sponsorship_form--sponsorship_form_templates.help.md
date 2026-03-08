@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Upgrade Sponsorship Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from organizations interested in sponsoring an equipment upgrade for our team. Please fill out this form to provide us with necessary details about the upgrade, and we will review and contact you to discuss further.

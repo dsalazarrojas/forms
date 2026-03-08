@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Sponsorship Benefit Clarification Request Form - Help Guide
 
 ## Purpose

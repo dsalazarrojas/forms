@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by parents or guardians of children participating in Junior Team Tennis programs. Its purpose is to gather medical information, obtain consent for medical treatment, and ensure that parents or guardians are aware of and agree to the terms of participation. The form aims to provide a safe and healthy environment for all players.
-</thinking>
-
 # Junior Team Tennis Medical Release And Consent Form - Help Guide
 ## Purpose
 The Junior Team Tennis Medical Release And Consent Form is a document that must be completed by parents or guardians of children participating in Junior Team Tennis programs. It is designed to collect medical information, obtain consent for medical treatment, and ensure that parents or guardians are aware of and agree to the terms of participation.

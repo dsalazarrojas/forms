@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a bug report template designed to help software developers gather essential information from end-users when a bug is encountered. It is not intended for general feedback or suggestions, but rather a systematic method to collect detailed information about the bug and report it to the development team. To ensure consistent and useful bug reports, please fill out this template thoroughly and accurately. If you are unsure about a specific field, try to provide the best possible answer or leave it blank if you are truly unsure. This template is not a replacement for in-depth debugging or troubleshooting, but rather a tool to aid in the reporting process. 
-
-</thinking>
-
 # Bug Report Form Template - Help Guide
 ## Purpose
 The Bug Report Form is a systematic method for reporting bugs and issues encountered while using our software. It helps the development team to understand the problem, reproduce it, and resolve it efficiently.

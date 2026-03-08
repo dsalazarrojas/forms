@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's preferences and habits related to nail polish. The purpose of this form is to collect data on their favorite nail polish colors, brands, budget, frequency of getting their nails done, frequency of buying nail polish, finish preference, importance of chemical-free polish, purchase preference, and number of bottles at home. This form is intended for use in the nail studio clean beauty industry, and the data collected will be used to tailor services and products to the needs and interests of customers.
-
-Please note that this form is a generated form, not affiliated with any specific form platform, and is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-</thinking>
-
 # Nail Studio Clean Beauty Interest Survey - Help Guide
 ## Purpose
 This form aims to collect information about an individual's preferences and habits related to nail polish.

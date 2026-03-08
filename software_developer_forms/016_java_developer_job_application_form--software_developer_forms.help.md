@@ -1,12 +1,3 @@
-<thinking>
-This guide is for those who are filling out the Java Developer Job Application Form. Please read this guide to ensure you understand what the form is for, how to complete it, and what each field means.
-
-To fill out this form, you should be applying for a Java development job. This form is intended to collect information from applicants about their background, experience, and skills in Java development.
-
-Before proceeding, note that some fields are not required, but filling them out will help us get a better understanding of your qualifications.
-
-</thinking>
-
 # Java Developer Job Application Form - Help Guide
 ## Purpose
 This form is for Java developers to apply for a job opening. It collects information about your background, experience, and skills in Java development.

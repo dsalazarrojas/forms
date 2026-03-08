@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect payment information from referees for their services in sports tournaments. It is used to manage payment requests and track the status of these requests. Please ensure that you are using this form for its intended purpose and not for any other type of payment request. Before submitting, review the form carefully to avoid errors and duplication of effort. The form does not support recurring payments, so ensure you are using the correct payment frequency for one-time or ongoing payments. The payment method is not limited to the options provided; however, they are the standard methods used in the industry. Use the correct payment method as requested by the referee to ensure successful payment processing. 
-</thinking>
-
 # Referee Payment Request Form - Help Guide
 ## Purpose
 This form is for referees to request payment for their services in sports tournaments. It is used to collect and manage payment requests, track the status of these requests, and ensure accurate payment processing.

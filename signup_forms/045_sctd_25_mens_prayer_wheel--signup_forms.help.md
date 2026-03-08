@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's prayer time, including the time of day, date, and duration of prayer. This form appears to be designed for collecting data from multiple people, with multiple sections for each individual to provide their information.
-</thinking>
-
 # sctd-25-mens-prayer-wheel - Help Guide
 ## Purpose
 The sctd-25-mens-prayer-wheel form is designed to collect data about prayer times and durations from multiple individuals. It appears to be used for tracking and recording information about prayer times and frequencies.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for social workers to join and register their details for membership in the organization. This form is used to collect information about the social worker, including their name, contact information, organization, role, and membership type. The purpose of this form is to ensure that all social workers have a valid and accurate record of their membership, which can be used for various administrative and communication purposes. It's essential to complete the form accurately to avoid any errors or duplication of membership.
-
-</thinking>
-
 # Social Workers Membership Form - Help Guide
 ## Purpose
 The Social Workers Membership Form is a registration form for social workers to join and submit their details for membership in the organization. This form collects essential information about the social worker, including their name, contact information, organization, role, and membership type.

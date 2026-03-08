@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect user feedback for eye tracking interactions, which could be related to usability and accessibility testing, user experience research, or other related purposes. The form should be filled out only once by each user for each interaction session, and it's not meant to be a duplicate submission. To ensure data quality and minimize duplicates, users should not submit the form again after the initial submission. This form collects feedback on various aspects of the interaction, including the user's feedback rating, interaction time, interaction day, interaction speed, eye tracking type, interaction details, eye tracking device, interaction device, user's device type, browser, system, screen resolution, screen size, operating system, and interaction speed. Each field is designed to gather specific information that will help us improve the product or service being tested.</thinking>
-
 # Eye Tracking Interaction User Feedback Form - Help Guide
 ## Purpose
 The Eye Tracking Interaction User Feedback Form is a tool used to collect feedback from users after interacting with our product or service that utilizes eye tracking technology. This form is designed to gather specific information about the user's experience, which will help us identify areas for improvement and optimize the user interface.

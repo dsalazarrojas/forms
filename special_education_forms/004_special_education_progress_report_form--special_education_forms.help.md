@@ -1,15 +1,3 @@
-<thinking> 
-We need to create a user-facing help guide for the "Special Education Progress Report Form" that explains its purpose, how to complete it, and what each field means.
-
-The form is designed to track progress in special education programs, likely for students with special needs or disabilities. It's meant to be completed by teachers or educational professionals who need to report on student progress, provide feedback, and communicate with parents or guardians.
-
-To complete this form, the user will need to provide general information about the student, such as their name and the date of the progress report. They will also need to answer questions about the student's progress, including whether they require special education support services and which accommodations or services are provided.
-
-The user will also need to select the category and assigned to fields, which might be related to student categories or teachers' roles. Finally, they will need to indicate if this form is part of a special education program, if it's for the student's progress report form, and which version of the form is being used.
-
-The user may find some fields confusing, but they should be able to navigate it with this help guide.
-
-</thinking>
 # Special Education Progress Report Form - Help Guide
 
 ## Purpose

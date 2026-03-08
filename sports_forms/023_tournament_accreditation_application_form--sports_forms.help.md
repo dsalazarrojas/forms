@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information, contact details, payment information, and payment terms from users who wish to apply for tournament accreditation. This form is not affiliated with any specific sports-related platform, but is a generic form created using public survey topic metadata as inspiration. The form is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Tournament Accreditation Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential details from applicants for tournament accreditation. This includes general information, contact details, payment information, and payment terms. Completing this form will help us process your application efficiently and effectively.

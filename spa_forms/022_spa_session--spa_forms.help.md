@@ -1,7 +1,3 @@
-<thinking>
-The form "Spa Session" is designed to capture information about spa services provided to clients. This form is likely used by spa therapists or administrators to keep track of client bookings, service types, and payments. The purpose of this form is to ensure that all relevant information about spa sessions is recorded accurately and efficiently. Before you start filling out this form, ensure that you are familiar with the required fields and have all relevant information readily available. Please note that some fields may be optional, but filling out all required fields is crucial for accurate record-keeping.
-</thinking>
-
 # Spa Session - Help Guide
 ## Purpose
 The Spa Session form is used to collect information about spa services provided to clients. This form helps spa therapists or administrators keep track of client bookings, service types, and payments.

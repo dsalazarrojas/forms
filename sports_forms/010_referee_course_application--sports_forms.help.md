@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to allow users to apply for a referee course, which is a training program designed to equip users with knowledge and skills to officiate sports games. This form will gather necessary information to register users for the desired course, including personal details and course preferences. Before proceeding, please note that users should only fill out this form once. Completing this form does not guarantee admission to the referee course. Admission is subject to review and approval.
-
-</thinking>
-
 # Referee Course Application - Help Guide
 ## Purpose
 The Referee Course Application form is designed to allow users to sign up for a sports referee course, providing them with the opportunity to obtain necessary training and certification to officiate sports games.

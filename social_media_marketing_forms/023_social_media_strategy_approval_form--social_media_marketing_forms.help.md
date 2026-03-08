@@ -1,7 +1,3 @@
-<thinking>
-This form is for approving social media campaigns. It's designed to be filled out by marketing teams to get approval from management for new campaigns. The purpose of this form is to provide a standardized way for teams to request approval for new campaigns. Before filling out this form, ensure that you have all necessary information and approvals from relevant stakeholders.
-</thinking>
-
 # Social Media Strategy Approval Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from developers about social media support requests. It will help identify the support requests' status and resolution. The form should not be used for duplicate or non-relevant requests. Please ensure that the form is filled out accurately and completely.
-</thinking>
-
 # Social Media Support Request For Developers - Help Guide
 ## Purpose
 This form is used to collect information from developers about social media support requests. It helps us track and manage these requests effectively.

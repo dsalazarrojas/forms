@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from youth sports coaches to ensure they are properly registered and meet the necessary requirements to coach young athletes. The form is used to verify the coach's identity, contact information, and coaching experience. The fields are divided into several categories, including personal information, coaching experience, and emergency contact details. 
-
-The form is intended to be completed by coaches who are applying to work with youth sports teams, either directly with the team or as part of a coaching staff. 
-
-The form should only be completed by coaches who are new to the system, or who have not previously completed the form. 
-
-This guide is for coaches who are new to the system, or who have not previously completed the form. 
-
-Please note that this form is intended to collect information for the purpose of registration and verification. 
-
-</thinking>
-
 # Youth Sports Coach Registration Form - Help Guide
 ## Purpose
 This form collects information from youth sports coaches to register and verify their identity, contact details, and coaching experience.

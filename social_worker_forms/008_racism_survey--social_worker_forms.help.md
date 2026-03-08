@@ -1,6 +1,3 @@
-<thinking> 
-We are creating a help guide for the "Racism Survey" form, which is designed to gather information on individuals' experiences with racism and discrimination. This form is intended to be completed by individuals who have experienced or witnessed racism and discrimination, and is used to help understand the prevalence and impact of these issues. To complete this form, please ensure that you are providing accurate and honest information, as it will help us better understand the experiences of individuals in our community.
-</thinking>
 # Racism Survey - Help Guide
 ## Purpose
 The Racism Survey is designed to gather information on individuals' experiences with racism and discrimination. This form is intended to help us better understand the prevalence and impact of racism and discrimination in our community.

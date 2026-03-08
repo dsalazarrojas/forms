@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect incident reports from staff members in a wellness center. Its purpose is to record and document reactions to incidents that have occurred, including details of the incident, staff responses, and next steps for follow-up. This form is likely used by wellness center staff to report and manage incidents, and by management to track and analyze incident trends.
-
-Before starting the form, ensure that the incident has been properly documented and reported. This form may not be necessary for every incident, but it is a good practice to fill it out for any incident that involves a staff reaction or response.
-
-Please note that this form is not a comprehensive incident report template. Its fields are designed to capture specific information that is relevant to staff reactions and responses.
-
-</thinking>
-
 # wellness_center_treatment_reaction_incident_report - Help Guide
 ## Purpose
 The purpose of this form is to collect incident reports from staff members in a wellness center, focusing on reactions and responses to incidents that have occurred.

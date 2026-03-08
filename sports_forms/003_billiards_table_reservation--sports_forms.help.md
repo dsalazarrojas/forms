@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from billiards enthusiasts who want to reserve a table for a session of billiards. The form is meant to capture player information, reservation details, and additional options related to the reservation. To avoid duplication, it's recommended that users only fill out the form if they are actually planning to make a reservation. If not, the form can be bypassed.
-</thinking>
-
 # Billiards Table Reservation - Help Guide
 ## Purpose
 This form is for reserving a billiards table for a session of billiards.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an elderly individual's needs and preferences for COVID-19 essentials delivery. This form will help identify the essential items they require, their health status, and the preferred method of delivery. It is crucial that this form is completed accurately to ensure that the necessary items are delivered efficiently and safely to the elderly individual. Please note that this form should only be filled out once per individual, and any duplicate submissions should be avoided.
-
-This form is intended for elderly individuals who require assistance with COVID-19 essentials delivery. If you are an elderly individual or a caregiver completing this form on behalf of an elderly individual, please answer the questions honestly and thoroughly.
-
-To avoid confusion, each field has been labeled clearly, and explanations have been provided for each field. If you are unsure about any of the fields, please do not hesitate to ask for clarification.
-
-Before you start filling out this form, please make sure you have all the necessary information ready. Some fields may require specific formatting or information, so be sure to follow the provided instructions carefully.
-
-</thinking>
-
 # COVID 19 Essentials Delivery For The Elderly - Help Guide
 ## Purpose
 This form is designed to collect information about an elderly individual's needs and preferences for COVID-19 essentials delivery.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help us find volunteers for sports officiating and coaching positions, particularly for local high school and college sports games and tournaments. It is meant for individuals with relevant sports experience, certification, and training who are interested in officiating or coaching at these events. 
-The form is designed to gather information on contact and personal details, sports experience and certifications, and availability for specific time slots. This will allow us to identify suitable candidates for our sports events. 
-We aim to prevent duplication of efforts and ensure the integrity of our volunteer process. Please fill in all required fields accurately and truthfully. 
-</thinking>
-
 # Volunteer Sports Official Application - Help Guide
 ## Purpose
 The Volunteer Sports Official Application is a form used to find suitable volunteers for sports officiating and coaching positions. It is intended for individuals with relevant sports experience, certification, and training.

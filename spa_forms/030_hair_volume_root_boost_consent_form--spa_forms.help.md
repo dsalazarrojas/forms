@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from a client for a hair volume root boost treatment. The client will be asked to provide some basic details about themselves, contact information, and consent for the treatment. The staff members will also have a section to sign and provide their own contact information. This form is likely used in a salon or hair care setting.
-</thinking>
-
 # Hair Volume Root Boost Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect consent and information from clients for a hair volume root boost treatment. It is used to ensure that clients are aware of the process and agree to the treatment.

@@ -1,13 +1,3 @@
-<thinking>**Internal Reasoning Block:**
-
-This form template is designed to collect essential information from individuals who are applying to a Sports Academy. The form asks for various details about the applicant, including contact information, emergency contacts, and medical information. It also allows applicants to upload relevant documents and provides a review section for the academy staff to take note of any important points. The form aims to streamline the admission process and ensure that all necessary information is gathered from each applicant.
-
-The form has several fields that ask for different types of information, including text, email, phone number, date, time, and address. Some fields are required, while others are optional. The form also includes two "notes" fields to allow applicants to provide additional context or information that may not fit in other fields.
-
-This form is intended to be used by Sports Academy staff to collect information from applicants and review it before making a decision. The form is designed to be user-friendly and easy to fill out, with clear labels and instructions for each field.
-
-</thinking>
-
 # Sports Academy Admission Checklist Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying to a Sports Academy. It gathers contact details, emergency contacts, and medical information to ensure a smooth admission process.

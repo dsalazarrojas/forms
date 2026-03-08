@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form should be included in the user-facing help guide, I'll review the form's purpose and ensure it's not duplicating another existing form. The form is for gathering information on the physical and medical readiness of an individual for personal training, which is a specific use case. After reviewing the provided YAML, I'll create a user-facing help guide that explains the form's purpose, how to complete it, and provides field-by-field explanations.
-</thinking>
-
 # Personal Training Par Q Form - Help Guide
 ## Purpose
 The Personal Training Par Q Form is designed to gather information on your physical and medical readiness for personal training. This form will help you assess your ability to safely participate in physical activities, ensuring that you're well-prepared for a training program that suits your needs.

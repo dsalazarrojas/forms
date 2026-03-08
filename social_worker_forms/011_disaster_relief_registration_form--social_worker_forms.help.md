@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect contact and other necessary information from individuals affected by a disaster to provide relief efforts. The purpose of this form is to gather data for aid distribution, resource allocation, and response planning. This form should only be used in actual disaster scenarios.
-
-Please note that this form is an AI-generated adaptation of a public domain concept and does not contain any proprietary content. The form's fields are designed to be clear and easy to understand, with optional fields allowing users to provide additional context.
-
-To determine the relevance of this form, please consider the following:
-* Is the purpose of the form to collect contact and other necessary information from individuals affected by a disaster?
-* Is the form designed to be used in an actual disaster scenario?
-If the answer to both questions is affirmative, then the form is likely relevant.
-
-To prevent duplication of effort, please ensure that this form is not submitted for duplicate or unnecessary use. 
-
-</thinking>
-
 # disaster_relief_registration_form - Help Guide
 ## Purpose
 This form is designed to collect contact and other necessary information from individuals affected by a disaster. The purpose of this form is to gather data for aid distribution, resource allocation, and response planning.

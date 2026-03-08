@@ -1,7 +1,3 @@
-<thinking>
-This form is for parents or guardians to request a trial class for their toddler to experience Jiu Jitsu for the first time. This form helps the Jiu Jitsu school to gauge interest in enrolling a child who is too young for regular classes and to plan a trial class that fits the child's needs and schedule. The school can then use this data to confirm the trial class details and ensure that there is a good fit between the child and the school's program.
-</thinking>
-
 # Toddler Jiu Jitsu Trial Class Request - Help Guide
 ## Purpose
 This form is designed to be completed by parents or guardians to request a trial class for their toddler to experience Jiu Jitsu for the first time. The information collected will help the Jiu Jitsu school to plan a trial class that suits the child's needs and schedule.

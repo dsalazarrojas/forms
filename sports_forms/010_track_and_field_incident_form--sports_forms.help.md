@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for reporting incidents that occur during sports events. The form is meant to be completed by the person involved in the incident, such as an athlete or a coach, and will help track and analyze incidents to prevent future occurrences. This form should be completed in a timely manner, so it's best to report incidents as soon as possible after they occur. 
-To ensure that incidents are reported correctly, please review the form to understand what each field is asking for. The following guide will walk you through the completion of this form.
-</thinking>
-
 # Track And Field Incident Form - Help Guide
 ## Purpose
 This form is used to report incidents that occur during sports events. Please fill out the form as accurately and completely as possible.

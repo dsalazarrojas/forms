@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the Sports League to gather feedback and votes on potential rule changes from its participants. The purpose of this form is to allow participants to express their opinions and votes on proposed rule changes, providing a transparent and fair process for decision-making. This form will help the Sports League to collect data and feedback from its community, ensuring that any future changes are well-informed and beneficial to all.
-</thinking>
-
 # Sports League Rule Change Voting Form - Help Guide
 ## Purpose
 The Sports League Rule Change Voting Form is designed to gather feedback and votes from participants on proposed rule changes. This form will help the Sports League collect data and feedback, ensuring that any future changes are well-informed and beneficial to all.

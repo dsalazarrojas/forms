@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for athletes to apply for powerlifting championships. The purpose of this form is likely to collect information about the registrant's personal details, contact information, and physical characteristics in order to evaluate their eligibility and suitability for the championships. 
-Before filling out this form, please ensure you have read and understood the guidelines and rules of the event. 
-If you have already filled out this form in the past, please note that duplicate applications may be automatically flagged and removed.
-</thinking>
-
 # Powerlifting Championships Application Form - Help Guide
 ## Purpose
 This form is for athletes to apply for powerlifting championships. It gathers information about your contact details and physical characteristics to assess your eligibility and suitability for the event.

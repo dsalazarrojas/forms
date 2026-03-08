@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to track social media growth and engagement metrics. It allows users to select a tracking period (e.g., month, quarter, year), choose the platforms they want to track (e.g., Facebook, Instagram, Twitter), and input specific metrics for each platform. The form is intended to help users monitor and analyze their social media presence and performance over different time periods and on various platforms.
-
-Before filling out this form, please ensure that you have a valid reason for tracking social media growth and engagement, and that you have not already completed this form for the same tracking period or platform.
-
-</thinking>
-
 # Social Media Growth Tracker - Help Guide
 ## Purpose
 

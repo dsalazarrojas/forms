@@ -1,7 +1,3 @@
-<thinking>
-Please consider adding a note about the purpose and scope of the form. This form is designed to collect information about applicants seeking community services. It is intended to be filled out by individuals or families in need of assistance.
-</thinking>
-
 # Community Services Intake Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about you and your household in order to provide you with the best possible support and services. Please fill out this form as accurately and completely as possible to help our staff understand your needs and provide the assistance you require.

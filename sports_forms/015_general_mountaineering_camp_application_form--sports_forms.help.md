@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from potential camp attendees to assess their eligibility and suitability for a general mountaineering camp. It's used to collect personal details, such as name, email, and phone number, as well as date of birth. The form also asks attendees to select one of their mountaineering experiences to share. The primary goal is to ensure that each attendee has a safe and enjoyable experience at the camp. 
-
-Before filling out this form, please ensure that you are eligible to attend. If you have filled out this form previously, please do not resubmit. Each section is designed to be completed in a specific order. 
-
-</thinking>
-
 # General Mountaineering Camp Application Form - Help Guide
 ## Purpose
 The General Mountaineering Camp Application Form is used to gather information from potential camp attendees to assess their eligibility and suitability for the camp.

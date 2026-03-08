@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Sponsorship Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from companies interested in sponsoring events organized by the event organizers. It ensures that the company's contact information is shared with the event sponsors only if the company agrees to do so.

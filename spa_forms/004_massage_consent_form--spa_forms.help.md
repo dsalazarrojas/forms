@@ -1,10 +1,3 @@
-<thinking>
-# Massage Consent Form - Help Guide
-
-This form is used to gather information from the client about their massage therapy session. The purpose of this form is to ensure that the client is aware of and consents to the massage therapy session, including the type and duration of the massage, and any areas that will be treated. The client also needs to confirm their contact information and any medical conditions or allergies they may have. This form is typically completed by the client before the massage therapy session begins.
-
-</thinking>
-
 # Purpose
 This form is required to ensure that the client provides informed consent to the massage therapy session.
 

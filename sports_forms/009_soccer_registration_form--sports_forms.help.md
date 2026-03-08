@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soccer Registration Form - Help Guide
 ## Purpose
 This form is designed for players to provide their details for registration with our soccer organization. It collects player's basic information to facilitate their participation in soccer activities and events.

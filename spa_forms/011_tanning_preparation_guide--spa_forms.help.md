@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from clients for tanning preparation. The purpose of the form is to gather essential details for a tanning appointment, ensuring that clients and staff are on the same page before the appointment takes place. This guide will walk you through each field, explaining its purpose, how to complete it, and any additional tips or notes.
-</thinking>
-
 # Tanning Preparation Guide - Help Guide
 ## Purpose
 This form is designed to collect client information and confirm tanning preparation details before a tanning appointment.

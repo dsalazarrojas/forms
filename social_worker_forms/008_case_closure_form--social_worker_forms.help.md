@@ -1,16 +1,3 @@
-<thinking>
-This form is used to document the closure of a case, including details about the case itself, the assigned social worker or case manager, the reason for closure, and the overall outcome of the case. The form is intended to be completed by the social worker or case manager who closed the case. 
-
-Before starting, ensure that the case has been properly closed and all necessary information has been collected. This form should not be used to close a case that is still active. 
-
-When completing this form, please ensure that you have reviewed and understood the case details before selecting any options. This will help prevent errors and ensure accurate documentation. 
-
-Please review the form carefully and enter accurate information in the appropriate fields. If you are unsure about any of the fields or need clarification, please contact your supervisor. 
-
-The form is divided into several sections, including case information, assigned worker information, reason for closure, case outcome, services provided, and follow-up and referrals. Each section has a specific purpose and requires relevant information. 
-
-</thinking>
-
 # Case Closure Form - Help Guide
 ## Purpose
 The Case Closure Form is used to document the closure of a case, ensuring that all necessary information is recorded and that the case is properly closed.

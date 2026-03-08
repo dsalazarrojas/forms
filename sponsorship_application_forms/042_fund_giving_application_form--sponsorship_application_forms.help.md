@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from non-profit organizations that are seeking funding. The purpose of this form is to provide a systematic and organized way for these organizations to apply for funding, ensuring that all required information is collected in a clear and concise manner. This form is intended to be used by non-profit organizations that are registered with the relevant authorities and have a valid non-profit status.
 
 </thinking>

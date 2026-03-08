@@ -1,7 +1,3 @@
-<thinking>
-This form is used by sports instructors and evaluators to provide feedback and evaluate the performance of Premier League players. It is meant to assess the player's skills, progress, and overall performance. The form will help to provide a comprehensive review and analysis of the player's abilities.
-</thinking>
-
 # premier-league-evaluation-form - Help Guide
 ## Purpose
 The premier-league-evaluation-form is a tool for sports instructors and evaluators to provide detailed feedback and evaluate the performance of Premier League players.

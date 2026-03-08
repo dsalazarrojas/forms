@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cutting Phase Weight Training Plan Form - Help Guide
 ## Purpose
 This form is designed to collect information from athletes about their cutting phase weight training plan. The form will be used to track and monitor the athlete's progress during the cutting phase, which is a period of intense fat loss and weight reduction. This form will help athletes to set realistic goals, track their workout frequency, focus on specific strength exercises, and receive guidance on their progress.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the online training program, specifically to ensure that users understand and agree to the terms and conditions of the program. The goal is to get users to provide their basic contact details and acknowledge their agreement to the terms. The form should only be filled out once per user, and users should be able to complete it easily and quickly.
-
-</thinking>
-
 # Online Training Disclaimer - Help Guide
 ## Purpose
 The purpose of this form is to collect basic contact information and ensure that users agree to the terms and conditions of the online training program.

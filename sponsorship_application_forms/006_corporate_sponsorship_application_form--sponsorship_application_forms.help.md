@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to facilitate the submission of sponsorship applications from organizations to your institution. It's essential to understand the purpose and relevance of this form before proceeding. Ensure that you're using this form for a legitimate sponsorship purpose and not duplicating efforts. Please review the guidelines and submission requirements carefully before filling out the form. If you're unsure about any aspect of the form or its purpose, please contact the relevant department or the form administrators for clarification.
-</thinking>
-
 # corporate_sponsorship_application_form - Help Guide
 ## Purpose
 This form is for organizations to apply for sponsorship from our institution. It's used to provide necessary information for evaluating and processing sponsorship requests.

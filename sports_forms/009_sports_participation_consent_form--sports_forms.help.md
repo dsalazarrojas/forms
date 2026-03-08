@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist end-users in navigating and understanding the Sports Participation Consent Form. It explains the form's purpose, how to complete it, and each field's significance. Please note that the form is AI-generated and not affiliated with any form platform.</thinking>
-
 # Sports Participation Consent Form - Help Guide
 ## Purpose
 The Sports Participation Consent Form is a document designed to ensure that participants, parents, or guardians provide informed consent for an individual's involvement in sports activities. This form collects medical information, emergency contact details, and other relevant data to ensure the participant's safety and well-being during the sports event or activity.

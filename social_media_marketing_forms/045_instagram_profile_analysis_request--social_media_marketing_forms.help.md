@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for this form, I will first consider the purpose and internal reasoning behind the form's creation. This form is designed to collect information about Instagram profile analysis requests from users. Internal logic checks for relevance and non-duplication are in place to prevent duplicate requests and ensure that only relevant analysis requests are processed. The form collects basic contact information (User Name, Email ID, and Phone Number) and a link to the Instagram Profile (Profile URL). The purpose of this form is to gather information for analysis and potential outreach to the user regarding their Instagram profile.
-
-</thinking>
-
 # Instagram Profile Analysis Request - Help Guide
 ## Purpose
 This form is designed to collect information for analysis and potential outreach to users regarding their Instagram profile. Please ensure that the information provided is accurate and up-to-date to facilitate a smooth analysis process.

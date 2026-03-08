@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spa_client_post_treatment_relaxation_check_in - Help Guide
 
 ## Purpose

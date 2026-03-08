@@ -1,19 +1,3 @@
-<thinking>
-We have a form for participants to register for a running tournament. We need to ensure that the form is completed accurately and thoroughly so that we can gather the necessary information for a successful event. Let's break down the form into its individual components and provide clear explanations for each field to avoid duplication and misinterpretation of answers.
-
-The form has the following fields:
-- Participant info: Required to get basic information about the participant.
-- Event info: Required to get information about the event.
-- Registration details: Optional, but useful for additional event specifics.
-- Additional info: Optional, more info about the participant is required here.
-- Confirm participant info: A multiple-choice field to confirm if the participant info is correct.
-- Confirm event info: A multiple-choice field to confirm if the event info is correct.
-- Confirm registration details: A multiple-choice field to confirm if the registration details are correct.
-- Submit: Required to submit the form for processing.
-
-This form is designed to gather all the necessary information for the running tournament registration process. Each field is clearly labeled and easy to understand, making it a user-friendly experience. By following this guide, participants can ensure they complete the form accurately and thoroughly.
-</thinking>
-
 # running_tournament_registration_form - Help Guide
 ## Purpose
 The running tournament registration form is designed to gather information from participants for a successful event. This includes getting basic details about the participant and event specifics to ensure a smooth and enjoyable experience for all.

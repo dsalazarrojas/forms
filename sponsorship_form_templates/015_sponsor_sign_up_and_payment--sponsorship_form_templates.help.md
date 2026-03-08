@@ -1,17 +1,3 @@
-<thinking>
-This form is intended for sponsors to sign up and make payment for sponsorship-related activities. The form collects the following information:
-- Sponsor name
-- Sponsorship details
-- Organization details
-- Sponsor role
-- Email address
-- Phone number
-- Payment amount
-- Payment terms
-- Sponsor type
-- Payment method
-</thinking>
-
 # Sponsor Sign Up And Payment - Help Guide
 ## Purpose
 The Sponsor Sign Up And Payment form is designed to collect information from sponsors who wish to participate in sponsorship-related activities. The form is intended for sponsors to provide their details, including name, organization, role, email, phone number, payment amount, payment terms, sponsor type, and payment method.

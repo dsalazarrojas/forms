@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll create a user-facing help guide for the "FullStack Team Lead Application" form. The form is designed to collect information from potential candidates applying for a Team Lead position within the software development industry. The form is a simple, single-page layout with fields for basic contact information and links to professional online profiles. To ensure that the form is used correctly, I'll break down the purpose, completion instructions, and field explanations.</thinking>
-
 # FullStack Team Lead Application - Help Guide
 ## Purpose
 This form is intended for individuals applying for the FullStack Team Lead position. It collects contact information, online presence links, and a brief description of experience. Fill out this form to demonstrate your qualifications and showcase your professional online presence.

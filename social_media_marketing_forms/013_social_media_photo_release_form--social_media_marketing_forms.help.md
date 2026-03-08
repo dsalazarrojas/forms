@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for clients to release their photos taken by the company for social media marketing purposes. The form ensures that clients understand and agree to the usage of their photos, and it helps the company to obtain necessary permissions and dates for usage. It's essential to complete this form accurately to avoid any miscommunication or misunderstandings. Please review the fields below to ensure you understand the purpose and requirements of this form.</thinking>
-
 # Social Media Photo Release Form - Help Guide
 ## Purpose
 The Social Media Photo Release Form is used to obtain permission from clients to share photos taken by the company on social media platforms for marketing purposes.

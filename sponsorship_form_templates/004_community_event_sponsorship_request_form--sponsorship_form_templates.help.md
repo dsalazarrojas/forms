@@ -1,8 +1,4 @@
-> <thinking>
-This form is for requesting a community event sponsorship. It is designed for organizations to submit requests for sponsorship. To ensure the form is filled correctly, please make sure you are not submitting the same request multiple times or for events that have already been sponsored.
-
-</thinking>
-# Community Event Sponsorship Request Form - Help Guide
+> # Community Event Sponsorship Request Form - Help Guide
 ## Purpose
 This form is for organizations that want to request sponsorship for a community event. You can use it to provide your organization's contact information, event details, and sponsorship requests.
 

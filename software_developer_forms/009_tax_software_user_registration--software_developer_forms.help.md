@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering a tax software user. It is intended for users who need to register themselves with the tax software for access and management of their tax-related activities. This form should only be used for new registrations and should not be used for updates to existing registrations. Please ensure that you fill out all required fields accurately and completely. If you are unsure of any information, please reach out to the support team for assistance.
-
-</thinking>
-
 # Tax Software User Registration - Help Guide
 ## Purpose
 The Tax Software User Registration form is designed to collect user information and preferences for access and management of tax software features.

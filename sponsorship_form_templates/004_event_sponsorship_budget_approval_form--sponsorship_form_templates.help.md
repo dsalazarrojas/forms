@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Sponsorship Budget Approval Form - Help Guide
 ## Purpose
 This form is used to approve or reject a sponsorship budget proposal for an event. Before submitting this form, please ensure that you have a legitimate reason for sponsorship and that the proposal has not been previously submitted or approved.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for registering participants for a pole bending event. 
-It captures participant details, event information, and payment status. 
-To ensure accurate and complete registration, please review the fields carefully. 
-This form appears to be designed for multiple event types, including sports events. 
-The form is likely used by event organizers to track participant registration and payment status.
-</thinking>
-
 # Pole Bending Event Registration - Help Guide
 ## Purpose
 The Pole Bending Event Registration form is used to register participants for a pole bending event.

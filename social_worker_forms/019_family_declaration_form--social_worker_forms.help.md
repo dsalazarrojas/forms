@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # family_declaration_form - Help Guide
 
 ## Purpose

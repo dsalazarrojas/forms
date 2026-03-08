@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report software testing results, and it's designed to collect information from end-users about their testing experiences. The purpose of this form is to gather data that will help our testing team improve our software products. This form is intended to be completed by end-users who have conducted tests on our software products in a specific environment (e.g., development or production). We don't require any of the fields, so users can fill out as much or as little information as they want. We have a few fields for additional details and metadata that can be filled out if desired.
-
-</thinking>
-
 # software_testing_results_report_form - Help Guide
 ## Purpose
 

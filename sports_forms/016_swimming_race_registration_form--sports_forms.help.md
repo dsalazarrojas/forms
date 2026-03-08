@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Swimming Race Registration Form" form. The form is designed to collect information from swimmers participating in a swimming race. The purpose of this form is to gather relevant details from swimmers to ensure a smooth and safe racing experience. We will follow the provided YAML structure to create a clear and concise guide.
-
-The guide will be divided into four sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips". We will use Markdown format for the guide.
-</thinking>
-
 # Swimming Race Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from swimmers participating in a swimming race. It's essential to provide accurate and complete answers to ensure a safe and enjoyable racing experience.

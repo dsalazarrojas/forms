@@ -1,7 +1,3 @@
-<thinking>
-The Firearm Dry Fire Training Log form is designed to record data on dry fire training sessions for firearm users. A dry fire training session is a training exercise where an individual practices firing a weapon without live ammunition, focusing on technique and muscle memory. This form helps to track and record the details of each session, including the date of the training session, the firearm used, caliber, and other relevant information. The form will be used by firearm instructors and trainers to review and analyze the training data, providing insights on areas of improvement and progress.
-</thinking>
-
 # Firearm Dry Fire Training Log - Help Guide
 ## Purpose
 This form is used to record and track data on dry fire training sessions for firearm users.

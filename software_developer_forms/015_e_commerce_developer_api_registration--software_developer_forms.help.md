@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register e-commerce developers to an API platform. The purpose of this form is to collect information about the developer's platform preferences and details for registration. This form will be used to determine whether the developer is registered for the e-commerce API. Before proceeding, ensure that you are registered to this platform and have not previously filled out this form.
-</thinking>
-
 # e-commerce_developer_api_registration - Help Guide
 ## Purpose
 This form is designed to register e-commerce developers to our API platform, allowing us to collect information about your platform preferences and details for registration.

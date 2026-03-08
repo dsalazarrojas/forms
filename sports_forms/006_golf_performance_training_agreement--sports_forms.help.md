@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants for golf performance training. It is intended for coaches, training staff, or other authorized personnel to collect necessary contact and medical information from participants. The form is meant to be completed by the participant, and its purpose is to establish a clear understanding of the training program's terms and conditions, as well as collect relevant contact and medical information for emergency purposes.
-
-</thinking>
-
 # Golf Performance Training Agreement - Help Guide
 ## Purpose
 The Golf Performance Training Agreement is a form that collects information from participants for golf performance training. This form is meant to be completed by the participant and is used to establish a clear understanding of the training program's terms and conditions.

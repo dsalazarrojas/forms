@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user information for a mailing list. The purpose of this form is to gather contact and personal details from individuals who want to join the mailing list. The information collected will be used to send targeted marketing materials. The form is designed to be simple and easy to fill out. Before filling out this form, please make sure you have not already signed up for this mailing list.
-</thinking>
-
 # Yoga Mailing List Form - Help Guide
 ## Purpose
 This form is used to collect user information for targeted marketing materials. Please fill out this form carefully and truthfully.

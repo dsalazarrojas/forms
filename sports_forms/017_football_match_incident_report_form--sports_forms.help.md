@@ -1,13 +1,3 @@
-<thinking>
-We will create a help guide for a football match incident report form that explains the purpose, completion steps, and each field's intent to make it easier for users to understand and submit the form accurately.
-
-For instance, the form purpose is to collect information about player injuries during a match, which will help sports administrators or coaches to make informed decisions about player treatment, game strategy, and potential medical attention.
-To determine if the form purpose and content are relevant or not, we'll assess the form's fields which seem to include player and match details, such as player injury, match date, and event details, referee ID, and player involvement. We also need to consider the user's context and potential use case scenarios where this form will be used. We will also make sure that the form doesn't duplicate any other form that has already been created.
-
-We will make a note that this form is designed for users who might not be familiar with the sports field, and provide explanations for fields that might be unclear or have ambiguous labels. 
-
-</thinking>
-
 # Football Match Incident Report Form - Help Guide
 ## Purpose
 The Football Match Incident Report Form is a tool to collect information about player injuries during a match. This form helps sports administrators or coaches to gather data on injuries, which will be used to make informed decisions about player treatment, game strategy, and potential medical attention.

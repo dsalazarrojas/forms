@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "COVID-19 Social Service Relief Fund" form, the purpose of this form is to help social workers assess and provide relief services to individuals or families impacted by the COVID-19 pandemic. The form is designed to gather essential information about the applicant's financial situation, housing status, and personal circumstances, enabling social workers to determine the level of assistance needed and allocate resources effectively. Before filling out this form, please ensure you have not already applied for relief services through this fund or any other government programs.
-
-</thinking>
-
 # COVID 19 Social Service Relief Fund - Help Guide
 ## Purpose
 The COVID-19 Social Service Relief Fund is designed to provide financial assistance to individuals or families who have been impacted by the COVID-19 pandemic. This form helps social workers assess your situation and allocate resources to support your needs.

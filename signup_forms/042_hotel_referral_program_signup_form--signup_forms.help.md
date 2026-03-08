@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect referral information from users who want to participate in the Hotel Referral Program. To ensure relevance and non-duplication, we'll review the form submissions internally to prevent duplicate referrals and verify the information provided. This will help us maintain the integrity of the referral process.</thinking>
-
 # Hotel Referral Program Signup Form - Help Guide
 ## Purpose
 This form is a part of the Hotel Referral Program, designed for users who want to refer their friends and family to our hotel. By filling out this form, you'll be able to track and confirm referrals, helping us keep our referral system up-to-date and secure.

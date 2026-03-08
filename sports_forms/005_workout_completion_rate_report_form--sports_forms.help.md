@@ -1,7 +1,3 @@
-<thinking>
-The form is used to report on the completion rate of a workout. The user will input their name, email, and other relevant information about the workout they've completed or not completed. The form is likely used by gym staff or trainers to track progress and identify areas for improvement in a workout program. This form should only be filled out once for each workout completed and not multiple times for the same workout.
-</thinking>
-
 # Workout Completion Rate Report Form - Help Guide
 ## Purpose
 This form is used to report on the completion rate of a workout. Gym staff or trainers will use this form to track progress and identify areas for improvement in a workout program.

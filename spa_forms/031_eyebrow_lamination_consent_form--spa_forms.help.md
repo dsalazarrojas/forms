@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to obtain clients' consent for eyebrow lamination services, likely used in a beauty or aesthetics context. It's used to gather essential information from clients, ensuring they are aware of and agree to the services. The form likely belongs to a business or organization within this category, and its purpose is to streamline and document the consent process. The form doesn't collect sensitive information, suggesting it's primarily for marketing, business, or informational purposes. It's possible that the form is part of a larger process, where the information collected will be used to provide services, send reminders, or follow up with clients. This form should be reviewed to ensure it's not a duplicate or redundant form within the organization, and its content is accurate and up-to-date.
-</thinking>
-
 # Eyebrow Lamination Consent Form - Help Guide
 ## Purpose
 This form is used to obtain clients' consent for eyebrow lamination services. It's a brief document that ensures clients are aware of and agree to the services provided by your business or organization.

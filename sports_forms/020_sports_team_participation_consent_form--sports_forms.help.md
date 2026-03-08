@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect consent and medical information from parents and guardians of athletes participating in sports teams. The form is intended to ensure that parents and guardians have given their consent for their child to participate in team activities and to provide necessary medical information in case of emergencies. This form helps to prevent potential conflicts of interest and ensures that coaches, medical staff, and other team members are aware of any medical conditions that may impact an athlete's ability to participate in team activities. 
-
-The form is divided into several sections, each focusing on a different aspect of the athlete's participation. This guide will walk through each section and explain what information is required.
-
-</thinking>
-
 # Sports Team Participation Consent Form - Help Guide
 
 ## Purpose

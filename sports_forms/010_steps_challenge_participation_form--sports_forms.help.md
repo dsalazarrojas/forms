@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to collect participant information and challenge data for the Steps Challenge, a program that aims to encourage people to take steps towards a healthier lifestyle. This form ensures that participants provide necessary details for program administration and data analysis. Please note that the form is not yet complete as it is still in development. If you have already participated in a previous Steps Challenge, you do not need to fill out this form again.
-</thinking>
-
 # Steps Challenge Participation Form - Help Guide
 
 ## Purpose

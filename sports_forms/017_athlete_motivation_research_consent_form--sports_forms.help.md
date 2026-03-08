@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from athletes to gain insights into their motivations and behaviors in sports. It is crucial to ensure that the athlete understands the purpose and procedures of the research study, as well as their rights and responsibilities as participants. This form is designed to be completed by athletes, and their consent is required for participation in the study.
-</thinking>
-
 # Athlete Motivation Research Consent Form - Help Guide
 ## Purpose
 The Athlete Motivation Research Consent Form is designed to collect information from athletes about their motivations, behaviors, and experiences in sports. This form helps researchers understand athlete motivations and develop insights to improve performance and well-being.

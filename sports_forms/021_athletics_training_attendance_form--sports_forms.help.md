@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to record and report on athletics training sessions, including the date, time, and type of training, as well as the attendance status and participation level of athletes. The form will help coaches and trainers gather data on athlete performance, provide feedback, and track progress over time. This form is intended for use in a sports training setting, such as a gym or athletic facility. Before filling out this form, make sure you are in the correct context and that it is not a duplicate form for the same session.
-
-</thinking>
-
 # Athletics Training Attendance Form - Help Guide
 ## Purpose
 The Athletics Training Attendance Form is a tool for recording and reporting on athletics training sessions. It helps coaches and trainers gather data on athlete performance, provide feedback, and track progress over time.

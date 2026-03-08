@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to help collect information from potential clients interested in joining a hair renewal program.
-  The form aims to gather details about the client's concerns, preferred dates and times, and contact information.
-  It is essential to ensure that each field is filled in correctly to provide the most accurate and efficient service.
-  Please review each field carefully to ensure that you provide the required and relevant information.
-</thinking>
-
 # hair_renewal_program_appointment_form - Help Guide
 ## Purpose
 This form is created to gather information from potential clients interested in joining a hair renewal program. It is designed to be as straightforward and simple as possible to minimize confusion and errors.

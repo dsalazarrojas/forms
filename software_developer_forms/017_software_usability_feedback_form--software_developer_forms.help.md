@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect feedback on the usability of software applications. The form is intended to gather information about the user's experience with the software, any problems they encountered, and suggestions for improvement. It is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata. This form does not collect any sensitive or personal information and is intended for general feedback purposes only.
-
-</thinking>
-
 # software_usability_feedback_form - Help Guide
 ## Purpose
 The software usability feedback form is designed to gather feedback on the usability of software applications. Fill out this form to share your thoughts, experiences, and suggestions for improvement.

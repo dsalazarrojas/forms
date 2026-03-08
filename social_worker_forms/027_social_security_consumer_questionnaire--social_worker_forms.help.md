@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from social services clients about their consumer experience and concerns. The purpose of this form is to provide an opportunity for clients to share their thoughts and feelings about their interactions with social services. The form collects information on demographics, awareness, usage, benefits, concerns, satisfaction, and contact information. This information will help social services improve their services and better understand their clients' needs. This form is not meant to be filled out by clients who have already completed the same form, as it's intended for new or updated information.
-</thinking>
-
 # Social Security Consumer Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from social services clients about their consumer experience and concerns.

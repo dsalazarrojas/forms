@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospice Sponsorship Form - Help Guide
 ## Purpose
 This form is used to collect information from organizations interested in becoming a sponsor for our hospice. The form will help us understand your goals and needs, as well as other relevant details about your organization. This form is intended for organizations that want to support our mission by providing financial sponsorship.

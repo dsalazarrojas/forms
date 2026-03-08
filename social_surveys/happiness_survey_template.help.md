@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # happiness_survey_template - Help Guide
 ## Purpose
 This form, titled "Happiness Survey", aims to gather information about an individual's general well-being and the factors that contribute to their happiness from a social perspective.

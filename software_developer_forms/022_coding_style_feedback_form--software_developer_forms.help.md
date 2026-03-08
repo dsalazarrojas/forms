@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the coding style of a developer's code. The form is intended for code reviewers to provide structured feedback on various aspects of the code, including naming conventions, formatting, and documentation. The form will help developers identify areas of improvement and provide a clear and consistent evaluation of their coding style. The form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Coding Style Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the coding style of a developer's code. The form is intended for code reviewers to provide structured feedback on various aspects of the code, including naming conventions, formatting, and documentation.

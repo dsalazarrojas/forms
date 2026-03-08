@@ -1,10 +1,3 @@
-<thinking>
-The Baseball Fundraising Form is a digital form designed to collect donations from individuals and businesses supporting a local baseball team. The form is used to capture essential information for processing and acknowledging sponsorships.
-
-The form is divided into several sections to ensure the collection of accurate data for the team. The fields are explained below in a step-by-step manner:
-
-</thinking>
-
 # Baseball Fundraising Form - Help Guide
 ## Purpose
 The Baseball Fundraising Form is a digital form designed to collect donations from individuals and businesses supporting a local baseball team. This form is used to capture essential information for processing and acknowledging sponsorships.

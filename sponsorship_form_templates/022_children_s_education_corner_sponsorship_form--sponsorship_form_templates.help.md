@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Children Education Corner Sponsorship Form is a form designed to capture sponsorship information from individuals or organizations interested in supporting Children Education Corner's activities. This form is meant for those who wish to provide a monetary contribution to the organization. It is essential that sponsors understand the purpose of this form to avoid duplication of efforts and ensure that their contributions are accurately recorded.
 
 ## Purpose

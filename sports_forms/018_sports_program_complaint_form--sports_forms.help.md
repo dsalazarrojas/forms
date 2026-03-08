@@ -1,7 +1,3 @@
-<thinking>
-This is a guide to the sports_program_complaint_form, which is used for users to report incidents or complaints related to sports programs. The purpose of this form is to gather necessary information for the proper handling and processing of the complaints. Please ensure that the provided form is completed accurately and in its entirety to avoid any discrepancies or re-submission of forms. If you have already completed this form, please disregard this notice.
-</thinking>
-
 # sports_program_complaint_form - Help Guide
 ## Purpose
 The sports_program_complaint_form is used to report incidents or complaints related to sports programs. This form is designed to gather essential details for the proper handling and resolution of the issues raised.

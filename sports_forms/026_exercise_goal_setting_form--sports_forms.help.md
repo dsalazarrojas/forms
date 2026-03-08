@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users set goals for their exercise and fitness journey. It's intended to guide individuals in creating a customized plan tailored to their specific needs and preferences. To ensure accurate and helpful guidance, this form should not be filled out by someone who has not yet started their fitness journey or lacks basic knowledge of exercise and fitness. Please ensure that you have a basic understanding of these concepts before proceeding.
-</thinking>
-
 # Exercise Goal Setting Form - Help Guide
 ## Purpose
 This form is intended to help you set and track your exercise goals. It's a comprehensive tool that will guide you in creating a tailored plan based on your specific needs and preferences.

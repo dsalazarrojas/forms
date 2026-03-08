@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information from potential sponsors for the comic convention. This form helps us understand their company information, sponsorship level interest, marketing goals, and payment details. By providing accurate and clear information, we can better tailor our sponsorship opportunities to their needs and goals. Please ensure that you fill out this form completely and accurately, as it will help us to create a successful and beneficial partnership.
-</thinking>
-
 # Comic Convention Sponsorship Form - Help Guide
 ## Purpose
 This form is used to gather information from potential sponsors for the comic convention. We use this information to understand their company information, sponsorship level interest, marketing goals, and payment details. This helps us tailor our sponsorship opportunities to their needs and goals.

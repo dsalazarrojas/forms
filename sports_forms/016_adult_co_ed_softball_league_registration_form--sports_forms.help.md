@@ -1,10 +1,3 @@
-<thinking>
-The form appears to be for registering players for an adult co-ed softball league. The fields are divided into sections, each with a specific purpose. The "Player Registration" section gathers information about the player, including their full name, age, gender, phone number, and email address. This information is likely used for communication and scheduling purposes.
-The "Player Experience" section is optional and provides an opportunity for the player to share their experience level in the game, which could impact team drafting decisions. The "Preferred Positions" field allows players to select the positions they enjoy playing, which can inform team captain decisions.
-The "Team Information" section is also optional and likely used to gather information about the team the player is joining or captaining. The "Registration Type" field determines whether the player is registering as a free agent, team captain, or team member. The "Team Name if Applicable" field is only required if the player is registering as a team member or captain.
-The "Waiver and Agreement" section is optional and contains a liability waiver consent that players must agree to before registering. This is a standard practice in many sports leagues to protect themselves and other players from potential injuries or accidents.
-</thinking>
-
 # Adult Co Ed Softball League Registration Form - Help Guide
 ## Purpose
 This form is designed to register players for an adult co-ed softball league. It gathers essential information about the player, including their contact details, player experience, and preferred positions. The form also includes a liability waiver consent that players must agree to before registration.

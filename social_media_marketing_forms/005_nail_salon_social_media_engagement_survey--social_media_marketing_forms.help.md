@@ -1,9 +1,3 @@
-<thinking>
-To be honest, I'm not entirely sure why I'm creating a help guide for this form, as it seems to be a straightforward and simple form. However, I'll assume the form is being created for internal use within a specific organization, possibly a nail salon chain, to gauge their social media engagement. This form is likely used to collect data on which social media platforms the salon uses, what type of posts they create on each platform, and how they engage with their audience (measured by an "Engagement Score"). The purpose of this form is likely to help the organization track their social media efforts and make data-driven decisions to improve their online presence.
-
-If this form has been created before, it might be for a similar purpose (e.g., surveying social media usage and performance across various nail salons). If not, it could be a custom-made form for this specific project.
-</thinking>
-
 # Nail Salon Social Media Engagement Survey - Help Guide
 
 ## Purpose

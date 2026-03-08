@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from students registering for a kickboxing course. The purpose of this form is to gather the student's personal details, course registration information, and emergency contact information.
-
-To ensure that each student's registration is processed correctly, it's essential to fill out the form accurately and thoroughly. Please review the fields carefully and ensure that you provide the required information before submitting the form.
-
-This form is not intended to be filled out multiple times by the same student. If you're registering multiple students, please create a new form for each student.
-</thinking>
-
 # Kickboxing Course Registration Form - Help Guide
 ## Purpose
 The Kickboxing Course Registration Form is a crucial document that collects essential information from students registering for a kickboxing course. The form is designed to be completed by the student, and it's recommended that you review the fields carefully to ensure accurate and complete information.

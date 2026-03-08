@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a Personal Training Waiver form, which is designed to collect personal and contact information from individuals who wish to participate in personal training programs or activities. The purpose of this form is to provide a legally binding waiver of liability for the participant, emergency contact information, and any medical conditions that may affect their participation. This form is likely required for participants to sign before they can engage in physical training activities such as exercise classes, martial arts classes, or other physical activities that may involve some level of risk.
-
-Before completing this form, please make sure you have reviewed the entire form and understand all the questions and sections. This form has multiple pages, and some sections are optional. You will need to provide some personal and contact information, including your name, date of birth, and emergency contact information. You will also be asked about any medical conditions that may affect your participation in physical activities.
-
-To avoid duplication of effort, please make sure you have not already completed this form in the past.
-
-</thinking>
-
 # Personal Training Waiver - Help Guide
 ## Purpose
 This form is designed to provide a legally binding waiver of liability for individuals participating in personal training programs or activities. It collects personal and contact information, as well as any medical conditions that may affect participation.

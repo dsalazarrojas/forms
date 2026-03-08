@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Fitness Assessment Form" that covers its purpose, how to complete it, and a field-by-field explanation. This form appears to be related to gathering information about an individual's physical and mental well-being. The purpose of this form is likely to assess the fitness level and overall health status of users, possibly for medical or athletic purposes. To complete the form, users will need to provide various types of information, including general information, physical activity levels, and medical history. We should aim to make the explanations clear and concise, avoiding duplication and ambiguity.
-</thinking>
-
 # Fitness Assessment Form - Help Guide
 
 ## Purpose

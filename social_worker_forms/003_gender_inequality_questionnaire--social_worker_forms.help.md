@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to support the completion of the Gender Inequality Questionnaire form, which is an AI-generated form created for understanding perceptions of gender inequality in local communities. The form is a series of questions that ask about personal experiences and perceptions of inequality in the community, focusing on the frequency, severity, and personal impact of gender inequality. 
-
-To ensure that respondents understand the purpose and context of the form, please note that the form has been designed to gather information about local community experiences with gender inequality. The form's design is based on public survey topic metadata and is not affiliated with or endorsed by any form creation or data collection platforms. 
-
-</thinking>
-
 # Gender Inequality Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about personal experiences and perceptions of gender inequality in local communities.

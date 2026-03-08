@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a feature request form designed to collect information about new feature requests from customers, teams, or other stakeholders. The form is used to capture essential details about the feature, such as its description, priority, and status. It also allows users to specify who requested the feature and provides an option to add additional notes.
 
 The form is designed to be completed by anyone who wants to submit a feature request. It is not a mandatory form, and users are not forced to provide all the information. However, providing accurate and complete information will help us better understand and prioritize the feature requests.

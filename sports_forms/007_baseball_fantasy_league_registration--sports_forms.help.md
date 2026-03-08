@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baseball Fantasy League Registration - Help Guide
 
 ## Purpose

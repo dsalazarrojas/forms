@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note:** This form is designed to collect essential information for social media management agreements between businesses and their representatives. The form ensures that both parties are on the same page regarding the terms of their agreement, including the start and end dates, social media platforms, and any necessary signatures. This form should not be duplicated or altered without proper review and approval from relevant stakeholders.
-</thinking>
-
 # social_media_management_agreement - Help Guide
 ## Purpose
 This form is used to document and manage agreements related to social media management services between businesses and their representatives. It collects essential details such as business names, contact information, agreement terms, and signatures.

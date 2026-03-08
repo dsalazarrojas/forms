@@ -1,7 +1,3 @@
-<thinking>
-The Gym Social Media Backdrop Order Form is designed to gather information about a customer's social media backdrop order preferences. The form collects data on various aspects of social media backdrop orders, including the type of order (e.g., backdrop type), the payment status (e.g., whether payments have been made), and other relevant details. Before filling out this form, ensure that you are a valid customer of the service provider. If you're unsure, please contact our support team for clarification.
-</thinking>
-
 # Gym Social Media Backdrop Order Form - Help Guide
 ## Purpose
 The Gym Social Media Backdrop Order Form is used to collect information about a customer's social media backdrop orders.

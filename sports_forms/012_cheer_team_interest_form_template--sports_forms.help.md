@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed to gather information about potential team members, including their personal details, skills, experience, and availability. The goal is to help the team coaches and administrators evaluate applicants for the cheer team. The form is intended to be completed by individual applicants.
-</thinking>
-
-# Cheer Team Interest Form Template - Help Guide
+# # Cheer Team Interest Form Template - Help Guide
 ## Purpose
 This form is a template to help us get to know you better and determine whether you would be a good fit for our cheer team. Please fill out this form as completely and honestly as possible.
 

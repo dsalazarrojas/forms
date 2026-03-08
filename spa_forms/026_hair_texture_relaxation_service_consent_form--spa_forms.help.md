@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Hair Texture Relaxation Service Consent Form", we must first understand the form's purpose and the fields it contains. This form is designed to gather essential information from clients who are considering or have undergone a hair texture relaxation service. It's likely used in a healthcare or beauty industry setting to ensure clients are aware of the potential risks and consequences of the treatment and can provide informed consent.
-
-The form's layout consists of multiple pages, with some fields being optional and others required. Upon reviewing the input schema, we can identify eight sections: Client Details, Allergies and Medical Conditions, Risks, and Signature. The Client Details section likely captures the client's personal information, such as name and contact details. The Allergies and Medical Conditions section is where clients can list any known allergies or medical conditions that may impact their treatment. The Risks section is a critical part of the form, as it outlines potential risks associated with the hair texture relaxation service, and clients must acknowledge these risks by providing their signature in the Signature section.
-
-Before creating the help guide, I will ensure that the explanation is clear, concise, and practical, and will not invent unsupported business logic. The guide will follow the specified structure and provide a step-by-step explanation of each field.</thinking>
-
 # Hair Texture Relaxation Service Consent Form - Help Guide
 ## Purpose
 This form is used to gather essential information from clients before providing hair texture relaxation services. It ensures clients are informed about potential risks and consequences of the treatment and provide their consent.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will be based on the provided YAML fields. The form is designed for a "Moving Forward Survey" within the "social_worker_forms" category. The internal reasoning behind this form is to capture the experiences and reflections of social workers, aiming to identify their goals, challenges, accomplishments, and areas for improvement, ultimately helping them move forward in their profession. To ensure relevance, the form is not affiliated with or endorsed by any proprietary form platform, and its purpose is to collect data through original adaptations of public survey topics.
-
-</thinking>
-
 # Moving Forward Survey - Help Guide
 ## Purpose
 The Moving Forward Survey is designed to help social workers reflect on their experiences, goals, and challenges. It collects information on their accomplishments, lessons learned, and areas for improvement, aiming to assist them in identifying next steps and making positive changes in their profession.

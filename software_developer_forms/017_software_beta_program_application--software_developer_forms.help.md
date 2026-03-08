@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from software developers interested in participating in a beta program. The form is intended to gauge their motivations, experiences, and preferences for participating in the program. It's meant to be a starting point for further conversation and selection process.
-
-Before filling out this form, please note that it's a public form created using AI and released under CC BY 4.0. You can use, modify, and even sell this form as is or derived from it, just be sure to give credit.
-
-This form is not affiliated with or endorsed by any specific form platform or company.
-
-The selection process and decision-making are at the discretion of the program administrators.
-
-Please fill out the form accurately and honestly to ensure a smooth and efficient process.
-</thinking>
-
 # software_beta_program_application - Help Guide
 ## Purpose
 This form is designed to collect information from software developers interested in participating in a beta program. It will help us understand your motivations, experiences, and preferences for participating in the program.

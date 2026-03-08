@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect emergency contact information for players in sports teams. It is meant for players to provide their own information as well as for emergency contacts to provide their own information and relationship with the player. This form is not intended for player registration or other purposes.
-</thinking>
-
 # Player Emergency Contact Form - Help Guide
 ## Purpose
 This form is used to collect emergency contact information for players, including their own contact information and the contact information for up to two emergency contacts. The form helps ensure that the team has the necessary contact information in case of an emergency.

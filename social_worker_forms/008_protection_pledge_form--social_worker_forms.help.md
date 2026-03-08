@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Protection Pledge Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # we_quality_u_can_trust_asking_for_donation_for_mask_food_face_shields_for_our_health_care - Help Guide
 ## Purpose
 This form is a donation request form for mask and food face shields for health care, specifically for nursing homes and individuals in need. It is used to collect information for categorization and description purposes.

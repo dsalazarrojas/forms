@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that end users understand the purpose of this form and what it's used for. This form is intended for clients to submit their personal information, training goals, and availability for a personal trainer to be assigned to them. To avoid duplication, we should check if the client has already submitted a form before allowing them to submit again. This form is a crucial part of the personal training process, and understanding its purpose and requirements is essential for a smooth client-trainer experience.</thinking>
-
 # Personal Trainer Request Form - Help Guide
 ## Purpose
 The Personal Trainer Request Form is designed to collect information from clients about their personal training needs and preferences. This form helps us assign a suitable personal trainer to them for an effective and enjoyable training experience.

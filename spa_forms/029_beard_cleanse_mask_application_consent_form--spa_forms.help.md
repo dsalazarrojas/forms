@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for clients to provide information about themselves and their skin and treatment preferences. The form is used by estheticians to understand the client's skin type, medical history, and treatment preferences before performing a beard cleanse mask treatment. The form ensures that the client understands the treatment process, risks, and their role in the treatment, and provides a clear statement of consent.
 
 # Beard Cleanse Mask Application Consent Form - Help Guide

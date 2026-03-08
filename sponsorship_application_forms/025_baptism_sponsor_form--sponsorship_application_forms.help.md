@@ -1,12 +1,3 @@
-<thinking>
-This form is used for the Baptism Sponsor Form, which is used to collect information from individuals who want to sponsor a candidate for the sacrament of Baptism. The sponsor is usually a parent, grandparent, or a close relative who is responsible for guiding the candidate in their faith and supporting them in their spiritual journey. The information collected through this form will be used by the candidate to understand the importance of their faith and the role of the sponsor in their life.
-
-Before filling out this form, please ensure that you are not duplicating an existing sponsorship application. If you have previously submitted a sponsorship application, please do not submit another one.
-
-To complete this form, please provide the following information:
-
-</thinking>
-
 # Baptism Sponsor Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who want to sponsor a candidate for the sacrament of Baptism. The sponsor is responsible for guiding the candidate in their faith and supporting them in their spiritual journey.

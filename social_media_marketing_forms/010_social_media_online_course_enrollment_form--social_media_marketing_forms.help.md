@@ -1,5 +1,3 @@
-<thinking>As a technical writer, my goal is to create a user-friendly help guide that explains the social media online course enrollment form in a clear and concise manner. I will follow the provided YAML structure and guidelines to ensure that the form is easy to understand for end-users. I will use Markdown format for the guide, as it is a popular choice for documentation.</thinking>
-
 # social_media_online_course_enrollment_form - Help Guide
 ## Purpose
 The social media online course enrollment form is designed to collect user information and course preferences for online course enrollment. This form is used to streamline the process of enrolling users in social media online courses.

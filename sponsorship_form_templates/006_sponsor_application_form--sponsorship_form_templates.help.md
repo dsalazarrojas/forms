@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential sponsors for events or projects. The form is used to determine the level of sponsorship, the type of sponsor, and other relevant details. This form should only be filled out once for each sponsor and not duplicated. Please ensure that all required fields are filled out correctly and accurately.
-</thinking>
-
 # Sponsor Application Form - Help Guide
 ## Purpose
 The Sponsor Application Form is used to collect information from potential sponsors for events or projects. It helps determine the level of sponsorship, the type of sponsor, and other relevant details.

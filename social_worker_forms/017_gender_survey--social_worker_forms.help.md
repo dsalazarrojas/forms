@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's gender identity, expression, and role, as well as their comfort level with certain aspects of these topics. This guide will help users navigate the form and ensure they understand the purpose and functionality of each field.
-
-To confirm, the form will collect data on three main aspects:
-
-* Gender identity: Whether the individual identifies as male, female, non-binary, etc.
-* Gender expression: Whether the individual's gender expression aligns with their gender identity.
-* Gender role: Whether the individual identifies with specific gender roles or stereotypes.
-
-This form will not store any sensitive or personally identifiable information, and all questions are optional.
-
-This form is designed to be used in a non-judgmental and supportive environment, and it's essential to complete it honestly, as the data collected will help us better understand the diversity of our community.
-
-Please let me know if you have any concerns or questions while completing the form. You can ask your supervisor or the help desk for assistance if needed.
-</thinking>
-
 # Gender Survey - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's gender identity, expression, and role. This information will help us better understand the diversity of our community and ensure that our services are inclusive and supportive.

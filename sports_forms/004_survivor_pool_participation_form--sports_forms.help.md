@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to register their interest in joining a survivor pool. It collects basic contact information and eligibility status for potential pool members. The form does not collect any personal financial information.
-</thinking>
-
 # Survivor Pool Participation Form - Help Guide
 ## Purpose
 This form is for participants to register their interest in joining a survivor pool. It helps us understand who is interested in joining and their eligibility status.

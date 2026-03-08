@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from special education professionals to assess the needs and challenges of individuals with special needs. It's a critical document in the process of identifying and addressing these needs, and its purpose is to provide a comprehensive checklist for special education professionals to use as a reference. Before proceeding, please take a moment to review the form's purpose and requirements to avoid any duplication or unnecessary completion. This form is designed to be used by special education professionals to gather information on students' needs and progress, and it is not meant to be used for any other purpose. The information collected through this form will help in creating tailored support plans for students with special needs.</thinking>
-
 # special_education_checklist_form - Help Guide
 ## Purpose
 This form is designed to collect information from special education professionals to assess the needs and challenges of individuals with special needs, providing a comprehensive checklist for reference and supporting the creation of tailored support plans.

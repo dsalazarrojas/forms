@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # National Team Player Eligibility Form - Help Guide
 
 ## Purpose

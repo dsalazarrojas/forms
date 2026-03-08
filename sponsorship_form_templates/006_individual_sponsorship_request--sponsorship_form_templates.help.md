@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for requesting individual sponsorships from potential donors or sponsors. It is intended to collect relevant information about the sponsor's contact details and the sponsorship specifics. Before filling out the form, please ensure that you have not already submitted a sponsorship request for this project/initiative. Duplicate requests may cause confusion and may not be processed.
-</thinking>
-
 # Individual Sponsorship Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential sponsors for individual sponsorships. Please provide accurate and clear information to ensure that your request is processed correctly.

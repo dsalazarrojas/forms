@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions on the topic of criminal justice reform. The purpose of this form is to gather information from individuals who want to contribute to the conversation on improving the criminal justice system in your organization. This form is not meant for reporting crimes or providing emergency contact information. Please ensure that you have not submitted this form before as it may be considered duplicate feedback. If you have already provided input on this topic, your submission will not be accepted.
-</thinking>
-
 # Criminal Justice Reform Petition Form - Help Guide
 
 ## Purpose

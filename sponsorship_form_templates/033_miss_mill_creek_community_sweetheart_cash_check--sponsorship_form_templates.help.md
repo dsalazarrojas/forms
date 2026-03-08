@@ -1,7 +1,3 @@
-<thinking>
-The "miss_mill_creek_community_sweetheart_cash_check" form is a crucial tool for tracking and documenting sponsorships within the Mill Creek community. The form is designed to gather essential information from sponsors who have made cash contributions to the community. By filling out this form, sponsors will provide details about their contribution, which will enable the community to properly account for and distribute the funds.
-</thinking>
-
 # miss_mill_creek_community_sweetheart_cash_check - Help Guide
 ## Purpose
 The "miss_mill_creek_community_sweetheart_cash_check" form is intended to collect information about cash checks received from sponsors within the Mill Creek community. This form helps the community to accurately track and manage the sponsorships.

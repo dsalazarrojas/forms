@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly, please note that the form purpose is to collect information from companies interested in sponsoring the Aerospace Conference. The fields marked as "required" must be filled out, and the others are optional. The form is split into several sections to help guide the user through the process. Please review each field carefully to ensure that you have filled out the correct information. If you are unsure about any of the fields, please contact the conference organizers for clarification.
-</thinking>
-
 # Aerospace Conference Sponsorship Form - Help Guide
 ## Purpose
 The Aerospace Conference Sponsorship Form is designed to collect information from companies interested in sponsoring the conference. This form helps us to understand your company's interests and preferences for the sponsorship packages we offer.

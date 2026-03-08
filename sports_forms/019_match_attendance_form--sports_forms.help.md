@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record attendance at a sports match. This form is designed to be simple and easy to use, making it perfect for capturing information from participants and teams about their attendance at a match. To ensure that the form is used correctly, please note that it is not affiliated with or endorsed by any form platforms, and the original code was created using public metadata as inspiration.
-</thinking>
-
 # Match Attendance Form - Help Guide
 ## Purpose
 The Match Attendance Form is designed to collect information from participants and teams about their attendance at a sports match. This form is intended to be used for internal purposes, such as recording attendance, tracking participation, and gathering feedback.

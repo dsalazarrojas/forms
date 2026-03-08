@@ -1,5 +1,3 @@
-<thinking>This form is intended to be used for informed consent by individuals who will be participating in CrossFit training sessions. It is likely used in a gym or fitness setting to gather relevant contact information and medical history from clients. Before filling out this form, please ensure you have not already completed it for the same purpose. If you have any questions or concerns, please reach out to the relevant authorities.</thinking>
-
 # Crossfit Training Informed Consent Form - Help Guide
 ## Purpose
 This form is used to collect essential information from individuals participating in CrossFit training sessions. The data collected will be used to ensure your safety and provide emergency contact information in case of an injury.

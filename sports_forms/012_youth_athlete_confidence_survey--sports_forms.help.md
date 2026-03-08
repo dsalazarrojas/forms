@@ -1,12 +1,3 @@
-<thinking>
-We are checking to see if the form purpose and requirements are clear and not duplicated. We will provide guidance on how to complete the form and an explanation of each field to ensure the end-user can accurately and efficiently fill it out. Upon review, the form purpose and requirements appear to be clear and distinct. The form seems to be collecting data from youth athletes to gauge their confidence levels in various aspects of sports and competition.
-
-We will create a user-facing help guide that explains the form's purpose, how to complete it, and provide explanations for each field. The form's purpose is to collect data from youth athletes on their confidence levels in sports and competitions. The guide will be concise, practical, and concrete to ensure end-users can quickly understand and fill out the form.
-
-We will start by explaining the form's purpose and requirements.
-
-</thinking>
-
 # Youth Athlete Confidence Survey - Help Guide
 ## Purpose
 The Youth Athlete Confidence Survey is a form designed to collect information from young athletes about their confidence levels in various aspects of sports and competitions. This survey aims to collect data to improve coaching and support services for young athletes.

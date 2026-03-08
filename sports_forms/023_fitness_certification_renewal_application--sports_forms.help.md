@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help certified fitness professionals renew their certifications. The certification renewal process is a way to ensure that certified professionals continue to meet the required standards and best practices in the fitness industry. This form is used by certified professionals to provide necessary information to support their certification renewal. It is essential that users complete this form accurately and thoroughly to ensure that they can maintain their certification status. To prevent duplication or incorrect submissions, please review the form carefully before starting the certification renewal process.
-</thinking>
-
 # Fitness Certification Renewal Application - Help Guide
 ## Purpose
 The purpose of this form is to help certified fitness professionals renew their certifications. This form gathers necessary information to support the certification renewal process.

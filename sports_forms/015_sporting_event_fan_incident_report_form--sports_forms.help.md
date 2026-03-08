@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting reports of incidents that have occurred during a sporting event. The form is intended to gather information from fans, staff, or officials involved in the incident. The purpose of this form is to provide a structured and systematic way to document and analyze incidents that require attention from event organizers, security personnel, or other stakeholders. This form can be used to identify potential risks, improve crowd safety, and take necessary actions to prevent future incidents.
-
-</thinking>
-
 # Sporting Event Fan Incident Report Form - Help Guide
 ## Purpose
 The form is designed to collect reports of incidents that have occurred during a sporting event. This form will help identify potential risks and improve crowd safety.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Classroom Support Agreement - Help Guide
 ## Purpose
 The Classroom Support Agreement is a form used to document the support services provided to a student in a classroom setting. It outlines the specific services and accommodations needed for the student, as well as the support team members and parents/guardians involved.

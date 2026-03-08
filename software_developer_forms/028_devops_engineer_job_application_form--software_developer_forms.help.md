@@ -1,16 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure accurate and relevant applications, this form is designed to collect specific and concise information from candidates applying for a DevOps Engineer position. The form is divided into several sections, each focusing on a different aspect of the candidate's background and experience. By providing clear and concise explanations for each field, we aim to guide applicants through the process with ease and ensure they submit a comprehensive application.
-
-Please note that this form is meant to be a general guide and might need to be adjusted according to the specific requirements and needs of the hiring team or organization.
-
-Before starting, please ensure you have a clear understanding of the position and the company's expectations. This form is not intended to be a generic template but rather a tailored guide for this specific job opening.
-
-By completing this form, you are providing us with the required information to assess your qualifications and suitability for the DevOps Engineer position. Please answer each question carefully, as it will help us in making an informed decision.
-
-If you have any questions or concerns, do not hesitate to reach out to us. We are committed to making this process as smooth and efficient as possible.
-
-</thinking>
-
 # DevOps Engineer Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates applying for the DevOps Engineer position. It will help us assess your qualifications, experience, and fit for the role.

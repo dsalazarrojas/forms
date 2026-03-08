@@ -1,5 +1,3 @@
-<thinking>...This form is designed for basketball tryouts. As an athlete, the form aims to collect relevant information about the athlete, including their personal details, parent/guardian information, and emergency contact details. This form is a part of the tryout process for the basketball team. I will now provide the user-facing help guide...</thinking>
-
 # Basketball Tryout Form - Help Guide
 
 ## Purpose

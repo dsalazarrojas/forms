@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Spa Renovation Planning Appointment Form, we need to first understand the form's purpose and the fields it contains. 
-
-Upon reviewing the provided YAML, it appears the form is designed to collect information from a spa manager to plan a renovation project. The form collects details about the project, the consultant, the appointment request, contact information, project budget, spa features, location, and follow-up details. 
-
-We need to confirm that this form is not used for booking appointments but rather for planning and managing spa renovations. It is also not used for spa services but for renovations. This form is not a sales form, and its purpose is to provide the spa manager with all the necessary information to plan and execute the renovation project. 
-
-The form's purpose is also to collect information that will be used for follow-up activities such as follow-up dates and status.
-
-The fields are mostly text fields with some select options for specific choices like spa features, location, and payment terms. There are also some date fields for start and end dates of the renovation project and follow-up date. The form seems to be comprehensive in nature, covering various aspects of the renovation project.
-
-Now, let us proceed with the help guide.</thinking>
-
 # Spa Renovation Planning Appointment Form - Help Guide
 ## Purpose
 The Spa Renovation Planning Appointment Form is used to gather information from a spa manager to plan and manage spa renovations. It captures details about the project, the consultant, appointment requests, contact information, project budget, spa features, location, and follow-up details.

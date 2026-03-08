@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from athletes seeking sponsorship for their sports career. The form collects data on the athlete's personal details, athletic achievements, and sponsorship request. The goal is to create a comprehensive application that allows the sponsor to review and make informed decisions on potential partnerships.
-</thinking>
-
 # Athlete Sponsorship Application Form - Help Guide
 ## Purpose
 

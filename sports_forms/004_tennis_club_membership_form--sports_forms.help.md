@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information and data from potential members of a tennis club. It seems to be a comprehensive form with various fields for collecting member details, emergency contacts, payment information, and other relevant data. The form is likely used for administrative purposes such as tracking membership status, payment history, and staff details. Before proceeding, let's verify that there is no duplicate or redundant form available in our database that covers similar purposes. If such a form exists, we would not create another one to avoid redundancy.</thinking>
-
 # tennis_club_membership_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential members of a tennis club. It gathers data on member details, emergency contacts, payment information, and other relevant data for administrative purposes.

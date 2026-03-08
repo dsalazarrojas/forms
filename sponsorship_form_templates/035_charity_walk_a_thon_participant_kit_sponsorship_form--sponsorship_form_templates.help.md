@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for sponsors to provide financial and material support for participants in a charity walk-a-thon event. The form captures the sponsor's contact information, the walk-a-thon event details, and the sponsorship commitment. The form is designed to be completed by the sponsor to provide their information and preferences for recognition and communication.
-
-This guide will walk you through the purpose and fields of the Charity Walk A Thon Participant Kit Sponsorship Form.
-
-</thinking>
-
 # Charity Walk A Thon Participant Kit Sponsorship Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain sponsorship commitments and support for participants in a charity walk-a-thon event.

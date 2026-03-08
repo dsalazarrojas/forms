@@ -1,10 +1,3 @@
-<thinking>
-The Sports Technique Assessment form is a tool used to evaluate an athlete's skills and performance in a specific sport. This form is designed to collect information from coaches and trainers on an athlete's progress, technique, and other relevant details. Before proceeding, please ensure that you are using this form for its intended purpose and that the information collected is not already recorded elsewhere.
-
-This form is divided into two main sections: Athlete Details and Assessment. The Athlete Details section collects information about the athlete, including their name, sport, and contact details. The Assessment section is where you provide a detailed evaluation of the athlete's technique, progress, and any additional comments or observations.
-
-This form is typically used by coaches, trainers, or other sports professionals to assess an athlete's skills and provide constructive feedback. Please fill out the form accurately and completely, and use it as a guide to support your evaluation and coaching decisions.</thinking>
-
 # Sports Technique Assessment - Help Guide
 
 ## Purpose

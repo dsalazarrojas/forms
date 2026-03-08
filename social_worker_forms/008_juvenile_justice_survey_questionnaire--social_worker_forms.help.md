@@ -1,9 +1,3 @@
-<thinking>
-This form, the "juvenile justice survey questionnaire," is designed to gather information from social workers and other professionals in the juvenile justice system. The purpose of this form is to assess their experiences, opinions, and perceptions about the current state of juvenile justice in their area. It is likely used in research or evaluation settings to inform policy or program development.
-
-To ensure that this form is completed accurately and effectively, it is essential that the responses are genuine and thoughtful. Therefore, we should check for duplicate forms and avoid using this form for non-qualitatively relevant purposes.
-</thinking>
-
 # juvenile_justice_survey_questionnaire - Help Guide
 ## Purpose
 The juvenile justice survey questionnaire is a tool to collect information from social workers and professionals in the juvenile justice system. It helps us understand their experiences, opinions, and perceptions about juvenile justice.

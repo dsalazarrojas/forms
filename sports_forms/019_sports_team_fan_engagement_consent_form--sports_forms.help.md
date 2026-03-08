@@ -1,10 +1,3 @@
-<thinking>
-**Sports Team Fan Engagement Consent Form Purpose:**
-This form is designed to capture fan engagement data for sports teams. It will help the team understand how fans want to be engaged with, which will allow them to tailor their communication and content to the fan's preferences.
-The form will be used to collect contact information and consent from fans, including email, phone number, and preferred communication channels. This data will be used to create a more personalized experience for fans and to ensure that the team is compliant with data protection regulations.
-The form is only used for internal purposes within the sports team's organization and will not be used for any other purpose.
-</thinking>
-
 # sports_team_fan_engagement_consent_form - Help Guide
 ## Purpose
 The sports team fan engagement consent form is designed to collect information from fans to create a more personalized experience.

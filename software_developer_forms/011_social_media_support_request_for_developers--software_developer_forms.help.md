@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from software developers who are encountering issues with social media support. The form is not intended for general customer support inquiries. It is crucial that the user fills in the form with accurate and detailed information to help the support team resolve the issue efficiently. Please ensure that the information is not redundant or unnecessary. If you're unsure about any part of the form, please contact the support team directly for guidance.
-</thinking>
-
 # social_media_support_request_for_developers - Help Guide
 
 ## Purpose

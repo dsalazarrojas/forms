@@ -1,14 +1,3 @@
-<thinking>
-
-This form is for sports facilities to order restroom supplies. To confirm its purpose and ensure no duplicate orders: 
-
-* This form is only used for sports facilities and not for other types of facilities.
-* The current date is not considered as a valid date for form completion.
-
-If the facility has previously ordered the same type and quantity of items before, it is recommended to check the "Supply Order Date" field to see if it has been ordered recently, to avoid creating a new order.
-
-</thinking>
-
 # Sports Facility Restroom Supply Order Form - Help Guide
 ## Purpose
 The purpose of this form is to enable sports facilities to order restrooms supplies quickly and efficiently. It captures essential information about the facility, the order details, and contact information.

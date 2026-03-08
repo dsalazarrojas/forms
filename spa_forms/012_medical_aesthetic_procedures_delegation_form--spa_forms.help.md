@@ -1,5 +1,3 @@
-<thinking>... This form, named "Medical Aesthetic Procedures Delegation Form," is designed to collect information related to the provision of medical aesthetic procedures. It appears to be intended for use in a medical setting, perhaps for administrative or record-keeping purposes. The form includes fields for various pieces of information, including provider details, client information, and procedure specifics. It's likely used in a clinical setting to document the details of medical aesthetic procedures. To confirm, please review the form carefully to ensure it accurately reflects your needs. ...</thinking>
-
 # Medical Aesthetic Procedures Delegation Form - Help Guide
 ## Purpose
 This form is used to record information about medical aesthetic procedures, allowing healthcare providers to track and document procedures performed on clients.

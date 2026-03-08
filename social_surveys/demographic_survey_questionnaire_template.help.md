@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather basic demographic information for social research and analysis.
-The form is intended to collect data on age groups, gender identity, educational attainment, employment status, and income range. This information will help researchers to better understand the characteristics of the population being surveyed and to analyze the results in a more accurate and representative manner.
-This form is not affiliated with any form platform, and its creation was inspired by public survey topic metadata.
-</thinking>
-
 # demographic_survey_questionnaire_template - Help Guide
 ## Purpose
 

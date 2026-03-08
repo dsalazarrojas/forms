@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Tournament Registration Process Survey" form, I'll first outline the form's purpose and relevance in the following block:
-
-This form is designed to gather information about a tournament's registration process, including details about the tournament itself, its participants, and overall experience. This data will help tournament organizers and stakeholders understand how well their registration process is working, identify areas for improvement, and make informed decisions about how to optimize it. This form should only be completed by the person responsible for organizing the tournament, as it collects information about the registration process and overall experience.
-
-</thinking>
-
 # Tournament Registration Process Survey - Help Guide
 
 ## Purpose

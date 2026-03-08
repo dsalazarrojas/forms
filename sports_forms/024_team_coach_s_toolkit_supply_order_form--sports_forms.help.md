@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help team coaches order and manage their supplies. It is likely used in educational settings, sports management, or other fields where coaches need to purchase materials or equipment for their teams. This form should not be used for other purposes not related to team coaching or supply ordering.
-</thinking>
-
 # Team Coaches Toolkit Supply Order Form - Help Guide
 ## Purpose
 The Team Coaches Toolkit Supply Order Form is designed to help team coaches order and manage their supplies. This form will collect information about the team coach, team name, and order date to facilitate the supply ordering process.

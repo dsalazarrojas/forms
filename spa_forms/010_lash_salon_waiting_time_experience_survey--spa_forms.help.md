@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to gather feedback from customers about their waiting time experience at the salon. The goal is to collect ratings and comments about the staff's helpfulness, the salon's cleanliness, and overall experience. This data will help us identify areas for improvement to provide better service.
-  We have designed this form with multiple pages to ensure that the user can provide detailed and specific feedback.
-  Before filling out this form, please ensure that you are providing honest and accurate feedback.
-</thinking>
-
 # lash_salon_waiting_time_experience_survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from customers about their waiting time experience at the salon. Your input will help us improve our services.

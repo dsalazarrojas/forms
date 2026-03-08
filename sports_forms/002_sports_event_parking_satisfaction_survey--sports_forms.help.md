@@ -1,18 +1,3 @@
-<thinking>
-To determine the form's purpose, I reviewed the input YAML. The form's title, `sports_event_parking_satisfaction_survey`, suggests it might be for measuring the satisfaction of sports event attendees regarding parking at the event. Given this title, it's reasonable to assume this form aims to collect opinions and feedback from users on their experience with parking services at the sports event.
-
-The form consists of four fields, all of which appear to be optional, which might indicate that users are allowed to provide feedback without feeling obligated to disclose personal details if they choose not to.
-
-The fields provided are "name", "email", "phone", and "introduction". The "introduction" field is a note type, which typically means it's a free-form text for users to provide a brief explanation or comment. The other three fields are for collecting personal data: "name", "email", and "phone". 
-
-Given the form's purpose and the fields available, it seems the primary goal is to gather basic contact information to address any follow-up communications and allow users to share their thoughts on the parking experience. However, without more specific details on the form's usage, this is the most logical interpretation based on the provided YAML.
-
-To ensure this form does not duplicate efforts with internal or external tools, I would recommend checking if there are any other forms or mechanisms in place that might address similar objectives, such as surveys or feedback mechanisms through event management systems.
-
-This analysis suggests the form is intended for general feedback and contact purposes for sports event attendees regarding parking satisfaction, allowing for a basic yet informative capture of user experiences.
-
-</thinking>
-
 # sports_event_parking_satisfaction_survey - Help Guide
 ## Purpose
 The sports_event_parking_satisfaction_survey is designed to collect feedback from attendees of sports events about their parking experiences. It aims to gather opinions on the quality and effectiveness of the event parking services, allowing organizers to improve and optimize their parking management.

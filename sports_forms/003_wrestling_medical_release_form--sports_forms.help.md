@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wrestling_medical_release_form - Help Guide
 
 ## Purpose

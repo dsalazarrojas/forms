@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather sponsorship information from potential sponsors for a educational expo. It is intended for educational institutions, non-profit organizations, or for-profit organizations that wish to support the event. The form will be used to evaluate the sponsorship requests and make decisions on their approval.
-
-Please make sure to only submit the form once, as duplicate submissions will be ignored.
-
-Note: This form is intended for the use of the event organizers and will not be publicly accessible.
-</thinking>
-
 # educational_expo_sponsorship_form - Help Guide
 ## Purpose
 This form is used to collect sponsorship applications for the educational expo. It is a tool for the event organizers to gather necessary information from potential sponsors.

@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help soccer players understand the required information to be collected, which is not duplicated or redundant in any way.
-- The form is designed to collect essential data about a soccer player.
-- Please do not fill out this form if you have already submitted it previously.
-</thinking>
-
 # Soccer Player Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about a soccer player for record-keeping and administrative purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from community members regarding their opinions on and experiences with gang injunctions. A gang injunction is a legal tool used by law enforcement to prevent and investigate gang-related activities. This form is not intended to be used in emergency situations or as a substitute for official reporting mechanisms. Please ensure that your responses are based on your genuine experiences and opinions.
-</thinking>
-
 # Petitions Against Gang Injunctions Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from community members about their experiences and opinions on gang injunctions, which are legal tools used to prevent and investigate gang-related activities.

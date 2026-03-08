@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for individuals who want to share their experiences and insights from their journey quitting smoking. The purpose of this form is to gather information about the individual's background, their approach to quitting smoking, and any medical conditions they may have been affected by smoking. The form is not intended for individuals seeking medical or professional advice.
-
-The following pages will cover the entire form. Please make sure to review each page carefully before submitting the form.
-
-Please note that the form is not intended to be filled out by medical professionals or for medical diagnosis. It is for personal, non-professional use.
-</thinking>
-
 # gilliganandtheskippertoo - Help Guide
 ## Purpose
 This form is designed for individuals who want to share their experiences and insights from their journey quitting smoking.

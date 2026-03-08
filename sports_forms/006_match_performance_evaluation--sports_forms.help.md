@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of a sports match, specifically the performance of a team or player in a match. This form is used to provide a structured and comprehensive way to collect data on various aspects of the match, including the match details, player performance, team performance, and evaluation notes.
-</thinking>
-
 # match_performance_evaluation - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the performance of a sports match, providing a structured and comprehensive way to collect data on various aspects of the match.

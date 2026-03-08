@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Sports Video Story Consent Form - Help Guide
 
 ## Purpose

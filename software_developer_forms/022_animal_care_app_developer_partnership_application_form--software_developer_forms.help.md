@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information from software developers interested in partnering with a company that specializes in animal care technology. The purpose of the partnership is to explore potential collaborations for developing software solutions. 
-
-Before filling out the form, please ensure that you are not a current partner with the company and that this is your first application for a partnership. 
-
-The form should take approximately 30-45 minutes to complete. Please answer all questions as thoroughly and accurately as possible to ensure the best chance of a successful partnership.
-
-To increase your chances of being considered for a partnership, please be as specific as possible in your answers, especially in the "proposed solution" and "value proposition" fields. 
-
-Please note that the company values innovation, reliability, and a strong track record of successful partnerships. Your answers will be reviewed based on these criteria.
-
-</thinking>
-
 # Animal Care App Developer Partnership Application Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # League Locker Room Supply Order Form - Help Guide
 ## Purpose
 This form is designed for coaches and staff to submit requests for supplies needed in the locker room. Please ensure that your request includes all required information to guarantee a successful delivery.

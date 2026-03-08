@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to join a choir. This form likely exists to manage and track potential choir members' applications, including their personal details, singing experience, and availability for rehearsals. This information can be used by the choir management to assess applicants, schedule rehearsals, and make informed decisions about which individuals to invite to join the choir.
-
-To prevent duplicate submissions, it's possible that a unique identifier or email address is used to track individual applicants.
-
-The form is likely used by the choir management or administrators to process applications, which might involve reviewing and approving or denying applications based on the provided information.
-
-Before completing this form, ensure you're familiar with the choir's policies, rules, and requirements.
-
-This guide is for informational purposes to help users understand the fields and what's expected of them when completing the form.
-
-</thinking>
-
 # Choir Signup Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals who wish to join the choir. Please fill out this form accurately and thoroughly to ensure a smooth application process.

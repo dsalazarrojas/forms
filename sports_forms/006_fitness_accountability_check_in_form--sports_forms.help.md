@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track an individual's fitness journey, helping them stay accountable to their workout routine. It is designed to collect general information, exercise details, progress tracking, and goal setting. To ensure accuracy, please complete the form carefully, and avoid duplicating or submitting incomplete information. 
-</thinking>
-
 # Fitness Accountability Check In Form - Help Guide
 ## Purpose
 

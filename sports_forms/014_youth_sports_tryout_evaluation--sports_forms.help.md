@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a clear and concise help guide for the "Youth Sports Tryout Evaluation" form. I will review the YAML provided and provide a step-by-step guide to filling out the form, explaining each field in an accessible and practical manner. This guide will help users understand the purpose of the form, how to complete it, and what each field means, ensuring they have a smooth and error-free experience.</thinking>
-
 # Youth Sports Tryout Evaluation - Help Guide
 ## Purpose
 The "Youth Sports Tryout Evaluation" form is designed to collect information about a youth athlete's performance during a sports tryout. The form is used to assess an athlete's skills, level, attitude, and other relevant details to help coaches and team managers make informed decisions about their participation in a sport.

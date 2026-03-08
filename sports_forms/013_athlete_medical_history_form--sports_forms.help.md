@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "Athlete Medical History Form" that explains the form's purpose, how to complete it, and each field's meaning in a clear and concise manner. This guide will be presented in Markdown format, following the specified structure.</thinking>
-
 # Athlete Medical History Form - Help Guide
 ## Purpose
 The Athlete Medical History Form is a critical document that helps coaches, trainers, and medical staff gather essential information about an athlete's medical history, ensuring their safety and well-being during sports activities. This form is required for all athletes to fill out before participating in sports programs.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for Social Workers to evaluate the innovation of a social work practice. It's likely used to gather feedback, insights, and suggestions from users on how to improve their practice. The purpose of this form is to ensure that social workers receive valuable input on how to refine and improve their practice, which ultimately benefits the individuals they're serving. 
-
-This form is not designed for multiple uses, it's meant to be filled out once for each specific social work practice evaluation.
-
-</thinking>
-
 # Social Work Practice Innovation Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback and insights on the innovation of a social work practice. It will help social workers refine and improve their practice, providing valuable input for better service delivery.

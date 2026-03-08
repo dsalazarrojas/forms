@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Internship Sponsor Application Form. The internal reasoning block will be used to explain the purpose and relevance of the form, checking for duplication and non-relevance before outputting the final help guide in Markdown format.</thinking>
-
 # Internship Sponsor Application Form - Help Guide
 ## Purpose
 The Internship Sponsor Application Form is a tool used to gather information from internship sponsors to support internship programs. This form helps our team assess sponsor interest and eligibility for sponsoring an intern. Please ensure you are the correct sponsor or have permission to submit on behalf of the sponsor before completing this form. If you have already submitted this form for the same sponsor, you may not need to complete this form again. If you are not sure or have questions, please reach out to your internal team for clarification.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by hospices to submit their sponsorship information for review and approval. Please fill out this form if you represent a hospice and are interested in becoming a sponsor or partner with our organization. 
-</thinking>
-
 # Hospice Sponsorship Form - Help Guide
 ## Purpose
 This form is for hospices to submit their sponsorship information for review and approval. Please ensure that you have all necessary information ready before filling out this form.

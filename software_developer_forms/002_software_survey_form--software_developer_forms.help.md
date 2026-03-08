@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful user-facing guide for this form, I need to understand the purpose and context of the form. Based on the provided YAML, the form appears to be a survey for software developers or companies to gather information about their usage and preferences. The form has multiple fields that cover various aspects of software usage, including categories, project participation, frequency of use, time of day, and contact information. The form seems to be designed to collect quantitative and qualitative data from software developers, possibly for research or market analysis purposes.
-
-Before creating the guide, I want to ensure that I don't duplicate any existing knowledge and confirm that this form is not part of a larger system or workflow. If this form is part of a larger system, I'd like to understand how it integrates with other forms or processes.
-
-Given the form's design and purpose, I'd like to create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means. I'll use the provided YAML fields to ensure that the guide is accurate and up-to-date.
-
-</thinking>
-
 # Software Survey Form - Help Guide
 ## Purpose
 This guide will walk you through the Software Survey Form, designed to gather information from software developers about their usage and preferences. The form is intended to collect data for research or market analysis purposes.

@@ -1,9 +1,3 @@
-<thinking>
-**Form Purpose:**
-The summer sports registration form is designed to collect information from users who want to participate in sports activities during the summer season. This form helps us understand each individual's basic information, personal details, sports experience, emergency contact, medical info, and other essential data.
-To ensure accurate and efficient processing, please note that this form will only be used for individuals who have not previously registered with us. If you have already registered, please do not fill out this form again.
-</thinking>
-
 # summer_sports_registration_form - Help Guide
 
 ## Purpose

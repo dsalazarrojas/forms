@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for assessing the skills and preferences of software developers for software development projects. It's likely used to gather data on their software development skills, experience, and team dynamics. I'm assuming it's used by a project manager or client to gauge a developer's suitability for a project. The form is divided into several sections, covering skills, tools, methodologies, team size and location, collaboration frequency, and contact information. I'm going to focus on explaining each field in a clear and concise way to help users fill out the form correctly.
-</thinking>
-
 # Software Development Assessment - Help Guide
 
 ## Purpose

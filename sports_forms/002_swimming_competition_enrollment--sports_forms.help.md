@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning**
-
-Before proceeding, we should ensure that this form is not intended for internal use within the organization and that the fields are properly filled out to prevent data inconsistencies. This form is likely for external users, such as participants in swimming competitions, to provide accurate and detailed information about their participation. To avoid duplication, we should verify that no duplicate entries exist for the same participant.
-
-</thinking>
-
 # Swimming Competition Enrollment - Help Guide
 ## Purpose
 This form is used for participants to enroll in swimming competitions. It captures essential information about the swimmer, including their name, age, contact details, and event preferences.

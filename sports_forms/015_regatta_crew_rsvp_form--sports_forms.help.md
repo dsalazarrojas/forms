@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from regatta crew members to confirm their participation in a regatta event. This is a one-time event, and the form serves as a quick and easy way to collect necessary data from crew members. The purpose of this form is not to create a recurring event series or to handle reservations for a specific crew member; it's meant to be used for a single event. Please do not fill this form multiple times for the same regatta. This form will help the organizers of the event to get an idea of the number of participants, their contact information, and other relevant details.
-
-</thinking>
-
 # regatta_crew_rsvp_form - Help Guide
 ## Purpose
 This form is used to gather information from regatta crew members about their participation and other details for a specific regatta event.

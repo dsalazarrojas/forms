@@ -1,28 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Volleyball Tryout Evaluation Form, I need to consider the form's purpose, how to complete it, and what each field means. 
-
-The form's purpose is to evaluate a player's performance during a volleyball tryout. It is likely used by coaches or evaluators to assess a player's skills, speed, agility, endurance, and other qualities that are relevant to their position on the team. 
-
-The form's fields should be filled out according to the player's actual performance during the tryout, with the evaluator's comments and notes providing additional context. 
-
-Each field should be explained in a way that is clear and concise, with an emphasis on what information is expected from the player's performance. 
-
-The field "player_selection" is a yes or no select option, asking the evaluator if the player was selected for the team. 
-
-The "skills", "speed", "agility", "endurance", "team_compatibility", "plays_ball_control" and "ball_distribution" fields are all about the player's physical attributes and performance. 
-
-The "team_fit" field is likely about how well the player fits in with the team's culture and style of play. 
-
-The "overall" field is for the evaluator's overall assessment of the player's performance. 
-
-The "comments" fields are for any additional comments or feedback from the evaluator or the player. 
-
-The "player_name", "player_email", "player_phone", "coach_name" fields are for contact information of the player and coach.
-
-To avoid duplication, I will not include information about fields that are not included in the form, such as "other_comments" which has no corresponding option.
-
-</thinking>
-
 # Volleyball Tryout Evaluation Form - Help Guide
 ## Purpose
 This form is used by coaches or evaluators to assess a player's performance during a volleyball tryout. It helps to evaluate the player's skills, speed, agility, endurance, and other qualities that are relevant to their position on the team.

@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'd like to clarify the form's purpose and intended use. The form is called "skin_detox_program_appointment" and appears to be related to scheduling appointments for skin detox programs. I will assume this form is used for clients to provide their program details, schedule appointments, and potentially provide additional information such as contact details and payment information. The form seems to be a general form for managing appointments and program-related information. Please let me know if I'm correct or if I need further clarification.</thinking>
-
 # skin_detox_program_appointment - Help Guide
 ## Purpose
 This form is designed to help clients schedule appointments and provide information related to skin detox programs. It collects details about the program, client, and appointment scheduling.

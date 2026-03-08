@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foot Spa Appointment Booking - Help Guide
 
 ## Purpose

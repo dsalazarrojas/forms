@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NGO Caseworker Communication Consent Form - Help Guide
 ## Purpose
 

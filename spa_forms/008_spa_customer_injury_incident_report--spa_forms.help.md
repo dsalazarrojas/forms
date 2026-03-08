@@ -1,11 +1,3 @@
-<thinking>
-The form "Spa Customer Injury Incident Report" is designed to document and report incidents involving customers that occur in a spa setting. This form is used to collect information about the incident, including the date, location, and type of incident, as well as details about the customer and staff involved. It is an important tool for ensuring that the spa's staff is aware of and responds to incidents in a timely and effective manner.
-
-The form is likely to be used by spa staff, such as managers or supervisors, to report incidents that have occurred during a customer's visit to the spa. The form will help them gather all necessary information about the incident and ensure that the correct follow-up actions are taken.
-
-To avoid duplication of effort, this form should only be used for incidents that have not already been reported. If an incident has already been reported, staff should not fill out this form again.
-</thinking>
-
 # Spa Customer Injury Incident Report - Help Guide
 ## Purpose
 The Spa Customer Injury Incident Report is used to document and report incidents involving customers that occur in a spa setting.

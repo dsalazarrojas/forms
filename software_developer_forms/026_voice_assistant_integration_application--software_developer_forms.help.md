@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to guide software developers through the process of integrating a voice assistant into their application. The form's purpose is to collect information from developers about their integration plans, product details, and technical specifics. This form will help developers clarify their integration needs and ensure a smooth collaboration with our team.
-
-Before filling out this form, ensure that it's not a duplicate submission. We strive to minimize redundancy and focus on unique integration proposals. Please take a few minutes to read through the form carefully to ensure accuracy and completeness.
-
-To avoid any potential issues, review each field carefully and provide clear information. If you're unsure about any field, refer to the field-by-field explanation below.
-
-</thinking>
 # Voice Assistant Integration Application - Help Guide
 
 ## Purpose

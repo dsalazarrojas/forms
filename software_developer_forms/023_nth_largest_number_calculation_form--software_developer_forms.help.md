@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the Nth largest number from a list of input numbers. The form is designed to gather numbers from the user, allow them to select which of these numbers to consider as the Nth largest, and then display the selected number as the result. This form is likely used in scenarios where users need to analyze or compare a set of numbers and extract a specific value based on its ranking.
-</thinking>
-
 # Nth Largest Number Calculation Form - Help Guide
 ## Purpose
 The Nth Largest Number Calculation Form is a user-friendly tool designed to calculate the Nth largest number from a list of input numbers. It guides users through a simple process of inputting numbers, selecting which numbers to consider as the Nth largest, and displaying the final result.

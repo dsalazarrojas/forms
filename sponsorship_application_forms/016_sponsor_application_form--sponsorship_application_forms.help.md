@@ -1,7 +1,3 @@
-<thinking>
-To ensure that we provide the best possible experience for our sponsors and event organizers, we need to make sure that our sponsor application form is completed accurately and thoroughly. This form is used to collect essential information about potential sponsors, such as event name, contact details, and sponsorship type, to help us review and consider their application. We will only consider applications that are fully completed and relevant to our sponsorship opportunities. Please note that duplicate or incomplete applications will be rejected.
-</thinking>
-
 # Sponsor Application Form - Help Guide
 ## Purpose
 

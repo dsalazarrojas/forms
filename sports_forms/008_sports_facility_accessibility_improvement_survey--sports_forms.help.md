@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect feedback and suggestions from end-users on improving accessibility at sports facilities. It's essential to gather input from users to identify areas of improvement and provide a better experience for everyone. This form is not affiliated with any specific platform or proprietary service, so you're free to use, modify, and distribute it as you see fit. Please ensure that your responses are honest and respectful, as your feedback will directly contribute to creating a more accessible sports environment.
-</thinking>
-
 # Sports Facility Accessibility Improvement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from users on improving accessibility at sports facilities. Your input will help identify areas where the facility can be made more inclusive and enjoyable for everyone.

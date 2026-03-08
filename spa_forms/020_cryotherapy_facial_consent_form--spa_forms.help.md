@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for clients to provide their consent for cryotherapy facial treatments. It may be part of a spa's intake process, where clients need to disclose their medical history, confirm treatment consent, and provide any necessary comments or conditions.
-</thinking>
-
 # Cryotherapy Facial Consent Form - Help Guide
 ## Purpose
 This form is used to obtain a client's consent for cryotherapy facial treatments at the spa. The client will be asked to provide their details, medical history, and confirm their consent for the treatment.

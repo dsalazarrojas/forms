@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for sponsors to register their products for display on a platform or website. It collects information about the sponsor, their product, and product details to facilitate registration. This form is likely used by sponsors to provide their products to be displayed on the platform for promotion or other purposes. Please ensure that you are filling out this form for the correct purpose and that the product and sponsor information is accurate and up-to-date. Before filling out this form, ensure you have all necessary information about your product and sponsor. 
-</thinking>
-
 # Sponsor Product Display Registration Form - Help Guide
 ## Purpose
 This form is designed for sponsors to register their products for display on a platform or website.

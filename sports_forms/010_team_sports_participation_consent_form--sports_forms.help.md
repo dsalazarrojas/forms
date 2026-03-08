@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for participants in team sports to gather their consent for medical and emergency contact information. To ensure you're using the form correctly, please consider the following:
-- The form should be used only for participants who are registering for team sports.
-- The fields are likely already populated with relevant information (e.g., participant's name, address, emergency contact details), so there is no need to re-enter duplicate information.
-</thinking>
-
 # Team Sports Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from team sports participants regarding their consent to participate, medical conditions, and emergency contact details.

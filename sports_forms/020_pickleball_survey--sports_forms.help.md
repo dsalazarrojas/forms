@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting player information and preferences related to pickleball. The form asks for general player information such as age, gender, and frequency of play. It also inquires about playing with others, including opponents' characteristics such as gender, age, and frequency of play. Additionally, the form asks about playing on different surfaces, favorite tools, and net types. The form is designed to collect data on players' preferences and habits, which can be used to understand the dynamics of playing pickleball and identify potential areas of improvement for players.
-</thinking>
-
 # Pickleball Survey - Help Guide
 ## Purpose
 This form is designed to collect information about pickleball players' preferences and habits. The data collected will help us better understand the game and identify areas of improvement for players.

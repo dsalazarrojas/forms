@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential host families about their ability to provide a safe and nurturing environment for a child. This form is used to assess the host family's background, experience, and support systems to ensure the best possible placement outcome for the child. It's essential to complete this form accurately and thoroughly to avoid delays or rejections in the adoption process. Please make sure to answer each question truthfully and provide as much detail as possible. If you have any questions or concerns, please don't hesitate to ask. This form will be reviewed and assessed to determine the suitability of the host family for placement.
-</thinking>
-
 # Host Family Application Form - Help Guide
 ## Purpose
 The Host Family Application Form is designed to collect information from potential host families about their background, experience, and support systems. This form is used to assess the suitability of the host family for placing a child in their care.

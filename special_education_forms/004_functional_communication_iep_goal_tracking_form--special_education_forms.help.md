@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track the progress of students with special needs in achieving their functional communication goals. It is a crucial tool for special education professionals to monitor and evaluate student progress, identify areas of improvement, and develop strategies to support students in achieving their goals. The form is intended to be used in conjunction with the Individualized Education Program (IEP) process, which is a legal requirement for students with special needs. Before starting, please review the IEP process and ensure you are not duplicating efforts.
-
-</thinking>
-
 # Functional Communication IEP Goal Tracking Form - Help Guide
 ## Purpose
 The purpose of this form is to track the progress of students with special needs in achieving their functional communication goals.

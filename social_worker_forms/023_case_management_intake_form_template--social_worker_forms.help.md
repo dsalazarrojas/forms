@@ -1,5 +1,3 @@
-<thinking>Is this form for case management intake purposes, likely used by social workers to gather information about clients' personal and financial situations, goals, and needs? I will review the fields to provide a clear and concise help guide for end-users. Let me ensure that the form does not duplicate any information already known to the social worker or the agency.</thinking>
-
 # Case Management Intake Form Template - Help Guide
 ## Purpose
 The Case Management Intake Form Template is designed to gather essential information about a client's personal and financial situation, goals, and needs. This form is used by social workers to gather data for case management services, such as housing assistance, employment services, healthcare access, and other forms of support.

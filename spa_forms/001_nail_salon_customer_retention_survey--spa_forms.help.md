@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data on customer satisfaction and retention for a nail salon. The purpose of the form is to gather feedback from customers on their experiences with the salon, including the quality of service, the technicians who assisted them, and their overall satisfaction with the visit. This data will help the salon to evaluate their services, identify areas for improvement, and develop strategies to retain customers. The form is not intended for real-time submission, but rather for data collection and analysis.
-</thinking>
-
 # Nail Salon Customer Retention Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experiences with the salon, with the goal of evaluating service quality and customer retention.

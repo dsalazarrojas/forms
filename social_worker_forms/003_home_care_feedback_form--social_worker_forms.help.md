@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with the social workers they have interacted with. The purpose of this form is to gather information about the effectiveness of our care services, patient satisfaction, and identify areas for improvement. The form is meant to be a quick and easy way for patients to provide their honest feedback, which will help us to enhance our services and better serve our patients in the future.
-
-To ensure that we receive actionable feedback, please note that this form is meant to be completed by patients who have recently interacted with a social worker. If you are a social worker, please do not complete this form as it may not be relevant to your feedback.
-
-Before you begin, please review the form carefully to ensure that you understand what each field is asking you to do. If you have any questions or concerns, do not hesitate to reach out to us.
-
-</thinking>
-
 # Home Care Feedback Form - Help Guide
 ## Purpose
 The Home Care Feedback Form is a tool for patients to provide feedback on their experience with our care services. Your input will help us improve our services and better serve our patients in the future.

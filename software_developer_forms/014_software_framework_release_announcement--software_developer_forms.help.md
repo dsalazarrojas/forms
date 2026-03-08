@@ -1,7 +1,3 @@
-<thinking>
-This form is a software framework release announcement form used to provide information about the release of new software frameworks. This form is used to track the release details, review status, and associated information. It is intended for software development teams and other stakeholders to collaborate on the release process. The form should only be used for releases that fit the provided fields and options. Please ensure that all required fields are completed accurately and consistently with the actual release status.
-</thinking>
-
 # software_framework_release_announcement - Help Guide
 ## Purpose
 

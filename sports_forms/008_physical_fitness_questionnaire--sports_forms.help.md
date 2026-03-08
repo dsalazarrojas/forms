@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's physical fitness level. It is a self-reporting form intended for personal use, not for any official medical or professional purpose. The form is not intended to replace any medical professional's evaluation or advice. Please ensure that the form is completed truthfully and accurately reflects your physical fitness level. It's recommended to complete the form once a week to track progress over time. 
-
-</thinking>
-
 # Physical Fitness Questionnaire - Help Guide
 ## Purpose
 The Physical Fitness Questionnaire is a self-reporting form designed to help track your physical fitness level over time. This form should be completed honestly, and it's recommended to fill it out on a weekly basis.

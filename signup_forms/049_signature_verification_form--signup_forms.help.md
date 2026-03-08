@@ -1,8 +1,3 @@
-<thinking>
-This form is used to verify and document the signature of an individual or organization. 
-The purpose of this form is to ensure that all necessary information is collected from the signatory, such as their input, selection options, date and time of signing, and verification status. This form may be used in situations where signatures are required for legal or official purposes.
-</thinking>
-
 # signature_verification_form - Help Guide
 ## Purpose
 The signature verification form is designed to collect and document the signature of an individual or organization. This form ensures that all relevant information is collected, including user input, selection options, date and time of signing, and verification status.

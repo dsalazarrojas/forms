@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and scope of this form. The Education Accommodation Plan Form is designed to capture information about a student's educational needs and accommodations required for their education. This form is likely used by educators, administrators, or support staff to gather data about each student, including their personal details, educational requirements, and contact information. To ensure that this form is used correctly, it's essential to understand its purpose and how to complete it accurately.</thinking>
-
 # Education Accommodation Plan Form - Help Guide
 ## Purpose
 The Education Accommodation Plan Form is a vital tool for educators to gather information about a student's educational needs and accommodations required for their education. This form helps to identify individualized support and ensure that each student receives the necessary resources to succeed academically.

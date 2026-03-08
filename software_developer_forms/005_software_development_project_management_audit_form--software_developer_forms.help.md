@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to conduct a project management audit for software development projects. It aims to collect information about the project's name, team members, start and end dates, project status, type, scope, description, performance criteria, process implemented, and lessons learned. The form is designed to gather data that can be used to identify areas for improvement and optimize project management practices. To ensure accurate and comprehensive data collection, please provide detailed and specific information for each field as required.</thinking>
-
 # Software Development Project Management Audit Form - Help Guide
 ## Purpose
 This form is designed to gather information about software development projects, allowing project managers and teams to conduct an audit and identify areas for improvement.

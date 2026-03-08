@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the score of a cricket match, specifically the score by ball. The form is meant to be completed by users who have access to real-time data during a cricket match, such as umpires, scorers, or analysts. The form's purpose is to provide a concise and structured way to record the score of each ball, including the score, overs, and wickets lost. The goal is to ensure accuracy and consistency in scoring, making it easier to track and analyze the game's progress. To ensure the form is completed correctly, the fields below should be carefully filled out to avoid any confusion.
-</thinking>
-
 # Cricket Ball By Ball Scoring Form - Help Guide
 ## Purpose
 This form is used to record the score of a cricket match by ball. It's essential to provide accurate and consistent data for umpires, scorers, and analysts to track the game's progress.

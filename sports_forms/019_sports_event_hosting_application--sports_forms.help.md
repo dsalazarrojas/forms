@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for sports event hosts to submit information about upcoming events they wish to host. The form aims to collect relevant details such as event name, date, time, and duration, as well as other important specifics like event type, capacity, and status. This guide will help you understand the purpose of the form and walk you through each field to ensure you complete it accurately.
-</thinking>
-
 # Sports Event Hosting Application - Help Guide
 ## Purpose
 The Sports Event Hosting Application form is designed to help sports event hosts submit information about upcoming events. This form collects essential details about the event, allowing us to manage and track sports events in our system.

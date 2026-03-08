@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for consignors (vendors) to sign up for a consignment sale event. It collects information about the consignor's contact details, sale event preferences, and items they will be consigning. This form is meant to be used once for each consignor and should not be filled out multiple times.
-</thinking>
-
 # Consignment Sale Sign Up Form - Help Guide
 ## Purpose
 This form is for consignors (vendors) to sign up for a consignment sale event. It is used to collect information about the consignor, their sale event preferences, and the items they will be consigning.

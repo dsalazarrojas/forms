@@ -1,7 +1,3 @@
-<thinking>
-The Conservation Fundraiser Sponsorship Form is used to collect information from sponsors who are supporting the conservation efforts by providing financial or in-kind donations. This form is required for all sponsors and should be completed accurately and thoroughly. Before filling out this form, please ensure that you are a registered sponsor and that you have the necessary permissions and authorizations to proceed.
-</thinking>
-
 # Conservation Fundraiser Sponsorship Form - Help Guide
 ## Purpose
 The Conservation Fundraiser Sponsorship Form is a crucial document that helps us understand your contribution to our conservation efforts. By completing this form, you will be able to provide us with the necessary information to acknowledge and recognize your support.

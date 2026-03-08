@@ -1,10 +1,3 @@
-<thinking>
-This form is used for parents or guardians to register their child for a tennis camp. The form collects essential information about the child, including their personal details, medical conditions, and contact information. The form also asks for permission to contact the emergency contact in case of an emergency and to provide medical treatment if needed. This form is designed to be filled out by the parent or guardian before the child starts attending the tennis camp.
-
-The form is designed to be user-friendly and easy to complete, with clear labels and explanations for each field. The form fields are organized into categories to make it easier for the user to navigate and provide the required information.
-
-Before filling out this form, please note that some fields are marked as required, which means they must be filled out to proceed with the registration. If you are unsure about any field, please ask the camp staff for assistance.</thinking>
-
 # Tennis Camp Registration And Consent Form - Help Guide
 ## Purpose
 This form is used for parents or guardians to register their child for a tennis camp.

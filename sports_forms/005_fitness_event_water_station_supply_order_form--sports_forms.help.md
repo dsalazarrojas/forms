@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Fitness Event Water Station Supply Order Form is to allow event organizers and participants to order water and other hydration station supplies for fitness events. 
-This form is intended for event organizers to specify event details, number of hydration stations needed, type of water stations and temperature required, number of water treats, and to submit the order.
-This form does not require any specific business logic or rules to prevent duplication or relevance.
-</thinking>
-
 # Fitness Event Water Station Supply Order Form - Help Guide
 ## Purpose
 The Fitness Event Water Station Supply Order Form is a tool for event organizers to provide information about the water station supplies needed for a fitness event. This form helps you to specify event details, hydration station requirements, water temperature, and number of water treats.

@@ -1,5 +1,3 @@
-<thinking>**Internal Note:** This form is used for spa service quote requests, where users can provide details about their spa service needs. The form should only be completed by users who have a genuine interest in requesting spa services. To avoid duplication, please ensure that you have not already submitted a quote request for the same service. If you're unsure, you can check your previous submissions or contact our support team for clarification.</thinking>
-
 # Spa Service Quote Request - Help Guide
 ## Purpose
 This form is used to submit a quote request for spa services. Please provide details about your services needs and we will get back to you with a quote.

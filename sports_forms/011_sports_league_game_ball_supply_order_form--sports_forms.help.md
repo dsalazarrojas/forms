@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the sports league game ball supply order from the end user, ensuring that the correct quantity of balls is ordered and delivered on time to the right team or location.
-
-To fill this form, the end user needs to provide the following information: 
-1. Game Details: This field is not used in the form (page 1) but is likely intended to be a general description of the game or match that will be held.
-2. Team Name: The end user needs to input the name of the team requesting the ball supply.
-3. Order Date: The end user needs to select the date when the order should be fulfilled.
-4. Number Ordered: The end user needs to input the quantity of balls needed to be ordered.
-5. Team: This field is a simple yes/no option that indicates whether the order is for a team or not.
-6. Location: This field is a yes/no option that indicates whether the order is for a specific location or not.
-
-Each field is self-explanatory, but a brief explanation of each field will be provided below for clarity.
-
-</thinking>
-
 # Sports League Game Ball Supply Order Form - Help Guide
 ## Purpose
 The Sports League Game Ball Supply Order Form is designed to collect information from end users for the order of sports league game balls. This form helps ensure that the correct quantity of balls is ordered and delivered on time to the right team or location.

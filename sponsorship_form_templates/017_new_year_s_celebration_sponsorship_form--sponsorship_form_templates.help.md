@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Year's Celebration Sponsorship Form - Help Guide
 
 ## Purpose

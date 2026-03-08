@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow golf course players to check in with course staff, providing necessary information for the staff to provide an efficient and enjoyable experience. The form should only be used for players who have a tee time, which is a required field. The form should not be used for staff or administrative purposes.
-This form will be used by golf course players to provide their information to the staff, so the staff can be prepared to meet their needs during their tee time. Players should not be required to fill out this form if they do not have a tee time scheduled.
-The form will be used to gather information about the player, which will be used to provide better service to the players. The information will be used to assign staff and prepare the necessary resources for the player's tee time.
-</thinking>
-
 # Golf Course Player Check In - Help Guide
 ## Purpose
 This form is used for golf course players to check in with course staff and provide necessary information for their tee time.

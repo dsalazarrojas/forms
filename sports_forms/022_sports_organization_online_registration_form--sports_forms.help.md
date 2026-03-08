@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to register for a sports organization. The form is intended to be completed by the member themselves, providing their personal and sports-related details. The form's purpose is to streamline the registration process, ensuring that the member has a smooth and efficient experience.
-
-Before proceeding, it's essential to check if you have already registered with this organization or any other related entity. This will prevent duplication of effort and save time for both you and the organization.
-
-To avoid errors and ensure the registration process is completed accurately, it's recommended to review this guide carefully before starting.
-
-</thinking>
-
 # Sports Organization Online Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to register with a sports organization. It gathers personal and sports-related details necessary for the organization to provide services and updates to registered members.

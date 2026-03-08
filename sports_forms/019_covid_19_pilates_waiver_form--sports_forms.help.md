@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for a Covid-19 Pilates waiver form, which is used to document a client's emergency contact information, medical conditions, and other relevant details. The form is likely used in a physical fitness setting, such as a Pilates studio or gym. The purpose of this form is to ensure that the client has provided accurate and up-to-date information about their emergency contact and medical conditions, which is crucial for the safety and well-being of the client during their workout sessions. This form is not a substitute for medical advice or treatment, and clients should consult a medical professional for any health concerns. Before proceeding, please ensure that you are not duplicating this form for the same client, as this would be unnecessary and redundant. Please review the form carefully to ensure you understand the purpose and requirements. If you have any questions or concerns, do not hesitate to reach out to the studio or fitness professional for guidance.
-
-</thinking>
-
 # Covid 19 Pilates Waiver Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for their safety and well-being during their workout sessions.

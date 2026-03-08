@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to apply for coaching services from a sports expert. The form is intended for users who want to get personalized coaching and guidance on exercise routines, fitness, and other sports-related topics. This form is not intended for general inquiries or non-coaching related purposes. Please ensure that the information provided is accurate and complete to ensure a successful application process. 
-
-</thinking>
-
 # Online Coaching Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Brand Insights - Help Guide
 ## Purpose
 This form is designed to gather information about your social media presence and engagement strategies. It will help you identify areas for improvement and set realistic goals for growing your social media brand.

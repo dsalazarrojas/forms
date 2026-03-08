@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather critical medical information from team players to ensure their safety and well-being during sports activities. This form is intended to be completed by players themselves, and it's recommended to review the form carefully before filling it out to ensure accuracy and completeness. This form is not intended to be a substitute for regular medical check-ups or professional medical advice. It's essential to complete this form honestly and thoroughly to avoid any potential risks or complications.
-
-Please note that this form is not intended to be used for any medical diagnosis or treatment. It's a screening tool to help the team management and medical staff understand the player's medical status before participation in sports activities.
-
-</thinking>
-
 # Team Player Medical Screening Form - Help Guide
 ## Purpose
 The Team Player Medical Screening Form is designed to collect medical information from team players to ensure their safety and well-being during sports activities. This form should be completed by the player themselves to provide accurate and complete information about their medical status.

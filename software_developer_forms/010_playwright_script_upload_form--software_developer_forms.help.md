@@ -1,9 +1,3 @@
-<thinking>
-To ensure we are creating a relevant and non-duplicating help guide, let's analyze the form's purpose and fields. This Playwright Script Upload Form appears to be used for uploading, categorizing, and tracking scripts in a software development context. It's essential to verify that this form is not already documented or has a clear purpose within the organization. 
-
-Assuming it's a valid use case, the form is designed for users to upload scripts related to testing, such as regression, sanity, or functional testing. The fields include script metadata like title, context information, upload date, user uploading, review status, script type, description, and version. This form likely serves as a centralized hub for uploading, categorizing, and tracking scripts, making it easier to manage and maintain scripts across the organization. 
-</thinking>
-
 # Playwright Script Upload Form - Help Guide
 ## Purpose
 The Playwright Script Upload Form is used to upload, categorize, and track scripts related to testing, such as regression, sanity, or functional testing.

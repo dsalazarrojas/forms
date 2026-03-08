@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from teams and players participating in the Futsal tournament. The purpose of this form is to gather data on teams' and players' details, event information, and contact persons. The form should not be filled out for any other purpose. To avoid duplication, please fill out the form only once for each team and player.
-</thinking>
-
 # Futsal Registration Form - Help Guide
 ## Purpose
 The Futsal Registration Form is used to collect information from teams and players participating in the Futsal tournament. This form is designed to gather details such as team and player information, event details, and contact person's information.

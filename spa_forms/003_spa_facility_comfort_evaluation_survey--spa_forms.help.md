@@ -1,23 +1,3 @@
-<thinking>
-The Spa Facility Comfort Evaluation Survey is a tool used to assess the comfort and satisfaction levels of spa facility users. This form is designed to collect feedback from customers on various aspects of their experience, including the overall rating of the facility, ambiance, cleanliness, comfort, service, favorite facilities, services used, and any suggestions or comments they may have. This form is intended to help spa management understand their customers' needs and preferences, allowing them to make informed decisions to improve their facility and provide a better experience for their customers.
-
-The form is composed of 10 fields, each focusing on a specific aspect of the spa experience. The fields are:
-
-* Introduction: A brief introduction to the form.
-* Overall Rating: A numeric field to rate the overall comfort of the facility.
-* Ambiance Rating: A numeric field to rate the ambiance of the facility.
-* Cleanliness Rating: A numeric field to rate the cleanliness of the facilities.
-* Comfort Rating: A numeric field to rate the comfort of the facilities.
-* Service Rating: A numeric field to rate the service provided.
-* Favorite Facility: A select-one field to choose the favorite facility.
-* Services Used: A select-multiple field to choose the services used.
-* Suggestions: A note field for customers to provide any suggestions or comments.
-* Email: An email field for customers to enter their email address.
-
-This form is not mandatory, and customers can skip any fields they wish.
-
-</thinking>
-
 # Spa Facility Comfort Evaluation Survey - Help Guide
 ## Purpose
 The Spa Facility Comfort Evaluation Survey is a tool used to assess the comfort and satisfaction levels of spa facility users.

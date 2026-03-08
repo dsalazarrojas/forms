@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that powerlifting coaches who want to register on our platform are correctly categorized as sports professionals. This form is used for coaches to provide their contact information and experience in the powerlifting industry. It's essential to verify that users have not registered previously to avoid duplicate accounts.
-
-We should note that while most fields are not marked as required, users should understand that providing accurate information is crucial for effective communication and services provided by our platform. This guide will walk users through the form fields and their purposes to help them understand what is expected from them.
-</thinking>
-
 # Powerlifting Coach Registration Form - Help Guide
 ## Purpose
 The Powerlifting Coach Registration Form is designed for powerlifting coaches to register on our platform. It helps us verify their contact information and experience in the powerlifting industry to provide them with access to our services and platform resources.

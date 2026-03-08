@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect sensitive information from clients about their skin type, history, and reactions to skin care products. The purpose of this form is to gather accurate and reliable data for skin product testing, ensuring that the products are tested on diverse and representative groups of people. It is essential to complete this form accurately and honestly to provide meaningful insights for the development and improvement of skin care products. This information will be kept confidential and used to inform product testing and development processes.
-
-The form consists of 10 fields that require clients to provide information about their personal details and skin characteristics. It is crucial to fill in each field accurately to ensure that the data collected is reliable and trustworthy.
-</thinking>
-
 # Skin Care Product Sensitivity Test Consent Form - Help Guide
 ## Purpose
 The Skin Care Product Sensitivity Test Consent Form is a crucial document that collects sensitive information from clients to aid in the development and improvement of skin care products. This form is designed to gather accurate and reliable data to inform product testing and development processes.

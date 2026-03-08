@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document the finalization of child adoption proceedings. The form is used to capture information about the adoptive parents, the child, and other relevant details. The form is designed to ensure that all necessary information is collected and that the adoption process is properly finalized.
-
-Before proceeding, verify that this form is relevant to your specific use case and that all required fields are properly filled out. Please note that some fields may be optional, but ensure that you complete all necessary fields to ensure a complete and accurate record.
-
-The following guide will help you through the form completion process.
-</thinking>
-
 # Child Adoption Form - Help Guide
 ## Purpose
 The Child Adoption Form is used to document the finalization of child adoption proceedings. This form captures information about the adoptive parents, the child, and other relevant details.

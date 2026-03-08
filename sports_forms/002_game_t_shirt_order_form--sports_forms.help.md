@@ -1,8 +1,3 @@
-<thinking>
-This form is used to order a custom game-themed T-shirt. The form allows users to provide their name, choose their preferred T-shirt size and color, select a quantity, and specify a shipping address. The form also collects the user's contact information, including phone number and email. Payment method selection is also available. 
-The form fields are designed to be filled out by the user themselves, and this help guide will walk the user through the form fields in a step-by-step manner to ensure they can fill out the form accurately and efficiently. 
-</thinking>
-
 # Game T Shirt Order Form - Help Guide
 ## Purpose
 The Game T Shirt Order Form is a simple form designed for users to place custom T-shirt orders. This form allows users to select their desired T-shirt size, color, and quantity, as well as provide their contact information and payment method.

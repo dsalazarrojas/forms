@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for users to register for a hockey ticket draw. The purpose of this form is to collect personal and team information from players, including their name, email address, phone number, address, team name, jersey number, division, position, date of birth, date of registration, and any additional team reektions. To ensure accurate and complete data, this form is required to be filled out in its entirety. Please note that the team reektions field is optional, as it is not marked as required.</thinking>
-
 # Hockey Ticket Draw Registration - Help Guide
 ## Purpose
 This form is used to register players for a hockey ticket draw. It collects personal and team information to ensure accurate and complete data.

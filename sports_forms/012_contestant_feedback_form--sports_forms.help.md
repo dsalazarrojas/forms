@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from contest participants on their experience with the event. The purpose of this form is to help event organizers and organizers understand what worked well and what areas need improvement. This form is not meant to be a comprehensive survey, but rather a brief and concise way to gather feedback on specific aspects of the event. It is recommended to complete this form after attending an event to provide the most accurate and relevant feedback. If you have already completed a similar form, please do not fill out this one again, as it is designed to capture new and unique perspectives.
-</thinking>
-
 # Contestant Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from contest participants on their experience with the event.

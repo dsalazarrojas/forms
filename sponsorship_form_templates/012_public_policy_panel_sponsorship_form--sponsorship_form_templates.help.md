@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information from potential sponsors for a public policy panel event. The purpose of this form is to gather details about the sponsor, including their contact information, role, and type of sponsorship. This form is intended for internal use only, and the information collected will be used to assign sponsorship and track payments. Please note that this form is not intended for public display, and sensitive information such as passwords or personal identifiable information should not be shared. 
-
-This form has 19 fields in total, and all fields are optional except for "Terms and Conditions". 
-
-Before filling out this form, please make sure that you have not already submitted a sponsorship application for the same event. 
-
-</thinking>
-
 # Public Policy Panel Sponsorship Form - Help Guide
 
 ## Purpose

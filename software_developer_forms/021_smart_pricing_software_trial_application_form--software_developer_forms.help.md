@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help software developers gather information from users who are interested in applying for a trial of their smart pricing software. The purpose of this form is to collect contact and company details from the user, which will be reviewed by the software developers to assess the suitability of the user for the trial. The form will be used to determine if the user meets the necessary criteria for the trial and to provide them with further instructions and information about the trial process. 
-
-Before filling out this form, please ensure that you haven't already applied for a trial, as this will help us avoid duplicate submissions and save you time. If you're not sure if you've already applied, feel free to fill out the form and our team will check our records to confirm. 
-
-Also, please be aware that this form is for software developers who are interested in applying for a trial of our smart pricing software. If you're not a software developer or this isn't the right form for you, please do not fill it out. 
-
-</thinking>
-
 # Smart Pricing Software Trial Application Form - Help Guide
 ## Purpose
 This form is designed to help software developers apply for a trial of our smart pricing software. We will use the information provided to assess your suitability for the trial and to provide you with further instructions and information about the trial process.

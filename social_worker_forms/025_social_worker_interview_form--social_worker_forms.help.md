@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client, their contact details, and the status of their case. The form should only be completed when a social worker has had a meeting or interaction with the client. The purpose of this form is to provide a structured way to document the client's information and case status, making it easier for social workers to track and manage their cases.
-</thinking>
-
 # Social Worker Interview Form - Help Guide
 ## Purpose
 The Social Worker Interview Form is used to record information about a client's contact and case status. This form helps social workers to maintain accurate and organized records of their interactions with clients and their cases.

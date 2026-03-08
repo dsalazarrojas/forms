@@ -1,32 +1,3 @@
-<thinking>
-To avoid duplication, we will only include pages with unique names in the form. We will also filter out any pages that are not required and have no options. We will use the following pages for this form:
-1. Team Sponsorship Visibility Feedback Survey (id: 1)
-2. Impact of Sponsorship (id: 2)
-3. Sponsor Visibility Impact (id: 3)
-4. Sponsor Satisfaction (id: 4)
-5. Sponsorship Frequency (id: 5)
-6. Sponsorship Duration (id: 6)
-7. Sponsorship Period (id: 7)
-8. Sponsorship Satisfaction (id: 8)
-9. Sponsorship Feedback (id: 9)
-10. Impact on Community (id: 10)
-11. Sponsorship Effectiveness (id: 11)
-12. Sponsorship ROI (id: 12)
-13. Additional Feedback (id: 13)
-14. Email (id: 14)
-15. Phone (id: 15)
-16. Date (id: 16)
-17. Time (id: 17)
-18. Sponsor (id: 18)
-19. Frequency of Sponsorship (id: 19)
-20. Team Sponsorship (id: 20)
-21. Team Sponsorship Visibility Feedback Survey Page 21 (id: 21)
-22. Team Sponsorship Visibility Feedback Survey Page 23 (id: 23)
-23. Team Sponsorship Visibility Feedback Survey Page 24 (id: 24)
-24. Team Sponsorship Visibility Feedback Survey Page 25 (id: 25)
-
-The purpose of this form is to gather feedback about the visibility and effectiveness of team sponsorships. The form collects information about the team's perception of their sponsorship, the impact of the sponsorship on their community, and the effectiveness of the sponsorship in terms of return on investment (ROI).</thinking>
-
 # Team Sponsorship Visibility Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback about the visibility and effectiveness of team sponsorships. The form collects information about the team's perception of their sponsorship, the impact of the sponsorship on their community, and the effectiveness of the sponsorship in terms of return on investment (ROI).

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports League Expansion Application Form - Help Guide
 
 ## Purpose

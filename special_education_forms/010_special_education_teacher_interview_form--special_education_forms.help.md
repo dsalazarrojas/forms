@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from special education teachers applying for a position in our organization. The purpose of this form is to collect their educational background, work experience, and certifications. This form will be used to evaluate their qualifications and fit for the position. Please ensure that you have reviewed this form carefully and provide accurate and complete information to increase your chances of being considered for the position.
-
-Before filling out this form, please check that you don't have any duplicate or outdated information from previous applications. This will save time and ensure that your application is processed efficiently.
-
-Please fill out the form in the following sections: Candidate Information, Experience, Educational Background, Certifications, and Upload Documents. 
-
-</thinking>
-
 # Special Education Teacher Interview Form - Help Guide
 
 ## Purpose

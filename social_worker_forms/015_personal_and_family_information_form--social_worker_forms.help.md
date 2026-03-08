@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect personal and family information from users. 
-The form will collect information on a person's family, contact details, and other relevant details. This form is intended for use in social settings where user information needs to be collected.
-
-The purpose of this form is not related to financial or tax purposes, but rather to create a comprehensive profile of a person's family and relationships.
-
-The form does not have any duplication detection. 
-</thinking>
-
 # Personal And Family Information Form - Help Guide
 ## Purpose
 This form is designed to collect personal and family information from users in a social setting.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their participation preferences in a tournament. It appears to be used for administrative or organizational purposes, such as for team administrators to gather information about team members' availabilities and preferences. The form likely serves as a template for creating a tournament schedule or team management system.
-
-The form is composed of multiple pages, each with different fields, and is likely used for both individual users and team members. To complete the form, users will need to provide their details and availability, as well as their team's details. The form's fields are a mix of text, date, time, and select options, suggesting that the form is used for both personal and team-related information collection.
-
-</thinking>
-
 # Tournament Participation Preferences - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your participation in a tournament. This information will be used to create a schedule and manage teams for the tournament.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cricket Tournament Registration Form - Help Guide
 ## Purpose
 The Cricket Tournament Registration Form is a form designed to collect information from teams and players who wish to participate in a cricket tournament. The form is required to be completed by all teams and players to register for the tournament.

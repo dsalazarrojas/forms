@@ -1,11 +1,3 @@
-<thinking>Here's a brief internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-
-This form is used to collect information about the user's skincare habits, preferences, and routines. It's designed to gather data on various aspects of skincare, including morning and evening routines, product usage frequency, and product preferences. This information will help the team better understand user behavior and preferences, enabling them to create more effective marketing strategies and product recommendations.
-
-The form consists of 17 fields, divided into several sections, each focusing on a specific aspect of skincare. The form is structured to collect both multiple and single selections, making it suitable for users with different preferences and habits.
-
-</thinking>
-
 # Skincare Product Layering Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your skincare habits and preferences to help us better understand how to provide you with more effective skincare recommendations and advice.

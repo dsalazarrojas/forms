@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for DevOps teams to document and manage the details of their development phases, including team members, phase names, start and end dates, descriptions, and resource information. The form likely serves as a central hub for tracking and organizing project progress, ensuring that all relevant details are captured and easily accessible. The fields seem to be divided into several sections, which may include team member information, phase details, start and end dates, and resource management. To verify, I will proceed with creating the help guide.
-
-</thinking>
-
 # devops_phase_details_form - Help Guide
 ## Purpose
 The devops_phase_details_form is a tool for DevOps teams to document and manage the details of their development phases, providing a centralized hub for tracking and organizing project progress.

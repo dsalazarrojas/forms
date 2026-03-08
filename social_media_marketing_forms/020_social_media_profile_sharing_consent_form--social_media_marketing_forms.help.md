@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user consent for sharing their social media profile information with others. This form is used to determine which type of profile information to share, with whom to share it, and how often to share it. It is essential to ensure that users understand the implications of sharing their information and to obtain their explicit consent before doing so. To avoid duplication, this form should only be used for new users or when the user's profile information needs to be updated.
-</thinking>
-
 # social_media_profile_sharing_consent_form - Help Guide
 ## Purpose
 This form is used to collect user consent for sharing their social media profile information with others.

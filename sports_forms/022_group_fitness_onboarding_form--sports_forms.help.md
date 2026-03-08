@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a crucial tool for onboarding new members into a group fitness program. Its purpose is to gather essential information from the user, including their personal details, emergency contact information, and agreement to the membership terms. The form is designed to be completed by new members as part of the onboarding process, ensuring that they have the necessary information and agreement in place before starting the program.
-
-Before filling out this form, please review the following guidelines to ensure you understand what each section is for.
-
-</thinking>
-
 # Group Fitness Onboarding Form - Help Guide
 ## Purpose
 The Group Fitness Onboarding Form is designed to collect essential information from new members, including their personal details, emergency contact information, and agreement to the membership terms. This form is a crucial step in the onboarding process, ensuring that new members have the necessary information and agreement in place before starting the program.

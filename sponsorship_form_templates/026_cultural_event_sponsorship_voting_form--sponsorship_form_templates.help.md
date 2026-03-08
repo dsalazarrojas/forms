@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be used for a cultural event sponsorship voting process. This process is typically used during cultural events where there are multiple sponsors for the event and attendees are asked to vote on the best sponsor. This form is used to collect attendee feedback and preferences for the sponsors. The form can be filled out by attendees who have attended the cultural event, and the purpose is to get their honest opinion on which sponsors they think performed the best. The form is also useful for organizers to get a better understanding of the audience's perception of the event and the sponsors. This form should only be filled out by attendees who have actually attended the event, and not by anyone else. If a user has already voted, they should not be able to vote again, to prevent duplicate votes.
-</thinking>
-
 # cultural_event_sponsorship_voting_form - Help Guide
 ## Purpose
 This form is used to collect feedback from attendees on the best sponsors at a cultural event. The form helps attendees vote for their preferred sponsors and provides organizers with valuable insights on the audience's perception of the event and its sponsors.

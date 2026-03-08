@@ -1,8 +1,3 @@
-<thinking>
-This form is for spa clients to acknowledge and confirm that they have received the agreed upon treatments, have read and understood the information provided by the spa staff, and are ready to leave. 
-To avoid any confusion, ensure you only submit this form once the client has received their treatment, and after they have been informed of any important details such as aftercare instructions and follow-up appointments. This form is a standard procedure to ensure that both the client and spa staff are on the same page, and to maintain accurate records.
-</thinking>
-
 # Spa Treatment Discharge Form - Help Guide
 ## Purpose
 The Spa Treatment Discharge Form is a standard procedure that ensures clients acknowledge and confirm their understanding of the treatments they have received, aftercare instructions, and follow-up appointments. This form is essential for maintaining accurate records and ensuring that both the client and spa staff are on the same page.

@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand how to fill out the Individual Sponsorship Request form. The purpose of this form is to collect information from sponsors who are interested in supporting a project or cause. This form is typically used by individuals or organizations that want to offer financial support or resources to a project. To ensure that the form is filled out correctly, we'll go through each field and explain its purpose. Please review the fields carefully to provide accurate and complete information.
-
-This guide is intended for users who are interested in sponsoring a project and want to submit their request. If you're not sure about any of the fields, please review the field-by-field explanations below to learn more.
-
-</thinking>
-
 # Individual Sponsorship Request - Help Guide
 ## Purpose
 The Individual Sponsorship Request form is used to collect information from sponsors who are interested in supporting a project or cause.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for a running event, such as a 5K, 10K, half marathon, or full marathon. The form is intended for end-users who are registering themselves or someone else for the event. The form does not require any information if left optional fields are left blank.
-</thinking>
-
 # registration_for_running_safari - Help Guide
 ## Purpose
 This form is designed to collect registration information for a running event.

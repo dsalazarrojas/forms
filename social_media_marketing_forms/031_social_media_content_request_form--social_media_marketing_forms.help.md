@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social_media_content_request_form - Help Guide
 ## Purpose
 This form is designed to help you request social media content from our team. Please use this form to specify your requirements for a social media content request, and our team will create or schedule the content for you. 

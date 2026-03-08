@@ -1,7 +1,5 @@
 >
-> <thinking>...</thinking>
-
-## Fitness Class Live Streaming Consent Form - Help Guide
+> ## Fitness Class Live Streaming Consent Form - Help Guide
 
 ### Purpose
 This form is used to collect information about a fitness class live streaming session. It includes details such as class duration, location, streaming type, and schedule. The form also requires consent from the user before streaming can be done.

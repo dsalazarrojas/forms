@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is relevant and not duplicated, please let's confirm that the purpose of this form is to gather feedback from sailing club participants on their experience with the club's racing events. This form will help the club understand areas of improvement, identify participant preferences, and enhance overall experience for future events. It is essential to understand the form's purpose to provide accurate and helpful feedback. 
-</thinking>
-
 # Sailing Club Racing Survey - Help Guide
 
 ## Purpose

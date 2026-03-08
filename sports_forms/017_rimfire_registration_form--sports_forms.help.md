@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rimfire Registration Form - Help Guide
 ## Purpose
 The Rimfire Registration Form is designed to gather information from shooters and participants about their event registration details. This form is used to collect relevant information for event planning and management purposes. Please ensure that you are eligible and have the necessary permissions to complete this form, as it is intended for internal use within the shooting sports community.

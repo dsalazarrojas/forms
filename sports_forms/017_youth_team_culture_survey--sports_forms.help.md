@@ -1,9 +1,3 @@
-<thinking>
-This help guide aims to support the Youth Team Culture Survey form, ensuring users understand its purpose and how to complete it accurately. The form is designed to gather feedback on the team culture of a youth team, encompassing various aspects such as morale, communication, belonging, leadership, and more. The goal is to provide a comprehensive picture of the team's dynamics and identify areas for improvement.
-
-The form is divided into several sections, each focusing on different aspects of team culture. Users should answer each question truthfully, providing ratings or selections that reflect their genuine opinions. This survey will help teams better understand their strengths and weaknesses, enabling them to make data-driven decisions and create a more positive and supportive environment.
-</thinking>
-
 # Youth Team Culture Survey - Help Guide
 ## Purpose
 The Youth Team Culture Survey is designed to gather feedback on the team culture of youth teams, aiming to create a more positive and productive team environment. This survey will help identify strengths and weaknesses, providing actionable insights for team members, leaders, and coaches to improve team culture.

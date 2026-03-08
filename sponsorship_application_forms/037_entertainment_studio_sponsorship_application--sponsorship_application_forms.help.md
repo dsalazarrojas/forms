@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for entertainment studio sponsorship applications. The purpose of this form is to gather essential details about the event, project, and partner being sponsored. The form should only be filled out by authorized individuals or organizations that have been invited to apply for sponsorship. Please ensure that you have been invited to apply before submitting this form.
-</thinking>
-
 # Entertainment Studio Sponsorship Application - Help Guide
 ## Purpose
 The Entertainment Studio Sponsorship Application form is a critical tool for gathering information about events, projects, and partners that are seeking sponsorship from our organization. This guide will walk you through each section of the form to ensure you complete it accurately and effectively.

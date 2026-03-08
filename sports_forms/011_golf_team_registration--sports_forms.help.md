@@ -1,5 +1,3 @@
-<thinking>As a subject matter expert in form design and technical writing, I'll create a comprehensive user-facing help guide for the "Golf Team Registration" form. I'll break down the form's purpose, provide step-by-step instructions on how to complete it, and explain each field in a clear and concise manner.</thinking>
-
 # Golf Team Registration - Help Guide
 ## Purpose
 The Golf Team Registration form is designed to gather information from golf teams and their representatives. This form is used to collect team details, player information, and financial data for the golf tournament.

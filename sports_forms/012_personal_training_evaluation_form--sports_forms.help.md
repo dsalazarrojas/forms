@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive assessment and evaluation tool for a personal training program. It captures various aspects of client progress, training sessions, and assessment results. To ensure that this form is used effectively, let's break down its purpose and usage.
-
-The form's primary purpose is to evaluate a client's training progress, plan, and status. It gathers information on client name, progress, training days, hours, and minutes spent on training, workout plans, training frequency, intensity, type, and duration. The form also seeks feedback from both the client and the trainer through notes and comments sections. 
-
-To avoid duplication of data, the form should be filled out once after each training session. The evaluation score and overall score will help assess the client's progress and provide a basis for future adjustments in the training plan.</thinking>
-
 # Personal Training Evaluation Form - Help Guide
 ## Purpose
 The Personal Training Evaluation Form is a tool used to assess a client's progress, plan, and status in a personal training program.

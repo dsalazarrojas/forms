@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for individuals or organizations to submit a donation to sponsor an event or cause. This is an internal form and is used by the sponsor selection committee to review and process sponsorship applications. To be eligible, the individual or organization must be a valid entity with a verifiable email address. Duplicate submissions will be automatically rejected.
-</thinking>
-
 # paypal_sponsor_donation_form - Help Guide
 ## Purpose
 This form is designed to collect sponsorship applications from individuals or organizations interested in supporting an event or cause. Please ensure that you have a valid email address associated with your entity to complete this form.

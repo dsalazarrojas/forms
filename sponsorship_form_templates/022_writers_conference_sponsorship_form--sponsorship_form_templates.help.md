@@ -1,7 +1,3 @@
-<thinking>
-This form is for writers conference sponsorship, where potential sponsors are asked to provide their details and preferences for recognition and promotion. This form aims to gather information about the sponsor's level of support, the type of recognition they would like to receive, and their signature for official confirmation. To ensure the form is completed correctly, please review each section carefully and make sure to select the correct options from the available choices.
-</thinking>
-
 # Writers Conference Sponsorship Form - Help Guide
 ## Purpose
 This form is for writers conference sponsorship, where potential sponsors are asked to provide their details and preferences for recognition and promotion.

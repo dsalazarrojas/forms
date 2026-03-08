@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit their preferences for a sports tournament. The form is used to collect information about the users' preferences for the location and schedule of the tournament. 
-
-This form is intended to gather input for a specific sports tournament, and the user's submission will help shape the final schedule and location of the event.
-
-Before proceeding, please confirm that you intend to vote for a specific sports tournament. Your vote will not affect any existing votes, and this form is designed for new submissions only.
-
-</thinking>
 # sports_tournament_location_voting_form - Help Guide
 ## Purpose
 The sports_tournament_location_voting_form is a tool used to collect user preferences for the location and schedule of a sports tournament.

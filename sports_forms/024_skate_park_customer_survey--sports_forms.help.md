@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is designed to collect feedback from customers who have visited the skate park. The purpose of this form is to gather information about their experience, satisfaction, and suggestions for improvement. This feedback will help us to identify areas where we can make improvements and provide better services to our customers in the future.
-
-Before filling out this form, please ensure that you have visited the skate park recently and are providing honest and constructive feedback. Please also note that this form is not meant to be filled out by non-employees or non-customer representatives.
-
-</thinking>
-
 # Skate Park Customer Survey - Help Guide
 ## Purpose
 The Skate Park Customer Survey is designed to gather feedback from customers about their experience at the skate park. Your input will help us to identify areas where we can improve and provide better services to you and other customers in the future.

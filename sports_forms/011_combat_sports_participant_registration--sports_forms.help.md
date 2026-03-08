@@ -1,8 +1,3 @@
-<thinking>
-We need to create a help guide that covers the purpose and process of completing the Combat Sports Participant Registration form. This form is designed to gather information from participants registering for combat sports, such as Boxing, Mixed Martial Arts (MMA), Brazilian Jiu-Jitsu, Muay Thai, Kickboxing, Wrestling, Taekwondo, or Karate. The purpose of this form is to collect participant information for age verification, category placement, medical purposes, and registration confirmation.
-To avoid duplication of effort, we will only create one instance of the form per participant.
-</thinking>
-
 # Combat Sports Participant Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants registering for combat sports, including age verification, category placement, and medical purposes.

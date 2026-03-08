@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from companies that are interested in participating in a cloud-based inventory pilot application. The form is meant to be completed by a primary contact person from the company, and it will help the project team understand the company's needs, requirements, and expectations from the pilot program.
-
-To confirm, this form is for companies that have an interest in implementing a cloud-based inventory management system. It's not intended for internal use within the company, but rather for external project teams and stakeholders.
-
-The form is divided into several sections that cover various aspects of the company's requirements and expectations. Completing this form will help the project team better understand the company's needs and tailor the pilot program to their specific requirements.
-
-Please note that the project team will review and verify the information provided in this form to ensure it meets the project's requirements and goals.
-
-</thinking>
-
 # Cloud Based Inventory Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from companies that are interested in participating in a cloud-based inventory pilot application.

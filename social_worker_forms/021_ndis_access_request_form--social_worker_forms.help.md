@@ -1,7 +1,3 @@
-<thinking>
-This form is used by social workers to request access to the NDIS (National Disability Insurance) service. The form is designed to collect information about the user, their contact details, service details, service delivery, service provider, and any additional comments or notes. This form is intended to be completed by social workers who need to access NDIS services for their clients. It is not a form for general public use.
-</thinking>
-
 # NDIS Access Request Form - Help Guide
 ## Purpose
 The NDIS Access Request Form is used by social workers to request access to NDIS services on behalf of their clients. It is designed to be a simple and straightforward way to collect necessary information about the client and their service needs.

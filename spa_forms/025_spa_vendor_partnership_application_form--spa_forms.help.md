@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the Spa Vendor Partnership Application Form is completed accurately and consistently by all applicants to help us evaluate their partnership potential effectively. This form is designed to gather necessary information about potential spa vendors, including their contact details, spa information, and any additional comments or notes. Before filling out the form, please review the following help guide to understand the purpose and requirements of each section. 
-
-Please note that the form is not for internal use; it's intended for external partners who might not have the same level of technical knowledge as our internal staff. Therefore, we'll keep the explanation concise and easy to follow.
-
-</thinking>
-
 # Spa Vendor Partnership Application Form - Help Guide
 
 ## Purpose

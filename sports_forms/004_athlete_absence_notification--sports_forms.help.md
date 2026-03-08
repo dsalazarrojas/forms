@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**Athlete Absence Notification - Help Guide**
+> **Athlete Absence Notification - Help Guide**
 ======================================
 
 ## Purpose

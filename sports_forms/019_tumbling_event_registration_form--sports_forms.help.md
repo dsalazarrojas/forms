@@ -1,7 +1,3 @@
-<thinking>
-The form purpose appears to be to register an event related to tumbling, likely an activity or competition. It's crucial to confirm that the form is not intended for any other purpose. The fields provided suggest that the form might be used for registering athletes, emergency contacts, and event details. The fields also imply that the form will be used for a one-time event, rather than an ongoing or recurring event. To ensure the form is correctly filled out, let's review the instructions below.
-</thinking>
-
 # Tumbling Event Registration Form - Help Guide
 ## Purpose
 The Tumbling Event Registration Form is designed to register athletes for a tumbling event. This form is used to gather essential information about the athlete, emergency contacts, and event details.

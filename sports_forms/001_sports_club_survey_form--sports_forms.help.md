@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from sports club members on various aspects of their experience at the club. The purpose of this form is to identify areas of improvement and provide suggestions for enhancing the overall sports club experience. The feedback collected through this form will be used to inform decisions on menu item selection, beverage options, and other amenities. This form should only be filled out by active sports club members. If you're unsure about your membership status, please contact the club administration.
-</thinking>
-
 # Sports Club Survey Form - Help Guide
 
 ## Purpose

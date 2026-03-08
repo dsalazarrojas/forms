@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about sports competitions, including details about the competition, participants, and events. This form is likely used to register participants for sports competitions, gather information about their participation, and track the overall competition process. By completing this form, participants will be able to provide accurate and relevant information about their sports competition experience, which can help the organizers and administrators of the competition to better understand the participant's needs and requirements. This form is likely used for administrative purposes, and it is not intended for general public use. 
-
-</thinking>
-
 # Sports Competition Information Collection Form - Help Guide
 ## Purpose
 The Sports Competition Information Collection Form is used to gather information about sports competitions, including details about the competition, participants, and events. This form helps the organizers and administrators of the competition to better understand the participant's needs and requirements.

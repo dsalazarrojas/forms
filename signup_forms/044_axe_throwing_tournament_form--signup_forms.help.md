@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand the importance of creating a user-friendly guide that effectively communicates the purpose and usage of the form to end-users. Before generating the help guide, I'll review the provided YAML fields to ensure I cover all the essential points. The form is for an axe throwing tournament, and it appears to be collecting information from teams for registration. The form has several sections, including team information, roster, tournament details, payment and safety, and a signature section. Each section is designed to gather specific data from team captains and members. I will ensure that the guide provides clear explanations for each field, making it easy for end-users to fill out the form accurately and efficiently.</thinking>
-
 # Axe Throwing Tournament Form - Help Guide
 ## Purpose
 The Axe Throwing Tournament Form is designed to collect information from teams for registration and preparation of an axe throwing tournament. Please fill out this form accurately to ensure your team's participation in the event.

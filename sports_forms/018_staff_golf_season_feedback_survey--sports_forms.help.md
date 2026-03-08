@@ -1,11 +1,3 @@
-<thinking>
-The Staff Golf Season Feedback Survey is a form used by staff to provide feedback and ratings on the golf season events organized by the staff. This form is typically filled out by staff who have participated in the golf season events. The purpose of this form is to collect feedback on the overall experience, event organizers, and overall ratings of the golf season. This form is usually completed on an ad-hoc basis and is not a recurring task for staff.
-
-Before filling out this form, please ensure that:
-- The survey has been reviewed by the appropriate department head or team lead before submission.
-- The survey is filled out on behalf of the staff member(s) who participated in the golf season event(s), as they cannot be expected to fill it out by themselves.
-</thinking>
-
 # Staff Golf Season Feedback Survey - Help Guide
 ## Purpose
 The Staff Golf Season Feedback Survey is a form used to collect feedback and ratings on the golf season events organized by the staff. This form is completed by staff to provide their input on the events.

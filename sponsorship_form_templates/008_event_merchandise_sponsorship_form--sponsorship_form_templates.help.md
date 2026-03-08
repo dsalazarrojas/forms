@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from potential event merchandise sponsors. The form gathers contact and sponsorship details from individuals or organizations interested in sponsoring event merchandise. It's essential to ensure the form is completed accurately and completely to enable proper communication and collaboration with potential sponsors. Please note that some fields are not required, and users should fill them out only if applicable. This form has 6 fields in total.
-</thinking>
-
 # Event Merchandise Sponsorship Form - Help Guide
 ## Purpose
 The Event Merchandise Sponsorship Form is designed to collect information from potential event merchandise sponsors. This form is used to gather contact and sponsorship details from interested parties.

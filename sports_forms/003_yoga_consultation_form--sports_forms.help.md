@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information from clients before a yoga consultation. It appears to be a comprehensive form covering various aspects of the client's health, contact information, and consent for the consultation. To ensure that this form is filled out correctly, please review the following help guide.
-</thinking>
-
 # Yoga Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients before a yoga consultation. It helps our team understand the client's medical conditions, allergies, and other important details to provide a safe and effective experience.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive assessment tool for evaluating the swimming skills of a beginner swimmer. The form is designed to gauge the swimmer's comfort level, abilities, and safety knowledge in various aspects of swimming, from basic water comfort to advanced skills like treading water and changing direction while swimming.
-
-The form is likely used by swimming instructors or coaches to assess the progress of their students and identify areas where they need improvement. Each field in the form seems to be a critical aspect of the assessment, and the questions are phrased in a way that allows the assessor to gauge the swimmer's performance accurately.
-
-Before filling out this form, ensure you have a clear understanding of the swimmer's abilities and experiences. If you're unsure about any of the questions, try to answer based on your observation and the swimmer's self-reporting. If necessary, provide additional notes or recommendations in the "Instructor Notes" field.
-
-Please note that some questions might be subjective, and answers may vary depending on individual interpretations. If you're unsure about the correct answer, refer back to the swimmer's previous lessons or experiences, or use your best judgment based on the assessment criteria.
-
-</thinking>
-
 # Beginner Swimming Skills Checklist - Help Guide
 ## Purpose
 This form is used to assess the swimming skills of a beginner swimmer, evaluating their comfort level, abilities, and safety knowledge in various aspects of swimming.

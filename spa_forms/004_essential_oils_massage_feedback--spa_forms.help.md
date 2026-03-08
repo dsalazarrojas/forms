@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients about their experience with essential oils massages, aiming to improve the quality of services provided by spas. This form is meant for end-users, allowing them to rate their satisfaction with various aspects of the massage experience and provide any additional comments or feedback. Please ensure that you are using this form within a valid context and not duplicating efforts.
-</thinking>
-
 # Essential Oils Massage Feedback - Help Guide
 ## Purpose
 This form is used to collect client feedback on their experiences with essential oils massages.

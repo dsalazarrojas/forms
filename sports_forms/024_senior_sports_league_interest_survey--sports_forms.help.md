@@ -1,12 +1,3 @@
-<thinking>
-The goal of the Senior Sports League Interest Survey form is to gather information from users about their interest and preferences regarding senior sports leagues. This form is intended to be used by seniors who are interested in participating in sports leagues, such as bowling, golf, or other recreational sports. The purpose of this form is to help senior centers or organizations assess the level of interest and feasibility of running a senior sports league.
-
-To prevent duplication of effort, it's essential to only use this form when a senior sports league is being considered or planned. If a senior sports league is already active, there's no need to use this form.
-
-The form will likely be filled out by seniors or their representatives, such as family members or caregivers. The form will be used to gather information on individual interests and preferences, which will inform decisions on when and how to offer the senior sports league.
-
-Before completing this form, it's essential to review the following fields carefully to ensure that the information provided is accurate and helpful.</thinking>
-
 # Senior Sports League Interest Survey - Help Guide
 ## Purpose
 This form is designed to gather information from seniors about their interest and preferences regarding senior sports leagues.

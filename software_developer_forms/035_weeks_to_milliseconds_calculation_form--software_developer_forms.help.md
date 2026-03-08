@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to convert a given number of weeks into milliseconds and vice versa. The form is intended for software developers and engineers who need to perform this conversion frequently. Before proceeding, ensure you have a clear understanding of what you're converting - weeks into milliseconds or milliseconds into weeks. This is a simple conversion form and does not account for nuances like leap years or daylight saving time. 
-</thinking>
-
 # Weeks To Milliseconds Calculation Form - Help Guide
 ## Purpose
 The Weeks To Milliseconds Calculation Form is a simple tool for converting time units between weeks and milliseconds. It allows you to enter a value for either weeks or milliseconds and automatically calculates the equivalent value in the other unit.

@@ -1,5 +1,3 @@
-<thinking>...This form appears to be a survey intended to collect information on perceptions of gender equality in the workplace. The form likely aims to gather data on how employees experience and perceive gender treatment, support systems, and work-life balance. This information can help organizations identify areas where they may be contributing to gender inequality and make informed decisions to create a more inclusive work environment. The form's design seems to be straightforward, with a mix of select_one and select_multiple questions, as well as open-ended text fields. The required fields are marked as "true" in the YAML input schema, indicating that they must be completed to submit the form... </thinking>
-
 # Gender Equality Survey - Help Guide
 ## Purpose
 This form is designed to collect information on perceptions of gender equality in the workplace. It will help organizations identify areas where they may be contributing to gender inequality and make informed decisions to create a more inclusive work environment.

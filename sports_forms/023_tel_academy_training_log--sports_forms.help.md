@@ -1,29 +1,3 @@
-<thinking>
-
-This form appears to be a log of a fitness or sports-related training or workout session. The purpose of this form is to collect information about a specific training or workout, including details such as date, time, the athlete's name, type of exercise, number of sets and reps, weight, distance, and other relevant metrics. This information can be used to track and analyze the athlete's progress and performance over time.
-
-The form includes fields for:
-
-* Date and time of the workout
-* Athlete's name and contact information (email and phone)
-* Coach's name and contact information (email and phone)
-* Emergency contact information (email and phone)
-* Training type and exercise name
-* Number of sets and reps performed
-* Weight and distance covered
-* Wellness monitoring status (yes/no)
-* Fatigue level (high/low)
-* Notes on the workout
-* Wellness score status (yes/no)
-* Training date and time (separate fields)
-* Rest days since last workout
-* Workout frequency (yes/no)
-* Log of previous workouts (not visible in this form version)
-
-The form does not seem to be intended for public use, but rather for internal use by coaches or trainers.
-
-</thinking>
-
 # tel-academy-training-log - Help Guide
 ## Purpose
 The purpose of this form is to collect and track details of a specific training or workout session.

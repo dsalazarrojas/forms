@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a tournament schedule and any potential issues or problems that have arisen during the tournament. It may be used by tournament organizers or staff to communicate with participants or other stakeholders about the schedule, location, and any issues that need to be addressed.
-The form includes fields for the tournament ID, match name, schedule date, schedule start and end times, match location, tournament location, and contact information for the reporter (name, email, and phone number). There is also a field for reporting a problem, which suggests that this form is not only for communicating the schedule but also for reporting any issues or concerns that may arise during the tournament.
-This form appears to be used in a competitive environment where precise communication of tournament details is crucial.
-</thinking>
-
 # Tournament Schedule Communication Form - Help Guide
 ## Purpose
 The Tournament Schedule Communication Form is a tool for tournament organizers to collect and communicate information about the schedule and any issues that may occur during a tournament.

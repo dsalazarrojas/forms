@@ -1,7 +1,3 @@
-<thinking>**Internal Reasoning Block:** 
-This form is for registering new fitness boot camp members. It is used to capture personal and account information for new customers. To avoid duplication of accounts, please ensure you are filling out this form under your correct email address. If you need to edit existing accounts, please contact the administrator.
-</thinking>
-
 # Fitness Boot Camp Registration - Help Guide
 ## Purpose
 This form is used to create a new account for a fitness boot camp member. It captures the required and optional information for the member's profile.

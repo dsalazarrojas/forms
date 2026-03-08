@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Baseball Lineup Form - Help Guide
 ## Purpose
 This guide helps you complete the Baseball Lineup Form efficiently. The form is used to gather information about a baseball game, including team names, game details, and player lineups.

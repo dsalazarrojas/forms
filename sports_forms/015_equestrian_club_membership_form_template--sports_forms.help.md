@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equestrian Club Membership Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who wish to join the Equestrian Club. This form is designed to gather necessary details for membership registration, which will be reviewed and processed by the club's administration team.

@@ -1,12 +1,3 @@
-<thinking>
-This form is for registering an individual as a member of a gym.
- 
-We've generated this form based on the category "sports" and title "Gym Registration Form Template". The form is designed to collect personal information, body measurements, fitness goals, and acceptance of terms from the user. To ensure a smooth experience for the users, it's essential to understand the form's purpose and how to complete it correctly.
- 
-The form has four pages, each with a specific set of fields. We'll walk through each field to make sure you fill it out accurately.
- 
-</thinking>
-
 # Gym Registration Form Template - Help Guide
 ## Purpose
 The Gym Registration Form Template is designed to collect personal and health information from individuals interested in joining a gym.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about blockchain technology and cryptocurrency from individuals in the industry. It is intended to understand respondents' professional background, knowledge, and experience with blockchain, as well as their interest in various aspects of blockchain technology. The form will help identify the main obstacles to its adoption and the expected timeline for its major impact.
-
-Please ensure that you are providing genuine and accurate information to help us better understand the current state of blockchain technology and its applications.
-
-Before starting, please note that all fields are optional unless marked as required. This means that you can skip or leave any field blank if you don't feel comfortable providing information about it.
-
-Also, the form will not collect any sensitive or personal identifiable data. It is purely for educational and research purposes.
-
-Please be honest in your answers, and if you need any help or clarification about any field, do not hesitate to contact us.
-</thinking>
-
 # Blockchain Survey - Help Guide
 ## Purpose
 This survey aims to collect information about blockchain technology and its applications from individuals in the industry. The goal is to understand respondents' professional backgrounds, knowledge, and experience with blockchain, as well as their interest in various aspects of blockchain technology.

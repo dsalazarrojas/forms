@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information and recording details for a sports conference. It is essential to ensure that all participants have reviewed and agreed upon the terms of recording. This form is used by sports organizations or institutions to obtain consent from participants before recording their events, sessions, or conferences. 
-
-The form is designed to be filled out by participants, and it is not intended for administrators or staff to complete. 
-
-Please review the form carefully and fill it out accurately. 
-
-</thinking>
-
 # Sports Conference Recording Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information and recording details for a sports conference. It is essential to ensure that all participants have reviewed and agreed upon the terms of recording.

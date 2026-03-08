@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facial Steaming Treatment Consent Form - Help Guide
 
 ## Purpose

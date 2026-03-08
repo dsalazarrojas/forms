@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Boxing Registration Form - Help Guide
 
 ## Purpose

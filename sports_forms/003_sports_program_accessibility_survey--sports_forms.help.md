@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Sports Program Accessibility Survey is to gather information on accessibility features and tools for sports programs, including clubs, schools, and community recreation teams. This survey aims to understand the availability and accessibility of tools such as chatjimmy and jotform, as well as the categories of sports forms, to provide insights for further development and improvement. Please ensure that this is a new survey and not a duplicate.
 
 # Sports Program Accessibility Survey - Help Guide

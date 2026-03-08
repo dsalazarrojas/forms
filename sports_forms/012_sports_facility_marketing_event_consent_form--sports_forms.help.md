@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that our sports facility marketing event form is filled out correctly by participants. This form is designed to collect consent and emergency contact information from participants who will be attending our sports facility events. It's crucial that we understand the purpose and requirements of each field to ensure that participants provide accurate and complete information.
-
-To confirm, I will check for any potential duplication or irrelevant fields and ensure that the explanation is concrete, concise, and practical.
-
-</thinking>
-
 # Sports Facility Marketing Event Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant consent and emergency contact information for sports facility marketing events. It's essential to fill out this form accurately and completely to ensure your participation in the event.

@@ -1,7 +1,3 @@
-<thinking>
-To create the Readers' Awards Sponsorship Form, I need to understand the purpose of the form and its fields. Based on the provided YAML fields, it appears that the form is designed to collect information for a sponsorship or award program. The fields suggest that the form collects general information (name, email, phone, address), sponsorship level, award details, and sponsor's information. I will create a user-facing help guide that explains each field's purpose and how to fill it out.
-</thinking>
-
 # Readers' Awards Sponsorship Form - Help Guide
 ## Purpose
 The Readers' Awards Sponsorship Form is used to collect information for a sponsorship or award program. This form helps the program organizers gather essential details from both the sponsor and the recipient of the award.

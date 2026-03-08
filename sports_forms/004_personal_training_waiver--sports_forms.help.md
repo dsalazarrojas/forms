@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this is a "Personal Training Waiver" form used in the sports industry to collect information from clients about their medical conditions, emergency contacts, and other relevant details. This form is designed for clients to sign a waiver that confirms they understand the terms and conditions of personal training. The form appears to be designed for general use, but I'd like to confirm that it's not for any specific sport or activity. If you'd like me to include any additional fields or modify any of the fields, please let me know!
-
-</thinking>
-
 # Personal Training Waiver - Help Guide
 ## Purpose
 This form is a waiver that clients must sign before starting personal training sessions. It collects information about the client's personal details, emergency contacts, and medical conditions.

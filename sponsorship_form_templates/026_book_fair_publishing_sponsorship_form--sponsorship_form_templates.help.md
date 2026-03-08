@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the form's effectiveness, please review the purpose, fields, and any potential duplication before proceeding.
 
 This form serves as a tool for potential sponsors to provide information about their sponsorship of the Book Fair Publishing Sponsorship Form. This form should be used for sponsors who wish to partner with the Book Fair and provide financial or material support. 

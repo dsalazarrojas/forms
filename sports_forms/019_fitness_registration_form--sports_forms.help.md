@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from individuals interested in joining a fitness program or club. The form is likely used to collect basic contact information, health and fitness background, and personal goals for potential new members. Before starting, please ensure you have not filled out this form before, as this would result in duplication of data.
-
-</thinking>
-
 # fitness_registration_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and personal details for individuals interested in joining a fitness program or club. 

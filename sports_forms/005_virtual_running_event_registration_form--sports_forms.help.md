@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The Virtual Running Event Registration Form is used by event organizers to collect information from participants, including their personal details and event specific information. It is essential to fill this form accurately to ensure correct participant registration. Please make sure to complete this form only once per participant.
-
-</thinking>
-
 # Virtual Running Event Registration Form - Help Guide
 ## Purpose
 The Virtual Running Event Registration Form is used by event organizers to collect participant information for virtual running events.

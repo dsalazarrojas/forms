@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from Rust developers about their experience and opinions on the language. The form is intended to be a survey, and the questions are meant to be answered in a way that provides actionable feedback to the Rust development team. The form will ask about the developer's experience with Rust, their level of satisfaction, the teams or organizations they work for, their involvement in Rust communities, and any specific features they would like to see in the language. The form will also ask about any further feedback or comments the developer may have, and whether they would like to share their email address or phone number with the Rust team. Finally, the form will ask for an agreement to the terms of service before submission.
-</thinking>
-
 # Rust Developer Survey Form - Help Guide
 ## Purpose
 This form is a survey for Rust developers to share their opinions and feedback on the language.

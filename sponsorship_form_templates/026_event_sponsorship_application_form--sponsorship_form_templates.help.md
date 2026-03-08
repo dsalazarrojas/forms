@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-This form is intended for organizations, individuals, or teams to apply for event sponsorship opportunities. The form captures essential contact details, a brief description of the event, and a submission statement. The form is designed to be a simple and straightforward application process for event sponsors.
-
-Before proceeding, please ensure you're not already a sponsored event and haven't filled this form before. If you're unsure, please contact us at the provided contact email address.
-
-</thinking>
-
 # Event Sponsorship Application Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Event Sponsorship Application Form. Please read through each section carefully to ensure you provide the required information for your event sponsorship application.

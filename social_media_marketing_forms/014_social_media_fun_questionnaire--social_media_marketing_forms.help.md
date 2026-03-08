@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's social media habits and preferences. The form asks about their favorite social media platforms, how often they use them, the type of content they post, their target audience, and other related questions. This form can be used by anyone interested in understanding social media user behavior, such as marketers, researchers, or social media managers. Before filling out this form, please note that your responses will be used for research purposes only and will not be shared with any third-party organizations without your consent.
-</thinking>
-
 # Social Media Fun Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your social media habits and preferences.

@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to evaluate special education programs. To do this, let's review the form purpose and fields to ensure they align with the required information. The form title is "Special Education Program Evaluation Form". 
-This form is used to evaluate the performance of special education programs, likely used by educators or administrators to assess progress and provide feedback. 
-The fields include information about the student, school, and program, as well as assessment of the student's progress and participation. We should review each field to ensure it's clear and relevant to the form's purpose. 
-Upon reviewing the fields, we see that most fields are optional, but there are some required fields like "progress_assessment", "school_level", "school_size", and "grade_level" which are crucial for evaluating the program. 
-Each field should have a clear label and explanation to facilitate accurate completion. 
-Let's ensure the form's fields and options are comprehensive and relevant to the evaluation process.
-</thinking>
-
 # Special Education Program Evaluation Form - Help Guide
 ## Purpose
 The Special Education Program Evaluation Form is designed to help educators and administrators assess the effectiveness of special education programs. It collects information on student progress, program goals, and school settings.

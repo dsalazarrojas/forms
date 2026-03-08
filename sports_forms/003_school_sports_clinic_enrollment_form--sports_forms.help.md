@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed for parents and guardians to enroll their child in a school sports clinic. The purpose of this form is to collect essential information about the student, their parent/guardian, and payment details. This form will serve as a registration process for the student to participate in the sports clinic.
-
-Before proceeding, ensure that you are filling this form for the correct purpose and for a single student. If you need to enroll multiple students, please fill this form for each child separately.
-
-Also, please note that you can only select one school option per form.
-
-</thinking>
-
 # School Sports Clinic Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect enrollment information for your child to participate in a school sports clinic. Please provide accurate and complete details to ensure a smooth enrollment process.

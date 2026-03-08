@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a Social Work Referral Form, likely designed to capture information about a student's referral to social services. The form's purpose seems to be to gather data about the student's name, grade level, behavioral issues, recommended services, and other relevant details. However, upon reviewing the form's structure, there are some fields that seem to be unnecessary or redundant, such as the "student_id" and "teacher_id" fields, which are both numbers but without any clear purpose or validation. These fields might be removed or clarified to avoid confusion.
-
-The form requires the student's name, grade level, recommended services, contact information, and assigned tool. The student's grade level is a select_one field with options for 9th to 12th grade, and the recommended services is a select_multiple field with three options. The assigned tool is a select_one field with two options.
-
-</thinking>
-
 # Social Work Referral Form - Help Guide
 ## Purpose
 The Social Work Referral Form is designed to facilitate the referral process for students who require social services. It gathers essential information from teachers and other relevant parties to ensure that the student receives the necessary support.

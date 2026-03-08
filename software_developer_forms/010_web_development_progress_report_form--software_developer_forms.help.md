@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help web developers track and report their progress on various projects. It is designed to collect information on the started date, target date, progress of work, and other relevant details. The purpose of this form is to provide a structured way for web developers to update their progress and ensure that they are on track to meet their project deadlines.
-It is also possible that this form may be used by project managers or supervisors to monitor the progress of web development projects, ensuring that they are completed within the allotted timeframe and meet the required standards.
-This form should not be used for any other purpose than reporting web development progress.
-</thinking>
-
 # Web Development Progress Report Form - Help Guide
 ## Purpose
 The Web Development Progress Report Form is a tool designed for web developers to track and report the progress of their projects.

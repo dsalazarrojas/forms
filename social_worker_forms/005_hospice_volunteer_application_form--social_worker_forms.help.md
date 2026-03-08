@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in volunteering their time to support hospice care. This form will help us understand their availability, role, and frequency of volunteering, allowing us to match them with suitable volunteer opportunities. To ensure we are not duplicating efforts, please only submit one application per person.
-</thinking>
-
 # Hospice Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed for individuals who wish to volunteer their time to support hospice care. It will help us understand their availability, role, and frequency of volunteering, allowing us to match them with suitable volunteer opportunities.

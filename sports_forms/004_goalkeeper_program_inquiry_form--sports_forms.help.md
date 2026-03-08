@@ -1,16 +1,3 @@
-<thinking>
-This guide will walk you through the purpose and completion of the goalkeeping program inquiry form. Before we dive into the form details, let's briefly cover the form's purpose and relevance.
-
-The **goalkeeper_program_inquiry_form** is designed for coaches, academy personnel, or other interested parties to inquire about potential goalkeeping programs. This form will help us gather necessary information to better understand your inquiry and tailor our response.
-
-The form is structured to gather various details related to the goalkeeper program, including contact information, coaching details, and payment terms. It is an essential part of our process to provide accurate and helpful responses to your inquiries.
-
-To ensure a smooth completion process, please note that some fields are required and should be filled accordingly. This guide will guide you through each field, explaining its purpose and required or optional status.
-
-Please review the form fields carefully and ensure you provide accurate information to help us serve you better.
-
-</thinking>
-
 # Goalkeeper_program_inquiry_form - Help Guide
 ## Purpose
 The **goalkeeper_program_inquiry_form** is designed to gather information for potential goalkeeping programs.

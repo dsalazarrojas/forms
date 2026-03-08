@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information for the daily coaching session, which includes lesson plans, athlete information, and progress notes. It ensures that coaches can track progress and provide accurate records of student performance and feedback. This form should be used for every coaching session. Please review the form carefully to ensure that you have completed it accurately and thoroughly.
-</thinking>
-
 # Daily Coaching Sheet - Help Guide
 ## Purpose
 The Daily Coaching Sheet is a form designed to capture essential information for each daily coaching session. This form helps coaches track progress, maintain accurate records, and provide effective feedback to students.

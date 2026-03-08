@@ -1,15 +1,3 @@
-<thinking>
-
-As a sports-related survey form, the Athlete Travel Experience Survey is designed to gather information about athletes' experiences with travel arrangements, accommodations, and overall satisfaction with travel. This form is intended for athletes who have participated in sports-related events or tournaments, allowing them to provide feedback on their travel experiences, including accommodations, meals, and transportation. The data collected will help sports organizers and event planners understand areas of improvement, identify best practices, and create more comfortable and enjoyable travel experiences for athletes.
-
-To determine the relevance and uniqueness of this survey, the following questions were considered:
-
-*   **Survey Purpose**: The primary objective of this survey is to gather feedback from athletes on their travel experiences, which will help sports organizers and event planners improve the quality of travel arrangements.
-*   **Target Audience**: Athletes who have participated in sports-related events or tournaments.
-*   **Survey Design**: The survey includes questions about various aspects of travel, including accommodations, meals, transportation, and overall satisfaction.
-
-</thinking>
-
 # Athlete Travel Experience Survey - Help Guide
 ## Purpose
 The Athlete Travel Experience Survey is designed to collect feedback from athletes on their experiences with travel arrangements for sports-related events or tournaments.

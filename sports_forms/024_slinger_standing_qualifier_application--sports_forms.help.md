@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential event organizers who want to become a Slinger Standing Qualifier. The Slinger Standing Qualifier program is a program that allows individuals to work with events, but there is an application process that requires specific information to qualify. This form is used to gather necessary details about the individual, including their availability, experience, and consent to participate. To complete this form, only fill out the fields that apply to your situation and submit.
-</thinking>
-
 # Slinger Standing Qualifier Application - Help Guide
 ## Purpose
 This application is used to determine whether you meet the qualifications to be a Slinger Standing Qualifier. If you're unsure if you qualify, refer to the application instructions below.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beta Product Inquiry Form - Help Guide
 
 ## Purpose

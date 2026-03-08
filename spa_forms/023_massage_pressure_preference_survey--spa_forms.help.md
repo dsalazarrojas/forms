@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the spa management system, designed to collect client preferences for massage pressure, duration, frequency, and other contact information. The purpose of this form is to gather data that can be used to tailor massage therapy sessions to individual clients' needs and preferences. It is not intended for immediate review by spa staff, but rather for data collection and analysis to improve client satisfaction and spa services. Please review the form carefully to ensure you are answering correctly, as your responses will be used to inform spa services. Please note that this form should not be used for urgent or emergency situations, but rather for routine check-ins and surveys.
-</thinking>
-
 # Massage Pressure Preference Survey - Help Guide
 ## Purpose
 The Massage Pressure Preference Survey is designed to gather information about your preferences for massage pressure, duration, and frequency, as well as your contact information.

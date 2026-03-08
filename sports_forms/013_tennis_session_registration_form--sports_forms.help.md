@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to register for a tennis session. The primary goal is to gather details about the attendees, including their name, contact information, availability, and any additional notes or tools they may need. This form will likely be used in a sports-related setting, such as a tennis club or training facility. To confirm, this form is used for users to register for a tennis session, not to create a new account or access existing information. Please ensure you are not submitting duplicate registrations, as this form is intended for new registrations only.
-</thinking>
-
 # Tennis Session Registration Form - Help Guide
 ## Purpose
 The Tennis Session Registration Form is designed to collect information from users to register for a tennis session.

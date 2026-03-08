@@ -1,7 +1,3 @@
-<thinking>
-This form was created based on the metadata of "sports" forms, with the specific topic of "tournament participant bib printing order" in mind. Its purpose is to collect information from participants in a tournament, specifically regarding their bib details and printing requirements. This form is likely to be used in a sports-related context, such as for marathon or cycling events. It's essential to ensure that the participant's bib information is accurate and printed correctly for the event.
-</thinking>
-
 # tournament_participant_bib_printing_order_form - Help Guide
 ## Purpose
 The "Tournament Participant Bib Printing Order Form" is designed to collect information from participants in a sports tournament, ensuring that their bib details are accurate and printed correctly for the event.

@@ -1,12 +1,3 @@
-<thinking>
-We designed this form to be used by team members to input sprint backlog items. It's meant to be a one-page overview of each item, providing an easy way to keep track of progress and status. 
-The form is split into multiple sections and each field is designed to provide a specific set of information. It is intended to be used for both active and inactive items. It's essential to be completed accurately and thoroughly, ensuring that team members are aware of their tasks and can plan accordingly.
-
-We check for duplicates and relevance before allowing the team to input data on the form. This helps prevent unnecessary data entry and keeps the information accurate and up-to-date. 
-
-The form is not meant to be filled out multiple times for the same item. It's for one-time inputting of data.
-</thinking>
-
 # Sprint Backlog Items Entry Form - Help Guide
 ## Purpose
 The Sprint Backlog Items Entry Form is a one-page overview of each sprint backlog item, designed for team members to input data on tasks and progress.

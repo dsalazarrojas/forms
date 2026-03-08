@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for team t-shirt orders, including team name, t-shirt color, size, and other relevant details. It's intended for teams to submit their order requests to the organization managing the t-shirt production and distribution.

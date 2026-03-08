@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for personal trainers to submit their profiles to be listed in a database or directory of personal trainers. The form is likely used by trainers to provide their basic contact information and potentially other relevant details. It is assumed that this form will not be duplicated, as it is likely used for initial profile submissions. The form is not explicitly marked as required, but it is likely that all fields are required for a complete submission.
-</thinking>
-
 # personal_trainer_profile_submission_form - Help Guide
 ## Purpose
 This form is for personal trainers to submit their profile information to be listed in our directory.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "sports_club_social_responsibility_survey" form is to gather information about a sports club's social responsibility initiatives. This form will help us understand the club's involvement in various community-focused activities, such as community outreach programs, volunteer programs, social media presence, and contact information. This form will help us evaluate the club's commitment to social responsibility and provide insights for future development.
-Please ensure that you complete this form only if it directly relates to your role or responsibilities within the sports club. If you're not sure about your involvement, please refrain from filling out this form to avoid any confusion or duplication of efforts.
-</thinking>
-
 # sports_club_social_responsibility_survey - Help Guide
 ## Purpose
 The sports club social responsibility survey is a form designed to gather information about your club's social responsibility initiatives. This form is meant for sports clubs that are actively involved in community-focused activities, such as volunteer programs, community outreach, and social media presence.

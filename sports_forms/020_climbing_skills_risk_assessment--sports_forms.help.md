@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication of effort, let's first ensure we are creating a relevant and useful help guide that meets the needs of our end users. The Climbing Skills Risk Assessment form is a crucial tool used by climbing facilities to evaluate climbers' skills, experience, and safety awareness. It helps to identify potential risks and ensure a safe climbing environment. To avoid any confusion, let's break down the form into sections and explain each field concisely, making sure to cover all the required information.
-
-</thinking>
-
 # Climbing Skills Risk Assessment - Help Guide
 ## Purpose
 The Climbing Skills Risk Assessment form is designed to evaluate climbers' skills, experience, and safety awareness to identify potential risks and ensure a safe climbing environment.

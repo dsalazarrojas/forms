@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by individuals or businesses seeking to apply for sponsorship to an event. To confirm the purpose and relevance of this form, it should be noted that it is typically used by event organizers to collect information from potential sponsors. This form is not a duplicate of other forms that may have similar fields. The form is designed to collect basic contact and business information from individuals or businesses applying for sponsorship.
-</thinking>
-
 # event_sponsorship_form - Help Guide
 ## Purpose
 The event sponsorship form is used to collect information from potential sponsors of an event.

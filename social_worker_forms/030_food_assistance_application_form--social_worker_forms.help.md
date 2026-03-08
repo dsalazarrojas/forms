@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals seeking food assistance. The purpose of the form is to gather essential details about the applicant, their contact information, food needs, household information, emergency contact, income information, and the type of food assistance they require. This form will help social workers assess the applicant's eligibility for food assistance programs.
-
-The form will be used to determine the type of food assistance the applicant is eligible for, such as Food Stamps or WIC (Women, Infants, and Children), and to identify if they are eligible for food banks. The information collected will also be used to contact the applicant for follow-up and to provide additional resources and services.
-
-The form will be reviewed and verified to avoid duplication of effort and ensure that each applicant's needs are accurately assessed. 
-
-</thinking>
-
 # Food Assistance Application Form - Help Guide
 ## Purpose
 

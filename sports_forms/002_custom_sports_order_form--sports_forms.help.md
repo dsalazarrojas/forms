@@ -1,5 +1,3 @@
-<thinking>Before designing this form, let's briefly discuss its purpose and relevance. This form is intended to collect customer information and order details for sports-related orders. It's a generic form that could be used in various sports contexts, such as for sports merchandise, equipment, or services. To ensure relevance, let's consider the following questions: Is the form suitable for the intended use case? Does it align with the sports industry or a specific sport? Does the form's structure and content accurately reflect the customer's needs and the business's requirements?</thinking>
-
 # Custom Sports Order Form - Help Guide
 ## Purpose
 The Custom Sports Order Form is designed to collect customer information and order details for sports-related orders. This form can be used in various sports contexts, such as sports merchandise, equipment, or services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help sports teams or programs find suitable volunteers who are available, interested, and suitable for their activities. The form aims to collect information from potential volunteers about their name, availability, interests, experience, contact preferences, and other relevant details. By filling out this form, volunteers can express their willingness to contribute their time and skills to support the sports team or program.
-</thinking>
-
 # sports_team_volunteer_application_form - Help Guide
 ## Purpose
 This form is a volunteer application form for sports teams or programs. It helps us understand your qualifications, interests, and availability to support our activities.

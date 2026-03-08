@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to register for swim lessons. It collects various information from the user, including name, contact information, swim lesson details, and additional notes. This form helps us to understand the user's requirements and preferences for swim lessons. 
-
-To prevent duplicate registrations, we will be checking for duplicate entries. Please ensure that you fill out the form correctly to avoid any errors.
-
-This form is meant to be completed by the user. The system will not allow duplicate registrations for the same user.</thinking>
-
 # Swim Lesson Registration Form - Help Guide
 ## Purpose
 The Swim Lesson Registration Form is designed for users to register for swim lessons. It collects various information from the user, including name, contact information, swim lesson details, and additional notes.

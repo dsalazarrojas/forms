@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Sports Registration Form - Help Guide
 
 ## Purpose

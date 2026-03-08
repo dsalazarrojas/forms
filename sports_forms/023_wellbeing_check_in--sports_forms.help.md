@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about an individual's wellbeing status, habits, and goals related to physical activity and exercise. This form is used to track and monitor the wellbeing of users and identify areas for improvement. The form is designed to be completed by users on a regular basis to maintain a record of their progress and receive personalized recommendations. By completing this form, users can also help us refine our understanding of wellbeing trends and patterns within the broader user base... </thinking>
-
 # Wellbeing Check In - Help Guide
 ## Purpose
 The Wellbeing Check In form is designed to help users assess their current wellbeing status and habits related to physical activity and exercise.

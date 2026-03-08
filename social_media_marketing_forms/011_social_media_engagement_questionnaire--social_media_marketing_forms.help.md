@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from social media users about their engagement habits and preferences. The purpose of this form is to gather data on how users interact with social media platforms, what type of content they prefer, and when they engage with posts. This form should not be filled out by users who have not actually interacted with the social media platform. 
-</thinking>
-
 # Social Media Engagement Questionnaire - Help Guide
 
 ## Purpose

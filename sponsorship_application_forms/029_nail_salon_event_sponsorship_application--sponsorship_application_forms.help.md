@@ -1,5 +1,3 @@
-<thinking>...checking the provided YAML fields to create a comprehensive user-facing help guide for the Nail Salon Event Sponsorship Application form...</thinking>
-
 # Nail Salon Event Sponsorship Application - Help Guide
 
 ## Purpose

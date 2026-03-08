@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to declare employee compliance with COVID-19 vaccination requirements. The purpose of this form is to collect information on team members' vaccination status, including their Team ID, Team Name, employee ID, name, date and time of vaccination, vaccination status, and vaccine details such as name, dose number, and dose status. This form ensures that employees are accurately reported and tracked in the system.
-
-To ensure that team members' vaccination status is up-to-date and accurate, we recommend that this form is completed as soon as possible after vaccination or testing. Please note that some fields are optional, but required fields are marked as such for clarity.
-
-</thinking>
-
 # Declaration Of Compliance Covid 19 Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information on team members' vaccination status for COVID-19.

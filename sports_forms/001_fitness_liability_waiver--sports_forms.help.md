@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical component of any fitness-related activity or program, used to ensure the well-being and safety of all participants. The Fitness Liability Waiver form requires completion for any participant, instructor, or athlete who engages in a physical activity or uses a gym facility. This form helps in establishing a clear understanding of the risks involved, liability, and responsibilities of all parties involved.
-</thinking>
-
 # Fitness Liability Waiver - Help Guide
 ## Purpose
 This form is used to document participant's consent, medical information, and emergency contact details prior to engaging in a physical activity or program. It's a crucial document to be filled out by all participants to protect themselves and the activity/program provider from potential legal liabilities.

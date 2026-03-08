@@ -1,5 +1,3 @@
-<thinking>SWOT Analysis For Sports Organizations - Help Guide</thinking>
-
 # SWOT Analysis For Sports Organizations - Help Guide
 
 ## Purpose

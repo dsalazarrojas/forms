@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals registering for Hunter Education, a program that aims to educate individuals about hunting safety and regulations. The form captures basic contact information and specific details related to the hunter's education status. It is essential to provide accurate and truthful information to ensure proper registration and adherence to regulations. Please note that this form is designed to be completed by the individual registering for Hunter Education.
-</thinking>
-
 # Hunter Education Registration Form - Help Guide
 ## Purpose
 The Hunter Education Registration Form is a crucial document that allows individuals to register for Hunter Education, a program that promotes hunting safety and regulations awareness.

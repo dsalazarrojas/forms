@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from athletes interested in participating in the Adaptive Sports Program. It is intended to be filled out by athletes who wish to join the program or inquire about its services. Please ensure that you complete this form accurately and thoroughly.
-
-</thinking>
-
 # Adaptive Sports Program Application - Help Guide
 ## Purpose
 The Adaptive Sports Program Application is a form designed to collect athlete personal information, medical details, and consent for participation in the Adaptive Sports Program. The program is intended for athletes with various disabilities to engage in sports activities that are adapted to their needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a sports league administrative efficiency survey designed to gather information about a sports league's administration, communication, and staff support systems. It is meant to help sports organizations optimize their operations and improve their performance. This guide will walk you through the form's purpose, completion process, and a field-by-field explanation of each section to ensure end-users understand what is being asked and what to expect.
-</thinking>
-
 # Sports League Administrative Efficiency Survey - Help Guide
 ## Purpose
 The Sports League Administrative Efficiency Survey is a questionnaire designed to evaluate the administration, communication, and staff support aspects of a sports league. This survey aims to identify areas of improvement and provide insights for sports organizations to become more efficient and effective in their operations.

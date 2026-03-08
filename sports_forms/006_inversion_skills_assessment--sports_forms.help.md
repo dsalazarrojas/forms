@@ -1,6 +1,3 @@
-<thinking>
-The Inversion Skills Assessment form is intended to collect information about an athlete's skills in the sport of inversion, likely a gymnastics discipline. The form should be used to assess an athlete's abilities, provide feedback, and record any additional comments or notes related to their performance. This form is likely used by coaches, instructors, or evaluators in the context of gymnastics training or competition. I will ensure that the explanations are clear and concise, and that each field is explained in a way that is consistent with the likely business logic of this domain. I will also check for duplicate fields and ensure that the form is easy to use.</thinking>
-
 # Inversion Skills Assessment - Help Guide
 
 ## Purpose

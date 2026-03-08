@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect data from professionals and individuals who have encountered or witnessed animal abuse in their work or personal capacity. It aims to understand their experiences, perceptions, and challenges when dealing with animal abuse cases. This form will help identify areas where support and training are needed to improve the response to animal abuse. The form is designed to be completed by a variety of individuals, including social workers, animal control officers, veterinarians, law enforcement, animal shelter workers, concerned citizens, researchers, and others. 
-
-To ensure the data collected is relevant and not duplicated, the form will only be filled out once by each respondent. 
-
-The form will be completed in a few minutes, and all questions are designed to be clear and concise, allowing for quick and accurate responses. The data collected will be anonymized and aggregated to protect individual identities.
-</thinking>
-
 # Animal Abuse Survey - Help Guide
 ## Purpose
 This survey aims to understand experiences, perceptions, and challenges related to animal abuse among professionals and individuals who have encountered or witnessed animal abuse in their work or personal capacity.

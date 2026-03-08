@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 The Medical Employment Information Form is designed to collect essential details about an employee's employment status, including their contact information, emergency contact, medical insurance, and emergency contact address. This form helps ensure that your team has accurate and up-to-date information in case of any medical emergencies or important employment-related matters.

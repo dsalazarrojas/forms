@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the Virtual Horse Show Entry Form. It is crucial to ensure that users understand the form's purpose, how to fill it out correctly, and what each field represents. This guide will be concise, practical, and cover each field in detail, helping users navigate the form efficiently.
-</thinking>
-
 # Virtual Horse Show Entry Form - Help Guide
 ## Purpose
 The Virtual Horse Show Entry Form is designed to collect information for virtual horse competitions. It is used to register participants and their horses for various competitions, including shows, jumpers, trail, and barrel events. This form helps the competition organizers gather essential details about each entry, including the horse's characteristics and the participant's experience.

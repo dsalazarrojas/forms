@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from software developers about their software change requests. It is intended for internal use within the company, and the goal is to streamline the process of managing software change requests. Please ensure that you have the necessary approval from the relevant authorities before submitting your request. Also, please check if a similar request has been made before to avoid duplication of efforts.
-</thinking>
-
 # Software Change Request Form - Help Guide
 
 ## Purpose

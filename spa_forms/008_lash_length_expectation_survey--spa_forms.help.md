@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a survey aimed at understanding the preferences and expectations related to eyelashes or lashes, likely in a professional or commercial setting. The purpose of this form is to gather information about the length and style of lashes that individuals desire or prefer. It's possible that this form is used in the beauty or cosmetics industry to gauge customer or client preferences for lash length and style.
-
-To avoid duplication and ensure relevance, it's essential to ensure that the form is not being filled out for the same purpose multiple times, and that the information collected is accurate and up-to-date.
-
-The form has multiple pages, but the main fields of interest appear to be related to lash length and style, which are the most critical aspects of the form. 
-
-This form does not seem to be a mandatory form, as most fields are optional.
-
-The form has a few select-one and select-multiple fields, which could be challenging for users to fill out if they are not familiar with these types of fields. It's essential to explain these fields clearly to avoid confusion.</thinking>
-
 # lash_length_expectation_survey - Help Guide
 
 ## Purpose

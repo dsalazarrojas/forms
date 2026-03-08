@@ -1,12 +1,3 @@
-<thinking> 
-To create a user-facing help guide for the "Edit Volleyball Match Score" form, I'll analyze the provided YAML form definition. The purpose of this form is to edit the score of a volleyball match, which likely involves correcting or updating the score after an error or a discrepancy. This form might be used by sports administrators or officials who need to accurately record match scores for record-keeping, statistics, or dispute resolution purposes.
-
-The form seems to have a mix of fields that are relevant to the match, including the match ID, date, match time, scores for both teams, and a reason for correction. There's also a field for correcting the score. 
-
-Before proceeding, I'll ensure that there's no duplication of effort, and this form doesn't appear to overlap with other forms in the system. This form's focus on editing scores suggests it's a specific and unique use case within the sports_forms category.
-
-</thinking>
-
 # Edit Volleyball Match Score - Help Guide
 ## Purpose
 The "Edit Volleyball Match Score" form is used to correct or update the score of a volleyball match. This form helps sports administrators or officials accurately record match scores for record-keeping, statistics, or dispute resolution purposes.

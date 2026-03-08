@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a web developer referral from a potential client or partner. The form is used to gather relevant details about the referral, including the name and contact information of the person making the referral, the company they represent, and the project they are referring. This information will be used to follow up with the referral and discuss potential collaborations or partnerships.
-
-</thinking>
-
 # Marketing Web Developer Referral Form - Help Guide
 ## Purpose
 This form is designed to collect referrals for marketing web development opportunities from potential clients or partners.

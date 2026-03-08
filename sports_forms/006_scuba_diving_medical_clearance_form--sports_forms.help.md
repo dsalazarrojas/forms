@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of effort, ensure that this form is used for scuba diving medical clearance purposes only. Please do not use this form for other medical purposes without modification or approval from the relevant authorities. This guide is intended to provide a clear understanding of the scuba diving medical clearance form, which is designed to gather necessary medical information to ensure the safety of divers.
-</thinking>
-
 # scuba_diving_medical_clearance_form - Help Guide
 ## Purpose
 This form is used to gather medical information from divers for scuba diving medical clearance. The form is designed to ensure that divers are safe to participate in scuba diving activities.

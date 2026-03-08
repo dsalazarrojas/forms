@@ -1,12 +1,3 @@
-<thinking>
-The Golf Registration Form is a form for golfers to register for a tournament. It appears to be a form for collecting general information from golfers, including their personal details, experience, and ratings. The form is likely to be used by golf clubs or organizations to track and manage golfer registrations.
-
-Checking the form structure, it's designed with multiple fields for collecting various types of information such as first name, last name, email, phone number, team members, player experience, golf club, player rating, team rating, player handicap, team handicap, tournament date, tournament time, tournament location, and player registration.
-
-Before proceeding, please ensure you have checked the form's purpose and that you are not duplicating an existing form.
-
-</thinking>
-
 # Golf Registration Form - Help Guide
 ## Purpose
 The Golf Registration Form is a tool for golfers to register for a tournament, providing essential information for the organizers to manage and plan the event.

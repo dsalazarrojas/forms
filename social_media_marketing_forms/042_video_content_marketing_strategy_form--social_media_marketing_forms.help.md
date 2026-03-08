@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help marketers and content creators develop a comprehensive video content marketing strategy for their video content. This form will guide them in setting up a video content marketing strategy that caters to their specific needs and goals. Please make sure you are filling this form to create a new strategy for a specific project. If you are updating an existing strategy, please refer to the original form and update the relevant fields accordingly.
-
-This form has 25 fields, including options for video type, platforms, goals, budget, target audience, content types, content delivery platforms, schedule, publishing frequency, ownership, publishing rights, language, culture, copyright, territory, publishing format, duration, publishing countries, platforms, currency, price, and status. Please fill in the relevant fields based on your project's requirements.
-</thinking>
-
 # Video Content Marketing Strategy Form - Help Guide
 ## Purpose
 

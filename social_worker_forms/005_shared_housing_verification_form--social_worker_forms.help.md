@@ -1,7 +1,3 @@
-<thinking>This help guide is designed to assist users in completing the Shared Housing Verification Form. The purpose of this form is to collect information about a tenant or renter's living situation, including their relationship with their landlord or property manager, the terms of their lease or rent agreement, and other relevant details. This form is intended for shared housing situations, such as room rentals or roommate agreements.
-
-Before completing this form, ensure that you are authorized to provide this information and that it accurately represents your living situation. Duplicate or inaccurate submissions may lead to delays or complications in the verification process.</thinking>
-
 # Shared Housing Verification Form - Help Guide
 ## Purpose
 The Shared Housing Verification Form is designed to collect information about a tenant or renter's living situation, including their relationship with their landlord or property manager, the terms of their lease or rent agreement, and other relevant details.

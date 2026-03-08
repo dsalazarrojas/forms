@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential sponsors who are interested in providing support to therapy services. This form helps us understand the sponsor's name, organization, address, contact information, and specific services they are willing to sponsor. It's essential to fill out the form accurately to ensure that we can consider their sponsorship request properly.
-We will review each field below to ensure that you complete the form correctly.
-</thinking>
-
 # Therapy Sponsorship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential sponsors who are interested in providing support to therapy services.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to create a referral for the National Disability Insurance Scheme (NDIS). This is a crucial step in the process of referring patients to receive support services. The form helps gather relevant information from the healthcare provider to facilitate the referral process. Please ensure you only use this form for patients with a valid ID. 
-Duplicate referrals are discouraged.
-</thinking>
 # NDIS Referral Form - Help Guide
 
 ## Purpose

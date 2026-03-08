@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about the variety and timing of fitness classes offered by a particular gym or fitness center. The purpose of this form is to help fitness centers and gyms understand their customers' preferences and schedules, allowing them to better tailor their class offerings to meet the needs of their clients.
-To avoid duplication, this form should not be completed by individuals who have already provided similar information in a previous survey or form.
-
-</thinking>
-
 # Fitness Class Variety And Timing Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the variety and timing of fitness classes offered by your gym or fitness center.

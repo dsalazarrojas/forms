@@ -1,5 +1,3 @@
-<thinking>...the "Massage Consultation Form" seems to be a questionnaire designed for clients to provide information about their massage preferences and needs. This form likely aims to gather details about the client's personal particulars, medical conditions, and preferred appointment times and areas of focus for massage therapy. The form appears to be used for the purpose of planning and scheduling massage sessions... The following help guide will walk the user through the completion of this form step by step, explaining each field's purpose and requirements...</thinking>
-
 # Massage Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from you, our valued client, to better understand your needs and preferences for a massage session. By providing the required details, you'll be assisting our massage therapists in tailoring a personalized experience just for you.

@@ -1,11 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is designed for sports teams, event organizers, or venue owners who need to manage requests for VIP access to a sports venue. The form's purpose is to centralize and streamline the process of handling such requests, ensuring that all stakeholders are aware of and can respond to these requests efficiently. This form will help in reducing duplication of efforts and miscommunication between teams.
-
-To use this form, you should only submit once per request. Multiple submissions can be overwhelming and lead to confusion. The form fields should be filled out accurately and completely to ensure that your request is processed efficiently.
-
-</thinking>
-
 # Sports Venue VIP Access Request Form - Help Guide
 
 ## Purpose

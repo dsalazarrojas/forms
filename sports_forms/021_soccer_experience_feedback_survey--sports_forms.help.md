@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soccer Experience Feedback Survey - Help Guide
 ## Purpose
 This form aims to collect feedback from soccer participants and coaches about their experience during soccer sessions. It will help us identify areas of improvement and ensure that our training camps, events, and matches are enjoyable and safe for everyone involved.

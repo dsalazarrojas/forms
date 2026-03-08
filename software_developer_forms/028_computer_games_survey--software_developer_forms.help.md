@@ -1,5 +1,3 @@
-<thinking>... I will generate a clear and concise help guide for the Computer Games Survey form... </thinking>
-
 # Computer Games Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about computer game players' preferences, habits, and experiences. It's designed to help us understand your gaming habits, interests, and opinions to improve our services. By completing this survey, you'll help us tailor our games to better meet your needs and preferences.

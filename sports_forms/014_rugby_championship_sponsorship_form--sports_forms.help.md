@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users interested in sponsoring the Rugby Championship. The goal is to gather data on the user's contact information, sponsorship preferences, and other relevant details. The form will help the organizers assess the user's eligibility and suitability for sponsorship. Please note that some fields are mandatory, and the user must provide accurate information to be considered for sponsorship. The form is intended for individuals or organizations interested in sponsoring the event.
-</thinking>
-
 # Rugby Championship Sponsorship Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in sponsoring the Rugby Championship. The goal is to gather data on the user's contact information, sponsorship preferences, and other relevant details.

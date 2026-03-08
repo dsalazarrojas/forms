@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for players to register for a basketball tryout, providing essential information about the player and their playing experience. The form collects both personal and professional details, including contact information, playing history, and statistics. This guide will walk users through how to complete the form accurately and efficiently, ensuring that all necessary information is provided.
-
-The form is designed for registration, so it's expected that most fields will be completed in a way that allows for quick and easy submission. Some fields, such as the "Video Highlights URL" and "Career Statistics Summary" fields, are optional and can be skipped if not applicable.
-
-When completing the form, please follow these steps and the field-by-field explanations to ensure that all required and optional fields are accurately filled out.
-
-</thinking>
-
 # Basketball Tryouts Register - Help Guide
 ## Purpose
 The Basketball Tryouts Register form is for players to sign up for a basketball tryout. To complete this form, you will need to provide personal and professional details about yourself, including your contact information, playing experience, and statistics.

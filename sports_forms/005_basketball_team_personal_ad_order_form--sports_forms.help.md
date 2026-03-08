@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-This form is designed to collect information for a personalized ad order for a basketball team. It appears to be a form for placing ads featuring team members. The form requires the customer's name, email, phone number, team affiliation, ad type, ad size, player name, and ad headline, among other details. The form's purpose is likely to facilitate the creation and customization of ads for team members. The form does not seem to be for general team information or public events, but rather focused on individual player ads... form seems to be part of a larger system for team management or marketing...
-
-</thinking>
-
 # Basketball Team Personal Ad Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for placing personalized ads for basketball team members. It allows team representatives or players to input details for creating custom ads featuring individual team players.

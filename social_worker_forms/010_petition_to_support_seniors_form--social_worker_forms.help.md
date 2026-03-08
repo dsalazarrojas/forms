@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to support seniors in their community. This form aims to gather data on the willingness of citizens to lend a helping hand to seniors in need. The form is divided into multiple fields, each collecting different types of information. The purpose of this form is to identify potential supporters and gauge their level of interest in supporting seniors. Please ensure that you have a genuine interest in supporting seniors before completing this form. If you're a duplicate or non-relevant submission, your response will not be considered.
-</thinking>
-
 # Petition To Support Seniors Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals who wish to support seniors in their community, helping to identify potential supporters and gauge their level of interest in assisting seniors.

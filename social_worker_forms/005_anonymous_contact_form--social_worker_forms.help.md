@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect anonymous contact information from end-users. The purpose of this form is to allow users to send in their inquiries, feedback, or comments to the relevant department or service without exposing their identity. This form is intended to be used by organizations, businesses, or individuals who want to collect information from their users without requiring them to create an account or provide identifying information.
-</thinking>
-
 # Anonymous Contact Form - Help Guide
 ## Purpose
 The Anonymous Contact Form is a tool for collecting anonymous feedback, inquiries, or comments from users. It is designed to be a safe and secure way for users to reach out without revealing their identity.

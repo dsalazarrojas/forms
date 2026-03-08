@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture contact information and social media presence of the reportee. The form is used to gather data from the reportee for social media marketing purposes. The form includes fields for the reportee's name, email, phone number, message, and social media presence on various platforms such as Facebook, Instagram, Twitter, and LinkedIn. The form also includes fields for the reportee to agree to terms and conditions, policy, and privacy policy.
-
-</thinking>
-
 # social_media_contact_form - Help Guide
 ## Purpose
 The social_media_contact_form is used to gather contact information and social media presence of the reportee for social media marketing purposes.

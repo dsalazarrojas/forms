@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to participate in gymnastics activities, such as their personal details, emergency contact information, and any medical conditions or allergies they may have. This is likely used for safety and waiver purposes. The goal is to ensure that everyone's safety and well-being is accounted for during their involvement in gymnastics activities. This form should be used for both children and adults who wish to participate in gymnastics activities.
-
-Before proceeding, it's essential to ensure that this form is not a duplication of efforts, and that the information gathered is used for the intended purpose. In this case, the form seems to be designed for collecting information from individuals who wish to participate in gymnastics activities, so it's essential to use this form as intended.
-</thinking>
-
 # Gymnastics Waiver Form - Help Guide
 
 ## Purpose

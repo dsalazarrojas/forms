@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Evaluation Form - Help Guide
 ## Purpose
 The Team Evaluation Form is used to collect feedback and ratings from evaluators about a team's performance, player ratings, and overall team evaluation score.

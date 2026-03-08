@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track and manage youth sports kits. The purpose of this form is to collect information about the youth sports kits, including the first name, last name, birth date, sport ID, kit ID, kit type, kit number, quantity, and allocation status of the kits. The form is designed to be completed by staff members or administrators who need to update or manage the youth sports kits.
-
-This form should not be used for general public access. It is intended for internal use only and should not be shared publicly without proper authorization.
-</thinking>
-
 # Youth Sports Kit Number Form - Help Guide
 ## Purpose
 The Youth Sports Kit Number Form is used to track and manage youth sports kits.

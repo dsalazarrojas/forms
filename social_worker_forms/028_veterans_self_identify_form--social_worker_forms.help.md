@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for veterans to self-identify themselves, providing essential information for the processing and administration of their benefits. The form is intended to collect relevant personal data, such as name, contact information, and details about their military service. This information will be used to establish and maintain accurate records and ensure that the veteran receives the benefits they are entitled to. It is recommended that this form be completed by the veteran themselves, as it is a critical part of their claim process. 
-
-This form should not be duplicated for the same individual, as it is a unique identifier for their benefits claims. Please ensure that all required fields are filled out accurately to avoid delays or errors in the processing of their claim.
-</thinking>
-
 # Veterans Self Identify Form - Help Guide
 ## Purpose
 The Veterans Self Identify Form is used to collect essential information for the administration of veterans' benefits.

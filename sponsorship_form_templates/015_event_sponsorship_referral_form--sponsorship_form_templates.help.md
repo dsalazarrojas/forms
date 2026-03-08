@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to capture sponsorship information from potential sponsors for events. This form is designed to be a referral tool for events, allowing organizers to collect necessary details from potential sponsors. It is crucial to ensure that the information collected is accurate and up-to-date, so please take the time to complete this form thoroughly.</thinking>
-
 # event_sponsorship_referral_form - Help Guide
 ## Purpose
 The event_sponsorship_referral_form is a tool used by event organizers to collect sponsorship information from potential sponsors.

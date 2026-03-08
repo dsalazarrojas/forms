@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for social media advertising campaigns, allowing users to specify campaign details such as target location, start and end dates, target audience, budget, marketing channel, time slots, ad schedule, budget allocation, social media platforms, target demographics, ad frequency, impressions, clicks, cost, reach, engagement, conversion rate, frequency cap, and assigned tool. The form may be used for campaign planning and execution, helping users to create and manage social media advertising campaigns.
-
-Before proceeding, please ensure that you have already checked if a similar form already exists in the system to avoid duplication of effort and potential conflicts. If you need to create a new campaign, fill out the form with the required information to ensure accuracy and completeness.
-</thinking>
-
 # Social Media Advertising Form - Help Guide
 ## Purpose
 

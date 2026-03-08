@@ -1,14 +1,3 @@
-<thinking>
-The form is a Credential Application Form for sports-related applications. It's meant to collect personal details, contact information, and other relevant data from applicants. The form is designed to be completed by individuals applying for sports-related credentials, such as coaching certifications or sports-related certifications.
-To ensure that the form is filled out correctly, please review the following sections carefully.
-
-Before starting the form, ensure that you are not filling it out for a friend or colleague. Each form is intended for a single individual, so please fill it out for yourself only.
-
-Please fill out the form carefully, making sure to provide accurate and complete information for each section.
-
-If you are unsure about any part of the form, please ask for clarification before proceeding.
-
-If you have any issues with the form, please do not hesitate to reach out to us for assistance.</thinking>
 # Credential Application Form - Help Guide
 
 ## Purpose

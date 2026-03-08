@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Volleyball Open Gym program. The form is designed to collect information from participants who want to join the program. The fields in this form are meant to gather essential details about the participant, including their contact information, emergency contact details, and medical conditions. The form is not meant to be used for any other purpose other than registration for the Volleyball Open Gym program. It is recommended that you review each field carefully to ensure you are providing accurate and relevant information.
-</thinking>
-
 # Volleyball Open Gym Registration - Help Guide
 ## Purpose
 This form is a registration form for the Volleyball Open Gym program, designed to collect essential details from participants to ensure their safe and successful participation in the program.

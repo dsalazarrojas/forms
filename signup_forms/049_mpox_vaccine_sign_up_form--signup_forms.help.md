@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mpox Vaccine Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to sign up for the Mpox vaccine. It is intended for individuals who are eligible to receive the Mpox vaccine. Please ensure you are eligible before completing this form.

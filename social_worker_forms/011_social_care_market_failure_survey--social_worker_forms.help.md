@@ -1,20 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from users on their experience with the social care market failure, including their access to services, perceived effectiveness of policies, and overall satisfaction with the survey process. This form will help identify areas of improvement for the social care system. 
-
-The form has 25 fields and is divided into several sections, each focusing on a specific aspect of the user's experience. Some fields are mandatory, while others are optional. 
-
-The form requires users to report their access to various social care services, how often they access these services, and whether they perceive gaps in these services. This section also asks users to describe the gaps they experience. 
-
-The form asks users to evaluate the effectiveness of current social care policies and suggest improvements. It also inquires about the user's experience in completing the form, including how easy or hard it was, how long it took, and what device and location they used. 
-
-Finally, the form gathers contact information and whether users want to receive a confirmation email after submitting their feedback. 
-
-This form is designed to be completed in approximately 10-15 minutes and should be accessible on various devices and browsers. 
-
-Please note that the form's layout and content may be adjusted based on user feedback. 
-
-</thinking>
-
 # Social Care Market Failure Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with the social care market failure, including their access to services, perceived effectiveness of policies, and overall satisfaction with the survey process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals or organizations to apply for public housing. It collects information from the applicant, including user details, contact information, and employment status. To ensure accuracy and consistency in our public housing application process, please fill out this form carefully. Note that some fields are optional and only require completion if applicable. This form will help us understand your needs and allocate resources effectively. Please do not submit duplicate applications.
-</thinking>
-
 # Public Housing Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations to apply for public housing. It is used to understand your needs and allocate resources effectively.

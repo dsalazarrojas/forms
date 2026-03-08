@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a newsletter update request form, which allows subscribers to express their preferences for newsletter updates. This form is only accessible to subscribers who have previously signed up for our newsletter service. To ensure accurate and efficient processing of update requests, please do not submit duplicate requests. If you've already submitted an update request, please do not resubmit it. Please fill out the form with accurate and detailed information so that our team can process your request efficiently.
-</thinking>
-
 # Newsletter Update Request Form - Help Guide
 
 ## Purpose

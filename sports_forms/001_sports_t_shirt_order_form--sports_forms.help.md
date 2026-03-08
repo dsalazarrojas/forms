@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the form's purpose and relevance, let's analyze the input schema. The form is for ordering sports equipment, specifically T-shirts, which suggests it's for managing team or player orders. The form has several fields related to team and player information, order details, and contact information. This guide will focus on explaining each field's purpose and requirement.
-
-</thinking>
-
 # Sports T Shirt Order Form - Help Guide
 ## Purpose
 The Sports T Shirt Order Form is a tool for teams or individuals to place orders for sports T-shirts. This guide will walk you through how to fill out the form to ensure your order is processed correctly.

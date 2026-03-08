@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soccer Cleat Order Form - Help Guide
 ## Purpose
 This form is intended for customers to place an order for soccer cleats, providing essential information to process their request efficiently and effectively.

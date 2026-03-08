@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "youth_baseball_tryout_evaluation_form" form, we should follow the provided YAML fields to understand the form's purpose and structure.
-
-The form's primary purpose is to evaluate a young player's baseball abilities, including their physical abilities, skills, and performance in game situations. This form will help coaches, trainers, or evaluators assess a player's strengths and weaknesses to provide guidance for improvement.
-
-Given the form's simplicity, it's likely that the form is designed for informal evaluations, such as those conducted during tryouts or training sessions. The form's fields are not overly complex, suggesting that it's intended for a basic assessment of a player's abilities.
-
-Before creating the help guide, let's review the form's fields:
-
-* `general_info`: This field is likely for capturing the player's general information, such as name, age, or other basic details.
-* `physical_abilities`: This field is probably for evaluating a player's physical abilities, such as speed, agility, or endurance.
-* `baseball_skills`: This field is likely for assessing a player's baseball-specific skills, such as batting, pitching, or fielding.
-* `game_situation`: This field might be for evaluating a player's performance in specific game situations, such as batting with runners on base or pitching under pressure.
-* `overall_evaluation`: This field is probably for providing a general assessment of the player's strengths and weaknesses.
-
-With this understanding, let's create the help guide using the provided structure.</thinking>
-
 # youth_baseball_tryout_evaluation_form - Help Guide
 ## Purpose
 The youth baseball tryout evaluation form is designed to assess a young player's baseball abilities, including their physical abilities, skills, and performance in game situations. This form helps coaches, trainers, or evaluators provide feedback for improvement and identify areas of strength and weakness.

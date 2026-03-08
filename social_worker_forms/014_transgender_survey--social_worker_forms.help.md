@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic and medical information from transgender individuals to ensure they receive adequate care and support. The purpose of this form is to create a comprehensive profile of the patient's gender identity, medical history, and contact information. The form is intended for healthcare providers to access sensitive information about their patients' identities, treatment experiences, and insurance coverage. This form does not appear to be redundant or duplicate any existing forms. Its fields appear to be comprehensive and cover various aspects of the patient's identity and medical history.
-</thinking>
-
 # Transgender Survey - Help Guide
 ## Purpose
 The Transgender Survey is a form used to collect demographic and medical information from transgender individuals. This form is designed to ensure that healthcare providers have the necessary information to provide adequate care and support.

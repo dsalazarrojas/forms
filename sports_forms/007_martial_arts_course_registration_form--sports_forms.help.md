@@ -1,21 +1,3 @@
-<thinking>
-As a form expert, my goal is to create a concise and practical help guide for the Martial Arts Course Registration Form. I will analyze the provided YAML structure and create a clear and user-friendly guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-The purpose of this form is to collect information from users interested in registering for a martial arts course. The form is designed to gather personal, contact, and payment-related information, as well as other relevant details such as belt status, payment plans, and medical history. This guide will help users navigate the form effectively and ensure they provide the necessary details to complete their registration.
-
-To complete this form, users will need to fill out the following sections:
-
-1. Personal Info: This section asks for general contact information such as name and address.
-2. Contact Info: This section collects the user's email address and phone number.
-3. Belt Status: This section allows users to select their current martial arts belt status.
-4. Payment Plan: This section asks users to choose their preferred payment plan.
-5. Emergency Contact: This section requests the user's emergency contact information.
-6. Medical History: This section is a text-based field for users to provide any relevant medical history.
-7. Course Package: This section allows users to select their preferred course package.
-8. Payment Method: This section asks users to choose their preferred payment method.
-
-</thinking>
-
 # Martial Arts Course Registration Form - Help Guide
 ## Purpose
 The Martial Arts Course Registration Form is designed to collect information from users interested in registering for a martial arts course. This form will guide you through the necessary steps to complete your registration.

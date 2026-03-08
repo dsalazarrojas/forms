@@ -1,9 +1,3 @@
-<thinking>
-  To confirm that this form is being used for the correct purpose, please ensure that it is intended for organizations or individuals seeking to sponsor a traffic safety campaign. This form should not be used for other sponsorship opportunities or events.
-  The form should not be filled out if the campaign has already been sponsored or if the organization or individual has already been a sponsor in the past.
-  Review the fields below to understand what information is required from the sponsor.
-</thinking>
-
 # traffic_safety_campaign_sponsorship_form - Help Guide
 ## Purpose
 The traffic safety campaign sponsorship form is for organizations or individuals to sponsor a traffic safety campaign.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "Swim Tryout Form" to help end-users understand its purpose, how to complete it, and what each field means. This form appears to be used for swim tryout tests, gathering data and results from test sessions. It likely collects information from coaches or staff members who conduct swim tryouts, providing a standardized way to document and evaluate swimmer performance. The fields in the form seem to be related to testing type, test date, test time, score, result, and coach comments. Let's break it down step by step.
-</thinking>
-
 # Swim Tryout Form - Help Guide
 
 ## Purpose

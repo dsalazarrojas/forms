@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for billing purposes related to spa services. It is designed to be completed by spa staff to record and process payments for services provided to clients. The form should be used for services such as Massage, Facial, and Haircut. 
 
 The form is part of the spa's business operations and is used to track and report financial transactions.

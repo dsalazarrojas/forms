@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information about a home care referral, which is a request for assistance or support for a client who requires non-medical care and support services in their home. This form is likely to be used by social workers or other professionals in the social services field to gather data on the client's needs and circumstances. It is essential to complete this form accurately and thoroughly to ensure that the referring agency can make an informed decision about the client's care needs. Before starting, please check if a referral for this client has already been made. If a referral has been made, please do not complete this form.
-</thinking>
-
 # Home Care Referral Form - Help Guide
 ## Purpose
 This form is used to collect information about a home care referral, which is a request for assistance or support for a client who requires non-medical care and support services in their home.

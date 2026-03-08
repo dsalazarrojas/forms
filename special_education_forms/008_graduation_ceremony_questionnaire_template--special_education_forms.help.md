@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect detailed information about a graduation ceremony, including the ceremony details, date, time, location, attire, attendees, speaker, and contact information. This form is intended to be completed by school administrators or staff to gather data for future reference and planning purposes.
-To ensure accuracy and consistency, it is essential to complete the form carefully and thoroughly. Please make sure to review the form instructions and the provided help guide before filling out the form to avoid duplication of work and ensure that the form is filled out correctly.
-Before starting to complete the form, ensure that you have the necessary information and resources ready. This includes the graduation ceremony details, such as the date, time, location, and attire. Additionally, have a list of attendees and the contact information for the ceremony organizer ready.
-</thinking>
-
 # Graduation Ceremony Questionnaire Template - Help Guide
 ## Purpose
 The Graduation Ceremony Questionnaire Template is a document used to collect detailed information about a graduation ceremony for future reference and planning purposes.

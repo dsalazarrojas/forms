@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The IE Evaluation Request Form is designed to gather information from special education teams regarding the evaluation of students for potential Individualized Education Program (IEP) eligibility. This form ensures that all necessary documentation is collected in an organized and structured manner, facilitating efficient processing and review by the evaluation team. It is crucial to complete this form accurately and thoroughly to ensure that the student's needs are properly assessed and documented. 
 
 Before starting, please note that you should only submit one form per student. If you are unsure whether a new form is needed or if the student's status has changed, please consult with the evaluation team.

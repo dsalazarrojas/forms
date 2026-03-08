@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended for end-users to register their interest in attending the Hip Hop Festival, a celebration of hip hop culture and music. 
-  The form gathers contact information, personal details, and music preferences, helping the festival organizers to better understand attendees' needs and provide an enhanced experience. 
-  The form fields should be self-explanatory, and this help guide will ensure that users know exactly what's required and what to expect. 
-  Note: This form should not be used for duplicate or test registrations.
-</thinking>
-
 # Hip Hop Festival Registration Form - Help Guide
 ## Purpose
 This form is used to register your interest in attending the Hip Hop Festival. Please fill out the form completely and accurately to help us better understand your needs and preferences.

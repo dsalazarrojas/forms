@@ -1,14 +1,3 @@
-<thinking> 
-This help guide is intended to provide a clear understanding of the purpose and process for completing the Sports Medicine Partnership Application Form. 
-
-Before proceeding, please ensure that you are eligible to partner with our organization and that the information you provide is accurate and up-to-date. The form should not be completed if you are already a partner or if your partnership has not ended. 
-
-This form is used to initiate a new partnership with our sports medicine organization and is a critical part of our partnership process. Completing this form will help us understand your interests, services, and payment terms, ensuring a seamless partnership experience. 
-
-Please take a few minutes to review the form carefully and ensure all required fields are completed accurately. 
-
-</thinking>
-
 # Sports Medicine Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to help us understand your interest in partnering with our sports medicine organization. By completing this form, you will be able to showcase your qualifications, services, and payment terms, making it easier for us to assess your partnership potential.

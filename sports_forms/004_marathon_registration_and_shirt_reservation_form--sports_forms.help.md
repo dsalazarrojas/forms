@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for athletes to register for a marathon event and reserve a shirt. Upon submission, the data will be reviewed for accuracy and completeness. If the form is incomplete or contains duplicate information, it will not be processed. The form is used to gather information about the athlete, including their name, contact information, and preferences for the marathon event. The purpose of this form is to ensure that athletes have a smooth and enjoyable experience during the event.
-</thinking>
-
 # Marathon Registration And Shirt Reservation Form - Help Guide
 ## Purpose
 The Marathon Registration And Shirt Reservation Form is designed for athletes to register for a marathon event and reserve a shirt. This form collects information about the athlete, including their name, contact information, and preferences for the marathon event.

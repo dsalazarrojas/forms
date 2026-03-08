@@ -1,10 +1,3 @@
-<thinking>
-The form "Bring A Friend Special" is designed to collect information from members who are bringing a friend to the gym as part of a promotion or incentive program. The purpose of this form is to capture essential details about both the member and their friend, including their names, contact information, fitness goals, and preferences for visits. This form will help the gym staff understand the friend's background and tailor their experience accordingly.
-
-Before filling out the form, please note that each section is separated into distinct parts with clear headings, and each field is labeled to guide you through the process. 
-
-</thinking>
-
 # Bring A Friend Special - Help Guide
 ## Purpose
 This form is designed for members to bring a friend to the gym as part of a promotion or incentive program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for event organizers to collect information from potential sponsors about their event sponsorship. It includes fields for the event title, date, time, location, and description, as well as fields for the sponsor's name, contact information, and sponsorship details. The form also includes fields for the sponsor's confirmation and terms of the agreement.
-</thinking>
-
 # Event Sponsorship Form - Help Guide
 ## Purpose
 The Event Sponsorship Form is used to collect information from potential sponsors about their event sponsorship. It's essential to fill out this form accurately to ensure a smooth and successful sponsorship process.

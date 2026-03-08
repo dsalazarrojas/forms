@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients and their families about their experiences with hospice care. The form will help hospice staff gather valuable insights to improve the quality of care provided. This form should only be filled out by patients or their families, not by hospice staff. If you are a hospice staff member, please do not fill out this form as it may duplicate effort and not provide useful feedback.
-</thinking>
-
 # hospice_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from patients and their families to improve the quality of hospice care.

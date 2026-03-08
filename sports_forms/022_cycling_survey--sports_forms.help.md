@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for the Cycling Survey form, I'll create a comprehensive help guide to assist users in understanding the purpose and fields of the form.</thinking>
-
 # Cycling Survey - Help Guide
 ## Purpose
 The Cycling Survey form is designed to collect information about cycling-related activities and preferences from users. This form aims to gather data to better understand user behavior, interests, and habits related to cycling. The survey consists of multiple fields that cater to different aspects of cycling, including preferences, habits, and experiences.

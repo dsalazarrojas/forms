@@ -1,12 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the Mobile Loyalty App Testing Registration form to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This will be a crucial resource for users who need to navigate the form and provide accurate information to facilitate the testing process.
-
-The form is intended to collect user input for testing the mobile loyalty app, which is crucial for identifying bugs, improving app performance, and ensuring user experience. The form will guide users through a series of questions that cover essential aspects of the app testing process, including user information, app details, and testing specifics.
-
-To create a comprehensive help guide, we will analyze each field in the form and provide clear explanations for each. We will also highlight any required fields and potential areas of confusion that may arise during the form completion process.
-
-</thinking>
-
 # Mobile Loyalty App Testing Registration - Help Guide
 ## Purpose
 This form is designed to collect user input for testing the mobile loyalty app. The information gathered will aid in identifying bugs, improving app performance, and ensuring a better user experience.

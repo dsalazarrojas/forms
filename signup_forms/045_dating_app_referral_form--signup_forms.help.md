@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dating App Referral Form - Help Guide
 ## Purpose
 This form is designed to capture information from users who refer new friends to our dating app. The form helps us understand the source of the referral, the friend's contact information, and any additional context about the referral. By filling out this form, you will help us grow our community by connecting people who are interested in meeting new friends and potential matches.

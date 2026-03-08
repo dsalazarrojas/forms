@@ -1,8 +1,3 @@
-<thinking>
-This form is a Volleyball Match Report Form. The form is designed to collect information about a volleyball match, including player names, scores, and other relevant details. The form is likely used in the context of volleyball tournaments, leagues, or competitions.
-To determine the relevance of this form, I will analyze its structure and fields. The form includes fields for player names, scores, serves, blocks, match outcome, date, time, referee information, and match location. The fields are divided into several sections, including player information, match results, and referee details. The form requires the submission of email and phone numbers, which may be used for communication or follow-up.
-</thinking>
-
 # Volleyball Match Report Form - Help Guide
 
 ## Purpose

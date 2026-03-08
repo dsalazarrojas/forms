@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from Spa Managers for the Spa Manager Leadership Training program. The form is used to register spa managers for the training program, which likely includes leadership development, best practices, and industry insights. This form ensures that spa managers provide accurate and complete information for their training needs and preferences. 
-
-This form should not be completed by non-Spa Managers or if the user has already registered for the training.
-
-</thinking>
-
 # Spa Manager Leadership Training Registration Form - Help Guide
 ## Purpose
 This form is used to register spa managers for the Spa Manager Leadership Training program. It collects essential information to tailor the training to each manager's needs and preferences.

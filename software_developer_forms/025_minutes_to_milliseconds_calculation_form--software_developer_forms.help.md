@@ -1,8 +1,3 @@
-<thinking>
-This guide is for users who will be filling out the Minutes To Milliseconds Calculation Form.
-The purpose of the form is to help users convert time in minutes to milliseconds. The form is designed to take an input of time in minutes, select a speed of light, and display the result in different units. The form is not mandatory, and users can fill it out at their own pace.
-</thinking>
-
 # Minutes To Milliseconds Calculation Form - Help Guide
 ## Purpose
 This form is designed to convert time in minutes to milliseconds. It takes an input of time in minutes, selects a speed of light, and displays the result in different units.

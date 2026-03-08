@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sports Facility Vendor Renewal Application - Help Guide
 ## Purpose
 The Sports Facility Vendor Renewal Application is used to manage the renewal of vendor relationships for sports facilities. This form helps you keep track of important vendor details, renewal periods, and required documents to ensure a smooth and efficient renewal process.

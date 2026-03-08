@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to evaluate the comfort level and satisfaction of clients after receiving a treatment, likely in a medical or aesthetic context. The form collects information on the client's name, email, comfort level, pain level, and satisfaction with the treatment. The purpose of this form is to gather feedback from clients, allowing the treating professionals to understand their experience and improve future treatments.
-
-To complete this form, the user will need to provide their name, email, and answer a few simple questions about their comfort and satisfaction levels during the treatment. The form does not require any specific technical expertise, and the questions are self-explanatory.
-
-The form is structured into several sections, with each section providing an opportunity to provide feedback. The fields are:
-
-* **Introduction**: A note field that serves as an introduction to the form.
-* **client_name**: The client's name.
-* **email**: The client's email address.
-* **comfort_level**: A select-one field that asks the client to rate their overall comfort level during the treatment.
-* **pain_level**: A select-one field that asks the client to rate the level of pain they experienced during the treatment.
-* **satisfaction**: A select-one field that asks the client to rate their satisfaction with the treatment.
-* **technician_name**: A text field where the client can provide the name of the technician who performed the treatment.
-* **any_comments**: A text field where the client can provide any additional comments about their experience.
-
-This form is designed to be completed by clients after receiving a treatment, and it is meant to be a simple and straightforward way to gather feedback about their experience.
-
-</thinking>
-
 # lash_client_comfort_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to evaluate the comfort level and satisfaction of clients after receiving a treatment, likely in a medical or aesthetic context.

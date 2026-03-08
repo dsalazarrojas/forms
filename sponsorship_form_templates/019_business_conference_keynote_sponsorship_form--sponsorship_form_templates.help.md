@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect sponsorship information from potential sponsors for a business conference. The purpose of this form is to gather essential details about the sponsoring organization, including their contact information, sponsorship level, and keynote speaker information. The form is intended to be completed by the representative of the sponsoring organization, who will be submitting their interest in sponsoring the conference. This form will help us to evaluate their sponsorship options and ensure they are able to meet the expectations of our conference.
-</thinking>
-
 # Business Conference Keynote Sponsorship Form - Help Guide
 ## Purpose
 The Business Conference Keynote Sponsorship Form is designed to collect sponsorship information from potential sponsors, enabling us to evaluate their interest in sponsoring our conference and ensuring they meet the expectations of our event.

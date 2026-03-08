@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, my first task is to analyze the provided YAML file to understand the form's purpose and its relevance. The form appears to be a Competition Court Agreement Form, which likely deals with rules and regulations for a sports competition. Upon reviewing the fields, it seems that the form is designed to collect information from team officials, including team name, captain's name, contact information, and acknowledgment of rules and liability. The form also includes sections on insurance coverage, emergency contacts, and digital signature acknowledgment. This form is likely used for administrative purposes, such as verifying compliance with court rules and ensuring the team's safety and liability. I'll create a user-facing help guide to assist end-users in completing the form correctly.</thinking>
-
 # Competition Court Agreement Form - Help Guide
 ## Purpose
 The Competition Court Agreement Form is a crucial document that ensures your team's compliance with court rules and regulations. This form requires information from team officials to verify your team's understanding of and commitment to follow the rules.

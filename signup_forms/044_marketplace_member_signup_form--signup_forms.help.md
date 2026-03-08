@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Marketplace Member Signup Form, we need to consider the following:
-The form is designed to collect information from potential marketplace members, aiming to create a comprehensive profile for them. This includes first and last name, email, phone number, company, position, role, address, zip code, contact number, website, bio, image URL, profile URL, Twitter handle, LinkedIn handle, Facebook handle, Instagram handle, YouTube handle, profile name, profile tagline, profile headline, profile description, and email. This form is crucial for marketplace members to create a professional presence and connect with other users.
-</thinking>
-
 # Marketplace Member Signup Form - Help Guide
 
 ## Purpose

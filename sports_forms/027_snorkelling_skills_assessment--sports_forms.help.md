@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's snorkelling skills, which are essential for various aquatic activities such as freediving, spearfishing, or snorkeling. The form is intended to gauge a person's proficiency in snorkelling, taking into account their skills in two key areas: snorkelling skills and positioning. The snorkelling skills assessment is crucial for determining a person's ability to perform snorkelling-related tasks safely and effectively. This form will help ensure that individuals have the necessary skills and experience to participate in snorkelling activities without putting themselves or others at risk.
-
-The form is not a replacement for professional training or certification, but rather a tool to provide an initial assessment of a person's skills. It is recommended that individuals complete the form honestly, providing accurate information about their skills and experience. 
-
-To avoid duplication, please ensure that you have not previously completed this form for the same snorkelling skills assessment.
-
-</thinking>
-
 # Snorkelling Skills Assessment - Help Guide
 ## Purpose
 The Snorkelling Skills Assessment form is designed to evaluate a person's proficiency in snorkelling skills and positioning, ensuring they have the necessary skills and experience to participate in snorkelling activities safely and effectively.

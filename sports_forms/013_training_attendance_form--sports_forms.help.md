@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data on training events, specifically attendance information for both students and employees. This form is meant to be filled out by trainers or administrators to record the attendance of attendees at a training session. The form is used to track the percentage of students and employees who attended the training, as well as their respective counts. This data can be used to monitor attendance patterns and identify areas for improvement.
-</thinking>
-
 # Training Attendance Form - Help Guide
 ## Purpose
 

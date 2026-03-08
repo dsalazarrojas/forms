@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a student's class attendance during the COVID-19 pandemic. Its purpose is to ensure that students, instructors, and parents can provide accurate and consistent data about the student's attendance status, health, and vaccination status. The form is intended to be used by school administrators, teachers, and other relevant personnel to track and record student attendance. This form should not be used for other purposes, such as scheduling or registration.
-</thinking>
-
 # COVID 19 AttendanceChecklist - Help Guide
 ## Purpose
 This form is designed to collect information about a student's class attendance during the COVID-19 pandemic.

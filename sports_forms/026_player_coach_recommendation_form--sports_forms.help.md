@@ -1,18 +1,3 @@
-<thinking>
-The form is designed to collect information from coaches about their players, focusing on the player's name, school, position, abilities, skills, and characteristics. This form likely serves to help coaches recommend players for teams, sports teams, or other sports-related activities. 
-It's possible that the form is used in the context of scouting, team management, or sports recruitment, where coaches need to identify and highlight a player's potential. To ensure that the form is filled out correctly, the coach should have knowledge of the player's details and be able to provide a clear and concise recommendation.
-Before proceeding, please review the following form fields to ensure you're using the right information:
-- Player's Name: Enter the player's full name as it appears on their school ID or official records.
-- Player's School: Provide the name of the player's school or the school they represent.
-- Player's Position: Specify the player's position or role in the team.
-- Player's Abilities: Describe the player's skills, strengths, and areas of improvement.
-- Player's Skills: List the player's technical skills or areas of expertise.
-- Player's Characteristics: Outline the player's personality traits, work ethic, or other relevant characteristics.
-- Recommendation: Briefly explain why you're recommending this player for this opportunity.
-- Feedback: Any additional comments or suggestions you have about the player's performance or potential.
-- Suggestions: Any ideas or recommendations for the player's development or improvement.
-</thinking>
-
 # Player Coach Recommendation Form - Help Guide
 
 ## Purpose

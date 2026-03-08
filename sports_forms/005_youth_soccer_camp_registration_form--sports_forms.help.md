@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Youth Soccer Camp Registration Form - Help Guide
 
 ## Purpose

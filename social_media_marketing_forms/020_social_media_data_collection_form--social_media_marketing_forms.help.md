@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data about social media platforms, including platform types, URLs, handles, follower counts, account purposes, account types, owners, and additional information. It's intended for users to provide details about a specific social media account. Before filling out this form, consider the following:
-* You should only complete this form if you're authorized to access and share data about a social media account.
-* Ensure you're filling out the form for a single social media platform, not multiple platforms at once.
-* If a field is marked as "required", make sure to fill it out.
-* If a field is optional, you can choose to fill it out or leave it blank.
-* Be accurate when filling out numerical fields, such as follower count.
-</thinking>
-
 # Social Media Data Collection Form - Help Guide
 ## Purpose
 The Social Media Data Collection Form is used to collect detailed information about a specific social media platform. This form helps to track and analyze social media data.

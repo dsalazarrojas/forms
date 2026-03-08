@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for software developers to submit their code repositories for inclusion in a code repository collection or for feedback purposes. The form gathers information about the contributor, the repository, and the project details. It is essential to fill out the form accurately to ensure that the submitted information is correct and can be properly evaluated.
-
-The form is intended to be a general-purpose code repository submission form, and it is not specific to any particular platform or service. The submitted information will be used to categorize, index, and provide feedback to the contributors.
-
-Before starting, please review the following guidelines:
-
-* Ensure that the submitted repository is open-source and complies with the specified license type.
-* The repository should be well-documented with proper comments and documentation.
-* The submission is meant for general sharing, contribution to projects, or feedback purposes. Ensure that the repository is suitable for these goals.
-</thinking>
-
 # Code Repository Upload Form - Help Guide
 ## Purpose
 This form is designed for software developers to submit their code repositories for inclusion in a collection or for feedback purposes.

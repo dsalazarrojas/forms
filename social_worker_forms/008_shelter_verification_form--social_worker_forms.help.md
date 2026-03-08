@@ -1,12 +1,3 @@
-<thinking>
-The Shelter Verification Form is used by social workers to verify the information of a shelter. This form helps in checking if the shelter exists, has provided services, and has a contact person. It should only be filled by social workers for official purposes.
-
-Before proceeding, check if you have filled this form recently. This will save time and reduce duplicates. If you are unsure, please check the internal database or consult with a colleague to confirm.
-
-Please make sure to fill out as much information as you can accurately. This will improve the reliability of our internal data and help us better serve clients and shelters.
-
-The Shelter Verification Form is divided into several pages, each with different fields. Please read through the explanations for each field carefully to ensure you fill it out correctly.</thinking>
-
 # Shelter Verification Form - Help Guide
 ## Purpose
 The Shelter Verification Form is used by social workers to verify the information of a shelter. It helps in confirming the existence of a shelter, the services it has provided, and the contact details of the shelter.

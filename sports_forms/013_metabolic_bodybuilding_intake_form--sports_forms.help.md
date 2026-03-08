@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for users to input their information regarding their workout frequency and habits. The purpose of this form is to collect data on the user's current workout routine, including their workout frequency, training intensity, workout type, rest days, cardio days, weightlifting days, nutrition plan, goals, experience level, and training days per week. This information will be used to provide personalized recommendations for optimal metabolic bodybuilding. It is essential to fill out the form accurately to receive the most relevant information.
-
-</thinking>
-
 # Metabolic Bodybuilding Intake Form - Help Guide
 ## Purpose
 The Metabolic Bodybuilding Intake Form is designed to gather information about your workout habits to provide personalized recommendations for optimal metabolic bodybuilding.

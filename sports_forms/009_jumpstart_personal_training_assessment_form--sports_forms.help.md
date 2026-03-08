@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information from clients to assess their personal training needs, level of fitness, and any medical conditions that may impact their training experience. It is intended to be used by coaches or trainers to get a clear understanding of the client's goals, fitness level, and any health considerations that should be taken into account. 
-
-This form is part of the "sports_forms" category and is specifically designed to be used in a personal training context. 
-
-The information collected on this form will be used to create a personalized training plan that suits the client's needs and goals. 
-
-The fields included in this form are designed to collect comprehensive information about the client's identity, fitness level, and medical conditions. 
-
-The client's answers will help the coach or trainer to provide the best possible guidance and support for the client during their training sessions.
-
-</thinking>
-
 # JumpStart Personal Training Assessment Form - Help Guide
 
 ## Purpose

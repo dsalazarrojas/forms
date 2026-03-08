@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and usage of the Sports Participation Grade Reporting Form.
-
-The form is intended to collect data on student participation in sports activities, which can be used to track and evaluate the effectiveness of sports programs. This includes information on student engagement, coach involvement, and the overall sports participation experience.
-
-Before completing the form, please review the fields below to ensure that the form is relevant and not a duplicate.
-
-</thinking>
-
 # Sports Participation Grade Reporting Form - Help Guide
 ## Purpose
 The Sports Participation Grade Reporting Form is designed to collect data on student participation in sports activities. This form helps track and evaluate the effectiveness of sports programs, providing valuable insights for coaches, administrators, and students.

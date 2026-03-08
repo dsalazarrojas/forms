@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gaming_caution_report_form - Help Guide
 
 ## Purpose

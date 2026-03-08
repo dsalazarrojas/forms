@@ -1,5 +1,3 @@
-<thinking>...The Cycling Retreat Form Grey is designed to collect data from participants in a cycling-related event or activity. This form is used to gather information about the participants' waiver, contact details, and activity status. It is intended for internal use within the cycling community and is not meant for public distribution. To ensure the form is used correctly, please note that it is not a substitute for official medical or emergency contact information. This form should only be filled out by participants in the cycling event...+</thinking>
-
 # Cycling Retreat Form Grey - Help Guide
 
 ## Purpose

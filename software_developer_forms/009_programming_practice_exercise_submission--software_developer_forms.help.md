@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed for users to submit their programming practice exercises. The purpose of this form is to collect relevant information about a given programming problem and the user's solution to that problem. Each field is carefully crafted to gather necessary data from users, ensuring a comprehensive understanding of their exercise submissions.
-
-The form has multiple pages, but for the sake of this help guide, we will focus on the general information needed for each field.
-
-*   Please note that some fields are optional, but they are still included to provide users with a complete overview of their submissions.
-*   Some fields have specific types that will influence how the data will be treated, such as email, date, time, etc.
-
-</thinking>
-
 # Programming Practice Exercise Submission - Help Guide
 ## Purpose
 This form is used for users to submit their programming practice exercises, allowing you to track and analyze their submissions.

@@ -1,7 +1,3 @@
-<thinking>
-Please review the provided YAML fields to confirm that this form is for applicants to apply for a Rental Assistance Program, providing demographic information, income and benefit status, and other relevant details. This form will likely be used by social workers to assess and process these applications. It is essential to ensure that the form does not overlap with any other forms or programs. This form should not be used for other purposes, such as general housing inquiries or emergency assistance requests. Please confirm that all relevant sections are included and that the form accurately represents the necessary information for the Rental Assistance Program application.
-</thinking>
-
 # Rental Assistance Program Application Form - Help Guide
 ## Purpose
 The Rental Assistance Program Application Form is a tool for applicants to apply for rental assistance, providing social workers with necessary information to assess and process these applications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the knowledge and skills of football referees in various aspects of their role, including decision-making, knowledge about the game, communication skills, time management, and physical and mental fitness. The form is intended to assess the referee's ability to make sound decisions, communicate effectively with players and coaches, manage their time during a game, and stay physically and mentally fit to perform their duties. It is not a comprehensive evaluation of all aspects of refereeing, but rather a focused examination of specific skills and knowledge areas. The form should not be used to evaluate referees who are already qualified and experienced, but rather as a tool for assessing the readiness of new or less experienced referees to take on more responsibilities or roles.
-</thinking>
-
 # Football Referee Examination Form - Help Guide
 ## Purpose
 This form is designed to evaluate the knowledge and skills of football referees in various areas of their role.

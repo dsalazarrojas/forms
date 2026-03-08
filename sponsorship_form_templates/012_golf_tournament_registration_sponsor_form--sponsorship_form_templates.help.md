@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering a golf tournament sponsorship. It's intended for participants to provide information about themselves and their sponsorship details. The form should only be completed by individuals who have been invited to sponsor a golf tournament and have a valid sponsorship opportunity.
-
-Before completing this form, please ensure that you have received an invitation from the tournament organizers and are authorized to represent a sponsor. If you're not sure about your sponsorship status or have questions, please contact the tournament organizers for clarification.
-
-To avoid duplication of efforts, please check with the tournament organizers if the sponsor you wish to represent is already registered or if there are specific requirements for sponsorship opportunities in the tournament.
-
-</thinking>
 # golf_tournament_registration_sponsor_form - Help Guide
 ## Purpose
 This form is for registering a golf tournament sponsorship, intended for participants to provide information about themselves and their sponsorship details.

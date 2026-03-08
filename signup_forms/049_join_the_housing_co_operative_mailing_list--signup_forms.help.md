@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in joining The Housing Co Operative Mailing List. This form allows users to provide their first and last name, email address, and select which interests they are interested in. The form also collects information on how they heard about the cooperative, how they want to be communicated with, how often they want to be communicated with, and their preferred method of contact. This form will help us understand what kind of content to share with the users and ensure that we're communicating with them effectively.
-
-We want to clarify that this form is not intended for existing members of the cooperative, but rather for new potential members who are interested in joining. If you are already a member, please do not fill out this form again.
-
-To avoid duplicate entries, we will be using the email address provided as a unique identifier. If you have already filled out this form and want to update your information, please do not fill out this form again. Instead, reply to the email we sent to the address you provided and we will assist you with any updates.
-
-We will use the information collected from this form to tailor our content and communication with you. We will not share your contact information with third parties and will keep it confidential. If you have any questions or concerns, please do not hesitate to contact us.
-
-</thinking>
-
 # Join The Housing Co Operative Mailing List - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-This guide provides an explanation of the Membership CRM Intake Form, a tool used to collect essential information from new members. This form aims to streamline the process of onboarding members into the organization's membership program, reducing administrative burdens and enhancing the experience of both the members and administrators. To ensure accurate completion, review the form instructions carefully to prevent duplication and ensure that all necessary details are captured.
-
-The Membership CRM Intake Form consists of 13 fields, each designed to extract critical information from new members.
-
-</thinking>
-
 # Membership CRM Intake Form - Help Guide
 ## Purpose
 The Membership CRM Intake Form is a critical tool used to gather necessary details about new members, ensuring a smooth onboarding process and accurate database entry. This comprehensive form helps administrators quickly and easily capture the required information, which is essential for various administrative tasks.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help users recover their account credentials in the event of a forgotten password. It's essential to ensure that the user's identity is verified through a security question and answer combination, while also providing a secure way to reset their password. This form should not be used for other purposes.
-To prevent users from spamming or attempting to bypass security checks, the form will only be accessible after a user has already logged in successfully.
-</thinking>
-
 # Password Reset Request Form - Help Guide
 ## Purpose
 This form is used to reset your account password in case you've forgotten it.

@@ -1,5 +1,3 @@
-<thinking>Is this form intended to gather information about an individual's or organization's experiences at a spa? Is there any specific business logic that should be considered when designing this form? Is it a duplicate of another form?</thinking>
-
 This form is likely used to gather feedback or evaluation data from spa customers. There is no specific business logic that affects the design of this form. It's not a duplicate of another form.
 
 Here is the help guide for the spa_evaluation_form:

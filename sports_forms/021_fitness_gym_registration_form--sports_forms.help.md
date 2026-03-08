@@ -1,8 +1,3 @@
-<thinking>
-This is a form for users to register at a fitness gym. The form is designed to collect user information, preferred membership plan, payment method, contact details, birthdate, preferred time for workouts, and any additional notes. This form should only be used for users who are interested in joining the gym. Please ensure you have not already registered with this gym before filling out this form.
-
-</thinking>
-
 # Fitness Gym Registration Form - Help Guide
 ## Purpose
 This form is for users to register at a fitness gym.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form "marathon_training_strength_workout_log" is used for its intended purpose. The form is designed to record information about a specific type of workout or session, likely for a marathon training program. To avoid confusion, we will check that the form is not used for other types of workouts or sessions. We also want to prevent data duplication, so we will ensure that users understand that each form submission is a new record and should be treated as such.
-</thinking>
-
 # marathon_training_strength_workout_log - Help Guide
 ## Purpose
 The Marathon Training Strength Workout Log form is a tool for recording information about strength workouts during a marathon training program. It's meant to track progress and provide insights for athletes and coaches.

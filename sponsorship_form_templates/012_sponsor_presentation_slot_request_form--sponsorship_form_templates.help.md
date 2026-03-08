@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for requesting sponsorship for presentations. The purpose of this form is to collect information from speakers for sponsorship opportunities. The form will be reviewed internally to ensure that it is filled out correctly and to prevent duplication of sponsorship requests.
-The speaker will be asked to provide information such as session id, name, slot start time, duration, sponsorship request information, start time, end time, and session type. This form will help the speaker to request sponsorship for their presentation slot effectively.
-Before proceeding, make sure to double-check that you are not duplicating a sponsorship request. If you have already submitted a sponsorship request, do not submit another.
-</thinking>
-
 # Sponsor Presentation Slot Request Form - Help Guide
 ## Purpose
 The sponsor_presentation_slot_request_form is used to request sponsorship for a presentation slot. This form helps the speaker to submit their sponsorship request in a structured and organized way.

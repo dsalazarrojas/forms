@@ -1,8 +1,3 @@
-<thinking>
-The Enhancement Request Form is designed to collect information from users about potential enhancements they would like to see in our software or product. The form is meant to help us identify areas for improvement and prioritize development based on user needs and preferences.
-To prevent duplicate submissions and ensure that we receive a comprehensive understanding of each enhancement request, we ask that users fill out this form with as much detail as possible. Please note that some fields may have specific requirements for completeness.
-</thinking>
-
 # Enhancement Request Form - Help Guide
 ## Purpose
 The Enhancement Request Form is a tool used to collect enhancement requests from users. It helps us understand their needs and priorities development efforts.

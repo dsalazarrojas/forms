@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture information from vendors regarding their sponsorship options, which is crucial for the organization to understand the terms and conditions of their partnerships. This form aims to gather details about the vendors' offers, benefits, and any additional requirements or specifications.
-
-Before filling out this form, please ensure that you have a clear understanding of the vendor's sponsorship options and that you are not duplicating information already collected.
-
-</thinking>
-
 # vendor_sponsorship_options - Help Guide
 ## Purpose
 This form is designed to collect sponsorship options from vendors, helping us to better understand the terms and conditions of our partnerships.

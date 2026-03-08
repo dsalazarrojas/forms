@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a template for sports management waivers, which are legal agreements that protect a sports organization or individual from potential liabilities and risks associated with participating in sports activities. The purpose of this form is to provide a standardized way to document and manage waivers for athletes, teams, and organizations. This form can be used for various sports events, such as tournaments, camps, and leagues, to ensure that all parties involved are aware of and agree to the terms and conditions of participation. It's essential to review and understand the waiver carefully before signing it, as it may impact your rights and responsibilities as an athlete or team member.
-</thinking>
-
 # Sports Management Waiver Form Template - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Sports Management Waiver Form Template.

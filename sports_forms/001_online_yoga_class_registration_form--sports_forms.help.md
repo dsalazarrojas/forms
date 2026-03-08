@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our online yoga class registration form is clear and easy to understand for end users. Let's review the form fields and instructions to ensure that each field has a proper label and explanation.
-</thinking>
-
 # Online Yoga Class Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for online yoga class registration. It requires personal details such as name, contact information, and payment method, as well as course-related information like class type, duration, and schedule.

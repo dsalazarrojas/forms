@@ -1,10 +1,3 @@
-<thinking>
-This is a help guide for the Friendship Survey form. The purpose of this form is to gather information about friendships and relationships among students and teachers. The goal is to understand how students perceive their friendships and the level of support they receive from their teachers and peers.
-
-Before creating this help guide, I will review the form fields and provide a concise explanation for each field. This will ensure that the form's intent and requirements are clearly understood by the end-users.
-
-</thinking>
-
 # Friendship Survey - Help Guide
 ## Purpose
 The Friendship Survey form is designed to gather information about relationships among students, teachers, and peers. It helps identify areas of support and improvement opportunities in friendships.

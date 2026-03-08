@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from organizations that want to sponsor events or activities related to heart health. This includes providing details about the organization, the name of the person representing the organization, their contact information (email and phone number), the amount of sponsorship requested, the frequency of sponsorship (e.g., once for a specific event, ongoing support), the type of sponsorship (general, in-kind donations, both), the dates of the sponsorship (start and end), and any additional comments about the sponsorship. This form also captures information on assigned tools and the creation and modification history of the sponsorship. It's essential to fill out this form accurately to ensure that the heart health events receive the necessary support.
-
-</thinking>
-
 # Heart Health Walk Sponsorship Form - Help Guide
 ## Purpose
 ## How To Complete This Form

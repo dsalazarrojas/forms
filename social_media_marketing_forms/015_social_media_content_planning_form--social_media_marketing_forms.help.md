@@ -1,7 +1,3 @@
-<thinking>
-This form is used to plan and schedule social media content in a structured way, ensuring that the content aligns with the company's overall marketing strategy and targets the right audience. The purpose of this form is to collect relevant information about the content to be posted, including its type, target audience, content details, start and end dates, and platforms where it will be published. This form is a one-stop solution for social media content planning, saving time and reducing errors. Before filling out this form, please ensure that you have checked with your team or manager to confirm that there is no existing content planned for the same time period and audience.
-</thinking>
-
 # Social Media Content Planning Form - Help Guide
 ## Purpose
 The Social Media Content Planning Form is a tool used to plan and schedule social media content in a structured way.

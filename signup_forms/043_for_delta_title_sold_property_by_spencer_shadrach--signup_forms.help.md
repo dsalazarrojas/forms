@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers who are interested in buying a property, specifically in the context of a property sold by Spencer Shadrach. This form is intended to gather contact information and other relevant details from potential buyers. The form has three pages, each with a unique field: "sold_property_by_spencer_shadrach", "volunteer_buyers_gp_hendris_homes_llc", and "delta_title". The form does not require any specific options for any of the fields, and all fields are optional. The form's purpose is to collect basic contact information and a brief description of the property being sold. This form will likely be used to communicate with potential buyers and facilitate the buying process. Please review this form carefully to ensure it meets your specific needs and use it as is, modify it, or derive it further under the conditions provided in the form's meta information.
-</thinking>
-
 # for_delta_title_sold_property_by_spencer_shadrach - Help Guide
 ## Purpose
 

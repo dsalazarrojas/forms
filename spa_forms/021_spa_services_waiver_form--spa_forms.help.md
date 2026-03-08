@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users for spa services, such as risk statements, informed consent, and waiver signatures. 
-The purpose of this form is to obtain informed consent and waiver from clients prior to receiving spa services, ensuring that clients are aware of the risks and benefits associated with the services and are willing to participate. The form should only be used for spa services and is not intended for any other purpose. 
-Please make sure to review the form carefully and avoid duplicating its creation as it is an AI-generated form, not affiliated with or endorsed by any form platform. 
-</thinking>
-
 # Spa Services Waiver Form - Help Guide
 ## Purpose
 The Spa Services Waiver Form is designed to ensure that clients understand and consent to the risks and benefits associated with receiving spa services. It is a crucial document to obtain before providing services.

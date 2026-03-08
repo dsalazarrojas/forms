@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about sports injuries for athlete monitoring and analysis. This form is intended for use by athletic teams, medical staff, and other relevant personnel. It's crucial to understand that this form is meant to be filled out by medical staff, trainers, or other authorized personnel, not by athletes themselves. To avoid duplication of efforts, please ensure that a separate form is not submitted for the same injury report. If you're unsure about the purpose or usage of this form, please consult with the relevant team or department for clarification.
-</thinking>
-
 # sports_injury_report_form - Help Guide
 ## Purpose
 The sports injury report form is used to collect detailed information about sports injuries, allowing athletic teams and medical staff to track and analyze injuries in their athletes.

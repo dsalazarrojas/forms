@@ -1,6 +1,4 @@
-> <thinking>...this form is designed to collect personal and medical information from massage therapy clients. This information will be used to assess the client's health status, provide an accurate massage therapy plan, and ensure the best possible outcomes for the client. It's essential to complete this form carefully and accurately to ensure the client receives the best possible care. Before you start, please note that this form is not meant to replace any medical professional's advice or diagnosis, and if you have any concerns, please consult a healthcare professional. Also, this form will only be used for internal purposes, and any data collected will be kept confidential. Please review each field carefully and make sure you understand what information is being requested. If you're unsure about any field, please ask a healthcare professional for guidance.</thinking>
-
-# massage_therapy_client_intake_form - Help Guide
+> # massage_therapy_client_intake_form - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from massage therapy clients to provide an accurate massage therapy plan and ensure the best possible outcomes for the client.
 

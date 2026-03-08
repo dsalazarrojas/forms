@@ -1,17 +1,3 @@
-<thinking>
-To create a help guide that is concise, concrete, and practical for the end user, we need to carefully analyze the provided YAML form structure and the instructions given. 
-
-The form is titled "Calculate Arctangent2 (atan2) Form" and is used to calculate the arctangent2 (arctangent) of a given input. The arctangent2 function is used to calculate the angle between the x and y coordinates in a 2D plane.
-
-Here's a step-by-step plan for creating the help guide:
-
-1.  Explain the purpose of the form
-2.  Explain how to complete the form in a clear and concise manner
-3.  Explain each field in the form, focusing on the fields that require the user to input values
-
-This plan will be followed to create the help guide in the specified markdown structure.
-</thinking>
-
 # Calculate Arctangent2 (atan2) Form - Help Guide
 ## Purpose
 The Calculate Arctangent2 (atan2) Form is used to calculate the arctangent2 (arctangent) of a given input, which is the angle between two points in a 2D plane. This form takes the x and y coordinates as input and produces the arctangent2 value in the selected unit and with the desired decimal places.

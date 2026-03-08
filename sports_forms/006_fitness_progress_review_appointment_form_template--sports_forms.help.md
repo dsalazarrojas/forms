@@ -1,10 +1,3 @@
-<thinking>**Form Purpose and Duplication Checks**
-The purpose of the "fitness_progress_review_appointment_form_template" is to collect and review the progress of a client's appointment, ensuring they are on track with their fitness goals. This form is designed to be completed by clients or their representatives, and it helps track appointment details, schedule times, trainer information, and client agreements.
-
-Before proceeding, ensure that you are not duplicating a similar form for the same client, as this can lead to unnecessary and conflicting data collection.
-
-</thinking>
-
 # fitness_progress_review_appointment_form_template - Help Guide
 
 ## Purpose

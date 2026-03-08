@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Relaxation Therapy Appointment Form - Help Guide
 
 ## Purpose

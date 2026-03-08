@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for research purposes, and it's intended to be used by researchers and study participants. It's crucial to complete this form accurately to ensure that the data collected is reliable and useful. Please make sure you have read and understood the form's purpose and instructions before proceeding. Before starting, check that you haven't already completed this form. If you have any questions or concerns, please contact the researcher or study coordinator.
-</thinking>
-
 # Research Questionnaire - Help Guide
 ## Purpose
 

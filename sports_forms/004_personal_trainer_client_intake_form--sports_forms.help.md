@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from clients who are seeking personal training services. It covers various aspects of the client's profile, medical history, contact information, and emergency contacts. Please ensure that you have reviewed and understood the client's medical history, emergency contacts, and any relevant medical conditions or tests before proceeding.
-</thinking>
-
 # Personal Trainer Client Intake Form - Help Guide
 ## Purpose
 The Personal Trainer Client Intake Form is designed to collect vital information from clients seeking personal training services. This form helps trainers to understand the client's goals, medical history, and emergency contact details, ensuring a safe and effective training experience.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals or organizations requesting social support assistance. It is intended for internal use within an organization, such as a social services department, to collect and review requests for assistance. This form is not intended for public use and should not be shared outside of the organization.
-
-The form asks for personal and contact information from the submitter, including their name, email, phone number, and department. It also captures the mental health condition and description of the crisis or issue, as well as the submitter's department and email. The form is used to track and manage social support requests, including the review status and comments from reviewers.
-
-The form has several sections that are designed to collect information from different stakeholders, including the individual submitting the request, the department or organization submitting the request on behalf of the individual, and the reviewer. Each section is intended to capture specific information related to the support request, such as the submitter's department and name, the review status, and the comments from the reviewer.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals to submit on behalf of the individual or organization. Also, be sure to review and understand the form's purpose and scope before submitting.
-</thinking>
-
 # Social Support Assistance Request Form - Help Guide
 ## Purpose
 The Social Support Assistance Request Form is used to gather information from individuals or organizations requesting social support assistance within the organization.

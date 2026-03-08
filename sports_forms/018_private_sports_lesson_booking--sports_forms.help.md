@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to help users book a private sports lesson with a coach, providing essential details such as participants, lesson details, start and end dates and times, and the coach's name. This form is crucial for users to schedule and manage their sports lessons effectively. 
-To prevent duplicate bookings, users are not allowed to book the same time slot for the same lesson with different participants, and the system checks for non-availability of coaches before confirming a booking.
-</thinking>
-
 # private_sports_lesson_booking - Help Guide
 ## Purpose
 This form is designed to help users book private sports lessons with a coach, providing a platform for users to schedule and manage their lessons efficiently.

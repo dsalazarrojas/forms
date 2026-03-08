@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the Snowboard Survey form. The form is designed to collect demographic information, preferences, and feedback from respondents. It has 11 fields in total, divided into different sections, each with its own specific purpose. Before you start, ensure you have a clear understanding of why you're taking this survey and that you're not duplicating your response.
-</thinking>
-
 # Snowboard Survey - Help Guide
 ## Purpose
 This Snowboard Survey form is designed to collect information from snowboarders about their preferences, experiences, and feedback. It's used to gather insights to improve the snowboarding community.

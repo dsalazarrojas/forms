@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are requesting free local assistance. The purpose of this form is to gather relevant details about the user's request, including their contact method, request type, and payment method. This form is intended for internal use only and will not be shared with external parties. It is essential to complete this form accurately to ensure that the assistance is provided efficiently.
-</thinking>
-
 # Free Local Assistance Request Form - Help Guide
 ## Purpose
 The Free Local Assistance Request Form is used to collect information from users who are requesting free local assistance. It helps the organization understand the user's needs and provide the necessary support.

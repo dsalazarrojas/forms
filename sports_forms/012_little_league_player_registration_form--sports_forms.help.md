@@ -1,7 +1,3 @@
-<thinking>
-The goal of this help guide is to ensure that end users understand the purpose and requirements of the "Little League Player Registration Form". The form is used to collect information from players registering for a local Little League. The form will be submitted to the relevant authorities, and it is essential that all required fields are completed accurately. To avoid duplication, please do not register a player more than once.
-</thinking>
-
 # Little League Player Registration Form - Help Guide
 ## Purpose
 This form is used to register players for a local Little League. Please fill out the required information accurately to ensure a smooth registration process.

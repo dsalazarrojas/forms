@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in ordering social media post designs. The purpose of this form is to gather the necessary details for creating visually appealing and on-brand social media posts that meet the client's expectations. The form asks for the type of social media channel to be used (e.g., Facebook, Instagram), the type of image or video to be created, the image size, design style, color scheme, and any other specific requirements such as text color or image description.
-To complete this form, users need to select or enter the following information:
-- Social Media Channels (Facebook, Instagram, Twitter, LinkedIn, TikTok, or YouTube)
-- Image Type (Image, Video, or Story)
-- Image Size (Full Width, Square, or Portrait)
-- Design Style (Minimalist, Creative, Artistic, or Classic)
-- Color Scheme (Colorful, Monochromatic, or Pastel)
-- Optionally, they can also specify a Text Color and provide an Image Description
-The form is designed to be flexible and adaptable to different preferences, ensuring that users can tailor their social media post design orders according to their specific needs.
-Please note that while the form is AI-generated, it is an original adaptation and does not replicate any existing form or platform.
-The form fields and their respective labels are designed to ensure clarity and ease of completion for the users.
-This form will help clients quickly and accurately gather the necessary information for their social media post design orders.
-</thinking>
-
 # Social Media Post Design Order Form - Help Guide
 ## Purpose
 The Social Media Post Design Order Form is designed to gather information from users for creating visually appealing and on-brand social media posts.

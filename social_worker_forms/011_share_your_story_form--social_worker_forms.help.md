@@ -1,13 +1,3 @@
-<thinking>
-  This help guide is intended to be a user-facing document, so it should be written in a clear and concise manner. The form is meant to collect stories and testimonials from customers, with the option to share a photo or video. 
-  The form is split into four pages, each with its own purpose: customer experience, testimonial, photo, and video. 
-  The form is not mandatory, and users can choose which fields they want to fill in. 
-  The "photo" field is a number field, implying that it requires a numerical value, but based on the context, it's likely meant to be a field for uploading a photo or providing a reference to a photo URL.
-  The "video" field is a select-one field, allowing users to choose between "Yes" and "No" options.
-  The purpose of this form is to gather stories, testimonials, and media (photos or videos) from customers.
-  Before proceeding, please check if you have already filled out this form to avoid duplication.
-</thinking>
-
 # Share Your Story Form - Help Guide
 ## Purpose
 The Share Your Story Form is a platform for customers to share their experiences, testimonials, and media (photos or videos) with us. We value your feedback and would love to hear about your interactions with our service.

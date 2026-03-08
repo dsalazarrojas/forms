@@ -1,9 +1,3 @@
-<thinking>
-The Kickball Waiver Form is an internal form used by the Kickball organization to collect information from players for the kickball league. This form aims to gather essential details about each player, including their contact information, medical history, and emergency contact details. 
-
-Before proceeding, ensure that this form is relevant and accurate for your specific scenario. If you've filled out this form before or are unsure about any of the information, please verify with the Kickball staff to avoid duplication of effort.
-</thinking>
-
 # Kickball Waiver Form - Help Guide
 ## Purpose
 The Kickball Waiver Form is a mandatory document for all players participating in the Kickball league. It's used to capture crucial information for player safety, emergency contacts, and liability reasons.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a self-assessment tool for software developers to evaluate and improve the usability and user experience of their interfaces. Its purpose is to help developers identify areas of improvement in the design and structure of their applications, websites, or other digital products. The form is designed to be a quick and easy way to gauge the effectiveness of the interface and provide actionable feedback for developers to make data-driven decisions.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather a custom creation based on public survey topic metadata. The form's content and questions are intended to be a general guide and may not be exhaustive or specific to your project's unique requirements.
-
-Please answer the questions honestly and concisely, and provide clear and specific feedback where possible.
-</thinking>
-
 # User Interface Design Checklist - Help Guide
 ## Purpose
 This form is a self-assessment tool for software developers to evaluate and improve the usability and user experience of their interfaces.

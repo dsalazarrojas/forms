@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for collecting basic information about a gym membership application. The form will be completed by a user applying for a gym membership. 
 
 The form is divided into sections, each containing fields that are used to collect relevant information. The form is not mandatory, but it will be used as a reference guide for gym staff to process membership applications.

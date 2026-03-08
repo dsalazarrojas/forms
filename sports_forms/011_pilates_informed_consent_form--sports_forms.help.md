@@ -1,5 +1,3 @@
-<thinking>...This form was created to gather information from individuals interested in partaking in a Pilates program. It's intended to be filled out by the participant before commencing their first session. The form is designed to collect the participant's name, goals, contact information, emergency contact details, medical conditions, and waiver status. The form is required to be completed in its entirety for the participant to proceed with the program... </thinking>
-
 # Pilates Informed Consent Form - Help Guide
 
 ## Purpose

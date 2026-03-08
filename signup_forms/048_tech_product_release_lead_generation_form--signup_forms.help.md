@@ -1,11 +1,3 @@
-<thinking> 
-
-To determine whether a tech product release lead generation form is relevant for an individual, we need to check if they meet the following conditions:
-- The individual must be a job seeker looking to apply for a tech-related position in a company with a certain size range (101-500 employees) and in a specific industry (Tech).
-- The form must have all required fields filled out, including job posting ID, job opened date, and lead source.
-
-</thinking>
-
 # tech_product_release_lead_generation_form - Help Guide
 ## Purpose
 The tech product release lead generation form is a tool used to collect information from job seekers interested in tech-related positions. It helps us understand the job seeker's profile and preferences, enabling us to provide tailored support and guidance throughout the recruitment process.

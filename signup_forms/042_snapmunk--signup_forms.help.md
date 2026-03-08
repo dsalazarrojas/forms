@@ -1,5 +1,3 @@
-<thinking>...This form appears to be a registration form for a company or organization, designed to collect employee or team member information. It seems to be collecting data for multiple roles within the organization, with fields for first name, last name, email, phone, company, job title, and department. There are multiple job title fields, suggesting that the form is intended to collect data for different positions within the organization. However, it's unusual to have this many job title fields. It would be useful to understand the specific use case and why so many job title fields are needed... </thinking>
-
 # Snapmunk - Help Guide
 ## Purpose
 This form is designed to collect registration data for employees or team members of an organization. Fill out this form to provide your contact and job title information to Snapmunk.

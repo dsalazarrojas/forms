@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for social media management purposes, which is a crucial aspect of social media marketing. It's essential to ensure that the form is filled out correctly to avoid duplication or incorrect information.
-
-Before proceeding, please note that this form is a general template and might need adjustments according to your specific needs or requirements. If you're unsure about the purpose or any field, please reach out to the relevant team members for clarification.
-
-To use this form effectively, please follow the instructions in this guide carefully.
-
-</thinking>
-
 # Social Media Management Accommodation Form - Help Guide
 ## Purpose
 This form is designed to collect information for social media management purposes, including category selection, description, output file, assigned tool, form ID, and additional details such as pages, notes, and contact information.

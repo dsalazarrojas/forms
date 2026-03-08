@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to collect information from sponsors who want to participate in an environmental campaign. It's designed to gather relevant details such as name, contact, and financial information for the campaign. Before filling out this form, please ensure you're only submitting one form per person. If you're filling out this form for someone else, please make sure they've given you permission to do so.
-</thinking>
-
 # Environmental Campaign Sponsorship Pledge Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who want to support an environmental campaign by making a pledge. The information collected will be used to contact you and confirm your pledge.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help parents and guardians provide information about their children who are participating in a scouting event. The purpose of this form is to collect relevant details such as the scout's name, contact information, medical conditions, and allergies. This information will be used to ensure the scout's safety and well-being during the event. 
-
-Before filling out this form, please note that some fields are required and must be completed accurately. This form is not intended to be a duplicate or redundant form and it is recommended to fill it out only once per scout. 
-
-Please review each field carefully to ensure accurate and complete information is provided. If you are unsure about any of the fields or questions, please contact the event organizers for clarification.
-</thinking>
-
 # Scouts COVID 19 Self Assessment Form - Help Guide
 ## Purpose
 The Scouts COVID 19 Self Assessment Form is designed to collect essential information about your child's health status and your contact details for the scouting event.

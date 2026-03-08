@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from individuals interested in training programs, specifically in the sports domain. It appears to be a comprehensive form that covers various aspects of a potential trainee's personal and medical details. The form will likely be used to assess an individual's suitability for training programs, and to collect necessary information for their safety and well-being.
-
-To ensure that this form is properly filled out, the following conditions should be checked:
-* The form should not be duplicated, as this could lead to incorrect or outdated information being collected.
-* The form should be filled out with accurate and honest information, as this will ensure that the trainee's needs are properly assessed and they receive the best possible experience.
-
-</thinking>
-
 # Online Training Enquiry Form - Help Guide
 ## Purpose
 The Online Training Enquiry Form is used to collect information from individuals interested in training programs in the sports domain. It helps to assess an individual's suitability for the training programs and collects necessary information for their safety and well-being.

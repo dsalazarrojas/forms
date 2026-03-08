@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the sports_team_promotion_consent_form. This form is used for the promotion of sports teams, and it captures various details about the team and its associated athletes, parents, and school information. Before starting, please ensure that you are filling out this form for a legitimate sports team promotion purpose and not duplicating efforts. Please review each field carefully to ensure accurate and complete information is provided.
-
-</thinking>
-
 # sports_team_promotion_consent_form - Help Guide
 ## Purpose
 This form is designed for the promotion of sports teams, capturing essential details about the team, athletes, parents, and school information. It helps in efficiently and accurately sharing the team's information with relevant parties.

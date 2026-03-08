@@ -1,5 +1,3 @@
-<thinking>As a sports club, we require accurate and complete information from each member to provide a safe and enjoyable experience for everyone. This form is intended to gather essential details about you, including your contact information, membership preferences, and medical conditions that may impact your ability to participate in club activities. Please ensure that all information provided is accurate and truthful, as this will help us tailor our services to your needs and ensure your safety while at the club. By completing this form, you agree to the club's liability waiver and terms of service. If you have any questions or concerns, please don't hesitate to reach out to us.</thinking>
-
 # Club Membership Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from you for your membership registration. It includes personal details, membership preferences, and medical information to ensure a safe and enjoyable experience for everyone at the club.

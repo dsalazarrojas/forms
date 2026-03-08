@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for athletes and teams to register their participation in the Trialing Gala event. To determine relevance, we've considered the form's metadata and categorized it under the "sports" category. We've also reviewed the form's content to ensure it is not duplicating any existing forms. The form consists of five fields: Swimmer Information, Event Information, Event Information 2, Agreements, and Submit.
-</thinking>
-
 # Trials Gala Entry Form - Help Guide
 ## Purpose
 The Trials Gala Entry Form is designed for athletes and teams to register their participation in the Trialing Gala event.

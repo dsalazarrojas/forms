@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to contact the Fitness Center with their inquiry or feedback. This form will help the center to understand the user's needs and provide a response or resolution accordingly. 
-
-Before we proceed, let's check if this form is a duplicate or if the purpose is clear. The form has a simple structure with a mix of text fields for personal information and a text field for the message. The form seems to be well-structured for gathering contact information and feedback from users. 
-
-</thinking>
-
 # Fitness Center Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to contact the Fitness Center with their inquiry or feedback. 

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Social Media Age Verification Petition Form, which is designed to verify the age of users who wish to engage in certain activities or access specific content on social media platforms. The form is intended to ensure that users are 18 years or older, as required by regulatory bodies and platforms. By filling out this form, users can confirm their age and provide necessary information for verification purposes.
-</thinking>
-
 # Social Media Age Verification Petition Form - Help Guide
 ## Purpose
 The Social Media Age Verification Petition Form is a simple, multi-page form designed to collect information from users to verify their age. This form is required for users who wish to engage in certain activities or access specific content on our platform.

@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the fields and their types. This form seems to be designed for a software development project, possibly for hiring a software developer. The purpose of the form is to collect information about the candidate, their experience, education, and job preferences. The fields cover various aspects, including personal details, technical skills, work history, and job expectations.
-
-Upon closer inspection, we can see that the form is asking for both specific details (e.g., first name, last name, email, phone) and more abstract information (e.g., work experience, job description, job requirements). This suggests that the form is not only used for basic contact information but also for more in-depth analysis of the candidate's qualifications and preferences.
-
-Before proceeding, we need to check if this form has been filled out before. To do this, we'll review the fields and their required flags. All fields are marked as required, indicating that this form is a comprehensive survey of the candidate's information. This suggests that the form has not been designed for a simple "one-time" use case.
-
-After confirming the purpose and checking for duplication, let's create the help guide.
-</thinking>
-
 # Software Developer Project Interview Form - Help Guide
 ## Purpose
 This form is designed to collect information from software developers applying for a project position. It will help us understand your qualifications, experience, and job preferences to better match you with suitable projects.

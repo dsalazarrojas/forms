@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of a soccer coach based on various aspects of their work. The form is intended to be completed by individuals who have observed or experienced the coach's performance during games or practices. The evaluation will provide an objective assessment of the coach's strengths and weaknesses, helping to identify areas for improvement.
-
-To ensure accuracy and consistency, it is essential to complete the form carefully and honestly. Please note that this form is not meant to be a subjective personal opinion, but rather a data-driven evaluation of the coach's performance.
-
-Before proceeding, please review the form carefully to understand the questions and options provided. If you have any concerns or questions, feel free to reach out to [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Soccer Coach Evaluation Form - Help Guide
 ## Purpose
 The Soccer Coach Evaluation Form is designed to assess the performance of a soccer coach based on various aspects of their work, including team performance, communication, coaching style, organization, safety, and game planning.

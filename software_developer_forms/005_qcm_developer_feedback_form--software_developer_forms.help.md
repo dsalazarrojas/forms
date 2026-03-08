@@ -1,10 +1,3 @@
-<thinking>
-This is a help guide for the QCM Developer Feedback Form. The purpose of this form is to gather feedback from software developers about their experience with the QCM system, which can help identify areas for improvement. The feedback form is designed to be completed by a developer after they have used the QCM system and are willing to provide their honest opinion. This form should not be filled out by non-developers or as a prank, as it is intended for real feedback only.
-
-Before starting, make sure that you have a valid reason for filling out this form and that you are not duplicating a previous submission. This form is intended to be completed once per person per occasion, so please only submit one set of feedback per visit.
-
-Please fill out this form carefully and honestly, as your feedback is valuable for improving the QCM system.</thinking>
-
 # QCM Developer Feedback Form - Help Guide
 
 ## Purpose

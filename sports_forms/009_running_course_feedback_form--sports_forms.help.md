@@ -1,10 +1,3 @@
-<thinking>
-To create this form, I'll follow the provided YAML structure and ensure the help guide is clear, concise, and easy to understand for end users.
-
-The form is designed to collect feedback from participants after a running course. This form is part of the process to evaluate the effectiveness of the running course and identify areas for improvement. Please ensure that this form is completed only once per participant.
-
-</thinking>
-
 # running_course_feedback_form - Help Guide
 ## Purpose
 The "running_course_feedback_form" is designed to collect feedback from participants after a running course. This form helps us evaluate the effectiveness of the course and identify areas for improvement.

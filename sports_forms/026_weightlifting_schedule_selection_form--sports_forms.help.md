@@ -1,8 +1,3 @@
-<thinking> 
-The form is designed to collect information from users to create or manage their weightlifting schedules. It's likely that this form is intended for users to specify their preferences and details for training sessions, such as which days of the week they prefer to lift, what equipment they prefer, and specific details about their training schedule and intensity. However, without further context, it's difficult to determine the exact purpose and relevance of the form. It's possible that it's for coaches or trainers to manage client schedules, or for clients to create their own schedules. It's also possible that this form is part of a larger system for tracking and managing weightlifting sessions. To confirm, it would be helpful to know who the form is intended for and how it will be used within the system.
-
-</thinking>
-
 # Weightlifting Schedule Selection Form - Help Guide
 ## Purpose
 This form is designed to help you create or manage your weightlifting schedule. Please follow the instructions below to ensure you provide the necessary information.

@@ -1,9 +1,3 @@
-<thinking>
-The form is used to collect information about a student's or school's financial situation and funding needs. This form is intended to help determine the funding eligibility and amount for students or schools that need resources. 
-Please ensure that you are filling this form only once per student or school. 
-Please be as detailed as possible when providing information, especially in the Financial Situation Details field.
-</thinking>
-
 # Request For Student And School Resources Funding Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a student's or school's financial situation and funding needs.

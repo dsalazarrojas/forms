@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is used correctly by providing a comprehensive help guide for end-users. 
-</thinking>
-
 # Registration Form For Training Children - Help Guide
 ## Purpose
 This form is used to register children for training programs. It collects their personal and contact information to ensure their safe and efficient entry into our training programs.

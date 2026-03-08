@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is for assessing client treatment frequency, satisfaction level, and next steps. The purpose of this form is to gather client feedback on their repeat visits, satisfaction with previous treatment, and any subsequent actions or visits they would like to schedule.
-To avoid duplication of effort, please only fill out this form if:
-* You have not already completed this form for the same client in the past.
-* You have received new treatment or have concerns about your current treatment progress.
-</thinking>
-
 # Skincare Treatment Repeat Frequency Survey - Help Guide
 ## Purpose
 This form is designed to gather client feedback on their repeat visits, satisfaction with previous treatment, and any subsequent actions or visits they would like to schedule.

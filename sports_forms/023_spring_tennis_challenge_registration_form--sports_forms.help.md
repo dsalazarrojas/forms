@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register participants for the Spring Tennis Challenge, a competitive tennis event. This form will gather essential information from participants, including their name, email, challenge name, challenge date, start and end times, formation type (singles or team), team size, team members, participant experience, gender, and age. This form will likely be used by tournament organizers to collect and process participant information efficiently.
-</thinking>
-
 # Spring Tennis Challenge Registration Form - Help Guide
 ## Purpose
 The Spring Tennis Challenge Registration Form is designed to gather essential information from participants for the competitive tennis event.

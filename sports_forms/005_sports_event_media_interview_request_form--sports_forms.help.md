@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting media coverage for sports events. It is intended to gather information about the event, the players involved, and the media requirements. This form should be filled out by event organizers or representatives to request media coverage for their sports events. To ensure that this form is filled out correctly, please review the following sections carefully.
-
-This form is designed to be a one-page form, with multiple sections. It is not intended to be filled out by multiple users at the same time, so please only fill out one section at a time. If you are filling out this form for multiple events, please submit a new form for each event.
-</thinking>
-
 # Sports Event Media Interview Request Form - Help Guide
 ## Purpose
 This form is used for requesting media coverage for sports events.

@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is for the "Sports Equipment Usability Feedback Survey" form, which is designed to gather user feedback on the usability of sports equipment. The form is intended to elicit information on various aspects of the equipment, including overall usability, comfort, performance, price, ease of use, value for money, and improvement suggestions.
-
-The form is divided into several sections, each corresponding to a specific aspect of the equipment. Users are required to rate or provide feedback on each section, providing valuable insights for the development and improvement of the equipment.
-
-Before starting the form, please ensure that you have the necessary information and permissions to provide accurate and honest feedback.
-
-</thinking>
-
 # Sports Equipment Usability Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather user feedback on the usability of sports equipment. Your input will help us improve the equipment and provide better experiences for users like you.

@@ -1,32 +1,3 @@
-<thinking>
-Please note that I will be using the information provided in the YAML form to create a user-facing help guide for the "social-media-engagement-audit-form". This will be a comprehensive guide that covers the form's purpose, how to complete it, and explains each field in detail. I will also ensure that the guide is concrete, concise, and practical for end users. I will not invent any business logic that is not explicitly mentioned in the YAML.
-
-The form's purpose is to collect information about social media accounts, including their type, URL, and engagement metrics. The form is designed to be completed by social media account managers or administrators to provide a comprehensive audit of their social media presence.
-
-Before starting the form, please ensure that you have all the necessary information and permissions to complete it accurately. This form is a one-time submission and should not be resubmitted if the same information has already been collected.
-
-The guide will cover the following pages and fields:
-
-- **Form Header**: This page serves as an introduction to the form and provides a brief overview of its purpose.
-- **Social Media Accounts**: Select all social media accounts you manage.
-- **Account Type**: Choose the type of social media account you manage (Personal, Business, or Organization).
-- **Account URL**: Enter the URL of the social media account.
-- **Social Media Manager**: Choose whether the social media account is Self-Managed or Agency-Managed.
-- **Date Created**: Enter the date when the social media account was created (optional).
-- **Last Checked**: Enter the date when the social media account was last checked (optional).
-- **Total Followers**: Enter the total number of followers on the social media account.
-- **Account Age**: Enter the age of the social media account in years.
-- **Post Frequency**: Enter the frequency of posts on the social media account.
-- **Engagement Rate**: Enter the engagement rate of the social media account (e.g., likes, comments, shares).
-- **Total Posts**: Enter the total number of posts on the social media account.
-- **Total Engagements**: Enter the total number of engagements on the social media account (e.g., likes, comments, shares).
-- **Account Status**: Choose the status of the social media account (Active, Inactive, Suspended).
-- **Account Notes**: Provide any additional notes or comments about the social media account.
-
-Please note that some fields may be required or optional, depending on the selected options.
-
-</thinking>
-
 # social-media-engagement-audit-form - Help Guide
 ## Purpose
 The social-media-engagement-audit-form is designed to collect information about social media accounts, including their type, URL, and engagement metrics. This form is intended for social media account managers or administrators to provide a comprehensive audit of their social media presence.

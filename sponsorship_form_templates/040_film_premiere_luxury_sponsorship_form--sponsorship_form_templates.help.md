@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential sponsors for a luxury film premiere event. It is intended to capture details such as package names, contact information, and other relevant details. This form is a part of a larger system, so please make sure you are using the correct format and not duplicating efforts.
-
-When filling out this form, please make sure to fill in all required fields, and be accurate with your information. The form has been designed to be user-friendly, but if you're unsure about any field, you can always refer to this guide.
-
-Note that some fields are optional and can be left blank if not applicable. If you're unable to fill out a field, please make sure to provide a note in the "Note" field explaining the reason for it.
-
-</thinking>
-
 # film-premiere-luxury-sponsorship-form - Help Guide
 ## Purpose
 This form is designed to collect information from potential sponsors for a luxury film premiere event.

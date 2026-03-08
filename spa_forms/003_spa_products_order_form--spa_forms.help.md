@@ -1,11 +1,3 @@
-<thinking>
-
-We've designed this form to allow users to easily order spa products from a variety of suppliers. The form is designed to gather essential information about the products, customers, and the delivery details. It's essential to fill out this form correctly to ensure accurate and efficient processing of the order.
-
-This form is part of the "spa_products" category and has 14 fields that require user input. Please make sure to fill out all required fields to avoid errors. If you're unsure about a particular field, please refer to the field explanation below.
-
-</thinking>
-
 # spa-products-order-form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering spa products from various suppliers.

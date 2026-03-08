@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll analyze the form fields and provide a clear and concise explanation for each field.
-This form appears to be for signing up students for the "Halloween In The Halls 2015" event, likely for a school or educational institution. The form is asking for general information about the students, including their first and last name, contact information (phone number and email), date of birth, student ID, year, grade, student status, and parent name.
-</thinking>
-
 # Halloween In The Halls 2015 Candy Sign Up - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is designed to collect data from participants in a tennis tournament. The fields are divided into two main categories: personal information (name and email) and tournament details (name, date, and time). The form is designed to be simple and easy to fill out, with clear labels and hints for each field. The form does not include any fields that are not essential for the purpose of collecting tennis tournament data.
-</thinking>
-
 # Tennis Tournament Survey - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a tennis tournament. The goal is to gather data such as names, email addresses, tournament names, and other relevant details.

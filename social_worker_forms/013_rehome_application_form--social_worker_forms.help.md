@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to guide users through the application process for rehousing a pet. The purpose of this form is to collect information from users about their pet and living situation to help match them with a suitable adopter. The form is not a survey, but a tool for users to provide essential information about themselves and their pet. Please note that this form is for non-human users (pets), and the information collected will be used to facilitate rehousing. 
-
-If you are a pet owner who wishes to rehouse their pet, please ensure you understand the following before starting the application process: 
-- The rehousing process can take time, so be prepared to wait for a suitable adopter.
-- All fields on the form are required to ensure a thorough matching process.
-- Please be honest and accurate when filling out the form, as it will help us find the best possible match for your pet.
-- If you have any questions or concerns, please don't hesitate to contact us.
-</thinking>
-
 # Rehome Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from you and your pet to help us find a suitable home for your furry friend.

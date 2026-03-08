@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive registration form for users interested in joining the ski club. It is designed to collect essential contact information, emergency contact details, and other relevant personal data. The form will be used to verify the legitimacy of the user's registration data for internal purposes and ensure accurate representation of the club membership.
-</thinking>
-
 # ski_club_sign_up_form - Help Guide
 ## Purpose
 The ski_club_sign_up_form is a registration form designed for users who wish to join the ski club. This form gathers essential personal data, emergency contact information, and ski level preference to facilitate smooth and efficient registration process.

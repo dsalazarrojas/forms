@@ -1,7 +1,3 @@
-<thinking>
-This is a critical application form designed to capture essential information from potential candidates for various positions within the CSDOT organization. The form aims to gather comprehensive details about the candidate, including their personal and professional background, to evaluate their suitability for available roles. It's crucial to complete this form accurately and thoroughly to ensure a smooth application process. Before proceeding, please review the form carefully and ensure that you understand the purpose and requirements of each field.
-</thinking>
-
 # CSDOT Application Form - Help Guide
 ## Purpose
 The CSDOT Application Form is a comprehensive tool used to gather information from potential candidates for various positions within the CSDOT organization.

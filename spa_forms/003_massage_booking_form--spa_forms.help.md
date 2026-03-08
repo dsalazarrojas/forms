@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for clients to book massages with various therapists in different categories and durations. 
-</thinking>
-
 # Massage Booking Form - Help Guide
 ## Purpose
 This form is intended for clients to book massages with our spa. Please provide the required information to schedule a massage appointment.

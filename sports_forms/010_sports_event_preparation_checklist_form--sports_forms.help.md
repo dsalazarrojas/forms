@@ -1,8 +1,3 @@
-<thinking>
-This form is for collecting information from event staff before a sports event. The form is not affiliated with any particular platform and was created using public metadata as inspiration. This guide explains how to complete this form and what each field means.
-
-</thinking>
-
 # Sports Event Preparation Checklist Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from event staff before a sports event. Please complete this form to ensure that all necessary arrangements have been made and that the event runs smoothly.

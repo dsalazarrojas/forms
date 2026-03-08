@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about a player's game nomination, including player details, team and league information, and nomination details. The form will gather data that can be used to review and manage nominations within sports leagues. It's essential to fill in accurate information to ensure proper processing. Ensure that the player, team, and league information is accurate to avoid errors. Please check that the player is not already nominated for the same game. If you're unsure about any of the fields, refer to the field-by-field explanation below for guidance. </thinking>
-
 # Player Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information about a player's game nomination, including player details, team and league information, and nomination details.

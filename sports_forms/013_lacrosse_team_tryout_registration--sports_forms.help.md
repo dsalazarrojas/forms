@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lacrosse Team Tryout Registration - Help Guide
 
 ## Purpose

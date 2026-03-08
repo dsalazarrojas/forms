@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register for a team in the sports management system. It gathers information about the team's parent contact and the student(s) associated with the team. The form is not a mandatory requirement for team registration, and users can complete it at their convenience.
-</thinking>
-
 # Team Registration Form - Help Guide
 ## Purpose
 The Team Registration Form is a form used to register a team in the sports management system. It collects essential information about the team's parent contact and student(s) associated with the team.

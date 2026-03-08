@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beard Steam Facial Consent Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information from participants in social media training programs or courses. The purpose of this form is to collect demographic data from participants, their training needs, and specific requirements or objectives they have for the training. This will help trainers and instructors tailor their training sessions to meet the needs of their participants. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created by AI using public survey topic metadata and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it - just give credit. 
-
-If you're not sure what this form is for or how to complete it, please don't hesitate to reach out to form@gic.mx.
-
-</thinking>
-
 # Social Media Training Form - Help Guide
 ## Purpose
 This form is designed to collect participant information, training needs, and requirements for social media training programs or courses.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Product Innovation Appointment Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect personal and contact information from individuals visiting or using the Fitness Center, likely for liability or emergency purposes. It seems redundant and potentially unnecessary for most users as it duplicates several fields with minor variations in name or label. It's essential to review the form fields to ensure they are necessary and correctly configured for its intended purpose.
-
-</thinking>
-
 # Fitness Center Waiver - Help Guide
 ## Purpose
 This form is to collect personal and contact information from individuals visiting or using the Fitness Center for liability or emergency purposes.

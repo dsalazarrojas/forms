@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a fitness membership application. This form is intended for individuals, couples, or families who wish to join a fitness club or gym. The form is used to capture details such as membership period, terms and conditions acceptance, start and end dates, membership type, status, card number, and expiration date.
-
-To complete this form, ensure that you have all required information available. You will be selecting the membership period, status, card number, and card expiration date.
-
-Please note that some fields are not required (Membership Period, Accept Terms, Membership Type, etc.) and can be left blank if not applicable.</thinking>
-
 # Fitness Membership Card Application Form - Help Guide
 ## Purpose
 The Fitness Membership Card Application Form is used to collect information for a fitness membership application. This form is intended for individuals, couples, or families who wish to join a fitness club or gym.

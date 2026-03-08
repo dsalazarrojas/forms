@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help gather information from school administrators or staff about students who have reported domestic violence incidents. The form will help track the number of students victimized, the family dynamics involved, the perpetrator's identity and location, and any other relevant information.
-
-This form is likely to be used to monitor and track domestic violence incidents among students in a school setting, and the data collected will help identify patterns and trends that can inform prevention and support efforts.
-
-The following help guide assumes that the form will be completed by school staff members who are familiar with the school's policies and procedures regarding domestic violence.
-
-</thinking>
-
 # Domestic Violence Survey - Help Guide
 ## Purpose
 This form is used to gather information about students who have experienced domestic violence. The data collected will help the school administration track and monitor domestic violence incidents and provide support to students in need.

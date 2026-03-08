@@ -1,8 +1,3 @@
-<thinking>
-The Junior Lifesaver Of The Year Nomination Form is a tool that allows users to submit nominations for outstanding junior lifesavers. This form is used to recognize the achievements of young individuals who have demonstrated exceptional bravery and lifesaving skills in their communities. The purpose of this form is to provide a clear and efficient way for nominators to submit their nominations, ensuring that the nomination process is thorough and accurate. It is essential to review the form carefully to ensure that the nomination meets the required criteria and is not a duplicate submission. Please note that only one nomination per lifesaver can be submitted. 
-
-</thinking>
-
 # Junior Lifesaver Of The Year Nomination Form - Help Guide
 ## Purpose
 The Junior Lifesaver Of The Year Nomination Form is designed to recognize and celebrate the bravery and lifesaving skills of junior individuals who have made a significant impact in their communities.

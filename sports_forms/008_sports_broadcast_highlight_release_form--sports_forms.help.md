@@ -1,7 +1,3 @@
-<thinking>
-The Sports Broadcast Highlight Release Form is a document used to obtain consent and release rights from participants or organizations for the use of their media in sports broadcasts. This form is intended to be used by sports teams, event organizers, or media outlets to ensure that they have the necessary permissions to use media recordings of athletes, teams, or events. The form is designed to be completed by the participant or their representative, providing information about their name, contact details, and media request type.
-</thinking>
-
 # Sports Broadcast Highlight Release Form - Help Guide
 ## Purpose
 The Sports Broadcast Highlight Release Form is a document used to obtain consent and release rights from participants or organizations for the use of their media in sports broadcasts.

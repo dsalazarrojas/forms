@@ -1,12 +1,3 @@
-<thinking>
-
-To determine the best way to structure this user-facing help guide, let's consider the provided form YAML and its properties. 
-
-*   The form is called "Match Results Survey" and has 25 fields across 25 pages, indicating that the form is designed for users to input information about the results of a game or match, likely for sports-related activities.
-*   There's a mix of text, date, number, and select_one fields, suggesting that users will be inputting various types of data, including text descriptions, dates, numbers, and single-choice selections.
-
-</thinking>
-
 # Match Results Survey - Help Guide
 
 ## Purpose

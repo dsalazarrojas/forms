@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used by the management or staff of a sports club to generate leads for their Community Day event. The form is intended to gather information about individuals' interests and availability to participate in the event. This form will be used to determine whether to follow up with potential attendees via phone or email. This form is likely not intended for general public use, but rather for internal tracking and follow-up purposes.
-</thinking>
-
 # sports_club_community_day_lead_generation_form - Help Guide
 ## Purpose
 The sports club community day lead generation form is used to collect information about potential attendees' interests and availability to participate in the club's Community Day event. This form helps the club's management to determine who to follow up with via phone or email to invite them to attend the event.

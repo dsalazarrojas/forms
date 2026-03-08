@@ -1,12 +1,3 @@
-<thinking>
-NDIA Information Consent Form is designed to gather essential information from clients, ensuring that they understand and agree to the terms of their engagement with NDIA (National Disability Insurance Authority). This form aims to collect client details, emergency contact information, purpose of consultation, services provided, communication preferences, and consent for future interactions. The form is intended to be completed by the client, and the information gathered will be used to create a personalized plan for their support needs.
-
-Please note that the form is not intended to be used for any other purpose than as an example or template. The form's content and structure may need to be reviewed and modified to fit the specific needs and requirements of the organization or business using it.
-
-Before completing the form, please ensure you have the necessary permissions and consents from your clients.
-
-</thinking>
-
 # ndia_information_consent_form - Help Guide
 ## Purpose
 The NDIA Information Consent Form is designed to gather essential information from clients, ensuring that they understand and agree to the terms of their engagement with NDIA.

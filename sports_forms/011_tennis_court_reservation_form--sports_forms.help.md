@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to be used by tennis club staff to book and manage tennis court reservations. It is likely to be used in the following scenarios:
-
-- When a tennis club needs to check availability and schedule court bookings for members.
-- When a staff member needs to update or delete a reservation.
-- When a manager needs to analyze reservation patterns and trends.
-
-Given the lack of any indication otherwise, I'm assuming this form will be used to reserve a tennis court for a specific duration on a specific date and time.
-
-</thinking>
-
 # Tennis Court Reservation Form - Help Guide
 ## Purpose
 The Tennis Court Reservation Form is a tool for managing and booking tennis court reservations at a tennis club.

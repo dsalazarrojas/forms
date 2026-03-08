@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Developer End Of Day Check In - Help Guide
 ## Purpose
 

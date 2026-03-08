@@ -1,20 +1,3 @@
-<thinking>
-We've created this Social Media Strategy Checklist Form to guide businesses and individuals in developing a comprehensive social media strategy. This form is designed to be a straightforward and structured process to help you identify your goals, target audience, and key performance indicators (KPIs) for social media marketing.
-
-**Please note that this form is not a replacement for a thorough social media analysis or strategy session. It's meant to be a starting point for your social media strategy development.**
-
-Before filling out this form, take a moment to review the following:
-
-* You should have a good understanding of your social media goals and target audience.
-* You're familiar with your industry and competition.
-* You're ready to allocate sufficient time and resources for social media marketing efforts.
-
-If you've already completed a social media strategy analysis or have a well-established social media strategy, you may find this form unnecessary. However, if you're starting from scratch or need to update your strategy, this form will provide a solid foundation for your efforts.
-
-Please fill out this form carefully, and don't hesitate to adapt or add information as needed. Remember, this form is meant to be a dynamic tool to help you create a tailored social media strategy for your business or project.
-
-</thinking>
-
 # Social Media Strategy Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you develop a comprehensive social media strategy for your business or project. It's a structured process to guide you in identifying your goals, target audience, and key performance indicators (KPIs) for social media marketing.

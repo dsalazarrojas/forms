@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to process orders for race day medals, which are likely custom-made medals given to participants in a race. The form allows users to select the design of the medal, the quantity needed, and the shipping address. Additionally, it calculates the total cost based on the selected options, and allows users to select a payment method and enter the payment amount. This form is likely used by race organizers or administrators to place orders with a medal printing service.
-</thinking>
-
 # Race Day Medal Printing Order Form - Help Guide
 ## Purpose
 The Race Day Medal Printing Order Form is used to place orders for custom-made race day medals. It guides the user through the selection of medal design, quantity, shipping address, total cost calculation, shipping cost, payment method, and payment amount.

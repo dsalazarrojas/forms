@@ -1,11 +1,3 @@
-<thinking>
-This form template is designed to collect feedback from athletes participating in sports programs, focusing on the effectiveness and overall experience of the athlete within the program. This template aims to gather detailed insights on the athlete's satisfaction, perceptions of coaching, facilities, and equipment quality, as well as their preferences for additional services and their willingness to return to the program in the next season.
-
-This form is a result of public survey topic metadata analysis and is a completely original creation, not affiliated with any form platform or proprietary content extraction. It is released under the Creative Commons license 4.0, allowing for modification and even commercial use. Feel free to contact me at `form@gic.mx` for any collaboration or inquiries.
-
-The following is a comprehensive help guide for the athlete feedback form.
-</thinking>
-
 # Athlete Feedback Form Template - Help Guide
 ## Purpose
 This form template is designed to collect athlete feedback on their overall experience in the sports program.

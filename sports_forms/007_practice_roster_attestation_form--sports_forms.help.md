@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML, I understand that this form is designed for the "Practice Roster Attestation Form" in the "sports" category. The form appears to be for collecting information about practice rosters, including player details, practice names, and contact information. The fields seem to be focused on gathering data for player information, practice details, and contact information. The form is not affiliated with any specific form platform, and its release is under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to use, modify, and even sell forms derived from it while giving credit. The form seems to be a general template for collecting practice roster information, and I'll create a help guide based on this understanding.</thinking>
-
 # Practice Roster Attestation Form - Help Guide
 ## Purpose
 The Practice Roster Attestation Form is designed to collect information about practice rosters, including player details, practice names, and contact information.

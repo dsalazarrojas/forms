@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the progress of trainees in cellular sales. It is intended to capture feedback from trainers or evaluators on the trainees' communication skills, time management, skills set, attitude, work knowledge, overall performance, and any additional comments. This form is likely used by trainers or evaluators to assess trainees' performance during or after a training session, workshop, or coaching, and provide feedback for improvement. The form's purpose is not to evaluate trainees' technical skills, but rather their soft skills and behavioral aspects. This form should not be used to record numerical data or performance metrics.
-</thinking>
-
 # Trainee Progress Report Form Cellular Sales - Help Guide
 ## Purpose
 This form is used to collect feedback on trainees' progress in cellular sales, focusing on soft skills and behavioral aspects.

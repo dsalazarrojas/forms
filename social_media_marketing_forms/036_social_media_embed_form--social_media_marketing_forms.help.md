@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help you create a social media embed for a specific social media platform, URL, email, or phone number, with optional fields for username, description, category, tags, and timezone. It's used to capture relevant information about a social media profile and provide a way to categorize and filter the content. The form should not be used if the primary purpose is to send an email or a phone call, as other forms are more suitable for that.
-</thinking>
-
 # Social Media Embed Form - Help Guide
 ## Purpose
 The Social Media Embed Form is used to collect information about a social media profile, including the platform, URL, email, phone number, and other relevant details. This form helps you to create a social media embed that can be used to connect with customers, partners, or other stakeholders.

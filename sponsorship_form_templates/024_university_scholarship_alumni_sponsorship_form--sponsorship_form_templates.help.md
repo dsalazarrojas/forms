@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you complete the University Scholarship Alumni Sponsorship Form. Before starting, please review the form's purpose and ensure it's relevant to your needs. If you're a representative of a university or alumni organization looking to sponsor scholarships, this form is designed for you. Please note that this form is not for general donations or other types of support. If you're unsure about the form's purpose or have already submitted a similar request, please contact us to confirm its relevance and avoid duplication of efforts.
-</thinking>
-
 # university_scholarship_alumni_sponsorship_form - Help Guide
 ## Purpose
 The University Scholarship Alumni Sponsorship Form is designed for alumni or university representatives to provide financial support for scholarships to students. This form helps in collecting essential information required for sponsorship commitments.

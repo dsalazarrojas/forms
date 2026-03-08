@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect user feedback about their fitness experiences. We want to make sure that users understand what to provide as feedback and what each field is for. Please review each field carefully and ensure that you're providing accurate information. If you're unsure about any field, you can always ask for clarification. This guide is intended to be a quick reference, and you can always come back to review it if needed. Please note that some fields are required, while others are optional. Make sure to fill out all required fields to ensure your feedback is properly submitted.</thinking>
-
 # Fitness Feedback Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to assist the end-users in understanding the form's design intent, which is to gather information about the user. It's designed to be a generic form, so the field labels and instructions are kept minimal to accommodate various types of users and applications.
-
-To complete this form, the user is expected to fill in the provided fields with their information, which will be automatically generated based on the public survey topic metadata.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information from users in a simple and efficient manner. It's a generic form that can be used in various contexts, and the provided fields are meant to be completed by the user with their relevant information.

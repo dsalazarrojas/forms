@@ -1,9 +1,3 @@
-<thinking>
-This is a form used to collect information for race sponsorship applications. The form is intended to capture details about the sponsorship, including the sponsor's name, the amount and duration of the sponsorship, the event organizer's name, event details, and the type of sponsorship. This form is likely used by event organizers or race organizers to collect information from potential sponsors.
-To prevent duplication, ensure that you are not submitting the same sponsorship application twice.
-To prevent submission of incomplete or inaccurate information, carefully review the form before submission.
-</thinking>
-
 # Race Sponsorship Form Template - Help Guide
 ## Purpose
 The Race Sponsorship Form Template is used to collect information for race sponsorship applications.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the Personal Training Consultation Form. This form is used for users to consult with trainers for personal fitness goals. The form aims to collect information about the user, including their name, contact information, and training goals. This guide will walk users through each field's purpose and usage.
-</thinking>
-
 # Personal Training Consultation Form - Help Guide
 ## Purpose
 The Personal Training Consultation Form is designed to help trainers understand your personal fitness goals and preferences. Completing this form will help us provide you with tailored guidance and support to achieve your fitness objectives.

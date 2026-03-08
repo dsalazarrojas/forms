@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning: The Webinar Subscription Form is used to collect information from users who want to subscribe to our webinars. The form consists of five fields: Subscribe To Our Webinars, Name, Email, Phone, and Date. The Subscribe To Our Webinars field is a select multiple field that allows users to choose which webinars they are interested in. The Name and Email fields are text fields where users can enter their name and email address, respectively. The Phone field is a text field for users to enter their phone number. The Date field is a date field where users can select a date.
-
-To ensure that the form is completed correctly, the form should only be filled out by users who are actually interested in subscribing to the webinars. The form should not be filled out by users who are not interested in subscribing.
-
-The form should not be used to spam or abuse our system.</thinking>
-
 # Webinar Subscription Form - Help Guide
 ## Purpose
 The Webinar Subscription Form is used to collect information from users who want to subscribe to our webinars. To use this form, please make sure you are actually interested in subscribing to our webinars.

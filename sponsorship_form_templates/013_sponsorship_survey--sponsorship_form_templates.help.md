@@ -1,7 +1,3 @@
-<thinking>
-We'll assume that this form is part of a larger sponsorship management system, and its purpose is to collect general information about a sponsor (or sponsor's organization) for sponsorship purposes. It's likely that the form will be used by sponsors or their representatives to provide details about their organization and contact information for potential collaborations or partnerships. The form likely exists to centralize and streamline the sponsorship process for the organization that hosts it. We'll check if this form meets the requirements of the existing process and if it doesn't duplicate any other forms.
-</thinking>
-
 # Sponsorship Survey - Help Guide
 ## Purpose
 The Sponsorship Survey form is used to collect general information about sponsors (or their organizations) for sponsorship purposes. This form is intended for sponsors or their representatives to provide details about their organization and contact information for potential collaborations or partnerships.

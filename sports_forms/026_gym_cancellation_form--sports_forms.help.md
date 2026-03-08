@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to capture information for gym cancellations. The purpose of this form is to gather relevant details from gym members who wish to cancel their membership. To fill this form, the member would need to submit the form within a specific period before the membership starts or ends. This form should not be used for other purposes, such as membership upgrades or membership changes, but only for cancellations.</thinking>
-
 # Gym Cancellation Form - Help Guide
 ## Purpose
 The Gym Cancellation Form is designed to capture information from gym members who want to cancel their membership. It is essential that gym staff understand that this form is for cancellations only and not for other membership-related purposes.

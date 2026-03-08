@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of patronage, which can be interpreted as a polite or respectful request for support or favor. It is intended to gather details about the user's preferences and constraints, such as their name, email address, and preferred date and time of patronage. The form also asks about their availability and preferences for specific options, including time zones, date ranges, and text input options. This form is likely used by an organization or entity seeking support or favor from users. 
-To avoid duplication, this form should be submitted only once, and the user should ensure their answers are accurate and complete.
-</thinking>
-
 # Patronage Request Form - Help Guide
 ## Purpose
 The Patronage Request Form is designed to collect necessary information from users to facilitate a polite and respectful request for support or favor.

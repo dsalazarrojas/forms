@@ -1,27 +1,3 @@
-<thinking>
-This form is intended to collect information from wrestling club members and their parents/guardians to ensure their safety and well-being during the club activities. The form is designed to gather essential details such as medical conditions, emergency contacts, and waiver acknowledgement.
-
-The form has 25 fields, but most of them are optional. The required fields are:
-
-* Parents' name
-* Parents' email
-* Parents' phone number
-* Coach's name
-* Coach's phone number
-* Coach's email
-* Coach's license number
-
-Please note that some fields are duplicates, such as "emergency_name" and "emergency_contact_name", but they serve different purposes. "Emergency_name" is intended for recording the name of the person designated as the emergency contact, while "emergency_contact" is for recording the contact information for the emergency contact.
-
-To complete this form, start by providing the necessary contact information for the parents or guardian, including their name, email, and phone number. Next, provide the emergency contact information, including the name and contact details of the person authorized to contact in case of an emergency.
-
-Then, list any medical conditions that the member may have, and provide details about the condition. The member's date of birth, age, and grade completed should also be provided. The medical authorization field is for recording any medical authorization or documentation that may be required.
-
-Finally, the form requires a signature from the parent/guardian, the emergency contact, and the coach. The waiver section is intended to acknowledge that the member has read and understood the waiver terms.
-
-Please ensure that all required fields are completed accurately and thoroughly. The form is intended to be completed by the parent/guardian, but it may be necessary for the coach or emergency contact to provide additional information or sign where necessary.
-</thinking>
-
 # Wrestling Club Covid 19 Liability Waiver - Help Guide
 ## Purpose
 The purpose of this form is to collect information from wrestling club members and their parents/guardians to ensure their safety and well-being during club activities.

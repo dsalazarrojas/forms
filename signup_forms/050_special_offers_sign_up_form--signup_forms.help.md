@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to offer them special promotions and offers. This form asks for basic contact information (first name, last name, and email) and optional fields for phone number, special offer preferences, and subscription to newsletters. To prevent duplication, we will check if the email address is already registered in our system before processing the form submission.
-</thinking>
-
 # Special Offers Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to provide them with special offers and promotions. Please fill in the required fields to register for our special offers.

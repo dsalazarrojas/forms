@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users request coverage on social media platforms for specific events, campaigns, or projects. It collects user information, media requests, and other relevant details that can be used to provide targeted coverage. Before filling out this form, please check that you have not already submitted a request for this event/campaign and that it is a legitimate use case for this form.
-
-</thinking>
-
 # Social Media Coverage Request Form - Help Guide
 ## Purpose
 The Social Media Coverage Request Form is a tool for requesting targeted coverage on social media platforms. Use this form to submit your request and our team will review it to provide you with the best coverage options.

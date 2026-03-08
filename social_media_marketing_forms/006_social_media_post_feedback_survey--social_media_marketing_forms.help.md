@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect feedback on social media posts, gathering information about the user's experience, preferences, and demographics. It's intended to help understand how users engage with social media and what types of content are most appealing to them. Ensure that you complete this form if you've recently seen or interacted with a social media post. Duplicate responses are not encouraged. Please be honest and comprehensive in your answers.
-</thinking>
-
 # Social Media Post Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Food Insecurity Questionnaire", we need to understand the purpose and structure of the form. The form is designed to collect information about a household's food security status. The questionnaire will help identify the number of members in the household, their type, income range, food security level, and any programs or services they have received to address food insecurity.
-
-This form does not duplicate any other form, as it is a unique assessment tool for social workers to gather information about household food security.
-
-Given the form structure, it is clear that it will be used for assessment and data collection purposes. The form consists of multiple pages, with each page containing a specific set of questions related to different aspects of food security.
-
-</thinking>
 # Food Insecurity Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a household's food security status, helping social workers assess and identify areas of need.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from clients to create a customized fitness program that meets their specific needs. The form will help us understand their preferences, medical conditions, and emergency contact information. 
-This form will only be used internally by our fitness program and not shared with external parties, so we do not collect redundant information such as personal identification numbers or financial information.
-The fields are structured in a way to guide the user to provide clear and concise information.
-</thinking>
-
 # Fitness Program Selection Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for users to order team equipment bags. The form will be used in conjunction with other forms to track and manage team equipment. To avoid duplication of effort, please ensure that you only use this form when you are certain that the equipment bag you are ordering is not already on hand.
-
-The form purpose is to collect user input, select the type and size of the equipment bag, the desired date and time for pickup, and other contact information for the team.
-
-This form will be reviewed and processed internally to ensure accurate fulfillment of equipment bag orders.
-</thinking>
-
 # Team Equipment Bag Tag Order Form - Help Guide
 
 ## Purpose

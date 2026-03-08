@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wing Walk Participation Survey - Help Guide
 ## Purpose
 The Wing Walk Participation Survey is designed to gather feedback and information from participants of wing walks, a type of adventure activity. This survey aims to collect data on the participant's experience, ratings, and suggestions for future improvements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from participants in a sports league. The primary purpose of the form is to gather contact information, relationship details, and consent for the collection and processing of participant data. The form is intended for use by sports leagues to collect necessary data from participants and their emergency contacts. The form is designed to be easy to understand and complete, with clear and concise instructions for end-users. 
-</thinking>
-
 # sports league data collection consent form - Help Guide
 
 ## Purpose

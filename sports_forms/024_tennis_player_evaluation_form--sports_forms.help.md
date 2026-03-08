@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate a tennis player's performance, manners, and overall qualities. This form is intended for coaches, administrators, or other authorized personnel to assess a player's progress, strengths, and areas for improvement.
-It is essential to ensure that the player being evaluated is the correct one, and that the evaluation is not a duplicate. Please verify the player's ID or username before proceeding.
-This form consists of the following fields:
-* Player Performance: A numerical assessment of the player's current performance level (e.g., 1-10).
-* Overall Performance: A numerical assessment of the player's overall performance (e.g., 1-10).
-* Player Manners: A numerical assessment of the player's sportsmanship and behavior (e.g., 1-10).
-* Tennis Skills: A selection of skills relevant to tennis, such as Forehand Shot, Backhand Shot, etc.
-* Player Rating: A numerical assessment of the player's rating.
-* Overall Rating: A numerical assessment of the player's overall rating.
-* Player Comments: A note field for any comments on the player's performance or behavior.
-* Coach Comments: A note field for the coach's comments on the player's progress.
-</thinking>
-
 # tennis_player_evaluation_form - Help Guide
 ## Purpose
 The tennis player evaluation form is used to assess a tennis player's performance, manners, and overall qualities.

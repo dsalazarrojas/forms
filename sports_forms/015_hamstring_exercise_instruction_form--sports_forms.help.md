@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hamstring Exercise Instruction Form - Help Guide
 ## Purpose
 This form is used to record instructions for hamstring exercises conducted by coaches for participants. The form collects information about the participant, the exercise performed, and the details of the workout.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the quality of a given codebase. It helps in evaluating the code from various aspects, including its readability, structure, security, scalability, and overall quality. The form is meant to be a comprehensive evaluation tool for code reviews, providing a structured and standardized way to assess codebases. By completing this form, reviewers can provide a detailed analysis and recommendation on the code, including areas of improvement and strengths.
-</thinking>
-
 # Base Code Assessment Form - Help Guide
 ## Purpose
 The Base Code Assessment Form is a comprehensive evaluation tool for code reviews. It assesses the code from various aspects, including its readability, structure, security, scalability, and overall quality.

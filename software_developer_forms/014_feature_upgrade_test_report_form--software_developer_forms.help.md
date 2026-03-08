@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to collect information about feature upgrade tests, which are crucial for assessing the performance and reliability of a software feature after an upgrade. This form is designed to gather data on various aspects of the test, including the test outcome, upgrade issues encountered, test version, test environment, test date and time, test result, and upgrade status. This form is intended to help teams track and analyze test results, making it easier to identify areas that require improvement. Before starting, ensure that you are filling this form for a specific test, and that you are not duplicating efforts by filling out multiple forms for the same test.
-
-The fields in this form are designed to capture specific details that are crucial for understanding the test outcome and its impact on the software. The form is divided into different sections to make it easier for users to focus on one aspect of the test at a time.
-
-Below is the explanation of each field in the form. Please fill out the form carefully, and make sure to answer all required fields. If you are unsure about any field, you can leave a note to clarify your answer.</thinking>
-
 # Feature Upgrade Test Report Form - Help Guide
 ## Purpose
 ## How To Complete This Form

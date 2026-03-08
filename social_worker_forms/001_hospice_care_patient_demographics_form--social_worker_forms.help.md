@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for gathering patient demographics information for hospice care services. It is likely intended for use in a clinical setting, such as a hospice care facility or healthcare organization. This form is not intended to be used for emergency or urgent situations, and is best filled out by authorized healthcare professionals. The fields are designed to capture essential information about the patient, including their name, contact information, medical condition, and care level. Please ensure that the form is completed accurately and thoroughly to provide the best possible care for the patient.
-
-</thinking>
-
 # Hospice Care Patient Demographics Form - Help Guide
 ## Purpose
 The Hospice Care Patient Demographics Form is a tool for collecting essential information about patients receiving hospice care.

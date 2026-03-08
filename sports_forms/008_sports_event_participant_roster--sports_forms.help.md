@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a sports event participant. The form is used to record participant details, including name, email, phone number, date of birth, country, relationship to the event (e.g., team player, staff, or spectator), and other relevant event information such as event name, start date and time, type, location, and description. The form is likely used for event management, participant tracking, and communication purposes.
-
-The form has several required fields, including participant name, email, phone number, date of birth, country, relationship, event name, start date and time, event type, and participant submitter. These fields ensure that the participant data is comprehensive and accurate.
-
-Before proceeding, please review the form carefully to ensure you are completing it for the intended purpose and to avoid duplication of effort.
-
-</thinking>
-
 # sports-event-participant-roster - Help Guide
 ## Purpose
 This form is used to collect information about a sports event participant.

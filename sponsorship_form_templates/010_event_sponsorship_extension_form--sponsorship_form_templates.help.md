@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Sponsorship Extension Form - Help Guide
 ## Purpose
 The Event Sponsorship Extension Form is designed to simplify the process of collecting information from potential sponsors, making it easier for event organizers to secure sponsorships and funding. This form is used to collect details about the event, such as its title, category, and description, which will be used to tailor sponsorships to the event's specific needs.

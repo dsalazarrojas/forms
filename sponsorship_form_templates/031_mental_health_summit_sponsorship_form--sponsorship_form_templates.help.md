@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect sponsorship information for the mental health summit. It is intended for companies or individuals wishing to sponsor the event. Please note that this form should only be filled out once per sponsor. 
-This form will help us understand your level of commitment, event preferences, and contact information to ensure successful event execution and communication. If you have already filled out this form, please do not submit again.
-This form is designed to be filled out once by each sponsor. Please submit this form only for your own organization's sponsorship opportunity. 
-</thinking>
-
 # mental_health_summit_sponsorship_form - Help Guide
 ## Purpose
 The mental health summit sponsorship form is designed to collect sponsorship information from companies or individuals wishing to sponsor the event. This form should only be filled out once per sponsor, and any duplicate submissions will be disregarded.

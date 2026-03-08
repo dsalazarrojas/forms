@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture information from potential beta testers for a startup app. The form will help the development team to gauge interest in the app, gather feedback, and collect necessary information about the testers. The form will be sent to the development team, and the responses will help inform future development decisions. To ensure that we have accurate and complete information, please fill in each field correctly and thoroughly. If you have filled out this form previously, please do not submit your information again, as we may not be able to process duplicate submissions.
-</thinking>
-
 # Startup App Beta Tester Signup Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential beta testers about their interest in our startup app. By filling out this form, you will be helping us to better understand our target audience and improve the app for future releases.

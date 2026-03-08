@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to join a running club membership. The form should be completed by providing the necessary details. Please ensure that the email address is correct and the phone number is in the format of international dialing (e.g., +123-456-7890).
-</thinking>
-
 # runningClubMembershipForm - Help Guide
 ## Purpose
 This form is used to collect membership information from potential members of a running club. It helps the club's administration to verify the member's identity and contact details.

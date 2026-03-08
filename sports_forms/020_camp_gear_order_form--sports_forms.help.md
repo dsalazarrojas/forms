@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a camp gear order. The purpose of the form is to collect details from the requester, organization, and other relevant information for the order to be placed successfully. The form is intended for camp staff or administrators to fill out on behalf of the requester. The form is likely used in a school or camp setting where equipment and gear are ordered for use by staff or participants.
-</thinking>
-
 # Camp Gear Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a camp gear order. The form is completed by the requester or on their behalf by a staff member.

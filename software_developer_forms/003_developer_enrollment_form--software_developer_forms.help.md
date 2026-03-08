@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from software developers about their enrollment in a program. It captures personal details, program preferences, and consent to terms of use. This form will likely be used by program administrators to track and manage enrolled developers.
-The form consists of two pages: "Enrollment Form" which captures basic information and "Agreement" which confirms that the developer has read and agreed to the terms of use.
-Please note that the form is currently not set up to be required for all fields.
-</thinking>
-
 # Developer Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information from software developers about their enrollment in a program.

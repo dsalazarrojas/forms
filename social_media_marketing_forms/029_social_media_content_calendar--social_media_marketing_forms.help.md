@@ -1,13 +1,3 @@
-<thinking>
-To create a social media content calendar, we need to gather information about the content we plan to publish on our social media channels. This form is used by social media team members to ensure that everyone is on the same page and can collaborate on content creation and publication. The purpose of this form is to collect and organize content details such as type, date, description, and links. Each field in the form is meant to provide essential information about the content, making it easier for team members to review and prepare for publication.
-
-This form appears to be designed to cover a wide range of content types, including text, image, video, and external links. However, it's likely that the "external" fields are intended to be used for tracking external content, such as blog posts or articles from other platforms.
-
-To confirm, the form will be used for planning and organization purposes, and team members will be using it to review and prepare content for publication.
-
-Please review the form and ensure that you understand each field's purpose and intention. If you have any questions or concerns, please reach out to your team lead.
-</thinking>
-
 # social_media_content_calendar - Help Guide
 ## Purpose
 This form is used by the social media team to collect and organize content details for publication on social media channels.

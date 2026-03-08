@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to register individuals as referees for sports events. The purpose of the form is to collect relevant information about the referee's contact details, skills, and experience in various sports. This information is used to verify their identity and ensure they are eligible to officiate games. The form is designed to be simple and user-friendly, with clear labels and instructions to guide the user through the registration process.
-</thinking>
-
 # Referee Registration Form - Help Guide
 ## Purpose
 The Referee Registration Form is designed to collect information about individuals who wish to register as referees for sports events. This form helps us verify their identity and ensure they are eligible to officiate games.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_pos_system_beta_registration_form - Help Guide
 ## Purpose
 The retail_pos_system_beta_registration_form is designed for retail stores interested in testing the beta version of the Point of Sale (POS) system. By filling out this form, you will be providing essential information about your business that will help us tailor the system to your store's needs and ensure a smooth transition to the beta phase.

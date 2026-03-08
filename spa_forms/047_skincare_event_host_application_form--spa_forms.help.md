@@ -1,27 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Skincare Event Host Application Form". Before we begin, let's review the form fields:
-
-*   host_details: A brief description of the event host details.
-*   host_name: The name of the event host.
-*   host_email: The email of the event host.
-*   host_phone: The phone number of the event host.
-*   event_details: A note field for event details.
-*   event_date: The date of the event.
-*   event_time: The time of the event.
-*   venue_details: A description of the event location.
-*   event_location: A multiple-select option for event location.
-*   event_duration: The duration of the event.
-*   event_setup: A select-one option for event setup.
-*   event_setup_other: A text field for specifying other event setup options.
-*   host_notes: A note field for event host notes.
-*   host_requirements: A text field for event host requirements.
-*   host_requirements_list: A list of event host requirements.
-*   event_agreement: A select-one option for event agreement.
-
-The form appears to be used for hosting events, likely in a skincare setting. The purpose of the form is for event hosts to submit their application with required information.
-
-We should ensure the form is filled out correctly and accurately, following the guidelines below.</thinking>
-
 # Skincare Event Host Application Form - Help Guide
 
 ## Purpose

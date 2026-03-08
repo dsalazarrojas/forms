@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to sign up as a mentor for a program or initiative. The form is used to collect information about the mentor, including their name, contact details, and role. The form will help the administrators to verify the identity and credentials of the mentors and ensure that they are suitable for the program. Please note that all fields are optional and the user is free to fill out as much or as little information as they want. However, please ensure that if you are signing up as a coach, you should have experience in the field. Also, please do not fill out duplicate or incomplete information as it might lead to issues with your sign up process.
-</thinking>
-
 # Mentor Sign Up Form - Help Guide
 ## Purpose
 This form is designed to allow users to sign up as a mentor for a program or initiative.

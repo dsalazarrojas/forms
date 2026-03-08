@@ -1,9 +1,3 @@
-<thinking>
-The form "Kindergarten Graduation Information Form" is designed to collect data from kindergarten students about their graduation. This form is typically used to document a student's progress and achievements at the end of the kindergarten year. This form should only be filled out by kindergarten students, not by other types of students or individuals. Please make sure to complete the form carefully and accurately, as it will be used to record important information about your kindergarten experience. 
-
-If you have already completed a similar form in the past, you may not need to complete this form again. However, if you are unsure or have any questions, please contact [form@gic.mx](mailto:form@gic.mx) for assistance.
-</thinking>
-
 # Kindergarten Graduation Information Form - Help Guide
 ## Purpose
 The Kindergarten Graduation Information Form is designed to gather information about your kindergarten experience. This form will help us document your progress and achievements and provide a record of your time in kindergarten.

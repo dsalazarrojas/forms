@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a tool for users to share their personal stories and experiences with the organization's services. The form is designed to collect user feedback and insights that can help the organization improve its services.
-Before proceeding, please ensure you have a valid reason for submitting this form. This form should not be used for duplicate submissions or spam purposes. If you have already submitted this form or have similar experiences, please do not submit again.
-</thinking>
-
 # responsive_share_your_story_form - Help Guide
 ## Purpose
 This form is designed for users to share their personal stories and experiences with our services. Your feedback and insights will help us improve and provide better services for you and others.

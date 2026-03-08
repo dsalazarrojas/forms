@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect software evaluation feedback from users. It is intended to be a comprehensive assessment of a software product or service. 
-The form is likely part of a larger evaluation or rating system, and its purpose is to gather information on various aspects of the software.
-It is worth noting that some fields are not required, which might be due to the fact that the form is being used for optional or supplementary purposes.
-</thinking>
-
 # Software Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect software evaluation feedback from users. It is intended to be a comprehensive assessment of a software product or service.

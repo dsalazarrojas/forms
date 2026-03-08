@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information from hospice agencies, which are organizations that provide end-of-life care to individuals who are terminally ill. The form is used to gather data on the agency's information, services, and certifications. The agency will be able to input information such as their contact details, services offered, funding sources, and certification status. This information is likely to be used for quality control, auditing, or research purposes.
-
-Please make sure to fill out the form accurately and completely to ensure that the agency is represented correctly. If you have any questions or concerns, please contact us at form@gic.mx.
-
-</thinking>
-
 # Hospice Agency Questionnaire Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from hospice agencies, which provides end-of-life care to individuals who are terminally ill.

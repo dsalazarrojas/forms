@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll help create a user-friendly guide for the "Eco Friendly Supplier Recognition Application Form". This form is designed to collect information from suppliers that wish to be recognized for their eco-friendly practices. The form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata. It's released under CC BY 4.0 and can be used, modified, or even sold with proper credit. Please note that the form has several fields that may seem redundant, but this is to ensure a comprehensive understanding of the supplier's profile and practices. Now, let's dive into the help guide for users!</thinking>
-
 # Eco Friendly Supplier Recognition Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from suppliers that wish to be recognized for their eco-friendly practices. Please fill in this form with accurate and up-to-date information to demonstrate your company's commitment to sustainability.

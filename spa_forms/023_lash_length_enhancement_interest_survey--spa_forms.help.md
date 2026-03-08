@@ -1,13 +1,3 @@
-<thinking>
-The goal of this form is to gather information about a person's interest in lash length enhancement services. The form is designed to be completed by individuals who are interested in learning more about lash length enhancement services or by beauty professionals who wish to offer their expertise in this area. The form will ask questions that help the user identify their interest in lash length enhancements, their preferences for specific services, and their contact information.
-
-This form is a one-time request for information, and the user can choose to submit it to themselves or to a beauty professional. The form will ask for a submission date and time, but these fields are not required for self-submission.
-
-The form has several fields that require completion: "what_is_a_lash", "what_are_you_interested_in", "what_do_you_prefer", "contact", "contact_email", "date", "time", "lash_length_enhancement_interest_survey_terms_and_conditions", and "submitted_to". The fields "submitted_by", "submitted_for", and "submitted_at" are not required for self-submission.
-
-To complete this form, follow the steps below.
-</thinking>
-
 # lash_length_enhancement_interest_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a person's interest in lash length enhancement services.

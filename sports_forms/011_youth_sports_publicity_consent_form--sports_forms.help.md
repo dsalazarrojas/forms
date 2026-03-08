@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide that effectively communicates the purpose and functionality of the "Youth Sports Publicity Consent Form". I will carefully review the provided YAML fields and provide clear explanations for each field, ensuring that end-users understand the form's purpose and how to complete it.</thinking>
-
 # Youth Sports Publicity Consent Form - Help Guide
 ## Purpose
 The Youth Sports Publicity Consent Form is a document that allows parents or guardians to provide consent for their child's image and likeness to be used in publicity and promotional materials. This form ensures that the child's identity and image are not used without their parent's or guardian's permission.

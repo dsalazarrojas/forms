@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect data from mothers on various aspects of their lives, such as their age, occupation, education, income, family dynamics, and access to online resources. The form aims to gather information on their relationships, stress levels, access to online banking, and other relevant details. Each field is designed to be filled in by the respondents in a way that allows them to share their true experiences and feelings about their lives as mothers.
-Please note that the form's purpose and content may overlap with existing forms, but this guide will clarify the specific focus and requirements of this form.
-It is essential to fill out the form accurately and completely to ensure that the information provided is reliable and useful for the intended analysis.
-</thinking>
-
 # Mom Survey - Help Guide
 ## Purpose
 The Mom Survey is designed to collect data from mothers on various aspects of their lives, including their age, occupation, education, income, family dynamics, and access to online resources. By filling out this form, you will be helping us understand the experiences and challenges faced by mothers like you.

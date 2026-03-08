@@ -1,18 +1,3 @@
-<thinking>
-We're checking for relevance and non-duplication of this form. This form is intended for participants to register for tryouts with a cheer team, providing essential information about themselves, their experience, and medical considerations. The form ensures that participants understand their commitment to the team's code of conduct, medical release, and liability waiver. We'll review this form to ensure that all required fields are properly explained for users. 
-
-The form fields include:
-
-* Participant's personal information (name, contact details)
-* Medical and health-related information (date of birth, age, medical conditions, medications)
-* Team-specific information (school name, grade level)
-* Tryout-related information (tryout date, years of cheer experience)
-* Skill-related information (tumbling skills, stunting skills, jump skills)
-* Registration and fee-related information (registration fee payment status)
-* Additional comments and feedback
-
-</thinking>
-
 # Cheer Tryout Registration Form - Help Guide
 ## Purpose
 The Cheer Tryout Registration Form is designed for participants to register for tryouts with a cheer team. It gathers essential information about the participant's personal details, medical history, cheer experience, and skills. This form ensures that participants understand their commitment to the team's code of conduct, medical release, and liability waiver.

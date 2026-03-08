@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the spectator facilities available during a tournament, ensuring that event organizers and organizers can better understand what amenities are available for spectators, which can help improve the overall spectator experience. The form will help to gather data on the availability of basic facilities such as food and drinks, merchandise, parking, and security, as well as any additional services or amenities offered. This data can be used to make informed decisions for future events.
-This form is only meant to collect information about the spectator facilities, it is not to be used for other purposes such as booking tickets or accessing event schedules. Please make sure that you have the right permissions to access this information.
-</thinking>
-
 # Tournament Spectator Facilities Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the spectator facilities available during a tournament, ensuring that event organizers and organizers can better understand what amenities are available for spectators, which can help improve the overall spectator experience.

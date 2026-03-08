@@ -1,17 +1,3 @@
-<thinking>
-This help guide will be designed to explain the purpose and usage of the Hockey Equipment Checklist form. The form is intended to help teams and individuals keep track of the necessary equipment required for hockey players, with a focus on specific roles such as goaltenders and defense players.
-
-Upon reviewing the provided YAML, the form appears to be redundant in some areas, such as the multiple "Player Position" fields. However, the form's overall structure seems to be focused on collecting detailed information about team composition, player positions, and required equipment. The form is likely used for team management, planning, or administrative purposes.
-
-To avoid duplication and ensure clarity, the following sections will be combined or rephrased for consistency:
-
-* Player Position fields will be merged into a single section to reduce redundancy.
-* Goalie Equipment and Goalie Mask fields will be combined into a single section to avoid confusion.
-* Additional Equipment Types will be removed as it seems redundant with Hockey Equipment List.
-* Defense Position field will be merged into the combined Goalie Equipment section.
-
-</thinking>
-
 # Hockey Equipment Checklist - Help Guide
 ## Purpose
 The Hockey Equipment Checklist is a tool for teams to keep track of the necessary equipment for their players, including specific roles such as goaltenders and defense players.

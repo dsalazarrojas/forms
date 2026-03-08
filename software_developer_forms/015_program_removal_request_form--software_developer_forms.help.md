@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for a program removal request from the user. This form is used to remove a program that the user no longer wants or needs. To ensure accuracy and to prevent duplication of efforts, please only use this form if:
-* You are certain that the program is no longer needed by the user or organization.
-* You are not aware of any other requests for this program being processed or completed.
-* You have not filled this form in the past 30 days.
-</thinking>
-
 # Program Removal Request Form - Help Guide
 ## Purpose
 The **Program Removal Request Form** is used to request removal of a program from a user's account. This form is used to document the user's request and provide a clear understanding of their reason for requesting the removal.

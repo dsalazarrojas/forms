@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Haircare Consultation Improvement Survey - Help Guide
 ## Purpose
 This form, "Haircare Consultation Improvement Survey," is used to gather feedback from clients on their recent haircare consultation experience. The purpose of this form is to identify areas of improvement and to ensure that our haircare services meet our clients' needs and expectations.

@@ -1,9 +1,3 @@
-<thinking>
-Please note that the form's primary purpose is to collect information from individuals or groups that are interested in obtaining sponsorship for gaming-related activities. This form is designed to be used by those who wish to be sponsored by our organization for their gaming endeavors. The form will ask for personal and gaming-related information to assess eligibility for sponsorship.
-To prevent duplication of efforts, we encourage users to fill out the form only once for each sponsorship application.
-Please make sure to fill out the form completely and accurately to ensure that your application is considered for sponsorship.
-</thinking>
-
 # Gaming Sponsorship Application Form - Help Guide
 ## Purpose
 The Gaming Sponsorship Application Form is a tool used to gather information from individuals or groups interested in obtaining sponsorship for gaming-related activities from our organization. This form helps us to assess your eligibility and understand your gaming background, objectives, and requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Special Education Training Registration Form - Help Guide
 ## Purpose
 The Special Education Training Registration Form is a registration form used to collect information from trainees for special education training programs. This form is typically used to register for special needs training, regular training, or other types of training. The form is designed to be completed by trainees to provide the necessary information for registration.

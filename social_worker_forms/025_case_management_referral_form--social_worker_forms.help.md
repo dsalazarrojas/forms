@@ -1,7 +1,3 @@
-<thinking>
-This form is used by social workers to gather information about an individual who needs case management services. The purpose of this form is to collect demographic data about the individual, their referral information, and their current situation. The form is intended to help social workers assess the individual's needs and create a plan for their care. It is not intended for public use and is restricted to authorized users only. Please refer to the organization's policies and procedures for more information on who is authorized to access and use this form.
-</thinking>
-
 # Case Management Referral Form - Help Guide
 ## Purpose
 The Case Management Referral Form is used by social workers to collect information about an individual who needs case management services. The form helps social workers assess the individual's needs and create a plan for their care.

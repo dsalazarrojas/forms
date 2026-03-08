@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a hair spa to obtain consent from clients before providing them with services such as masks, hair treatments, and chemical treatments. The form asks for the client's name, contact information, consent date, pre-service screening, signature, service details, and service agreement. This form is intended for businesses or individuals in the hair spa industry and is meant to be a template for obtaining necessary consent from clients. Please note that this form has been created using AI and is an original adaptation, not affiliated with or derived from any form platform.
-</thinking>
-
 # Hair Spa Protein Mask Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from clients before providing hair spa services such as masks, hair treatments, and chemical treatments. It helps the spa to understand the client's needs, medical conditions, and allergies, ensuring a safe and effective service experience.

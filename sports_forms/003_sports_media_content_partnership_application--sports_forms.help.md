@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for media content partners to submit their partnership proposals to the sports media platform. The form is meant to collect detailed information about the proposal, contact details, agreement terms, and other relevant details. The purpose of this form is to streamline the submission process and gather necessary information for review and decision-making. This form does not duplicate any existing forms on other platforms, and its design is original and inspired by public survey topic metadata. It is released under a Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to use, modify, and even sell adapted forms, as long as they give credit to the original creator.
-</thinking>
-
 # Sports Media Content Partnership Application - Help Guide
 ## Purpose
 This form is for media content partners to submit their partnership proposals to the sports media platform. The goal is to collect all necessary information for review and decision-making.

@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information from swimmers on their experiences with swim wear. The questions cover various aspects of swim wear, including favorite colors, satisfaction levels, and specific features of swim wear. The form is intended for internal use, likely for market research or user feedback purposes. It is not intended for external publication or public use.
-
-Please ensure that this form is not used for any other purpose or shared with unauthorized parties. This form should only be completed by swimmers who are part of the intended target audience and have given their consent to participate.
-
-</thinking>
-
 # Swim Wear Survey - Help Guide
 ## Purpose
 This form collects information from swimmers on their experiences with swim wear. Please answer the questions honestly to help us better understand your needs and preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Rhythmic Gymnastics Ribbon Quiz - Help Guide**
 
 ## Purpose

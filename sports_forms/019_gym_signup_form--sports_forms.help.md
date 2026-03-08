@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Signup Form - Help Guide
 ## Purpose
 The Gym Signup Form is a simple, one-page form designed to collect basic information from users who want to sign up for a gym membership. This form includes fields for personal and emergency contact information, as well as details about the member's gym plan and membership duration.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in filling out the Community Sports Project Funding Application form, ensuring they understand each field's purpose and requirements. This form is crucial for applicants seeking funding for their sports-related projects, and it's essential to complete it accurately to increase the chances of approval. This help guide will cover the form's purpose, how to complete it, and provide field-by-field explanations to help users understand the requirements.
-
-The form is used to gather information about an applicant's project, including contact details, project details, and financial information. It's necessary to ensure that the form is filled out completely and accurately to avoid any misunderstandings or rejections.
-</thinking>
-
 # Community Sports Project Funding Application - Help Guide
 ## Purpose
 The Community Sports Project Funding Application form is designed to collect information about your community sports project, its goals, budget, and sustainability. This form helps us understand your project's details, ensuring that we can make informed decisions about funding.

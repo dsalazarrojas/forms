@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Netball Finals Venue Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their overall experience at the Netball Finals event. Your feedback is crucial in helping us improve future events and create a better experience for everyone. Please take a few minutes to complete this survey and provide your honest feedback.

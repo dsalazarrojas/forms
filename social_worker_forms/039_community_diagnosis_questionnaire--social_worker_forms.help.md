@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Diagnosis Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to collect information about the community you work with, including your role within the community, major challenges faced by the community, vulnerable groups that require support, service gaps that exist, existing strengths within the community, and priority actions recommended to address these challenges. This information will help in understanding the needs and potential areas of improvement in the community.

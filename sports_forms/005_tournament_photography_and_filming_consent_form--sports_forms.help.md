@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to fill out the "Tournament Photography and Filming Consent Form". This form is used to obtain consent for media coverage during a sports tournament, such as photography or filming. Before proceeding, ensure you have reviewed the form carefully and understand each field's purpose.
-
-It is crucial to note that this form is not applicable to participants under 18 years old, as parent/guardian consent is required.
-
-This guide will walk you through the necessary steps to complete the form accurately and efficiently.
-
-The form consists of 9 fields, each designed for a specific purpose. Please read each section carefully for an accurate completion of the form.
-
-</thinking>
-
 # Tournament Photography and Filming Consent Form - Help Guide
 
 ## Purpose

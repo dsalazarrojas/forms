@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for diver registration, a crucial process for ensuring that divers are properly documented and up-to-date in our database. This form serves as a centralized platform for collecting vital information from divers, including their contact details, emergency contacts, and diving certification history. This information is essential for ensuring the diver's safety and facilitating communication in case of emergencies. 
-
-By filling out this form, divers can ensure that their records are accurate and complete, which is vital for our organization to provide the best possible service.
-
-To prevent duplication of records, we encourage divers to check their existing record before registering.
-
-</thinking>
-
 # Diver Registration Form - Help Guide
 ## Purpose
 The Diver Registration Form is a crucial tool for collecting and maintaining accurate information about divers. It ensures that divers' records are up-to-date and complete, which is essential for providing the best possible service.

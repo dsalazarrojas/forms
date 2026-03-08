@@ -1,9 +1,3 @@
-<thinking>
-# This form is intended to collect information about a person's wardrobe. It is used to gather data that will be used to create a virtual wardrobe, a tool that helps users find and purchase clothes that match their style.
-The form is divided into multiple pages, each with its own set of questions.
-To ensure that the form is completed correctly, please follow the instructions below.
-</thinking>
-
 # Wardrobe Form - Help Guide
 ## Purpose
 The Wardrobe Form is a tool that helps users find and purchase clothes that match their style.

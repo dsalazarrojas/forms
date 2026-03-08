@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential sponsors for a brand event. The purpose of this form is to collect contact information and sponsorship preferences from interested parties. To ensure that your submission is processed correctly, please make sure to fill out the form completely and accurately. If you have already submitted a similar form, please do not resubmit. 
-
-</thinking>
-
 # Brand Event Sponsorship Contact Form - Help Guide
 ## Purpose
 This form is used to gather information from potential sponsors for a brand event. It collects their contact details and sponsorship preferences.

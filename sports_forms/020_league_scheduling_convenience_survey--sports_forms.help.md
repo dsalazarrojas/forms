@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a League Scheduling Convenience Survey used to collect information from users about their availability and preferences for league scheduling. The purpose of this form is to gather user input for scheduling purposes, and it is intended to be used by users who are interested in participating in a league or team activity. It is expected that this form will only be completed by users who are actual users of the league or team, and not by external parties who may attempt to submit information without a legitimate reason for doing so. The survey is intended to be a one-time submission, and users should not be required to submit it multiple times.
 
 </thinking>

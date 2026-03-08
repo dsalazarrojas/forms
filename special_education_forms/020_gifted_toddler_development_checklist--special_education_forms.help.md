@@ -1,10 +1,3 @@
-<thinking>
-To be honest, the purpose of this form is somewhat unclear, and it seems like it's a generic template for collecting information about a gifted toddler. I'll assume that this form is meant to assess a toddler's development, gifted status, and other relevant factors. It might be used by educators, therapists, or caregivers to evaluate a child's abilities, identify potential risks and support needs, and set educational goals. However, I won't be able to confirm this without further information about the intended use case.
-
-Before proceeding, I'd like to ask if this form is meant for a specific program or initiative, and what kind of decisions it's supposed to inform. Is it for identifying gifted students for special education programs, or for tracking developmental progress in early childhood education?
-
-Please clarify the purpose, and I'll proceed to create a user-facing help guide.</thinking>
-
 # Gifted Toddler Development Checklist - Help Guide
 ## Purpose
 The Gifted Toddler Development Checklist is a form designed to assess a toddler's development, gifted status, and other relevant factors. It's meant to help educators, therapists, or caregivers evaluate a child's abilities, identify potential risks and support needs, and set educational goals.

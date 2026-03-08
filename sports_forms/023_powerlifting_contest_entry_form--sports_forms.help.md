@@ -1,9 +1,3 @@
-<thinking>
-  The purpose of this form is to collect information from athletes who wish to participate in a powerlifting contest. The form is designed to gather relevant details about the athlete, such as their name, age, weight, and contact information. The fields are kept minimal to ensure ease of completion, and the required fields are kept to a minimum to prevent unnecessary burden on the athlete. However, it's worth noting that the current configuration of the form does not include any required fields, which may not be ideal for ensuring the accuracy and completeness of the information collected. 
-  In the future, it would be beneficial to revisit the form design and add more required fields or implement validation mechanisms to ensure the collected data meets the necessary criteria for the powerlifting contest. 
-  For now, the focus will be on providing a clear and concise help guide to assist athletes in completing the form accurately.
-</thinking>
-
 # Powerlifting Contest Entry Form - Help Guide
 
 ## Purpose

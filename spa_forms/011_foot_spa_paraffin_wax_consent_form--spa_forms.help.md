@@ -1,7 +1,3 @@
-<thinking>
-To confirm that I've correctly understood the task: You want me to create a user-facing help guide for the "Foot Spa Paraffin Wax Consent Form". The purpose of this form is to gather information from clients who are about to undergo a paraffin wax treatment at a foot spa. The form likely asks for basic client details, health information, and a signed consent for the treatment. This form might be used by spas to ensure clients are aware of the treatment and its potential risks, and to obtain their consent before proceeding.
-</thinking>
-
 # Foot Spa Paraffin Wax Consent Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients before undergoing a paraffin wax treatment at our foot spa. It helps us understand your health status, obtain your consent, and ensure a safe and comfortable experience.

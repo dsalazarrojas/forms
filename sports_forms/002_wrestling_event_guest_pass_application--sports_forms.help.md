@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for guests to register their attendance at a wrestling event, providing their first name, last name, email, affiliation, role (coach, athlete, official, or other), attend start and end dates, and acknowledgments to rules and regulations. The form is designed to capture relevant information to ensure a smooth and safe experience for all attendees.
-
-The purpose of this form is to gather essential information from guests attending a wrestling event. The form will help event organizers verify the identity and affiliation of guests, ensure they are aware of the event rules, and facilitate entry and exit procedures.
-
-Before filling out this form, please review the rules and regulations carefully and confirm your understanding by acknowledging them.
-
-</thinking>
-
 # Wrestling Event Guest Pass Application - Help Guide
 
 ## Purpose

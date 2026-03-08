@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for event sponsorships, which is a crucial part of event organization and management. This form ensures that the required data is collected accurately and efficiently. To prevent errors, it's essential to fill out the form carefully. Please note that this form is meant for event organizers to provide details about their events and sponsorships. If you're an event organizer, kindly fill out this form with the correct information to create a smooth and organized sponsorship process. If you've already submitted an event sponsorship application, please do not resubmit. Duplicate submissions can cause unnecessary delays and confusion.
-</thinking>
-
 # event_sponsorship_authorization_form - Help Guide
 ## Purpose
 This form is designed to collect essential information about event sponsorships, allowing event organizers to provide accurate and complete data for sponsors and other stakeholders.

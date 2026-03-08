@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to assess an individual's physical skills, specifically their strength, endurance, agility, and speed. The form is used to gather information on the participant's physical abilities and provide a snapshot of their current physical condition. This form is intended to be used by individuals who engage in physical activities, such as athletes, fitness enthusiasts, or anyone looking to evaluate their physical fitness. The form is not intended to be used for medical purposes or as a substitute for professional medical advice. It is recommended that participants complete the form honestly and accurately to ensure reliable results. 
-</thinking>
-
-# Physical Skills Assessment Form - Help Guide
+> # Physical Skills Assessment Form - Help Guide
 
 ## Purpose
 This form is designed to assess an individual's physical skills, specifically their strength, endurance, agility, and speed. It is intended to provide a snapshot of the participant's current physical condition.

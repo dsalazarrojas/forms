@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marathon Registration Form - Help Guide
 ## Purpose
 This form is intended to collect registration information for a marathon event. Fill out the form with your details to participate in the marathon.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture user registration information for sports teams. It is used to collect personal and sports-specific details from users. This form should only be completed once per user, as each registration captures unique information for each user. Please ensure that you have not previously registered or updated your information before attempting to complete this form.
-</thinking>
-
 # sports_registration_form - Help Guide
 ## Purpose
 The sports_registration_form is a user registration form for capturing personal and sports-specific information for sports teams. It is used to collect information from users who wish to register for sports activities.

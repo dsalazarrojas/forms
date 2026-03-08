@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information for IT service tickets, which is a crucial tool for tracking and managing technical issues or requests within an organization. The purpose of this form is to gather relevant details about the issue, assign it to the right personnel, and track progress towards resolution. To ensure accuracy and efficiency in filling out this form, it's essential to follow the guidelines and instructions below.</thinking>
-
 # IT Service Ticket Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the Golf Practice Session Log is to track and record details of a golfer's practice sessions. This form is intended to capture relevant information on the date of the practice session, the session type, focus areas, self-assessment, coach and golfer comments, session length, and other important details. This form aims to facilitate a structured and organized way of documenting and reviewing progress.
-
-The form will likely be used by golf instructors or coaches to track and review practice sessions with their students.
-
-To avoid duplication of effort, it's recommended to only fill out the form for each new practice session, and not to reuse previous sessions.
-
-</thinking>
-
 # Golf Practice Session Log - Help Guide
 ## Purpose
 The Golf Practice Session Log is a tool for golf instructors or coaches to track and review practice sessions with their students. It helps to capture essential details such as practice dates, session types, focus areas, self-assessment, coach and golfer comments, session length, and other relevant information.

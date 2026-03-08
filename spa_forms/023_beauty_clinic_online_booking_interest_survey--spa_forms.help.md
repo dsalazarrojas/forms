@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients of a beauty clinic to gauge their interest in online booking and gather feedback on what features they would like to see in an online platform. The goal is to understand the client's preferences and concerns regarding online booking, which will help the clinic tailor its services to better meet their clients' needs. This form should be completed by all clients who are interested in booking services online.
-</thinking>
-
 # Beauty Clinic Online Booking Interest Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from clients about their interest in online booking and feedback on what features they would like to see in an online platform.

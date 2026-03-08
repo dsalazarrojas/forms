@@ -1,7 +1,3 @@
-<thinking>
-This form is a basic subscribe form for capturing user's name and email address. It does not have a specific industry or category, as it's an AI-generated form. The purpose of this form is to collect user's name and email address for subscription purposes. It's not affiliated with any form platform, and it's an original adaptation of a publicly available form structure. 
-</thinking>
-
 # Mini Subscribe Form - Help Guide
 ## Purpose
 The Mini Subscribe Form is a simple form designed to collect user's name and email address for subscription purposes.

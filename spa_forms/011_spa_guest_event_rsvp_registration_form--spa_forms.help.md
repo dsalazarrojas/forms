@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register guests for events, allowing them to RSVP and provide essential information such as their name, date of birth, and contact details. This form helps event organizers collect and track RSVPs and related information efficiently. Before proceeding, ensure that you haven't already registered for this event or filled out this form before. If you're unsure, you can always check your previous registrations or contact the event organizer for clarification.
-</thinking>
-
 # spa_guest_event_rsvp_registration_form - Help Guide
 ## Purpose
 This form is designed to collect RSVPs and registration information from guests for events.

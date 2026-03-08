@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from the league player, such as their name, date of birth, emergency contact information, medical conditions, and player consent. It is designed to ensure that the player's information is up-to-date and accurate, and that they have given their consent for emergency contacts and medical conditions. The form is also used to collect additional information that may be relevant to the player's well-being and safety. The purpose of this form is to provide a comprehensive and secure way to store and manage player information.
-
-</thinking>
-
 # League Player Profile Consent Form - Help Guide
 ## Purpose
 The League Player Profile Consent Form is used to collect information from the player and their emergency contacts, including their consent for emergency contacts and medical conditions.

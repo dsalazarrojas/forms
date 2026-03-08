@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about sports fixtures, specifically the home and away teams, score, date, and score time of a match. This form is likely used by sports organizations or teams to manage and record match details. 
-
-The form has four fields: Home and Away, Score, Date, and Score Time. These fields are intended to provide relevant information about the match.
-
-To avoid duplication and ensure accurate data entry, it is essential to understand the correct usage of each field. 
-
-</thinking>
-
 # vwinesfixtures - Help Guide
 ## Purpose
 The "vwinesfixtures" form is designed to collect information about sports fixtures, specifically the home and away teams, score, date, and score time of a match.

@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a user-friendly and comprehensive onboarding appointment form for a spa brand. The primary purpose of this form is to help spa brands streamline their onboarding process with potential new clients or partners. This form aims to collect essential information for a smooth and efficient onboarding experience. To avoid duplication and ensure a seamless onboarding process, please make sure to complete the form only once for each new client or partner.
-</thinking>
-
 # Spa Brand Onboarding Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential new clients or partners for a spa brand's onboarding process. It will help the spa brand to better understand the client's needs and provide a personalized onboarding experience.

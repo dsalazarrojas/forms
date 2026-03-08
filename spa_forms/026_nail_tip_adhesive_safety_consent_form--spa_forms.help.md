@@ -1,12 +1,3 @@
-<thinking>
-The "Nail Tip Adhesive Safety Consent Form" is a crucial document that ensures individuals have provided their consent for nail technicians to perform a specific treatment or procedure related to nail care. This form helps to establish a legal agreement between the client and the nail technician, ensuring that both parties are aware of the potential risks and benefits associated with the treatment. It's essential to complete this form before commencing any nail-related treatment, as it serves as proof of consent and helps to prevent any potential disputes.
-
-Before filling out this form, please ensure that you have read and understood the provided information, and that you are aware of the implications of providing your consent.
-
-Please note that this form is a sample and might need to be adapted according to your specific business needs and regulations. If you're unsure about any field or requirement, please consult with your supervisor or a relevant authority.
-
-</thinking>
-
 # Nail Tip Adhesive Safety Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is used for users to register themselves and their team for a summer competition. It captures necessary information about the competition, events, and user details. The form is designed to be easy to fill out and provides guidance where needed. Please verify that this form is not being used for multiple events at once and that the user is aware of the terms and conditions of the competition.
-</thinking>
-
 # Summer Competition Entry Form - Help Guide
 ## Purpose
 This form is used to register users and their teams for a summer competition. It collects necessary information about the competition, events, and user details.

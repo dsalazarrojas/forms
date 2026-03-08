@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report the details of a sports event, allowing officials to provide information on the event they are involved in, such as the event details, officer's involvement, and other relevant information. This form is intended to collect data in a structured and standardized way to facilitate reporting and analysis. Before completing the form, please ensure that you are reporting a new event or updating an existing one. If you're unsure or have already submitted a report for the same event, please do not resubmit the form.
-</thinking>
-
 # Sports Event Officials Report - Help Guide
 
 ## Purpose

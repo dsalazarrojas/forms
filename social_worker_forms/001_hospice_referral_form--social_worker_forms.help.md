@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information for a hospice referral, which is typically used by social workers to refer patients to hospice services. This form helps to ensure that all necessary information is collected and communicated effectively between the social worker and the hospice team. The form is typically used when a social worker identifies a patient who may benefit from hospice services and wants to refer them to the hospice program.
-</thinking>
-
 # Hospice Referral Form - Help Guide
 ## Purpose
 The Hospice Referral Form is used by social workers to refer patients to hospice services.

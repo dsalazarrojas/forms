@@ -1,7 +1,3 @@
-<thinking>...</thinking>
-
-<thinking>The purpose of this form is to document a rescue mission where rescue services were called in response to a person in need. This form helps gather information about the location of the person in need, whether rescue services responded, and any notes or contact information related to the situation.</thinking>
-
 # rescue_home_visit_form - Help Guide
 ## Purpose
 The "rescue_home_visit_form" is designed to provide a standardized format for documenting rescue missions where services were called in response to a person in need. It is used by social workers to report on the status of rescue services and gather information for future reference.

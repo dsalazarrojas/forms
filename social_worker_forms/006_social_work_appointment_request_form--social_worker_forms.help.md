@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to request an appointment for social work services. The purpose of this form is to gather information about the client's needs and preferences for social work services. This information will be used to schedule an appointment that meets the client's needs. 
 
 Before completing this form, please make sure that you are requesting an appointment for yourself or on behalf of someone else and that you have not already submitted a request for the same service.

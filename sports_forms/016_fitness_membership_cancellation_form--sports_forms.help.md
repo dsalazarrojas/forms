@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to cancel their membership, which can be a crucial step for them to take if they are no longer interested in or committed to the membership. Before filling out this form, please ensure that you have not already submitted a cancellation request or are not currently in a trial period. To confirm this, check your membership status and history in the system. If you are unsure, please contact your membership administrator or customer support for assistance.
-</thinking>
-
 # fitness_membership_cancellation_form - Help Guide
 ## Purpose
 The Fitness Membership Cancellation Form is used to cancel a user's membership. This form helps users provide a clear reason for cancellation and ensures a smooth exit process.

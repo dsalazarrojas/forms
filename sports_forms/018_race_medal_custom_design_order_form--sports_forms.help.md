@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to gather information for custom medal orders for events. The form will be used to collect details about the event, medal specifications, artwork, and contact information. The form will ask for the following information:
-- Event details: event date and time
-- Medal specifications: medal type, material, size, shape, design type, ribbon color, ribbon size, and ribbon shape
-- Artwork: artwork design type, color, size, and shape
-- Contact information: email and phone number
-This form is intended for customers to order custom medals for their events. The fields will help to understand what type of medal is needed, what details need to be included in the medal design, and who the customer is.
-</thinking>
-
 # Race Medal Custom Design Order Form - Help Guide
 
 ## Purpose

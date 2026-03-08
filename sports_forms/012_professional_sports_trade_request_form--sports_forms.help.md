@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to facilitate requests for sports trades between teams. It is crucial that teams accurately and thoroughly fill out this form to ensure that their trade requests are handled efficiently. Please ensure that this form is filled out only for legitimate and active trades. Repeatedly submitting this form with the same trade details may lead to unnecessary and redundant work. Please be aware that this form is not intended to be used for speculative or testing purposes.
-
-</thinking>
-
 # Professional Sports Trade Request Form - Help Guide
 ## Purpose
 The Professional Sports Trade Request Form is designed to gather information about trade requests between teams. It helps teams to communicate their trade interests and details efficiently, ensuring that all parties involved are on the same page.

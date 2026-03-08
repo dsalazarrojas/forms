@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from football players for fitness and training activities. It seems that the purpose of this form is to get feedback from users, especially those who might be using fitness equipment or training tools. To avoid duplication, I'll make sure to check if a user has already filled out a similar form before asking them to fill out this one.
-</thinking>
-
 # Fitness Football Activity Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from football players about their fitness and training activities. It is intended to gather data that will help identify potential issues or areas for improvement in the fitness programs being offered.

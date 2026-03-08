@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure the form is used correctly and consistently. To prevent errors, please check that you have filled in all required fields. Duplicate submissions are not allowed and will be discarded. Also, please ensure that you have carefully reviewed the Sponsorship Terms before making a decision.
-</thinking>
-
 # Debate Tournament Sponsorship Form - Help Guide
 
 ## Purpose

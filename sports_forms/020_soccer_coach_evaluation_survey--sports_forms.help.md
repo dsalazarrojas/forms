@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soccer Coach Evaluation Survey - Help Guide
 ## Purpose
 The Soccer Coach Evaluation Survey is a tool designed to help evaluate your coach's performance, communication style, and overall effectiveness. This survey is intended to gather feedback from players to provide valuable insights to coaches to improve their coaching techniques, communication, and team environment.

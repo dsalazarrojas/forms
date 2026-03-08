@@ -1,5 +1,3 @@
-<thinking>... (Please note that the purpose of this form is to gather information for the Special Needs Education Training Admission process, to ensure that all necessary requirements are met and to streamline the admission process for students with special needs. This form is not intended to be a comprehensive evaluation of a student's needs, but rather a starting point for further assessment and support. The form is designed to be completed by the student or their representative, and is not a substitute for the assessment and evaluation process conducted by trained professionals. If you are unsure about the purpose or requirements of this form, please contact the relevant authorities for clarification.) ...</thinking>
-
 # Special Needs Education Training Admission Form - Help Guide
 ## Purpose
 This form is used to collect information for the Special Needs Education Training Admission process. It helps the admission team to gather necessary details about the student, their category, special needs, and other relevant information to streamline the admission process.

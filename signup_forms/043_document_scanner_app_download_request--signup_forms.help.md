@@ -1,37 +1,3 @@
-<thinking>
-To ensure that we are providing the most accurate guidance, I'll assume that the form is intended to gather information about customers who want to download a document scanner app. The purpose of this form is to collect essential details from the customer, such as their name, email, operating system, country, role, download type, department, team, manager, team size, location, company name, email domain, URL, app version, app name, operating system version, download URL, notes, and signature. This form is likely used for customer support or account management purposes. To avoid duplicates, we will only process the form once per customer.
-
-Please note that the form is not intended to be a general contact form, as some fields are required and others are not. We will only use this form to collect specific information for our document scanner app.
-
-Let's review the form fields to ensure we are accurately representing their purpose and requirements.
-
-The form includes fields for:
-
-*   **Name**: The customer's name.
-*   **Email**: The customer's email address.
-*   **Version**: The version of the app the customer is interested in downloading.
-*   **Operating System**: The operating system the customer is using.
-*   **Country**: The customer's country of origin.
-*   **Role**: The customer's role, likely their job title or position.
-*   **Download Type**: The type of download the customer is requesting, personal or business.
-*   **Department**: Not explicitly required, this field is likely for internal organization purposes.
-*   **Team**: Similar to department, not explicitly required.
-*   **Manager**: Not explicitly required, this field might be used for internal contact purposes.
-*   **Team Size**: The size of the customer's team.
-*   **Location**: The customer's location.
-*   **Company Name**: The customer's company name.
-*   **Email Domain**: The customer's email domain.
-*   **URL**: Not explicitly required, this field might be used for additional information or verification purposes.
-*   **App Version**: The version of the app the customer is interested in downloading.
-*   **App Name**: The name of the app.
-*   **Operating System Version**: The version of the operating system the customer is using.
-*   **Download URL**: Not explicitly required, this field might be used for direct download links or verification purposes.
-*   **Notes**: Additional comments or information about the customer's request.
-*   **Signature**: A signature or confirmation from the customer that they have filled out the form accurately.
-
-Given this analysis, the form seems to be designed for customers who are interested in downloading the document scanner app for specific purposes.
-</thinking>
-
 # Document Scanner App Download Request - Help Guide
 ## Purpose
 This form is intended for customers to provide essential details about their app download request. We will use this information to ensure we provide the best possible support and guidance for your needs.

@@ -1,16 +1,4 @@
-# <thinking>
-
-This form is designed to collect information for a Torso Twist exercise assessment, which is likely a medical or physical assessment related to the torso or spine. This form is used to gather relevant details from users, including personal and medical information. The purpose of this form is to understand the user's physical condition, medical history, and emergency contact details.
-
-To ensure the form is being used correctly, please note that:
-
-* This form is intended for individuals who are undergoing a Torso Twist exercise assessment.
-* Please answer all questions accurately and honestly.
-* If you are unsure about any question, please consult with a medical professional before continuing.
-
-</thinking>
-
-# Torso Twist Exercise Assessment - Help Guide
+# # Torso Twist Exercise Assessment - Help Guide
 ## Purpose
 This form is designed to collect information for a Torso Twist exercise assessment, which is likely a medical or physical assessment related to the torso or spine.
 

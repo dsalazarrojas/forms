@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on their experience with social media platforms. The survey aims to gather information on user habits, satisfaction, and perceptions of social media. It will help to identify areas of improvement and potential issues that users face while interacting with social media. To ensure the accuracy of the feedback, please note that each user's response will be treated as a separate instance of the survey.
-
-Before proceeding, please ensure that you have not already taken this survey. If you have any doubts or concerns, feel free to contact us at form@gic.mx.
-</thinking>
-
 # social_media_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect user feedback on their social media experience, including their habits, satisfaction, and perceptions.

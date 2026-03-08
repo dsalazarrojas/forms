@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # League Participation Monitoring Form - Help Guide
 
 ## Purpose

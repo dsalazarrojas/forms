@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Speed And Endurance Qualifier Registration - Help Guide
 ## Purpose
 The Speed And Endurance Qualifier Registration form is designed to collect information about an athlete's qualifications for speed and endurance events. This form helps to gather essential details about the athlete's performance, event category, and any necessary emergency contact information.

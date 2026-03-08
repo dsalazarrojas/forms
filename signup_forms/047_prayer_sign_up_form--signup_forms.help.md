@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for prayer signups, likely for a prayer request process.
-The internal logic assumes that the form is not intended for multiple submissions, 
-so there's no unique identifier or timestamp. It's also unclear what 
-the "Assigned Tool" field is meant to accomplish. This guide 
-will help guide the user through the form completion process.
-</thinking>
 # Prayer Sign Up Form - Help Guide
 ## Purpose
 The Prayer Sign Up Form is a data collection tool used for users to provide information 

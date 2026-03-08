@@ -1,8 +1,3 @@
-<thinking>
-The Athletic Questionnaire Recruitment Form is a form designed to collect information from potential recruits for athletic programs. This form will be used to gather personal and athletic information from individuals who are interested in joining a team or program. Before filling out this form, please ensure that you have read and understood the instructions carefully to avoid any potential issues. Please note that the form is divided into several sections, and each section is explained below.
-
-</thinking>
-
 # Athletic Questionnaire Recruitment Form - Help Guide
 ## Purpose
 The Athletic Questionnaire Recruitment Form is a comprehensive tool used to collect personal and athletic information from potential recruits for various sports programs. This form will help us get to know you better and assess your fit for our programs.

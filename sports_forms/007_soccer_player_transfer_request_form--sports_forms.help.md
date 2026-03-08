@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Soccer Player Transfer Request Form - Help Guide
 ## Purpose
 This form is intended to be used by soccer clubs to request transfer of players from one club to another. It's a crucial part of the transfer process, which requires accurate and clear information to facilitate a smooth transaction.

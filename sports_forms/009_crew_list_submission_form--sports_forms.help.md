@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block explains the form purpose and checks for relevance and non-duplication.
-This form is used to collect information from the crew members for administrative and reporting purposes. The goal is to ensure that the submission process is completed accurately and efficiently.
-</thinking>
-
 # crew_list_submission_form - Help Guide
 ## Purpose
 This form is designed to gather data from crew members regarding their status, position, and other relevant details. The information collected will be used to update the crew list and facilitate administrative tasks.

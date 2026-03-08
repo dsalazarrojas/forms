@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is to register players for a flag football league, and that the form is only filled out once per player. This form is intended for team managers to register their team members and provide payment information. To prevent duplication, we should check if a player is already registered before allowing them to be re-submitted. We also need to verify that each team manager's email address is unique and not already associated with another team manager.
-
-After checking for relevance and non-duplication, the form can be processed and submitted for further review.
-</thinking>
-
 # Flag Football League Registration Form - Help Guide
 ## Purpose
 This form is designed to register players for the Flag Football League. Please fill out the required fields to complete the registration process.

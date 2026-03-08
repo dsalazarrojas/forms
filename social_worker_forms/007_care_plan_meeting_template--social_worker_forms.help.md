@@ -1,11 +1,3 @@
-<thinking>
-This form is a comprehensive template designed to guide care plan meetings between healthcare professionals and patients. The Care Plan Meeting Template is intended to ensure that all necessary information is collected during these meetings, promoting effective care coordination and patient outcomes. 
-
-It is crucial to note that this form is not affiliated with, endorsed by, or derived from any specific form platform. The AI-generated form is an original adaptation of public survey topic metadata. 
-
-Before filling out this form, verify that the patient's information and medical history are up-to-date. This form is not a substitute for medical consultation or advice. 
-
-</thinking>
 # Care Plan Meeting Template - Help Guide
 ## Purpose
 This form is designed to facilitate care planning meetings between healthcare professionals and patients. It collects essential information for coordinated care, treatment, and support.

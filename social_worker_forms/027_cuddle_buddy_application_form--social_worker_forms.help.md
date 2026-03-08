@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect information from individuals who want to become a "Cuddle Buddy", a peer-to-peer support system for social workers. It's intended to be a simple and easy-to-use form to gather necessary information from potential Cuddle Buddies. Before proceeding, make sure you understand the context and purpose of this form, and that it aligns with your organization's policies and guidelines.
-</thinking>
-
 # Cuddle Buddy Application Form - Help Guide
 ## Purpose
 The Cuddle Buddy Application Form is designed to help social workers find and connect with potential Cuddle Buddies. The form collects necessary information about the applicant, their cuddle request, contact information, and review form.

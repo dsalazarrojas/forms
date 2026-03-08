@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow sports club members to cast their votes for the Most Valuable Player (MVP) in a sports club competition. The form is designed to collect information about the teams being considered for the MVP award, including ratings and votes from club members.
-
-</thinking>
-
 # Sports Club MVP Voting Form - Help Guide
 ## Purpose
 The Sports Club MVP Voting Form is a tool used to collect votes from club members to determine the Most Valuable Player in the sports club competition.

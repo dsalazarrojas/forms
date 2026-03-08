@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for an online fitness transformation challenge. The form is intended for individuals interested in participating in the challenge, which is likely a physical activity or sports event. The form collects demographic information, medical conditions, personal preferences, and contact details. It is essential to complete this form carefully and honestly to ensure a successful and safe experience.
-</thinking>
-
 # Online Fitness Transformation Challenge Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding the purpose and usage of the Marathon Bib Number Printing Order Form. This form is used to collect specific information from participants or customers for the printing of their marathon bib numbers. The form's purpose is to gather event details, participant information, and shipping preferences. It is essential to fill out this form accurately to ensure correct bib number printing and delivery.
 
 # Marathon Bib Number Printing Order Form - Help Guide

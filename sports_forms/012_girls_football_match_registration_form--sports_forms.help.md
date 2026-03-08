@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from female football players and their respective teams and coaches for a sports match. The fields are intended to gather basic player and team details such as name, age, position, and contact information, as well as match specifics like date and time. The form is likely used to register players for a girls' football match, allowing organizers to gather necessary information for the event.
-
-To ensure accurate registration and minimize errors, please make sure to fill in the form completely and correctly. The fields with "required: true" are essential and must be filled in for the form to be considered complete.
-</thinking>
-
 # Girls Football Match Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from female football players and their teams for a girls' football match.

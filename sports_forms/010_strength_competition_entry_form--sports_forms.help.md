@@ -1,33 +1,3 @@
-<thinking>
-This form appears to be for athletes to register their strength competition entry information. It's likely used to gather data for a strength competition event, such as the squat, deadlift, bench press, and overhead press. The form includes fields for the athlete's first and last name, email, phone number, birthdate, competition name, weight class, division, category, equipment used, coach's name, coach's phone number, coach's email, competition date, finish place, total weight lifted, squat weight, deadlift weight, bench weight, overhead press weight, overhead pull weight, barbell squat weight, barbell deadlift weight, barbell bench weight, and barbell overhead press weight. This form may be used by athletes to provide their details to the competition organizers or officials.
-
-The form's purpose is to gather accurate and detailed information about each athlete's performance and experience. It's possible that this form is used for official rankings, results tracking, or even for insurance purposes.
-
-It's worth noting that some fields might be redundant or have similar information, but this can be due to variations in data collection methods or specific requirements from different competition organizers or rulesets.
-
-To ensure accuracy and consistency, it's recommended to review the competition rules and regulations before filling out this form. This form appears to be designed for a specific competition or event.
-
-Before filling out this form, athletes or their representatives should review the following fields carefully:
-	- Ensure the first and last name are correctly spelled.
-	- Verify the email address is valid and up to date.
-	- Confirm the phone number is correct and reachable.
-	- Double-check the birthdate to ensure it's accurate.
-	- Make sure to select the correct weight class and division.
-	- Clearly indicate whether equipment was used or not.
-	- Enter the competition date accurately.
-	- Report the finish place correctly.
-	- Record the total weight lifted accurately.
-	- Enter the weights for squat, deadlift, bench press, and overhead press correctly.
-	- Report the weights for barbell squat, deadlift, bench press, and overhead press accurately.
-
-The following fields have specific requirements:
-	- The competition name is optional but might be required in some cases.
-	- The coach's name, phone number, and email are only required if the athlete is not competing alone.
-	- The competition date might be automatically set or required for official purposes.
-	- Some weights might have specific ranges or minimums.
-
-</thinking>
-
 # Strength Competition Entry Form - Help Guide
 ## Purpose
 The Strength Competition Entry Form is designed to gather accurate and detailed information about each athlete's performance and experience in a strength competition. This form is used to record the athlete's first name, last name, email, phone number, birthdate, competition name, weight class, division, equipment used, coach's name, coach's phone number, coach's email, competition date, finish place, total weight lifted, squat weight, deadlift weight, bench weight, overhead press weight, overhead pull weight, barbell squat weight, barbell deadlift weight, barbell bench weight, and barbell overhead press weight.

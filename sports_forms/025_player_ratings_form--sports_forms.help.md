@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather ratings for players in a sports context. It is intended to collect numerical ratings for each player involved in an event. The form will likely be used by coaches, sports analysts, or other sports professionals to assess player performance. To use this form, you will need to enter a rating for each player, with higher ratings indicating better performance.
-</thinking>
-
 # Player Ratings Form - Help Guide
 ## Purpose
 The Player Ratings Form is used to gather numerical ratings for players in a sports event. The form is intended for coaches, sports analysts, or other sports professionals to assess player performance and provide feedback.

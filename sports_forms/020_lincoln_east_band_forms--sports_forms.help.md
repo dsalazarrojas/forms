@@ -1,9 +1,3 @@
-<thinking>
-The form is for Lincoln East Band Forms, likely for a school or educational setting where students and their parents can provide information and consent for participation in some sort of band or music-related activity, possibly including purchasing a t-shirt and other materials.
-Given the options, it seems that the form collects contact information (student and parent names, emails, and phone numbers), payment methods, and information about student enrollment (t-shirt size and other materials to be purchased). There is no explicit mention of "band forms" being for a band as in music performance, so it's likely a misnomer.
-To avoid duplication, this guide should be used for students and parents filling out this form for a school band activity.
-</thinking>
-
 # Lincoln East Band Forms - Help Guide
 ## Purpose
 This form is for students and their parents to provide information and consent for participation in a school band activity, including purchasing t-shirts and other materials.

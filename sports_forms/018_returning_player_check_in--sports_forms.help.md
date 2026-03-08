@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to check in returning players to a season of a sports team or organization. It gathers information about the player's status and agreement to participate in the upcoming season. The form is used to ensure that players have acknowledged and agreed to the team's policies and procedures before being cleared to play. The form also collects information about the player's documents and consent for the upcoming season.
-The form should only be used for returning players who have played in previous seasons, as it is not designed for new players. If a player is unsure about any of the questions, they should reach out to the team administration for clarification.
-</thinking>
-
 # Returning Player Check In - Help Guide
 ## Purpose
 The Returning Player Check In form is designed to collect information from returning players about their status and agreement to participate in the upcoming season.

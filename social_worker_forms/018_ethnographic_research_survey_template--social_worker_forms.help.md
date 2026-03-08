@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect ethnographic research information from participants about their behaviors, activities, devices, demographics, relationships, and other relevant aspects. The form is intended to gather data for research purposes, and participants are asked to complete the form honestly and accurately. 
-
-Before completing the form, please ensure that you are not duplicating your responses in other forms or surveys. Each section of the form is designed to collect specific data points, and your responses will contribute to a comprehensive dataset.
-
-This form consists of 12 pages, each focusing on a different aspect of ethnographic research. Please read each page carefully and provide responses that reflect your experiences and perceptions.
-
-</thinking>
-
 # Ethnographic Research Survey Template - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your behaviors, activities, devices, demographics, relationships, and other relevant aspects for ethnographic research. This will help researchers gather a comprehensive understanding of the research topic.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for software developers to submit their applications for a developer role. It is used to gather information about the developer's background, skills, and experience.
-This form is intended to be completed by developers who are interested in applying for a developer position. It is not for general users or other roles.
-Before starting, make sure you meet the eligibility criteria and read the instructions carefully.
-To complete this form, you will need to provide personal and professional information about yourself.
-</thinking>
-
 # developer_job_application_form - Help Guide
 ## Purpose
 

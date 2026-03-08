@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a form called "Personal Training Registration Questionnaire" in the context of a sports organization. This form is likely used for collecting information about clients who are interested in or have already started training programs at the sports facility. The purpose of this form might be to gather necessary contact and health information from the client, understand their fitness goals, and get permission for emergency contact. It's a crucial step to ensure a safe and effective training experience for all clients. This form should not be filled out by clients who have already been registered or are not applicable to the sports facility. 
-</thinking>
-
 # Personal Training Registration Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an AI, I can see that this form is designed for users to submit HTML code for review. The form is not affiliated with or endorsed by any proprietary form platforms, and its purpose is to collect data about HTML code submissions. The form is an original creation, released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit. The form has four fields: form data, user information, code upload, and code review, all of which are not required. Now, let's get to the help guide.</thinking>
-
 # HTML Code Submission Form - Help Guide
 ## Purpose
 This form is designed for users to submit HTML code for review. The data collected will help us understand and improve our services.

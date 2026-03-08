@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of predicting sports scores. The form will guide users through a series of questions to gather their prediction data. Please ensure that you are completing this form for the intended purpose and do not duplicate your efforts. This form is a critical component of our sports prediction system and any incorrect or duplicated data may lead to errors in our calculations.
-</thinking>
-
 # score_prediction_quiz - Help Guide
 ## Purpose
 The score_prediction_quiz form is a sports prediction tool used to collect user's score predictions for a specific match. The goal of this form is to gather accurate and reliable predictions from users to be used in our sports prediction system.

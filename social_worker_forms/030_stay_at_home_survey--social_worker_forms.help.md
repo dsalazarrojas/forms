@@ -1,8 +1,3 @@
-<thinking>
-This form was created by AI for the purpose of collecting feedback from stay-at-home workers, including mothers and fathers, to understand their lifestyle experiences and challenges. It is likely that this form will be used by businesses to gather insights on how to better cater to this demographic. Before completing this form, ensure that you are a stay-at-home worker, as it is intended for this specific group. If you are not a stay-at-home worker, please do not fill out this form.
-
-</thinking>
-
 # Stay At Home Survey - Help Guide
 ## Purpose
 The Stay At Home Survey is a questionnaire designed to gather information about the experiences and challenges faced by stay-at-home workers, including stay-at-home mothers and fathers. Its purpose is to help businesses understand their needs and improve their services.

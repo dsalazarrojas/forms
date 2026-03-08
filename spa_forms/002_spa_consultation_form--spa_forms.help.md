@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Spa Consultation Form - Help Guide
 ## Purpose
 The Spa Consultation Form is a tool designed to help users book and schedule spa appointments. This form collects essential information from users, including their contact details, preferred appointment times and dates, and the services they wish to book.

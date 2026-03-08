@@ -1,7 +1,3 @@
-<thinking>
-As a form designer and technical writer, I understand the importance of creating clear and concise help guides for end-users. Before diving into the help guide, I want to acknowledge that the form "Poverty Survey" is designed to collect information about households' economic situations, specifically focusing on income and expenses. This form will help organizations or researchers gather data to better understand and address poverty-related issues. I'll ensure that the help guide is concrete, practical, and relevant to the form's purpose. I'll review the provided YAML fields and create a user-facing help guide that explains each field's purpose, making sure not to invent unsupported business logic.
-</thinking>
-
 # Poverty Survey - Help Guide
 ## Purpose
 This form, called "Poverty Survey," is designed to collect information about households' economic situations. It helps organizations or researchers gather data to better understand and address poverty-related issues.

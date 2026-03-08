@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for social media projects, and it should be used when a project requires collaboration between multiple teams and stakeholders. Before proceeding with this form, please check if a similar project has been created with the same title or description to avoid duplication of work. If you've already completed a project with the same details, do not submit this form as it will create unnecessary redundancy.
-
-</thinking>
-
 # social_media_project_briefing_form - Help Guide
 ## Purpose
 The social_media_project_briefing_form is used to create, manage, and track social media projects. This form captures essential project details, such as title, description, lead person, start and end dates, budget, target audience, project goal, status, category, and team members.

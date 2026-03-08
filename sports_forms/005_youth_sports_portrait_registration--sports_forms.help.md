@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians about their child's participation in youth sports. The form will be used to create a digital portrait of the athlete, which will be used for various purposes such as creating a profile, generating reports, or sharing with coaches or teams. The form will be used to collect information such as the athlete's details, parent contact information, photo package selection, and consent from parents. This form will be used in conjunction with other forms and data to create a comprehensive picture of the athlete's profile.
-
-To ensure that the form is completed accurately and efficiently, please review the following sections carefully.
-
-</thinking>
-
 # youth sports portrait registration - Help Guide
 ## Purpose
 The youth sports portrait registration form is designed to collect information from parents or guardians about their child's participation in youth sports. This information will be used to create a digital portrait of the athlete and provide insights for coaches, teams, and other stakeholders.

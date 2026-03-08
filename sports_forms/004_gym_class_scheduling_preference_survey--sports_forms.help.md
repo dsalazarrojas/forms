@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <title> - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from the online community members to understand their needs and engagement with the community. It aims to assess the overall satisfaction with the community experience, participation frequency, benefits gained from participating, desired content types, importance of belonging, and suggestions for improvements. This survey is not affiliated with any form platform and is an original adaptation for public use. Please ensure you're filling this survey out of your own experience and not on behalf of others.
-</thinking>
-
 # Online Community Needs Assessment Survey Template - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and insights from the online community members to understand their needs and engagement with the community. This information will help us to make informed decisions and improve the community's value and services.

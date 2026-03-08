@@ -1,7 +1,3 @@
-<thinking>
-The form "Pool Chemicals Check Form" is designed to collect information about the pool maintenance chemicals being used. This form is meant to help pool staff and operators keep track of the chemicals being used and ensure that the chemicals are up-to-date and safe to use. This form is not meant to be used by pool users directly, but rather by pool staff who need to verify the chemicals being used to maintain the pool water quality. The purpose of this form is to check the expiration dates of the algaecide, stabilizer, and clarifier, as well as to record any other chemicals being used. This form is not meant to replace the actual chemical handling procedures, but rather to supplement them.
-</thinking>
-
 # Pool Chemicals Check Form - Help Guide
 ## Purpose
 The Pool Chemicals Check Form is designed to help pool staff and operators keep track of the pool maintenance chemicals being used and ensure that they are up-to-date and safe to use.

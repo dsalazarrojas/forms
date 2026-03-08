@@ -1,7 +1,3 @@
-<thinking>
-This form is for event sponsorship renewal. The purpose of this form is to collect information from event sponsors who wish to renew their sponsorship agreement with our organization. This form should only be completed by existing event sponsors. Please ensure that you are an authorized representative of the sponsor before proceeding. By completing this form, you are confirming that you are still committed to supporting the event and agree to the terms and conditions outlined in the form.
-</thinking>
-
 # Event Sponsorship Renewal Form - Help Guide
 
 ## Purpose

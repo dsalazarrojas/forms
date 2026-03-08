@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about software incidents that have occurred within the organization. The form is likely used by software developers, engineers, or other relevant teams to report incidents related to software development, deployment, or maintenance. The fields are intended to capture details about the incident, such as date, location, and impact, as well as information about who was affected and how. This form may help in tracking, analyzing, and mitigating the effects of software incidents.
-</thinking>
-
 # software_incident_report_form - Help Guide
 ## Purpose
 This form is used to collect information about software incidents that have occurred within the organization.

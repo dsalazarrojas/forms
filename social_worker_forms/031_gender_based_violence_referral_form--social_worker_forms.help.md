@@ -1,9 +1,3 @@
-<thinking>
-To confirm: the form is for reporting incidents of gender-based violence, and its purpose is to collect information about the reported incident. This form will be used by social workers to document and track reported incidents.
-We will be using this form to ensure that we capture all relevant information about each incident, including details about the survivor, perpetrator, and incident characteristics. This will help us in our response and follow-up efforts.
-Before filling out this form, please make sure you are not reporting the same incident multiple times. If you are unsure about any information, it's always best to report it and let our team follow up to clarify.
-</thinking>
-
 # Gender Based Violence Referral Form - Help Guide
 ## Purpose
 This form is for reporting incidents of gender-based violence. Its purpose is to collect information about reported incidents.

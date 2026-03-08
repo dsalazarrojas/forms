@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive help guide for the "religious_study_group_application_form" form. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # religious_study_group_application_form - Help Guide
 ## Purpose
 The "religious_study_group_application_form" is designed to collect information from individuals who are interested in joining a religious study group. The form is used to gather details about the group's meeting time, name, size, and frequency, as well as the submitted by and submitted on information. This form is essential for creating a successful and organized study group.

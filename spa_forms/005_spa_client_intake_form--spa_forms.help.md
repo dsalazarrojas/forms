@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from spa clients, including their contact information, medical history, payment information, and appointment details. The purpose of this form is to gather essential data that will help the spa staff prepare for the client's session and ensure a smooth and safe experience.
-</thinking>
-
 # Spa Client Intake Form - Help Guide
 ## Purpose
 The Spa Client Intake Form is designed to collect relevant information from clients before their spa sessions. This form helps our staff prepare for the client's session and ensure their safety and satisfaction.

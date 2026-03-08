@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather client information for aesthetic treatments and renewals, ensuring clients acknowledge and agree to current policies and consent to ongoing treatments. The form is intended for clients who have previously received aesthetic treatments and need to confirm their consent and update their information.
-
-To ensure the form is not duplicated for the same client, the system checks for existing records and prevents submission if the client's ID is already present in the database. This prevents unnecessary paperwork and maintains data consistency.
-
-The form is composed of two main sections: "Client Identification" and "Consent Renewal". The "Client Identification" section gathers essential client details such as name, date of birth, email address, and health status update. The "Consent Renewal" section confirms the client's consent to ongoing treatments, acknowledges the clinic's policies, and requires a signature to renew.
-
-</thinking>
-
 # Aesthetics Renewal Signatures Form - Help Guide
 ## Purpose
 The Aesthetics Renewal Signatures Form is designed to collect necessary information from clients who have previously received aesthetic treatments to ensure they agree to ongoing treatments and acknowledge current clinic policies.

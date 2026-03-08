@@ -1,7 +1,3 @@
-<thinking>
-# The form is likely being used to gather information about the baseball fan base demographics and preferences. It is designed to collect data on respondent's age, level of baseball interest, favorite team, watch frequency, game experience, and opinions on game length, pace, and popularity. The form is also collecting suggestions for improvement. It is possible that the form will be used for market research or to gather insights for a baseball organization or league.
-</thinking>
-
 # Baseball Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Baseball Survey form.

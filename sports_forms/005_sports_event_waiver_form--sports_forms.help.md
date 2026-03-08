@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be filled out by participants in a sports event to provide essential information about themselves and their emergency contact. The form is not intended to be a comprehensive medical form but rather a brief overview of the participant's contact and event details.
-The fields are structured to cover the following:
-Participant's basic information: name, gender, age, phone number, address
-Emergency contact's information: name, relationship, address, phone number, email
-Event details: title, organizer's name, phone number, and email
-The form is not meant to be used for official medical purposes but rather for general event planning.
-</thinking>
-
 # Sports Event Waiver Form - Help Guide
 ## Purpose
 This form is intended to collect basic information about participants and their emergency contacts in a sports event. It is not a comprehensive medical form but rather a brief overview of the participant's details.

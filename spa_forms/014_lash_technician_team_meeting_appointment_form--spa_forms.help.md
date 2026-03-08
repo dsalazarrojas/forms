@@ -1,8 +1,3 @@
-<thinking>
-The form "lash_technician_team_meeting_appointment_form" is designed to schedule a team meeting for lash technicians. This form should be used when a meeting is required for the team to discuss important topics or agenda items. Please ensure that you have the necessary permissions to schedule meetings and that the meeting date and time do not overlap with any other team meetings.
-Before filling out this form, please check that you are not duplicating a meeting that has already been scheduled or one that has been cancelled. If you are unsure about any meeting, please verify with the relevant team members or administrators before proceeding.
-</thinking>
-
 # lash_technician_team_meeting_appointment_form - Help Guide
 
 ## Purpose

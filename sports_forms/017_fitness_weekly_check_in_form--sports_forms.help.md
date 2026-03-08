@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form with a mix of text, number, select_one, time, and email fields. The form is called "Fitness Weekly Check In Form" and its purpose is for users to provide their weekly progress and updates. It's essential to ensure the form is completed correctly to avoid duplication and ensure the data is accurate.
-</thinking>
-
 # Fitness Weekly Check In Form - Help Guide
 ## Purpose
 This form is designed to gather weekly fitness updates from users. Please complete this form to report your progress, goals, and other relevant information to help us track your progress.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect configuration settings for a messaging bot, which is a software application that enables users to send and receive messages. The form is divided into two pages, each with several fields that allow users to select their preferences for messaging routing, request destination, and other settings. The form is not mandatory, and users can complete it at their own pace.
 
 </thinking>

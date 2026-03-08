@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about past players in a sports-related event. It is likely used by event organizers or administrators to gather details about the participants, including their names, email addresses, phone numbers, and RSVP status. The form might be used for both internal purposes, such as keeping track of event attendance, and external purposes, such as sharing event details with attendees. 
-
-To check for duplication, the form might be designed to allow event organizers to easily identify if a player has already been registered for a previous event, or if a new player has not been registered for this event. This would help ensure accurate and up-to-date information about past players. 
-
-Before proceeding, please ensure that you have already checked if a player with the same name, email or phone number has already been registered for a similar event. If you're unsure, you can try to search for the player in the event database.
-
-</thinking>
-
 # Past Players Event Registration - Help Guide
 ## Purpose
 The Past Players Event Registration form is designed to collect information about past players in a sports-related event.

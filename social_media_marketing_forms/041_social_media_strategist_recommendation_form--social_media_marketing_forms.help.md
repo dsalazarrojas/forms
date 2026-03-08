@@ -1,11 +1,3 @@
-<thinking>
-This form seems to be designed to help identify potential social media marketing strategies based on user preferences and team characteristics. It's likely used to provide guidance on how to approach social media marketing efforts for a team or client. The form collects data on social media channel preferences, team size, budget, communication frequency, team location, and client relationship. It's possible that this form is used to help identify potential strategies and recommendations for a social media strategist to implement. This form does not seem to be intended to be filled out multiple times by the same user, as many fields are not required. 
-
-The form likely uses the collected data to provide personalized recommendations for the strategist. The fields seem to be designed to collect data on various aspects of the team and social media strategy, including social media channels, team size, budget, and communication frequency. 
-
-To ensure that the form is filled out correctly, the user should ensure that they answer all relevant questions truthfully. If they are unsure about a particular field, they can refer to the options provided. 
-</thinking>
-
 # Social Media Strategist Recommendation Form - Help Guide
 ## Purpose
 The Social Media Strategist Recommendation Form is designed to help identify potential social media marketing strategies based on user preferences and team characteristics. It collects data on social media channel preferences, team size, budget, communication frequency, team location, and client relationship to provide personalized recommendations for a social media strategist.

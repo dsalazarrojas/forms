@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # hair_root_lift_treatment_consent_form - Help Guide
 
 ## Purpose

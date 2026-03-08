@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for discharging patients from a sports medicine setting. The form aims to gather data on patient details, medical conditions, and treatment plans. It's intended to be completed by healthcare professionals in a sports medicine setting.
-</thinking>
-
 # Sports Medicine Discharge Form - Help Guide
 ## Purpose
 This form is used to document the discharge process for patients treated in a sports medicine setting. It collects information on patient details, medical conditions, and treatment plans to ensure continuity of care and proper follow-up.

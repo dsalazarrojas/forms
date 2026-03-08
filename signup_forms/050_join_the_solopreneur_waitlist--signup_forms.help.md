@@ -1,13 +1,3 @@
-<thinking>
-This help guide is to inform and guide the user through the completion of the "join_the_solopreneur_waitlist" form. The purpose of this form is for users to join the Solopreneur waitlist, likely for business purposes. This guide aims to ensure the user understands the form's requirements and the intent behind each field. It is also to help the user avoid duplication, as the form's unique fields and options are specific to the Solopreneur waitlist.
-
-To confirm, this form is part of the "signup_forms" category and is titled "join_the_solopreneur_waitlist". The form is divided into multiple pages, each with its own set of fields.
-
-The guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. It will also include additional tips to aid the user in filling out the form correctly.
-
-Before proceeding, ensure you are familiar with the form's requirements and have all necessary information readily available. If you are unsure about any part of the process, please seek assistance from a qualified support professional. If you need to revisit this form, ensure that you are filling it out with the correct information to avoid duplication, as the form is designed to collect unique data.
-</thinking>
-
 # join_the_solopreneur_waitlist - Help Guide
 ## Purpose
 The "join_the_solopreneur_waitlist" form is designed for users to join the Solopreneur waitlist. This form collects information to add or manage your business on the waitlist.

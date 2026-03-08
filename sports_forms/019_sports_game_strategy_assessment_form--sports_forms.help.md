@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help sports teams and coaches assess their game strategy and performance. It is intended to be filled out before, during, and after games to identify areas of improvement and make informed decisions. This form is part of a larger process to optimize team performance and provide a comprehensive understanding of team dynamics. To ensure that this form is being used correctly, please review and confirm that the following sections cover all necessary aspects. If you have any questions or concerns, please do not hesitate to reach out.
-</thinking>
-
 # Sports Game Strategy Assessment Form - Help Guide
 ## Purpose
 The Sports Game Strategy Assessment Form is a tool used by sports teams to evaluate their performance, strategy, and communication during games. It helps teams identify areas of improvement and make data-driven decisions to optimize their game strategy.

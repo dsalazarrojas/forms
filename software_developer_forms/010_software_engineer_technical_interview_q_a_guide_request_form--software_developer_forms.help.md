@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will follow the provided instructions and use the given form YAML as a reference.
-
-The purpose of this form is to collect information from software developers for a technical interview Q&A guide request. It's likely used to gather details about the type of questions and topics that would be relevant for an interview, such as whether the interview is related to a specific category and a brief description of the request. The "assigned_tool" field is used to choose which tool or platform the interview guide will be output to. This form ensures that the developer can submit the necessary information in a structured and organized manner.
-
-</thinking>
-
 # Software Engineer Technical Interview Q&A Guide Request Form - Help Guide
 ## Purpose
 This form is used to collect information from software developers for a technical interview Q&A guide request. It helps gather relevant details about the interview topics and categories.

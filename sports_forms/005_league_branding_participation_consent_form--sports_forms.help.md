@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect participant's information and consent for league branding participation. This form will be used to gather data from participants to understand their willingness to participate in branding activities, such as photos, videos, and social media promotions. The form's purpose is to inform participants about what their data will be used for and to obtain their consent for the use of their information in these activities. This form is likely to be used by sports organizations or leagues to engage with their participants and create a positive image of their brand.
-</thinking>
 # League Branding Participation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant's information and consent for league branding participation. It's used to inform participants about what their data will be used for and to obtain their consent for the use of their information in branding activities such as photos, videos, and social media promotions.

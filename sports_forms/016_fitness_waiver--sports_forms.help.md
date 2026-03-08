@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will help create a user-friendly help guide for the Fitness Waiver form. I will review the provided YAML form schema and create a comprehensive help guide that explains the form's purpose, how to complete it, and the meaning of each field, making sure it is concrete, concise, and practical for end-users.</thinking>
-
 # Fitness Waiver - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-The Coach Report Form is designed to help coaches gather and record relevant information about a team's performance, injuries, and resources needed during a match or training session. This form aims to provide a structured and comprehensive report that can be shared with relevant stakeholders. The form is intended to be used by coaches to capture essential data that can aid in post-game or post-session analysis and planning. 
-
-To avoid duplication of effort, it is recommended that this form be used consistently across all teams or sessions, allowing for easy comparison and trend analysis of data.
-
-</thinking>
-
 # Coach Report Form - Help Guide
 ## Purpose
 The Coach Report Form is a comprehensive report designed to capture essential information about a team's performance, injuries, and resources during a match or training session.

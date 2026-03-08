@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather user preferences and feedback on football cleats. The purpose of this form is to collect information about a user's preferences regarding the type of cleats they use, the brand they prefer, and any features that are important to them. This information will be used to improve the quality and design of cleats used in football sports.
-
-This form does not need to be completed by everyone, and the responses will not be shared publicly. However, the data collected will be used to inform product development and marketing decisions. To ensure that your feedback is valuable and actionable, please be as specific as possible when providing your responses.
-
-Before starting, make sure to check if you have already filled out this form, so that you do not duplicate your answers.
-
-</thinking>
-
 # Football Cleat Preference Survey - Help Guide
 ## Purpose
 This form is designed to gather user preferences and feedback on football cleats, which will be used to inform product development and marketing decisions.

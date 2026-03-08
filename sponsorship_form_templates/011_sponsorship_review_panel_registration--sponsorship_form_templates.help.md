@@ -1,22 +1,3 @@
-<thinking>
-This form is used to register a sponsorship review panel, which is a group of experts or non-experts who review and evaluate sponsorships. The purpose of this form is to gather information about the panelists, including their availability, expertise, and contact details. This form is used by the organization's management to review and approve panelists for future sponsorship reviews. 
-
-The form has 7 fields: Sponsorship Review Panel Registration, Sponsorship Review Panelist Details, Sponsorship Reviewer Availability, Sponsorship Reviewer Expertise, Sponsorship Reviewer Application, Sponsorship Reviewer Phone, and Sponsorship Reviewer Email. 
-
-The form is optional, and users can choose to fill out as much or as little information as they like. 
-
-Please note that the form is not meant to be filled out for every sponsorship review, but rather for recruiting panelists for future reviews. 
-
-There is also a submit button at the end of the form. 
-
-This form is part of the "sponsorship_form_templates" category. 
-
-This form does not duplicate any other form. 
-
-This form is intended to be filled out by people who will be part of the sponsorship review panel. 
-
-</thinking>
-
 # Sponsorship Review Panel Registration - Help Guide
 ## Purpose
 This form is used to register a sponsorship review panel, which is a group of experts or non-experts who review and evaluate sponsorships.

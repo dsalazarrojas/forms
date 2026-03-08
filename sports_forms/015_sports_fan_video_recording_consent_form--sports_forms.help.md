@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a consent form for sports fans to record video content, and the internal logic of this form ensures that users can only complete it once they have been invited to record video content by a parent or guardian. The form is also restricted to those who are 18 years old and older. This form is used to collect personal data and to obtain consent from the users to record their video content. 
-
-Please make sure you are completing this form for the right purpose and not duplicating the process.
-
-</thinking>
-
 # sports_fan_video_recording_consent_form - Help Guide
 ## Purpose
 This form is a consent form for sports fans to record video content. It is used to collect personal data and to obtain consent from the users to record their video content.

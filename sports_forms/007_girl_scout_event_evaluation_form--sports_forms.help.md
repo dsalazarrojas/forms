@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from Girl Scout leaders and participants after an event. The form is intended for internal use within the Girl Scout organization to gauge the success and effectiveness of events. The purpose of this form is to gather information on the event's details, such as date, time, location, and notes, as well as feedback from the troop leaders who attended the event. This information will be used to improve future events and provide valuable insights to the organization.
-
-This form is not meant to be a comprehensive survey, but rather a quick and easy way to collect basic feedback. It is designed to be simple and straightforward, with minimal required fields.
-
-Please note that this form is an internal tool and not intended for external use. If you are not a Girl Scout leader or participant, please do not fill out this form.
-</thinking>
-
 # Girl Scout Event Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from Girl Scout leaders and participants after an event, to help the organization gauge its success and make improvements for future events.

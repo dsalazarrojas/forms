@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from digital creators who are applying for sponsorship from various tech companies. The form asks for general information about the creator, such as contact details and campaign details. It also requests audience metrics and sponsorship requests, but these fields are optional. The form's purpose is to facilitate the sponsorship application process for digital creators. 
-Note: This form is not intended to be used by internal staff, but rather by external applicants. Please ensure that the correct fields are being filled out to ensure accurate and complete information.
-
-This form has 16 fields, but some of them are optional. Make sure to fill out all relevant fields to ensure your application is complete and accurate.</thinking>
-
 # Digital Creator Sponsorship Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from digital creators applying for sponsorship from various tech companies. It's meant to be filled out by external applicants, and it's essential to ensure that all required and optional fields are completed accurately.

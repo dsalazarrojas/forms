@@ -1,7 +1,3 @@
-<thinking>
-The goal of the wellness coaching questionnaire is to gather information on the user's physical and mental well-being, to provide a comprehensive understanding of their current state and help identify areas for improvement. This form is not meant to be a definitive diagnostic tool, but rather a starting point for coaches and wellness professionals to initiate guidance and support. It is essential to ensure the user has a good understanding of what they are agreeing to, and to fill out the form accurately and honestly. Please note that the answers will be treated confidentially and used solely for coaching purposes.
-</thinking>
-
 # wellness_coaching_questionnaire - Help Guide
 ## Purpose
 The wellness coaching questionnaire is designed to gather information on your physical and mental well-being, helping you identify areas for improvement and providing a starting point for guidance and support from wellness coaches.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to track a student's progress in special education services. It is used to record and report the observations, goals, and review of a student's progress over time. This form is used in the self-help skills progress reporting process and is intended to be completed by the student or a staff member responsible for the student's care. 
-
-</thinking>
-
 # Self Help Skills Progress Report - Help Guide
 ## Purpose
 The Self Help Skills Progress Report form is designed to track a student's progress in special education services. It is used to record and report observations, goals, and reviews of a student's skills over time.

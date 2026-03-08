@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is likely designed for people to sign up for an abseiling camp event on 25-26 July, probably for a group or organization known as "Watagans" that organizes abseiling activities.
-The purpose of this form is to collect attendee information for the event.
-To avoid duplication, users should only sign up once.
-</thinking>
-
 # Watagans Abseiling Camp 25 26th July 2 - Help Guide
 ## Purpose
 The form is used to collect information from attendees to register for the abseiling camp event on 25-26 July.

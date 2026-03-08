@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for software development teams to create a release task form, which will guide users in creating a release task with specific details like project name, start and end dates, assigned tool, status, due date, priority, and tags.
-This form should be used for new tasks. To avoid duplication, ensure that you're creating a release task with this form if the task already exists.
-</thinking>
-
 # release_task_form - Help Guide
 ## Purpose
 This form is used to create a new release task with specific details.

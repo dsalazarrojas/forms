@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Sustainable Living Expo Sponsorship Form, its purpose, and the process of completing it.
-
-The purpose of this form is to collect sponsorship information from potential sponsors for the Sustainable Living Expo. The form is divided into several sections that gather details about the sponsor, their sponsorship status, and the package they are applying for. The form is designed to be completed by potential sponsors who are interested in participating in the event.
-
-The form is not designed to be completed by the same sponsor multiple times, so please ensure that you are not duplicating any existing applications.
-
-</thinking>
 # Sustainable Living Expo Sponsorship Form - Help Guide
 ## Purpose
 This form is for potential sponsors who want to participate in the Sustainable Living Expo. It gathers information about the sponsor, their sponsorship status, and the package they are applying for.

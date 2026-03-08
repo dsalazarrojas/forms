@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the basics of the Golf Scorecard Template form.
 
 # Golf Scorecard Template - Help Guide

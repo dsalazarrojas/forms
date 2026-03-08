@@ -1,23 +1,3 @@
-<thinking>
-We're creating a form for a Lash Artist Skill Perception Survey to gather feedback about the skills and qualities of lash artists. This form is meant to help evaluate the artist's ability to understand and apply lash art skills effectively. It's essential to ensure that the form is clear and concise for the end-users to provide their honest and constructive feedback.
-
-To avoid duplication, it's crucial to review the existing forms and ensure this new form doesn't overlap or duplicate any existing ones.
-
-The form consists of 10 fields, each focusing on different aspects of a lash artist's skills. The fields are: 
-
-*   **LashArtistSkillPerceptionSurvey** (Page 1): A short description of the survey.
-*   **LashArtistRating** (Page 2): Rate the artist's skill level on a scale.
-*   **LashArtistServiceQuality** (Page 3): Describe the artist's service quality.
-*   **LashArtistCommunication** (Page 4): Evaluate the artist's communication skills.
-*   **LashArtistPunctuality** (Page 5): Rate the artist's punctuality.
-*   **LashArtistWillingnessToReturn** (Page 6): Rate the artist's willingness to return or follow up on work.
-*   **LashArtistWillamsburg** (Page 7): Describe any notable incidents or experiences with the artist at Williamsburg.
-*   **LashArtistRecommendations** (Page 8): Suggest any skills or areas the artist should improve on.
-*   **LashArtistSkillsToImprove** (Page 9): Rate the artist's skills that need improvement.
-*   **LashArtistAverageRate** (Page 10): Calculate the average rate of the artist's skills.
-
-</thinking>
-
 # lash_artist_skill_perception_survey - Help Guide
 
 ## Purpose

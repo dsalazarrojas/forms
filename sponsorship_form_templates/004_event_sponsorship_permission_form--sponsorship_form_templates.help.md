@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to obtain sponsorship permission from potential sponsors for an event. It is intended for use by event organizers to collect necessary information from sponsors to facilitate communication and collaboration. The form is divided into multiple pages, each with its own set of fields. Please ensure that all relevant information is completed accurately and honestly. To avoid errors, please fill out the form in the correct sequence and review your answers carefully before submitting. 
-
-</thinking>
-
 # event_sponsorship_permission_form - Help Guide
 ## Purpose
 The event_sponsorship_permission_form is a tool used by event organizers to collect necessary information from potential sponsors for an event.

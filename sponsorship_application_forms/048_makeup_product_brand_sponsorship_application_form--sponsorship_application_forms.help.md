@@ -1,7 +1,3 @@
-<thinking>
-A form designed to streamline the sponsorship application process for makeup product brands. This form aims to gather essential information from interested brands, ensuring that they can provide accurate details about their products and relevant contact information. 
-</thinking>
-
 # Makeup Product Brand Sponsorship Application Form - Help Guide
 ## Purpose
 The Makeup Product Brand Sponsorship Application Form is designed to collect detailed information from makeup product brands interested in sponsorship opportunities with our organization. This form helps us evaluate potential partners and tailor our sponsorship offers to their specific needs.

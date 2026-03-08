@@ -1,11 +1,3 @@
-<thinking>
-This form will be used to plan appointments for skincare workshops. As the form is used by end users (i.e., individuals who are not familiar with the inner workings of the system), it's essential to explain the form's purpose and ensure that each field is filled out correctly. This form is used to gather information about the session and participant details.
-
-It's also worth noting that while the form fields are not all required, each piece of information is crucial to ensure that the skincare workshop planning process is carried out efficiently and effectively.
-
-The form will not be used for any other purpose and will not contain any duplicate information.
-
-</thinking>
 # Skincare Workshop Planning Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information for planning skincare workshops. It's used to gather details about the session and participant information to ensure that the planning process runs smoothly.

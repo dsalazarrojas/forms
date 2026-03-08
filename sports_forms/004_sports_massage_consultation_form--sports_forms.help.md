@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to consult with a sports massage therapist, providing information about their medical history, health concerns, and massage preferences. The purpose of this form is to ensure that the massage therapist understands the client's needs and can tailor the massage experience accordingly. Before completing this form, please note that it is intended for general information purposes only and is not a substitute for a medical doctor's consultation. 
-</thinking>
-
 # Sports Massage Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients about their medical history, health concerns, and massage preferences. Please complete this form to help the sports massage therapist understand your needs and tailor the massage experience accordingly.

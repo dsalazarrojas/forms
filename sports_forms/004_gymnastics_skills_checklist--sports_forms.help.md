@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gymnastics Skills Checklist - Help Guide
 
 ## Purpose

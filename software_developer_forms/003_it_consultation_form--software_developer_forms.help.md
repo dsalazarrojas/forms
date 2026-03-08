@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## it_consultation_form - Help Guide
 ## Purpose
 

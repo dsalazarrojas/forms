@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from participants before returning to training. It is a required field for participants to fill out before returning to the training facility. This form helps in ensuring that all participants understand the rules and guidelines of the training program and provides necessary information such as training facility and date returned.
-</thinking>
-
 # return_to_training_consent - Help Guide
 ## Purpose
 The "return_to_training_consent" form is used to obtain consent from participants before returning to training.

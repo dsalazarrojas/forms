@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about the end of season review, which is an evaluation and reflection on the past season's performance and outcome. The form is designed to gather details on various aspects of the season, including season performance, goals scored, teams leagues participated, top players, coaching staff, facilities used, training facilities, training program, season goals, season outcome, coaching staff changes, facilities changes, training changes, season outcome justification, season outcome justification impact, season outcome justification reason, season outcome recommendations, and season outcome recommendations reason.
-
-Before proceeding, please ensure that the information you are about to enter is accurate and relevant to the season being reviewed. Also, note that some fields are not required, so you may skip them if they do not apply to your experience.
-
-Please ensure that the form is filled out correctly and thoroughly, as the collected data will help in the evaluation and improvement of our services.
-
-</thinking>
-
 # End of Season Review Form - Help Guide
 ## Purpose
 

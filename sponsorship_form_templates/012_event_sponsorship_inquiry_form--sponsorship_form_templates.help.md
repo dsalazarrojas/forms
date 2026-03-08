@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event organizers and coordinators to inquire about potential sponsorship opportunities for their events. The form is designed to gather information about the event, the contact person, and the sponsorship interests of the event organizer. The form will be reviewed by the sponsorship team to determine the suitability of the sponsorship request. Please note that this form is for internal use only and should not be used to submit unsolicited sponsorships.
-</thinking>
-
 # Event Sponsorship Inquiry Form - Help Guide
 ## Purpose
 This form is for event organizers and coordinators to inquire about potential sponsorship opportunities for their events. It is used to gather information about the event, contact details, and sponsorship interests.

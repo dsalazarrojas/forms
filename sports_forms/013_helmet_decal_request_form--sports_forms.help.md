@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Helmet Decal Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users requesting helmet decals for their teams or schools. It helps us understand their requirements, preferences, and needs for custom decals. 

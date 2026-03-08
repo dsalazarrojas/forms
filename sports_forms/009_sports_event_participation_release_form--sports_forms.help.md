@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_event_participation_release_form - Help Guide
 ## Purpose
 

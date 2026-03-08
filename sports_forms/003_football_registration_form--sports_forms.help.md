@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Football Registration Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about softball players. The purpose of this form is to gather essential details about the player's personal and athletic characteristics. This form is likely used by softball leagues, teams, or organizations to register players for upcoming events, tournaments, or seasons. The form will be used to create a database of players, which can help teams and coaches make informed decisions about player assignments, pairings, and communication. To ensure the most accurate and up-to-date information, we'll focus on clear and concise explanations for each field.</thinking>
-
 # Softball Player Finder Form Template - Help Guide
 ## Purpose
 This form is used to collect information about softball players for registration, organization, and communication purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-As a sports merchandise vendor, this form is designed to gather feedback on your experience with our sports merchandise sales and events. This survey will help us understand how well we're doing in terms of customer satisfaction and help us identify areas for improvement. Before answering the questions, please ensure that you have provided the correct event ID, product ID, and vendor ID related to your experience.
-
-Please take a few minutes to complete this survey, and be as detailed and honest as possible in your answers. Your feedback is invaluable to us!
-
-</thinking>
-
 # Sports Merchandise Vendor Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on your experience with our sports merchandise sales and events. Your input will help us improve our services and better serve you and other vendors in the future.

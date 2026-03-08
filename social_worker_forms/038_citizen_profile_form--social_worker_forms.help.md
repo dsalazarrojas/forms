@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is completed accurately and relevantly, please note that this form is for gathering information from citizens, and the purpose of this form is to collect demographic data for social services. Please refrain from filling out this form if you are not a citizen or if you do not have access to the necessary information. Additionally, please ensure that you are filling out the correct information for each field, as some fields are required for eligibility determination.
-</thinking>
-
 # Citizen Profile Form - Help Guide
 ## Purpose
 The Citizen Profile Form is used to collect demographic information from citizens for social services purposes. This form helps to gather essential details about a citizen's background, contact information, and social services needs.

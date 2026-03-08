@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely designed for individuals seeking personalized dietary advice or recommendations related to their caloric needs, health status, or specific nutritional goals. It may be used by health professionals, fitness coaches, or nutritionists to gather essential data about a person's lifestyle, preferences, and constraints. The form's purpose is to collect detailed information about a person's physical characteristics, eating habits, health conditions, and dietary restrictions, which will help the professionals provide tailored guidance on maintaining a healthy balance of calories and nutrients.
-
-To prevent duplication of effort, ensure that the form's questions cover all relevant aspects without being too invasive or repetitive.
-
-</thinking>
-
 # Calorie Count Form - Help Guide
 ## Purpose
 The Calorie Count Form is designed to collect information about your dietary habits, health status, and preferences to help health professionals provide personalized guidance on maintaining a healthy balance of calories and nutrients.

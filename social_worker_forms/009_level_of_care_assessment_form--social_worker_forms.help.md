@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess the level of care required for a patient based on their medical condition, medical history, and other relevant factors. The form is intended to be completed by healthcare professionals, such as nurses or doctors, to evaluate the patient's needs and determine the level of care that should be provided.
-
-The form should only be completed when the patient's condition is stable and not in an emergency situation. The form should not be used to assess patients who are already receiving critical care or are in a life-threatening situation.
-
-The form is designed to be completed in multiple pages, and each page should be filled out completely before moving on to the next one.
-
-</thinking>
-
 # level of care assessment form - Help Guide
 ## Purpose
 The purpose of this form is to assess the level of care required for a patient based on their medical condition, medical history, and other relevant factors.

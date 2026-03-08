@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about horse riding challenge sessions, including session details, participant data, and submission details. This form is for internal use within the equestrian community, and the data collected will be used to track and analyze riding challenge sessions. To ensure data accuracy and consistency, please ensure that you are submitting relevant and non-duplicate information. If you have previously submitted a challenge log, please do not resubmit the same information.
-</thinking>
-
 # Horsemanship Challenge Log Submission - Help Guide
 ## Purpose
 The Horsemanship Challenge Log Submission form is designed to collect data about horse riding challenge sessions. This form is used to track and analyze challenge sessions, allowing organizers and participants to monitor progress, identify trends, and provide feedback to riders and trainers.

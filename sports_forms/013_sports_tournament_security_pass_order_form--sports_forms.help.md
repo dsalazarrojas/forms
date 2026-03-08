@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about staff, vendors, and media personnel involved in a sports tournament. This form is used to order security passes for these individuals. It ensures that their roles, contact information, and any special notes are recorded and verified before issuing the passes. This form is usually filled out by the tournament organizers or security personnel to ensure that the necessary individuals receive their passes. It is not a form for registering participants or spectators. Please ensure that you are completing this form for the correct type of personnel (staff, vendor, or media). If you're unsure about the type of personnel, please refer to the relevant sections of the tournament's documentation or contact the tournament organizers.
-</thinking>
-
 # Sports Tournament Security Pass Order Form - Help Guide
 ## Purpose
 This form is used to order security passes for staff, vendors, and media personnel involved in a sports tournament. It captures their roles, contact information, and any special notes to ensure that their passes are issued correctly and efficiently.

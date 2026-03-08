@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a fitness class booking system. It's meant to be filled out by users who have recently booked or attempted to book a fitness class. The form is likely used to identify areas for improvement in the class booking process, such as availability and scheduling, instructor quality, and overall satisfaction with the class experience. It's possible that the feedback from this form will help the fitness center to provide a better service to their customers.
-To ensure accurate and helpful feedback, please fill out the form carefully and truthfully. You will not be required to provide any personal identifiable information such as your name or contact details, so you can answer anonymously.
-Please note that some fields are optional and others are required. You can skip the optional fields if you do not have any feedback for them.
-</thinking>
-
 # Fitness Class Booking Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a fitness class booking system.

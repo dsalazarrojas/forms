@@ -1,19 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive Covid waiver form with a focus on medical information and consent. It may be used in a medical setting to obtain patient information, medical history, and consent for vaccinations or treatments. However, without more context, it's difficult to confirm the exact purpose and usage of this form.
-
-Before proceeding, ensure that this form is not a duplicate or an outdated version, as the information and requirements may have changed since its creation. Review the form's fields and their labels carefully to ensure that they align with the intended use and purpose of the form.
-
-If this form is intended for patient registration, it may be used for:
-
-* Initial patient intake and medical history collection
-* Vaccine eligibility and consent
-* Medical record maintenance and updates
-
-Please verify that the form's fields and labels correctly reflect the intended use and purpose.
-
-</thinking>
-
 # Covid Waiver Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-**Why create a form to apply for sponsorship?** To help potential sponsors understand and provide accurate information for our ski events, we want to make it easier for them to provide feedback on their interest in supporting our events. This form will help us ensure that we get relevant and complete information from each potential sponsor, and streamline the process for everyone involved.
-
-**Form duplication**: Please ensure you submit one application for each event that you wish to sponsor.
-
-</thinking>
-
 # Ski Event Sponsorship Application - Help Guide
 ## Purpose
 The Ski Event Sponsorship Application is designed to gather relevant information for potential sponsors interested in supporting our ski events. 

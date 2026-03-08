@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a person's fitness habits and preferences regarding home fitness equipment and gym membership. The form will help us understand the types of equipment people use at home and whether they have a gym membership. This form is designed to be completed by individuals who are interested in sharing their fitness experiences and preferences. We have not duplicated this form's purpose or content in any other form within the system.
-</thinking>
-
 # gym_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your fitness habits and preferences regarding home fitness equipment and gym membership.

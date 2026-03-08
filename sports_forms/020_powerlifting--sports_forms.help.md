@@ -1,7 +1,3 @@
-<thinking>
-Is the form being used to track powerlifting progress or data for lifters? Is it meant for individual lifters or teams? Are there any specific fields that require unique formatting or calculations? Is the "form_data" field supposed to be a free text field for general notes or is it more structured, perhaps for specific data types (e.g., weight, reps, etc.)? How are "Lifter List" and "Lifters" fields related? Are they mutually exclusive? Are the "weight_class" and "weight" fields used for different purposes? Are "max_weight", "reps", and "sets" fields meant for tracking workout data or competition data? Are "notes" and "form_data_notes" fields meant for different types of comments or notes? Are "phone" and "email" fields for contact information? Are "time" and "form_data_time" fields for timing data or scheduling information? How do the different fields interact with each other, and are they mutually exclusive? Are there any specific instructions or warnings for filling out certain fields?
-</thinking>
-
 # Powerlifting - Help Guide
 ## Purpose
 This form is designed to collect and track powerlifting data for individual lifters. It is meant to be a comprehensive tool to record and analyze lifters' progress.

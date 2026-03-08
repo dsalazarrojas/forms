@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from sports club members about their overall satisfaction, comments, contact information, demographics, membership details, and preferences. The form aims to gather feedback from members to improve the sports club experience and tailor services to their needs. To ensure the form is completed accurately and effectively, please note that it is a crucial data collection tool used to inform future development and improvement of the sports club.
-</thinking>
-
 # sports_club_membership_survey - Help Guide
 ## Purpose
 

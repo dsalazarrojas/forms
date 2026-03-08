@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from sports media interview participants, ensuring they are aware of and consent to the terms of the interview. This includes user information, contact details, and consent statements to be reviewed. It also serves as a confirmation of contact information to ensure accurate representation.
-
-Before starting, please note that this form does not store or use any sensitive information and is intended for internal use only.
-</thinking>
-
 # Sports Media Interview Consent Form - Help Guide
 ## Purpose
 The Sports Media Interview Consent Form is designed to obtain consent from sports media interview participants. It's a simple form that collects essential information for the interview process.

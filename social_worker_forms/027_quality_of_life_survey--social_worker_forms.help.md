@@ -1,14 +1,3 @@
-<thinking>
-**Form Purpose and Validation Check**
-
-The purpose of the "Quality Of Life Survey" form is to gather information about a person's general well-being, including their address, contact information, and health-related data. This form may be used in various contexts such as research, studies, or data collection for a specific organization or entity. 
-
-To validate the use of this form: 
-- The form is designed for collecting information in the "social_worker" category, so it is likely intended for social workers, healthcare professionals, or organizations within this category.
-- The form's fields and structure should match the actual requirements of the organization or entity using it.
-- The form is not intended for collecting sensitive or personal financial information; it focuses on collecting contact and health-related information, which should be sufficient for social workers and healthcare-related activities.
-</thinking>
-
 # Quality Of Life Survey - Help Guide
 ## Purpose
 The Quality Of Life Survey is designed to collect information about your general well-being, health, and contact details.

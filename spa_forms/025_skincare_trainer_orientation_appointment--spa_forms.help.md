@@ -1,10 +1,3 @@
-<thinking>
-# Internal reasoning block to explain the form purpose and check for duplication:
-This form is designed to schedule a skincare trainer orientation appointment. It's a one-time form that collects relevant information from trainers and clients about the session date, time, trainer name, and topics to be covered. The form is likely used by spas or skincare institutions to manage their training sessions and ensure that the trainers and clients are aligned on the session details.
-
-To prevent duplication, this form should not be filled out multiple times by the same trainer or client for the same session date and time.
-</thinking>
-
 # Skincare Trainer Orientation Appointment - Help Guide
 ## Purpose
 This form is for scheduling a skincare trainer orientation appointment.

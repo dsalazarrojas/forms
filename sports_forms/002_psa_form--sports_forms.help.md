@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the number and details of children from a user, including their names, dates of birth, assessment levels, and medical conditions. This form is likely used for educational or assessment purposes in a school or educational institution.
-To avoid duplicate or inconsistent entries, the form is designed to collect information about each child one by one, with fields for name, date of birth, assessment level, and medical conditions.
-The form also includes a section to collect the user's consent to the collection and use of their child's information for assessment purposes.
-Finally, the form includes fields to collect the user's agreement to the terms and conditions of the assessment, as well as a confirmation field to ensure the user understands the implications of their consent.
-</thinking>
-
 # Psa Form - Help Guide
 ## Purpose
 The Psa Form is designed to collect information about the number and details of children from a user, including their names, dates of birth, assessment levels, and medical conditions. This information is likely used for educational or assessment purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from media sponsors for communication and record-keeping purposes. It should only be filled out by authorized personnel and is intended to provide a clear and concise way to document media sponsorships. The form should be filled out for each media sponsorship individually, and not duplicated for the same media sponsor across multiple forms.
-</thinking>
-
 # Media Sponsorship Communication Form - Help Guide
 ## Purpose
 This form is used to document media sponsorships for record-keeping and communication purposes. It collects information from media sponsors, including the type of media, sponsor name, contact details, and agreement status.

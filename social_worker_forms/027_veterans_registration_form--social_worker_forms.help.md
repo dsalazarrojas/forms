@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from veterans, and it's essential to ensure that the provided fields are accurate and comprehensive. Before proceeding, please verify that you are eligible to fill out this form, and ensure that you are not duplicating your registration information. If you have already registered, please do not fill out this form again.
-
-</thinking>
-
 # Veterans Registration Form - Help Guide
 
 ## Purpose
