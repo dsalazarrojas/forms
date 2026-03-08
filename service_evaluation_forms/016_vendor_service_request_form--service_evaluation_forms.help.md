@@ -1,11 +1,3 @@
-<thinking>
-We are going to create a comprehensive help guide for the "Vendor Service Request Form". The goal is to provide end users with a clear understanding of the form's purpose, how to complete it, and what each field means.
-
-The form is designed to collect information from vendors for service requests. It's used to communicate service needs and requirements to service requesters. To ensure relevance, we will not duplicate information that may already be known to the service requester.
-
-The main objective of this guide is to provide a step-by-step explanation of each field, ensuring that users understand what information is required and how to fill out the form correctly.
-
-</thinking>
 # Vendor Service Request Form - Help Guide
 ## Purpose
 The Vendor Service Request Form is a tool used to collect information from vendors for service requests. It helps communicate service needs and requirements to service requesters.

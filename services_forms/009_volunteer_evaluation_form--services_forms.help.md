@@ -1,11 +1,3 @@
-<thinking>
-This form is a volunteer evaluation form, likely used by an organization to gather feedback from volunteers about their experiences and evaluations of various aspects of the organization. The form is designed to be filled out by volunteers, likely as part of a regular feedback process. The form has 25 pages, each with its own set of questions and fields. Some pages have multiple options for answers, while others are more free-form and allow for text-based input. The form does not have any specific requirements for completion, and all fields are optional. This form may be used by HR, management, or other stakeholders within the organization to gather insights from volunteers and improve the overall volunteer experience.
-
-This form is quite extensive, and I'll assume that some pages are duplicates or variations of the same type of question. I will provide guidance on how to complete the form, focusing on the unique aspects and clarifying any ambiguous fields. I will provide concrete and concise explanations for each field, using the provided YAML as a reference.
-
-Please note that this form is not designed for public use, so I will not be providing public-facing documentation. Instead, this guide will be focused on the internal needs and use cases within the organization.
-
-</thinking>
 # Volunteer Evaluation Form - Help Guide
 
 ## Purpose

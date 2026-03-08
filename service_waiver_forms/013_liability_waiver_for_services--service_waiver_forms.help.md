@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information, emergency contacts, consent, dates, and other relevant details from individuals or entities that wish to engage in services that require liability waivers. This form is designed to gather information in a structured and concise manner, ensuring that all necessary data is captured for risk management and liability purposes. To prevent duplication, please fill out this form with unique contact information for each individual or entity, as repeated submissions may result in duplicate records.
-
-Before starting the form, ensure that you have all the required contact and emergency contact information readily available. If you need to fill out the form for multiple individuals or entities, repeat the process for each one, using unique contact information.
-
-Please note that some fields may not be required, but they are still essential for our risk management and liability purposes. If you have any questions or concerns about the form, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Liability Waiver For Services - Help Guide
 ## Purpose
 

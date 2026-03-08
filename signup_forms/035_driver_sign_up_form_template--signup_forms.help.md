@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from drivers for sign-up purposes. It is a template that can be used in various industries, such as transportation, delivery services, or ride-sharing. The form is not affiliated with any specific platform, and its purpose is to provide a basic structure for collecting relevant information from drivers. The form's design and content are created using AI, and it is released under a Creative Commons BY 4.0 license, allowing users to modify and use it as needed.</thinking>
-
 # Driver Sign Up Form Template - Help Guide
 ## Purpose
 This template is designed to collect information from drivers for sign-up purposes. It can be used in various industries, such as transportation, delivery services, or ride-sharing.

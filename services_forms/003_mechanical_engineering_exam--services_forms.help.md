@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Mechanical Engineering Exam form. The form is designed to collect information from users, including their personal details and mechanical engineering exam preferences.
-</thinking>
-
 # Mechanical Engineering Exam - Help Guide
 ## Purpose
 The Mechanical Engineering Exam form is designed to collect information from users about their mechanical engineering exam preferences.

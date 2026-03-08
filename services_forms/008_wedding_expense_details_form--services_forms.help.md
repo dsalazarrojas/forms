@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Expense Details Form - Help Guide
 
 ## Purpose

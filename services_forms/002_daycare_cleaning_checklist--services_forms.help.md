@@ -1,7 +1,3 @@
-<thinking>
-This form, the Daycare Cleaning Checklist, is designed to ensure that facilities are clean and hygienic for daycare centers. It assesses various areas of the facility, including general facility cleanliness, bathroom hygiene, kitchen cleanliness, outdoor space cleanliness, laundry facilities, toy area, office, dining room, outdoor play area, and storage areas. Completing this form is essential for maintaining a safe and healthy environment for children in daycare centers. Please note that the form is not required but rather intended to help centers identify areas that need improvement.
-</thinking>
-
 # Daycare Cleaning Checklist - Help Guide
 ## Purpose
 This form is intended to be used by daycare centers to assess the cleanliness and hygiene of various areas within their facilities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Management Report And Performance Log Form - Help Guide
 ## Purpose
 The Daily Management Report And Performance Log Form is a tool to provide a daily report and performance log for your assigned tools and tasks. This form helps you track your progress, update your team's status, and report on your work. It's essential to fill this form accurately and thoroughly to provide valuable insights for your daily management and performance analysis.

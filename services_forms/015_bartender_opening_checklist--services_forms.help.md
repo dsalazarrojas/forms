@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bartender Opening Checklist - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_library_sign_up_form - Help Guide
 
 ## Purpose

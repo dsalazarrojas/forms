@@ -1,16 +1,3 @@
-<thinking>
-We need to make sure this form is clear and intuitive to our end-users. The purpose of this form is to collect user consent for sharing their fitness data with a specified recipient. This form should only be used for legitimate purposes, such as research or collaboration with healthcare providers.
-
-Please ensure that the recipient's email address and name are accurate and up-to-date. The purpose of the data sharing should be clearly stated, and the time frame for sharing should be specific and reasonable.
-
-Before sharing data, double-check that you have the correct permissions and consents from all parties involved. This form is intended for users who have given their consent to share their data and should not be used for any other purpose.
-
-This form should only be shared with individuals or organizations that have a legitimate need for the user's data. Ensure that the recipient has a clear understanding of what data is being shared and how it will be used.
-
-Let's review the form's design and content to ensure it meets these requirements.
-
-</thinking>
-
 # Fitness Data Sharing Release Form - Help Guide
 ## Purpose
 The purpose of this form is to collect user consent for sharing their fitness data with a specific recipient. This form helps ensure that users are aware of and agree to the sharing of their data with a trusted recipient for a legitimate purpose.

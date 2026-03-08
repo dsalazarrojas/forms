@@ -1,15 +1,3 @@
-<thinking>
-
-To prevent duplication and ensure accurate completion, the form "Private Program Inquiry" is designed to gather information from users about specific events or sessions that they are interested in. 
-
-When filling out this form, please ensure that the event type, program type, and preferred dates are accurately selected. 
-
-This form will be reviewed internally to confirm event details and follow-up with the submitter for any additional information or questions. 
-
-Before submitting, double-check that all required fields are filled out, as incomplete submissions may cause delays in the review process. 
-
-</thinking>
-
 # Private Program Inquiry - Help Guide
 ## Purpose
 The Private Program Inquiry form is designed to gather information from users about specific events or sessions they are interested in. It will be reviewed internally to confirm event details and follow-up with the submitter for any additional information or questions.

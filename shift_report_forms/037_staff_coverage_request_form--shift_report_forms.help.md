@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow staff members to request coverage for their shifts. The form will collect information about the shift date, start time, length, and type of coverage being requested. The purpose of this form is to make it easier for managers to approve or decline these requests, and to record any comments or reasons for the decision. The form will help ensure that coverage requests are properly documented and communicated to the relevant parties. This form should only be used by staff members who are requesting coverage for their shifts, and should not be used for other purposes.
-</thinking>
-
 # Staff Coverage Request Form - Help Guide
 ## Purpose
 This form is used to request coverage for shifts that a staff member is unable to work.

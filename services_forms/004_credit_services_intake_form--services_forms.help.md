@@ -1,29 +1,3 @@
-<thinking>
-
-This form is designed to gather information from customers seeking credit services. The purpose of this form is to capture details about the customer's application type, contact information, employment status, income range, and other relevant details. This form aims to ensure accurate and efficient processing of credit services requests.
-
-To complete this form, follow these steps:
-
-1. Select the type of application you are making (Application for Loan, Credit Card, or Other).
-2. Enter your full name as it appears on your identification documents.
-3. Provide your current address where you can be contacted.
-4. Enter your phone number to ensure we can reach you.
-5. Enter your email address to facilitate communication.
-6. Indicate your current income range (e.g., $0 - $100,000, etc.).
-7. Choose your current employment status (e.g., Employed, Unemployed, Self-Employed, or Retired).
-8. Indicate the length of your employment history.
-9. Select the type(s) of employment you have (e.g., Full-time, Part-time, Freelance, or Internship).
-10. Identify the type(s) of investment you are interested in (e.g., Personal, Business).
-11. Select the type(s) of loan or credit you are applying for (e.g., Loan, Credit Card).
-12. Indicate the type of collateral you are interested in (e.g., Real Estate, Vehicle).
-13. Enter your credit score (a numerical value).
-14. Provide any relevant credit history details (e.g., past defaults, bankruptcies).
-15. Confirm whether you have provided employment verification (Yes or No).
-16. Confirm whether you have provided income verification (Yes or No).
-17. Confirm whether you have provided address verification (Yes or No).
-
-</thinking>
-
 # Credit Services Intake Form - Help Guide
 
 ## Purpose

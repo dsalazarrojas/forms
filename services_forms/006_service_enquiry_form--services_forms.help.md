@@ -1,7 +1,3 @@
-<thinking>...
-We are creating a form to gather user information and input about a service enquiry. This form is designed to be used by users to provide details about their interest in a particular service. The form will ask for the user's name, contact information, and service-related questions.
-...</thinking>
-
 # Service Enquiry Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users about their interest in our services. This form is used to collect contact information and service-related details.

@@ -1,7 +1,3 @@
-<thinking>
-This is a self-love quote submission form designed to collect inspirational and uplifting quotes from users. The form will help users share their personal favorite quotes, which will be reviewed and potentially featured on the platform. The form will not be used for any other purpose beyond collecting and showcasing user-submitted quotes. To avoid duplication, please do not submit multiple quotes from the same person.
-</thinking>
-
 # Self-Love Quote Submission Form - Help Guide
 ## Purpose
 The Self-Love Quote Submission Form is designed to collect inspiring and uplifting quotes from users. Submissions will be reviewed, and selected quotes may be featured on the platform.

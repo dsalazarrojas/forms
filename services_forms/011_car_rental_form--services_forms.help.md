@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the form's purpose and ensure it's not a duplicate or unnecessary effort. This form appears to be for car rental information, which is a common and essential form for rental agencies. The fields seem to be comprehensive, covering basic information, rental details, and optional add-ons. I'll proceed with creating the guide, but if you'd like to review any specific fields or make changes, please let me know.</thinking>
-
 # Car Rental Form - Help Guide
 ## Purpose
 This form is designed for car rental customers to provide their information for a successful rental experience. Please fill out the form accurately and comprehensively to ensure a smooth rental process.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to participate in a specific task. It will be used to gather the necessary details for task assignment and scheduling. The form does not have any required fields. This form should not be used for other purposes as it is designed for task participation, and any redundant submissions may lead to confusion and errors.</thinking>
-
 # Task Participation Sign Up - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for a specific task.

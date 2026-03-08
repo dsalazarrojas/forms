@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to collect participant's consent for sharing remote workshop recordings. This form is part of the workshop management process and is used to ensure that participants understand and agree to the sharing of their recorded sessions...</thinking>
-
 # Remote Workshop Recording Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant's consent for sharing remote workshop recordings. The form is part of the workshop management process and helps ensure that participants understand and agree to the sharing of their recorded sessions.

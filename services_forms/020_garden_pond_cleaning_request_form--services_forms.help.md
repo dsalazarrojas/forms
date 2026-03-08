@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request garden pond cleaning services, and the user is supposed to indicate whether they would like to schedule an appointment or not. If they choose to schedule an appointment, they will be asked to select a day and time for the cleaning. They will also be asked for their client information and details about the pond they want cleaned. The form is designed to be as straightforward as possible, and each field has a clear purpose. There is no need for users to complete this form unless they need to request a pond cleaning, in which case, they should select "Yes" in the first field.
-</thinking>
-
 # Garden Pond Cleaning Request Form - Help Guide
 
 ## Purpose

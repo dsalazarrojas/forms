@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer testimonials from users who have had a positive experience with the company. The form will ask for their name, a brief testimonial message, their rating of the company, if they would recommend the company, and their contact information (email and phone number). This form is not required, but it can help us better understand customer feedback and improve our services.
-</thinking>
-
 # Customer Testimonial Form - Help Guide
 ## Purpose
 The purpose of this form is to collect customer testimonials from users who have had a positive experience with the company. This will help us understand customer feedback and improve our services.

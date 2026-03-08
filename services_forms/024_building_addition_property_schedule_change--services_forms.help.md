@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information regarding changes to a property's schedule. This form is used to request changes to a property's schedule, including additions, deletions, boundary changes, use changes, ownership changes, zoning changes, and assessment changes. This form is used by property requestors to submit their requests and supporting documentation. It is essential to ensure that all required fields are completed accurately and truthfully.
-
-Before filling out this form, please verify that the information you are providing is correct and complete. If you are unsure about any field, please contact the relevant authorities for clarification.
-
-This form has two parts: mandatory and non-mandatory fields. Mandatory fields are marked as "required" in the form and must be completed. Non-mandatory fields are optional and can be left blank if not applicable. Please fill out the form carefully, and if you have any further questions or concerns, do not hesitate to contact us.
-
-</thinking>
-
 # Building Addition Property Schedule Change - Help Guide
 ## Purpose
 The purpose of this form is to collect information regarding changes to a property's schedule, including additions, deletions, boundary changes, use changes, ownership changes, zoning changes, and assessment changes.

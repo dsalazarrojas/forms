@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers who are interested in booking a GhostHouse Haunted Tours. The form is used to gather essential details such as the tour date and time, number of guests, contact email, and contact phone number. This information will be used to provide a customized experience for the customers and to ensure that the tour guides are prepared for the visit. It's crucial that the form is filled out accurately and completely to guarantee a successful tour.
-</thinking>
-
 # GhostHouse Haunted Tours - Help Guide
 ## Purpose
 The GhostHouse Haunted Tours form is a tool to collect information from customers to provide a customized and successful tour experience. Please fill out the form below to reserve your tour.

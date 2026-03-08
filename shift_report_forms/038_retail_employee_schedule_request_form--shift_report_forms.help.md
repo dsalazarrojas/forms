@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block**
-This form is intended for retail employees to request changes to their schedule. Employees can request changes to their shift start and end times, as well as other shift details like shift notes and availability. The form also asks for manager confirmation, employee confirmation, and notes on the schedule update. This form is designed to be completed by the employee, with the manager review and confirmation required for any changes. This form will help prevent duplication of effort and ensure that both the employee and manager are on the same page regarding shift changes.
-
-</thinking>
-
 # Retail Employee Schedule Request Form - Help Guide
 ## Purpose
 The Retail Employee Schedule Request Form is a tool for retail employees to request changes to their scheduled shifts. This form helps ensure that both the employee and manager are on the same page regarding shift changes and updates.

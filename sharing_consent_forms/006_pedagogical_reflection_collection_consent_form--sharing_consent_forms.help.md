@@ -1,9 +1,3 @@
-<thinking>
-
-We are creating a form for collecting consent for pedagogical reflection. This form will be used to capture essential information from users, including their name, email, and consent status. We aim to collect accurate and complete information to ensure a smooth and compliant process. 
-
-</thinking>
-
 # Pedagogical Reflection Collection Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent for the collection and use of pedagogical reflections. It is essential that you understand the purpose and requirements of this form before proceeding.

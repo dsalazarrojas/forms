@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Colorful Subscribe Form is to allow users to subscribe to receive newsletters, promotions, and other content from your organization. This form is meant to collect information from potential subscribers, including their email address, interests, and preferred format for the content they wish to receive. By collecting this data, you can tailor your content and promotional efforts to better meet the needs and preferences of your subscribers. Please note that this form is not intended for users who have already subscribed or have previously expressed interest in your organization's offerings.
-</thinking>
-
 # Colorful Subscribe Form - Help Guide
 ## Purpose
 The Colorful Subscribe Form is designed to collect subscriber information and preferences to provide personalized content and promotional efforts.

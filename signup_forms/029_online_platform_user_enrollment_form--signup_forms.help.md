@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to prevent duplication and ensure that users understand the purpose of the form and how to complete it accurately.
-</thinking>
-
 # Online Platform User Enrollment Form - Help Guide
 ## Purpose
 The Online Platform User Enrollment Form is a comprehensive form designed to collect user information, preferences, and account details for the online platform. The form is divided into several sections, each with specific fields that require accurate and relevant input to ensure proper user registration and account setup.

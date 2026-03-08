@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a person's funeral wishes, preferences, and arrangements in the event of their passing. The form should only be used to gather information for the deceased or their representatives. The form is not intended for general use and is designed to provide clarity and consistency in funeral planning. It's essential to ensure that the correct fields are filled out accurately and completely. The form should only be completed by the person's family members or close relatives, as they would be best suited to provide the necessary information.
-
-</thinking>
-
 # Funeral Wishes Form - Help Guide
 ## Purpose
 This form is used to collect information about a person's funeral wishes, preferences, and arrangements in the event of their passing.

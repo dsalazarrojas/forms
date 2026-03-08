@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # team_recruitment_video_appearance_consent_form - Help Guide
 
 ## Purpose

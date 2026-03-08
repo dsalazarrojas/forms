@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Clothing Alterations Appointment Request Form" based on the provided YAML fields.</thinking>
-
 # Clothing Alterations Appointment Request Form - Help Guide
 ## Purpose
 The "Clothing Alterations Appointment Request Form" is designed to gather information from customers for their desired alteration requests. It allows customers to provide details such as their personal information, appointment preferences, and specifics of the alterations needed.

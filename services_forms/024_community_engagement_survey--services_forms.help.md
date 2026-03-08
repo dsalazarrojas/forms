@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to measure community engagement among community members. It asks respondents for demographic information, level of engagement, and perceptions of various aspects of the community, such as safety and quality of life. The goal is to gather input from community members to help identify areas of strength and weakness within the community. Please ensure that you are taking this form as a representative of the community being surveyed.
-</thinking>
-
 # Community Engagement Survey - Help Guide
 
 ## Purpose

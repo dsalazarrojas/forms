@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML schema, I notice that this form is designed to capture information about a work order or job details. It appears to be a draft version of a work order form, and it's focused on collecting various aspects of a job, such as personal information, equipment usage, and work duration. The form is composed of 17 fields, each with its own label, hint, and type. I'll make sure to provide a clear and concise explanation of each field to guide the user through the completion of this form.</thinking>
-
 # prophets pracy general_work_order_information_draft_1_test - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a work order or job details. This form is a draft version of a work order form, and its main goal is to gather essential data about the job, such as equipment usage, work duration, and job status.

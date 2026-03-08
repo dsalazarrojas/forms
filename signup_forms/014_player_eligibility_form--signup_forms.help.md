@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from players to assess their eligibility to participate in certain activities or events. The form is designed to gather basic contact information (name, email, phone number, and address) and medical information (health problems, sports history) to ensure players' safety and compliance with regulations. This form should only be filled out by individuals who are new to the platform, as existing users will not need to fill it out again. 
-
-</thinking>
-
 # Player Eligibility Form - Help Guide
 ## Purpose
 This form is used to collect information about players to assess their eligibility to participate in certain activities or events. This information is used to ensure players' safety and compliance with regulations.

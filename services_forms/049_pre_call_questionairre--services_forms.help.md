@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pre-call-questionairre - Help Guide
 
 ## Purpose

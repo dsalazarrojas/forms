@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, I've analyzed the input YAML file. The form appears to be a membership registration form for a fitness chain with multiple locations. It collects information about the member, their emergency contact, medical conditions, and billing details. This form likely uses the information to create or update a member's record and associate it with their billing information.
-</thinking>
-
 # Fitness Chain Multi Location Membership Form - Help Guide
 ## Purpose
 This form is used to register a member's information and emergency contact details for a fitness chain with multiple locations. It includes fields for personal information, emergency contact, medical conditions, and billing details.

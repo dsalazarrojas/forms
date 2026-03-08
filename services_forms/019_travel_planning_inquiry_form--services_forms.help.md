@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for travel planning inquiries, gathering information on whether or not users are interested in travel planning services, the type of service they are interested in, and the date they plan to travel. The form is designed to be filled out by customers who are inquiring about travel planning services.
 
 # travel_planning_inquiry_form - Help Guide

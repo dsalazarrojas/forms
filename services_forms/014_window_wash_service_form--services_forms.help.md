@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used by a company or individual offering window washing services to their customers. The purpose of this form is to collect information from the customer, such as their name, address, and service preferences, to provide a personalized window washing experience. This form likely helps the service provider to understand the customer's needs and schedule the service accordingly.
-
-To avoid duplication and ensure that customers are not confused, it's essential to provide clear and concise instructions for filling out the form.
-
-</thinking>
-
 # Window Wash Service Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for window washing services.

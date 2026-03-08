@@ -1,20 +1,3 @@
-<thinking> 
-
-To prevent duplication, I will ensure that the form can only be submitted by customers who are not repeat visitors. This form will be used to collect necessary information about a customer's carpet cleaning request. This includes their contact details, service location, and specific requirements for the cleaning service. By gathering this information, we can better understand the customer's needs and provide a more efficient and effective service.
-
-The form will be used to collect the following data:
-* Customer contact details
-* Service address and location
-* Type of carpet to be cleaned
-* Type of service required
-* Additional services
-* Scheduling preferences
-* Payment method
-
-Please refer to the form below for a detailed explanation of each field.
-
-</thinking>
-
 # Carpet Cleaning Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your carpet cleaning request, including your contact details, service location, and specific requirements for the cleaning service.

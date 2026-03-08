@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to enroll users into a travel rewards program. It is intended for users who wish to participate in the program and start earning rewards for their travel-related activities. To determine if this form is relevant to the user, we will check if the user is not already enrolled in the program or if the user's account is not already associated with a travel-related activity. This guide will walk the user through the form fields and their purpose.
-</thinking>
-
 # Travel Rewards Program Enrollment - Help Guide
 ## Purpose
 The Travel Rewards Program Enrollment form is designed to help users enroll into the travel rewards program. This form is intended for users who wish to participate in the program and start earning rewards for their travel-related activities.

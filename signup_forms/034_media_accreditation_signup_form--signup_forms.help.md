@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from media representatives for accreditation purposes. The form will help us understand their contact information, media type, and accreditation status. We should double-check that the form is not being used for other purposes, such as data collection for marketing or sales. We should also make sure that the form is only filled out once per media representative.
-</thinking>
-
 # media_accreditation_signup_form - Help Guide
 ## Purpose
 This form collects information from media representatives for accreditation purposes.

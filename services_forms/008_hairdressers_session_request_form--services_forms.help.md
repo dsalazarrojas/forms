@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a hairdresser session. It seems to be a simple form to collect information from clients about their hairdresser requests. The purpose of this form is to gather client and session details, as well as payment terms. This form does not appear to be part of a larger survey or data collection process, so it is likely intended for individual client communication. There is no indication that this form is related to any specific business or organization, so it's possible that this form is a general template for hairdresser clients. I will now create the help guide for this form.
-</thinking>
-
 # Hairdressers Session Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their hairdresser session requests. It helps hairdressers understand client preferences and requirements for a successful session.

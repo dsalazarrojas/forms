@@ -1,7 +1,3 @@
-<thinking>...This form will be used to collect information from customers or clients to provide handyman services. It is designed to capture relevant details about the service request, including the customer's information, the service they are requesting, detailed information about the job, their preferred contact method, and their contact number or email. The form will likely be used by the handyman service team to respond to and fulfill the service requests. This explanation is to ensure that the form is used correctly, and the team has all the necessary information to provide the best possible service.
-
-... </thinking>
-
 # Handyman Service Request Form - Help Guide
 ## Purpose
 The Handyman Service Request Form is used to collect information from customers or clients to provide handyman services.

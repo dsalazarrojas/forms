@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to meet and greet with their pets. The purpose of this form is to gather essential details about the user and their pet for the meet-and-greet session. This form will be used internally to prepare for the meet-and-greet event.
-
-To avoid duplication of effort, please ensure that you have not already submitted the form before attempting to complete it again. If you have previously submitted the form, please do not resubmit the same information.
-
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 The Doggie Meet & Greet Info Form is a collection of questions that will help us prepare for the meet-and-greet session with you and your pet. Please answer all the questions honestly and accurately to ensure a smooth and enjoyable experience for both you and your pet.

@@ -1,7 +1,3 @@
-<thinking>
-Please confirm that this form is for reporting security patrol activities in residential areas and ensure that it is not a duplicate or outdated form. The form is intended for officers to report their activities during a residential security patrol, including the start and end times of the patrol, the residential address of the area patrolled, and a description of the activities performed. This form should only be used for reporting activities that occur on residential security patrols, and not for other types of patrols or activities.
-</thinking>
-
 # Residential Security Patrol Activity Report Form - Help Guide
 ## Purpose
 The Residential Security Patrol Activity Report Form is designed to record the activities performed during a residential security patrol. This form is intended for use by security officers to report their activities, including start and end times, residential address, and a description of the activities performed.

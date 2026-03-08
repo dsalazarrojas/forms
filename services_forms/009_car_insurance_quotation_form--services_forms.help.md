@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather information from vehicle owners to provide a car insurance quotation. It's intended for users to provide details about themselves and their vehicle to receive a quote on car insurance services. The form is divided into sections for owner information and vehicle information. Each section is self-contained, with clear labels and instructions to guide the user through the process. The form's fields are designed to gather specific details that will help in determining the user's insurance needs and provide a tailored quote.</thinking>
-
 # Car Insurance Quotation Form - Help Guide
 ## Purpose
 This form is designed to gather information from vehicle owners to provide a car insurance quotation.

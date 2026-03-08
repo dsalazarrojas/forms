@@ -1,7 +1,3 @@
-<thinking>Internal reasoning: This form, "security_officer_daily_shift_form", is likely used by security officers to report their daily activities and observations during their shift. The form might be used for record-keeping, incident reporting, or as a means to communicate with colleagues. It's essential to ensure that each field is completed accurately and thoroughly to provide a clear picture of the officer's daily work. To avoid duplication, security officers should only report new incidents, and not repeat previously reported ones.
-
-</thinking>
-
 # security_officer_daily_shift_form - Help Guide
 ## Purpose
 The security_officer_daily_shift_form is designed for security officers to report their daily activities, including any incidents they've encountered, and provide comments on their observations. This form helps record-keeping and communication within the team.

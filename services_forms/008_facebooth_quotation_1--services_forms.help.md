@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an event, specifically an event name, date, time, location, and details. It also collects information about the services offered and the photographer and videographer assigned to the event. Each field is meant to be completed by an authorized representative of the event. The form is meant to be completed by the event planner or coordinator to ensure that all necessary information is collected for the event. This form should not be used for general inquiries or requests, but rather for specific events that require a high level of customization and attention to detail.
-</thinking>
-
 # facebooth_quotation_1 - Help Guide
 ## Purpose
 This form is used to collect event information for events that require a high level of customization and attention to detail. It is meant to be completed by event planners or coordinators to ensure that all necessary information is collected.

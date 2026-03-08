@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Lead Magnet Checklist Form - Help Guide
 ## Purpose
 The Lead Magnet Checklist Form is used to collect essential details and preferences from individuals interested in learning more about a particular lead magnet or resource. This form helps the lead generation team understand the level of interest, contact information, and additional preferences from potential leads, which enables the team to tailor the lead magnet and follow-up process to better serve their needs.

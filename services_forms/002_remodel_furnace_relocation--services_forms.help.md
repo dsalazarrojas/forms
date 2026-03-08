@@ -1,14 +1,3 @@
-<thinking>
-To determine the correct form purpose, we need to understand the context and requirements of the form fields. The form is part of the "services_forms" category, which suggests it is related to services or tasks that users can perform or request. The form fields include "Upload File", "Schedule Renovation", "What type of renovation would you like to schedule?", "Select Renovation Type", "Email", and "Phone". Considering the field labels, it seems that the form might be for users to schedule a renovation, potentially to relocate or reposition a furnace in a residential or commercial setting.
-
-Given this context, the form purpose appears to be for users to submit a renovation request with relevant details. This could be for customers or users who want to schedule a renovation for a residential or commercial property, such as a home or office building.
-
-To determine if the form is a duplicate, we need to analyze its fields and structure. Looking at the fields, it seems the form is a simple submission form with various fields for collecting user information. There are no fields that directly indicate a duplicate submission or existing user information, suggesting it is not a form for tracking duplicate submissions.
-
-Assuming this form is intended for users to submit new renovation requests, let's create a help guide based on this assumption.
-
-</thinking>
-
 # Remodel Furnace Relocation - Help Guide
 ## Purpose
 This form is used to submit a request to schedule a renovation for furnace relocation. This may include repositioning or relocating a residential or commercial furnace in a property.

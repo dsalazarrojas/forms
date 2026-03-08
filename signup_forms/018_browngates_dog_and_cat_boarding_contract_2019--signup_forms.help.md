@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is for the Browngates Dog And Cat Boarding Contract 2019. As an expert form designer and technical writer, I will create a user-facing help guide that explains each field in a clear and concise manner.
-</thinking>
-
 # Browngates Dog And Cat Boarding Contract 2019 - Help Guide
 ## Purpose
 This form is for the Browngates Dog And Cat Boarding Contract 2019. It is used to collect information from the owner about their pet's details, boarding dates, and other relevant information for the pet's stay at Browngates.

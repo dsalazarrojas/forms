@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to request bin cleaning services. It's designed to collect necessary information for efficient and effective service delivery. Before proceeding, please ensure you have reviewed the provided fields carefully and only submit if you have all required information available. Please note that this form is not meant to be used for duplicate requests or general inquiries.
-</thinking>
-
 # Bin Cleaning Service Request - Help Guide
 ## Purpose
 This form is designed to collect information required for efficient and effective bin cleaning services. It allows customers to provide their contact details, bin cleaning requirements, and service preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record and report the status of a transformer service. It provides a way to document the service report, categorize the service, and track the transformer's condition. The form can be used by technicians to submit reports on the service performed on a transformer.
 
 # Transformer Service Report - Help Guide

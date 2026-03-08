@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a funeral program, likely for administrative or logistical purposes. The form is not affiliated with, endorsed by, or derived from any form platform, but rather a creative adaptation of the "services_forms" category. The form's purpose is to gather relevant data for a funeral program, which could be used for various tasks such as planning, organization, or communication. 
-</thinking>
-
 # Funeral Program Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information for a funeral program. It is a collection of questions that will help you gather the necessary details to create a well-planned and organized funeral program.

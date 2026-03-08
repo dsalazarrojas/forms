@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Delivery Quotation Form - Help Guide
 ## Purpose
 The "Delivery Quotation Form" is designed to capture information about deliveries, allowing administrators to efficiently manage delivery requests from customers. This form collects relevant data such as customer details, delivery date, product details, and more.

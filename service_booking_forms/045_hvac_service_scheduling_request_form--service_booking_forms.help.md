@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or clients to schedule a service visit for their HVAC systems. It is likely used by a business that offers HVAC services such as maintenance, repair, or replacement of heating, ventilation, and air conditioning systems. The form should be completed by a person interested in scheduling a service visit, and it will ask for details such as the type of service needed, date and time of the visit, contact information, and any additional comments or messages. It's best to ensure that each field is accurate and complete to avoid delays or miscommunication.
-</thinking>
-
 # HVAC Service Scheduling Request Form - Help Guide
 ## Purpose
 The HVAC Service Scheduling Request Form is a form designed to collect information for scheduling a service visit related to heating, ventilation, and air conditioning systems.

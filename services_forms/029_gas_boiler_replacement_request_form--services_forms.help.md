@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide effective support to our clients, please ensure that this form is not filled out by anyone other than the client or a person authorized to act on their behalf. 
 
 ## Gas Boiler Replacement Request Form - Help Guide

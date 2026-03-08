@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # welcome_to_your_color_street_wish_list_00 - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Butta's Catering Contract - Help Guide</thinking>
-
 # Butta's Catering Contract - Help Guide
 ## Purpose
 The Butta's Catering Contract is a form used to gather necessary information for catering services, including the client's name and contact details, event details (name, date, time, location, and type), and specific requirements for services such as menu, staff, and equipment rentals. This guide will walk you through each field to ensure you have a successful and stress-free catering experience.

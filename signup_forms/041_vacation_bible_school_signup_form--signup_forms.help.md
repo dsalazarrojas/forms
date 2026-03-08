@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents to register their child for the Vacation Bible School. This form is designed to gather essential details such as parent and child information, contact details, and group affiliation. 
-</thinking>
-
 # Vacation Bible School Signup Form - Help Guide
 ## Purpose
 This form is used to register your child for the Vacation Bible School. Please fill out the form accurately and thoroughly to ensure your child's information is up-to-date.

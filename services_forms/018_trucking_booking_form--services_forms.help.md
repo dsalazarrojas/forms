@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to be a simple booking form for trucking services. It is likely used by customers or clients to submit requests for transportation or logistics services. This form is probably used in a business-to-business (B2B) or business-to-consumer (B2C) context. To confirm, let's break down each field to understand what information is being requested.</thinking>
-
 # Trucking Booking Form - Help Guide
 ## Purpose
 The Trucking Booking Form is a simple form used to submit requests for trucking services. It is likely used by customers or clients to send their transportation or logistics needs to the trucking company.

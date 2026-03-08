@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect consent for the usage of participant images, voices, and work in a sustainability education film. 
-
-The form is intended for participants, such as students or teachers, who will be featured in the film. 
-
-Before filling out the form, please ensure you have read and understood the purpose and usage of the form. 
-
-The form is not meant for internal employees or external collaborators of the organization, but for external participants. 
-
-Please fill out this form if you have been asked to participate in the sustainability education film by your organization. 
-
-</thinking>
-
 # sustainability_education_film_appearance_consent_form - Help Guide
 
 ## Purpose

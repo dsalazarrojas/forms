@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users who are interested in requesting a personal trainer. The form is designed to gather essential details such as first and last names, email, phone number, and services they are interested in. The form aims to provide a comprehensive understanding of the user's needs and preferences, allowing the personal training team to tailor their services accordingly.
-
-To prevent duplication and ensure accuracy, this form should only be filled out once and by the person who is requesting the services.
-
-</thinking>
-
 # personal_trainer_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who are interested in requesting a personal trainer. It is designed to provide the personal training team with the necessary details to tailor their services according to the user's needs and preferences.

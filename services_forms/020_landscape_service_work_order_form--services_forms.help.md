@@ -1,8 +1,3 @@
-<thinking>
-A landscape service work order form is used by a business to gather information from customers about their landscaping service needs. It is used to schedule and organize jobs more efficiently and provide a professional way of documenting customer service requirements. This form is designed to collect information such as start and end dates, service locations, customer names, and service notes. It will help the business to understand customer's needs and preferences for their services.
-
-</thinking>
-
 # Landscape Service Work Order Form - Help Guide
 ## Purpose
 The Landscape Service Work Order Form is a tool used by businesses to gather information from customers about their landscaping service needs.

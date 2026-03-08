@@ -1,15 +1,3 @@
-<thinking>
-This form is used to manage customer service requests for the Utility Junction service. A typical user would be a customer who needs assistance with either electric, gas, or water services. The form is designed to be easy to fill out and provides a clear and concise way to submit service requests.
-
-Before filling out this form, please ensure that you:
-- Have a valid service request
-- Have not already submitted a similar request
-- Are providing accurate and complete information
-
-If you're unsure about any of these points, please reach out to the service provider before proceeding.
-
-</thinking>
-
 # Utility Junction Service Request Form - Help Guide
 ## Purpose
 This form is used by customers to submit service requests for utility services such as electric, gas, or water. It is a straightforward and easy-to-use form that allows customers to provide their information and submit a service request.

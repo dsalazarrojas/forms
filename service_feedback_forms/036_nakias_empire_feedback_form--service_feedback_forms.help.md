@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about the "Nakias Empire" service. It is an important part of our process to understand how we can improve and better serve our customers. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather a custom-made form created using AI.
-
-To ensure the quality and relevance of the feedback, we kindly request that customers fill out this form only if they have a genuine issue or suggestion regarding our service. We appreciate your feedback and will review it carefully.
-
-Please fill out this form only once, and if you have multiple feedback, you can submit multiple times. We will ensure that your feedback is not duplicated.
-
-</thinking>
-
 # nakias_empire_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about the "Nakias Empire" service. Your input is invaluable in helping us understand how we can improve and better serve you.

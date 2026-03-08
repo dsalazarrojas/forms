@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to collect payment information and vehicle details from customers for the car detailing service. The form is structured to gather essential data about the customer, their vehicle, and the service they wish to receive. We will be using the collected information to process payments, schedule the service, and deliver the service according to the customer's preferences.
-</thinking>
-
 # Car Detailing Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information and vehicle details for our car detailing service. Please ensure you fill it out accurately to ensure a smooth process.

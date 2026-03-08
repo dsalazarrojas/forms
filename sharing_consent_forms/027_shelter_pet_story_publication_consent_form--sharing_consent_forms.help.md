@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure clarity and accuracy, let's first clarify the purpose and requirements of this form within the organization's internal reasoning.
-
-This form is a crucial document that captures the consent and contact information of users and shelters, ensuring that their stories and media are used with their approval and consent. It's essential to note that this form should be completed carefully, as it's a legal document that confirms the user's and shelter's authorization to use their stories and media.
-
-We should double-check that the form is filled out correctly to avoid any potential issues or miscommunication. This guide will help users understand the form's purpose and how to complete it accurately.
-
-</thinking>
-
 # Shelter Pet Story Publication Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from users and shelters for the publication of their stories and media. It's a necessary step to ensure that their content is used with their approval and consent.

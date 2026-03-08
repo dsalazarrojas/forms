@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from users requesting landscaping services. It consists of 5 pages, with the main page asking users to provide contact details and select a service, then provide more details, and finally submit their request. The form is designed to be simple and straightforward, allowing users to easily provide the necessary information.
 
 # Landscaping Service Request Form - Help Guide

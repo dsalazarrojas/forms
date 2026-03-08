@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Evaluation Form - Help Guide
 ## Purpose
 The Hotel Evaluation Form is designed to collect feedback from customers about their stay at our hotel. This form helps us understand their satisfaction, experience, and any issues they faced during their stay. We appreciate your honest feedback, which will aid us in improving our services and provide better experiences for our future guests.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for individuals to provide information about themselves as advocates for AI safety. 
-The form is meant to collect data on potential volunteers' details, expertise, and availability. 
-The form is not meant to be a comprehensive or exhaustive list of all possible AI safety issues or concerns.
-This form is for people with a genuine interest in AI safety advocacy and willing to volunteer their time and resources.
-Please fill in the fields accurately and honestly to help the AI advocacy group coordinate and plan its actions effectively.
-</thinking>
-
 # AI Safety Advocacy Form - Help Guide
 ## Purpose
 The AI Safety Advocacy Form is designed to collect information from individuals who want to volunteer their time and resources to support the AI Safety Advocacy Group. This form helps the group understand who is interested in advocating for AI safety and how they can contribute.

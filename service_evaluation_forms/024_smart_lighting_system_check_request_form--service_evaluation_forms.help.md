@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a Smart Lighting System issue that needs to be addressed. This form is designed to gather relevant details from the user, including their name, contact information, a description of the issue, the type of smart lighting system involved, the location where the issue is occurring, the priority level of the issue, and the preferred agent to be assigned to address the issue. This form will help the support team understand the context and assign the right person to handle the issue efficiently.
-
-To prevent duplication, please note that this form is intended for new issues only. If you have already reported the issue, please refrain from submitting this form again. 
-
-</thinking>
-
 # Smart Lighting System Check Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a Smart Lighting System issue that needs to be addressed.

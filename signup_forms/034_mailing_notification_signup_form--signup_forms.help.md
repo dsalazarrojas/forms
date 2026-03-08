@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form, which is used for users to sign up and provide their notification preferences. The form has several fields that require user input, and our goal is to ensure that users understand what each field is for and how to complete it. This is the second step in the process, where we provide an explanation of the form purpose and usage.
-</thinking>
-
 # mailing_notification_signup_form - Help Guide
 ## Purpose
 This form is designed to collect information from users to enable them to receive notifications via preferred channels. Please fill out the form with your details to complete your signup.

@@ -1,11 +1,3 @@
-<thinking>
-
-To avoid confusion and potential duplication, this form should be used to provide explicit consent for Smart Key Integration, a feature that grants access to a smart lock. This form is designed to collect essential information and settings for the smart lock, ensuring that users are aware of the implications and permissions associated with the integration. 
-
-The form should only be filled out once, and the user should be able to review their details before submitting the form.
-
-</thinking>
-
 # Smart Key Integration Consent Form - Help Guide
 ## Purpose
 

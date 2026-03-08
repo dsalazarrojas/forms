@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thanksgiving_bake_sale_pre_order_form - Help Guide
 
 ## Purpose

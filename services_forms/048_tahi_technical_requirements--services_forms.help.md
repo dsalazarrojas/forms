@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used to collect information for a technical project or collaboration. The purpose of this form is to gather personal contact details and relevant information for a technical project. It seems like it's a basic contact form with some project-specific fields. The form is not for public consumption, so it's likely intended for internal use within the organization or project team.
-
-The form will be used to collect the following information: first name, last name, email address, phone number, project start date, project end time, any additional notes, and an artist statement (which might be a creative or descriptive field). It's possible that this form will be used for project planning, organization, or collaboration purposes.
-
-The following sections and fields have been identified: First Name, Last Name, Email, Phone, Date, Time, Note, and Artist Statement.
-
-Please review the following sections carefully to ensure you understand the purpose and usage of this form.
-
-</thinking>
-
 # Tahi Technical Requirements - Help Guide
 ## Purpose
 This form collects personal contact details and project information for technical project purposes.

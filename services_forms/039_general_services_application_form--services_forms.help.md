@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for general services requests. The purpose of the form is to gather essential details from the user regarding the services they require, the dates they are available for services, the location they are interested in, and other relevant contact information. This form will help service providers or staff to process and fulfill the service requests efficiently. Before filling out this form, make sure to review the information you are providing and that it is accurate and up-to-date. Ensure that you have filled out all required fields to ensure that your service request is processed correctly.
-</thinking>
-
 # General Services Application Form - Help Guide
 ## Purpose
 The General Services Application Form is designed to collect essential details from users for general services requests.

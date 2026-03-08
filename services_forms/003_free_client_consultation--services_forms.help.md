@@ -1,18 +1,3 @@
-<thinking>
-This form is part of the "services_forms" category, and as such, it falls under the broader context of gathering information for clients or customers. Given this, a good starting point for the help guide is to clarify the form's purpose.
-
-The "free_client_consultation" form likely aims to gather details for a free client consultation or meeting, which could be for various reasons such as initial consultations for services, advice, or simply to discuss business opportunities. It's a straightforward form with a focus on capturing essential information from the client side, likely to be reviewed or used in subsequent meetings or discussions.
-
-Checking for relevance and non-duplication:
-
-*   This form is likely to be used in various settings where a consultation is necessary, such as business consulting, healthcare, or other services industries.
-*   The purpose of the form should be clear in its context and usage, avoiding duplication of other forms within the "services_forms" category.
-*   The form should be designed for a specific use case, ensuring each field is relevant and necessary for its completion.
-
-Given the form's simplicity and straightforward design, the main focus is on ensuring end-users understand what and how to fill it out correctly.
-
-</thinking>
-
 # free_client_consultation - Help Guide
 ## Purpose
 This form is designed to gather information for a free client consultation or meeting. It is intended to collect details from clients or customers for an initial meeting to discuss business, advice, or other services related needs.

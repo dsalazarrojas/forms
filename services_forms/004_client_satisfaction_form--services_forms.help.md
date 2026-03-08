@@ -1,25 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Client Satisfaction Form", we should consider the following factors:
-
-* The form is designed to collect feedback from clients regarding their experience with a service they received.
-* The form is likely to be used in a business-to-client setting, where clients are expected to provide feedback on their satisfaction with the service they received.
-* The form's primary goal is to gauge the client's overall satisfaction with the service, which will help the service provider to understand their strengths and weaknesses.
-
-The form is divided into several sections, each with a specific label that describes its purpose. The sections are:
-* Client Details
-* Service Details
-* Service Satisfaction
-* Feedback
-* Recommendation and Future Use
-
-The fields in the form include text, email, date, select_one, select_multiple, note, and number type fields, with labels and options that describe the expected input.
-
-Given the structure, we can anticipate that the form will ask clients about their personal and service-related details, their satisfaction and rating of the service, and suggestions for improvement, if any.
-
-To create the user-facing help guide, we will go through each field and provide a brief explanation of what the label means and how it's intended to be filled out.
-
-</thinking>
-
 # Client Satisfaction Form - Help Guide
 
 ## Purpose

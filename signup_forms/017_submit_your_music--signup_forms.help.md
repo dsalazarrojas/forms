@@ -1,7 +1,3 @@
-<thinking>
-I'll create a user-facing help guide for the provided form based on the YAML fields. This form, "Submit Your Music", is likely a form to collect information from users about a music-related submission. The purpose of this form is to gather details about a user's music submission, including their personal contact information (First Name, Last Name, Email, and Phone Number) and specific information about the music they are submitting (Music Title, Music Description, Music URL, and Music File). To ensure data quality and prevent duplication, this guide will cover how to complete the form and what each field means.
-</thinking>
-
 # Submit Your Music - Help Guide
 ## Purpose
 The "Submit Your Music" form is designed to collect your information and details about the music you are submitting. Please fill out this form accurately and completely to ensure your submission is processed correctly.

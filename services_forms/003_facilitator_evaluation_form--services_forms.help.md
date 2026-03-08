@@ -1,14 +1,3 @@
-<thinking>
-The facilitator evaluation form is designed to collect feedback from participants about the quality of a course facilitator. This form helps in assessing the facilitator's performance in areas such as overall support, clarity, effectiveness, and caring attitude. To ensure that your feedback is accurate and helpful, please read through the form carefully before providing your input.
-
-The form is not meant for evaluation of the course content itself, but rather the facilitator's ability to present and facilitate the course material. Please keep your feedback focused on the facilitator's strengths and areas that need improvement.
-
-It is recommended to complete the form once you have attended a course facilitated by the person you are evaluating. If you have attended multiple courses with the same facilitator, please fill out a separate form for each facilitator.
-
-Before filling out the form, please review all the questions and fields carefully. This will help you provide accurate and relevant feedback that will be useful to the facilitator and the organization.
-
-</thinking>
-
 # facilitator_evaluation_form - Help Guide
 ## Purpose
 The facilitator evaluation form is designed to collect feedback about a facilitator's performance in presenting and facilitating a course. This form helps the facilitator understand their strengths and areas that need improvement to provide better services in the future.

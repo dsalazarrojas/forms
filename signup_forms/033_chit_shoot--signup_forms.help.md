@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chit Shoot - Help Guide
 
 ## Purpose

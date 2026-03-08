@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Furniture Moving Liability Waiver" form, we should consider the following:
-
-* The form purpose is to collect information from clients related to their understanding of potential accidents that can occur during a furniture move or storage, and to have them acknowledge that they have read, understand, and agreed to certain terms.
-* The form fields are a mix of simple text inputs for basic information (like move details and client name), date and time inputs for scheduling (move date and move time), contact information for emergency contacts, and a waiver section where the client agrees to the terms of service.
-* The waiver field is a select_multiple field, meaning the client can choose from a list of pre-defined options, which includes statements about accidents and terms of service.
-* Some fields are marked as "required" or "optional", indicating that they should be filled out if possible.
-* The form is split into multiple pages, each with its own set of fields.
-
-</thinking>
-
 # Furniture Moving Liability Waiver - Help Guide
 ## Purpose
 The "Furniture Moving Liability Waiver" form is a document that clients must fill out before a furniture moving or storage service is provided. The form is used to ensure that clients are aware of potential risks and have agreed to the terms of service.

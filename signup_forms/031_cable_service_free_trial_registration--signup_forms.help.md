@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to create a free trial registration for a cable service. This form will likely be used to collect information from customers who want to sign up for a free trial of the cable service. This information will be used to provide the trial service to the customer. 
-</thinking>
-
 # Cable Service Free Trial Registration - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to sign up for a free trial of the cable service. Please fill out the form with the required information to ensure your free trial is activated correctly.

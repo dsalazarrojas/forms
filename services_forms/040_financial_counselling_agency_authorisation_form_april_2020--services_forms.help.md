@@ -1,7 +1,3 @@
-<thinking>
-This form is used by financial institutions to authorise a financial counselling agency to provide services on their behalf. It is essential to ensure that all required fields are completed accurately and thoroughly, and that the form is submitted correctly. This form must be completed by a financial institution employee or agent and is intended for internal use only, not for public-facing purposes. Please make sure that you are authorised to access and submit this form.
-</thinking>
-
 # Financial Counselling Agency Authorisation Form April 2020 - Help Guide
 ## Purpose
 

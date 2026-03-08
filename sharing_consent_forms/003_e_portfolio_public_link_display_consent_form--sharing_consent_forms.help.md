@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for obtaining consent from users for displaying their portfolios in a public link. The fields are related to user, tool, school, and portfolio information. It's essential to verify that the user has understood and agreed to display their portfolio in a public link. This form should not be used for other purposes, and it's a critical step in maintaining user data integrity and compliance with regulatory requirements. Please ensure that you're using this form correctly and only for the intended purpose.
-
-</thinking>
-
 # e-portfolio-public-link-display-consent-form - Help Guide
 ## Purpose
 This form is designed to obtain consent from users for displaying their e-portfolio in a public link.

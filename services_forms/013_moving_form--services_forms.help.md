@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # moving_form - Help Guide
 
 ## Purpose

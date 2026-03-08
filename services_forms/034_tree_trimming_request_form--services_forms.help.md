@@ -1,6 +1,3 @@
-<thinking>
-This form is used by clients to request tree trimming services. The form is meant to be completed by clients to provide the necessary information for the service team to perform the tree trimming tasks. Please ensure that the form is filled out correctly and thoroughly to avoid delays in processing. It is recommended to review your request before submitting to ensure it is accurate. The fields are designed to capture relevant information about the client, the tree's request status, and any additional details required. Ensure that the form is not submitted multiple times, as this will cause delays in processing and may lead to duplicate or conflicting entries.</thinking>
-
 # Tree Trimming Request Form - Help Guide
 ## Purpose
 

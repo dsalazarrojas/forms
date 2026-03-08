@@ -1,9 +1,3 @@
-<thinking>
-  The form "Join The Waitlist For Updates" is designed to allow users to sign up for updates on specific topics, such as new product releases, company news, and events. This form is used to collect contact information and preferences from users who want to receive these updates. The purpose of this form is to provide relevant and timely information to users who are interested in staying informed about the company's activities.
-  To ensure that users do not sign up multiple times, the form checks for duplicate entries based on the email address provided. If a user has already signed up, they will be notified that they are already on the waitlist and will not be able to sign up again.
-  This form is designed to be simple and easy to use, with clear and concise labels to help users understand what information is being requested.
-</thinking>
-
 # Join The Waitlist For Updates - Help Guide
 ## Purpose
 The "Join The Waitlist For Updates" form is designed to allow users to sign up for updates on specific topics, such as new product releases, company news, and events.

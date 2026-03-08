@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information and consultation preferences from users who are interested in credit-related services. The form is designed to be completed by a representative of the organization, and the goal is to ensure that the user's information is accurate and up-to-date. Please note that this form is a one-time submission, and users should not resubmit their information unnecessarily. The form is intended for internal use within the organization, and the collected data will not be shared or sold to third parties.
-</thinking>
-
 # Credit Consultation Contact Form - Help Guide
 ## Purpose
 This form is designed to collect relevant contact information and consultation preferences from users who are interested in credit-related services.

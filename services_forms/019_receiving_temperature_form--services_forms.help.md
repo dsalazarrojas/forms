@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # receiving_temperature_form - Help Guide
 ## Purpose
 The Receiving Temperature Form is used to record and report receiving temperatures from various sources, including multiple readings and their units. This form is typically used for temperature readings, but not for other types of data.

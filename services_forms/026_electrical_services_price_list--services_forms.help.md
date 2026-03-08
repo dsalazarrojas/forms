@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect electrical services related information from customers. The form will guide users to provide details on the requested service, preferred installation date, service type, schedule preference, and contact method. The form will help to ensure that all required information is collected and stored in a structured manner.
-
-To avoid duplication, this form should only be filled out by customers who do not have an existing service request on file. If a customer already has an existing service request, they should not fill out this form.
-</thinking>
-
 # Electrical Services Price List - Help Guide
 ## Purpose
 The Electrical Services Price List form is used to collect electrical services related information from customers. This form guides users to provide details on the requested service, preferred installation date, service type, schedule preference, and contact method.

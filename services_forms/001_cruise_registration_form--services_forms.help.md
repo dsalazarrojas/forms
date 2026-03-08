@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for cruise travel registrations. It is likely used for booking, planning, or administrative purposes within the travel industry. This form seems to be designed for individual customers, but could potentially be used for corporate or group bookings as well. 
-</thinking>
-
 # Cruise Registration Form - Help Guide
 ## Purpose
 The Cruise Registration Form is used to collect information from customers for cruise travel bookings.

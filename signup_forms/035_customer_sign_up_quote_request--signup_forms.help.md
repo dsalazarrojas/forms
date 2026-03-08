@@ -1,5 +1,3 @@
-<thinking>Internal notes: This form is designed to gather customer details and quote requests for a project. To avoid duplication, users should only submit one form per project. The form has multiple pages, each with various fields that collect different information. The fields are: Customer Details, Project Needs, Contact Preferences, Quote Request, Project Details, Quote Terms, Customer Sign Up, Phone, Email, Project Type, Project Type Options, Project Duration, Project Budget, Project Status, Quote Terms Terms, Quote Terms Terms 2, Quote Terms Terms 2 2, and Comments. The form requires email and phone fields to be filled in with a specific format. Users can select multiple options for Project Type and Project Status. The form also includes a date and time field. The fields are mostly optional, but email and phone fields are required. This form is likely to be used by customers to submit a quote request for a project.</thinking>
-
 # Customer Sign Up & Quote Request - Help Guide
 ## Purpose
 This form is designed to collect customer details and quote requests for a project.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect equipment evaluation feedback from users. This form is designed to gather information on equipment performance, type, and other relevant details.
-</thinking>
-
 # Equipment Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on equipment performance, type, and other related details.

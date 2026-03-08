@@ -1,6 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and relevant to the intended purpose, we should first confirm that the form is indeed for setting up machine-related information. The form has a mix of fields for machine setup, calibration, and maintenance information. We should also confirm that the fields are correctly aligned with the intended use case, and not duplicated with other forms or processes.</thinking>
-
 # Machine Setup Checklist - Help Guide
 ## Purpose
 This form is used to collect information related to machine setup and maintenance. It's essential to fill out this form accurately to ensure that all necessary details are captured for future reference and to prevent equipment malfunctions.

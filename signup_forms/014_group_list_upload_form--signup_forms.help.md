@@ -1,11 +1,3 @@
-<thinking>
-
-The Group List Upload Form is designed to allow users to upload and store information related to groups, contacts, and events within an institutional setting, such as schools. This form helps streamline the process of maintaining up-to-date and accurate data for school groups, contacts, and events. It's intended for use by authorized personnel to ensure that all relevant information is collected and stored in a centralized location.
-
-Before proceeding, please note that this form is not designed for general public use. Only authorized personnel should access and utilize this form to prevent duplication of efforts and ensure data integrity.
-
-</thinking>
-
 # Group List Upload Form - Help Guide
 ## Purpose
 The Group List Upload Form is a data collection tool used to upload and store information about groups, contacts, and events within an institutional setting, such as schools. Its primary function is to help authorized personnel manage and maintain accurate and up-to-date data for school groups, contacts, and events.

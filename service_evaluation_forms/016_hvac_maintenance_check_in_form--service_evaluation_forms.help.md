@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a specific HVAC maintenance service. It appears to be a check-in form for customers or technicians to record details about the service provided. The form's structure suggests it's intended for documenting the service's progress, capturing customer and technician information, and storing it for future reference. This form likely serves as a centralized record-keeping tool for HVAC maintenance services. 
-
-Before proceeding, please ensure you have a clear understanding of the service being provided and the information being collected. If you're filling out this form for the first time, review each field carefully to ensure accurate and complete data entry.
-
-To determine if this form has been filled out previously, you can refer to the 'form_title' field. If it matches the current title, you may want to review the existing form for any outdated or updated information.
-
-Please note that some fields might not be required for every instance of this form. The specific purpose and context of this form may change based on your organization's policies and procedures.
-
-Before completing this form, ensure you have the necessary permissions to fill it out and access its data.
-
-</thinking>
-
 # HVAC Maintenance Check In Form - Help Guide
 ## Purpose
 This form is designed to provide a structured and organized way to document and track HVAC maintenance services. It allows you to input details about the service, including service type, dates, times, customer information, and technician notes.

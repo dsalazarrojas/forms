@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Concierge Service Agreement" form, I'll consider the provided YAML fields and create a concise and practical guide that explains the form's purpose, how to complete it, and what each field means. I'll make sure to cover all the required fields and provide additional tips for users to understand the form's intent and any potential issues or considerations.
-
-</thinking>
-
 # Concierge Service Agreement - Help Guide
 ## Purpose
 The Concierge Service Agreement form is a contract between the client and the concierge service provider. It outlines the services to be provided, the payment terms, and other essential details for the agreement. This form ensures both parties understand their roles and responsibilities before commencing the services.

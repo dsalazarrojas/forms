@@ -1,7 +1,3 @@
-<thinking>
-This form is used for catering orders from clients. It collects client information, event details, and order specifics. Ensure that all required fields are filled out to avoid form submission errors. This guide will walk you through each section of the form and provide explanations for each field to help users complete it accurately.
-</thinking>
-
 # Catering Order Form - Help Guide
 ## Purpose
 The Catering Order Form is used to collect information for catering orders from clients. This includes client contact details, event specifics, and order requirements for food and services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Funnel Questionnaire - Help Guide
 ## Purpose
 The Solar Funnel Questionnaire is a tool used to gather information and feedback from users on various topics. It is designed to be completed in multiple pages, with each page focusing on a different aspect of the topic being addressed.

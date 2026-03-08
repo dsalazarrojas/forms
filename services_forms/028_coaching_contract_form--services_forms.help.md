@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for creating a coaching contract between the client and the coach. The purpose of this form is to gather necessary information for the coaching process to begin. The client will provide personal and contact details, coaching preferences, and agreements for the coaching terms. This form is intended to be a comprehensive contract that outlines the scope of work, payment schedule, and other important details for the coaching relationship.
-
-</thinking>
-
 # Coaching Contract Form - Help Guide
 ## Purpose
 

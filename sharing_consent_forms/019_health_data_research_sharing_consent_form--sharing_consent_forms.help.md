@@ -1,18 +1,3 @@
-<thinking>
-This form is used to obtain consent from participants in health data research studies. The purpose of this form is to ensure that participants understand how their health data will be used and shared, and to obtain their explicit consent for such use and sharing. 
-
-Before filling out this form, please ensure that you have read and understood the information provided, and that you are willing to share your health data for research purposes. 
-
-This form is designed to be filled out by participants in a research study, and the information collected will be used to understand how participants wish to share their health data. 
-
-Please note that this form is a legal document and is a binding agreement between the participant and the research study. 
-
-Also, be aware that the sharing preferences section allows participants to specify how they wish to share their data, and that the consent field is a critical section that requires a "yes" or "no" answer.
-
-To prevent duplication, the form is meant to be completed only once per participant.
-
-</thinking>
-
 # Health Data Research Sharing Consent Form - Help Guide
 ## Purpose
 The Health Data Research Sharing Consent Form is designed to obtain consent from participants in health data research studies. This form ensures that participants understand how their health data will be used and shared, and obtain their explicit consent for such use and sharing.

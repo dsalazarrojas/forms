@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants about their experience in the mentoring program. The form is used to collect data that will help us improve the program's effectiveness. Before filling out this form, please ensure that you have participated in the mentoring program and are providing your honest feedback.
-</thinking>
-
 # mentoring_program_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience in the mentoring program.

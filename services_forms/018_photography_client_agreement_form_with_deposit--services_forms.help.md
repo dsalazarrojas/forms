@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photography Client Agreement Form (With Deposit) - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients to facilitate a smooth and organized experience for both the client and the photographer. Completing this form helps to establish a clear understanding of the services provided, the terms and conditions, and the financial expectations of the client. It is essential to fill out this form carefully and accurately to avoid any misunderstandings or disputes during the project.

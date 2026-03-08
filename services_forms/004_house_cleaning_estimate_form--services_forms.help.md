@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from a client for a house cleaning service estimate. It includes fields for estimating the cleaning cost, start and end dates and times, areas to be cleaned, and payment methods. This form will likely be used for internal purposes, such as estimating costs for house cleaning services. This form's layout and structure should be consistent and organized to minimize user confusion. It may be used by house cleaning businesses or individuals to collect information from clients, or even as a template for other types of services that involve estimating costs and schedules.</thinking>
-
 # House Cleaning Estimate Form - Help Guide
 ## Purpose
 The House Cleaning Estimate Form is a tool used to gather information from clients for a house cleaning service estimate.

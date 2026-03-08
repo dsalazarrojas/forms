@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # haulout_service_agreement - Help Guide
 ## Purpose
 The haulout_service_agreement form is used to document the service agreement for a haulout, including details about the vessel, haulout location, date, and services required. This form helps ensure that all parties involved are clear on the terms and conditions of the haulout service.

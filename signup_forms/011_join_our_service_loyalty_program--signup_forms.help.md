@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to sign up for the service loyalty program, a program that offers rewards and benefits to customers who consistently use our service. This form serves as an entry point for new customers to join the program. It collects necessary information for us to onboard and communicate with new loyalty program members effectively. Before proceeding, let's ensure that this form is not already in use or being completed in error. Please review and fill out the form carefully to ensure you are not duplicating your sign-up effort or attempting to join a program you're already part of.
-</thinking>
-
 # Join Our Service Loyalty Program - Help Guide
 ## Purpose
 The "Join Our Service Loyalty Program" form is designed to help new customers join the service loyalty program. This program offers rewards and benefits to customers who consistently use our service.

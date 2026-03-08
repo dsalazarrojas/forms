@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for users to subscribe to website maintenance services provided by a WordPress website maintenance agency. The agency offers various plans with different features, payment frequencies, and durations. The form helps the agency to gather information about the user's preferences and requirements to provide tailored services. Before filling up the form, please make sure you have all necessary information and that you are not duplicating an already existing subscription.
-
-</thinking>
-
 # WordPress Website Maintenance Subscription Signup - Help Guide
 ## Purpose
 This form is designed to help you subscribe to our website maintenance services. Please fill in the form with your information and preferences to get started.

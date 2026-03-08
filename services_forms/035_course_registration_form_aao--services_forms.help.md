@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect basic user information for a course registration process. The purpose of this form is to gather essential details about the user. Before proceeding, please ensure you are not duplicating an existing course registration. If you need help with an existing registration, please refer to our FAQ section or contact our support team.
-</thinking>
-
 # Course Registration Form (AAO) - Help Guide
 ## Purpose
 This form is used to register a new course, collecting relevant user information such as name, contact details, course specifics, and course status.

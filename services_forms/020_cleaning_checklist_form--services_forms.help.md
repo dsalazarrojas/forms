@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleaning Checklist Form - Help Guide
 
 ## Purpose

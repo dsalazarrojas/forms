@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # End of Shift Incident Report - Help Guide
 
 ## Purpose

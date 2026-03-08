@@ -1,7 +1,3 @@
-<thinking>
-The "Fire Extinguisher Checklist" form is designed to help users track and manage fire extinguisher-related information, including location, type, status, and maintenance history. This form is intended for use by facilities management or maintenance personnel to ensure that fire extinguishers are properly inspected, serviced, and maintained. The form can be used to store and view information about the location of fire extinguishers, their type and status, as well as details about their last inspection and servicing. The form also allows users to store notes and contact information for those who have performed inspections and servicing. It is a general-purpose form that can be used for a variety of scenarios, such as tracking fire extinguisher maintenance schedules, reporting incidents, or conducting routine inspections.
-</thinking>
-
 # Fire Extinguisher Checklist - Help Guide
 
 ## Purpose

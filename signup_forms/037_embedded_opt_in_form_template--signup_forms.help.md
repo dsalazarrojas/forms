@@ -1,7 +1,3 @@
-<thinking>
-This form is used for user account setup and email subscription management. It is intended for end-users to provide their personal details and subscription preferences. The form is embedded in a web page and is designed to be filled out by users, not edited by administrators. This form is a critical component of the system, and its proper completion is necessary for user account activation and subscription management. Please ensure that this form is filled out correctly to avoid any potential issues with account activation or subscription management.
-</thinking>
-
 # embedded_opt_in_form_template - Help Guide
 ## Purpose
 This form is used for user account setup and email subscription management.

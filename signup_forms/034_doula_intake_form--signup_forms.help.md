@@ -1,7 +1,3 @@
-<thinking>
-The Doula Intake Form is designed to collect user information and medical history from individuals seeking doula services. This form is intended for use by individuals who are interested in or are already pregnant and are seeking doula support and care. It is not affiliated with or endorsed by any specific form platform. The form's purpose is to gather essential information about the user, their medical history, and emergency contacts. Please ensure that the form is not used for any other purpose that may compromise user confidentiality or data security.
-</thinking>
-
 # Doula Intake Form - Help Guide
 ## Purpose
 The Doula Intime Form is designed to collect user information and medical history from individuals seeking doula services.

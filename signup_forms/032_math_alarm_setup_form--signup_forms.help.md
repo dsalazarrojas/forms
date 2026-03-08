@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to help users set up and customize their math alarm preferences. It appears to be a personalization form for users to configure their math-related settings and preferences. However, without further context, it's difficult to determine the exact purpose of the form. I will make an effort to provide a generic explanation for the form purpose, but please note that this might not be accurate.
-
-The purpose of this form is to allow users to set up their personal math alarm preferences, which likely includes selecting alarms and configuring related settings. The form might be used to gather user-specific information for math-related challenges or tasks.
-
-To confirm, please review the form details:
-
-*   Form title: "Math Alarm Setup Form"
-*   Form sections: User Preferences, Alarm Preferences, Alarm Settings, Coach Preferences, Math Challenge, Productivity Program, User Name, Email, Phone, Math Challenge 2
-
-Before continuing, I will assume that this form is indeed for setting up math alarm preferences.
-
-</thinking>
-
 # Math Alarm Setup Form - Help Guide
 
 ## Purpose

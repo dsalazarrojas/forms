@@ -1,13 +1,3 @@
-<thinking>
-## Internal Reasoning:
-This form is used to gauge the customer's satisfaction with our services, products, and website. The purpose of this form is to collect feedback from customers to help us identify areas for improvement and make informed decisions about how to better meet their needs. This form will help us:
-- Understand what customers think about our services, products, and website.
-- Identify areas where we need to improve.
-- Gather suggestions and comments to help us refine our offerings.
-
-This form is not intended for customers to rate their experience or provide detailed product/service descriptions.
-</thinking>
-
 # Customer Satisfaction Survey - Help Guide
 ## Purpose
 The Customer Satisfaction Survey is a form designed to gather feedback from customers to help us better understand their experience with our services, products, and website. This form is meant to be a quick and easy way for customers to share their thoughts and suggestions, so we can make informed decisions about how to improve.

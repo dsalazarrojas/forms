@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to document and report security incidents that may have occurred within our organization. The goal is to capture relevant information about the incident, including the date, time, location, type, affected areas, and the reporting status. This information will help our incident response team identify potential risks and take necessary actions to prevent future occurrences.
-</thinking>
-
 # security_incident_report_form - Help Guide
 ## Purpose
 The purpose of this form is to document and report security incidents, providing our incident response team with the information needed to assess and respond to potential security risks.

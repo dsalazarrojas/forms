@@ -1,8 +1,3 @@
-<thinking>
-This form is used to report missed services and follow-up actions. The purpose of this form is to document instances where services were not provided as planned, and to detail the steps that will be taken to rectify the situation. To ensure accurate and consistent reporting, please complete this form thoroughly and accurately. Before proceeding, please check that a report for the same period or date has not already been submitted. If you are unsure about any of the fields, please contact your supervisor for clarification.
-
-</thinking>
-
 # Duty Sheet For Missed Services - Help Guide
 
 ## Purpose

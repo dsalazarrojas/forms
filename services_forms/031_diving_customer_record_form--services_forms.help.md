@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's diving experience, including their certification level, date of certification, and hours of diving experience. The form is intended for use by dive shop staff to record and update customer records. The form's fields are designed to be completed by the customer or the customer's representative, and the form's structure is optimized for ease of use and clarity. 
-
-Please ensure that you have the correct information about the customer before completing this form, as the form fields may require specific data points to be filled out to ensure accurate record-keeping. 
-
-This form does not collect redundant or duplicate information; each field is designed to capture a specific piece of information that is necessary for the customer's record. 
-
-This form is meant to be a quick and efficient way to document customer information, while ensuring that all necessary data points are captured. If you are unsure about any field, please reach out to your supervisor or support team for clarification.
-</thinking>
-
 # diving_customer_record_form - Help Guide
 ## Purpose
 The Diving Customer Record Form is designed to collect and update customer information for efficient and accurate record-keeping.

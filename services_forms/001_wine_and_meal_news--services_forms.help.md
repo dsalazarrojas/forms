@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-friendly help guide for the Wine And Meal News form. The purpose of this form is to collect information about wine and meal pairings. This form is likely used in a restaurant or winery setting to record expert opinions on which wines pair well with specific meals. This form will help users provide detailed information about their recommendations, including pairing comments, wine notes, and ratings. We will break down the form into sections that explain each field's purpose and requirements.
-</thinking>
-
 # Wine And Meal News - Help Guide
 
 ## Purpose

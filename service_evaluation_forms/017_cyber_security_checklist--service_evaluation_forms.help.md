@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating the security measures of a service, which can help identify areas that need improvement to ensure the confidentiality, integrity, and availability of sensitive information. The form is designed to be completed by service providers or users to assess their current security posture. It is essential to have a thorough understanding of the security measures in place and to identify any potential vulnerabilities or weaknesses. This form will help to standardize the evaluation process and ensure that all services are evaluated consistently.
-</thinking>
-
 # Cyber Security Checklist - Help Guide
 ## Purpose
 The purpose of this form is to assess the security measures in place for a service, including the evaluation of various security items and the categorization of the service under different security categories.

@@ -1,8 +1,3 @@
-<thinking>
-The form is used for mobile-related inspections, allowing inspectors to input details about the condition of mobile units. The purpose of the form is to gather information about the unit's condition, and the process should be clear and straightforward. It is essential to ensure that each field is filled in properly to get accurate results. Before proceeding, ensure that the form is filled out correctly and not duplicated.
-
-</thinking>
-
 # Mobile Inspection Form - Help Guide
 ## Purpose
 The Mobile Inspection Form is designed to collect information about the condition of mobile units. It is used by inspectors to document their observations and findings during an inspection.

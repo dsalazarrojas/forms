@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Creator Highlight Consent Form - Help Guide
 ## Purpose
 The Digital Creator Highlight Consent Form is a tool to collect information from digital creators about their work and their authority to grant permissions. This form helps us understand who has created a piece of digital content and what permissions they have granted or not granted for its use.

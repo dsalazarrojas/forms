@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for restaurant managers and/or administrators to evaluate and provide reviews for new restaurants. The purpose of this form is likely to help assess the performance and rating of new restaurants that have recently opened. The form likely aims to collect data on various aspects such as performance, overall rating, and specific details like restaurant name, manager and employee IDs, and location. This form might be part of a larger system for tracking and managing restaurant performance data. Before starting, ensure that this form is not a duplicate effort or that the provided fields and purpose align with the existing processes and systems in your organization.
-</thinking>
-
 # Restaurant Opening Manager Review - Help Guide
 ## Purpose
 The Restaurant Opening Manager Review form is used to evaluate and provide reviews for new restaurants that have recently opened. This form helps assess the performance and overall rating of the restaurant, as well as collect specific details like restaurant name, manager and employee IDs, and location.

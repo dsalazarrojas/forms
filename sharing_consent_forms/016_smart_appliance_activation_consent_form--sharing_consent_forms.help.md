@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from customers and other relevant parties involved in the activation process of smart appliances, such as utilities, retailers, and installers. The form is intended to capture consent and details for the activation of these appliances. This form is typically used in the process of installing and connecting smart appliances to their respective utility services.
-
-Checking for relevance and non-duplication of this form is crucial to ensure that the correct information is gathered and that the form is not being used in duplicate processes.
-
-</thinking>
-
 # Smart Appliance Activation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information for the activation of smart appliances, including customer and other relevant parties' details, consent, and preferences.

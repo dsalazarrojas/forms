@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Dietary Analysis Form is to collect information about a individual's medical history, dietary restrictions, and health goals. This form helps healthcare professionals gather essential data to create a personalized diet plan that suits the individual's needs. The form is designed to be completed by the individual themselves, ensuring they provide accurate and relevant information about their health status, medical conditions, and dietary habits. This form is not meant for emergency or critical care situations, and it's recommended that individuals complete it in a non-emergency setting. It's also essential to note that the information collected through this form will be used to support the individual's healthcare journey, and their responses will be treated confidentially.
-</thinking>
-
 # Dietary Analysis Form - Help Guide
 ## Purpose
 The Dietary Analysis Form is designed to collect information about a individual's medical history, dietary restrictions, and health goals to support their healthcare journey.

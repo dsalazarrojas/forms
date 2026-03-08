@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about funeral attendance, which is crucial for event planners to manage attendance effectively. The purpose of this form is to gather details about each attendee, including their name, contact number, date, time, seating arrangement, and other important information. It helps event organizers to track the number of attendees, seating capacity, and logistical requirements for a smooth event experience. Please ensure that you have filled out this form correctly to avoid any confusion or missed details. This form is used for internal purposes only and should not be shared with anyone outside of the organization.
-</thinking>
-
 # Funeral Attendance Form - Help Guide
 ## Purpose
 This form is used to collect information about funeral attendance for event organizers to manage attendance effectively.

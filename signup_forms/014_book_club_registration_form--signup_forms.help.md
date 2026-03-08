@@ -1,5 +1,3 @@
-<thinking>... This form will help you register for the Book Club. Please read the following to ensure you understand what is required. This form is intended for individuals who wish to join our book club. If you've already submitted a form, you're not eligible to register again. Before proceeding, review the form's sections and ensure you're filling it out for your intended purpose. If you're unsure about any field, please ask our staff for guidance. Once filled out, your application will be reviewed, and if approved, you'll be invited to join our community. Please take a moment to review our Book Club Guidelines before submitting your application. After submission, you'll receive a confirmation email with further instructions...</thinking>
-
 # Book Club Registration Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from customers about their experience with the travel agency. The purpose of this form is to collect valuable insights and suggestions from customers, which will help us improve our services and better serve our clients in the future. This form will ask for information about the customer's stay, their satisfaction with our services, and any additional comments or feedback they might have.
-
-To ensure that we receive complete and useful information from our customers, please fill out this form carefully, providing as much detail as possible. If you have any issues with the form, please don't hesitate to contact us.
-
-</thinking>
-
 # Travel Agency Feedback Form - Help Guide
 
 ## Purpose

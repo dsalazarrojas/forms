@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Referral Program Form - Help Guide
 ## Purpose
 The Referral Program Form is designed to help clients provide information about their referrals. This form allows clients to input details about their referral, including the referral's name, email, number, and any additional comments they would like to provide. The form also asks clients to input their own name and email address, which will be used to associate the referral information with their account.

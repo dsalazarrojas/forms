@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about on-site team reports, which is a critical part of ensuring that the team's work is progressing as expected and any issues that arise are documented and addressed in a timely manner. This form is used to record information about the site, team members, start and end times, site address, site notes, task progress, shift activity, site updates, task updates, assigned to, supervisor name, supervisor phone, and supervisor email. It is essential that this form is filled out accurately and completely by the team members to ensure that the supervisor and other relevant parties receive the correct information.
-</thinking>
-
 # On Site Team Report - Help Guide
 ## Purpose
 The On Site Team Report form is used to collect information about on-site team progress, issues, and other relevant details.

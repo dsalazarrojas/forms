@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Pledge - Help Guide
 
 ## Purpose

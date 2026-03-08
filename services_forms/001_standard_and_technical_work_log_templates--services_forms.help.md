@@ -1,10 +1,3 @@
-<thinking>
-This form template is designed to help teams and individuals create standard and technical work logs for their work activities, tasks, and projects. It captures key information, issues, and progress, providing a structured format for tracking and managing work-related tasks. The template includes sections for troubleshooting logs, standard work logs, technical work logs, and other relevant details. Each field in this form has been carefully crafted to provide a comprehensive overview of work activities, allowing users to easily identify, document, and report on their work progress and outcomes.
-
-The primary goal of this template is to streamline work logging, reduce information gaps, and improve collaboration among team members. By utilizing this form, users can maintain clear records of their work, enabling better tracking, reporting, and analysis. The template also supports various types of logs, such as standard and technical work logs, allowing for tailored documentation of different types of work activities.
-
-</thinking>
-
 # standard_and_technical_work_log_templates - Help Guide
 ## Purpose
 This template provides a structured format for creating standard and technical work logs, enabling teams and individuals to track and document their work activities accurately and efficiently.

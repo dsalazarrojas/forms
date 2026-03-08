@@ -1,5 +1,3 @@
-<thinking>Scan to Win is a promotion that rewards users with prizes for scanning certain items. The purpose of this form is to collect entry information for the Scan to Win promotion. Users will need to provide personal details, select options, and optionally note any additional information. This form will be used internally to track and verify entries.</thinking>
-
 # Scan To Win Entry Form - Help Guide
 
 ## Purpose

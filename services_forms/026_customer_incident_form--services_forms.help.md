@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers to report incidents related to our services. The form is typically used by customers who have experienced an issue with our services and wish to provide detailed information about the incident. To ensure that the form is completed accurately, please review the form carefully and provide as much detail as possible.
-
-To prevent duplication of efforts, please check with our support team or check our incident management system to see if a similar incident has already been reported. If so, please provide a brief explanation of how your incident is different and why it needs to be treated as a separate incident.
-
-</thinking>
-
 # Customer Incident Form - Help Guide
 ## Purpose
 The Customer Incident Form is used by customers to report incidents related to our services. This form allows you to provide detailed information about the issue you are experiencing, including its description, severity, status, and category.

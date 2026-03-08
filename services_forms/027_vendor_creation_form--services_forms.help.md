@@ -1,9 +1,3 @@
-<thinking>
-We are checking for relevance and duplication in the form purpose and field explanations.
-The form purpose is to collect information about a vendor for various business purposes.
-The form is likely to be used in a business setting to create and manage vendor relationships.
-</thinking>
-
 # Vendor Creation Form - Help Guide
 ## Purpose
 The Vendor Creation Form is designed to collect essential information about a vendor for our records. This form helps us gather and store contact, address, and other relevant details about the vendor.

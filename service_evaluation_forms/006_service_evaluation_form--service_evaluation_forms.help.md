@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a service evaluation form designed to collect feedback and opinions from users or participants about a particular service, likely related to a course or training. The form likely serves as a means to gather quantitative and qualitative feedback on the service provided, including demographics, contact information, and subjective experiences. 
-Before proceeding, ensure that the form is being used in the context of service evaluation and not for other purposes, such as data collection for unrelated projects or activities. 
-Ensure that the form has not been previously created or adapted from other platforms; this AI-generated form is an original creation. 
-
-</thinking>
-
 # Service Evaluation Form - Help Guide
 ## Purpose
 The Service Evaluation Form is designed to gather feedback and opinions from users or participants about a particular service, such as a course or training.

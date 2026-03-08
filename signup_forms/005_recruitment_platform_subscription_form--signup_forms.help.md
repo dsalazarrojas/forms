@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to subscribe to a recruitment platform, providing necessary information for job postings. The form is composed of multiple fields that help users tailor their job postings in a way that attracts the right candidates. Each section of the form is carefully crafted to collect specific and relevant details about the job posting. The form should only be filled out by individuals who are authorized to post jobs on the platform.
-
-</thinking>
-
 # Recruitment Platform Subscription Form - Help Guide
 ## Purpose
 The Recruitment Platform Subscription Form is a tool to help job posters create a detailed job posting that attracts the right candidates. This form guides users through the process of creating a comprehensive job posting that meets the needs of the platform and its users.

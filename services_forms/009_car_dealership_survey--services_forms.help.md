@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly confirm that the form is designed to gather feedback and survey the car dealership experience. The form's purpose is to help the dealership understand their customer's satisfaction and gather valuable insights to improve their services. This is not a platform-specific form, but rather an original adaptation for car dealership surveys. By reviewing the form's content, it appears that it covers various aspects of a customer's visit, from staff greeting and overall experience to finance and purchase processes. The fields are designed to collect both quantitative (e.g., time spent, wait time rating) and qualitative (e.g., overall experience, staff professionalism) data. Now, let's create the help guide!</thinking>
-
 # Car Dealership Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience at the car dealership. It will help us understand what we're doing well and where we can improve to better serve you.

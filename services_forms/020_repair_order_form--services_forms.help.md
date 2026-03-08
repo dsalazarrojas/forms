@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who need to place a repair order. The form will help to understand their order details, customer information, and any additional notes they may have. This form should not be used for other purposes, such as placing a new order or creating a new account.
-
-This form has multiple pages, each with different sections for collecting specific information.
-
-To ensure that the form is filled out correctly, please follow the instructions below.
-
-</thinking>
-
 # Repair Order Form - Help Guide
 ## Purpose
 The Repair Order Form is designed to collect information from customers who need to place a repair order. This form will help to understand their order details, customer information, and any additional notes they may have.

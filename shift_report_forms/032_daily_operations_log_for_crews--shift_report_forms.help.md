@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from crew members about their daily operations, including their crew shift, operational notes, operational issues, work activity, site shift, and start time of the shift. This form is designed to be completed by crew members on a daily basis to provide valuable insights and data for management and other stakeholders. This form is not intended to be completed multiple times per day, but rather as a one-time entry for the day's activities.
-
-This form is likely intended for use by crew members on construction sites, facilities management teams, or other operations teams where shift work is a significant part of their work.
-
-</thinking>
-
 # daily_operations_log_for_crews - Help Guide
 ## Purpose
 The daily operations log for crews is a form used to record information about daily operations, including crew shifts, operational issues, and other relevant details.

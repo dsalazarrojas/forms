@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect preferences for shift handoffs, which is an important process in team management. Shift handoffs are the process of passing information, tasks, or responsibilities from one person to another, typically in a team or project setting. This form aims to gather feedback and preferences from employees on how they would like to receive and give feedback, as well as their preferred methods and frequency for handoffs.
-
-The form is designed to be used by team members, team leaders, or shift leads to collect information on their preferences for shift handoffs. This information will help the team to tailor their communication and feedback processes to the needs and preferences of each individual, improving overall team performance and collaboration.
-
-Please note that the form is a survey, so it's not intended to be a one-time fill-in task, rather a recurring process to gather ongoing feedback and preferences.
-
-</thinking>
-
 # Shift Handoff Preferences Survey - Help Guide
 ## Purpose
 This form is used to collect your preferences for shift handoffs, which is the process of passing information, tasks, or responsibilities from one person to another.

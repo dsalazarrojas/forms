@@ -1,8 +1,3 @@
-<thinking>...Internal reasoning:
-The purpose of this form is to gather feedback from campers on their experience with summer camp staff, ensuring that staff members are evaluated based on their performance. This form is meant to be filled out by campers, and its completion is optional. The form's purpose is to collect camper feedback, which will be used to improve staff performance and the overall summer camp experience. This form is not meant to be used for other purposes, such as staff performance reviews.
-
-The form is divided into four sections: Camper Evaluation, Camper Name, Date of Evaluation, and Performance Rating. The Camper Evaluation section allows campers to provide a general evaluation of their experience, while the Camper Name section is meant to collect the camper's name for reference. The Date of Evaluation section allows campers to specify the date of the evaluation, and the Performance Rating section is where they can rate staff performance on a numeric scale.</thinking>
-
 # Summer Camp Staff Evaluation Form - Help Guide
 ## Purpose
 

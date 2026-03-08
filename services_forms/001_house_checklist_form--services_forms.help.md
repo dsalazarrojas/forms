@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # House Checklist Form - Help Guide
 ## Purpose
 The House Checklist Form is a tool designed to gather information about a house's status, basic systems, and service requirements. It is intended to help users document and assess the overall condition and needs of a house. This form aims to provide a comprehensive overview of the key aspects of a house's condition, allowing users to track and compare data effectively.

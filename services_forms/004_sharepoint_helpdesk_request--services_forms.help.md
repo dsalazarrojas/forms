@@ -1,11 +1,3 @@
-<thinking>
-The form "sharepoint_helpdesk_request" is designed to collect information from users when they have issues or requests related to SharePoint services, such as updates, issues, or personnel matters. It appears that the form is intended for internal use within an organization, possibly for IT or technical support teams to track and manage requests and issues. 
-
-This form likely serves as a centralized platform for users to report problems or propose solutions, allowing the support teams to categorize and address them effectively. Each field is designed to gather specific details about the issue or request, including the requester's information, contact methods, and the nature of the problem. The select fields allow users to indicate the priority and scope of the issue, helping support teams to focus their attention on the most critical matters.
-
-Before proceeding, ensure that you have the necessary permissions to submit this request, and that the issue is not already being addressed elsewhere. If you are unsure about any field or its purpose, please refer to this guide for clarification.
-</thinking>
-
 # sharepoint_helpdesk_request - Help Guide
 ## Purpose
 The "sharepoint_helpdesk_request" form is designed to collect information from users when they have issues or requests related to SharePoint services. This form enables support teams to effectively track and manage these requests to provide efficient assistance.

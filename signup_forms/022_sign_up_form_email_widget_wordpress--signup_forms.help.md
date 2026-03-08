@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information for a WordPress email widget, and the purpose of this form is to gather essential details from users to create an account or sign up for a service related to WordPress. The form should be used for a specific and legitimate purpose, and users are encouraged to use it responsibly. The form's content is original and not derived from any proprietary platform, and it is released under CC BY 4.0 license.
-</thinking>
-
 # Sign Up Form | Email Widget|Wordpress - Help Guide
 ## Purpose
 The Sign Up Form is designed to collect information from users to create an account or sign up for a WordPress email service. This form is a user-friendly way to gather essential details to facilitate the process.

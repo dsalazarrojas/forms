@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from sellers about their disclosure. The form appears to be a multi-page form with various fields for sellers to provide their disclosures. This form may be used in a sales or business context where the seller needs to disclose certain information about their products or services. The form has multiple pages with different types of fields, including text fields and select_one/select_multiple fields. The required fields are indicated by their "required" property.
-</thinking>
-
 # seller_disclosure_form - Help Guide
 ## Purpose
 The seller_disclosure_form is a multi-page form designed to gather information from sellers about their disclosure.

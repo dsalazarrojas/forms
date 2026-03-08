@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to provide consent for the hybrid learning session replay. The form will be used to collect information from participants, including their name, email, and details about the course and session they are participating in. This form is designed to be filled out by participants to give their consent for their learning session to be recorded and replayed. This form is not intended for internal use within our organization and is only meant for external participants. We will not use the collected data for any other purpose than what is specified here, and we will not share it with any third parties. By filling out this form, you will be providing your consent to participate in a recorded learning session. Please note that this form was generated using public survey topic metadata and is not affiliated with any form platform. If you are unsure about any of the information, please reach out to [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Hybrid Learning Session Replay Consent Form - Help Guide
 ## Purpose
 The Hybrid Learning Session Replay Consent Form is designed to collect information from participants to record and replay their learning sessions. By filling out this form, participants provide their consent to be recorded and give permission for their sessions to be replayed.

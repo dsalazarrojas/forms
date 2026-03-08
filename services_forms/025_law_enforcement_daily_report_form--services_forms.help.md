@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Law Enforcement Daily Report Form - Help Guide
 ## Purpose
 This form is intended for law enforcement officers to report their daily activities, including the number of incidents encountered, addresses, and descriptions of each run they conduct. This form helps to track and record the daily operations and activities of law enforcement officers.

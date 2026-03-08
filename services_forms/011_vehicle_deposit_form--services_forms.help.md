@@ -1,10 +1,3 @@
-<thinking>
-The form "Vehicle Deposit Form" is intended to collect information from customers regarding their vehicle deposit. The purpose of this form is to gather details about the vehicle being deposited, the amount of the deposit, and the payment method. This form is likely used in a business setting, possibly for automotive dealerships or rental companies.
-
-Before proceeding, make sure you are filling out the correct form and have the necessary information ready. This guide will walk you through each field and provide clear explanations to ensure you fill out the form accurately and efficiently.
-
-</thinking>
-
 # Vehicle Deposit Form - Help Guide
 
 ## Purpose

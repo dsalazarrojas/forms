@@ -1,8 +1,3 @@
-<thinking>Technician Evaluation Form - A form designed to evaluate a technician's performance, efficiency, and quality of service. This form is intended to help assess the overall experience of a service provided by a technician, providing valuable feedback for improvement.
-Please ensure that you fill out the form accurately and honestly, and that each field is filled out according to the guidelines below. This form is not intended to be a comprehensive evaluation, but rather a brief assessment of the technician's performance during the service call. If you have any questions or concerns, please don't hesitate to reach out to the relevant team for clarification.
-This form is intended for technicians who have completed service calls. It's meant to be filled out by their supervisors or other relevant personnel after the service call has been completed and the work is finished.
-Before you start filling out the form, make sure you have all necessary information and documents related to the service call, such as work orders, photos, or other relevant records.</thinking>
-
 # Technician Evaluation Form - Help Guide
 ## Purpose
 The Technician Evaluation Form is a tool to evaluate a technician's performance, efficiency, and quality of service during a service call. It helps to identify areas of improvement and provide valuable feedback for the technician and the team.

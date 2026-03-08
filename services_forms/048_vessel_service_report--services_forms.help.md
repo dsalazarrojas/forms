@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a vessel's service status and any associated remarks. The form will be used to document and track the vessel's condition and any services or maintenance performed on it. To ensure that this form is completed accurately and consistently, please review the following guide.
-
-Before starting the form, take a moment to consider whether the vessel is currently active or inactive. If it's active, you may need to answer additional questions about its current status. The form is designed to be completed on a per-vessel basis, so please make sure to fill out one form for each vessel.
-
-The form is not designed to be completed multiple times for the same vessel. If you need to update the information for a vessel, please make sure to review the existing form and update the relevant fields before creating a new one.
-</thinking>
-
 # vessel_service_report - Help Guide
 ## Purpose
 

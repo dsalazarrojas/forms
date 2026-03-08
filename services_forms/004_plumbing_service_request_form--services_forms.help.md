@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to request plumbing services from a service provider. Its purpose is to collect basic contact information and service details from users. This form is designed for users to submit their requests in a structured and efficient manner, ensuring that the service provider has all the necessary details to fulfill their requests. Before proceeding, please ensure that you're using this form for its intended purpose and not duplicating your request. If you've already submitted a request for the same service, please check your previous request history to see if this form has been previously completed. Please note that this form is a publicly available, AI-generated form and its content is not affiliated with or endorsed by any specific form platform.
-</thinking>
-
 # plumbing_service_request_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and service details from users requesting plumbing services.

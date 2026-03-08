@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from healthcare providers about their shifts. The form is meant to capture details about the shifts, incidents, patient updates, handover notes, handover, patient name, patient ID, shift nurses, shift doctor, patient notes, and shift notes. This form does not have any required fields, so users can fill out as much or as little information as they need to.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and is instead an original adaptation created by an AI using public survey topic metadata as inspiration.
-
-The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-</thinking>
-
 # healthcare_provider_shift_report - Help Guide
 ## Purpose
 The healthcare_provider_shift_report form is designed to collect information from healthcare providers about their shifts. This form can be used to capture details about the shifts, incidents, patient updates, handover notes, handover, patient name, patient ID, shift nurses, shift doctor, patient notes, and shift notes.

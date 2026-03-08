@@ -1,7 +1,3 @@
-<thinking>
-To check if the form is relevant and not duplicated, I will review the input YAML fields and ensure that the guide will cover all necessary information for end users to complete the form successfully.
-</thinking>
-
 # lush_survey - Help Guide
 ## Purpose
 The Lush Survey form is designed to collect various types of information from users. It is not intended for general public use, so please do not share this link with anyone not authorized to access this form.

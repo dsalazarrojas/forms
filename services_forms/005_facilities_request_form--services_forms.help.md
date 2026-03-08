@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to request facilities for events or meetings. This form is used to gather details such as contact information, event name and dates, expected number of people and facilities required. 
-
-To complete this form correctly, the user should have all the necessary information ready, including their contact details, event name and dates, expected number of people, facilities required and any additional notes. 
-
-Before submitting the form, check that it is not a duplicate and that the provided information is accurate. If the user is not sure about the form purpose or the information required, please refer to the event organiser or the relevant support team.
-</thinking>
-
 # Facilities Request Form - Help Guide
 ## Purpose
 The Facilities Request Form is a tool used to collect information from users to request facilities for events or meetings.

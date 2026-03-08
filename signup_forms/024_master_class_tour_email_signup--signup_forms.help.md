@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to sign up for a Master Class tour. The purpose of this form is to collect necessary information from users to provide them with the correct event details and confirm their attendance. The form will not allow users to sign up multiple times, and each field is required for the correct processing of the user's request.
-</thinking>
-
 # Master Class Tour Email Signup - Help Guide
 ## Purpose
 The Master Class Tour Email Signup form is used to sign up for a Master Class tour. To complete this form, follow the instructions below.

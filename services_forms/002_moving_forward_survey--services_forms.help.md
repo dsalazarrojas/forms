@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and insights from users on their past experiences, current status, and future goals and plans. This survey is likely being used to monitor and measure user progression, identify areas of improvement, and inform future decision-making within the organization.
-
-Before proceeding, please take a moment to review the form carefully to ensure that it's complete and accurate. You may want to ask yourself questions like:
-
-* Are all relevant pages and fields included?
-* Are all required fields complete?
-* Have I double-checked my answers for consistency and accuracy?
-
-If you're unsure or have questions about any part of the form, please don't hesitate to reach out to the relevant personnel for guidance.
-
-</thinking>
-
 # Moving Forward Survey - Help Guide
 
 ## Purpose

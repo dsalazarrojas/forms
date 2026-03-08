@@ -1,15 +1,3 @@
-<thinking> 
-
-This form is designed to collect various information related to service booking forms, including form title, category, description, form ID, assigned tool, output file, page title, page description, page category, page form ID, page assigned tool, page output file, page note, goal, goal ID, goal type, goal description, goal status, goal date, goal time, note, email, phone, and address. The form is divided into several pages, each with its own set of fields. 
-
-This form's primary purpose is to collect data about service booking forms, allowing users to input and manage relevant information in a structured and organized manner. 
-
-The fields in this form are designed to be completed by a specific user group, likely service providers or administrators, to ensure that all necessary information is collected and recorded accurately. 
-
-This form should not be used for other purposes, as it is specifically designed for service booking forms. 
-
-</thinking>
-
 # strength_empire_consult_form - Help Guide
 ## Purpose
 The strength_empire_consult_form is a form designed to collect data about service booking forms. It is used to manage and record information related to these forms in an organized and structured manner.

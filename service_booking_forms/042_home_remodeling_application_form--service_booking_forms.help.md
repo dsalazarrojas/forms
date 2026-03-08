@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that clearly explains the purpose and process of completing the Home Remodeling Application Form. The form is designed for clients to submit their requests for home remodeling services. The form has 5 fields that collect the client's details, including their name, email, a brief description of their request, and some information about their home.
-
-To ensure that the form is completed correctly and consistently, it's essential to follow the instructions and explanations provided below.</thinking>
-
 # Home Remodeling Application Form - Help Guide
 ## Purpose
 The Home Remodeling Application Form is designed to gather information from clients about their home remodeling requests. This form helps our team understand the client's needs and preferences for their home remodeling project.

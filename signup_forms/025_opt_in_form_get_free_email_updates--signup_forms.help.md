@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information from website visitors for the purpose of sending them free email updates. It's a one-time opt-in form that allows users to choose their preferences for email subscriptions and newsletter opt-ins. The form is designed to be simple and easy to use, with clear labels and intuitive options. However, to avoid duplication, it's essential to check for existing subscriptions and only show this form to users who haven't already opted-in to email updates.
-</thinking>
-
 # Opt In Form Get Free Email Updates! - Help Guide
 ## Purpose
 The purpose of this form is to allow website visitors to opt-in for free email updates. By completing this form, users can choose their preferences for email subscriptions and newsletter opt-ins.

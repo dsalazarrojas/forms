@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect data on the availability of dispatchers, including their preferred work time, scheduling constraints, and available days. The purpose of this form is to gather information about the dispatchers' schedules and preferences, which can be used to optimize dispatching and scheduling processes. It is likely that this form will be completed by dispatchers themselves, and the data collected will be used by their supervisors or management to plan and coordinate work shifts.
-
-This form is a simple, structured form with a limited number of fields, each of which is clearly labeled and explained. The form is divided into several sections, each focusing on a different aspect of a dispatcher's availability.
-
-Before completing this form, it is recommended that the user reviews the available options in each field to ensure they understand the choices available to them.
-
-</thinking>
-
 # Dispatch Availability Survey - Help Guide
 ## Purpose
 The Dispatch Availability Survey is used to collect data on the availability of dispatchers, including their preferred work time, scheduling constraints, and available days. This information is used to optimize dispatching and scheduling processes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from teams that are signing up for a Trivia Night event. The purpose of this form is to gather the necessary details from team members, including team name, size, and contact information. Please ensure that you fill out the form accurately to ensure that your team's details are recorded correctly.
-
-</thinking>
-
 # Trivia Night Sign Up Form - Help Guide
 
 ## Purpose

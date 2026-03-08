@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a tenant from the user's perspective. This form is designed to help the user provide a comprehensive understanding of their experience with the tenant, including how they met the tenant, their relationship with the tenant, the tenant's personality, behavior, and quality of service provided. This information will be used to verify the tenant's reference.
-</thinking>
-
 # Tenant Reference Verification - Help Guide
 ## Purpose
 The Tenant Reference Verification form is used to gather information about a tenant from the user's perspective. This form helps to verify the tenant's reference by asking a series of questions that cover different aspects of their experience with the tenant.

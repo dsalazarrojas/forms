@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for transferring the ownership of a vehicle between a buyer and a seller. The form requires the seller to provide information such as their name, phone number, and email, while the buyer needs to provide details about the vehicle being transferred, including its license plate, year, make, and model. The buyer also needs to select the type of transfer and the reason for it. Additionally, the form has a note field for the witness statement, which might be filled by someone who has witnessed the transfer.
-</thinking>
-
 # vehicle_transfer_form - Help Guide
 ## Purpose
 The vehicle transfer form is used to document the transfer of ownership of a vehicle between a buyer and a seller. This form captures essential details to ensure a smooth and secure transfer process.

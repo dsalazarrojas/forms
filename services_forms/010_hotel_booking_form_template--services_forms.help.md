@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Booking Form Template - Help Guide
 ## Purpose
 This form is for booking a hotel room, including guest information, travel details, and accommodation preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for the end-user on how to complete the Maltese English Reservation & Booking form. It's essential to ensure that users understand the purpose and structure of the form, so we should start by explaining the form's purpose.
-</thinking>
-
 # Maltese English Reservation & Booking - Help Guide
 ## Purpose
 This form is designed to collect information for Maltese English reservations and bookings. It's a crucial tool for gathering necessary details for successful events, parties, or meetings. The form helps in streamlining the process of booking and confirming events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for signing up a new user. This guide will walk you through the steps to complete this form. Please note that this form is not meant for existing users. If you're an existing user, you might not need to fill this form.
-</thinking>
-
 # signup_forms - Help Guide
 ## Purpose
 This form is used to sign up a new user. Please fill out the form with the required and optional information to create a new account.

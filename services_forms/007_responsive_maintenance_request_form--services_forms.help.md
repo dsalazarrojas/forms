@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to request maintenance for equipment, machines, or other assets that require repair, replacement, or adjustment. The form is designed to be completed by the person making the request and will help the maintenance team identify the issue, schedule the necessary work, and track progress. This form should only be used for legitimate maintenance requests, not for general inquiries or complaints.
-</thinking>
-
 # Responsive Maintenance Request Form - Help Guide
 ## Purpose
 The Responsive Maintenance Request Form is used to request maintenance for equipment, machines, or other assets that require repair, replacement, or adjustment.

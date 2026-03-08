@@ -1,5 +1,3 @@
-<thinking>As the form is designed for lead generation, its primary purpose is to collect information from potential customers about their interest in a beauty product launch. The form is intended to gauge the customer's demographics, product preferences, and communication preferences. By filling out this form, customers can express their interest in being contacted about product launches and receive exclusive offers and early access. To avoid duplication, we recommend checking the email address used for this form submission against our existing customer database to prevent multiple submissions from the same customer. Please review each field carefully, as some fields are required and others are optional, but all are relevant to our lead generation efforts.</thinking>
-
 # Beauty Product Launch Lead Generation Form - Help Guide
 ## Purpose
 

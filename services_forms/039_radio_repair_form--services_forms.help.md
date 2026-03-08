@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Radio Repair Form" which is used to collect information from customers who are seeking radio repair services. To ensure that the form is completed correctly, please review the following steps:
-- Ensure that you are submitting a form for radio repair service. If you are seeking service for another type of device, please use the corresponding form.
-- Check that you have not already submitted a form for this service. Duplicate submissions can cause unnecessary processing and delay in service delivery.
-</thinking>
-
 # Radio Repair Form - Help Guide
 ## Purpose
 The Radio Repair Form is used to collect information from customers who are seeking radio repair services. Please fill out this form to provide us with the necessary details to schedule your repair.

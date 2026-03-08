@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data related to the inspection of a skid steer equipment. This form appears to be designed for general maintenance and inspection purposes. It does not seem to be a duplicate of any other form. To confirm, please check the form's metadata and usage within your organization.
-</thinking>
-
 # Skid Steer Equipment Inspection Form - Help Guide
 ## Purpose
 

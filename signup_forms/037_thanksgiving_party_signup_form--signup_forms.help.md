@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to gather information for a Thanksgiving party. This form will help us understand who will be attending the party, their relationship to the host, what dishes they will bring, what drinks they will serve, and any other details we need to know for a successful celebration. Before filling out the form, please note that the fields marked as "required" are essential to complete the form. Also, please ensure that you only fill out the form once, as it is intended for individual attendees to sign up for the party. If you have any questions or concerns, feel free to reach out to the host.
-</thinking>
-
 # Thanksgiving Party Signup Form - Help Guide
 ## Purpose
 The Thanksgiving Party Signup Form is designed to gather information from guests about their plans for the party. This form helps the host to understand who is coming, what dishes and drinks they will bring, and any special requests.

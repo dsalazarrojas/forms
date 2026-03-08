@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a raffle, including entry details, winner details, and payment information. This form will be filled out by users who are participating in or running a raffle. It is recommended to fill out this form only once, and it is not necessary to fill out all fields. However, all required fields should be filled out to ensure that the user can complete the form submission process.
-</thinking>
-
 # raffle_ticket_form - Help Guide
 ## Purpose
 This form is used to collect information for a raffle, including entry details, winner details, and payment information.

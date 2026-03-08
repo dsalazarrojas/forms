@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback from users about Marine Refit, a service offered by a company. It seems this form is meant to capture user experiences, satisfaction, and areas for improvement for the Marine Refit service. To ensure the form is used effectively, I'll assume that the company uses this data to make informed decisions and improve their service. I will not repeat fields that are obviously self-explaining (like "Team Name" and "Feedback"). I'll focus on explaining fields with less obvious meanings.
-</thinking>
-
 # Marine Refit Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users about their experiences with the Marine Refit service. Your input helps the company improve their service and make it more satisfactory for future users.

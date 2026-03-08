@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by customers to place orders at an online grill or restaurant service. I'm assuming that the form is meant for customers to input their order details, such as name, contact information, order description, and pickup time. I'm also assuming that this form is used for internal purposes, such as order management and customer service. It's possible that this form is used to capture order details for delivery or pickup. I'll provide a help guide that covers the form's purpose and usage.
-</thinking>
-
 # Online Grill Order Form Template - Help Guide
 ## Purpose
 This form is designed for customers to place orders at our online grill or restaurant service. Please fill out this form to provide your order details, and we'll take care of the rest.

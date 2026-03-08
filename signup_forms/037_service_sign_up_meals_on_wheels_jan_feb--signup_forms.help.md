@@ -1,12 +1,3 @@
-<thinking>
-The form is designed for service sign-up for Meals On Wheels (JAN/FEB) program. The purpose of this form is to collect information from service providers or organizations that would like to offer their services to Meals On Wheels during the months of January and February.
-
-Before proceeding with the form completion, ensure that you are filling out the correct category and not duplicating a service that already exists in the service provider directory.
-
-This form is divided into several pages, each with its own set of fields. To complete the form, follow the instructions for each page carefully.
-
-</thinking>
-
 # Service Sign Up: Meals On Wheels (JAN/FEB) - Help Guide
 ## Purpose
 This form is used to sign up services for Meals On Wheels program during the months of January and February. It helps the program administrators to track and manage services offered by various providers.

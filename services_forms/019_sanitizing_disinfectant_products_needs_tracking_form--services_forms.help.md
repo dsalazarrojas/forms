@@ -1,8 +1,4 @@
-> <thinking>
-This form is intended to collect and track information about sanitizing and disinfectant products. It will help the user to accurately report and follow up on product needs and tracking. This form is not designed to replace other tracking or report forms used for specific purposes. Before filling this form, users should first check if the same information already exists or if there are other forms that can serve their needs more directly.
-</thinking>
-
-# sanitizing_disinfectant_products_needs_tracking_form - Help Guide
+> # sanitizing_disinfectant_products_needs_tracking_form - Help Guide
 ## Purpose
 The Sanitizing Disinfectant Products Needs Tracking Form is used to collect and track information about sanitizing and disinfectant products.
 

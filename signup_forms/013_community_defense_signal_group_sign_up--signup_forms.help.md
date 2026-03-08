@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from individuals interested in joining a community defense signal group. The form is designed to gather essential details such as name, email address, phone number, neighborhood, reason for joining, skills or resources they can offer, availability for response, and other relevant contact information. The purpose of this form is to verify the identity of potential group members and ensure they understand the group's guidelines and protocols. 
-
-To prevent duplicate registrations, the form will only allow one registration per individual. The form will also ask the user to verify their identity, install the Signal app, and agree to follow the group's security protocols.
-
-</thinking>
-
 # Community Defense Signal Group Sign Up - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who wish to join a community defense signal group.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for submitting maintenance requests for indoor plants within the facility. 
-The purpose of this form is to provide information about the maintenance required for each plant, including the ID of the plant, its type, location, notes, and other relevant details.
-Before proceeding, ensure that this form is not being duplicated, and that the necessary maintenance for the specific plant has not already been recorded.
-If you are unsure, you can check with the facilities management team or review previous maintenance records.
-</thinking>
-
 # indoor_plant_maintenance_request_form - Help Guide
 ## Purpose
 This form is for submitting maintenance requests for indoor plants within the facility. It ensures that the correct information is gathered for each plant, including its ID, type, and location, to facilitate efficient maintenance management.

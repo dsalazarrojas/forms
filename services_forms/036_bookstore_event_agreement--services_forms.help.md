@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end users who will be providing information for the "Bookstore Event Agreement" form. The form is designed to collect relevant event details from organizers to ensure smooth and successful events at the bookstore. The purpose of this form is to gather essential information about the event, including its title, date, time, duration, format, expected attendees, and other logistical requirements.
-</thinking>
-
 # Bookstore Event Agreement - Help Guide
 ## Purpose
 This form is used to collect information about upcoming events hosted by the bookstore. It helps the bookstore staff understand the event's requirements, ensuring a smooth and successful execution of the event.

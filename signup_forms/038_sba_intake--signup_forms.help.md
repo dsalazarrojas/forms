@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from Small Business Owners/Operators (SBOs) for the SBA Intake process. The purpose of this form is to gather essential details about the SBOs' business, including their contact information, funding requirements, and business operations. The form will help the SBA assess the viability of the business and provide guidance on potential funding opportunities.
-
-Before proceeding, please ensure that you have not already submitted this form for the same business, as duplicate submissions may lead to delays in processing. This form is intended for new SBOs or those with updated information.
-
-</thinking>
-
 # sba_intake - Help Guide
 ## Purpose
 The SBA Intake form is designed to collect information from Small Business Owners/Operators (SBOs) for the SBA's assessment and guidance on potential funding opportunities.

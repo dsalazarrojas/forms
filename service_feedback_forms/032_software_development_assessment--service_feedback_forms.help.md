@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and feedback on software development projects. It is intended to be used by project team members, stakeholders, or clients to provide input on the development process, progress, and outcomes. This form aims to capture relevant details such as project title, assessment of software development, fitness for purpose, assigned tool, category, subcategory, assigned team members, status, start and end dates, creation and update dates, submitted date, additional notes, whether notes have been read, email address, phone number, whether email has been sent and read, created and updated by, and whether the record has been deleted.
-</thinking>
-
 # Software Development Assessment - Help Guide
 ## Purpose
 The Software Development Assessment form is designed to collect feedback and information on software development projects. It helps project team members, stakeholders, and clients to provide valuable insights on the development process, progress, and outcomes.

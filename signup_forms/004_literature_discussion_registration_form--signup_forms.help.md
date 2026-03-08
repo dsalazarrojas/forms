@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a Literature Discussion Registration Form. The purpose of this form is to gather data about the discussion sessions, such as date, time, duration, participants, contact information, and session details. This form will help the organizers of literature discussion groups to effectively plan and manage their sessions.
-
-To ensure that the form is filled out correctly, the fields are divided into the following categories: Session Details, Participant Information, Contact Information, Group Details, and Session Logistics. Each field is clearly labeled, and explanations are provided for each field to help users understand what information is required.
-
-Please note that some fields are not required, but it's recommended to fill them out for better session planning.
-
-</thinking>
-
 # Literature Discussion Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for a Literature Discussion Registration Form to help literature discussion groups plan and manage their sessions effectively.

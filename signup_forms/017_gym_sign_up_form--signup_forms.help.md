@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a gym membership sign-up process. The purpose of this form is to gather essential details from potential members, including their personal information, payment preferences, and emergency contact details. Before proceeding, please ensure that you have not already filled out this form. Duplicates may cause unnecessary processing and confusion for our staff.
-</thinking>
-
 # Gym Sign Up Form - Help Guide
 ## Purpose
 The Gym Sign Up Form is designed to collect information for new gym members. It helps us understand your preferences and needs so we can provide the best experience for you.

@@ -1,13 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This help guide is designed to explain the Baseball Tryout Form to end-users, ensuring they understand the form's purpose, how to complete it, and what each field means. The form is intended to gather essential information from baseball players, including personal details, parent/guardian information (if applicable), tryout details, baseball experience, health and agreements. The form's fields are organized into sections, making it easy to navigate and complete.
-
-The purpose of this form is to streamline the tryout process by collecting necessary information from players in an efficient and concise manner. The form is designed to be completed by players who are interested in trying out for a baseball team.
-
-Before starting, please note that the form is divided into five main sections: Personal Information, Parent/Guardian Information (if under 18), Tryout Details, Baseball Experience, and Health and Agreements. Each section is designed to gather specific information that will be used to assess the player's eligibility and suitability for the tryout.
-
-</thinking>
-
 # Baseball Tryout Form - Help Guide
 ## Purpose
 The Baseball Tryout Form is designed to collect essential information from baseball players who are interested in trying out for a team. This form is used to streamline the tryout process and ensure that all necessary information is gathered efficiently.

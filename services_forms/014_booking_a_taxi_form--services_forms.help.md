@@ -1,7 +1,3 @@
-<thinking>
-This help guide should provide a clear and concise explanation of the form's purpose and each field's meaning, making it easy for end users to understand how to complete the form correctly. I will also check for duplication and ensure that the explanation is based on the provided YAML fields without inventing unsupported business logic.
-</thinking>
-
 # Booking A Taxi Form - Help Guide
 ## Purpose
 This form is designed to be used for booking a taxi service. It collects necessary information for pickup and drop-off addresses, passenger details, and ride preferences.

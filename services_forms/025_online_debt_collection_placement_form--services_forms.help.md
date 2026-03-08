@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for online debt collection activities.
-The fields should be filled out for each debtor listed in the form, as the "Debtors" field is a multiple-select option.
-The "Collection Status" field can be a multiple-select option, but it's best-effort explained.
-</thinking>
-
 # online_debt_collection_placement_form - Help Guide
 ## Purpose
 This form is designed to collect information about debts, debtors, and collection activities for online debt collection purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a translator's availability for a specific period. The purpose of this form is to gather data that will help the organization optimize their translation services and improve communication with translators. The form should only be filled out once for each translator, and not be repeated or updated. It is essential to fill out this form accurately to ensure that the translator's availability is correctly recorded and that they are not assigned more work than they are able to handle.
-</thinking>
-
 # translator_availability_reminder_2 - Help Guide
 ## Purpose
 This form is used to record a translator's availability for a specific period. It helps us to track their capacity and schedule translations efficiently.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a baby shower event. The purpose of this form is to gather details from guests regarding their attendance, meal preferences, and other relevant information. This form is intended for guests who have been invited to the baby shower. The form should only be completed by the guest and not by the event organizers or hosts.
-
-</thinking>
-
 # Baby Shower RSVP - Help Guide
 ## Purpose
 The Baby Shower RSVP form is a simple form designed to collect information from guests attending a baby shower event. This form is intended to gather details such as guest names, email addresses, and meal preferences.

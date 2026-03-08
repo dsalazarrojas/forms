@@ -1,5 +1,3 @@
-<thinking> This form appears to be a report for a service performed by a company, likely in the HVAC (Heating, Ventilation, and Air Conditioning) sector. It's used to collect information about the service provided, including the technician's details, client information, and service details. The form has a mix of text, date, email, and select options fields, indicating that it's used to capture various types of data. I will now provide a help guide for this form, following the specified structure and format.</thinking>
-
 # hvc_service_report_form - Help Guide
 ## Purpose
 This form is used to report services performed by a company in the HVAC sector. It collects information about the service provided, including technician details, client information, and service details.

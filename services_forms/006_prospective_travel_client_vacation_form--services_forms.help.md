@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from prospective clients about their travel plans, including travel dates, destinations, and accommodation preferences. This data will be used to provide personalized services and recommendations to the client. The form is intended for clients who are looking for a travel agent to assist them in planning their trip.
-</thinking>
-
 # prospective_travel_client_vacation_form - Help Guide
 ## Purpose
 The prospective travel client vacation form is a tool to gather information from clients about their travel plans. It is intended to be used by travel agents to provide personalized services and recommendations to the client.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting hosting services for an event. To ensure that the form is filled out correctly, we will check for non-duplication. The form fields include: requester name, email address, phone number, event date, event location, event type, number of guests, special requirements, and additional notes. This form will help us understand your needs and requirements for hosting your event. 
-
-</thinking>
-
 # Contact Hire A Host - Help Guide
 ## Purpose
 This form is used to request hosting services for an event. Fill out this form to provide essential details about your event and get in touch with our team for booking confirmation.

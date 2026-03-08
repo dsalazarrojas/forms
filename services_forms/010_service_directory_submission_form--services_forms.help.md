@@ -1,9 +1,3 @@
-<thinking>
-
-Before we dive into the help guide, let's consider the purpose and requirements of the Service Directory Submission Form. This form is designed to collect information from organizations and services that want to be listed in a service directory. The form should be completed by service providers to submit their details accurately and consistently. The organization's name, service name, category, and contact information (email, phone number, and address) should be up-to-date and accurate to ensure a positive user experience. Additionally, the description field is where service providers can describe their service offerings, while the review status field helps manage the submission's status within the directory. To avoid duplication, please ensure that your service provider information is not already listed in the directory.
-
-</thinking>
-
 # Service Directory Submission Form - Help Guide
 ## Purpose
 The Service Directory Submission Form is designed for service providers to submit their information to be listed in the service directory. This guide will walk you through the steps to complete the form correctly and efficiently.

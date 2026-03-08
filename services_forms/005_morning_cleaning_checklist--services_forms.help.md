@@ -1,6 +1,3 @@
-<thinking> 
-  The purpose of this form is to provide a comprehensive checklist for morning cleaning tasks, allowing users to track and manage their tasks efficiently. The form is used to record tasks that need to be performed, the people assigned to perform them, and other relevant details such as start and end times, locations, and tools required. It appears to be a generic form and does not have any specific business logic that would indicate it's for a specific team or group. It's possible that this form is a general template for any cleaning tasks that may need to be performed in the morning. The form includes fields for various details such as task status, assigned to, and additional notes, which could indicate that it's a dynamic form that allows users to customize the task according to their specific needs. Overall, this form is likely used to ensure that morning cleaning tasks are properly managed and recorded, and could be useful for anyone who needs to keep track of these tasks. I will now proceed to create the user-facing help guide for this form.</thinking>
-
 # Morning Cleaning Checklist - Help Guide
 
 ## Purpose

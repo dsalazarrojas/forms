@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture contact information and program of interest from young adults. To ensure that this form is being used correctly and does not have any duplicates in the database, please confirm that this form is not already in use. This form should only be used for new contacts and program interests. If you are unsure, please consult with your team lead or the form owner before proceeding.
-</thinking>
-
 # young_adult_incentive_contact_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and program interests from young adults for incentives and program participation.

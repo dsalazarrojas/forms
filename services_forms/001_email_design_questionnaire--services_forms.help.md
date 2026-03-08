@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers to design an email template that meets their specific needs and preferences. This form is typically used for customers who have not yet provided their email preferences, or for customers who have expressed interest in customizing their email templates. The form will be used to determine the design and content of the email template, including the inclusion of personalization, contact information, and other features. This guide is intended to help customers complete the form accurately and make informed decisions about their email template preferences.
-</thinking>
-
 # Email Design Questionnaire - Help Guide
 ## Purpose
 The Email Design Questionnaire is a form used to gather information from customers to design an email template that meets their specific needs and preferences.

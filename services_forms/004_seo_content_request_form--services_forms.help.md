@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information related to Search Engine Optimization (SEO) content requests. The purpose of this form is to gather details about the requested content, such as the type of content, length, format, and target audience. This form is typically used by requesters to provide information about the content they need for SEO purposes, and it's essential to fill it out accurately to ensure that the requested content meets their requirements.
-
-To ensure the form is filled out correctly, please make sure to review all the fields carefully and fill them in according to the explanations provided below. If you're unsure about any of the fields, please refer to the field-by-field explanations for clarification.
-
-</thinking>
-
 # seo_content_request_form - Help Guide
 ## Purpose
 The SEO Content Request Form is used to collect information about Search Engine Optimization (SEO) content requests. It helps gather details about the type of content, length, format, and target audience required for the content.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers about their experience with the catering service. This form is crucial for the business to understand its strengths and weaknesses, identify areas for improvement, and make necessary adjustments to provide better service in the future. Please fill out this form carefully and provide as much detail as possible.
-</thinking>
-
 # Catering Service Customer Feedback Form - Help Guide
 
 ## Purpose

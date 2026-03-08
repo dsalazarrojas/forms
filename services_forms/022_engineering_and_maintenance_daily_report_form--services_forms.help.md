@@ -1,13 +1,3 @@
-<thinking>
-
-This form seems to be designed for engineers or technicians to report on their daily activities, tasks, and maintenance operations. The purpose of this form is to gather information about the tasks they've completed, any issues they've encountered, and solutions they've applied. It's likely used for reporting and record-keeping within an organization, possibly for tracking progress, identifying recurring problems, and maintaining quality control.
-
-The form collects data on various fields such as daily tasks, task descriptions, task status, maintenance tasks, issues, issue descriptions, solutions, solution descriptions, solutions used, notes, dates, times, completed by information, comments, attachments, task numbers, report dates, report times, submitted by information, report IDs, and reporting frequency and period.
-
-This form is likely used for both short-term and long-term data collection and analysis, providing a clear and structured reporting process for engineers and technicians.
-
-</thinking>
-
 # Engineering And Maintenance Daily Report Form - Help Guide
 ## Purpose
 The Engineering And Maintenance Daily Report Form is designed to gather information on the tasks and activities completed by engineers and technicians on a daily basis, including any issues encountered and solutions applied.

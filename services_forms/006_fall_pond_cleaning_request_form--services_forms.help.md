@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers requesting pond cleaning services. The form is intended for external customers, not internal employees. To avoid duplicate requests, please check if a request for the same or similar services has been made in the past 24 hours. If so, please do not submit the form.
-</thinking>
-
 # Fall Pond Cleaning Request Form - Help Guide
 ## Purpose
 The Fall Pond Cleaning Request Form is a service request form for customers to submit their requests for pond cleaning services. The form is designed to collect necessary information to schedule and process the service request efficiently.

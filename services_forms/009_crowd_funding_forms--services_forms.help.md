@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from project creators and backers for a crowd funding campaign. The main purpose of this form is to collect project details and contact information from the creator and backer. The form is divided into two main sections: "Project Information" and "Backer's Information". 
-The "Project Information" section includes fields for the project's title, contact information, deadline, and timeframe. 
-The "Backer's Information" section includes fields for backer's contact information, notes, confirmation, and agreement. 
-The form is designed to be completed by both project creators and backers, and it's required for the project to be successful in the crowd funding process. 
-It's assumed that the fields are filled out according to the required and optional settings in the form definition.
-</thinking>
-
 # Crowd Funding Forms - Help Guide
 ## Purpose
 

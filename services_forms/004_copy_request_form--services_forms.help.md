@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information for a copy request. This form will likely be used internally within an organization to facilitate the process of requesting a copy of a file or document. It's designed to capture essential details such as staff member information, file type, department, description, and other relevant data. Before proceeding, please ensure you have permission to request a copy and that the request is not a duplicate.
-
-The form is likely to be used by staff members to request a copy of a file for personal or work-related purposes. Please fill out this form accurately and thoroughly to ensure the request is processed efficiently.
-
-</thinking>
-
 # copy_request_form - Help Guide
 
 ## Purpose

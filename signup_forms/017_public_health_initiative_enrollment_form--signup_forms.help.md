@@ -1,8 +1,3 @@
-<thinking>
-This form is used for enrolling individuals in a public health initiative. The form captures relevant details about the enrolee, including their contact information, medical conditions, medications, and follow-up preferences. The form is typically filled out by a healthcare professional or a representative of the initiative and is used to track and manage the enrolee's status. To ensure accurate and efficient completion, please review the following guide carefully.
-
-</thinking>
-
 # Public Health Initiative Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll individuals in a public health initiative. It captures essential information about the enrolee, enabling the initiative's team to track and manage their status effectively.

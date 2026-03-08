@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid in the assessment and documentation of facility safety inspections. It's crucial to accurately complete this form to ensure that the facility complies with safety protocols and regulations. Please ensure that you have the authority to complete this form and that it's not a duplicate inspection. This form should be filled out for each new facility inspected, and not reused for a different facility.
-</thinking>
-
 # Facility Safety Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to conduct a thorough inspection of a facility's safety features and identify areas that require improvement or attention.

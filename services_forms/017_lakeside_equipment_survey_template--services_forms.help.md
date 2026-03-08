@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about lakeside equipment, its condition, and any other relevant details. The survey is intended to be a comprehensive tool for assessing the status of equipment, allowing users to track and analyze data for maintenance, repair, or replacement purposes.
-</thinking>
-
 # Lakeside Equipment Survey Template - Help Guide
 ## Purpose
 This form is designed to collect information about lakeside equipment, including its type, description, location, condition, date received, photo URLs, and any additional notes.

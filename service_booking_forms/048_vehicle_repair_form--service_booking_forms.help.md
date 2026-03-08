@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect vehicle repair information from customers. The form's purpose is to gather details about the vehicle, the problem it's experiencing, and the customer's contact information. The form will be used by mechanics to understand the issue with the vehicle and provide a more accurate and efficient repair process. This form is not a replacement for the actual repair process, but rather a supporting tool to ensure that all necessary information is collected and recorded.
-
-The form has 8 fields, and it's essential to fill out each field correctly to ensure that the repair process can move forward smoothly. Please review the form carefully to ensure you're filling it out accurately.
-
-</thinking>
-
 # vehicle_repair_form - Help Guide
 ## Purpose
 The purpose of this form is to collect vehicle repair information from customers, helping mechanics to understand the issue and provide an efficient repair process.

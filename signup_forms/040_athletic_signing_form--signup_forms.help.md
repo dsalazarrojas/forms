@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from athletes and their parents/guardians for athletic team sign-ups. It is intended for the athlete and parent/guardian to review and confirm the accuracy of the information provided. This form ensures that the athletic department has the necessary information to provide medical clearance and other necessary documentation for the athlete's participation in sports.
-
-To avoid duplication, please note that this form is only required for new athletes. If you've already completed this form, you do not need to complete it again unless your information has changed.</thinking>
-
 # Athletic Signing Form - Help Guide
 ## Purpose
 The Athletic Signing Form is used to gather essential information from athletes and their parents or guardians to ensure a smooth and safe participation experience.

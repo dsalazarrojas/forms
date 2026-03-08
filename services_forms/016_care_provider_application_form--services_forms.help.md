@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Care Provider Application Form - Help Guide
 ## Purpose
 This form is for individuals seeking employment as a care provider with our organization. The form requires information about your personal and professional background, qualifications, and experience. Please complete the form carefully and accurately to ensure a smooth application process.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding and completing the "Dinner Prepartion Team Signup" form. The form is designed to collect information from individuals who wish to join a dinner preparation team, and it is meant for internal use within the organization. Before proceeding, please note that the form is not intended for public use and should only be accessed by authorized personnel.
-
-The form has 10 fields that need to be completed, and each field has specific requirements and explanations.
-</thinking>
-
 # Dinner Prepartion Team Signup - Help Guide
 ## Purpose
 The Dinner Prepartion Team Signup form is a tool to collect information from individuals who wish to join a dinner preparation team.

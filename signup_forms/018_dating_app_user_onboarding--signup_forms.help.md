@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dating App User Onboarding - Help Guide
 ## Purpose
 The Dating App User Onboarding form is designed to help new users create a comprehensive profile, providing essential information to help potential matches understand their interests, preferences, and characteristics. This form collects information on various aspects of a user's life, such as their relationship status, education, occupation, language skills, and more.

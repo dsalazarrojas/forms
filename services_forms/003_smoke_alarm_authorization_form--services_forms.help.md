@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for collecting information related to smoke alarm authorizations, likely for maintenance or inspection purposes in a building or facility. It includes fields for property owner, building address, contact email, smoke alarm type, location, authorization date, smoke alarm serial number, smoke alarm certificate, and additional comments. The form seems to cover the essentials for authorizing smoke alarms, such as type and location, while also allowing for additional context with a note field. I will create a user-facing help guide based on this information.
-</thinking>
-
 # Smoke Alarm Authorization Form - Help Guide
 
 ## Purpose

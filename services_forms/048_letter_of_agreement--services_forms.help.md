@@ -1,5 +1,3 @@
-<thinking>Let's create a user-facing help guide for the "LetterOfAgreement" form. The form is used for creating a letter of agreement between a doula (a trained pregnancy and birth professional) and a client. The form is used to document the agreement between the two parties, outlining the terms and conditions of the doula's services. To complete the form, the user must fill out the form header, client details, doula details, agreement terms, payment terms, and signature date. The form can be completed in various stages, depending on the options selected in the form.</thinking>
-
 # LetterOfAgreement - Help Guide
 ## Purpose
 This form is used to document the agreement between a doula and a client, outlining the terms and conditions of the doula's services.

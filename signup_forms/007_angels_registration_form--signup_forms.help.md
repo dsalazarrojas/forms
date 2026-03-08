@@ -1,14 +1,6 @@
 # Angels Registration Form - Help Guide
 
 ## Purpose
-<thinking>
-
-This form is designed for individuals interested in registering as an Angel mentor. The purpose of this form is to gather information about your background, experience, and availability to determine the best fit for you as an Angel mentor. This includes your name, contact information, experience, skills, and availability to volunteer your time and expertise to support the community. The information collected will help us understand your motivations, preferences, and qualifications to match you with suitable programs that align with your interests and availability.
-
-Please note that this form is a required step in the registration process to become an Angel mentor. We will review your submitted information carefully to ensure that you are a good fit for our programs.
-
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

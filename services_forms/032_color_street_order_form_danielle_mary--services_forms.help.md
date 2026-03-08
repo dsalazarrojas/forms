@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating orders for Color Street products. It is likely used in a business-to-consumer or business-to-business setting. The order form is a standard request for a customer to input their order details. There is no indication that this form is being used for internal purposes or that it has any specific integration points. It's possible that this form is used by a sales team to capture orders from customers. Given the fields present, it's likely that this form is used to create orders for in-house production or fulfillment. I will assume that the form is intended for customers to place orders for products that are then sent to them via delivery or pickup. The "delivery_method" and "delivery_address" fields are not required but are present to accommodate customers who would like to have their orders delivered, indicating that the form is intended for orders that require shipping or delivery.
-</thinking>
-
 # Color Street Order Form Danielle Mary - Help Guide
 ## Purpose
 The Color Street Order Form is a form used to capture customer orders for Color Street products. To complete this form, you will need to provide the following information:

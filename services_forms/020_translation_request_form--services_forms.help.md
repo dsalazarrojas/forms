@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly to avoid duplication and to cater to the right users. This form is for submitting requests for translation services, so only those who require these services should fill it out. The form should not be used for other purposes, and users should not fill it out if they are not authorized to do so. This form is intended to be used by individuals or teams who need to request translations of various documents, such as PDFs, Word documents, or Excel spreadsheets. They will need to provide some basic information about the translation type, document type, and any additional comments or messages. The form should be filled out carefully to ensure that the submission is correct and complete.
-</thinking>
-
 # Translation Request Form - Help Guide
 
 ## Purpose

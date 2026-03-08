@@ -1,8 +1,3 @@
-<thinking>
-This form is for participants to provide their consent for the Solar Energy Pilot program. It's essential to ensure that participants understand the program's terms and conditions before they begin. Please make sure to review each field carefully and provide the required information accurately. You can complete this form by following the instructions below.
-
-</thinking>
-
 # Solar Energy Pilot Consent Form - Help Guide
 ## Purpose
 The Solar Energy Pilot Consent Form is a mandatory document that participants must sign before joining the Solar Energy Pilot program. This form is designed to ensure that participants understand the program's terms and conditions and are aware of their rights and responsibilities.

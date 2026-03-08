@@ -1,9 +1,3 @@
-<thinking>
-This form is a Service Listing Form, designed to provide a way to list and manage services offered by a business. This form will be used to gather information about each service, including its title, description, contact information, and availability status. 
-This form should be completed by providers to list their services. It is essential to fill out the form accurately, as the information will be used to display on a public platform. 
-Please note that some fields are optional; however, filling out as much information as possible will improve the accuracy of the service listing.
-</thinking>
-
 # Service Listing Form - Help Guide
 ## Purpose
 The Service Listing Form is a tool for service providers to list their services and manage their business information.

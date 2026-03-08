@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers to create a personalized shopping request. The form is likely used by retail businesses or online marketplaces to gather details from customers about their shopping needs, such as product preferences, delivery preferences, and payment methods. This form is likely used by a customer service team to process and fulfill customer requests.
-
-Before filling out this form, ensure that you're not duplicating an existing request. Please review our previous requests and ensure that this is a new or updated request.
-
-</thinking>
-
 # Personal Shopping Request Form - Help Guide
 ## Purpose
 This form is used to collect information about your personal shopping request from a customer service representative. Please fill out the form accurately and thoroughly to ensure that your request is processed efficiently and effectively.

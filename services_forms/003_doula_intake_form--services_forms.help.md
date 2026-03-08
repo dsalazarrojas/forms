@@ -1,7 +1,3 @@
-<thinking>
-To ensure that I provide an accurate help guide, I'll need to understand the form's purpose and context. The Doula Intake Form seems to be a collection of fields related to various aspects of a doula service, likely for expecting mothers or new parents seeking support. This form's purpose is likely to gather information about the client, their birth and medical history, and their support needs, which will be used to provide personalized services and care. I'll make sure not to duplicate any information from other forms or platforms and keep the help guide concise and practical.
-</thinking>
-
 # Doula Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from expecting mothers or new parents to provide them with personalized doula services. A doula is a trained professional who offers emotional, physical, and informational support during and after pregnancy, childbirth, and postpartum periods.

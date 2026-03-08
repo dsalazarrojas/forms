@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather information for a raffle entry related to health products. The form should not be used for internal administrative tasks, and it's assumed that users understand the basic principles of raffles and data collection. This guide is meant to help users understand the purpose and usage of the form, ensuring that it's completed accurately and effectively.
-</thinking>
-
 # Health Product Raffle Entry - Help Guide
 ## Purpose
 The Health Product Raffle Entry form is used to collect information for a raffle entry related to health products. This form will help us understand who is interested in participating in the raffle and their preferences regarding health products.

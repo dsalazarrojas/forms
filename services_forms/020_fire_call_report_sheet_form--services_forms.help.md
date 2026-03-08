@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about fire department responses to incidents. It is used for recording and reporting incidents that require fire department response. It's essential to complete this form accurately and thoroughly to ensure that fire department responses are properly documented and that incident details are captured correctly. Please review the fields carefully and ensure that all required fields are filled before submitting the form. Note that some fields may have specific formats or options that must be selected for accuracy.
-</thinking>
-
 # Fire Call Report Sheet Form - Help Guide
 ## Purpose
 The Fire Call Report Sheet Form is used to document and record information about fire department responses to incidents. It collects details about the incident, response unit, and other relevant information.

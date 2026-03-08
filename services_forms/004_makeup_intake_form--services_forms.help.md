@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients about their preferences, makeup details, special requests, allergies, medical conditions, contact information, and payment terms. This form is likely used in a service-based business setting, such as a salon or spa, to gather necessary information to provide personalized services to clients.
-</thinking>
-
 # Makeup Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients to better understand their needs and preferences, ensuring they receive the best possible service during their visit to a salon or spa.

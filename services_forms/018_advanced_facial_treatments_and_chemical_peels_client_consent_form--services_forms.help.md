@@ -1,9 +1,4 @@
-# <thinking>... 
-This form is designed to collect information from clients before undergoing advanced facial treatments and chemical peels. The form gathers personal details such as name, contact information, and medical history to ensure safe treatment procedures. It also covers medical considerations like medications and previous adverse reactions. Furthermore, it requires acknowledgment of potential risks associated with treatments and consents to proceed. The client is asked to confirm their understanding of common and rare risks involved with the treatment. Finally, they are required to provide a signature and date to signify their consent to proceed with the treatment.
-
-</thinking>
-
-# Advanced Facial Treatments And Chemical Peels Client Consent Form - Help Guide
+# # Advanced Facial Treatments And Chemical Peels Client Consent Form - Help Guide
 
 ## Purpose
 This form is designed to gather essential information from clients before undergoing advanced facial treatments and chemical peels. It helps ensure a safe and smooth treatment experience.

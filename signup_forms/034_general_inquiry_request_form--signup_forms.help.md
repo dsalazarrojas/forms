@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather general inquiry requests from end-users. It's intended for users to submit any questions or concerns they may have about our services or products. To ensure that your inquiry is processed efficiently, please make sure to provide us with accurate and complete information. We'll review your form submission and respond accordingly. If you have any questions or concerns about this form, please refer to the "Tips" section at the end of this guide. We'll do our best to address your query.</thinking>
-
 # General Inquiry Request Form - Help Guide
 ## Purpose
 This form is used to submit general inquiries or questions about our services or products.

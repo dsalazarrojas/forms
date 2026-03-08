@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lash Extension Service Form - Help Guide
 
 ## Purpose

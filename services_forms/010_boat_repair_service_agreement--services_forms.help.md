@@ -1,7 +1,3 @@
-<thinking>...This form is designed to gather information from customers for boat repair services. It's crucial to understand that this form is not a sales agreement, but rather a service request form. To avoid duplication, customers should not fill out this form if they have already submitted a similar request in the past. Ensure that customers are aware that this form is a requirement for any boat repair service request. The form will help the repair team to better understand the customer's needs and provide the best possible service.
-
-</thinking>
-
 # Boat Repair Service Agreement - Help Guide
 ## Purpose
 This form is designed to gather essential information from customers for boat repair services. Please fill out this form accurately to ensure that our team can provide the best possible service.

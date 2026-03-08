@@ -1,5 +1,3 @@
-<thinking>This form was created to obtain consent for the educational use of video content. The form's purpose is to ensure that individuals or organizations understand the terms and conditions under which they can use the video content. When filling out this form, please carefully read the provided instructions to ensure you understand the intended use of the video content and provide accurate information to avoid any issues or conflicts.</thinking>
-
 # Educational Video Licensing Consent Form - Help Guide
 ## Purpose
 This form is intended for individuals or organizations seeking to use educational video content. It ensures that they understand the terms and conditions of usage, including the purpose of use, consent, and any additional requirements.

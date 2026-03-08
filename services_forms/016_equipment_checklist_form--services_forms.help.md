@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Checklist Form - Help Guide
 
 ## Purpose

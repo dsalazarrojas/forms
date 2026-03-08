@@ -1,10 +1,3 @@
-<thinking>
-This form is used for booking a gutter cleaning service. The purpose of this form is to collect necessary information from customers to schedule and manage gutter cleaning appointments. The form will be used to gather customer details, service preferences, and other relevant information to ensure efficient service delivery. It's essential to fill out the form accurately to help our team provide the best possible service.
-
-The form will be reviewed for completeness and consistency to ensure that all the necessary information is provided. If any fields are missing or contain invalid data, the form may not be processed correctly.
-
-</thinking>
-
 # gutter_cleaning_service_booking - Help Guide
 ## Purpose
 The Gutter Cleaning Service Booking form is used to gather information for booking gutter cleaning services. It helps us understand your preferences, requirements, and schedule an appointment for our service professionals to visit your location.

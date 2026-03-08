@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to join a global network. To check the relevance of this form, please consider the following:
-
-* This form is intended for users who want to join the global network.
-* This form is not meant for internal users or existing network members.
-</thinking>
-
 # Join The Global Network - Help Guide
 ## Purpose
 The "Join The Global Network" form is a user-facing form designed for individuals who want to join the global network. It is not intended for internal users or existing network members.

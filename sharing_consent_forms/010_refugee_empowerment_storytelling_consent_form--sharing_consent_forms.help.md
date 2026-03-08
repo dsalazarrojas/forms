@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user input for the Refugee Empowerment Storytelling Consent Form. The form is likely used in a humanitarian or social services context to understand the goals and needs of refugees. It may be used to track progress, provide resources, or allocate support services. This form is probably not meant to be a generic form, as it contains a list of pre-defined options for the "Goals" field, specifically mentioning "Refugee Empowerment" and "Storytelling." The form also contains other fields related to identification, documentation, and tracking, which suggests that it is a form used for specific, detailed data collection. This form might be part of a larger application or system used to manage refugee services or support programs. It is not a generic consent form, as it contains a mix of personal data collection fields and technical metadata fields. To ensure accuracy, please confirm that this form is part of a larger system and that the form fields match the requirements of that system.
-</thinking>
-
 # Refugee Empowerment Storytelling Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information and consent from refugees for the Refugee Empowerment Storytelling program.

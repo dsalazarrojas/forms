@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the "robot_escort_service_request_form" form, a crucial tool for requesting escort services. To ensure accuracy, please ensure this guide is relevant to your specific use case and doesn't introduce any duplication or unnecessary information. The form's main purpose is to collect essential details from the robot escort requester, which is then used for efficient and proper service delivery. Please fill out this form accurately to guarantee the best possible experience.
-
-This form contains 18 fields, including title, robot escort requester information, escort duration, request date and time, and contact details. Some fields are required, while others are optional and provide additional context. The form is designed to be user-friendly and easy to navigate.
-
-To complete this form effectively, please follow the instructions below.
-</thinking>
-
 # robot_escort_service_request_form - Help Guide
 ## Purpose
 The "robot_escort_service_request_form" is a tool used for robot escort requesters to provide essential details about their service requests. This information is crucial for efficient and proper service delivery.

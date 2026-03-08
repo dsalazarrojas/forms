@@ -1,11 +1,3 @@
-<thinking>
-
-The internal reasoning block will be about explaining that this form is for signing up for a queue, likely for a service or task, and it's essential to be completed correctly to ensure correct queue assignment. This will help prevent confusion and errors on the part of the end-user.
-
-
-</thinking>
-
-
 # Queue Signup Form - Help Guide
 ## Purpose
 This form is for signing up for a queue, where you will be assigned a time slot based on your selected preferences. Please ensure that you complete the form accurately to avoid any issues with your queue assignment.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from clients. The form is divided into sections, making it easier for users to fill out. The purpose of this form is to ensure that all necessary details about the client's visit are captured accurately. 
-
-</thinking>
-
 # inspection_registration_form - Help Guide
 ## Purpose
 The inspection registration form is used to collect information from clients regarding their visits. This includes their details, contact information, and any notes or comments about their visit.

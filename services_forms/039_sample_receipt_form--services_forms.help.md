@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Sample Receipt Form", we will first need to analyze the provided YAML fields. The form's purpose is likely to record information about a customer's receipt, which could be for an order, payment, or other transactions. The form may be used by customer support or accounting teams to process and track customer receipts.
 
 ## Sample Receipt Form - Help Guide

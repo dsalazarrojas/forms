@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be a template for creating a contact form for Santa Claus, allowing users to input their name, email, phone number, and additional comments. The form is likely used to manage contacts for Santa's gift-giving operations or perhaps to collect feedback from users. It's not immediately clear what the "Category" field is for, but it might be used to sort or tag the form responses. The "Assigned To" field suggests that the form is used in a team environment where tasks are assigned to specific members. There are also multiple "Additional Comments" fields, which could be used to collect more detailed feedback or notes about the contact. It's worth noting that the form has a lot of redundant fields with similar labels, which might be unnecessary and confusing for the user.
-
-</thinking>
-
 # Santa Claus Contact Form - Help Guide
 ## Purpose
 This form is used to collect contact information and additional comments from users who want to interact with Santa Claus. It's designed to help manage contacts and gather feedback for Santa's gift-giving operations.

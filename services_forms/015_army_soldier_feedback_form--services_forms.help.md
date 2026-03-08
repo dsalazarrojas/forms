@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from Army soldiers on their experiences and opinions about their service. The form is intended to collect information on their satisfaction with their military service, leadership, training, support services, work environment, pay and benefits, and career development opportunities. Additionally, the form allows soldiers to share any challenges or concerns they face and provide suggestions for improvement. This information will help Army leadership understand the strengths and weaknesses of their service and make informed decisions to address the needs of their personnel.
-</thinking>
-
 # Army Soldier Feedback Form - Help Guide
 ## Purpose
 

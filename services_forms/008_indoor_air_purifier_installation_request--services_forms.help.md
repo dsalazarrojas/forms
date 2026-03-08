@@ -1,12 +1,3 @@
-<thinking>
-This form is for requesting indoor air purifier installation services. It is used to collect information from customers who are interested in having an air purifier installed in their property. The form is meant to be filled out by the customer and submitted to the service provider. The fields on this form are used to collect contact information, unit information, and other relevant details for the installation.
-
-The form checks for duplicate submissions and will only allow one submission per customer. This is to prevent multiple entries from the same customer.
-
-Please ensure that you are submitting this form for the correct purpose and that you are the authorized person submitting it on behalf of the customer. If you are unsure or have any questions, please contact the form administrator.
-
-</thinking>
-
 # indoor-air-purifier-installation-request - Help Guide
 ## Purpose
 The form is used to request indoor air purifier installation services for a specific unit.

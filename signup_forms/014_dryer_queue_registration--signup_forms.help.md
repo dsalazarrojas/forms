@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a user to a dry cleaner's dryer queue. The dry cleaner's dryer queue is a list of users waiting to use the dry cleaner's drying facilities. The form is designed to be simple and easy to use, but requires some information about the user and their preferences.
-
-To complete this form, the user will need to provide their email address, select their resident status and type of dryer, choose a time slot for dry cleaning, select a dryer queue, and provide optional details such as their phone number, resident ID and form submission ID. Some fields are optional, like the phone number and resident ID.
-
-The form has several fields that are designed to be self-explanatory, but here's a brief explanation of each:
-
-</thinking>
 # Dryer Queue Registration - Help Guide
 ## Purpose
 This form is designed to register users to a dry cleaner's dryer queue, allowing them to reserve a time slot and select their preferred dryer type.

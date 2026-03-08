@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to gather information from end users about their participation in a gender equality story campaign, specifically regarding sharing their story and providing contact information for follow-up. This form should not be completed multiple times, and all fields must be filled to avoid duplication of efforts. The goal is to get users to share their personal story, their gender identity, their sharing preferences, contact information, sharing status, story details, submission tracking, sharing agreement, and consent. This form will be used to track user participation and engagement in the campaign.
-</thinking>
-
 # gender_equality_story_campaign_consent_form - Help Guide
 ## Purpose
 This form is designed to gather information from end users about their participation in a gender equality story campaign. It is essential to fill out this form accurately and completely to help us track user engagement and avoid duplication of efforts.

@@ -1,14 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Contact Lens Comfort Study Interest Form", we need to understand the purpose of the form and the fields it contains. This form is designed to collect information from individuals interested in participating in a contact lens comfort clinical study. The form has two main goals:
-
-1.  Gather demographic information such as name, age, email, phone number, and years of contact lens wear experience.
-2.  Collect information about the individual's current contact lens type, any discomfort issues they experience while wearing lenses, and their availability for clinic visits.
-3.  Check if the individual has participated in a clinical study before and if they have any known eye conditions.
-
-The form will serve as the initial step in evaluating potential participants for the study.
-
-</thinking>
-
 # Contact Lens Comfort Study Interest Form - Help Guide
 
 ## Purpose

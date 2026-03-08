@@ -1,12 +1,3 @@
-<thinking>
-This form is part of the retail loyalty program, designed to enroll customers in the program. This program provides customers with exclusive benefits and rewards. Before we begin, let's confirm that the customer is indeed enrolling in the loyalty program for the first time. If the customer has already enrolled, please do not use this form.
-
-This guide is meant for the end-user who needs to understand the purpose of the form and how to complete it. Please note that this form is only for customer enrollment and not for editing or updating existing customer information.
-
-Before proceeding, we will break down each field and explain its purpose.
-
-</thinking>
-
 # Retail Loyalty Program Enrollment - Help Guide
 ## Purpose
 The Retail Loyalty Program Enrollment form is designed to enroll customers in the retail loyalty program. This program is meant to provide customers with exclusive rewards and benefits for their continued loyalty to our store.

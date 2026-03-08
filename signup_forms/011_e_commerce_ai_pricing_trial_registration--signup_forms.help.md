@@ -1,11 +1,3 @@
-<thinking>
-The form "E Commerce AI Pricing Trial Registration" is designed to collect information from merchants who are interested in testing the AI pricing trial for their e-commerce business. The form aims to capture relevant details about the merchant, their business, and their interests in the trial. This form is not intended for production use, but rather as a way for merchants to express their interest and receive access to the trial.
-
-Before filling out this form, make sure that you are not already registered for the trial and that your business is eligible for it. If you are not sure, you can reach out to support for clarification.
-
-To complete the form, please follow the instructions below:
-</thinking>
-
 # E Commerce AI Pricing Trial Registration - Help Guide
 ## Purpose
 The E Commerce AI Pricing Trial Registration form is designed to help merchants sign up for the AI pricing trial for their e-commerce business. This form collects necessary information to determine eligibility and provide access to the trial.

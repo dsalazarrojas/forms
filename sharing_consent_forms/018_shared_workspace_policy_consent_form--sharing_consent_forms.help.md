@@ -1,5 +1,3 @@
-<thinking>...The main purpose of this form is to obtain the user's consent to share their workspace with others in a shared workspace environment, which can be a critical part of collaboration and co-working. This form ensures that users understand and explicitly agree to the terms and conditions of sharing their workspace, including start and end dates, notification preferences, and other relevant details. Before filling out this form, please make sure you have a clear understanding of what you're consenting to, and take the necessary time to review each field carefully. If you have any questions or concerns, you can refer to our [support resources].</thinking>
-
 # Shared Workspace Policy Consent Form - Help Guide
 ## Purpose
 

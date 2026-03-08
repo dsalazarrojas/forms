@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # personal_property_inventory_form - Help Guide
 ## Purpose
 The personal_property_inventory_form is used to record and track personal properties. This form is designed to collect information about the type, location, description, purchase date, and purchase price of a personal property. Please note that this form is not meant for commercial properties, so if you are filling out this form for a property you intend to rent out or sell, please use the appropriate form for commercial properties.

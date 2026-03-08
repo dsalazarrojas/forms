@@ -1,9 +1,3 @@
-<thinking>
-The Group Selection Form is a form designed to collect relevant information from users about a group. The form is composed of two pages, each with a series of fields that gather specific details about the group. 
-The form is primarily used to collect the email addresses of the group members, which is a critical piece of information that will be used for further communication and processing. It ensures that the collected data is accurate and complete.
-This form is not a repetitive form, meaning each submission will result in a unique set of data for each group.
-</thinking>
-
 # Group Selection Form - Help Guide
 ## Purpose
 The Group Selection Form is a form designed to collect relevant information from users about a group, including email addresses, preferences, and other details.

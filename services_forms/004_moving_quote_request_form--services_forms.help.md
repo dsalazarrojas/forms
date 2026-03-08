@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to request a moving quote from the user, gathering information about the submitter, the moving details, and any files associated with the move. The form's purpose is to facilitate the quote process for potential clients. To avoid duplication, the form should only be submitted once, as multiple submissions may be unnecessary or even cause confusion in the quote process.
-
-</thinking>
-
 # moving_quote_request_form - Help Guide
 ## Purpose
 The moving quote request form is used to request a moving quote from the user, gathering relevant information to facilitate the quote process.

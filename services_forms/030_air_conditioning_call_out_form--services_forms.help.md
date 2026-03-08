@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to request air conditioning services. The form gathers information about the client, their contact details, address, and the specifics of their service request, which is crucial for the service team to understand their needs accurately and schedule the visit efficiently. This form is part of a larger system used to manage service requests internally. To ensure you complete the form correctly, please carefully read this guide. If you are a frequent user of this form, you might recall its fields and layout; however, to aid new users and prevent errors, we'll walk through each field's purpose in detail. 
-</thinking>
-
 # Air Conditioning Call Out Form - Help Guide
 ## Purpose
 The Air Conditioning Call Out Form is used by customers to schedule a visit for air conditioning services. It collects essential information about the client, their service needs, and preferred appointment times. This information helps the service team to process the request efficiently and provide effective service.

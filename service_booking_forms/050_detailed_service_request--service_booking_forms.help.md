@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for users to submit detailed service requests to the service team. 
-The service team will use this information to assess and fulfill the service request. 
-To ensure accurate processing, please only submit new service requests. 
-Do not reuse or modify existing requests. 
-If you are unsure or have a general inquiry, please contact the service team directly. 
-This form is not intended for urgent or time-sensitive requests. 
-If your request has a deadline or requires immediate attention, please contact the service team directly.
-
-</thinking>
-
 # Detailed Service Request - Help Guide
 
 ## Purpose

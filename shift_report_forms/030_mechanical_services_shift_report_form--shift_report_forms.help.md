@@ -1,8 +1,3 @@
-<thinking> 
-The user-facing help guide is intended to be clear and concise, providing step-by-step instructions and explanations for each field in the Mechanical Services Shift Report Form. The form is used to report and record information regarding mechanical services, including work orders, technicians, and customer interactions. This form helps to improve accuracy, efficiency, and communication among team members involved in the mechanical services process. It's essential to ensure that all required fields are completed accurately to avoid any confusion or miscommunication. 
-
-</thinking>
-
 # Mechanical Services Shift Report Form - Help Guide
 ## Purpose
 The Mechanical Services Shift Report Form is used to record and report on mechanical services, including work orders, technician information, and customer interactions.

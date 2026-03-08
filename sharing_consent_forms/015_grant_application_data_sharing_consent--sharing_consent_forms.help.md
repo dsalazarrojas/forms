@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning block indicates that the form is intended to capture the grant applicant's consent for data sharing related to their grant application. The purpose of this form is to gather information on whether the grant applicant is willing to share their data with the grant maker and any other parties that may need access to it. This form is a critical component of the grant application process, as it ensures that the grant applicant is aware of and consents to the sharing of their data. 
-The form is designed to be completed by the grant applicant, and it is not intended to be used as a template for other purposes. The fields are designed to collect specific information about the grant applicant and their preferences for data sharing.
-
-</thinking>
-
 # Grant Application Data Sharing Consent - Help Guide
 
 ## Purpose

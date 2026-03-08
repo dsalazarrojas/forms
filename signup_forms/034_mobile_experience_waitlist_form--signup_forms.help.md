@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are interested in getting early access to a mobile experience. The form is designed to be completed by users who are willing to participate in a waitlist, and it requires them to provide their email address, phone number, device type, and other relevant details. The field "mobile_experience_waitlist_form_1" is not necessary to be filled in as it's just a dummy field. The form is divided into two pages: one for basic information and another for more specific details. Each field is designed to be as clear and self-explanatory as possible. Please make sure that you are eligible to participate before filling out this form.
-</thinking>
-
 # Mobile Experience Waitlist Form - Help Guide
 ## Purpose
 This form is designed to help us determine your interest in getting early access to our mobile experience. By filling out this form, you'll be added to our waitlist and notified when it becomes available.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the restaurant service evaluation checklist is to assess the quality of services provided by a restaurant. This form is designed for customers to evaluate their recent dining experience at a particular restaurant. The form should not be used for repeat evaluations of the same restaurant, as it is meant to capture the current state of service quality.
-</thinking>
-
 # restaurant_service_evaluation_checklist - Help Guide
 ## Purpose
 The restaurant service evaluation checklist is a form used to evaluate the quality of services provided by a restaurant. It helps to assess the overall experience and specific aspects of service.

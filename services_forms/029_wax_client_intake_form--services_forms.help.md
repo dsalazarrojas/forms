@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from clients about their first contact with a wax service provider. The form is not intended to be used for medical emergencies or urgent situations. It's essential that clients accurately and thoroughly fill out the form to ensure they receive the right services and attention from the provider.
-
-Before proceeding, ensure that you are not duplicating efforts with other forms or processes. This form is intended to be used once per client, for their first visit.
-
-</thinking>
-
 # Wax Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients about themselves, which will be used to provide personalized services for their specific needs.

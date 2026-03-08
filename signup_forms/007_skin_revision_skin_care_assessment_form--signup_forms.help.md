@@ -1,7 +1,3 @@
-<thinking>
-We should check if the form is for signing up or signing off or both, and make sure that users only need to fill in the form once, and not repeatedly. It would be a good idea to add some sort of token or ID to the form to track the submission.
-</thinking>
-
 # Skin Revision Skin Care Assessment Form - Help Guide
 ## Purpose
 This form is used to collect information about your skin care assessment.

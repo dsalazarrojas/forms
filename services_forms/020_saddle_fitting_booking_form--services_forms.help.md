@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to book a saddle fitting or adjustment service. The service will take into account the customer's schedule and will contact them with a confirmation of the appointment time. The form is not intended to be used for other purposes, and users who are not customers of the business are encouraged to use a different form.
 
 # Saddle Fitting Booking Form - Help Guide

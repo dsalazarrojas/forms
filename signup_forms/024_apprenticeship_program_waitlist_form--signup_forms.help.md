@@ -1,7 +1,3 @@
-<thinking>
-  To prevent duplicate applications and ensure accurate representation of potential apprentices, this form is designed to capture essential personal and professional information from interested individuals. This form aims to gauge their motivation, commitment, and availability to participate in the apprenticeship program. It is meant to be completed only once, and any subsequent attempts to sign up will be considered as a new application.
-</thinking>
-
 # Apprenticeship Program Waitlist Form - Help Guide
 
 ## Purpose

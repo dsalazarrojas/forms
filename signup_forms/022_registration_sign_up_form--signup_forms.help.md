@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration sign up form for individuals to provide their personal information for a specific process or event. It's crucial to fill out this form correctly to ensure accurate and efficient processing. Please ensure that you're completing this form for the correct purpose and that you've not already registered before. Double-check the form fields to avoid any discrepancies.
-</thinking>
-
 # Registration Sign Up Form - Help Guide
 ## Purpose
 The Registration Sign Up Form is designed for individuals to provide their personal information for a registration process. This form helps to gather necessary details to facilitate the registration.

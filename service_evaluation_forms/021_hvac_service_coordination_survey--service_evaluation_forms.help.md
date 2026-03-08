@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information related to HVAC service coordination surveys. The purpose of this form is to provide a structured way to capture details about the service being performed, including the type of service, priority level, schedule visit, and any additional service notes. This form is likely used within an organization that provides HVAC services, such as a maintenance or repair company. The form's fields are designed to be concise and easy to understand, allowing users to quickly and accurately provide the necessary information.
-
-Before filling out this form, please ensure that the information you are providing is accurate and complete. The form is divided into different pages or sections, and each field is explained below.
-
-</thinking>
-
 # hvac_service_coordination_survey - Help Guide
 ## Purpose
 This form is used to collect information related to HVAC service coordination surveys.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting the daily patient census, which is the number of patients present in the unit at the end of each shift. This report is used to track the daily patient census for quality control and data analysis. To ensure accurate reporting, please make sure to fill out this form for every shift. If you have already reported this data, please do not fill out this form again. Please fill out each field accurately and completely.
-</thinking>
-
 # Daily Patient Census Report - Help Guide
 ## Purpose
 The Daily Patient Census Report is a daily report that tracks the number of patients present in the unit at the end of each shift. This report is used for quality control and data analysis.

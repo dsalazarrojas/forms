@@ -1,10 +1,3 @@
-<thinking>
-This form is a survey designed to collect feedback from patients who have visited a dental clinic. Its purpose is to gather information about the clinic's services, staff, and overall experience. The form is intended to be completed by patients who have recently visited the clinic.
-To determine if the form is relevant to your current situation, please consider the following:
-* Have you recently visited a dental clinic?
-* Are you willing to provide feedback about your experience?
-</thinking>
-
 # dental_clinic_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their recent visit to a dental clinic.

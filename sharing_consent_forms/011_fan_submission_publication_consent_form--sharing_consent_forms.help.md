@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for fans submitting their work for publication, and the purpose is to gather information about their submissions in a standardized way. The form helps collect data such as fan name, contact information, submission details, and consent status. 
-The purpose of this form is to gather all necessary information from fans before their work is published. This ensures that all parties involved are aware of the submission process and any associated rights and responsibilities. 
-The form should only be filled out by fans who have submitted their work for publication. 
-</thinking>
-
 # Fan Submission Publication Consent Form - Help Guide
 ## Purpose
 The Fan Submission Publication Consent Form is designed to collect necessary information from fans who have submitted their work for publication. This form helps to ensure that all parties involved are aware of the submission process and any associated rights and responsibilities.

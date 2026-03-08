@@ -1,9 +1,3 @@
-<thinking>
-This form is a service booking form for hairdressers, and its purpose is to collect information from customers about their booking requests. This form is likely used by a salon or a hairdresser's business to gather details about the services they want to book. The form collects personal information (name, email, phone), and service information (service type, date, time) to schedule appointments.
-
-Before proceeding, please ensure that you're filling out this form with the correct information. If you have already submitted a booking request, please do not fill this form again.
-</thinking>
-
 # smc_hairdressers_booking_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for booking a service with a hairdresser.

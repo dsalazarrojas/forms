@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Service Hours Form - Help Guide
 
 ## Purpose

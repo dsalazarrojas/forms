@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to request water services from your company. Its purpose is to gather information about the customer's need for water services, such as fixing a leaky faucet or scheduling a water meter reading. This form is not intended to be a substitute for a phone call or in-person visit, but rather a convenient way for customers to submit their requests online.
-</thinking>
-
 # Water Service Request Form - Help Guide
 ## Purpose
 The Water Service Request Form is a tool for customers to request water services from your company. It is designed to help us understand your needs and provide the best possible service.

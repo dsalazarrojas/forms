@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect user preferences for daily currency exchange rate updates. This form is used to set up and customize the frequency and method of receiving currency exchange rate updates, including the update frequency, delivery method, preferred currencies, start and end dates, timezone, and delivery frequency. This form likely supports users who want to stay up-to-date with exchange rates for their business or personal use.
-
-To avoid duplication of effort, users should only fill out this form if they have not already set up exchange rate updates through other means, such as email or mobile app notifications.
-
-This form is likely used by users who require currency exchange rate data on a regular basis and want to customize their update preferences to receive information in a way that suits their needs.
-</thinking>
-
 # Daily Currency Exchange Rate Preferences - Help Guide
 ## Purpose
 The purpose of this form is to collect user preferences for daily currency exchange rate updates.

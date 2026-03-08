@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their LED wall requests in Florida. It's intended to capture relevant details about the client, the event, the wall, the event details, rental information, contact information, billing information, and payment terms. This form is a public survey and not affiliated with any form platform, and the information it collects will be used for internal purposes only.
-
-To ensure that you fill out this form correctly and do not duplicate efforts, please take a few moments to review the form carefully and only submit your request once.
-</thinking>
-
 # Florida LED Wall Request Form - Help Guide
 ## Purpose
 The Florida LED Wall Request Form is designed to collect information from clients about their LED wall requests in Florida.

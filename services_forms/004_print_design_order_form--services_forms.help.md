@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect order preferences for print and design services. It is intended for end users who need to place orders for customized print and design services, specifying their specific preferences such as lettering, numbering, coloring, font size, font style, alignment, orientation, paper type, binding, orientation preference, pages, quantity, email, phone, and notes.
-The form is designed to be flexible, allowing users to choose from multiple options for each field. The form is likely used for business-to-business (B2B) or business-to-consumer (B2C) scenarios, such as printing and designing business materials, marketing materials, or other custom print products.
-</thinking>
-
 # print_and_design_order_form - Help Guide
 ## Purpose
 The print_and_design_order_form is a user-facing form designed to collect order preferences for print and design services. It is intended to gather specific information from end users to facilitate the processing of their orders.

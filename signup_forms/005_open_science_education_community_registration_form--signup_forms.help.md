@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the Open Science Education Community Registration Form. The form is designed to collect information about individuals interested in joining the Open Science Education Community. The fields within the form are meant to gather relevant details about the member's qualifications, interests, and preferences. The form is used for internal purposes within the Open Science Education Community and should only be filled out once for each individual. 
-
-</thinking>
-
 # Open Science Education Community Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register interested individuals in the Open Science Education Community. To register, please follow the steps below.

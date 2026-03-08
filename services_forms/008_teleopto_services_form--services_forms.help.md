@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teleopto Services Form - Help Guide
 ## Purpose
 The Teleopto Services Form is designed to collect relevant information about patients and medical practices for the purpose of providing services. This form is required for patients and medical practices to access certain services.

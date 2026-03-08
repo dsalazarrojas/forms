@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect visitor information, including name, company, position, and other details related to their visit, such as entry mode and signatures. The purpose of this form is to streamline visitor check-in processes and ensure that visitors are properly documented and accounted for.
-The following information is required for this form: the visitor name, the company they belong to, and their employee ID.
-The form collects data on the visitor's department, date, time of entry, and mode of entry. Additionally, it includes space for comments and remarks.
-</thinking>
-
 # visitor_sign_in_form - Help Guide
 ## Purpose
 This form is designed to collect visitor information, including name, company, position, and other details related to their visit, such as entry mode and signatures.

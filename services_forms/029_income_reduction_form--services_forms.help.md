@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a multi-page form designed to collect various types of information from users, likely for the purpose of applying for some sort of financial assistance or service. The form's purpose is to gather details about the user's application, mortgage, credit, income, signature, contact information, additional information, and submission status. 
-To ensure the form is being used correctly, we need to check if this form is being submitted for a new application or an edit. If it's a new application, the user should not be able to select "Edit" in the submission field as this is not applicable. If it's an edit, the user should not be able to select "Submit" in the submission field as this is not applicable. 
-This form appears to have a complex structure with multiple pages, each with different types and fields. To provide clear instructions, we will guide the user through each page, explaining the purpose and requirements of each field.
-</thinking>
-
 # Income Reduction Form - Help Guide
 
 ## Purpose

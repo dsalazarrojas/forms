@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from a client regarding a service or maintenance job for their vehicle. It includes sections for client information, vehicle details, service details, estimate details, and timeline and warranty information. The form is meant to be completed by a client or representative, providing the necessary details for an accurate estimate... </thinking>
-
 # Automotive Consultant Estimate Form - Help Guide
 ## Purpose
 This form is used to collect information from a client for an estimate of a service or maintenance job on their vehicle.

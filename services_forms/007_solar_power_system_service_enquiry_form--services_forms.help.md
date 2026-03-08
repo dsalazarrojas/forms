@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture relevant information from customers regarding their solar power system service requirements. It includes fields for customer contact details, service type, system details, and any additional information the customer may want to provide. The form aims to collect accurate and relevant data to facilitate efficient service delivery. To prevent duplication, we will review and validate the information provided to ensure it meets our service requirements. This form is intended for customers who are looking to inquire about our solar power system services, including installations, maintenance, and general services.
-</thinking>
-
 # Solar Power System Service Enquiry Form - Help Guide
 ## Purpose
 The Solar Power System Service Enquiry Form is a way for customers to get in touch with our team about their solar power system needs. This form is designed to collect essential information about the customer and their requirements, allowing us to provide accurate and timely services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_assistant_daily_productivity_report_form - Help Guide
 ## Purpose
 The virtual assistant daily productivity report form is designed to help virtual assistants track their daily productivity and provide valuable insights to improve their work efficiency.

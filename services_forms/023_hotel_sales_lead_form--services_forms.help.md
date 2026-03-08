@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide that will help non-technical end users understand the Hotel Sales Lead Form, we need to clarify its purpose and ensure it's not a duplicate effort. This form is designed to collect information from potential customers or individuals interested in booking a hotel stay. The form's purpose is to gather essential details for sales team members to follow up with leads and offer customized sales pitches. It's essential to complete this form accurately to ensure that the sales team can effectively engage with potential customers and convert leads into sales.
-</thinking>
-
 # Hotel Sales Lead Form - Help Guide
 
 ## Purpose

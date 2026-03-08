@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle maintenance request from a customer. The form will be used to track and manage the maintenance requests for a vehicle, providing details about the vehicle's status, type of maintenance, and contact information for the customer. To ensure this form is being used correctly, please review the fields below and ensure you understand their purpose before filling out the form.
-
-This form is meant to collect information for a specific vehicle and customer. If you are submitting a request for multiple vehicles or customers, please submit multiple forms or use a different method to submit your requests.
-
-Before filling out this form, please have the following information readily available:
-
-* Vehicle details (make, model, year, and VIN)
-* Customer contact information (name, email, phone number, company, address, city, state, zip code, and country)
-* Description of the maintenance request
-
-</thinking>
-
 # Vehicle Maintenance Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a vehicle maintenance request from a customer.

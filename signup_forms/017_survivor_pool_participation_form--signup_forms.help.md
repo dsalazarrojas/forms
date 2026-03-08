@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to sign up for a survivor pool, which is a type of fantasy sports pool where users can select a set of picks from a set of teams or players. The form is used to collect information from participants, such as their participant info, weekly picks, email, and phone number. This information is required for participants to be included in the survivor pool and to receive updates and notifications.
-</thinking>
-
 # Survivor Pool Participation Form - Help Guide
 ## Purpose
 This form is for participants to sign up for a survivor pool. Please fill out this form to provide your information and make your picks for the pool.

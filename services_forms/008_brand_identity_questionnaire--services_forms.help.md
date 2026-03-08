@@ -1,5 +1,3 @@
-<thinking>As a form designer, I've analyzed the provided YAML fields and identified that the "Brand Identity Questionnaire" form is a comprehensive tool for businesses to provide detailed information about their brand identity. This form is designed to gather crucial data about a business's name, contact person, contact email, description, years in operation, mission statement, unique value proposition, target market, customer demographics, brand personality, brand attributes, primary competitors, competitor differentiation, existing brand elements, preferred colors, colors to avoid, brand applications, design inspiration, project goals, and timeline expectations. The form is likely intended for businesses to establish a consistent and recognizable brand identity, and its completion is crucial for branding and marketing purposes.</thinking>
-
 # Brand Identity Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect comprehensive data about your business's brand identity. Completing this form will help you establish a strong brand presence and aid in marketing and branding efforts.

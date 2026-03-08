@@ -1,5 +1,3 @@
-<thinking>...This form is meant for end users to submit an equipment maintenance request, specifying equipment type, description, and request details. This guide ensures that end users understand what information is required and how to fill out the form correctly. It will also help prevent duplication and mis-submission of requests. The form is divided into a series of sections with clear field labels and explanations.</thinking>
-
 # Equipment Maintenance Request Form - Help Guide
 ## Purpose
 The Equipment Maintenance Request Form is used to submit a request for equipment maintenance. To complete this form, follow the steps below.

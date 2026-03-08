@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photo_video_feedback_form - Help Guide
 
 ## Purpose

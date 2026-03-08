@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a service agreement for painting services related to Frac Tanks. The purpose of this form is to gather relevant information from clients and contractors involved in the painting project. The form likely serves as a formal agreement that outlines the scope of work, start and finish dates, and other essential details for the project.
-
-This form is likely used by companies or individuals offering painting services for Frac Tanks, which may include tank manufacturing, tank repair, or tank maintenance. The form's fields suggest that it's designed to be completed by both the client and the contractor, indicating a collaborative process.
-
-Before generating the guide, I will review the provided YAML fields to ensure I don't duplicate any information already covered by existing forms or platforms.
-
-</thinking>
-
 # Frac Tank Painting Service Agreement - Help Guide
 ## Purpose
 This form is a service agreement for painting services related to Frac Tanks. It is designed to gather information from clients and contractors involved in the project, outlining the scope of work, start and finish dates, and other essential details.

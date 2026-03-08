@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from users for the purposes of registering for a food bank program. The form collects user details, meal preferences, and other relevant information to facilitate the delivery of meals and services. This form is intended for individuals who are in need of meal assistance and are seeking to register for the food bank program.
-
-To ensure accurate and efficient registration, please complete this form carefully and thoroughly. If you have any difficulties or questions, please don't hesitate to reach out to our support team.
-
-Please ensure that you complete all required fields, indicated by the "Required" label. If you are unsure about any field, please refer to the field-by-field explanation below.
-
-Note: This form is designed to be completed in one sitting, so please take your time and ensure that all information is accurate before submitting.</thinking>
-
 # Food Bank Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for the food bank program, providing us with the necessary information to deliver meals and services to those in need.

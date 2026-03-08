@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather user consent for the use of their data in different purposes such as analytics, research, and training projects. The form is designed to be completed by the user who wants to provide their personal data. The form includes fields for the user to specify how they want to be contacted, what the purpose of the consent is for, and other details. Each field is designed to be completed in a way that is clear and straightforward.
-
-</thinking>
-
 # Learning Footage Data Science Consent Form - Help Guide
 ## Purpose
 The Learning Footage Data Science Consent Form is used to gather user consent for the use of their data in different purposes such as analytics, research, and training projects.

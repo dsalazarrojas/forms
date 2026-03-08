@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll aim to create a clear and concise help guide that covers the form's purpose, completion steps, and field-by-field explanation. I'll base this on the provided YAML fields and strive to provide a concrete, practical, and user-friendly guide. I'll also review each field's label to provide explanations without inventing unsupported business logic.</thinking>
-
 # Beauty Saloon Online Booking Form - Help Guide
 
 ## Purpose

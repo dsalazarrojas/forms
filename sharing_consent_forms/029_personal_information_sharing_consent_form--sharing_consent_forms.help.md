@@ -1,13 +1,5 @@
 <figure>
-  <thinking>
-  This form is a Personal Information Sharing Consent Form, used to gather data for sharing personal information. 
-  The form contains various fields for users to indicate their consent to sharing of personal information, 
-  including sharing consent, data collection methods, and details about what and with whom they want to share. 
-  The form should only be used for users to give their explicit consent for sharing their information. 
-  Please ensure users understand what data will be shared and with whom they are sharing their information with. 
-  Ensure no duplicate or unnecessary fields are filled out.
-  </thinking>
-</figure>
+  </figure>
 
 # Personal Information Sharing Consent Form - Help Guide
 ## Purpose

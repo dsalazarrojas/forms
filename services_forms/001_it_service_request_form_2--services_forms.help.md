@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users about IT service requests. It's essential to understand that a service request form is a common tool used by many organizations to document and track IT-related problems or queries that need attention from the IT department. Before we begin, please ensure that you have not already submitted a similar request or issue, as this form is meant to be a singular point of contact for your IT needs.
-</thinking>
-
 # IT Service Request Form 2 - Help Guide
 
 ## Purpose

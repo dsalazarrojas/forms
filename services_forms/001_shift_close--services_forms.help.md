@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather data on shifts, specifically the daily sales, total sales, start and end times, inventory details, refunds, and other relevant information related to the shift. This form is intended for use in retail or sales environments where shifts need to be recorded and reported.
-To ensure that the form is used correctly and accurately, please review this guide and only fill out the fields that are relevant to your situation.
-</thinking>
-
 # Shift Close - Help Guide
 
 ## Purpose

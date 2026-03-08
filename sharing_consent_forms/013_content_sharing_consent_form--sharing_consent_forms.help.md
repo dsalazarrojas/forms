@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain consent from the content owner to share their work, which can include articles, images, videos, or other digital content. This form helps to clarify the terms and conditions of sharing, ensuring that the content owner is aware of where and how their work will be shared, credited, and for how long. The form is essential for establishing a clear understanding between the content owner and the organization sharing their work, promoting transparency and collaboration.
-
-</thinking>
-
 # Content Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from content owners to share their work, ensuring they are aware of where and how it will be shared, credited, and for how long.

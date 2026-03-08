@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Refrigerator Maintenance Checklist - Help Guide
 
 ## Purpose

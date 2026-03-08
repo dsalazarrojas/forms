@@ -1,25 +1,3 @@
-<thinking>
-
-The form is designed to collect information related to pest inspections, likely for a property or facility management context. This form is likely used to record observations, decisions, and actions taken during pest inspections. 
-
-This form is part of a larger application and should be used in conjunction with other forms and features to ensure that all relevant information is collected and recorded accurately.
-
-The following fields are used to collect information about the pest inspection process:
-
-*   `first_page`: This field is likely used to collect information about the first page of the form, but it's not clear what specific information it's intended to capture.
-*   `pest_type`: This field is a select-one field with two options: "Yes" and "No". It's likely used to indicate whether a pest was found or observed during the inspection.
-*   `treatment_area`: This field is a select-multiple field with two options: "Yes" and "No". It's likely used to indicate areas that require treatment or have shown signs of pest activity.
-*   `date_visited`: This field is a date field where users can select the date of the inspection.
-*   `notes`: This field is used to collect additional notes or comments about the inspection.
-*   `contact_info`: This field is a select-multiple field with two options: "Yes" and "No". It's likely used to indicate whether contact information was collected or not.
-*   `treatment`: This field is a select-one field with two options: "Yes" and "No". It's likely used to indicate whether treatment was applied or not.
-*   `treatment_notes`: This field is used to collect additional notes or comments about treatment.
-*   `contact_info_2`: This field is a select-one field with two options: "Yes" and "No". It's likely used to indicate whether additional contact information was collected.
-*   `pest_inspector`: This field is a select-one field with two options: "Yes" and "No". It's likely used to indicate whether the pest inspector was present during the inspection.
-*   `first_page_2`: This field is a text field, but its purpose isn't clear without further context.
-
-</thinking>
-
 # Pest Inspection Form - Help Guide
 ## Purpose
 The Pest Inspection Form is designed to collect information about pest inspections, including observations, decisions, and actions taken during the inspection process.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for recording and monitoring food temperature data. The purpose is to track the initial and final temperature of a food item, along with other relevant information such as storage conditions, start and end times of monitoring, and details on who submitted and who is responsible for the food item.
-This form will help ensure that food is stored and handled properly to prevent spoilage and foodborne illnesses.
-Please fill out this form for every food item that needs to be monitored.
-</thinking>
-
 # Daily Food Temperature Form - Help Guide
 ## Purpose
 The "Daily Food Temperature Form" is a tool used for monitoring and recording the temperature of food items to ensure they are stored and handled properly.

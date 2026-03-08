@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Imaging Study Form - Help Guide
 ## Purpose
 

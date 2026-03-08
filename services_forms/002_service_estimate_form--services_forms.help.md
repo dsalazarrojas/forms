@@ -1,17 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for the "Service Estimate Form" form, which appears to be a form for generating service estimates or quotes. The form seems to be quite comprehensive, with a large number of "Service Cost" fields. I'll assume that these fields are meant to be optional and allow users to estimate different aspects of a service.
-
-Before creating the guide, I'd like to clarify a few points:
-
-* Is there a specific service type or category that these costs are associated with? (e.g., IT, consulting, etc.)
-* Are there any specific rules or constraints for filling out these "Service Cost" fields? (e.g., decimal places, minimum/maximum values)
-* Is there a specific format or calculation for generating the "Total Cost" field?
-* Are there any specific instructions or requirements for filling out the "Report Date" field?
-
-Please provide any additional information or context that can help me create an accurate and helpful guide for the end-users.
-
-</thinking>
-
 # Service Estimate Form - Help Guide
 ## Purpose
 The Service Estimate Form is a tool for generating service estimates or quotes for various services. This form helps users to quickly and accurately estimate the cost of a service by providing a structured format for inputting different service costs.

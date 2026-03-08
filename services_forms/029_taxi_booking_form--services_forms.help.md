@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for customers to book a taxi service, providing details such as their name, date and time of booking, pickup and dropoff locations, vehicle type, customer contact information, and additional details. The form is designed to be completed by customers to provide accurate information for the taxi service booking. Before starting, it is essential to review the form carefully to ensure it is filled out correctly to avoid any issues or misunderstandings during the booking process.
-
-</thinking>
-
 # Taxi Booking Form - Help Guide
 
 ## Purpose

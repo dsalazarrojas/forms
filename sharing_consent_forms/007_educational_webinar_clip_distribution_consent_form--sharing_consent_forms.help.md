@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure that the form is filled out correctly, please verify that the form is not a duplicate of any existing form and that the participant is aware of the purpose of this form. This form is intended to gather consent for educational webinar clip distribution and is used to ensure that participants understand how their data will be shared and used.
-</thinking>
-
 # Educational Webinar Clip Distribution Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from participants for educational webinar clip distribution. It is used to ensure that participants understand how their data will be shared and used.

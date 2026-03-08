@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user registration and timeline survey data. The form is intended to capture information about users participating in a program or activity. It's essential to fill out this form accurately and completely to ensure that your data is collected correctly. 
-
-Please make sure you're filling out this form for the intended purpose and not duplicating your responses. 
-
-This guide will walk you through the form sections and fields. If you have any questions or need further clarification, don't hesitate to reach out.
-
-</thinking>
-
 # User Registration And Timeline Survey - Help Guide
 ## Purpose
 The User Registration And Timeline Survey is designed to collect essential information about users participating in a program or activity. This form helps us understand your registration details and your progress throughout the program.

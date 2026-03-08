@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event attendees, allowing them to register for an event by providing their name, email, event name, event date, event time, communication preferences, any additional information they want to share, and their agreement to terms of service. The form also includes an opt-out option for email updates, ensuring that attendees can choose how they want to be communicated with. The form has been generated using AI and is an original adaptation of publicly available survey metadata, making it free to use and modify under CC BY 4.0 license.
-</thinking>
-
 # Event Attendee Email Collection - Help Guide
 ## Purpose
 The Event Attendee Email Collection form is designed to gather essential information from event attendees, including their name, email, event details, and communication preferences. This data is collected to enhance the event experience and ensure attendees receive relevant updates and information.

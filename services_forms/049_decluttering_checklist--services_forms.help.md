@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Decluttering Checklist - Help Guide
 ## Purpose
 The Decluttering Checklist is a form designed to help individuals identify items to keep or get rid of when decluttering their living or work space. This form is meant to guide you through the decision-making process, ensuring you focus on what's essential and what's not. By using this form, you can efficiently clear clutter and create a more organized and peaceful environment.

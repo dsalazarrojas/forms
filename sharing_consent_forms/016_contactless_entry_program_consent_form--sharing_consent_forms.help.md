@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contactless Entry Program Consent Form - Help Guide
 ## Purpose
 This form is designed to collect participant information and consent for the contactless entry program. The program aims to provide secure and convenient access to buildings and units for authorized personnel. By completing this form, you will be granting permission for keyless access to your building and unit, and providing your consent to share your data for this purpose.

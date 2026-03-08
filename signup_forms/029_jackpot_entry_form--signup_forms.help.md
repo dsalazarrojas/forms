@@ -1,7 +1,3 @@
-<thinking>
-This form is for riders to enter their information for jackpot competitions. To determine if this form is relevant and not a duplicate, check if the competition is open to new entries and verify that the user's information has not already been recorded in the system.
-</thinking>
-
 # Jackpot Entry Form - Help Guide
 ## Purpose
 This form is used by riders to enter their information for jackpot competitions. It allows users to provide their contact details, guesses, and other relevant information for the competition.

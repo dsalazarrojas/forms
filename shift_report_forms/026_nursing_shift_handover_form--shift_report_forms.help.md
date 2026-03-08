@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the handover process between nurses in a hospital setting. The handover process is essential for ensuring continuity of care and smooth transitions between shifts. This form should only be completed by the nurse who is handing over the shift and the nurse who is taking over the shift.
-</thinking>
-
 # Nursing Shift Handover Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way for nurses to document and communicate the status of patients, vital signs, and other important information during the handover process.

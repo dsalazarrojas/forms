@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from homeowners to request home repairs, such as scheduling a repair appointment, providing contact details, and indicating the services needed. The form will help the facility management team to track and process repair requests effectively.
-
-To prevent duplication of efforts, this form is intended for use only by homeowners who are requesting services for their personal homes, not for commercial or shared spaces. Please ensure that you are filling out this form for a residential address before submitting.
-
-</thinking>
-
 # request_for_home_repair_form - Help Guide
 ## Purpose
 This form is for homeowners to request home repairs, such as scheduling an appointment, providing contact details, and indicating the services needed.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for guests to book a room at a boutique hotel, allowing them to provide personal and preference information to tailor their stay. This guide will cover the purpose and usage of each field in the form to ensure a smooth and accurate submission process.
-
-</thinking>
-
 # Boutique Hotel Online Booking Form - Help Guide
 ## Purpose
 The Boutique Hotel Online Booking Form is designed to collect essential information from guests to book their stay at our hotel. This form will help us understand your preferences and requirements to provide you with the best possible experience during your stay.

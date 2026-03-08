@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for shore excursions. This form should be used by authorized personnel to register participants for shore excursions, ensuring that they have the necessary details for a successful tour.
-Before proceeding, please review the form carefully to ensure that all required fields are completed correctly. Please do not fill out this form if you are already registered for the shore excursion.
-</thinking>
-
 # shore_excursion_signup_form - Help Guide
 ## Purpose
 The shore_excursion_signup_form is used to register participants for shore excursions. This form captures essential details about the tour, participants, and other relevant information to facilitate a smooth and enjoyable tour experience.

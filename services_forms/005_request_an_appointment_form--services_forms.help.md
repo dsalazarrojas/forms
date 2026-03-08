@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Request An Appointment Form - Help Guide
 ## Purpose
 This form is designed to request an appointment with a doctor. It is intended for new clients or existing clients who need to schedule a new appointment. Please note that the form is not intended for repeat clients who are already scheduled for an appointment.

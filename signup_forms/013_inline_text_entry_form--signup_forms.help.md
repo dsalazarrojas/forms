@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inline Text Entry Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register for the Peer Knowledge Exchange Network (PKEN). The purpose of the form is to collect information from users about their interests, skills, and preferences. The form will be used to create a network of peers who can exchange knowledge and ideas on specific topics. Please note that this form is for registration purposes only and should only be filled out once. If you are already a registered member of the PKEN, please do not fill out this form again.
-</thinking>
-
 # Peer Knowledge Exchange Network Registration - Help Guide
 ## Purpose
 The Peer Knowledge Exchange Network (PKEN) is a platform for users to share knowledge, ideas, and expertise with peers from various fields. By filling out this form, you will be registering for the PKEN and contributing to a community of professionals who are passionate about exchanging knowledge and ideas.

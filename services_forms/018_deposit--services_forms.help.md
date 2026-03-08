@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, it's essential to create a user-friendly help guide for this "Deposit" form. The guide should clearly communicate the purpose of the form, provide step-by-step instructions, and explain each field's importance. This will help users understand their expected input and ensure accurate completion.
-</thinking>
-
 # Deposit - Help Guide
 ## Purpose
 This "Deposit" form is used to record a payment made by a customer. It captures essential information related to the deposit, including the payment method, date, and amount. The form is crucial for accounting and financial purposes, as it helps track customer payments accurately.

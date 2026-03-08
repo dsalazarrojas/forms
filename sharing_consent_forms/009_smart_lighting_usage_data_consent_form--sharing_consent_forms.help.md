@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain participant consent for smart lighting usage data collection. The data collection is for research purposes to understand and improve smart lighting systems. To avoid duplication, this form should only be filled out once per participant.
-</thinking>
-
 # Smart Lighting Usage Data Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant consent for smart lighting usage data. The data will be used for research purposes to improve smart lighting systems.

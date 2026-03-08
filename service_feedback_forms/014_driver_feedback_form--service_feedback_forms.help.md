@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Driver Feedback Form - Help Guide
 ## Purpose
 The Driver Feedback Form is a tool for customers to provide feedback on their recent ride experience. This form helps our team understand their satisfaction level and any areas for improvement.

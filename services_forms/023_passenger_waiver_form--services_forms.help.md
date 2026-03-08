@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Passenger Waiver Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Winter Wellness Bundle Giveaway Entry form is designed for participants to enter a giveaway for a wellness bundle, likely related to health and wellness products or services. The form is not associated with any specific platform and has been generated using AI, allowing for original adaptations and use. The purpose of this form is to collect contact information from individuals interested in entering the giveaway.
-</thinking>
-
 # Winter Wellness Bundle Giveaway Entry - Help Guide
 ## Purpose
 This form is intended for individuals to enter a giveaway for a wellness bundle. Participants can submit their name and email address to be entered into the giveaway.

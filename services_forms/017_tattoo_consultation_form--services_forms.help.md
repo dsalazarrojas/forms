@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tattoo_consultation_form - Help Guide
 ## Purpose
 The Tattoo Consultation Form is designed to provide a comprehensive platform for tattoo artists to consult with clients about their tattoo needs. This form helps collect essential information from clients, including their contact details, preferences, and requirements, to ensure a smooth and successful tattoo session.

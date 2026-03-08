@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Journal - Help Guide
 ## Purpose
 The Food Journal form is designed to help individuals track their food consumption for a specific number of days. It allows users to select the days they wish to journal and record details about their meals, including whether they consumed each meal or not, and add notes if necessary. This form is useful for tracking eating habits and making informed dietary decisions.

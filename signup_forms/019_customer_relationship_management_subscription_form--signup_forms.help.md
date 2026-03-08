@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "customer_relationship_management_subscription_form" is to create or manage customer subscriptions for relationship management. This form likely serves a specific business function, perhaps for tracking or managing customer relationships, which should be reviewed to ensure it's not a duplicate or unrelated task. 
-Please ensure that the form fields are relevant and accurately represent the business process they support.
-</thinking>
-
 # customer_relationship_management_subscription_form - Help Guide
 ## Purpose
 This form is used to create or manage customer subscriptions for relationship management.

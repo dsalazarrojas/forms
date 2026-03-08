@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Table Reservation Form - Help Guide
 
 ## Purpose

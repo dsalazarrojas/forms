@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting assistance with computer-related issues. The form will help us understand the nature of the problem, gather necessary details, and provide support efficiently. The form should not be used for non-technical issues or general inquiries. Please ensure you have filled out the required fields accurately to help us assist you better.
-</thinking>
-
 # Computer Assistance Form - Help Guide
 
 ## Purpose

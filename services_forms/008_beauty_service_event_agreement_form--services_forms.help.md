@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential information from clients and event planners for beauty services, ensuring a smooth and successful event. The form helps to gather necessary details such as client contact information, event specifics (type, date, and time), and service requirements (number of people, services needed, and bridal packages). It also covers logistical considerations (travel distance, parking, and electrical access) and financial aspects (estimated total cost, deposit amount, and payment schedule). Finally, it includes essential agreements such as cancellation and refund policies, late fee policies, weather or emergency policies, and liability waivers, which clients must acknowledge and sign off on. Ensure to review the form carefully before completing it to guarantee accurate information and understanding of terms.
-</thinking>
-
 # Beauty Service Event Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect all the necessary information for a successful beauty service event, ensuring that all parties involved are aware of their responsibilities and expectations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ambassador Registration Form - Help Guide
 
 ## Purpose

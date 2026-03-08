@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and store company information and policies in a centralized location. The form will ask for various details like company name, address, phone number, email, and policy details. The form is divided into different sections, each with its own set of questions.
-</thinking>
-
 # FMLA Policy Form - Help Guide
 ## Purpose
 The FMLA Policy Form is designed to collect and store company information and policies in a centralized location. This form is used to gather essential details about the company, including its policies, contact information, and policy revision dates.

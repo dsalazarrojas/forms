@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information for marketing services orders. This form is intended to be used by clients or customers to submit orders for marketing services, providing essential details such as service requests, project details, budget, start and end dates, and contact information. Ensure that this form is not duplicated or used for other purposes. 
-
-</thinking>
-
 # marketing_service_order_form - Help Guide
 ## Purpose
 The marketing service order form is used to collect information for marketing services orders from clients or customers. It is essential to complete this form accurately to ensure that the marketing team receives the necessary details to fulfill the order correctly.

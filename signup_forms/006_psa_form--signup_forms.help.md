@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used for a swim academy to collect information about swim academy details, such as its website, address, and media declaration. This information might be used for administrative purposes or for communication with parents or other relevant parties. I'm checking for non-duplication and ensuring this explanation only covers the provided fields. I assume "swim_academy_details" refers to overall swim academy details, while "parent_agreement", "media_declaration", "terms_and_conditions" relate to legal and administrative aspects. I'll provide a comprehensive guide for users to understand the form's purpose and functionality.
-
-</thinking>
-
 # Psa Form - Help Guide
 ## Purpose
 The Psa Form is used to collect information about the swim academy, including its website, address, and media declaration, for administrative and communication purposes.

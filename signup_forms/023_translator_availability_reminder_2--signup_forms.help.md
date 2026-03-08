@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Translator Availability Reminder 2 - Help Guide
 ## Purpose
 The Translator Availability Reminder 2 form is used to track and manage the availability of translators for future projects. This form helps to keep track of a translator's current status, availability, and other relevant details.

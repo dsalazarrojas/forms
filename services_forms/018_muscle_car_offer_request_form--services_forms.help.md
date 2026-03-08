@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to request a muscle car offer from the platform. The form will be used to gather information about the car the customer is interested in, their contact details and the type of offer they are looking for. The form will not be duplicated in any circumstances, and it's intended to be used as an internal tool for the platform team to understand customer demands and provide relevant offers in return.
-
-</thinking>
-
 # Muscle Car Offer Request Form - Help Guide
 ## Purpose
 This form is designed to allow customers to submit their muscle car interests and contact details to the platform team, so we can provide relevant muscle car offers.

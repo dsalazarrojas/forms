@@ -1,9 +1,3 @@
-<thinking>
-
-We're checking to see if this form is relevant to your needs and if you've already completed it. This help guide is a general explanation of the form and how to fill it out. Please let us know if you have any specific questions or need further clarification.
-
-</thinking>
-
 # Student Ministry Retreat Sign Up Form - Help Guide
 ## Purpose
 The Student Ministry Retreat Sign Up Form is designed to collect information from students who are planning to attend a retreat. This form helps the organizers to gather essential details about each student, their parents' contact information, and any other relevant data required for a successful and enjoyable retreat experience.

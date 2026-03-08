@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in early access to our platform. The purpose of this form is to gather contact information from the requester, including name, email, phone number, and other relevant details. 
-
-The form will be used to filter out spam or irrelevant requests and to ensure that only legitimate early access requests are approved. 
-
-Please note that this form is not designed to handle duplicate requests, so please only fill out this form once. If you are unsure or have filled out this form before and have new information to add, please contact our support team directly.
-
-</thinking>
-
 # Early Access Invitation Code Request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in early access to our platform. This form ensures that we can properly verify your identity and filter out spam or irrelevant requests.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to sign up as volunteers for a project or task. The purpose of this form is to collect essential information from potential volunteers, including their name, email, phone number, role, start and end dates, and other relevant details. This form serves as a crucial step in the volunteer management process for projects and tasks. 
-
-To ensure that the correct information is collected, this form should not be used for other purposes or duplicated. It is essential to understand the form's purpose and the fields within to complete it accurately.
-
-</thinking>
-
 # volunteer_signup_form - Help Guide
 ## Purpose
 The volunteer_signup_form is a registration form designed for users to sign up as volunteers for a project or task.

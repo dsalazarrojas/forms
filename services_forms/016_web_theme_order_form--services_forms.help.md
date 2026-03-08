@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # web_theme_order_form - Help Guide
 ## Purpose
 This form is used to collect information for a web theme order. It is intended for customers to provide their details and theme selection preferences. 

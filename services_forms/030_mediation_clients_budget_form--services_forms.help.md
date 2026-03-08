@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about a mediation client's financial situation, including income, expenses, assets, and liabilities. The purpose of this form is to help mediators understand the client's financial circumstances and make informed decisions about their case. It's intended for use in a mediation setting, where the goal is to facilitate a fair and efficient resolution of disputes. To ensure accuracy and relevance, please only fill out fields that apply to your situation.
-
-The form consists of 18 questions, each with its own specific purpose and guidelines for completion.
-
-</thinking>
-
 # mediation_clients_budget_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a mediation client's financial situation.

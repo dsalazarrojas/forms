@@ -1,7 +1,3 @@
-<thinking>
-The form "retail_employee_daily_check_in_form" is designed for retail employees to check in and out of their shift. It is intended for employees to report their arrival and departure times, as well as any notes or comments that may be relevant to their shift. This form is likely used by retail managers or HR personnel to track employee attendance and performance. To ensure accurate completion, please verify that all required fields are filled out before submitting the form. This guide is intended to be a helpful reference for users to ensure they are completing the form correctly and effectively.
-</thinking>
-
 # retail_employee_daily_check_in_form - Help Guide
 ## Purpose
 The retail_employee_daily_check_in_form is a simple form designed to track employee check-in and check-out times, as well as any relevant notes or comments for retail employees.

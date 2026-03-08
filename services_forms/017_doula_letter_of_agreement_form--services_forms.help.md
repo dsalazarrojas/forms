@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information related to a Doula service, likely for a Doula (a trained professional who provides emotional and physical support to women during and after pregnancy, childbirth, and postpartum). The Doula Letter Of Agreement Form is intended to outline the terms of the service provided, including client details, service duration, payment terms, and other relevant information.
-
-The form will likely be used by Doulas to create a legally binding agreement with clients, detailing the scope of work, payment conditions, and expectations. This form serves as a way to establish a clear understanding between the Doula and the client, ensuring both parties are on the same page.
-
-Please review the form fields carefully to ensure they align with your specific business needs and requirements.
-
-</thinking>
-
 # Doula Letter Of Agreement Form - Help Guide
 ## Purpose
 This form is used to outline the terms of a Doula service, including client details, service duration, and payment terms. It helps establish a clear understanding between the Doula and the client.

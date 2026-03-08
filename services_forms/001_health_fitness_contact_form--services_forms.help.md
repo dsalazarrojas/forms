@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather contact information from individuals who are seeking health and fitness services or support. This form is likely to be used by health and fitness professionals or organizations to gather details from clients or customers about their specific needs, preferences, and requirements. To ensure accurate and effective communication, it's essential to complete the form carefully and truthfully. Please note that some fields may be marked as required, which means they must be filled in for the form to be successfully submitted. Completing the form will help the organization understand the needs and preferences of the individual, allowing them to provide tailored services or support.
 
 # Health & Fitness Contact Form - Help Guide

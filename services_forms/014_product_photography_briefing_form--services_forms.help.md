@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a photography briefing form for products. Its purpose is likely to collect information from clients or internal teams about a product's photography requirements and needs. This form should be filled out by those involved in product photography, such as product managers, product designers, or marketing teams.
-
-Before filling out this form, please ensure that you have a clear understanding of the product's photography needs and requirements. This form should not be filled out if you are unsure about the product's photography needs.
-
-This form is designed to be filled out once, and it should provide a comprehensive overview of the product's photography requirements. If you need to fill out this form for multiple products, please fill out a separate form for each product.
-
-The form has multiple fields that require different types of information. Here is an explanation of each field and how to complete it.
-
-</thinking>
-
 # product_photography_briefing_form - Help Guide
 ## Purpose
 This form is designed to collect information about the product's photography needs and requirements.

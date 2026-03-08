@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with our service. The goal is to collect their opinions and suggestions to help us improve our service and better serve their needs. The form is a collection of questions that aim to gauge their satisfaction, preferences, and experiences with our service. By completing this form, customers will be helping us provide better services in the future.
-</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 
 ## Purpose

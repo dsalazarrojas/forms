@@ -1,7 +1,3 @@
-<thinking>
-  The purpose of this form is to document the closure of a work order, which is a process of formally concluding the work or services provided to a customer. This form helps ensure that all relevant information, such as the customer's details, job details, and closure status, are accurately recorded. To prevent errors, please ensure that you only submit this form once the work or services have been fully completed, and that the customer's details are accurate and up-to-date.
-</thinking>
-
 # Work Order Close Out Form - Help Guide
 ## Purpose
 The Work Order Close Out Form is used to formally conclude the work or services provided to a customer. This form captures key information about the customer, job, and closure status to ensure accurate and complete records.

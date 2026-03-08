@@ -1,15 +1,3 @@
-<thinking>
-The Online Equipment Appraisal Form is a digital form designed for clients to provide information about their equipment needs. The form is used to gather relevant details from clients, including equipment descriptions, contact information, and other essential details.
-
-To determine if this form is relevant for you, please consider the following questions:
-- Do you need to gather information from clients about their equipment needs?
-- Is the form a digital alternative to traditional paper-based or in-person methods of gathering this information?
-- Are you looking for a way to streamline the process of collecting and storing client data?
-
-If you answered "yes" to these questions, then this form is likely relevant for you. However, if you're unsure or need further clarification, please reach out to our support team for assistance.
-
-</thinking>
-
 # Online Equipment Appraisal Form - Help Guide
 
 ## Purpose

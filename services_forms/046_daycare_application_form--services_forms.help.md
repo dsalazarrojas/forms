@@ -1,8 +1,3 @@
-<thinking>... internal reasoning and checks ...
-
-The form is designed to collect information from parents who are applying for daycare services. Each field is explained below to ensure accurate and complete completion of the form.
-
-</thinking>
 # Daycare Application Form - Help Guide
 ## Purpose
 This form is a crucial part of our daycare application process. It captures the essential details about the parent and child, as well as their preferences and schedules. Please provide accurate and clear information to help us assess your eligibility for our daycare services.

@@ -1,9 +1,3 @@
-<thinking>
-  This form is intended to collect information from individuals interested in joining a knitting circle. The purpose is to gather details about the prospective member's preferences and skills to determine the best fit for the group. This form should be completed by anyone interested in joining the knitting circle. 
-  To avoid duplicate submissions, please ensure that you only submit the form once.
-  If you have already submitted the form and are rejoining, please do not resubmit. This will help prevent unnecessary processing and ensure the accuracy of our records.
-  </thinking>
-
 # Knitting Circle Signup Form - Help Guide
 ## Purpose
 This form is designed to help us get to know you better and find the best fit for you within our knitting circle.

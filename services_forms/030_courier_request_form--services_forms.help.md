@@ -1,12 +1,3 @@
-<thinking>
-To determine the form purpose and provide an accurate guide, I need to analyze the form schema. It appears to be a form for collecting delivery details from customers or clients. The form includes fields for various aspects of the delivery, such as date, time, address, and additional details. This form might be used in a logistics or transportation setting.
-
-The form has 17 fields, most of which are text fields for collecting information about the delivery details, and a few are for date and time. The "assigned_user" field suggests that this form might be used to assign a specific user to the delivery task.
-
-The purpose of this form is likely to gather information about the delivery details and assign a user to handle the delivery. This could be used in a scenario where a customer requests delivery services from a company or organization.
-
-</thinking>
-
 # courier_request_form - Help Guide
 ## Purpose
 The courier_request_form is a form used to collect information about delivery details and assign a user to handle the delivery. It is used to gather information from customers or clients for logistics or transportation purposes.

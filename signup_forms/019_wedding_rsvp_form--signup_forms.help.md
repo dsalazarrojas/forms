@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for couples or individuals to RSVP to a wedding event. The form is used to collect information about the guest's presence, contact details, and special requests.
-To prevent duplication, this form should only be accessed via a direct link provided by the wedding host.
-</thinking>
-
 # Wedding RSVP Form - Help Guide
 
 ## Purpose

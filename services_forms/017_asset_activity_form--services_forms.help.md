@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and record asset activities, including asset additions, disposals, and transactions. It is essential to ensure that all required fields are filled in to accurately represent the asset activities within the specified report period. The form should not be used to record duplicate activities.
-</thinking>
-
 # Asset Activity Form - Help Guide
 ## Purpose
 This form is used to record and report asset activities, including asset additions, disposals, and transactions. It is essential to ensure that all required fields are filled in to accurately represent the asset activities within the specified report period.

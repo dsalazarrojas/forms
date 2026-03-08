@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please ensure that you are interested in our coaching program and have not already submitted an interest form. This form is designed to help us understand your coaching goals and preferences to provide you with the most suitable coaching experience. Please answer all required questions as accurately as possible to ensure we can tailor our services to your needs.</thinking>
-
 # Coaching Program Interest Form - Help Guide
 ## Purpose
 This form is designed to help us understand your coaching interests and preferences to provide you with the best possible coaching experience.

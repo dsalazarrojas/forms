@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to provide their consent for filming in the context of the Community Health Initiative. The purpose of this form is to obtain explicit consent from participants before capturing any audio or video recordings of them. This form is typically used for recording participants' opinions, experiences, or insights for research, educational, or promotional purposes. Before filling this form, ensure that you have not already submitted it in the past. If you are unsure, contact the relevant authorities for clarification.
-</thinking>
-
 # Community Health Initiative Filming Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain explicit consent from participants before capturing any audio or video recordings of them. It is typically used for recording participants' opinions, experiences, or insights for research, educational, or promotional purposes.

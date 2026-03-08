@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information from clients for a spray tanning session. The form collects client details such as name, contact information, medical history, and specific conditions that may impact their tanning experience. The form is intended to help technicians identify potential risks and prepare for the session.
-
-It's essential to ensure that each client completes the form accurately and thoroughly, as this information is crucial for their safety and the success of the tanning process. The form is not intended for duplicate submissions. If a client has already completed the form, the user should not be allowed to fill it out again.
-
-</thinking>
-
 # Spray Tanning Intake Form - Help Guide
 ## Purpose
 The spray tanning intake form is used to gather essential client information for a safe and successful tanning experience.

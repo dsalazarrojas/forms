@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to elicit the client's consent for sharing data related to their legal aid case. It is essential that the client understands the purpose of the form to provide accurate and meaningful responses. This form is not intended to be duplicated or submitted for other purposes. 
-
-Please note that the form is split into two sections: "Client Information" and "Data Sharing Preferences". The client will be asked to provide their basic information and agree or disagree to share their data with various parties, including the Legal Aid Agency, Court, Solicitor, and others. They will also have the option to specify how they would like to receive and share their data.
-
-</thinking>
-
 # Legal Aid Case Data Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the client's consent for sharing data related to their legal aid case. It is essential that the client understands the purpose and implications of this form.

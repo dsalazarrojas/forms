@@ -1,19 +1,3 @@
-<thinking>
-The wildlife education feature consent form is used to gather information about the type of media that will be used in educational content, the purpose of the content, and whether or not consent has been given for its use. This form ensures that the content creators and users of the wildlife education feature are aware of and comply with relevant laws and regulations regarding the use of media. This form is not intended to be used for commercial or promotional purposes, and the "consent Given" field should only be checked if the media being shared does not contain any sensitive or protected information.
-
-To complete this form, you will need to provide the following information:
-
-- Select the type of media that will be used in the educational content.
-- Indicate the purpose of the content (e.g., for education, promotion, or entertainment).
-- Provide the name of the contact person responsible for the content.
-- Enter a valid email address for the contact person.
-- Enter a valid phone number for the contact person.
-- Check the box to indicate that consent has been given for the use of the media.
-
-Please review each field carefully to ensure that the information provided is accurate and complete.
-
-</thinking>
-
 # Wildlife Education Feature Consent Form - Help Guide
 ## Purpose
 This form is used to gather information about the type of media that will be used in educational content, the purpose of the content, and whether or not consent has been given for its use.

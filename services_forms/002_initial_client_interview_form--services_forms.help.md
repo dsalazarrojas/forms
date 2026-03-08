@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Client Interview Form - Help Guide
 ## Purpose
 The Initial Client Interview Form is used by our team to gather essential information from new clients before providing services. This form will guide you in collecting the necessary details to facilitate a successful relationship with our organization.

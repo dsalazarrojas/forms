@@ -1,5 +1,3 @@
-<thinking>... internal note to self: this form is designed to capture information about a specific service call, likely related to catering equipment maintenance. It seems like it might be used for a field service or maintenance team to collect data about the equipment issues, repairs, and outcomes. I will try to ensure that the explanations are clear and concise. I will also make sure to cover all the required fields... </thinking>
-
 # Catering Equipment Report - Help Guide
 ## Purpose
 This form is used to document a service call for a catering equipment maintenance visit. It is intended to collect information about the equipment's condition, the work done, and the outcome of the visit.

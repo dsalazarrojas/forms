@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering a new telecommunications service with your company. It's meant for customers to provide essential information about themselves and their service preferences. Please only submit this form if you're new to our services or if you need to make a change to an existing service. To ensure accuracy, review your submissions carefully before submitting. You can only submit this form once per service request. If you've already registered a service with us, please do not resubmit this form; instead, contact us to update your existing record.
-
-</thinking>
-
 # telecommunications_service_registration - Help Guide
 ## Purpose
 This form is used for registering a new telecommunications service or making changes to an existing service.

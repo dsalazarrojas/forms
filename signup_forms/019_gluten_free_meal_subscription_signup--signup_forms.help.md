@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for users to sign up for a gluten-free meal subscription service. The form is designed to gather essential information from users to determine their delivery preferences, meal plan, payment method, name, email, phone number, subscription plan, and delivery frequency. 
-
-To avoid duplication, we should ensure that users do not sign up multiple times. 
-
-Please note that the meal plan and payment method are required fields, as users must choose a meal plan and a payment method to proceed with their subscription. 
-
-</thinking>
-
 # Gluten Free Meal Subscription Signup - Help Guide
 ## Purpose
 This form is used to sign up for a gluten-free meal subscription service, allowing users to select their preferred meal plan, delivery method, and other essential details.

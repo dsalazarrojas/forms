@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to obtain consent for the sharing of sensitive data with various recipients for audit preparation and execution. The form ensures that the data subject (individual or entity) is aware of the purpose, scope, and security measures involved in the data sharing process. It also provides an opportunity for the data subject to understand their data protection rights and provide consent for the sharing of their data.
-
-The purpose of this form is to provide a clear and transparent process for data sharing, ensuring that both the data subject and the organization are aware of their responsibilities and obligations.
-
-This form is a legal and regulatory requirement for audit preparation and execution, and it is essential to fill it out carefully and accurately.
-
-</thinking>
-
 # Audit Preparation Data Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent for the sharing of sensitive data with various recipients for audit preparation and execution. It is essential to fill it out carefully and accurately to ensure that both the data subject and the organization are aware of their responsibilities and obligations.

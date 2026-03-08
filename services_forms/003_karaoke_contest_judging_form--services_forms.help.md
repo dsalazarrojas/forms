@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Karaoke Contest Judging Form. 
-The form is intended for a competition where users judge and rank karaoke performances. The form will have several fields that require the user to input information about the contestants, their scores, and ranking. To complete this form, the users will input their name and score for each contestant. The user will then select the ranking and awards for each contestant. The form will have two fields for selecting awards: Award and Special Award. 
-The form's purpose is to collect information about the performance of each contestant in a competition.
-</thinking>
-
 # Karaoke Contest Judging Form - Help Guide
 ## Purpose
 The Karaoke Contest Judging Form is used to collect information about the performance of each contestant in a competition. To complete this form, you will need to input information about the contestants and their performances.

@@ -3,22 +3,6 @@
 
 The Cleaning Inspection Checklist is a form designed to assess the cleanliness and standards compliance of a property or facility. It evaluates the overall cleanliness and condition of various areas, including entrance and common areas, individual rooms, kitchens, restrooms, and overall property. The form is used to identify areas of concern and recommend corrective actions to maintain or improve cleanliness standards.
 
-<thinking>
-
-This form is intended for use by facilities management, property managers, or maintenance personnel to conduct routine inspections and ensure compliance with established cleaning standards. It is not designed for other purposes, such as customer satisfaction surveys or marketing research.
-
-The form is designed to be completed in sections, with each section focusing on a specific area or aspect of the property. The sections include:
-
-* Entrance and Common Areas
-* Individual Rooms
-* Kitchen Areas
-* Restrooms
-* Overall Assessment
-
-Each section is designed to be completed by answering a series of questions, such as rating the cleanliness of various areas or identifying areas of concern. The form also includes fields for inspector comments and signature, as well as fields for follow-up information.
-
-</thinking>
-
 ## How To Complete This Form
 
 ### Step 1: Complete Each Section

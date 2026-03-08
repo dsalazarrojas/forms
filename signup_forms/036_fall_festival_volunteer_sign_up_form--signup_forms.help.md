@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential volunteers for the Fall Festival event. It is used to sign up volunteers for various roles, such as event volunteers, event staff, and festival coordinators. This form is likely to be used to organize and coordinate the volunteers for the event.
-
-To determine if the form is a duplicate, one can check the database to see if a user with the same email address has already signed up for the same event or role.
-
-</thinking>
-
 # Fall Festival Volunteer Sign Up Form - Help Guide
 ## Purpose
 This form is used to sign up volunteers for the Fall Festival event.

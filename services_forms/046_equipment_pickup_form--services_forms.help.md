@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about equipment pickup requests from customers. The purpose of this form is to ensure that customers can easily provide necessary details about the equipment they want to pick up, which helps the staff to process the request efficiently and accurately. This form will be filled by customers who want to pick up their equipment.
-
-It is essential to ensure that this form is not duplicated or filled in duplicate, as it is a critical part of the equipment pickup process. If a customer has already filled this form, it is not necessary to fill it again.
-
-The form will only ask for information that is necessary and relevant to the pickup process. This helps to avoid unnecessary fields that could lead to errors or duplication of work.
-
-</thinking>
-
 # Equipment Pickup Form - Help Guide
 ## Purpose
 The Equipment Pickup Form is designed to collect information about equipment pickup requests from customers. This form helps customers provide necessary details about the equipment they want to pick up, which allows staff to process the request efficiently and accurately.

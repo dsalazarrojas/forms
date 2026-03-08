@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is used to document and standardize the maintenance agreement process, ensuring that all relevant information is collected and stored properly. This process is used to streamline and maintain records of maintenance agreements, facilitating better organization and communication between stakeholders.
-The form should not be used for other purposes or as a template for other forms. All fields are optional except where specified as required.
-</thinking>
-
 # Maintenance Agreement Form - Help Guide
 ## Purpose
 The Maintenance Agreement Form is used to document and standardize the maintenance agreement process, ensuring that all relevant information is collected and stored properly.

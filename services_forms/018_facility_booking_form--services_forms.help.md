@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users who need to book a facility for a specific purpose. It's likely that the form is used by clients or customers to request access to a facility for a certain duration. The form should be used in a situation where the user needs to provide details about the facility they want to book, the duration of the booking, and some contact information. This form is not intended for internal use within the organization.
-
-</thinking>
-
 # facility_booking_form - Help Guide
 ## Purpose
 This form is used to book a facility for a specified duration. Please provide the necessary details to complete your booking request.

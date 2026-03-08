@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # permission_to_enter_apartment_form - Help Guide
 
 ## Purpose

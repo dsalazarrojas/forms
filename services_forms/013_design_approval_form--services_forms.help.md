@@ -1,15 +1,3 @@
-<thinking>...The Design Approval Form is a tool used to gather information and feedback for design projects. It ensures that all necessary design files are reviewed and approved before being sent to clients. This form helps in streamlining the process of design review and approval, ensuring that all necessary information is captured accurately and efficiently.
-
-To determine if this form is necessary for your project, check if you are:
-
-* A designer submitting a new design project for approval
-* A reviewer reviewing and providing feedback on an existing design project
-* An administrator reviewing and processing design project information
-
-If you are unsure, check with your project lead or team lead for clarification.
-
-</thinking>
-
 # Design Approval Form - Help Guide
 ## Purpose
 The Design Approval Form is a critical tool for design project review and approval.

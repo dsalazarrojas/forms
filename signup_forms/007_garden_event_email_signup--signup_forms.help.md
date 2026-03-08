@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from users who are interested in attending a garden event. The form has 8 fields, each with a specific purpose. To complete the form, please read the following steps:
 
 ## Garden Event Email Signup - Help Guide

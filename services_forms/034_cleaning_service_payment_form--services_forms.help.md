@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users who are filling out the Cleaning Service Payment Form. The purpose of this form is to collect information necessary for payment of cleaning services provided. Please fill out this form carefully to ensure accuracy and completion.
-</thinking>
-
 # Cleaning Service Payment Form - Help Guide
 ## Purpose
 The Cleaning Service Payment Form is used to collect payment information for cleaning services rendered. Please fill out this form to provide accurate and complete payment details.

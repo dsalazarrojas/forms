@@ -1,7 +1,3 @@
-<thinking>
-This form's primary purpose is to collect participant information for a Community Center, likely for registration, program enrollment, or other similar purposes. It seems to be designed for a broad audience, with no specific focus on a particular industry or category. The form's fields cover basic participant details, emergency contact information, and special accommodations. This form is not intended for a specific business or organization, suggesting it's a general-purpose form for community centers, schools, or other public institutions.
-</thinking>
-
 # Community Center Participant Information - Help Guide
 ## Purpose
 This form is designed to collect essential information about participants in a community center program or event.

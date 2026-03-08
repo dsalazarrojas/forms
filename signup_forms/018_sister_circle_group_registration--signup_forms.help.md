@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sister_circle_group_registration - Help Guide
 ## Purpose
 This form is designed for registering new members to a sister circle group. It collects essential information about the individual, including their contact details, preferences, and group-related data. By filling out this form, you will be able to create a new member profile and join the group.

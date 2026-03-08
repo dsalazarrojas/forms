@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bike Auto Services Questionnaire - Help Guide
 
 ## Purpose

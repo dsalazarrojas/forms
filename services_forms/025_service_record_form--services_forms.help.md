@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and display service records for vehicles. The form appears to be intended for use in a service department, possibly for mechanics or repair shops, to record details about a vehicle's service history. This form should ensure that each field is filled in correctly to ensure accurate service records are kept.
-
-Before proceeding, please ensure that you have a clear understanding of the purpose of this form and that you are not duplicating an existing record.
-
-</thinking>
-
 # Service Record Form - Help Guide
 ## Purpose
 The Service Record Form is used to collect and display service records for vehicles. This form is intended for use in a service department, such as a mechanic's shop, to record details about a vehicle's service history.

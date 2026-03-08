@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form "Consent For AI Use In Services" is relevant and applicable to your specific use case. Before filling this form, please review your service or product's privacy policy and terms of use to understand how your data will be handled. If you have any doubts or concerns, please contact your service provider.
-</thinking>
-
 # Consent For AI Use In Services - Help Guide
 ## Purpose
 This form is designed to obtain informed consent for the use of AI technology in your services or products. Please fill this form to provide explicit consent and understanding of how your data will be handled.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to help plan a retirement potluck event. It's used to collect information from potential attendees, including their names, contact information, the type of dish they plan to bring, and their availability for the event. The form will help organizers determine the number of attendees, the variety of dishes, and the budget for the event.
-</thinking>
-
 # Retirement Potluck Sign Up Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who plan to attend a retirement potluck event. By filling out this form, you will help the organizers plan a successful and enjoyable event.

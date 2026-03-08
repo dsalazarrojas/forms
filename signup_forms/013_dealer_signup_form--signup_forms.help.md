@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used as intended, we must consider its purpose and the potential reasons it may be duplicated. The purpose of this Dealer Signup Form is to gather necessary information from dealers who want to sign up for our services. We should avoid duplicating this form for other types of users, such as customers or employees, as they have different needs and requirements.
-</thinking>
-
 # Dealer Signup Form - Help Guide
 ## Purpose
 The Dealer Signup Form is designed to collect information from dealers who want to sign up for our services. This form is used for new dealer onboarding and should only be used for this specific purpose to avoid confusion and data duplication.

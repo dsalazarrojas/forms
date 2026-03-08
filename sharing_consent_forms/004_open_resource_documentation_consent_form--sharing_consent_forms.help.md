@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Resource Documentation Consent Form - Help Guide
 ## Purpose
 The Open Resource Documentation Consent Form is a form used to gather information from users to understand their willingness to share their resources, such as personal data, documentation, or other materials, for documentation purposes. This form helps ensure that users are aware of and consent to the sharing of their resources with others, including the company or its affiliates.

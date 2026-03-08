@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information about a mobile home inspection. It is likely used in a real estate or housing context to assess the condition and features of a mobile home. This form does not appear to be part of a complex system, suggesting it is a standalone form for basic data collection.
-
-The form is not part of a larger process that involves other forms or steps. However, it may be used in conjunction with other forms or systems for a more comprehensive assessment of a property.
-
-To the best of my knowledge, this form does not duplicate any existing forms or processes within the organization. If there is any overlap or redundancy, it would be beneficial to review and revise the form to ensure consistency and efficiency in data collection.
-
-This form will be used for mobile home inspections, and the collected data will be used for internal purposes such as documentation and record-keeping, or potentially for reporting and analysis. The form appears to be designed for a general audience, including inspectors, real estate agents, or other property professionals.
-
-The form collects information about a mobile home, including address, type, size, and features. This information will help to create a comprehensive picture of the property's condition and characteristics.
-
-The collected data may be used for various purposes, such as generating reports, creating records, or supporting decision-making processes within the organization.
-
-</thinking>
-
 # Mobile Home Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a mobile home inspection. It will help create a comprehensive picture of the property's condition and characteristics, which can be used for internal documentation, reporting, and analysis.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect service feedback and offers from customers. This form helps us understand how our customers feel about our service and if they want any discounts. We want to ensure that the data we collect is accurate and relevant, so we've carefully designed each field to guide users through the process. This form will be submitted when the customer clicks the 'Submit' button, and we'll send a response based on their feedback and discount preferences.
-</thinking>
-
 # Service Feedback And Discount Offer - Help Guide
 ## Purpose
 This form is designed to help customers provide feedback about our service and potentially receive discounts or offers in return. It's a simple way for us to understand customer satisfaction and preferences.

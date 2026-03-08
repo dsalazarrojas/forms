@@ -1,17 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and to prevent duplicate submissions. This form is designed to collect feedback from clients about their experience with our services, specifically regarding the quality and professionalism of our technicians. Before completing this form, please take a moment to review the following questions to ensure you are providing accurate and relevant feedback. If you have already submitted feedback for the same service visit, please do not submit another response, as we may not be able to process duplicate submissions.
-
-This form is intended to gather information about your experience with our services, including:
-  - The quality of the service provided
-  - The professionalism and courtesy of the technician
-  - Communication and explanation of the work
-  - Overall satisfaction with the service
-  - Your likelihood to recommend our services
-
-Please take a few moments to carefully review each question and provide as much detail as possible to help us improve our services.
-
-</thinking>
-
 # Chiller Service Feedback Survey - Help Guide
 
 ## Purpose

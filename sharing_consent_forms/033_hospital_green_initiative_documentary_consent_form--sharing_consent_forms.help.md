@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Hospital Green Initiative Documentary Consent Form is a document used to obtain consent from patients, staff, and visitors for various hospital activities, such as filming, photography, or other forms of documentation. This form serves as a record of consent, ensuring that all parties involved are aware of and agree to the hospital's policies and procedures regarding documentation. The form must be completed accurately and thoroughly to ensure that all necessary information is captured.
 
 # Hospital Green Initiative Documentary Consent Form - Help Guide

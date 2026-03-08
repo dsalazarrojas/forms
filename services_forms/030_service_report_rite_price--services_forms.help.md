@@ -1,6 +1,3 @@
-<thinking>
-The form "service_report_rite_price" is designed to record and report on rite prices associated with various services provided. The purpose of this form is to collect information on the price of a specific rite, including its type, location, and assigned user, among other details. It is essential to ensure accuracy and consistency in recording these details for proper billing, service tracking, and reporting purposes. Please note that the form fields are designed to cater to the specific needs of your service reporting process, and the explanations below will guide you through each field to ensure you fill it out correctly.</thinking>
-
 # service_report_rite_price - Help Guide
 ## Purpose
 The service report form is used to capture and report details about rite prices for services rendered. This form helps in maintaining accurate and up-to-date records, enabling efficient service tracking, billing, and reporting.

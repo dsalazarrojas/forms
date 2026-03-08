@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to help users express their preferences for funeral-related services. The form likely exists within a system used for funeral planning, possibly as part of a broader funeral management system or a service that helps individuals or organizations plan and manage funerals. The form's purpose is to gather information about the user's preferences for the type of coffin, description, date, time, color, shape, size, location, and type of funeral service. This form is probably used by funeral directors, morticians, or individuals planning their own funerals. It's possible that this form is part of a larger system that generates a personalized funeral plan or provides recommendations based on the user's input. Given the options provided, this form appears to cater to a wide range of user preferences, allowing them to customize their funeral according to their needs and values.</thinking>
-
 # Funeral Preferences Form - Help Guide
 ## Purpose
 The Funeral Preferences Form is designed to help users express their personal and practical preferences for the funeral service. The form is meant to gather information about the user's coffin type, description, date, time, color, shape, size, location, and type of service, allowing funeral planners to create a tailored experience that reflects the user's wishes.

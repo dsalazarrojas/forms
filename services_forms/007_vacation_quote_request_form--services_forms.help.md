@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a simple request form for customers to provide information about their vacation plans. It's designed to gather necessary details such as customer information, contact information, vacation details, travel preferences, special requests, number of guests, room preferences, and transportation requests. This form is intended to be filled out by customers who are requesting a quote for their vacation plans. The form should only be filled out by customers who have not already submitted a vacation quote request.
-
-</thinking>
-
 # Vacation Quote Request Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their vacation plans in order to provide a quote for their stay. Please fill out this form if you are a customer looking for a quote for your vacation plans.

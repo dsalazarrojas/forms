@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the services provided to a client, including the client's name, the service provider's name, and details about the service such as its start and target dates, frequency, and status. This form is used to create an individualized service plan for the client. 
-
-This form is intended for use by service providers to record and manage their services. 
-
-The form is designed to be completed by service providers, but it is also accessible to clients for self-reporting. 
-
-Please ensure that you have all necessary permissions and authorizations before completing this form. 
-
-</thinking>
-
 # Individualized Service Plan Form - Help Guide
 ## Purpose
 This form is used to create an individualized service plan for each client. 

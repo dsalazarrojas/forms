@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block explains the purpose of the form and checks for relevance and non-duplication.
-This form is designed to collect contact information from potential customers or clients who are interested in learning more about the security system provided by the company. The form will be used to gather basic contact details and a message from the user. The form should not be used for other purposes such as sales or marketing inquiries.
-</thinking>
-
 # Security System Provider Contact Form - Help Guide
 ## Purpose
 The Security System Provider Contact Form is designed to collect contact information from potential customers or clients who are interested in learning more about the security system provided by the company.

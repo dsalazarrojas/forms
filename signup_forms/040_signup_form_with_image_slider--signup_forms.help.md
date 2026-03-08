@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a user-facing form designed for sign-up purposes with an image slider. This guide aims to clarify each step for a smooth and hassle-free user experience.
-</thinking>
-
 # Signup Form With Image Slider - Help Guide
 ## Purpose
 The Signup Form With Image Slider is a comprehensive form designed to collect information from users for sign-up purposes. This form helps you collect a variety of data such as name, email, password, confirm password, and other details like slider and date/time selections. By filling out this form, you'll be able to create a user profile.

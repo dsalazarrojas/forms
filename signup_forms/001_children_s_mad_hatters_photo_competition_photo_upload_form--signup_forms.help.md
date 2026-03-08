@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and requirements of the CHILDREN'S MAD HATTERS PHOTO COMPETITION Photo Upload Form. The form is designed to collect information and a photo from children participating in the "Children's Mad Hatters" competition, which aims to encourage creativity and innovation in young artists. Before proceeding, please ensure that you are eligible to participate and that you have read and understood the competition terms and conditions.
-</thinking>
-
 # CHILDREN'S MAD HATTERS PHOTO COMPETITION Photo Upload Form - Help Guide
 ## Purpose
 The CHILDREN'S MAD HATTERS PHOTO COMPETITION Photo Upload Form is designed to collect information and a photo from children participating in the "Children's Mad Hatters" competition. This form is used to gather details about the child's entry, including their name, school name, and photo.

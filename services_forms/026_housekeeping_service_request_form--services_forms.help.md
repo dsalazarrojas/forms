@@ -1,7 +1,3 @@
-<thinking>
-To be eligible for this form, a request must be for a Housekeeping Service. This form should not be used for other purposes.
-</thinking>
-
 # Housekeeping Service Request Form - Help Guide
 ## Purpose
 The Housekeeping Service Request Form is used by users to request housekeeping services such as cleaning, janitorial, and maintenance services. This form should only be used for housekeeping services and not for other purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to be a helpful resource for end-users completing the "Client Consent - Waxing" form. This form is intended to gather essential information from clients regarding their consent to undergo waxing services, including their medical history, consent to the procedure, and understanding of potential risks. It's crucial to ensure clients understand the form's purpose and the importance of accurately filling it out. It's also essential to prevent duplication of the form or any misinterpretation of its content.
-</thinking>
-
 # Client Consent - Waxing - Help Guide
 
 ## Purpose

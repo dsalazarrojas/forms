@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intake Form For Unlockinghearts - Help Guide
 ## Purpose
 The Intake Form For Unlockinghearts is a digital form designed to collect information from users to unlock their hearts. The form is intended to gather details about the user's preferences, needs, and expectations related to unlocking their hearts. This form is meant to be a helpful tool for unlocking hearts, and its completion will provide valuable insights for the service provider.

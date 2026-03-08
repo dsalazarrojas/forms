@@ -1,13 +1,3 @@
-<thinking>
-This form is a critical tool used in the music industry to request mastering services from audio production professionals. The form is designed to collect essential details about a project, including artist information, contact and delivery preferences, project title, type, and tracks count, among other key details. The form serves as a single point of reference for clients to provide all necessary information for mastering services.
-
-To ensure data accuracy and prevent duplication, please verify that all provided fields are up-to-date and correct before submitting the form. This form typically follows a standard set of options and guidelines to minimize confusion and facilitate efficient processing.
-
-Before completing this form, make sure you are aware of all project-specific requirements and options available. If you're unsure about any field or option, please refer to our standard operating procedures and FAQs for clarification.
-
-After reviewing the form's requirements, you are ready to proceed. Please answer all questions accurately and thoroughly to avoid any potential issues or delays in the mastering process.
-</thinking>
-
 # Audio Master Delivery Request Form - Help Guide
 
 ## How To Complete This Form

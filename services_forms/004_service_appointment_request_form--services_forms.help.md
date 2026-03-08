@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## service_appointment_request_form - Help Guide
 
 ## Purpose

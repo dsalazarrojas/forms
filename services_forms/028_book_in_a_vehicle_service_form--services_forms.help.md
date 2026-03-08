@@ -1,9 +1,3 @@
-<thinking>
-
-The internal reasoning is that this form is meant for customers to provide information about their vehicle, such as make, model, and year, so that our mechanics can prepare for the service appointment. The purpose of the form is to gather all necessary information for a successful service visit. It checks for duplicate entries and ensures that customers provide their email and phone number for communication purposes. 
-
-</thinking>
-
 # Book In A Vehicle Service Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your vehicle, allowing our mechanics to prepare for a successful service visit.

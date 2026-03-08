@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to collect information from customers requesting roadside assistance. Roadside assistance is a service that provides help to individuals whose vehicles are stranded or experiencing problems on the road. This form is used to gather details about the customer's issue, allowing the service provider to dispatch assistance in a timely and efficient manner.
 
 This form is meant to be completed by customers who are experiencing a breakdown, flat tire, or other unexpected issue while on the road. 

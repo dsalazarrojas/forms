@@ -1,15 +1,3 @@
-<thinking>
-This form is used for users to join a membership club. It collects information about the user, including their name, contact details, payment method, and other relevant information. The form is designed to be completed by the user in a step-by-step manner, with each page containing a few fields. The form's fields are divided into several sections, including contact information, payment method, and personal details. The form's purpose is to collect all the necessary information to create a new member account. This form is intended for users who are interested in joining the membership club. It is not intended for existing users or users who are not eligible for membership.
-
-Before completing this form, please make sure that you are eligible to join the membership club. Also, ensure that you have all the necessary information ready to complete the form correctly.
-
-Please note that some fields are not required, and you can skip them if you don't have the information needed. However, please make sure to complete all required fields correctly.
-
-This form is intended for users from the United States, Canada, and Mexico. If you are not from one of these countries, you may not be eligible for membership. Please review the terms of service before submitting the form.
-
-Also, please note that the form is not intended for users under the age of 18. The form is designed for adult users only.
-</thinking>
-
 # membership_club_join_form - Help Guide
 ## Purpose
 The membership club join form is used to collect information from users interested in joining the membership club. It helps to create a new member account and provides necessary information for the user to become a member.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users who have rented a laptop from our service. The form will help us understand their overall experience with the service, including the condition of the laptop, the quality of support they received, and any other comments or feedback they may have. It is not necessary to fill out the form if the user has not rented a laptop from our service. This form is not intended for employees of our organization or other internal stakeholders.
-</thinking>
-
 # Laptop Rental Service Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users who have rented a laptop from our service. It helps us understand their overall experience, including the condition of the laptop, support quality, and any other comments or feedback they may have.

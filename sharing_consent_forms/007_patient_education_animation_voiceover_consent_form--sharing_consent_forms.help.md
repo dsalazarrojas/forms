@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for patients to provide consent for the use and sharing of audio and image content related to their care. This form should only be used for patients who have previously provided consent for their care to be recorded and shared. The purpose of this form is to ensure that patients understand and agree to the use and sharing of their voiceover animation, audio, and image content. Please note that this form is not intended for patients who have not previously provided consent for their care to be recorded and shared. Before starting, review the form carefully to ensure it's the correct form for your needs and that you're not duplicating a previous consent process.
-</thinking>
-
 # Patient Education Animation Voiceover Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from patients for the use and sharing of their voiceover animation, audio, and image content related to their care.

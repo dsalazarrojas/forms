@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for a form with 25 fields.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect information about clients and services. It is designed to be completed by clients to provide their details and preferences for a specific service.

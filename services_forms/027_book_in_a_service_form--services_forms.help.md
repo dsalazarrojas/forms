@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to book a service for their book-related needs, such as book binding, restoration, cleaning, or appraisal. The form requires customers to provide detailed information about the book, including its title, author, and condition, as well as their contact information and preferred service date and time. The form also asks customers to select their preferred service location and estimated budget, providing an option for customers to upload photos of any damage or issues with the book. By providing all this information, customers can ensure that the service is performed correctly and efficiently.
-</thinking>
-
 # Book In A Service Form - Help Guide
 ## Purpose
 The Book In A Service Form is a tool for customers to book a service for their book-related needs. It helps us understand the customer's requirements and preferences, allowing us to provide efficient and effective service.

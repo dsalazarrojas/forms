@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for signing up as a moderator for a Clubhouse session. The purpose of this form is to gather information about the moderator's qualifications and preferences, to ensure a smooth and successful session experience for all participants.
-
-Before we proceed, please ensure that you have reviewed the session details and are familiar with the expected responsibilities of a moderator. This form should not be completed if you are already signed up as a moderator for this session.
-
-</thinking>
-
 # Clubhouse Moderator Sign Up Form - Help Guide
 ## Purpose
 This form is for signing up as a moderator for a Clubhouse session. It collects information about your qualifications, preferences, and commitments as a moderator.

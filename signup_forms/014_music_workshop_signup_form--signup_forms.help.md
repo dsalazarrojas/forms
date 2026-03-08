@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a help guide for the Music Workshop Signup Form. This form is used to collect information from participants who are signing up for a music workshop. The form has several fields that require completion, including participant name, email, phone, note, and more. We will make sure to keep the explanations concrete, concise, and practical, and avoid inventing unsupported business logic. The form has a few text fields for participant information, session details, and notes. We will explain each field's purpose and make sure to cover all the required and optional fields.
-</thinking>
-
 # Music Workshop Signup Form - Help Guide
 ## Purpose
 The Music Workshop Signup Form is used to collect information from participants who are interested in attending a music workshop. This form helps the organizers to gather essential details about the participants, which is crucial for planning and executing the workshop smoothly.

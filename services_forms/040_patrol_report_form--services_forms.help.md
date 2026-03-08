@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for reporting patrol activities, providing a standardized way for officers to report their daily activities, including details such as officer identity, dates, locations, and incident descriptions. This form helps ensure consistency and accuracy in reporting, which is crucial for monitoring and analyzing patrol performance and making informed decisions. To avoid duplication of efforts, please ensure that you're using this form for its intended purpose, which includes reporting new or ongoing incidents, and not for routine or repetitive tasks.
-
-</thinking>
-
 # patrol_report_form - Help Guide
 ## Purpose
 The Patrol Report Form is used to document and report patrol activities, providing details such as officer identity, dates, locations, and incident descriptions.

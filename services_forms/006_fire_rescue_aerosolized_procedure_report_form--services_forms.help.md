@@ -1,14 +1,3 @@
-<thinking>
-This guide is to provide instructions for the Fire Rescue Aerosolized Procedure Report Form. 
-
-The form is for reporting the details of a rescue procedure, specifically when a fire chief or another officer is not available. The form aims to gather information for the lead medical officer and the hidden EMS chief's information. This form should only be used when there is no available fire chief, to ensure that all necessary information is captured for further investigation or review.
-
-Before creating this form, ensure that you have the required information. This form is intended to be used as a backup or when the primary fire chief is not available.
-
-Please ensure you have the correct permissions to access and use this form.
-
-</thinking>
-
 # Fire Rescue Aerosolized Procedure Report Form - Help Guide
 ## Purpose
 The Fire Rescue Aerosolized Procedure Report Form is used to report the details of a rescue procedure when the fire chief or another officer is not available.

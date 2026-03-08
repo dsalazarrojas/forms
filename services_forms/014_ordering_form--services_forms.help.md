@@ -1,5 +1,4 @@
-> <thinking>This form is designed to collect information from customers for an ordering process, specifically for an online ordering system. The purpose of this form is to gather details about the products being ordered, customer contact information, order status, and other relevant details. This form is intended for customers or users to provide their ordering information in an accurate and efficient manner. It is recommended that this form be used only for the intended purpose and not for other unrelated purposes. Please note that this form requires a valid email address for the customer. If any field is left blank, it will be noted as an optional field. This form is designed to be easy to use and complete, with clear labels and concise explanations for each field.</thinking>
-# Ordering Form - Help Guide
+> # Ordering Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for an ordering process, specifically for an online ordering system. It's intended to gather details about the products being ordered, customer contact information, order status, and other relevant details.
 

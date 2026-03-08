@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer and service information for ordering services.
-</thinking>
-
 # service_parts_order_form - Help Guide
 ## Purpose
 This form is intended to collect customer and service information for ordering services.

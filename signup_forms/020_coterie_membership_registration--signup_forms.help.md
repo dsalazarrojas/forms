@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for users to register themselves as a member of a community or organization called "Coterie". The form is used to collect demographic information, membership preferences, and application details. The form fields are likely required for registration and membership purposes. It's essential to ensure the end-user understands the form's purpose and how to complete it to avoid confusion or incorrect submissions. 
-
-The form fields should be filled out in the correct format to ensure accurate data collection. This guide will help users understand the form's requirements and what each field entails.
-
-</thinking>
-
 # Coterie Membership Registration - Help Guide
 ## Purpose
 This form is used to register as a member of Coterie. To ensure accurate and complete registration, please follow the instructions below.

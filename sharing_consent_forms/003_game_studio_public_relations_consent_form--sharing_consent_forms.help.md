@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for obtaining public relations consent from game studio employees, contractors, or other individuals who may be representing the game studio in a public or professional capacity. It's essential that all individuals filling out this form have the right to consent and agreement to represent the studio in a public or professional capacity. This form is typically used when a game developer, contractor, or other representative of the game studio needs to interact with the public, media, or other third parties. 
-
-The form ensures that those representing the studio have provided their consent to share sensitive or confidential information about the game studio, and they also agree to abide by the studio's public relations and communication policies.
-
-Before filling out this form, please ensure that the individual filling it out has been properly authorized to represent the game studio. If there is any doubt, please contact the game studio's HR or management team for further guidance.
-
-</thinking>
-
 # Game Studio Public Relations Consent Form - Help Guide
 
 ## Purpose

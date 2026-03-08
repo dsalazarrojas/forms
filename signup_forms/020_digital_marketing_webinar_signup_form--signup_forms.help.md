@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect registration information and preferences from attendees for a digital marketing webinar. 
-The form is intended to be filled out by the attendees who are interested in attending a digital marketing webinar. 
-The form will be used to capture the attendee's details, including their registration details, preferences, and any additional information that the attendees want to provide. 
-This form will also serve as an internal tool for the organizers to verify and keep track of the attendees. 
-It's essential to fill out the form accurately and completely for the attendees to be successfully registered for the webinar.
-
-</thinking>
-
 # Digital Marketing Webinar Signup Form - Help Guide
 ## Purpose
 This form is designed to collect registration information and preferences from attendees for a digital marketing webinar.

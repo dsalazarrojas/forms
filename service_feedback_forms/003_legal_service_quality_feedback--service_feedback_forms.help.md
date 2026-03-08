@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback on the quality of legal services provided to clients. This feedback will help us understand what we do well and what areas need improvement. Please ensure that you are providing feedback on the most recent legal service interaction. If you have already submitted feedback, please do not resubmit as it may be marked as duplicate...</thinking>
-
 # Legal Service Quality Feedback - Help Guide
 ## Purpose
 This form is intended to collect feedback on the quality of legal services provided to clients. Your input will help us understand what we do well and identify areas that require improvement.

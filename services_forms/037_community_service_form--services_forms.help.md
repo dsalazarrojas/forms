@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Community Service Form" used to gather information from individuals seeking assistance. This form is designed to collect personal and household details to provide tailored support services. Ensure that users are aware that each section is optional, and their responses will be kept confidential and secure. Please fill out this form accurately to enable us to better understand your needs and provide the best possible services.
-</thinking>
-
 # Community Service Form - Help Guide
 ## Purpose
 The Community Service Form is designed to gather information from individuals seeking assistance. It is used to collect personal and household details to provide tailored support services.

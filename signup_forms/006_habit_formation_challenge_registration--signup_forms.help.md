@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "Habit Formation Challenge Registration" form, which is used to register participants for a habit formation program. Before proceeding, ensure that you're eligible to participate in this program and have not registered previously. To verify, check your email and program details to confirm that this registration is not a duplicate.
-</thinking>
-
 # Habit Formation Challenge Registration - Help Guide
 ## Purpose
 The Habit Formation Challenge Registration form collects essential information from participants to facilitate their involvement in the habit formation program. Please complete this form accurately to ensure a smooth and effective registration process.

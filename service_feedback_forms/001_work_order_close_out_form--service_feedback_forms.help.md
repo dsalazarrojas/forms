@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Order Close Out Form - Help Guide
 
 ## Purpose

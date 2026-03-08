@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Winery Customer Information Collection Form - Help Guide
 ## Purpose
 This form is used to collect information from customers visiting a winery for marketing, sales, and customer relationship management (CRM) purposes. It is designed to be completed by customers who are interested in learning more about the winery's products, events, and promotions.

@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I must consider the following:
-
-*   The form is intended to provide information for a courier service quotation, allowing users to specify the type of service required (Service, Delivery, or Package), details about the client, additional quotation details, estimated cost, estimated time, and service type.
-*   The form will be used by customers or administrators to create a quotation for courier services.
-*   Each field in the form is designed to collect specific information, and understanding the purpose and requirements for each field is crucial for accurate and efficient quotation creation.
-
-</thinking>
-
 # Courier Service Quotation Form - Help Guide
 ## Purpose
 The Courier Service Quotation Form is a tool used to create a quotation for courier services. It helps clients or administrators gather information to provide accurate estimates for courier services.

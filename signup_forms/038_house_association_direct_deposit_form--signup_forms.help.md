@@ -1,11 +1,3 @@
-<thinking>
-
-The "house_association_direct_deposit_form" form is designed to collect information for a direct deposit to an individual or organization. This form is likely used in a professional setting, such as a financial institution, to manage direct deposit transactions. The purpose of this form is to gather necessary details to establish a new direct deposit account or to update existing account information.
-
-This form is not meant to be used for other purposes, such as account inquiries or customer service requests. The form's fields are organized in a way that makes it easy to understand and fill out. However, if you need help with something else, please let us know, and we'll be happy to assist you.
-
-</thinking>
-
 # house_association_direct_deposit_form - Help Guide
 
 ## Purpose

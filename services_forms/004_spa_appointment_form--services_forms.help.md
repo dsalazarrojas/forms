@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to schedule a spa appointment with a client. It allows users to select the start time, client information, services chosen, and other relevant details for the appointment.

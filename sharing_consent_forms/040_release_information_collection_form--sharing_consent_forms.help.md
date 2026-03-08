@@ -1,11 +1,3 @@
-<thinking>
-This form is for collecting information about releases of sensitive information, such as business secrets or proprietary data. This form ensures that all necessary details are captured in a standardized manner, making it easier for the responsible party to provide accurate and comprehensive release information. By providing clear and specific information, this form reduces the likelihood of errors or miscommunication, and helps ensure that the release process is smooth and efficient.
-
-The form is designed to be completed by the party responsible for releasing the information, and the information captured will be used for record-keeping and auditing purposes. The form is not meant to be used for any other purpose, and all fields should be filled out accurately and completely.
-
-Before filling out this form, please ensure that you have read and understand the purpose and instructions for each field. If you're unsure about any of the information or have questions, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # Release Information Collection Form - Help Guide
 ## Purpose
 The Release Information Collection Form is designed to capture essential details about the release of sensitive information, ensuring accuracy and completeness in the record-keeping process.

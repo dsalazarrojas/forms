@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleaning Client Information Form - Help Guide
 ## Purpose
 

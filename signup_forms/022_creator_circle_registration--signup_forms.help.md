@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from creators who want to join a creator circle, a community of creators. The form will help the creators to provide their details, upload necessary documents and media, and onboard into the circle. This form is not affiliated with any form platform and is an original adaptation created using only public survey topic metadata.
-</thinking>
-
 # creator_circle_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from creators who want to join a creator circle, a community of creators.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the 'covers_order_form' form. The form is designed to collect information from users for the purpose of placing an order. The form has multiple pages, each with different fields to capture various aspects of the order. The fields include personal information, order details, payment methods, notes, email, and phone number. To avoid duplication, it's essential to review the fields carefully before submitting the form.
-
-</thinking>
-
 # covers_order_form - Help Guide
 ## Purpose
 This form is used to collect information from users for placing an order. Users are required to provide personal details, order details, payment method, and additional notes or contact information.

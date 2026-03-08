@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for property owners and managers to submit requests for property maintenance, repairs, or upgrades. This is a straightforward form with a clear and concise structure.
-
-To ensure that this form is used correctly and to prevent duplication, please note that:
-
-*   This form is intended for property owners or managers to report any necessary work on a property.
-*   If you're a property owner or manager, this form is your go-to resource for submitting maintenance requests.
-*   If you're a maintenance team member, you're likely to receive these requests and will use the information provided to complete the necessary work.
-
-</thinking>
-
 # Property Maintenance Request - Help Guide
 ## Purpose
 The Property Maintenance Request form is designed for property owners and managers to submit requests for property maintenance, repairs, or upgrades. This form helps streamline the process of reporting necessary work and ensures that the maintenance team is informed and equipped to complete the tasks on time.

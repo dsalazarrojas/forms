@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an insurance quote. The fields on this form will help us get an accurate quote for you. Please fill out each field carefully to ensure that we can provide you with the most accurate quote possible. This form has multiple pages, but you can fill out as much or as little information as you need. Please let us know if you have any questions or need further clarification on any of the fields.
-</thinking>
-
 # Insurance Quote Form - Help Guide
 ## Purpose
 The insurance quote form is used to collect information to provide you with an accurate insurance quote. This form collects information such as policy type, coverage area, coverage start date and end date, and other relevant details to give you a precise quote.

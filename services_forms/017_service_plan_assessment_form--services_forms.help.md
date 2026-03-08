@@ -1,12 +1,3 @@
-<thinking>
-This help guide is being created in accordance with the provided YAML schema, and it's being designed to provide a clear understanding of the Service Plan Assessment Form to end users. 
-
-The purpose of this form is to gather information from users about their preferences, habits, and needs related to our services. It's intended to be a general assessment tool to help us better understand how to tailor our services to individual needs.
-
-This form is not intended for immediate data entry or critical analysis. It's a survey-like form to provide a more comprehensive understanding of our users' preferences. Each field in this form is designed to elicit specific information, and users should answer them as honestly as possible to ensure accurate results.
-
-</thinking>
-
 # Service Plan Assessment Form - Help Guide
 ## Purpose
 The Service Plan Assessment Form is a questionnaire designed to collect information about your preferences, habits, and needs related to our services. This information will help us better understand how to tailor our services to individual needs.

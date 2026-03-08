@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be an online registration form for users to join a chat room. The purpose of this form is to gather information from users to verify their identity and assign them a role in the chat room. The form is not affiliated with any form platform and is an original creation using public survey topic metadata as inspiration. It is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-</thinking>
-
 # Online Chat Room Registration Form - Help Guide
 ## Purpose
 The Online Chat Room Registration Form is designed to collect information from users to verify their identity and assign them a role in the chat room. This form helps us understand who is joining the chat room and what role they will be playing in it.

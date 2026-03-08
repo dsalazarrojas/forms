@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are planning a funeral or memorial service. It's crucial to understand the purpose and scope of this form to ensure that it's completed accurately and efficiently. This form might be used by funeral homes, hospitals, or other organizations that provide bereavement services. 
-
-Before proceeding, please verify that you are in the correct context and that this form is not already covered by another form in your organization.
-
-To create an engaging and user-friendly help guide, we will break down the form into sections that explain each field's purpose and how to complete it. This will help users understand the form's intent and requirements.
-
-</thinking>
-
 # Funeral Planning Checklist Form - Help Guide
 
 ## Purpose

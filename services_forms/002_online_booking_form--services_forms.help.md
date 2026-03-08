@@ -1,8 +1,3 @@
-<thinking>
-This form is used for online bookings, allowing customers to provide information about their request, such as name, contact details, and appointment specifics (date, time, location). This will help the service provider to understand the customer's needs and prepare for the appointment. Please make sure you are filling this form for your actual appointment request.
-
-</thinking>
-
 # online_booking_form - Help Guide
 ## Purpose
 This guide will help you fill out the "online_booking_form" for your online booking request. Please follow the instructions below to ensure a successful submission.

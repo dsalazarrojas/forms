@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a comprehensive template for documenting operator duties and shifts. It's likely used for administrative or operational purposes within an organization. The fields suggest that the form is used to record information about operators, shifts, and personnel involved. However, without further context, it's difficult to determine the exact purpose and usage of this form within the organization.
-</thinking>
-
 # Operator Duty Acknowledgment Form - Help Guide
 ## Purpose
 The Operator Duty Acknowledgment Form is used to document information about operators, shifts, and personnel involved in a duty. This form is likely used for administrative or operational purposes within an organization.

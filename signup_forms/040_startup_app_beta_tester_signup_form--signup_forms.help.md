@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from individuals interested in participating in a beta testing program for a startup app. The form is used to collect demographic information, contact details, and preferences related to the beta program. The primary goal is to determine whether users are willing to provide feedback and participate in the testing process.
-
-We should ensure that users understand the purpose of the form and the expected outcome of completing it. This guide will help users fill out the form accurately and effectively.
-
-</thinking>
-
 # Startup App Beta Tester Signup Form - Help Guide
 ## Purpose
 The Startup App Beta Tester Signup Form is designed to collect information from potential beta testers and gather feedback on the startup app. By filling out this form, you will be joining the beta testing program and providing valuable insights that will help us improve the app.

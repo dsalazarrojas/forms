@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block is to ensure that the form is used only for its intended purpose and to prevent duplication of the process.
-
-The form is intended to collect information for senior testimonials stories, which are a vital part of the care planning process for seniors. This information is essential for understanding the senior's preferences, needs, and experiences, which helps healthcare providers make informed decisions and tailor care plans accordingly.
-
-To prevent duplication, the form should only be completed by authorized personnel or the senior's legal representative.
-
-</thinking>
-
 # Senior Testimonial Story Consent Form - Help Guide
 
 ## Purpose

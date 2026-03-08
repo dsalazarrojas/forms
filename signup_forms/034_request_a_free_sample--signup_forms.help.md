@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect contact information and preferences from users interested in receiving free samples. This form is likely to be used in a context where the organization wants to gather data about the user, potentially for marketing, sales, or other promotional purposes. It's also possible that the form is meant to be used to gather user demographics or other relevant details. Before starting, please take a few seconds to review the form and ensure that your answers accurately reflect your intentions to receive the samples.
-
-</thinking>
-
 # Request A Free Sample! - Help Guide
 ## Purpose
 This form is designed to collect your contact information and preferences to receive free samples.

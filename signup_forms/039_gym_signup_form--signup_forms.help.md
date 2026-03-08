@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to sign up for a gym membership. This form collects personal and demographic information from the user, including first and last names, email, username, password, date of birth, phone number, type of gym, membership type, membership plan, emergency contact information, and medical condition. The form is designed to be completed by individuals who wish to join the gym. To ensure the form is completed correctly, please review the fields carefully and make sure to fill in all the required fields.
-</thinking>
-
 # Gym Signup Form - Help Guide
 
 ## Purpose

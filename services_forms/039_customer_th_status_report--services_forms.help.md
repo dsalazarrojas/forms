@@ -1,13 +1,3 @@
-<thinking>
-
-This form was generated using AI technology to create an original adaptation of a customer status report form. The form's primary goal is to collect information about customers and their status. The fields are designed to help users track customer progress and update customer information.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, but rather a creative interpretation of public survey topics.
-
-Please note that the form's design and fields may require adjustments to fit specific business needs and purposes.
-
-</thinking>
-
 # Customer TH Status Report - Help Guide
 ## Purpose
 This form is designed to help you track the status of your customers. It gathers information about customers' progress and updates their status for better management.

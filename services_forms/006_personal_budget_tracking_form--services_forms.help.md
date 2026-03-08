@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users track their personal budget. It is not a comprehensive financial management tool, but rather a simple, user-friendly way to monitor income and expenses. It appears to be designed for individual use, possibly for tracking a single person's financial data. The form is likely intended for personal use and not for businesses or other types of organizations. It is a self-contained form, with no apparent integration with other forms or systems. This is a basic form with four fields, each of which is optional. The field labels are clear and concise, indicating that the form is intended for simplicity and ease of use.
-</thinking>
-
 # personal budget tracking form - Help Guide
 ## Purpose
 This form is designed to help individuals track their personal income and expenses, setting a target budget, and defining their financial goals.

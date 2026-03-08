@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for vehicle bookings, allowing them to select a vehicle, specify a start and end date, pick up and drop off locations, vehicle type, customer details, and booking status. The form also includes fields for customer notes and form submission data for tracking purposes. The purpose of this form is to gather all necessary information for efficient vehicle booking management. 
-</thinking>
-
 # Vehicle Booking Form - Help Guide
 ## Purpose
 The Vehicle Booking Form is designed to collect information from customers for vehicle bookings, allowing your team to efficiently manage bookings and provide excellent customer service.

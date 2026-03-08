@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to sign up for a book exchange program. It collects demographic information, preferences, and other relevant details to facilitate a smooth book exchange process between members. This form is not intended for general book recommendation or review purposes. It's essential to fill out this form accurately to ensure that your interests and capabilities are matched with potential swap partners.
-</thinking>
-
 # Book Exchange Swap Membership Form - Help Guide
 ## Purpose
 This form is used to join the book exchange program, which allows users to swap books with others who share similar interests. It helps us understand your preferences and needs to match you with the best swap partners.

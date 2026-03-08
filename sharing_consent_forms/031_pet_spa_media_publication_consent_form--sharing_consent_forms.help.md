@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to capture information related to the publication of pet-related media. It is used to gather consent and details about the pet and its owner. The form should only be used for pet-related publications and should not be used for other purposes. Ensure that the form is filled out correctly and accurately to avoid errors. This form is not intended for human subjects, so ensure that the pet's owner has provided correct and accurate information about the pet.</thinking>
-
 # pet_spa_media_publication_consent_form - Help Guide
 ## Purpose
 The Pet Spa Media Publication Consent Form is used to capture consent and information about pets for publication purposes.

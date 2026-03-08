@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate the effectiveness and quality of a massage session. It is designed to gather feedback from customers to improve the massage services provided by the business. The form is not mandatory, and the answers are not linked to any specific customer's data.
-
-To ensure that the form is filled out correctly, it is essential to understand the purpose and the meaning behind each field. Please read this guide carefully to fill out the form accurately.
-
-</thinking>
-
 # Post Massage Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their massage session. The information collected will help us to improve our services and provide a better experience for our customers.

@@ -1,9 +1,3 @@
-<thinking>
-
-The "T Shirt Drop Off Sign Up Form" is used to collect information from individuals who want to sign up for a t-shirt drop off event. This form is likely used by event organizers or administrators to gather details about the attendees and their preferences. The form should only be filled out once per person, as indicated by the required fields for `first_name`, `last_name`, `phone`, `date`, `tshirt_type`, `quantity`, and `category`. The form does not need to be filled out multiple times for the same person. If a person needs to sign up for multiple events or categories, they will need to fill out the form again, selecting the correct category each time. 
-
-</thinking>
-
 # T Shirt Drop Off Sign Up Form - Help Guide
 
 ## Purpose

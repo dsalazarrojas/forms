@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from passengers registering for a cruise. The purpose of this form is to gather essential details about each passenger, including their name, contact information, and passport details. It is essential to ensure accurate and complete data for seamless travel experiences. Please review each field carefully to understand its purpose and requirements.
-
-</thinking>
-
 # cruise_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from passengers registering for a cruise. This information will help us verify the identity of each passenger and ensure a smooth check-in process.

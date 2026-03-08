@@ -1,6 +1,3 @@
-<thinking>
-This form is for users to calculate and pay tips for bills. It allows users to input the base price of the bill and select a tip percentage or amount, and then either calculate the tip or reset the form. The purpose of this form is to provide a simple way for users to manage their bill payments.
-</thinking>
 # Tip Payment Form - Help Guide
 ## Purpose
 The Tip Payment Form is designed to help users calculate and pay tips for bills. This form allows users to input the base price of a bill and choose a tip percentage or amount to calculate the tip, or simply pay the tip amount.

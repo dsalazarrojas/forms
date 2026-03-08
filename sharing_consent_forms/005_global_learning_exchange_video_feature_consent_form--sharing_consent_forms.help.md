@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for users who wish to feature their videos in the Global Learning Exchange. 
-The purpose of this form is to gather necessary information from users to ensure that their videos meet the quality and integrity standards of the platform. 
-This guide is intended for end-users to understand the form's purpose and how to complete it properly. 
-Please ensure that you have read and understood the form's purpose before proceeding. 
-If you have any previous submissions, you may be prompted to confirm or revise your information to ensure accuracy and consistency. 
-</thinking>
-
 # Global Learning Exchange Video Feature Consent Form - Help Guide
 ## Purpose
 This form is used to collect information about a video that you want to feature in the Global Learning Exchange. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect student registration information for the icssc_rcf_student program. The form is likely to be used by students to register for the program or course selection process. This form is not explicitly tied to any specific business process or workflow, so it's possible that it could be used for other purposes as well. However, based on the provided input fields, it appears that the form is intended for student registration and course selection. 
-</thinking>
-
 # icssc_rcf_student - Help Guide
 ## Purpose
 The icssc_rcf_student form is used to collect registration information from students for the icssc_rcf_student program.

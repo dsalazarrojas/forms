@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Hair & Makeup Service Order Form - Help Guide
 
 ## Purpose

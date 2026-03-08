@@ -1,16 +1,3 @@
-<thinking>
-As a service feedback form is crucial for businesses like ours to understand our customers' experience and improve our services. This guide is designed to ensure that you, our valued customer, can complete the form accurately and provide us with the most helpful feedback.
-
-Before you start, please note that you can save your answers as you fill out the form, and you will be able to review them before submitting. This way, you can make sure everything is correct before sending it to us.
-
-Please make sure you've read the form instructions carefully and answer each question as truthfully as you can. If you're unsure about a specific field, please ask us for clarification before proceeding.
-
-If you've already filled out this form, you may not need to fill it out again. However, if your feedback has changed or you've had additional experiences with our service, we welcome any updates to your previous feedback.
-
-Now, let's get started!
-
-</thinking>
-
 # Air Care Service Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback about your recent service experience with us. Your input will help us understand what we're doing well and where we can improve.

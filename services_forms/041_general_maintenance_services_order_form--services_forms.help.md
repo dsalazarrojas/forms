@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information about a general maintenance services order from customers. This form is likely to be used by maintenance service providers to collect necessary details about the customer and their service needs. Before using this form, please review the following guide to complete it correctly and efficiently.
-
-</thinking>
-
 # General Maintenance Services Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about customer and service requirements for general maintenance services. It's intended for businesses or individuals offering maintenance services to gather essential details to fulfill customer requests.

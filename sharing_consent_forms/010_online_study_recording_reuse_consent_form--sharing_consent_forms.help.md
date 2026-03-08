@@ -1,8 +1,3 @@
-<thinking>
-This form is for obtaining online study recording reuse consent from participants. It is intended for researchers to obtain consent for reusing recordings of participants in their studies. The form should only be filled out by participants, and not by researchers or other individuals. Please ensure that you have read and understand the purpose of this form before proceeding.
-
-</thinking>
-
 # online_study_recording_reuse_consent_form - Help Guide
 ## Purpose
 This form is used to obtain participant consent for the reuse of their online study recordings.

@@ -1,9 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly discuss the purpose and requirements of this form. This guide is intended to help users complete the Psav Scenic Internal Request Form 3, which is used to request facilities for various events, meetings, and conferences. The form is designed to gather information about the event or meeting, including the type, date, location, and other relevant details.
-
-To ensure accuracy and avoid duplication of effort, please note that this form is used specifically for internal requests within Psav Scenic. If you're looking to request external services or facilities, please use a different form or channel.
-
-With that in mind, let's move on to the help guide.</thinking>
-
 # Psav Scenic Internal Request Form 3 - Help Guide
 ## Purpose
 The Psav Scenic Internal Request Form 3 is used to request facilities for various events, meetings, and conferences within Psav Scenic. This form helps event organizers gather the necessary information to ensure a smooth and successful event experience.

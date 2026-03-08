@@ -1,10 +1,3 @@
-<thinking>
-To be used as part of our lead generation process for the Mobile App Launch campaign, this form will gather information from potential leads interested in launching their own mobile app. The purpose of this form is to collect data from potential leads in order to schedule follow-up meetings or calls with our sales team. By filling out this form, the potential lead will provide us with their contact information and preferences for communication.
-
-We are looking for leads interested in launching their app within the next 6 weeks. The form fields are designed to gather the most relevant information to our sales team to schedule the follow-up meetings. Some fields might be repeated for testing and validation purposes, however the main goal is to ensure that we have all the necessary information to proceed with the follow-up meeting.
-
-</thinking>
-
 # Mobile App Launch Lead Generation Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are interested in demonstrating a skincare device. The form is intended to be completed by potential clients who are looking to learn more about the product's features and benefits. The form will guide the client through a series of steps to collect relevant information, including their contact details, preferred demonstration date and time, and any additional notes or follow-up requests. It's essential to ensure that the client completes the form correctly to ensure accurate and efficient processing of their demo request. It's also crucial to note that fields with a label of "select_one" or "select_multiple" are used to collect specific types of data, while fields with a label of "text" or "date" or "time" are used to collect more general information.
-
-Please review the form structure and content carefully to ensure it meets your specific business needs.
-</thinking>
-
 # Skincare Device Demonstration Appointment - Help Guide
 ## Purpose
 The Skincare Device Demonstration Appointment form is designed to collect information from clients interested in demonstrating a skincare device. The form helps the client schedule a demo appointment and provides relevant details to ensure a smooth and successful demonstration.

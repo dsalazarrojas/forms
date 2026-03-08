@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Notary Journal Form is to record the details of notarization for documents, including the names of the parties involved, the property signed, and other relevant information. This form is intended to ensure that notarizations are accurately documented and easily accessible.
-</thinking>
-
 # Notary Journal Form - Help Guide
 ## Purpose
 The Notary Journal Form is a tool designed to record the details of notarization for documents. This form is used to document the parties involved, the property signed, and other relevant information in a clear and concise manner.

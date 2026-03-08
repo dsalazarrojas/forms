@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be a simple help document for users filling out the "Delivery Quotation Form", which is designed to gather information about a customer's purchase request for a product. The form collects basic data such as product ID, product name, quantity, delivery method, customer name, customer email, and customer phone number. The form is not designed for any specific business logic, and the intent of the fields should be self-evident based on their labels and types. Therefore, the purpose of this guide is to explain these elements clearly and concretely.
-</thinking>
-
 # Delivery Quotation Form - Help Guide
 ## Purpose
 The Delivery Quotation Form is a simple form that collects information about a customer's purchase request. The form helps us gather essential details to process and deliver the requested product efficiently.

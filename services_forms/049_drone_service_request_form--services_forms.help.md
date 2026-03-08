@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a drone service from our team. It is not mandatory to fill out this form, but it will help us better understand your needs and provide you with a more accurate quote. Please ensure that you are filling out the form only once for each service request to avoid duplication of work. 
-</thinking>
-
 # Drone Service Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your drone service request. Please fill it out carefully to ensure that our team can provide you with the best possible service.

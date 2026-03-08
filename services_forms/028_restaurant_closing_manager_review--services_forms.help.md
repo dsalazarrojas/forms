@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Closing Manager Review - Help Guide
 
 ## Purpose

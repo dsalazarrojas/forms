@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the grand jury district court juror questionnaire. To ensure that the form is filled out correctly and accurately, please make sure you understand its purpose and relevance to your role. This form is likely intended for jurors who are serving in a district court, and it's essential to provide honest and accurate information to ensure the smooth operation of the jury system. Before filling out this form, double-check that you are not duplicating any information already submitted.
-</thinking>
-
 # grand_jury_district_court_juror_questionnaire - Help Guide
 ## Purpose
 The grand jury district court juror questionnaire is a form designed to gather information from jurors serving in a district court. This form helps to ensure that all jurors have accurate and up-to-date information, which is vital for the efficient functioning of the jury system.

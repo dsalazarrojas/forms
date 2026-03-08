@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Development Assessment - Help Guide
 
 ## Purpose

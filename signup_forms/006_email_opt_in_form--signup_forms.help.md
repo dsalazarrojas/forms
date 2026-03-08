@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect contact information and preferences from visitors, including their email address, name, job title, department, company, company website, and marketing opt-in preferences. The form is designed to be completed by individuals who are interested in receiving email marketing materials from the organization. To prevent duplication, this form will only be accessible to visitors who have not already opted-in to email marketing.
-
-</thinking>
-
 # EMail Opt In Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and preferences from visitors interested in receiving email marketing materials from us. By filling out this form, you will be able to:

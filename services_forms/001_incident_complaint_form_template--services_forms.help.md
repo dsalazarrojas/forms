@@ -1,9 +1,3 @@
-<thinking>
-The form "incident_complaint_form_template" is designed to collect information about incidents or complaints that need to be documented and addressed. This form serves as a template for reporting and recording details about incidents, ensuring that all necessary information is captured and organized in a structured way. 
-The main objective of this form is to provide a clear and consistent way to report incidents, making it easier to track and resolve them efficiently. 
-This form should only be used for genuine incidents or complaints, and not for general or non-relevant purposes. 
-</thinking>
-
 # Incident Complaint Form Template - Help Guide
 ## Purpose
 The incident complaint form template is a standardized form designed to collect and document information about incidents or complaints. It helps to ensure that all necessary details are captured and recorded in a structured and organized manner.

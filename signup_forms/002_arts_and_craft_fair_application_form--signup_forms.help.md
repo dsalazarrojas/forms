@@ -1,5 +1,3 @@
-<thinking>Arts and Craft Fair Application Form is intended for vendors who are interested in selling their handmade or local products at our fair. This form is to gather information about the vendor and their business. It is required to be completed in its entirety for the vendor's application to be considered for participation in the fair. Please ensure that the information provided is accurate and up-to-date, and do not duplicate or reuse existing entries. This form will be used to assess the eligibility of the vendor for participation in the fair and to determine booth placement and other logistical arrangements.</thinking>
-
 # Arts And Craft Fair Application Form - Help Guide
 
 ## Purpose

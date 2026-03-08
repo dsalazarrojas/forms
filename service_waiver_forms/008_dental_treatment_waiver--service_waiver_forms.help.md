@@ -1,15 +1,3 @@
-<thinking>
-
-To create the dental treatment waiver form, we first need to confirm that it is necessary to waive treatment for a particular patient. This form is used for patients who cannot receive dental treatment due to certain health conditions or medical emergencies. The form is divided into two main sections: patient information and medical practice information. We need to fill in all required fields to complete the form correctly and ensure that the patient and medical practice information is accurate.
-
-Before filling out the form, please review the fields carefully and ensure that you understand the required information. This form is not intended for emergency situations, please contact the emergency services if you are experiencing a life-threatening condition. 
-
-The required fields for this form are: medical_history, treatment_details, doctor_signature, patient_name, medical_practice_phone, medical_practice_email, medical_practice_address, medical_practice_license, patient_address, patient_phone, patient_email, patient_license, patient_date, and medical_practice_name.
-
-Please note that this form is not a substitute for professional medical advice. If you have any doubts or concerns, please consult your doctor or medical professional.
-
-</thinking>
-
 # dental_treatment_waiver - Help Guide
 ## Purpose
 This form is used to document the waiver of dental treatment for patients who cannot receive treatment due to certain health conditions or medical emergencies.

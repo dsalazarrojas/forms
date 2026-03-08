@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information for electrical service work orders, likely from customers or internal teams requesting electrical work or repair services. The purpose of this form is to collect relevant details to process and fulfill the service request efficiently. This form should not be used for other purposes, such as general contact forms or surveys.
-</thinking>
-
 # Electrical Service Work Order Form - Help Guide
 ## Purpose
 The Electrical Service Work Order Form is used to collect information for electrical service work orders from customers or internal teams.

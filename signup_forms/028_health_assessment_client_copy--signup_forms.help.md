@@ -1,10 +1,3 @@
-<thinking>
-This form is used for a client-facing application, where a user needs to provide information about a client's health assessment. This form is likely used by healthcare professionals to gather data about the client's medical history, medications, allergies, and other relevant health information. The form is designed to be completed by the client themselves or by a healthcare professional on their behalf. The purpose of this form is to gather accurate and comprehensive information about the client's health status, which can be used for assessment, diagnosis, and treatment planning.
-
-Before starting this form, please note that the following fields are optional and not required for completion. This form is designed to be comprehensive, but some fields may be skipped if they are not relevant to the client's situation.
-
-</thinking>
-
 # Health Assessment Client Copy - Help Guide
 
 ## Purpose

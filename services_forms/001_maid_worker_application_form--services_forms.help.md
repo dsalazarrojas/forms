@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from individuals interested in becoming a maid worker. The purpose of the form is to understand their contact details, availability, and experience, and to provide them with options for their availability and work type. The form aims to collect as much relevant information as possible while keeping it as concise and easy to fill out as possible. It's crucial that the form is filled out correctly to ensure that the relevant details are captured for further review and processing.
-
-This form will be used to evaluate each applicant's qualifications and suitability for work. Therefore, please ensure that all fields are completed correctly and thoroughly. If you're unsure about any of the fields, refer to this guide for clarification.
-</thinking>
-
 # Maid Worker Application Form - Help Guide
 ## Purpose
 The Maid Worker Application Form is used to collect information from individuals interested in becoming a maid worker. It's essential to fill out the form correctly to ensure that your application is processed efficiently and accurately.

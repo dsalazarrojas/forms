@@ -1,5 +1,3 @@
-<thinking>Background Check Service Feedback Survey - internal validation check: This form is designed to collect feedback from individuals who have used the background check service. The purpose is to evaluate the user experience, satisfaction, and overall performance of the service. The feedback collected will be used to improve the service and identify areas for future development.</thinking>
-
 # Background Check Service Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals who have used the background check service. Your input is crucial in helping us improve and refine the service to better meet your needs.

@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is being used for its intended purpose and not for another business process that can be handled by another form. We also need to check that the form isn't being filled out multiple times unnecessarily. The form should only be filled out once a request has been made for a quote. 
-</thinking>
-
 # Bottling Services Quote Request - Help Guide
 ## Purpose
 The Bottling Services Quote Request form is designed to gather essential information from businesses seeking a quote for bottling services. This form helps our team understand your needs and requirements, allowing us to provide accurate quotes and tailor our services to your needs.

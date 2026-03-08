@@ -1,11 +1,3 @@
-<thinking>
-This form is used to onboard new members to the platform, allowing them to register their information and select their membership level. The form is used to track member information, platform type, and other relevant details. This form is not for general public use, it's intended for internal users who will be using this information to manage and review member accounts.
-
-The form has 13 fields in total, each with its own purpose and requirement status. Some fields are optional, and some are required for the correct completion of the form.
-
-The goal of this help guide is to provide a clear understanding of each field's purpose and how it should be completed.
-</thinking>
-
 # Digital Platform Exclusive Membership Form - Help Guide
 ## Purpose
 This form is used to onboard new members to the platform and collect relevant information for their management and review.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for estimating the cost of a project. The form is used to capture project details such as project name, client information, project dates, location, and artist rates. It also includes fields for estimating the time needed for the project and selecting the rate per hour. The form has a section for project notes and status.
-This form is intended for projects that require an estimate for the cost of services provided by artists. It is not for actual project planning or scheduling purposes.
-Please note that this form does not store actual project data, but rather provides a way to estimate the cost of a project based on the information provided.
-</thinking>
-
 # Illustrator Estimate Form - Help Guide
 ## Purpose
 The Illustrator Estimate Form is used to gather information for estimating the cost of a project. It captures project details such as project name, client information, project dates, location, and artist rates. The form also includes fields for estimating the time needed for the project and selecting the rate per hour.

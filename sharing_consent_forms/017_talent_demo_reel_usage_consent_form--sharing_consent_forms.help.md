@@ -1,5 +1,3 @@
-<thinking>Before generating this help guide, I would like to confirm that I understand the context and requirements. The form "talent_demo_reel_usage_consent_form" is used for obtaining consent from users for the usage of a demo reel. This form is likely used in a business or professional setting to ensure that the users understand and agree to certain terms and conditions related to the demo reel. The form is designed to collect contact information and other details from users, likely for communication and record-keeping purposes. I will create a user-facing help guide based on this information.</thinking>
-
 # talent_demo_reel_usage_consent_form - Help Guide
 ## Purpose
 The Talent Demo Reel Usage Consent Form is used to obtain consent from users for the usage of a demo reel in a business or professional setting. It helps to ensure that users understand and agree to certain terms and conditions related to the demo reel.

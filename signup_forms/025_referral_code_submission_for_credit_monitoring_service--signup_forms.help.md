@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to gather referral information from a referrer, including their details, contact, referral code, credit card info, acceptance and submission dates, and status. It's used to monitor and track referral activity. The purpose of this form is to provide a structured way to collect and analyze referral data. It's likely used in a business or organizational setting to manage referrals and track progress. To prevent duplication of work, it's recommended to only fill out the form once and ensure all required fields are filled out accurately. If you're unsure about any field, refer to this guide for clarification. If you've filled out this form before, make sure to update your information as necessary. 
-</thinking>
-
 # Referral Code Submission For Credit Monitoring Service - Help Guide
 ## Purpose
 

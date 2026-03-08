@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for valuing vehicles in a business setting. It is not intended for personal use. The form is divided into sections that ask for the vehicle's type, model, identification number (VIN), mileage, year, condition, and make. The vehicle type, condition, and make fields are select options, while the others are text or number inputs. The form is not strictly required, but it's designed to gather specific information for valuation purposes. It's worth noting that some fields may not be applicable for every vehicle. It's also worth noting that this form is not intended to be used for any other purpose than valuation and any data collected through this form should be treated with the same sensitivity and care as any other customer/vehicle data.
-
-</thinking>
-
 # vehicle_valuation_form - Help Guide
 ## Purpose
 The vehicle valuation form is a tool designed to collect information about a vehicle for valuation purposes. It is used in a business setting to gather specific details about a vehicle.

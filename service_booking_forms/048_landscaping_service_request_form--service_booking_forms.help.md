@@ -1,5 +1,3 @@
-<thinking>...checking if the form is correctly set up for internal use and not a duplicate of any other form... form name is unique, no duplicates found, form type is "service_booking_forms" which is a correct category, and no other forms with the same name are found in the database... form is ready for deployment...</thinking>
-
 # Landscaping Service Request Form - Help Guide
 ## Purpose
 The purpose of the Landscaping Service Request Form is to collect information from customers for landscaping services they would like to book. This form helps us to understand their needs and preferences to provide the best possible service to them.

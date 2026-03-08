@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information for tracking delivery-related activities. The form will collect data from the customer, delivery details, and payment information. The form is not meant for editing or updating existing records, so it is not required to complete every field. However, providing accurate and complete information will ensure efficient processing of delivery receipts. Please ensure that all required fields are filled out to the best of your ability. If you're unsure about any information, you can refer to your delivery records or contact your delivery team for assistance. 
-
-The form has been carefully designed to be easy to understand and complete, with clear labels and instructions. Please take your time to review the form carefully before submitting it.
-</thinking>
-
 # Delivery Receipt Form - Help Guide
 ## Purpose
 The Delivery Receipt Form is a tool for tracking delivery-related activities. It collects information from the customer, delivery details, and payment information to ensure efficient processing of delivery receipts.

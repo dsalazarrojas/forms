@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is meant to guide users in completing the "free_construction_contract" form. The purpose of this form is to collect general information, construction details, contact information, and other relevant terms related to a construction project. This form is likely used in the construction industry for administrative and business purposes.
 
 </thinking>

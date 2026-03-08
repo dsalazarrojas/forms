@@ -1,6 +1,3 @@
-<thinking>
-This guide aims to ensure that the form serves its purpose and does not duplicate existing knowledge. It should cater to the needs of users who may not have direct access to the system or may be completing this form as a representative. The form is likely used to report and manage information related to police complaints, providing a structured approach for users to input necessary details. This guide will walk users through completing the form correctly, focusing on each field's intended use and required information.</thinking>
-
 # Police Complaint Form - Help Guide
 ## Purpose
 The Police Complaint Form is used to report and manage information related to police complaints, providing a structured approach for users to input necessary details.

@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect data on the availability of a referee for a specific week. The form will display a series of questions, one for each day of the week, where the referee can indicate their availability by selecting 'Yes' or 'No' for each day. Additionally, the form will also ask for time-specific information such as morning, afternoon, and evening availability. The referee will also be able to provide a start and end time for their available periods, as well as a comment if they need to provide any additional information. The form will also collect an email and phone number for the referee. 
-
-The form is intended to be completed by a referee who needs to indicate their availability for different periods of the week. 
-
-The form is designed to be completed on a weekly basis, with separate questions for each day of the week. 
-
-This form does not have any required fields, except for the email and phone fields are not required, the other fields are optional. 
-
-This form is intended for internal use and is not intended to be shared publicly. 
-
-This form is designed to be completed by a referee who needs to indicate their availability on a weekly basis. 
-
-This form does not have any duplicate questions. 
-
-This form is intended to be completed on a one-time basis. 
-
-This form is not intended to be completed by anyone else except a referee. 
-</thinking>
-
 # Referee Availability Schedule - Help Guide
 ## Purpose
 This form is designed to collect data on the availability of a referee for a specific week.

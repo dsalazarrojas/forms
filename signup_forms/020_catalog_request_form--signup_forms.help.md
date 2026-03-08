@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Catalog Request Form, likely used by a company to collect information from customers or potential customers to request a catalog. The form's purpose is to gather personal and contact information, as well as preferences for the type of catalog to be received, method of delivery, areas of interest, industry type, and how the customer found out about the company. This form may be used for marketing purposes, to gauge customer interest in different products or services, or to build a mailing list for future promotional materials. Before completing this form, ensure that you have the necessary permissions to receive marketing materials and that you are not duplicating an existing request. 
-
-</thinking>
-
 # Catalog Request Form - Help Guide
 ## Purpose
 This form is used to collect your personal information and preferences for requesting a catalog from the company. Please complete this form to receive the latest catalog offerings.

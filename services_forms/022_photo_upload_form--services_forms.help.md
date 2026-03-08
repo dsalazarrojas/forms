@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photo Upload Form - Help Guide
 ## Purpose
 The Photo Upload Form is used to upload and manage photos. To ensure that this form is completed correctly and to prevent errors, make sure you have the required permissions and that the form is not duplicated.

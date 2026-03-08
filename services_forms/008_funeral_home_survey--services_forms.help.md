@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a funeral home's services and overall experience. Before we dive into the details, let's make sure we're on the same page. Are you sure you want to fill out this form? If you're just starting out, please don't fill out this form unless you have some experience with funeral homes. Also, please note that this form is for survey purposes only, and your input will be used to improve our services. If you've already filled out a similar form in the past, please don't repeat your answers unless you've experienced a significant change in the services provided.
-</thinking>
-
 # Funeral Home Survey - Help Guide
 
 ## Purpose

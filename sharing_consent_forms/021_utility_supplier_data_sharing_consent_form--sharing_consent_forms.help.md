@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain the consent of utility customers to share their data with third-party suppliers. The purpose of this form is to ensure that customers are aware of and agree to the sharing of their data, which may include sensitive information such as their personal details, consumption history, and account balances.
-</thinking>
-
 # Utility Supplier Data Sharing Consent Form - Help Guide
 ## Purpose
 The Utility Supplier Data Sharing Consent Form is used to obtain the consent of utility customers to share their data with third-party suppliers. This form ensures that customers are aware of and agree to the sharing of their data, which may include sensitive information such as personal details, consumption history, and account balances.

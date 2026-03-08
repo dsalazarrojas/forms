@@ -1,14 +1,3 @@
-<thinking>
-We need to create a help guide for a service booking form. This form is likely used to capture information from customers for various services like landscaping, lawn mowing, tree service, and yard cleanup. To ensure the form is completed correctly, we should clarify the purpose of the form and guide the user through each field step-by-step.
-
-To avoid duplication, we should check if the form is already completed before proceeding. If the form is incomplete, the guide should direct the user to fill in the required fields first.
-
-The form seems to be a general service booking form, and each field is optional. However, we should ensure that the user understands what each field is used for and what kind of input is expected.
-
-We should also provide some general tips on how to fill out the form correctly and efficiently.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to book services for various tasks such as landscaping, lawn mowing, tree service, and yard cleanup. Please provide your details so that our team can assist you with your service needs.

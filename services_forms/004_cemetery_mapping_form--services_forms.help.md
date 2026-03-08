@@ -1,5 +1,3 @@
-<thinking>Before designing the user-facing help guide, I must consider the form's purpose, which is to gather information for the burial and maintenance of a deceased's grave in a cemetery. This form will likely be used by families or individuals coordinating funeral services and arrangements for their loved ones. I will aim to create a clear and concise guide that explains each field's purpose and relevance to the form's overall goal.</thinking>
-
 # Cemetery Mapping Form - Help Guide
 ## Purpose
 The Cemetery Mapping Form is designed to collect essential information for the burial and maintenance of a deceased's grave in a cemetery. This form will help families and individuals coordinate funeral services and arrangements for their loved ones.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from gamers to obtain their consent for online game demos. The purpose of this form is to collect personal details of the gamer, such as their name and email address, and to specify their preferences regarding demo uploads and access permissions. The form is divided into multiple pages with the following fields:
 
 The form collects consent for the demo from the gamer.

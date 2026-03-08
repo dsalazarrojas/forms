@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from wholesale accounts, ensuring they can effectively interact with our business. To avoid duplication, we check for existing applications and only allow new submissions if the application is from a different entity. We want to make it clear and easy for our customers to understand what information we need from them and what this information is used for.
-
-This form is meant to gather essential details about the wholesale account, their contact information, and other relevant data. The goal is to ensure that the account information is accurate and up-to-date, facilitating efficient communication and services delivery.
-
-When filling out this form, please note that some fields are optional but might be required for certain business purposes. Our system will guide you through the necessary fields based on your selections.
-
-</thinking>
-
 # Wholesale Account Application Form - Help Guide
 ## Purpose
 The Wholesale Account Application Form is designed to gather essential information from wholesale accounts to facilitate efficient interaction with our business.

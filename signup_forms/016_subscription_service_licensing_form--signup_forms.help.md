@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for subscription services, allowing users to sign up for various subscription plans. It captures essential details such as name, contact information, and subscription specifics. The form's fields are carefully crafted to ensure accuracy and completeness of data.
-
-Before proceeding, ensure that you are completing this form for a new subscription service. If you are renewing or modifying an existing subscription, please use the relevant form for that purpose. Also, note that this form cannot be used for duplicate or test submissions.
-
-Please refer to the specific requirements for new subscription services and review the relevant policies before submitting this form.
-</thinking>
-
 # subscription_service_licensing_form - Help Guide
 ## Purpose
 This form collects information for new subscription services.

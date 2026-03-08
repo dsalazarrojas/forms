@@ -1,15 +1,3 @@
-<thinking> This help guide is intended to provide a clear and concise overview of the Theater Script Sign Out Form, including its purpose, completion instructions, and field-by-field explanation. 
-
-This form is used to sign out a theater script. It captures information about the user and script details such as script type, status, and out time. The form ensures that all necessary information is entered accurately and efficiently. 
-
-The user is required to complete the form with the following details: First Name, Email, Date of Birth, Time In, Script Name, and Script Status.
-
-The fields are designed to capture relevant information for both the user and the script. The user's name, email, and phone number are not required but provide additional context and contact information. The script details such as script type, status, and out time are crucial for script management and tracking. 
-
-The form can be completed by anyone with access to the system, ensuring that the sign out process is streamlined and efficient.
-
-</thinking>
-
 # Theater Script Sign Out Form - Help Guide
 ## Purpose
 The Theater Script Sign Out Form is used to sign out a theater script from the system. It captures user and script details for accurate tracking and management.

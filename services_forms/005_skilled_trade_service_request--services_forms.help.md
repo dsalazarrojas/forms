@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a service request from a customer or contact person. The form captures details such as the contact person's information, service type, and scheduling details. It allows the user to select from three available services (Electrician, Plumber, HVAC) and submit the form for processing. The form also includes a field for attaching a file related to the service request.
-
-The following help guide explains each field and provides guidance on how to complete the form effectively.
-
-Please note that this form is intended for customers or contacts to request services from a skilled trade team. This guide will walk you through the process of completing the form accurately and efficiently.</thinking>
-
 # Skilled Trade Service Request - Help Guide
 ## Purpose
 The Skilled Trade Service Request form is designed to collect information about a service request from a customer or contact person. It helps our skilled trade team to understand the nature of the request and provide timely and effective service.

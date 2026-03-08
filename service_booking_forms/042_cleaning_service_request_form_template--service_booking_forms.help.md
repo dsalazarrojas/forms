@@ -1,18 +1,3 @@
-<thinking> 
-This form is designed to collect information from clients who are requesting cleaning services. The form gathers details about the client's contact information, service location, service request, and payment preferences. This form helps the cleaning service company to understand the client's needs and provide accurate services. 
-
-The form is divided into several sections, each with its own label and hint to guide the user through the process. The sections cover client information, service details, household or business details, and payment and billing information. 
-
-The form is designed to be completed by the client and submitted online. 
-
-Please note that some fields are marked as "required" which means that these fields must be filled out for the form to be valid. 
-
-The form's fields are well-structured and organized, with labels and hints provided to help the user understand the purpose of each field. The form also includes options for the user to select from, making it easier for them to complete the form. 
-
-Before completing this form, please ensure that you have the necessary information and permissions to provide. 
-
-Please fill out this form accurately and thoroughly to ensure that our team can provide the best possible service to you.</thinking>
-
 # Cleaning Service Request Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are requesting cleaning services.

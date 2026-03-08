@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information for a legal consultation waiver form, likely used in a professional or business setting. The form's purpose is to collect details about the client, their attorney or legal representative, and the nature of the consultation. The form does not appear to be affiliated with or derived from any specific form platform, and its creation is attributed to an AI-generated form. The form's metadata suggests it was created using public survey topic metadata, which implies it is an original adaptation.
-
-Before proceeding, ensure this form is relevant to your specific use case. If you're unsure, review the form's purpose and content to confirm its applicability. 
-
-</thinking>
-
 # Legal Consultation Waiver Form - Help Guide
 ## Purpose
 

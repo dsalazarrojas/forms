@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the Arts & Crafts Fair Application Form. This guide will explain the form's purpose, how to complete it, and provide field-by-field explanations for each section. The form is used to collect information from artisans and crafters who want to participate in the fair, allowing them to showcase their work and connect with potential customers.</thinking>
-
 # Arts & Crafts Fair Application Form - Help Guide
 
 ## Purpose

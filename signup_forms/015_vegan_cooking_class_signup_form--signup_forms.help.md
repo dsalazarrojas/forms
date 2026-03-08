@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to sign up for a cooking class, specifically a vegan cooking class. The purpose of this form is to collect information about the class details and participant's preferences. This form will be used to schedule and conduct the vegan cooking class. To ensure that this form is used correctly, it is assumed that the user is a potential participant or organizer of the class. This form may be used by multiple users, so it is not possible to include personal identifiable information in the field explanations.
-</thinking>
-
 # vegan_cooking_class_signup_form - Help Guide
 ## Purpose
 This form is used to sign up for a vegan cooking class. Fill out the form with your class details and preferences.

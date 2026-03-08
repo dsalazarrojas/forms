@@ -1,11 +1,3 @@
-<thinking> 
-  This form is used to collect information from users regarding their professional development interests and preferences. 
-  It is not required and users can submit their preferences without any repercussions.
-  This form is a waiting list and does not impact the user's account or services they can access.
-  The form is meant to be used to gather user feedback and preferences to improve services provided by the organization.
-  Please note that some fields are select multiple and the user can choose all that apply.
-</thinking>
-
 # Professional Development Waiting List - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their professional development interests and preferences.

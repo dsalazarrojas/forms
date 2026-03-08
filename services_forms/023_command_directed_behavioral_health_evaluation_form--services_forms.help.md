@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for evaluating a service member's behavioral health, primarily focusing on their mental health, substance use, relationships, and overall well-being. This form will help gather data on specific areas of concern, such as sleep quality, anxiety and depression symptoms, and current substance use. It's essential to complete this form carefully and accurately, as the information gathered will be used to inform decisions related to the service member's behavior and treatment. Please ensure that you are completing this form in a quiet, private setting, free from distractions and interruptions. Before starting, review the form carefully to ensure you understand each question and its purpose. If you are unsure about any part of the form, please consult with the evaluating officer or a supervisor.
-</thinking>
-
 # Command Directed Behavioral Health Evaluation Form - Help Guide
 ## Purpose
 This form is designed to assess a service member's behavioral health, focusing on areas such as mental health, substance use, and relationships. The evaluations conducted using this form will inform decisions related to the service member's behavior and treatment.

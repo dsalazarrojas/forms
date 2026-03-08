@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for detailed service requests. It is crucial to ensure that users enter relevant and non-duplicate information to get the most out of the form. This form is part of the "signup_forms" category and should only be filled out by users who have not filled it out before. Please take your time to review this guide carefully to avoid any confusion or mistakes.
-</thinking>
-
 # detailed-service-request - Help Guide
 ## Purpose
 The "detailed-service-request" form is designed to gather comprehensive information from users for their service requests. This form helps us understand their needs and preferences, which enables us to provide better service.

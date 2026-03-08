@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Cost Allocation Sharing Consent Form is to obtain approval for cost sharing arrangements between the company and third-party entities. This form is used to document the terms and conditions of the cost-sharing agreement and ensure that all parties involved are in agreement with the proposed allocation of costs. It's essential to fill out this form accurately and completely to avoid any confusion or miscommunication. Before filling out this form, ensure that you have read and understand all the fields and their corresponding labels, and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Cost Allocation Sharing Consent Form - Help Guide
 
 ## Purpose

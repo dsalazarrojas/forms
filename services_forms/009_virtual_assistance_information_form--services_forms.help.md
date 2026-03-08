@@ -1,5 +1,3 @@
-<thinking>This help guide is intended for users who need to fill out the Virtual Assistance Information Form. Before reading this guide, please ensure you are using the correct form and not attempting to fill out an outdated or duplicate form. This form is used to collect information about your virtual assistance needs and preferences. It is essential to fill out this form accurately and completely to ensure that we can provide you with the best possible service.</thinking>
-
 # Virtual Assistance Information Form - Help Guide
 ## Purpose
 The Virtual Assistance Information Form is used to provide us with information about your virtual assistance needs and preferences. This form helps us understand your requirements, project details, and other essential information to provide you with the best possible service.

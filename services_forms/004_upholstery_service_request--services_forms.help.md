@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather relevant information from customers for upholstery services, whether it's for repair, reupholstery, or new upholstery services. This form ensures that the customer's needs are accurately captured, enabling the team to provide the best possible service. 
-Please make sure you're not already working on a similar request for the same customer. If you have any existing requests for the same customer, it's best to check and update the existing request instead of creating a new one.
-</thinking>
-
 # Upholstery Service Request - Help Guide
 ## Purpose
 The Upholstery Service Request form is designed to collect information from customers for upholstery services. This form helps the team to understand the customer's needs and provide the best possible service.

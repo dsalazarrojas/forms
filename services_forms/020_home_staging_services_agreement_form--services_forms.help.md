@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from clients and agents regarding home staging services, including contact and property details, service terms, and signatures.
 
 # Home Staging Services Agreement Form - Help Guide

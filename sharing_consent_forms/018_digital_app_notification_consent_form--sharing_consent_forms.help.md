@@ -1,10 +1,4 @@
 <figure>
-<thinking>
-The purpose of this form is to collect user consent for digital app notifications. 
-We need to ensure that users understand what notifications we will be sending and when we will be sending them. The form will help us to get the users' explicit consent for our notifications.
-It's a good idea to check if you already have a user's consent before sending them digital app notifications. We should not send notifications to users who haven't filled out this form.
-</thinking>
-
 # Digital App Notification Consent Form - Help Guide
 
 ## Purpose

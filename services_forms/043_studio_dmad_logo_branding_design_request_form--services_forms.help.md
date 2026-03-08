@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests for logo branding design services from users. The form is intended to gather information about the category and description of the request, which will be used to guide the design process. To avoid duplication of requests and ensure accurate categorization, it's essential to carefully fill out the form. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation released under CC BY 4.0. You are free to use, modify, and sell forms derived from it - just give credit. Contact form@gic.mx for more information.
-</thinking>
-
 # Studio DMAD Logo Branding Design Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect requests for logo branding design services. We need to know the category and description of your request to provide accurate design services.

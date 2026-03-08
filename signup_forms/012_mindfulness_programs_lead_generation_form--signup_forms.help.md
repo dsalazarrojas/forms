@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form is filled out correctly, please confirm that:
-* You are eligible to sign up for our Mindfulness Programs and that this form is not a duplicate submission for programs you've already signed up for.
-* You intend to provide accurate and complete information.
-* You have read and agree to our <link_to_terms> terms and conditions.
-</thinking>
-
 # Mindfulness Programs Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to gather information from prospective leads interested in our Mindfulness Programs. Please complete it to help us better understand your needs and generate relevant leads for our programs.

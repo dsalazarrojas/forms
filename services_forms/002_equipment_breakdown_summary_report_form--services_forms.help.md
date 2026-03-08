@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to gather information about equipment breakdowns, including details about the equipment, failure description, repair details, and incident history. The form is intended for use by maintenance personnel to report and track equipment downtime. It is designed to be filled out in a specific order, from top to bottom, to ensure that all necessary information is captured. The form will not be used to duplicate existing records, and it is essential to ensure that the form is filled out completely and accurately for proper tracking and reporting.
-</thinking>
-
 # equipment_breakdown_summary_report_form - Help Guide
 ## Purpose
 The equipment breakdown summary report form is used to report and track equipment downtime. This form captures information about the equipment, its status, maintenance frequency, and other relevant details.

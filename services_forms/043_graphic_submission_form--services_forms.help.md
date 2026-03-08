@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for this project, I will create a comprehensive help guide for the Graphic Submission Form to ensure that end-users understand its purpose, how to complete it, and what each field means. This form has four fields: First Page, Agreement Form, Image Upload, and Customer Image. After creating the help guide, I will review the fields carefully to ensure that the explanations are concrete, concise, and practical.</thinking>
-
 # Graphic Submission Form - Help Guide
 ## Purpose
 The Graphic Submission Form is a simple, AI-generated form designed to gather information from customers for graphic-related purposes. This form is not affiliated with or endorsed by any form platform, and you are free to use, modify, and even sell it, as long as you give proper credit.

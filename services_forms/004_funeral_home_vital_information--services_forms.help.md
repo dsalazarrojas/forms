@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect vital information related to a funeral or death process, specifically for funeral homes. This form likely exists to gather data for administrative or bureaucratic purposes, such as issuing death certificates or authorizing cremations. It is essential to ensure that the form is completed accurately and thoroughly, as it will be used to support the deceased's family and loved ones, as well as for official record-keeping. 
-
-Please note that some fields may be required or optional, depending on the context and circumstances of the funeral or death process. This guide will walk you through each field and how to complete it accurately and efficiently.
-</thinking>
-
 # Funeral Home Vital Information - Help Guide
 ## Purpose
 This form is used to collect essential information about a funeral or death process for administrative and record-keeping purposes.

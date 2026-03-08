@@ -1,10 +1,3 @@
-<thinking>
-This form is used to obtain a service waiver for piercing services. It is designed for clients who wish to undergo piercing services and need to fill out this form to indicate their consent, acknowledge the risks involved, and provide necessary contact information. The form is used in a studio setting where piercification and tattooing services are offered. The purpose of this form is to ensure that clients understand the risks and procedures involved and provide a clear record of their consent. 
-
-Before proceeding, please ensure that you understand the content of this form and that it is complete and accurate. The form should only be filled out by the client. 
-
-</thinking>
-
 # Piercing Service Waiver Form - Help Guide
 ## Purpose
 The Piercing Service Waiver Form is used to obtain a client's consent for piercing services, acknowledge the risks involved, and provide necessary contact information.

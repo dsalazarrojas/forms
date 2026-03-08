@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and that the end user is aware of the guidelines to complete it accurately and efficiently.
-The form "POS Setup Request Form" is used for requesting setup of a point of sale system for a store. To complete this form, the end user should be able to provide necessary information about their store, including contact information, system requirements, payment information, and additional details.
-Before proceeding, ensure that the store's contact information is up-to-date and accurate. This form should not be used for duplicate requests.
-</thinking>
-
 # POS Setup Request Form - Help Guide
 ## Purpose
 The POS Setup Request Form is used for requesting setup of a point of sale system for a store. This form helps us understand your store's information and requirements for the setup process.

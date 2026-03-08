@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to ensure this form is used only for individuals who are seeking free wellness services, and not for any other purpose. This form is designed to collect information from users to help our healthcare professionals provide better service. Please only use this form for this specific purpose.
 
 # Free Wellness Evaluation - Help Guide

@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the "Electrical Commissioning Checklist" form is used correctly and consistently, it's essential to understand its purpose and the information it collects. This form is likely intended for use by personnel or teams responsible for the commissioning process, possibly as part of a quality or safety control process. It might be used to gather data on the electrical commissioning process, testing, and equipment performance.
-To avoid duplication or incorrect completion, it's recommended to review the form thoroughly and ensure that each field is filled in according to its specific purpose. For instance, "test_and_instrumentation_1" and "electrical_equipment_testing_5" seem to be related to testing and instrumentation, while "acceptance_testing_1" and "electrical_equipment_testing_4" might be connected to acceptance criteria. Reviewing the form carefully will help in filling it out correctly and consistently.
-</thinking>
-
 # Electrical Commissioning Checklist - Help Guide
 ## Purpose
 The "Electrical Commissioning Checklist" form is designed to gather information on the electrical commissioning process, including testing and instrumentation, acceptance criteria, and other relevant details. This form is intended for use by personnel or teams responsible for the electrical commissioning process to ensure that it is conducted correctly and consistently.

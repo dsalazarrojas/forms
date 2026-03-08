@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request an upgrade to a VIP service. The form captures the user's information, service upgrade requirements, and contact details. It is intended to be filled out by users who want to upgrade their existing service to a higher tier.
-
-Before filling out this form, please ensure that you have read and agreed to our service level agreement. The form should only be submitted if you are certain that the information is accurate and up-to-date.
-
-To avoid duplication of efforts, please do not submit this form multiple times. If you have any questions or need further assistance, please contact us directly.
-</thinking>
-
 # vip_service_upgrade_request_form - Help Guide
 ## Purpose
 This form is used to request an upgrade to a VIP service. Please fill out the form below to provide us with the necessary information to process your request.

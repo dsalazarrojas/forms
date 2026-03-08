@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from talents who are interested in working with the organization. The purpose of this form is to gather necessary details such as contact information, resume, and other relevant information. Please ensure you are only submitting this form once, as duplicate submissions may cause confusion and delay processing.
-</thinking>
-
 # Talent Registration Form - Help Guide
 
 ## Purpose

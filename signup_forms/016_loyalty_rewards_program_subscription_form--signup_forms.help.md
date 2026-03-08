@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to subscribe to the loyalty rewards program, providing their contact information and preferences. This form is likely used to collect data for marketing and loyalty program management purposes. The form should only be completed once per user, so ensure that the form is not duplicated or filled out multiple times by the same user.
-</thinking>
-
 # Loyalty Rewards Program Subscription Form - Help Guide
 ## Purpose
 This form is used to sign up for the loyalty rewards program. By completing this form, you will be enrolled in the program and receive exclusive benefits and offers.

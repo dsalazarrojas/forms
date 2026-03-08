@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information about a user's travel plans so that we can provide them with a quote for their trip. This form is designed to be simple and easy to use, with fields that allow users to input their destination, travel dates, and other relevant details. To ensure that users are getting the most accurate and personalized quote, we will be checking for duplicate submissions from the same email address.
-</thinking>
-
 # Travel Quote Request Form - Help Guide
 
 ## Purpose

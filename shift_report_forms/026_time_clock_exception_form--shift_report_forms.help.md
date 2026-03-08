@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding time clock exceptions. A time clock exception is a request to adjust an employee's work hours due to unforeseen circumstances. This form is used by management to record and manage these exceptions. Before filling out this form, ensure that you have discussed your request with your supervisor or HR representative to confirm that the exception is valid and approved. Please note that this form is not intended to be used for personal time-off requests, such as vacation days or sick leave. If you need to report a time-off, please use the separate "Time-Off Request Form".
-
-</thinking>
-
 # Time Clock Exception Form - Help Guide
 ## Purpose
 The Time Clock Exception Form is used to report and adjust an employee's work hours due to exceptional circumstances, such as an unexpected absence or a need to start or end work early due to unforeseen events.

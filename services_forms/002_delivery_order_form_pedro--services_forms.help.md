@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## delivery_order_form_pedro - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit an application for the "Website Services" offering. This form is designed to gather essential information from users to process their request. The form fields are intended to provide a quick and painless way to get in touch with our website management team.
-
-Before proceeding, please ensure that you're using this form for the intended purpose and not duplicating your submission. This form is only for submitting one application per user. Repeated submissions may lead to unnecessary processing and delays in responding to your request.
-
-To complete this form, simply follow the instructions below.
-</thinking>
-
 # Website Services Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from users who are interested in our website services. It will help our team process your request and contact you with further instructions.

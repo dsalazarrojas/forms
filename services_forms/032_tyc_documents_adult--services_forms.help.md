@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information about an adult's documentation requirements. It's a critical part of our service process, and filling out this form accurately ensures we can provide the necessary support. Please ensure you have the necessary information before completing this form, and try not to fill it out multiple times as this may lead to unnecessary duplication of efforts. 
-</thinking>
-
 # TYC Documents Adult - Help Guide
 ## Purpose
 The "TYC Documents Adult" form is a critical tool used to collect and store adult documentation information. It's essential to fill this form out accurately and thoroughly to ensure the adult receives the proper documentation they need from our services.

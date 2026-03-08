@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Repair Release Form - Help Guide
 ## Purpose
 The Auto Repair Release Form is a document that outlines the details of a vehicle's repair, including customer information, vehicle details, repair service details, and condition of the vehicle upon pickup. This form is used to ensure that both the customer and the repair shop have a clear understanding of the work performed and the conditions of the vehicle upon release.

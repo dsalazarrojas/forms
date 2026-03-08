@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture information from individuals interested in registering with the Creative STEM Outreach Network. The purpose of this form is to collect contact information, user experience, school affiliations, and interests of potential members. The information collected will be used to create a network of individuals with similar interests and backgrounds, promoting collaboration and knowledge sharing within the STEM community.
-
-To ensure data quality and user experience, we will be validating the form submissions for relevance and non-duplication before processing them.
-
-</thinking>
-
 # Creative STEM Outreach Network Registration - Help Guide
 ## Purpose
 This form is used to register individuals with the Creative STEM Outreach Network. Please fill out this form to connect with like-minded professionals, educators, and enthusiasts in the STEM community.

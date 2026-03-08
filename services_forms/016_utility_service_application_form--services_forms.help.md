@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Service Application Form - Help Guide
 
 ## Purpose

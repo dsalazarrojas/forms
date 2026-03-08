@@ -1,6 +1,3 @@
-<thinking>
-This form is for adding a legacy binder waitlist. The purpose is to help the user decide if a legacy binder should be included on the waitlist. The form is designed to be simple and easy to use. It's likely that the form will be used by users who are already familiar with the legacy binder concept and the waitlist process.</thinking>
-
 # Legacy Binder Waitlist Form - Help Guide
 ## Purpose
 The Legacy Binder Waitlist Form is used to add a legacy binder to the waitlist. This form helps the user decide if a legacy binder is eligible to be included on the waitlist.

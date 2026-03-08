@@ -1,28 +1,3 @@
-<thinking>
-This form is designed for athletes to register for a sports program. This form will collect information about the athlete, their preferred position, and their guardian's contact information. The form is not intended for duplicate registrations, and the purpose of this guide is to help users understand the required and optional fields and their significance.
-
-This guide will cover the following topics:
-
-- How to complete the form
-- A field-by-field explanation of each field
-
-This form is designed to collect the following information:
-
-1. Program information (optional)
-2. Athlete details (optional)
-3. Preferred position (required)
-4. Guardian contact information (optional)
-5. Terms and conditions (optional)
-6. Consent (optional)
-7. Athlete position(s) (required)
-8. Athlete height (optional)
-9. Athlete weight (optional)
-10. Guardian relationship (optional)
-
-This guide will help users understand what information is required and what options are available for each field.
-
-</thinking>
-
 # Sports Registration Form. - Help Guide
 ## Purpose
 The Sports Registration Form is designed for athletes to register for a sports program. This form collects information about the athlete, their preferred position, and their guardian's contact information.

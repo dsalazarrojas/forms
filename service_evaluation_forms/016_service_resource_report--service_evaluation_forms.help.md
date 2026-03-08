@@ -1,9 +1,3 @@
-<thinking>
-
-The "service_resource_report" form is intended to gather information about the availability and capacity of various resources within a service. This form helps to document and track the current status of resources, ensuring accurate data for future planning and decision-making. It's crucial to complete this form accurately to maintain a comprehensive record of resource utilization.
-
-</thinking>
-
 # service_resource_report - Help Guide
 ## Purpose
 

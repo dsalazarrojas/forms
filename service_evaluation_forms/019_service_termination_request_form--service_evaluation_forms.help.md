@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from a service provider regarding the termination of a service. It is intended for service providers to indicate whether or not they are willing to terminate a service, and to provide details on whether or not customers are also affected by the termination. This form is not intended for customers to complete. To ensure the form is completed accurately, please verify that you are a service provider and that you have the authority to submit this form. Please do not submit duplicate requests. </thinking>
-
 # Service Termination Request Form - Help Guide
 ## Purpose
 The Service Termination Request Form is a document used by service providers to request the termination of a service. It is used to communicate the service provider's decision to terminate a service and provide details on the reasons for termination.

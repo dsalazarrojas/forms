@@ -1,5 +1,3 @@
-<thinking>As a mental health care release of information form, this form is used to obtain a patient's consent for the disclosure of their personal health information to a third party, such as a family member, caregiver, or another healthcare provider. This form ensures that the patient's privacy and confidentiality is respected while allowing authorized individuals to access their information for the purpose of providing care. When completing this form, please ensure that you have not already obtained this information previously and that you are only completing this form for patients who have not already granted consent. Additionally, if you are an authorized person, please ensure that you have a legitimate interest in the patient's information and that you are acting on behalf of the patient or the patient's legal representative.</thinking>
-
 # mental_health_care_release_of_information_form - Help Guide
 
 ## Purpose

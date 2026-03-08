@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to be a concise and straightforward documentation for the "Pest Control Estimate Form" designed to assist users in understanding its purpose and usage. It is meant to be used by clients or internal staff to provide accurate and relevant information for pest control services. 
-
-The form is primarily used to collect client information and service details for pest control services. The form has multiple pages with various fields that need to be filled in accordingly. The following is a guide on how to complete the form:
-
-</thinking>
 # Pest Control Estimate Form - Help Guide
 ## Purpose
 The "Pest Control Estimate Form" is designed to collect information from clients seeking pest control services. This form aims to gather details about the client, the pest problem, and the services required for effective pest control solutions.

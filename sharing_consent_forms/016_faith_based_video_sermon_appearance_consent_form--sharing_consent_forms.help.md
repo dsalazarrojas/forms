@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faith Based Video Sermon Appearance Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from users for the appearance of their faith-based video sermons. It is intended to capture information about the user's contact details, permissions, recording settings, livestream preferences, recording details, sharing preferences, and form submission. The goal is to ensure that users understand and agree to the terms of their content being shared with others.

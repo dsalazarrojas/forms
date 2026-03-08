@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block to determine the form purpose and check for relevance and non-duplication...</thinking>
-
 # home_care_timesheet_form - Help Guide
 
 ## Purpose

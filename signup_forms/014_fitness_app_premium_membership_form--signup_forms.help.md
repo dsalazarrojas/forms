@@ -1,7 +1,3 @@
-<thinking>
-This form is for users who want to sign up for a premium membership to the fitness app. This form checks for relevance by ensuring that users have a valid email address and password. It also checks for non-duplication by ensuring that users do not already have a membership plan. The form asks for various information such as the user's name, email, and payment method. The user will also be asked to confirm their membership plan, payment terms, and onboarding details. The form also asks for billing information such as the billing address, billing city, billing state, billing zip, and billing country. The form will also ask for the user's billing status and membership status.
-</thinking>
-
 # Fitness App Premium Membership Form - Help Guide
 ## Purpose
 This form is for users who want to sign up for a premium membership to the fitness app. It will help you create or update your premium membership plan.

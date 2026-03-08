@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skincare Facial Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information about the upcoming visit, client expectations, medical conditions, skincare services, medical history, allergies, medical notes, and client signature. The form is intended to be used by skincare professionals to collect relevant data for providing optimal care and services to clients.

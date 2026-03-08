@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect registration information for a user to be registered for the English Practice App, which is designed for students to practice English language skills. The form is required for all students to provide necessary information for their registration. 
-The form is designed to gather information about the student, including their name, contact information, language and practice level, school details, and emergency contact information. 
-Please ensure that you have all necessary information and permissions before proceeding with the registration.
-</thinking>
-
 # English Practice App Registration - Help Guide
 ## Purpose
 This form is used to register students for the English Practice App. The form collects information about the student, including name, contact details, school details, and emergency contact information.

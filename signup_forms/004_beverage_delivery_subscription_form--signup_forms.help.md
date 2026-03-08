@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users to create a custom beverage delivery subscription. The form collects user's personal details such as name, email, phone number, and address for delivery purposes. It also asks users to choose their preferred delivery schedule, beverage types, and quantity. Additionally, it asks for payment method and billing information. The form ensures that users have the necessary information to create a subscription that suits their needs and preferences.
-</thinking>
-
 # Beverage Delivery Subscription Form - Help Guide
 ## Purpose
 The Beverage Delivery Subscription Form is designed to create a custom delivery subscription for users. Fill out this form to receive regular deliveries of your favorite beverages, tailored to your specific needs and preferences.

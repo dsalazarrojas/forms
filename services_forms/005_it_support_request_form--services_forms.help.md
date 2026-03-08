@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an IT support request from the user. This form will be used to guide the user in providing relevant details about their issue, which will help the support team to efficiently resolve their problem. Before proceeding, check that you are not duplicating a previous request or that this is a new issue. If you are unsure, contact the IT support team for clarification.
-</thinking>
-
 # it_support_request_form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about an IT support request. It consists of several sections that help the support team to identify and resolve the issue efficiently.

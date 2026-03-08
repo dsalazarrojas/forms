@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the "Work Order Close Out Form" is completed accurately and efficiently, let's first consider its purpose and potential for duplication. This form is designed to provide a structured and standardized way to close out work orders, capturing essential information related to the project's progress, resources, and financial aspects. To avoid duplication, it's crucial to review and update work orders only when necessary, and use this form to maintain a consistent and accurate record of project close-out status.
 
 </thinking>

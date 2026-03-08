@@ -1,7 +1,3 @@
-<thinking>
-The form "Damage Claim Form" is used to report and manage damage claims. This form is intended for businesses and individuals to submit a claim for reimbursement or compensation due to damage or loss of assets. Before proceeding, please check if a similar claim has already been reported, and if so, do not submit a new form. This will ensure that duplicate claims are minimized and the correct information can be reviewed and processed in a timely manner.
-</thinking>
-
 # Damage Claim Form - Help Guide
 ## Purpose
 The Damage Claim Form is a document used to report and manage damage claims. It is designed for businesses and individuals to submit a claim for reimbursement or compensation due to damage or loss of assets.

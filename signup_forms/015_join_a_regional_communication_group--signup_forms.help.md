@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users sign up for a regional communication group. 
-It is meant for users who want to connect with others in a specific geographic area. 
-To avoid duplication, this form should only be filled out once per user. 
-Please make sure you have not previously signed up for this group before filling out this form. 
-</thinking>
-
 # Join A Regional Communication Group - Help Guide
 ## Purpose
 This form is designed to help you sign up for a regional communication group. To get connected with others in a specific geographic area, please fill out this form with your information.

@@ -1,11 +1,3 @@
-<thinking>
-
-As a user-facing help guide for the YoniVaginal Steam Intake Form, I will explain the purpose, steps to complete the form, and provide a detailed breakdown of each field.
-
-The YoniVaginal Steam Intake Form is designed to gather essential information from patients before they receive steam services. The form helps to ensure that patients understand their treatment schedule, provide necessary contact details, and specify their service requests. This guide is essential for patients to complete the form accurately and on time.
-
-</thinking>
-
 # YoniVaginal Steam Intake Form - Help Guide
 ## Purpose
 The YoniVaginal Steam Intake Form is designed to gather information from patients before they receive steam services. This includes their contact details, medical history, and service requests. Completing this form ensures that patients are aware of their appointment schedule and any necessary preparations.

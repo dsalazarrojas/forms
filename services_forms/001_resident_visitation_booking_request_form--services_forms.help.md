@@ -1,5 +1,3 @@
-<thinking>This form is used for booking visitations with residents in a facility or community. To ensure that all necessary information is collected and to avoid duplicate requests, please review the fields carefully before submitting the form. The fields are organized into different sections for clarity.</thinking>
-
 # resident_visitation_booking_request_form - Help Guide
 ## Purpose
 The "Resident Visitation Booking Request Form" is a document used to collect information about a visitation request, including the guest's details, visit type, reason, and staff involved.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for this High School Grad Night Sign Up Form. To begin, I'll review the form's purpose: this form is designed to collect information about a High School Grad Night event, including parent and student details, event specifics, and confirmations. The form likely serves to organize and manage the event, ensuring that all relevant parties are informed and on board.</thinking>
-
 # High School Grad Night Sign Up Form - Help Guide
 ## Purpose
 This form is used to gather information about a High School Grad Night event. This includes details about parents and students, event specifics, and confirmations. By filling out this form, you'll help ensure that all parties are informed and on board.

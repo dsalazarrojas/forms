@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Civic Debate Video Distribution Consent Form - Help Guide
 ## Purpose
 

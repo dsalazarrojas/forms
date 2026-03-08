@@ -1,6 +1,3 @@
-<thinking>
-This form was designed to collect user feedback on maintenance requests for facilities management. It is intended to be completed by building occupants, facility managers, or other authorized personnel. Before filling out this form, ensure that you have a legitimate reason for submitting a maintenance request and that your request has not already been reported.
-</thinking>
 # Maintenance Request Form - Help Guide
 
 ## Purpose

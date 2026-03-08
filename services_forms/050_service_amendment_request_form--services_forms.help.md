@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Amendment Request Form - Help Guide
 ## Purpose
 This form is used to request an amendment to a service that has been previously provided. It is designed to collect information about the service that needs to be amended, including the requested date and time, any changes to be made, and any supporting comments or uploads.

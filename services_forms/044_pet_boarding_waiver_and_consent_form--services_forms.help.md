@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Boarding Waiver And Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain a pet owner's consent and agreement to board their pet. It includes fields to collect relevant information about the pet, the boarding schedule, and the pet owner's contact details. 

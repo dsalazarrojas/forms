@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from customers for the purpose of providing Covid-19 related eyelash services. The form is designed to capture the customer's consent to the terms and conditions of the service, their agreement to follow precautions, and their contact information for follow-up purposes. The fields are meant to be completed by the customer to express their willingness to proceed with the service and provide essential details for communication.
-
-</thinking>
-
 # Covid 19 Eyelash Services Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from customers for the Covid-19 related eyelash services. It is crucial to understand the terms and conditions of the service before proceeding.

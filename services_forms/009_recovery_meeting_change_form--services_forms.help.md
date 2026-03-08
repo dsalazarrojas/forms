@@ -1,12 +1,3 @@
-<thinking>
-This form is used for updating meeting changes in the recovery program. 
-This form is intended to be used by authorized personnel in the organization. 
-The form should only be completed if the meeting has been modified and the change needs to be documented. 
-Please make sure you have the necessary permissions to access this form. 
-
-Please note that the field labels and options are assumed to be self-explanatory based on their type and name. However, if a field is weak or unclear, this guide will attempt to clarify the intent without inventing unsupported business logic.
-</thinking>
-
 # recovery_meeting_change_form - Help Guide
 ## Purpose
 

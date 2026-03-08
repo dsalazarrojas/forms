@@ -1,8 +1,3 @@
-<thinking>
-This is a form design and technical writing task that requires creating a user-facing help guide for a form called "email_sign_up_form". The form is part of a larger system with a specific purpose, and the writer needs to ensure that the guide is concrete, concise, and practical. The form has several fields that require explanations for end-users to understand their purpose and usage.
-The form is likely used for user sign-up or onboarding, given the presence of an email field.
-</thinking>
-
 # email_sign_up_form - Help Guide
 
 ## Purpose

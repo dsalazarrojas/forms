@@ -1,15 +1,3 @@
-<thinking>
-This form seems to be used for requesting a professional profile makeover for a user. It's likely used in a scenario where a user's profile, possibly on a website or platform, needs to be updated or customized to better reflect their professional identity. This form might be used in a HR or marketing context, where users can request changes to their public profile information. The purpose of this form is to collect information about the user's preferences for their profile makeover, such as their preferred profile picture, background image, and other details.
-
-Before completing this form, please make sure you haven't already submitted a similar request. This will ensure that your request is processed efficiently and accurately.
-
-Please note that this form is designed to be completed by users who are requesting a makeover for themselves, not others. If you're requesting a makeover for someone else, please contact the relevant department for assistance.
-
-The form has several fields, each with its own purpose. Please read the instructions carefully to ensure you understand what information is required and what options are available to you.
-
-If you have any doubts or questions about the form or its fields, feel free to reach out to our support team for assistance.
-</thinking>
-
 # Professional Profile Makeover Request Form - Help Guide
 ## Purpose
 The Professional Profile Makeover Request Form is used to collect information from users for their profile makeover request. Please use this form to submit your request and we'll do our best to update your profile as soon as possible.

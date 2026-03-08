@@ -1,9 +1,3 @@
-<thinking>
-This form is used for assessing kitchen tasks for quality and efficiency. It gathers information about a particular task in the kitchen, including whether it's being done, how important it is, and any comments or suggestions. 
-This assessment is part of a larger process to track and optimize kitchen operations.
-Please note that some fields in the form might be redundant or unnecessary based on the user's choices. This guide will explain each field's purpose in the context of the form's overall design.
-</thinking>
-
 # kitchen_task_assessment_form - Help Guide
 ## Purpose
 This form helps assess and evaluate kitchen tasks for quality and efficiency.

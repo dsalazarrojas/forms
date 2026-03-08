@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect essential information from clients interested in booking braiding services. The form is divided into several sections, covering client identification, service preferences, and appointment details. The client will be asked to provide their name, contact information, hair characteristics, appointment preferences, and payment details. The form also includes fields for special requests, how they heard about the service, and client agreement to terms and conditions. 
-
-This guide will help you complete the form correctly and ensure a smooth experience for your appointment.
-
-</thinking>
-
 # Braiding Service Registration Form - Help Guide
 ## Purpose
 The Braiding Service Registration Form is a comprehensive form designed to gather essential information from clients interested in booking braiding services. It helps the stylist understand the client's preferences, hair characteristics, and needs, ensuring an accurate consultation and appointment planning.

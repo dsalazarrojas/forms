@@ -1,7 +1,3 @@
-<thinking>
-This is a form for registering participants in a Self Care Program. The form collects information about the participant, including their name, email, phone number, and address. It also collects information about the program, including the program name, start date and time, location, and notes. The form also includes fields for the contact person, including their name, email, phone number, and address.
-</thinking>
-
 # Self Care Program Registration - Help Guide
 ## Purpose
 This form is used to register participants in a Self Care Program.

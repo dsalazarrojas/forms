@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from passengers for flight reservations. It is intended to gather data on the passenger's name, flight details, contact information, and any additional notes they may have. This form is likely used for internal purposes within an organization, such as a travel agency or airline.
 
 This form should be completed to reserve a flight for the passenger. 

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information about performers who will be performing at a cultural night event. The goal is to gather details about each performer, including their name, contact information, performance dates and time, venue preferences, and other relevant details. This form will be used to organize and coordinate the event.
-
-To ensure accurate and complete submissions, please review this guide carefully before filling out the form. If you have previously submitted a performer, please review the existing submission and update your information if necessary to avoid duplication.
-
-This guide is intended for both performers and organizers of the cultural night event. Please ensure that you have permission to submit information on behalf of the performer before filling out this form.
-
-</thinking>
-
 # Cultural Night Performer Signup - Help Guide
 ## Purpose
 The Cultural Night Performer Signup form is designed to collect information about performers who will be participating in a cultural night event. This includes details such as performer name, contact information, performance dates and time, venue preferences, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for a security guard service contract. The purpose of this form is to gather details about the service provider, property manager, and venue related to the security guard service contract. The form will be used to ensure that all necessary information is collected and recorded accurately. Please verify that the form fields are not duplicated and the information collected is accurate and up-to-date.</thinking>
-
 # Security Guard Service Contract Form - Help Guide
 ## Purpose
 This form is used to collect information for a security guard service contract. It ensures that all necessary details are gathered accurately and recorded properly.

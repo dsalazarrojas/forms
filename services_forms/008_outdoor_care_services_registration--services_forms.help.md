@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register a new user's information for outdoor care services. Before filling out this form, make sure that you're not already registered for this service. To avoid duplicate registrations, please ensure that you're not already registered under the same name or email address. If you're unsure, please contact the administrator to clarify.
-</thinking>
-
 # Outdoor Care Services Registration - Help Guide
 ## Purpose
 This form is used to register your information for outdoor care services. Please fill out the form completely and accurately to ensure your registration is successful.

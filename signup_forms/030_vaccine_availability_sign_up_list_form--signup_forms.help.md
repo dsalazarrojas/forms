@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help healthcare professionals and patients schedule appointments for vaccines, select a type of vaccine, provide patient information, and choose a time slot for the vaccine administration. The form is designed to be completed by patients or their representatives to sign up for a vaccine. 
-
-The purpose of this form is to gather information for vaccine administration scheduling and to minimize duplication of effort and data entry. 
-
-This form will be used by patients or their representatives to sign up for a vaccine appointment, providing essential details such as patient name, contact information, vaccine type, and availability. The form will be reviewed and processed by healthcare professionals to ensure accurate and efficient vaccine administration.
-
-</thinking>
-
 # vaccine_availability_sign_up_list_form - Help Guide
 ## Purpose
 This form is designed to help patients or their representatives sign up for a vaccine appointment, providing essential details for vaccine administration.

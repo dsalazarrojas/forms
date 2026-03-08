@@ -1,26 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Home Setup Service Feedback" form, we need to consider the purpose of the form and what information it aims to collect from the user. Given the form's structure and fields, it appears to be a feedback collection form for a home setup service, likely to gauge user satisfaction and experiences with the service.
-
-The form likely serves the following purposes:
-
-*   To collect feedback on the home setup service provided, allowing the service provider to identify areas of improvement.
-*   To provide a contact point for users to share their experiences and opinions about the service.
-*   To collect demographic and contact information for follow-up or future communication.
-*   To gather feedback on the rating of the service.
-
-To determine if this form is being filled out by a new user or if it's a repeated submission, we can use techniques such as:
-*   IP blocking or cookie-based tracking.
-*   User agent detection and device fingerprinting.
-*   Unique identifiers such as tokenized session IDs.
-
-We should also ensure that the form isn't filled out multiple times by the same user, which can be achieved through:
-*   Using a combination of techniques mentioned above.
-*   Session management through cookies.
-
-Before proceeding, we need to make sure the fields and their labels are clear and intuitive for the user.
-
-</thinking>
-
 # Home Setup Service Feedback - Help Guide
 
 ## Purpose

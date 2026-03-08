@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from property management system users to access and manage properties through the Property Management System API. This form helps to ensure that users have provided their consent to access their properties and any associated information. The form is designed to be simple and easy to complete, requiring minimal information to get started with the Property Management System API. However, it's essential to complete all required fields to ensure accurate submission and to prevent any issues with API access. Ensure that you have read and understood the terms and conditions before completing this form. This form should not be completed by anyone who has already submitted a consent form for the same API in the past. If you're unsure about the form or the Property Management System API, please contact our support team before proceeding.
-</thinking>
-
 # Property Management System API Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from property management system users to access and manage properties through the Property Management System API.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a basic approval form designed to capture information about a customer's print approval for a specific category. The form is meant to be used to track the approval status of print requests, and it seems to be used in a business context where print approvals are necessary for various categories such as "Wedding Stationery Business" or "Other". The form asks for customer information (name, email, and phone) and approval status, notes, and category. The form's purpose is likely to facilitate the approval process and keep track of the status of print requests.
-</thinking>
-
 # print_approval_form - Help Guide
 ## Purpose
 The print_approval_form is designed to capture information about a customer's print approval status for a specific category.

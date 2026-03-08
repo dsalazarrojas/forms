@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for a form that captures data for golf team registration. The form likely exists to collect information from golf teams about their players and guests. We should focus on explaining the purpose of the form, how to fill it out, and what each field means. Let's assume the form is used by golf teams to register for a golf tournament or event. The form might be used by administrators or organizers to collect necessary information from teams, such as player names, handips, and guest tickets.
-
-This form likely doesn't have any sensitive or complex business logic behind it, so we'll stick to a simple and straightforward explanation.
-
-</thinking>
-
 # Golf Team Registration - Help Guide
 ## Purpose
 The Golf Team Registration form is designed to collect information from golf teams about their players and guests. This form helps us gather necessary details for event organization and management.

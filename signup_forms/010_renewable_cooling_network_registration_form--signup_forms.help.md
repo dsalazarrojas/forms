@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # renewable_cooling_network_registration_form - Help Guide
 
 ## Purpose

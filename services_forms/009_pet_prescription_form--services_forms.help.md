@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for pet prescriptions. It is designed for pets, their owners, and veterinarians to input information about pet medication. This guide is for end-users to understand the form's purpose and fill it out correctly.
-</thinking>
-
 # Pet Prescription Form - Help Guide
 ## Purpose
 The Pet Prescription Form is designed to collect essential information for pet prescriptions. This form is intended for pet owners and veterinarians to input data about pet medication. It will help them to create, manage, and track prescriptions for pets accurately.

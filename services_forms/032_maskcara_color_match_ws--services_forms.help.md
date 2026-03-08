@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Maskcara Color Match WS form is to allow users to match colors with specific inputs from an artist or designer. This form likely caters to industries such as interior design, graphic design, or color consultation services where precise color matches are essential.
-The form will ask for input related to color matches, artist details, and color specifics, and will likely have options for additional comments.
-The form structure suggests a multi-page layout, but no explicit page labels were provided in the inputSchema. Assuming the form has one page for input and another for results, the following guide will address each field in sequence.
-Please note that no field validation or business logic is implemented in this form. Users should be aware that the form's functionality and data handling depend solely on the form's creator (in this case, the AI) and should be reviewed and tested before use.
-</thinking>
-
 # Maskcara Color Match WS - Help Guide
 ## Purpose
 The Maskcara Color Match WS form is a tool for matching colors with specific inputs from an artist or designer. It aims to facilitate color consultations and matches in industries like interior design, graphic design, or color consultation services.

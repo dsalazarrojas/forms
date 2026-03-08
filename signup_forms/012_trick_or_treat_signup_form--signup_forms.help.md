@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <dl class="docutils">
   <dt>Trick Or Treat Signup Form - Help Guide</dt>
   <dd>

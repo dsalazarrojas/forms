@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for graphic design services. The form is used by the business to gather essential details about the client's needs, preferences, and project specifics. It's crucial to fill out the form accurately and completely to ensure that the business can provide the best possible service to the clients. 
-
-</thinking>
-
 # graphic_design_subscription_form - Help Guide
 ## Purpose
 This form is used by the business to collect information from clients for graphic design services. Fill out the form to provide essential details about your design needs and preferences.

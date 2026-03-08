@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for customers or potential customers to request a quote or submit a lead. The form fields are divided into various sections, including contact information, business details, lead information, and additional comments. The form is intended to gather relevant data to assess the customer's needs and preferences, which will be used to determine the best course of action for the business.
-To ensure the form is used correctly, please note that some fields are marked as required, while others are optional. This means that the customer must provide a value for the required fields, but may optionally provide additional information in the non-required fields.
-Some fields may have specific options or formats, which are listed below in the "Field-by-Field Explanation" section.
-</thinking>
-
 # RFQ Form - Help Guide
 ## Purpose
 The RFQ Form is designed to gather information from customers or potential customers about their business needs and preferences. This information will be used to assess their requirements and determine the best course of action for the business.

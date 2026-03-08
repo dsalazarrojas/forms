@@ -1,6 +1,3 @@
-<thinking> We're going to create a help guide for the "Laundry Feedback Form". Before we dive into the guide, let's take a quick peek at the form's purpose and design principles.
-</thinking>
-
 # Laundry Feedback Form - Help Guide
 ## Purpose
 The Laundry Feedback Form is designed to gather feedback from customers about their experiences with our laundry services. This form helps us identify areas for improvement and ensures that we continue to meet or exceed our customers' expectations. By completing this form, you'll be helping us provide better services in the future.

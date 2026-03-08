@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the "josh_dampf_events_post_event_feedback" form. This form is used for posting feedback on events, likely for events hosted by Josh Dampf, which could be related to meetings, conferences, or workshops. The purpose of this form is to collect feedback from attendees on the event, including ratings, comments, and additional details. The guide will aim to be clear, concise, and user-friendly to ensure that end-users understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # josh_dampf_events_post_event_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on events hosted by Josh Dampf. Your input will help us improve future events and ensure that we meet your expectations.

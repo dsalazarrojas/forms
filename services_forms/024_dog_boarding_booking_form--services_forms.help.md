@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for booking a dog boarding service for pet owners. The form should be filled out by pet owners to provide their pet's information and schedule for boarding. The form is likely to be used by pet boarding facilities or services to collect necessary information from pet owners before boarding their pets.
-</thinking>
-
 # Dog Boarding Booking Form - Help Guide
 ## Purpose
 This form is designed for pet owners to book a dog boarding service. It collects information about the pet, owner, and schedule for boarding.

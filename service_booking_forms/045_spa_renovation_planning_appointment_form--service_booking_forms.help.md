@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assist spa owners and managers in planning and scheduling appointments for spa renovations. The form is intended to gather information from users regarding their spa renovation needs and preferences. This information will be used to tailor the renovation process to the individual's specific requirements.
-
-Before filling out this form, please ensure that you have not already completed a similar request. Duplication of requests may lead to unnecessary processing and delays.
-
-</thinking>
-
 # spa_renovation_planning_appointment_form - Help Guide
 ## Purpose
 This form is used to provide spa owners and managers with information about user's spa renovation needs and preferences. It helps to tailor the renovation process to individual requirements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a waste recycling service. The purpose of this form is to gather details about the type of waste, the amount of waste, and the contact information of the person requesting the service. This form is typically used by customers or clients who need assistance with waste recycling services.
-</thinking>
-
 # Waste Recycling Form - Help Guide
 ## Purpose
 The Waste Recycling Form is used to collect information about a waste recycling service. This form is used by customers or clients to provide details about their waste recycling needs.

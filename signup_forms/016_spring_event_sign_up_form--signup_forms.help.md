@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spring_event_sign_up_form - Help Guide
 ## Purpose
 This form is designed for users to sign up for a spring event. It collects information such as first name, last name, email, phone number, event date, event time, event time zone, sign up type, and notes. Please note that this form is not meant for actual event registration, and its primary purpose is for internal use. Ensure that you are filling this out for a valid reason and that you have the necessary permissions.

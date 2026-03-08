@@ -1,24 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers to estimate the total cost of a house painting service. The form guides users through a series of questions to determine the type of house, areas to be painted, color scheme, number of stories, number of rooms, special requests, whether a painting service is needed, selected paint color, payment method, and total cost. 
-
-The form has 12 fields in total, each with its own purpose and requirement. The form is divided into sections with clear labels and hints to help users understand what to fill in. 
-
-The fields are:
-- House Type: Select the type of house you have (e.g., Single-family home, Condo, Townhouse).
-- Painting Area: Select the areas of the house that need painting (e.g., Living room, Kitchen, Dining room).
-- Color Scheme: Select the color scheme you want for your house (e.g., Primary color 1, Secondary color 1, Accent color 1).
-- Number of Stories: Select the number of stories your house has.
-- Number of Rooms: Count the total number of rooms in your house.
-- Special Requests: Add any special requests or notes.
-- Painting Service: Select whether you need painting service.
-- Paint Color: Select the color of paint you need.
-- Payment Method: Select how you want to pay for the service.
-- Confirm: Confirm the details provided.
-- Total Cost: Enter the total cost of the painting service.
-
-</thinking>
-
 # House Painting Estimate Form - Help Guide
 ## Purpose
 This form is a tool for customers to provide information for the house painting estimate. Fill in the form with accurate details to get a quick and reliable estimate of the total cost of the service.

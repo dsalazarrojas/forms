@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used to request laundry pickup services for customers. The form is designed to collect information from customers, including their contact details, preferred contact method, service type, and pickup schedule. This form will help the customer service team to efficiently process the pickup requests and provide timely service to the customers.
-
-The form is divided into several sections, each with a specific purpose. The customer section collects the customer's information, including their contact number and email. The pickup schedule section asks for the preferred pickup date, time, and location. The service type section asks for the type of service required, such as dry cleaning or hand washing. The notes section is for any additional comments or requests from the customer.
-
-To ensure accuracy and reduce errors, the form requires only the required fields to be filled. The fields are labeled with clear and descriptive names, making it easy for the customers to understand what information is needed.
-
-This form is designed to be completed by the customer, and it will help the customer service team to provide efficient and personalized service to the customers.
-
-</thinking>
-
 # Laundry Pickup Request Form - Help Guide
 ## Purpose
 The Laundry Pickup Request Form is used to request laundry pickup services for customers.

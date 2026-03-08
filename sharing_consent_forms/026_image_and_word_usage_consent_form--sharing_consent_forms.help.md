@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from individuals or organizations for the use of their images and words. The form is designed to collect contact information, signature, and consent preferences from the individual or organization. It's essential to fill out the form accurately to ensure that the consent is valid and compliant with regulations. Please review the form carefully and ensure that you understand each field before proceeding.
-</thinking>
-
 # Image And Word Usage Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals or organizations for the use of their images and words.

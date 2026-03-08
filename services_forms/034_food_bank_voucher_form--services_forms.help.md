@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for organizations to manage and track their food bank services efficiently. It is used to create a customized template that simplifies the process of distributing essential goods. The form can be completed by anyone, but it is designed for use by food banks and their staff. Please make sure that you are accessing this form within your authorized capacity as a food bank representative or staff member.
-</thinking>
-
 # Food Bank Voucher Form - Help Guide
 ## Purpose
 The Food Bank Voucher Form is a streamlined template designed to simplify the process of distributing essential goods. It is intended for use by food banks and their staff to efficiently manage and track their services.

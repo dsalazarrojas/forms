@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a new service ticket for IT support. The purpose of this form is to provide essential information about the issue, including the title, priority, status, ticket type, issue description, reporter's name, assignee, and any attachments. It is recommended that users should submit tickets only if their issue is not already being managed by IT and not if they are trying to escalate an existing ticket. This will help ensure accurate prioritization of tickets by the IT team. It also ensures that users can easily track and manage their issues.
-</thinking>
-
 # it_service_ticket_form - Help Guide
 ## Purpose
 The it_service_ticket_form is used to submit new service tickets for IT support. This form collects necessary information to help IT staff quickly identify and resolve the issue.

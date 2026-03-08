@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first task is to understand the form's purpose and design principles. The form, titled "Creative Services Job Form," appears to be a request form for custom print or design services, likely for businesses or organizations. Each field in the form seems to be related to specifics about the job, such as paper size, color, and weight, as well as contact information for the person or organization requesting the service. The form does not require any personal details, suggesting it is for businesses or companies to fill out when requesting services. I will now create a help guide for users based on this understanding.</thinking>
-
 # Creative Services Job Form - Help Guide
 
 ## Purpose

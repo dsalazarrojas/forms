@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Karaoke Contest Judging Form - Help Guide
 
 ## Purpose

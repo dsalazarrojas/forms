@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register campers for the Camp Fun Quest program. It is intended for parents or guardians to provide information about their child's health, medical conditions, and preferences for the camp session. The form is divided into several sections, including Camper Information, Parent/Guardian Information, Emergency Contact Information, Health and Medical Information, and Camp Preferences. It is essential to fill out the form accurately and completely to ensure the camper's safety and well-being at the camp.
-
-Please review each section carefully and provide accurate information to avoid any potential issues during the camp session.
-</thinking>
-
 # Camp Fun Quest Registration Form - Help Guide
 ## Purpose
 The Camp Fun Quest Registration Form is used to gather information about each camper's personal details, health, and preferences for the camp session.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for school bus drivers to perform their daily pre-trip inspection on their vehicle, checking for various aspects of the bus's condition, safety, and functionality. The form aims to ensure that the bus is ready for the trip, and any issues or concerns are documented. The driver will need to select the correct status for each category, indicating whether the bus is in a "Normal" state, "Not Normal" state, or has minor defects. The form also requires the driver to enter their name and provide a brief description of the vehicle's status in the "Vehicle Status Notes" field. This form will help maintain a record of the bus's condition and ensure that any issues are addressed before the trip commences.
-</thinking>
-
 # School Bus Driver's Daily Pre-Trip Inspection Form - Help Guide
 
 ## Purpose

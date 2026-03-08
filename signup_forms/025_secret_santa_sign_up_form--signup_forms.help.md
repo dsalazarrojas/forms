@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to sign up for a Secret Santa gift exchange, a popular Christmas tradition where individuals exchange gifts with one another. This form is used to collect information from users to create a list of participants and their preferences for the exchange.
-</thinking>
-
 # Secret Santa Sign Up Form - Help Guide
 
 ## Purpose

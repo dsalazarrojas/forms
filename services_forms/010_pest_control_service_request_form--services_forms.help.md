@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for users to request pest control services from the organization. The form will gather information about the customer, including their name, contact information, and service requirements. This includes details about the type of service needed, such as interior or exterior services, and the date and time of the service. The form also asks for the type of pest, which will help the organization tailor the services to the customer's specific needs. Each field in the form is meant to capture essential details to facilitate efficient processing and execution of the pest control service request.
-</thinking>
-
 # Pest Control Service Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for pest control services.

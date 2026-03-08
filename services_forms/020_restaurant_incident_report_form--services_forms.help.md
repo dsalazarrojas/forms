@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Incident Report Form - Help Guide
 
 ## Purpose

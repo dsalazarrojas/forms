@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This thinking block will help me to clarify the purpose of the form and check for relevance and non-duplication of information. Based on the provided YAML, the form is called "Faith-Based Testimony Publication Consent Form" and it seems to be related to obtaining consent from individuals to share their faith-based testimonies on various platforms, including social media, blogs, email newsletters, videos, webpages, and other specified channels. The form includes fields for collecting first name, last name, email, phone number, consent to share testimony, publication channels, other publication channel (with an option to specify), testimony details, date and time of publication, assigned tool, description, category, form ID, and output file. I will now create a concise and practical help guide for the form.
 
 # Faith-Based Testimony Publication Consent Form - Help Guide

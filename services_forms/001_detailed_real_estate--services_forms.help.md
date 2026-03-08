@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Detailed Real Estate - Help Guide
 
 ## Purpose

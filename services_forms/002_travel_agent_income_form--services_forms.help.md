@@ -1,11 +1,3 @@
-<thinking>
-
-The form "travel_agent_income_form" is designed to collect information about travel agents' income sources, payment methods, and tax withholding rates. This form is likely used by travel agencies to track and manage income related to travel agent activities. The form has a mix of single and multiple selection fields, as well as date and email fields, which suggests that it's used for both general income reporting and specific payment tracking.
-
-To avoid duplication, we should assume that this form is used in conjunction with other travel-related forms or systems, and that the user is already familiar with the basics of travel agency operations.
-
-</thinking>
-
 # travel_agent_income_form - Help Guide
 ## Purpose
 The travel_agent_income_form is a tool used by travel agencies to collect and track income information related to travel agent activities.

@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for users who wish to share their electric vehicle charging data for the purpose of improving the charging infrastructure and services offered by the company. It is an optional form, but it is recommended that users only fill it out if they are willing to share their data with the company. This form is not a requirement for charging their electric vehicle.
-
-This form should only be filled out once per person. If a user has already filled out this form, they will not be asked to fill it out again.
-
-Before proceeding, please take a moment to review the following:
-
-* You are giving consent for us to collect and use your data.
-* We will use your data to improve the charging infrastructure and services we offer.
-* You can withdraw your consent at any time.
-</thinking>
-
 # Electric Vehicle Charging Data Consent Form - Help Guide
 ## Purpose
 The Electric Vehicle Charging Data Consent Form is an optional form designed to collect information from users about their electric vehicle charging habits and preferences. This data will be used by our company to improve our charging infrastructure and services.

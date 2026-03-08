@@ -1,9 +1,3 @@
-<thinking> 
-The "Small Group Chapel Sign Up Form Template" is designed to collect information from students about their small group meetings. The purpose of this form is to gather details about the meetings, such as meeting days and times, meeting place, and leader contact information. 
-This form is intended for use in a school setting, likely by students or educators. It's possible that this form is used for internal administrative purposes or for tracking student activities. To avoid duplication, you may want to check if a similar form already exists or if the information is already being collected elsewhere within the school.
-
-</thinking>
-
 # Small Group Chapel Sign Up Form Template - Help Guide
 ## Purpose
 The "Small Group Chapel Sign Up Form Template" is designed to collect information from students about their small group meetings. This form is intended to gather details about the meetings, such as meeting days and times, meeting place, and leader contact information.

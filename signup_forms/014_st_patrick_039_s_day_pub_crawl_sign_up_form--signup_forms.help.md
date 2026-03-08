@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure the form is only filled out for people who are eligible to participate in the St. Patricks Day Pub Crawl event. This form will help us gather information about participants' personal details, shirt preferences, and emergency contact information. Before filling out the form, please read the entire help guide to understand the purpose and requirements of each field.
-
-</thinking>
-
 # St. Patricks Day Pub Crawl Sign Up Form - Help Guide
 ## Purpose
 The St. Patricks Day Pub Crawl Sign Up Form is designed to gather information from participants in the event. This form requires accurate and detailed information to ensure a smooth and enjoyable experience for all attendees.

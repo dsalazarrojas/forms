@@ -1,8 +1,3 @@
-<thinking>
-Shift Start Check In form is designed to collect information about a nurse's shift start time, employee details, and other relevant data. This form helps to ensure that nurses check in accurately and on time for their shifts, which is crucial for maintaining attendance records, tracking employee hours, and providing accurate payroll reports.
-To prevent duplication, this form should only be submitted once per shift start time.
-</thinking>
-
 # nurse_shift_start_check_in_form - Help Guide
 ## Purpose
 The nurse_shift_start_check_in_form is used to collect information about a nurse's shift start time, employee details, and other relevant data for attendance and payroll purposes.

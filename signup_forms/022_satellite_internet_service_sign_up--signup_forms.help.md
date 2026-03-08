@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users who want to sign up for satellite internet service. This form likely belongs to a company that offers satellite internet services and is used by customers to express interest or request service. The internal logic checks if this form is being used for other purposes or if the user is already signed up, to prevent duplication. The purpose of this form is to collect user's personal details such as name, contact information and service preferences. This information will likely be used to follow up with the user, schedule an installation and assign a suitable installer.
-</thinking>
-
 # Satellite Internet Service Sign Up - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to sign up for a program or service. It's crucial to provide accurate and complete information to avoid delays or issues with processing the application. Please ensure you have all necessary information before filling out the form, and that you have permission to disclose any required information, especially if it pertains to a minor or a player. Duplicate submissions will not be accepted.</thinking>
-
 # Mossley AfC Sign On Form - Help Guide
 ## Purpose
 The Mossley AfC Sign On Form is a sign-up form for a program or service. It collects personal and player information to facilitate the registration process.

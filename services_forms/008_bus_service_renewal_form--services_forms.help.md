@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather information for the renewal of bus services. It's essential to ensure that all required fields are completed accurately and thoroughly. Please do not fill out this form if you are submitting a new application, as this form is specifically designed for renewal purposes only. Additionally, please note that some fields may require additional documentation or verification from the operator to support the submitted information. If you're unsure about any part of this form, please consult the relevant authorities or your local transportation agency for guidance.</thinking>
-
 # Bus Service Renewal Form - Help Guide
 ## Purpose
 The Bus Service Renewal Form is used to update and renew the contract of a bus service operator. This form requires accurate and complete information about the operator, their service, and their current and planned fleet sizes.

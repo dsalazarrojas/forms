@@ -1,5 +1,3 @@
-<thinking>This form is for users to RSVP (Respond to an invitation to Socialize) to a language exchange meetups. This form is used to gather information from users about their interest in attending a meetup, including their name, email, RSVP status, language preferences, and other relevant details. This guide will help users understand the purpose and usage of each field in the form.</thinking>
-
 # Language Exchange Meetup RSVP - Help Guide
 ## Purpose
 The purpose of this form is to allow users to RSVP to a language exchange meetup, providing the necessary information to organizers to plan the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help individuals who are interested in quitting vaping or are seeking support for their vaping cessation journey. The form is designed to collect information from users who are willing to share their experiences and provide feedback on their progress. Please note that this form is not affiliated with any particular platform, and the data collected will be used solely for research purposes. Before proceeding, ensure that you have not already filled out a similar form with us. If you are unsure, please reach out to us for assistance.
-</thinking>
-
 # Vaping Cessation Support Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are interested in quitting vaping or seeking support for their vaping cessation journey. The purpose of this form is to help us understand your experiences, challenges, and progress in quitting vaping.

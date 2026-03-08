@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user information for the purposes of email verification and account setup. It is essential to ensure that the user's email address is accurate, as it will be used for account creation and future communication. This form is not intended to be filled out multiple times, so users are encouraged to double-check their information before submission. If a user needs to update their email address, they should not fill out this form again, as it may cause confusion and duplicate account creations.
-</thinking>
-
 # email_verification_form - Help Guide
 ## Purpose
 This form is used to verify a user's email address for account setup purposes.

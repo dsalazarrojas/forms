@@ -1,8 +1,3 @@
-<thinking>
-This form is for local food co-op membership signup, which means you are signing up to be a member of a local food co-op. This form is used by potential members to provide their personal information and membership details to the co-op. It's essential to fill out this form accurately and completely to ensure that your membership is processed correctly. Please make sure you are not duplicating a membership by checking our membership database before filling this form.
-
-</thinking>
-
 # local_food_co_op_membership_signup - Help Guide
 ## Purpose
 This form is used to sign up as a member of the local food co-op.

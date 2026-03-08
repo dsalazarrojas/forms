@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for repair estimation and quote purposes. It's intended to gather details about the customer, job specifics, and other relevant information. Please ensure that you have all required information before proceeding.
-</thinking>
-
 # Repair Estimation Quote Form - Help Guide
 ## Purpose
 This form is used to collect necessary information for repair estimation and quote purposes. It helps gather details about the customer, job specifics, and technician involvement.

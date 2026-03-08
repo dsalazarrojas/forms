@@ -1,7 +1,3 @@
-<thinking>
-This is a form for onboarding new SEO clients, designed to gather essential information for their projects. The form is meant to be completed by clients to provide their details, project specifics, and services requirements. To ensure consistency, please ensure that the form is used for its intended purpose - onboarding new SEO clients. If you need help with other form types, please refer to the <a href='https://yourwebsite.com/forms'>form library</a>.
-</thinking>
-
 # seo_onboarding_form - Help Guide
 ## Purpose
 This form is designed to collect information from new SEO clients for the onboarding process.

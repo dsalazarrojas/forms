@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with the post office services. This feedback is crucial for the organization to evaluate and improve its services. Please note that the form has two required fields, "visit_frequency" and "staff_helpfulness_agreement", and one optional field for "additional_comments". To ensure accurate and relevant feedback, kindly answer the questions with honesty and completeness, and refrain from duplicating previous responses, as this form is not designed for repeated submissions.
-</thinking>
-
 # Post Office Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the post office services.

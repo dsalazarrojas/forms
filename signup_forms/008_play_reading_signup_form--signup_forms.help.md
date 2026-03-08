@@ -1,10 +1,3 @@
-<thinking>
-To create an informative and user-friendly help guide for the "Play Reading Signup Form" form, I will focus on clearly explaining the form's purpose, the process of completing it, and providing detailed explanations for each field. 
-
-Based on the provided YAML data, it's evident that this form is designed to capture information for play readings, likely for a theater-related context. I will aim to cover the essential details and provide clear guidance for users to fill out the form accurately.
-
-</thinking>
-
 # Play Reading Signup Form - Help Guide
 ## Purpose
 The "Play Reading Signup Form" is designed to collect information from individuals who want to participate in play readings. This form helps to gather essential details about the participants, including their role and availability.

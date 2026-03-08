@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information for a Leak Repair Service, likely from a plumbing or pipes-related business. This form will help customers provide their service address, contact details, description of the issue, and the desired repair date. The form is designed for customers to submit their requests for leak repair services. This will help the business understand the customer's needs and prioritize their services accordingly. The form does not include any sensitive or personally identifiable information, and the customer's contact details are not required fields. 
-
-The form has four fields: "Service Address", "Customer Details", "Issue Description", and "Repair Date". The customer is not obligated to fill in any of these fields, but the more information they provide, the better the service can be tailored to their needs.
-</thinking>
-
 # Leak Repair Service Agreement - Help Guide
 
 ## Purpose

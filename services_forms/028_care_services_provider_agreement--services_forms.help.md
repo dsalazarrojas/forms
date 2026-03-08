@@ -1,11 +1,3 @@
-<thinking> 
-This form is a legal agreement for care services providers and clients. It outlines the essential terms and conditions for service provision and billing. 
-The goal is to standardize the process of collecting and maintaining accurate information from both providers and clients. 
-The form is designed to be completed by both parties, with the provider and client entering their respective information and signing off on the agreement. 
-Each field is designed to cover a specific aspect of the care services, such as the start and end dates of the service, the scope of services, and the payment terms. 
-The form should not be used for other purposes, but it can be adapted or modified for specific use cases with proper attribution.
-</thinking>
-
 # Care Services Provider Agreement - Help Guide
 ## Purpose
 This form is a legal agreement for care services providers and clients to document the terms and conditions of service provision. It is used to standardize the process of collecting and maintaining accurate information from both parties.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for reporting the status of a vehicle at the start of a shift. It is intended to be completed by the driver or the person responsible for the vehicle during the shift. The form is meant to capture information about the vehicle's condition, including its status, fuel level, tire condition, and other critical systems.
-
-This form should not be used for other purposes, such as reporting vehicle maintenance or repairs. The information entered on this form will be used for internal record-keeping and may be referenced by other teams or departments within the organization.
-
-</thinking>
-
 # Start Of Shift Vehicle Inspection Report Form - Help Guide
 ## Purpose
 This form is used to document the status of a vehicle at the start of a shift. It is intended to be completed by the driver or the person responsible for the vehicle during the shift.

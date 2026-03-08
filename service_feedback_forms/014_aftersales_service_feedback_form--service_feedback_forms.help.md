@@ -1,5 +1,3 @@
-<thinking>...We are using this form to collect feedback about your recent experience with our aftersales service. Please fill out this form to let us know how we did and what we could do better. This is a required form, but we value your honest and constructive feedback. Please ensure that you answer the required fields to help us understand your experience...</thinking>
-
 # Aftersales Service Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback about your experience with our aftersales service. Your feedback will help us understand your experience and identify areas where we can improve.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users start their journey in a way that is both effective and efficient. The form is used to capture relevant information about the user's journey, including their fitness journey, well-being, and other relevant details. This information will be used to provide personalized recommendations and insights to help the user achieve their goals.
-
-When completing this form, please ensure that you have provided accurate and complete information about your journey. If you are unsure about any of the fields, please refer to the field-by-field explanation below.
-
-This form has been designed to be used by multiple users, and some fields may be required or optional, depending on the user's context. Please ensure that you complete all required fields to submit the form successfully.
-
-</thinking>
-
 # jumpstart_your_journey - Help Guide
 ## Purpose
 This form is designed to help users start their journey in a way that is both effective and efficient. The form is used to capture relevant information about the user's journey, including their fitness journey, well-being, and other relevant details. This information will be used to provide personalized recommendations and insights to help the user achieve their goals.

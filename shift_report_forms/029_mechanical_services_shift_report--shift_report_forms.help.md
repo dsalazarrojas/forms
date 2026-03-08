@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and report on mechanical services shifts. This form is likely used to track and report on tasks and activities performed during a shift, such as maintenance, repairs, or other technical services provided. The form may be used by technicians, mechanics, or other personnel responsible for performing and overseeing mechanical services. 
-</thinking>
-
 # Mechanical Services Shift Report - Help Guide
 ## Purpose
 The Mechanical Services Shift Report form is designed to document and report on mechanical services shifts. This form is used to track and report on tasks and activities performed during a shift, such as maintenance, repairs, or other technical services provided.

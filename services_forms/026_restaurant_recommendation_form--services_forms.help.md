@@ -1,9 +1,3 @@
-<thinking>
-This form is a restaurant recommendation form, designed to collect information from customers about their dining experiences at various restaurants. The form is intended for customers to provide feedback and ratings about their visits, which will be used to help the restaurant improve its services and offerings. 
-This form should not be used for general customer support or complaint purposes, but rather for specific feedback and review of their dining experiences. 
-Please note that this form is not intended to collect sensitive or financial information, and customers are not required to provide any information they are not comfortable sharing. 
-</thinking>
-
 # restaurant_recommendation_form - Help Guide
 ## Purpose
 The restaurant recommendation form is designed to collect feedback and ratings from customers about their dining experiences at various restaurants. This form helps restaurants improve their services and offerings.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a registration form for individuals or businesses interested in purchasing calves. The purpose of this form is to collect information about the buyer's preferences and requirements for purchasing calves. The buyer will be asked to provide their contact and farm information, their preferred breed, age, and gender of the calf, as well as their preferred delivery date and timing flexibility. The buyer will also be asked to select their purpose for purchasing the calf, whether they require health certificates, and if they need to arrange transport. Special requests or requirements can also be listed.
-</thinking>
 # Calf Waitlist Registration Form - Help Guide
 ## Purpose
 The Calf Waitlist Registration Form is designed to gather information about your preferences and requirements for purchasing calves. This information will help us tailor our calf selection to meet your needs.

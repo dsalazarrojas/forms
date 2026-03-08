@@ -1,7 +1,3 @@
-<thinking>
-This form will help users collect information about on-site inspections conducted at Mastercraft Homewrights properties. The form is designed to gather essential details about the pool location and features, along with the inspection results, inspector's contact information, and realtor's details in case of a property listing. This form will likely be used internally within the organization to track and manage inspections efficiently. Before proceeding, please review the following guide to ensure that you complete the form accurately and correctly.
-</thinking>
-
 # Mastercraft Homewrights Pool Inspection - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Mastercraft Homewrights Pool Inspection form.

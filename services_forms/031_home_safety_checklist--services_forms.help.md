@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # home_safety_checklist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Snack Tray Kit Pre Order Form Template - Help Guide
 ## Purpose
 This form is designed to help customers pre-order a Snack Tray Kit, a convenient collection of snacks for special events or gatherings. 

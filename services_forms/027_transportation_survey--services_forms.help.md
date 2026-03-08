@@ -1,19 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and requirements of the Transportation Survey form. The form is designed to collect information about a user's transportation habits, preferences, and priorities. Before starting the form, please review the following sections to ensure you understand the form's purpose and how to complete it accurately.
-
-The form is divided into several sections, each focused on a different aspect of transportation. The purpose of this form is not solely to collect personal preferences, but rather to gauge the importance and frequency of various transportation methods in different contexts. This will help us better understand the needs and habits of our users.
-
-To complete the form, please follow these steps:
-
-1.  The Introduction section will provide a brief overview of the purpose and context of the survey.
-2.  The Transportation Methods section asks about your usage of different transportation methods, such as public transportation or private vehicles. You will select all applicable options.
-3.  The Preferred Transportation Method section asks you to choose one method you prefer.
-4.  The remaining sections ask about the frequency and importance of transportation in different contexts: daily travel distance, how important is transportation to you, your friends, work, and school.
-
-Please note that the form is not intended to be time-consuming, and you can skip any section that is not relevant to you.
-
-</thinking>
-
 # Transportation Survey - Help Guide
 ## Purpose
 The Transportation Survey is designed to collect information about your transportation habits, preferences, and priorities. This will help us better understand your needs and improve our services.

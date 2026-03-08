@@ -1,7 +1,3 @@
-<thinking>
-The main objective of this form is to gather information about the services provided to a party, which is essential for maintaining records and ensuring that all parties involved are informed and satisfied. To prevent duplication of efforts, please fill out this form only once for each service provided.
-</thinking>
-
 # Proof Of Service Form - Help Guide
 ## Purpose
 The Proof Of Service Form is used to document the provision of services to a party, which is crucial for maintaining accurate records and ensuring that all parties involved are informed and satisfied.

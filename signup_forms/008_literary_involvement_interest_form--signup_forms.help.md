@@ -1,5 +1,3 @@
-<thinking>...The form is designed to gather information from users interested in participating in literary events or programs. This form will help us understand their preferences and requirements for such events. Please ensure that you're only filling out this form once, and we'll keep your information private and secure. We will use this information to create a list of potential participants for our events, and to tailor our programs to meet your needs. Please answer the questions honestly and clearly, and let us know if you have any further questions or concerns...</thinking>
-
 # Literary Involvement Interest Form - Help Guide
 ## Purpose
 The Literary Involvement Interest Form is designed to gather your preferences for participating in literary events or programs. By filling out this form, you will help us better understand your interests and tailor our events to meet your needs.

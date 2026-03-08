@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for generating police reports, which are documents that report and describe crimes or incidents to the police department. The form will ask for details about the type of crime, the date of the incident, and other relevant information about the suspect and witness. The goal of this form is to gather as much accurate and comprehensive information as possible to help the police investigate and process the incident efficiently. This form is likely to be used by citizens or law enforcement officers who are filing a police report.
-</thinking>
-
 # Police Report Template - Help Guide
 ## Purpose
 The Police Report Template is a form used to generate a police report for reporting crimes or incidents to the police department.

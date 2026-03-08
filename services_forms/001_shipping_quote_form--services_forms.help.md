@@ -1,12 +1,3 @@
-<thinking>
-What is the purpose of this form? The Shipping Quote Form is a tool to generate a shipping quote for customers. It collects necessary information to calculate the total shipping cost, including the customer's address, package details, and shipping preferences.
-
-Is this form already in use internally? If not, how can we ensure it is not duplicated? This form should only be used for new shipping quotes. To avoid duplication, users should not submit the form multiple times for the same order. 
-
-Are there any unclear field labels? Yes, some labels are not very descriptive. For example, "shipping_weight", "shipping_length", "shipping_width", "shipping_height", and "shipping_distance" could be labeled more specifically, like "Package Weight (kg)", "Package Length (cm)", "Package Width (cm)", "Package Height (cm)", and "Distance to Destination (km)" respectively.
-
-</thinking>
-
 # Shipping Quote Form - Help Guide
 ## Purpose
 The Shipping Quote Form is a tool to generate a shipping quote for customers. It collects necessary information to calculate the total shipping cost, including the customer's address, package details, and shipping preferences.

@@ -1,9 +1,3 @@
-<thinking>
-As a form designer and technical writer, I will review the provided form schema and create a user-facing help guide for the "Protest Survey" form.
-The form schema consists of 25 fields, but upon reviewing it, I notice that most of the fields are related to protests and survey, and I will focus on those. The fields are a mix of text, date, time, email, and select_one (True/False) types.
-
-</thinking>
-
 # Protest Survey - Help Guide
 
 ## Purpose

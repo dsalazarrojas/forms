@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to allow parents to sign up for parent-teacher-student meetings. The purpose of this form is to gather information from parents about their availability for meetings, which will be scheduled with teachers and students. This form is used by parents to communicate their availability and preferences for meetings, and it will be used by the school administration to schedule meetings that work for all parties involved.
 
 # Parent Teacher Student Meeting Sign Up Form - Help Guide

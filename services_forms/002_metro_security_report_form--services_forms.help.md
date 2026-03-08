@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for reporting security incidents or concerns within a metropolitan area. It is designed to provide a standardized and structured format for users to report such incidents, allowing for efficient and accurate documentation and follow-up actions.
-
-Before creating this guide, I've reviewed the provided YAML fields to ensure that it meets the requirements and is free from duplication. I have not copied or extracted content from any proprietary forms or platforms.
-
-This guide will explain each field and its purpose, making it easier for end-users to complete the form accurately and effectively.
-
-</thinking>
-
 # metro_security_report_form - Help Guide
 ## Purpose
 This form is designed to aid in the reporting of security incidents or concerns within a metropolitan area. It provides a structured format for users to document and submit their reports, facilitating efficient follow-up actions and investigations.

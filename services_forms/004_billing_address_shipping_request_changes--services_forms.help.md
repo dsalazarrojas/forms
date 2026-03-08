@@ -1,13 +1,3 @@
-<thinking> 
-The form "Billing Address Shipping Request Changes" is designed to update customer billing and shipping information. 
-
-This form allows customers to request changes to their billing and shipping addresses, including their names, addresses, and other relevant details. 
-
-The form is likely used in a business-to-business (B2B) or e-commerce setting where customers need to update their account information. 
-
-This form is likely used by customers who need to make changes to their billing and shipping addresses, but it's also possible that this form is used for other purposes such as updating contact information. 
-</thinking>
-
 # Billing Address Shipping Request Changes - Help Guide
 ## Purpose
 The purpose of this form is to update customer billing and shipping information. Customers can use this form to make changes to their billing and shipping addresses, including their names, addresses, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users for a veterinary appointment. It is likely used by veterinary clinics or hospitals to collect relevant details from clients before scheduling an appointment with a veterinarian. The form is designed to be straightforward and easy to fill out, with a focus on collecting essential information from the client and their pet. Please ensure that you are using the correct context and audience for this form.
-
-</thinking>
-
 # Veterinarian Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients and their pets to schedule a veterinary appointment.

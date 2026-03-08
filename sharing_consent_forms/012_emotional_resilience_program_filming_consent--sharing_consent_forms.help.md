@@ -1,5 +1,3 @@
-<thinking>... This form is designed to obtain participants' consent for filming and recording activities within the emotional resilience program. The form is intended for participants who have expressed interest in taking part in filming and recording activities. This form serves as a legal agreement between the participant and the program organizers, ensuring that the participant's rights and interests are protected. The form is not intended for participants who have not expressed interest in filming and recording activities. Please ensure that you have read and understood the purpose of this form before proceeding. ...</thinking>
-
 # emotional_resilience_program_filming_consent - Help Guide
 ## Purpose
 This form is used to obtain participant's consent for filming and recording activities within the Emotional Resilience Program. It ensures that participants' rights and interests are protected and that they understand the terms and conditions of filming and recording.

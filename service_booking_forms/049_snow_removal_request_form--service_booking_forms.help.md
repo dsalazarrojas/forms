@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for snow removal requests, allowing users to submit their requests with specific details such as name, email, phone number, location, type of snow removal, start and end times, and additional notes. The form is meant to be completed by users who need snow removal services and is intended to be used by staff or administrators to manage and assign tasks to team members. To ensure accurate and efficient completion, it is recommended to fill out the form with as much detail as possible, especially for the type of snow removal and submitted by fields to help with task assignment and scheduling. Please ensure that you do not duplicate requests for the same location or time. 
-</thinking>
-
 # Snow Removal Request Form - Help Guide
 
 ## Purpose

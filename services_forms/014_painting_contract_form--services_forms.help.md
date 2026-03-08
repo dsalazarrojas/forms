@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for painting contracts. It's likely used in property management or construction contexts where painting services are offered to tenants or homeowners. The form may be used by property managers to document painting contracts with tenants or other stakeholders. Each field is essential to ensure accurate and complete painting contracts are created.
-</thinking>
-
 # Painting Contract Form - Help Guide
 ## Purpose
 The Painting Contract Form is used by property managers to document painting contracts with tenants or other stakeholders. It collects essential information for painting contracts, including contract details, signatures, and agreement terms.

@@ -1,8 +1,3 @@
-<thinking> 
-  This form is for sign up to the Car Crew, a group of enthusiasts and experts who participate in various racing events. This form collects information about the participant, their contact details, and their availability for events. The form is designed to help the Car Crew team understand who is interested in participating and what roles they are interested in taking on. This form will likely be used by event organizers to review and contact potential crew members. Please make sure to fill out this form accurately and thoroughly, as it will help the team get a better understanding of your interests and availability. 
-
-</thinking>
-
 # Car Crew Sign Up Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Car Crew Sign Up Form. Please follow these steps to ensure that your information is accurate and up-to-date.

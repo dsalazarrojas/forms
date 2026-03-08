@@ -1,8 +1,3 @@
-<thinking>
-Please ensure this form is not being used for spam purposes and is only used by genuine participants to sign up for a latte art competition. Also, check that this form doesn't conflict with existing participants in the event management system.
-
-</thinking>
-
 # Latte Art Competition Signup Form - Help Guide
 ## Purpose
 

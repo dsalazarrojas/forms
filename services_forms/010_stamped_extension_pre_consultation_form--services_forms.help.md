@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to check for form purpose and duplication
-
-The purpose of this form is to gather information from customers who are interested in consulting services. The form is designed to be completed by customers who want to inquire about our services and schedule a consultation. To ensure that each customer's needs are met, we want to verify that this form is not being used for other purposes. If you're not sure if this form is right for you, please reach out to our support team to confirm.
-</thinking>
-
 # stamped_extension_pre_consultation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers who are interested in consulting services. Fill out this form to inquire about our services and schedule a consultation.

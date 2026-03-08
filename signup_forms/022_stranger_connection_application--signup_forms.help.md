@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stranger Connection Application - Help Guide
 ## Purpose
 The Stranger Connection Application form is designed to gather basic contact information and preferences from users for the purpose of establishing a connection with a stranger. This form is typically used for social or professional networking, and the collected data will be used to facilitate communication and interaction between users.

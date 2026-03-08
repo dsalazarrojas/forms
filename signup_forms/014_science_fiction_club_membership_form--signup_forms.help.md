@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who want to join the Science Fiction Club. We are checking for relevance and non-duplication of membership. Please fill out the form carefully as it will help us understand your interests and preferences for the club. You can submit the form to join the club and become a part of our science fiction community.
-</thinking>
-
 # science_fiction_club_membership_form - Help Guide
 ## Purpose
 This form is designed to help us understand your interests and preferences for the Science Fiction Club. By filling out this form, you will be able to join the club and become a part of our science fiction community.

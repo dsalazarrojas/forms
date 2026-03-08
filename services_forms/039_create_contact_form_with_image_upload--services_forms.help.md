@@ -1,19 +1,3 @@
-<thinking>
-
-To create this form, we need to consider the needs of both the user and the organization. As a service provider, we need to gather enough information to provide efficient and personalized support. We also need to ensure that users have a smooth and intuitive experience filling out the form. With that in mind, let's break down the form into its various sections and fields.
-
-We will have the following fields:
-* Personal information: name, email, phone number (optional), and company or organization name (optional)
-* Inquiry information: subject of inquiry, type of inquiry, and preferred contact method (optional)
-* Priority and urgency: priority level and preferred contact time (optional)
-* Additional information: service or product interested, approximate budget (optional), project timeline (optional), and reference number (optional)
-* Attachments: primary image or photo, secondary image or document, and additional attachment or photo (optional)
-* Consent and subscription: subscription to updates and newsletters, and consent to being contacted
-
-We should avoid duplicating information or asking for unnecessary data. We should also ensure that all required fields are clear and concise, and that optional fields are not too intrusive or overwhelming. The image upload fields should allow users to upload relevant and relevant images or documents that support their inquiry.
-
-</thinking>
-
 # CREATE Contact Form With Image Upload - Help Guide
 ## Purpose
 This contact form is designed to gather information from users to efficiently address their inquiries and provide personalized support. By filling out this form, you will be able to provide the necessary details about your inquiry, and our team will be able to respond accordingly.

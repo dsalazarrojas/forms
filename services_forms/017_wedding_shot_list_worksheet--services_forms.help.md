@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help wedding planners, photographers, or other stakeholders create a wedding shot list, which is a list of essential tasks and activities to be performed on a wedding day. This form aims to gather information about the photographer's details, including their contact information, preferences, and shot list items, as well as the wedding event specifics, such as date, time, expected attendance, and budget. The form is designed to be completed by someone who is involved in the wedding organization process, ensuring they have the necessary information to manage the photographer's work effectively. The form does not seem to be intended for use by wedding attendees or guests.
-</thinking>
-
 # Wedding Shot List Worksheet - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for signing up for the Wellness Program. It is required for individuals interested in participating in the program. Before proceeding, please ensure you are not already registered in the system. If you have any existing registration, you can cancel or update your current subscription before registering for this program.
-</thinking>
-
 # Wellness Program Subscription Form - Help Guide
 ## Purpose
 The Wellness Program Subscription Form is designed to help users sign up for the Wellness Program. This form gathers essential information from users to create a successful and personalized experience.

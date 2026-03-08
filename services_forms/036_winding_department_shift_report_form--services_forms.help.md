@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Winding Department Shift Report Form - Help Guide
 
 ## Purpose

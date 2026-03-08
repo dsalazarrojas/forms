@@ -1,10 +1,3 @@
-<thinking>
-The Handyman Release Form is used to capture information about services performed by a handyman. This form is designed to be completed by handymen to provide details about their services, including their name, contact number, address, date and time of service, and type and description of service. This form is intended for internal use and is not meant to be used in a public-facing context.
-
-Before filling out this form, ensure that it is not a duplicate and that the services being reported are actual services performed. If unsure, please verify with your supervisor or team lead.
-
-</thinking>
-
 # Handyman Release Form - Help Guide
 ## Purpose
 The Handyman Release Form is used to provide information about services performed by handymen for internal reporting and tracking purposes.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect general service quotation information from clients. It is used to gather details about the client, their request, and any additional notes. This form likely belongs to a service industry where clients are being quoted on specific services.
-
-When creating the form, consider the following:
-
-* Is this the first time the client is visiting your service? If so, ensure this form is accessible and easy to understand.
-* Does the form contain any sensitive or personal information (e.g., phone numbers, emails, addresses)?
-* Are the field labels clear and descriptive?
-* Is the required field (note) marked as such?
-
-</thinking>
 # General Service Quotation Form - Help Guide
 
 ## Purpose

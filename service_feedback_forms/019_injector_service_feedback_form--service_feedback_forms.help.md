@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in filling out the "injector_service_feedback_form" form. Before proceeding, please ensure that you are in a relevant context and not duplicating an existing submission. This form is designed to gather feedback on the quality of service provided by an injector. If you have already provided feedback, it's best not to resubmit. This form is a critical component of the service feedback mechanism, and your input is valuable for improvement.
-</thinking>
-
 # injector_service_feedback_form - Help Guide
 ## Purpose
 The "injector_service_feedback_form" is a form used to gather feedback on the quality of service provided by an injector. This form helps us understand your experience and identify areas for improvement.

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and duplicate checking block ...
-
-The main purpose of this form is to collect information from interested parties who want to test an AI project in a beta environment. The form is designed to gather participant details, such as name, company, email, role, and a description of their intended use case for the project. This information will help the project team understand who is interested in testing the project and what they can expect from the beta test.
-
-Before proceeding, it is recommended to check if you are a first-time participant and if this is not a duplicate submission. Please note that duplicate submissions will not be reviewed.
-
-</thinking>
-
 # AI Project Beta Test Registration - Help Guide
 ## Purpose
 The AI Project Beta Test Registration form is designed to gather information from interested parties who want to test an AI project in a beta environment. This form will help the project team assess potential participants' qualifications and suitability for the beta test.

@@ -1,8 +1,3 @@
-<thinking>
-I'll create a user-facing help guide for the "travel_expenses_fest_team_form" form, ensuring that the provided YAML fields are properly explained and presented in a concise and practical manner.
-
-</thinking>
-
 # travel_expenses_fest_team_form - Help Guide
 ## Purpose
 The travel expenses fest team form is designed to record and report travel-related expenses for team members. This form helps to streamline the process of documenting and tracking team travel expenses, ensuring accurate and transparent financial reporting.

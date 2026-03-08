@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of janitorial services provided to a facility or organization. It assesses various aspects of the services, including quality, areas of service that met expectations, staff courtesy, cleanliness, recommendation, communication, timeliness, and staff equipment. The form aims to gather detailed feedback from customers to help improve the services provided.
-To ensure a comprehensive evaluation, the form includes questions that cater to different aspects of the service, such as the quality of services, staff performance, equipment, and communication. This helps in identifying areas that need improvement and areas where the service is performing well. 
-The form is designed to be completed by customers or users of the janitorial services. It is recommended that the form be completed by the person who received the services.
-The form is not meant to be used for general feedback or comments. The fields are specific and designed to gather detailed and actionable feedback for improving the services.
-</thinking>
-
 # janitorial_services_performance_evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of janitorial services provided to a facility or organization.

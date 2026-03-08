@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and recording details for the Gender Equity Panel, a feature used to promote diversity and inclusion. The purpose of this form is to ensure that users understand and consent to the sharing of their recorded data. The form is divided into several sections: User Information, Recording Location, Gender Equity Panel, Recording Date, Recording Time, Recording Duration, Email, Phone Number, Consent, Notes, Additional Notes, and Sharing Consent. Each field is designed to capture relevant information for the Gender Equity Panel, ensuring that users can provide the necessary details for effective panel discussions. To complete this form, simply follow the steps below.
-</thinking>
-
 # genderEquityPanelRecordingConsentForm - Help Guide
 ## Purpose
 The genderEquityPanelRecordingConsentForm is designed to collect user information and recording details for the Gender Equity Panel, promoting diversity and inclusion.

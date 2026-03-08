@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # firm_crawl_signup_form - Help Guide
 
 ## Purpose

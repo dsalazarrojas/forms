@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to update the status and attributes of a route. It is used for administrative purposes to keep track of route updates. This form should only be used for route updates, and not for other types of updates or forms. This form is a single page form and is part of the "services_forms" category.
-</thinking>
-
 # route_update_form - Help Guide
 ## Purpose
 The route_update_form is used to update the status and attributes of a route. This form is designed for administrative purposes and should only be used for route updates.

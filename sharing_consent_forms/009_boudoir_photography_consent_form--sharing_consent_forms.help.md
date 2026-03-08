@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing client information and consent for boudoir photography sessions. It ensures that clients are aware of the photographer's intentions and boundaries when it comes to sharing their images. This form serves as a contract that outlines the terms and conditions of the photography session, including image sharing, editing, and usage rights. It's essential that clients carefully review and understand the form before proceeding with the session.
-</thinking>
-
 # Boudoir Photography Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to capture client information and consent for boudoir photography sessions. It outlines the terms and conditions of the photography session, including image sharing, editing, and usage rights.

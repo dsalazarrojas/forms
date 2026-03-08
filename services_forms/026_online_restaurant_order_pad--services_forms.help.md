@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for restaurant staff to process customer orders online, allowing them to efficiently manage orders from start to finish. It's crucial to fill out this form accurately to ensure that orders are correctly processed and delivered to the customer.
-
-Before completing this form, please confirm that:
-* You have the necessary access rights and permissions to process orders.
-* You are aware of the restaurant's order processing policies and procedures.
-* You have all the required information for the customer order before starting.
-* You have reviewed the form carefully for any required fields, as indicated by the required field indicator.
-
-To ensure accuracy and consistency, please do not create duplicate orders, and always verify the order details before submission.
-
-After submission, the form will be reviewed and processed according to the restaurant's order processing protocols.
-
-</thinking>
-
 # Online Restaurant Order Pad - Help Guide
 
 ## Purpose

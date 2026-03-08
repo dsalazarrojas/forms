@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to enter themselves into a giveaway contest for a free sweatshirt. The form collects personal and demographic information from users, including their name, contact details, size preferences, and color preferences. The purpose of the form is to ensure that the user is eligible to receive the giveaway item, which is a free sweatshirt. 
-
-To complete this form, users will need to fill in their personal details such as name, email, and phone number. They will also need to select their preferred size and style of sweatshirt, as well as their favorite colors. Additionally, users will be asked for their shipping information, including their zip code, address, city, and state. The form is designed to be easy to use and straightforward, and users should be able to complete it quickly and accurately.
-
-</thinking>
-
 # Sweatshirt Giveaway Entry - Help Guide
 ## Purpose
 The form is for users to enter themselves into a giveaway contest for a free sweatshirt.

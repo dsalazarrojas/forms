@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users match their personality to a specific color palette. The form collects user input on their first name, last name, email address, and favorite colors. The purpose of this form is to provide a simple and user-friendly way to collect data on individual preferences. This form was created using public survey topic metadata from the "services" category, and it is not affiliated with any form platform. 
-
-</thinking>
-
 # Online Color Match Form - Help Guide
 ## Purpose
 The Online Color Match Form is designed to help users match their personality to a specific color palette.

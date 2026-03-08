@@ -1,7 +1,3 @@
-<thinking>
-This template is for documenting daily shifts, which is a common practice in various industries such as manufacturing, hospitality, or retail. However, the specific fields provided in this template seem more relevant to a specific company that assigns tools and tracks their status. This template may be for a maintenance team or a company that assigns tools to employees for their shifts. To confirm, I will provide a help guide for this form that explains each field purpose and usage in a concrete, concise, and practical way.
-</thinking>
-
 # Daily Shift Report Template - Help Guide
 ## Purpose
 This template is used to document daily shifts, track assigned tools, and update their status. It is designed for companies that assign tools to employees for their shifts.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to select and order food online, specifying meal preferences, dietary restrictions, texture, temperature, quantity, delivery details, and payment information. To confirm that this form meets the requirements, I will review the provided YAML fields to create a user-friendly help guide.
-</thinking>
-
 # Food Online Order Form - Help Guide
 ## Purpose
 The Food Online Order Form is a tool for users to order food online, specifying their preferences and requirements for the meal they wish to order. Please fill out this form to ensure that our team can prepare and deliver your order correctly.

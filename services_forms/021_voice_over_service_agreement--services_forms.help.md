@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose voice over service agreement form. The purpose is to capture client and project information, and gather any relevant terms, signatures, and additional notes related to the voice over service provided. The form appears to be a basic template for a professional setting, likely for a voice over agency or individual service provider. This form does not seem to be highly specific to a particular industry or category of services, so it's likely intended to be adaptable for various voice over projects.
-
-Given the form structure and field types, it's possible that this form will be used for a one-time use case or an internal reference within an organization. It's essential to review the specific needs and requirements of the form users to determine if additional fields or sections should be included.
-
-To avoid duplication, this form's design and content should be reviewed for consistency with existing forms or templates within the organization or industry.
-</thinking>
-
 # Voice Over Service Agreement - Help Guide
 
 ## Purpose

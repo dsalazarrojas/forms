@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a registration form for potential members of a heritage site, allowing them to provide their personal and contact information, select their membership type, and provide payment details. The form is intended to be completed by individuals who wish to join the heritage site as a member. It is possible that individuals may have already registered in the past, so a check should be performed to prevent duplicate registrations.
-</thinking>
-
 # Heritage Site Membership Registration Form - Help Guide
 ## Purpose
 The Heritage Site Membership Registration Form is a tool for potential members to provide necessary information to join the heritage site. By filling out this form, members will be able to select their membership type and provide any required payment information.

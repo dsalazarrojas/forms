@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to collect information from clients or potential clients about their interest in requesting a photoshoot service. The form might be part of a website or a sales process. The purpose of the form is to gather contact and preference information from the client, such as their photographer's website, whether they want a quote, and a brief description of the services they are interested in. This form likely helps the business to understand potential clients' needs and preferences, making it easier to tailor their services and quote accordingly.
-To prevent duplication, it's essential to ensure that the form is not filled out multiple times by the same person.
-</thinking>
-
 # Request A Photoshoot Form - Help Guide
 ## Purpose
 The Request A Photoshoot Form is designed to collect essential information from clients or potential clients about their interest in requesting a photoshoot service. This form helps the business understand client needs and preferences, making it easier to tailor their services and quote accordingly.

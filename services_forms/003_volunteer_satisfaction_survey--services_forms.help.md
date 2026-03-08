@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This internal reasoning block explains the form purpose and checks for relevance and non-duplication:
 The Volunteer Satisfaction Survey form is designed to collect feedback from volunteers about their experience working on specific projects. This form is usually sent to volunteers at the end of their volunteer shifts to gauge their satisfaction with the projects they've worked on. The survey will ask questions about the project details and the volunteers' comments, aiming to improve future project management and volunteer engagement. 
 

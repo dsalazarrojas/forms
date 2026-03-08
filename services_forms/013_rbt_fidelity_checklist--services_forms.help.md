@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a service provided by an organization, specifically the RBT (Request for Back-up and Transition) service. The RBT Fidelity Checklist is a tool used to evaluate the quality and completeness of the service provided. It aims to ensure that the service meets the required standards and criteria. This form should only be used for services that have already been delivered, and the purpose is to verify the fidelity of the service, not for services that are still in progress.
-</thinking>
-
 # RBT Fidelity Checklist - Help Guide
 ## Purpose
 The RBT Fidelity Checklist is a tool to evaluate the quality and completeness of the RBT service provided. It helps ensure that the service meets the required standards and criteria.

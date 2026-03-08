@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gauge the marketing efforts of a team or organization, and help users reflect on their current marketing strategies and tactics. It's essential to complete this form accurately to ensure that your input is helpful and relevant. Please make sure to review the form fields carefully, as your input will help inform and shape future marketing decisions.
-
-Before starting, take a few minutes to review the form and ensure you haven't already completed it. If you've completed this form recently, your input might not be recorded.
-
-</thinking>
-
 # marketing_efforts_survey - Help Guide
 ## Purpose
 This form is designed to help users reflect on their current marketing efforts and strategies. It will help us understand your marketing tactics, target audience, and communication channels, which will inform future marketing decisions.

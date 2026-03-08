@@ -1,5 +1,3 @@
-<thinking>...The Army Training Schedule Form is designed to collect information about upcoming training schedules for army units. It helps unit commanders and training coordinators plan and manage training events efficiently. This form is used to gather details about each course, including the name, type, start date, duration, and number of participants. The form also includes sections for unit information and resources needed for the training event. It is essential to fill out this form accurately and completely to ensure that the training event is well-planned and executed...</thinking>
-
 # Army Training Schedule Form - Help Guide
 ## Purpose
 This form is used to collect information about upcoming training schedules for army units, allowing unit commanders and training coordinators to plan and manage training events efficiently.

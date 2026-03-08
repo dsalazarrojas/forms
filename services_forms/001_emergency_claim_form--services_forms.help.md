@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Emergency Claim Form is to provide a standardized way to report incidents or emergencies that have occurred. This form helps to gather necessary information from the user to facilitate a prompt and efficient response. To ensure that you are using the correct form, please confirm that you are reporting an emergency or incident that requires immediate attention. If you are unsure, please contact our support team for guidance.
-</thinking>
-
 # Emergency Claim Form - Help Guide
 ## Purpose
 The Emergency Claim Form is a tool used to report incidents or emergencies that require immediate attention. This form collects relevant information to help our team respond promptly and effectively.

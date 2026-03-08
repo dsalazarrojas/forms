@@ -1,8 +1,3 @@
-<thinking>
-The Meeting Sign In Form is used to collect attendee information and details for a meeting. This form is intended for internal use within the organization and is not for public sharing. Before proceeding, please ensure that you have the necessary permissions to access this form. Also, if you have already completed a meeting sign-in form for this meeting, your entry will be duplicated if you submit this form again. Please make sure you haven't already signed in before attempting to complete this form.
-
-</thinking>
-
 # Meeting Sign In Form - Help Guide
 ## Purpose
 The Meeting Sign In Form is designed to collect essential information from attendees to the meeting. This form helps to ensure accurate records and facilitates efficient communication within the organization.

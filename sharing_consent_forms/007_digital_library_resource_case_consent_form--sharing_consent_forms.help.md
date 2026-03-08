@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain consent from a user to share digital library resources with various teams, groups, or individuals. The purpose of this form is to ensure that users understand who will be sharing their resources with and can give their consent in advance. This form is a standard template for digital library resources and should be used consistently throughout the organization to maintain data consistency. Please ensure that you are not duplicating effort and that you are using the correct version of this form.
-
-</thinking>
-
 # Digital Library Resource Case Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent from users to share their digital library resources with various teams, groups, or individuals.

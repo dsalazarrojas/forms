@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to check on pool chemicals and gather information about the pool's chemical status. It's likely used by pool maintenance personnel or pool operators to record the results of water tests and determine the recommended products or chemicals to use.
-</thinking>
-
 # Pool Chemicals Check Form - Help Guide
 ## Purpose
 The Pool Chemicals Check Form is used to record the status of pool chemicals and gather information about the pool's chemical condition.

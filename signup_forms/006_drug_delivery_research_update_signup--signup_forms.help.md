@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update information related to drug delivery research. It is intended for individuals who want to share their research findings, progress, or results. The form should only be used for legitimate purposes, and users are encouraged to review the guidelines for submitting updates before proceeding. To ensure consistency, please check the existing updates on our website to avoid duplicating information. 
-</thinking>
-
 # Drug Delivery Research Update Signup - Help Guide
 ## Purpose
 This form is designed to collect updates from researchers and individuals involved in drug delivery research. Please use this form to submit your latest research findings, progress, or results. Your input will help us stay informed and up-to-date on the latest developments in the field.

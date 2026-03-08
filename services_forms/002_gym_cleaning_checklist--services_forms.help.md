@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Cleaning Checklist - Help Guide
 ## Purpose
 The Gym Cleaning Checklist is used to gather information about the cleanliness and maintenance of a fitness center. The purpose of this form is to help you ensure that your gym is clean, safe, and well-maintained for your members.

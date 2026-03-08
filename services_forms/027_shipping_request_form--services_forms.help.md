@@ -1,14 +1,3 @@
-<thinking>
-This form is a Shipping Request Form used to collect information about shipping requests from customers. The fields in this form are used to gather details about shipping methods, contact information, and any special instructions for the shipping process. 
-
-This form is likely intended for use in e-commerce, logistics, or inventory management contexts where customers can enter their shipping preferences for products or packages.
-
-When using this form, it's essential to ensure you are not duplicating efforts or submitting the same shipping request multiple times. This will help prevent confusion and ensure efficient processing of requests.
-
-Before proceeding, please review the form fields to ensure you understand what is required and what is optional. If you have any questions or concerns, please reach out to us at form@gic.mx.
-
-</thinking>
-
 # Shipping Request Form - Help Guide
 
 ## Purpose

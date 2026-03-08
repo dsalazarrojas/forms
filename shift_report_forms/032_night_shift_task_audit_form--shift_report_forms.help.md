@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about night shift tasks, specifically for auditing and reviewing purposes. It is likely used by supervisors to evaluate and comment on tasks performed during night shifts. To ensure accuracy and completeness, please complete the form carefully and thoroughly.
-
-</thinking>
-
 # Night Shift Task Audit Form - Help Guide
 ## Purpose
 The Night Shift Task Audit Form is a tool used by supervisors to review and comment on tasks performed during night shifts. This form gathers essential information to assess the quality and accuracy of the tasks completed.

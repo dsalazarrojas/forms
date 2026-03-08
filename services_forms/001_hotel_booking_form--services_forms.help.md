@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Booking Form - Help Guide
 ## Purpose
 This guide is intended to assist users in filling out the Hotel Booking Form accurately and efficiently.

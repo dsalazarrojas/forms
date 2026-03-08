@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect feedback on the general quality of a service. The goal is to get a comprehensive understanding of the customer's experience, identifying areas of improvement, and making data-driven decisions. This form should be used to gather feedback on different aspects such as overall satisfaction, service quality, taste, appearance, customer service, staff courtesy, contactability, and comments.
-We aim to avoid duplication of feedback by storing each submission in our database, so please fill out the form only once for each service visit.
-</thinking>
-
 # General Quality Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect general quality feedback on your service experience. Please take a few minutes to answer the questions and provide your honest feedback.

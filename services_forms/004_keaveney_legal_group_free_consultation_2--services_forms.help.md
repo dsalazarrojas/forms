@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to quickly provide their contact information and briefly describe their legal problems. The purpose of this form is to allow the Keaveney Legal Group to offer free consultations to potential clients. This form is not intended for solicitors or other legal professionals. The fields are straightforward and self-explanatory, so this guide will only provide a brief explanation of each field.
-</thinking>
-
 # Keaveney Legal Group Free Consultation 2 - Help Guide
 ## Purpose
 This form is for providing contact information and describing a legal problem to receive a free consultation from the Keaveney Legal Group.

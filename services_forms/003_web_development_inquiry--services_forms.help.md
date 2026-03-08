@@ -1,8 +1,3 @@
-<thinking>
-We are designing a form to gather inquiries from customers about web development services. This form should be clear and concise in its purpose and functionality to ensure that customers can easily provide us with the necessary information. To ensure that the form is not duplicated, we should consider adding a check to prevent submission of multiple inquiries from the same customer. We can achieve this by using a unique identifier for each customer or adding a validation to check for existing inquiries. The form will have multiple fields for customer details, website information, development skills, services offered, company size, project deadline, project budget, email, and phone number. We will make sure to clearly explain each field and its purpose to the end user.
-
-</thinking>
-
 # web_development_inquiry - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their web development project inquiries. Please fill out the form with your project details to help us better understand your needs and provide you with a suitable solution.

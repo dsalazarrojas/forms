@@ -1,9 +1,3 @@
-<thinking>
-
-The Retail Shift Employee Attendance Form is used to collect information about employee attendance during their shifts. The form is designed to gather essential details such as employee name, manager name, attendance date, and hours worked. It also includes fields to record overtime hours, employee status, and shift information like location, shift date, start time, end time, and duration. The form is meant to facilitate accurate and efficient attendance tracking, making it easier to manage employee work hours and schedules. Before filling out the form, please ensure you've reviewed the relevant guidelines and procedures set by your manager or HR department to avoid any duplication of effort or errors.
-
-</thinking>
-
 # Retail Shift Employee Attendance Form - Help Guide
 ## Purpose
 The Retail Shift Employee Attendance Form is a tool used to record and track employee attendance during their shifts. It helps in maintaining accurate records of attendance, hours worked, and other relevant shift details.

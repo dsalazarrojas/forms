@@ -1,7 +1,3 @@
-<thinking>
-This form is used to conduct a Good Manufacturing Practice (GMP) audit, which is a systematic evaluation of a pharmaceutical or medical device manufacturer's processes and systems to ensure compliance with regulatory requirements and industry standards. The GMP audit checklist is a tool to help auditors evaluate the effectiveness of the manufacturer's Quality Management System (QMS). The form is designed to be completed by auditors to gather information and identify areas of concern or non-compliance.
-</thinking>
-
 # gmp_audit_checklist - Help Guide
 ## Purpose
 This form is used to conduct a Good Manufacturing Practice (GMP) audit, which is a systematic evaluation of a pharmaceutical or medical device manufacturer's processes and systems to ensure compliance with regulatory requirements and industry standards.

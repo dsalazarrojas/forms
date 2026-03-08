@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from service providers who wish to offer their services to the organization. The form will be used to create a database of available service providers and their services. This guide will help users understand the purpose and requirements of the form.
-</thinking>
-
 # Service Provider Application Form - Help Guide
 ## Purpose
 This form is used to provide information about your service provider account. Please fill out this form to create a new service provider account.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BRS Quote Sheet - Help Guide
 
 ## Purpose

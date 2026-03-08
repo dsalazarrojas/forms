@@ -1,12 +1,3 @@
-<thinking> 
-To create an effective user-facing help guide for the "Customer Service Survey" form, we need to ensure that it accurately explains the form's purpose, provides clear instructions, and breaks down each field in an easy-to-follow manner. 
-
-This form is meant to collect valuable feedback from customers, allowing the service team to gauge their experience with the company's customer service. The goal is to gather insights into the customer service process, including contact frequency, communication time, resolution time, and overall satisfaction. By understanding these aspects, the company can identify areas for improvement and make data-driven decisions to enhance customer service quality.
-
-The form is divided into multiple pages, with fields designed to capture various types of data. Each field should be clearly explained in the user-facing guide to avoid any confusion or errors during submission.
-
-</thinking>
-
 # Customer Service Survey - Help Guide
 ## Purpose
 The Customer Service Survey is designed to gather valuable feedback from customers to improve our customer service process. We would like to hear about your experience with our team, and your responses will help us to identify areas for improvement.

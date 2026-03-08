@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data from end users regarding their recycling habits and knowledge. It is not designed for internal use only. Ensure you are completing this form if you are an external user.
-</thinking>
-
 # Recycling Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from end users about their recycling habits, knowledge, and attitudes towards recycling. This information will help us understand the current state of recycling in your community and identify areas for improvement.

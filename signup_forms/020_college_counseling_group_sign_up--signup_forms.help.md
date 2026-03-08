@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students who are interested in participating in college counseling groups. The purpose of this form is to collect demographic information, preferences, and goals for group counseling. It is essential that the student understands and agrees to the confidentiality guidelines and consents to participate in group counseling. This form will help the college counseling team to better understand the needs and preferences of the students and provide tailored support accordingly.
-</thinking>
-
 # College Counseling Group Sign Up - Help Guide
 ## Purpose
 This form is designed to gather information from students who are interested in participating in college counseling groups.

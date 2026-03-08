@@ -1,18 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Simple Order Form By Jezreel Collections, I'll need to understand the purpose and requirements of the form. Based on the input schema, it appears that this form is for customers to place orders with Jezreel Collections. The form has several fields that are required, and the user should fill out the form accurately to submit a valid order. The fields include:
-
-- name: A text field for the customer's name.
-- address: A text field for the customer's address.
-- product: A select multiple field asking the customer to choose one or more products to be ordered.
-- details: A select one field where the customer can provide additional details.
-- note: A text field for any additional comments or notes.
-- email: An email field for the customer's email address.
-- phone: A text field for the customer's phone number.
-
-Before proceeding, it's essential to ensure that all fields, especially those with "required: true", are correctly filled out. This will guarantee that the form is submitted accurately and without errors. 
-
-</thinking>
-
 # Simple Order Form By Jezreel Collections - Help Guide
 
 ## Purpose

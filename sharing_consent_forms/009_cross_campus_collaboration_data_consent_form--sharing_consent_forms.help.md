@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cross Campus Collaboration Data Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent information from participants in a cross-campus collaboration project. It helps in ensuring that all parties involved are aware of the data sharing and handling practices of the project.

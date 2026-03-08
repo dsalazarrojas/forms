@@ -1,16 +1,3 @@
-<thinking>
-This form is used to report on specific details about a shift. The supervisor will be able to provide input on the start and end times of the shift, how long it lasted, any notes, who supervised during the shift, who worked during the shift, and what location the shift took place in. 
-
-This form is not used for general shift reporting and is intended for more detailed, shift-by-shift reporting.
-
-It is possible that this form has been created to avoid duplication of effort in the past and reduce the need for more detailed reporting on shifts. This form is likely being used to track specific details that would otherwise require manual tracking or additional reporting.
-
-It is assumed that the user filling out this form will be a supervisor, and that they will have access to this form in their area of responsibility.
-
-Please note that this form is not intended for general public use. It is intended for internal use only, by authorized personnel.
-
-</thinking>
-
 # Supervisor In Shift Specific Report - Help Guide
 ## Purpose
 This form is used to report on specific details about a shift, including start and end times, duration, notes, supervisors, employees, and location.

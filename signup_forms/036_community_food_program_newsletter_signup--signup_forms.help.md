@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and effectively, and that users understand its purpose and how to fill it out properly. The form is designed to collect information from individuals interested in the Community Food Program, and it will be used to tailor the program's services and communications to their needs. Before proceeding, let's make sure this form is not being used for duplicate or unrelated purposes. For example, if an individual has already been part of the program, there's no need for them to sign up again. Similarly, if the form is being used for a purpose not related to the Community Food Program, we should redirect the user to the correct resource or contact the correct team member for guidance. 
-</thinking>
-
 # Community Food Program Newsletter Signup - Help Guide
 ## Purpose
 This form is designed to help the Community Food Program understand your needs and interests so we can provide you with relevant information and services. It's essential to fill out this form accurately and honestly, as it will help us tailor our programs and communications to your needs.

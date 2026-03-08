@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect inquiries and requests from customers for custom tailoring services. It is intended for customers to provide their contact information and a brief description of their custom tailoring needs. The form will help us understand their requirements and respond accordingly. Please make sure you're using this form for the correct purpose and not for general inquiries or other types of requests. If you're unsure, consider reaching out to our customer support team to confirm the use of this form.
-
-</thinking>
-
 # Custom Tailoring Inquiry Contact Form - Help Guide
 ## Purpose
 The Custom Tailoring Inquiry Contact Form is designed to collect inquiries and requests from customers for custom tailoring services. This form helps us understand their needs and respond accordingly.

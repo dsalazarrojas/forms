@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fencing Permit Form - Help Guide
 
 ## Purpose

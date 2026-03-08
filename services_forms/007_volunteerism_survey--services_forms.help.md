@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from volunteers about their experiences, preferences, and needs related to volunteer work. This survey is likely used by an organization to better understand the needs and challenges of its volunteers, which can inform future volunteer management and support strategies.
-
-Before proceeding with this survey, ensure that you are not duplicating an existing survey or form, and that you are filling it out for the correct purpose. If you're unsure, please contact the responsible party to confirm.
-
-</thinking>
-
 # Volunteerism Survey - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers about their experiences, preferences, and needs related to volunteer work.

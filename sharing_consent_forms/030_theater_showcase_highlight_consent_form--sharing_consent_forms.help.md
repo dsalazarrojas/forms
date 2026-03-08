@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from participants for the Theater Showcase Highlight, a performance or event that may be recorded and shared. It is intended for parents or guardians of the participants, who must give their consent for the participant to be recorded. The form asks for basic demographic information, details about the performance, and permission settings. It is crucial to fill out this form accurately and truthfully to ensure that the participant's and school's rights are respected. Please review each field carefully before proceeding.
-
-</thinking>
-
 # Theater Showcase Highlight Consent Form - Help Guide
 ## Purpose
 The Theater Showcase Highlight Consent Form is designed to collect necessary information from participants' parents or guardians to facilitate recording and sharing of performances during the Theater Showcase Highlight.

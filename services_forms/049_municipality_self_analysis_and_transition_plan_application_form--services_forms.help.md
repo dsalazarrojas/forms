@@ -1,21 +1,3 @@
-<thinking>
-To create a help guide for this form, I need to first understand the purpose and context of the form. Based on the provided YAML input schema, it appears that this form is designed for municipalities to provide information about their self-analysis and transition plan application. The form likely serves as a template for municipalities to submit their applications, providing relevant details about their infrastructure, contacts, and other necessary information. However, I need to clarify the purpose and ensure that this form is not a duplicate or a repetition of another form. Assuming this form is intended for municipalities to submit their unique analysis and transition plans, I will proceed with creating the help guide.
-
-The form consists of eight fields, each with its own label, type, and options. The fields are:
-
-1.  Application Form
-2.  Contact Name
-3.  Contact Email
-4.  Contact Phone
-5.  Documents
-6.  Infrastructure Types
-7.  Infrastructure Conditions
-8.  Municipality Authority
-
-The form is likely used to gather information from municipalities about their self-analysis and transition plans, which may include details about their infrastructure, contacts, and other relevant information.
-
-</thinking>
-
 # Municipality Self Analysis And Transition Plan Application Form - Help Guide
 ## Purpose
 This form is designed for municipalities to submit their self-analysis and transition plans. It gathers information about their infrastructure, contacts, and other necessary details to support their application.

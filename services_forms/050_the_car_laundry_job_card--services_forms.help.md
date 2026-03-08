@@ -1,11 +1,3 @@
-<thinking>
-We should verify that the form "the_car_laundry_job_card" is relevant and not duplicated in the existing forms. Based on the given YAML, this form seems to be related to job management and laundry services, and it appears to be a unique combination of fields. We should double-check to ensure it's not a duplicate of an existing form. 
-
-This form is designed for end-users to input information about jobs, including client info, work orders, services provided, and due dates. It seems to be a straightforward form for job tracking and management. 
-
-The form includes fields such as Job Card, Client Info, Work Order, Services, Job Card Description, Comments, Accessories, Final Cost, Client Phone, Client Email, Job Status, Job Due Date, Job Completed Date, Job Updated Date, and Job Assigned Tool. Each field should have a clear and concise explanation to make it easy for end-users to complete the form correctly.
-</thinking>
-
 # the_car_laundry_job_card - Help Guide
 ## Purpose
 The "the_car_laundry_job_card" form is used to track and manage jobs related to laundry services.

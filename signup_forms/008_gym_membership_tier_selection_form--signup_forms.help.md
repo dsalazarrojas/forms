@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user preferences for gym membership selection. It is crucial to ensure that users provide accurate and relevant information to determine the most suitable membership tier for their needs. To prevent duplication and ensure clarity, please note that users can only select one type of membership plan and one end date for their membership. This form is not designed for editing existing memberships or cancellations.
-</thinking>
-
 # Gym Membership Tier Selection Form - Help Guide
 ## Purpose
 The Gym Membership Tier Selection Form is designed to help you choose the most suitable membership plan for your fitness goals and needs.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form for registering a new member in the gaming community. It's meant for users who want to join the community and become a part of it. The form should only be filled out once. If a user has already registered, they should not be able to register again.
-</thinking>
-
 # Gaming Community Member Registration - Help Guide
 ## Purpose
 The purpose of this form is to register new members in the gaming community. It helps us keep track of our members and their preferences.

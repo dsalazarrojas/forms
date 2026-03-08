@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to compare prices in different currencies, specifically AUD, EUR, and USD. The form has 12 fields, but only 3 are required. Users will be able to select a price range and price point for each currency, as well as choose whether or not to compare prices between each currency pair. This form is likely used for customers or prospects who are interested in comparing prices of products or services across different currencies.
-</thinking>
-
 # Price Comparison - Help Guide
 ## Purpose
 The "Price Comparison" form is designed to help customers or prospects compare prices of products or services across different currencies. This form is intended to assist users in selecting a price range and currency pair for comparison.

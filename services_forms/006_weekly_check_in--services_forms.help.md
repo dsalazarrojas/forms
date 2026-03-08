@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # weekly_check_in - Help Guide
 ## Purpose
 This form is designed to gather feedback and information on a weekly check-in basis. It consists of 24 questions that ask for brief responses on various topics. The form is intended for individuals or teams to provide updates on their progress, accomplishments, and any challenges they may be facing.

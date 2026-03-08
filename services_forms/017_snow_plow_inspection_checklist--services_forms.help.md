@@ -1,15 +1,3 @@
-<thinking>
-This help guide is for users to understand how to complete the Snow Plow Inspection Checklist form. The form is used to gather information for snow plow inspections, which is a crucial process to ensure the equipment is functioning properly and is in good condition. The main goal of this form is to provide a systematic approach to inspecting snow plows and identify any issues that need to be addressed. 
-
-This form is likely to be completed by maintenance personnel or mechanics who work with snow plows. They will need to fill out the form accurately and thoroughly to ensure that the information gathered is correct. 
-
-Before starting to complete the form, it is essential to review the entire form to understand the types of questions asked and what information is required. This will help prevent missing any critical sections or questions.
-
-The form is divided into sections with different types of questions, including multiple-select questions, select-one questions, text questions, number questions, date questions, and note questions. Each section has a specific purpose and is designed to gather a specific type of information.
-
-Please review the form carefully to ensure that you are filling out the correct answers.
-</thinking>
-
 # Snow Plow Inspection Checklist - Help Guide
 ## Purpose
 The Snow Plow Inspection Checklist is a form used to gather information for snow plow inspections. It is essential to complete this form accurately and thoroughly to ensure the equipment is functioning properly and is in good condition.

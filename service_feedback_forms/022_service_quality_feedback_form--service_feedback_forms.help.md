@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experience with our service. The goal is to understand areas where we excel and where we need improvement. We want to know what type of feedback is this about, how our service quality is perceived, and what pain points were experienced. Optional, we would like to know if customers have suggestions for us. Additionally, we need to know how customers were contacted (phone, email, in-person, etc.) and through which channels (phone, email, social media, etc.). We want to make sure we are not duplicating efforts and that this form is used to collect feedback for a specific purpose.
-
-Please note that the following fields will be completed on every form submission: feedback_type, service_quality_level, pain_points, contact_information, and contact_channel. These are required fields as they provide essential information for us to analyze the feedback.
-
-The following field is optional but still valuable: suggestion. This field allows customers to provide additional suggestions for us to improve our service.
-</thinking>
-
 # Service Quality Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our service. It helps us understand areas where we excel and where we need improvement.

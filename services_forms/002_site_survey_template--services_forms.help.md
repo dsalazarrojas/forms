@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users on their experience with our website. The purpose of this form is to ensure that we are providing the best possible experience for our users. Please fill out this form if you have any comments, feedback, or concerns about our website.
-</thinking>
-
 # site_survey_template - Help Guide
 ## Purpose
 The site survey template is a form designed to collect feedback from users on their experience with our website. This information helps us to improve and refine our services.

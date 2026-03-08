@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to register information for a religious reunion, likely for administrative or tracking purposes. This form is likely used by religious organizations or communities to collect information from participants or attendees. The form should only be filled out once per person, and any duplicate submissions should be avoided to maintain accurate records.
-</thinking>
-
 # Religious Reunion Registration Form - Help Guide
 ## Purpose
 The Religious Reunion Registration Form is designed to collect information from individuals participating in a religious reunion. This form helps the organizers keep track of attendees and their details.

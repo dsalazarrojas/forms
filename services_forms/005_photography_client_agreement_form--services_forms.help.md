@@ -1,7 +1,3 @@
-<thinking>
-This form is for clients to agree to the terms and conditions of a photography session. It's essential to ensure that clients understand their responsibilities and obligations before proceeding with the session. The form should only be filled out by the client, and it's recommended to have them review and sign it carefully before submitting. This form is not intended for internal use; it's a client-facing form that requires proper explanation and understanding of the terms and conditions.
-</thinking>
-
 # Photography Client Agreement Form - Help Guide
 ## Purpose
 The Photography Client Agreement Form is a document that outlines the terms and conditions of a photography session. It is intended to be filled out by clients to ensure they understand their responsibilities and obligations before proceeding with the session. This form is essential for maintaining a professional relationship with clients and protecting both parties' interests.

@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for evaluating outlets. The form is likely used to collect feedback or information about an outlet's performance, service, or product offerings. The purpose of this form is to assess the outlet's strengths and weaknesses, gather insights that can inform improvements, and provide a means for users to share their experiences and opinions. To avoid duplication of effort, users should only complete the form when they have relevant and specific feedback or information to provide, as the form is not intended for general, routine, or repetitive submissions.
-</thinking>
-
 # Outlet Evaluation Form - Help Guide
 ## Purpose
 The Outlet Evaluation Form is designed to gather feedback, opinions, or information about an outlet's performance, products, or services. It helps us understand your experience and provides valuable insights for improvement.

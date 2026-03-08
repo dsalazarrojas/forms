@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form allows users to provide information related to an Easter meal order, including meal details, delivery address, payment method, special requests, and delivery date and time.
-</thinking>
-
 # easter_meal_order_form - Help Guide
 ## Purpose
 This form is used to collect information for an Easter meal order. Users will need to provide details about the meal, delivery address, payment method, and other relevant information to complete the order.

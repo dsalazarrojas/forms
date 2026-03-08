@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Solar Strings Checklist form, I need to first understand the form's purpose and how it will be used by end-users. The form appears to be designed for collecting information about solar strings, which could be used for various purposes such as inventory management, quality control, or customer support. However, without further context, I'll assume the form is for general information collection and will focus on providing a clear and concise guide for end-users.
-
-I'll review the provided YAML fields to ensure that the form is well-designed and easy to use. The form includes fields for strings count, type, material, size, color, shape, location, notes, email, phone, date, time, status, and comments. Some fields are optional, which is good for users who may not have all the information.
-
-</thinking>
-
 # Solar Strings Checklist - Help Guide
 ## Purpose
 The Solar Strings Checklist is designed to collect information about solar strings for inventory management, quality control, or other purposes. This form helps you gather accurate and comprehensive data about the solar strings in a structured and easy-to-read format.

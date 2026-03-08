@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data for a dinner event donation. The purpose is to gather information about the event and the donations to be made, such as what items are being donated and the quantity of each. This form is not meant to be filled out in a rush, but rather at a leisurely pace to ensure accurate information is collected. Please make sure to fill out the form only once per donation, to avoid duplication of information.
-</thinking>
-
 # Dinner Event Donation Form - Help Guide
 ## Purpose
 The Dinner Event Donation Form is used to collect information about the dinner event and the donations to be made. Fill out this form to let us know what you would like to donate and in what quantity.

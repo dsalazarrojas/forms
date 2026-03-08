@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # warranty_registration_form - Help Guide
 
 ## Purpose

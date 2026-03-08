@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect consent from project leads and collaborators to share their pedagogical innovation showcase projects with the Pedagogical Innovation Showcase. The purpose of this form is to gather information about the projects, including their titles, descriptions, types, and collaboration details. The form is designed to be completed by project leads and collaborators, and it helps them share their projects with the appropriate audience, whether it's the school, university, or project lead. It's essential to complete this form carefully, as the information collected will be used to determine which projects to feature in the showcase. Please ensure you've read this guide thoroughly before starting to fill out the form. 
-
-</thinking>
-
 # Pedagogical Innovation Showcase Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent from project leads and collaborators to share their pedagogical innovation showcase projects with the Pedagogical Innovation Showcase.

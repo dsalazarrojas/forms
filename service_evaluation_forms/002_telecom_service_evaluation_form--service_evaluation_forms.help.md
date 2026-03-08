@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form's purpose and relevance are well-understood, let's briefly discuss the Telecom Service Evaluation Form:
-
-The Telecom Service Evaluation Form is designed to collect customer feedback and ratings for telecom service providers. This form is used to understand the customers' perception of their service quality, value, and overall satisfaction. The form aims to gather information on the customer's experience with their current provider, including their name, service provider, duration of service, and other relevant details. This data can help service providers identify areas for improvement and make informed decisions to enhance their services.
-
-The form will not be used for any other purpose than to collect customer feedback and ratings. Please note that this form is meant to be completed by customers, and the fields have been designed to ensure a smooth and easy-to-use interface.
-
-</thinking>
-
 # Telecom Service Evaluation Form - Help Guide
 ## Purpose
 The Telecom Service Evaluation Form is designed to collect customer feedback and ratings for telecom service providers. It helps service providers understand the customers' perception of their service quality, value, and overall satisfaction.

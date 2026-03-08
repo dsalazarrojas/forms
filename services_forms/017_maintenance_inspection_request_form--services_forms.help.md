@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather information about maintenance inspections, allowing users to request inspections for equipment or machinery. The form will help users provide visual and written descriptions of the equipment's condition, along with any relevant photos or notes. This form is not intended for general feedback or comments, but rather for providing specific details about maintenance inspections. Please ensure that each field is completed accurately to ensure the best possible outcome. ...</thinking>
-
 # Maintenance Inspection Request Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for obtaining permissions for a particular purpose. Before filling out this form, please confirm that you are requesting permission for the correct purpose and not duplicating a previously submitted request. Please ensure that you have the necessary information and details needed for the form before proceeding. The form will help us understand the context and requirements of your request and assist us in processing it efficiently.
-</thinking>
-
 # Permission To Disclosure Form - Help Guide
 ## Purpose
 The "Permission To Disclosure Form" is a form used to gather necessary information for granting permissions for a specific purpose. It is essential to fill out this form accurately to ensure that we have all the required details to process your request efficiently.

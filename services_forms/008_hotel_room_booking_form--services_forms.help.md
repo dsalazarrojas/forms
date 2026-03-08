@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hotel_room_booking_form - Help Guide
 ## Purpose
 The hotel room booking form is used to book and manage room reservations at a hotel. This form provides a structured and organized way to collect essential details from guests, including room number, arrival and departure dates, room type, and contact information. By completing this form, hotel staff can efficiently process and confirm bookings, ensuring a smooth and pleasant experience for both guests and hotel staff.

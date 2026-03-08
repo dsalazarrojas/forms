@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sfdc Campaign Request Form - Help Guide
 
 ## Purpose

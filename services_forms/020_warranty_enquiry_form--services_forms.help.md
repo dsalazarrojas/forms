@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warranty Enquiry Form - Help Guide
 
 ## Purpose

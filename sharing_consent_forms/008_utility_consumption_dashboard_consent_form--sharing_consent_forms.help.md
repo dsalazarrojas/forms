@@ -1,8 +1,3 @@
-<thinking>
-We're creating a consent form for users to provide their utility consumption data on the Utility Consumption Dashboard. This form will collect information about the user's identity, utility service used, and consent for data access. 
-The purpose of this form is to ensure that users understand what data will be collected and how it will be used. It's essential to follow these instructions carefully to fill out the form accurately and avoid duplication of efforts.
-</thinking>
-
 # Utility Consumption Dashboard Consent Form - Help Guide
 ## Purpose
 

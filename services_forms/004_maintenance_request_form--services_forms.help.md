@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maintenance Request Form - Help Guide
 ## Purpose
 The Maintenance Request Form is a tool for employees to submit and track maintenance requests for facilities, equipment, or other assets. This form helps to centralize maintenance information, ensure timely resolution, and improve overall facility management.

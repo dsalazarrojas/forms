@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Feedback Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form "dog-walking-training-pet-sitting--homestay-agreement" appears to be a template for pet-related services, specifically for dog walking, pet sitting, and homestay agreements. It's possible that "homestay" is a misspelling or a term specific to a certain region or industry. The form has a mix of text fields for general information and a select_one field for services offered.
-</thinking>
-
 # dog-walking-training-pet-sitting--homestay-agreement - Help Guide
 ## Purpose
 This form is designed to collect information for pet-related services, specifically for dog walking, pet sitting, and homestay agreements.

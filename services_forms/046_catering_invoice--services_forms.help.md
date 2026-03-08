@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Invoice - Help Guide
 ## Purpose
 This form is designed to collect information for a catering invoice, which is a formal document that outlines the details of a catering service provided to a client. The form is used to record the essential information about the invoice, including the invoice number, date, client information, event details, and payment instructions.

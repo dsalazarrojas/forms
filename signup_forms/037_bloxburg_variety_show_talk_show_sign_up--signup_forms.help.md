@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help creators sign up for the Bloxburg Variety Show, a platform that brings together creators with diverse content types and styles. The form is meant to gather information about the creator's content, preferences, and experience level. The form will be reviewed by the Bloxburg team to determine the creator's fit for the show. It's essential to provide accurate and clear responses to increase the chances of being selected.
-</thinking>
-
 # Bloxburg Variety Show Talk Show Sign Up - Help Guide
 ## Purpose
 The Bloxburg Variety Show Talk Show is a platform that features a diverse range of content creators with varying experiences and skills. By signing up, creators can showcase their content to a broader audience and connect with other creators.

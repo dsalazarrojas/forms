@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation from users on their experience with the Employer Of Record (EOR) service. The form will help us to understand their level of satisfaction, the quality of service provided, and areas for improvement. To ensure that users provide us with accurate and comprehensive feedback, please fill out the form carefully and thoroughly. Before starting, ensure you have all the required information and details ready to make the process smooth and efficient.
-
-</thinking>
-
 # Employer Of Record Service Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from users on their experience with the Employer Of Record (EOR) service.

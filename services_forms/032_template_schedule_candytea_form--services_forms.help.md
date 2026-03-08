@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a template schedule for a "CandyTea" service. The purpose of this form is to gather details about the service name, schedule date, schedule time, end time, service duration, service duration unit, and service frequency. This form is likely used for scheduling and administrative purposes within an organization or business. Please ensure you are not already familiar with this form as a similar form might already exist in your organization.
-
-</thinking>
-
 # Template Schedule CandyTea Form - Help Guide
 ## Purpose
 The Template Schedule CandyTea Form is used to collect information about a template schedule for the "CandyTea" service.

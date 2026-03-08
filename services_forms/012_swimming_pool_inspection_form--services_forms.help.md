@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # swimming_pool_inspection_form - Help Guide
 ## Purpose
 This form is for inspecting swimming pools. It is used to gather information about the condition and status of a swimming pool during an inspection. 

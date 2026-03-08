@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for the Spa Repair Warranty Registration process. The purpose of this form is to gather details about a spa repair, including the client's information, repair description, warranty type, warranty dates, technician's information, and submitter's details. This form will help the spa repair team to efficiently register and track warranty information for future reference. Before proceeding, ensure you have all the necessary details and documents ready to be filled out accurately. Please review each field carefully to ensure you provide the correct information.
-
-</thinking>
-
 # Spa Repair Warranty Registration - Help Guide
 ## Purpose
 This form is used to register a spa repair, collecting essential details for warranty processing and future reference.

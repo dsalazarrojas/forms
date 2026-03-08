@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used for tracking various aspects of workplace housekeeping, including morning and evening shifts, cleaning frequency, waste disposal, personal items, hand hygiene, first aid kits, chemical storages, pest control, employee access, equipment maintenance, record keeping, chemical storage, employee training, fire safety plans, and emergency contacts. The form is likely used by facilities or maintenance management teams to ensure the workplace is kept clean, organized, and safe for employees.
-
-Before creating a checklist, ensure that you only create one instance of this form per workplace, and do not duplicate existing checklists. If you're unsure whether the form is applicable to your workplace, please contact the relevant department for guidance.
-
-</thinking>
-
 # Workplace Housekeeping Checklist - Help Guide
 ## Purpose
 This form is used for tracking various aspects of workplace housekeeping, ensuring the workplace is kept clean, organized, and safe for employees.

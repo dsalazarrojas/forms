@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided YAML form schema to ensure I understand its purpose and requirements. The form appears to be designed for obtaining consent from contributors to share their mental health peer stories in an archive. It includes sections for contributor information, story consent, sharing options, archive details, and contact information. It's essential to clarify that this form is intended to be completed by contributors, not by administrators or other users.</thinking>
-
 # Mental Health Peer Story Archive Consent Form - Help Guide
 ## Purpose
 The Mental Health Peer Story Archive Consent Form is a document that allows contributors to share their mental health stories in a peer archive. It's crucial to obtain consent from contributors before sharing their stories to ensure that their personal information and experiences are handled responsibly.

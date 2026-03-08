@@ -1,11 +1,3 @@
-<thinking>
-This form is used for creating and managing deal tickets, which are used to track and record information about deals, services, and other relevant details. The form is designed to be a simple and straightforward way to input necessary information in a structured and organized manner.
-
-When creating a deal ticket, it is essential to ensure that the information is accurate and up-to-date. This form should not be used for duplicate entries, and any existing deal tickets should be reviewed and updated as necessary before creating a new one.
-
-Before proceeding, ensure that you have reviewed any existing deal tickets related to the current entry, and make sure that you are not creating a duplicate.
-</thinking>
-
 # Deal Ticket - Help Guide
 ## Purpose
 This form is used to create and manage deal tickets, which serve as a centralized location for tracking and recording essential information about deals, services, and other relevant details.

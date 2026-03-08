@@ -1,9 +1,3 @@
-<thinking>
-A meal plan submission form is used to collect information about a client's meal preferences and dietary needs. This form is intended to be completed by clients or their representatives to provide the necessary details for creating a personalized meal plan. 
-The form should only be used for this specific purpose and not for any other type of request or submission. 
-Please ensure that you are submitting a complete and accurate meal plan for the client. 
-</thinking>
-
 # Meal Plan Submission Form - Help Guide
 ## Purpose
 The Meal Plan Submission Form is designed to collect information about a client's meal preferences and dietary needs.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect participant consent for digital accessibility campaigns. It is designed to gather information about the participant's photo, campaign contribution, and feature consent. The form includes fields for participant details, photo consent, digital campaign contribution, feature consent, and terms of use. The form is likely used in a campaign or project management setting where participants need to provide informed consent for their features or contributions to be used digitally.
-
-To avoid duplication, it is essential to note that this form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata.
-
-Before proceeding, please ensure that this form meets your specific needs and requirements.
-
-</thinking>
-
 # Digital Accessibility Campaign Feature Consent Form - Help Guide
 ## Purpose
 

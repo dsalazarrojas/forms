@@ -1,8 +1,3 @@
-<thinking> 
-  This form is a Babysitting Release Form, used by parents to provide information and make agreements with babysitters for taking care of their children. The form ensures that all necessary details are documented and agreed upon before starting babysitting services. It includes various sections for parent and babysitter information, service details, liability waiver, emergency contact, child care instructions, and payment information. Please ensure you fill out the form completely and accurately to avoid any confusion or issues during service.
-
-</thinking>
-
 # Babysitting Release Form - Help Guide
 ## Purpose
 The Babysitting Release Form is used to document and agree on details for babysitting services, including parent and child information, service duration, and payment terms.

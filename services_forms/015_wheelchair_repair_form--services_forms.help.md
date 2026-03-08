@@ -1,6 +1,3 @@
-<thinking> 
-The Wheelchair Repair Form is designed to collect information from customers who need to schedule a repair for their wheelchair. This form is typically used by customers to provide details about their chair type, manufacturer, and any relevant contact information. To ensure the form is used correctly, please review the following help guide.</thinking>
-
 # Wheelchair Repair Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers about their wheelchair repair needs. This information will be used to schedule a repair and ensure the correct parts and resources are available for the job.

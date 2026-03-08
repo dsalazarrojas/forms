@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about the daily office cleaning tasks and their completion status. It's intended to be completed by facility staff or designated personnel to maintain accuracy and transparency in office cleaning procedures. This form helps ensure that all necessary tasks are completed and that all areas of the office are properly maintained. It also aids in identifying any potential issues or areas that require more attention. The form will be used internally, therefore, there's no need to worry about duplicating effort or over-reporting. The form will help streamline office maintenance and reduce the risk of missed or duplicate tasks.
-
-The form is not intended to be completed by external parties.
-</thinking>
-
 # Daily Office Cleaning Checklist - Help Guide
 ## Purpose
 

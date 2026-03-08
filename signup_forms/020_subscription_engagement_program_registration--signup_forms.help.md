@@ -1,8 +1,3 @@
-<thinking>
-The form is used to collect information from users for a Subscription Engagement Program. This program aims to engage users with relevant content and promotions based on their preferences and interests. The form collects user details, subscription preferences, contact information, and consent for data use. To avoid duplication, users can only register once under the same email address.
-
-</thinking>
-
 # Subscription Engagement Program Registration - Help Guide
 ## Purpose
 The Subscription Engagement Program Registration form is used to collect information from users for the program. This information will be used to personalize and tailor content and promotions based on the user's preferences and interests.

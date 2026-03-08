@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect and document details about service calls, including the date and time of the call, contact information, call type, and outcome. This information helps the service team track and prioritize calls, ensuring timely follow-up and resolution.
-To complete this form, start by entering the date of the call in the "Date of Call" field, using the standard date format.
-Next, select the nature of the call from the "Nature of Call" dropdown menu.
-Continue by entering the phone number of the caller and their name, including both first and last name.
-Then, select the priority level of the call from the "Priority Level" dropdown menu.
-Provide a detailed summary of the conversation and concerns in the "Detailed Call Notes" field.
-Select the outcome of the call from the "Call Outcome" dropdown menu.
-Finally, enter any next action items and the estimated call duration in the corresponding fields.
-</thinking>
-
 # Call Tracker - Help Guide
 ## Purpose
 The Call Tracker form is designed to collect and document details about service calls, enabling the service team to track and prioritize calls efficiently.

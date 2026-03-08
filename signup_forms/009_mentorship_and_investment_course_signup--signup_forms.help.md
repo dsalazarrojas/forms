@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants who are signing up for a Mentorship and Investment Course. The purpose of this form is to gather details about the participant, their interests, course details, and other relevant information. It is likely that this form is part of a larger application or registration process for the course.
-
-Before filling out this form, ensure that you are eligible to sign up for the course and that you have all the necessary information ready. The form is designed to be completed by a single person, but it may be used by multiple participants in a team or group setting.
-
-To prevent duplication of effort, it is recommended that you only fill out this form once for each participant.
-
-</thinking>
-
 # Mentorship And Investment Course Signup - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for the Mentorship and Investment Course. It helps the course administrators to understand participant interests, course preferences, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleaning Customer Data Sheet - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to input their personal and demographic information. It is designed to collect data for internal purposes, such as creating user profiles and tracking user engagement. To ensure data quality and consistency, please review the following information carefully before submitting the form. This form is intended for individual user sign-ups, and it is recommended to fill out the form only once per user. If you have already filled out this form, please do not repeat the process.
-</thinking>
-
 # woozworld_hot_spot_sign_up_sheet - Help Guide
 ## Purpose
 The woozworld_hot_spot_sign_up_sheet form is designed to collect user information for internal purposes, such as creating user profiles and tracking user engagement.

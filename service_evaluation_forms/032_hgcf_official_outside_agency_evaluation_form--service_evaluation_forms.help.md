@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect evaluations of outside agencies. This form helps in assessing the performance and effectiveness of external agencies, which are entities that are not under the direct control of the organization. Evaluating agencies can help identify their strengths and weaknesses and improve services provided to clients and customers.
-
-**To ensure accuracy and prevent duplication, please review and validate each field before submitting the form.**
-
-</thinking>
-
 # HGCF Official Outside Agency Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect evaluations from outside agencies, such as external partners, clients, or referrals, to assess their performance and service quality.

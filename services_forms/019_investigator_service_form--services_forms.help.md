@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for users to provide information about an investigator service, which is a service that involves investigation or inquiry into a particular matter or issue. The form is used to gather relevant details about the service, including the type of service required, the specific options or choices available for the service, and any other relevant information that may be required. The form is likely used in various contexts, such as in legal or professional settings.
 
 # Investigator Service Form - Help Guide

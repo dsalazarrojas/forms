@@ -1,8 +1,3 @@
-<thinking>
-The Betting Pool Registration Form is designed to collect information from participants who want to join a betting pool. This form is used to gather essential details such as participant's name, email, phone number, and other relevant information. It also asks for specific details about the betting pool, including its name, type, event name, date, entry fee, payment method, and other relevant fields. The form is crucial in ensuring that all participants are on the same page regarding the rules and terms of the betting pool. Before proceeding, please ensure that you have not already joined this betting pool and that you understand the rules and terms.
-
-</thinking>
-
 # Betting Pool Registration Form - Help Guide
 
 ## Purpose

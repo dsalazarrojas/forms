@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Cargo Booking Form - Help Guide
 
 ## Purpose

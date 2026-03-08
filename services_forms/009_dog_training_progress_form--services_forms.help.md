@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Training Progress Form - Help Guide
 ## Purpose
 This form is designed to track the progress of dog training sessions. It captures essential information about the dog's owner, dog's details, and training session specifics. This data will help trainers and administrators evaluate progress, identify areas of improvement, and provide a platform for future reference.

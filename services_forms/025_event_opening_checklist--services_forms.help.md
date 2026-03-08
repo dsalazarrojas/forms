@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to gather information about an event, likely for planning or administrative purposes. The Event Opening Checklist form is intended to collect essential details about an event, such as its name, date, start time, venue, description, time zone, and other relevant information. However, it's essential to review the purpose and target audience of this form to ensure it aligns with your specific needs.
-
-Before creating this form, consider the following:
-
-* What type of event is this form for (e.g., concert, conference, meeting, or other)?
-* Who is the intended audience for this form (e.g., event organizers, attendees, or stakeholders)?
-* What specific details are essential for your event, and how will they be used?
-
-If you're still unsure, please review the form fields below to better understand their purpose.
-
-</thinking>
-
 # Event Opening Checklist - Help Guide
 ## Purpose
 The Event Opening Checklist form collects essential information about an event, helping you to plan and organize it effectively.

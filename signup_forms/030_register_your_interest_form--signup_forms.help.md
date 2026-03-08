@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect basic contact information and interests from individuals or companies interested in our services. To prevent multiple submissions from the same individual or company, we are only accepting one submission per person/company.
-</thinking>
-
 # Register Your Interest Form - Help Guide
 
 ## Purpose

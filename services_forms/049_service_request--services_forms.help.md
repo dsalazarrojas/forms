@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Service Request form is only submitted once for each service request, and that all the necessary information is gathered correctly to avoid miscommunication. This form is designed to capture details of a service request, including the category, description, assigned tool, and any additional notes.
-</thinking>
-
 # Service Request - Help Guide
 ## Purpose
 

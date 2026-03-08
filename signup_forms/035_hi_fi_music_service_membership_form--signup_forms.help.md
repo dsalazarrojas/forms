@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block for this form is as follows: The Hi Fi Music Service Membership Form is designed to collect basic contact information and music service preferences from potential members. This form will help us verify the user's identity and ensure they are interested in joining our music service. It's crucial to provide accurate and consistent information as we may use this data for account creation purposes and subsequent communication. Please make sure you are providing a valid email address for verification purposes and that your password and confirm password fields match. The music service options provided are for users to select their preferred music platform. This form will guide you through the steps and explanations for each field.
-</thinking>
-
 # Hi Fi Music Service Membership Form - Help Guide
 ## Purpose
 The Hi Fi Music Service Membership Form is designed to collect your basic contact information and music service preferences to create a secure and personalized account for you to enjoy our music services.

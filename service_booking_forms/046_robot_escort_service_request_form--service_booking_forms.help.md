@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who would like to request a robot escort service. The purpose of this form is to gather details about the robot and its escort, including the robot type, size, weight, height, color, and sound. The form also asks for the escort's location, language, and any special requests. This information will help us to provide the best possible service for the customer's needs.
-
-We will review each field in the form to ensure it is completed accurately and to the best of your knowledge.
-
-</thinking>
-
 # Robot Escort Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who would like to request a robot escort service. The purpose of this form is to gather details about the robot and its escort, including the robot type, size, weight, height, color, and sound. The form also asks for the escort's location, language, and any special requests.

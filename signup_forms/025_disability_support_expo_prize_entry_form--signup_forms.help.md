@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the Disability Support Expo Prize Entry Form. It's intended to gather details about the prize, the winner, and the contact information of the person submitting the entry. The form is not affiliated with any platform or organization, and its creation was inspired by publicly available information. This form was generated using AI, but it's original and not a copy or derivative of any existing form.
-
-</thinking>
-
 # Disability Support Expo Prize Entry Form - Help Guide
 
 ## Purpose

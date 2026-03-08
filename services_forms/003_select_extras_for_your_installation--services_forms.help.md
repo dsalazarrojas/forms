@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users select extra services for their installation. The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation using public survey topic metadata. The form's purpose is to gather information about the user's installation needs and preferences.
-</thinking>
-
 # Select Extras For Your Installation - Help Guide
 ## Purpose
 This form is used to select extra services for your installation. It is designed to gather information about your installation needs and preferences.

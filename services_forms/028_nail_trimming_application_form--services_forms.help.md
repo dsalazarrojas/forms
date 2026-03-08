@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for a nail trimming service. The form will likely be used by a pet groomer or veterinarian to gather necessary details about a pet's nail trimming history and preferences. The form is intended to be completed by a pet owner or caregiver. The form's purpose is to streamline communication and ensure that the groomer or veterinarian has the necessary information to provide optimal nail trimming services for the pet.
-
-The form does not appear to be a duplicate, and its completion is expected to be straightforward.
-
-</thinking>
-
 # Nail Trimming Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a nail trimming service.

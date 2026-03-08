@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Inquiry Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their service inquiries. It aims to gather essential details such as name, contact information, and service-related data to facilitate effective communication and resolution.

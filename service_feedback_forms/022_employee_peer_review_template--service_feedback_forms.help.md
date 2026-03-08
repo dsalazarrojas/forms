@@ -1,7 +1,3 @@
-<thinking>
-This template is designed to facilitate a peer review process, allowing employees to provide feedback and evaluations on each other's performance. The form is intended to capture a comprehensive review, covering areas of strength, performance issues, action plans, and overall rating. This guide is meant to ensure that reviewers complete the form accurately and thoroughly, providing valuable feedback to their colleagues.
-</thinking>
-
 # Employee Peer Review Template - Help Guide
 ## Purpose
 The purpose of this form is to facilitate a peer review process, allowing employees to provide feedback and evaluations on each other's performance. It is designed to cover various aspects of an employee's work, such as performance areas, goals, and overall rating.

@@ -1,9 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is correctly filled out, make sure you only fill out this form for each travel request once.
-If you need to book multiple travel requests, please create a new form and fill it out for each request separately.
-This form is used to gather information for travel related requests.
-</thinking>
-
 # travel_questionnaire_form - Help Guide
 ## Purpose
 The travel questionnaire form is used to collect information for travel-related requests.

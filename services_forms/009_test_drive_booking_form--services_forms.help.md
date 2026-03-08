@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for booking a test drive for a vehicle. This form is part of the services module and is used by customers to provide information about their booking details. It is essential to ensure that all required fields are completed accurately to avoid any errors in the booking process. This form should not be used for any other purpose than booking a test drive.
-
-</thinking>
-
 # test_drive_booking_form - Help Guide
 ## Purpose
 

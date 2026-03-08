@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to gather user input for searching and filtering dentists based on location, date of birth, and other relevant information. It's essential to ensure that users understand how to complete the form correctly to get accurate results. To prevent confusion, it's crucial to review the form's purpose and relevance to the desired outcome.
-</thinking>
-
 # Find Dentist - Help Guide
 ## Purpose
 This form is designed to help users find and filter dentists based on their location, date of birth, and other relevant information.

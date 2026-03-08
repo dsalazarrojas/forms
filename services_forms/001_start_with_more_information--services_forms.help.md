@@ -1,7 +1,3 @@
-<thinking>
-The form "Start With More Information" is designed to gather information from users about the services they are interested in. This form aims to capture specific details about the services being offered, such as the specific criteria that should be met and whether services should be offered or not. The purpose of this form is to provide a clear and concise way for users to express their needs and preferences.
-</thinking>
-
 # Start With More Information - Help Guide
 ## Purpose
 This form is designed to gather information about the services you are interested in and the specific criteria that should be met.

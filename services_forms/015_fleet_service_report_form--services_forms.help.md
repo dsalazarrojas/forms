@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information about vehicle services. This form is likely used by maintenance teams or service providers to gather details about a vehicle's condition, maintenance needs, and other relevant information. The form may be used for scheduling services, tracking maintenance history, or other similar use cases. 
-
-This form is likely used by a team or staff who are responsible for vehicle maintenance and service. 
-
-</thinking>
-
 # fleet_service_report_form - Help Guide
 ## Purpose
 The "Fleet Service Report Form" is used to collect information about vehicle services. This form helps maintenance teams or service providers gather details about a vehicle's condition, maintenance needs, and other relevant information.

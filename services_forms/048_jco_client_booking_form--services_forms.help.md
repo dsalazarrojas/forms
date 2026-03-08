@@ -1,15 +1,3 @@
-<thinking>
-The form is designed to be completed by a client for booking a service. The form should be used in scenarios where the client needs to provide contact information, select a service, and specify the address where the service will be performed. 
-To confirm the form is being used for the correct purpose, the fields should match the following criteria: 
-- The fields should include contact information such as first name, last name, email, phone, and a valid date and time.
-- The fields should include the service being booked.
-- The fields should include an address where the service will be performed.
-- The service field should only allow for single selection.
-- The address field should only allow for multiple selections.
-
-The form will be used in scenarios such as when a client requests a home visit or an appointment. The fields will provide the necessary information to perform the desired service.
-</thinking>
-
 # jco_client_booking_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients for booking a service. This includes contact information, service selection, and address details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to sign up for a music streaming subscription service. The primary goal is to collect necessary user information and payment details to create a secure and efficient payment process. Before creating this guide, I reviewed the provided YAML fields to ensure a clear and concise explanation of each field and its purpose.
-
-</thinking>
-
 # Music Streaming Subscription Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for a window wash service. The form will guide the user to fill in their details so that our team can efficiently provide the service. I will ensure that the form does not ask for unnecessary information and keeps the required fields to a minimum. 
-
-We are assuming that the user is a customer looking for window wash service. The form has multiple pages, but they are all on one screen, which is not the most user-friendly approach. I will make sure to keep the form simple and easy to use for the end-user. 
-
-I will also assume that the customer will be asked to confirm the service date before proceeding. The form will also ask the customer if they need a window type service. I will make sure to keep the fields clear and concise and the options for window type are simple and easy to select. 
-
-I will also assume that the customer has to provide address so that we can deliver the services efficiently. 
-</thinking>
-
 # Window Wash Service Form - Help Guide
 
 ## Purpose

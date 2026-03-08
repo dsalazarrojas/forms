@@ -1,6 +1,3 @@
-<thinking>
-We need to verify if the form is a one-time thing or if it's a recurring form used for a specific event or occasion, like Valentine's Day. We should double-check if there are any existing forms with similar fields and purposes to ensure that this form isn't redundant. If it's used for something specific, like a Valentine's Day gift-giving campaign, we should highlight that in the guide.
-</thinking>
 # valentine giveaway form - Help Guide
 ## Purpose
 The Valentine Giveaway Form is used for collecting information from participants in a Valentine's Day gift-giving campaign. This form helps gather data about the participants, including their category, description, email, contact number, and participant details.

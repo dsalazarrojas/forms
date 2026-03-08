@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for wedding reception planning purposes, gathering essential information from couples to create a comprehensive plan for their special day. The form includes fields for basic contact and event details, such as venue, date, and time, as well as more specific sections for food, entertainment, and professional services. It also covers parking and accommodations, which are crucial for guests and attendees. Finally, it includes fields for the couple's and planner's signatures, which serves as a verification of the form's completion and a record-keeping measure.
-</thinking>
-
 # Wedding Reception Planner Form - Help Guide
 ## Purpose
 The Wedding Reception Planner Form is designed to collect essential information from couples to create a comprehensive plan for their wedding reception.

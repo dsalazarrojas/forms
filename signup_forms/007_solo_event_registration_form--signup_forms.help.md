@@ -1,12 +1,3 @@
-<thinking>
-This form is for solo event registration. The purpose of this form is to collect information about an event that will be taking place. This form will be used to gather details about the event, such as the event name, participant details, and event description. This form is part of a registration process and should only be filled out by individuals or organizations registering for the event.
-
-Please note that this form is a solo event registration form, which means it is intended for a single event, as opposed to a multi-event or recurring event. It is also assumed that the event is not part of a larger conference or festival, but rather a standalone event.
-
-This form is designed to be completed by the event organizer or a designated representative, and it is expected that they will provide accurate and up-to-date information about the event.
-
-Before filling out this form, please ensure that you are authorized to register for the event and that you have all the necessary information required to complete the form accurately.</thinking>
-
 # solo_event_registration_form - Help Guide
 ## Purpose
 The solo event registration form is a tool designed to collect event details for a single event.

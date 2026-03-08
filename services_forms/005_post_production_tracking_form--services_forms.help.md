@@ -1,5 +1,3 @@
-<thinking>Let's break down the Post Production Tracking Form and its purpose. This form likely exists to track information related to post-production activities or tasks. It could be used to gather details about the agency handling the production, the format of the acquisition, the due date for completion, the specific deliverables expected, and the post-hours budget for the project. This form might be used in the context of media, advertising, or other creative industries. I'm assuming it's not a duplication of other forms used for the same purpose in the same organization, but rather a specialized tool for tracking progress and ensuring accuracy in post-production tasks.</thinking>
-
 # Post Production Tracking Form - Help Guide
 ## Purpose
 This form is designed to gather information about post-production activities, allowing users to track progress, due dates, and other relevant details. It's a tool for agencies, production teams, or project managers to keep track of post-production tasks and ensure timely completion.

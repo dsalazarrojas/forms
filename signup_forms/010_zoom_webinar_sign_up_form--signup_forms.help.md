@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who want to sign up for a Zoom Webinar. The form is likely used to collect attendee data, such as names, email addresses, and time zones, to prepare for the webinar. The form should only be used for a single webinar event.
-</thinking>
-
 # Zoom Webinar Sign Up Form - Help Guide
 
 ## Purpose

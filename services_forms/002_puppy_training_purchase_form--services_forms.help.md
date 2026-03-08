@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients or customers regarding their puppy training requests, including the client's contact and payment details, their purchase requests, and other relevant information. This form is likely used by a business or organization that provides puppy training services, such as a dog training school or pet care facility.
-
-It's essential to ensure that all relevant fields are completed to ensure accurate and efficient processing of the client's request. Please note that the form may have been previously created, and this documentation serves as an update or a new guide for future use.
-
-Before proceeding, please review the following guide to ensure you understand the purpose and usage of each field in this form.</thinking>
-
 # puppy_training_purchase_form - Help Guide
 ## Purpose
 This form is used to collect information from clients or customers regarding their puppy training requests, including contact and payment details.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's financial situation, including their income, debt, savings, and financial goals. This form is likely used in a financial consultation context, such as a meeting with a financial advisor or a bank. The form asks for various pieces of personal and financial information, including employment status, income levels, debt, and financial goals. This form appears to be designed to collect comprehensive financial data for the purpose of providing personalized financial advice or services.
-The information collected in this form will be used to provide accurate and reliable financial planning advice, which may involve reviewing and assessing various financial factors, including income, debt, savings, and other sources of income.
-</thinking>
-
 # Financial Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect comprehensive financial information about an individual's situation for the purpose of providing personalized financial planning and advice.

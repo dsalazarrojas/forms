@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be intended for collecting information from users who want to consult on a specific topic, likely for guidance or advice on achieving a personal goal. The fields seem to be designed to capture the user's demographic information, contact details, and preferences for consultation. The form also includes fields for specifying a goal, preferred time, and dates for the consultation, as well as fields for taking notes and confirming the consultation details.
-</thinking>
-
 # Strength Empire Consult Form - Help Guide
 ## Purpose
 This form is designed for users who seek guidance or advice on achieving a personal goal. Users can fill out the form to provide their contact information, preferences, and details about their goals, in order to receive a consultation.

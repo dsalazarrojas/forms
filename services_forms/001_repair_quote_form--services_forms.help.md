@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Repair Quote Form" that explains its purpose, how to complete it, and the meaning of each field in a concise and practical way, based on the provided YAML fields...</thinking>
-
 # Repair Quote Form - Help Guide
 
 ## Purpose

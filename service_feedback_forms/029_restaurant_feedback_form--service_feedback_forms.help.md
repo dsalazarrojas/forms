@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for restaurant owners to gather valuable feedback from customers. The form is designed to collect opinions on various aspects of a customer's experience at the restaurant, including food quality, service quality, cleanliness, food value, and service value. This feedback is essential for the owners to understand what they are doing right and wrong and make improvements accordingly. It's essential to provide honest and constructive feedback to help the restaurant improve its services. This form is not meant to be a complaint form but a constructive feedback tool.
-</thinking>
-
 # Restaurant Feedback Form - Help Guide
 ## Purpose
 The Restaurant Feedback Form is a tool designed to gather opinions from customers on their experience at the restaurant. The form helps the restaurant owners understand what they are doing right and wrong, providing valuable insights to improve their services.

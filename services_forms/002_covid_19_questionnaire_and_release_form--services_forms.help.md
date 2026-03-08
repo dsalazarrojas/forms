@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording and tracking patient information related to COVID-19 vaccination, including patient name, contact information, medical history, vaccination dates and times, and release information. This form should only be used for patients who have received COVID-19 vaccination. Please ensure that all required fields are filled out accurately and completely.
-</thinking>
-
 # covid-19-questionnaire-and-release-form - Help Guide
 ## Purpose
 This form is used to record and track patient information related to COVID-19 vaccination.

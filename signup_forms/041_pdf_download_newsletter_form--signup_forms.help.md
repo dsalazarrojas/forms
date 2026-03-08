@@ -1,13 +1,3 @@
-<thinking>
-
-To create a PDF download newsletter form, we aim to collect contact information and newsletter preferences from users. This form will be used to create a mailing list for our newsletters. We need to ensure that users provide the correct information so we can send them the correct newsletter.
-
-This form will be used to collect data for our marketing team, and it's essential to get it right to avoid any confusion or miscommunication.
-
-Before filling out this form, please ensure that you're providing accurate and up-to-date information, especially your email addresses.
-
-</thinking>
-
 # PDF Download Newsletter Form - Help Guide
 ## Purpose
 The PDF Download Newsletter Form is a form used to collect contact information and newsletter preferences from users to create a mailing list for our newsletters.

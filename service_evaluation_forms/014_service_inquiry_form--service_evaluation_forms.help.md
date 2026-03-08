@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic Service Inquiry Form. The purpose of this form is to gather information from users regarding their service inquiries. The form likely serves as a tool for businesses or organizations to collect feedback, comments, or requests related to their services. This form may not be specific to a particular company or industry, as it does not contain any proprietary or copyrighted content. To ensure relevance, please fill in the form only if you have a genuine service inquiry. To prevent duplication, please do not fill in the form multiple times for the same inquiry.
-</thinking>
-
 # Service Inquiry Form - Help Guide
 ## Purpose
 The Service Inquiry Form is designed to collect information from users regarding their service inquiries.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow individuals to sign up for a mailing list for a youth forum. This form collects demographic information, contact information, and interests of the users who sign up. 
-The form will only be shown to users who have not previously signed up for the mailing list and do not already have an account with the youth organization. 
-</thinking>
-
 # Youth Forum Mailing List Signup - Help Guide
 ## Purpose
 The Youth Forum Mailing List Signup form is designed for individuals to join the youth forum mailing list. It collects information about the users to facilitate communication and engagement within the community.

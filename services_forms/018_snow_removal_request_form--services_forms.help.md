@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to collect information from customers about snow removal requests for a specific area. This form will likely be used by facilities management staff to gather information about customer needs for snow removal services... This form likely won't be used for internal use only, as it is intended to communicate with customers directly...</thinking>
-
 # Snow Removal Request Form - Help Guide
 ## Purpose
 The Snow Removal Request Form is designed to collect information from customers about their snow removal needs for a specific area.

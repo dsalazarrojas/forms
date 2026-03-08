@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers or clients visiting a business that provides medical services, particularly during the COVID-19 pandemic. This form is designed to collect contact information, medical history, and other relevant details. It seems to be a comprehensive form for medical settings, and it's likely that the form will help the medical staff to provide better services and take necessary precautions.
-Please let me know if it's okay to continue with the help guide creation.</thinking>
 # pocket_pa_example_covid_19_salon_questionnaire - Help Guide
 ## Purpose
 

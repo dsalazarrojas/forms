@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a Toolbox Talks Sign In Form. The form is meant to be a simple and straightforward way to gather data from individuals signing up for a Toolbox Talks event or service. This guide will walk you through each step of the process and explain what each field means.
-
-Before starting, ensure you're filling out this form for the correct purpose and not duplicating effort. If you're unsure, check with the event organizers or administrators to confirm.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created by an AI using public survey topic metadata as inspiration.
-
-You're free to use, modify, and even sell forms derived from this one, just give credit. Contact [form@gic.mx](mailto:form@gic.mx) for any questions or concerns.
-</thinking>
-
 # Toolbox Talks Sign In Form - Help Guide
 ## Purpose
 The Toolbox Talks Sign In Form is designed to collect information from users for a Toolbox Talks event or service. This form is meant for individuals who want to sign in for the event or service.

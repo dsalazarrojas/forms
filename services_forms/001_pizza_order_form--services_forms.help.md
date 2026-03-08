@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a general form with various fields for data collection and processing. However, it seems to have a mix of fields that might not be directly related to a typical "Pizza Order Form". I'm assuming that this form might be for some internal purpose or as a template form that can be customized for different use cases. If the form is indeed a "Pizza Order Form", it seems to lack fields for actual pizza order details such as size, crust type, toppings, etc.
-</thinking>
-
 # Pizza Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for various purposes, possibly for internal data processing or as a template form. However, it does not appear to be a traditional "Pizza Order Form" as expected.

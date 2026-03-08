@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect medical alert information from patients or their representatives in a medical facility. The form is used to communicate important medical alerts to the medical staff, ensuring that they are aware of any critical medical conditions, emergencies, or other situations that require immediate attention. The purpose of this form is to streamline the process of conveying alert information to the right people at the right time. 
-
-</thinking>
-
 # Medical Alert Form - Help Guide
 
 ## Purpose

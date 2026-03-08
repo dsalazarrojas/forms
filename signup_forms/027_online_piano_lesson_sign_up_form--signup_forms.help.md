@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to ensure that users understand the purpose of the form and avoid filling it out multiple times without completing the sign-up process. The form is part of the "sign_up_forms" category, as specified in the schema. Its primary purpose is for users to sign up for online piano lessons with their preferred instructor and schedule.
-
-</thinking>
-
 # Online Piano Lesson Sign Up Form - Help Guide
 ## Purpose
 This form is used to sign up for online piano lessons with a choice of instructors and lesson types. Please fill out the form to complete your sign-up process.

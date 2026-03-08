@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # operation_night_vision_nutrition_questionnaire - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for support code giveaways. The form asks for basic participant information, such as name, email, and phone number, as well as additional details like job title and department. It's not affiliated with any form creation platform. This form's primary use case is to register participants for support code giveaways. Before proceeding, ensure you're not duplicating a previously submitted entry.
-</thinking>
-
 # Support Code Giveaway Registration - Help Guide
 ## Purpose
 This guide helps you complete the Support Code Giveaway Registration form. It's a simple form designed to collect basic participant information for support code giveaways.

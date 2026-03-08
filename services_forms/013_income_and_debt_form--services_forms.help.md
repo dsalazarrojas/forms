@@ -1,15 +1,3 @@
-<thinking>
-To ensure the form is correctly used and understood by end users, let's review the provided YAML fields. This form is used to capture various aspects of a user's income and debt status. The form includes sections for income from different sources, such as business, personal, and other sources, as well as their associated frequencies and values. It also includes sections for invoices and debts related to these sources. We aim to create a comprehensive and user-friendly guide for end users to complete this form accurately and efficiently.
-
-Please note that the "other" sections allow users to input information that doesn't fit into the business, personal, or default categories. This is to cater to diverse financial situations. 
-
-We will review each field carefully to ensure that the explanations cover all the necessary information. 
-
-Let's break down the form into sections based on the "pages" and "id" properties in the YAML. This form consists of the following sections: "income and debt survey form", "income and debt", "business income", "business debt", "personal income", "personal debt", "business invoices", "personal invoices", "other invoices", "other invoices", "other invoices type", "income frequency", "income source", "income frequency", "other income frequency", "other income frequency value", and "other income frequency frequency".
-
-Please let's start reviewing each section to provide clear explanations for each field. 
-</thinking>
-
 # Income And Debt Form - Help Guide
 ## Purpose
 This form is designed to collect information about a user's income and debt status. It includes sections for business, personal, and other sources of income and debt, along with associated frequencies and values.

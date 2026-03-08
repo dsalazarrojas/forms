@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Parking Pass Request Form" which is used to collect information from users requesting parking passes. The purpose of this form is to gather essential details that will be used to facilitate the parking pass request process. It is essential that users fill in the form accurately to ensure that their requests are processed correctly.
-</thinking>
-
 # Parking Pass Request Form - Help Guide
 
 ## Purpose

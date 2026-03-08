@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the form's purpose and potential issues. This form is designed to assess a food defense program, its strengths, weaknesses, and intentional contamination vectors. It also captures information about the assessment conducted, corrective actions taken, next steps, assigned tools, and other relevant details. To ensure accuracy and clarity, please review each field carefully and provide any necessary corrections.</thinking>
-
 # Food Defense Assessment Template - Help Guide
 ## Purpose
 This form is designed to help assess and evaluate a food defense program's strengths, weaknesses, and potential vulnerabilities. It captures information on intentional contamination vectors, assessment conducted, corrective actions, and other relevant details.

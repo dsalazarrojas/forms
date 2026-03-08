@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information from parents or guardians regarding their child's behavior and social-emotional needs. This form is intended to help the client intake process, gathering necessary data for the behavioral consulting services. Please ensure that you are using this form in the context of a legitimate consultation. Duplicate or misused forms can lead to unnecessary confusion and incorrect information. Please fill out the form accurately and honestly to ensure a successful consultation process.
-</thinking>
-
 # Client Intake 2 - Help Guide
 ## Purpose
 The Client Intake 2 form is designed to gather vital information from parents or guardians to help the behavioral consulting process. This form covers a range of questions covering the child's behavior, academic performance, medical conditions, and family dynamics.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users who are exiting a virtual assistant service. The purpose of the form is to collect details about the user's contact information, service usage, and feedback. This form is likely used by service providers to understand how to improve their service and reach out to users who are exiting the service.
-</thinking>
-
 # Virtual Assistant Exit Form - Help Guide
 ## Purpose
 The Virtual Assistant Exit Form is a tool used by service providers to gather information from users who are exiting a virtual assistant service. The form helps service providers understand the user's contact details, service usage, and feedback to improve their service and reach out to users who are exiting the service.

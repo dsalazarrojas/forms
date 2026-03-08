@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will review the form's purpose, structure, and fields to ensure that I understand the requirements correctly. The form is used to collect consent from disaster relief beneficiaries for sharing their photos. The form is likely used in a humanitarian context, such as disaster relief operations, where beneficiaries may be vulnerable individuals or families affected by a disaster. The form's purpose is to ensure that beneficiaries are aware of and agree to the sharing of their photos, which may be used for various purposes such as documentation, fundraising, or reporting.</thinking>
-
 # Disaster Relief Beneficiary Photo Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent from disaster relief beneficiaries for sharing their photos. It helps ensure that beneficiaries are aware of and agree to the sharing of their photos, which may be used for various purposes such as documentation, fundraising, or reporting.

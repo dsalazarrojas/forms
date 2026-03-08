@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide pet owners in providing information about pet walking and play sessions. The form will likely be used by pet owners to book and schedule pet walking and play sessions with pet walkers or caregivers. The form requires pet owners to provide their consent, assign a preferred pet walker or caregiver, specify the start and end time of the session, select a start date, and provide their contact information (email and phone number). The form will likely be used to streamline and standardize the process of scheduling pet walking and play sessions.
-</thinking>
-
 # Pet Walking And Play Session Guide - Help Guide
 ## Purpose
 This guide explains how to complete the Pet Walking And Play Session form, which is used by pet owners to schedule a pet walking and play session with a pet walker or caregiver.

@@ -1,25 +1,3 @@
-<thinking>
-To avoid duplication and ensure that the form's purpose is clearly understood by the end user, this guide provides a step-by-step explanation of the Cemetery Plot Transfer Form.
-
-The form's purpose is to facilitate the transfer of ownership of a cemetery plot from one individual to another. This process involves gathering information about the current owner, the plot's identification details, and the new owner's information to ensure a smooth transfer of ownership.
-
-The form is designed to collect the following information:
-
-*   Current owner's details (name, address, phone number, and email)
-*   Plot identification details (cemetery name, plot location, and certificate of ownership number)
-*   New owner's details (name, address, phone number, and email)
-*   Relationship between the current and new owners
-*   Reason for the transfer
-*   Authorization and confirmation of the transfer
-*   Date of the transfer request
-
-Before starting, ensure you have the following:
-*   A valid certificate of ownership or a valid ID of the current owner.
-*   A clear understanding of the reason for the transfer.
-*   The new owner's details.
-
-</thinking>
-
 # Cemetery Plot Transfer Form - Help Guide
 
 ## Purpose

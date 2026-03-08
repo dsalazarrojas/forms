@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by internal personnel to request new hardware for themselves or others. The purpose of this form is to provide a simple and structured way for them to submit their requests, making it easier to review and process these requests in an efficient manner. By filling out this form, the requester can specify the required details to facilitate a prompt response. The form will not accept duplicate submissions for the same purpose or user, avoiding unnecessary work and potential delays. To minimize errors and ensure the requester has submitted their form with the required information, we will include clear explanations of each field below.
-</thinking>
-
 # New Hardware Request - Help Guide
 ## Purpose
 This form is used to request new hardware for various purposes.

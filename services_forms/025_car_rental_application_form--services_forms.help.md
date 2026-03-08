@@ -1,8 +1,4 @@
-### <thinking> 
-To determine if the form is being used correctly and to prevent duplication, we should check if the form is being completed with valid data in all fields, especially where it says "Required: true". If any required fields are left blank, we should alert the user to fill them in before proceeding. Additionally, we should check if the user has selected the correct options from dropdowns or if they are using a valid date or time format. Lastly, we should ensure that the date and time formats match the expected format. 
-</thinking>
-
-# Car Rental Application Form - Help Guide
+### # Car Rental Application Form - Help Guide
 
 ## Purpose
 This form is used to collect information for car rental applications. It is designed to gather essential details from renters to facilitate the rental process.

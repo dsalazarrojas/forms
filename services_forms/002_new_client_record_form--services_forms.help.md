@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure the new client record form is used correctly, please note that this form is for registering a new client's information, including their name, address, phone number, email, and other relevant details. Please make sure to fill out all required fields and choose relevant options for the assigned user, status, and client type. This form should not be used for editing existing client records.
-
-</thinking>
-
 # new_client_record_form - Help Guide
 
 ## Purpose

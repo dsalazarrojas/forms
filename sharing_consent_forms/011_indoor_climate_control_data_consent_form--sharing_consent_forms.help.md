@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect user consent for indoor climate control data. The purpose of this form is to understand how users feel about sharing their data with different entities, such as occupants, property owners, or research/optimization teams. The form will help users express their preferences on data sharing, monitoring, and completion status.
-The form consists of 8 fields, each with a specific purpose:
-- Introduction: a brief text field for users to write a short message or introduction.
-- Consent: a multiple-choice question where users can express their consent for data sharing.
-- Monitoring: a single-choice question where users can select the purpose of monitoring (Research, Monitoring, or Optimization).
-- Monitoring Period: a date field where users can select a specific period for monitoring.
-- Share: a multiple-choice question where users can choose the entities they want to share their data with (Research, Optimization, or Both).
-- Share with Others: a multiple-choice question where users can select the entities they want to share their data with (Research, Optimization, or Both).
-- Additional Notes: a free-text field for users to add any additional information.
-- Form Completion Status: a single-choice question where users can select whether they have completed the form or not.
-
-This form is designed to be user-friendly and adaptable to different needs. The form fields are designed to be clear and concise, with options that are relevant to the form's purpose.
-Please review the form carefully to ensure you understand what each field is meant to collect.
-</thinking>
-
 # indoor_climate_control_data_consent_form - Help Guide
 ## Purpose
 This form is designed to collect user consent for indoor climate control data. It is used to understand how users feel about sharing their data with different entities.

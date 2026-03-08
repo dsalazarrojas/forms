@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microchanneling Service Waitlist - Help Guide
 
 ## Purpose

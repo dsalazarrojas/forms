@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to obtain the user's consent to record and store their performance. 
-The performance in question could be a live event, a musical performance, a sports performance, or any other kind of performance. 
-This form is meant to be completed by the performance participant or the performance owner. 
-It is essential to understand that this form was created using public metadata and is not affiliated with any form platform.
-</thinking>
-
 # Performance Archive Preservation Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to obtain their consent for recording and storing their performance. This is a general-purpose form and can be used for various types of performances, such as music, sports, or art exhibitions.

@@ -1,7 +1,3 @@
-<thinking>
-This form allows users to sign up for a hearing test. To ensure this form is used correctly, we first need to clarify its purpose and relevance to the users. This form should not be used to sign up for other types of tests or events. If a user has already signed up for a hearing test, they should not fill out this form again.
-</thinking>
-
 # Hearing Test Sign Up Form - Help Guide
 ## Purpose
 The Hearing Test Sign Up Form is a simple form designed for users to sign up for a hearing test. This form collects essential information from the users to schedule and prepare for the test.

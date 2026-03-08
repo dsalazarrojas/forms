@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Shift Report - Help Guide
 
 ## Purpose

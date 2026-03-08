@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Care Service Partnership Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential partners for a pet care service. It collects contact details, partner preferences, and additional information about the partnership request. 

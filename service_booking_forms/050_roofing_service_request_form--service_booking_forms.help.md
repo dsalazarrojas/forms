@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from clients about their roofing service requests. This form is likely used by a business or organization that provides roofing services, such as a roofing company or a maintenance service. It's meant to be filled out by clients or customers who need assistance with their roofing needs. It's possible that this form is part of a larger workflow or system, such as a customer relationship management (CRM) system or a project management tool. To confirm, I will assume that this form is used to collect relevant details about the client's request and assign a representative or technician to follow up on the request. Please let me know if this assumption is correct or if further clarification is required.
-</thinking>
-
 # Roofing Service Request Form - Help Guide
 ## Purpose
 The Roofing Service Request Form is used to collect information from clients about their roofing service requests. This form is designed to be filled out by clients who need assistance with their roofing needs.

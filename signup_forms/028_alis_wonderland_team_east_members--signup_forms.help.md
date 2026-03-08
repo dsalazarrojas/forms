@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to gather information from prospective team members of Alis Wonderland Team East, which appears to be a group focused on community service, environmental projects, technology, arts, sports, and education. The form is intended for students and their parents or guardians to provide details about themselves, their interests, availability, and other relevant information. This form is likely used for recruitment, registration, or team management purposes.
-
-To ensure accurate and complete information, it is recommended that users review and fill out the form carefully. Please note that all fields marked as "required" are necessary for submission. If you're unsure about any field, please ask for clarification before proceeding.
-
-Before submitting the form, make sure to review the fields carefully and provide accurate information. The form's fields and options are designed to ensure that the team understands your background, interests, and needs.
-</thinking>
-
 # Alis Wonderland Team East Members - Help Guide
 ## Purpose
 This form is designed to collect information from prospective team members of Alis Wonderland Team East, a group focused on community service, environmental projects, technology, arts, sports, and education. The form is intended for students and their parents or guardians to provide details about themselves, their interests, and other relevant information.

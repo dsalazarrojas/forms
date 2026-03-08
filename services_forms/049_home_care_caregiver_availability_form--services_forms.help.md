@@ -1,10 +1,3 @@
-<thinking>
-The "home_care_caregiver_availability_form" is likely used to collect information from caregivers about their availability to provide home care services to clients. This form might be used by home care agencies or organizations to onboard new caregivers, assess their capacity to work with clients, or to create schedules for caregivers. The form's structure suggests it is designed to collect basic contact information, services offered, and specific details about the caregiver's availability.
-
-Before proceeding, ensure that this form is not already covered in another guide or documentation, and consider whether the form's purpose and scope align with your organization's current needs and priorities.
-
-</thinking>
-
 # home_care_caregiver_availability_form - Help Guide
 ## Purpose
 The "home_care_caregiver_availability_form" is a tool used to collect information from caregivers about their availability to provide home care services. This form helps home care agencies or organizations to onboard new caregivers, schedule care shifts, or to assess their capacity to work with clients.

@@ -1,7 +1,3 @@
-<thinking>
-**Internal note:** This form is intended for public awareness campaigns related to wildlife rescue, where users may be requesting to use images, videos, audio recordings, documents, or other media from the organization. The form helps the organization understand the scope and terms of use for such materials. It's crucial to ensure that users understand the purpose of the form and provide accurate information. Please review each field carefully before submitting.
-</thinking>
-
 # wildlife rescue public awareness consent form - Help Guide
 ## Purpose
 This form is used to obtain consent from users who want to use images, videos, audio recordings, or documents from the wildlife rescue organization for public awareness campaigns. The organization uses this information to understand the scope and terms of use for these materials.

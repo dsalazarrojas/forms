@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pac - Help Guide
 ## Purpose
 The pac form is a service request form designed to gather information from customers or clients who are requesting a service or support. This form collects basic contact and service-related information, which will be used to assess and fulfill the service request.

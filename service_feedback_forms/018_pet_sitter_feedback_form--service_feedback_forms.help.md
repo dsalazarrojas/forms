@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experiences with a pet sitter. It includes fields for visit details, ratings, and contact information. The form is meant to be completed by pet owners or their representatives after a visit with a pet sitter. The purpose of this form is to provide valuable insights for pet sitters to improve their services and for pet owners to make informed decisions when selecting a pet sitter.
-
-The form is designed to be straightforward and easy to complete, with each field labeled clearly. This guide will walk you through how to complete the form and what each field represents.
-
-</thinking>
-
 # Pet Sitter Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with a pet sitter. Please take a few minutes to fill out this form and provide your honest feedback. Your input will help us improve our pet sitting services.

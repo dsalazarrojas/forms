@@ -1,13 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "workplace_housekeeping_checklist" form, we need to consider the following points:
-
-* The form is designed to collect data on workplace housekeeping, which is a crucial aspect of maintaining a clean and safe work environment.
-* The form likely aims to assess the state of a workplace at a specific point in time, and gather data on various parameters such as cleanliness standards, frequency of checks, and other relevant factors.
-* Each field in the form should be clearly labeled and explained to avoid confusion and ensure accurate completion.
-* The form should be completed by users who are likely employees or authorized personnel responsible for maintaining the workplace.
-
-</thinking>
-
 # workplace_housekeeping_checklist - Help Guide
 ## Purpose
 This form is designed to collect data on the state of the workplace, including cleanliness standards, frequency of checks, and other relevant factors. This information is crucial for maintaining a clean and safe work environment.

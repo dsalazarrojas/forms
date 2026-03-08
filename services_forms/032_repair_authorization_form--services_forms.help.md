@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who need to authorize repairs on their equipment. The purpose of this form is to ensure that customers can provide necessary details about their equipment and the repair required, allowing the repair center to efficiently process and assign technicians to complete the repairs.
-
-To avoid duplication of repair requests, this form is designed to be completed only by the customer who needs the repair, or an authorized representative. Customers must provide accurate and complete information about their equipment, including any relevant details about its condition and the nature of the issue.
-
-</thinking>
-
 # Repair Authorization Form - Help Guide
 
 ## Purpose

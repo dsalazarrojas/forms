@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to sign up for a Forex membership. It is designed for users to provide their personal and contact information, select a membership plan, choose their membership level, and verify their email address. Please ensure that this form is used for its intended purpose only. 
-
-</thinking>
-
 # forex_membership_signup_form - Help Guide
 ## Purpose
 The Forex membership signup form is used to sign up for a Forex membership, requiring users to provide their personal and contact information, select a membership plan, choose their membership level, and verify their email address.

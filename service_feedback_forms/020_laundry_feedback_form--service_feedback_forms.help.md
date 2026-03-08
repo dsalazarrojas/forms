@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experience with laundry services. It asks for personal details such as name and email, and then gathers feedback and ratings regarding the service provided. The form also includes fields for rating the service, selecting specific aspects of the service that met their expectations, and providing comments. This form will help the laundry service providers to improve and tailor their services to better meet customer needs.
-</thinking>
-
 # Laundry Feedback Form - Help Guide
 
 ## Purpose

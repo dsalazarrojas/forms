@@ -1,21 +1,3 @@
-<thinking>
-This form is a general-purpose Requirement Form designed to collect information about events or projects. It asks for basic details such as event or project names, descriptions, start and end dates, locations, and status.
-The form has the following fields:
-- Event or Project: Select one option from the dropdown menu (Event or Project)
-- Project Name: Enter a brief name of the project
-- Project Description: Enter a detailed description of the project
-- Start Date: Select the start date of the project or event
-- End Date: Select the end date of the project or event
-- Location: Enter the location of the project or event
-- Event Details: Enter any additional information about the event or project
-- Project Status: Select one of the three options (Active, Inactive, Cancelled)
-- Assigned Tool: Enter the tool assigned to the project or event
-- Created By: Enter the name of the person who created the project or event
-
-This form is meant to be a general-purpose tool for collecting requirements, and it does not have any specific business logic or validation rules. It is designed to be used as a starting point for further development and customization.
-Please note that this form is an AI-generated form and does not collect any sensitive or personal data.
-</thinking>
-
 # Requirement Form - Help Guide
 ## Purpose
 The Requirement Form is a general-purpose tool for collecting information about events or projects. It is designed to be a starting point for further development and customization.

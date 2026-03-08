@@ -1,5 +1,3 @@
-<thinking> We need to ensure that the form is filled out correctly and that the end user understands its purpose. This form is for lead generation for our app beta testing program. We are looking for individuals who are interested in testing our app and providing us with valuable feedback. The purpose of this form is to capture relevant information about the user, their experience, and their interests. Please fill out the form carefully and honestly, as this will help us understand your suitability for the beta testing program. </thinking>
-
 # App Beta Tester Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to collect information about you, our potential beta tester, to determine your suitability for our app beta testing program. We are looking for individuals who are interested in testing our app and providing us with valuable feedback.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for property services, likely for a property management or real estate context. The form likely captures information about properties, services, or agreements related to properties. There is no indication that this form is for any specific business or organization, but it may be a general template for various types of property services. The form has 25 fields in total, all of which are text fields. No fields are marked as required, which may indicate that the form is meant to be filled out in some capacity but not necessarily with complete or accurate information.
-</thinking>
-
 # Property Services Agreement Form - Help Guide
 ## Purpose
 This form is for capturing information about properties, services, or agreements related to properties.

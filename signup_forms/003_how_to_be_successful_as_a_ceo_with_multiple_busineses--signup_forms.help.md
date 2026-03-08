@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users understand their current situation and identify potential areas for improvement. It's likely intended for individuals who have multiple business ventures and are looking for guidance on how to be a successful CEO. The form likely aims to gauge the user's current level of stress, their interest in learning how to lead with less stress, and their use of time blocks. To prevent duplication, users with similar answers to the first page should not be allowed to fill out the form again.
-</thinking>
 # How To Be Successful As A Ceo With Multiple Busineses - Help Guide
 ## Purpose
 This form is designed to help you, as a CEO with multiple businesses, identify areas where you may be able to improve your leadership and management skills, ultimately leading to greater success in your role.

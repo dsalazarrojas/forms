@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to report a missed recycling collection, likely to be used by residents or waste management services to document and follow up on missed collections. I will create a user-friendly help guide for this form, ensuring that end-users understand its purpose and requirements.
-</thinking>
-
 # Missed Recycling Collection Form - Help Guide
 
 ## Purpose

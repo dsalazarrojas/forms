@@ -1,10 +1,3 @@
-<thinking>
-**Purpose:** This form, "covid_19_waiver_linda_mitchell", is designed to collect information from individuals or institutions regarding their experience with massage therapy services, their Covid-19 status, and other relevant details. The form is intended to help gather data on the impact of massage therapy on health outcomes during the Covid-19 pandemic.
- 
-**Non-Duplication Notice:** Please do not submit duplicate responses. Each response is a unique submission.
- 
-</thinking>
-
 # covid_19_waiver_linda_mitchell - Help Guide
 ## Purpose
 The form "covid_19_waiver_linda_mitchell" is designed to collect information from individuals or institutions regarding their experience with massage therapy services, their Covid-19 status, and other relevant details. This data will help gather insights on the impact of massage therapy on health outcomes during the Covid-19 pandemic.

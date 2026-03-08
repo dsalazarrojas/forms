@@ -1,9 +1,3 @@
-<thinking>
-The "eye_lash_extension_consent_form" is a form used to collect information from users related to eye lash extensions, likely for marketing or sales purposes. The form captures user data in two main sections: "Form Data" and "Signature". "Form Data" is split into three sub-sections, where users can select from predefined options, select multiple options, or enter free text. The "Signature" field likely indicates user consent or agreement with the selected data. The form also captures additional user information such as date, time, email, phone number, and note fields. 
-
-This form may be used for various business purposes such as marketing campaigns, sales follow-ups, or customer feedback collection. However, further clarification on the form's purpose would be necessary to ensure it's being used correctly.
-</thinking>
-
 # eye_lash_extension_consent_form - Help Guide
 ## Purpose
 The "eye_lash_extension_consent_form" is a form used to collect information from users related to eye lash extensions, likely for marketing or sales purposes.

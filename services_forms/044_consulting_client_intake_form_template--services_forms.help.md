@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning check:** This form is designed to capture essential information from clients seeking consulting services. The fields are organized to ensure a comprehensive understanding of the client's needs and expectations. The form's purpose is to streamline the consultation process by gathering necessary details efficiently. Please ensure that this form is not duplicated or used for other purposes. 
-</thinking>
-
 # Consulting Client Intake Form Template - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "new-project-brief" form is to provide a structured framework for collecting information about new projects. This form helps to ensure that all relevant details are captured, making it easier for project managers, stakeholders, and team members to understand project requirements, timelines, and objectives. By completing this form, you will be able to collect and store project details in a standardized format.
-This form will be useful for both internal and external users, so please be aware that the information you provide will be visible to others in the organization.
-Please only fill out this form once per project. Duplicating projects will lead to incorrect data and make it difficult for our team to manage multiple versions of the same project.
-</thinking>
-
 # new-project-brief - Help Guide
 ## Purpose
 The new-project-brief form is used to collect project details for new projects, ensuring that all relevant information is captured and stored in a standardized format.

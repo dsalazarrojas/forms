@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess an organization's cybersecurity posture by evaluating their adherence to various best practices and protocols for responding to and managing incidents. The goal is to ensure that the organization has a comprehensive approach to identifying, classifying, and responding to potential and actual security incidents. This form will guide you through the necessary steps to evaluate your organization's cybersecurity capabilities and help identify areas for improvement.
-
-The form consists of two sections: General Best Practices and Incident Response. General Best Practices assesses the organization's overall approach to security, while Incident Response evaluates the specifics of responding to and managing incidents.
-
-Before proceeding, ensure that you have reviewed and updated your organization's policies and procedures related to security and incident response. This form should not be used as a substitute for regular security audits and vulnerability assessments.
-
-</thinking>
-
 # cyber_security_checklist - Help Guide
 ## Purpose
 The Cyber Security Checklist form is designed to assess an organization's cybersecurity posture by evaluating their adherence to various best practices and protocols for responding to and managing incidents.

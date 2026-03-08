@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for dog walking services. It is designed to collect information from clients who wish to book a dog walking service. The form includes fields for selecting the service type, client details, dog information, and appointment scheduling. It also allows clients to add additional services and notes. This form is meant for clients to submit their requests for a dog walking service.
-</thinking>
-
 # dog_walking_client_form_template - Help Guide
 ## Purpose
 The dog_walking_client_form_template is a form for clients to book a dog walking service. It helps us collect necessary information to provide a suitable walking service for your pet.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a business registration form designed for entrepreneurs or business owners to provide information about their business. The purpose of this form is to collect essential details about the business, including its name, type, location, and owner's contact information. This form likely serves as a gateway for businesses to register their information on a platform or database. I'll ensure that the explanations are concrete, concise, and practical in the help guide below.
-
-</thinking>
-
 # Business Registration Form - Help Guide
 ## Purpose
 This form is designed to help you register your business with us. Please fill it out accurately and thoroughly to ensure a smooth registration process.

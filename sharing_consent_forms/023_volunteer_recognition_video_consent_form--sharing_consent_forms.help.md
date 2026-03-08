@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "volunteer_recognition_video_consent_form" form. This form is used to obtain consent for the use of a volunteer's recorded video in the recognition program. It's essential to ensure that the form is completed correctly to accurately record the volunteer's consent and details about their participation in the recognition program. We must verify that the form is filled out correctly to prevent errors and non-duplicated submissions.
-</thinking>
-
 # volunteer_recognition_video_consent_form - Help Guide
 ## Purpose
 The volunteer recognition video consent form is used to obtain consent from volunteers to use their recorded video in the recognition program. This form helps to ensure that volunteers understand and agree to the terms of their video use.

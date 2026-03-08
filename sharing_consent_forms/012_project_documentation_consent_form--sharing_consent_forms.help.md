@@ -1,6 +1,4 @@
-> <thinking>...this form is intended for project participants to provide consent and share their information with the project leader and other project participants. The form is used to collect participant information, consent, and contact methods, as well as project details and project leader information. This form is a required part of the project documentation process and should be filled out by each participant to ensure that they are properly informed and consented to participate in the project. Please fill out this form only if you are a participant in the project. If you are a project leader, you are not required to fill out this form.</thinking> 
-
-# Project Documentation Consent Form - Help Guide
+> # Project Documentation Consent Form - Help Guide
 ## Purpose
 This form is a required part of the project documentation process, intended for project participants to provide consent and share their information with the project leader and other project participants.
 ## How To Complete This Form

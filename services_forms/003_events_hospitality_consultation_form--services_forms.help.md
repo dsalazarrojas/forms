@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about an event or hospitality consultation from clients. The purpose of the form is to gather essential details about the event, such as the type of services required, event details, date, time, location, number of guests, and contact information. This information will help the service provider to better understand the client's needs and preferences, ensuring a smooth and successful event. This form should only be completed by clients who have been assigned a unique event ID by the service provider. Please ensure that you are filling out the correct form for your assigned event ID. If you are unsure or have any questions, please reach out to the service provider for clarification....</thinking>
-
 # Events & Hospitality Consultation Form - Help Guide
 ## Purpose
 This form is designed to collect information about an event or hospitality consultation from clients.

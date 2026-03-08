@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended for end-users who are submitting requests for IT service through the provided form. The form is used to collect information about the problem or issue they are experiencing, and the services they require to resolve it. This guide will walk you through how to fill out the form correctly and provide explanations for each field to ensure you submit a complete and accurate request.
-
-</thinking>
-
 # IT Service Request Form - Help Guide
 
 ## Purpose

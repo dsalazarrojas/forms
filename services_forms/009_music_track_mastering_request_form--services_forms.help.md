@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from artists and studios for music track mastering requests. The form is likely used to facilitate the mastering process by providing essential details about the music tracks being mastered. The purpose of this form is to ensure that the correct information is captured to ensure efficient and accurate mastering. The form is intended to be filled out by artists or their representatives, and the information will be used to communicate with them about their music mastering requests.
-</thinking>
-
 # Music Track Mastering Request Form - Help Guide
 ## Purpose
 The Music Track Mastering Request Form is a tool for artists and their representatives to provide essential details about their music tracks being mastered. This form ensures that accurate and efficient communication can be maintained with the mastering team.

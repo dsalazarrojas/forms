@@ -1,6 +1,3 @@
-<thinking>
-This form is used to create and manage wedding contracts between a wedding planner and a client. It captures the necessary information for the wedding event, including contact details, date and time, payment terms, and contract terms. This form is not meant to be used for general contact or inquiry purposes, but rather as a formal agreement between the parties involved. Before filling out this form, please review the following instructions and explanations to ensure you understand each field's purpose and requirements.</thinking>
-
 # Wedding Contract - Help Guide
 ## Purpose
 This form is used to create and manage wedding contracts between a wedding planner and a client. It captures the necessary information for the wedding event, including contact details, date and time, payment terms, and contract terms.

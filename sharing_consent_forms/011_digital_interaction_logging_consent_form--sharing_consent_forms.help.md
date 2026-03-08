@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information about the user's consent and preferences regarding data logging for digital interactions. The purpose of this form is to provide users with a clear understanding of what data will be collected, how often it will be collected, and how it will be used. It's essential to complete this form accurately to ensure that you're comfortable with the data collection and usage.
 
 </thinking>

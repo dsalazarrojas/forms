@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used to capture guest communication analytics consent. The purpose of this form is to inform guests of the analytics data collected and to obtain their explicit consent for tracking. It's essential to ensure that the guest is aware of what data is being collected and how it will be used. To prevent duplication, this form should only be displayed to guests who have not previously provided consent. The form's fields are designed to be clear and concise, with no unnecessary information or fields. The "Allow tracking" and "Decline tracking" options should be selected by guests who are willing and unwilling to be tracked, respectively.</thinking>
-
 # Guest Communication Analytics Consent Form - Help Guide
 ## Purpose
 This form is used to capture the guest's communication analytics consent, ensuring they are informed and aware of the data being collected.

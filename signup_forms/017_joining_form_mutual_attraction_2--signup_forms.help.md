@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to be a concise and practical resource for end users to complete the "Joining Form Mutual Attraction 2." The form is designed to collect basic information from individuals interested in joining a mutual attraction platform. Before proceeding, please note that you must not have used this form previously to avoid duplication. 
-
-This guide will walk you through each field and how to complete it correctly to ensure you can join the platform successfully.
-</thinking>
-
 # Joining Form Mutual Attraction 2 - Help Guide
 ## Purpose
 

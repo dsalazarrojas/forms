@@ -1,9 +1,3 @@
-<thinking>
-**Form Purpose**
-This form is designed to gather user information and confirmations for email signups. It appears to be a form for collecting data for multiple stages or iterations of the email signup process.
-
-</thinking>
-
 # email-signup-form - Help Guide
 ## Purpose
 This form is used for email signup and confirmation purposes. It collects user information and confirmations for multiple stages of the process.

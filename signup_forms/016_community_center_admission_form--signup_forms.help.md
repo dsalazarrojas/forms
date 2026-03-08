@@ -1,23 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, let's break down its key features and requirements:
-
-*   The form is called "Community Center Admission Form" which suggests that it is intended for individuals who are interested in visiting or participating in programs at a community center.
-*   Required fields include applicant name, home address, email address, program or service of interest, emergency contact name and phone, and consent to terms and policies. This implies that the form is focused on collecting demographic information, contact details, and agreement to terms for participants in community center activities.
-*   Optional fields include date of birth, phone number, and special needs or accessibility requirements. These fields may be used for additional information or to tailor services to specific needs of the participant.
-*   The form also includes a program or service select option, which implies that the community center offers various programs and services, and the participant needs to choose one that they are interested in.
-
-Given this analysis, the form is likely to be used for:
-
-*   Registration and admission processes for participants in community center programs and services
-*   Collecting demographic and contact information for follow-up and communication purposes
-*   Obtaining agreement to terms and policies for participants
-
-The form's main purpose is to gather necessary information from community center visitors or participants, ensure they understand the terms and policies, and provide a way for the community center to communicate with them effectively.
-
-</thinking>
-
-
 # Community Center Admission Form - Help Guide
 
 ## Purpose

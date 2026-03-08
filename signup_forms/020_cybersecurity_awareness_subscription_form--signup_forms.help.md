@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations interested in receiving cybersecurity awareness resources and updates. The purpose of this form is to gather contact information and job titles of potential subscribers. The form will help the organization understand who is interested in cybersecurity awareness and tailor their content and services accordingly. Please note that this form is a public, AI-generated form and does not collect sensitive or confidential information. Submissions will be reviewed and used for internal purposes only.
-</thinking>
-
 # Cybersecurity Awareness Subscription Form - Help Guide
 ## Purpose
 This form is for individuals or organizations interested in receiving cybersecurity awareness resources and updates. We'll use the information provided to understand who is interested in our services and tailor our content accordingly.

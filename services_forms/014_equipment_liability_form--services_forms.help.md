@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Liability Form - Help Guide
 ## Purpose
 The Equipment Liability Form is designed to record and document the details of equipment owned by individuals. This form helps to ensure that accurate and up-to-date information is collected about the equipment, including purchase details, warranty, and maintenance records.

@@ -1,5 +1,3 @@
-<thinking>As a restaurant profile survey form, it's intended to gather information about a restaurant's attributes and services. This form will help restaurant owners and managers assess their establishment's strengths and weaknesses, identify areas for improvement, and make data-driven decisions to enhance customer satisfaction. This guide will walk through each field and provide a clear understanding of what each section means and how to complete it correctly.</thinking>
-
 # Restaurant Profile Survey - Help Guide
 ## Purpose
 

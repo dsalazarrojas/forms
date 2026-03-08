@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for end-users to provide feedback and information about the installation process after it has been completed. The purpose of this form is to gather essential details about the project, including project specifics, installation details, satisfaction ratings, contact information, and installation completion status. This form is likely used by internal teams to track and monitor project progress and ensure that all necessary steps have been taken.
-The form should only be filled out after the installation has been completed. If the installation is still in progress, the form should not be used.
-</thinking>
-
 # Installation Completion Form - Help Guide
 ## Purpose
 This form is used to capture information about completed installations to help internal teams track and monitor project progress.

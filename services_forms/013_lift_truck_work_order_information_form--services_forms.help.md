@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to capture essential information related to lift truck work orders. A lift truck work order is an order for maintenance or repair of a lift truck. This form is likely used in a warehouse or material handling context where a lift truck is used for various tasks such as forklifts, pallet jacks, and pallet trucks. The form aims to collect necessary details to manage and track these work orders efficiently.
-
-Before proceeding, ensure you have a valid work order ID for the specific lift truck being maintained or repaired. If a work order ID already exists, ensure you are not creating a duplicate entry.
-
-Please provide the following information to complete the form:
-</thinking>
-
 # Lift Truck Work Order Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to lift truck work orders, which are orders for maintenance or repair of lift trucks used in warehouse or material handling operations.

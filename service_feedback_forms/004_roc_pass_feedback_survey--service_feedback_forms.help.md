@@ -1,28 +1,3 @@
-<thinking>
-This thought process involves analyzing the provided YAML file to determine the purpose and requirements of the "Prophets" form, ensuring that the explanation will be concrete, concise, and practical. The goal is to provide a user-facing help guide that will be easy to follow and understand.
-
-The form is named "Prophets" and appears to be related to service feedback and customer satisfaction evaluation. Each field in the form corresponds to a specific aspect of service feedback, such as satisfaction score, specific feedback, and improvement areas.
-
-The form has 13 fields, including:
-
-* Satisfaction score (field 1)
-* Feedback text field (field 2)
-* Service usage information (field 3)
-* Improvement areas selection (field 4)
-* Service score (field 5)
-* Opportunities for improvement (field 6)
-* Comments section (field 7)
-* Additional service score (field 8)
-* Satisfaction score 4 (field 9)
-* Additional opportunities for improvement (field 10)
-* Satisfaction score 5 (field 11)
-* Improvement opportunities 2 (field 12)
-* Satisfaction score 5 (field 13)
-
-Each field has a specific type and label, indicating its purpose and expected input.
-
-</thinking>
-
 # Prophets - Help Guide
 ## Purpose
 The "Prophets" form is designed to collect feedback and service satisfaction ratings from customers. It aims to gather information about the quality of service provided and identify areas for improvement.

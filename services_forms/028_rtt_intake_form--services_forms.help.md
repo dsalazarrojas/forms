@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:** This form was created to collect information from patients regarding their medical history, contact information, and therapy goals. The form aims to gather details such as their name, address, phone number, insurance information, medical history, and therapy goals.
-**Form Relevance and Non-Duplication:** This form is designed to be a general intake form for patients and is not intended to be used for any specific medical condition or insurance claim.
-</thinking>
-
 # rtt_intake_form - Help Guide
 ## Purpose
 The rtt_intake_form is a patient intake form designed to collect essential information from patients.

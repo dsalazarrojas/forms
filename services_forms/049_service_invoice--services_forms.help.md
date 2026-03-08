@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to create a service invoice that includes information about a company and a client, including their names, addresses, email, phone number, and invoice details. This form is likely used for financial or administrative purposes, such as sending a formal request for payment or tracking business expenses. To determine if this form is relevant to your work, consider the following questions:
-- Are you involved with creating or managing invoices for a business or organization? 
-- Are you looking to collect information from companies or clients for financial or administrative reasons?
-- Are you using this form in a context where data accuracy and completeness are important? 
-If you answered "yes" to any of these questions, this form may be relevant to your work.
-However, if you are unsure or think this form might not be the best tool for your needs, please consider the following:
-- Are there any specific services or features that this form does not include but should? 
-- Is there any additional information or fields that you need to capture? 
-</thinking>
-
 # service_invoice - Help Guide
 ## Purpose
 This form is used to create a service invoice for a company and client, capturing key details for financial or administrative purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicle repairs, allowing customers to submit a service request and provide details about their vehicle's problems. The form is likely to be used by mechanics or repair shop staff to diagnose and estimate the cost of repairs.
-</thinking>
-
 # vehicle_repair_form - Help Guide
 ## Purpose
 This form is used to collect information about vehicle repairs from customers.

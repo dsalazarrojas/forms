@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This internal reasoning block is for developers, designers, and technical writers to consider the following:
 - This form was created using AI to generate a step-by-step company information form.
 - The form is meant to be a template for companies to provide information about themselves in a structured and organized manner.

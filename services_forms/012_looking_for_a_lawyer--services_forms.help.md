@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users find a lawyer that suits their needs. It gathers information from the user about what they need from a lawyer (e.g., a specific type of legal service), their criminal history, contact information, email address, details about the lawyer firm they are interested in, how they heard about the form, which lawyer firms they are interested in, any additional notes, and the date and time of the appointment. This form ensures that users provide the necessary information to be matched with the right lawyer. It is recommended that users fill out this form carefully and accurately to get the best possible results.
-</thinking>
-
 # Looking For A Lawyer - Help Guide
 ## Purpose
 This form is designed to help users find a lawyer that suits their needs. It gathers information from the user about what they need from a lawyer and other relevant details to ensure the best possible matching with a suitable lawyer.

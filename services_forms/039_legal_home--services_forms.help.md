@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "Legal Home" form is to gather information about the user's home and family services. It is intended to collect relevant data about the user's legal home and practitioner services, which will be used in the backend to provide personalized recommendations and services.
-
-Upon reviewing the form, I've determined that there is a mix of select_one and select_multiple type fields for services, and select_multiple type fields for legal practitioners. This form seems to be designed for users to indicate their involvement with various services and legal practitioners.
-
-Before creating the help guide, I've checked the form fields for potential duplicates and inconsistencies. I did not find any duplicate or overlapping fields that would cause confusion for the end user.
-
-</thinking>
-
 # Legal Home - Help Guide
 ## Purpose
 The "Legal Home" form is designed to collect information about your home and family services. This form will help us understand your requirements and provide personalized recommendations and services.

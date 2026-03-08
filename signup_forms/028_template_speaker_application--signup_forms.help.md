@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to submit an application to be a template speaker. The purpose of this form is to collect information from users about their name, email, speaker name, speaker bio, speaker image, social link, category, website, phone number, and email. This form is used for internal purposes, such as maintaining a list of template speakers.
-</thinking>
-
 # Template Speaker Application - Help Guide
 ## Purpose
 This form is used to collect information from users who wish to become a template speaker.

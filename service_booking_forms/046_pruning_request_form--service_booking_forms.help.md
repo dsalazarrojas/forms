@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Pruning Request Form is to collect information from clients for pruning requests, allowing the service provider to efficiently process and manage their requests. Before completing this form, please ensure that you have not already submitted a pruning request for the same service location and type of service. If you have, please contact the service provider directly to update your existing request.
-</thinking>
-
 # Pruning Request Form - Help Guide
 ## Purpose
 The Pruning Request Form is a form designed to collect information from clients for pruning requests. This form helps the service provider to efficiently process and manage client requests.

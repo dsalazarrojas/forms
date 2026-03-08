@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a feedback form, likely used for evaluating the effectiveness of a service provider (massage therapist) in terms of overall satisfaction, satisfaction with specific aspects of the service, and feedback from customers. The form includes fields for various demographics (first name, last name, email), rating of the service, comments, and multiple-choice questions for visit reasons, session types, visit frequencies, and overall satisfaction. This form might be used for post-visit surveys to gather feedback from customers.
-
-Before filling this form, please ensure that you have not already filled out a similar form or submitted feedback for the same visit, as this might lead to duplication of information and unnecessary effort.
-
-Please review the form carefully, and if you have any questions or concerns, contact your service provider directly for clarification.
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our service providers. Your input will help us improve and provide better services to you and others.

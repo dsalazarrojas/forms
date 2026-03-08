@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to gather participant information for the Vape Support Network. It is a non-mandatory form, but providing accurate participant information can help the support team provide better assistance. If the participant has already provided information, it is likely they are already part of the support network and should not be filling out this form again.
-</thinking>
-
-# Vape Support Network Registration - Help Guide
+> # Vape Support Network Registration - Help Guide
 ## Purpose
 The purpose of this form is to register a participant in the Vape Support Network. This form gathers essential participant information to provide better support and services.
 

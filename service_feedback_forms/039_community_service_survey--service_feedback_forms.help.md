@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to collect information about community service survey respondents. The purpose of this form is to gather data on their demographics, volunteering experience, and opinions on various aspects of community service. This form is meant to be completed by individuals who have volunteered in their community at some point in their lives. The form will help in identifying patterns and trends in community service and volunteerism, which can inform strategies to improve the volunteer experience and community engagement. This form should not be completed by individuals who have not volunteered in their community.
-</thinking>
-
 # Community Service Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your community service experience and opinions on various aspects of volunteering.

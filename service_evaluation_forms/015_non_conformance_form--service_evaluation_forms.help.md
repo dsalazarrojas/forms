@@ -1,5 +1,3 @@
-<thinking>Non Conformance Form purpose is to gather information about incidents where services have not met the expected standards. It is intended for use by customers to report issues and provide feedback. This form is typically used after an incident has occurred, and the goal is to identify root causes, prevent future occurrences, and improve quality of service. Before completing this form, please confirm that the issue is not a duplicate and that the form is relevant to your situation. If unsure, please contact the relevant team or department for guidance.</thinking>
-
 # Non Conformance Form - Help Guide
 ## Purpose
 The Non Conformance Form is a tool used to report incidents where services have not met the expected standards. It is intended for customers to provide feedback and help improve quality of service.

@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose of the "oxygeneoconsult" form and provide clear instructions on how to fill it out. The form is likely used for a business or organization that offers skincare consultation and services. This guide will help users navigate the form efficiently, ensuring they provide the necessary information for a smooth consultation process.
-
-The form is designed to collect various types of information, including main contact information, appointment details, and preferences for specific skincare services. 
-
-This guide will cover the following topics:
-
-1. Purpose of the form
-2. How to complete the form
-3. Field-by-field explanation of each section
-4. Additional tips for users
-
-</thinking>
-
 # oxygeneoconsult - Help Guide
 ## Purpose
 The "oxygeneoconsult" form is designed to gather information from users for a skincare consultation and related services. This form is typically used for users to schedule an appointment, provide contact details, and express their interest in different skincare services.

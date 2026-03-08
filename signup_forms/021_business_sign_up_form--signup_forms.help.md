@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about businesses that want to sign up for your services. The purpose of this form is to gather essential details about the business, such as name, contact person's name, email, phone number, and address, as well as their business type, industry sector, number of employees, and other relevant details. Please ensure that the business information is accurate and up-to-date.
-</thinking>
-
 # Business Sign Up Form - Help Guide
 ## Purpose
 This form is a necessary step for businesses to sign up for your services. Please complete this form to provide us with the necessary information about your business.

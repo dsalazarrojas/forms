@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users to process a service inquiry request. The fields are categorized into two types: required (indicated by `required: true`) and not required (indicated by `required: false`). The purpose of this form is to collect details from users such as their name, contact information, and service type. This information will be used to process and respond to their inquiry efficiently.
-</thinking>
-
 # Service Inquiry Form Green Theme - Help Guide
 ## Purpose
 This form is designed to gather information from users to process a service inquiry request.

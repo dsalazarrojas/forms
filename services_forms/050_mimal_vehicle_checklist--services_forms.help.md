@@ -1,9 +1,3 @@
-<thinking>...Internal reasoning: This form, "mimal_vehicle_checklist", is intended to collect information about a vehicle. The purpose of this form is to provide a structured and standardized way to gather data on the type, mileage, year, notes, owner contact information, and Vehicle Identification Number (VIN) of a vehicle. This information is likely used for maintenance, repair, or inspection purposes. It is not intended for public use, so it's reasonable to assume that the form will be completed by authorized personnel only.
-
-The form has two optional fields (mileage, year) and three required fields (notes, owner_name, owner_phone) that are not explicitly marked as such in the YAML, but based on the type (text/note/email) and the context, these fields seem to be intended for free-form text entry. Given the presence of a "vin" field, it's likely a Vehicle Identification Number field intended to hold a vehicle's unique identifier. This guide will provide an explanation for each field in the form.
-
-</thinking>
-
 # mimal_vehicle_checklist - Help Guide
 ## Purpose
 This form is used to collect information about a vehicle.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about phone usage habits and preferences of service providers. It is designed to be filled out by service providers who offer phone-related services. This form is part of a larger survey aimed at understanding how service providers use phones and what their preferences are. This form is a crucial part of the survey as it provides valuable information for service providers to better understand their own phone habits and preferences.
-</thinking>
-
 # phone_usage_survey--services_forms - Help Guide
 ## Purpose
 This guide will walk you through the phone usage survey form, used to collect information about phone usage habits and preferences of service providers.

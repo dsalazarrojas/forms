@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to generate leads for online streaming services. It is used for capturing and qualifying prospects who are interested in streaming services. The form is intended for streaming platforms and media brands to quickly collect data from website visitors and follow up with them. To avoid duplication, make sure to fill out the form only once per prospect.
-</thinking>
-
 # Online Streaming Service Lead Generation Form - Help Guide
 ## Purpose
 The Online Streaming Service Lead Generation Form is designed to quickly collect data from website visitors and help streaming platforms and media brands follow up with them.

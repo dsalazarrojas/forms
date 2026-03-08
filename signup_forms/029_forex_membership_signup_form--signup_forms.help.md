@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information for a membership program related to forex trading. The form is meant to gather relevant data about the user's personal and contact details. The form's design and content are based on public survey topic metadata and are not affiliated with or endorsed by any form platform.
-</thinking>
-
 # Forex Membership Signup Form - Help Guide
 ## Purpose
 The Forex Membership Signup Form is designed to collect user information for a membership program related to forex trading. This form is used to gather personal and contact details from users who are interested in joining the program.

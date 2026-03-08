@@ -1,9 +1,3 @@
-<thinking>
-We're creating a help guide for the "Theta Chi Silent Auction" form. This form is likely a metadata input form for creating pages on a website or application. It's used to collect various information about a page, including its name, title, subtitle, description, and other metadata fields. The form seems to be designed for inputting data that doesn't require a complex setup or calculation. The purpose of this form is to simplify the process of creating or editing page metadata.
-We should ensure that the form is self-explanatory and easy to fill out, especially for non-technical users.
-The fields on this form appear to be a mix of text, date, time, and select input types. We'll explain each field clearly to avoid confusion.
-</thinking>
-
 # Theta Chi Silent Auction - Help Guide
 ## Purpose
 

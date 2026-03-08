@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students seeking help with their homework assignments. By filling out this form, students can provide details about their name, student ID, assignment, subject, due date, and a brief description of their needs. This form will help the support team understand their requirements and provide assistance accordingly. Please note that some fields are optional, and it's essential to fill out only what's necessary for the support team to address your needs.
-
-Before proceeding, please make sure you have all the required information ready, and avoid filling out the form multiple times. This will help us process your requests more efficiently.
-</thinking>
-
 # Homework Help Order Form - Help Guide
 ## Purpose
 The homework help order form is a tool designed to collect information from students seeking help with their homework assignments. By filling out this form, you can request assistance from our support team, and they will do their best to provide guidance and resources to help you complete your assignments.

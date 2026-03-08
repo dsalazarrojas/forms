@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to record information about shift changes, specifically for the Wax Center. It's used to log changes to the shift schedule, such as assigning employees and clients to shifts. This form is likely used by staff members to document these changes in a centralized location. There shouldn't be any other forms with this exact same purpose, as it's a specific use case for the Wax Center.
-</thinking>
-
 # Wax Center Shift Change Form - Help Guide
 ## Purpose
 The Wax Center Shift Change Form is used to document changes to the shift schedule, including assigning employees and clients to shifts.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with our fitness services. This feedback will help us identify areas of improvement and make our services better for everyone. This form should be filled out by individuals who have interacted with our fitness services, either in-person or online. Please only fill out this form if you have a genuine feedback or suggestion to share.
-
-</thinking>
-
 # Fitness Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with our fitness services. If you have had a positive or negative experience, a suggestion, or a concern, we would like to hear about it.

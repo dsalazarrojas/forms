@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from public art mural participants, ensuring they understand and agree to the terms of participation. It is meant to be filled out by those who wish to have their artwork displayed in a public mural. The form will be used to gather contact information, mural location, and other relevant details.
-
-Before filling out this form, ensure that you haven't already done so in the past. If you've previously participated in a public art mural project, you do not need to fill out this form again. 
-
-</thinking>
-
 # Public Art Mural Inclusion Consent Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about individuals seeking facial consultation services. It is intended for users to provide their personal details, contact information, and medical provider details. The form is used to gather relevant data for medical purposes.
-
-To ensure the form's accuracy and effectiveness, please review the fields below.
-
-</thinking>
-
 # facialConsultationForm - Help Guide
 ## Purpose
 This form is designed to collect information about individuals seeking facial consultation services.

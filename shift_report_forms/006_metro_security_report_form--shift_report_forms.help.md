@@ -1,11 +1,3 @@
-<thinking>
-
-We need to create a help guide for the "Metro Security Report Form". To start, let's break down the form's purpose and fields. The form is designed for reporting security incidents, and it collects various information about the incident, including details about the incident itself, the incident's location, and the reporting officer's information. The form has multiple fields for different types of data, such as text fields for incident description, location, and reporting officer's information, select_one fields for incident type, threat level, and incident reporting status, and date/time fields for incident date, time, and last updated date/time.
-
-Before proceeding, let's confirm that this form is not a duplicate or redundant. We can assume that it is not, as the form's purpose and fields are unique to security incident reporting.
-
-</thinking>
-
 # Metro Security Report Form - Help Guide
 ## Purpose
 The Metro Security Report Form is designed for reporting security incidents, collecting various information about the incident, and its location, and the reporting officer's details.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for researchers and participants to express interest in potential research studies, allowing them to provide information about their interest in the study, contact preferences, and additional comments. This form is likely to be used by study administrators, directors, or coordinators to gather relevant participant data for study organization and participant management. To prevent duplicates, the form should be filled out only once per participant. Please ensure that the form is filled out accurately and thoroughly to facilitate proper participant assignment and study follow-up.
-</thinking>
 # Research Study Interest Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from researchers and participants interested in potential research studies. It allows them to provide details about their interest in studies, contact preferences, and other relevant information.

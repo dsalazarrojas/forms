@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # staff_interactive_museum_info - Help Guide
 ## Purpose
 This form is intended to collect information about museum staff, including their personal details and relevant notes. The form is used for internal purposes and does not require a login to access.

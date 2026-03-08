@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from clients for an auto technician service agreement, which is a crucial document for any car repair shop. The form helps to gather essential details about the client and their vehicle, including their name, contact information, vehicle identification number, and the services required. It also includes a section for clients to provide specific instructions or details for the technician, which is helpful for ensuring the work is done according to the client's requirements. The form has multiple pages and fields, and each field has a specific label and type that helps to explain its purpose. For example, the "Client Full Name" field is a text field that requires the client's legal name, while the "Services to be Performed" field is a select_multiple field where clients can choose from a list of services to be performed on their vehicle. 
-</thinking>
-
 # Auto Technician Service Agreement - Help Guide
 
 ## Purpose

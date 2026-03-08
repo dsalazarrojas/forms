@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Therapist Service Invoice - Help Guide
 
 ## Purpose

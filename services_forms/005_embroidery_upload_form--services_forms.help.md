@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users upload embroidery files for review and processing. It is intended to be a simple, one-page form that allows users to select a file and provide some basic contact information. The form does not require a password, and the upload confirmation field is not intended to be filled out by users but rather serves as a placeholder for a confirmation message that will be displayed after a successful upload. I have reviewed the fields and ensured that they are all optional, except for the "File Uploader" field, which is required to select a file, and the "Upload" field, which is the submit button. This form should be used for internal purposes only, and the fields will be reviewed and processed by authorized personnel.
-</thinking>
-
 # embroidery_upload_form - Help Guide
 ## Purpose
 This form is designed to help users upload embroidery files for review and processing. It is a simple, one-page form that allows users to select a file and provide some basic contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_entry_with_easy_search - Help Guide
 
 ## Purpose

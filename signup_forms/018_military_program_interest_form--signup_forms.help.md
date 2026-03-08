@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in military programs. It gathers personal details such as name, contact information, and other relevant data to facilitate communication and coordination. It is essential to ensure that the data entered is accurate and up-to-date to avoid duplication of efforts or miscommunication.
-
-Before filling out this form, please ensure that you are providing accurate and relevant information. This form is not intended for duplicate submissions, so please do not fill it out multiple times.
-
-This guide will walk you through each field and provide explanations to help you complete it accurately.</thinking>
-
 # Military Program Interest Form - Help Guide
 ## Purpose
 

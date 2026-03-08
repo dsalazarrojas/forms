@@ -1,31 +1,3 @@
-<thinking>
-This is a form for applying to be a Virtual Assistant. The primary purpose of this form is to collect information about the user who is interested in becoming a Virtual Assistant. This form is used to gather data that will be used by the organization to determine the suitability of the applicant for the role. It is intended to be used by applicants who are interested in working with customers, sales, marketing, social media, or digital marketing. 
-
-This form is designed to collect information that is not already available in the applicant's resume or other forms of contact. The goal is to get to know the applicant better, understand their skills and availability, and determine if they would be a good fit for the role. 
-
-Please note that the form is not intended to be a comprehensive assessment of the applicant's qualifications, but rather a starting point for further evaluation. 
-
-To ensure that the form is filled out correctly and accurately, please make sure to fill out each field carefully and provide as much detail as possible. 
-
-This form should only be filled out by individuals who are genuinely interested in becoming a Virtual Assistant. 
-
-The form has the following fields: 
-
-* User Information 
-* First Name 
-* Last Name 
-* Email 
-* Phone 
-* Availability 
-* Preferred Hours 
-* Skills 
-* Experience 
-* Availability Date 
-
-Please fill out the form carefully and honestly, and make sure to include all required fields. 
-
-</thinking>
-
 # virtual_assistant_application_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking> 
-The form "subscription_service_authorization_form" is intended to collect user information for subscription services authorization. 
-
-The form is likely used for users to provide details about their subscription service authorization requests, including selecting a service, entering user input, and specifying payment and timezone details. This form is probably part of an internal process for handling user requests for subscription services.
-</thinking>
-
 # subscription_service_authorization_form - Help Guide
 ## Purpose
 The subscription_service_authorization_form collects information required for subscription service authorization requests.

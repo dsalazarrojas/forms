@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their preferences for catchy username suggestions. The form will ask for personal details, preferred styles, and specific requirements for the username, such as the platform or use case, the style, the length, and the tone. The form will ensure that the username suggestions are tailored to the user's preferences. This is not a duplicate request, and the user should only fill out this form once.
-
-</thinking>
-
 # Catchy Username Suggestions - Help Guide
 ## Purpose
 This form is designed to help us understand your preferences for catchy username suggestions. Please fill out the form below to provide us with the necessary information to create a username that fits your style and needs.

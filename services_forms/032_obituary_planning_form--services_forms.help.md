@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to collect information about a deceased individual for the purpose of creating an obituary, which is a public announcement of the death of a person, often published in a newspaper or online. This form is intended to gather relevant details about the deceased, including their name, address, date and place of death, and other relevant information that will be used to craft a respectful and informative obituary. The form is likely used by family members or funeral homes to create an obituary, and the goal is to make it easy for users to provide all the necessary information in a clear and concise manner.
-
-This form is not intended for use in a production environment, and the instructions and explanations are provided to guide users through the completion of the form. 
-
-The form fields are organized into a series of pages, each with its own set of fields. Each field has a label, a hint (if provided), and a type (text, date, or time). The required fields are marked as such.
-
-The form is not intended for multiple deceased individuals at once, but rather for a single deceased person. 
-
-</thinking>
-
 # Obituary Planning Form - Help Guide
 ## Purpose
 This form is designed to collect information about a deceased individual for the purpose of creating an obituary.

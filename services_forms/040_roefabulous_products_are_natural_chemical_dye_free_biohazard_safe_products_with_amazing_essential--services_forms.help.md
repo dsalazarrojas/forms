@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their preferences for products that are natural, chemical-dye-free, and biohazard-safe. The purpose of this form is to help Roefabulous understand their customers' needs and provide them with relevant product recommendations. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original creation. The form's metadata is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit. The form has six fields: soy_wax_candle, product_choice, scent_choise, biohazard_safe, more_products, and description. Before proceeding, let's ensure that this form is not a duplicate of any existing form, and that the provided metadata is accurate and relevant to the form's purpose. 
-</thinking>
-
 # Roefabulous, Products Are Natural Chemical Dye Free, Biohazard Safe Products With Amazing Essential - Help Guide
 ## Purpose
 This form is designed to help Roefabulous understand customer preferences for natural, chemical-dye-free, and biohazard-safe products.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to cancel a parking permit. The purpose of this form is to gather information from the person or entity requesting to cancel a parking permit. The form will ask for details such as the parking permit number, reason for cancellation, and date of cancellation among other details. It is essential to provide accurate information to facilitate a smooth cancellation process. Before filling this form, ensure you have the required information and understand the implications of submitting this form. 
-Please note that this form might not be applicable to all types of parking permits. Check with the issuer of the parking permit before proceeding.
-</thinking>
-
 # Parking Permit Cancellation Form - Help Guide
 ## Purpose
 This form is used to cancel a parking permit. Please provide accurate information to facilitate a smooth cancellation process.

@@ -1,25 +1,3 @@
-<thinking>
-This form is used to collect information from users who are interested in joining a happy hour waitlist. The purpose of this form is to gather contact information and preferences from individuals who would like to be notified when a happy hour event is scheduled. The form is designed to be completed by individuals who are interested in attending a happy hour event, but do not have a reservation yet. The form will be reviewed internally to determine suitability for the happy hour waitlist.
-
-The form collects the following information:
-- First name
-- Last name
-- Email (optional)
-- Phone (optional)
-- Date of Birth (optional)
-- Time (optional)
-- Note (optional)
-- Reservation Time (optional)
-- Reservation Date (optional)
-- Reservation Note (optional)
-- Number of Guests (optional)
-- Special Request (optional)
-- Contact Name (optional)
-- Contact Phone (optional)
-- Contact Email (optional)
-
-</thinking>
-
 # happy_hour_waitlist_sign_up - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in joining a happy hour waitlist. It helps the internal team determine suitability for the waitlist.

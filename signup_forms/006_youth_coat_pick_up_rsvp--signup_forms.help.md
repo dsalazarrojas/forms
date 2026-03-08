@@ -1,7 +1,3 @@
-<thinking>
-This form is used for youth coat pick up RSVP management. It's essential to ensure accurate and timely pickup of youth coats. This form will help us manage the process efficiently. Please fill out the form carefully to avoid any mistakes. Make sure to fill in all required fields. If you have any issues, contact your coordinator.
-</thinking>
-
 # Youth Coat Pick Up RSVP - Help Guide
 ## Purpose
 This form is designed to collect information for the youth coat pick up event. It helps us ensure that we have accurate pickup details for each youth participant.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from individuals who want to sign up for a volunteer opportunity. The form is likely to be used by event planners or organizers to gather necessary details from potential volunteers, such as their name, contact information, and preferences. The form should not be completed if the person has already signed up for this volunteer opportunity, as they will be listed as already signed up.
-
-</thinking>
-
 # Sign Up Sheet - Help Guide
 
 ## Purpose

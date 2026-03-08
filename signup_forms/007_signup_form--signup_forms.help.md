@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user information for signup purposes. It includes fields for first name, last name, email, password, confirm email, signup status, terms of service agreement, notes, form ID, created at, updated at, phone number, creator, created time, updated reported time, updated time, signup date, form version, user ID, user, password hash, user email, creator 2, and selected terms of service options. The form may be used for various signup processes, such as user registration or account creation. It's essential to ensure that the user understands the purpose of this form and its required fields to provide accurate and complete information.
-
-To avoid duplication of effort, it's crucial to review the form's design and content carefully before filling it out. Double-check that all required fields are accurately filled in before submitting the form.
-</thinking>
-
 # Signup Form - Help Guide
 ## Purpose
 The Signup Form is designed to collect user information for signup purposes.

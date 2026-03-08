@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for talent to sign up for virtual events. As an event organizer, you will need to gather information from the talent regarding the type of talent they are, the duration and details of their performance, the event they are participating in, and contact information.
-
-Before filling out this form, please ensure you have not already signed up for the event. If you are an event organizer, you will only see events that you are hosting. This is a one-time sign up, and talent can only sign up once per event.
-
-The form is divided into several sections that gather specific information from the talent.
-
-</thinking>
-
 # Virtual Event Talent Sign Up Form - Help Guide
 ## Purpose
 The Virtual Event Talent Sign Up Form is designed for talent to provide their information and sign up for virtual events hosted by event organizers.

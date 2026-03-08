@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to track delivery information for waste management services, allowing drivers to provide detailed records of deliveries, pick-ups, and other services performed. This form captures essential details such as driver and vehicle information, customer data, delivery timing, and any issues encountered during the process. By completing this form accurately, drivers can ensure that delivery records are up-to-date and help supervisors make informed decisions.
 
 </thinking>

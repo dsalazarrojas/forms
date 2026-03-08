@@ -1,9 +1,3 @@
-<thinking>
-
-The phone interaction assessment form is designed to evaluate and record the quality of phone interactions between customers and customer service representatives. The form aims to gather data on various aspects of these interactions, including ratings, ratings descriptions, tones, communication effectiveness, representative skills, call length, call quality, response times, customer satisfaction, representative satisfaction, follow-up actions, and additional comments. To ensure accurate and complete data collection, it's essential to understand each field's purpose and relevance.
-
-</thinking>
-
 # phone_interaction_assessment_form - Help Guide
 ## Purpose
 The phone interaction assessment form is used to evaluate and record the quality of phone interactions between customers and customer service representatives.

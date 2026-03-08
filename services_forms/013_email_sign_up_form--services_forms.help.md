@@ -1,14 +1,3 @@
-<thinking>
-This is a help guide for the email_sign_up_form. The purpose of this form is to collect user information such as email, phone number, and organization for service registration and verification. The form is used to ensure that users have a verified email and service id, which is a crucial part of our service's registration process.
-
-The form is split into multiple pages, with each page focusing on one specific type of information. The form requires the user to enter their first name, last name, email address, and service id. The user is then asked to confirm their email address and service id. The form also includes an optional field for phone number and organization.
-
-This form is not intended for existing users, as it is primarily used for new users to sign up for our service. The form is designed to be simple and easy to understand, with clear labels and instructions for each field.
-
-Please note that some fields are required, and users must complete all required fields before submitting the form. The form will not be submitted if any required field is left blank.
-
-</thinking>
-
 # email_sign_up_form - Help Guide
 ## Purpose
 The email_sign_up_form is used for new users to sign up for our service. It collects user information such as email, phone number, and organization for registration and verification purposes.

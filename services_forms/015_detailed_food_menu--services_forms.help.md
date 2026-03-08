@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information about food items, including their categories, prices, availability, and status. The purpose of this form is to create or update a detailed food menu for a business. It appears that the form is divided into multiple pages, each containing different fields related to food items. The form seems to be used to manage the availability and pricing of food items, as well as their status and images. It also includes fields for food descriptions and availability times.
-
-To confirm, this form is intended for business use, such as creating or updating menus for restaurants, cafes, or similar establishments. However, without further information, it's hard to say for certain. If you have any additional context or details, I'd be happy to help you better understand the form's purpose and requirements.
-
-</thinking>
-
 # Detailed Food Menu - Help Guide
 ## Purpose
 The Detailed Food Menu form is designed to create or update a detailed menu for a business, including information about food items, categories, prices, availability, and status.

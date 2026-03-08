@@ -1,5 +1,3 @@
-<thinking>This form is a crucial document that helps us ensure you, as a parent or guardian, are aware and agree to the use of your child's image, name, and likeness in various ways. Please review each field carefully to understand how their information will be used. Note that some fields may not be required for you to complete, but it's essential to review each field's purpose to understand your child's publicity rights and how you can authorize or refuse their use. This form is not for internal use only; it will be shared with your child, if appropriate, and possibly other parties involved in the project. Please ensure you understand each field's purpose before proceeding.</thinking>
-
 # Parent Guardian Publicity Authorization And Release Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect medical information from patients, including their name, contact details, medical condition, and medical history. This data will be used for administrative purposes. Please ensure the correct fields are completed to avoid duplication or misrouting of records.
-</thinking>
-
 # Medical First Point Of Contact Form Template - Help Guide
 ## Purpose
 This form collects information from patients for medical-related purposes.

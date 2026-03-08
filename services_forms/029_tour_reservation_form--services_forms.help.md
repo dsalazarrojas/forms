@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the tour reservation form is filled out correctly to provide accurate information and avoid confusion.
-The form seems to be a general form for reservations, but it's essential to clarify the purpose, required fields, and any potential ambiguities.
-</thinking>
-
 # tour_reservation_form - Help Guide
 ## Purpose
 The tour reservation form is designed to collect information from customers about their tour preferences and details. This form will be used to create a record of their tour reservation.

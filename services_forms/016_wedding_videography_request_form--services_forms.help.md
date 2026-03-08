@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help guide users through the process of filling out the Wedding Videography Request Form, we'll break down each section and explain each field in detail.
 
 # Wedding Videography Request Form - Help Guide

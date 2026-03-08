@@ -1,5 +1,3 @@
-<thinking>...This is a form designed to collect information for spa onboarding appointments. The form likely serves a customer-facing purpose, allowing users to schedule and request meetings or consultations with a spa brand representative. To use this form, users must have a valid email and phone number associated with their account or be willing to provide a new contact method. The form's layout and options are likely tailored to suit the needs of the spa brand's onboarding process, which could include selecting specific services or products the user is interested in, specifying a preferred date and time, or opting for different service types... </thinking>
-
 # spa_brand_onboarding_appointment_form - Help Guide
 ## Purpose
 This form is used to schedule and request meetings or consultations with a spa brand representative.

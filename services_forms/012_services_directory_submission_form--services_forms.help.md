@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to be a submission form for services, allowing users to add new services to a directory. The purpose of this form is to collect information about the service, including its title, description, and service type. This form is optional and does not require any mandatory fields to be filled out.
-
-To avoid duplication, users will be prompted to check if the service already exists in the directory before submitting a new entry.
-
-The form will be used by users to submit their services to a shared directory, which will be visible to all users who have access to the directory.
-
-</thinking>
-
 # services_directory_submission_form - Help Guide
 ## Purpose
 The purpose of this form is to allow users to submit their services to a shared directory.

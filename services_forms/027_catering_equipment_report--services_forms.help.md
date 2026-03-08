@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Equipment Report - Help Guide
 ## Purpose
 

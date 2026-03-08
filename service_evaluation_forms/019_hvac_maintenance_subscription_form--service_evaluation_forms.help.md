@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers to provide information and schedule maintenance for their Heating, Ventilation, and Air Conditioning (HVAC) systems. The form should only be used for customers who are interested in subscribing to a maintenance plan for their HVAC system. The form is split into sections to gather information about the customer, their maintenance plans, payment terms, maintenance schedule, and any additional notes or contact information.
-</thinking>
-
 # hvac_maintenance_subscription_form - Help Guide
 ## Purpose
 The hvac_maintenance_subscription_form is used to gather information from customers who want to subscribe to a maintenance plan for their HVAC system.

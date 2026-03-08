@@ -1,12 +1,3 @@
-<thinking>
-This form was designed to be a simple, user-friendly interface for customers to contact the service team with their questions, issues, or comments. The form is meant to be accessible and easy to understand, with clear labeling and minimal requirements for completion. The fields are intended to capture basic contact information and a brief description of the issue or question. The form is not intended to be a comprehensive or in-depth survey, but rather a quick and straightforward way for customers to get in touch.
-
-To ensure that this form is used effectively, please do not use it for:
-- Repeated or duplicate submissions (e.g., multiple submissions for the same issue).
-- Sharing sensitive or confidential information.
-- Submitting spam or malicious content.
-</thinking>
-
 # Customer Service Contact Form - Help Guide
 
 ## Purpose

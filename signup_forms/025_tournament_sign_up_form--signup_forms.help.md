@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to collect information from potential team members to register for a tournament. This form is meant to be a simple way to gather team names and individual player names, email addresses, and phone numbers. The fields are designed to be optional, allowing team captains to provide as much or as little information as they need. There is no specific logic for requiring or disallowing fields, so it is up to the team captain to fill out the form with relevant information. This form is likely used for a sports tournament or competition, and the goal is to get teams signed up and ready to go.
-</thinking>
-
 # tournament_sign_up_form - Help Guide
 ## Purpose
 This form is designed to collect information from teams and their players to register for a tournament.

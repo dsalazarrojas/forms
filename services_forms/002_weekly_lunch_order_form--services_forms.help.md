@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to place orders for weekly lunch services. 
-The form is intended to be used for employees who need to order lunch for the week, and it is likely used in an office or work environment. 
-The form should only be used for ordering lunches, not for other types of orders or requests.
-</thinking>
-
 # weekly_lunch_order_form - Help Guide
 ## Purpose
 The weekly lunch order form is a tool for employees to place orders for lunch services. It is designed to be easy to use and understand, with clear labels and instructions to ensure accurate and efficient orders.

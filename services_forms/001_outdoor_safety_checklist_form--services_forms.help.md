@@ -1,12 +1,3 @@
-<thinking>
-I will create a user-friendly help guide for the "Outdoor Safety Checklist Form" using the provided YAML fields. This form appears to be a simple text-based checklist with 25 checklist items, but I'll provide a clear and concise guide to help users understand its purpose and how to fill it out effectively.
-
-The purpose of this form is to provide an easy-to-use checklist for outdoor safety, ensuring that users cover all essential tasks before embarking on an outdoor activity. This form will help users quickly scan and review safety items, reducing the risk of accidents and ensuring a safe experience.
-
-This form can be used in various settings, such as before hiking, camping, or any other outdoor activity. It's a straightforward guide for users to follow, and it's perfect for groups or individuals to use as a reference.
-
-</thinking>
-
 # Outdoor Safety Checklist Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report the activity of a clinic during a specific week. The purpose of this form is to capture details about the clinic's operations, such as the start and end dates of the week, the number of staff present, and any notable events or activities that took place during that time. This form should be completed by clinic staff or management to provide a comprehensive overview of the clinic's activity for the week.
-</thinking>
-
 # Weekly Clinic Activity Report - Help Guide
 ## Purpose
 The Weekly Clinic Activity Report form is used to document and report on the activity of a clinic during a specific week. This includes the start and end dates of the week, the number of staff present, and any notable events or activities that took place during that time.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the Emergency Preparadness Documentary Consent Form. The purpose of this form is to gather information about participants in a project, event, or program. This form is required for all participants and supporters. Please note that this guide is for informational purposes only and is not intended to be a substitute for official guidance or instructions from the project or organization administering the form.
-
-</thinking>
-
 # Emergency Preparadness Documentary Consent Form - Help Guide
 ## Purpose
 The Emergency Preparadness Documentary Consent Form is used to gather information about participants and their roles in a project, event, or program. This form is required for all participants and supporters to provide their consent for the use of their personal details in emergency situations.

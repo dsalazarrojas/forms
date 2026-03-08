@@ -1,7 +1,3 @@
-<thinking>
-The form "DSWD Appointment Request Form" is likely used to request appointment scheduling with a services provider. It might be used for various types of appointments, such as medical check-ups, maintenance services, or other types of professional consultations. The form collects basic contact information and specific services requested, which could be helpful for the provider to prepare and deliver the best services.
-</thinking>
-
 # DSWD Appointment Request Form - Help Guide
 ## Purpose
 This form is used to request an appointment with a services provider. You will be asked to provide basic contact information and select the services you are interested in.

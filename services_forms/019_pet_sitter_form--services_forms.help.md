@@ -1,9 +1,3 @@
-<thinking> This form is designed to collect information from pet owners about their pets, specifically about their sitting preferences, habits, and characteristics. This form aims to gather essential details that will help the pet sitter provide optimal care and attention to the pet during their stay. It is essential that pet owners fill out this form accurately and completely so that the sitter can understand their pet's unique needs. 
-
-Please note that this form has various fields for different types of information, such as date of birth, size, weight, and vaccination history. Some fields may have multiple options, like select_one or select_multiple, which require the pet owner to choose one or multiple options from the list. 
-
-Before starting, make sure you have all the necessary information about your pet and are ready to provide accurate and honest answers. </thinking>
-
 # Pet Sitter Form - Help Guide
 ## Purpose
 The Pet Sitter Form is designed to collect essential information about your pet to ensure we can provide the best care and attention during their stay.

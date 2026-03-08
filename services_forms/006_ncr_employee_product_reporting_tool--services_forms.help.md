@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting products that have caused problems or issues for employees. The purpose of this form is to gather information about the product, the employee who reported the problem, and the progress made towards resolving the issue. This form is only for employees who have experienced problems with products. 
-</thinking>
-
 # NCR Employee Product Reporting Tool - Help Guide
 ## Purpose
 The NCR Employee Product Reporting Tool is a form designed to help employees report issues with products they have encountered. By reporting these issues, employees can help improve product quality and contribute to a safer work environment.

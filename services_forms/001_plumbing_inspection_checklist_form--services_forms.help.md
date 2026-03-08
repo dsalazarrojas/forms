@@ -1,9 +1,3 @@
-<thinking>
-A plumbing inspection checklist form is a crucial tool for professionals to record and document the findings of a plumbing-related inspection. This form is often used by plumbers, contractors, or home inspectors to gather information about a property's plumbing system, identify potential issues, and schedule repairs or maintenance tasks. It's a critical tool for ensuring that the plumbing system is safe, functional, and in compliance with local codes and regulations.
-
-The form consists of several fields that require completion by the inspector or relevant personnel. Please ensure that you understand the purpose and requirements of this form before proceeding.
-</thinking>
-
 # plumbing_inspection_checklist_form - Help Guide
 ## Purpose
 This form is designed for professionals to document and report findings from a plumbing-related inspection. It is used to gather information about a property's plumbing system, identify potential issues, and schedule repairs or maintenance tasks.

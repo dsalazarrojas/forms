@@ -1,6 +1,3 @@
-<thinking>
-We need to determine whether this form was created to gather feedback from customers or employees, but it seems that it was designed to collect ratings and feedback from customers. Given the presence of fields like "Rating Score" and "Comment", it's likely that this form is used for service evaluation purposes. However, without further information, we can't confirm this with certainty.</thinking>
-
 # Service And Hospitality Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from customers about their experience with our services. Your input will help us understand your needs and improve our services.

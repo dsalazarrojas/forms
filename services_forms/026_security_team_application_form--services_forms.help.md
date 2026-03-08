@@ -1,11 +1,3 @@
-<thinking> 
-This form is intended to help the security team identify potential candidates for security-related tasks and roles. The purpose of this form is to gather information about your availability, experience, and skills to help the team determine your suitability for these positions. Please complete this form accurately and thoroughly to provide the necessary information. 
-
-Please note that filling out this form is a non-committal process and does not guarantee you a position on the security team. 
-
-This form will ask about your availability, experience, and skills, and your answers will help the team assess your qualifications and match you with suitable opportunities. 
-</thinking>
-
 # Security Team Application Form - Help Guide
 ## Purpose
 The Security Team Application Form is a tool designed to help identify potential candidates for security-related tasks and roles. Completing this form will provide valuable information about your availability, experience, and skills to the security team, who will use this information to determine your suitability for security positions.

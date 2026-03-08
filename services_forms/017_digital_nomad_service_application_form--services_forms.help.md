@@ -1,12 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the Digital Nomad Service Application Form. This form is designed to help users submit an application for services related to digital nomadism, a lifestyle that combines travel and work in a remote setting. The form is intended to collect relevant information from applicants, such as their name, contact details, and service requirements. Before proceeding, make sure you've checked if you've already submitted an application, as duplicate entries will not be processed.
-
-This form is used by digital nomads who are interested in accessing services that cater to their unique needs while working and traveling remotely. It's essential to provide accurate and complete information to ensure that your application is processed efficiently and effectively.
-
-Please follow the instructions in this help guide to fill out the form correctly.
-
-</thinking>
-
 # Digital Nomad Service Application Form - Help Guide
 
 ## Purpose

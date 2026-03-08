@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals who want to volunteer at a dog show event. The form is not required for internal employees, but rather for external participants and volunteers. The form's purpose is to collect contact information, availability, and other relevant details from volunteers. 
-
-The form is designed to be completed by individuals who are interested in volunteering at a dog show event. The form should not be completed by internal employees, as they are already aware of the internal processes and procedures. 
-
-The form will be used to gather information about the volunteers' availability and contact details, which will help the event organizers to assign the right tasks to the volunteers based on their availability and skills. 
-
-Please make sure to fill out the form accurately and completely, as the information provided will be used to assign tasks and ensure a smooth execution of the event. 
-
-</thinking>
-
 # Dog Show Volunteer Sign Up Form - Help Guide
 ## Purpose
 The Dog Show Volunteer Sign Up Form is designed to gather information from individuals who want to volunteer at a dog show event. This form is intended for external participants and volunteers.

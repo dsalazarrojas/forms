@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Natural Ingredient Research Network Registration Form - Help Guide
 ## Purpose
 The Natural Ingredient Research Network Registration Form is designed to gather information from researchers interested in joining the network. By filling out this form, you will be providing the network administrators with essential details about yourself, such as your first and last name, contact information, research experience, and interests. This information will help the network administrators verify your identity and ensure a smooth integration into the research community. Please note that some fields are optional, and you can skip them if you're not comfortable providing that information.

@@ -1,30 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "driver_safety_declaration_form" form. This form is intended to collect information about a driver's safety declaration, including their general information, driver license history, vehicle information, and more. This form is likely used in a commercial or industrial setting, such as a transportation company or a fleet management system, to track and record driver and vehicle data. The form is designed to be completed by drivers or fleet managers to ensure that all necessary information is collected and recorded accurately and efficiently. This guide is meant to help users understand the purpose and functionality of the form, as well as how to complete it correctly. 
-
-The form appears to be a comprehensive document with multiple sections, including:
-
-* General Information (id: 1): This section collects basic information about the driver.
-* Driver License History (id: 2): This section asks whether the driver has a valid license, with options "True" or "False".
-* Vehicle Information (id: 3): This section collects text input about the vehicle being driven.
-* Driver Experience (id: 4): This section likely collects numerical input about the driver's experience or years of driving.
-* Vehicle Accidents (id: 5): This section likely collects text input about any vehicle accidents or incidents.
-* Driver License Status (id: 6): This section asks for the status of the driver's license, with options "active" or "inactive".
-* Driving History (id: 7): This section likely collects date input about the driver's driving history, such as the date of their first license or the last accident date.
-* Vehicle License Number (id: 8): This section collects text input about the vehicle's license number.
-* Vehicle Make (id: 9): This section asks for the vehicle's make, with options "Toyota", "Honda", "Other".
-* Vehicle Model (id: 10): This section collects text input about the vehicle's model.
-* Vehicle Year (id: 11): This section likely collects numerical input about the vehicle's year.
-* Vehicle Registration (id: 12): This section collects text input about the vehicle's registration.
-* Driver License Number (id: 13): This section collects text input about the driver's license number.
-* Driver Address (id: 14): This section collects text input about the driver's address.
-* Driver Phone (id: 15): This section collects text input about the driver's phone number.
-* Vehicle License Status (id: 16): This section asks for the status of the vehicle's license, with options "active" or "inactive".
-* Vehicle Make Status (id: 17): This section asks for the status of the vehicle's make, with options "active" or "inactive".
-* Vehicle Model Status (id: 18): This section asks for the status of the vehicle's model, with options "active" or "inactive".
-* Vehicle Status (id: 19): This section asks for the status of the vehicle, with options "active" or "inactive".
-
-</thinking>
-
 # driver_safety_declaration_form - Help Guide
 ## Purpose
 The driver_safety_declaration_form is a comprehensive form used to track and record driver and vehicle data in a transportation or fleet management setting. It collects information about a driver's general information, driver license history, vehicle information, and more.

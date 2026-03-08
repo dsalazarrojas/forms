@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the services module. The purpose of this form is to collect information from customers for dog daycare reservations. The form is likely used to manage and organize reservations, ensuring that relevant information is collected and stored for efficient service delivery.
-</thinking>
-
 # Dog Daycare Reservation Form - Help Guide
 ## Purpose
 This form is used to collect information for dog daycare reservations. It will help us understand your reservation details, payment method, and other relevant information to provide the best service for your furry friend.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from users who want to subscribe to your email newsletter. It contains three fields: "Signup Form", "Email", "Name", and "Confirm Email". This form should only be used for its intended purpose and not for any other use case. Please fill it out with the required and optional information as prompted, and be cautious not to submit duplicate or fake data. 
-</thinking>
-
 # Email Newsletter Subscription Form - Help Guide
 ## Purpose
 This is a simple email newsletter subscription form designed to collect users' contact information for the newsletter mailing list.

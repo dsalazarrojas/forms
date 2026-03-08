@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to log their work progress and activities in a standardized manner. This form is designed to track key aspects of work sessions, including start and end dates/times, task titles, descriptions, and durations, as well as the current status of tasks. By using this form, users can maintain a consistent record of their work and easily track their progress over time.
-</thinking>
-
 # Standard Work Log Template - Help Guide
 
 ## Purpose

@@ -1,34 +1,3 @@
-<thinking>
-This form is used to capture an agreement for a photography session, specifically the LuLaRoe addendum. 
-It appears to be a contract between the photographer and the client, detailing the services provided, contract terms, payment information, and other relevant details. This form likely serves as an attachment or addendum to the main photography session agreement.
-
-Before creating the user-facing help guide, I'll need to ensure that this form is not a duplicate or outdated. Let's review the form fields to understand what each field is intended for:
-
-- Field 1: This is the title of the document.
-- Field 2: Services provided by the photographer.
-- Field 3: Details about the services provided.
-- Field 4: Contract information.
-- Field 5: Contract terms.
-- Field 6: Contract term date.
-- Field 7: Start date of contract term.
-- Field 8: End date of contract term.
-- Field 9: Duration of contract term.
-- Field 10: Notes about contract term.
-- Field 11: Payment information.
-- Field 12: Amount paid.
-- Field 13: Payment method (e.g. Cash, PayPal, Stripe, Bank Transfer).
-- Field 14: Payment terms.
-- Field 15: Client information.
-- Field 16: Services price.
-- Field 17: General terms and conditions.
-- Field 18: Signature block for the client.
-- Field 19: Date the agreement was signed.
-- Field 20: Time the agreement was signed.
-- Field 21: Location where the photography session took place.
-- Field 22: Additional notes.
-
-After reviewing the form, I'll create a user-facing help guide that explains each field in a clear and concise manner.</thinking>
-
 # Photography Session Agreement LuLaRoe Addendum - Help Guide
 ## Purpose
 This form is used to capture an agreement for a photography session, specifically the LuLaRoe addendum. It's a contract between the photographer and the client, detailing the services provided, contract terms, payment information, and other relevant details.

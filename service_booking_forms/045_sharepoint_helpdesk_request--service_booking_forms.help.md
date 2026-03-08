@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to submit a request to the helpdesk for assistance with SharePoint site updates. This form is typically used by end-users who need help with various SharePoint site-related tasks, such as adding or removing users from groups, updating user permissions, creating or deleting sites, or other similar tasks. Before submitting a request, make sure to review the options carefully and select the most accurate one that describes your issue. If unsure, select "Other" and provide a detailed explanation of your problem.
-</thinking>
-
 # sharepoint_helpdesk_request - Help Guide
 ## Purpose
 

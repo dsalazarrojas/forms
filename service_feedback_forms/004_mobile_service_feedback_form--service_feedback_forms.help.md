@@ -1,11 +1,3 @@
-<thinking>
-The "Mobile Service Feedback Form" is used to collect feedback from customers about their service experience. This form is designed to be completed by customers who have used the mobile service and want to share their thoughts on how it could be improved. It's essential that customers provide feedback to help the service improve its quality and meet their needs better.
-
-This form should only be completed by customers who have actually used the service and want to provide constructive feedback. Please do not fill out this form if you're just curious about the service or if you've never used it before.
-
-Before proceeding, make sure that you're not duplicating your feedback. If you've already provided feedback, you can skip this form.
-</thinking>
-
 # Mobile Service Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their service experience, helping us improve the quality and meet their needs better.

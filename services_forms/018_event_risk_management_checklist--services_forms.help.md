@@ -1,7 +1,3 @@
-<thinking>
-The Event Risk Management Checklist form is used to identify and assess potential risks associated with events, ensuring that all necessary risk control measures are in place to mitigate them. This form is a crucial tool to review and manage event-related risks, ensuring that events are conducted in a safe and controlled environment. By following this guide, users can effectively fill out the form, which is divided into sections for risk identification, risk categorization, risk assessment, and emergency procedures.
-</thinking>
-
 # Event Risk Management Checklist - Help Guide
 ## Purpose
 The Event Risk Management Checklist is used to identify and assess potential risks associated with events, ensuring that all necessary risk control measures are in place to mitigate them.

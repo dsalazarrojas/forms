@@ -1,16 +1,3 @@
-<thinking>
-The internal reasoning block to consider when creating this help guide:
-
-- The form is intended to collect information about a pet, specifically its exam details.
-- The form has a mix of text fields, select options, and a note field, indicating that users need to provide various types of information.
-- The form is not required, which means that users can leave some fields blank.
-- The select options for "Pet Type", "Breed", "Color", "Health", and "Vaccinations" suggest that the user should have a clear understanding of the available options.
-- The presence of a "note" field for "Medical Notes" suggests that users may need to provide a brief description or additional information about the pet.
-- The fields "Doctor Name", "Doctor Phone", and "Doctor Email" imply that the user may need to provide contact information for the pet's doctor.
-- There is no clear indication of how the user will use the form, but it is likely used for medical purposes.
-
-</thinking>
-
 # Pet Exam Form - Help Guide
 
 ## Purpose

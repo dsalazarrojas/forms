@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Holiday Gift Sign Up Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This guide will be based on the provided YAML fields and structured in Markdown format for clarity and readability.</thinking>
-
 # Holiday Gift Sign Up Form - Help Guide
 ## Purpose
 The "Holiday Gift Sign Up Form" is a tool used to collect information from individuals who wish to sign up for a holiday gift, allowing organizers to track and manage the gift list. This form helps to gather details such as category preferences, contact information, and gift choices.

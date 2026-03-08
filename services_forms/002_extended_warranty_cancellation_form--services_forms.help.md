@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to initiate the cancellation of an extended warranty. The form collects information from the customer to confirm the cancellation of their extended warranty. The form is used to ensure that the customer's cancellation request is processed correctly and that they are aware of any necessary next steps.
-
-When filling out this form, ensure that the customer provides accurate and complete information. The form is typically filled out when a customer has decided they want to cancel their extended warranty, and it may be filled out by either the customer or a representative acting on the customer's behalf.
-
-</thinking>
-
 # extendedWarrantyCancellationForm - Help Guide
 
 ## Purpose

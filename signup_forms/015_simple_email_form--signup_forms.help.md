@@ -1,7 +1,3 @@
-<thinking>
-The form "Simple Email Form" is a straightforward form designed to collect basic contact information and any additional message from end users. To ensure that the form is being completed with the correct information, we need to verify if the provided form fields are properly completed and not duplicated.
-</thinking>
-
 # Simple Email Form - Help Guide
 ## Purpose
 The Simple Email Form is used to collect contact information and any additional message from end users. This form is essential for communication and may be used for various purposes such as customer support, feedback, or general inquiries.

@@ -1,14 +1,3 @@
-<thinking>
-This form is for users to register for cable TV services online. To ensure accuracy, this guide will only explain how to complete the form, without assuming any business logic or proprietary information. The goal is to provide a clear understanding of each field's purpose and expected input.
-
-Please note that the form is divided into several sections, and each field is explained in its relevant context. This guide is designed for end-users who are not familiar with cable TV registration processes.
-
-The guide will cover the form's purpose, instructions on how to complete it, and a field-by-field explanation of each section. This will help ensure that users understand each field's significance and what is expected from them.
-
-Before proceeding, please read through this guide carefully and ask for clarification if any questions arise during the completion process.
-
-</thinking>
-
 # Cable TV Registration Online Application Form - Help Guide
 
 ## Purpose

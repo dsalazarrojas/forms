@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent from donors for sharing and publishing their quotes in various formats. The purpose of this form is to ensure that donors are aware of how their quotes will be shared and published, and to obtain their explicit consent before doing so. This form should only be filled out by donors who have already been approached for a quote, as it is not intended for general public filling out.
-</thinking>
-
 # Donor Quote Publication Consent Form - Help Guide
 
 ## Purpose

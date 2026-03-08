@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to subscribe to mental health updates, likely for the purpose of staying informed about relevant news, events, or resources related to mental health. This form is likely to be used by individuals or organizations interested in staying up-to-date on mental health topics. To ensure that only relevant and unique submissions are captured, we should check if the user's email address already exists in our system before accepting their subscription.
-
-</thinking>
-
 # Subscribe To Mental Health Updates - Help Guide
 ## Purpose
 The purpose of this form is to allow users to subscribe to mental health updates, enabling them to stay informed about relevant news, events, or resources.

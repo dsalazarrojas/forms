@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used for streaming service membership enrollment. The form should be straightforward, easy to understand, and provide clarity on its purpose, completion, and field explanations. This will ensure that end-users can quickly and accurately fill out the form. We also need to ensure that each field label is clear, concise, and doesn't require deep business logic understanding. The final guide should be in Markdown format, with a consistent structure and tone.
-</thinking>
-
 # Streaming Service Membership Enrollment - Help Guide
 ## Purpose
 This form is designed for new users to enroll in our streaming service membership. Please fill out the form below to create or manage your membership account.

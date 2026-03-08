@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a new resident's details. This form is used to gather essential data for the resident's records and to ensure a smooth transition into the building or community. It's crucial that the form is completed accurately and thoroughly to avoid any issues during the resident's stay. Please make sure to fill out this form only once for each new resident to avoid duplication of records.
-</thinking>
-
 # new_resident_checklist - Help Guide
 ## Purpose
 The new_resident_checklist form is used to collect information about a new resident's details for the resident's records and to ensure a smooth transition into the building or community.

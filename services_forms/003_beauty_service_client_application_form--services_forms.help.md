@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from clients interested in availing beauty services. This form will collect personal details, medical history, and consent for services. It's intended for internal use and not for external sharing or publishing. Ensure that all fields are filled accurately and according to the format specified.
-</thinking>
-
 # Beauty Service Client Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients for beauty services. It is a mandatory form that requires clients to fill in their personal details, medical history, and consent for services.

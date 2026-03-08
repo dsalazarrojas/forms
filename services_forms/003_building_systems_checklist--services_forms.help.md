@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on the status of building systems, including security, safety, and external systems. It's essential to complete this form thoroughly and accurately to ensure that the building's systems are functioning correctly. Please take a few minutes to read the instructions and help ensure the form is filled out properly.
-</thinking>
-
 # Building Systems Checklist - Help Guide
 ## Purpose
 The Building Systems Checklist is a form used to inspect and report on the status of various building systems, including security, safety, and external systems. This form helps ensure that the building's systems are functioning correctly and that any issues or maintenance needs are identified.

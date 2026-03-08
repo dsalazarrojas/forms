@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture information related to the release of liability for a submitter, typically an individual applying for a service or program. The form's purpose is to gather relevant details about the submitter, including demographic information and test scores. This form will help streamline the process of obtaining release of liability for individuals.
-
-Before proceeding, please ensure that you are familiar with the services or programs you are applying for. This form may be used in conjunction with other relevant forms or applications.
-
-It's worth noting that some fields may be redundant or duplicate information, please be accurate and concise in your responses.
-</thinking>
-
 # release_of_liability_template - Help Guide
 ## Purpose
 The "release_of_liability_template" form is used to gather essential information from submitters applying for services or programs that require a release of liability. This form helps streamline the process by collecting demographic data and relevant details.

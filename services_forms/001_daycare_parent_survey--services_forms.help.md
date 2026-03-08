@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Parent Survey - Help Guide
 ## Purpose
 This form is designed to collect information from parents or caregivers about their child's experiences with our daycare service. The survey aims to gather data on their satisfaction with our services, identify areas for improvement, and help us better understand their needs and preferences.

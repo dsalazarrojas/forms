@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to help customers with their end-of-life planning, specifically providing a way for customers to input information about a deceased individual. This form will likely be used by customers who have lost a family member or loved one and need to input their information. To prevent duplicate forms from being submitted, we should check if a form with the same name already exists in the database before allowing customers to submit new information. This form should only be filled out by authorized personnel, and it's essential to review the submitted data carefully before processing it.</thinking>
-
 # end_of_life_planning_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a deceased individual, including their name, relationship status, and date of birth. This information is used to facilitate end-of-life planning and ensure that the necessary steps are taken to respect the wishes of the deceased and their loved ones.

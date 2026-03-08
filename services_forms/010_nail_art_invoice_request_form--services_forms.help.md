@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from a customer for a nail art invoice request. It will be used for internal purposes only. This guide will explain each field in the form in order to prevent misinterpretation and non-duplication of efforts.
-</thinking>
-
 # Nail Art Invoice Request Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from customers for creating a nail art invoice. Please fill it out carefully and thoroughly to ensure accurate and efficient processing.

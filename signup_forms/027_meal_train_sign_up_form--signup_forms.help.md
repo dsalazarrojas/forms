@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather user information and meal planning preferences for meal train services. It should be completed in a way that is clear and accurate to facilitate meal planning and communication with users.
-</thinking>
-
 # Meal Train Sign Up Form - Help Guide
 ## Purpose
 The purpose of this form is to gather user information and meal planning preferences for meal train services. This information will be used to provide personalized meal planning and communication with users.

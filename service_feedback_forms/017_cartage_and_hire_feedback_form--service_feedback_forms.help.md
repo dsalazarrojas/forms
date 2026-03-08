@@ -1,6 +1,3 @@
-<thinking> 
-The form "Cartage And Hire Feedback Form" is designed to gather feedback from customers about their experience with our cartage and hire services. This form helps us to identify areas where we excel and where we may need to improve, allowing us to make informed changes to enhance our services. We kindly request that customers only complete this form once for each service experience. If you have already completed this form for the same service, please do not attempt to complete it again.</thinking>
-
 # Cartage And Hire Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our cartage and hire services. Your input will help us identify areas where we excel and where we may need to improve, allowing us to make informed changes to enhance our services.

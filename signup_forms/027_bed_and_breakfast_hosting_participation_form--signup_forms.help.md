@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from hosts who wish to participate in a bed and breakfast hosting program. It's essential to ensure the accuracy of the data entered, as it will be used to create a listing for guests to book stays. To avoid duplicates, please check if you've already submitted this form before. If you're unsure about any of the fields or have questions, contact us.
-</thinking>
-
 # Bed And Breakfast Hosting Participation Form - Help Guide
 ## Purpose
 This form helps us gather essential information about your bed and breakfast property, including its name, address, and details about your hosting participation. Please fill out the form accurately and thoroughly, as the information will be used to create a listing for guests to book stays.

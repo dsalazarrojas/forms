@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information about fans, which includes their data, details, and other relevant information. The fields are organized into multiple pages to facilitate easy navigation and completion. This form should only be used for its intended purpose and not for any other unrelated data collection.
-</thinking>
-
 # fan_data_information_collection_form - Help Guide
 ## Purpose
 This form is designed to collect information about fans, including their data, details, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to document the commissioning of equipment for the field, which likely involves gathering information about the output of the equipment and the date it was commissioned. This form may be used by field technicians, engineers, or other personnel involved in the commissioning process to ensure that all necessary information is collected and recorded accurately.
-</thinking>
-
 # Field Commissioning Report Form - Help Guide
 
 ## Purpose

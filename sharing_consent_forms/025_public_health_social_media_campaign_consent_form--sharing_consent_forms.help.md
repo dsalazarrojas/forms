@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Health Social Media Campaign Consent Form - Help Guide
 ## Purpose
 This form is used to obtain public health social media campaign consent from individuals. It helps to understand the demographics and contact information of participants, and to gauge their willingness to share their data on social media.

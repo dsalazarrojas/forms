@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a straightforward authorization form for third-party entities. Upon reviewing the YAML fields, I noticed that the form is divided into two pages, each with a mix of input fields for collecting information about a third party. I see a few fields that seem to be related to the third party's contact information, such as "Name", "Email", "Phone", and "Account Number", while others appear to be more about the authorization process, like "Authorization Type" and "Date". There's also a field for a "Note", which could be used for any additional comments or context. I'm assuming that this form is used internally within a business or organization for authorization purposes, but I'll base my explanation on the fields provided.
-
-</thinking>
-
 # Third Party Authorization Form - Help Guide
 ## Purpose
 This form is used to request authorization from a third-party entity to perform specific actions or access certain resources on their behalf.

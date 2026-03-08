@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their service requests. It is likely used by a support team to manage and track service requests effectively. This form is a standard form with various fields for different types of information. The fields should be filled out accurately and completely to ensure that the support team can respond and address the service request appropriately.
-</thinking>
-
 # Service Request Form - Help Guide
 
 ## Purpose

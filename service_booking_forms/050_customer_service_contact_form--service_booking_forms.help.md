@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for customers to contact the service team. The service team will use the information provided to follow up with the customer and address their inquiry. Please ensure that the information provided is accurate and complete. This form is designed to be filled out once by the customer. If the customer wants to provide a follow-up question, they can simply submit another instance of this form.
-
-The fields in this form are designed to be as minimal as necessary. The customer can choose to provide as much information as they deem necessary to address their question or issue.
-</thinking>
-
 # Customer Service Contact Form - Help Guide
 
 ## Purpose

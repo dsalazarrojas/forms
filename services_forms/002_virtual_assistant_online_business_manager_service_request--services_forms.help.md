@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential clients or customers who are interested in receiving virtual assistant services from the online business manager service. The form asks for general information such as contact details, service needed, and preferred communication method, as well as specific details like meeting location, date, and time. The form also has options for follow-up schedules and additional notes. The main goal of this form is to help the online business manager service understand the client's requirements and preferences in order to provide tailored support.
-
-The form should prevent duplication of effort and ensure that the service manager knows exactly what the client needs and when.
-
-</thinking>
-
 # Virtual Assistant Online Business Manager Service Request - Help Guide
 ## Purpose
 This form is designed to collect information from potential clients or customers who are interested in receiving virtual assistant services from the online business manager service.

@@ -1,10 +1,3 @@
-<thinking>
-  The visa-application-form is used to gather information for a visa application. It includes fields for the applicant's nationality, date of birth, passport number, passport expiry date, purpose of trip, address, contact number, email, and emergency contact. This form is required for visa applications.
-  To ensure that the user has a good understanding of the form's purpose, the following fields have been marked as required for the form to be submitted.
-  - nationality_form, date_of_birth_form, passport_number_form, passport_expirey_date_form, purpose_of_trip_form, contact_number_form 
-  The user should review these fields carefully before submitting the form to avoid errors.
-</thinking>
-
 # visa-application-form - Help Guide
 ## Purpose
 The visa-application-form is used to gather information for a visa application. It includes fields for the applicant's nationality, date of birth, passport number, passport expiry date, purpose of trip, address, contact number, email, and emergency contact.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multi Email Registration Form - Help Guide
 ## Purpose
 This form is designed to collect multiple email addresses from users for registration purposes. It is intended for users to input their email addresses and provide additional information such as their name and comments.

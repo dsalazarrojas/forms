@@ -1,9 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information from parents or guardians about their children who are interested in attending the summer camp. This form is not intended for children to fill out themselves, but rather for the adults who are responsible for them to provide necessary details.
-This form is used to collect demographic and contact information, as well as any relevant medical history and authorization for the camp staff to be aware of. The form is meant to be completed by one parent or guardian per child.
-The form is split into several sections, each focusing on a different aspect of the child's information.
-</thinking>
-
 # Kids Summer Camp Registration Form - Help Guide
 ## Purpose
 The Kids Summer Camp Registration Form is a document used to collect information from parents or guardians about their children who are interested in attending the summer camp. This form helps the camp staff gather the necessary details to ensure a safe and enjoyable experience for all campers.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather information from clients about their business needs and preferences. This includes details about their organization, contact information, and expectations from working with the service provider. The form is intended to be completed by the client or a representative of the organization. It is not meant to be a comprehensive assessment of the client's business, but rather a starting point for further discussions and consultations.
 
 </thinking>

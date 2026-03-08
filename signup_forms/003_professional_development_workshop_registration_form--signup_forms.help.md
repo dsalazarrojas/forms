@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Form Design Considerations:**
 
 To ensure that all workshop attendees can register and provide necessary information, each field should be clear, concise, and relevant. It's also crucial that each field's label and type are consistent with the form's overall structure and purpose. 

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to be used by users who want to unsubscribe from a mailing list. The purpose of this form is to gather information to confirm the user's identity and reason for unsubscribing. The form will ask for the user's email address, confirmation of their email address, a brief description of their reason for unsubscribing, and an option to select the reason for unsubscribing. The form also includes a field for users to specify an additional reason if their selected reason is "Other". Finally, the form will ask for confirmation of the user's intention to unsubscribe, and options to select the type of account removal, if applicable.
-</thinking>
-
 # Unsubscribe Form - Help Guide
 ## Purpose
 This form is used to process a user's request to unsubscribe from a mailing list. Please fill out the form with your details and preferences to help us understand why you want to unsubscribe.

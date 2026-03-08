@@ -2,10 +2,6 @@
 ## Purpose
 The International Shipping Form is a tool used to collect information about the shipper for international shipping purposes. This form is used to identify and verify the shipper's details, certifications, and company status.
 
-<thinking>
-This form is intended to be used for international shipping purposes only. Please ensure that you are using it for this specific purpose and not for any other reason. This form will ask for information that is relevant to international shipping, such as contact person, phone number, and email. Please make sure to complete all required fields to ensure accurate and secure shipping information.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

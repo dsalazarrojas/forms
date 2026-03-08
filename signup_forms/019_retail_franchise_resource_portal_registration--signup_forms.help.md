@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from retail franchisees who wish to be listed in the Retail Franchise Resource Portal. This form is designed to gather details about the franchisees, including their store locations, contact information, and affiliation with franchisors. The form is intended to be a straightforward and efficient way for franchisees to provide their information, which will be used to create a comprehensive directory of retail franchises.
-
-The form is not designed to be a duplicate or copy of any existing form, but rather a original adaptation created using public survey topic metadata as inspiration. It is released under a CC BY 4.0 license, which allows for free use, modification, and even resale of the form, as long as credit is given to the original creator.
-
-</thinking>
-
 # Retail Franchise Resource Portal Registration - Help Guide
 ## Purpose
 The Retail Franchise Resource Portal Registration form is designed to collect information from retail franchisees to be listed in the Retail Franchise Resource Portal. This form is intended to create a comprehensive directory of retail franchises.

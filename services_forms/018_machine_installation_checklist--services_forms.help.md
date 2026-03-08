@@ -1,12 +1,3 @@
-<thinking>
-# This form is designed to be used by technicians or operators to record the status of a machine installation.
-# It is a checklist-style form that helps ensure all necessary steps are taken during the installation process.
-# The form is intended for use by technicians or operators in a specific work environment.
-# The form is meant to be used to gather information about the machine's installation and testing.
-# The form's purpose is to help identify any potential issues or problems with the machine's installation.
-# Please note that this form is not intended for public access or general use.
-</thinking>
-
 # Machine Installation Checklist - Help Guide
 ## Purpose
 This form is used to record the status of a machine installation, including the testing and inspection of electrical and safety connections, and any other relevant notes and comments.

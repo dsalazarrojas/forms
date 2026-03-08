@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Funeral Preparation Form - Help Guide
 ## Purpose
 The Funeral Preparation Form is a tool used to gather essential information from the bereaved family to prepare for a funeral service. This form helps the service provider to understand the family's needs and preferences, ensuring a respectful and personalized service.

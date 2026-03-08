@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for submitting requests for services. It is meant for internal use within the organization, and it is expected that the user will be a member of the organization. The form should not be used to submit requests that have already been submitted or are being processed. Please ensure that you have read this guide before completing the form.
-</thinking>
-
 # it_service_request_form - Help Guide
 ## Purpose
 The it_service_request_form is used for submitting requests for services within the organization. It helps the service team to understand the requirements and prioritize them correctly.

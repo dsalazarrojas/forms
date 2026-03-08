@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # short_term_care_shift_report - Help Guide
 ## Purpose
 The short_term_care_shift_report form is used to document the details of a shift report, including shift start and end times, patient information, medications administered, and other relevant details.

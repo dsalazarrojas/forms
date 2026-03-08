@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Vehicle Registration Form, we need to understand the form's purpose, which is to collect information about a vehicle for registration purposes. This form is likely used in a context where vehicles need to be registered for various reasons such as insurance, licensing, or maintenance. 
-
-To confirm, we need to check if this form will be used for multiple types of vehicles, and if so, what types are supported. Let's assume it will support multiple types of vehicles.
-
-We should also confirm that this form is not intended for duplicate registrations or updates to existing registrations.
-
-</thinking>
-
 # Vehicle Registration Form - Help Guide
 ## Purpose
 The Vehicle Registration Form is used to collect information about vehicles for registration purposes. This form is designed to collect data required for insurance, licensing, or maintenance purposes.

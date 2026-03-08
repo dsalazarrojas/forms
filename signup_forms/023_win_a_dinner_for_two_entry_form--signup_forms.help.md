@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for the purpose of running a dinner contest. It's meant to be used for internal purposes, such as determining the winner of the contest. The form does not collect any personal identifiable information (PII) but rather collects details about the winner and the user themselves. The form is designed to be simple and straightforward, with most fields optional.
-</thinking>
-
 # Win A Dinner For Two Entry Form - Help Guide
 ## Purpose
 The Win A Dinner For Two Entry Form is a simple form designed to collect information from users for the purpose of running a dinner contest. This form helps us determine the winner of the contest and provides additional details about the winner and the user.

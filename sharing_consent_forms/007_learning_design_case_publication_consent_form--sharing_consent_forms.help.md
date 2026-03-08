@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Design Case Publication Consent Form - Help Guide
 
 ## Purpose

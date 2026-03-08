@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for the organization to gather information from clients regarding their service requests. It helps streamline internal processes and ensures that the right information is captured to provide optimal service to the clients. Before completing this form, please ensure that you have not submitted a similar request in the past. If you're unsure, please check with your internal team for duplicates.
-</thinking>
-
 # Request A Service Recommendation - Help Guide
 ## Purpose
 The Request A Service Recommendation form is a tool used to gather information from clients regarding their service requests. It helps internal teams provide efficient and personalized services to clients.

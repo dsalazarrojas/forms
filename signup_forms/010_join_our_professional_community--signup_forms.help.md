@@ -1,38 +1,3 @@
-<thinking>...
-
-This help guide is designed to assist users in navigating the "Join Our Professional Community" form. This form is intended to gather information about prospective members of the community, including their basic contact information and preferences for membership. 
-
-Upon submitting the form, users will be asked a range of questions, including but not limited to:
-
-* First Name
-* Last Name
-* Email Address
-* Phone Number
-* Job Title
-* Role (Administrator, Member, or Guest)
-* Join Date
-* Join Time
-* Agree to Terms and Conditions
-* Terms and Conditions (a note field)
-* Agree to Privacy Policy
-* Privacy Policy (a note field)
-* Agree to Our Community Code of Conduct
-* Code of Conduct (a note field)
-* How much time do you plan to commit to the community?
-* Expected Commitment Frequency
-* What do you hope to gain from joining the community?
-* Why do you want to join the community?
-* How did you hear about us?
-* Any other comments?
-* Join Date and Time
-* Agree to Receive Emails
-* Agree to Receive Updates
-* Agree to Receive Notifications
-
-This guide is intended to be a comprehensive resource for users who may be unsure about any of the fields or what is expected of them. 
-
-</thinking>
-
 # Join Our Professional Community - Help Guide
 ## Purpose
 The "Join Our Professional Community" form is designed to help us understand more about you and tailor the community experience to best suit your needs. By filling out this form, you will be giving us valuable information about yourself which will allow us to make informed decisions about your membership. 

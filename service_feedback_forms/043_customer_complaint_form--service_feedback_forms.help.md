@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from customers on their experiences with a service provider. The primary purpose of this form is to help the service provider understand what went wrong and what they can improve on to provide better services in the future. This form is not intended for immediate action, but rather as a means of collecting data that can be used to identify patterns and make adjustments to improve overall customer satisfaction. It is meant for customers who have had a complaint or issue with a service provider.
-
-Before submitting this form, please ensure that you haven't already submitted a complaint on this issue. Duplicate submissions can lead to confusion and may not be processed.
-
-</thinking>
-
 # Customer Complaint Form - Help Guide
 ## Purpose
 This form is used to provide feedback to service providers on areas where they can improve. It helps them understand what went wrong and where they can make changes to enhance customer satisfaction.

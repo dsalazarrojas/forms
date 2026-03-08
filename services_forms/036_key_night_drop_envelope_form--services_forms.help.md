@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients about their vehicle and the services they require. This form will guide users through the process of submitting a request for key night drop services. The key night drop services include vehicle inspections, tire rotations, and oil changes. The client is required to provide their vehicle type, service type, and consent to the services they need. Additionally, the client can provide any damage report, vehicle license plate, and additional comments if necessary. This form will help the service staff to efficiently process the client's request and provide the necessary services.
-This form does not need to be completed if the client is dropping their vehicle in person. Please ensure that the services provided are relevant to the client's vehicle and service type selected.
-Please note that this form is not intended for in-person drop-offs or non-service-related requests.
-</thinking>
-
 # Key Night Drop Envelope Form - Help Guide
 ## Purpose
 The Key Night Drop Envelope Form is a tool for clients to request key night drop services for their vehicle. This form is designed to collect information about the client's vehicle and the services they need.

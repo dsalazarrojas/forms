@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals interested in joining an anxiety support group. It aims to understand the participants' experiences with anxiety, their preferences for group settings and facilitators, and their goals for attending the group. The form should be completed by those who have not participated in a support group before or those who are seeking additional support. The questions cover various aspects of anxiety, such as severity, duration, and concerns, to ensure that the support group can tailor its approach to cater to the needs of its members.
-</thinking>
-
 # Anxiety Support Group Registration - Help Guide
 ## Purpose
 This form is designed to help us understand your experiences with anxiety and what you hope to achieve through joining our support group. The information collected will assist us in creating a safe and supportive environment for all members.

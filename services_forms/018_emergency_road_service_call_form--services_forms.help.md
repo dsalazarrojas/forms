@@ -1,9 +1,3 @@
-<thinking>
-This form is used for emergency road service calls, likely for reporting incidents on public roads such as road closures, accidents, or maintenance issues.
-The fields in this form are designed to collect basic information regarding the incident, the services required, tools assigned and output files generated.
-Please ensure that users understand that this form is intended for reporting emergency services and not for other purposes.
-</thinking>
-
 # Emergency Road Service Call Form - Help Guide
 
 ## Purpose

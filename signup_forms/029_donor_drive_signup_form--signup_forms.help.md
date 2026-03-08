@@ -1,8 +1,3 @@
-<thinking>
-Donor Drive Signup Form is designed to collect information from users interested in supporting the organization's campaigns. This form is only for those interested in signing up as a donor. 
-The form is not meant for non-donor individuals or those who have already signed up for a specific campaign. 
-</thinking>
-
 # Donor Drive Signup Form - Help Guide
 ## Purpose
 The Donor Drive Signup Form is a crucial tool for our organization to gather information from potential donors. Completing this form will help us understand your interest in supporting our campaigns and tailor our outreach efforts accordingly.

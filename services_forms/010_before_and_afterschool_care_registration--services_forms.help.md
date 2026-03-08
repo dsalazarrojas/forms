@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from a student's parent or guardian to register the student for before and after school care services. The form includes various sections to capture the student's personal details, parental information, emergency contacts, physician information, health history, and program enrollment preferences. The purpose of this form is to gather necessary information to provide the required care services. This form is a one-time submission and should only be filled out once for each student. Please ensure that you have all necessary information and authorization to complete this form on behalf of the student.</thinking>
-
 # Before And Afterschool Care Registration - Help Guide
 ## Purpose
 The Before And Afterschool Care Registration form is used to register a student for before and after school care services. It is a necessary step to ensure the student can receive the required care. Please fill out this form with accurate and up-to-date information.

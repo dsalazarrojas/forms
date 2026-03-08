@@ -1,9 +1,3 @@
-<thinking>
-Radiology Requisition Form - Help Guide
-## Purpose
-The Radiology Requisition Form is used to order various radiological procedures for a patient, such as X-rays, MRI, CT scans, ultrasound, PET scans, and mammograms. This form is designed to ensure that all necessary information is captured for each procedure, including whether the procedure is ordered, patient name and ID, and other relevant details.
-</thinking>
-
 # Radiology Requisition Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information for taxi-related services, such as reporting issues or making service requests. This form is meant to be a general-purpose tool for taxi users to interact with our services, and its design is meant to be intuitive and straightforward. Before proceeding, please ensure that you have a legitimate reason for submitting a service request or reporting an issue, as duplicate requests will not be processed.</thinking>
-
 # Taxi Help Form - Help Guide
 ## Purpose
 The Taxi Help Form is designed to assist you in submitting service requests or reporting issues related to our taxi services. This form is intended to be a quick and easy way to interact with our team, ensuring we can provide you with the best possible experience.
